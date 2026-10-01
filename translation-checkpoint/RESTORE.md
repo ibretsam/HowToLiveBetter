@@ -1,5 +1,27 @@
 # Vietnamese translation checkpoint
 
+## Current cloud continuation
+
+The section below records the original captured checkpoint. Work has since
+continued directly with the session's existing models and native agents, without
+Workers AI credentials, Google Translate, or new external API calls.
+`vi-reviewed-cache/` contains the current results, each with ordered `item_ids`.
+The old `vi-llm-cache/` remains unchanged for provenance and comparison.
+
+Use `python3 tools/assemble-vi.py --partial` to export only complete documents,
+or omit `--partial` when every task is available. Then run
+`python3 tools/check-vi.py --write-report`; this verifies the current outputs
+and updates `current-qa.json` and `vi/translation-manifest.json`. It must report
+all 137 tasks, 4,103 items, 43 output documents and 649 book entries before the
+translation coverage is complete. `tools/check-vi-checkpoint.py` retains the
+historical cache audit; its failures do not describe the repaired current cache.
+Do not treat coverage or structural checks as professional translation approval.
+
+GitHub rejected the cloud identity's push with HTTP 403. No alternate identity,
+credential, or repository is being used. Changes are committed locally on the
+dedicated checkpoint branch; the final portable deliverable will include the
+translation and resumable repository assets for an authorized writer to push.
+
 This is an unfinished translation checkpoint for the personal fork `ibretsam/HowToLiveBetter`. Keep translation work in the fork; the upstream project explicitly does not accept translated content.
 
 Source: https://github.com/eternity4719/HowToLiveBetter, commit `6f6d969abe19fd4aa8b30979d634f2a187be0a55` (2026-10-01).

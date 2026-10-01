@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Audit the preserved Vietnamese checkpoint without network calls or cache changes.
+"""Check all current Vietnamese translations against pinned public source.
 
-Exit 1 means incomplete/invalid, not a certified translation. --write-report
-records reproducible findings and a coverage manifest. Numeric differences and
-remaining Han characters are review flags, not proof of mistranslation.
+Default: complete translation required, exit 1 for any failure. --partial audits
+available results without treating incomplete coverage as a failure. It never
+calls a service or certifies clinical/legal correctness or professional editing.
 """
 import argparse
 from collections import Counter
@@ -14,120 +14,145 @@ from pathlib import Path
 import re
 import subprocess
 import sys
+import urllib.parse
 
 ROOT = Path(__file__).resolve().parents[1]
-CHECKPOINT = ROOT / 'translation-checkpoint'
-SOURCE_COMMIT = '6f6d969abe19fd4aa8b30979d634f2a187be0a55'
+CP = ROOT / 'translation-checkpoint'
+SOURCE = '6f6d969abe19fd4aa8b30979d634f2a187be0a55'
+REVIEWED = CP / 'vi-reviewed-cache'
 TOKEN = re.compile(r'⟦P\d+⟧')
 HAN = re.compile(r'[\u3400-\u9fff]')
+sys.dont_write_bytecode = True
+spec = importlib.util.spec_from_file_location('assembler', ROOT / 'tools/assemble-vi.py')
+assembler = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(assembler)
+base = assembler.base
 
 
-def sha(data):
+def digest(data):
     return hashlib.sha256(data).hexdigest()
 
 
 def numbers(text):
-    # Only compare literal Arabic numbers. Chinese number words need human QA.
-    text = re.sub(r'(?<=\d),(?=\d{3}(?:\D|$))', '', text)
     return Counter(re.findall(r'\d+(?:\.\d+)?', TOKEN.sub('', text)))
 
 
-def audit():
-    sys.dont_write_bytecode = True
-    spec = importlib.util.spec_from_file_location('translate_vi', ROOT / 'tools/translate-vi.py')
-    module = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(module)  # Import only; never invokes Google runner.
-    tasks = json.loads((CHECKPOINT / 'vi-tasks.json').read_text())
-    findings, missing, cached = [], [], []
-    translated_items = 0
+def heading_slug(text):
+    text = re.sub(r'<[^>]*>', '', text).lower().strip()
+    text = re.sub(r'!?\[([^\]]+)\]\([^)]*\)', r'\1', text)
+    return ''.join(c for c in text if c.isalnum() or c in '-_ ').replace(' ', '-')
+
+
+def markdown_headings(text):
+    code = False
+    counts, anchors = Counter(), set()
+    for line in text.splitlines():
+        if line.startswith('```'):
+            code = not code
+        if code:
+            continue
+        match = re.match(r'^#{1,6}\s+(.*)$', line)
+        if match:
+            slug = heading_slug(match[1])
+            n = counts[slug]
+            counts[slug] += 1
+            anchors.add(slug + (f'-{n}' if n else ''))
+    anchors.update(re.findall(r'<a\s+id="([^"]+)"', text))
+    return anchors
+
+
+def audit(partial=False):
+    tasks = json.loads((CP / 'vi-tasks.json').read_text())
+    failures, review_flags, complete = [], [], []
+    items = 0
     for n, task in enumerate(tasks):
-        result_path = CHECKPOINT / 'vi-llm-cache' / f'{n}.json'
-        if not result_path.exists():
-            missing.append(n)
+        path = REVIEWED / f'{n}.json'
+        if not path.exists():
             continue
-        cached.append(n)
-        values = json.loads(result_path.read_text()).get('translations', [])
-        translated_items += len(values)
+        d = json.loads(path.read_text())
+        values = d.get('translations', [])
+        if d.get('item_ids') != [i['id'] for i in task['items']]:
+            failures.append({'task':n,'issue':'ordered_ids'})
         if len(values) != len(task['items']):
-            findings.append({'task': n, 'issue': 'item_count', 'expected': len(task['items']), 'actual': len(values)})
+            failures.append({'task':n,'issue':'item_count'})
         for k, (item, value) in enumerate(zip(task['items'], values)):
-            def flag(issue, **extra):
-                findings.append({'task': n, 'item': k, 'id': item['id'], 'issue': issue, **extra})
             if not isinstance(value, str) or not value.strip():
-                flag('empty_or_invalid_translation')
+                failures.append({'task':n,'item':k,'issue':'empty'})
                 continue
-            if sha(item['original'].encode()) != item['id']:
-                flag('source_item_id')
-            if Counter(TOKEN.findall(item['text'])) != Counter(TOKEN.findall(value)):
-                flag('protected_tokens')
-            if numbers(item['text']) != numbers(value):
-                flag('numeric_review', source=dict(numbers(item['text'])), translation=dict(numbers(value)))
+            if Counter(TOKEN.findall(value)) != Counter(TOKEN.findall(item['text'])):
+                failures.append({'task':n,'item':k,'issue':'protected_tokens'})
+            if numbers(value) != numbers(item['text']):
+                failures.append({'task':n,'item':k,'issue':'numbers','missing':dict(numbers(item['text'])-numbers(value)),'extra':dict(numbers(value)-numbers(item['text']))})
+            # Source paths/titles retained for attribution are explicit review flags.
             if HAN.search(value):
-                flag('remaining_han_review')
-    snapshot = json.loads((CHECKPOINT / 'snapshot-manifest.json').read_text())
-    snapshot_failures = []
-    for entry in snapshot['files']:
-        name = entry['path']
-        # Notes may legitimately change after restoration; verify archived caches.
-        if not name.startswith('.git/'):
-            continue
-        path = CHECKPOINT / name.removeprefix('.git/')
-        if not path.exists() or sha(path.read_bytes()) != entry['sha256']:
-            snapshot_failures.append(name)
-    files = []
-    for source, target in module.FILES.items():
-        ns = [n for n, task in enumerate(tasks) if task['source'] == source]
-        original, lines, queries = module.prepare(source)
-        task_items = {item['id']: item['original'] for n in ns for item in tasks[n]['items']}
-        source_data = (ROOT / source).read_bytes()
-        baseline = subprocess.check_output(['git', 'show', f'{SOURCE_COMMIT}:{source}'], cwd=ROOT)
-        output = ROOT / target
-        output_checks = None
-        if output.exists():
-            translated = output.read_text()
-            output_checks = {
-                'numbered_headings_match': re.findall(r'^### (\d+)\.', original, re.M) == re.findall(r'^### (\d+)\.', translated, re.M),
-                'evidence_grades_match': re.findall(r'^- 证据等级：(.*)$', original, re.M) == re.findall(r'^- Mức độ bằng chứng: (.*)$', translated, re.M),
-                'html_comments_match': re.findall(r'<!--.*?-->', original, re.S) == re.findall(r'<!--.*?-->', translated, re.S),
-                'citations_match': [module.rewrite_links(x, source) for x in re.findall(r'^- 来源：(.*)$', original, re.M)] == re.findall(r'^- Nguồn: (.*)$', translated, re.M),
-                'unresolved_placeholders': len(TOKEN.findall(translated)),
-            }
-        files.append({
-            'source': source, 'target': target, 'source_sha256': sha(source_data),
-            'source_matches_pinned_commit': source_data == baseline,
-            'task_inputs_match_source': all(task_items.get(key) == value for key, value in queries),
-            'tasks': ns, 'missing_tasks': [n for n in ns if n in missing],
-            'tasks_with_review_findings': sorted({f['task'] for f in findings if f['task'] in ns}),
-            'output_exists': output.exists(), 'output_checks': output_checks,
-            'status': 'draft_unreviewed' if output.exists() else 'not_exported',
-        })
-    report = {
-        'status': 'incomplete', 'source_commit': SOURCE_COMMIT,
-        'source_files': len(files), 'total_tasks': len(tasks),
-        'total_items': sum(len(t['items']) for t in tasks),
-        'cached_tasks': cached, 'cached_items': translated_items, 'missing_tasks': missing,
-        'snapshot_cache_hash_failures': snapshot_failures,
-        'finding_counts': dict(Counter(f['issue'] for f in findings)), 'findings': findings,
-        'limitations': ['Cached results are positional arrays without returned item IDs; matching lengths do not prove alignment.',
-                         'Numeric and Han checks are review flags only; they do not establish semantic accuracy.',
-                         'Full coverage, all internal anchors, and semantic review are not complete.'],
-    }
-    return report, {'status': 'incomplete', 'source_repository': 'https://github.com/eternity4719/HowToLiveBetter', 'source_commit': SOURCE_COMMIT, 'files': files}
+                review_flags.append({'task':n,'item':k,'issue':'retained_han','text':value})
+        complete.append(n)
+        items += len(values)
+    missing = sorted(set(range(len(tasks))) - set(complete))
+    if missing and not partial:
+        failures.append({'issue':'missing_tasks','tasks':missing})
+    exported, entries, manifests = 0, 0, []
+    for source, target in base.FILES.items():
+        raw = (ROOT / source).read_bytes()
+        baseline = subprocess.check_output(['git','show',f'{SOURCE}:{source}'],cwd=ROOT)
+        if raw != baseline:
+            failures.append({'source':source,'issue':'source_revision'})
+        ns = [n for n,t in enumerate(tasks) if t['source']==source]
+        original, lines, queries = base.prepare(source)
+        task_inputs = {i['id']:i['original'] for n in ns for i in tasks[n]['items']}
+        if any(task_inputs.get(key)!=value for key,value in queries):
+            failures.append({'source':source,'issue':'task_source_inputs'})
+        path = ROOT / target
+        checked = {}
+        if path.exists():
+            exported += 1
+            text = path.read_text()
+            entries += len(re.findall(r'^### \d+\.',text,re.M))
+            checked['numbered_headings'] = re.findall(r'^### (\d+)\.',original,re.M)==re.findall(r'^### (\d+)\.',text,re.M)
+            checked['evidence_grades'] = re.findall(r'^- 证据等级：(.*)$',original,re.M)==re.findall(r'^- Mức độ bằng chứng: (.*)$',text,re.M)
+            checked['html_comments'] = re.findall(r'<!--.*?-->',original,re.S)==re.findall(r'<!--.*?-->',text,re.S)
+            checked['citations'] = [base.rewrite_links(s,source) for s in re.findall(r'^- 来源：(.*)$',original,re.M)]==re.findall(r'^- Nguồn: (.*)$',text,re.M)
+            checked['no_placeholders'] = not TOKEN.search(text)
+            checked['complete_task_coverage'] = all(n in complete for n in ns)
+            # All externally linked destinations remain identical (including image URLs).
+            urls=lambda s:Counter(u.rstrip('.,;:') for u in re.findall(r'https?://[^\s<>"`）)。]+',s))
+            checked['external_urls'] = urls(original)==urls(text)
+            checked['heading_structure'] = [m[0] for m in re.findall(r'^(#{1,6})\s+(.+)$',original,re.M)]==[m[0] for m in re.findall(r'^(#{1,6})\s+(.+)$',text,re.M)]
+            for key, ok in checked.items():
+                if not ok:
+                    failures.append({'target':target,'issue':key})
+            # Paths are checked separately from fragments, which need translated anchors.
+            for match in re.finditer(r'\]\(([^)]+)\)|\b(?:src|href)="([^"]+)"',text):
+                url = match[1] or match[2]
+                if re.match(r'^(?:https?://|mailto:|data:)',url):
+                    continue
+                dest,_,frag = url.partition('#')
+                p = (path.parent / urllib.parse.unquote(dest)).resolve() if dest else path
+                if not p.exists():
+                    if not partial:
+                        failures.append({'target':target,'issue':'relative_path','url':url})
+                elif frag and p.suffix=='.md':
+                    if urllib.parse.unquote(frag) not in markdown_headings(p.read_text()):
+                        failures.append({'target':target,'issue':'internal_anchor','url':url})
+        elif not partial:
+            failures.append({'target':target,'issue':'missing_output'})
+        manifests.append({'source':source,'target':target,'source_sha256':digest(raw),'translation_sha256':digest(path.read_bytes()) if path.exists() else None,'tasks':ns,'missing_tasks':[n for n in ns if n not in complete],'checks':checked,'status':'translated_ai_draft' if path.exists() and all(n in complete for n in ns) else 'incomplete'})
+    report={'status':'passed' if not failures and not missing else 'incomplete' if missing else 'failed','source_commit':SOURCE,'source_documents':len(base.FILES),'total_tasks':len(tasks),'total_items':sum(len(t['items']) for t in tasks),'reviewed_tasks':len(complete),'reviewed_items':items,'missing_tasks':missing,'exported_documents':exported,'book_entries':entries,'failure_counts':dict(Counter(x['issue'] for x in failures)),'failures':failures,'review_flags':review_flags,'limitations':['Automated invariants do not certify every translated sentence or medical/legal advice.','The source policies and evidence are translated at the pinned revision, not independently updated.']}
+    manifest={'status':report['status'],'source_repository':'https://github.com/eternity4719/HowToLiveBetter','source_commit':SOURCE,'license':'CC BY 4.0','method':'direct model translation with item IDs; preserved Workers AI cache retained for comparison','files':manifests}
+    return report,manifest
 
 
 def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--write-report', action='store_true')
-    args = parser.parse_args()
-    report, manifest = audit()
-    if args.write_report:
-        (CHECKPOINT / 'cloud-qa.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
-        (ROOT / 'vi/translation-manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
-    print(json.dumps({k: report[k] for k in ['status', 'source_files', 'total_tasks', 'total_items', 'cached_items', 'finding_counts', 'snapshot_cache_hash_failures']}, indent=2))
-    print(f"Cached tasks: {len(report['cached_tasks'])}; missing: {len(report['missing_tasks'])}")
-    print(f"Exported source documents: {sum(f['output_exists'] for f in manifest['files'])}")
-    raise SystemExit(1 if report['missing_tasks'] or report['findings'] or report['snapshot_cache_hash_failures'] else 0)
+    p=argparse.ArgumentParser(description=__doc__)
+    p.add_argument('--partial',action='store_true')
+    p.add_argument('--write-report',action='store_true')
+    a=p.parse_args()
+    report,manifest=audit(a.partial)
+    if a.write_report:
+        (CP/'current-qa.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+        (ROOT/'vi/translation-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
+    print(json.dumps({k:report[k] for k in ['status','reviewed_tasks','reviewed_items','exported_documents','book_entries','failure_counts']},indent=2))
+    raise SystemExit(1 if report['failures'] else 0)
 
 
-if __name__ == '__main__':
-    main()
+if __name__=='__main__':main()

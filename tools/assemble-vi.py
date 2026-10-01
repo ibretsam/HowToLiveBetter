@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 import re
 import sys
+import urllib.parse
 
 ROOT = Path(__file__).resolve().parents[1]
 CP = ROOT / 'translation-checkpoint'
@@ -16,6 +17,48 @@ sys.dont_write_bytecode = True
 spec = importlib.util.spec_from_file_location('translate_vi', ROOT / 'tools/translate-vi.py')
 base = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(base)
+
+
+def slug(text):
+    text = re.sub(r'<[^>]*>', '', text).lower().strip()
+    text = re.sub(r'!?\[([^\]]+)\]\([^)]*\)', r'\1', text)
+    return ''.join(c for c in text if c.isalnum() or c in '-_ ').replace(' ', '-')
+
+
+def headings(text):
+    counts, result, code = Counter(), [], False
+    for line in text.splitlines():
+        if line.startswith('```'):
+            code = not code
+        if code:
+            continue
+        m = re.match(r'^#{1,6}\s+(.*)$', line)
+        if m:
+            s = slug(m[1]); n = counts[s]; counts[s] += 1
+            result.append(s + (f'-{n}' if n else ''))
+    return result
+
+
+def repair_anchors(written):
+    maps = {}
+    for source, target in base.FILES.items():
+        path = ROOT / target
+        if not path.exists():
+            continue
+        old, new = headings((ROOT/source).read_text()), headings(path.read_text())
+        assert len(old) == len(new), target
+        maps[path.resolve()] = dict(zip(old, new))
+    for target in written:
+        path = ROOT / target
+        def replace(m):
+            url = m[2]
+            if re.match(r'^(?:https?://|mailto:|data:)',url):
+                return m[0]
+            dest, sep, fragment = url.partition('#')
+            resolved = (path.parent / urllib.parse.unquote(dest)).resolve() if dest else path.resolve()
+            mapped = maps.get(resolved,{}).get(urllib.parse.unquote(fragment))
+            return m[1] + dest + sep + mapped + m[3] if sep and mapped else m[0]
+        path.write_text(re.sub(r'(\]\()([^)]+)(\))', replace, path.read_text()))
 
 
 def load_cache():
@@ -65,6 +108,7 @@ def main():
         output.parent.mkdir(parents=True, exist_ok=True)
         output.write_text(base.notice(source) + '\n'.join(translated) + '\n')
         written.append(target)
+    repair_anchors(written)
     print(json.dumps({'reviewed_tasks':len(complete),'reviewed_items':sum(len(tasks[n]['items']) for n in complete),'exported_documents':len(written),'missing_tasks':missing}, indent=2))
 
 

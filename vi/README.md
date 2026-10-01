@@ -13,10 +13,10 @@ Sách nói về cách sống lâu hơn, ít mắc bệnh hơn và cách cứu ng
 Bạn không cần làm tất cả: đây là danh sách các lựa chọn được xếp theo lợi ích so với chi phí, không phải danh sách nhiệm vụ. Chọn được một hai việc đã là có ích; chính tác giả cũng chưa làm được phần lớn những việc trong sách.
 
 [![Tra cứu trực tuyến](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%A3%80%E7%B4%A2-%E7%82%B9%E8%BF%99%E9%87%8C%E6%89%93%E5%BC%80-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
-[![Số mục](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-649%20%E6%9D%A1-18794e?style=flat-square)](#目录)
-[![Phân cấp bằng chứng](https://img.shields.io/badge/%E8%AF%81%E6%8D%AE%E5%88%86%E7%BA%A7-A%20428%20%C2%B7%20B%20171%20%C2%B7%20C%2050-915930?style=flat-square)](#证据分级)
+[![Số mục](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-649%20%E6%9D%A1-18794e?style=flat-square)](#mục-lục)
+[![Phân cấp bằng chứng](https://img.shields.io/badge/%E8%AF%81%E6%8D%AE%E5%88%86%E7%BA%A7-A%20428%20%C2%B7%20B%20171%20%C2%B7%20C%2050-915930?style=flat-square)](#phân-cấp-bằng-chứng)
 [![Tài liệu gốc](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-1531%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](../docs/核实记录/)
-[![Giấy phép](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-565a5f?style=flat-square)](#许可)
+[![Giấy phép](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-565a5f?style=flat-square)](#giấy-phép)
 
 ### [Mở trang tra cứu trực tuyến](https://eternity4719.github.io/HowToLiveBetter/) · [Để AI trả lời theo sách (skill)](../skills/life-decision-guide/README.md)
 
@@ -30,7 +30,7 @@ Skill cho trợ lý AI hỗ trợ Claude Code và Codex. Sau khi cài, bạn có
 </td></tr>
 <tr><td align="right"><b>Tra cứu</b></td><td align="left">
 
-[Mục lục](#目录) · [Bảng thuật ngữ](#读懂数字术语表) · [Nhật ký kiểm chứng](../docs/核实记录/)
+[Mục lục](#mục-lục) · [Bảng thuật ngữ](#hiểu-các-con-số-bảng-thuật-ngữ) · [Nhật ký kiểm chứng](../docs/核实记录/)
 
 </td></tr>
 <tr><td align="right"><b>Bài viết dài</b></td><td align="left">
