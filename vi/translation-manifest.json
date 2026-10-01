@@ -1,0 +1,934 @@
+{
+  "status": "incomplete",
+  "source_repository": "https://github.com/eternity4719/HowToLiveBetter",
+  "source_commit": "6f6d969abe19fd4aa8b30979d634f2a187be0a55",
+  "files": [
+    {
+      "source": "README.md",
+      "target": "vi/README.md",
+      "source_sha256": "076f0e3f352b3ad15b301b3f2ce099cb96e218424f8af7b6bd0e97f5eadb588c",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "missing_tasks": [],
+      "tasks_with_review_findings": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/01-不要早死.md",
+      "target": "vi/book/01.md",
+      "source_sha256": "12416ec4c522ec4c483e22414e0fa75e80069b3aec956296a00cf236ca238366",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "missing_tasks": [],
+      "tasks_with_review_findings": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/02-不要慢慢死.md",
+      "target": "vi/book/02.md",
+      "source_sha256": "ddecbfe25d70e2474b1323499c8c91295ae64b6c6bcc08f0ec215c98a0b5bace",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "missing_tasks": [
+        13
+      ],
+      "tasks_with_review_findings": [
+        11,
+        12,
+        14,
+        15,
+        16
+      ],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/03-不要浪费精力.md",
+      "target": "vi/book/03.md",
+      "source_sha256": "4ee57a3070a8e767e933180805beec5f23d9ba8ecd69f0c7aeb6a802bd12705e",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "missing_tasks": [],
+      "tasks_with_review_findings": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/04-不要浪费时间.md",
+      "target": "vi/book/04.md",
+      "source_sha256": "f5c9ff7caf35ead52af847b42824165538a7d6edcb26db0562eab90de42a74bb",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        21,
+        22
+      ],
+      "missing_tasks": [],
+      "tasks_with_review_findings": [
+        21,
+        22
+      ],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/05-不要浪费钱.md",
+      "target": "vi/book/05.md",
+      "source_sha256": "a5fc9904205bbcbce6f0729166a17f31d918d0b5a101c774c78c078909c3f215",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "missing_tasks": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "tasks_with_review_findings": [
+        23,
+        24,
+        25
+      ],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/06-反面清单.md",
+      "target": "vi/book/06.md",
+      "source_sha256": "59ca1de12af16ebf284dca88590cfda9495828fe7a9541ea21447510c364c042",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "missing_tasks": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/07-没钱的时候怎么活.md",
+      "target": "vi/book/07.md",
+      "source_sha256": "6b9b9525846185e59b2519810c749f2e6d8845d47ab13b1b80f64d3f128e7508",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "missing_tasks": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/08-别把自己搭进去.md",
+      "target": "vi/book/08.md",
+      "source_sha256": "e0da8b41a9b10e736fe0f44ce3d02fb61a15be78d0363e4af257f635e301f9f4",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "missing_tasks": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/09-普通人容易踩的法律红线.md",
+      "target": "vi/book/09.md",
+      "source_sha256": "1d7f53343b9d07a1d60f38c9152ff468fc94e3e3e3d54eaa840c5e52e751a15b",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "missing_tasks": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/10-恋爱和结婚划不划算.md",
+      "target": "vi/book/10.md",
+      "source_sha256": "6c29069f817d0723eb67425023397a7e9ee4d85fb78255f0d1a3639457230371",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "missing_tasks": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/11-程序员和技术人容易踩的红线.md",
+      "target": "vi/book/11.md",
+      "source_sha256": "c8047ee05c9991f7fe06310f5c04c5747999fa172ba424537dadb51427dc5d3a",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        60,
+        61,
+        62
+      ],
+      "missing_tasks": [
+        60,
+        61,
+        62
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/12-创业与做生意.md",
+      "target": "vi/book/12.md",
+      "source_sha256": "9a8baa603ab1d098424154784069d72554b8de1780b74bd15804e0c8035dc35c",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "missing_tasks": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/13-紧急情况.md",
+      "target": "vi/book/13.md",
+      "source_sha256": "7b7d4faa9ac013f66781afbb78d5261786af7534571bd98c03b63884177524c0",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "missing_tasks": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/14-账号与信息安全.md",
+      "target": "vi/book/14.md",
+      "source_sha256": "da82cc3d6b37fa8bdd5ce6ccb1be0b2d0b25ee6f2e31fe1070b3fca2d9164d0b",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        76,
+        77
+      ],
+      "missing_tasks": [
+        76,
+        77
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/15-租房与买房.md",
+      "target": "vi/book/15.md",
+      "source_sha256": "61081850c448856d7a2ba8acb0c6ea7c00318ce7f93b03373bec2db0936f2ad4",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        78
+      ],
+      "missing_tasks": [
+        78
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/16-得了慢性病之后怎么活.md",
+      "target": "vi/book/16.md",
+      "source_sha256": "6d997cf1068c123a58e296eb7d4b74f9ef619d2790049a66eb3a217129ee76d2",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        79,
+        80
+      ],
+      "missing_tasks": [
+        79,
+        80
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/17-家里有老人.md",
+      "target": "vi/book/17.md",
+      "source_sha256": "15936f220d85ac5084e369eb4dfffe5d1a44ddc4f561555ff94fb00811d1a0dc",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        81,
+        82
+      ],
+      "missing_tasks": [
+        81,
+        82
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/18-养孩子划不划算.md",
+      "target": "vi/book/18.md",
+      "source_sha256": "72ae66e46dce8993a4743d9441a59749dec46d24077f6374c0bafd44ba6ed606",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        83
+      ],
+      "missing_tasks": [],
+      "tasks_with_review_findings": [
+        83
+      ],
+      "output_exists": true,
+      "output_checks": {
+        "numbered_headings_match": true,
+        "evidence_grades_match": true,
+        "html_comments_match": true,
+        "citations_match": true,
+        "unresolved_placeholders": 0
+      },
+      "status": "draft_unreviewed"
+    },
+    {
+      "source": "book/19-在职离职和工伤.md",
+      "target": "vi/book/19.md",
+      "source_sha256": "c64c8811a04d073e91eb9857cd5735423471d7e19bcd4289493460d7a9cb77c9",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        84,
+        85,
+        86
+      ],
+      "missing_tasks": [
+        84,
+        85,
+        86
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/20-刚出生的孩子怎么带.md",
+      "target": "vi/book/20.md",
+      "source_sha256": "23c8be17185edcd2c75726fd86fe8cc87298a867d7eaa770cbf84d4227772061",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        87,
+        88
+      ],
+      "missing_tasks": [
+        87,
+        88
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/21-出国旅行与境外安全.md",
+      "target": "vi/book/21.md",
+      "source_sha256": "1eb5647d942c34e194ec1627d0a650155ed608493430a1c011000886917045e2",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        89,
+        90
+      ],
+      "missing_tasks": [
+        89,
+        90
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/22-怎么放松.md",
+      "target": "vi/book/22.md",
+      "source_sha256": "21e2b3f99b19fc1b14d8cd049aa3a63905fa805844e6da9c2eca2fb34c385571",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        91,
+        92
+      ],
+      "missing_tasks": [
+        91,
+        92
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/23-学什么技能划算.md",
+      "target": "vi/book/23.md",
+      "source_sha256": "600b57ee612b77326e396bffc7565f915e73beedac177149322ee44c30871cc8",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "missing_tasks": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/24-看病.md",
+      "target": "vi/book/24.md",
+      "source_sha256": "1ead1a8326606f2412cd567c25df028c929b487d92a029017888567a870e6791",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        97,
+        98
+      ],
+      "missing_tasks": [
+        97,
+        98
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/25-人走了以后要办什么.md",
+      "target": "vi/book/25.md",
+      "source_sha256": "9e1bc9d2e8ad3e3a22bed8cc909b4dc4d1ee0c33d2d85e3d2164534d09712c89",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        99,
+        100
+      ],
+      "missing_tasks": [
+        99,
+        100
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/26-做一个网站或平台.md",
+      "target": "vi/book/26.md",
+      "source_sha256": "0bfc844f96df45a54f2d1211badb68f521b927400f3ffd685582980c73af466a",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        101,
+        102,
+        103
+      ],
+      "missing_tasks": [
+        101,
+        102,
+        103
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/27-怀孕和生产.md",
+      "target": "vi/book/27.md",
+      "source_sha256": "694b9a4e399e279c8e17aced423b5b53e32d16b3cf1004a4c4ea2484cc63e44f",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        104,
+        105
+      ],
+      "missing_tasks": [
+        104,
+        105
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/28-别为了外形把身体搞坏.md",
+      "target": "vi/book/28.md",
+      "source_sha256": "2bbeb681e810aca6dca49bf3d616faccad5fc671506f502395e7c6e31f66dba2",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        106,
+        107
+      ],
+      "missing_tasks": [
+        106,
+        107
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/29-遭遇重大打击之后.md",
+      "target": "vi/book/29.md",
+      "source_sha256": "f79fd6b7b960fe9bcc6f4ba016978a8a3911156a3e28d8d13aa99246787f3cfc",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        108,
+        109,
+        110
+      ],
+      "missing_tasks": [
+        108,
+        109,
+        110
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/30-上学以后的孩子.md",
+      "target": "vi/book/30.md",
+      "source_sha256": "ad9fa087500ea8c13a74173ec7ee2d778af8471476f5204b850d40f714ecc107",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "missing_tasks": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/31-十八岁之后有哪几条路.md",
+      "target": "vi/book/31.md",
+      "source_sha256": "dd46dab95791babdf83d009e4482550b4a0219bb4d43e916b1a7a45f627003e1",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "missing_tasks": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/32-出国留学.md",
+      "target": "vi/book/32.md",
+      "source_sha256": "4a804908370c5a376475da4b47e2d9ed7850ac1d3a14e9201aaaa48edf3c070c",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        120,
+        121
+      ],
+      "missing_tasks": [
+        120,
+        121
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/33-残疾之后怎么活.md",
+      "target": "vi/book/33.md",
+      "source_sha256": "e737cccb256c9ce26adfd0224c742add7010e047087c50dce8682c71f43fb235",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "missing_tasks": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "book/34-家里的常备药别吃出事.md",
+      "target": "vi/book/34.md",
+      "source_sha256": "02e7da180f51c586030349ab5eed988b48bf26f568b439d01f7fb0c22b218cfb",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        126,
+        127
+      ],
+      "missing_tasks": [
+        126,
+        127
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/做平台要办哪些证.md",
+      "target": "vi/docs/giay-phep-cho-nen-tang.md",
+      "source_sha256": "064cca0315f3887c3fffe43f19ad4a36006f702a770ad67ea7d57d7ca9da367a",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        128
+      ],
+      "missing_tasks": [
+        128
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/刚确诊慢性病之后.md",
+      "target": "vi/docs/sau-chan-doan-benh-man-tinh.md",
+      "source_sha256": "274961eadbcf06cc3b109a85c957ecea90876c9e06397926731171d29e4e1e51",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        129
+      ],
+      "missing_tasks": [
+        129
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/孩子出生前后要办的事.md",
+      "target": "vi/docs/viec-can-lam-truoc-va-sau-khi-sinh-con.md",
+      "source_sha256": "0e421bb812e63f86805ece55d229e165c3375507fd1d85de9381036e47e2e110",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        130
+      ],
+      "missing_tasks": [
+        130
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/家庭应急装备清单.md",
+      "target": "vi/docs/danh-sach-do-dung-khan-cap.md",
+      "source_sha256": "5017889be93fe8320837a1d6e54470e8267f18414335d1d4be1dc6e6711dd3f6",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        131
+      ],
+      "missing_tasks": [
+        131
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/生物钟和夜班.md",
+      "target": "vi/docs/dong-ho-sinh-hoc-va-ca-dem.md",
+      "source_sha256": "4d0adfd5671486619db9daae4b242540b739537dc6482b19d2c87895fd708a8d",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        132
+      ],
+      "missing_tasks": [
+        132
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/结婚划不划算.md",
+      "target": "vi/docs/ket-hon-co-dang-khong.md",
+      "source_sha256": "e1feea02ecdc2066c15fd15f8a41ec6db089f3b14e7f3340133341635a1b4699",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        133,
+        134
+      ],
+      "missing_tasks": [
+        133,
+        134
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/被裁了之后先做什么.md",
+      "target": "vi/docs/viec-can-lam-khi-bi-sa-thai.md",
+      "source_sha256": "7ba0ad976a40e30eb7eec5fcee6407ff6dc3814e3ed3d3233caca9d4d0261b26",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        135
+      ],
+      "missing_tasks": [
+        135
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    },
+    {
+      "source": "docs/遇到陌生人出事该不该停.md",
+      "target": "vi/docs/co-nen-dung-lai-giup-nguoi-la.md",
+      "source_sha256": "772563494b568e1c2b5763bb6b123fe8aa5df875fd722e9f0acb6bf42ff54ef6",
+      "source_matches_pinned_commit": true,
+      "task_inputs_match_source": true,
+      "tasks": [
+        136
+      ],
+      "missing_tasks": [
+        136
+      ],
+      "tasks_with_review_findings": [],
+      "output_exists": false,
+      "output_checks": null,
+      "status": "not_exported"
+    }
+  ]
+}

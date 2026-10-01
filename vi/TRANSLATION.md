@@ -6,7 +6,9 @@ Bản dịch dựa trên nội dung ngày **01/10/2026**, tại phiên bản [`6
 
 ## Cách thực hiện và tình trạng rà soát
 
-Nội dung được dịch bằng mô hình AI qua Cloudflare Workers AI. Đây là **bản nháp dịch máy**, đã kiểm tra cấu trúc và sửa một số cách diễn đạt; chưa được biên dịch viên hoặc chuyên gia rà soát toàn bộ. Kiểm tra tự động giúp phát hiện mục bị thiếu, số liệu bị bỏ, mức độ bằng chứng bị đổi và liên kết nội bộ bị hỏng. Những kiểm tra này không chứng minh rằng mọi câu đều được dịch chính xác.
+**Bản dịch chưa hoàn thành.** Checkpoint hiện có 26/137 lô kết quả từ Cloudflare Workers AI, chứa 993/4.103 đoạn; còn thiếu 111 lô. Chỉ chương 18 đã được xuất thành tệp dịch. README tiếng Việt và 41 tài liệu nguồn còn lại chưa được xuất. Đây là **bản nháp dịch máy**, chưa được biên dịch viên hoặc chuyên gia rà soát toàn bộ.
+
+Kiểm tra cloud phát hiện 31 đoạn không khớp ký hiệu bảo vệ, 336 đoạn cần đối chiếu số và 17 đoạn còn chữ Trung trong kết quả dịch. Các nhóm này có thể trùng nhau. Chênh lệch số có thể do cách viết dấu phân cách, nhưng cũng có đoạn lệch thứ tự hoặc bị cắt; không được coi cache là bản dịch đã đạt kiểm tra. Chưa kiểm tra xong toàn bộ liên kết nội bộ và ý nghĩa từng câu. Xem [báo cáo kiểm tra](../translation-checkpoint/cloud-qa.json) và [tình trạng cloud](../translation-checkpoint/CLOUD-STATUS.md).
 
 Các tiêu đề, chi phí, phần “Nói dễ hiểu”, lợi ích và ghi chú được chuyển sang tiếng Việt. Số thứ tự chương và mục, mức độ bằng chứng A/B/C, các số liệu và ký hiệu thống kê được giữ để đối chiếu. Mục “Nguồn” giữ nguyên tên tài liệu, thông tin thư mục và trích dẫn trong bản gốc, kể cả tiếng Trung hoặc tiếng Anh, để người đọc tra cứu chính xác. Các chú thích HTML dùng cho công cụ của bản gốc cũng được giữ nguyên.
 

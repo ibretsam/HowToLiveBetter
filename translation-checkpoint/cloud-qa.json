@@ -1,0 +1,7833 @@
+{
+  "status": "incomplete",
+  "source_commit": "6f6d969abe19fd4aa8b30979d634f2a187be0a55",
+  "source_files": 43,
+  "total_tasks": 137,
+  "total_items": 4103,
+  "cached_tasks": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    83
+  ],
+  "cached_items": 993,
+  "missing_tasks": [
+    13,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136
+  ],
+  "snapshot_cache_hash_failures": [],
+  "finding_counts": {
+    "protected_tokens": 31,
+    "numeric_review": 336,
+    "remaining_han_review": 17
+  },
+  "findings": [
+    {
+      "task": 0,
+      "item": 3,
+      "id": "c61156518f4d8a72a691329fadf7c042e08dceaf19004d53a22a3969b5db0f3e",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 3,
+      "id": "c61156518f4d8a72a691329fadf7c042e08dceaf19004d53a22a3969b5db0f3e",
+      "issue": "numeric_review",
+      "source": {
+        "649": 1
+      },
+      "translation": {
+        "3": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 4,
+      "id": "4d015ce8ceebd8a5897402f6b97aaa170257d9a22debe65e98e040668d6b8e88",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 4,
+      "id": "4d015ce8ceebd8a5897402f6b97aaa170257d9a22debe65e98e040668d6b8e88",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "9": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 5,
+      "id": "f30eb248bfc87076c34b29369a64f2e191004ae5181bdce7861a460e44228660",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "15": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 6,
+      "id": "5fb61221dde2844b0fc57d26e5eae19865f939c4f3b9ca09699ad82c08f8c4b6",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "21": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 7,
+      "id": "fe92c7579d45efe06a4d56480c0b79c1b97e52f837a8493033961fd15fede2ff",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "27": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 8,
+      "id": "7d0161ddacb093dbff0df69cc61d291827328ce6351b72e31b6200560960ec17",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "33": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 9,
+      "id": "9c8a5c815aa4235588b90671fd8ae3777899cd4b2c19b562db07aa1884185e8f",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "16": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 12,
+      "id": "c28188e0479a5dcd5dd38eb6ed3f5a27870229677b705b862baea6bbbee9cf7e",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 14,
+      "id": "af5b185e0c47d12f7bdf134d684ff0b087389e9e33faf1514d17b17e170600c2",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 16,
+      "id": "346461994f07758c699969e759f95ee61ba412c9fdec0094fba5c288158df24e",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 17,
+      "id": "4c439ddfd97e976eb54d6b4dd06e00e513691455d945dc9a926de4e61d87e1af",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 18,
+      "id": "ebdbf8a55f81f3da7d1a3eede2a4c3a913b60ac8238c6b927131ee0470be53fe",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 19,
+      "id": "fbf640720682bce22a9c407e1a138f142dee9ff39eafa97a165f1e66e8459845",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 20,
+      "id": "ab59ee08ff9387e6e75ee811f638079262cdda8c6642fea3b7c1c5b4250a6f80",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 20,
+      "id": "ab59ee08ff9387e6e75ee811f638079262cdda8c6642fea3b7c1c5b4250a6f80",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "649": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 21,
+      "id": "7eb2948687aea3a1bd18cab54115ad23468a58f8637325f6b71f8de3c0a28436",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 22,
+      "id": "35c5319a89bd4d0451b21ba3fbe527497613a1fb398687a7aa018440dad33675",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 26,
+      "id": "227bb95a54e805ef4ab26b8c9e139dbe22a12fdfae1564a7b2e7d9f67750dfdb",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 26,
+      "id": "227bb95a54e805ef4ab26b8c9e139dbe22a12fdfae1564a7b2e7d9f67750dfdb",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 27,
+      "id": "888a135f9078fca3711f23de7c5a52e581dde54c3bac117cce61340aaabf3eca",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 27,
+      "id": "888a135f9078fca3711f23de7c5a52e581dde54c3bac117cce61340aaabf3eca",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 28,
+      "id": "41eb4d1328b1aa8558eed26b29b706c449828a5aad835ce1d6d69793a990cc66",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 28,
+      "id": "41eb4d1328b1aa8558eed26b29b706c449828a5aad835ce1d6d69793a990cc66",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "2": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 29,
+      "id": "88c35f5ae6c6d18b136a80a71a28f6567e65fbc20769e6a5308fe9d65d59d892",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 29,
+      "id": "88c35f5ae6c6d18b136a80a71a28f6567e65fbc20769e6a5308fe9d65d59d892",
+      "issue": "numeric_review",
+      "source": {
+        "2": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 31,
+      "id": "96c64c2cca912b4649f1e98323b135c62e92a194597ab1315d8dbf69b14b6171",
+      "issue": "numeric_review",
+      "source": {
+        "3": 1
+      },
+      "translation": {
+        "4": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 33,
+      "id": "6d020ae84b8c471714a667eec66bab7d04c3fbf44988a76987b8b696917d5718",
+      "issue": "numeric_review",
+      "source": {
+        "4": 1
+      },
+      "translation": {
+        "5": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 35,
+      "id": "048e4e23d267601e1685cf916b98903ea4487bcb5cf9f96eb6e51b33e68de9e7",
+      "issue": "numeric_review",
+      "source": {
+        "5": 1
+      },
+      "translation": {
+        "6": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 37,
+      "id": "46c8a9be89d9499cd35bf6b42259adf165d1587ab4349600857e5c6da563d891",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1
+      },
+      "translation": {
+        "7": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 39,
+      "id": "c0fe976e29af8583c75270e17048edc5383e42ccb54bd8c4fb9e383111732a76",
+      "issue": "numeric_review",
+      "source": {
+        "7": 1
+      },
+      "translation": {
+        "8": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 41,
+      "id": "deeba8c414019f6ea85606a47d0dcf00c78ff52f3bc4d2abad415c71caa329a2",
+      "issue": "numeric_review",
+      "source": {
+        "8": 1
+      },
+      "translation": {
+        "10": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 43,
+      "id": "e78d5b05e9fd18563483e9c9960a603ed964ac7625c4c59618bae0372d3d00ef",
+      "issue": "numeric_review",
+      "source": {
+        "9": 1
+      },
+      "translation": {
+        "11": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 45,
+      "id": "b628db977abc1a376cec86bdeb49cc94c0f024ce6d7bf430be3730393ebc818d",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1
+      },
+      "translation": {
+        "12": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 47,
+      "id": "34851f903bf24577cb207cb9283f3564b76c43fbad9c26bc73e41ea5005f2301",
+      "issue": "numeric_review",
+      "source": {
+        "11": 1
+      },
+      "translation": {
+        "13": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 49,
+      "id": "c3a87f2c4284cd002b602200eb9db22b93dedd4338ca4050f2ebfc33341fb7c8",
+      "issue": "numeric_review",
+      "source": {
+        "12": 1
+      },
+      "translation": {
+        "14": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 51,
+      "id": "a40aaf56517dbc836ebfd1b6c511d2f81186c36ca62727e196256e425eea4d7b",
+      "issue": "numeric_review",
+      "source": {
+        "13": 1
+      },
+      "translation": {
+        "16": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 53,
+      "id": "5787e5e01e002deb3030a17830e2c276584202cc27b5e49b347588cf7c05742c",
+      "issue": "numeric_review",
+      "source": {
+        "14": 1
+      },
+      "translation": {
+        "17": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 55,
+      "id": "0c52ea02b019f7af40133afb32c35a4414552ba9e7e07570a07ba7acebe40ed3",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1
+      },
+      "translation": {
+        "18": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 57,
+      "id": "e4057752d654d0d63c65dc99376942939c8a906bf3525232e8892cc928b09e72",
+      "issue": "numeric_review",
+      "source": {
+        "16": 1
+      },
+      "translation": {
+        "19": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 59,
+      "id": "cd2f4bff5676d1b7b86a432512bd8f5ed6f30816cc06cfab44045aa453251e7d",
+      "issue": "numeric_review",
+      "source": {
+        "17": 1
+      },
+      "translation": {
+        "20": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 61,
+      "id": "412487517a7d6beb120db6d7ead7b78f74f5be5abd6d8cf69e504e91fd1e6ab6",
+      "issue": "numeric_review",
+      "source": {
+        "18": 1
+      },
+      "translation": {
+        "22": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 63,
+      "id": "429b2929361a1ed021da5b37b6779605a30e889c78ef6be1533235536a2e06f2",
+      "issue": "numeric_review",
+      "source": {
+        "19": 1
+      },
+      "translation": {
+        "23": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 65,
+      "id": "28fff4f362ad373985272e7ac710d47096859021860c860d8b9e05f04f5e3252",
+      "issue": "numeric_review",
+      "source": {
+        "20": 1
+      },
+      "translation": {
+        "24": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 67,
+      "id": "2ecb8ba137969ffdd867162ac910c989980746272afbf55885108841891bc195",
+      "issue": "numeric_review",
+      "source": {
+        "21": 1
+      },
+      "translation": {
+        "25": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 69,
+      "id": "a320392426d70a4bd7e5c86301d929374864314562fbf03baadada3f7d4e20e0",
+      "issue": "numeric_review",
+      "source": {
+        "22": 1
+      },
+      "translation": {
+        "26": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 71,
+      "id": "09002541492540f7f7e924d4bf5a02b0b3a94e51733844b80e8436a11ddc8669",
+      "issue": "numeric_review",
+      "source": {
+        "23": 1
+      },
+      "translation": {
+        "28": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 73,
+      "id": "ea297659b19b8094140ec51d08368c0ba34c8719fd8b0b63e16a581688e0db81",
+      "issue": "numeric_review",
+      "source": {
+        "24": 1
+      },
+      "translation": {
+        "29": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 75,
+      "id": "771538f54bb82872a7444fa6386c26d860c852950b447874bd67c36a024ab50f",
+      "issue": "numeric_review",
+      "source": {
+        "25": 1
+      },
+      "translation": {
+        "30": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 77,
+      "id": "b273a69cdc2fd9f1543cd90f1c012a0be4e38f3bc42fbc6e4c64fa4ef2f5d4cd",
+      "issue": "numeric_review",
+      "source": {
+        "26": 1
+      },
+      "translation": {
+        "31": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 78,
+      "id": "8bee5962d756c5a0a4bd73951db0069304b124172d00b97bd38bc9341a2b6245",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "18": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 79,
+      "id": "4c5d3d6055f0825e956c1cf7ec574592e7e0498420a17a1f0ea508e7595ef2df",
+      "issue": "numeric_review",
+      "source": {
+        "27": 1
+      },
+      "translation": {
+        "32": 1,
+        "18": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 81,
+      "id": "a77d1f534f56dc6b1649290f9626cb7608a2c50e96d25ae1d6b3515c15d86530",
+      "issue": "numeric_review",
+      "source": {
+        "28": 1
+      },
+      "translation": {
+        "34": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 83,
+      "id": "5a916b3c913a4898c8cac7e43f32eaba63a8af6a4b978407d2584664f1c8dab7",
+      "issue": "numeric_review",
+      "source": {
+        "29": 1
+      },
+      "translation": {
+        "35": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 85,
+      "id": "5f93be8eab9d8ee04e3f728a833cc0b7de7695f62e7d4fcf1ce4892088ac8754",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 85,
+      "id": "5f93be8eab9d8ee04e3f728a833cc0b7de7695f62e7d4fcf1ce4892088ac8754",
+      "issue": "numeric_review",
+      "source": {
+        "30": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 86,
+      "id": "0243639f88a9768043af762e7710b2000878ef7efad220cad63be683cc912182",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 87,
+      "id": "792f1eb59e45f47f0e5d11fc761dc556ee48524b71bd416bf6d21c34b335a6f6",
+      "issue": "numeric_review",
+      "source": {
+        "31": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 89,
+      "id": "54ba8f3bafa176b5b9c3fb77846230c68532b10fc30959538a0e6c6705700b6c",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 89,
+      "id": "54ba8f3bafa176b5b9c3fb77846230c68532b10fc30959538a0e6c6705700b6c",
+      "issue": "numeric_review",
+      "source": {
+        "32": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 90,
+      "id": "509755c1e75293bd3d5ae734156dca35fc5c14c07646fcbc5e40b6deae86a2db",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 91,
+      "id": "9ec9a1768af6390b5055530e8b8c20641bb921a3e7bcd9687b787f0b7b75dfd9",
+      "issue": "numeric_review",
+      "source": {
+        "33": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 93,
+      "id": "904dc0d4af7447ac8ca0d2475aaa00870a009571b8ba54f123172592374080d7",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 93,
+      "id": "904dc0d4af7447ac8ca0d2475aaa00870a009571b8ba54f123172592374080d7",
+      "issue": "numeric_review",
+      "source": {
+        "34": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 94,
+      "id": "d9be1dd525fcce62388324824ec8120031392d9d452e7808af890c18954ac4b2",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "428": 1
+      }
+    },
+    {
+      "task": 0,
+      "item": 96,
+      "id": "af356e868582d87aaf7b07c19cb2e66992161d4c9ab2c91bf27a384ca9630d3c",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 0,
+      "item": 98,
+      "id": "a61e027e41b9e5ded9c69818d9dfb391fe3d3f3cc23f4e72a5ec24d645e535dc",
+      "issue": "numeric_review",
+      "source": {
+        "8": 1,
+        "17": 1,
+        "18": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 0,
+      "item": 101,
+      "id": "d41f0c60212ca3f9207f8e2c1012273dbb18c88d87266a30d16ec40dcea7bd58",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "200": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 2,
+      "id": "37c6c844df0ac115f44ca15d5bc97525a1c4ed3459b803130d6dff4ce29e0047",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "4": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 3,
+      "id": "2c8e911a4f20117a95f613ca16dec0df2dcf83ae81583ee5f533cac525a06493",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "111": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 4,
+      "id": "ece4aea1e50104ebd3e72daf98a13d68ffdfc9505aa6b5b073ce86f341c60e3c",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 4,
+      "id": "ece4aea1e50104ebd3e72daf98a13d68ffdfc9505aa6b5b073ce86f341c60e3c",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "4": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 5,
+      "id": "21961ad6fd567c08847f47b4d3e83dfe9c7002f1df52aba292b8244792d94095",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "111": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 6,
+      "id": "bccbd99415186f895ee1e84a992a217cea3397b40ac9d394f944779db9eebf4c",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 6,
+      "id": "bccbd99415186f895ee1e84a992a217cea3397b40ac9d394f944779db9eebf4c",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "4": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 7,
+      "id": "6f8ae2c2796a7eeb540f5ef80dc2cf5cf74b19502d537db485796fdc84bbef1b",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "111": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 8,
+      "id": "fb41fbbd8e31b58d6bbf37fdebc8b4786a628fc07471f4ac99faa7a00dc67758",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 8,
+      "id": "fb41fbbd8e31b58d6bbf37fdebc8b4786a628fc07471f4ac99faa7a00dc67758",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "4": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 14,
+      "id": "6053785363cd27b8c4fae9a35324d480f17afa1eed05f4e32656396c77a21a9e",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 16,
+      "id": "52decb89d87b07789eb23e9708438dabc798230a09ffa2c0dd912920837c4c26",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 17,
+      "id": "2e1e3ec48b77859611e93868b384a012c989f26d11bd666f081b4c0d5d651d9b",
+      "issue": "numeric_review",
+      "source": {
+        "38227": 1,
+        "79.2": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 18,
+      "id": "f2e07b59410f92d6043a3e9b8ca8c5edb3cf8f40251ed88b13e1b63b8e2ad4d9",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 26,
+      "id": "3ba203053fd406c2c6382755f8861f26e8573de8834f7b9dfc4003c8a9911744",
+      "issue": "numeric_review",
+      "source": {
+        "649": 1,
+        "428": 1,
+        "171": 1,
+        "50": 1,
+        "65": 1,
+        "3": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 27,
+      "id": "e11a27b31084a68c9c586825d3d7ed44c6571a314e9aadc276635ed54ff2a46a",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "38.227": 1,
+        "79": 1,
+        "2": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 28,
+      "id": "2550449217011f56ad9137a2c94f841015150ed4e504df3f049a7bfd83f14a42",
+      "issue": "numeric_review",
+      "source": {
+        "12": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 36,
+      "id": "7d7c2852692fa7a619e96fa49f2fbb5cad3df543a32694e570122b1b008e69c7",
+      "issue": "numeric_review",
+      "source": {
+        "12": 1,
+        "500": 1
+      },
+      "translation": {
+        "649": 1,
+        "428": 1,
+        "171": 1,
+        "50": 1,
+        "65": 1,
+        "3": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 38,
+      "id": "70d617ad720706426c7d352591b33a9d9427420cf6248504e93651cf23595043",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "100": 1,
+        "12": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 39,
+      "id": "86536f854cd99ad794ab47e6ba97ab21374c5492e5513ea888c79bce22c4525b",
+      "issue": "numeric_review",
+      "source": {
+        "20": 2,
+        "10": 2
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 43,
+      "id": "ae3f4e156a27b96f0a1f5d00aa92be58617d3254b8b8e42788ff3361ea8ed7ee",
+      "issue": "numeric_review",
+      "source": {
+        "649": 1,
+        "111": 1,
+        "17": 1,
+        "294": 1,
+        "45": 1,
+        "244": 1,
+        "38": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 44,
+      "id": "5ab416ef71c11b4df27219dd057efc3dc0bcae09b22c313b1fead2325a54caaf",
+      "issue": "numeric_review",
+      "source": {
+        "97.2": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 46,
+      "id": "e42bbf8afc8a3ee61fe430fc0d01269bbd1369cf189bfafdf35caa7ed06e46f8",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "12": 1,
+        "500": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 47,
+      "id": "15496dec748f695d0a60ee0c940d1bd10c553f3972826f8c1c6858ecf96640c6",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 47,
+      "id": "15496dec748f695d0a60ee0c940d1bd10c553f3972826f8c1c6858ecf96640c6",
+      "issue": "numeric_review",
+      "source": {
+        "41": 1,
+        "95": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 49,
+      "id": "ab5e0cad4ead92cfb3aa0c6425117f7f12aea9fd90b877f89086995a0c47552e",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "20": 2,
+        "10": 2,
+        "10.000": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 52,
+      "id": "ec8eef48d6a19dd18589918f2848094586b21ef68cc774b61307c19aa73a0b47",
+      "issue": "numeric_review",
+      "source": {
+        "0.87": 1,
+        "13": 1,
+        "1.21": 1,
+        "21": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 53,
+      "id": "2a769a940e5ce8a55fe2f6494fb4b72e3d141ddd3f0df17e45e28e75fcf3f983",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "649": 1,
+        "111": 1,
+        "17": 1,
+        "294": 1,
+        "45": 1,
+        "244": 1,
+        "38": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 54,
+      "id": "43eeb9acaa3b75512df1fca7f865035d5fd178c9077deffd1a0cf50d49ddb689",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "97": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 57,
+      "id": "aad224ecf5c295fc9d8cf4f97d26bc42f514a991575eca0f7dce3fc62312d9e5",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 1,
+      "item": 57,
+      "id": "aad224ecf5c295fc9d8cf4f97d26bc42f514a991575eca0f7dce3fc62312d9e5",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "41": 1,
+        "95": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 58,
+      "id": "319b1e1ee0689e8b908fcb1baf44891fc20fe84544db75b8d817d05a998d855e",
+      "issue": "numeric_review",
+      "source": {
+        "5.86": 2
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 61,
+      "id": "c8cb4e3147a3e893c5455da82be5d7116e88ad37da5bdaf13d8162b34a7eae17",
+      "issue": "numeric_review",
+      "source": {
+        "95": 1,
+        "1": 1,
+        "0": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 62,
+      "id": "4580dd45fb1e438100d2333f1d0ca9ecc56942593e622a65a3d583560fe13556",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "0": 1,
+        "87": 1,
+        "13": 1,
+        "1": 1,
+        "21": 2
+      }
+    },
+    {
+      "task": 1,
+      "item": 67,
+      "id": "1533cf8484eef9eb568e2bde6d31af2adcb85e8297057d8b789be442eb5c052c",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "5": 2,
+        "86": 2
+      }
+    },
+    {
+      "task": 1,
+      "item": 68,
+      "id": "85cc6239f982725c9f2585cbc24ce7055689763b3c6bd0fc045097558ac6a58b",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1000": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 69,
+      "id": "0907c21feab22f06d57c3a3fb2e89e267d394ac86d68905fc4ae53798fdb0d7f",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "95": 1,
+        "1": 1,
+        "0": 1
+      }
+    },
+    {
+      "task": 1,
+      "item": 73,
+      "id": "bcc8be60a33ca09d3b640167e09ddb3b8f3dd25212b9662c46d4fcb9a7682cfb",
+      "issue": "numeric_review",
+      "source": {
+        "0.2": 1,
+        "0.5": 1,
+        "0.8": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 74,
+      "id": "0145d51e92ff1ac6e018e33d42fcb92ceb9ce13a7e46748be169490e40bbe5fe",
+      "issue": "numeric_review",
+      "source": {
+        "1": 2,
+        "0.1": 1,
+        "0.3": 1,
+        "0.5": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 1,
+      "item": 75,
+      "id": "5ba290ee312dd80d5181627645d18b145b76bc60e21e34eb389b6babdee127bf",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "3": 1,
+        "4": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 2,
+      "item": 3,
+      "id": "54eb750f1b1941ad3233b66aa402f812d4767185aa95a1421ab59fb520d0ccd7",
+      "issue": "numeric_review",
+      "source": {
+        "1.73": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 2,
+      "item": 4,
+      "id": "b816924b5e698f1fa3ee6f16d57a24d0d30f1cf525cdd0d56a9924f71f687f19",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1.73": 1
+      }
+    },
+    {
+      "task": 2,
+      "item": 6,
+      "id": "d8f531af48d61635c7f8b87e9f534bac6b5016775c1ac90ed333dc64f11a11b0",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1": 2,
+        "5": 1,
+        "10": 1
+      }
+    },
+    {
+      "task": 2,
+      "item": 7,
+      "id": "dcb88191e546fd3bc03636ac8be007c0869a802483b5547e562b7232dea6dd51",
+      "issue": "numeric_review",
+      "source": {
+        "2.5": 1
+      },
+      "translation": {
+        "2": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 2,
+      "item": 13,
+      "id": "5c6c68767f29e8d3cf95a1eca334e913c014d010d2304b083ca7570be942a15c",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1.000": 1
+      }
+    },
+    {
+      "task": 2,
+      "item": 42,
+      "id": "3c8864569435c1935baac743b61bbdddb2abc352a86986f3702e2c3916c3f6f0",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 2,
+      "item": 48,
+      "id": "94bee358a818019b61a93f6b3d2e584e9e339181ccb0a7c213c81f4c3e58b00c",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 3,
+      "item": 2,
+      "id": "715a836360bad06e6ef60bfb6381c7478f7bf3d6d8764d62e43b2f8894b01762",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 3,
+      "item": 5,
+      "id": "c4eac61a2b386cb79df1d25f9a5e7cfadfce6c26e12e3afc608b1d817e22d4fd",
+      "issue": "numeric_review",
+      "source": {
+        "30": 1,
+        "6": 1
+      },
+      "translation": {
+        "18": 1,
+        "30": 1,
+        "6": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 5,
+      "id": "ca9291a69177ce22ae85b4aaddecd670457e9f771717886150610938dd28bfc6",
+      "issue": "numeric_review",
+      "source": {
+        "2022": 1
+      },
+      "translation": {
+        "60": 1,
+        "2022": 1,
+        "50": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 6,
+      "id": "28c1999ae9e4ea9fc393658de70a7ee95b573d233b93b76982a81db42c5be48c",
+      "issue": "numeric_review",
+      "source": {
+        "45": 1,
+        "60": 1,
+        "2022": 1,
+        "50": 2,
+        "2021": 1,
+        "248099": 1,
+        "10": 1,
+        "17.4": 1
+      },
+      "translation": {
+        "45": 1,
+        "60": 1,
+        "2022": 1,
+        "50": 2,
+        "2021": 1,
+        "248.099": 1,
+        "17": 1,
+        "4": 1,
+        "100.000": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 10,
+      "id": "4d7ab46586b668bfda0398fdb2f7db7aeeda21bd8f49e7a356fe7e2597893faf",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "40": 1,
+        "70": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 15,
+      "id": "fd9cb2446cbd2a164c840dd0ea45d9ea688ea7663af26654631f2a0d583e7a29",
+      "issue": "numeric_review",
+      "source": {
+        "2018": 1,
+        "1.15": 1
+      },
+      "translation": {
+        "60": 1,
+        "40": 1,
+        "2018": 1,
+        "11.523": 1,
+        "70": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 16,
+      "id": "9a7db2ecacc37be307717f2c8aedc293fffd6f3046f2c2b3c896c7b3e5e24871",
+      "issue": "numeric_review",
+      "source": {
+        "0.39": 1,
+        "95": 1,
+        "0.18": 1,
+        "0.83": 1,
+        "2018": 2,
+        "2020": 1,
+        "24": 1,
+        "41": 1,
+        "11523": 1,
+        "12": 1,
+        "72.59": 1,
+        "1": 1,
+        "67.42": 1,
+        "2": 1,
+        "66.48": 1
+      },
+      "translation": {
+        "60": 1,
+        "0.39": 1,
+        "95": 1,
+        "0.18": 1,
+        "0.83": 1,
+        "2018": 2,
+        "2020": 1,
+        "24": 1,
+        "41": 1,
+        "11.523": 1,
+        "72": 1,
+        "59": 1,
+        "12": 1,
+        "67": 1,
+        "42": 1,
+        "1": 1,
+        "66": 1,
+        "48": 1,
+        "2": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 21,
+      "id": "936f9596d7ad3e6f5fffb41df110d27d19fa7a51c89ae4aa856a012f9d05627a",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "14": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 22,
+      "id": "19d5fc2232bcfc622bb04778e632da61fac65a75721108f7e1109bb4927e00de",
+      "issue": "numeric_review",
+      "source": {
+        "13": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 4,
+      "item": 26,
+      "id": "1f1564860775dd600f550dec041f1814f06ce6f2532d89b6cbb6f677c8913e87",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 2,
+        "828": 1,
+        "2165": 1,
+        "13": 1,
+        "0.6": 2,
+        "2019": 1,
+        "2024": 1,
+        "276": 1,
+        "676": 1,
+        "0.87": 1,
+        "2.86": 1,
+        "138": 1,
+        "34": 1
+      },
+      "translation": {
+        "2025": 2,
+        "828": 1,
+        "2165": 1,
+        "13": 1,
+        "0": 3,
+        "6": 2,
+        "2019": 1,
+        "2024": 1,
+        "276": 1,
+        "676": 1,
+        "87": 1,
+        "2": 1,
+        "86": 1,
+        "138": 1,
+        "34": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 30,
+      "id": "564925171be4f33459c6eb0693ce4f30728f0ddc99c1ab5fa8d0ab30eaeefd44",
+      "issue": "numeric_review",
+      "source": {
+        "500": 1,
+        "1000": 1,
+        "2000": 1,
+        "10000": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 4,
+      "item": 31,
+      "id": "2c8720ae690d0912cf717fb77fc7beca6187603b656139034c5502c21aaabd42",
+      "issue": "numeric_review",
+      "source": {
+        "500": 1,
+        "1000": 1,
+        "2000": 1,
+        "10000": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 4,
+      "item": 32,
+      "id": "6f2c99a7f2666fc3ec52dcb7339a366db940735bb34f140375e7f7894c1e7ba8",
+      "issue": "numeric_review",
+      "source": {
+        "2021": 1,
+        "1.8": 1,
+        "65": 1,
+        "3782": 1,
+        "60": 1,
+        "2024": 1,
+        "42.2": 1
+      },
+      "translation": {
+        "2021": 1,
+        "18.000": 1,
+        "65": 1,
+        "3.782": 1,
+        "60": 1,
+        "2024": 1,
+        "42": 1,
+        "2": 1,
+        "90": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 35,
+      "id": "9a3e52c5f91e5f9e5404256ff68038078eaf7d55cb27c1e75fcc49c06e48f2a6",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "27": 1,
+        "28": 1,
+        "13": 1,
+        "35": 1,
+        "75": 1,
+        "44.7": 1,
+        "7.2": 1
+      },
+      "translation": {
+        "10": 1,
+        "20": 1,
+        "27": 1,
+        "28": 1,
+        "13": 1,
+        "35": 1,
+        "75": 1,
+        "44": 1,
+        "7": 2,
+        "2": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 36,
+      "id": "0e0162b965b4066a92e025a522e97e3185658ec7a37205d0b1f79c47fb87e90f",
+      "issue": "numeric_review",
+      "source": {
+        "123": 1,
+        "61": 1,
+        "10": 1,
+        "0.80": 1,
+        "95": 2,
+        "0.77": 1,
+        "0.83": 1,
+        "27": 1,
+        "0.73": 1,
+        "28": 1,
+        "0.72": 1,
+        "13": 1,
+        "0.87": 1,
+        "0.84": 1,
+        "0.91": 1,
+        "35": 1,
+        "75": 1,
+        "170": 1,
+        "44.7": 2,
+        "30.1": 1,
+        "7.2": 1
+      },
+      "translation": {
+        "123": 1,
+        "610.000": 1,
+        "10": 1,
+        "20": 1,
+        "0": 8,
+        "80": 1,
+        "95": 2,
+        "77": 1,
+        "83": 1,
+        "27": 1,
+        "73": 1,
+        "28": 1,
+        "72": 1,
+        "13": 1,
+        "87": 1,
+        "84": 1,
+        "91": 1,
+        "1": 2,
+        "7": 4,
+        "35": 1,
+        "75": 1,
+        "44": 2,
+        "30": 1,
+        "2": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 39,
+      "id": "d1d63888547a30740c7d3fedcd88c1182c588e49a00af202a1b1e28b9547492a",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1": 1
+      }
+    },
+    {
+      "task": 4,
+      "item": 41,
+      "id": "f069e6fcbdde589d19d584f37650f67cc5bce3007dbf94b0287d456f8a0df6a7",
+      "issue": "numeric_review",
+      "source": {
+        "35": 1,
+        "70": 1,
+        "2": 1,
+        "25": 1,
+        "30": 1,
+        "23": 1,
+        "24.0": 1,
+        "28.0": 2,
+        "3": 1
+      },
+      "translation": {
+        "2": 1,
+        "35": 1,
+        "70": 1,
+        "25": 1,
+        "30": 1,
+        "23": 1,
+        "24": 1,
+        "0": 3,
+        "28": 2
+      }
+    },
+    {
+      "task": 5,
+      "item": 5,
+      "id": "45c3e06df1c8ca659284d92d3870e6abfd9b195715c4aca5094fda0f9f02a397",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "4": 1
+      },
+      "translation": {
+        "1": 2,
+        "70": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 16,
+      "id": "1e635e6685f0d3ebe549b163445adbe9d2c8ac5a000a3e5a930bcc6120c9c296",
+      "issue": "numeric_review",
+      "source": {
+        "0.51": 1,
+        "95": 1,
+        "0.35": 1,
+        "0.74": 1,
+        "20": 1,
+        "2013": 1,
+        "10": 2,
+        "6.60": 1,
+        "2021": 2,
+        "3.28": 1,
+        "2": 1,
+        "1": 1,
+        "14": 1,
+        "0": 1,
+        "19": 1,
+        "31.1": 1,
+        "27.9": 1
+      },
+      "translation": {
+        "0.51": 1,
+        "95": 1,
+        "0.35": 1,
+        "0.74": 1,
+        "20": 1,
+        "6.60": 1,
+        "100.000": 2,
+        "2013": 1,
+        "3.28": 1,
+        "2021": 2,
+        "1": 1,
+        "14": 1,
+        "0": 1,
+        "19": 1,
+        "31.1": 1,
+        "27.9": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 20,
+      "id": "59185e1d33886f64c7a0fabff3cca37fda14a9282b0371f8c6a960fa8aaf0e26",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "65": 1
+      },
+      "translation": {
+        "23": 1,
+        "15": 1,
+        "20": 1,
+        "65": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 21,
+      "id": "d177bb6fa60640fbef0a48009c3fb6d75fcd54cae6cf0618def077427334996f",
+      "issue": "numeric_review",
+      "source": {
+        "108": 1,
+        "23407": 1,
+        "23": 1,
+        "0.77": 1,
+        "95": 2,
+        "0.71": 2,
+        "0.83": 1,
+        "15": 1,
+        "0.85": 1,
+        "0.81": 1,
+        "0.68": 1,
+        "0.97": 1,
+        "29": 1,
+        "65": 1,
+        "2018": 1,
+        "55.97": 1
+      },
+      "translation": {
+        "108": 1,
+        "23.407": 1,
+        "23": 1,
+        "0.77": 1,
+        "95": 2,
+        "0.71": 2,
+        "0.83": 1,
+        "15": 1,
+        "0.85": 1,
+        "20": 1,
+        "0.81": 1,
+        "0.68": 1,
+        "0.97": 1,
+        "29": 1,
+        "65": 1,
+        "2018": 1,
+        "55": 1,
+        "97": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 25,
+      "id": "3c160b56441e9f281a7e4e36f5fa1e98339a6dfa72008044a24631ef3e6fa48c",
+      "issue": "numeric_review",
+      "source": {
+        "30": 1,
+        "84": 1,
+        "72": 1
+      },
+      "translation": {
+        "30": 1,
+        "84": 1,
+        "72": 1,
+        "3": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 31,
+      "id": "a8af9aff830cda090656d99cc1be5f2a3923300989646ac26bda1480de24c09a",
+      "issue": "numeric_review",
+      "source": {
+        "10": 3,
+        "1": 3,
+        "2024": 1,
+        "6": 2,
+        "3": 2,
+        "5": 2
+      },
+      "translation": {
+        "1": 3,
+        "10": 3,
+        "2024": 1,
+        "6": 1,
+        "3": 2,
+        "5": 2
+      }
+    },
+    {
+      "task": 5,
+      "item": 35,
+      "id": "22c25f70ab2e9fe534378371f2700aaffcced8dca7092333afd04dffbc45d299",
+      "issue": "numeric_review",
+      "source": {
+        "167": 1,
+        "17": 2,
+        "30": 1
+      },
+      "translation": {
+        "1": 2,
+        "67": 1,
+        "17": 2,
+        "8": 1,
+        "30": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 36,
+      "id": "41d8960f01a662f8d99000e4b5b236e845d3f77efd87da91d03d8fcf316e430c",
+      "issue": "numeric_review",
+      "source": {
+        "167": 1,
+        "17": 2,
+        "88": 1,
+        "0.12": 1,
+        "95": 2,
+        "0.00": 1,
+        "0.34": 1,
+        "30": 1,
+        "53": 1,
+        "0.47": 1,
+        "0.27": 1,
+        "0.75": 1
+      },
+      "translation": {
+        "1": 1,
+        "67": 1,
+        "17": 2,
+        "88": 1,
+        "0.12": 1,
+        "95": 2,
+        "0.00": 1,
+        "0.34": 1,
+        "30": 1,
+        "53": 1,
+        "0.47": 1,
+        "0.27": 1,
+        "0.75": 1
+      }
+    },
+    {
+      "task": 5,
+      "item": 39,
+      "id": "885ecd4e8c6205cd1c851340a9e8806333ae05ea4e3f4db4c520bf64170398a7",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "200": 1,
+        "300": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 2,
+      "id": "06a0a49fd54fbdc3542c3df30de13092f5cfce9cc3d087d9a6d61fb1859e5147",
+      "issue": "numeric_review",
+      "source": {
+        "16": 1,
+        "25": 1,
+        "1.20": 1,
+        "0.98": 1
+      },
+      "translation": {
+        "16": 1,
+        "25": 1,
+        "10": 1,
+        "1": 1,
+        "20": 1,
+        "0": 1,
+        "98": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 3,
+      "id": "eade90802100b529e22dea0802d93c42ed131e9670d03efc1cc0513bca2b48d5",
+      "issue": "numeric_review",
+      "source": {
+        "16": 1,
+        "0.84": 1,
+        "95": 2,
+        "0.78": 1,
+        "0.90": 1,
+        "25": 1,
+        "0.75": 1,
+        "10": 1,
+        "1.20": 1,
+        "0.98": 1,
+        "0.82": 1,
+        "0.70": 1,
+        "0.93": 1
+      },
+      "translation": {
+        "16": 1,
+        "0": 8,
+        "84": 1,
+        "95": 2,
+        "78": 1,
+        "90": 1,
+        "25": 1,
+        "75": 1,
+        "10": 1,
+        "1": 1,
+        "20": 1,
+        "98": 1,
+        "82": 1,
+        "70": 1,
+        "93": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 4,
+      "id": "b4426767d26aaea56a187ccdccaae48f414889635e025cc73dee5a14c52a5036",
+      "issue": "numeric_review",
+      "source": {
+        "0.28": 1,
+        "0.31": 1,
+        "0.90": 1,
+        "95": 1,
+        "0.64": 1,
+        "1.16": 1,
+        "45": 1,
+        "50": 1
+      },
+      "translation": {
+        "0": 4,
+        "28": 1,
+        "31": 1,
+        "90": 1,
+        "95": 1,
+        "64": 1,
+        "1": 1,
+        "16": 1,
+        "45": 1,
+        "50": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 7,
+      "id": "7b9b1dd9d6a16b571802a86b8d20c2df81771b57275c6b8bcdc94693e4cd8daa",
+      "issue": "numeric_review",
+      "source": {
+        "4.9": 1,
+        "2.9": 1,
+        "50": 1,
+        "150": 1
+      },
+      "translation": {
+        "4": 1,
+        "9": 2,
+        "2": 1,
+        "50": 1,
+        "150": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 8,
+      "id": "94fd8aba235b0c205a43357aac40152caa6ab739c5751f95c11341644a45eda0",
+      "issue": "numeric_review",
+      "source": {
+        "2571": 1,
+        "12": 1,
+        "2.9": 1,
+        "4.9": 1,
+        "0.59": 2,
+        "95": 3,
+        "0.39": 1,
+        "0.89": 1,
+        "3.6": 1,
+        "5.4": 1,
+        "0.66": 1,
+        "0.53": 1,
+        "0.83": 1,
+        "0.74": 1,
+        "0.42": 1,
+        "1.30": 1
+      },
+      "translation": {
+        "2.571": 1,
+        "2": 1,
+        "9": 2,
+        "12": 1,
+        "4": 2,
+        "0": 9,
+        "59": 2,
+        "95": 3,
+        "39": 1,
+        "89": 1,
+        "3": 1,
+        "6": 1,
+        "5": 1,
+        "66": 1,
+        "53": 1,
+        "83": 1,
+        "74": 1,
+        "42": 1,
+        "1": 1,
+        "30": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 9,
+      "id": "e96203d5620abaef96c8d8b46313122a66e36a200ea4585cbb84f3ff908acee2",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1,
+        "2.4": 1,
+        "2018": 1
+      },
+      "translation": {
+        "6": 1,
+        "2": 1,
+        "4": 1,
+        "2018": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 11,
+      "id": "738b18cd3904880c7ff7a5cdaddbb669359c803ae66f1ae759abaa0cef92b29e",
+      "issue": "numeric_review",
+      "source": {
+        "3000": 1,
+        "4000": 1
+      },
+      "translation": {
+        "3.000": 1,
+        "4.000": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 12,
+      "id": "1874edace257de5689745e73c65f1290a2a354d02a78c58255e54c35e6c366e6",
+      "issue": "numeric_review",
+      "source": {
+        "97": 1
+      },
+      "translation": {
+        "97": 2
+      }
+    },
+    {
+      "task": 6,
+      "item": 13,
+      "id": "57c9aeaebd40d11eec578e6e794a3c27f6c9e6d259c7b52c772233f05c4e9afc",
+      "issue": "numeric_review",
+      "source": {
+        "18": 1,
+        "1.54": 1,
+        "3.2": 1,
+        "6": 1,
+        "210": 1,
+        "0.3": 1,
+        "9.1": 1,
+        "1000": 1,
+        "97.2": 1,
+        "95": 1,
+        "93.7": 1,
+        "99.0": 1,
+        "0.001": 1,
+        "96.6": 1,
+        "97.9": 1
+      },
+      "translation": {
+        "18": 1,
+        "15.400": 1,
+        "3": 2,
+        "2": 2,
+        "6": 2,
+        "210": 1,
+        "1.000": 2,
+        "0": 2,
+        "9": 2,
+        "1": 1,
+        "97": 2,
+        "95": 1,
+        "93": 1,
+        "7": 1,
+        "99": 1,
+        "0001": 1,
+        "96": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 14,
+      "id": "57897621723fa7bbb768c5c00de625c490a9f7eabb3e7715e2170591e93537cc",
+      "issue": "numeric_review",
+      "source": {
+        "17.0": 1,
+        "3.2": 1
+      },
+      "translation": {
+        "17": 1,
+        "0": 1,
+        "3": 1,
+        "2": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 17,
+      "id": "d0386928d988bd1ad693ec89c5416c83ed2bb250529c0d420e2e42c33fb3478e",
+      "issue": "numeric_review",
+      "source": {
+        "8.45": 1,
+        "13": 1,
+        "46": 1,
+        "75": 1
+      },
+      "translation": {
+        "84.500": 1,
+        "13": 1,
+        "46": 1,
+        "75": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 18,
+      "id": "4db54db4197b8b70e1f8a52f906cc87a1762817af569687ca4ce0f57873e4b88",
+      "issue": "numeric_review",
+      "source": {
+        "8.45": 1,
+        "65": 1,
+        "13": 1,
+        "45.6": 1,
+        "95.2": 1,
+        "21.8": 1,
+        "62.5": 1,
+        "75.0": 1,
+        "95": 1,
+        "41.4": 1,
+        "90.8": 1
+      },
+      "translation": {
+        "84.500": 1,
+        "65": 1,
+        "13": 1,
+        "45": 1,
+        "6": 1,
+        "95": 2,
+        "2": 1,
+        "21": 1,
+        "8": 2,
+        "62": 1,
+        "5": 1,
+        "75": 1,
+        "0": 1,
+        "41": 1,
+        "4": 1,
+        "90": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 22,
+      "id": "0e24cf6c3c940b14ab97e1af64cf5ceb5242a422f3938267bba915d2b7d755c3",
+      "issue": "numeric_review",
+      "source": {
+        "22": 1
+      },
+      "translation": {
+        "22": 1,
+        "40": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 23,
+      "id": "8362c03aa2e67e96b4cca6d7fc6c155a0d70eba142f594cb62b438d19c55158e",
+      "issue": "numeric_review",
+      "source": {
+        "22": 1,
+        "0.48": 1,
+        "95": 2,
+        "0.32": 1,
+        "0.71": 1,
+        "38": 1,
+        "0.62": 1,
+        "0.39": 1,
+        "0.99": 1
+      },
+      "translation": {
+        "22": 1,
+        "0": 6,
+        "48": 1,
+        "95": 2,
+        "32": 1,
+        "71": 1,
+        "38": 1,
+        "62": 1,
+        "39": 1,
+        "99": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 27,
+      "id": "fe898a1afc180fba5f1bab4b41360bad302a656489a3e98066285d34b2c53e4d",
+      "issue": "numeric_review",
+      "source": {
+        "20": 1,
+        "6.7": 1
+      },
+      "translation": {
+        "20": 1,
+        "6": 1,
+        "7": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 28,
+      "id": "e9d0a6185adb1be08e79f446b9a8f271c2867d3af0f3b78d2e86e69f3e64c6b4",
+      "issue": "numeric_review",
+      "source": {
+        "53454": 1,
+        "55": 1,
+        "74": 1,
+        "30": 1,
+        "15": 1,
+        "20.0": 1,
+        "95": 2,
+        "6.8": 1,
+        "26.7": 1,
+        "6.7": 1,
+        "1.2": 1,
+        "13.6": 1
+      },
+      "translation": {
+        "53.454": 1,
+        "55": 1,
+        "74": 1,
+        "30": 1,
+        "15": 1,
+        "20": 1,
+        "0": 1,
+        "95": 2,
+        "6": 3,
+        "8": 1,
+        "26": 1,
+        "7": 2,
+        "1": 1,
+        "2": 1,
+        "13": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 29,
+      "id": "e72aec8448225c8ba858a28154044bfcb21fdebb23fc0f4964e062170a19c2eb",
+      "issue": "numeric_review",
+      "source": {
+        "24.2": 1,
+        "96.4": 1
+      },
+      "translation": {
+        "24": 1,
+        "2": 1,
+        "96": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 33,
+      "id": "fd7af5e060726ee9c4fb3c23ca49f3bd7b7fb0a18bd22f65c4b25ab094412bb7",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "43": 1,
+        "86": 1,
+        "79": 1,
+        "91": 1,
+        "55": 1,
+        "0.45": 1,
+        "95": 1,
+        "0.24": 1,
+        "0.85": 1,
+        "2025": 1,
+        "5": 1,
+        "1": 1,
+        "12356": 1,
+        "18": 1
+      },
+      "translation": {
+        "10": 1,
+        "43": 1,
+        "86": 1,
+        "79": 1,
+        "91": 1,
+        "55": 1,
+        "0": 3,
+        "45": 1,
+        "95": 1,
+        "24": 1,
+        "85": 1,
+        "1": 1,
+        "5": 1,
+        "2025": 1,
+        "12356": 1,
+        "18": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 37,
+      "id": "5e516c6c9f5ddff08ac8a5472de8ea2be80de4cee5ccb3d2d15ed8ead0535d90",
+      "issue": "numeric_review",
+      "source": {
+        "11": 1
+      },
+      "translation": {
+        "11": 1,
+        "25": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 38,
+      "id": "795e4a51fbc69ba9cf20637dab33a7c0b41e9433e4a3ba5a7193e4975edacfd9",
+      "issue": "numeric_review",
+      "source": {
+        "11": 1,
+        "98": 1,
+        "2605044": 1,
+        "0.89": 1,
+        "95": 2,
+        "0.78": 1,
+        "1.01": 1,
+        "25": 1,
+        "0.75": 1,
+        "0.62": 1,
+        "0.91": 1
+      },
+      "translation": {
+        "11": 1,
+        "98": 1,
+        "2.605": 1,
+        "044": 1,
+        "0": 5,
+        "89": 1,
+        "95": 2,
+        "78": 1,
+        "1": 1,
+        "01": 1,
+        "25": 1,
+        "75": 1,
+        "62": 1,
+        "91": 1
+      }
+    },
+    {
+      "task": 6,
+      "item": 39,
+      "id": "9a577e63ec9b0de7370d7782d2ba5ee2449b37db2c0df749c577af43b15c63bd",
+      "issue": "numeric_review",
+      "source": {
+        "0.78": 1,
+        "95": 1,
+        "0.66": 1,
+        "0.92": 1,
+        "3": 1,
+        "13": 1,
+        "12": 1
+      },
+      "translation": {
+        "20": 1,
+        "0": 3,
+        "78": 1,
+        "95": 1,
+        "66": 1,
+        "92": 1,
+        "3": 1,
+        "12": 1,
+        "13": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 0,
+      "id": "67aec4ab7eacee6368c005f24772e93b1bbfad76dda96bdc4e5a2b2ef60190fb",
+      "issue": "numeric_review",
+      "source": {
+        "60": 1,
+        "2.8": 1,
+        "40": 1,
+        "59": 1,
+        "1.2": 1
+      },
+      "translation": {
+        "60": 1,
+        "2": 2,
+        "8": 1,
+        "40": 1,
+        "59": 1,
+        "1": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 1,
+      "id": "38fbe9645d4157bbd813dbf368c80cc86b5f5ad808ed4a19abfdb3e5bf3da678",
+      "issue": "numeric_review",
+      "source": {
+        "4915": 1,
+        "21718": 1,
+        "60": 2,
+        "2.8": 1,
+        "95": 2,
+        "2.5": 1,
+        "3.1": 1,
+        "40": 1,
+        "59": 1,
+        "1.2": 2,
+        "0.6": 1,
+        "2.3": 1,
+        "20": 1,
+        "12": 1,
+        "33": 1,
+        "1.6": 1,
+        "2.1": 1
+      },
+      "translation": {
+        "4915": 1,
+        "21718": 1,
+        "60": 2,
+        "2": 6,
+        "8": 1,
+        "95": 3,
+        "5": 1,
+        "3": 2,
+        "1": 5,
+        "40": 1,
+        "59": 1,
+        "0": 1,
+        "6": 2,
+        "20": 1,
+        "12": 1,
+        "33": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 5,
+      "id": "5a36c18687510986f090a52370ec23ceabffa58d91135c83e1da76289bd0e8ec",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "40": 1,
+        "60": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 6,
+      "id": "09b9854029df6c1f7b95b1b3b556b3bc72b4f4ebb28596148982591b112bb6ce",
+      "issue": "numeric_review",
+      "source": {
+        "14": 1,
+        "92757": 1,
+        "6.1": 1,
+        "44": 1,
+        "1.44": 1,
+        "95": 1,
+        "1.27": 2,
+        "1.63": 1,
+        "62": 1,
+        "1.62": 1,
+        "1.34": 1,
+        "1.96": 1,
+        "39": 1,
+        "1.39": 2,
+        "1.23": 1,
+        "1.57": 1,
+        "25": 1,
+        "1.25": 1,
+        "1.12": 1,
+        "1.19": 1,
+        "0.97": 1,
+        "1.46": 1,
+        "1.61": 1,
+        "1.38": 1,
+        "1.86": 1,
+        "1.18": 1,
+        "1.37": 1
+      },
+      "translation": {
+        "14": 1,
+        "92.757": 1,
+        "6": 1,
+        "1": 21,
+        "44": 2,
+        "95": 1,
+        "27": 2,
+        "63": 1,
+        "62": 2,
+        "34": 1,
+        "96": 1,
+        "39": 3,
+        "23": 1,
+        "57": 1,
+        "25": 2,
+        "12": 1,
+        "19": 1,
+        "0": 1,
+        "97": 1,
+        "46": 1,
+        "61": 1,
+        "38": 1,
+        "86": 1,
+        "18": 1,
+        "37": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 7,
+      "id": "dc4ddbd46b996d260aab1f1bd195b04c155556f81c1c37d4c043e49ca6dd0981",
+      "issue": "numeric_review",
+      "source": {
+        "14": 1,
+        "7": 1,
+        "8": 1,
+        "29": 1,
+        "44": 1,
+        "27": 1
+      },
+      "translation": {
+        "14": 1,
+        "40": 1,
+        "7": 1,
+        "8": 1,
+        "29": 1,
+        "44": 1,
+        "27": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 9,
+      "id": "22c51032e7acc942be19a8ecb9dcee8fc5c52f621eb5b457fd9405f4916d29a6",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "10": 1,
+        "11": 1,
+        "12": 1,
+        "28": 1,
+        "4": 1,
+        "13": 2,
+        "14": 1,
+        "15": 1,
+        "70": 1,
+        "16": 1,
+        "25": 1,
+        "10676": 1,
+        "71": 1,
+        "0": 6,
+        "29": 1,
+        "95": 2,
+        "20": 1,
+        "43": 1,
+        "77": 1,
+        "23": 1,
+        "40": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 10,
+      "id": "74e7b165c32c6b22cfe686af6251764aad50660e5f8652b3d8ad7955fc52ba2a",
+      "issue": "numeric_review",
+      "source": {
+        "2": 1,
+        "3": 1,
+        "25": 1,
+        "22": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 7,
+      "item": 11,
+      "id": "c57f4d3ac357baf57e541369327e122e89b6e7ead436bc16a85c4c6729626225",
+      "issue": "numeric_review",
+      "source": {
+        "6": 2,
+        "740": 1,
+        "5": 5,
+        "2.66": 1,
+        "95": 1,
+        "1.86": 1,
+        "3.47": 1,
+        "2": 1,
+        "143": 1,
+        "4": 1,
+        "597": 1,
+        "2.40": 1,
+        "1.19": 1,
+        "3.61": 1,
+        "25": 2,
+        "22": 1,
+        "7": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 7,
+      "item": 12,
+      "id": "8576d6804e1517903a76e64f8439d7bfeb8aea74c8c0061899c86f7b2e71ca22",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1,
+        "740": 1,
+        "2": 2,
+        "1": 1,
+        "32": 1,
+        "20": 1,
+        "25": 1,
+        "7": 1,
+        "28": 1,
+        "4": 1
+      },
+      "translation": {
+        "28": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 15,
+      "id": "b928c7a0184aaff036be58f0fe471ace061f9a328a5beac548d4797dcb20c582",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "70": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 16,
+      "id": "4a84d7b0235a59f5acdc2588b70127f6826810db49b2df52bbef765da4a54c51",
+      "issue": "numeric_review",
+      "source": {
+        "25": 1,
+        "10676": 1,
+        "71": 1,
+        "0.29": 1,
+        "95": 2,
+        "0.20": 1,
+        "0.43": 1,
+        "77": 1,
+        "0.23": 1,
+        "0.13": 1,
+        "0.40": 1,
+        "70": 1
+      },
+      "translation": {
+        "25": 1,
+        "10676": 1,
+        "71": 1,
+        "0": 6,
+        "29": 1,
+        "95": 2,
+        "20": 1,
+        "43": 1,
+        "77": 1,
+        "23": 1,
+        "13": 1,
+        "40": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 17,
+      "id": "2a7d24b013173ff5a9cd435c5c766687091ee754aaf56a9906d486e7f7ede645",
+      "issue": "numeric_review",
+      "source": {
+        "18": 1,
+        "0.30": 1,
+        "95": 1,
+        "0.21": 1,
+        "0.45": 1,
+        "13": 1
+      },
+      "translation": {
+        "18": 1,
+        "70": 2,
+        "0": 3,
+        "30": 1,
+        "95": 1,
+        "21": 1,
+        "45": 1,
+        "13": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 20,
+      "id": "9eb0b06326f5162ce9dc97bd94a960cd40edfe0d40ec03926edd358afd083a3f",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "700": 1,
+        "70.000": 1,
+        "0": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 21,
+      "id": "1462c7440aa74bb49bf487c56844c0f0c23822579c87feefaaeb99918e742603",
+      "issue": "numeric_review",
+      "source": {
+        "782": 1,
+        "1593": 1,
+        "76088": 1,
+        "15": 2
+      },
+      "translation": {
+        "23": 1,
+        "782": 1,
+        "1593": 1,
+        "76088": 1,
+        "15": 2,
+        "0": 1,
+        "39": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 22,
+      "id": "46c3d5f42828d31de7ebb7818cd41f7a58bf6dbcae0d6d9d1cd6c1df70c76562",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "2": 3,
+        "3": 2,
+        "4": 1,
+        "99.99": 1,
+        "27": 1
+      },
+      "translation": {
+        "1": 1,
+        "2": 3,
+        "3": 3,
+        "4": 1,
+        "99": 2,
+        "38": 1
+      }
+    },
+    {
+      "task": 7,
+      "item": 22,
+      "id": "46c3d5f42828d31de7ebb7818cd41f7a58bf6dbcae0d6d9d1cd6c1df70c76562",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 7,
+      "item": 26,
+      "id": "d8773533d5ea540633d705fc5766681616a84d1e26b767d24691a573402a9231",
+      "issue": "numeric_review",
+      "source": {
+        "82": 1,
+        "3": 1,
+        "47.6": 1,
+        "39": 1,
+        "10": 1,
+        "76.8": 1,
+        "63": 1,
+        "90": 1,
+        "1": 2,
+        "16": 1,
+        "2": 1,
+        "9": 1,
+        "7": 1
+      },
+      "translation": {
+        "82": 1,
+        "3": 1,
+        "47": 1,
+        "6": 1,
+        "39": 1,
+        "10": 1,
+        "76": 1,
+        "8": 1,
+        "63": 1,
+        "90": 1,
+        "1": 2,
+        "16": 1,
+        "2": 1,
+        "9": 1,
+        "7": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 0,
+      "id": "03f30e281803c14a9c91fe447f34dfdddfd0224af7be7d15e0dd39d603417b8e",
+      "issue": "numeric_review",
+      "source": {
+        "82": 1,
+        "90": 1,
+        "12356": 1,
+        "25": 1,
+        "3": 1,
+        "18": 1,
+        "33": 1,
+        "8": 1,
+        "15": 1
+      },
+      "translation": {
+        "82": 1,
+        "90": 1,
+        "25": 1,
+        "18": 1,
+        "3": 1,
+        "33": 1,
+        "15": 1,
+        "8": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 3,
+      "id": "8eceaa04427e8c44d7cb942f56aa4cb416217d29166bea056e3a563f2c1c0a7c",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "40": 1,
+        "6": 1,
+        "1": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 4,
+      "id": "d204881e3c39b2b0b45d605a4237dc2f1cfc38cabad6d6d273558690fc7bbd5f",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "2013": 1,
+        "2024": 1,
+        "1420": 1,
+        "257": 1,
+        "43.2": 1,
+        "71.2": 1,
+        "65.8": 1,
+        "58.0": 1,
+        "76": 3,
+        "19": 1,
+        "25.0": 1,
+        "35": 1,
+        "46.1": 1,
+        "0.007": 1,
+        "0.45": 1,
+        "95": 1,
+        "0.22": 1,
+        "0.92": 1,
+        "73": 1,
+        "30": 1,
+        "12": 1,
+        "2014": 1,
+        "7": 2,
+        "1": 2,
+        "2016": 1,
+        "2020": 1,
+        "9": 1,
+        "26": 1
+      },
+      "translation": {
+        "10": 1,
+        "2013": 1,
+        "2024": 1,
+        "1420": 1,
+        "257": 1,
+        "43": 1,
+        "2": 2,
+        "71": 1,
+        "65": 1,
+        "8": 1,
+        "58": 1,
+        "0": 5,
+        "76": 3,
+        "6": 1,
+        "19": 1,
+        "25": 1,
+        "35": 1,
+        "46": 1,
+        "1": 3,
+        "0007": 1,
+        "45": 1,
+        "95": 1,
+        "22": 1,
+        "92": 1,
+        "73": 1,
+        "30": 1,
+        "12": 1,
+        "7": 2,
+        "2014": 1,
+        "2016": 1,
+        "26": 1,
+        "9": 1,
+        "2020": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 6,
+      "id": "82b0cc215be9e952bd5c540c11e5d0cfc23c15ba7521caa2d04d72770b5b5721",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 8,
+      "item": 8,
+      "id": "1183118125ebbc134f15462cb7333e4d07d2bb0d91cc490ff2603168b42e149e",
+      "issue": "numeric_review",
+      "source": {
+        "5.5": 1,
+        "132": 1,
+        "3": 1
+      },
+      "translation": {
+        "5": 2,
+        "132": 1,
+        "3": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 9,
+      "id": "022923a3f94967d1e14fad20e9f808d467a6a5480a3c43f5adabc38bc4d40fd0",
+      "issue": "numeric_review",
+      "source": {
+        "2020": 1,
+        "4": 2,
+        "2024": 2,
+        "7": 1,
+        "289": 2,
+        "40.3": 1,
+        "3": 2,
+        "26.6": 1,
+        "5": 1,
+        "11.4": 1,
+        "10": 1,
+        "24": 1,
+        "63.3": 1,
+        "20": 1,
+        "47.1": 1,
+        "18.3": 1,
+        "36": 1,
+        "103.5": 1,
+        "8": 1,
+        "1": 1,
+        "132": 1,
+        "30": 1,
+        "5.5": 1,
+        "16": 1,
+        "84": 1,
+        "25": 1,
+        "58": 1,
+        "9870.0": 1,
+        "4.3": 1,
+        "90895.5": 1,
+        "25007.5": 1,
+        "27.5": 1
+      },
+      "translation": {
+        "4": 3,
+        "2020": 1,
+        "7": 1,
+        "2024": 2,
+        "289": 2,
+        "40": 1,
+        "3": 5,
+        "26": 1,
+        "6": 1,
+        "5": 7,
+        "11": 1,
+        "10": 1,
+        "24": 1,
+        "63": 1,
+        "20": 1,
+        "47": 1,
+        "1": 2,
+        "18": 1,
+        "36": 1,
+        "103": 1,
+        "8": 1,
+        "132": 1,
+        "30": 1,
+        "16": 1,
+        "84": 1,
+        "25": 1,
+        "58": 1,
+        "9870": 1,
+        "0": 1,
+        "90895": 1,
+        "25007": 1,
+        "27": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 10,
+      "id": "d8223da9dd2298b7f423ac2deec9d565d2990e4c85e9a4af3dd186733020d501",
+      "issue": "numeric_review",
+      "source": {
+        "84": 1,
+        "17": 1,
+        "8": 1,
+        "13": 1,
+        "11": 1,
+        "32": 1,
+        "33": 1
+      },
+      "translation": {
+        "84": 1,
+        "8": 1,
+        "17": 1,
+        "11": 1,
+        "13": 1,
+        "32": 1,
+        "33": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 12,
+      "id": "9e5b4f331d7b9e48b3fada65935ddedd3bf09dff22d2070c29dfccb487d89095",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "31": 1,
+        "4": 1,
+        "6": 1,
+        "86": 1
+      },
+      "translation": {
+        "15": 1,
+        "31": 1,
+        "10.000": 2,
+        "4": 1,
+        "6": 1,
+        "86": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 13,
+      "id": "2eed9a3ad79e2dc40dd3e33880cbb4c5f8f3480404694061482e79473039e09f",
+      "issue": "numeric_review",
+      "source": {
+        "96217": 1,
+        "20024": 1,
+        "15": 1,
+        "30.8": 1,
+        "95": 3,
+        "24.3": 1,
+        "38.5": 1,
+        "3.9": 1,
+        "0.8": 1,
+        "8.9": 1,
+        "0.001": 2,
+        "90": 1,
+        "326": 1,
+        "14": 1,
+        "1901": 1,
+        "15.1": 1,
+        "32621": 1,
+        "24.9": 1,
+        "1.30": 1,
+        "1.11": 1,
+        "1.52": 1,
+        "1.40": 1,
+        "1.03": 1,
+        "1.91": 1,
+        "11.38": 1,
+        "4.37": 1,
+        "29.6": 1,
+        "302": 1,
+        "3698": 1,
+        "11": 1,
+        "180": 1,
+        "268": 1,
+        "255": 1,
+        "12.2": 1,
+        "9.2": 1,
+        "85.5": 1,
+        "60": 2,
+        "1.73": 1,
+        "32.1": 1,
+        "12.7": 1,
+        "305": 1,
+        "6": 1,
+        "96": 1,
+        "1070": 1,
+        "86": 1,
+        "79": 1
+      },
+      "translation": {
+        "96.217": 1,
+        "20.024": 1,
+        "15": 2,
+        "30": 3,
+        "8": 3,
+        "10.000": 5,
+        "95": 3,
+        "24": 2,
+        "3": 2,
+        "38": 2,
+        "5": 2,
+        "9": 4,
+        "0": 1,
+        "0001": 2,
+        "90": 1,
+        "326": 1,
+        "14": 1,
+        "1901": 1,
+        "1": 11,
+        "32.621": 1,
+        "11": 3,
+        "52": 1,
+        "40": 2,
+        "03": 1,
+        "91": 1,
+        "4": 1,
+        "37": 1,
+        "29": 1,
+        "6": 2,
+        "302": 1,
+        "3698": 1,
+        "180": 1,
+        "268": 1,
+        "255": 1,
+        "12": 2,
+        "2": 2,
+        "85": 1,
+        "60": 2,
+        "73": 1,
+        "32": 1,
+        "7": 1,
+        "305": 1,
+        "96": 1,
+        "1070": 1,
+        "86": 1,
+        "79": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 14,
+      "id": "5d6bcb9cd567c44cc490fff864a6232990e04c8a7b763a38c34be7a3162a02ab",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "30.8": 2,
+        "9": 1,
+        "22": 1,
+        "16": 1,
+        "1": 1,
+        "2": 1
+      },
+      "translation": {
+        "30": 2,
+        "8": 2,
+        "10.000": 2,
+        "15": 1,
+        "22": 1,
+        "9": 1,
+        "1": 1,
+        "2": 1,
+        "16": 1
+      }
+    },
+    {
+      "task": 8,
+      "item": 17,
+      "id": "7f06641e8287e3b76f2712c0f48bb66f763a9077b789e812f918af1fe20621ac",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "1987": 1,
+        "4": 1
+      },
+      "translation": {
+        "10.000": 1,
+        "1": 1,
+        "1987": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 0,
+      "id": "21d940f4f077456c6a3f40841d264ed2dd9171314e984974865f1d8d673c9fc2",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "17.8": 1,
+        "35.5": 1,
+        "1": 1,
+        "2020": 1,
+        "6": 1,
+        "192": 1,
+        "7": 1,
+        "1987": 1,
+        "50.8": 1,
+        "137": 1,
+        "112000": 1,
+        "249": 2,
+        "129": 1,
+        "50": 1,
+        "4": 1
+      },
+      "translation": {
+        "2025": 1,
+        "178.000": 1,
+        "355.000": 1,
+        "1": 1,
+        "10.000": 1,
+        "6": 1,
+        "2020": 1,
+        "192": 1,
+        "70.000": 1,
+        "1987": 1,
+        "137": 1,
+        "50": 2,
+        "8": 1,
+        "112.000": 1,
+        "249": 2,
+        "129": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 0,
+      "id": "21d940f4f077456c6a3f40841d264ed2dd9171314e984974865f1d8d673c9fc2",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 9,
+      "item": 2,
+      "id": "4ce9ef0c426cea29868b60def385696803a19f6fb6d2a7ef56d4274bb413098f",
+      "issue": "numeric_review",
+      "source": {
+        "12356": 1
+      },
+      "translation": {
+        "110": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 4,
+      "id": "dba8e7ad5fe29010ad2598c02737dd44114086ff82bb3cdeaf8ee8a5a64f3aa7",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "1.8": 1,
+        "12356": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 9,
+      "item": 5,
+      "id": "4e0847566bf72daebf2c01f0763de36ec61e06d7ee61a2b42db7dc9daf7ca512",
+      "issue": "numeric_review",
+      "source": {
+        "2005": 1,
+        "2016": 1,
+        "2099": 1,
+        "20": 1,
+        "74": 1,
+        "1.8": 1,
+        "15": 1,
+        "67": 1,
+        "21": 1,
+        "2023": 1,
+        "12.1": 1,
+        "16.1": 1,
+        "2025": 1,
+        "5": 1,
+        "1": 1,
+        "12356": 1,
+        "18": 1
+      },
+      "translation": {
+        "2099": 1,
+        "2005": 1,
+        "2016": 1,
+        "20": 1,
+        "74": 1,
+        "1": 1,
+        "8": 1,
+        "15": 1,
+        "67": 1,
+        "21": 1,
+        "12356": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 6,
+      "id": "34a24b4ce15b8d0345a76c62029eced4ca6afcef68b62f1600979aca87fdc3a9",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 9,
+      "item": 7,
+      "id": "0310222dafbc44eafde8edbde7170b967542f0df8825bc491b65680f25002799",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "70": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 9,
+      "id": "19dfc8b3970c2c20c530eae27dd272afb6da819c567e9acf5c7d005328df6986",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "70": 3,
+        "10": 1,
+        "2499": 1,
+        "44": 1,
+        "95": 3,
+        "15": 1,
+        "63": 1,
+        "544": 1,
+        "86": 2,
+        "90": 2,
+        "64": 1,
+        "96": 1,
+        "40": 2,
+        "98": 1,
+        "0": 7,
+        "49": 1,
+        "33": 1,
+        "73": 1,
+        "51": 1,
+        "30": 1,
+        "21": 1,
+        "45": 1,
+        "8": 1,
+        "2020": 1,
+        "35": 1,
+        "11": 1,
+        "2": 3,
+        "24": 2,
+        "1": 1,
+        "48": 1,
+        "2019": 1,
+        "2024": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 10,
+      "id": "6076fc65c4c2a391a4099d39838e93e99ef4865de357f63aece0f32d20c1face",
+      "issue": "numeric_review",
+      "source": {
+        "2499": 1,
+        "44": 1,
+        "95": 2,
+        "15": 1,
+        "63": 1,
+        "544": 1,
+        "86": 2,
+        "90": 2,
+        "64": 1,
+        "96": 1,
+        "40": 1,
+        "98": 1,
+        "0.49": 1,
+        "0.33": 1,
+        "0.73": 1,
+        "51": 1,
+        "0.30": 1,
+        "0.21": 1,
+        "0.45": 1,
+        "70": 1,
+        "0.95": 1,
+        "2020": 1,
+        "8": 1,
+        "35": 1
+      },
+      "translation": {
+        "2499": 1,
+        "44": 1,
+        "95": 3,
+        "15": 1,
+        "63": 1,
+        "544": 1,
+        "86": 2,
+        "90": 2,
+        "64": 1,
+        "96": 1,
+        "40": 2,
+        "98": 1,
+        "0": 7,
+        "49": 1,
+        "33": 1,
+        "73": 1,
+        "51": 1,
+        "70": 2,
+        "30": 1,
+        "21": 1,
+        "45": 1,
+        "8": 1,
+        "2020": 1,
+        "35": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 11,
+      "id": "f8545a8824537618292e6b54be9c4829cfaa154a07bf3db9d74252b285456f77",
+      "issue": "numeric_review",
+      "source": {
+        "2": 3,
+        "24": 2,
+        "48": 1,
+        "1": 1,
+        "2019": 1,
+        "2024": 1,
+        "30": 1,
+        "13": 1,
+        "38": 1,
+        "72": 1
+      },
+      "translation": {
+        "2": 3,
+        "24": 2,
+        "1": 1,
+        "48": 1,
+        "2019": 1,
+        "2024": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 15,
+      "id": "3441159ef3bfe3fabba4dbe021ec326c53348d9cf1575a4800e4ec618214ef47",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "65": 3,
+        "3": 1,
+        "42009": 1,
+        "17": 1,
+        "0.83": 1,
+        "95": 2,
+        "0.73": 1,
+        "0.93": 1,
+        "1000": 1,
+        "5": 1,
+        "12483": 1,
+        "70": 2,
+        "85": 1,
+        "28": 1,
+        "0.72": 1,
+        "0.59": 1,
+        "0.89": 1,
+        "2017": 2,
+        "2018": 1,
+        "40": 1,
+        "20.6": 1,
+        "5.0": 1
+      },
+      "translation": {
+        "2025": 1,
+        "65": 3,
+        "3": 1,
+        "42.009": 1,
+        "17": 1,
+        "0": 7,
+        "83": 1,
+        "95": 2,
+        "73": 1,
+        "93": 1,
+        "1000": 1,
+        "5": 2,
+        "12.483": 1,
+        "70": 2,
+        "85": 1,
+        "28": 1,
+        "72": 1,
+        "59": 1,
+        "89": 1,
+        "2017": 2,
+        "2018": 1,
+        "40": 1,
+        "20": 1,
+        "6": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 16,
+      "id": "1245b7ab6aa9b6a0f4d5f6f9da4b140c5e4b1e9bc9dc86954d80a80d15291d35",
+      "issue": "numeric_review",
+      "source": {
+        "0.94": 1,
+        "95": 1,
+        "0.85": 1,
+        "1.03": 1,
+        "11.8": 1,
+        "24.1": 1,
+        "70": 1,
+        "13": 1,
+        "40": 1
+      },
+      "translation": {
+        "0": 2,
+        "94": 1,
+        "95": 1,
+        "85": 1,
+        "1": 1,
+        "03": 1
+      }
+    },
+    {
+      "task": 9,
+      "item": 19,
+      "id": "1b4d4bf8950c4e9372054374a010822f40a1c4757fd4fc9984da8d3720e71774",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "35": 1
+      }
+    },
+    {
+      "task": 10,
+      "item": 0,
+      "id": "b0e4913cc05c6137e1c87d4c56ea6f75ace1b9b1a1f6a56b57b2f37ef93f36df",
+      "issue": "numeric_review",
+      "source": {
+        "2017": 2,
+        "2.5": 1,
+        "2025": 1,
+        "51": 1,
+        "0.49": 1,
+        "95": 2,
+        "0.25": 1,
+        "0.96": 1,
+        "55": 1,
+        "0.45": 1,
+        "0.28": 1,
+        "0.73": 1,
+        "2127": 1,
+        "74.5": 1,
+        "90": 1,
+        "1.9": 1,
+        "13.9": 1,
+        "8.6": 1,
+        "35": 1,
+        "13.3": 1,
+        "9.6": 1,
+        "28": 1,
+        "20": 1,
+        "2018": 1,
+        "1.4": 1,
+        "0.3": 1
+      },
+      "translation": {
+        "2017": 1,
+        "2.5": 1
+      }
+    },
+    {
+      "task": 10,
+      "item": 1,
+      "id": "f4f6cd2e8a982587a4695fc311778c78d4e10b6fb5b43306cce143763f119d48",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 11,
+      "item": 5,
+      "id": "8a3b829bb7ce5fbfec064fcbc007f1bfaa8b36da6b0ee3324652d5c0436f3ff5",
+      "issue": "numeric_review",
+      "source": {
+        "40": 1
+      },
+      "translation": {
+        "40": 1,
+        "90": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 6,
+      "id": "2e1af9540ca61e9586fa4adfb5b7b6d1bc8137b1a28f6d127a94eb757fb36f58",
+      "issue": "numeric_review",
+      "source": {
+        "10": 3,
+        "40": 1,
+        "90": 1,
+        "25": 1,
+        "34": 1,
+        "35": 1,
+        "44": 1,
+        "9": 1,
+        "45": 1,
+        "54": 1,
+        "6": 1,
+        "2010": 1,
+        "1.65": 2,
+        "1.22": 1
+      },
+      "translation": {
+        "10": 3,
+        "40": 1,
+        "90": 1,
+        "25": 1,
+        "34": 1,
+        "35": 1,
+        "44": 1,
+        "9": 1,
+        "45": 1,
+        "54": 1,
+        "6": 1,
+        "2010": 1,
+        "1": 3,
+        "65": 2,
+        "22": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 7,
+      "id": "e591e3767b81f8b52b9ad6dbcaf3e933eecf5722f9c573b386c8756b0f7adc42",
+      "issue": "numeric_review",
+      "source": {
+        "2004": 1,
+        "60.3": 1,
+        "1": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "translation": {
+        "2004": 1,
+        "603.000": 1,
+        "1": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 10,
+      "id": "c0fc5b303e7289edf5b556eea29d379de9f6838c025cdbd2db7bd46e90e67d6f",
+      "issue": "numeric_review",
+      "source": {
+        "60": 1
+      },
+      "translation": {
+        "600.000": 1,
+        "30": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 11,
+      "id": "307f5e539aaee6975102f463220b95c0bcd0b65222888166b13a81f048e673fe",
+      "issue": "numeric_review",
+      "source": {
+        "2004": 1,
+        "603000": 1,
+        "1.0": 1,
+        "28": 1,
+        "57": 1,
+        "1.28": 1,
+        "1.39": 1,
+        "1.50": 1,
+        "1.36": 1
+      },
+      "translation": {
+        "2004": 1,
+        "603.000": 1,
+        "1": 5,
+        "0": 1,
+        "28": 2,
+        "57": 1,
+        "39": 1,
+        "50": 1,
+        "36": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 15,
+      "id": "49bd058bc8c76fe7e34c0dd8cd443c8575151c9e75a0fb581180f901deec3494",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "50": 1,
+        "20": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 16,
+      "id": "d908b3fd8346e4d2389f98b6ab9cf2a94fe83ebaa817b22c25faf956a6cbe2e7",
+      "issue": "numeric_review",
+      "source": {
+        "41": 1,
+        "17395": 1,
+        "2.32": 2,
+        "95": 3,
+        "2.15": 1,
+        "2.51": 1,
+        "1.36": 1,
+        "36": 1,
+        "1.25": 1,
+        "25": 1,
+        "133": 1,
+        "64640": 1,
+        "55": 1,
+        "1.55": 1,
+        "1.49": 1,
+        "1.61": 1,
+        "27": 1,
+        "1.27": 1,
+        "1.17": 1,
+        "1.37": 1,
+        "16": 1,
+        "12169": 1
+      },
+      "translation": {
+        "41": 1,
+        "17.395": 1,
+        "2": 4,
+        "32": 2,
+        "95": 3,
+        "15": 1,
+        "51": 1,
+        "1": 8,
+        "36": 2,
+        "25": 2,
+        "55": 2,
+        "49": 1,
+        "61": 1,
+        "27": 2,
+        "17": 1,
+        "37": 1,
+        "16": 1,
+        "12.169": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 20,
+      "id": "f4519f71964749f23dc2c91826977bea4e8f16bd42afef636b51e521352662b3",
+      "issue": "numeric_review",
+      "source": {
+        "22": 1,
+        "15.5": 1
+      },
+      "translation": {
+        "0": 1,
+        "22": 1,
+        "15": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 21,
+      "id": "193a61c8d0a63872875be0b3b74783ff680f6a2a9186857bb6ff61725a1bded2",
+      "issue": "numeric_review",
+      "source": {
+        "697": 1,
+        "75": 1,
+        "4": 2,
+        "49.0": 1,
+        "95": 1,
+        "43.8": 1,
+        "54.2": 1,
+        "39.2": 1,
+        "34.0": 1,
+        "44.4": 1,
+        "0.80": 1,
+        "0.66": 1,
+        "0.93": 1,
+        "6": 1,
+        "22.0": 1,
+        "18.0": 1,
+        "26.6": 1,
+        "15.5": 1,
+        "12.0": 1,
+        "19.7": 1,
+        "0.71": 1,
+        "0.46": 1,
+        "0.91": 1,
+        "38.3": 1,
+        "52.2": 1
+      },
+      "translation": {
+        "697": 1,
+        "75": 1,
+        "49": 1,
+        "0": 11,
+        "95": 1,
+        "43": 1,
+        "8": 1,
+        "54": 1,
+        "2": 3,
+        "39": 1,
+        "34": 1,
+        "44": 1,
+        "4": 1,
+        "80": 1,
+        "66": 1,
+        "93": 1,
+        "22": 1,
+        "18": 1,
+        "26": 1,
+        "6": 1,
+        "15": 1,
+        "5": 1,
+        "12": 1,
+        "19": 1,
+        "7": 1,
+        "71": 1,
+        "46": 1,
+        "91": 1,
+        "38": 1,
+        "3": 1,
+        "52": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 22,
+      "id": "f02c1a28225af30bc591a043ff51bb9a8d4db6ea50ad0b0ccf64b6b9e539ff1c",
+      "issue": "numeric_review",
+      "source": {
+        "0.94": 1,
+        "95": 2,
+        "0.79": 1,
+        "1.13": 1,
+        "10": 1,
+        "3760": 1,
+        "2019": 1,
+        "25": 1,
+        "1.25": 1,
+        "1.08": 1,
+        "1.44": 1,
+        "9": 1,
+        "4395": 1
+      },
+      "translation": {
+        "0": 2,
+        "94": 1,
+        "95": 2,
+        "79": 1,
+        "1": 4,
+        "13": 1,
+        "10": 1,
+        "3.760": 1,
+        "25": 2,
+        "08": 1,
+        "44": 1,
+        "9": 1,
+        "4.395": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 26,
+      "id": "18cc8ebf94f6a0099925c7fef8143432226608283aa9678db406d135ea5a62af",
+      "issue": "numeric_review",
+      "source": {
+        "52": 1,
+        "19488": 1,
+        "1.83": 2,
+        "95": 3,
+        "1.68": 1,
+        "1.98": 1,
+        "43": 1,
+        "1.97": 1,
+        "1.79": 1,
+        "2.18": 1,
+        "38": 1,
+        "1.38": 1,
+        "1.19": 1,
+        "1.61": 1,
+        "14": 1,
+        "32484": 1,
+        "25": 1,
+        "1.25": 1,
+        "1.15": 1,
+        "1.35": 1,
+        "65": 1,
+        "41233": 1
+      },
+      "translation": {
+        "52": 1,
+        "19.488": 1,
+        "1": 12,
+        "83": 2,
+        "95": 3,
+        "68": 1,
+        "98": 1,
+        "43": 1,
+        "97": 1,
+        "79": 1,
+        "2": 1,
+        "18": 1,
+        "38": 2,
+        "19": 1,
+        "61": 1,
+        "14": 1,
+        "32.484": 1,
+        "25": 2,
+        "15": 1,
+        "35": 1,
+        "65": 1,
+        "41.233": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 27,
+      "id": "e38151b91aea3e26dda81dae5d3c3a0b8274618770419e3cc17360d524057092",
+      "issue": "numeric_review",
+      "source": {
+        "12320": 1,
+        "3": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 11,
+      "item": 27,
+      "id": "e38151b91aea3e26dda81dae5d3c3a0b8274618770419e3cc17360d524057092",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 11,
+      "item": 30,
+      "id": "9b6d200c4d3b9e1f81b04c639bf02ec2a75d4b75b13e4c7991af6d77e2745214",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "60": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 31,
+      "id": "63a135f4532ec935ec7cdfd564d5ea2cb6397744704c6b5981ed865f90615f2b",
+      "issue": "numeric_review",
+      "source": {
+        "80": 1,
+        "29861": 1,
+        "61": 1,
+        "1.61": 1,
+        "95": 3,
+        "1.23": 1,
+        "2.12": 1,
+        "11": 1,
+        "4114": 1,
+        "100": 1,
+        "4": 1,
+        "1": 1,
+        "7": 1,
+        "0.01": 2,
+        "0.02": 1,
+        "75": 1,
+        "1.75": 1,
+        "1.39": 1,
+        "2.20": 1
+      },
+      "translation": {
+        "80": 1,
+        "29.861": 1,
+        "61": 2,
+        "1": 5,
+        "95": 3,
+        "23": 1,
+        "2": 2,
+        "12": 1,
+        "11": 1,
+        "4.114": 1,
+        "4": 1,
+        "100": 1,
+        "7": 1,
+        "0": 3,
+        "01": 2,
+        "02": 1,
+        "75": 2,
+        "39": 1,
+        "20": 1
+      }
+    },
+    {
+      "task": 11,
+      "item": 32,
+      "id": "062a5ee84f67e9af2a71a8be5b79641807b96ed3989e95fdba7f6db8ebb1eb5d",
+      "issue": "numeric_review",
+      "source": {
+        "22": 1,
+        "4": 1,
+        "3": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 11,
+      "item": 35,
+      "id": "729c1100f6905647e1935cd0e7b6a5b8a37f4d56db435826355632ecf5a66106",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "20": 1,
+        "10": 1,
+        "25": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 0,
+      "id": "2cea538a701ea9ecbad2fb3a1f55280da363e67b1c3f1f1956248c9045940f1e",
+      "issue": "numeric_review",
+      "source": {
+        "11.8": 1,
+        "3.6": 1,
+        "2": 3,
+        "1": 3,
+        "21": 1,
+        "1.21": 1,
+        "14": 1,
+        "1.14": 1,
+        "45": 1,
+        "10": 1,
+        "8": 1,
+        "1.08": 1,
+        "95": 1,
+        "1.01": 1,
+        "1.16": 2,
+        "26": 1,
+        "1.26": 1,
+        "1.35": 1,
+        "17": 1,
+        "1.17": 1,
+        "1.11": 1,
+        "1.22": 1
+      },
+      "translation": {
+        "118.000": 1,
+        "36.000": 1,
+        "2": 3,
+        "21": 1,
+        "1": 3,
+        "1.21": 1,
+        "14": 1,
+        "1.14": 1,
+        "450.000": 1,
+        "10": 1,
+        "8": 1,
+        "1.08": 1,
+        "95": 1,
+        "1.01": 1,
+        "1.16": 2,
+        "26": 1,
+        "1.26": 1,
+        "1.35": 1,
+        "17": 1,
+        "1.17": 1,
+        "1.11": 1,
+        "1.22": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 4,
+      "id": "bc25c6add5d5fc73e021bce1ae8648c64c202a8b7971aeb28b4a8be0c396fc85",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "20": 1,
+        "50": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 5,
+      "id": "8672f261af13cb11feada99573428b0b7cb586eb72ef82a84444cb8e0849fa4a",
+      "issue": "numeric_review",
+      "source": {
+        "17": 1,
+        "38.8": 1,
+        "21": 1,
+        "1.21": 1,
+        "0.02": 1,
+        "17.96": 1,
+        "47": 1,
+        "1.47": 1,
+        "51": 1,
+        "1.51": 1
+      },
+      "translation": {
+        "17": 1,
+        "388.000": 1,
+        "21": 2,
+        "1": 3,
+        "0": 1,
+        "02": 1,
+        "179.600": 1,
+        "47": 2,
+        "51": 2
+      }
+    },
+    {
+      "task": 12,
+      "item": 9,
+      "id": "f4b628befa0ed69d3cd92dbfe661882e15ca1c1c79ab1d8b28a85acf120e6b20",
+      "issue": "numeric_review",
+      "source": {
+        "60": 1,
+        "12": 1,
+        "14": 1
+      },
+      "translation": {
+        "60": 1,
+        "5": 1,
+        "12": 1,
+        "14": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 10,
+      "id": "d96fcdaebbfde15f8389ba9e729f4ffb951243298b15cf56afecf4ad0d26e552",
+      "issue": "numeric_review",
+      "source": {
+        "20995": 1,
+        "60": 1,
+        "4.74": 1,
+        "12": 1,
+        "0.88": 1,
+        "14": 1,
+        "0.86": 1,
+        "13": 1,
+        "0.87": 1
+      },
+      "translation": {
+        "20.995": 1,
+        "60": 1,
+        "4": 1,
+        "74": 1,
+        "12": 1,
+        "0.88": 1,
+        "14": 1,
+        "0.86": 1,
+        "13": 1,
+        "0.87": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 14,
+      "id": "b779fa9ff87bcdca9b0e30778cf381bd8b5de31368cadfb890fb39b860ab2183",
+      "issue": "numeric_review",
+      "source": {
+        "20": 1
+      },
+      "translation": {
+        "10": 1,
+        "90": 1,
+        "20": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 15,
+      "id": "8b145ca0b743ff0dca5867262b003c54ef8ffaeb5a3463b2cf2bc1149744b298",
+      "issue": "numeric_review",
+      "source": {
+        "9676": 1,
+        "6": 1,
+        "11": 1,
+        "0.89": 1,
+        "23": 1,
+        "0.77": 1,
+        "1.87": 1,
+        "95": 1,
+        "1.35": 1,
+        "2.59": 1,
+        "20": 1,
+        "2.04": 1,
+        "1.67": 1,
+        "2.49": 1
+      },
+      "translation": {
+        "9.676": 1,
+        "6": 1,
+        "11": 1,
+        "0.89": 1,
+        "23": 1,
+        "0.77": 1,
+        "1": 3,
+        "87": 1,
+        "95": 1,
+        "35": 1,
+        "2": 3,
+        "59": 1,
+        "20": 1,
+        "04": 1,
+        "67": 1,
+        "49": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 17,
+      "id": "2d86c5cf906926f2a37122ba689eea3c17952d2efd078297a24cf2c6d9cf2d6d",
+      "issue": "numeric_review",
+      "source": {
+        "7000": 1,
+        "8000": 1,
+        "150": 1,
+        "300": 1
+      },
+      "translation": {
+        "7.000": 1,
+        "8.000": 1,
+        "150": 1,
+        "300": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 19,
+      "id": "ddca6491a3fbfcdabfed1a1fb6b7f4c36290418fc6bca0c7e989af6fcacfafcd",
+      "issue": "numeric_review",
+      "source": {
+        "7800": 1,
+        "3500": 1,
+        "150": 1,
+        "300": 1,
+        "60": 1,
+        "6000": 1,
+        "8000": 1
+      },
+      "translation": {
+        "7.800": 1,
+        "45": 1,
+        "3.500": 1,
+        "150": 1,
+        "300": 1,
+        "30": 1,
+        "60": 1,
+        "6.000": 1,
+        "8.000": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 20,
+      "id": "3b5815ef9438af0e087b11401a45eac75dd692fecf0159d411698573aef6bc6d",
+      "issue": "numeric_review",
+      "source": {
+        "15": 4,
+        "47471": 1,
+        "3013": 1,
+        "3553": 1,
+        "5801": 1,
+        "7842": 1,
+        "10901": 1,
+        "40": 1,
+        "45": 1,
+        "53": 1,
+        "0.60": 1,
+        "0.55": 1,
+        "0.47": 1,
+        "60": 2,
+        "6000": 1,
+        "8000": 2,
+        "10000": 1,
+        "3867": 1,
+        "1000": 1,
+        "1": 1,
+        "2": 1,
+        "31": 1,
+        "0.69": 2,
+        "7.5": 1,
+        "150": 1,
+        "300": 1,
+        "20": 1,
+        "0.80": 1,
+        "3": 1,
+        "5": 1,
+        "39": 1,
+        "0.61": 1,
+        "10": 1,
+        "48": 1,
+        "0.52": 1
+      },
+      "translation": {
+        "15": 4,
+        "47.471": 1,
+        "3.013": 1,
+        "3.553": 1,
+        "5.801": 1,
+        "7.842": 1,
+        "10.901": 1,
+        "40": 1,
+        "45": 1,
+        "53": 1,
+        "0.60": 1,
+        "0.55": 1,
+        "0.47": 1,
+        "60": 2,
+        "6.000": 1,
+        "8.000": 2,
+        "10.000": 1,
+        "3.867": 1,
+        "1.000": 1,
+        "0.85": 1,
+        "1": 1,
+        "2": 1,
+        "31": 1,
+        "0.69": 2,
+        "7": 1,
+        "5": 2,
+        "150": 1,
+        "300": 1,
+        "20": 1,
+        "0.80": 1,
+        "3": 1,
+        "39": 1,
+        "0.61": 1,
+        "10": 1,
+        "25": 1,
+        "48": 1,
+        "0.52": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 21,
+      "id": "4f9cd3ff44506710fa7dce55755ca1c66a9844bc7d221a87c4698340e9286f5e",
+      "issue": "numeric_review",
+      "source": {
+        "4000": 1,
+        "7000": 1,
+        "0.52": 1
+      },
+      "translation": {
+        "4.000": 1,
+        "7.000": 1,
+        "10.000": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 24,
+      "id": "61e9356227ce7701995133695a487241a3c2cded1538574886508d4c60676b4f",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "13": 1,
+        "27": 1,
+        "1": 1
+      },
+      "translation": {
+        "10": 2,
+        "13": 1,
+        "27": 1,
+        "1": 1,
+        "30": 1,
+        "45": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 25,
+      "id": "d60de6bb6a57021037e9830f49987d5e1a2489bdf795443d0f53df943d1fb0ae",
+      "issue": "numeric_review",
+      "source": {
+        "10": 2,
+        "13": 1,
+        "0.87": 1,
+        "20": 1,
+        "0.80": 1,
+        "27": 1,
+        "0.73": 1,
+        "28": 1,
+        "0.72": 1,
+        "1.0": 1,
+        "0.90": 1,
+        "22": 1,
+        "0.78": 1,
+        "80": 1,
+        "45": 1,
+        "0.55": 1,
+        "29": 1,
+        "0.71": 1
+      },
+      "translation": {
+        "10": 2,
+        "13": 1,
+        "0.87": 1,
+        "20": 1,
+        "0.80": 1,
+        "27": 1,
+        "0.73": 1,
+        "28": 1,
+        "0.72": 1,
+        "1": 1,
+        "0": 1,
+        "0.90": 1,
+        "22": 1,
+        "0.78": 1,
+        "80": 1,
+        "45": 1,
+        "0.55": 1,
+        "29": 1,
+        "0.71": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 29,
+      "id": "0c1663f211889844e23cc81f9d62504eb5b109394f49a034be014935250e1f5f",
+      "issue": "numeric_review",
+      "source": {
+        "7": 1
+      },
+      "translation": {
+        "7": 1,
+        "10": 1,
+        "20": 1,
+        "50": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 30,
+      "id": "d83c50d2762e07db39d4d420242f4210e5625d0f33e2848013257798f16c96cf",
+      "issue": "numeric_review",
+      "source": {
+        "16": 1,
+        "138": 1,
+        "11.3": 1,
+        "12": 1,
+        "1.12": 1,
+        "30": 2,
+        "1.30": 2,
+        "7": 3,
+        "1": 2,
+        "6": 1,
+        "1.06": 1,
+        "13": 1,
+        "1.13": 1,
+        "6.1": 1,
+        "20": 1,
+        "48": 1,
+        "51562": 1,
+        "3853": 1,
+        "2": 1,
+        "95": 1,
+        "1.11": 1,
+        "1.54": 1
+      },
+      "translation": {
+        "16": 1,
+        "1": 8,
+        "38": 1,
+        "113.000": 1,
+        "12": 2,
+        "30": 4,
+        "7": 3,
+        "6": 1,
+        "06": 1,
+        "13": 2,
+        "61.000": 1,
+        "20": 1,
+        "48": 1,
+        "51.562": 1,
+        "3.853": 1,
+        "2": 1,
+        "95": 1,
+        "11": 1,
+        "54": 1
+      }
+    },
+    {
+      "task": 12,
+      "item": 34,
+      "id": "1f553b6591c91b9218ceba1fadc218721514b2281d42304c51792f6ec01ba4a7",
+      "issue": "numeric_review",
+      "source": {
+        "56": 1,
+        "28": 1
+      },
+      "translation": {
+        "50": 1,
+        "56": 1,
+        "28": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 2,
+      "id": "906a4fdcbca5eecb1568ea8bb4a52f8a1bf172862333b8477d374c13bff97aef",
+      "issue": "numeric_review",
+      "source": {
+        "28": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 14,
+      "item": 2,
+      "id": "906a4fdcbca5eecb1568ea8bb4a52f8a1bf172862333b8477d374c13bff97aef",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 14,
+      "item": 3,
+      "id": "d47dd4e6f78955cfce905dfd4516600bc4c46ba38ce78cb9ce1986ef4bc70ac2",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "28": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 3,
+      "id": "d47dd4e6f78955cfce905dfd4516600bc4c46ba38ce78cb9ce1986ef4bc70ac2",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 14,
+      "item": 4,
+      "id": "59c1e8e1e0ff5e3998d1fb16046c55a7ff3f17cbd2babca54ed521205973bdf4",
+      "issue": "numeric_review",
+      "source": {
+        "11.9": 1,
+        "300": 1,
+        "1": 2,
+        "7": 2,
+        "0.93": 2,
+        "95": 1,
+        "0.90": 2,
+        "0.96": 1,
+        "11": 1,
+        "0.89": 1,
+        "0.86": 2,
+        "2": 1,
+        "4": 1,
+        "13": 1,
+        "0.87": 1,
+        "0.83": 1,
+        "5": 1,
+        "6": 1,
+        "15": 1,
+        "0.85": 1,
+        "0.79": 1,
+        "0.91": 1,
+        "20": 1,
+        "0.80": 1,
+        "0.73": 1
+      },
+      "translation": {
+        "28": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 4,
+      "id": "59c1e8e1e0ff5e3998d1fb16046c55a7ff3f17cbd2babca54ed521205973bdf4",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 14,
+      "item": 9,
+      "id": "76f54a67c3b1b2570aece942398f78f522c08529da439b7675bd0965a5198d1d",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1,
+        "3": 3,
+        "1.03": 2,
+        "95": 1,
+        "1.02": 2,
+        "1.05": 2,
+        "1.01": 2,
+        "0.99": 2,
+        "0.97": 2
+      },
+      "translation": {
+        "6": 1,
+        "30.000": 1,
+        "3": 2,
+        "1.03": 2,
+        "95": 1,
+        "1.02": 2,
+        "1.05": 2,
+        "1.01": 2,
+        "0.99": 2,
+        "0.97": 2
+      }
+    },
+    {
+      "task": 14,
+      "item": 14,
+      "id": "1bcce48ec5497fbb021aafd78b29dbf97b692ab561490b2caf205bf5b393c436",
+      "issue": "numeric_review",
+      "source": {
+        "90": 2,
+        "17": 1,
+        "0.83": 1,
+        "3": 1,
+        "210": 1,
+        "225": 1,
+        "1": 1,
+        "8": 1,
+        "0.92": 1
+      },
+      "translation": {
+        "90": 2,
+        "17": 1,
+        "0.83": 1,
+        "210": 1,
+        "225": 1,
+        "8": 1,
+        "0.92": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 17,
+      "id": "06f5b58dc9ed905921f4cd4f367957f5d5a1b243008968fc1b46f89700489478",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 14,
+      "item": 19,
+      "id": "8b56bae9842e7492f161397acb5de86cf2680d4b5e57eb10aabf5738ea16179c",
+      "issue": "numeric_review",
+      "source": {
+        "10.09": 1,
+        "7.3": 1,
+        "15": 1,
+        "0.85": 1,
+        "95": 1,
+        "0.79": 1,
+        "0.90": 1,
+        "50": 1,
+        "1.41": 1,
+        "1.26": 1
+      },
+      "translation": {
+        "100.900": 1,
+        "7.3": 1,
+        "15": 1,
+        "0.85": 1,
+        "95": 1,
+        "0.79": 1,
+        "0.90": 1,
+        "50": 1,
+        "1.41": 1,
+        "1.26": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 21,
+      "id": "cd0d12fe5235a6404160eb122879e9d35d9ec9edd2ed3c988377bfdbbb13e8e1",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "3": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 23,
+      "id": "f82205c1defbc391ff181041cc634a50ba6fe74b3b751ee5046a72ede988cdd7",
+      "issue": "numeric_review",
+      "source": {
+        "17": 1
+      },
+      "translation": {
+        "3": 1,
+        "4": 1,
+        "17": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 28,
+      "id": "f01729f47f84914dfe37dd6bffdc46cad89ced3bfb4a2d0f7a170affd3d9190e",
+      "issue": "numeric_review",
+      "source": {
+        "200": 1,
+        "5": 1,
+        "2": 1,
+        "13": 1
+      },
+      "translation": {
+        "200": 1,
+        "10": 1,
+        "5": 1,
+        "13": 1,
+        "2": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 33,
+      "id": "3eda0ff872cdf47e03a24eaf46de734da43c7be321a9b869064f6044448ced28",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "20": 1,
+        "50": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 38,
+      "id": "95447564cd461c2c026e455707da53fe62962e0429e1b2cb246c473ee957b322",
+      "issue": "numeric_review",
+      "source": {
+        "14": 1,
+        "13": 1,
+        "33": 1
+      },
+      "translation": {
+        "10": 1,
+        "14": 1,
+        "13": 1,
+        "33": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 39,
+      "id": "c221f3c480fd5516d0efbf1ffd15ed096c3d5784e1917dba90c4f1e24654d20c",
+      "issue": "numeric_review",
+      "source": {
+        "27.1": 1,
+        "11": 1,
+        "1.11": 1,
+        "14": 1,
+        "1.14": 1,
+        "13": 1,
+        "0.87": 1,
+        "33": 1,
+        "0.67": 1,
+        "2.5": 1,
+        "104": 1,
+        "10": 1,
+        "8": 1,
+        "1.08": 1
+      },
+      "translation": {
+        "271.000": 1,
+        "11": 1,
+        "1.11": 1,
+        "14": 1,
+        "1.14": 1,
+        "13": 1,
+        "0.87": 1,
+        "33": 1,
+        "0.67": 1,
+        "2.5": 1,
+        "104": 1,
+        "10": 1,
+        "8": 1,
+        "1.08": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 43,
+      "id": "c9fd623f06658e4091f1e6cdf48b66eba01e139e0f070cd61bcaa7cc458184f9",
+      "issue": "numeric_review",
+      "source": {
+        "8": 1,
+        "2": 1,
+        "5": 1
+      },
+      "translation": {
+        "8": 1,
+        "2": 2,
+        "5": 1,
+        "4": 1
+      }
+    },
+    {
+      "task": 14,
+      "item": 49,
+      "id": "df11cfab94beacda72d89019931fd08cbdc3bfaae6326ef2d27b5e280d56afe6",
+      "issue": "numeric_review",
+      "source": {
+        "2.95": 1,
+        "20": 1,
+        "0.6": 1,
+        "2.1": 1
+      },
+      "translation": {
+        "29.500": 1,
+        "20": 1,
+        "0.6": 1,
+        "2.1": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 3,
+      "id": "c953ea744acb1e55a73d0dde8c64bc0f646656585bad05e9e7f54b4c101e774a",
+      "issue": "numeric_review",
+      "source": {
+        "20": 1,
+        "25": 1,
+        "27.5": 1,
+        "30": 2,
+        "35": 2,
+        "40": 1,
+        "5": 1
+      },
+      "translation": {
+        "20": 2,
+        "25": 1,
+        "27": 1,
+        "5": 2,
+        "30": 2,
+        "35": 2,
+        "45": 1,
+        "40": 2
+      }
+    },
+    {
+      "task": 15,
+      "item": 4,
+      "id": "167b186bf41ba61fa0a2dd98567fafab049404423e02075fcbe069076dddf419",
+      "issue": "numeric_review",
+      "source": {
+        "239": 1,
+        "5": 2,
+        "20": 2,
+        "25": 3,
+        "27.5": 2,
+        "7": 1,
+        "1.07": 1,
+        "30": 2,
+        "1.20": 1,
+        "35": 2,
+        "45": 1,
+        "1.45": 1,
+        "40": 2,
+        "94": 1,
+        "1.94": 1,
+        "60": 1,
+        "2.76": 2,
+        "39": 1,
+        "1.39": 1
+      },
+      "translation": {
+        "239": 1,
+        "5": 3,
+        "20": 3,
+        "25": 3,
+        "27": 2,
+        "7": 1,
+        "1": 5,
+        "07": 1,
+        "30": 2,
+        "35": 2,
+        "45": 2,
+        "40": 2,
+        "94": 2,
+        "60": 1,
+        "2": 2,
+        "76": 2,
+        "39": 2
+      }
+    },
+    {
+      "task": 15,
+      "item": 5,
+      "id": "d7c0a0a76bf65817327dd5ad5deb599fa0e0cee751e4866809314eb9d8a491b2",
+      "issue": "numeric_review",
+      "source": {
+        "6": 2,
+        "5": 1,
+        "239": 1,
+        "16": 2,
+        "8": 2,
+        "26": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 15,
+      "item": 6,
+      "id": "c0478c69d7962286bc26b2f7431ff4bb1186a8bc2decb8cdaf7db2c093739bde",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "4": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 8,
+      "id": "8fbb7bf76f2c9457219b9d897f89dbce70a7e7829fb77eaf96f68324c24326cf",
+      "issue": "numeric_review",
+      "source": {
+        "23": 1
+      },
+      "translation": {
+        "4": 1,
+        "23": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 9,
+      "id": "9799d8186b1e1b8b31fab23c3b6491fb3ff28a0b56d66dd7e723c1c3ba9fef61",
+      "issue": "numeric_review",
+      "source": {
+        "2.28": 1,
+        "8.2": 1,
+        "1236": 1,
+        "4": 1,
+        "23": 1,
+        "0.77": 1,
+        "95": 1,
+        "0.66": 2,
+        "0.90": 1,
+        "34": 1,
+        "0.50": 1,
+        "0.86": 1
+      },
+      "translation": {
+        "22.800": 1,
+        "8": 1,
+        "2": 1,
+        "1.236": 1,
+        "4": 1,
+        "23": 1,
+        "0": 6,
+        "77": 1,
+        "95": 1,
+        "66": 2,
+        "90": 1,
+        "34": 1,
+        "50": 1,
+        "86": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 14,
+      "id": "00298d5df0ad94d2add0b2b103573532d2f649a58808803c601f79668490f343",
+      "issue": "numeric_review",
+      "source": {
+        "21": 1,
+        "13.6": 1,
+        "9.1": 1,
+        "6796": 1,
+        "17": 1,
+        "0.83": 1,
+        "95": 1,
+        "0.72": 1,
+        "0.96": 1,
+        "0.0052": 1
+      },
+      "translation": {
+        "21": 1,
+        "136.000": 1,
+        "9": 1,
+        "1": 1,
+        "6.796": 1,
+        "17": 1,
+        "0": 4,
+        "83": 1,
+        "95": 1,
+        "72": 1,
+        "96": 1,
+        "0052": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 18,
+      "id": "da7e366dd47a36c78636d326e1f58045efbbfae17994b259d9508fd6f5f872e7",
+      "issue": "numeric_review",
+      "source": {
+        "52.1": 1,
+        "12.9": 1,
+        "7": 1,
+        "1.07": 1,
+        "95": 1,
+        "1.06": 1,
+        "1.08": 1
+      },
+      "translation": {
+        "521.000": 1,
+        "129.000": 1,
+        "7": 1,
+        "1": 3,
+        "07": 1,
+        "95": 1,
+        "06": 1,
+        "08": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 23,
+      "id": "bf2ba2d668dae66d6dfe8f93f2d9ebb87a383279f5ec0aa0591bd52cd3603a9d",
+      "issue": "numeric_review",
+      "source": {
+        "3.0": 1,
+        "19": 1,
+        "2097": 1,
+        "28": 1,
+        "0.72": 1,
+        "95": 1,
+        "0.62": 2,
+        "0.84": 1,
+        "35": 1,
+        "0.65": 1,
+        "0.45": 1,
+        "0.94": 1,
+        "26": 1,
+        "0.74": 1,
+        "0.87": 1,
+        "46": 1,
+        "0.54": 1,
+        "0.40": 1,
+        "0.73": 1
+      },
+      "translation": {
+        "30.000": 1,
+        "19": 1,
+        "2.097": 1,
+        "28": 1,
+        "0": 12,
+        "72": 1,
+        "95": 1,
+        "62": 2,
+        "84": 1,
+        "35": 1,
+        "65": 1,
+        "45": 1,
+        "94": 1,
+        "26": 1,
+        "74": 1,
+        "87": 1,
+        "46": 1,
+        "54": 1,
+        "40": 1,
+        "73": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 25,
+      "id": "41c980f25c0527cf3a2953da410738468cf0fbeef2584125170ed65423a07bd4",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "30": 1,
+        "1": 2,
+        "2": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 27,
+      "id": "2e47ac821b5c8ae74d10f4ed5e4aee21518e0f2eb6cc89a7f55949fbe5d510b0",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1": 3,
+        "30": 2,
+        "20": 1,
+        "2": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 28,
+      "id": "4d85abafa08a86a33d26336d327eab3b2ba5a76da3d52d5791d76b0b8f1cc911",
+      "issue": "numeric_review",
+      "source": {
+        "16": 1,
+        "244": 1,
+        "60": 2,
+        "0.69": 1,
+        "95": 2,
+        "0.37": 1,
+        "1.00": 1,
+        "20": 2,
+        "30": 3,
+        "0.99": 1,
+        "0.67": 1,
+        "1.31": 1,
+        "1338": 1,
+        "56": 1,
+        "19": 1,
+        "926": 1,
+        "1": 1,
+        "13": 1,
+        "1.13": 2,
+        "1.04": 1,
+        "1.23": 1,
+        "7": 1,
+        "1.07": 1,
+        "1.02": 1,
+        "1.30": 1,
+        "1.03": 1,
+        "1.64": 1
+      },
+      "translation": {
+        "16": 1,
+        "244": 1,
+        "60": 2,
+        "0": 4,
+        "69": 1,
+        "95": 2,
+        "37": 1,
+        "1": 11,
+        "00": 1,
+        "20": 2,
+        "30": 4,
+        "99": 1,
+        "67": 1,
+        "31": 1,
+        "1.338": 1,
+        "56": 1,
+        "19": 1,
+        "926": 1,
+        "13": 3,
+        "04": 1,
+        "23": 1,
+        "7": 1,
+        "07": 1,
+        "02": 1,
+        "03": 1,
+        "64": 1
+      }
+    },
+    {
+      "task": 15,
+      "item": 29,
+      "id": "3167fb040f67fefe1d898485b904437e5dd82a4431306aa814b1b9ffcdfe07de",
+      "issue": "numeric_review",
+      "source": {
+        "45.3": 1,
+        "54.1": 1,
+        "3": 1,
+        "11": 1,
+        "10": 1,
+        "13": 1,
+        "7": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 15,
+      "item": 33,
+      "id": "4adfe747c3b8a1bd253035303e1b73b54dae545b08fc2dd39fc09d607914d552",
+      "issue": "numeric_review",
+      "source": {
+        "85618": 1,
+        "61.8": 1,
+        "8": 1,
+        "2.5": 1,
+        "15": 1,
+        "1.15": 1,
+        "95": 1,
+        "1.01": 2,
+        "1.31": 1,
+        "3.5": 1,
+        "42": 1,
+        "1.42": 1,
+        "1.24": 1,
+        "1.63": 2,
+        "1.12": 1,
+        "0.98": 1,
+        "1.28": 1,
+        "19": 1,
+        "1.19": 1,
+        "1.40": 1,
+        "38": 1,
+        "1.38": 1,
+        "1.17": 1,
+        "4586": 1
+      },
+      "translation": {
+        "85.618": 1,
+        "61": 1,
+        "8": 2
+      }
+    },
+    {
+      "task": 15,
+      "item": 34,
+      "id": "f47e8f38a51d769ae94c04cacb7435d630f1d9ec06d33e67da281f3941e137ca",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "13": 1,
+        "7": 1,
+        "3": 1,
+        "2": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 15,
+      "item": 36,
+      "id": "285fc9411165056072e42646fd450c61b3b547cdff1d6accc6210f4a51a4a17f",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "0": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 0,
+      "id": "53ed31c8cb10cf5aadd5c2573c7b14fb77a2a6e2542778650df8660e1c5fa6c4",
+      "issue": "numeric_review",
+      "source": {
+        "23": 1,
+        "13": 1,
+        "1.13": 1,
+        "95": 1,
+        "1.10": 2,
+        "1.16": 2,
+        "27": 1,
+        "1.27": 1,
+        "1.18": 2,
+        "1.36": 2,
+        "5": 2,
+        "7": 1,
+        "1.07": 1,
+        "1.04": 2,
+        "1.09": 1,
+        "1.05": 1,
+        "1.03": 1,
+        "1.06": 3,
+        "22": 2,
+        "1.22": 2,
+        "1.28": 1,
+        "39": 1,
+        "1.39": 1,
+        "1.84": 1,
+        "49": 1,
+        "1.49": 1,
+        "2.12": 1,
+        "0.95": 1
+      },
+      "translation": {
+        "23": 1,
+        "13": 1,
+        "1.13": 1,
+        "95": 1,
+        "1.10": 2,
+        "1.16": 2,
+        "27": 1,
+        "1.27": 1,
+        "1.18": 2,
+        "1.36": 2,
+        "7": 1,
+        "1.07": 1,
+        "1.04": 2,
+        "1.09": 1,
+        "5": 1,
+        "1.05": 1,
+        "1.03": 1,
+        "1.06": 3,
+        "22": 2,
+        "1.22": 2,
+        "1.28": 1,
+        "39": 1,
+        "1.39": 1,
+        "1.84": 1,
+        "49": 1,
+        "1.49": 1,
+        "2.12": 1,
+        "0.95": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 1,
+      "id": "5bf9d376275c3ff2ea423b10f3bbd9531df1190a48db517a166d520bf7f6a00b",
+      "issue": "protected_tokens"
+    },
+    {
+      "task": 16,
+      "item": 1,
+      "id": "5bf9d376275c3ff2ea423b10f3bbd9531df1190a48db517a166d520bf7f6a00b",
+      "issue": "numeric_review",
+      "source": {
+        "12": 2,
+        "12132": 1,
+        "5": 1,
+        "1": 3,
+        "1.05": 1,
+        "0.96": 1,
+        "1.14": 1,
+        "20": 2,
+        "25": 1,
+        "1.25": 1,
+        "1.01": 1,
+        "1.55": 1,
+        "16.1": 1,
+        "8202": 1,
+        "11": 1,
+        "59": 1,
+        "1.59": 1,
+        "1.09": 1,
+        "2.31": 1,
+        "38": 1,
+        "7000": 1,
+        "12000": 1
+      },
+      "translation": {
+        "12": 1,
+        "12.132": 1,
+        "5": 1,
+        "1": 2,
+        "1.05": 1,
+        "0.96": 1,
+        "1.14": 1,
+        "20": 1,
+        "25": 1,
+        "1.25": 1,
+        "1.01": 1,
+        "1.55": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 4,
+      "id": "b93a454d260fd6793ef23056c98cbdde615b79de81c92cf4dbafee911684f905",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "35": 1,
+        "90": 1,
+        "80": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 5,
+      "id": "89df869578e63882884d3f1f5a732123f623352563c0c5cf3f543e35e3f9953f",
+      "issue": "numeric_review",
+      "source": {
+        "1": 2,
+        "2010": 1,
+        "2022": 1,
+        "1.29": 1,
+        "0.12": 1,
+        "6.58": 1,
+        "2.865": 1,
+        "2.593": 1,
+        "0.650": 1,
+        "95": 1,
+        "0.469": 1,
+        "0.902": 1,
+        "35": 1,
+        "1611": 1,
+        "81.7": 1,
+        "1.9": 1,
+        "1.1": 2,
+        "3.2": 1,
+        "1.8": 1,
+        "3.0": 1
+      },
+      "translation": {
+        "1": 9,
+        "2010": 1,
+        "2022": 1,
+        "29": 1,
+        "50": 1,
+        "0": 2,
+        "12": 1,
+        "6": 1,
+        "58": 1,
+        "2865": 1,
+        "2593": 1,
+        "0650": 1,
+        "95": 1,
+        "0469": 1,
+        "0902": 1,
+        "35": 1,
+        "1.611": 1,
+        "81": 1,
+        "7": 1,
+        "90": 1,
+        "9": 1,
+        "3": 2,
+        "2": 1,
+        "80": 1,
+        "8": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 9,
+      "id": "3b57db4220616ef13a165dafc4f71864d07f4ef8ac654b97c665a9d3f69f6dc4",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "17": 3,
+        "10": 3,
+        "15": 3,
+        "56.675": 1,
+        "2": 5,
+        "0.83": 1,
+        "0.70": 1,
+        "0.98": 1,
+        "0.96": 1,
+        "0.90": 1,
+        "1.03": 1,
+        "0.95": 1,
+        "0.80": 1,
+        "1.12": 2,
+        "19": 1,
+        "6.461": 1,
+        "6": 3,
+        "1.00": 2,
+        "0.88": 1,
+        "0.97": 1,
+        "0.81": 1,
+        "1.15": 1,
+        "86": 1,
+        "162.796": 1,
+        "3": 2,
+        "1.01": 1,
+        "0.84": 1,
+        "1.20": 1,
+        "0.82": 1,
+        "1.22": 1,
+        "11": 2,
+        "25": 1,
+        "30": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "50": 1,
+        "1": 10,
+        "74": 1,
+        "95": 2,
+        "57": 1,
+        "94": 1,
+        "4": 1,
+        "54": 1,
+        "89": 1,
+        "1.302": 2,
+        "0": 4,
+        "49": 3,
+        "32": 1,
+        "76": 1,
+        "71.000": 1,
+        "1996": 1,
+        "2009": 1,
+        "429": 1,
+        "20": 1,
+        "03": 3,
+        "35": 1,
+        "05": 1,
+        "84": 1,
+        "26": 1,
+        "16": 1,
+        "29": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 10,
+      "id": "d8ab30579919d8116ff81550cb089ff1bcd24184dd05b508c9587c6fb0374d45",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "56675": 1,
+        "17": 1,
+        "0.83": 1,
+        "0.70": 1,
+        "0.98": 1,
+        "0.96": 1,
+        "0.90": 1,
+        "1.03": 1,
+        "0.95": 1,
+        "0.80": 1,
+        "1.12": 2,
+        "19": 1,
+        "6461": 1,
+        "6": 1,
+        "1.00": 2,
+        "0.88": 1,
+        "0.97": 1,
+        "0.81": 1,
+        "1.15": 1,
+        "86": 1,
+        "162796": 1,
+        "3": 1,
+        "1.01": 1,
+        "0.84": 1,
+        "1.20": 1,
+        "0.82": 1,
+        "1.22": 1
+      },
+      "translation": {
+        "15": 1,
+        "56.675": 1,
+        "2": 1,
+        "17": 1,
+        "0.83": 1,
+        "0.70": 1,
+        "0.98": 1,
+        "0.96": 1,
+        "0.90": 1,
+        "1.03": 1,
+        "0.95": 1,
+        "0.80": 1,
+        "1.12": 2,
+        "19": 1,
+        "6.461": 1,
+        "6": 1,
+        "1.00": 2,
+        "0.88": 1,
+        "0.97": 1,
+        "0.81": 1,
+        "1.15": 1,
+        "86": 1,
+        "162.796": 1,
+        "3": 1,
+        "1.01": 1,
+        "0.84": 1,
+        "1.20": 1,
+        "0.82": 1,
+        "1.22": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 14,
+      "id": "e9505f3166b9608620199e393a6dae2374d6a2ef318cddfd0a0913b413db06f4",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "50": 1
+      }
+    },
+    {
+      "task": 16,
+      "item": 15,
+      "id": "1ebbba1e3dc528511c1086a9aa30c76206a478d8c0d70e50257c7c48b5dc3db5",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "1.74": 1,
+        "95": 1,
+        "1.57": 1,
+        "1.94": 1,
+        "4": 1,
+        "2.11": 1,
+        "1.54": 1,
+        "2.89": 1,
+        "1302": 2,
+        "0.49": 1,
+        "0.32": 1,
+        "0.76": 1,
+        "7.1": 1,
+        "1996": 1,
+        "2009": 1,
+        "429": 1,
+        "49": 1,
+        "1.49": 1,
+        "1.15": 1,
+        "1.95": 1,
+        "20": 1,
+        "2.03": 2,
+        "1.35": 1,
+        "3.05": 1,
+        "1.03": 1,
+        "0.84": 1,
+        "1.26": 1
+      },
+      "translation": {
+        "10": 2,
+        "1": 10,
+        "74": 1,
+        "95": 2,
+        "57": 1,
+        "94": 1,
+        "4": 1,
+        "2": 4,
+        "11": 1,
+        "54": 1,
+        "89": 1,
+        "1.302": 2,
+        "0": 4,
+        "49": 3,
+        "32": 1,
+        "76": 1,
+        "71.000": 1,
+        "1996": 1,
+        "2009": 1,
+        "429": 1,
+        "15": 1,
+        "20": 1,
+        "03": 3,
+        "35": 1,
+        "3": 1,
+        "05": 1,
+        "84": 1,
+        "26": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 3,
+      "id": "37752bd5ae732158cbf4d846c24004951920f68d759939ed32735bb3d3ff4ffd",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "19": 1,
+        "15": 1,
+        "22": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 4,
+      "id": "445cabbfabf4f2c08ad2902a1b83d21699655c2aa5a07b0fd89ea293d2486745",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "19": 1,
+        "15": 1,
+        "22": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 10,
+      "id": "4f58696ac2bbb0055df122fdc41eb382dbe919633b3c7b1b176ea6d2155ef575",
+      "issue": "numeric_review",
+      "source": {
+        "2.5": 1
+      },
+      "translation": {
+        "2": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 11,
+      "id": "f5b8cf712d4bec192dd5fd5a9d041567a32bea01a1be2a0bde02b523b758e859",
+      "issue": "numeric_review",
+      "source": {
+        "61": 1,
+        "30": 1,
+        "2.5": 1,
+        "00": 1,
+        "08": 1,
+        "21": 1,
+        "32": 1,
+        "1.8": 1,
+        "0.37": 1
+      },
+      "translation": {
+        "61": 1,
+        "30": 1,
+        "2": 1,
+        "5": 1,
+        "00": 1,
+        "08": 1,
+        "21": 1,
+        "32": 1,
+        "1": 1,
+        "8": 1,
+        "0": 1,
+        "37": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 15,
+      "id": "d0587783ad220351a6a75c58879a0fa7fa74bfc889fe2a17ea5ebd0735834720",
+      "issue": "numeric_review",
+      "source": {
+        "6": 3,
+        "4": 1
+      },
+      "translation": {
+        "2": 2,
+        "6": 3,
+        "4": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 16,
+      "id": "09ff21482681a6d64129267db89842bbad05118f213602bad5a11c0f8fe15518",
+      "issue": "numeric_review",
+      "source": {
+        "48": 2,
+        "21": 1,
+        "38": 1,
+        "14": 1,
+        "6": 2,
+        "2": 1,
+        "4": 1,
+        "0.776": 1,
+        "0.125": 1,
+        "70": 1
+      },
+      "translation": {
+        "48": 2,
+        "21": 1,
+        "38": 1,
+        "14": 1,
+        "6": 2,
+        "2": 1,
+        "4": 1,
+        "0776": 1,
+        "0125": 1,
+        "70": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 18,
+      "id": "750402ed7d178eb9c18f4b92140a2695bbaa2018c48c12c8271a1e15da61ce5f",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "14": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 20,
+      "id": "445df27c30b231cacbc3cc8511bfcc59c7845019205e39a2499fd38017a02de7",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1,
+        "400": 1,
+        "1": 1,
+        "107": 1,
+        "8.8": 1
+      },
+      "translation": {
+        "400": 1,
+        "6": 1,
+        "1": 1,
+        "107": 1,
+        "8": 2,
+        "23": 1,
+        "14": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 21,
+      "id": "f43d715bef392cb570b32668300b3bc0b9d1854c294647f13be115ed6b6dbdc1",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1,
+        "400": 1,
+        "1.1": 1,
+        "1.2": 1,
+        "45": 1,
+        "7": 1,
+        "107": 1,
+        "8.8": 1
+      },
+      "translation": {
+        "400": 1,
+        "6": 1,
+        "1": 3,
+        "2": 1,
+        "45": 1,
+        "7": 1,
+        "107": 1,
+        "8": 2
+      }
+    },
+    {
+      "task": 17,
+      "item": 25,
+      "id": "50fac5d152aad34d56d74fd177acafebc8e27b21f160729bf965b57754cfd357",
+      "issue": "numeric_review",
+      "source": {
+        "3": 1,
+        "15.5": 1
+      },
+      "translation": {
+        "3": 1,
+        "15": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 26,
+      "id": "f55adcb6d69e493442f0f8a70cdb4e942437be7e1f50ba51b530078120acc1e1",
+      "issue": "numeric_review",
+      "source": {
+        "124": 1,
+        "3": 1,
+        "0.37": 1,
+        "15.5": 1
+      },
+      "translation": {
+        "124": 1,
+        "3": 1,
+        "0": 1,
+        "37": 1,
+        "15": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 30,
+      "id": "cafbf84ed931de9c58c8bef811e3d88def61fdcb7d322c593f83457c786dbf96",
+      "issue": "numeric_review",
+      "source": {
+        "2.8": 1,
+        "4.4": 1,
+        "25": 1
+      },
+      "translation": {
+        "2": 2,
+        "8": 1,
+        "4": 2,
+        "25": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 31,
+      "id": "af6e6b3dd47c305f749dac2821ac05547fc4dd6eac5a35927e3964e82216cfc0",
+      "issue": "numeric_review",
+      "source": {
+        "2.8": 1,
+        "4.4": 1,
+        "24": 1,
+        "11": 1,
+        "57": 1,
+        "25": 1,
+        "26": 1,
+        "2.26": 1,
+        "48": 1
+      },
+      "translation": {
+        "2": 2,
+        "8": 1,
+        "4": 2,
+        "24": 1,
+        "11": 1,
+        "57": 1,
+        "25": 1,
+        "26": 2,
+        "48": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 40,
+      "id": "1d3453522aedfdeade9be9fa6ca51c74b8cc942c4cdb1c5a2b78bc0cb7d39111",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "55": 1,
+        "1.5": 1
+      },
+      "translation": {
+        "10": 1,
+        "55": 1,
+        "1": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 41,
+      "id": "35556ea3391868edd667de582656d23177046139bc0c0e2b54e699180639fea3",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "25.7": 1,
+        "15.8": 1,
+        "55": 1,
+        "1.5": 1,
+        "22": 1,
+        "31": 1,
+        "21": 1,
+        "01": 1
+      },
+      "translation": {
+        "10": 1,
+        "25": 1,
+        "7": 1,
+        "15": 1,
+        "8": 1,
+        "55": 1,
+        "1": 1,
+        "5": 1,
+        "22": 1,
+        "31": 1,
+        "21": 1,
+        "01": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 45,
+      "id": "3d9b0cec4a485e641d799bca8d353712829dfc6dc871994fd005086eedc110e1",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "6.97": 1,
+        "0": 1,
+        "10": 1,
+        "2.7": 1
+      },
+      "translation": {
+        "2025": 1,
+        "6": 1,
+        "97": 1,
+        "0": 1,
+        "10": 1,
+        "2": 1,
+        "7": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 46,
+      "id": "43163be10eac4d9d0537d82bc6aa6a98e090ff569a871647d0321974c9761850",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "6.97": 1,
+        "0": 1,
+        "10": 1,
+        "2.17": 2,
+        "1.46": 2,
+        "2.72": 2,
+        "1.79": 2,
+        "1.53": 2,
+        "2.27": 2,
+        "20": 1,
+        "125198": 1,
+        "844": 1,
+        "18": 1,
+        "94": 1
+      },
+      "translation": {
+        "2025": 1,
+        "6": 1,
+        "97": 1,
+        "0": 1,
+        "10": 1,
+        "2": 6,
+        "17": 2,
+        "1": 6,
+        "46": 2,
+        "72": 2,
+        "79": 2,
+        "53": 2,
+        "27": 2,
+        "20": 1,
+        "125198": 1,
+        "844": 1,
+        "18": 1,
+        "94": 1
+      }
+    },
+    {
+      "task": 17,
+      "item": 47,
+      "id": "cd425be50bef1ce4bdef5b4df5dc9866f711ac41a5a6cacda9d49a44831803bc",
+      "issue": "numeric_review",
+      "source": {
+        "3": 1,
+        "7": 1,
+        "8": 1,
+        "280": 1,
+        "6.97": 1,
+        "0": 1,
+        "10": 1,
+        "2026": 1,
+        "9": 1
+      },
+      "translation": {
+        "3": 1,
+        "7": 1,
+        "8": 1,
+        "280": 1,
+        "6": 1,
+        "97": 1,
+        "0": 1,
+        "10": 1,
+        "9": 1,
+        "2026": 1
+      }
+    },
+    {
+      "task": 18,
+      "item": 3,
+      "id": "df8532e85646473d9e8832d55f7bd1a4aab0e385720f02519035baa460b00e62",
+      "issue": "numeric_review",
+      "source": {
+        "34": 1,
+        "49.5": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 18,
+      "item": 4,
+      "id": "68828a21e5b52f6685fd364015e17b5116b1823dac9646a745074aea1e295b50",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "34": 1,
+        "49": 1,
+        "5": 1
+      }
+    },
+    {
+      "task": 18,
+      "item": 4,
+      "id": "68828a21e5b52f6685fd364015e17b5116b1823dac9646a745074aea1e295b50",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 18,
+      "item": 5,
+      "id": "34ad9d3714da820d203c99cf15946896edf9628029f155a29916b1941e382c5c",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1
+      },
+      "translation": {
+        "10": 1,
+        "30": 1
+      }
+    },
+    {
+      "task": 18,
+      "item": 7,
+      "id": "e83084497d543f8121a8054c77725235024b308f0b996576e7b6f1883b177f83",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "5": 1,
+        "20": 1,
+        "30": 1
+      },
+      "translation": {
+        "10": 1,
+        "2": 1,
+        "5": 2,
+        "20": 1,
+        "30": 2
+      }
+    },
+    {
+      "task": 18,
+      "item": 9,
+      "id": "c0745e2c96a550e735cf1ac0e343dcdcbbae350a23a578748b93cd307b315e42",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "2": 1,
+        "37": 1
+      },
+      "translation": {
+        "10": 1,
+        "2": 1,
+        "37": 1,
+        "30": 1
+      }
+    },
+    {
+      "task": 18,
+      "item": 19,
+      "id": "3f3eb039f04d475960b33b314332f671475ca9366bd3528707adcf08eec5d4c5",
+      "issue": "numeric_review",
+      "source": {
+        "49": 1
+      },
+      "translation": {
+        "49": 2
+      }
+    },
+    {
+      "task": 18,
+      "item": 28,
+      "id": "01d41001fb28e85792f3d709d6f3ae9cbc4d6283e2f18860f886c892fdfb2140",
+      "issue": "numeric_review",
+      "source": {
+        "2978": 1,
+        "50": 1,
+        "20": 2,
+        "1068": 1,
+        "1": 1,
+        "13": 1,
+        "1.134": 1,
+        "95": 1,
+        "1.065": 1,
+        "1.207": 1,
+        "8.85": 1,
+        "10": 1,
+        "1.196": 1,
+        "1.045": 1,
+        "1.368": 1,
+        "0.0093": 1
+      },
+      "translation": {
+        "2978": 1,
+        "50": 1,
+        "20": 2,
+        "1068": 1,
+        "1": 1,
+        "13": 1,
+        "1134": 1,
+        "95": 1,
+        "1065": 1,
+        "1207": 1,
+        "8": 1,
+        "85": 1,
+        "10": 1,
+        "1196": 1,
+        "1045": 1,
+        "1368": 1,
+        "0": 1,
+        "0093": 1
+      }
+    },
+    {
+      "task": 18,
+      "item": 38,
+      "id": "94b396d127638c36cf790547084765fc9ef476d2767a743529f977e980b523e9",
+      "issue": "numeric_review",
+      "source": {
+        "306": 1,
+        "0.36": 1,
+        "0.45": 1,
+        "0.27": 1,
+        "0.04": 1
+      },
+      "translation": {
+        "306": 1,
+        "0": 4,
+        "36": 1,
+        "45": 1,
+        "27": 1,
+        "04": 1
+      }
+    },
+    {
+      "task": 18,
+      "item": 43,
+      "id": "e2a8e33e5afe05e4efb6f20f633364766a771ea505a51f2c568efd717e8c8157",
+      "issue": "numeric_review",
+      "source": {
+        "218": 1,
+        "14170": 1,
+        "0.62": 1,
+        "95": 1,
+        "0.80": 1,
+        "0.45": 1,
+        "0.55": 1,
+        "0.49": 1,
+        "0.84": 1,
+        "0.60": 1,
+        "1.08": 1,
+        "0.53": 1,
+        "0.18": 1,
+        "0.89": 1,
+        "9": 2,
+        "12356": 1,
+        "18": 1
+      },
+      "translation": {
+        "218": 1,
+        "14170": 1,
+        "0": 10,
+        "62": 1,
+        "95": 1,
+        "80": 1,
+        "45": 1,
+        "55": 1,
+        "49": 1,
+        "84": 1,
+        "60": 1,
+        "1": 1,
+        "08": 1,
+        "53": 1,
+        "18": 2,
+        "89": 1,
+        "9": 2,
+        "12356": 1
+      }
+    },
+    {
+      "task": 19,
+      "item": 0,
+      "id": "4f1bb64eaf6af1755e68840a99f7b650ad87c8c843f93263554051608d0abfd7",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 19,
+      "item": 3,
+      "id": "6e3058a3f4a2f544b4607a246c6167abdb8ee07e6c4683e51e8256a3c2d52c6e",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1
+      },
+      "translation": {
+        "4": 1,
+        "3": 2,
+        "10": 1
+      }
+    },
+    {
+      "task": 19,
+      "item": 4,
+      "id": "a95bf6212cb717556fa5c00acd22922d9d9c1c90a0d9b2d4345234ac7bcf8b75",
+      "issue": "numeric_review",
+      "source": {
+        "54": 1,
+        "94": 1,
+        "36583": 1,
+        "0.330": 1,
+        "95": 1,
+        "0.289": 1,
+        "0.370": 1,
+        "0.438": 1,
+        "0.382": 1,
+        "0.306": 1,
+        "0.268": 1,
+        "0.263": 1,
+        "2743": 1,
+        "61": 1,
+        "102": 1,
+        "60": 1,
+        "0.09": 2,
+        "0.12": 1,
+        "0.10": 1,
+        "0.08": 1,
+        "0.34": 1,
+        "0.23": 1,
+        "25": 1,
+        "40": 1,
+        "0.19": 1,
+        "0.16": 1,
+        "12": 1,
+        "0.31": 1,
+        "23": 1,
+        "143": 1,
+        "10": 1
+      },
+      "translation": {
+        "54": 1,
+        "94": 1,
+        "36.583": 1,
+        "3": 2,
+        "0.330": 1,
+        "95": 1,
+        "0.289": 1,
+        "0.370": 1,
+        "0.438": 1,
+        "0.382": 1,
+        "0.306": 1,
+        "0.268": 1,
+        "0.263": 1,
+        "2.743": 1,
+        "61": 1,
+        "102": 1,
+        "4": 1,
+        "60": 1,
+        "0.09": 2,
+        "0.12": 1,
+        "0.10": 1,
+        "0.08": 1,
+        "0.34": 1,
+        "0.23": 1,
+        "25": 1,
+        "40": 1,
+        "0.19": 1,
+        "0.16": 1,
+        "12": 1,
+        "0.31": 1,
+        "23": 1,
+        "143": 1,
+        "10": 1
+      }
+    },
+    {
+      "task": 19,
+      "item": 9,
+      "id": "f1698abdefc4f98287da56c1d848e550e81b58a173c38474481da2a918b674a6",
+      "issue": "numeric_review",
+      "source": {
+        "46": 1,
+        "23": 2,
+        "95": 1,
+        "9": 1,
+        "38": 1,
+        "27": 1,
+        "11": 1,
+        "43": 1,
+        "48": 1,
+        "8": 1
+      },
+      "translation": {
+        "1": 1,
+        "46": 1,
+        "23": 2,
+        "95": 1,
+        "9": 1,
+        "38": 1,
+        "27": 1,
+        "11": 1,
+        "43": 1,
+        "2": 1,
+        "48": 1,
+        "8": 1
+      }
+    },
+    {
+      "task": 19,
+      "item": 14,
+      "id": "b57dff0ca5ae11aef65385f964a034caf88b87f51f07d601ba6393d07091d188",
+      "issue": "numeric_review",
+      "source": {
+        "45": 1,
+        "11747": 1,
+        "28": 2,
+        "95": 1,
+        "24": 1,
+        "32": 2,
+        "42": 1,
+        "7936": 1,
+        "25": 1,
+        "30": 1,
+        "3640": 1,
+        "10": 1,
+        "07": 2,
+        "13": 1,
+        "31": 1,
+        "4588": 1,
+        "20": 1,
+        "11": 1,
+        "29": 2,
+        "12": 1,
+        "17": 1,
+        "15": 1,
+        "5275": 1,
+        "19": 1,
+        "08": 1,
+        "8": 1,
+        "689": 1
+      },
+      "translation": {
+        "45": 1,
+        "11.747": 1,
+        "28": 2,
+        "95": 1,
+        "24": 1,
+        "32": 1,
+        "42": 1,
+        "7.936": 1,
+        "0.25": 1,
+        "0.32": 1,
+        "30": 1,
+        "3.640": 1,
+        "10": 1,
+        "0.07": 2,
+        "0.13": 1,
+        "31": 1,
+        "4.588": 1,
+        "20": 1,
+        "0.11": 1,
+        "0.29": 2,
+        "12": 1,
+        "0.17": 1,
+        "15": 1,
+        "5.275": 1,
+        "19": 1,
+        "0.08": 1,
+        "8": 1,
+        "689": 1
+      }
+    },
+    {
+      "task": 19,
+      "item": 15,
+      "id": "e78c512836e211c3935f8fb6cd024703e209ee948169ce2d74dcf1286e07e3ab",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 19,
+      "item": 19,
+      "id": "a1d2ebda058745937310585b889dae359378f8f0720cbb29f4a269a7bbf573ae",
+      "issue": "numeric_review",
+      "source": {
+        "154": 1,
+        "184": 1,
+        "10189": 1,
+        "0.63": 1,
+        "95": 2,
+        "0.82": 1,
+        "0.43": 1,
+        "0.02": 1,
+        "0.13": 1,
+        "0.09": 1
+      },
+      "translation": {
+        "154": 1,
+        "184": 1,
+        "10.189": 1,
+        "0.63": 1,
+        "95": 2,
+        "0.82": 1,
+        "0.43": 1,
+        "0.02": 1,
+        "0.13": 1,
+        "0.09": 1
+      }
+    },
+    {
+      "task": 19,
+      "item": 20,
+      "id": "cebd49626ca540c7ae7e22aae663678338f18c13b29dd5c3d79f79f22c22f4c6",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 20,
+      "item": 1,
+      "id": "5af628e17292dfe456f9ce5444f62d5a47be41832913fc7bd31da796f98930be",
+      "issue": "numeric_review",
+      "source": {
+        "146": 1,
+        "075": 1,
+        "30": 1,
+        "16": 1,
+        "0.04": 1,
+        "95": 1,
+        "0.06": 1,
+        "0.14": 1
+      },
+      "translation": {
+        "146": 1,
+        "0075": 1,
+        "30": 1,
+        "16": 1,
+        "0": 3,
+        "04": 1,
+        "95": 1,
+        "06": 1,
+        "14": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 4,
+      "id": "378257ab4bdcd33c5d5667237f849ca85aaa5f28a9a6ca584053313d2fd765f7",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "2": 1,
+        "8": 1
+      },
+      "translation": {
+        "8": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 6,
+      "id": "e76ca3b87b67f9c2fc55468688f5e8dd30008f424f26a4775fcc405133baab70",
+      "issue": "numeric_review",
+      "source": {
+        "94": 1,
+        "0.65": 1
+      },
+      "translation": {
+        "0": 1,
+        "65": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 10,
+      "id": "cce15570183d119c4b0cedb55bd6c9cd7f8f39e0db16fac0b114f57366ca36ac",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "5": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 17,
+      "id": "ff92fc6a13c4f956e833b0da1bbb4c77b2727770ef44dc09b91b2baf83196eb5",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "2": 1,
+        "7": 1,
+        "4.11": 1,
+        "3.32": 1,
+        "3.29": 1
+      },
+      "translation": {
+        "15": 1,
+        "13": 1,
+        "8": 1,
+        "4": 1,
+        "11": 1,
+        "3": 2,
+        "32": 1,
+        "29": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 20,
+      "id": "253f1fb9491ecccecc6e3a5bc5ca6171c516e214d961caf53ffa2da80f3123f6",
+      "issue": "numeric_review",
+      "source": {
+        "33.9": 1,
+        "55.5": 1,
+        "29.7": 1,
+        "29.3": 1,
+        "60.0": 1
+      },
+      "translation": {
+        "33": 1,
+        "9": 1,
+        "55": 1,
+        "5": 1,
+        "29": 2,
+        "7": 1,
+        "3": 1,
+        "60": 1,
+        "0": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 21,
+      "id": "ca450d09087f9743926954570d0f8b30953c2adce8f7866650280a13de489fcc",
+      "issue": "numeric_review",
+      "source": {
+        "33.9": 1,
+        "55.5": 1,
+        "29.7": 1,
+        "29.3": 1,
+        "60.0": 1
+      },
+      "translation": {
+        "33": 1,
+        "9": 1,
+        "55": 1,
+        "5": 1,
+        "29": 2,
+        "7": 1,
+        "3": 1,
+        "60": 1,
+        "0": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 40,
+      "id": "5f208a1a95247257dc3d25ebbd8d14fa92ff59b986a04305d506e030d8db78de",
+      "issue": "numeric_review",
+      "source": {
+        "80.6": 1,
+        "38.7": 1
+      },
+      "translation": {
+        "80": 1,
+        "6": 1,
+        "38": 1,
+        "7": 1,
+        "0": 1,
+        "82": 1,
+        "1": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 41,
+      "id": "511d966418a9e296c6b6efa085daacfd9743063be8cc5fa9e6bf2e9df835b590",
+      "issue": "numeric_review",
+      "source": {
+        "80.6": 1,
+        "38.7": 1,
+        "0.82": 1,
+        "1": 1
+      },
+      "translation": {
+        "80": 1,
+        "6": 1,
+        "38": 1,
+        "7": 1,
+        "0": 1,
+        "82": 1,
+        "1": 1
+      }
+    },
+    {
+      "task": 21,
+      "item": 51,
+      "id": "e90fcdf870693e6fe3f0eb30c796a69e5087e28bda627e467a97876bb5b373c2",
+      "issue": "numeric_review",
+      "source": {
+        "24": 1,
+        "0.60": 1,
+        "95": 2,
+        "0.84": 1,
+        "0.36": 1,
+        "12": 1,
+        "1098": 1,
+        "1.13": 1,
+        "1.90": 1,
+        "0.37": 1,
+        "3": 1,
+        "154": 1
+      },
+      "translation": {
+        "24": 1,
+        "0": 4,
+        "60": 1,
+        "95": 2,
+        "84": 1,
+        "36": 1,
+        "14": 1,
+        "1098": 1,
+        "1": 2,
+        "13": 1,
+        "90": 1,
+        "37": 1,
+        "3": 1,
+        "154": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 0,
+      "id": "65911c265c1d6511398fcadb8c80e9900b56921e419bb6f995992610ef8507c4",
+      "issue": "numeric_review",
+      "source": {
+        "13": 1,
+        "13.7": 1,
+        "90": 1
+      },
+      "translation": {
+        "13": 2,
+        "7": 1,
+        "90": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 1,
+      "id": "c7021b84977c2d0831e6d8631bd739bd49fc931f632dd5fc1914eb5ca8d622f5",
+      "issue": "numeric_review",
+      "source": {
+        "2538": 1,
+        "800": 1,
+        "90.0": 1,
+        "150": 1,
+        "650": 1,
+        "13.7": 2,
+        "9.4": 1,
+        "16.0": 1,
+        "6.0": 1,
+        "15.7": 1,
+        "10.2": 1,
+        "13.2": 1,
+        "95": 1,
+        "3.1": 1,
+        "22.8": 1
+      },
+      "translation": {
+        "2538": 1,
+        "800": 1,
+        "90": 1,
+        "0": 3,
+        "150": 1,
+        "650": 1,
+        "13": 2,
+        "7": 2,
+        "9": 1,
+        "4": 1,
+        "16": 1,
+        "6": 1,
+        "15": 1,
+        "10": 1,
+        "2": 2,
+        "95": 1,
+        "3": 1,
+        "1": 1,
+        "22": 1,
+        "8": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 2,
+      "id": "6d40c60e94e594a375735f28e9f1936053a5d09498d150f31b581b2e4bf6fb5f",
+      "issue": "numeric_review",
+      "source": {
+        "2": 1,
+        "3": 1
+      },
+      "translation": {
+        "5": 1,
+        "37": 1,
+        "6": 3,
+        "3": 1,
+        "92": 1,
+        "9": 2,
+        "2024": 1,
+        "2018": 1,
+        "2": 1,
+        "42": 1,
+        "1": 3,
+        "365": 1,
+        "2025": 1,
+        "30": 1,
+        "1.068": 1,
+        "95": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 3,
+      "id": "3f59b3b8741a2ecbeaaa91122aa4b38ab9e70a4e366dd02efad6efa3039057a5",
+      "issue": "numeric_review",
+      "source": {
+        "21": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 22,
+      "item": 10,
+      "id": "0d1e6b845bd4452fac9b5eb65dddd7794266a4211d78a5e273b9bb4dd9d99df7",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "150": 1,
+        "0": 12,
+        "70": 1,
+        "95": 1,
+        "29": 2,
+        "1": 3,
+        "10": 2,
+        "50": 1,
+        "90": 1,
+        "81": 1,
+        "40": 2,
+        "22": 1,
+        "69": 1,
+        "09": 1,
+        "31": 1,
+        "3": 1,
+        "24": 1,
+        "36": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 11,
+      "id": "cbe324fa31f64e23b5c8df82a24a936c322ac3d5ce716173bf29c5769c9d39ac",
+      "issue": "numeric_review",
+      "source": {
+        "150": 1,
+        "0.70": 1,
+        "95": 1,
+        "0.29": 2,
+        "1.10": 1,
+        "0.50": 1,
+        "0.10": 1,
+        "0.90": 1,
+        "0.81": 1,
+        "0.40": 1,
+        "1.22": 1,
+        "0.69": 1,
+        "1.09": 1,
+        "31.3": 1,
+        "40.0": 1,
+        "24.0": 1,
+        "36.0": 1
+      },
+      "translation": {
+        "10": 1,
+        "18": 1,
+        "3": 1,
+        "12356": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 12,
+      "id": "ceec1e567101df5d8b3d1b4ab7e98281c46ad573c6f440a404b293bc9cb7a221",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "3": 1,
+        "18": 1,
+        "12356": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 22,
+      "item": 14,
+      "id": "6af16129693b9603e6e87657e9c83d85a5eb8e331028209b5757e7c6d30df143",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "1": 2,
+        "17": 1,
+        "59": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 15,
+      "id": "c904d2e9de221d18608182ababe5ecda4d61b41d66917bd2ee458776fc9d174f",
+      "issue": "numeric_review",
+      "source": {
+        "1": 2,
+        "17": 1,
+        "59": 1
+      },
+      "translation": {
+        "1": 2,
+        "17": 1,
+        "59": 1,
+        "2024": 1,
+        "38.500": 1,
+        "107.000": 1,
+        "6271": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 16,
+      "id": "25c8ec5c8522758ba19f79a35865c3e9995e622a507203242dd5eccee06247e4",
+      "issue": "numeric_review",
+      "source": {
+        "1": 2,
+        "17": 1,
+        "59": 1,
+        "2024": 1,
+        "3.85": 1,
+        "10.7": 1,
+        "6271": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 22,
+      "item": 19,
+      "id": "1ef473d9e725f56ff496bd6afc4fac741708bcfd1388fd17947dfa735384bbcf",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "5": 1,
+        "37": 1,
+        "6": 1,
+        "3": 1,
+        "2018": 1,
+        "2": 1,
+        "42": 1,
+        "1": 1,
+        "365": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 20,
+      "id": "0498f4cc8f62161358f62ae16d0f8a8607700c74e38966807e1a7f4f6b850a69",
+      "issue": "numeric_review",
+      "source": {
+        "5": 1,
+        "37": 1,
+        "6": 1,
+        "3": 1,
+        "2018": 1,
+        "2": 1,
+        "42": 1,
+        "365": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 22,
+      "item": 21,
+      "id": "ace90dca3cb17fce02716119307fa770bb1504c20ef50a74bf7d4b4e333daef2",
+      "issue": "numeric_review",
+      "source": {
+        "5": 1,
+        "37": 1,
+        "6": 2,
+        "3": 1,
+        "92.9": 1,
+        "2024": 1,
+        "2018": 1,
+        "2": 1,
+        "42": 1,
+        "365": 1,
+        "2025": 1,
+        "30.6": 1,
+        "1.9": 1,
+        "10.68": 1,
+        "95.1": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 22,
+      "item": 25,
+      "id": "28a074b4aa1ad55a164d4b920baf9186e76395a673e3c986323eaf56230b9264",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "2.6": 1,
+        "1": 1,
+        "40": 1,
+        "75": 1,
+        "84": 1,
+        "3": 1,
+        "16": 1
+      },
+      "translation": {
+        "15": 1,
+        "2": 1,
+        "6": 1,
+        "1": 1,
+        "40": 1,
+        "75": 1,
+        "84": 1,
+        "3": 1,
+        "16": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 26,
+      "id": "daddbb16d8df97a8edf66349fcff468af591fe20922cf2326bb1ff49a70c7b3c",
+      "issue": "numeric_review",
+      "source": {
+        "15": 1,
+        "2.6": 1,
+        "5.2": 1,
+        "2025": 1,
+        "1": 1,
+        "40": 1,
+        "75": 1,
+        "84": 1,
+        "3": 1,
+        "16": 1,
+        "2018": 1
+      },
+      "translation": {
+        "15": 1,
+        "2": 2,
+        "6": 1,
+        "5": 1,
+        "2025": 1,
+        "1": 1,
+        "40": 1,
+        "75": 1,
+        "84": 1,
+        "3": 1,
+        "16": 1,
+        "2018": 1
+      }
+    },
+    {
+      "task": 22,
+      "item": 31,
+      "id": "9371a964740a8a45d55dbad059d46c2c4ff37923ca667882c9c05a0561f38c59",
+      "issue": "numeric_review",
+      "source": {
+        "251": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 22,
+      "item": 32,
+      "id": "ed11118e862ac6c28a7b629c850c2b636855794b1899ef29a91d5fbbd902712d",
+      "issue": "numeric_review",
+      "source": {
+        "6": 1
+      },
+      "translation": {
+        "10": 1,
+        "6": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 4,
+      "id": "2788c979e2fb9ac71d89d3de64df674231ba1e3b53266b0ae971db8478ee09a8",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1,
+        "20": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 23,
+      "item": 6,
+      "id": "ff9f5f612f7e29751625ccae2593742908d6a7ed0c6321fbc816c98eea8510c4",
+      "issue": "numeric_review",
+      "source": {
+        "2021": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 23,
+      "item": 10,
+      "id": "e67ddca075757cbcfc3106225088f8ad9f9d082a79d96b265e0cb9598c813b68",
+      "issue": "numeric_review",
+      "source": {
+        "12": 1,
+        "400": 1
+      },
+      "translation": {
+        "120.000": 1,
+        "400": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 11,
+      "id": "484435f84331b0c6d73bf4edb648d2a319bdeeeaba512c7841269e1436fd5e6d",
+      "issue": "numeric_review",
+      "source": {
+        "12": 2,
+        "400": 1,
+        "2023": 1,
+        "2027": 1,
+        "31": 1
+      },
+      "translation": {
+        "120.000": 1,
+        "400": 1,
+        "2023": 1,
+        "31": 1,
+        "12": 1,
+        "2027": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 22,
+      "id": "e30e362a3b40be0ce0b53d32bdee09ead7afd17d0a290b0534022d7f7bfb7d2f",
+      "issue": "numeric_review",
+      "source": {
+        "12300": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 23,
+      "item": 25,
+      "id": "6ef9eedc47c3a382fda726a31f6b5052bbb93e325d56606936bece57a44e55d7",
+      "issue": "numeric_review",
+      "source": {
+        "50": 1,
+        "51": 1,
+        "1": 1,
+        "0.51": 1,
+        "49": 1,
+        "2024": 1,
+        "6234.86": 1,
+        "1610.31": 1
+      },
+      "translation": {
+        "50": 1,
+        "51": 1,
+        "1": 1,
+        "0.51": 1,
+        "49": 1,
+        "2024": 1,
+        "6.23486": 1,
+        "1.61031": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 26,
+      "id": "e93cf2d9a66a5d237da83ca268a655f8f65664bb62c68cd4a3a24754e79c6c37",
+      "issue": "numeric_review",
+      "source": {
+        "50": 1,
+        "65": 1,
+        "73": 1,
+        "51": 2,
+        "100": 1,
+        "1": 1,
+        "0.51": 1,
+        "49": 1,
+        "2024": 2,
+        "6234.86": 1,
+        "1610.31": 1
+      },
+      "translation": {
+        "50": 1,
+        "65": 1,
+        "73": 1,
+        "51": 2,
+        "100": 1,
+        "1": 1,
+        "0.51": 1,
+        "49": 1,
+        "2024": 2,
+        "6.23486": 1,
+        "1.61031": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 31,
+      "id": "6da6553f19d403da93a895ebf7668f9fbad8c7e0ce96d700583f3d70868e12a8",
+      "issue": "numeric_review",
+      "source": {
+        "2018": 2,
+        "6": 1,
+        "8": 1,
+        "10": 1,
+        "2021": 1
+      },
+      "translation": {
+        "2018": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 36,
+      "id": "41310466fd9cf960881974998f29459736cf755db2242d9aa251eae10d103a3a",
+      "issue": "numeric_review",
+      "source": {
+        "2020": 2,
+        "0.7": 1,
+        "18.25": 2,
+        "2021": 1
+      },
+      "translation": {
+        "2020": 1,
+        "0.05": 2,
+        "0.7": 1,
+        "18.25": 2,
+        "2021": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 37,
+      "id": "cc7e8a375177e702c515be1ba6d573ee16dddd3f5008256b86f351434631c268",
+      "issue": "numeric_review",
+      "source": {
+        "18.25": 1,
+        "365": 1
+      },
+      "translation": {
+        "18.25": 1,
+        "0.05": 1,
+        "365": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 41,
+      "id": "5c068d8482b6147cfa3b351f6677bb5ec1be3c4daf0e5711807028f0c834727b",
+      "issue": "numeric_review",
+      "source": {
+        "2024": 1,
+        "3257.83": 1,
+        "6.74": 1,
+        "480": 1,
+        "20": 1,
+        "21": 1,
+        "1": 1,
+        "2020": 1,
+        "2021": 1
+      },
+      "translation": {
+        "2024": 1,
+        "325783": 1,
+        "674": 1,
+        "480": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 42,
+      "id": "c37d6cf9e23ce1784f78669a58e57b66775d2c5ff33b31887760ad481c7fc352",
+      "issue": "numeric_review",
+      "source": {
+        "9": 1
+      },
+      "translation": {
+        "19": 1,
+        "145": 1,
+        "9": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 43,
+      "id": "f3b944bc1309802c1d5a23831fae9825a2e32f86f27899bd20f7279ec546aa48",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "8": 1
+      }
+    },
+    {
+      "task": 23,
+      "item": 45,
+      "id": "28666c9a5da282ebc3fb1ba561815e863dac732413b625d2e96d1d06c29eeeae",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "8": 2
+      }
+    },
+    {
+      "task": 23,
+      "item": 46,
+      "id": "f18709854f2a199ec404ea43e4fdae3cf086a8d8bdbec410a193cb33969e3532",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "8": 2
+      }
+    },
+    {
+      "task": 24,
+      "item": 4,
+      "id": "925451d0474ea7ac3d5860d42c5729624a94e403e603227dba89b93a37790c2e",
+      "issue": "numeric_review",
+      "source": {
+        "260": 1,
+        "3": 1,
+        "7000": 1,
+        "7.3": 1,
+        "100": 1,
+        "500": 1,
+        "888": 1,
+        "48.88": 1,
+        "8": 1,
+        "1.6": 1,
+        "2025": 1,
+        "10": 1
+      },
+      "translation": {
+        "260": 1,
+        "30.000": 1,
+        "7000": 1,
+        "73.000": 1,
+        "100": 1,
+        "500": 1,
+        "888": 1,
+        "48": 1,
+        "88": 1,
+        "80.000": 1,
+        "16.000": 1,
+        "10": 1,
+        "2025": 1
+      }
+    },
+    {
+      "task": 24,
+      "item": 4,
+      "id": "925451d0474ea7ac3d5860d42c5729624a94e403e603227dba89b93a37790c2e",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 24,
+      "item": 15,
+      "id": "2c8a283b3e25a672e44c79721ae834a4a89227cd6d390ee84bf789ad71da28f2",
+      "issue": "numeric_review",
+      "source": {
+        "80": 2,
+        "125": 1,
+        "2024": 1,
+        "12": 1,
+        "63": 1,
+        "30": 1,
+        "83.4": 1,
+        "78.9": 1,
+        "83.8": 1,
+        "87.6": 1,
+        "2025": 1,
+        "1": 1,
+        "7": 1,
+        "9": 3,
+        "1600": 1,
+        "6": 1,
+        "3": 3,
+        "60": 1,
+        "16": 1
+      },
+      "translation": {
+        "80": 2,
+        "125": 1,
+        "12": 1,
+        "2024": 1,
+        "63": 1,
+        "100": 1,
+        "300.000": 1,
+        "1": 3,
+        "83": 2,
+        "4": 1,
+        "78": 1,
+        "9": 4,
+        "8": 1,
+        "87": 1,
+        "6": 2,
+        "2025": 1,
+        "7": 1,
+        "1600": 1,
+        "3": 3,
+        "60": 1,
+        "16": 1
+      }
+    },
+    {
+      "task": 24,
+      "item": 23,
+      "id": "bf3c38dce84c9854786c666a2a249db6399f6847bdb501b08bcd7fb265df2059",
+      "issue": "numeric_review",
+      "source": {
+        "0.005": 1,
+        "1": 1,
+        "500": 1,
+        "2": 1,
+        "400": 1
+      },
+      "translation": {
+        "5": 1,
+        "0005": 1,
+        "1": 1,
+        "500": 1,
+        "2": 1,
+        "400": 1
+      }
+    },
+    {
+      "task": 24,
+      "item": 24,
+      "id": "86ce24f19905605206b2d71c2c395ceec0c26acafaca9041815587a0e7c6a7c0",
+      "issue": "numeric_review",
+      "source": {
+        "5": 1,
+        "0.005": 1,
+        "1": 2,
+        "500": 1,
+        "2": 1,
+        "400": 1,
+        "5749": 1,
+        "2022": 3,
+        "3": 1,
+        "15": 1,
+        "2023": 1,
+        "4": 1,
+        "2015": 1
+      },
+      "translation": {
+        "5": 1,
+        "0005": 1,
+        "1": 2,
+        "500": 1,
+        "2": 1,
+        "400": 1,
+        "5749": 1,
+        "2022": 3,
+        "15": 1,
+        "3": 1,
+        "4": 1,
+        "2023": 1,
+        "2015": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 3,
+      "id": "6d5dc8fd15de85ca93f6795808fb55e1164fa4d5c1c1866dc4f18da4a0172b44",
+      "issue": "numeric_review",
+      "source": {
+        "11.4": 1,
+        "17.9": 1,
+        "2014": 1,
+        "2015": 1,
+        "85": 1,
+        "2500": 1
+      },
+      "translation": {}
+    },
+    {
+      "task": 25,
+      "item": 4,
+      "id": "b10c6744572b074d9e1bbbea293c68671b1a5c076bd87e583c8ab77495090137",
+      "issue": "numeric_review",
+      "source": {
+        "66465": 1,
+        "1991": 2,
+        "1996": 2,
+        "11.4": 2,
+        "17.9": 1,
+        "16.4": 1,
+        "75": 1,
+        "4000": 1,
+        "2014": 4,
+        "7": 1,
+        "2015": 3,
+        "12": 3,
+        "18": 4,
+        "150": 1,
+        "6": 2,
+        "5166.35": 1,
+        "40": 1,
+        "85": 2,
+        "0.5": 2,
+        "8800": 1,
+        "8080": 1,
+        "2500": 1,
+        "2540": 1,
+        "28": 1,
+        "31": 1,
+        "1": 1,
+        "3": 1,
+        "2012": 1
+      },
+      "translation": {
+        "11": 1,
+        "4": 1,
+        "17": 1,
+        "9": 1,
+        "2014": 1,
+        "2015": 1,
+        "85": 1,
+        "250": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 5,
+      "id": "29901a4bd114669bbd6fc9757968668b0508b06494d5c02ab25e8bd128c3b739",
+      "issue": "numeric_review",
+      "source": {
+        "1990": 1,
+        "18": 1
+      },
+      "translation": {
+        "1990": 1,
+        "90": 2,
+        "18": 1,
+        "3": 2,
+        "4": 1,
+        "1": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 5,
+      "id": "29901a4bd114669bbd6fc9757968668b0508b06494d5c02ab25e8bd128c3b739",
+      "issue": "remaining_han_review"
+    },
+    {
+      "task": 25,
+      "item": 8,
+      "id": "b51f7a6eaa651a2da3ecd8f3319bf38c92ac1be9c727effa92f210c2fe30cc91",
+      "issue": "numeric_review",
+      "source": {
+        "20": 1,
+        "50": 1
+      },
+      "translation": {
+        "6": 1,
+        "20": 1,
+        "50": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 9,
+      "id": "850a11326c8e71d335692c1665219547fbe4218dfaf8b7ee7f0a39d247862be1",
+      "issue": "numeric_review",
+      "source": {
+        "20": 1,
+        "50": 1,
+        "2015": 1
+      },
+      "translation": {
+        "6": 1,
+        "20": 1,
+        "50": 1,
+        "2015": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 15,
+      "id": "a600478c4a353b68883692f2b80307ce7f1cda3e614eebc7fbe7cf2a1642cb0f",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "6": 1,
+        "300": 1,
+        "1": 1,
+        "60.5": 1,
+        "3": 1,
+        "69.6": 1,
+        "5": 2,
+        "50.8": 1
+      },
+      "translation": {
+        "6": 2,
+        "2025": 1,
+        "50": 2,
+        "60": 1,
+        "5": 3,
+        "1": 1,
+        "69": 1,
+        "3": 1,
+        "8": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 18,
+      "id": "3cbe539054c1005082446fec2216b780297f76d79dcc888ac7a306ac3070161e",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "20": 1,
+        "18": 1,
+        "30": 1,
+        "26": 1
+      },
+      "translation": {
+        "20": 1,
+        "18": 1,
+        "30": 1,
+        "26": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 19,
+      "id": "77dc31f9be38a97c80ec1843268ca819d6fbccacc6870280d439f274a4970316",
+      "issue": "numeric_review",
+      "source": {
+        "1": 1,
+        "20": 2,
+        "0.99": 1,
+        "18.2": 1,
+        "30": 1,
+        "26": 1,
+        "2023": 2,
+        "7": 2,
+        "1.2": 1,
+        "0.2": 1,
+        "136": 1
+      },
+      "translation": {
+        "20": 2,
+        "0": 2,
+        "99": 1,
+        "18": 1,
+        "2": 3,
+        "30": 1,
+        "26": 1,
+        "2023": 2,
+        "7": 2,
+        "1": 1,
+        "136": 1
+      }
+    },
+    {
+      "task": 25,
+      "item": 26,
+      "id": "e1f817baae62c21c2f4afec1d8001316977d7184e281dbc85116b59dba0c6596",
+      "issue": "numeric_review",
+      "source": {
+        "12000": 1
+      },
+      "translation": {
+        "12.000": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 3,
+      "id": "802cc6e8b1fbcc702ce4f6bba87380f08b93d542adeffda2777295f447e09227",
+      "issue": "numeric_review",
+      "source": {
+        "3600": 1,
+        "3": 1
+      },
+      "translation": {
+        "3.600": 1,
+        "3": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 5,
+      "id": "32e9ea7a115203c2fb2d79ce957503d74ca267f4f6c14dc59c0e3f0049863dd1",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "1": 2,
+        "3": 2,
+        "3600": 1
+      },
+      "translation": {
+        "1": 2,
+        "2025": 1,
+        "3": 2,
+        "3.600": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 6,
+      "id": "5163f262ddd6a1fea77178b83033885073c98d828af8056782547d9b57192a48",
+      "issue": "numeric_review",
+      "source": {
+        "2025": 1,
+        "1": 2,
+        "3": 1,
+        "3600": 1
+      },
+      "translation": {
+        "1": 2,
+        "2025": 1,
+        "3": 1,
+        "3.600": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 7,
+      "id": "f02728d000201062c2b3f45b1bdbd25c8e428800654ae7559aec83972484f220",
+      "issue": "numeric_review",
+      "source": {
+        "10800": 1
+      },
+      "translation": {
+        "10.800": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 11,
+      "id": "bb65eb45ed1aba223e4444028693e45c6bd02a289373c73d62bd4e9015ccdcc3",
+      "issue": "numeric_review",
+      "source": {
+        "98": 1,
+        "15": 3,
+        "1": 1
+      },
+      "translation": {
+        "98": 1,
+        "15": 3
+      }
+    },
+    {
+      "task": 83,
+      "item": 15,
+      "id": "b8361d20b5ea5c19d154816b11439eb938d7f43ccc2a76b7441aa8c9c4096eeb",
+      "issue": "numeric_review",
+      "source": {
+        "1000": 1,
+        "5000": 1,
+        "1": 1,
+        "19": 1
+      },
+      "translation": {
+        "1.000": 1,
+        "5.000": 1,
+        "1": 2,
+        "19": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 16,
+      "id": "266ec6244d0716186d94c35b04cfb28b6f59c57676e37ae488227371414c5589",
+      "issue": "numeric_review",
+      "source": {
+        "1": 2,
+        "1000": 1,
+        "5000": 1
+      },
+      "translation": {
+        "1": 2,
+        "1.000": 1,
+        "5.000": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 30,
+      "id": "8b4183eadf3566b70e3f5d5d58a1babcf78cd78db670046ebc6ae3b01104adaf",
+      "issue": "numeric_review",
+      "source": {},
+      "translation": {
+        "20": 1
+      }
+    },
+    {
+      "task": 83,
+      "item": 31,
+      "id": "16238ea4dbf9d28a5be47e8a8ea3b2b96fcbf5b5fa3d4a5edfcb92988e91adb0",
+      "issue": "numeric_review",
+      "source": {
+        "10": 1
+      },
+      "translation": {
+        "10": 1,
+        "20": 1
+      }
+    }
+  ],
+  "limitations": [
+    "Cached results are positional arrays without returned item IDs; matching lengths do not prove alignment.",
+    "Numeric and Han checks are review flags only; they do not establish semantic accuracy.",
+    "Full coverage, all internal anchors, and semantic review are not complete."
+  ]
+}
