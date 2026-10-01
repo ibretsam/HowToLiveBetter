@@ -1,7 +1,7 @@
 > **Bản dịch tiếng Việt chưa chính thức — bản nháp dịch máy.** [Thông tin bản dịch](../TRANSLATION.md) · [Đối chiếu bản gốc tiếng Trung](../../docs/孩子出生前后要办的事.md).
 > Luật, trợ cấp, số điện thoại và khoản tiền trong sách thuộc bối cảnh Trung Quốc đại lục; tiền tính bằng nhân dân tệ, trừ khi ghi rõ đơn vị khác.
 
-[← Về mục lục chung](../README.md)
+[← Về mục lục tổng](../README.md)
 
 # Việc cần làm trước và sau khi con ra đời: danh sách theo thời gian
 
@@ -54,7 +54,7 @@ Sách chia theo chủ đề nên việc mang thai, sinh, chăm trẻ rải nhi�
 4. Sữa công thức pha nước trên 70 ℃, thừa đổ bỏ. Xem chương 20 mục 5 (pha sữa).
 5. Trẻ chưa đủ 3 tháng nhiệt độ tới 38 ℃ đi bệnh viện ngay. Xem chương 20 mục 8 (nhiệt độ tới 38 ℃).
 6. Sắp không kiềm chế nổi thì đặt con lại nôi, rời đi vài phút. Xem chương 20 mục 9 (không rung lắc trẻ).
-7. Danh sách ‘đi viện ngay’ của sản phụ có giá trị suốt một năm sau sinh. Xem chương 27 mục 7.
+7. Danh sách ‘đi viện ngay’ của sản phụ có giá trị suốt một năm sau sinh. Xem chương 27 mục 7 (danh sách đi bệnh viện ngay).
 
 ## Sáu, sau đầy tháng đến tròn một tuổi
 

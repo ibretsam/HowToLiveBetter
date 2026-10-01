@@ -1,0 +1,12 @@
+{
+  "README.md": [
+    {
+      "source": "```markdown\n### 5. 把家里的食盐换成低钠盐（钾盐）\n- 成本：一袋比普通盐贵几元。买的时候顺手换，不额外占时间。口味几乎不变。\n- 说人话：得过中风或 60 岁以上有高血压的人，把家里的盐换成低钠盐，五年内死亡的概率低约 12%，中风低约 14%。\n- 收益：一项把人随机分成两组的试验，在中国农村做的，20995 人，都是得过卒中的人或者 60 岁以上的高血压病人，跟踪了 4.74 年。结果：用低钠盐的那组比用普通盐的那组，死亡风险低约 12%（RR 0.88）。卒中低约 14%（RR 0.86）。主要心血管事件低约 13%（RR 0.87）。\n- 证据等级：A\n- 来源：Neal B 等 (2021). Effect of Salt Substitution on Cardiovascular Events and Death. NEJM. https://doi.org/10.1056/NEJMoa2105675\n- 备注：争议。试验对象是高危老人，健康年轻人换盐得到的好处要小得多。肾功能不全的人，或者正在吃保钾类药物的人，换盐前先问医生。\n```",
+      "translation": "```markdown\n### 5. Đổi muối ăn trong nhà sang muối ít natri (muối kali)\n- Chi phí: Mỗi túi đắt hơn muối thường vài nhân dân tệ. Đổi ngay lúc mua nên không mất thêm thời gian. Vị gần như không đổi.\n- Nói dễ hiểu: Người từng đột quỵ hoặc từ 60 tuổi trở lên bị tăng huyết áp, nếu đổi muối ăn trong nhà sang muối ít natri, có xác suất tử vong trong năm năm thấp hơn khoảng 12% và đột quỵ thấp hơn khoảng 14%.\n- Lợi ích: Một thử nghiệm chia ngẫu nhiên người tham gia thành hai nhóm được thực hiện ở vùng nông thôn Trung Quốc, với 20995 người từng bị đột quỵ hoặc từ 60 tuổi trở lên bị tăng huyết áp, theo dõi trong 4.74 năm. Kết quả: nhóm dùng muối ít natri có nguy cơ tử vong thấp hơn nhóm dùng muối thường khoảng 12% (RR 0.88), đột quỵ thấp hơn khoảng 14% (RR 0.86), và biến cố tim mạch nghiêm trọng thấp hơn khoảng 13% (RR 0.87).\n- Mức độ bằng chứng: A\n- Nguồn: Neal B 等 (2021). Effect of Salt Substitution on Cardiovascular Events and Death. NEJM. https://doi.org/10.1056/NEJMoa2105675\n- Ghi chú: Có tranh luận. Người tham gia thử nghiệm là người cao tuổi có nguy cơ cao; người trẻ khỏe mạnh đổi muối có lợi ích nhỏ hơn nhiều. Nếu chức năng thận suy giảm hoặc đang dùng thuốc giữ kali, hãy hỏi bác sĩ trước khi đổi muối.\n```"
+    },
+    {
+      "source": "```bash\ncd tools/epub && npm ci && npm run build   # EPUB\nnode tools/offline/build.mjs               # 离线单文件 HTML\nnode tools/pdf/build.mjs                   # PDF，另需 pandoc ≥ 3.1 和 typst ≥ 0.13\n```",
+      "translation": "```bash\ncd tools/epub && npm ci && npm run build   # EPUB\nnode tools/offline/build.mjs               # HTML ngoại tuyến trong một tệp\nnode tools/pdf/build.mjs                   # PDF, cần thêm pandoc ≥ 3.1 và typst ≥ 0.13\n```"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 > **Bản dịch tiếng Việt chưa chính thức — bản nháp dịch máy.** [Thông tin bản dịch](../TRANSLATION.md) · [Đối chiếu bản gốc tiếng Trung](../../docs/刚确诊慢性病之后.md).
 > Luật, trợ cấp, số điện thoại và khoản tiền trong sách thuộc bối cảnh Trung Quốc đại lục; tiền tính bằng nhân dân tệ, trừ khi ghi rõ đơn vị khác.
 
-[← Về mục lục chung](../README.md)
+[← Về mục lục tổng](../README.md)
 
 # Vừa được chẩn đoán bệnh mạn: làm gì tuần đầu, ba tháng đầu và về sau
 

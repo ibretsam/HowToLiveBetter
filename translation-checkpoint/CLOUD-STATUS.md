@@ -1,60 +1,76 @@
-# Cloud restoration and QA — 2026-10-01
+# Cloud restoration and completed translation — 2026-10-01
 
-Restored branch `codex/vietnamese-cloud-checkpoint` at checkpoint commit
-`6d88a2570e9ef99ad3c301eb8d020a655e3a54f0` in `/workspace/HowToLiveBetter`.
-All preserved cache hashes match the snapshot. The 43 source documents match
-the pinned source commit, and task inputs match those source documents.
-No source prose or cached translation was overwritten. No local Mac process
-was stopped, and no credentials or personal files were copied.
+Restored `codex/vietnamese-cloud-checkpoint` from commit
+`6d88a2570e9ef99ad3c301eb8d020a655e3a54f0` in the cloud. All original cache
+hashes match `snapshot-manifest.json`. The 43 source documents remain identical
+to source commit `6f6d969abe19fd4aa8b30979d634f2a187be0a55`.
+No credentials or personal files were copied. No Mac process was stopped.
+Restoration, translation, assembly and checks run independently of the Mac.
 
-## Verified progress
+## Completed coverage
 
-- 137 tasks, 4,103 items; 26 cached tasks containing 993 output strings.
-- 111 tasks missing; 3,110 items have no Workers AI result.
-- Two pre-existing Vietnamese files are present, but only `vi/book/18.md`
-  is a translated source document; `vi/TRANSLATION.md` is explanatory material.
-- Added `vi/translation-manifest.json` with all 43 source-to-target mappings,
-  source SHA-256 values, per-file missing tasks, and explicit incomplete status.
-- Added `tools/check-vi.py`; run `python3 tools/check-vi.py --write-report`.
-  Exit 1 deliberately reports an incomplete/invalid checkpoint.
+- 137/137 planned batches; 4,103/4,103 text items with ordered source IDs.
+- 43 translated reader documents: README, 34 chapters, eight long articles.
+- 649 numbered book entries. Start reading at `vi/README.md`.
+- README Markdown examples and command comments translated separately in
+  `vi-reviewed-cache/code-overrides.json`.
+- Source attribution, source revision and CC BY 4.0 license preserved.
 
-## QA findings
+The original checkpoint contained 26 Workers AI batches and 993 strings.
+It had two Vietnamese files, of which only chapter 18 was a translated source
+file. Its ID/order, truncation, placeholder and number problems are documented
+in the historical `cloud-qa.json` and `tools/check-vi-checkpoint.py`.
+The old caches and snapshots were preserved without modification. Complete,
+ID-validated translations now live separately in `vi-reviewed-cache/`.
 
-`cloud-qa.json` contains reproducible item indices and source IDs:
-31 protected-token mismatches, 336 numeric-review flags, and 17 remaining-Han
-flags. Numeric differences require review: punctuation/localization can also
-trigger them. Counts can overlap and are not counts of proven translation errors.
+## Method and validation
 
-Two inspected problems are definite: task 0 item 3 is a source paragraph about
-649 recommendations but its cached result is a chapter-3 link; task 16 item 1
-ends mid-sentence and omits the latter portion and its protected link. Equal
-array lengths therefore do not guarantee matching item order or complete text.
-Existing results have no returned item IDs; future inference should return IDs
-and be validated by ID, content, numbers, and placeholders before assembly.
+Work continued with existing session models and native agents. No Workers AI
+credential was needed, no Google Translate runner was restarted, and no paid
+external service or new credential was used. Translations were compared with
+source items; terse drafts were rewritten to restore explanations and qualifiers.
 
-## Remaining blocker
+Reproduce current assembly and checks from the repository root:
 
-This environment exposes no Workers AI inference tool and no `wrangler`
-executable. The checkpoint explicitly contains neither the previous Workers AI
-runner nor its runtime credentials. Available tool discovery did not expose a
-Workers AI connector. Thus the previous translation pipeline cannot currently
-be resumed here. No paid service, new credential, or replacement translation
-service has been used; the old Google Translate runner was not restarted.
+```sh
+python3 tools/assemble-vi.py
+python3 tools/check-vi.py --write-report
+node tools/check-plain.mjs
+node tools/check-refs.mjs --check
+node tools/sync-stats.mjs --check
+```
 
-The restored files and QA do not depend on the Mac. However, **ongoing automated
-translation has not been established**, and this report is not a promise that a
-background process will keep translating after the turn ends. To resume that
-pipeline, make its already-authorized inference capability available in this
-cloud session (not by committing secrets), or establish an approved replacement.
-Then reuse valid results, repair invalid results, translate the 111 missing
-tasks, assemble all files, fix internal anchors, and perform full semantic QA.
+`current-qa.json` and `vi/translation-manifest.json` record current checks:
+source hashes and task inputs, complete coverage, IDs/order, protected tokens,
+literal numeric tokens, entry numbering, evidence grades, citation text, HTML
+comments, heading/field/table structure, code examples, external destinations,
+relative paths and translated Markdown anchors. Current translation checks pass
+with zero failures. The Node checks also pass for the unchanged Chinese source;
+they do not certify Vietnamese prose quality.
 
-## Remote persistence blocker
+Retained Chinese text is intentional in bibliographies, attribution, original
+file destinations, searchable platform names and the distinct legal terms
+`定金` / `订金`, with Vietnamese explanations. Mainland China law, emergency
+numbers, healthcare, benefits and CNY amounts were not replaced with Vietnam's.
 
-Pushing this checkpoint branch to `ibretsam/HowToLiveBetter` returned HTTP 403:
-GitHub denied access to the cloud session's authenticated identity
-`khanhle3109`. No upstream or unrelated repository was used. The QA changes are
-committed locally; a portable patch is also exported to
-`/workspace/shared/howtolivebetter-cloud-qa.patch`. The original checkpoint
-remains remotely preserved, but the new QA commit needs an authorized writer
-to push it to the dedicated fork branch.
+These are AI drafts with model-based review, not professional translation,
+medical or legal approval. Automated checks cannot establish every sentence's
+semantic accuracy or current factual validity. Source inconsistencies remain;
+for example chapter 1's mushroom-poisoning entry contains an instruction to
+induce vomiting that differs from other poisoning guidance. This report flags
+the source wording, rather than silently rewriting it.
+
+## Persistence and handoff
+
+Translation changes are committed locally on the dedicated checkpoint branch.
+GitHub rejected a push to `ibretsam/HowToLiveBetter` with HTTP 403 because the
+cloud identity `khanhle3109` lacks write access. No alternate identity,
+credential, upstream or unrelated repository was used. The original checkpoint
+is remote; the completed cloud commits have not been pushed.
+
+The portable final ZIP includes the tracked repository, current translations,
+all public translation checkpoints and a Git bundle of the dedicated branch.
+It excludes `.git` runtime configuration, credentials and untracked scratch
+files. An authorized writer can restore the bundle and push that branch to the
+user's fork; instructions are in `vi/HANDOFF.md`. The ZIP is saved in ChatGPT
+Library so the completed work does not depend on this execution workspace.

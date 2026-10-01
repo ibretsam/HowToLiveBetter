@@ -1,43 +1,16 @@
 {
-  "status": "incomplete",
+  "status": "passed",
   "source_commit": "6f6d969abe19fd4aa8b30979d634f2a187be0a55",
   "source_documents": 43,
   "total_tasks": 137,
   "total_items": 4103,
-  "reviewed_tasks": 123,
-  "reviewed_items": 3683,
-  "missing_tasks": [
-    9,
-    10,
-    57,
-    58,
-    59,
-    95,
-    96,
-    97,
-    98,
-    132,
-    133,
-    134,
-    135,
-    136
-  ],
-  "exported_documents": 35,
-  "book_entries": 556,
-  "failure_counts": {
-    "numbers": 1
-  },
-  "failures": [
-    {
-      "task": 131,
-      "item": 33,
-      "issue": "numbers",
-      "missing": {},
-      "extra": {
-        "2": 2
-      }
-    }
-  ],
+  "reviewed_tasks": 137,
+  "reviewed_items": 4103,
+  "missing_tasks": [],
+  "exported_documents": 43,
+  "book_entries": 649,
+  "failure_counts": {},
+  "failures": [],
   "review_flags": [
     {
       "task": 3,
@@ -50,18 +23,6 @@
       "item": 27,
       "issue": "retained_han",
       "text": "Tại Trung Quốc, tìm ứng dụng nhỏ “中国戒烟平台” (Nền tảng cai thuốc Trung Quốc) trên WeChat; ứng dụng có danh sách đường dây và phòng khám cai thuốc các nơi. Bạn cũng có thể gọi 12320 hỏi địa phương có phòng khám cai thuốc không. Phần lớn thử nghiệm trên thực hiện ở nước ngoài; mức độ hỗ trợ của các phòng khám địa phương khác nhau nhiều, nên chỉ dùng con số để hiểu hướng tác động. Thuốc cần kết hợp xem mục 3 (thuốc cai thuốc lá)."
-    },
-    {
-      "task": 48,
-      "item": 12,
-      "issue": "retained_han",
-      "text": "Thứ tự theo “nhanh và ít tốn”: nền tảng nhanh nhất, ít tốn nhất, nên lưu chứng cứ, báo cáo trước. Tòa chậm và tốn nhất, sau cùng mới quyết có kiện không. Chi phí quá trình cả ba đường đều tự gánh. Lệnh cấm phải tự xin tòa. Tự tố là tự đến tòa nộp vụ kiện, tự đưa chứng cứ. Muốn viện kiểm sát tiếp quản, chuyển sang công tố, phải thuộc một trong năm tình huống Điều 12 văn bản Pháp phát〔2023〕14; không đủ thì chỉ tự kiện. Có hai việc đừng làm. Một là không chửi trả, vì sẽ biến mình thành người bị phạt ở mục 16 chương này (trên mạng không chửi, không bịa tin). Hai là không xóa nội dung trong tài khoản mình vì đó là chứng cứ. Không chịu nổi thì gọi 12356, xem chương 1 mục 25. Yêu cầu nền tảng xóa thông tin cá nhân xem chương 14 mục 8. Bị quay và đăng mạng vì giúp người lạ xem [docs/遇到陌生人出事该不该停.md](⟦P0000⟧)."
-    },
-    {
-      "task": 56,
-      "item": 2,
-      "issue": "retained_han",
-      "text": "Chương này tách câu hỏi “kết hôn có đáng không” thành tiền, thời gian, sức khỏe, rủi ro pháp lý và chất lượng quan hệ để tính riêng. Mỗi khoản chỉ dùng số truy được nguồn, giới hạn ở thống kê chính thức hoặc phân tích gộp (gom dữ liệu nhiều nghiên cứu tính lại). Không phán xét đạo đức, không kết luận thay bạn. Sức khỏe tính theo nguy cơ tử vong; thời gian theo phút mỗi ngày; pháp lý theo điều luật. Ba cách tính không quy đổi cho nhau. Phương pháp, danh sách điền và hiểu lầm thường gặp xem [docs/结婚划不划算.md](⟦P0000⟧)."
     },
     {
       "task": 65,
@@ -86,18 +47,6 @@
       "item": 21,
       "issue": "retained_han",
       "text": "“订金” không có quy tắc của cọc bảo đảm trong Bộ luật Dân sự, thường chỉ coi là tiền trả trước. Đây là cách hiểu phổ biến trong thực tiễn; chương này chưa kiểm chứng án lệ. Cho trả chậm là cho bên kia vay không lãi; họ đổ vỡ thì thành nợ xấu. Trước khi cho, vào Hệ thống công khai thông tin tín dụng doanh nghiệp quốc gia tra hồ sơ, xem họ từng bị kiện chưa."
-    },
-    {
-      "task": 68,
-      "item": 13,
-      "issue": "retained_han",
-      "text": "Mức B vì hướng dẫn chỉ nói cách xử lý, không có số liệu “làm theo giảm bao nhiêu tử vong”. Điều một trăm tám mươi bốn miễn trách nhiệm cho tổn hại trong quá trình cứu, với điều kiện tự nguyện và khẩn cấp. Những việc như “tự ý nhét người vào xe riêng đưa viện” không thuộc phạm vi đó; đợi 120 an toàn hơn. Gọi 120 xong đừng cúp, làm theo điều phối viên. Cách đánh giá này trước hết dành cho người già nhà mình, người quen. Với người lạ trên đường, bỏ đi không trái luật và ít tốn công nhất: luật không bắt bạn cứu. Nếu dừng, cần tính từng lớp chi phí: thời gian, để lại số, bị gia đình tìm, bị kiện, bị làm ầm ở cơ quan, bị quay đăng mạng. Xem [docs/遇到陌生人出事该不该停.md](⟦P0000⟧). Đã quyết định dừng, điều bắt buộc duy nhất là **đừng tự di chuyển họ**, vì cố đỡ có thể làm xuất huyết não hoặc chấn thương cột sống nặng hơn. Ngoại lệ: nơi đó do bạn kinh doanh, quản lý hoặc hoạt động do bạn tổ chức, bỏ đi có thể phải chịu trách nhiệm. Nghĩa vụ bảo đảm an toàn của Điều một nghìn một trăm chín mươi tám yêu cầu bạn chịu một phần trách nhiệm an toàn cho người tại chỗ. Phòng ngã xem chương 1 mục 13 (tập thăng bằng, sức chân). Triệu chứng muộn sau người già va đầu xem mục 10 chương này. Tiền sau khi bị thương lúc cứu người xem mục 39. Lưu chứng cứ, báo công an khi bị bạo lực mạng xem chương 8 mục 16."
-    },
-    {
-      "task": 101,
-      "item": 2,
-      "issue": "retained_han",
-      "text": "Bạn muốn làm website hoặc ứng dụng. Chương này trả lời bốn việc: pháp luật coi đó là loại kinh doanh nào, cần giấy phép gì, đặt máy chủ ở đâu, ai chịu trách nhiệm về nội dung người dùng đăng và tiền thu trên đó. Thước đo là tự do thân thể và tiền bạc. Các mục theo thứ tự: việc có thể đi tù, việc cần xin phép trước, nghĩa vụ hằng ngày của nền tảng, cuối cùng là kinh nghiệm chọn máy chủ; mục cuối chỉ có nhận định, không có số liệu. Nếu bạn là nhân viên kỹ thuật được thuê, xem các giới hạn pháp luật ở chương 11. Đăng ký công ty và khai thuế xem chương 12, chương này không lặp lại. Bảng đối chiếu giấy phép và bảng quyết định chọn máy chủ xem [docs/做平台要办哪些证.md](⟦P0000⟧)."
     }
   ],
   "limitations": [

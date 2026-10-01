@@ -35,7 +35,7 @@ Cấp quốc gia cập nhật năm 2024. Văn bản là Ý kiến hướng dẫn
 
 ## Hai, bộ ba phòng cháy
 
-**Bình chữa cháy.** Bình xách tay phải chứng nhận bắt buộc quốc gia, bình đạt có dấu CCC. Theo chuẩn GB 4351—2023, Bình chữa cháy xách tay. Loại nạp áp sẵn, trừ CO2, có đồng hồ áp suất; kim phải ở vùng xanh. Vào đỏ hoặc vàng nghĩa là không dùng được. Hạn loại bỏ theo XF 95: gốc nước 6 năm, bột khô 10 năm, CO2 12 năm, tính từ xuất xưởng; ngày đóng trên thân bình. Gia đình thường chọn bột ABC. Một bình cửa bếp, một ở lối vào. Đừng nhét tủ ngay trên bếp, cháy sẽ không với tới.
+**Bình chữa cháy.** Bình xách tay phải chứng nhận bắt buộc quốc gia, bình đạt có dấu CCC. Theo chuẩn GB 4351—2023, Bình chữa cháy xách tay. Loại nạp áp sẵn, trừ carbon dioxide, có đồng hồ áp suất; kim phải ở vùng xanh. Vào đỏ hoặc vàng nghĩa là không dùng được. Hạn loại bỏ theo XF 95: gốc nước 6 năm, bột khô 10 năm, carbon dioxide 12 năm, tính từ xuất xưởng; ngày đóng trên thân bình. Gia đình thường chọn bột ABC. Một bình cửa bếp, một ở lối vào. Đừng nhét tủ ngay trên bếp, cháy sẽ không với tới.
 
 **Chăn chữa cháy.** Danh sách chính thức gộp cùng bình. Hai tác dụng: phủ chảo dầu cháy hoặc khoác thoát ra. Để một trong ngăn kéo bếp, gọn, không hết hạn. Chảo cháy tắt bếp trước rồi phủ chăn, đừng nhấc ngay sau phủ.
 

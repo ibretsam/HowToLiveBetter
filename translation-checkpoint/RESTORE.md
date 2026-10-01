@@ -19,10 +19,12 @@ Do not treat coverage or structural checks as professional translation approval.
 
 GitHub rejected the cloud identity's push with HTTP 403. No alternate identity,
 credential, or repository is being used. Changes are committed locally on the
-dedicated checkpoint branch; the final portable deliverable will include the
-translation and resumable repository assets for an authorized writer to push.
+dedicated checkpoint branch; the portable final ZIP includes the
+translation and a Git bundle of the completed checkpoint branch for an authorized writer to push.
 
-This is an unfinished translation checkpoint for the personal fork `ibretsam/HowToLiveBetter`. Keep translation work in the fork; the upstream project explicitly does not accept translated content.
+The historical captured checkpoint below was unfinished. The current cache
+and exports complete all 137 tasks and 43 reader documents; see
+`CLOUD-STATUS.md` and `current-qa.json`. This work belongs to the personal fork `ibretsam/HowToLiveBetter`. Keep translation work in the fork; the upstream project explicitly does not accept translated content.
 
 Source: https://github.com/eternity4719/HowToLiveBetter, commit `6f6d969abe19fd4aa8b30979d634f2a187be0a55` (2026-10-01).
 

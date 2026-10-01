@@ -107,9 +107,10 @@ def audit(partial=False):
         if path.exists():
             exported += 1
             text = path.read_text()
-            entries += len(re.findall(r'^### \d+\.',text,re.M))
+            if source.startswith('book/'):
+                entries += len(re.findall(r'^### \d+\.',text,re.M))
             checked['numbered_headings'] = re.findall(r'^### (\d+)\.',original,re.M)==re.findall(r'^### (\d+)\.',text,re.M)
-            checked['evidence_grades'] = re.findall(r'^- 证据等级：(.*)$',original,re.M)==re.findall(r'^- Mức độ bằng chứng: (.*)$',text,re.M)
+            checked['evidence_grades'] = [assembler.evidence_annotation(s) for s in re.findall(r'^- 证据等级：(.*)$',original,re.M)]==re.findall(r'^- Mức độ bằng chứng: (.*)$',text,re.M)
             checked['html_comments'] = re.findall(r'<!--.*?-->',original,re.S)==re.findall(r'<!--.*?-->',text,re.S)
             checked['citations'] = [base.rewrite_links(s,source) for s in re.findall(r'^- 来源：(.*)$',original,re.M)]==re.findall(r'^- Nguồn: (.*)$',text,re.M)
             checked['no_placeholders'] = not TOKEN.search(text)
@@ -118,6 +119,18 @@ def audit(partial=False):
             urls=lambda s:Counter(u.rstrip('.,;:') for u in re.findall(r'https?://[^\s<>"`）)。]+',s))
             checked['external_urls'] = urls(original)==urls(text)
             checked['heading_structure'] = [m[0] for m in re.findall(r'^(#{1,6})\s+(.+)$',original,re.M)]==[m[0] for m in re.findall(r'^(#{1,6})\s+(.+)$',text,re.M)]
+            code_pattern = r'^```.*?^```[^\n]*'
+            source_prose = re.sub(code_pattern,'',original,flags=re.M|re.S)
+            target_prose = re.sub(code_pattern,'',text,flags=re.M|re.S)
+            checked['entry_fields'] = all(
+                len(re.findall(r'^- '+re.escape(src)+r'：',source_prose,re.M)) ==
+                len(re.findall(r'^- '+re.escape(dst)+r': ',target_prose,re.M))
+                for src,dst in [('成本','Chi phí'),('说人话','Nói dễ hiểu'),
+                                ('收益','Lợi ích'),('备注','Ghi chú')])
+            expected_code = assembler.code_overrides(source,base.rewrite_links(original,source))
+            checked['code_blocks'] = re.findall(code_pattern,expected_code,re.M|re.S)==re.findall(code_pattern,text,re.M|re.S)
+            checked['code_example_numbers'] = numbers('\n'.join(re.findall(code_pattern,original,re.M|re.S)))==numbers('\n'.join(re.findall(code_pattern,text,re.M|re.S)))
+            checked['table_structure'] = [line.count('|') for line in original.splitlines() if line.startswith('|')]==[line.count('|') for line in text.splitlines() if line.startswith('|')]
             for key, ok in checked.items():
                 if not ok:
                     failures.append({'target':target,'issue':key})

@@ -1,7 +1,7 @@
 {
-  "method": "direct model translation with native agents",
-  "reviewed_tasks": 126,
-  "reviewed_items": 3736,
+  "method": "direct model translation with native agents; source-based model review",
+  "reviewed_tasks": 137,
+  "reviewed_items": 4103,
   "reviewed_task_ids": [
     0,
     1,
@@ -61,6 +61,8 @@
     55,
     56,
     57,
+    58,
+    59,
     60,
     61,
     62,
@@ -96,6 +98,10 @@
     92,
     93,
     94,
+    95,
+    96,
+    97,
+    98,
     99,
     100,
     101,
@@ -128,21 +134,17 @@
     128,
     129,
     130,
-    131
-  ],
-  "missing_task_ids": [
-    58,
-    59,
-    95,
-    96,
-    97,
-    98,
+    131,
     132,
     133,
     134,
     135,
     136
   ],
+  "missing_task_ids": [],
+  "exported_documents": 43,
+  "book_entries": 649,
+  "qa_status": "passed",
   "remote_push_status": "blocked_http_403",
   "original_workers_cache_preserved": true
 }

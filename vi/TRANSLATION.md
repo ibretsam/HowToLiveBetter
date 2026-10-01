@@ -6,15 +6,21 @@ Bản dịch dựa trên nội dung ngày **01/10/2026**, tại phiên bản [`6
 
 ## Cách thực hiện và tình trạng rà soát
 
-**Bản dịch chưa hoàn thành.** Checkpoint hiện có 26/137 lô kết quả từ Cloudflare Workers AI, chứa 993/4.103 đoạn; còn thiếu 111 lô. Chỉ chương 18 đã được xuất thành tệp dịch. README tiếng Việt và 41 tài liệu nguồn còn lại chưa được xuất. Đây là **bản nháp dịch máy**, chưa được biên dịch viên hoặc chuyên gia rà soát toàn bộ.
+**Đã dịch đủ phạm vi 43 tệp:** README, 34 chương với 649 mục và tám bài viết dài. Có đủ 137/137 lô, tương ứng 4.103/4.103 đoạn trong kế hoạch dịch. Ví dụ Markdown và chú thích trong ví dụ lệnh của README cũng đã được chuyển ngữ.
 
-Kiểm tra cloud phát hiện 31 đoạn không khớp ký hiệu bảo vệ, 336 đoạn cần đối chiếu số và 17 đoạn còn chữ Trung trong kết quả dịch. Các nhóm này có thể trùng nhau. Chênh lệch số có thể do cách viết dấu phân cách, nhưng cũng có đoạn lệch thứ tự hoặc bị cắt; không được coi cache là bản dịch đã đạt kiểm tra. Chưa kiểm tra xong toàn bộ liên kết nội bộ và ý nghĩa từng câu. Xem [báo cáo kiểm tra](../translation-checkpoint/cloud-qa.json) và [tình trạng cloud](../translation-checkpoint/CLOUD-STATUS.md).
+Bản dịch được thực hiện trực tiếp bằng mô hình trong phiên cloud và các tác nhân dịch, rồi đối chiếu với từng đoạn nguồn. Các bản nháp quá ngắn đã được viết lại thành câu đầy đủ. Không chạy lại Google Translate, không gọi dịch vụ trả phí và không bổ sung thông tin đăng nhập. Cache Workers AI cũ vẫn được giữ nguyên làm bằng chứng tiến độ ban đầu; kết quả mới nằm riêng trong `translation-checkpoint/vi-reviewed-cache/`.
+
+Kiểm tra tự động đạt: đủ tệp, đoạn và số thứ tự; đúng ID và thứ tự các đoạn; giữ các số viết bằng chữ số, mức độ bằng chứng và chú thích HTML; giữ nguồn dẫn và địa chỉ bên ngoài; giữ cấu trúc tiêu đề, trường thông tin, bảng và ví dụ mã; các liên kết tương đối và neo nội bộ tồn tại. Xem [báo cáo hiện tại](../translation-checkpoint/current-qa.json) và [tình trạng cloud](../translation-checkpoint/CLOUD-STATUS.md). `cloud-qa.json` là báo cáo lỗi của cache ban đầu, không phải kết quả kiểm tra bản dịch hiện tại.
+
+Đây vẫn là **bản nháp do AI dịch**, chưa được biên dịch viên hoặc chuyên gia y tế, pháp luật duyệt. Việc đủ nội dung và đạt kiểm tra cấu trúc không chứng minh mọi câu dịch đều chính xác. Các khẳng định và hướng dẫn của nguồn được giữ theo phiên bản đã ghi, chưa được kiểm chứng độc lập hay cập nhật. Những chỗ nguồn có bất nhất cũng không được âm thầm sửa trong bản dịch.
 
 Các tiêu đề, chi phí, phần “Nói dễ hiểu”, lợi ích và ghi chú được chuyển sang tiếng Việt. Số thứ tự chương và mục, mức độ bằng chứng A/B/C, các số liệu và ký hiệu thống kê được giữ để đối chiếu. Mục “Nguồn” giữ nguyên tên tài liệu, thông tin thư mục và trích dẫn trong bản gốc, kể cả tiếng Trung hoặc tiếng Anh, để người đọc tra cứu chính xác. Các chú thích HTML dùng cho công cụ của bản gốc cũng được giữ nguyên.
 
 ## Bối cảnh của nội dung
 
 Luật, thủ tục, trợ cấp, bảo hiểm y tế, bảo hiểm xã hội và số điện thoại trong sách thuộc **Trung Quốc đại lục**, trừ khi bản gốc ghi rõ quốc gia khác. Số tiền tính bằng **nhân dân tệ (CNY)**, trừ khi ghi rõ đơn vị khác. Bản dịch giữ bối cảnh và thời điểm của bản gốc; không thay chúng bằng quy định, đơn vị tiền hoặc số điện thoại của Việt Nam.
+
+Khi nguồn dùng đơn vị số lớn của Trung Quốc, **vạn** nghĩa là mười nghìn và **ức** nghĩa là một trăm triệu. Cách viết này giữ nguyên số để dễ đối chiếu; chẳng hạn “5 vạn nhân dân tệ” là năm mươi nghìn nhân dân tệ.
 
 Các đường dẫn đến trang tìm kiếm trực tuyến, PDF, EPUB, bản HTML ngoại tuyến và kỹ năng AI của dự án gốc dẫn đến **nội dung tiếng Trung**. Bản tiếng Việt hiện được cung cấp dưới dạng Markdown trong thư mục `vi/`. Các liên kết đến nhật ký kiểm chứng cũng dẫn về tài liệu gốc tiếng Trung.
 

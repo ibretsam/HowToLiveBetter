@@ -89,6 +89,27 @@ def load_cache():
     return tasks, by_source, cache, complete
 
 
+def code_overrides(source, text):
+    path = REVIEWED / 'code-overrides.json'
+    data = json.loads(path.read_text()) if path.exists() else {}
+    for entry in data.get(source, []):
+        old = base.rewrite_links(entry['source'], source)
+        if old not in text:
+            # The captured preparer relabels bibliography/evidence fields even
+            # inside fenced examples. Accept that deterministic intermediate.
+            old = re.sub(r'^- 证据等级：', '- Mức độ bằng chứng: ', old, flags=re.M)
+            old = re.sub(r'^- 来源：', '- Nguồn: ', old, flags=re.M)
+        assert text.count(old) == 1, f'Code example source mismatch: {source}'
+        text = text.replace(old, entry['translation'])
+    return text
+
+
+def evidence_annotation(value):
+    return value.replace('（争议）', ' (có tranh luận)').replace(
+        '（指南强推荐，但底层证据等级低）',
+        ' (hướng dẫn khuyến nghị mạnh, nhưng mức độ bằng chứng nền tảng thấp)')
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--partial', action='store_true', help='Export only complete source files')
@@ -104,9 +125,10 @@ def main():
         original, lines, queries = base.prepare(source)
         assert all(key in cache for key, _ in queries), source
         translated = [''.join(cache[value] if is_query else value for is_query, value in pieces) for pieces in lines]
+        translated = [evidence_annotation(line) if line.startswith('- Mức độ bằng chứng: ') else line for line in translated]
         output = ROOT / target
         output.parent.mkdir(parents=True, exist_ok=True)
-        output.write_text(base.notice(source) + '\n'.join(translated) + '\n')
+        output.write_text(base.notice(source) + code_overrides(source, '\n'.join(translated)) + '\n')
         written.append(target)
     repair_anchors(written)
     print(json.dumps({'reviewed_tasks':len(complete),'reviewed_items':sum(len(tasks[n]['items']) for n in complete),'exported_documents':len(written),'missing_tasks':missing}, indent=2))
