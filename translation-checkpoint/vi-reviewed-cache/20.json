@@ -1,0 +1,14 @@
+{
+  "translations": [
+    "Viết chuyện buồn có lợi trung bình chút ít, rất nhỏ. Tổng hợp không nhất quán, hai tổng hợp không hiệu quả. Gần như không tiền, có thể thử. Vấn đề cảm xúc nặng thì không thay khám bác sĩ.",
+    "Tổng hợp 146 nghiên cứu phân ngẫu nhiên: viết hoặc nói việc quan trọng với mình; hiệu quả trung bình dương, có ý nghĩa nhưng nhỏ, r = .075. Tổng hợp chỉ RCT khác gồm 30 thử nghiệm không hiệu quả có ý nghĩa cho thể chất lẫn tinh thần. Gộp 16 RCT ở người ung thư và hồi phục không có ý nghĩa về tâm lý, thể chất, chất lượng sống. Tâm lý g = 0.04, 95% CI -0.06 đến 0.14.",
+    "Tranh luận. Ủng hộ là tổng hợp 146 nghiên cứu, hiệu quả dương nhỏ. Trái chiều là hai tổng hợp chỉ RCT đều không hiệu quả có ý nghĩa. Số lần và thời lượng phần chi phí từ thiết kế sớm nhất, tóm tắt Mogk có ghi. Gần như không tiền, ít thời gian, làm một mình; dùng khi không muốn nói hoặc không có ai. Không đo sức lực, loại thời gian do tác giả xếp. Viết càng khó chịu thì dừng, gọi 12356, xem chương 1 mục 25 (12356)."
+  ],
+  "item_ids": [
+    "39370e0884497510a31c16dec12b624e50104229b7d94fc009d02ab0ee2252ed",
+    "5af628e17292dfe456f9ce5444f62d5a47be41832913fc7bd31da796f98930be",
+    "b4d3e0c753ab01e11de65e440f6da51e00dd83390950a1b8061f9e7755eed875"
+  ],
+  "model": "direct-model-translation",
+  "reviewed": true
+}

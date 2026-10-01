@@ -1,0 +1,26 @@
+{
+  "translations": [
+    "Nộp đơn và thanh toán trực tuyến. Chuẩn bị hồ sơ cộng thời gian xét, tính theo ngày làm việc, khoảng một tháng.",
+    "Muốn dùng bằng nước ngoài khi về nước phải công nhận trình độ và học vị trước. Riêng xét duyệt mất 10 đến 20 ngày làm việc. Gặp mùa tuyển dụng hoặc hồ sơ bị trả lại sẽ lâu hơn. Tuyển mùa thu, đăng ký thi công chức, nhập hộ khẩu đều có hạn chót; đừng đợi cần dùng mới làm.",
+    "Công nhận trình độ và học vị nước ngoài hoặc ngoài lãnh thổ thực hiện tại cổng dịch vụ trực tuyến của Trung tâm Dịch vụ du học Trung Quốc thuộc Bộ Giáo dục. Có bốn bước: đăng ký, xác thực danh tính; nộp đơn và hồ sơ trực tuyến; thanh toán trực tuyến; chờ đánh giá, xét duyệt. Thời hạn công bố là 10 đến 20 ngày làm việc, không tính cuối tuần và ngày lễ; đây là thời gian Trung tâm dùng để xét.",
+    "Hồ sơ gồm bằng tốt nghiệp, hộ chiếu hoặc giấy thông hành, thẻ cư trú hoặc thị thực/giấy phép đi lại, ảnh giấy tờ, tuyên bố ủy quyền. Hệ thống tự lấy lịch sử xuất nhập cảnh trong thời gian du học, vì vậy đừng làm mất trang thị thực thời gian ở ngoài. Trang Trung tâm còn công bố chứng nhận nào bị hủy, trường nào bị tạm ngừng nhận hồ sơ công nhận. Trước làm hãy xem trường mình có liên quan không.",
+    "Trường bị ‘tăng cường thẩm tra’ công nhận tăng thêm hằng năm; con đường mua bằng đã không còn khả thi",
+    "Không tốn tiền. Trước đăng ký học, tìm tên trường trong mục thông báo của Trung tâm Dịch vụ du học.",
+    "Trung tâm nêu tên một số trường nước ngoài để tăng cường thẩm tra riêng khi công nhận bằng, cũng tạm ngừng nhận hồ sơ của một số trường. Những trường bị nêu thường quảng cáo kiểu ‘không cần ngoại ngữ, không cần xuất cảnh, vài tháng có thạc sĩ’. Tra tên trước đăng ký đỡ việc hơn nhiều so với khiếu nại sau.",
+    "Trung tâm Dịch vụ du học Trung Quốc thuộc Bộ Giáo dục liên tục công bố tăng cường xét công nhận trình độ và học vị của một số trường nước ngoài, tức kiểm tra thêm một bước riêng với bằng các trường này. Bản mới nhất là số chín (2025-10-28). Trung tâm cũng từng thông báo tạm ngừng nhận hồ sơ công nhận của một số trường ngoài lãnh thổ, và cảnh báo có người lợi dụng việc công nhận bằng nước ngoài để lừa đảo.",
+    "‘Tăng cường thẩm tra’ không đồng nghĩa chắc chắn không được công nhận, nhưng sẽ đòi thêm hồ sơ và lâu hơn. Môi giới hứa ‘bảo đảm công nhận’, ‘kênh nội bộ làm gấp’ đều là lừa đảo; Trung tâm đã có cảnh báo riêng. Nhờ người xuyên biên giới viết luận văn hoặc học trực tuyến hộ, nếu bị phát hiện không chỉ có thể bị hủy bằng mà còn ảnh hưởng hồ sơ thị thực."
+  ],
+  "item_ids": [
+    "f70062e15aca3fefcf8afc3420ceab866d07ef5fc233b2806a9fec7944fd1070",
+    "09f96b4f17b4805a001758fc5b3b5d30f666f96630538cd10474bf70e7101936",
+    "487027f0ead259e9d4131d969c4e2feae8dbf914a45d8b3a064cd6d9d7b765b0",
+    "672ded95eec08eec38cb49e27f8eb1cf0a74850f515180d0c572f822daaf21bc",
+    "5b9656b4237723e49d98956f80419d5ced8b0f6d66e29fb707533a1c390bf922",
+    "bdb56a00ff8f5b5721fbe9048c73edcc576c18790d64436a4aa8074a71805439",
+    "dec942bdc53b9f441ecf7176dd061e99aeee2f7a725895515639b9e3c3532c31",
+    "35630ebfce20901670f265243e0e4cae209c04c9a4353d24bce35d1fda02c341",
+    "88e622d34406d4efb87398e732581cb0d6feb0c4b9c8e9263dc71bc5f92f620b"
+  ],
+  "model": "direct-model-translation",
+  "reviewed": true
+}
