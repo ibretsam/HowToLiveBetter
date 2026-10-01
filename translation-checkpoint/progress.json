@@ -1,0 +1,774 @@
+{
+  "source_commit": "6f6d969abe19fd4aa8b30979d634f2a187be0a55",
+  "task_count": 137,
+  "text_item_count": 4103,
+  "source_document_count": 43,
+  "cached_task_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    83
+  ],
+  "missing_task_ids": [
+    13,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136
+  ],
+  "cached_translation_count": 993,
+  "produced_files": [
+    "vi/TRANSLATION.md",
+    "vi/book/18.md"
+  ],
+  "source_status": [
+    {
+      "source": "README.md",
+      "task_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "cached_task_ids": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "missing_task_ids": []
+    },
+    {
+      "source": "book/01-不要早死.md",
+      "task_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "cached_task_ids": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "missing_task_ids": []
+    },
+    {
+      "source": "book/02-不要慢慢死.md",
+      "task_ids": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "cached_task_ids": [
+        11,
+        12,
+        14,
+        15,
+        16
+      ],
+      "missing_task_ids": [
+        13
+      ]
+    },
+    {
+      "source": "book/03-不要浪费精力.md",
+      "task_ids": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "cached_task_ids": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "missing_task_ids": []
+    },
+    {
+      "source": "book/04-不要浪费时间.md",
+      "task_ids": [
+        21,
+        22
+      ],
+      "cached_task_ids": [
+        21,
+        22
+      ],
+      "missing_task_ids": []
+    },
+    {
+      "source": "book/05-不要浪费钱.md",
+      "task_ids": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "cached_task_ids": [
+        23,
+        24,
+        25
+      ],
+      "missing_task_ids": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "source": "book/06-反面清单.md",
+      "task_ids": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "source": "book/07-没钱的时候怎么活.md",
+      "task_ids": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "source": "book/08-别把自己搭进去.md",
+      "task_ids": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "source": "book/09-普通人容易踩的法律红线.md",
+      "task_ids": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "source": "book/10-恋爱和结婚划不划算.md",
+      "task_ids": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "source": "book/11-程序员和技术人容易踩的红线.md",
+      "task_ids": [
+        60,
+        61,
+        62
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "source": "book/12-创业与做生意.md",
+      "task_ids": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "source": "book/13-紧急情况.md",
+      "task_ids": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "source": "book/14-账号与信息安全.md",
+      "task_ids": [
+        76,
+        77
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        76,
+        77
+      ]
+    },
+    {
+      "source": "book/15-租房与买房.md",
+      "task_ids": [
+        78
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        78
+      ]
+    },
+    {
+      "source": "book/16-得了慢性病之后怎么活.md",
+      "task_ids": [
+        79,
+        80
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        79,
+        80
+      ]
+    },
+    {
+      "source": "book/17-家里有老人.md",
+      "task_ids": [
+        81,
+        82
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        81,
+        82
+      ]
+    },
+    {
+      "source": "book/18-养孩子划不划算.md",
+      "task_ids": [
+        83
+      ],
+      "cached_task_ids": [
+        83
+      ],
+      "missing_task_ids": []
+    },
+    {
+      "source": "book/19-在职离职和工伤.md",
+      "task_ids": [
+        84,
+        85,
+        86
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "source": "book/20-刚出生的孩子怎么带.md",
+      "task_ids": [
+        87,
+        88
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        87,
+        88
+      ]
+    },
+    {
+      "source": "book/21-出国旅行与境外安全.md",
+      "task_ids": [
+        89,
+        90
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        89,
+        90
+      ]
+    },
+    {
+      "source": "book/22-怎么放松.md",
+      "task_ids": [
+        91,
+        92
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        91,
+        92
+      ]
+    },
+    {
+      "source": "book/23-学什么技能划算.md",
+      "task_ids": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        93,
+        94,
+        95,
+        96
+      ]
+    },
+    {
+      "source": "book/24-看病.md",
+      "task_ids": [
+        97,
+        98
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        97,
+        98
+      ]
+    },
+    {
+      "source": "book/25-人走了以后要办什么.md",
+      "task_ids": [
+        99,
+        100
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        99,
+        100
+      ]
+    },
+    {
+      "source": "book/26-做一个网站或平台.md",
+      "task_ids": [
+        101,
+        102,
+        103
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "source": "book/27-怀孕和生产.md",
+      "task_ids": [
+        104,
+        105
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        104,
+        105
+      ]
+    },
+    {
+      "source": "book/28-别为了外形把身体搞坏.md",
+      "task_ids": [
+        106,
+        107
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        106,
+        107
+      ]
+    },
+    {
+      "source": "book/29-遭遇重大打击之后.md",
+      "task_ids": [
+        108,
+        109,
+        110
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "source": "book/30-上学以后的孩子.md",
+      "task_ids": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        111,
+        112,
+        113,
+        114
+      ]
+    },
+    {
+      "source": "book/31-十八岁之后有哪几条路.md",
+      "task_ids": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "source": "book/32-出国留学.md",
+      "task_ids": [
+        120,
+        121
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        120,
+        121
+      ]
+    },
+    {
+      "source": "book/33-残疾之后怎么活.md",
+      "task_ids": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        122,
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "source": "book/34-家里的常备药别吃出事.md",
+      "task_ids": [
+        126,
+        127
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        126,
+        127
+      ]
+    },
+    {
+      "source": "docs/做平台要办哪些证.md",
+      "task_ids": [
+        128
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        128
+      ]
+    },
+    {
+      "source": "docs/刚确诊慢性病之后.md",
+      "task_ids": [
+        129
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        129
+      ]
+    },
+    {
+      "source": "docs/孩子出生前后要办的事.md",
+      "task_ids": [
+        130
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        130
+      ]
+    },
+    {
+      "source": "docs/家庭应急装备清单.md",
+      "task_ids": [
+        131
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        131
+      ]
+    },
+    {
+      "source": "docs/生物钟和夜班.md",
+      "task_ids": [
+        132
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        132
+      ]
+    },
+    {
+      "source": "docs/结婚划不划算.md",
+      "task_ids": [
+        133,
+        134
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        133,
+        134
+      ]
+    },
+    {
+      "source": "docs/被裁了之后先做什么.md",
+      "task_ids": [
+        135
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        135
+      ]
+    },
+    {
+      "source": "docs/遇到陌生人出事该不该停.md",
+      "task_ids": [
+        136
+      ],
+      "cached_task_ids": [],
+      "missing_task_ids": [
+        136
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "created_utc": "2026-10-01T09:54:13.811307+00:00",
+  "source_repository": "https://github.com/eternity4719/HowToLiveBetter.git",
+  "branch": "codex/vietnamese-translation",
+  "head": "6f6d969abe19fd4aa8b30979d634f2a187be0a55",
+  "note": "Live read-only snapshot. Translation may still be running. Only explicit translation assets included; no Git config or credentials. Restore files into matching source checkout.",
+  "files": [
+    {
+      "path": ".git/translation-vi-cache.json",
+      "bytes": 207721,
+      "sha256": "231911e7a927352b737a84896949497b37e4fef17465294b3f319a42c9d3e18b"
+    },
+    {
+      "path": ".git/vi-llm-cache/0.json",
+      "bytes": 12699,
+      "sha256": "374ab4b1aec30cd16394ada26cefff5484f28f93f84e30a094d1c7addf06f522"
+    },
+    {
+      "path": ".git/vi-llm-cache/1.json",
+      "bytes": 19703,
+      "sha256": "3dbe1622c6f08f6db64fdad1e557487f5428fdd2a03527c12b1138cc5f7048f7"
+    },
+    {
+      "path": ".git/vi-llm-cache/10.json",
+      "bytes": 2129,
+      "sha256": "1507c3dba5ef7d11a85264d731d2a4787fa8ba6e70981155507f2de77d19160a"
+    },
+    {
+      "path": ".git/vi-llm-cache/11.json",
+      "bytes": 13866,
+      "sha256": "9728ad02d05574b56c04d5e4f10fd53204ed4801881da0fed75d1b399c53b1d0"
+    },
+    {
+      "path": ".git/vi-llm-cache/12.json",
+      "bytes": 15630,
+      "sha256": "b1a3ad72bcac2367e53e1d80c71b1884026333b323bdfd741df1bc9552d02e35"
+    },
+    {
+      "path": ".git/vi-llm-cache/14.json",
+      "bytes": 15623,
+      "sha256": "24f7a3d4959b3ddd6aa63a99cd66a9cd41a59ef4b93bdc0bd8440a58964db00c"
+    },
+    {
+      "path": ".git/vi-llm-cache/15.json",
+      "bytes": 11125,
+      "sha256": "9823a48eed615ca4eb2db6c6a5a0d394588851c6d4700d444bde4111689c0183"
+    },
+    {
+      "path": ".git/vi-llm-cache/16.json",
+      "bytes": 15633,
+      "sha256": "a698e04552c9b12095942dccc239f280ffcc807058d9d223e90ae73fd091af53"
+    },
+    {
+      "path": ".git/vi-llm-cache/17.json",
+      "bytes": 20239,
+      "sha256": "d3d9e114ddea0deb10b891a6636441cb23f6124c40e12eb0671c2737ca5a2015"
+    },
+    {
+      "path": ".git/vi-llm-cache/18.json",
+      "bytes": 16939,
+      "sha256": "540d353bc1f66c1219b0c36b15762dd1bfb6fbc481e1705fcb61f679255947bc"
+    },
+    {
+      "path": ".git/vi-llm-cache/19.json",
+      "bytes": 16864,
+      "sha256": "2e2ffd6164a2a03adf1160cac1569f36fc1e53df12760095f439e1cbb7fc9958"
+    },
+    {
+      "path": ".git/vi-llm-cache/2.json",
+      "bytes": 17072,
+      "sha256": "296a055139cb5b1657045224c431b5b169e07268d4bd914f960b807b22589895"
+    },
+    {
+      "path": ".git/vi-llm-cache/20.json",
+      "bytes": 2350,
+      "sha256": "c4a1d3b1332636fb9c8056ce96d8e417ee31095c7c74072c0caef40b6765b272"
+    },
+    {
+      "path": ".git/vi-llm-cache/21.json",
+      "bytes": 18984,
+      "sha256": "c562486d73e805117e19ba20baeb0e7b7dc88090c79e2234a638d5f89e69f927"
+    },
+    {
+      "path": ".git/vi-llm-cache/22.json",
+      "bytes": 14025,
+      "sha256": "4771e60800e7ded7139309eee24195d8c9607e87323dc432d29c7be9d24c7614"
+    },
+    {
+      "path": ".git/vi-llm-cache/23.json",
+      "bytes": 16316,
+      "sha256": "400ddc47677c2210db02edbff5af506e5cb860cdae74b67d932820dd70629947"
+    },
+    {
+      "path": ".git/vi-llm-cache/24.json",
+      "bytes": 17517,
+      "sha256": "af190b163d2f154de10beb9608876263a5001ea3e822fa280d6cc9ccb0775e88"
+    },
+    {
+      "path": ".git/vi-llm-cache/25.json",
+      "bytes": 14787,
+      "sha256": "aa8e567a48cf9f0461b645663daf353ccf48941fdabe4f738937ae51892bcce4"
+    },
+    {
+      "path": ".git/vi-llm-cache/3.json",
+      "bytes": 10758,
+      "sha256": "3e4e54ba52e5768f5d2299ce1d25fad5ae5c690dd3ea6672a8b6035a2fb5da19"
+    },
+    {
+      "path": ".git/vi-llm-cache/4.json",
+      "bytes": 13133,
+      "sha256": "c561c5657ef998016656e362dbd6a6d6d7b145b5ff42e282946a444014c999fe"
+    },
+    {
+      "path": ".git/vi-llm-cache/5.json",
+      "bytes": 17442,
+      "sha256": "f3766b12a98533eeda5d0a7c1383dc780bcf4e777758560ad515071e2b47aaab"
+    },
+    {
+      "path": ".git/vi-llm-cache/6.json",
+      "bytes": 16438,
+      "sha256": "2e260def10b43be75790739fcda976117d9b7289398d092230f6f6972ae48409"
+    },
+    {
+      "path": ".git/vi-llm-cache/7.json",
+      "bytes": 16573,
+      "sha256": "6c3f712f1853ebed3ad2d49d570e0131257bdb5b14313343bbfcb23c2ef01c8d"
+    },
+    {
+      "path": ".git/vi-llm-cache/8.json",
+      "bytes": 14720,
+      "sha256": "727c4d6dac246c3018cf2a6b20ffe6897fc3ec10dc87cf0ef9ad75da4b9d6b31"
+    },
+    {
+      "path": ".git/vi-llm-cache/83.json",
+      "bytes": 9605,
+      "sha256": "50489ebcaffd48a4297f1a1b85880ae3bdf6d8c1db4318659dfd345ecbbf431e"
+    },
+    {
+      "path": ".git/vi-llm-cache/9.json",
+      "bytes": 19218,
+      "sha256": "3213cb8c34f53e5422058994841d3d1f68db8b8d9d4d1e57eefbb37860be04c9"
+    },
+    {
+      "path": ".git/vi-tasks.json",
+      "bytes": 3038684,
+      "sha256": "6c229c4849eece32aef7ea3bbfffb785bbb10f1516536541d4662b7b3fc33d63"
+    },
+    {
+      "path": "tools/translate-vi.py",
+      "bytes": 11930,
+      "sha256": "38cf2c7a3a765efeda2163266f21ce3ad58364f15996e752926ffbf1b46e3315"
+    },
+    {
+      "path": "vi/TRANSLATION.md",
+      "bytes": 4045,
+      "sha256": "a1cc971200e72d1b469fd2203b7bcfc68daaa60d460065c35bac4c0605e9afa9"
+    },
+    {
+      "path": "vi/book/18.md",
+      "bytes": 13157,
+      "sha256": "dd1e2b64859716621d502388cc78e4ada7d09f9db9104d5c576a05fc362c320a"
+    }
+  ]
+}
