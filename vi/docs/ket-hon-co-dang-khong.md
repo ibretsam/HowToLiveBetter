@@ -1,116 +1,116 @@
 > **Bản dịch tiếng Việt chưa chính thức — bản nháp dịch máy.** [Thông tin bản dịch](../TRANSLATION.md) · [Đối chiếu bản gốc tiếng Trung](../../docs/结婚划不划算.md).
 > Luật, trợ cấp, số điện thoại và khoản tiền trong sách thuộc bối cảnh Trung Quốc đại lục; tiền tính bằng nhân dân tệ, trừ khi ghi rõ đơn vị khác.
 
-# Kết hôn có đáng không: tách bài toán mơ hồ thành năm khoản rõ
+# Kết hôn có đáng không: tách một bài toán mơ hồ thành năm khoản rõ ràng
 
-Nhiều người hỏi chung: kết hôn lỗ hay lời. Trong đó có nhiều thứ: người kia hỗ trợ cảm xúc, chia việc nhà, kiếm tiền được không, hay có nên cưới để đối phó người lớn. Chúng không quy đổi chung được nên gộp không thể trả lời; bài tách từng khoản. Mỗi khoản chỉ dùng số thống kê chính thức hoặc phân tích gộp nhiều nghiên cứu; không tính được nói rõ. Cuối có danh sách tự điền, toàn bài không kết luận ‘nên cưới không’.
+Nhiều người muốn hỏi một câu chung chung: kết hôn rốt cuộc là lỗ hay lời. Trong câu hỏi này nhét nhiều thứ: người kia có hỗ trợ được về mặt cảm xúc không, có chia sẻ được việc nhà không, có kiếm được tiền không, và có nên cưới để chiều lòng người lớn không. Những thứ này không quy đổi được về cùng một đơn vị, gộp lại thì không thể trả lời, nên bài này tách ra tính riêng. Mỗi khoản chỉ dùng con số từ thống kê chính thức hoặc phân tích gộp (gộp nhiều nghiên cứu lại để tính chung); chỗ nào không tính được thì nói thẳng là không tính được. Cuối bài có một danh sách để bạn tự điền; toàn bài không đưa ra kết luận ‘có nên cưới hay không’.
 
-## Một, tách câu hỏi trước
+## Một, trước hết tách câu hỏi ra
 
-‘Kết hôn đáng không’ chứa ít nhất năm khoản, đơn vị và cách tính khác nhau, không cộng chung.
+Trong câu ‘kết hôn có đáng không’ chứa ít nhất năm khoản. Năm khoản này khác đơn vị, khác cách tính, không thể cộng gộp với nhau.
 
-1. Tiền: sính lễ, đám cưới, nhà cưới thực phải chi; và tài sản thuộc ai theo luật. Vế đầu không có thống kê chính thức, vế sau có điều khoản rõ.
-2. Thời gian: việc nhà, chăm gia đình, nhường cho công việc người kia đều là lao động không trả tiền, tính phút mỗi ngày.
-3. Sức khỏe: tử vong người có và không kết hôn chênh bao nhiêu. Chỉ cho thấy cùng xuất hiện, không chứng minh chênh do hôn nhân.
-4. Rủi ro pháp lý: chia tài sản, rút lui mất bao lâu, đóng góp nào đòi bù được. Theo điều luật.
-5. Chất lượng quan hệ: có hỗ trợ cảm xúc không, cãi nhau thế nào. Chỉ đo mức liên hệ nghiên cứu, không đổi ra tiền hay giờ.
+1. Tiền: một là sính lễ, đám cưới, nhà cưới, những khoản thực sự phải bỏ ra; hai là tài sản thuộc về ai theo quy định của pháp luật. Khoản đầu không có thống kê chính thức, khoản sau có điều luật rõ ràng.
+2. Thời gian: việc nhà, chăm sóc người thân, nhường nhịn vì công việc của người kia, tất cả đều là lao động làm mà không ai trả tiền, đơn vị tính là bao nhiêu phút mỗi ngày.
+3. Sức khỏe: tỷ lệ tử vong của người đã kết hôn và người chưa kết hôn chênh nhau bao nhiêu. Khoản này chỉ cho thấy hai điều cùng xuất hiện, không chứng minh được khoảng chênh đó là do kết hôn mang lại.
+4. Rủi ro pháp lý: tài sản chia thế nào, muốn rút ra thì mất bao lâu, những đóng góp nào sau này có thể đòi một khoản bù đắp. Khoản này xem điều luật viết thế nào.
+5. Chất lượng quan hệ: người kia có hỗ trợ bạn về cảm xúc không, hai người cãi nhau đến mức nào. Khoản này chỉ có thể đo bằng mức độ liên hệ mạnh hay yếu mà nghiên cứu tính ra, không quy đổi được thành tiền, cũng không quy đổi được thành thời gian.
 
-Khoản thứ năm khó thành số nhất nhưng gần điều đa số muốn hỏi nhất.
+Khoản thứ năm khó biến thành con số nhất, nhưng lại gần nhất với điều mà đa số người muốn hỏi.
 
-## Hai, dữ liệu và nguồn từng khoản
+## Hai, số liệu và nguồn của từng khoản
 
-### Đăng ký: tỷ lệ kết hôn, ly hôn đều là tỷ suất thô
+### Số liệu đăng ký: tỷ suất kết hôn và tỷ suất ly hôn là hai tỷ suất thô
 
-Số từ Công báo thống kê phát triển dân chính 2024 của Bộ Dân chính. Năm 2024 toàn quốc đăng ký kết hôn 610.6 vạn đôi, giảm 20.5% so năm trước, tỷ suất 4.3‰. Làm thủ tục ly hôn 351.3 vạn đôi, tỷ suất 2.5‰. Trong 351.3 vạn, 262.2 vạn đăng ký cơ quan dân chính, 89.1 vạn qua phán quyết hoặc hòa giải tòa. Chú thích tính: số đôi kết/ly hôn năm đó chia dân số trung bình năm, nhân 1000‰.
+Số liệu lấy từ ‘Công báo thống kê phát triển sự nghiệp dân chính năm 2024’ của Bộ Dân chính. Năm 2024, cả nước đăng ký kết hôn theo pháp luật 610.6 vạn cặp, ít hơn năm trước 20.5%, tỷ suất kết hôn 4.3‰. Làm thủ tục ly hôn theo pháp luật 351.3 vạn cặp, tỷ suất ly hôn 2.5‰. Trong 351.3 vạn cặp này, 262.2 vạn cặp đăng ký ly hôn ở cơ quan dân chính, 89.1 vạn cặp ly hôn theo phán quyết hoặc hòa giải của tòa án. Phần chú thích của công báo ghi rõ cách tính hai tỷ suất này: lấy số cặp kết hôn (ly hôn) trong năm, chia cho dân số bình quân của năm đó, rồi nhân với 1000‰.
 
-Mẫu số cả hai là toàn dân nên gọi thô, tức chưa phân nhóm. Trả lời năm đó mỗi nghìn người có bao đôi đăng ký kết hoặc ly, không trả lời một hôn nhân cuối cùng tan không. Muốn vậy cần theo dõi cùng nhóm lâu dài. Bài chưa tìm được dữ liệu đó trong nguồn chính thức.
+Mẫu số của cả hai tỷ suất đều là toàn bộ dân số, nên gọi là tỷ suất thô. ‘Thô’ nghĩa là không chia nhỏ theo nhóm nào. Nó trả lời câu hỏi năm nay cứ một nghìn người thì có bao nhiêu cặp đi đăng ký kết hôn hoặc ly hôn, chứ không trả lời được một cuộc hôn nhân cuối cùng có tan vỡ hay không. Muốn trả lời câu sau, phải có dữ liệu theo dõi lâu dài cùng một nhóm người. Bài này chưa tìm được dữ liệu như vậy trong nguồn chính thức.
 
-### Sức khỏe: người đã cưới tử vong thấp hơn, nhưng tương quan không phải nhân quả
+### Khoản sức khỏe: người đã kết hôn có tỷ lệ tử vong thấp hơn, nhưng đây là tương quan chứ không phải nhân quả
 
-Ba phân tích gộp nhiều nghiên cứu cho mức nhất quán. ‘Tử vong mọi nguyên nhân’ là cộng mọi ca không phân nguyên nhân.
+Có ba phân tích gộp tổng hợp nhiều nghiên cứu lại, và mức độ chúng đưa ra là nhất quán. ‘Tử vong do mọi nguyên nhân’ nói dưới đây nghĩa là cộng tất cả các ca tử vong, không phân biệt nguyên nhân bệnh.
 
-- Manzoli và cộng sự (2007) gộp 53 so sánh, hơn 25 vạn người già. ‘Không trong hôn nhân’ gồm góa, ly dị hoặc ly thân, chưa từng kết hôn. Người có hôn nhân so ba nhóm có RR tử vong mọi nguyên nhân 0.88, thấp khoảng mười hai phần trăm. RR là tỷ số nguy cơ hai nhóm, dưới 1 là nhóm có hôn nhân thấp. 95% CI 0.85–0.91 là khoảng tin cậy. Tách ba nhóm: góa 1.11, ly dị/ly thân 1.16, chưa cưới 1.11, cao khoảng một phần mười, mười sáu phần trăm, một phần mười. Tách nam nữ, chất lượng nghiên cứu, châu Âu/Mỹ vẫn không đổi. Tính bảo thủ nhất RR 0.94, chỉ thấp khoảng sáu phần trăm.
-- Roelfs và cộng sự (2011) gộp 95 tài liệu, hơn 5 trăm triệu người. Chưa từng cưới so đã cưới có HR tử vong mọi nguyên nhân 1.24, cao khoảng hai mươi bốn phần trăm. HR như RR là tỷ số, trên 1 nghĩa nguy cơ cao. 1.19–1.30 là khoảng tin cậy. Càng lớn tuổi chênh càng nhỏ; nghiên cứu càng chặt chênh càng nhỏ.
-- Wang và cộng sự (2020) gộp 21 nghiên cứu, hơn 789 vạn người. Không trong hôn nhân liên quan tử vong mọi nguyên nhân, ung thư, tim mạch ở cả nam nữ. Ở nam liên hệ với tử vong tim mạch và mọi nguyên nhân mạnh hơn. Nam chưa từng cưới so nữ chưa từng cưới có nguy cơ chết đột quỵ cao 31%, mọi nguyên nhân cao 9%.
+- Manzoli và cộng sự (2007) tổng hợp 53 nhóm so sánh, hơn 25 vạn người cao tuổi. ‘Không ở trong hôn nhân’ ở đây gồm ba loại người: góa vợ/chồng, ly hôn hoặc ly thân, chưa từng kết hôn. So người đã kết hôn với ba loại người này, RR tử vong do mọi nguyên nhân là 0.88, thấp hơn khoảng mười hai phần trăm. RR là tỷ số nguy cơ tử vong giữa hai nhóm người, nhỏ hơn 1 nghĩa là phía đã kết hôn thấp hơn. 95% CI 0.85–0.91 là khoảng tin cậy của con số này. Xét riêng từng loại: góa 1.11, ly hôn hoặc ly thân 1.16, chưa kết hôn 1.11, lần lượt cao hơn khoảng một phần mười, mười sáu phần trăm và một phần mười. Tính riêng nam và nữ, tính riêng nghiên cứu tốt và kém, tính riêng châu Âu và châu Mỹ, kết quả đều không đổi. Tính lại theo cách thận trọng nhất thì RR là 0.94, chỉ thấp hơn khoảng sáu phần trăm.
+- Roelfs và cộng sự (2011) tổng hợp 95 tài liệu, hơn 5 trăm triệu người. So người chưa từng kết hôn với người đã kết hôn, HR tử vong do mọi nguyên nhân là 1.24, cao hơn khoảng hai mươi bốn phần trăm. HR cũng giống RR, là một bội số, lớn hơn 1 nghĩa là nguy cơ cao hơn. 1.19–1.30 là khoảng tin cậy của con số này. Tuổi càng cao, khoảng chênh càng nhỏ. Nghiên cứu càng chặt chẽ, khoảng chênh tính ra cũng càng nhỏ.
+- Wang và cộng sự (2020) tổng hợp 21 nghiên cứu, hơn 789 vạn người. Việc không ở trong hôn nhân có liên quan đến tử vong do mọi nguyên nhân, tử vong do ung thư và tử vong do tim mạch, ở cả nam lẫn nữ. Trong đó, ở nam giới, mối liên quan với tử vong do tim mạch và do mọi nguyên nhân mạnh hơn. So nam chưa từng kết hôn với nữ chưa từng kết hôn, nguy cơ chết vì đột quỵ (tai biến mạch máu não) cao hơn 31%, tử vong do mọi nguyên nhân cao hơn 9%.
 
-Cả ba chỉ theo dõi dân số, không phân nhóm đối chứng. Người khỏe, thu nhập cao, quan hệ nhiều vốn dễ kết hôn và sống lâu. Đó là hiệu ứng chọn lọc. Manzoli còn thấy dấu hiệu thiên lệch công bố: kết quả đẹp dễ đăng, tổng hợp lạc quan. Vì vậy chỉ đọc là nhóm đã cưới tử vong thấp hơn, không phải ‘cưới bạn sẽ giảm tử vong 12%’. Mẫu chủ yếu Âu Mỹ, trong nước chỉ tham khảo mức độ.
+Cả ba nghiên cứu này chỉ theo dõi ghi nhận trên quần thể, không chia nhóm đối chứng. Người khỏe mạnh, thu nhập cao, giao tiếp xã hội nhiều vốn đã dễ kết hôn hơn, cũng vốn đã dễ sống lâu hơn. Đó gọi là hiệu ứng chọn lọc. Bài của Manzoli còn phát hiện dấu hiệu thiên lệch công bố. Thiên lệch công bố nghĩa là nghiên cứu có kết quả đẹp dễ được đăng hơn, nên khi tổng hợp sẽ bị lệch về phía lạc quan. Vì vậy những con số này chỉ có thể đọc là trong nhóm người đã kết hôn tỷ lệ tử vong thấp hơn một chút, không thể đọc thành ‘cưới rồi thì bạn giảm được 12% nguy cơ chết’. Mẫu của các nghiên cứu này chủ yếu là người Âu – Mỹ, áp dụng ở trong nước chỉ có thể tham khảo về mức độ.
 
-### Thời gian: chênh giới trong lao động không lương là mốc tham khảo phía trên
+### Khoản thời gian: chênh lệch giới trong lao động không được trả công là một mốc tham khảo tối đa
 
-Số từ khảo sát sử dụng thời gian toàn quốc lần ba của Cục Thống kê, tháng 5 năm 2024. Ba từ: lao động không lương là làm không được trả; ‘người tham gia’ là người thực làm trong ngày; ‘tỷ lệ tham gia’ là phần trăm làm ngày đó. Người tham gia lao động không lương trung bình 2 giờ 45 phút/ngày, nam 1 giờ 52, nữ 3 giờ 29. Tham gia 75.6%, nam 67.5%, nữ 83.9%. Riêng việc nhà chia toàn dân 1 giờ 17/ngày; chỉ người làm 1 giờ 59, ít hơn 2018 là 28 phút, tham gia 64.9%. Đồng hành chăm gia đình chia toàn dân 30 phút; chỉ người làm 1 giờ 46, tham gia 28.4%.
+Số liệu lấy từ Cuộc điều tra sử dụng thời gian toàn quốc lần thứ ba của Cục Thống kê Quốc gia, thời gian điều tra là tháng 5 năm 2024. Trước hết nói rõ ba từ. Lao động không được trả công là phần việc làm mà không ai trả tiền. ‘Người tham gia’ là người thực sự làm việc đó trong ngày. ‘Tỷ lệ tham gia’ là bao nhiêu phần trăm số người có làm việc đó trong ngày. Kết quả như sau: người tham gia lao động không được trả công trung bình mỗi ngày mất 2 giờ 45 phút, trong đó nam 1 giờ 52 phút, nữ 3 giờ 29 phút. Tỷ lệ tham gia 75.6%, trong đó nam 67.5%, nữ 83.9%. Xét riêng việc nhà, chia bình quân cho toàn bộ cư dân là 1 giờ 17 phút mỗi ngày. Chỉ tính những người thực sự làm trong ngày là 1 giờ 59 phút, ít hơn năm 2018 là 28 phút, tỷ lệ tham gia 64.9%. Xét riêng việc ở bên chăm sóc người nhà, chia bình quân cho toàn bộ cư dân là 30 phút. Chỉ tính những người thực sự làm trong ngày là 1 giờ 46 phút, tỷ lệ tham gia 28.4%.
 
-Khảo sát lần hai năm 2018: việc nhà chia toàn dân 1 giờ 26, nam 45 phút, nữ 2 giờ 6. Tham gia nam 40.4%, nữ 75.6%. Chăm sinh hoạt con chia toàn dân 36 phút, nam 17, nữ 53; tham gia nam 12.3%, nữ 25.1%.
+Cuộc điều tra lần thứ hai năm 2018 như sau: việc nhà chia bình quân cho toàn bộ cư dân là 1 giờ 26 phút, trong đó nam 45 phút, nữ 2 giờ 6 phút. Tỷ lệ tham gia của nam 40.4%, nữ 75.6%. Ở bên chăm sóc sinh hoạt của con cái, chia bình quân cho toàn bộ cư dân là 36 phút, trong đó nam 17 phút, nữ 53 phút. Tỷ lệ tham gia của nam 12.3%, nữ 25.1%.
 
-Hai khảo sát chỉ chia giới, thành thị/nông thôn, tuổi, không tình trạng hôn nhân. Vì thế không số chính thức cho ‘cưới xong thêm bao nhiêu việc nhà/ngày’. Dùng được là chênh nam nữ. Năm 2024 lao động không lương chênh 1 giờ 37 phút. Không bàn rõ phân công, khoảng cách hai người có thể lớn tới mức đó.
+Cả hai cuộc điều tra chỉ chia nhóm theo giới tính, thành thị – nông thôn và độ tuổi, không chia theo tình trạng hôn nhân. Vì vậy câu hỏi ‘cưới rồi mỗi ngày phải làm thêm bao nhiêu việc nhà’ không có số liệu chính thức. Thứ có thể dùng được là khoảng chênh giữa nam và nữ. Năm 2024, khoảng chênh nam nữ về lao động không được trả công là 1 giờ 37 phút. Nếu chuyện phân công việc nhà không bàn bạc rõ ràng, khoảng cách giữa hai người có thể bị kéo ra tối đa là chừng đó.
 
-### Tiền: quy tắc mặc định, thỏa thuận viết, bù việc nhà
+### Khoản tiền: quy tắc mặc định, thỏa thuận bằng văn bản và bù đắp việc nhà
 
-Sính lễ, đám cưới, nhà cưới không có thống kê chính thức nên không đưa số. Có thể nêu quy tắc phần Hôn nhân gia đình Bộ luật Dân sự, hiệu lực ngày 1 tháng 1 năm 2021.
+Sính lễ, đám cưới, nhà cưới không có thống kê chính thức, bài này không đưa con số. Điều có thể viết rõ là các quy tắc do phần Hôn nhân và Gia đình của Bộ luật Dân sự đặt ra. Bộ luật Dân sự có hiệu lực từ ngày 1 tháng 1 năm 2021.
 
-- Điều một nghìn không trăm sáu mươi hai: từ ngày cưới đến ngày ly, bốn thứ có được là chung. Một lương, thưởng, thù lao; hai lợi kinh doanh, đầu tư; ba lợi quyền sở hữu trí tuệ; bốn tài sản thừa kế, tặng. Ngoại lệ thứ tư: di chúc hoặc hợp đồng tặng ghi chỉ cho một người thì không chung. Hai người ngang quyền xử lý tài sản chung.
-- Điều một nghìn không trăm sáu mươi ba: bốn thứ riêng, không chia chung khi ly. Một tài sản trước cưới; hai bồi thường, bù đắp tổn hại cơ thể; ba tài sản di chúc/hợp đồng tặng chỉ cho một bên; bốn đồ sinh hoạt riêng một bên.
-- Điều một nghìn không trăm sáu mươi lăm: tài sản trước sau cưới thuộc ai được tự thỏa thuận, riêng hết, chung hết, hoặc phần riêng phần chung. Phải bằng văn bản, ràng buộc cả hai. Không thỏa thuận hoặc không rõ thì theo hai điều trên.
-- Điều một nghìn không trăm tám mươi tám: một bên đóng góp nhiều hơn vì chăm con, người già, hỗ trợ công việc bên kia thì ly hôn được đòi bù. Mức hai bên thương lượng, không được thì tòa quyết.
+- Điều một nghìn không trăm sáu mươi hai: trong khoảng thời gian từ ngày kết hôn đến ngày ly hôn, bốn loại tài sản có được đều tính là tài sản chung của hai người. Một là tiền lương, tiền thưởng, thù lao lao động. Hai là thu nhập từ kinh doanh và đầu tư. Ba là thu nhập từ quyền sở hữu trí tuệ. Bốn là tài sản được thừa kế hoặc được người khác tặng cho. Loại thứ tư có một ngoại lệ: di chúc hoặc hợp đồng tặng cho ghi rõ chỉ cho một người thì không tính là tài sản chung. Đối với tài sản chung, hai người có quyền định đoạt ngang nhau.
+- Điều một nghìn không trăm sáu mươi ba: có bốn loại tính là tài sản riêng, khi ly hôn không đưa vào tài sản chung. Một là tài sản có từ trước khi kết hôn. Hai là tiền bồi thường hoặc bù đắp nhận được do thân thể bị tổn hại. Ba là tài sản mà di chúc hoặc hợp đồng tặng cho ghi rõ chỉ cho một bên. Bốn là đồ dùng sinh hoạt chuyên dùng của một bên.
+- Điều một nghìn không trăm sáu mươi lăm: tài sản trước và sau hôn nhân thuộc về ai, hai người có thể tự thỏa thuận. Có thể thỏa thuận của ai nấy giữ, có thể thỏa thuận tất cả là của chung, cũng có thể thỏa thuận một phần của ai nấy giữ, một phần là của chung. Thỏa thuận này bắt buộc phải lập bằng văn bản, đã lập thì có hiệu lực ràng buộc pháp lý với cả hai người. Không có thỏa thuận, hoặc thỏa thuận không rõ ràng, thì làm theo hai điều trên.
+- Điều một nghìn không trăm tám mươi tám: một bên vì nuôi con, chăm sóc người già, giúp đỡ công việc của bên kia mà đóng góp nhiều hơn, thì khi ly hôn có thể yêu cầu bên kia trả một khoản bù đắp. Bù bao nhiêu thì trước hết do hai người tự bàn bạc, bàn không xong thì tòa án phán quyết.
 
-Quy tắc hữu ích cả hai. Người kiếm nhiều chú ý điều một nghìn không trăm sáu mươi hai và sáu mươi lăm; người làm nhà nhiều chú ý điều một nghìn không trăm tám mươi tám. Thỏa thuận tài sản chỉ cần viết, luật không bắt công chứng.
+Bộ quy tắc này có ích cho cả hai phía. Bên kiếm được nhiều tiền hơn nên chú ý điều một nghìn không trăm sáu mươi hai và điều một nghìn không trăm sáu mươi lăm. Bên làm việc nhà nhiều hơn nên chú ý điều một nghìn không trăm tám mươi tám. Thỏa thuận về tài sản chỉ yêu cầu lập bằng văn bản, pháp luật không yêu cầu phải đến phòng công chứng để công chứng.
 
-### Chi phí rút lui: thời gian cân nhắc và điều kiện kiện
+### Chi phí rút lui: thời gian hòa hoãn và điều kiện khởi kiện
 
-- Điều một nghìn không trăm bảy mươi sáu: cả hai muốn ly thì ký thỏa thuận viết rồi trực tiếp tới cơ quan đăng ký. Nêu con ai nuôi, tài sản, nợ xử lý, đều phải thống nhất.
-- Điều một nghìn không trăm bảy mươi bảy: ba mươi ngày từ cơ quan nhận đơn, bất kỳ bên nào đổi ý được rút. Đó là thời gian cân nhắc. Trong ba mươi ngày sau đó cả hai phải trực tiếp xin nhận giấy ly hôn, không đến coi rút đơn.
-- Điều một nghìn không trăm bảy mươi chín: một bên muốn, bên kia không, có thể hòa giải trước hoặc kiện thẳng. Tòa cũng hòa giải trước. Xác nhận tình cảm thực sự tan vỡ, hòa giải vô ích phải cho ly. Các trường hợp hòa giải thất bại phải cho: trùng hôn hoặc sống chung người khác; bạo lực, ngược đãi, bỏ rơi; tật cờ bạc, ma túy nhiều lần không sửa; ly thân đủ hai năm vì bất hòa. Còn lần đầu không cho ly, sau tiếp tục ly thân đủ một năm, kiện lại phải cho.
+- Điều một nghìn không trăm bảy mươi sáu: hai người đều muốn ly hôn thì trước hết ký một bản thỏa thuận ly hôn bằng văn bản, rồi đích thân đến cơ quan đăng ký hôn nhân nộp đơn. Thỏa thuận phải ghi rõ con do ai nuôi, tài sản và nợ xử lý thế nào. Những nội dung này đều phải là ý kiến hai người đã thống nhất.
+- Điều một nghìn không trăm bảy mươi bảy: trong ba mươi ngày kể từ ngày cơ quan đăng ký nhận đơn, bất kỳ bên nào đổi ý đều có thể rút đơn. Ba mươi ngày này chính là thời gian hòa hoãn (thời gian bình tĩnh) mà người ta hay nói. Trong ba mươi ngày sau khi hết thời gian hòa hoãn, hai người phải đích thân đến xin nhận giấy chứng nhận ly hôn; không đến thì coi như rút đơn.
+- Điều một nghìn không trăm bảy mươi chín: một bên muốn ly hôn mà bên kia không đồng ý thì có thể hòa giải trước, cũng có thể khởi kiện thẳng ra tòa. Đến tòa thì tòa cũng phải hòa giải trước. Tòa xác nhận tình cảm thực sự đã tan vỡ, hòa giải cũng vô ích, thì phải xử cho ly hôn. Những trường hợp dưới đây mà hòa giải không thành thì phải xử cho ly hôn: kết hôn trái phép với người khác (trùng hôn) hoặc chung sống với người khác; bạo lực gia đình hoặc ngược đãi, bỏ rơi; có tật xấu như cờ bạc, nghiện ma túy mà nhiều lần giáo dục vẫn không sửa; ly thân đủ hai năm vì tình cảm bất hòa. Còn một trường hợp nữa: lần đầu tòa xử không cho ly hôn, sau đó hai người lại ly thân đủ một năm, khởi kiện lại thì phải xử cho ly hôn.
 
-Trong 351.3 vạn đôi ly hôn năm 2024, 89.1 vạn qua phán quyết/hòa giải tòa. Thời gian cân nhắc chỉ cho đăng ký, không áp dụng kiện tòa.
+Trong 351.3 vạn cặp ly hôn năm 2024, có 89.1 vạn cặp ly hôn qua phán quyết hoặc hòa giải của tòa án. Thời gian hòa hoãn chỉ áp dụng với ly hôn qua đăng ký, ly hôn qua kiện tụng ở tòa án không áp dụng thời gian hòa hoãn.
 
-### Chất lượng quan hệ: khoản đáng tính hơn ‘có cưới không’
+### Chất lượng quan hệ: khoản đáng tính hơn cả ‘có kết hôn hay không’
 
-Robles và cộng sự (2014) gộp 126 nghiên cứu, hơn 7.2 vạn người: hôn nhân chất lượng cao hơn, sức khỏe tốt hơn. Đo mức liên hệ bằng cỡ hiệu ứng r. Gần 0 là gần không liên quan, trị tuyệt đối lớn là chặt hơn, âm là một cao một thấp. r từ 0.07 đến 0.21; với nguy cơ tử vong r = 0.11; phản ứng tim mạch khi xung đột r = −0.13. Đều nhỏ, nhưng liên hệ giữa hành vi sức khỏe như ăn tốt và sức khỏe cũng cùng mức. Một số kết quả có thiên lệch công bố, đẹp dễ đăng. Nghiên cứu riêng khác giới cơ bản không thấy nam nữ khác. Đa số chỉ theo dõi không đối chứng nên không suy nhân quả. Tổng quan tim mạch Dhindsa và cộng sự (2020) cũng chỉ ra hài lòng và chất lượng hôn nhân ảnh hưởng rõ nguy cơ tim mạch.
+Robles và cộng sự (2014) tổng hợp 126 nghiên cứu, hơn 7.2 vạn người. Kết luận là: chất lượng hôn nhân càng cao thì sức khỏe càng tốt. Ở đây, để đo hai việc gắn với nhau chặt hay lỏng, người ta dùng một con số gọi là cỡ hiệu ứng r. r càng gần 0 thì hai việc càng gần như không liên quan. Giá trị tuyệt đối của r càng lớn thì gắn với nhau càng chặt. r có dấu âm phía trước nghĩa là cái này cao thì cái kia thấp. Các mối liên hệ này có r trong khoảng 0.07 đến 0.21. Trong đó, với nguy cơ tử vong r = 0.11. Với phản ứng tim mạch khi hai người xảy ra xung đột, r = −0.13. Các trị số này đều không lớn. Tuy vậy, mối liên hệ giữa các hành vi sức khỏe như ăn uống tốt hay không với sức khỏe cũng ở cùng một mức. Một phần kết quả có thiên lệch công bố (kết quả đẹp dễ được đăng hơn). Một số nghiên cứu đã kiểm định riêng sự khác biệt nam nữ, về cơ bản không phát hiện nam nữ khác nhau. Phần lớn các nghiên cứu này chỉ theo dõi ghi nhận, không chia nhóm đối chứng, nên không suy ra được quan hệ nhân quả. Bài tổng quan về tim mạch của Dhindsa và cộng sự (2020) cũng chỉ ra rằng mức độ hài lòng với hôn nhân và chất lượng hôn nhân có ảnh hưởng rõ rệt đến nguy cơ tim mạch.
 
-Bài chưa tìm phân tích gộp so thẳng tử vong ‘hôn nhân kém’ với ‘không cưới’. Vì vậy ‘hôn nhân tệ còn không bằng độc thân’ hiện là suy luận, chưa số hỗ trợ. Điều vững là chênh ‘có cưới không’ lẫn hiệu ứng chọn lọc, còn ‘chất lượng hôn nhân’ là việc độc lập. Chỉ xem đã cưới mà không xem sống ra sao sẽ bỏ cả khoản chất lượng.
+Bài này chưa tìm được phân tích gộp nào so sánh trực tiếp tỷ lệ tử vong giữa ‘hôn nhân chất lượng kém’ và ‘không kết hôn’. Vì vậy câu ‘hôn nhân tồi thà đừng cưới’ hiện chỉ là suy luận, chưa có con số chống lưng. Điều đứng vững được là: trong khoảng chênh ‘có kết hôn hay không’ có lẫn hiệu ứng chọn lọc, còn ‘chất lượng hôn nhân tốt hay không’ là một chuyện độc lập khác. Nếu chỉ nhìn có kết hôn hay không mà không nhìn sống với nhau ra sao, sẽ bỏ sót trọn khoản chất lượng hôn nhân.
 
-## Ba, tự tính thế nào: danh sách điền trống
+## Ba, tự tính cho mình thế nào: một danh sách điền vào chỗ trống
 
-Điền riêng từng khoản, không cộng số khác khoản. Ô chưa điền được ghi ‘không biết’; không biết cũng hữu ích.
+Điền từng khoản một cho riêng. Đừng cộng số của các khoản khác nhau lại với nhau. Ô nào không điền được thì ghi ‘không biết’. Bản thân ‘không biết’ cũng là một thông tin hữu ích.
 
-Người kia cung cấp gì, điền từng khoản
+Người kia có thể mang lại gì (điền từng khoản một)
 
-- Tiền: người kia thu nhập bao nhiêu, nợ bao nhiêu, tài sản trước cưới gì. Tài sản sau cưới theo mặc định luật hay thỏa thuận viết? Nếu viết thì ghi gì?
-- Thời gian: hiện người kia làm bao nhiêu việc nhà, chăm sóc không lương mỗi ngày? Đối chiếu trung bình quốc gia ở người thực làm: nam 1 giờ 52 phút, nữ 3 giờ 29. Sau cưới chia sao? Có con, người già cần chăm thì chia sao? Công việc ai có thể nhường?
-- Chất lượng quan hệ: nửa năm qua xung đột mấy lần, mỗi lần kết thúc thế nào? Bạn ốm, thất nghiệp, xuống tinh thần họ làm gì? Ngược lại họ gặp chuyện bạn làm gì?
-- Giá trị cảm xúc: ở bên họ thấy thêm năng lượng hay bị rút cạn? Cần vài tháng sống cùng mới thấy, danh sách điều kiện không cho biết.
+- Tiền: thu nhập của người kia bao nhiêu, đang nợ bao nhiêu, trước khi cưới có tài sản gì. Tài sản sau khi cưới sẽ theo quy tắc mặc định của pháp luật, hay lập một bản thỏa thuận bằng văn bản. Nếu lập thỏa thuận thì trong đó ghi những gì.
+- Thời gian: hiện mỗi ngày người kia làm bao nhiêu việc nhà và chăm sóc không được trả công. Có thể đối chiếu với số trung bình toàn quốc: trong số những người thực sự làm trong ngày, nam 1 giờ 52 phút, nữ 3 giờ 29 phút. Sau khi cưới, những việc này chia thế nào. Khi có con, khi người già trong nhà cần người chăm sóc, lại chia thế nào. Trong hai người, công việc của ai có thể lùi lại phía sau.
+- Chất lượng quan hệ: nửa năm qua hai người xảy ra xung đột mấy lần, mỗi lần cuối cùng kết thúc ra sao. Khi bạn ốm, mất việc, tâm trạng sa sút, người kia đã làm gì. Ngược lại, khi người kia gặp những chuyện đó, bạn đã làm gì.
+- Giá trị cảm xúc: ở bên người kia, bạn thấy mình có thêm năng lượng hay bị vắt kiệt. Điều này phải ở bên nhau vài tháng mới nhận ra được, chỉ nhìn danh sách điều kiện thì không thấy.
 
-Bạn phải bỏ gì, điền từng khoản
+Bản thân phải bỏ ra những gì (điền từng khoản một)
 
-- Tiền: để cưới phải chi bao nhiêu, gồm sính lễ, đám cưới, nhà. Không cưới thì tiền đó dùng đâu?
-- Thời gian: ước tính mỗi ngày thêm bao nhiêu việc nhà, chăm sóc, mỗi tuần thêm bao nhiêu giao tiếp nghĩa tình.
-- Sức khỏe: giờ ngủ, ăn, vận động sẽ tốt hay xấu vì cưới? Điều này gần bạn hơn số phân tích gộp.
-- Chi phí rút lui: đăng ký ly hôn chờ 30 ngày cân nhắc rồi nhận giấy trong 30 ngày kế. Qua tòa phải đáp ứng tình huống điều một nghìn không trăm bảy mươi chín. Bạn chịu nổi thời gian ấy không?
+- Tiền: riêng việc kết hôn phải bỏ ra bao nhiêu, gồm sính lễ, đám cưới, nhà cưới. Nếu không cưới thì khoản tiền này sẽ được dùng vào việc gì.
+- Thời gian: ước tính mỗi ngày phải làm thêm bao nhiêu việc nhà và chăm sóc. Ước tính thêm mỗi tuần phải dành thêm bao nhiêu thời gian cho việc giao tế, qua lại tình nghĩa.
+- Sức khỏe: giờ giấc, ăn uống, vận động của bản thân sẽ vì kết hôn mà tốt lên hay xấu đi. Điều này sát với bạn hơn những con số do phân tích gộp tính ra.
+- Chi phí rút lui: ly hôn qua đăng ký thì phải chờ hết 30 ngày thời gian hòa hoãn, rồi đi nhận giấy trong 30 ngày tiếp theo. Ly hôn qua tòa thì phải thỏa mãn các trường hợp ghi ở điều một nghìn không trăm bảy mươi chín. Trong quãng thời gian đó bản thân có gánh nổi không.
 
-Tự bảo vệ theo luật, áp dụng cả hai
+Tự bảo vệ mình về mặt pháp lý thế nào (áp dụng cho cả hai phía)
 
-- Tài sản trước cưới có chứng từ như hợp đồng nhà, sao kê, hợp đồng tặng, di chúc không? Có chứng minh ‘có trước cưới’ hoặc ‘chỉ thuộc một bên’ không?
-- Có ký thỏa thuận tài sản viết không? Chỉ tài sản trước cưới, chỉ thu nhập sau cưới, hay cả hai?
-- Sau cưới ai làm nhà, chăm sóc nhiều? Người đó biết có thể đòi bù theo điều một nghìn không trăm tám mươi tám không? Cả hai muốn thỏa thuận cách bù trước không?
-- Nợ: khoản vay tên riêng sau cưới nào thành nợ chung? Người kia biết khoản tiền không?
+- Tài sản trước hôn nhân có giấy tờ chứng minh không, ví dụ hợp đồng mua nhà, sao kê ngân hàng, hợp đồng tặng cho, di chúc. Những giấy tờ này có chứng minh được đó là tài sản ‘có từ trước khi cưới’, hoặc ‘được ghi rõ chỉ thuộc về một bên’ không.
+- Có nên ký một bản thỏa thuận tài sản bằng văn bản không. Thỏa thuận này chỉ áp dụng cho tài sản trước hôn nhân, chỉ áp dụng cho những gì kiếm được sau khi cưới, hay áp dụng cho cả hai.
+- Sau khi cưới, ai làm việc nhà và chăm sóc nhiều hơn. Bên làm nhiều hơn có biết rằng theo điều một nghìn không trăm tám mươi tám có thể yêu cầu một khoản bù đắp không. Hai người có muốn thỏa thuận trước cách bù đắp không.
+- Nợ: tiền vay đứng tên cá nhân sau khi cưới, những khoản nào sẽ bị tính là nợ chung của hai người. Bên kia có biết về khoản tiền này không.
 
-Điền riêng mục cưới vì người lớn
+Mục kết hôn vì người lớn trong nhà thì điền riêng
 
-- Người lớn nhận gì: yên tâm, giữ thể diện, khỏi giục cưới, sau có người dưỡng già.
-- Trong đó gì thật là lợi họ, gì thực ra lợi mình?
-- Chi phí ba nhóm trên đều do mình chịu. Lợi người lớn không tự thành sức khỏe hay chất lượng quan hệ của mình.
-- Viết tách xong, nặng nhẹ do người điền tự xét.
+- Người lớn được gì: yên lòng, giữ được thể diện, không phải giục cưới nữa, sau này có người phụng dưỡng tuổi già.
+- Trong những thứ này, thứ nào thực sự là lợi ích của người lớn, thứ nào thật ra là lợi ích của chính mình.
+- Chi phí ở ba mục trên đều do bản thân gánh hết. Những lợi ích người lớn nhận được sẽ không tự động biến thành sức khỏe của bản thân, cũng không tự động biến thành chất lượng quan hệ của bản thân.
+- Viết tách ra như vậy xong, bài toán này nặng hay nhẹ là do người điền tự đánh giá.
 
-## Bốn, hiểu lầm thường gặp
+## Bốn, những hiểu lầm thường gặp
 
-Nhầm hai tỷ lệ ly hôn. Tỷ suất thô là số đôi ly mỗi nghìn người, năm 2024 là 2.5‰. Còn ‘tỷ số ly/kết’ là đôi ly năm đó chia đôi cưới năm đó, 351.3 / 610.6 ≈ 57.5%. Tử mẫu không cùng người: đa số ly năm nay cưới nhiều năm trước. Người cưới giảm thì tỷ số tự tăng, không chứng minh ‘một nửa hôn nhân sẽ ly’. Công báo Bộ Dân chính cũng không có chỉ tiêu này.
+Nhầm lẫn hai loại tỷ lệ ly hôn. Một loại là tỷ suất ly hôn thô, tính xem cứ một nghìn người thì có bao nhiêu cặp ly hôn, năm 2024 là 2.5‰. Loại kia là ‘tỷ số ly hôn/kết hôn’, tính bằng số cặp ly hôn trong năm chia cho số cặp kết hôn trong năm, 351.3 / 610.6 ≈ 57.5%. Tử số và mẫu số của tỷ số ly hôn/kết hôn không phải cùng một nhóm người: những người ly hôn năm nay phần lớn kết hôn từ nhiều năm trước. Số người kết hôn giảm là tỷ số này tự nhảy lên, nên nó không chứng minh được ‘một nửa số cuộc hôn nhân sẽ ly hôn’. Công báo của Bộ Dân chính cũng không có chỉ tiêu này.
 
-Coi ‘cùng xuất hiện’ là nhân quả. Người có hôn nhân tử vong thấp khoảng 12%, kết quả gộp nhiều nghiên cứu. Nhưng khỏe, thu nhập cao, giao tiếp nhiều vốn đồng thời ảnh hưởng khả năng kết hôn và sống lâu. Tính được khoản này nhưng phải giảm mức tin, không thay đánh giá quan hệ cụ thể trước mắt.
+Coi ‘cùng xuất hiện’ là ‘vì thế nên’. Người đã kết hôn có tỷ lệ tử vong thấp hơn khoảng 12%, đây là kết quả gộp nhiều nghiên cứu lại mà tính ra. Nhưng những điều kiện như khỏe mạnh, thu nhập cao, giao tiếp xã hội nhiều vốn đã đồng thời ảnh hưởng tới hai việc: một người có kết hôn được không, và một người có sống lâu được không. Khoản này có thể tính, nhưng phải xem với mức chiết khấu, cũng không thể dùng nó thay cho việc đánh giá mối quan hệ cụ thể trước mắt.
 
-Coi cưới là nhiệm vụ cần xong. Khi đó chỉ nhìn ‘đã cưới chưa’, bỏ ‘sống ra sao’. Chất lượng quan hệ ảnh hưởng sức khỏe độc lập với tình trạng hôn nhân; quyết định kiểu nhiệm vụ thường bỏ cả khoản này.
+Coi kết hôn là một nhiệm vụ phải hoàn thành. Đã coi là nhiệm vụ thì chỉ chăm chăm nhìn vào trạng thái ‘đã cưới hay chưa’, không nhìn ‘sống với nhau ra sao’. Nhưng ảnh hưởng của chất lượng quan hệ lên sức khỏe độc lập với việc có kết hôn hay không, quyết định kiểu làm nhiệm vụ thường bỏ sót trọn khoản này.
 
-Coi trung bình quốc gia là số mình. Chênh giới trong khảo sát thời gian là trung bình. Quy tắc tài sản là mặc định luật, thay được bằng thỏa thuận viết. Số quốc gia chỉ cho mức độ, điểm bắt đầu thương lượng, không cho kết luận.
+Coi số trung bình toàn quốc là số của mình. Khoảng chênh nam nữ trong điều tra sử dụng thời gian là số trung bình toàn quốc. Quy tắc tài sản là thiết lập mặc định do pháp luật đưa ra, có thể thay đổi bằng một bản thỏa thuận bằng văn bản. Số liệu toàn quốc chỉ cho bạn một mức độ, một điểm xuất phát để thương lượng, không cho bạn kết luận.
 
-Không có số chính thức đừng lấp bằng số truyền miệng. Sính lễ, đám cưới, nuôi con không có thống kê chính thức nên bài để trống. Tự điền số thật của mình chính xác hơn ước tính bất kỳ tổ chức nào.
+Chỗ nào không có số chính thức thì đừng lấy số liệu truyền tai ngoài xã hội lấp vào. Chi phí sính lễ, đám cưới, nuôi con đều không có thống kê chính thức, nên bài này để trống. Tự điền con số thật của chính mình sẽ chính xác hơn trích dẫn ước tính của bất kỳ tổ chức nào.
 
 ## Nguồn
 

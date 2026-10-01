@@ -151,7 +151,7 @@ def audit(partial=False):
             failures.append({'target':target,'issue':'missing_output'})
         manifests.append({'source':source,'target':target,'source_sha256':digest(raw),'translation_sha256':digest(path.read_bytes()) if path.exists() else None,'tasks':ns,'missing_tasks':[n for n in ns if n not in complete],'checks':checked,'status':'translated_ai_draft' if path.exists() and all(n in complete for n in ns) else 'incomplete'})
     report={'status':'passed' if not failures and not missing else 'incomplete' if missing else 'failed','source_commit':SOURCE,'source_documents':len(base.FILES),'total_tasks':len(tasks),'total_items':sum(len(t['items']) for t in tasks),'reviewed_tasks':len(complete),'reviewed_items':items,'missing_tasks':missing,'exported_documents':exported,'book_entries':entries,'failure_counts':dict(Counter(x['issue'] for x in failures)),'failures':failures,'review_flags':review_flags,'limitations':['Automated invariants do not certify every translated sentence or medical/legal advice.','The source policies and evidence are translated at the pinned revision, not independently updated.']}
-    manifest={'status':report['status'],'source_repository':'https://github.com/eternity4719/HowToLiveBetter','source_commit':SOURCE,'license':'CC BY 4.0','method':'direct model translation with item IDs; preserved Workers AI cache retained for comparison','files':manifests}
+    manifest={'status':report['status'],'source_repository':'https://github.com/eternity4719/HowToLiveBetter','source_commit':SOURCE,'license':'CC BY 4.0','method':'direct model translation with item IDs, followed by a bilingual review pass','files':manifests}
     return report,manifest
 
 

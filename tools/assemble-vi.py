@@ -14,7 +14,7 @@ CP = ROOT / 'translation-checkpoint'
 REVIEWED = CP / 'vi-reviewed-cache'
 TOKEN = re.compile(r'⟦P\d+⟧')
 sys.dont_write_bytecode = True
-spec = importlib.util.spec_from_file_location('translate_vi', ROOT / 'tools/translate-vi.py')
+spec = importlib.util.spec_from_file_location('vi_segments', ROOT / 'tools/vi_segments.py')
 base = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(base)
 
