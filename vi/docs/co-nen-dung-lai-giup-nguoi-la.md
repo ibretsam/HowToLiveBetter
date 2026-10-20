@@ -1,51 +1,51 @@
 > **Bản dịch tiếng Việt chưa chính thức — bản nháp dịch máy.** [Thông tin bản dịch](../TRANSLATION.md) · [Đối chiếu bản gốc tiếng Trung](../../docs/遇到陌生人出事该不该停.md).
 > Luật, trợ cấp, số điện thoại và khoản tiền trong sách thuộc bối cảnh Trung Quốc đại lục; tiền tính bằng nhân dân tệ, trừ khi ghi rõ đơn vị khác.
 
-[← Quay lại mục lục](../README.md)
+[← Về mục lục tổng](../README.md)
 
-# Gặp người lạ gặp nạn trên đường: đi tiếp hay dừng lại?
+# Gặp người lạ gặp nạn trên đường: bỏ đi hay dừng lại
 
-Đây là bản dài của chương 13, mục 2 (đừng vội đỡ người cao tuổi bị ngã hoặc người nằm gục). Sách chia người hưởng lợi thành bốn nhóm, xếp theo khả năng lợi ích đó quay lại với bạn sau này. Người lạ là nhóm thấp nhất: khả năng họ đáp lại nhỏ, bạn cũng không biết họ là người thế nào. Vì vậy bài này không khuyên bạn chọn cách nào, chỉ liệt kê đầy đủ cái giá của ba lựa chọn để bạn tự quyết.
+Đây là bản dài của chương 13 mục 2 (người già ngã, có người nằm gục thì đừng vội đỡ dậy). Cả cuốn sách chia người được hưởng lợi thành bốn nhóm, xếp theo khả năng lợi ích đó sau này quay về với bạn lớn đến đâu. Người lạ là nhóm thấp nhất. Khả năng trông chờ họ đáp lại bạn thấp, bạn cũng không biết họ là người thế nào. Vì vậy bài này không khuyên bạn làm gì, chỉ liệt kê đầy đủ cái giá phải trả của từng con đường trong ba con đường, chọn đường nào là do bạn tự quyết.
 
-**Bài này không đưa ra xác suất nào.** Mỗi tầng chi phí dưới đây đều có thật và có điều luật để tra. Nhưng không có thống kê công khai về “trong một trăm người cứu giúp, có bao nhiêu người thật sự gặp rắc rối”. Quy tắc của sách là thà không ghi khi con số chưa chắc chắn. Đừng đọc “liệt kê bảy tầng” thành “cả bảy đều sẽ xảy ra với mình”.
+**Bài này không đưa ra bất kỳ xác suất nào.** Mỗi lớp chi phí dưới đây đều có thật, đều có điều luật để tra. Nhưng loại số liệu ‘trong một trăm người cứu người thì mấy người thực sự gặp rắc rối’ thì không có thống kê công khai. Nguyên tắc của cả cuốn sách là con số không chắc chắn thì thà không viết. Vì vậy đừng đọc ‘ở đây liệt kê bảy lớp’ thành ‘cả bảy lớp này đều sẽ đổ lên đầu bạn’.
 
-## Ba lựa chọn
+## Ba con đường
 
-| | Đi tiếp | Dừng lại nhưng không chạm vào | Dừng lại và giúp đến cùng |
+| |Bỏ đi|Dừng lại nhưng không chạm vào|Dừng lại và giúp đến cùng|
 | --- | --- | --- | --- |
-| Tính hợp pháp | Hợp pháp. Người bình thường không có nghĩa vụ cứu người lạ; luật hình sự cũng không có tội “thấy mà không cứu” | Hợp pháp | Hợp pháp |
-| Thời gian | 0 | Vài phút. Gọi 120 sẽ để lại số điện thoại của bạn | Ít nhất nửa ngày, có thể phải đi theo đến bệnh viện |
-| Khả năng có người tìm bạn về sau | Thấp nhất | Bạn là người đã để lại số điện thoại | Cao nhất |
-| Lợi ích cho người gặp nạn | 0 | Xe cấp cứu đến sớm hơn | Lớn nhất |
+|Tính hợp pháp|Hợp pháp. Người bình thường không có nghĩa vụ cứu người lạ, luật hình sự cũng không có tội danh ‘thấy mà không cứu’|Hợp pháp|Hợp pháp|
+|Thời gian| 0 |Vài phút. Gọi 120 sẽ để lại số điện thoại của bạn|Ít nhất nửa ngày, có thể phải theo tới bệnh viện|
+|Khả năng sau này bị người ta tìm đến|Thấp nhất|Bạn chính là người đã để lại số điện thoại|Cao nhất|
+|Lợi ích người gặp nạn nhận được| 0 |Xe cấp cứu đến sớm hơn|Lớn nhất|
 
-## Chi phí có thể xuất hiện sau khi dừng lại, từ nhẹ đến nặng
+## Những chi phí có thể phát sinh sau khi dừng lại, từ nhẹ đến nặng
 
-**Một: được gọi lại và hỏi chuyện.** Gọi 120 hoặc 110 đều để lại số điện thoại. Họ có thể gọi lại hỏi rõ địa điểm, hoặc sau đó mời bạn đến hỏi chuyện. Với vụ án hình sự, nếu người báo tin không muốn công khai tên, cơ quan xử lý phải giữ bí mật cho họ (điều 111 Luật tố tụng hình sự). Gọi 120 không có quy định bảo mật tương tự.
+**Một, bị gọi lại và bị hỏi chuyện.** Bạn gọi 120 hay 110 thì số điện thoại đều được lưu lại. Bên đó có thể gọi lại cho bạn để hỏi rõ vị trí. Sau này cũng có thể mời bạn đến hỏi chuyện một lần. Nếu là vụ án hình sự mà người báo án không muốn công khai danh tính, cơ quan xử lý vụ án phải giữ bí mật cho họ (điều một trăm mười một Luật Tố tụng hình sự). Gọi 120 thì không có quy định bảo mật như vậy.
 
-**Hai: gia đình người bị thương tìm đến.** Nếu camera không tìm được xe gây tai nạn, người dễ tìm nhất là bạn, vì bạn để lại số và có mặt tại hiện trường. Họ có thể gọi điện thúc giục hoặc đến tận nơi.
+**Hai, bị người nhà nạn nhân tìm đến.** Nếu camera giám sát không tìm ra chiếc xe gây tai nạn, người mà gia đình nạn nhân dễ tìm nhất chính là bạn, vì bạn đã để lại số điện thoại, lúc đó lại có mặt tại hiện trường. Họ có thể gọi điện hối thúc, cũng có thể tìm đến tận nơi.
 
-**Ba: bị kiện ra tòa.** Ai nói bạn đâm người thì người đó phải đưa ra bằng chứng. Không đưa ra được, họ phải chịu hậu quả (điều 90 giải thích Luật tố tụng dân sự). **Quy định này chỉ quyết định phán quyết cuối cùng, không quyết định bạn có bị kéo vào vụ kiện không.** Thủ tục thông thường phải kết thúc sơ thẩm trong 6 tháng; trường hợp đặc biệt có thể gia hạn thêm 6 tháng. Thủ tục rút gọn là 3 tháng (điều 152 và 164 Luật tố tụng dân sự). Dù bạn thắng hoàn toàn, chỉ có ba khoản có thể buộc bên kia trả: phí thụ lý vụ án, phí yêu cầu, chi phí đi lại và thu nhập mất đi của nhân chứng, người giám định khi đến tòa (điều 6 và 29 Biện pháp thu phí tố tụng). **Phí luật sư bạn thuê không nằm trong ba khoản này, bạn phải tự trả.**
+**Ba, bị kiện ra tòa.** Ai nói bạn đâm thì người đó phải đưa ra chứng cứ. Không đưa ra được chứng cứ thì họ tự chịu hậu quả (điều chín mươi Giải thích Luật Tố tụng dân sự). **Nhưng quy định này chỉ quyết định phán quyết cuối cùng, không ngăn được việc bạn bị cuốn vào vụ kiện.** Vụ án xét xử theo thủ tục thông thường thì sơ thẩm phải kết thúc trong 6 tháng, có tình huống đặc biệt còn được gia hạn thêm 6 tháng. Xét xử theo thủ tục rút gọn là 3 tháng (điều một trăm năm mươi hai, một trăm sáu mươi bốn Luật Tố tụng dân sự). Cho dù bạn thắng trọn vẹn, thứ có thể buộc bên kia bỏ tiền ra cũng chỉ có ba khoản: án phí thụ lý, lệ phí đơn yêu cầu, và chi phí đi lại, tiền mất thu nhập của người làm chứng, người giám định khi ra tòa (điều sáu, hai mươi chín Biện pháp nộp án phí). **Tiền bạn tự thuê luật sư không nằm trong ba khoản này, bạn phải tự chi.**
 
-**Bốn: gây rối tại chỗ làm.** Nếu có người đến cơ quan gây rối, bạn có thể báo công an. Gây rối trật tự doanh nghiệp hoặc đơn vị sự nghiệp khiến công việc không thể diễn ra bình thường bị cảnh cáo hoặc phạt dưới 500 nhân dân tệ. Nặng hơn bị tạm giữ 5 đến 10 ngày, có thể kèm phạt dưới 1000 nhân dân tệ. Nếu cả nhóm kéo đến, người cầm đầu bị tạm giữ 10 đến 15 ngày (khoản 1 điều 26 Luật xử phạt quản lý trị an). Quấy rối, đeo bám, theo dõi nhiều lần làm đảo lộn đời sống bình thường bị xử lý theo khoản 5 điều 50. Có phê duyệt của người đứng đầu cơ quan công an còn có thể ra lệnh không được tiếp xúc với bạn trong một thời hạn. Công ty sa thải bạn vì chuyện này thường là chấm dứt hợp đồng trái pháp luật, bồi thường tính bằng 2N (chương 19, mục 6). Nhưng báo công an hay yêu cầu trọng tài lao động đều cần bạn tự đi lại nhiều lần. Khoảng thời gian mất việc trước đó không thể lấy lại chỉ vì sau này được nhận 2N.
+**Bốn, bị làm loạn tới tận chỗ làm.** Có người đến cơ quan bạn làm loạn thì bạn có thể báo công an. Gây rối trật tự của doanh nghiệp, đơn vị sự nghiệp khiến công việc không thể diễn ra bình thường thì bị công an cảnh cáo hoặc phạt tiền không quá 500 nhân dân tệ. Tình tiết tương đối nghiêm trọng thì bị tạm giữ 5 đến 10 ngày, kèm phạt tiền không quá 1000 nhân dân tệ. Một nhóm người kéo đến cùng làm loạn thì kẻ cầm đầu bị tạm giữ 10 đến 15 ngày (khoản một điều hai mươi sáu Luật Xử phạt hành chính về trị an). Quấy rối, đeo bám, theo dõi lặp đi lặp lại khiến bạn không thể sống bình thường thì bị xử phạt theo khoản năm điều năm mươi. Được người phụ trách cơ quan công an phê duyệt thì còn có thể buộc người đó không được tiếp cận bạn trong một thời hạn nhất định. Nếu công ty vì chuyện này mà đuổi việc bạn, thường là chấm dứt hợp đồng lao động trái luật, tiền bồi thường tính theo 2N (chương 19 mục 6). Nhưng dù là báo công an hay đi trọng tài lao động, bạn đều phải tự mình chạy đi chạy lại từng chuyến. Hơn nữa, khoảng thời gian mất việc trước đó sẽ không vì sau này nhận được 2N mà bù lại được.
 
-**Năm: bị quay và đăng lên mạng.** **Bạn chưa chắc ngăn được người khác quay.** Không có sự đồng ý thì không được tạo, sử dụng hoặc công khai hình ảnh của người khác (điều 1019 Bộ luật dân sự). Nhưng có ngoại lệ: việc không thể tránh tạo, sử dụng, công khai hình ảnh nhằm thực hiện đưa tin là sử dụng hợp lý, không xâm phạm quyền (khoản 2 điều 1020). Phóng viên quay để đưa tin thuộc ngoại lệ này. Bạn có thể từ chối phỏng vấn, không xuất hiện trước ống kính, không phát biểu trước máy quay. Đồng ý hay không là do bạn; không ai được nhận lời thay.
+**Năm, bị quay lại và đăng lên mạng.** **Bạn chưa chắc ngăn được người khác quay.** Chưa được chính người đó đồng ý thì không được tạo ra, sử dụng, công khai hình ảnh chân dung của họ (điều một nghìn không trăm mười chín Bộ luật Dân sự). Nhưng có một ngoại lệ: ‘để đưa tin thời sự, việc tạo ra, sử dụng, công khai chân dung của người có quyền đối với hình ảnh là không thể tránh khỏi’ thuộc sử dụng hợp lý, không tính là xâm phạm (khoản hai điều một nghìn không trăm hai mươi). Phóng viên quay để đưa tin thì thuộc ngoại lệ này. Việc bạn có thể làm là không nhận phỏng vấn, không lên hình, không nói gì trước ống kính. Đồng ý hay không là do bạn tự quyết, không ai được nhận lời thay bạn.
 
-**Sáu: video lan truyền rồi bạn bị chửi mắng.** Khi video lan rộng, bạn không kiểm soát được phần bình luận. Những việc có thể tự làm được ghi trong Quy định quản lý thông tin bạo lực mạng (có hiệu lực ngày 1 tháng 8 năm 2024). Nền tảng phải cung cấp các cài đặt bảo vệ: chặn người lạ hoặc người cụ thể, giới hạn ai xem thông tin của bạn. Bạn cũng có thể cấm chia sẻ lại hoặc bình luận, chỉ nhận tin nhắn riêng của bạn bè hoặc không nhận tin của ai (điều 23). Nền tảng phải có chức năng thu thập bằng chứng bằng một lần bấm, lưu cố định nội dung chửi mắng (điều 25), và đặt lối tắt khiếu nại, báo cáo riêng ở vị trí dễ thấy (điều 26). Nếu phát hiện dấu hiệu vi phạm pháp luật hoặc tội phạm, nền tảng phải kịp thời báo công an và cung cấp manh mối (điều 15). Cách tự lưu chứng cứ, báo công an: xem chương 8, mục 15.
+**Sáu, video bị chia sẻ khắp nơi rồi bị chửi.** Video một khi đã lan ra thì phần bình luận không còn do bạn quản nữa. Những cách bạn có thể tự làm được ghi trong ‘Quy định về quản trị thông tin bạo lực mạng’ (có hiệu lực từ ngày 1 tháng 8 năm 2024). Nền tảng phải cung cấp cho bạn các thiết lập bảo vệ sau: chặn người lạ hoặc một người cụ thể, giới hạn ai được xem thông tin của mình. Bạn còn có thể cấm người khác chia sẻ lại hoặc bình luận, chỉ nhận tin nhắn riêng của bạn bè, hoặc không nhận tin nhắn riêng của ai cả (điều hai mươi ba). Nền tảng phải cung cấp chức năng lưu chứng cứ bằng một nút bấm để cố định nội dung chửi bới bạn (điều hai mươi lăm). Nền tảng phải đặt một lối vào khiếu nại, tố cáo nhanh chuyên biệt ở vị trí dễ thấy (điều hai mươi sáu). Nền tảng phát hiện dấu hiệu vi phạm pháp luật, phạm tội thì phải kịp thời báo án với cơ quan công an và cung cấp manh mối (điều mười lăm). Bạn tự lưu chứng cứ và báo công an thế nào, xem chương 8 mục 15.
 
-**Bảy: khi không chịu nổi nữa.** Sáu tầng trên đều có điều luật để đối phó; tầng thứ bảy thì không. Không có dữ liệu đáng tin cậy trong nước để trích về mức ảnh hưởng tâm lý khi liên tục bị vây công kích. Sách không đưa con số, chỉ đưa một lối thoát: đường dây hỗ trợ tâm lý 12356, xem chương 1, mục 25.
+**Bảy, khi không gắng gượng nổi.** Sáu lớp trên đều có thể dùng điều luật để ứng phó, lớp thứ bảy thì không. Bị người ta vây công kích liên tục ảnh hưởng đến cảm xúc lớn đến đâu, trong nước không có số liệu đáng tin cậy để dẫn. Sách không đưa con số, chỉ đưa một lối thoát: đường dây nóng hỗ trợ tâm lý 12356, xem chương 1 mục 25.
 
-## Hai trường hợp khiến “đi tiếp” không còn miễn phí
+## Hai trường hợp khiến ‘bỏ đi’ không còn miễn phí
 
-- **Bạn là người kinh doanh, quản lý địa điểm hoặc tổ chức hoạt động đông người.** Địa điểm gồm khách sạn, trung tâm thương mại, ngân hàng, nhà ga, sân bay, cơ sở thể thao, nơi vui chơi và các nơi tương tự. Bạn có nghĩa vụ bảo đảm an toàn cho người tại đó. Không thực hiện nghĩa vụ thì phải chịu trách nhiệm bồi thường. Nếu thiệt hại do người khác gây ra mà bạn không làm tròn nghĩa vụ, bạn bồi thường trong phạm vi phần trách nhiệm của mình, gọi là trách nhiệm bổ sung (điều 1198 Bộ luật dân sự). Vì vậy nhân viên trực hoặc phía quản lý địa điểm bỏ đi không có cùng trách nhiệm với một người qua đường.
-- **Sự việc vốn liên quan đến bạn.** Bạn đâm người, xe là của bạn, hoặc nguy hiểm do hành vi trước đó của bạn tạo ra. Lúc này cần xem cách xử lý tai nạn giao thông và bỏ trốn sau khi gây tai nạn, không phải có nên lo chuyện người khác: xem chương 8, mục 1.
+- **Bạn là người kinh doanh, người quản lý nơi đó, hoặc người tổ chức hoạt động quần chúng.** Nơi đó là những chỗ như khách sạn, trung tâm thương mại, ngân hàng, nhà ga, sân bay, nhà thi đấu thể thao, cơ sở giải trí. Bạn có nghĩa vụ bảo đảm an toàn cho người ở trong đó. Không làm tròn nghĩa vụ này thì bạn phải chịu trách nhiệm bồi thường do xâm phạm (phải đền tiền). Nếu thiệt hại do người khác gây ra mà bạn không làm tròn nghĩa vụ này, bạn phải bồi thường trong phạm vi phần trách nhiệm của mình, gọi là trách nhiệm bổ sung (điều một nghìn một trăm chín mươi tám Bộ luật Dân sự). Vì vậy nhân viên đang trực hay bên quản lý địa điểm mà bỏ đi thì trách nhiệm phải gánh khác với một người qua đường bỏ đi.
+- **Chuyện này vốn dĩ có liên quan tới bạn.** Người là do bạn đâm, xe là xe của bạn, hoặc nguy hiểm do hành vi trước đó của bạn gây ra. Lúc này điều cần xem không phải là có nên giúp người khác hay không, mà là xử lý tai nạn giao thông và chuyện gây tai nạn rồi bỏ chạy thế nào, xem chương 8 mục 1.
 
-## Nếu quyết định dừng lại, cách ít phiền phức nhất
+## Khi đã quyết định dừng lại, cách làm đỡ phiền nhất
 
-1. **Đừng dùng tay di chuyển hoặc đỡ người đó dậy.** Ở điểm này không có lựa chọn thứ hai. Lý do y học: cố đỡ có thể làm xuất huyết não hoặc tổn thương cột sống nặng hơn. Về pháp lý không cần lo: điều 184 Bộ luật dân sự đã miễn trách nhiệm đối với thiệt hại gây ra trong quá trình cứu giúp.
-2. Đứng cách một chút, gọi người đó, xem họ có thở không. Không thở thì ép mạnh ngực, xem chương 13, mục 1. Có thở thì ở tại chỗ gọi 120, báo rõ vị trí.
-3. Nhờ một người qua đường cùng giúp, đồng thời bật quay video điện thoại. Có cả nhân chứng lẫn video hữu ích hơn tranh cãi sau đó.
-4. Đừng tự một mình khiêng họ lên xe, cũng đừng ứng tiền đưa họ vào bệnh viện. Đây là bước tốn tiền nhất và khó giải quyết nhất về sau.
-5. Nếu bạn bị thương hoặc mất tiền khi cứu người và muốn lấy lại khoản đó, xem chương 13, mục 39 (làm gì khi bị thương hoặc tốn tiền để cứu người).
+1. **Đừng tự tay khiêng, đỡ người gặp nạn.** Điểm này không có đáp án thứ hai. Lý do nằm ở y học: cố đỡ dậy có thể làm xuất huyết não nặng hơn, cũng có thể làm chấn thương cột sống nặng hơn. Về pháp lý thì không cần lo: thiệt hại gây ra trong quá trình cứu người đã được điều một trăm tám mươi bốn Bộ luật Dân sự miễn trách nhiệm.
+2. Đứng cách ra một chút gọi người đó một tiếng, xem họ còn thở không. Không thở thì ấn ngực thật mạnh, xem chương 13 mục 1. Còn thở thì ở nguyên tại chỗ gọi 120, báo rõ vị trí.
+3. Kéo thêm một người qua đường cùng ở lại, đồng thời bật quay video bằng điện thoại. Có người làm chứng lại có video thì hữu ích hơn cãi nhau với người ta về sau.
+4. Đừng một mình khiêng người đó lên xe, cũng đừng tự ứng tiền đưa họ đi viện. Bước này tốn tiền nhất và về sau cũng khó dứt điểm nhất.
+5. Nếu khi cứu người bạn bị thương hoặc phải bỏ tiền ra và muốn đòi lại khoản tiền này, xem chương 13 mục 39 (cứu người mà bị thương, tốn tiền thì làm thế nào).
 
 ## Nguồn
 

@@ -1,0 +1,14 @@
+{
+  "translations": [
+    "Viết chuyện khó chịu xuống trung bình có chút lợi ích, nhưng rất nhỏ. Các tổng hợp cũng không nhất quán, có hai tổng hợp không thấy hiệu quả. Cách này gần như không tốn tiền nên có thể thử. Nếu vấn đề cảm xúc nặng, đừng dùng nó thay khám bác sĩ.",
+    "Một phân tích gộp 146 nghiên cứu phân nhóm ngẫu nhiên, trong đó người tham gia viết hoặc nói về việc quan trọng với mình. Hiệu ứng trung bình dương, có ý nghĩa thống kê nhưng rất nhỏ, r = .075. Tổng hợp khác chỉ lấy thử nghiệm ngẫu nhiên đối chứng, gộp 30 thử nghiệm, không thấy hiệu quả có ý nghĩa về sức khỏe thể chất hoặc tâm lý. Gộp 16 thử nghiệm ngẫu nhiên ở người bệnh ung thư và đã hồi phục cũng không thấy hiệu quả có ý nghĩa về tâm lý, thể chất hay chất lượng sống. Riêng tâm lý có g = 0.04, khoảng tin cậy 95% CI -0.06 đến 0.14.",
+    "Còn tranh luận. Bên ủng hộ là tổng hợp 146 nghiên cứu với hiệu ứng dương rất nhỏ; phía ngược lại là hai tổng hợp chỉ lấy thử nghiệm ngẫu nhiên đối chứng, đều không thấy hiệu quả có ý nghĩa. Số lần viết và thời lượng trong phần chi phí lấy từ thiết kế thí nghiệm ban đầu, được ghi trong tóm tắt tổng hợp của Mogk. Cách này gần như miễn phí, ít tốn thời gian, có thể làm một mình khi không muốn nói với ai hoặc không có ai để nói. Nghiên cứu không đo sức lực; xếp vào thời gian là cách phân loại của tác giả. Càng viết càng khó chịu thì dừng và chuyển sang gọi 12356, xem chương 1 mục 25 (12356)."
+  ],
+  "item_ids": [
+    "39370e0884497510a31c16dec12b624e50104229b7d94fc009d02ab0ee2252ed",
+    "5af628e17292dfe456f9ce5444f62d5a47be41832913fc7bd31da796f98930be",
+    "b4d3e0c753ab01e11de65e440f6da51e00dd83390950a1b8061f9e7755eed875"
+  ],
+  "model": "direct-model-translation",
+  "reviewed": true
+}

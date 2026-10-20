@@ -1,0 +1,26 @@
+{
+  "translations": [
+    "Giao thông tin người dùng trong nước cho công ty nước ngoài hoặc lưu trên máy ở nước ngoài được pháp luật gọi là cung cấp thông tin cá nhân ra nước ngoài và «phải đáp ứng» một trong bốn điều kiện. Một là qua đánh giá an toàn do cơ quan quản lý không gian mạng tổ chức. Hai là được tổ chức chuyên môn chứng nhận bảo vệ thông tin cá nhân. Ba là ký với bên nhận nước ngoài theo hợp đồng tiêu chuẩn do cơ quan quản lý không gian mạng ban hành. Bốn là điều kiện khác theo luật và quy định hành chính. Đồng thời phải cho người dùng biết: tên, liên hệ bên nhận, mục đích và cách xử lý, loại thông tin cá nhân, cách họ thực hiện quyền của mình. Còn phải «có sự đồng ý riêng của cá nhân», tức hỏi riêng người dùng về việc này. Ngưỡng cụ thể chia theo tổng số người. Doanh nghiệp thông thường được quy định gọi là bên xử lý dữ liệu không thuộc nhóm vận hành hạ tầng thông tin trọng yếu. Nhóm này có ngưỡng miễn thủ tục: «từ ngày 1 tháng 1 của năm hiện tại, cung cấp ra nước ngoài thông tin cá nhân của tổng cộng dưới 10 vạn người, không gồm thông tin nhạy cảm». Chưa chạm ngưỡng thì miễn cả khai đánh giá, ký hợp đồng tiêu chuẩn và chứng nhận. Từ 10 vạn đến dưới 100 vạn người phải ký hợp đồng tiêu chuẩn hoặc được chứng nhận. Từ 100 vạn người trở lên, hoặc thông tin nhạy cảm từ 1 vạn người trở lên, phải khai đánh giá an toàn (toàn quốc, từ tháng 3 năm 2024)",
+    "Máy chủ đặt ngoài nước không có nghĩa «dữ liệu chưa ra nước ngoài». Người dùng đăng ký trong nước, bạn truyền thông tin sang máy ở nước ngoài thì đó là chuyển ra ngoài. Có nhóm không cần đánh giá an toàn, chứng nhận và hợp đồng tiêu chuẩn: mua sắm, chuyển phát xuyên biên giới, đặt vé máy bay và khách sạn, khi việc truyền thực sự cần thiết «để giao kết, thực hiện hợp đồng mà cá nhân là một bên». Chú ý cách tính số người: «cộng dồn từ ngày 1 tháng 1 của năm hiện tại», không phải mười hai tháng lùi từ hôm nay",
+    "Chọn máy chủ: xét khả năng chấp nhận gián đoạn trước, rồi xem có người vận hành không, cuối cùng mới so giá",
+    "Máy chủ đám mây của hãng lớn tốn vài trăm đến vài nghìn nhân dân tệ mỗi tháng. VPS của nhà cung cấp nhỏ từ vài chục mỗi tháng. VPS là máy chủ ảo nhỏ. Thuê chỗ đặt máy chủ riêng từ vài nghìn mỗi năm và phải tự mua phần cứng",
+    "Khác biệt giữa ba loại không nằm ở giá mà ở chỗ bạn có gì khi sự cố xảy ra. Hãng lớn có kênh đăng ký lưu hồ sơ, giấy phép công khai, thông báo sự cố, điều khoản bồi thường và người để liên hệ. Nhà nhỏ rẻ bằng nửa nhưng nếu bán quá năng lực, bỏ trốn hoặc bị nhà cung cấp tuyến trên chặn thì bạn không biết tìm ai. Website tĩnh không có dữ liệu người dùng chỉ cần VPS vài chục nhân dân tệ.",
+    "Khác biệt giữa ba loại không nằm ở giá mà ở chỗ bạn có gì khi sự cố xảy ra. Hãng đám mây lớn có kênh đăng ký, giấy phép công khai, thông báo khi lỗi, điều khoản bồi thường trong hợp đồng và người để liên hệ. Nhà nhỏ có thể rẻ bằng nửa nhưng khi bán quá năng lực, bỏ trốn hoặc bị tuyến trên chặn thì bạn chẳng có ai để khiếu nại. Vì vậy trước khi bàn giá hãy tra hệ thống của Bộ Công nghiệp và Công nghệ thông tin xem họ có giấy phép kinh doanh viễn thông giá trị gia tăng không. Đặt máy chủ riêng chỉ đáng tiền khi đồng thời có hai điều kiện: băng thông hoặc phần cứng rẻ hơn rõ rệt, và bạn có người tự vận hành. Cách chọn: website tĩnh không có dữ liệu người dùng dùng VPS rẻ nhất là đủ. Có đăng ký tài khoản và giao dịch thì chọn máy chủ đám mây mở rộng linh hoạt, sao lưu được bằng ảnh chụp trạng thái; lưu bản sao ở ít nhất hai nơi",
+    "Trên đây là nhận định theo kinh nghiệm, không có bằng chứng nghiên cứu. Chỉ một điều thực sự kiểm tra được: giấy phép của nhà cung cấp. Muốn tiết kiệm hãy giảm cấu hình và băng thông, đừng bỏ qua điều kiện pháp lý",
+    "Giấy phép",
+    "Nội dung phát hành theo [CC BY 4.0](⟦P0000⟧); đăng lại hoặc cải biên phải ghi nguồn và kèm liên kết bản gốc. Mã nguồn dùng [MIT](⟦P0001⟧)."
+  ],
+  "item_ids": [
+    "0a24db248c2df74a529a086e4236a09a31bce87f2e3f312b5c47ae87c4c90147",
+    "638d9fbbacf86f88ed32fe98e649452999c053e631b3e65e12fd275bcec09f33",
+    "fcc36679a29afe7ef5f49a4d921a4fd8aa4d2640ec39c0f23eb52568735a67c0",
+    "4f2fd78550a2539b4ce2ca6af0f5e3e9a447a999b1ef0ab8830f5c3e1911dc1b",
+    "3b6293ae8e13571f737362db92950d16c5a58eb616043239123f1221dfeae177",
+    "146acce53c88628f9ec8359de4b7951eec13d619d60286d9acfca2f2a51bac6b",
+    "ca3ccf22cf1b30e299807d6ae862e733d0b65f5bf9d35b53181e64583ac0102b",
+    "310c625425f014d81ab98e501f53a91a5146b277030b5fcc70054dc7cc447707",
+    "65518c2e0167b25a7c65ebe05746429379a36dc59208e0cdede701e3847695a0"
+  ],
+  "model": "direct-model-translation",
+  "reviewed": true
+}
