@@ -33,6 +33,40 @@ Kiểm tra hiện tại:
 
 ## Kế hoạch và thời gian dự kiến
 
+### Checklist trước khi bắt đầu
+
+Các ô đã đánh dấu phản ánh việc đã thực hiện và có bằng chứng trong kho mã hoặc lần kiểm tra ngày 20/10/2026. Ô trống là việc còn phải làm; việc ghi vào checklist không có nghĩa là đã thực hiện.
+
+**Đã có nền tảng**
+
+- [x] Chốt nơi duy trì và xuất bản: fork `ibretsam/HowToLiveBetter`, trang GitHub Pages tiếng Việt đã hoạt động.
+- [x] Chốt phiên bản nguồn `5f210ca` và phạm vi 44 tệp: 34 chương, 9 bài dài, README/hướng dẫn đọc; bao gồm lời dẫn, bảng và liên kết.
+- [x] Ghi số liệu ban đầu: 95 mục còn khớp nguồn, 554 cần cập nhật, 116 chưa dịch; thống kê riêng bài dài và phần ngoài mục.
+- [x] Lưu bản dịch cũ và checkpoint trong lịch sử Git; xác nhận kiểm tra snapshot cũ và kiểm tra độ phủ trang đọc đều đạt.
+- [x] Ghi quy ước dịch và tiêu chí hoàn thành: giữ bối cảnh Trung Quốc, số liệu, nguồn dẫn, đơn vị, điều kiện và mức độ bằng chứng; công khai đây là bản dịch AI.
+
+**Cần hoàn tất trước lô dịch thử**
+
+- [ ] Tạo nhánh làm việc `codex/…` từ trạng thái sạch; ghi commit khởi đầu để có thể đối chiếu và khôi phục. Chỉ đưa các lô đã kiểm tra lên nhánh xuất bản.
+- [ ] Xuất danh sách công việc theo từng mục/đoạn: ID, tệp, nguồn đích, dấu kiểm nguồn, bản dịch hiện có và phần nguồn thay đổi; xác minh các mục đổi tiêu đề hoặc số thứ tự được ghép đúng.
+- [ ] Đưa 34 lời dẫn chương, tiêu đề, README/thuật ngữ và 9 bài dài vào danh sách công việc riêng, tránh chỉ đếm 765 mục rồi bỏ sót phần còn lại.
+- [ ] Chuẩn bị cơ chế lưu và tiếp tục theo từng lô: bản dịch nháp, bản đã rà soát, dấu kiểm nguồn và lỗi còn lại. Chạy lại phải giữ được các lô đã đạt.
+- [ ] Điều chỉnh bộ xuất và kiểm tra để nhận bản dịch của nguồn mới theo từng mục/tệp; giữ kiểm tra snapshot cũ. Không chạy bộ lắp ghép cũ lên nguồn mới hoặc đổi mốc chung chỉ để xóa nhãn “chưa cập nhật”.
+- [ ] Chuẩn bị kiểm tra số liệu, đơn vị, liên kết, trích dẫn, trường nội dung và phần còn tiếng Trung; thử với dữ liệu có lỗi để chắc chắn công cụ phát hiện được. Phân biệt trích dẫn được giữ nguyên với văn xuôi chưa dịch.
+- [ ] Lập bảng thuật ngữ dùng chung từ bản dịch hiện có: y tế, pháp luật, bảo hiểm, tiền tệ và ngưỡng số; chốt cách xử lý tên riêng, trích dẫn và điểm không rõ nghĩa của nguồn.
+- [ ] Chia lô nhỏ theo chương/tệp, có thứ tự ưu tiên và bước rà soát song ngữ riêng. Nếu làm song song, mỗi tệp chỉ có một người hoặc tác vụ phụ trách tại một thời điểm.
+- [ ] Chọn 20–30 mục cho lô thử: có mục mới, mục sửa ít/sửa nhiều, số liệu, phủ định và điều kiện; chọn thêm đoạn có bảng hoặc liên kết để thử đường xuất nội dung.
+- [ ] Kiểm tra hạn mức và thời gian phiên làm việc thực tế; ghi cách dừng và tiếp tục khi hết hạn mức. Kế hoạch hiện dùng AI trong phiên làm việc, chưa có lịch chạy nền hay dịch vụ dịch ngoài trả phí.
+
+**Cần đạt trước khi mở rộng dịch toàn bộ**
+
+- [ ] Hoàn thành lô thử, đối chiếu từng đoạn với nguồn và sửa hết lỗi; kiểm tra cấu trúc đạt. Kết quả lô thử được tính vào khối lượng chung.
+- [ ] Thử dừng rồi tiếp tục một lô; xác nhận không mất bản đã rà soát, không ghi đè nhầm và không tăng tiến độ cho bản còn lỗi.
+- [ ] Dựng trang thử với cả mục đã cập nhật và mục chưa xử lý; xác nhận nhãn trạng thái đúng, lời dẫn/bài dài được theo dõi, bản gốc và liên kết vẫn truy cập được.
+- [ ] Đo thời gian dịch, rà soát và sửa lỗi của lô thử; cập nhật lại ước lượng 24–36 giờ và mốc 26/10/2026 theo tốc độ đo được.
+
+Chỉ bắt đầu dịch toàn bộ khi các mục trong hai nhóm “Cần hoàn tất” và “Cần đạt” đã được đánh dấu kèm kết quả kiểm tra. Không cần hoàn thành bản dịch toàn bộ để vượt qua checklist chuẩn bị này.
+
 **Ước lượng ban đầu: 24–36 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Đây chưa phải số đo tốc độ thực tế của đợt mới. Hiệu chỉnh ước lượng sau lô thử 20–30 mục có cả mục mới và mục sửa nhiều.
 
 **Mục tiêu dự kiến: 26/10/2026**, nếu bắt đầu đợt dịch trong ngày 20/10 và dành khoảng 6 giờ xử lý chủ động mỗi ngày, không bị gián đoạn bởi giới hạn sử dụng. Các ngày dưới đây là lịch dự kiến, không phải cam kết chạy nền. Nếu phiên làm việc không tiếp tục hoặc phát sinh lỗi bảo toàn nội dung, ngày hoàn thành phải được tính lại theo số giờ còn lại.
