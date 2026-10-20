@@ -87,8 +87,10 @@ def unprotect(text, tokens):
     return text.strip()
 
 
-def prepare(source):
-    original = (ROOT / source).read_text(encoding="utf-8").replace("\r\n", "\n")
+def prepare(source, original=None):
+    if original is None:
+        original = (ROOT / source).read_text(encoding="utf-8")
+    original = original.replace("\r\n", "\n")
     lines = []
     queries = []
     code = False

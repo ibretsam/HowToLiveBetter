@@ -96,6 +96,9 @@ jobs:
       - run: node tools/updates.mjs --check
 
   build:
+    # This fork publishes the Vietnamese reader through vietnamese-pages.yml.
+    # Keep the upstream-only Chinese ebook release in the original repository.
+    if: github.repository == 'eternity4719/HowToLiveBetter'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

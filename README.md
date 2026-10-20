@@ -1,3 +1,6 @@
+> **Tiếng Việt:** [Đọc trên GitHub Pages](https://ibretsam.github.io/HowToLiveBetter/) · [Thông tin và tình trạng bản dịch](vi/TRANSLATION.md).
+> Fork này đồng bộ bản gốc đến ngày 20/10/2026. Trang đọc có đầy đủ 34 chương và các bài viết; mục chưa dịch hoặc chưa cập nhật đều được đánh dấu.
+
 <div align="center">
 
 <img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">

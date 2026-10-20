@@ -1,5 +1,17 @@
 # Thông tin về bản dịch tiếng Việt
 
+**Trang đọc hiện tại:** [ibretsam.github.io/HowToLiveBetter](https://ibretsam.github.io/HowToLiveBetter/).
+
+Ngày **20/10/2026**, fork đã đồng bộ mã nguồn và nội dung Trung văn đến commit [`5f210ca`](https://github.com/eternity4719/HowToLiveBetter/commit/5f210ca953b7b538c042ad8515d5c355b766a194): **34 chương, 765 mục và chín bài viết dài**. Bản dịch được phục hồi từ nhánh `codex/vietnamese-cloud-checkpoint` của fork, commit `7128efb`.
+
+Trang đọc so sánh từng mục với phiên bản dùng để dịch:
+
+- **Bản nháp tiếng Việt:** có bản dịch và nội dung nguồn của mục chưa thay đổi.
+- **Bản dịch chưa cập nhật:** có bản dịch cũ, nhưng nguồn mới đã thay đổi. Trang ghi rõ bản dịch vẫn chưa hoàn tất theo nguồn mới và cho đối chiếu toàn bộ bản gốc mới.
+- **Chưa hoàn tất bản dịch:** nội dung mới chưa có bản dịch, hoặc chưa thể ghép bản dịch cũ với mục hiện tại một cách chắc chắn. Trang hiển thị đầy đủ tiếng Trung, không bỏ mục.
+
+Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Phần giới thiệu chương và hướng dẫn đọc cũng được đánh dấu chưa cập nhật. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
+
 Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch](README.md) · [Xem bản gốc](../README.md).
 
 Bản dịch dựa trên nội dung ngày **01/10/2026**, tại phiên bản [`6f6d969abe19fd4aa8b30979d634f2a187be0a55`](https://github.com/eternity4719/HowToLiveBetter/tree/6f6d969abe19fd4aa8b30979d634f2a187be0a55). Phạm vi gồm phần hướng dẫn đọc và thuật ngữ trong README, toàn bộ 34 chương với 649 mục, cùng tám bài viết dài dành cho người đọc. Mã nguồn, hướng dẫn dành cho người đóng góp, kỹ năng AI và nhật ký kiểm chứng vẫn dùng bản gốc.
@@ -24,7 +36,7 @@ Khi nguồn dùng đơn vị số lớn của Trung Quốc, bản dịch giữ n
 
 Số thập phân giữ **dấu chấm** như bản gốc, không dùng dấu phẩy kiểu Việt Nam: “0.4 miligam” là không phẩy bốn miligam, không phải bốn trăm miligam. Ngưỡng “từ N trở lên” và “N trở xuống” bao gồm chính số N.
 
-Các đường dẫn đến trang tìm kiếm trực tuyến, PDF, EPUB, bản HTML ngoại tuyến và kỹ năng AI của dự án gốc dẫn đến **nội dung tiếng Trung**. Bản tiếng Việt hiện được cung cấp dưới dạng Markdown trong thư mục `vi/`. Các liên kết đến nhật ký kiểm chứng cũng dẫn về tài liệu gốc tiếng Trung.
+Các đường dẫn đến PDF, EPUB, bản HTML ngoại tuyến và kỹ năng AI của dự án gốc dẫn đến **nội dung tiếng Trung**. Bản tiếng Việt có trang đọc GitHub Pages riêng và các tệp Markdown trong `vi/`. Các liên kết đến nhật ký kiểm chứng dẫn về tài liệu gốc tiếng Trung. Các nút tra cứu trực tuyến trong README được dịch từ phiên bản cũ vẫn trỏ về trang gốc; dùng liên kết trang tiếng Việt ở đầu tài liệu này.
 
 ## Ghi công và giấy phép
 
@@ -35,3 +47,19 @@ Nội dung bản dịch được chia sẻ theo [Creative Commons Attribution 4.
 Tác giả gốc yêu cầu bản dịch được duy trì trong fork riêng. Khi cập nhật, hãy ghi lại phiên bản nguồn, đối chiếu từng mục thay đổi và giữ nguyên các nguồn dẫn. [Danh sách đối chiếu tệp](translation-manifest.json) ghi đường dẫn nguồn, đường dẫn bản dịch và dấu kiểm SHA-256 của từng tệp nguồn.
 
 Để kiểm tra bản dịch trong bản sao kho mã này, chạy `python3 tools/check-vi.py` từ thư mục gốc.
+
+## Xây dựng và cập nhật trang đọc
+
+Từ thư mục gốc:
+
+```sh
+npm --prefix tools/epub ci
+python3 tools/check-vi.py
+python3 tools/build-vi-site.py
+python3 tools/check-vi-site.py
+python3 -m http.server 8000 --directory dist/vi-site
+```
+
+Mở `http://localhost:8000`. Workflow `.github/workflows/vietnamese-pages.yml` chạy khi nội dung liên quan thay đổi trên nhánh `main`, kiểm tra rồi triển khai `dist/vi-site` lên GitHub Pages của fork.
+
+Khi đồng bộ upstream tiếp, hợp nhất thay đổi rồi cập nhật `source_commit` và `synced_at` trong `vi/site-config.json`. Giữ `translation_base_commit` ở phiên bản thực sự dùng để dịch. Công cụ tự đánh dấu mục thay đổi hoặc chưa dịch; không tự dịch nội dung mới. Trình kiểm tra bản dịch cũ đối chiếu snapshot đã ghim trong Git, còn trình kiểm tra trang đọc xác nhận mọi mục của nguồn mới đều có mặt.
