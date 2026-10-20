@@ -1,0 +1,15 @@
+{
+  "id": "e-27-7",
+  "source_sha256": "3328564eeafc119c82627712e56f4dce812bc7ca2981876128565fcc984af9e9",
+  "draft_sha256": "2ededae7ae55587425a4f2babb5e21e23b4c914b0bb4bfaa7f848b421381ac26",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ danh sách dấu hiệu khẩn, đủ dấu hiệu chóng mặt/ngất, thị giác,38℃trở lên, buồn nôn/nôn, thay đổi thai máy, chảy máu/dịch trước và sau sinh, sưng đỏ đau một chi, ý nghĩ tự hại/hại trẻ. Giữ áp dụng suốt một năm sau sinh và khác biệt nguồn plain nói trong ngày còn title/notes nói đi ngay; không giảm mức khẩn."
+}

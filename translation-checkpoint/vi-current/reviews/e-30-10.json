@@ -1,0 +1,15 @@
+{
+  "id": "e-30-10",
+  "source_sha256": "1b0c268e4bafec31203122e00c8b5ce405500574e9ea40692a5fb3abd24e3a42",
+  "draft_sha256": "b4ae21c41fb47e00dc38a67a12ccf7877e60e983a947f0ce53d82256377211e8",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ giờ ngủ/giờ học/giờ dạy thêm/game, quy định không yêu cầu đến sớm, cấm xếp hạng/bài tập trừng phạt và khuyến khích ngày không bài tập. Phân biệt nghĩa vụ và khuyến khích; giữ nguồn2021 và2025 riêng, không cập nhật pháp luật ngoài nguồn."
+}

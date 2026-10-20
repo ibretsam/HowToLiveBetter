@@ -1,0 +1,15 @@
+{
+  "id": "e-30-17",
+  "source_sha256": "479db2c70d43de71eb22cc7d5b65cedcca2bcea5bff4191f95ca3a9f27ff1647",
+  "draft_sha256": "d874b02fe179e08d88d263855b8878d754fbe6423abcd7ad2a092c7f2b111df0",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ cỡ mẫu, tần suất khóa học, các SMD/d/CI/IRR và hiệu quả giảm dần theo thời gian. Giữ đối tượng vốn có vấn đề hành vi, phần lớn dữ liệu tự báo cáo, khác biệt khóa thực hành và bài giảng một lần. Đúng thẩm quyền công ích và ngày hiệu lực luật, không khuyến nghị cơ sở cụ thể."
+}

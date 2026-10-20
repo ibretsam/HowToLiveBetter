@@ -1,0 +1,15 @@
+{
+  "id": "e-27-4",
+  "source_sha256": "5213c7c57ebe1249cb508f304a45745d9a7a13059f69b4f886f40943dfd66eb0",
+  "draft_sha256": "efdf2ae9392199be3a25c3ebc833b638a1392fa6a160261e0b6ca2679e6beac6",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu hút thuốc chủ động/thụ động, thai nhỏ dù đủ tháng, sinh non, dị tật, tổn thương phổi não kéo dài và gấp đôi chảy máu. Giữ không có lượng rượu hay giai đoạn thai kỳ nào được biết an toàn, bỏ thuốc lúc nào vẫn hữu ích; không thêm khuyên điều trị."
+}

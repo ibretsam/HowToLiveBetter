@@ -1,0 +1,15 @@
+{
+  "id": "e-27-11",
+  "source_sha256": "9b3af0721a66c0b75de0a5518f783b1d8b39b8263a807561e93803e6b24ff6fc",
+  "draft_sha256": "2c4b8d2bea15a0fd1f581e753b1fa2c059999646c697c3cb40975eaf5a2963b7",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu điều54/56, phân biệt chi phí y tế sinh con của người phối ngẫu không việc với trợ cấp thai sản của người lao động. Giữ ba trường hợp trợ cấp, mức lương bình quân đơn vị năm trước chứ không lương cá nhân, thời gian đóng liên tục/đăng ký sinh ngoài địa phương cần hỏi và chưa kiểm tra từng nơi; tham chiếu18-2 đúng."
+}

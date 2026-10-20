@@ -1,0 +1,15 @@
+{
+  "id": "e-18-5",
+  "source_sha256": "4b898802971b2be3972345683b80b305fe56bfa47d27671eb1e4ade690981378",
+  "draft_sha256": "12e118aa32b7ee89d1de242256b8e53931e8627de6bcf470ee6523f23a7860c4",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ ba giai đoạn và khoản chi chính theo nguồn, phân biệt khoản chắc chắn nhận được với tổng chi không rõ phạm vi trên mạng. Giữ bối cảnh giáo dục bắt buộc từ tiểu học đến trung học cơ sở của nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-27-20",
+  "source_sha256": "112e4e68b0045d8c39acaaefdfbe36212c2dadd5da08206d90eca9a369dfff46",
+  "draft_sha256": "e1a0b3c8f9e79efeaab7937f4db42b3798bc90557ed85000e694e57d6a1df7e9",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ ba điều kiện LAM đồng thời, từ99%trở lên,2/100 trong6tháng và mọi điều kiện đổi biện pháp. Giữ khoảng cách từ sinh trước đến thụ thai tiếp, các mốc18–23/6–17/>59, toàn bộ OR/aRR/CI theo nhóm tuổi và so sánh trong cùng mẹ. Giữ khác biệt nguồn tiêu đề tối thiểu18tháng,WHO24 là thỏa hiệp18/27,NHS12 và sau sẩy/phá thai6; không sửa lời khuyên nguồn. Đủ thuốc phối hợp khi cho bú chờ ít nhất6tuần, khám42ngày và tham chiếu16."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-18-1",
+  "source_sha256": "9e919691c587aa24dffce4d4231d432261d4c3ad85e68126071f9fc001754774",
+  "draft_sha256": "c1a09a1370224e4795f92ad4ee8af4683e0719ed96358a9f07c7097f58fda86a",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ nguồn và bản dịch. Sửa 县级以下 thành từ cấp huyện trở xuống để giữ ngưỡng bao gồm cấp huyện. Giữ mức quốc gia, quyền nâng mức địa phương, điều kiện trẻ chưa đủ ba tuổi, miễn thuế và không tính thu nhập cứu trợ. Đối chiếu toàn bộ ví dụ giảm trừ 100%/50%, bậc thuế và trường hợp không phát sinh thuế. Tham chiếu chương 5 mục 2 đúng chủ đề quyết toán."
+}

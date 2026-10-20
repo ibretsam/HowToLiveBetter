@@ -1,0 +1,14 @@
+{
+  "id": "e-30-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "055ac2b70a0ee5cd9929bb25e1ea9aaa76a43ca1e069bac0ae7edecab4586c12",
+  "translator": "pilot_medicine_batch3",
+  "translation": {
+    "title": "Trám bít hố rãnh sau khi răng hàm vĩnh viễn mọc",
+    "cost": "Mỗi răng từ vài chục đến một, hai trăm nhân dân tệ. Không tiêm thuốc tê, cũng không cần mài răng; mỗi lần chỉ vài phút. Nhiều địa phương có chương trình miễn phí cho trẻ đủ độ tuổi.",
+    "plain": "Trám bít hố rãnh là dùng nhựa trám kín các rãnh trên mặt nhai của răng hàm, để vụn thức ăn không mắc vào. Sau hai năm, khả năng bị sâu răng khoảng một phần tám so với không trám bít. Nếu không trám bít có 16% bề mặt răng bị sâu, thì trám bít chỉ còn khoảng 5%. Sau bốn năm vẫn còn hiệu quả.",
+    "benefit": "Cochrane tìm kiếm theo quy trình rồi tổng hợp 38 thử nghiệm với 7924 trẻ từ 5 đến 16 tuổi, so sánh chất trám bít gốc nhựa với không trám bít. Ở răng hàm vĩnh viễn thứ nhất của trẻ từ 5 đến 10 tuổi, sau 24 tháng, OR sâu răng là 0.12 (95% CI 0.08–0.19), tức khả năng sâu răng khoảng một phần tám so với không trám bít. Kết quả này đến từ 7 thử nghiệm, 1548 trẻ được phân nhóm ngẫu nhiên và 1322 trẻ được khám ở lần đánh giá cuối; chất lượng bằng chứng trung bình. Nếu trong 24 tháng nhóm đối chứng có 16% bề mặt răng bị sâu, sau trám bít là 5.2% (3.13%–7.37%). Nếu nhóm đối chứng là 40% thì sau trám bít là 6.25% (3.84%–9.63%). Nếu nhóm đối chứng là 70% thì sau trám bít là 19% (12.3%–27.2%). Sau 48 đến 54 tháng, OR là 0.21 (0.16–0.28), vẫn chỉ khoảng một phần năm so với không trám bít. Các tác giả kết luận chất trám bít gốc nhựa giúp giảm sâu răng từ 11% đến 51% sau 24 tháng so với không trám bít. Trong 4 thử nghiệm có ghi nhận phản ứng bất lợi, không xuất hiện phản ứng bất lợi nào. Chưa đủ bằng chứng để xác định loại nào tốt hơn giữa các vật liệu trám bít khác, chẳng hạn xi măng ionomer thủy tinh.",
+    "notes": "Răng hàm vĩnh viễn thứ nhất (răng hàm sẽ không thay nữa) thường mọc khoảng 6 tuổi, răng thứ hai khoảng 12 tuổi. Nên trám bít khi răng mới mọc, chưa bị sâu; đã sâu thì chỉ còn cách trám chữa sâu răng. Nhiều địa phương đưa trám bít hố rãnh cho trẻ đủ độ tuổi vào chương trình miễn phí; hãy hỏi trung tâm kiểm soát bệnh tật hoặc trung tâm dịch vụ y tế cộng đồng tại địa phương. Chương này chưa tìm được văn bản cấp quốc gia có thể đối chiếu từng chữ, nên không nêu phạm vi bao phủ và nhóm tuổi. Sâu răng cũng là một trọng tâm hướng dẫn trong khám sức khỏe học sinh; xem mục 7.",
+    "extra": ""
+  }
+}

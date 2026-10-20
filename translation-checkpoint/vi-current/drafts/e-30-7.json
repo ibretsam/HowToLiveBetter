@@ -1,0 +1,14 @@
+{
+  "id": "e-30-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f21246c8b1d0bebe7723b92c68549885ddcc4acea7592ef93b1840be91433dec",
+  "translator": "pilot_medicine_batch3",
+  "translation": {
+    "title": "Tự đọc phiếu khám sức khỏe học sinh hằng năm; có mục bất thường thì đưa con đến bệnh viện kiểm tra ngay trong năm đó",
+    "cost": "Không tốn tiền. Chi phí khám sức khỏe trong giai đoạn giáo dục bắt buộc lấy từ kinh phí hoạt động chung của trường, phụ huynh không phải trả thêm.",
+    "plain": "Trường tiểu học và trung học tổ chức khám sức khỏe học sinh mỗi năm một lần. Những mục cần chú ý trên phiếu là thừa cân, béo phì, suy dinh dưỡng, độ cong cột sống bất thường, thị lực kém và sâu răng. Đừng chỉ liếc chiều cao, cân nặng rồi cất phiếu đi. Nếu các mục này có bất thường, hãy đưa con đi khám chuyên khoa để làm rõ ngay trong năm đó.",
+    "benefit": "“Biện pháp quản lý khám sức khỏe học sinh tiểu học và trung học (bản năm 2021)” quy định các trường tổ chức khám sức khỏe cho học sinh đang theo học 1 lần mỗi năm. Khám ngoại khoa gồm đầu, cổ, ngực, cột sống, tay chân, da và hạch bạch huyết. Khám mắt gồm quan sát bên ngoài mắt, thị lực nhìn xa và độ khúc xạ (độ cận, viễn). Phiếu kết quả gửi cho từng học sinh phải có kết quả khám, đánh giá tổng quát và hướng dẫn chăm sóc sức khỏe. Trong đó, thừa cân, béo phì, suy dinh dưỡng, độ cong cột sống bất thường, thị lực kém và sâu răng phải là trọng tâm hướng dẫn. Cơ quan quản lý giáo dục phải lập hồ sơ và theo dõi học sinh có vấn đề sức khỏe (ghi nhận lại rồi tiếp tục theo dõi). Chi phí khám sức khỏe học sinh trong giai đoạn giáo dục bắt buộc lấy từ kinh phí hoạt động chung của trường, phụ huynh không trả thêm (toàn Trung Quốc, ban hành tháng 9 năm 2021).",
+    "notes": "Xếp B vì đây là văn bản quy định trường phải làm gì, không phải nghiên cứu về hiệu quả. Điều văn bản bảo đảm là “khám hằng năm, khám những mục này, phát hiện bất thường phải theo dõi”, chứ không bảo đảm cứ phát hiện là có người lo xử lý. Khám sức khỏe chỉ là sàng lọc ban đầu, không phải chẩn đoán xác định. Thị lực kém thì cần đến chuyên khoa mắt đo khúc xạ sau nhỏ thuốc giãn đồng tử (mục 12). Độ cong cột sống bất thường thì cần đến khoa chỉnh hình hoặc ngoại cột sống (mục 2, đừng trì hoãn điều trị để đợi thi xong). Cả hai việc này đều cần phụ huynh tự đưa con đi.",
+    "extra": ""
+  }
+}

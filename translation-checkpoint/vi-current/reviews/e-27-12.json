@@ -1,0 +1,15 @@
+{
+  "id": "e-27-12",
+  "source_sha256": "2792551dbbd8da674eef42220a592fb58cbb44fbbea0ed064438aa5d3b16aae1",
+  "draft_sha256": "1f9ac650bfbd38b6d4e5dcc37555afbf06b06169aba2ae713359e1e50f08a2b7",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu điều23 và ý kiến2015, cơ sở đỡ sinh cấp giấy so với sinh ngoài cơ sở cần giám định quan hệ và cơ sở được cấp huyện ủy nhiệm. Giữ chữ tên phải gõ được trong hệ thống hộ tịch Trung Quốc, kiểm tra tên/số căn cước cha mẹ/tên trẻ, thủ tục đổi cấp và giữ giấy riêng."
+}

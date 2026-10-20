@@ -1,0 +1,15 @@
+{
+  "id": "doc-viec-can-lam-truoc-va-sau-khi-sinh-con",
+  "source_sha256": "aaed6d5e4e87d63eccf6a13ccbf044a37ea96b0986c24496995cab8f64a6c05c",
+  "draft_sha256": "014d6b0bc9b371d6b6d3ff40993c05eac19004d5c746f281f2b8223c27bb7699",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn văn, đủ 45 việc trong sáu giai đoạn (4/15/5/3/7/11), liên kết mục lục, số điện thoại, liều lượng, tuổi, tuần thai và toàn bộ dẫn chiếu. Đọc các trường nguồn của chương 27 mục 1–16 và các mục dẫn chiếu ở chương 1, 2, 5, 30, 34; đối chiếu với chương 18/20 đã đọc đầy đủ khi dịch. Không cần sửa bản dịch. Giữ và ghi nhận ba chỗ nguồn checklist nói rộng hơn mục dẫn chiếu: nói tái khám ngày 42 có sàng lọc trầm cảm trong khi 27-16 giới hạn theo địa phương; nói cả ba xét nghiệm không phải tự trả trong khi 27-3 nêu rõ miễn phí xét nghiệm sàng lọc HIV; yêu cầu soát số căn cước cha mẹ và con trong khi 27-12 nêu số căn cước cha mẹ cùng tên trẻ. Không tự sửa nguồn. Giữ đúng phân biệt 不满 (chưa đủ) với 以下/以上 (bao gồm ngưỡng), gồm 1/2/3 tuổi, nước từ 70 ℃, thai từ tuần 20 và 24; aspirin theo đánh giá bác sĩ, không có chỉ định thì không chủ động yêu cầu mổ."
+}

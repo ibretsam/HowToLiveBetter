@@ -1,0 +1,15 @@
+{
+  "id": "e-30-5",
+  "source_sha256": "a80900777aab0925bc41d59a3349837d36fe6f8665359d8ba437dca5611b7fab",
+  "draft_sha256": "6f5add0d81018fb92436aeb1c6a36a3644f66e455cc299f6d4c06400c7e58a9a",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm tra nhóm tuổi0–3/3–6, mỗi lần15phút/tổng1giờ, thời gian ngoài trời2giờ, I²/CI/r và điểm giới hạn đo thời gian màn hình không tin cậy. Giữ ranh giới tương quan–nhân quả và các tham chiếu mục4,12."
+}

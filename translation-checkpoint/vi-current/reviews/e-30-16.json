@@ -1,0 +1,15 @@
+{
+  "id": "e-30-16",
+  "source_sha256": "aa868fa4c07b3cfffaf0969d5a5fcf44dd0a084f34ea184e50764532ea9b6f0f",
+  "draft_sha256": "62650757600d7742b2fa670a94142a199d3da46251224fa72bfbad05bebd4374",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa 外显问题/内化问题 từ hướng ngoại/hướng nội sang vấn đề biểu hiện ra bên ngoài/vấn đề nội tâm, tránh nhầm tính cách; giữ ví dụ hành vi/lo âu/trầm cảm. Đối chiếu toàn bộd/CI/số nghiên cứu, phản biện và điều kiện đánh ít/có điều kiện; giữ khác biệt nhân quả, bạo lực thường xuyên và quyền báo cơ quan."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-30-13",
+  "source_sha256": "055ac2b70a0ee5cd9929bb25e1ea9aaa76a43ca1e069bac0ae7edecab4586c12",
+  "draft_sha256": "8315f66f1e8e4daa930b62108e338fe8e007556efb16f269e803310c60fb502f",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu38thử nghiệm, các mẫu ngẫu nhiên/đánh giá cuối, OR/CI và mọi nguy cơ nền16/40/70%. Số5.2% khi nền16% và diễn giải OR như cơ hội là số/cách diễn đạt của nguồn; giữ nguyên dù không tự khớp lại phép quy đổi. Giữ chưa đủ bằng chứng vật liệu, chương trình địa phương chưa có văn bản toàn quốc."
+}

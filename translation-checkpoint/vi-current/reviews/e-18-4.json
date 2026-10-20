@@ -1,0 +1,15 @@
+{
+  "id": "e-18-4",
+  "source_sha256": "e7a1fd0a51713988384415d5752fbbbceca92362eaf7f71eb15b6ac02421471a",
+  "draft_sha256": "1ae190ba04780d7f1771eedaae606e011eca892c590848da8dcc951131905fe4",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ cách quy đổi thời gian và mức thu nhập theo giờ của đúng người chăm, kể cả công việc không được trả tiền; không biến nhận xét kinh nghiệm thành số liệu nghiên cứu. Kiểm tra chương 10 và chương 19 mục 23 về phản đối điều chuyển/giảm lương."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-18-7",
+  "source_sha256": "32a7974f5623f544c656601afd01449c249075411cdf4505ce5ab7353b93fd80",
+  "draft_sha256": "d86e96cd56eadd1ce15d3221d7dfc31b37f883654410c92377ac34e2e193d664",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ từng nhóm tuổi, tỷ số, khoảng tin cậy, năm và mẫu nghiên cứu. Điểm bất nhất nguồn: giảm 59% đi cùng tỷ số 0.39 ở tuổi 42–44; giữ cả hai, không tự sửa. Giữ số liệu IVF sơ bộ 2022, trứng tự thân và phôi tươi, kết cục sinh được con trên mỗi phôi chuyển, không đổi thành tỷ lệ thành công toàn chu kỳ. Giữ quy định Trung Quốc và điều kiện thanh toán tùy tỉnh; nguồn không khuyên sinh sớm hay muộn. Tham chiếu mục 4/5 và chương 27 mục 1 đúng."
+}

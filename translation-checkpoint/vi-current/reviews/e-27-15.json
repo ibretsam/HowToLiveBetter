@@ -1,0 +1,15 @@
+{
+  "id": "e-27-15",
+  "source_sha256": "859a7bf70d8d000f0844368fc7d60d8b6e96c3b713a245dcce2e77708d236566",
+  "draft_sha256": "368beb3d0c69c8f3628166fbed732ed9cb3a70206ab28c01ca092162a1feadb3",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu thời hạn một tháng, người có thể khai gồm chủ hộ/người thân/người nuôi/hàng xóm, cơ quan nơi thường trú. Đủ giấy tờ, tự chọn hộ khẩu cha/mẹ, quyền trẻ sinh ngoài hôn nhân và giám định khi theo cha. Giữ khẳng định nguồn hộ khẩu là điều kiện tiêm chủng/đi học, không tự sửa pháp luật."
+}

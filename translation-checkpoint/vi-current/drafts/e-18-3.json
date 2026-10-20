@@ -1,0 +1,14 @@
+{
+  "id": "e-18-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "18d8fd00ac0bf2e4a46f5f7ca5775d73c8b46a532e25cc48bf3a41074b059b2c",
+  "translator": "pilot_employment_batch3",
+  "translation": {
+    "title": "Biết quyền này: không được giảm lương hoặc sa thải vì mang thai, sinh con hay cho con bú",
+    "cost": "Không tốn tiền",
+    "plain": "Đơn vị giảm lương hoặc sa thải bạn vì bạn mang thai, sinh con hay cho con bú đều là trái pháp luật. Khi con chưa đủ một tuổi, mỗi ngày bạn được dành 1 giờ cho con bú; đơn vị cũng không được xếp bạn làm thêm hoặc làm ca đêm, vi phạm thì bị phạt từ 1000 đến 5000 nhân dân tệ cho mỗi người. Cách yêu cầu bồi thường xem chương 19.",
+    "benefit": "Quốc vụ viện quy định: “Đơn vị sử dụng lao động không được vì lao động nữ mang thai, sinh con, cho con bú mà giảm lương, sa thải, chấm dứt hợp đồng lao động hoặc hợp đồng tuyển dụng với họ.” Trong ba giai đoạn này, đơn vị không được giảm tiền, sa thải hoặc chấm dứt hợp đồng với bạn. Người cho trẻ chưa đủ 1 tuổi bú được dành 1 giờ mỗi ngày để cho con bú. Đơn vị cũng không được kéo dài thời gian lao động của bạn, không được xếp làm ca đêm. Những vi phạm như yêu cầu làm thêm hoặc làm ca đêm trong thời kỳ cho con bú bị phạt từ 1000 đến 5000 nhân dân tệ cho mỗi người. Riêng hành vi giảm lương, sa thải thì văn bản này không quy định kèm mức phạt tiền; người bị sa thải trái pháp luật phải yêu cầu trọng tài lao động giải quyết để được nhận lại làm việc hoặc bồi thường",
+    "notes": "Nếu thực sự bị sa thải trái pháp luật, xem cách yêu cầu bồi thường ở chương 19. Bằng chứng quan trọng là thông báo bằng văn bản về chuyển vị trí, giảm lương và lịch sử trò chuyện; phải giữ kỹ cả hai",
+    "extra": ""
+  }
+}

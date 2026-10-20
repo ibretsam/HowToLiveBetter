@@ -1,0 +1,15 @@
+{
+  "id": "e-27-18",
+  "source_sha256": "71558ea4bde557c967e86560b54d9ca2bfa78b3d99dbcc4618d7a20ee49baf9c",
+  "draft_sha256": "10c733d298dc0565d4772211805d13700b4541f2726274e97585d4ca96da8e41",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu từng số liệu thử nghiệm và tổng hợp, đối chứng phế cầu/giả dược, nhóm không HIV, cúm xác định khác bệnh giống cúm, nhập viện và an toàn. Giữ nghiên cứu phản biện 2017 chỉ ở nhóm mùa trước có H1N1, chưa chứng minh nhân quả, ba mùa tiếp không lặp lại. Giữ nguồn benefit 6月龄以下 bao gồm mốc 6 tháng, notes 不满6个月 loại trừ mốc; chỉ bất hoạt dạng tiêm, tránh chống chỉ định trên nhãn Trung Quốc, loại xịt 3–17 tuổi bị cấm cho thai phụ. Đủ mùa 9–10 và lợi ích chưa có số tử vong."
+}

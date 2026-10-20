@@ -1,0 +1,15 @@
+{
+  "id": "e-30-3",
+  "source_sha256": "86a9dcf5a6a2666475a9c149faaf5bf84f8150659f809f54bdad266c7c9f2256",
+  "draft_sha256": "8aa4636afb3ae77121c945f844ed5c4a2c56b29f8be3bc05da37150dca9be2c6",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm tra đầy đủ năm nhóm hành vi, điều kiện ưu thế tuổi/thể lực/số người, thiệt hại, quy trình điều tra–xác định–thông báo phụ huynh và nghĩa vụ báo công an. Giữ nghiên cứu quan sát không chứng minh nhân quả, các OR/cỡ mẫu và ngày hiệu lực."
+}

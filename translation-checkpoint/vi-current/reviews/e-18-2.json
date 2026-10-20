@@ -1,0 +1,15 @@
+{
+  "id": "e-18-2",
+  "source_sha256": "89c27ddaac11bc724945c2d5e79c47507608a782e4df6c098f629cb93650ff52",
+  "draft_sha256": "ce8e7cd42aa36baecb3458edee14c21970597851a90b0cf10b2e03205c6ffaa9",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ mức nghỉ cơ bản và ngày nghỉ tăng thêm, căn cứ tiền lương trả trợ cấp, trách nhiệm khi chưa tham gia bảo hiểm. Kiểm tra riêng bốn địa phương, ngày làm việc so với ngày theo lịch, trước đủ ba tuổi so với từ ba tuổi trở xuống và mốc hiệu lực tháng 10/2026. Không đổi thành luật Việt Nam."
+}

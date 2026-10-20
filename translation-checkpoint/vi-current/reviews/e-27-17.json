@@ -1,0 +1,15 @@
+{
+  "id": "e-27-17",
+  "source_sha256": "f923d3aa2fa979041dec82ac8b26d44f2c62bfaa323334db5d50045336d0ff76",
+  "draft_sha256": "c26d16c156d7418c0375377f16c6f4ef3198d63358c5b86f580b14346517302f",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ số liệu 603 thai phụ, tỷ lệ truyền thai, tuần 13/36/24–30, từng OR/CI mèo/cát/thịt/đất và phần quy thuộc 30–63%/6–17%. Sửa 生菜 thành rau xà lách thay rau sống. Giữ nguyên hai phát biểu nguồn nhiễm càng sớm càng dễ triệu chứng và 24–30 tuần có nguy cơ triệu chứng sớm cao nhất; không hòa giải. Đủ thời gian lây 1–5 ngày, mèo mới/mèo hoang, sữa dê chưa thanh trùng, dụng cụ bếp và giới hạn nghiên cứu hồi tưởng."
+}

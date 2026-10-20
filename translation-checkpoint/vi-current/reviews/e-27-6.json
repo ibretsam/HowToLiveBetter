@@ -1,0 +1,15 @@
+{
+  "id": "e-27-6",
+  "source_sha256": "35479640e7f29ca502455456a3b83d1cadfb6c531656eef9e7e7455e9a43d3eb",
+  "draft_sha256": "e3bb3ec93c65048ff3fc8ed1a242e7aea1cb41e14579da56db9e67ea52f8d4fc",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu từ tuần 24 trở đi, đối tượng không triệu chứng, mức I thiếu bằng chứng cho trước 24 tuần, đầy đủ các biến chứng. Sửa plain sau tuần 24 thành từ tuần 24 trở đi để rõ ngưỡng 孕24周以后, thống nhất với 24周及以后 của title/benefit mà không loại tuần 24. Giữ thứ tự vận động/ăn uống/đo đường trước thuốc khi không kiểm soát được và khoảng một nửa về sau mắc týp 2."
+}

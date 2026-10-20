@@ -76,6 +76,11 @@ chương 19 các mục 1, 2, 19–24. Tổng 30 mục, mỗi chương có tác v
 72 hồ sơ rà soát độc lập mới; báo cáo nằm trong `batch-2-report.json`. Không nhận
 lại các ID đã có review hợp lệ khi bắt đầu đợt tiếp theo.
 
+Đợt 3: toàn bộ 7 mục chương 18, 20 mục chương 27 và 21 mục chương 30, cộng ba
+lời dẫn và bài hướng dẫn trước/sau sinh gồm 45 việc. Tổng 48 mục: 9 mục mới,
+32 cập nhật và 7 rà soát lại. Có 52 hồ sơ rà soát độc lập mới; báo cáo nằm trong
+`batch-3-report.json`. Các bản nháp/rà soát đã có từ hai đợt trước giữ nguyên.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

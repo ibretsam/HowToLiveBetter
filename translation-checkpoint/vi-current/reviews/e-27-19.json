@@ -1,0 +1,15 @@
+{
+  "id": "e-27-19",
+  "source_sha256": "cebb8f3bfb66036240c447046f438e41805938d59b8a266091a5e6b0396f4570",
+  "draft_sha256": "cbf31685b93c27a370d4bf99009bb60299329eba888d7bff34f31f9a6757f970",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu cả năm nghiên cứu hồi tưởng và nghiên cứu tiến cứu phản biện 8706 người tới 30 tuần, đủ aOR/CI,851/2257,5.8% và tỷ lệ nền1.3–8.8/1000. Làm rõ 28周以后 thành từ tuần28 trở đi ở title/plain/benefit để không loại tuần28. Giữ ngủ nghiêng lúc bắt đầu ngủ, hai bên tương đương, tỉnh thấy ngửa thì quay lại; không biến liên quan hồi tưởng thành quan hệ nhân quả."
+}

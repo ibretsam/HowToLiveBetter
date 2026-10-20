@@ -1,0 +1,14 @@
+{
+  "id": "e-18-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e7a1fd0a51713988384415d5752fbbbceca92362eaf7f71eb15b6ac02421471a",
+  "translator": "pilot_employment_batch3",
+  "translation": {
+    "title": "Tính chi phí thời gian nuôi con theo “thời gian của ai bị chiếm”, không theo “có vất vả hay không”",
+    "cost": "Không tốn tiền nhưng tốn thời gian. Trước khi con đủ 3 tuổi, gần như cả ngày đều bị chiếm. Khó ở chỗ ngày nào cũng vậy, không thể chỉ cắn răng chịu vài hôm là qua",
+    "plain": "Quy đổi số giờ trông trẻ mỗi ngày và số lần bị đánh thức ban đêm thành thời gian, rồi nhân với mức thu nhập theo giờ của người làm những việc đó. Con số tính được thường lớn hơn rất nhiều tiền sữa bột và tã. Vì vậy tốt nhất nên bàn phân công trước khi sinh.",
+    "benefit": "Quy đổi thời gian trông trẻ mỗi ngày và số lần bị đánh thức ban đêm thành giờ, rồi nhân với mức thu nhập theo giờ của người làm những việc đó. Con số nhận được thường lớn hơn rất nhiều tiền sữa bột và tã. Những việc trông trẻ, nấu ăn, thức dậy ban đêm tuy không được ai trả tiền vẫn tính vào chi phí theo cách này. Cách tính giống cách tính việc nhà ở chương 10. Thống nhất phân công trước, rồi mới quyết định sinh hay không",
+    "notes": "Không cần tính con số quá chính xác. Điều hữu ích là trước khi sinh, hai người cùng nhìn một bảng để bàn phân công, tránh sinh xong mới cãi nhau. Sau khi sinh con trở lại làm việc mà bị đơn vị chuyển vị trí, giảm lương, cách thể hiện lập trường xem chương 19 mục 23 (không đồng ý chuyển vị trí, giảm lương)",
+    "extra": ""
+  }
+}

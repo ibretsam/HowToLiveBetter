@@ -1,0 +1,15 @@
+{
+  "id": "e-27-10",
+  "source_sha256": "47714db03a410a7623848cec00f2eec20e39df3a92bc374f02e20fe066288b5b",
+  "draft_sha256": "f24a198938b77b30efffc08ec38cc82614a8a8585aaab0e688797de8e8ae2e7f",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngưỡng quần thể10%, không biến thành hạn mức cá nhân và giữ cần mổ thì làm. ĐủOR1.74/2.95/1.38/1.27, tác hại cho thai sau và lợi giảm són tiểu/sa tạng chậu. Giữ giới hạn nghiên cứu theo dõi không cho kết luận nhân quả và ngoại lệ chỉ định y khoa."
+}

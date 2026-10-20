@@ -1,0 +1,15 @@
+{
+  "id": "e-30-14",
+  "source_sha256": "7d0b34c8c7b5bd74b1843d2891a92e9c305e4798e9e19a5639f4d3c20046c80c",
+  "draft_sha256": "86c3e6729d60d3b7d3c084e71e5b85feead499a7ae8623e9cd26449f7d3100e1",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tỷ lệ mắc với lấy mẫu chặt hơn,77%khác biệt do bảng hỏi, dữ liệu thực tế sáu tuần, lịch cung cấp game cho trẻ ở Trung Quốc. Giữ giới hạn quan sát, nhận định tác giả chưa có số nghiên cứu và đầy đủ tham chiếu4/5/9/10/18."
+}

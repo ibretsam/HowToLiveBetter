@@ -1,0 +1,15 @@
+{
+  "id": "e-30-12",
+  "source_sha256": "a7407ad41149ccf09f8f3db0251016a636faa5fdd26087417732df1bf0f48df6",
+  "draft_sha256": "00a9eb604dd5c6bbfb9b5ab7228df613691e0931fdec4288bece6f633904e67b",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu liệt cơ thể mi, sợ ánh sáng/nhìn gần mờ tạm thời, mắt khỏe mạnh, khoảng tái khám3–6/6–12tháng với điều kiện thị lực đeo kính bình thường. Giữ các nhóm tuổi và dự trữ viễn thị; không thêm hứa hẹn an toàn hay sửa lời khẳng định nguồn."
+}

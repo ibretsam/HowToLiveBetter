@@ -1,0 +1,15 @@
+{
+  "id": "e-30-20",
+  "source_sha256": "85c491fe4e0652b4eca4221628d071f0b2ee67002b37629067c201d95e04b492",
+  "draft_sha256": "1f122f3ff47b4f684422d0c4dede66e850193b8842aceb158b8b385b5ec33a32",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu chưa đủ12/16 với đủ tuổi, thỏa thuận từ16, mức phạt5–50, bồi thường187017.83/18.7vạn và tài sản trẻ trước tài sản giám hộ. Giữ khác biệt toàn bộ lỗi giao thông với trách nhiệm dân sự trong vụ10tuổi. Đầy đủ giới hạn bệnh viện Israel và vụ án không đại diện mọi bồi thường, OR/CI và tham chiếu mũ bảo hiểm."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-30-4",
+  "source_sha256": "eb92f31b4c4269681153b77a5cafff325158975837b57f9c3ac85ea988a2e070",
+  "draft_sha256": "d9ad354abace92b70f9dd1ce41704cf93822615f02258d82c0279d8750794d05",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngẫu nhiên theo trường, mẫu đủ điều kiện, điểm phần trăm, D/P, hai nồng độ atropine và giới hạn ba năm. Giữ nguyên khẩu quyết 一尺一拳一寸 bằng thước/nắm tay/tấc; nguồn không giải thích khoảng cách từng bộ phận nên bản dịch không tự thêm. Khẳng định duy nhất trong tiêu đề và chưa tìm thấy của tác giả được giữ theo nguồn."
+}

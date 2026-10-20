@@ -1,0 +1,15 @@
+{
+  "id": "e-27-5",
+  "source_sha256": "b7b71f6b0911d709e96d6813b266e94320615b9cb47fdec6a93936067fa08682",
+  "draft_sha256": "b4d6f498a73e87e5f4d0beb66afe355aaa0a7d8b0105a1a1b9454f492d0aee5f",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu từng RR, CI, số nghiên cứu và mức giảm 15/20/21/18%, đúng kết cục chu sinh và thai nhỏ. Giữ toàn bộ nhóm nguy cơ cao, bệnh tự miễn, thuốc cần đơn và khác biệt liều81 miligam khuyến nghị Mỹ/100 miligam viên Trung Quốc. Nguồn viết sau tuần12 ở title/benefit nhưng từ tuần12 ở plain; giữ đúng từng trường, không tự hòa giải."
+}

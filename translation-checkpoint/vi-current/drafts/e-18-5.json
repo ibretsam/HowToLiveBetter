@@ -1,0 +1,14 @@
+{
+  "id": "e-18-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "4b898802971b2be3972345683b80b305fe56bfa47d27671eb1e4ade690981378",
+  "translator": "pilot_employment_batch3",
+  "translation": {
+    "title": "Chia chi phí tiền bạc thành ba giai đoạn: 0 đến 3 tuổi, giáo dục bắt buộc và sau giáo dục bắt buộc",
+    "cost": "Không có số tiền cố định; thành phố và cách chăm khác nhau thì chênh lệch rất lớn. Khó ở chỗ phải bình tĩnh tính riêng ba giai đoạn, không thể đoán một con số theo cảm giác",
+    "plain": "Tiền giai đoạn 0 đến 3 tuổi chủ yếu dành cho cách chăm con: tự chăm, nhờ ông bà hay thuê người. Từ tiểu học đến trung học cơ sở, phần lớn dành cho nhà ở và chi phí ngoài giờ học. Sau đó chủ yếu dành cho con đường học tiếp. Cách chi tiền của ba giai đoạn hoàn toàn khác nhau; gộp lại chỉ cho ra một tổng số đáng sợ.",
+    "benefit": "Khoản lớn nhất từ 0 đến 3 tuổi là cách chăm con: tự chăm, nhờ ông bà hay thuê người. Trong giai đoạn giáo dục bắt buộc (từ tiểu học đến trung học cơ sở), khoản lớn nhất là nhà ở và chi phí ngoài giờ học. Sau đó, khoản lớn nhất là con đường học tiếp. Tiền được chi vào những việc hoàn toàn khác nhau ở ba giai đoạn; tính gộp chỉ cho ra một tổng số đáng sợ",
+    "notes": "Trước hết tính các khoản chắc chắn nhận được như trợ cấp nuôi con, trợ cấp thai sản và thanh toán bảo hiểm y tế, rồi xem còn thiếu bao nhiêu. Đừng quyết định theo những con số “nuôi một đứa trẻ đến lớn tốn bao nhiêu vạn nhân dân tệ” lan truyền trên mạng: cách tính của chúng không rõ, bạn không biết đã tính những khoản nào và bỏ sót những khoản nào",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-27-14",
+  "source_sha256": "0c347f02657b31c960c60ee80a842953911e97dc7952107f7eaaeff2a911192b",
+  "draft_sha256": "6fdbfb890696c1b2c22584281316637af7f0dc6dd8f12781d86eff7d170bcb5e",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đăng ký trực tuyến bằng giấy chứng sinh không chờ hộ khẩu,28.7→6.4ngày làm việc, chi phí và12393. Giữ khác biệt nguồn plain nói thanh toán ngay khi xuất viện, trích dẫn benefit nói sau xuất viện; notes vẫn nêu điều kiện thời gian hưởng tính từ sinh tùy địa phương."
+}

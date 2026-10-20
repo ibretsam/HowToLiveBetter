@@ -1,0 +1,15 @@
+{
+  "id": "e-27-3",
+  "source_sha256": "a516827a92ccaebfd9fe3724c39bf027fa8b6aa3f4d7d5dd635b5773004a7a0d",
+  "draft_sha256": "b6097179470ffe6ba1ce014792ec0d2f0039c64cc2cdfc83eae293be8a9cc9d9",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ HIV/giang mai/viêm gan B, penicillin cho mẹ và trẻ, HBsAg dương tính và điều trị kháng virus có điều kiện/đồng ý sau thông tin. Giữ rõ tư vấn và sàng lọc HIV miễn phí; văn bản toàn quốc không ghi miễn phí hai xét nghiệm còn lại. Giữ nguyên điều luật không phân biệt đối xử và tham chiếu chương 1/13/20."
+}

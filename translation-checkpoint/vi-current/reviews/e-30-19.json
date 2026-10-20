@@ -1,0 +1,15 @@
+{
+  "id": "e-30-19",
+  "source_sha256": "88035e6cc7395bc77f6be1d673e8a250936a9505d4494855981e6c8a00ac997e",
+  "draft_sha256": "555fae10799d4a00e91d94edf46b35df6e9e1884c431a51ec436433c50fbfb65",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ số liệu/CI và hiệu chỉnh cùng lớp/trường làm khác biệt không rõ; bằng chứng chỉ kiến thức/diễn tập, chưa xác nhận giảm xâm hại. Đủ trường hợp báo cáo bắt buộc, bảo mật, dưới14tuổi và số liệu2025. Đã đọc thêm packet e-9-18 xác nhận tham chiếu 对方不满14岁 nói người bị hại trong quan hệ tình dục; cách dịch trong notes làm rõ đúng đối tượng. Giữ các hướng dẫn trong nguồn, không thêm advice."
+}

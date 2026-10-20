@@ -1,0 +1,15 @@
+{
+  "id": "e-30-2",
+  "source_sha256": "f956b5c6fc513f75930c32b7560f3e89fb57d7455ba202b6f933f504c5bd3a8f",
+  "draft_sha256": "e5cfda81a037b67f820027a515dae91d6fef3b688f01e5e68165b7e583ba629f",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ nội dung, phân nhóm ngẫu nhiên/tự chọn, phân tích theo nhóm ban đầu, ít nhất18giờ và ngưỡng từ50độ. Giữ OR/CI/P và lời giải thích cơ hội thành công của nguồn, không đổi sang khẳng định xác suất chính xác. Giữ giới hạn các ví dụ khác chưa được kiểm chứng và bảo lưu học tịch."
+}

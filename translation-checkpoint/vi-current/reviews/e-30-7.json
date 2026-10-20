@@ -1,0 +1,15 @@
+{
+  "id": "e-30-7",
+  "source_sha256": "f21246c8b1d0bebe7723b92c68549885ddcc4acea7592ef93b1840be91433dec",
+  "draft_sha256": "4f47909dadb16cc5514b08e1b05451de53674e327617213e7ed68e91161f1613",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm tra đủ các hạng mục khám ngoại, mắt và sáu trọng tâm hướng dẫn; kinh phí chỉ rõ giai đoạn giáo dục bắt buộc. Giữ khác biệt sàng lọc/chẩn đoán và trách nhiệm phụ huynh đưa đi khám chuyên khoa, mục2/12."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-30-6",
+  "source_sha256": "668b3afe875f3228e83552134392673da8bcbcc8430f86bc196fda9757803812",
+  "draft_sha256": "aa9dd8564866caed3b2239e4aa5b0eaec23608d3f4bb4f8c8cc233670749053c",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ bảng ngầm OR/CI theo ba mức cận, các bệnh mắt, đơn vịD và mốc từ60tuổi. Cách gọi600độ được chỉ rõ là cách gọi Trung Quốc, không đổi chữ số. Giữ kết luận không đảo ngược và cách diễn giải lớn bất thường/khác biệt nghiên cứu của nguồn."
+}

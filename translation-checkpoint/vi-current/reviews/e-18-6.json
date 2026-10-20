@@ -1,0 +1,15 @@
+{
+  "id": "e-18-6",
+  "source_sha256": "5fbd529ac16bbae79f749a8a0ef6786e26ed5c60827cf2c64dd0c5b88ba7737a",
+  "draft_sha256": "708d95408620abad53e09ab9a0d1fd27a90bd5abdcddddb0044569dcb8259d57",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Sửa bậc cha chú thành các bậc lớn tuổi trong gia đình để không thu hẹp 长辈 vào nam giới. Giữ mong đợi của người khác là một yếu tố cân nhắc, chi phí thuộc người quyết định, điều kiện về khả năng và ý muốn của người con sau hai mươi năm; đối chiếu cả sinh và không sinh."
+}

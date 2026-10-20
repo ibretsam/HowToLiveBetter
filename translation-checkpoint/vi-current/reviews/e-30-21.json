@@ -1,0 +1,15 @@
+{
+  "id": "e-30-21",
+  "source_sha256": "3eee5fe8de39a65c9c9d648f62ec7207a9720d1210ad6eff3b4d26be7611638c",
+  "draft_sha256": "feb3ed25a7f10d2aebd2145c2e66f8c6e353f4418e677f1e02c3861afc8fa312",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ các dấu hiệu cấp cứu, thời gian22.0/44.4, quá21ngày và8.80lần. Giữ ngoại lệ nhân viên y tế có kinh nghiệm xác định tại chỗ không phải chấn động não, không tự mở rộng quyền quay lại sân. Đúng hạn chế hoạt động va chạm, tăng hoạt động nhẹ24–48giờ và giới hạn nghiên cứu không ngẫu nhiên."
+}

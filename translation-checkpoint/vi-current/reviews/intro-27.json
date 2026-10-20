@@ -1,0 +1,15 @@
+{
+  "id": "intro-27",
+  "source_sha256": "72de6b2e6d31fe0995a83e0716b624f058dbc0a18f3ce933b8df3edbec5d0856",
+  "draft_sha256": "fdccfc1fa8d10c19f1f18b7685b8dc0627d6efa413ae5aba9c121f0316a547e6",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ lời dẫn,2023/26vạn/75%, đủ năm nguyên nhân tử vong và sáu nhóm chủ đề với20mục dẫn chiếu. Giữ phạm vi hai loại chi phí/nguy cơ không quy đổi, không tự bổ sung tư vấn thai kỳ. Sửa 28周以后 thành từ tuần28 trở đi và 平躺 thành nằm thẳng để đồng nhất nghĩa ngưỡng/tư thế với nguồn và mục19/8."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-27-1",
+  "source_sha256": "d16be11bd4d3eca1e03adae083946c5c11ce5dbd9536b5c0d27852ada1b12626",
+  "draft_sha256": "b4d04b8effac145795dd2378b3ce2902fdbe86ccf672ecd3385005e587af8a8a",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ thời điểm trước mang thai và hết ba tháng đầu, liều 0.4 miligam, hai RR/CI cho lần đầu và tái diễn, 5 thử nghiệm/6708 ca sinh. Giữ mức bằng chứng cao, so sánh liều và vitamin tổng hợp, giới hạn chưa có hiệu quả rõ ở các kết cục khác, chương trình miễn phí nông thôn và các tham chiếu B12/tuổi sinh con."
+}

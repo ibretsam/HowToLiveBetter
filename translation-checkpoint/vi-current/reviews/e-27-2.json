@@ -1,0 +1,15 @@
+{
+  "id": "e-27-2",
+  "source_sha256": "e38d873a7ebde8347ff6c6c889e12fe289965032412fbc8f079f65cb492435e2",
+  "draft_sha256": "a4519facfdc9fed80a564a598113500f33b60f64f9a643997861a500ce758290",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ các lần khám đầu/giữa/cuối thai kỳ, thăm sau sinh và ngày 42, tất cả mốc tuần, điều kiện cư trú và lập sổ theo nơi ở. Sửa lặp từ toàn bộ bộ thành trọn bộ. Giữ phân biệt năm lần miễn phí tối thiểu với khoản khám thêm tự trả và danh mục địa phương có sàng lọc trầm cảm."
+}

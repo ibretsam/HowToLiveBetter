@@ -1,0 +1,14 @@
+{
+  "id": "e-30-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "427bec7a67027dfcd7314bef9ff320631dccd71f6acd6b2124212882ec40c5db",
+  "translator": "pilot_medicine_batch3",
+  "translation": {
+    "title": "Trẻ nói đột nhiên đau dữ dội và ngày càng nặng thì đưa đến bệnh viện ngay, đừng bắt trẻ chịu đến tan học",
+    "cost": "Không tốn tiền. Xin nghỉ nửa ngày để đưa trẻ đến khoa cấp cứu.",
+    "plain": "Có bệnh phải tính từng giờ. Bé trai đột nhiên đau dữ dội một bên bìu có thể bị xoắn tinh hoàn, tức mạch máu nối với tinh hoàn bị xoắn, cắt đứt nguồn máu. Xử lý trong 6 giờ thì tỷ lệ giữ được tinh hoàn là 97.2%. Kéo dài đến 19 đến 24 giờ chỉ còn 42.5%. Cơn đau này không thể đợi tan học hay thi xong.",
+    "benefit": "Tìm có hệ thống 30 loạt báo cáo ca bệnh với 2116 bệnh nhân xoắn tinh hoàn để xem xét chung. Trong đó, 1283 ca được thống kê theo từng khoảng 6 giờ. Tính từ lúc bắt đầu đau, tỷ lệ giữ được tinh hoàn là 97.2% trong 0 đến 6 giờ; 79.3% trong 7 đến 12 giờ; 61.3% trong 13 đến 18 giờ; 42.5% trong 19 đến 24 giờ; 24.4% trong 25 đến 48 giờ; và 7.4% sau 48 giờ. Gộp thành khoảng lớn hơn thì trong 12 giờ là 90.4%, từ 13 đến 24 giờ là 54.0%, sau 24 giờ là 18.1%. Các tác giả kết luận thời gian còn có thể giữ được tinh hoàn có thể dài hơn khoảng 6 đến 8 giờ thường được nhắc đến. Vì vậy, dù đã đau lâu vẫn phải đi xử lý, đừng nghĩ “đằng nào cũng muộn rồi” mà không đi. Trong dữ liệu trẻ nằm viện tại Mỹ của ba năm 2000, 2003 và 2006, có 2443 bé trai từ 1 tháng đến chưa đủ 18 tuổi được phẫu thuật xoắn tinh hoàn. Tuổi khởi bệnh có hai đỉnh: năm đầu sau sinh và lúc mới bước vào tuổi dậy thì.",
+    "notes": "Hãy nói trước với bé trai: nếu đột nhiên đau dữ dội ở vùng kín thì báo ngay, không cần ngại. Xoắn tinh hoàn thường gặp ở bé trai mới bước vào tuổi dậy thì. Nhiều trẻ ngại nói nên cố chịu; đây là kinh nghiệm của tác giả. Các bệnh cũng phải tính từng giờ còn có viêm ruột thừa cấp, để lâu có thể thủng, nhiễm toan ceton do đái tháo đường và viêm màng não. Chương này chưa kiểm chứng riêng từng bệnh xem chậm bao nhiêu giờ thì hậu quả tăng bao nhiêu. Tác giả tổng kết dấu hiệu chung là khởi phát đột ngột, liên tục nặng hơn và khác mọi lần trước. Nhận biết cấp cứu và gọi xe thế nào, xem chương 13.",
+    "extra": ""
+  }
+}

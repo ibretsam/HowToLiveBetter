@@ -1,0 +1,15 @@
+{
+  "id": "e-27-8",
+  "source_sha256": "84948168cf96226f3f1735878bac93aaa11f21b3a468cf924d5e1d5d09d349f1",
+  "draft_sha256": "ad289565d6fc60b32819bda5381678172eb07f794283e7445da87f474a7543da",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Khôi phục nghĩa 平躺 bằng nằm thẳng trong title, lời trích benefit và notes; trước đó chỉ ghi nằm. Giữ riêng khả năng nằm nghiêng trái, kê cao mông, gọi120 và các điều cấm đi/tắm/ngồi xổm/tự lái. Đủ dấu hiệu sa dây rốn, màu nước ối và thay đổi thai máy; giữ cách tổng hợp của tác giả từ hai tài liệu, không sửa lời khuyên nguồn."
+}

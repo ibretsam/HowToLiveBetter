@@ -1,0 +1,15 @@
+{
+  "id": "e-27-16",
+  "source_sha256": "0eafd7feb0073a57427b21e66c2e774cd01ef9060c04a07abe08b740a04f8ead",
+  "draft_sha256": "cc427bb2be26261580aa76aeab3df9a865af069f4ba4cf0485f5bc8e0bd0839c",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ xét nghiệm máu/dịch âm đạo, số lần thăm và khám ngày 42, sàng lọc trầm cảm ở địa phương thí điểm theo chương trình 2020. Giữ giới hạn một số nơi thay vì hứa mọi nơi đều sàng lọc; đủ triệu chứng nghiêm trọng trong một năm, tham chiếu 1/9-20/7, khám vết thương/tử cung/sàn chậu và chưa có kinh vẫn có thể mang thai."
+}

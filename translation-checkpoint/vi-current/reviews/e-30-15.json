@@ -1,0 +1,15 @@
+{
+  "id": "e-30-15",
+  "source_sha256": "cbd5d2f2a1e6ff2dae81c4d646fddf708f237a9eacc5f34da382e8334b3c6511",
+  "draft_sha256": "58eae993dfe99b1bdb4e00973e5e03f4b6a0571401747a6c927fb91dff1253ab",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ tỷ lệ nam/nữ và OR sau điều chỉnh, mẫu Trung Quốc/Mỹ, giới hạn hồi tưởng và không chứng minh nhân quả. Giữ nguyên hai cách diễn đạt cao gấp3–5.5 và cao hơn hai–ba của nguồn. Đầy đủ nghĩa vụ pháp luật, phản đối liệu pháp chuyển đổi và các tham chiếu; không thêm lời khuyên ngoài nguồn."
+}

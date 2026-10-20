@@ -1,0 +1,15 @@
+{
+  "id": "e-30-18",
+  "source_sha256": "d9066fb4b4205778547b3df2a570c6b55aa3ca38c5f05dbcb0e9e62de8ec1489",
+  "draft_sha256": "ce7bea32be19bccfe76c14fd894a4e0a53684e07d5ade8669ff47c2be45e5944",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ hai vụ án, độ tuổi18, thời gian44giờ, nguyên nhân tử vong, hai cấp xét xử và hình phạt. Giữ nguyên thứ tự mức án giảm hai năm mười tháng đến mười một tháng theo trích dẫn nguồn, không tự đảo. Giữ giới hạn nguồn báo chí/chưa thấy bản án gốc, cá biệt không phải thống kê và bác bỏ yêu cầu bồi hoàn học phí."
+}

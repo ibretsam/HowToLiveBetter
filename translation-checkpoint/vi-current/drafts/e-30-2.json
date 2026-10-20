@@ -1,0 +1,14 @@
+{
+  "id": "e-30-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f956b5c6fc513f75930c32b7560f3e89fb57d7455ba202b6f933f504c5bd3a8f",
+  "translator": "pilot_medicine_batch3",
+  "translation": {
+    "title": "Đừng trì hoãn điều trị cần thiết để “đợi thi xong”; một số thời điểm điều trị phụ thuộc tuổi xương, không theo lịch thi",
+    "cost": "Không tốn tiền; chỉ cần quyết định làm sớm hay muộn. Xin nghỉ học và tái khám mất thời gian, chi phí điều trị tính riêng. Khó ở chỗ nẹp phải đeo ít nhất 18 giờ mỗi ngày, trẻ phải chịu đựng lâu dài.",
+    "plain": "Vẹo cột sống là cột sống cong sang bên. Nẹp là một áo vỏ cứng mặc để giữ cột sống. Đeo khi xương còn phát triển giúp 75% trẻ đến lúc xương trưởng thành vẫn chưa cong đến 50 độ; nhóm chỉ theo dõi mà không đeo chỉ có 42%. Khoảng thời gian còn đeo được phụ thuộc sự trưởng thành của xương, không theo kỳ thi vào trung học phổ thông hay đại học; đợi thi xong có thể đã bỏ lỡ.",
+    "benefit": "Một thử nghiệm tại nhiều bệnh viện tuyển 242 bệnh nhân vẹo cột sống vô căn tuổi thiếu niên đủ điều kiện đeo nẹp. Trong đó, 116 người được phân nhóm ngẫu nhiên, 126 người tự chọn đeo hay không. Tiêu chí thành công, thất bại được định trước: góc cong tăng đến 50 độ trở lên là thất bại, còn khi xương trưởng thành mà chưa đến mức đó là thành công. Trẻ trong nhóm đeo nẹp được yêu cầu đeo ít nhất 18 giờ mỗi ngày. Kết quả tính theo nhóm phân ban đầu, bất kể sau đó có thực sự đeo đủ hay không. Nhóm được phân ngẫu nhiên đeo nẹp có tỷ lệ thành công 75%, nhóm được phân ngẫu nhiên chỉ theo dõi là 42% (OR 4.11, 95% CI 1.85–9.16), cơ hội thành công gấp khoảng 4 lần chỉ theo dõi. Gộp cả người phân ngẫu nhiên và người tự chọn, tỷ lệ là 72% so với 48% (sau khi điều chỉnh khác biệt ban đầu giữa hai nhóm, OR 1.93, 1.08–3.46, vẫn khoảng 1.9 lần). Số giờ đeo mỗi ngày càng nhiều, tỷ lệ thành công càng cao (P<0.001, mối liên hệ này khó do ngẫu nhiên). Thử nghiệm được dừng sớm vì nẹp thực sự có hiệu quả.",
+    "notes": "Vẹo cột sống được dùng làm ví dụ vì có thử nghiệm phân nhóm ngẫu nhiên và có khoảng thời gian điều trị rõ ràng. Đây cũng là một trọng tâm khi khám sức khỏe học sinh, xem mục 7. Theo kinh nghiệm tác giả, các trường hợp tương tự gồm lác mắt, nhược thị, sâu răng và những phẫu thuật có thể chọn thời điểm như phẫu thuật tim bẩm sinh. Làm càng muộn có thể hiệu quả càng kém hoặc phải trả giá nhiều hơn. Chương này chưa kiểm chứng riêng từng bệnh; hãy hỏi bác sĩ chuyên khoa về thời điểm cụ thể. Nếu lo ảnh hưởng việc học, trong giai đoạn giáo dục bắt buộc có thể xin tạm nghỉ học tối đa 1 năm và được bảo lưu hồ sơ học sinh, xem mục 11.",
+    "extra": ""
+  }
+}

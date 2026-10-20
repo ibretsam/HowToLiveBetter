@@ -1,0 +1,15 @@
+{
+  "id": "e-27-9",
+  "source_sha256": "e7f5b1e9056beefbaf17a7524394866fd39ce9f81363c400bae8224e52136e54",
+  "draft_sha256": "6a62a65a5de8f49cc0c41d9cec6b9da23e2810792e4925aa35bd71061566e642",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa 尿不出来 từ khó tiểu thành không tiểu được để giữ mức độ triệu chứng. Đối chiếu giảm đau ngoài màng cứng, nghiên cứu sau2005 không thấy tăng hỗ trợ dụng cụ, các mục giá2024, đầy đủ tác dụng phụ, hai giai đoạn chuyển dạ/oxytocin và bác sĩ gây mê tại chỗ24giờ."
+}

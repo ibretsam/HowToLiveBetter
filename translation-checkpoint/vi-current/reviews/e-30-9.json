@@ -1,0 +1,15 @@
+{
+  "id": "e-30-9",
+  "source_sha256": "5b484adfcf0340c083dc513245b253c71dc4d618005e476b56f54a7c09dd9d40",
+  "draft_sha256": "57e242fd0ce45b5372c1977dbc3649b0da2b72c8e88d16e0bdb72d97bc9fd464",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đủ sáu cụm quảng cáo trong benefit, hai loại quảng cáo bị xử lý, mạo danh y học cổ truyền và trách nhiệm sàn kiểm tra tư cách kinh doanh. Giữ thời gian đợt chấn chỉnh2021–2022 và giới hạn đây là căn cứ quản lý, không phải thử nghiệm sản phẩm."
+}

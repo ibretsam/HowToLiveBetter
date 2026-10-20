@@ -1,0 +1,15 @@
+{
+  "id": "intro-30",
+  "source_sha256": "8b505855910b2176fb5049451d849e1ed91215fbf2d60de8f0c197f0f8a2d0e6",
+  "draft_sha256": "8e0b6ee8e10f58ebbe05defce82492245e47cabc607ac042056d2ebec178ca36",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đọc từng đoạn, đối chiếu toàn bộ nhóm chỉ số tử vong/tiền/thời gian và các số tham chiếu trong năm nhóm chủ đề. Giữ tuổi0/3–18, lý do nhóm màn hình và cấu trúc Markdown. Sửa tiêu đề Trẻ sau khi đi học thành Trẻ đã bắt đầu đi học để 上学以后 nói giai đoạn đã vào trường, tránh hiểu thành lúc tan học."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-18-3",
+  "source_sha256": "18d8fd00ac0bf2e4a46f5f7ca5775d73c8b46a532e25cc48bf3a41074b059b2c",
+  "draft_sha256": "897a018e4ba26138be51620af59eafd7fc8e94dde749a7d828bd67b3865981c3",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ nguyên lý do mang thai/sinh con/cho con bú, trẻ chưa đủ một tuổi, một giờ mỗi ngày và tiền phạt tính theo người. Phân biệt phạt vi phạm làm thêm/ca đêm với yêu cầu trọng tài lao động về sa thải trái luật; không áp mức phạt đó sang giảm lương/sa thải. Tham chiếu chương 19 đúng."
+}

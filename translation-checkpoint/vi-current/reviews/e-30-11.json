@@ -1,0 +1,15 @@
+{
+  "id": "e-30-11",
+  "source_sha256": "d9722fc5f933b3672f17980fae59370928b26c73c63189b17bbee33682e19ded",
+  "draft_sha256": "d5eb33f26df359a77b6d452184972a4e30cbb7e052cad0430e984ad2da6edf1c",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đơn của cha mẹ/người giám hộ, trường xác nhận rồi cấp trên duyệt, tối đa1năm mỗi lần và phải xin lại khi cần. Giữ thẩm quyền tỉnh, ba câu hỏi thủ tục và cơ chế tái nhập học. Tiêu đề rút gọn1năm theo nguồn; nội dung nêu rõ mỗi lần."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-27-13",
+  "source_sha256": "41f2c9f3a6b3c8ede5debcef6ac784778165858cd010731ab1ddc4bae56b8af3",
+  "draft_sha256": "0477e95fb6ab30e279f465de9cc2595f45612ef61636f456bcc6be1c091196b5",
+  "reviewer": "pilot_employment_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu sàng lọc chuyển hóa/thính lực, suy giáp/phenylketon niệu, biện pháp can thiệp và thông báo dương tính. Giữ sàng lọc dương tính khác chẩn đoán xác định, nghĩa vụ thông tin độ nhạy/chi phí và ký đồng ý, hạng mục tự trả, tái sàng lọc thính lực. Khẳng định nguồn về tổn hại trí tuệ của hai nhóm giữ nguyên."
+}

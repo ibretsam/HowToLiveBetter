@@ -1,0 +1,15 @@
+{
+  "id": "intro-18",
+  "source_sha256": "27a87357cd6068988ffcc9ebda8d0374293315193cf5b1014eaa8e0eee5fdbbd",
+  "draft_sha256": "8d6887b3e7eeba178995b9f7cb360702f4c180ca34a3139be292ef5e1f45e9f7",
+  "reviewer": "root_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ tiêu đề và lời dẫn. Giữ phạm vi tính tiền/thời gian và không quyết định thay người đọc; dẫn chương 10 về kết hôn và chương 27 về quy trình khi đã mang thai đúng."
+}

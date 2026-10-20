@@ -1,0 +1,15 @@
+{
+  "id": "e-30-8",
+  "source_sha256": "83853a14bc9e621425ebe0efe7ff90a7b44e77e98117f64b56ba9ee2c1003008",
+  "draft_sha256": "e7b5b82ab9a85ab61fa9323c7d8396ca9e118c2253286f37e1810455f7f4b36c",
+  "reviewer": "pilot_emergency_batch3_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu khuyến nghị Mỹ12–18, bằng chứng thiếu ở≤11 và sàng lọc tự sát riêng; hệ thống ba cấp Trung Quốc, thông thường không quá1lần/năm, chuyển khám và tái nhập học. Các số tổng đài giữ nguyên trong bản dịch nguồn, không thêm hướng dẫn mới. Giữ B/I và khác biệt sàng lọc–chẩn đoán."
+}
