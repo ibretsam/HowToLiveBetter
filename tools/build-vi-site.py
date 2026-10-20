@@ -54,7 +54,11 @@ def parse(text, vietnamese=False):
             match = re.search(r"^- " + re.escape(label) + re.escape(colon) + r"\s*(.*)$", body, re.M)
             fields[KEYS[zh]] = match[1].strip() if match else ""
         tags = dict(re.findall(r"(\S+)=(\S+)", re.search(r"<!-- 成本标签:(.*?)-->", body)[1])) if "<!-- 成本标签:" in body else {}
-        entries.append({"number": int(number), "title": title.strip(), "fields": fields, "tags": tags})
+        field_labels = list(FIELDS.values()) if vietnamese else list(FIELDS)
+        field_line = re.compile(r"^- (?:" + "|".join(map(re.escape, field_labels)) + r")[:：]")
+        extra = "\n".join(line for line in body.splitlines()
+                          if not field_line.match(line) and not line.startswith("<!--")).strip()
+        entries.append({"number": int(number), "title": title.strip(), "fields": fields, "tags": tags, "extra": extra})
     intro = parts[0].split(heading[0], 1)[-1].strip() if heading else ""
     return {"title": heading[1] if heading else "", "intro": intro, "entries": entries}
 
@@ -63,7 +67,7 @@ def same_content(a, b):
     # Ignore metadata and whitespace only. Even a small prose correction marks
     # a translation outdated; being conservative is preferable to hiding edits.
     normalize = lambda s: re.sub(r"\s+", "", s)
-    return normalize(a["title"]) == normalize(b["title"]) and all(
+    return normalize(a["title"]) == normalize(b["title"]) and normalize(a["extra"]) == normalize(b["extra"]) and all(
         normalize(a["fields"][k]) == normalize(b["fields"][k]) for k in KEYS.values())
 
 

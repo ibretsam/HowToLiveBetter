@@ -143,7 +143,7 @@ function markdown(text,base='README.md'){
   }return out;
 }
 function fields(entry,path,sec){
-  return '<p class="human">'+inline(entry.fields.plain,path,sec)+'</p><div class="fields">'+['cost','benefit','notes'].map(k=>'<div class="field-name">'+labels[k]+'</div><div class="field-value">'+inline(entry.fields[k],path,sec)+'</div>').join('')+'</div><details><summary>Nguồn và tài liệu tham khảo</summary><div class="body" lang="zh-CN">'+inline(entry.fields.sources,path)+'</div></details>';
+  return '<p class="human">'+inline(entry.fields.plain,path,sec)+'</p><div class="fields">'+['cost','benefit','grade','notes'].map(k=>'<div class="field-name">'+labels[k]+'</div><div class="field-value">'+inline(entry.fields[k],path,sec)+'</div>').join('')+'</div><details><summary>Nguồn và tài liệu tham khảo</summary><div class="body" lang="zh-CN">'+inline(entry.fields.sources,path)+'</div></details>'+(entry.extra?markdown(entry.extra,path):'');
 }
 function badge(status){return '<span class="badge '+status+'">'+DATA.meta.statusLabels[status]+'</span>'}
 function warning(status){
