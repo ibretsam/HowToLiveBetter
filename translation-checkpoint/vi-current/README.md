@@ -81,6 +81,12 @@ lời dẫn và bài hướng dẫn trước/sau sinh gồm 45 việc. Tổng 48
 32 cập nhật và 7 rà soát lại. Có 52 hồ sơ rà soát độc lập mới; báo cáo nằm trong
 `batch-3-report.json`. Các bản nháp/rà soát đã có từ hai đợt trước giữ nguyên.
 
+Đợt 4: toàn bộ 50 mục chương 5, 29 mục chương 9 và 16 mục còn lại của chương
+19 (mục 3–18), cộng ba lời dẫn và bài hướng dẫn sau thôi việc gồm 34 việc.
+Tổng 95 mục: 12 mục mới, 59 cập nhật và 24 rà soát lại. Có 99 hồ sơ rà soát
+độc lập mới; báo cáo nằm trong `batch-4-report.json`. Giữ nguyên 155 bản nháp
+và 155 hồ sơ rà soát của ba đợt trước.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

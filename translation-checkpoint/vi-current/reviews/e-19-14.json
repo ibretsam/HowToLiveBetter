@@ -1,0 +1,15 @@
+{
+  "id": "e-19-14",
+  "source_sha256": "a738e02c308f2c3d4e99bbd239486b145f6ed9279f34d77095a979950ae3819a",
+  "draft_sha256": "8b9b8a806254dbec815fb63743c9b8114aad273c6bedbe6f0f53568f5a7d1a59",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ dãy mức thương tật5–10 với18/16/13/11/9/7tháng; hai khoản bổ sung và bên trả khác nhau, điều kiện hết hạn/tự chấm dứt, tỉnh quyết định mức. Giữ khuyến cáo chờ giám định trước ký và xác nhận dụng cụ hỗ trợ. Nguồn nói mức5/6 nhận trợ cấp tháng mà không nêu điều kiện bố trí việc; giữ cách viết nguồn, không bổ sung điều kiện pháp luật. Tham chiếu33-7 đúng."
+}

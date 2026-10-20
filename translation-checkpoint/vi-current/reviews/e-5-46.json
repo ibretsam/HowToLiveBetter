@@ -1,0 +1,15 @@
+{
+  "id": "e-5-46",
+  "source_sha256": "cba0c7c15479f0bf2ad77b0096d061fefb2b9e4258ee1972c1e1b357ce1c0c50",
+  "draft_sha256": "1f7c73833237c30f42a4d9efb0a31dcd39637a41657365503867c1bcfac0d31d",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu từng tỷ lệ và giá trị trong ví dụ lương8000, mức60/100%, khoản đóng960, tổng172800/288000/115200, tiền nhận1457/2029/572 và thời gian9.9/16.8. Giữ giả định lãi theo tăng lương, khác mệnh giá thực, tăng số năm tối thiểu2030 và tài khoản được thừa kế. Không biến ví dụ tự tính thành số chính thức."
+}

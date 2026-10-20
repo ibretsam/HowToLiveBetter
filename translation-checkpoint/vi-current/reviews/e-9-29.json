@@ -1,0 +1,15 @@
+{
+  "id": "e-9-29",
+  "source_sha256": "79d39404635ec42a1e04127d5ccad149acb372f40a2b9b404ba5d87e8967e1c5",
+  "draft_sha256": "0df3d6413cd4bc86194c9588bbc12efe37ffc1e8862db3da128bc9607075adc7",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ sáu trường và nguồn, mục dẫn chiếu 9-16 và 23-22. Sửa cách gọi 第二百八十四条之一 thành điều bổ sung thứ nhất sau Điều 284, tránh hiểu là khoản trong điều. Giữ phân biệt tổ chức/cung cấp dụng cụ/cung cấp đáp án/thi hộ, phạm vi kỳ thi quốc gia bao gồm công chức địa phương và giấy phép lái xe theo nguồn. Giữ 3/7 năm, 30 lượt/30 vạn, 11146 người, năm 2015–2024, cấm thi 1–3 năm, 2000, 1/3 năm, vụ 89 lần/18 người/2–4 tháng/3–10 vạn và 2017–2023/6 năm 6 tháng/23 người. Giữ tình tiết trước kỳ thi có đáp án đã hoàn thành tội; tự nhìn trộm không được điều này liệt kê không có nghĩa miễn mọi tội khác. Không bổ sung luật hay điều kiện ngoài nguồn."
+}

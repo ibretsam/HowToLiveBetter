@@ -1,0 +1,14 @@
+{
+  "id": "e-9-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "dcef28b05162f631567c019ceedc65be0471584b43b30f3871a1bcfc7e5f0b43",
+  "translator": "pilot_emergency_batch4",
+  "translation": {
+    "title": "Không cho mượn giấy căn cước, không dùng căn cước của người khác, cũng không lấy giấy tờ của họ để đăng ký, mở thẻ hay mua vé",
+    "cost": "Không tốn tiền. Có người hỏi mượn thì từ chối. Khi phải giao bản sao, ghi rõ bản sao này chỉ dùng cho việc gì.",
+    "plain": "Cho mượn, cho thuê hoặc chuyển giao căn cước cho người khác thì bị cảnh cáo và phạt không quá 200 nhân dân tệ. Mạo danh dùng căn cước của người khác hoặc dùng căn cước có được bằng gian dối thì phạt từ 200 đến 1000 nhân dân tệ hoặc tạm giữ hành chính trong vòng 10 ngày. Dùng giấy tờ giả hoặc dùng trộm giấy tờ của người khác trong những trường hợp bắt buộc danh tính thật như mua vé tàu, thuê phòng, có tình tiết nghiêm trọng thì bị phạt giam giữ hình sự ngắn hạn hoặc quản chế.",
+    "benefit": "Cho thuê, cho mượn, chuyển giao căn cước cư dân của mình cho người khác thì bị cảnh cáo và phạt không quá 200 nhân dân tệ. Mạo danh dùng căn cước của người khác hoặc dùng căn cước có được bằng gian dối thì phạt từ 200 đến 1000 nhân dân tệ hoặc tạm giữ hành chính không quá 10 ngày. Mua, bán, sử dụng căn cước bị làm giả hoặc sửa đổi trái phép cũng thuộc mức này. Một số hoạt động theo quy định nhà nước bắt buộc phải xuất trình giấy tờ chứng minh danh tính. Trong những hoạt động đó, dùng giấy tờ giả, bị sửa đổi trái phép hoặc dùng trộm giấy tờ của người khác, có tình tiết nghiêm trọng thì bị kết án. Giấy tờ gồm căn cước, hộ chiếu, thẻ bảo hiểm xã hội, giấy phép lái xe và các loại tương tự. Hình phạt là giam giữ hình sự ngắn hạn hoặc quản chế (không giam nhưng hạn chế hoạt động), còn bị phạt tiền kèm theo hoặc chỉ phạt tiền, tức vừa chịu hình phạt vừa nộp phạt, cũng có thể chỉ bị phạt tiền (toàn Trung Quốc).",
+    "notes": "Căn cước cho mượn có thể bị dùng để đăng ký công ty, mở thẻ ngân hàng. Hậu quả của hai việc này xem chương 8 mục 28, 8 (đừng làm người đại diện pháp luật trên danh nghĩa, không cho người khác mượn thẻ ngân hàng). Dùng căn cước người khác mua vé tàu, thuê phòng thuộc “hoạt động phải cung cấp giấy tờ chứng minh danh tính” trong điều luật. Mục này chưa tìm được vụ việc chính thức. Đi quán Internet cũng dùng giấy tờ của mình. Quán phải đối chiếu, đăng ký căn cước; nội dung đăng ký và lịch sử truy cập phải lưu ít nhất 60 ngày, công an và cơ quan văn hóa có thể truy xuất bất cứ lúc nào. Dùng giấy tờ của ai để lên mạng thì việc làm trên máy trong khoảng thời gian đó được ghi dưới tên người ấy.",
+    "extra": ""
+  }
+}

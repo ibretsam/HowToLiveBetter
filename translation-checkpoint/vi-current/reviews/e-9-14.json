@@ -1,0 +1,15 @@
+{
+  "id": "e-9-14",
+  "source_sha256": "5b024bf0da7579fc635514bd610aeab435c13587dccc891f7bc3250165bea136",
+  "draft_sha256": "d3fafe02de620a079ec1d430f36cceddec9159c19a96d07cd5fa3b96572a5d92",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu mọi ngưỡng động vật/thực vật, giá trị, số cây, án và ngoại lệ nhân nuôi. Bổ sung retained_terms hẹp cho tên cây và chi theo nguyên bản để nhận diện chính xác; 兰属 giữ rõ là một chi nêu trong nguồn, không mở rộng thành họ lan, không đoán tên khoa học. Giữ cấu trúc nguồn nói toàn chi cấp hai rồi nêu ngoại lệ cấp một và ngoài danh mục; giữ điều kiện biết rõ cây bị đào trái phép."
+}

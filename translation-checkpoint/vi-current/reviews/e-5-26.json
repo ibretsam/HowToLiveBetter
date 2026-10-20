@@ -1,0 +1,15 @@
+{
+  "id": "e-5-26",
+  "source_sha256": "5cccc8e375960dd70d42f8b808d42090a8151824e9c4ea3f5436754774cbc1ce",
+  "draft_sha256": "28aa4c4dcd2f44a3b0076b2d84c1d024c72a81a86eaf295f6beecdb8004bf227",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ hạn mức có lỗi/không lỗi, ba khoản không chuyển bù, tổng20vạn và phạt gấp2phí. Giữ lưu ý số2020phải kiểm tra lại và không đề xuất số tiền mua. Câu không bảo hiểm nào trả phần vượt là cách nói nguyên bản, không bổ sung điều kiện mới."
+}

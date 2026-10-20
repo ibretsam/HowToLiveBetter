@@ -1,0 +1,14 @@
+{
+  "id": "e-9-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d55de6b7096d58934c102e4727ac5d06a86e66d33cb05000a448cf4653785005",
+  "translator": "pilot_emergency_batch4",
+  "translation": {
+    "title": "Không mua súng mô phỏng, súng bắn bi thép, súng hơi trên mạng; không mua “súng đồ chơi” không rõ nguồn gốc",
+    "cost": "Không tốn tiền. Muốn bắn súng thì đến trường bắn hoạt động hợp pháp.",
+    "plain": "Súng bắn bi thép, súng hơi mua trên mạng có mật độ động năng tại đầu nòng đạt 1.8 joule/cm² thì được xác định là súng. Sở hữu không có giấy phép bị phạt tù không quá 3 năm; tình tiết nghiêm trọng thì từ 3 đến 7 năm. Có đôi vợ chồng bán “súng đồ chơi”, trong 43 khẩu có 18 khẩu được giám định là súng; chỉ vì không chứng minh được họ biết nên mới không bị truy tố.",
+    "benefit": "Sở hữu, cất giấu súng không có giấy phép thì bị phạt tù không quá 3 năm; tình tiết nghiêm trọng thì từ 3 đến 7 năm. Súng không tiêu chuẩn, không bắn được đạn tiêu chuẩn, chỉ cần mật độ động năng tại đầu nòng lớn hơn hoặc bằng 1.8 joule/cm² thì đều được xác định là súng. Mật độ động năng tại đầu nòng là năng lượng trên mỗi centimet vuông của viên đạn khi ra khỏi nòng. Không ít súng bắn bi thép, súng hơi mua trên mạng vượt mức này. Từ năm 2018, Tòa án Nhân dân Tối cao và Viện Kiểm sát Nhân dân Tối cao yêu cầu với súng hơi có mật độ động năng tương đối thấp phải đánh giá tổng thể rồi mới quyết định có kết tội hay không. Việc đánh giá xét hình dáng, vật liệu, giá, công dụng, bản thân người đó có biết hay không và các yếu tố khác. Vụ việc chính thức: vợ chồng một người họ Triệu bán “súng đồ chơi” ở chợ, bị thu giữ 43 khẩu; giám định cho thấy 18 khẩu đạt tiêu chuẩn súng. Do không đủ chứng cứ chứng minh họ biết đó là súng nên không truy tố vì còn nghi vấn về chứng cứ (toàn Trung Quốc).",
+    "notes": "Điểm then chốt khiến vụ đó không bị truy tố là xác định họ “không biết rõ”. Người trưởng thành cố ý lên mạng mua súng bắn bi thép, súng hơi rồi nói không biết đó là súng thì rất khó được chấp nhận. Mức phạt mang nỏ và dao thuộc diện quản lý theo người xem mục 26 của chương này (đừng mua dùi cui rút, thiết bị chích điện, dao găm để tự vệ).",
+    "extra": ""
+  }
+}

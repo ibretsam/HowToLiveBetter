@@ -1,0 +1,15 @@
+{
+  "id": "e-5-13",
+  "source_sha256": "c6d04f703bfff4f9a2e243970523b510d3accdffea7c4937e1ef61d250c4491c",
+  "draft_sha256": "3c9df22f6acb7706fc9881f6182080d8cdfacdb838818d00a5097a38d8117c62",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu người được dùng chung tài khoản, phần tự chi tại cơ sở chỉ định và các khoản bị loại trừ. Giữ việc dùng tài khoản đóng bảo hiểm cư dân cho gia đình ở mức đề xuất nghiên cứu, không biến thành quyền lợi đã áp dụng; giữ điều kiện liên kết trên ứng dụng địa phương."
+}

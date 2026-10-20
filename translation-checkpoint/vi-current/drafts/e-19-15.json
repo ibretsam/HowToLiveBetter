@@ -1,0 +1,11 @@
+{
+  "id":"e-19-15","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"35a66add0bef9091a736f611fc148ce52d34d25e6cbb867a39bd84e7c04439a3","translator":"pilot_employment_batch4",
+  "translation":{
+    "title":"Phân biệt ba khoản khi chết do công việc: trợ cấp mai táng, trợ cấp cho thân nhân được nuôi dưỡng và trợ cấp tử vong do công việc một lần",
+    "cost":"Không tốn tiền, làm một bộ thủ tục.",
+    "plain":"Chết do công việc có ba khoản, đừng chỉ thương lượng một khoản. Trợ cấp mai táng bằng 6 tháng lương tháng bình quân của người lao động tại địa phương trong năm trước. Trợ cấp cho thân nhân được nuôi dưỡng trả hằng tháng theo lương của người chết: vợ hoặc chồng mỗi tháng 40%, thân nhân khác mỗi người mỗi tháng 30%. Trợ cấp tử vong do công việc một lần bằng 20 lần thu nhập khả dụng bình quân đầu người của cư dân đô thị toàn quốc trong năm trước, cả nước chỉ có một con số này.",
+    "benefit":"Tiền khi chết do công việc chia thành ba khoản. Thứ nhất là trợ cấp mai táng, bằng 6 tháng lương tháng bình quân của người lao động tại địa bàn tham gia bảo hiểm (địa bàn quản lý quỹ chung) trong năm trước. Thứ hai là trợ cấp cho thân nhân được nuôi dưỡng, trả hằng tháng theo lương của người chết: vợ hoặc chồng mỗi tháng 40%, thân nhân khác mỗi người mỗi tháng 30%. Thứ ba là trợ cấp tử vong do công việc một lần, bằng 20 lần thu nhập khả dụng bình quân đầu người của cư dân đô thị toàn quốc trong năm trước. Cả nước chỉ có một con số, không phân biệt địa phương. Chết do công việc năm 2026 thì khoản này khoảng 113 vạn nhân dân tệ (chính xác 1130040 nhân dân tệ). Cách tính là thu nhập khả dụng bình quân đầu người của cư dân đô thị toàn quốc năm trước 56502 nhân dân tệ nhân 20.",
+    "notes":"Trợ cấp tử vong do công việc một lần thống nhất toàn quốc, số tiền cập nhật hằng năm theo dữ liệu Cục Thống kê quốc gia công bố. Khi thương lượng bồi thường, không chấp nhận lời “mức địa phương bên chúng tôi thấp”.",
+    "extra":""
+  }
+}

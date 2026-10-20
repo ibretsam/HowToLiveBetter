@@ -1,0 +1,15 @@
+{
+  "id": "e-9-8",
+  "source_sha256": "1af5a90dee801cce364ddd9cb0c4df679364ef6cfb75ba5b70c50e7548e0db1d",
+  "draft_sha256": "a0bd1896309d1d291928e811d97a1a0afa4f2de52ad2a855e6ace4f25cd29b69",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ ba vụ án, các ngưỡng tiền theo tỉnh, các khung hình sự/hành chính và điều kiện dùng danh tính thật. Giữ lời nguồn rằng số tiền quyết định thời hạn dù nguồn cũng có mức chưa cấu thành tội; giữ phân biệt vụ sạc xe chỉ có báo chí, chưa có bản án. Không đổi mức 3000–1 vạn thành ngưỡng chung toàn quốc."
+}

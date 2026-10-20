@@ -1,0 +1,15 @@
+{
+  "id": "e-5-38",
+  "source_sha256": "20cbaff4f3a20266341eb55d3f668951e0bc1f57734431785910e968f2bb9d42",
+  "draft_sha256": "264c20db2c815ba5fcb6d95a178fecf0cb0045737041ca76f01fc795fedaa948",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa 期货 từ kỳ hạn thành hợp đồng tương lai ở tên phương án và tổ chức. Đối chiếu tám cơ quan, mốc22/5/2026, hai năm, mua/chuyểntiềnvào bịcấm/bánracho phép và dựkiếntịchthu. GiữQDIItáchcáckênh, hạn mức ngoại hối không được dùng và2nămtiếpsau, notesphânbiệt cơquan/nhàđầutư theo nguồn."
+}

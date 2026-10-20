@@ -1,0 +1,15 @@
+{
+  "id": "e-9-22",
+  "source_sha256": "30b9014771a164ec454f765ad837640b31fca172de745757dc60fa6642d145bd",
+  "draft_sha256": "04305866fa8373979aca2c91376fa1d5bb09ea974f5a1665142d85abf9c2ae94",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ giới hạn người hiến sống/quan hệ gia đình, chưa đủ 18 tuổi, tịch thu và phạt 10–20 lần, hậu quả hành nghề và ba trường hợp gây thương tích/giết người. Sửa cách gọi 234之一 thành điều bổ sung thứ nhất sau điều hai trăm ba mươi tư để không nhầm với một khoản trong điều đó. Đối chiếu mọi số tiền/niên đại/hình phạt của hai vụ bán thận và giữ rõ suy luận riêng của tác giả về trách nhiệm khi có biến chứng, hiến tự nguyện không nhận tiền và các dẫn chiếu hỗ trợ."
+}

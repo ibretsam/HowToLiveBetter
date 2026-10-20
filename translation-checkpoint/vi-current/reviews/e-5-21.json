@@ -1,0 +1,15 @@
+{
+  "id": "e-5-21",
+  "source_sha256": "2ef6e8fdc5201a288768cdfae9ccfc535353ceac762cb042549e70252c1a99c6",
+  "draft_sha256": "2410ea25fda0f1ae5435f17daa08ccabb12b95fee20e7edb389822d53828a442",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ 3 câu lạc bộ, 7,752 hội viên, 3 năm, tần suất 4.3 lần và các mức 70/17/10/600 đô la Mỹ. Giữ khác biệt của nguồn: phần nói dễ hiểu dùng từ 70 trở lên, phần lợi ích dùng trên 70. Giữ điều kiện lịch sử tập từ một năm, mỗi tuần từ hai lần trở lên và tỷ lệ chưa hủy theo tháng cao hơn 17%."
+}

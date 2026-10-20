@@ -1,0 +1,15 @@
+{
+  "id": "e-5-20",
+  "source_sha256": "272c24c9f1dda8b68eff74f2a19770a01310f27be775c18625278eed0f713602",
+  "draft_sha256": "94b93a3998d321eee92751a5af435b163ad161984078d66a38d36b55a804377d",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ trần 12000 mỗi năm, thuế suất 10%/3%, các ví dụ 840/2040/3240 và mốc 36000, quy tắc thuế 3% khi nhận cùng miễn thuế tạm thời khi đầu tư. Giữ ngoại lệ rút tiền trong ghi chú dù phần chi phí nói khái quát khóa tiền, các phép tính phân/hào theo 10/30 năm, thời điểm áp dụng toàn quốc và lựa chọn khai khấu trừ/quyết toán."
+}

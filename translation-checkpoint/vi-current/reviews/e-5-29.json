@@ -1,0 +1,15 @@
+{
+  "id": "e-5-29",
+  "source_sha256": "e5969a5ca34248214d24a94df9622d9d30f36e02771c5def04f80faa5038d7bf",
+  "draft_sha256": "bc0f8b3f2203fc10d7f54bcf0693f3f7fba43a39fd51d4e20ea4bf1cdff4d7e8",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu gian dối gấpba/tối thiểu500, nền tảng biết hoặc phải biết, tiền cọc20%và hoàn đôi. Giữ mức phạt giao dịch giả, phân biệt cá nhân hóa bất hợp lý và thông báo vụ án không ghi mức phạt. Đầy đủ thay đổi số điều/ngàyhiệulực2025."
+}

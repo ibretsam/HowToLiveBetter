@@ -1,0 +1,15 @@
+{
+  "id": "e-19-6",
+  "source_sha256": "3ceb6d448933b801d64c626245559ac17bbd641b1e0337680a3643d2ab73a61c",
+  "draft_sha256": "8327490f6582798299fee240332e964d7742f0b8ce04a319a18ae609100fc0bd",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ mức hai lần, Điều bốn mươi bảy, điều kiện chấm dứt trái luật cần xem tình huống và bước hỏi trợ giúp pháp lý/luật sư trước khi chọn thương lượng hay trọng tài. Phân biệt bù đắp kinh tế với bồi thường do vi phạm. Giữ chi phí thời gian vài tháng và yêu cầu theo sát."
+}

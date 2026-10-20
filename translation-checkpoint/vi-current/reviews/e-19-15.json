@@ -1,0 +1,15 @@
+{
+  "id": "e-19-15",
+  "source_sha256": "35a66add0bef9091a736f611fc148ce52d34d25e6cbb867a39bd84e7c04439a3",
+  "draft_sha256": "1efa89d6f15013e1d6f6365b3768dfcff9435c795d662e0f77ba6572f4e52e0b",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu ba khoản, phân biệt địa bàn quản lý quỹ với mức thống nhất toàn quốc. Giữ6tháng/40%/30%/20lần, năm2026,113vạn,1130040 và56502. Văn xuôi nguồn không nêu đủ giới hạn thân nhân hay phần tăng cho người già/cô nhi như trích dẫn luật; không tự nhập các điều kiện đó vào bản dịch, trích dẫn nguồn vẫn nguyên."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-19-16",
+  "source_sha256": "41fb6b8a7043cefba47b44e96ca73f22740848a707517de0c9a2bd07fe653bd7",
+  "draft_sha256": "54608b0ae1a2280e25490b1ddd851df618407976f0b546211bf8512e97a7a8f8",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ nghiên cứu, mẫu, năm, tuổi,HR/OR/CI và chiều quan hệ không đảo ngược; giữ mứcB và giới hạn tự khai/quan sát. Giữ từng hành vi pháp luật, điều kiện chấm dứt ngay có bù đắp, nghĩa vụ đơn vị về quấy rối và trách nhiệm dân sự của người quấy rối. Phân biệt ngày trọng tài và các bước nội bộ/công an/trọng tài, không khuyên lập tức nghỉ. Nguồn gọi sơ thẩm6thángtrởlên và diễn giải OR thành khả năng; giữ nguyên thay vì tự hiệu chỉnh. Các tham chiếu8-41,19-7/8/4,1-25 đúng."
+}

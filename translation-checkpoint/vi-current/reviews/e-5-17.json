@@ -1,0 +1,15 @@
+{
+  "id": "e-5-17",
+  "source_sha256": "88e793ef9db7fa01f6c936c62e3f4cd9891e0d91f626493b7a1e4c0073d27067",
+  "draft_sha256": "ab35587137891397475c5b9f6f64ae666f66b197d14397c365f29329ef2c7922",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu lập luận danh mục toàn thị trường, phí và mô phỏng bootstrap, các tỷ lệ SPIVA Mỹ/Trung Quốc và giới hạn 5 năm. Sửa câu tranh luận để giữ rõ phương pháp Fama-French lấy mẫu lại chưa đủ theo cách nguồn mô tả, thay vì chỉ suy diễn thiếu khả năng phát hiện. Giữ sự chưa chắc chắn về kết quả dài hạn tại Trung Quốc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-23",
+  "source_sha256": "2b6768bc6f43512f4c6b0bb1fc372fdfb3aece75860a3093d635772f92169e87",
+  "draft_sha256": "33ec271de55adb09c6f340a80ed3664ea76e34829da91d1f160f4a5b5d3c7902",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu các mức xử phạt khác nhau tại điều bảy mươi tám, bảy mươi chín và tám mươi bảy, giữ lựa chọn hoặc/có thể phạt thêm. Giữ biết rõ mắc bệnh là điều kiện của tội truyền bệnh lây qua tình dục; phân biệt tạm giữ hành chính với hình phạt hình sự. Giữ mốc bãi bỏ tội danh cũ năm 2015, dẫn mục 18, bao cao su và thuốc trong 72 giờ, không để biển hiệu dịch vụ làm thay đổi bản chất hành vi."
+}

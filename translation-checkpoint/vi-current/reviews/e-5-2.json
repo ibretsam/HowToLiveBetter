@@ -1,0 +1,15 @@
+{
+  "id": "e-5-2",
+  "source_sha256": "b1ce3dcf506981f2960593877ac70b06698e965d8e1197246527bccebabad81d",
+  "draft_sha256": "32ad4b83902bea4d44f6349c62fd121678184a4c4f5b5a34eecec4b4ace31714",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu bốn nhóm thu nhập, bảy khoản giảm trừ, thời hạn31/12/2027 và điều kiện không khai đồng thời vay nhà/thuê nhà. Giữ khác biệt nguồn plain dưới12vạn/dưới400 trong khi benefit không quá12vạn/400; không tự thay phạm vi. Giữ3岁以下 bao gồm ngưỡng theo chữ nguồn và nghĩa khai quyết toán trên ứng dụng Trung Quốc."
+}

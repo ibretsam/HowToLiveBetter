@@ -1,0 +1,15 @@
+{
+  "id": "e-9-9",
+  "source_sha256": "3992894736a09e083711635ca05a2d92e451c911e8bbd05e1438b9d21ae5641d",
+  "draft_sha256": "c765e9206b0c5b7f6c02082dc9288943052deb39e1bd5b2381023a8f7e37e502",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ điều kiện có nguy cơ dù chưa trúng người, lựa chọn phạt tiền hoặc tạm giữ, mức phạt bổ sung và hai vụ án. Giữ thương tích nặng cấp hai, tử hình đã được phê chuẩn và ghi chú chưa mở được điều dân sự gốc."
+}

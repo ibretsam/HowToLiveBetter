@@ -1,0 +1,15 @@
+{
+  "id": "e-9-13",
+  "source_sha256": "3e015e4b243c91160fffcceba7c04b93c650c81e5601f799e0227cd2acc620e1",
+  "draft_sha256": "e61003932ad4e205855b33364f8211c02b176ab41bf8bb904ed20826124351f7",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mục đích kiếm tiền, mức tiền cược do địa phương quy định, các mức phạt cộng tiền và phân biệt tụ tập đánh bạc với mở sòng. Giữ nguồn chưa kiểm chứng nguyên văn giải thích tư pháp, chưa có vụ án chính thức; không thêm một ngưỡng cược toàn quốc."
+}

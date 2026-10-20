@@ -1,0 +1,15 @@
+{
+  "id": "e-5-34",
+  "source_sha256": "d4686e6610ca059c42cb96d304f6a35cab508ed4a02c327f99645e01e039595f",
+  "draft_sha256": "13d57ed69075ec829cc265912a21535039dafb2143d37edd949355d309e2bad6",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu CMAgồm hình+số, tư cách/ trạngtháichứngnhận, phạt3vạn cốđịnh so vớikhôngquá3vạn. Giữ phân biệt quartzite nhuộm/phỉthúyxửlý/tựnhiên/tổnghợp và mọi cỡ mẫu469/210/259/181. Đầy đủ dấu hiệu quảng bá gian dối và tham chiếu."
+}

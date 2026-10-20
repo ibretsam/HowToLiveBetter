@@ -1,0 +1,15 @@
+{
+  "id": "e-19-10",
+  "source_sha256": "240d62a37a4d433352f2d491ce9a60d6e1b6cc68d187d5a351f2751f9310f3a5",
+  "draft_sha256": "11960e27a93d094260d2bc5a04fe7deb195cadc18403cf227cccf0b62c95f27c",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ danh mục 12 nhóm/135 bệnh/4 điều khoản mở, ngày hiệu lực và các loại bệnh, tổn thương vĩnh viễn được nguồn nêu. Giữ bốn quyền và hậu quả vô hiệu khi đơn vị trả đũa; giữ phạm vi riêng của hội chứng ống cổ tay và PTSD trong danh mục. Giữ nhận định khẩu trang là kinh nghiệm tác giả, không đổi thành kết quả nghiên cứu. Tham chiếu19-9,13-21,29-14 đúng."
+}

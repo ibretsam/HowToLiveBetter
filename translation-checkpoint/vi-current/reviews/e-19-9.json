@@ -1,0 +1,15 @@
+{
+  "id": "e-19-9",
+  "source_sha256": "6033a1ace9c3dce51a59bd0d320bf939f5f36308d631753984597a12f704f622",
+  "draft_sha256": "142e6fa441d5c05c7efe762bda9933ec20442d3077d297a96f68beb001d18ae0",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ bốn nội dung phải thông báo, thay đổi công việc sau ký, quyền từ chối và cấm chấm dứt vì từ chối. Nguồn gọi khám trước/trong/sau vị trí là tổng cộng ba lần; giữ nguyên cách gọi, không tự sửa thành tần suất khám định kỳ. Giữ chống chỉ định nghề nghiệp, điều chuyển người có tổn hại sức khỏe, bản sao miễn phí có ký đóng dấu và điều kiện khám trước khi nghỉ. Tham chiếu từ19-11 đúng."
+}

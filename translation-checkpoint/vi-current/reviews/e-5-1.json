@@ -1,0 +1,15 @@
+{
+  "id": "e-5-1",
+  "source_sha256": "2da1293e20e59aa3dde39bd9535748483c51e0c825d702e606d8a2d3904c28db",
+  "draft_sha256": "de2b9fc10d62af3c2b1229ebbb36f43b94d3c7051a03e58aaf4a6cdd8b15414d",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ thao tác Alipay/WeChat/Apple/Android,10–20phút và thời gian dưới20phút; giữ nghĩa nhắc rõ trước gia hạn, hủy đơn giản bất kỳ lúc nào không mất phí. Giữ ngoại lệ nguồn ở notes rằng dịch vụ thường dùng, trả năm có thể đáng giữ gia hạn tự động dù tiêu đề nói tắt tất cả; tham chiếu26-13 đúng."
+}

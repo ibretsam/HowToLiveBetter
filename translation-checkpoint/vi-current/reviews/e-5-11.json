@@ -1,0 +1,15 @@
+{
+  "id": "e-5-11",
+  "source_sha256": "00cfcde887db8e7cc69db86faa579995a16484fdb34035f91e5d4228bb4207a3",
+  "draft_sha256": "292a8b1a2ff472a0733f7e201fdf6a2443058a4b5977b59a2d3911a911416786",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ phí bảo hành mở rộng, biên lợi nhuận 50–60%, các số liệu Mỹ và ví dụ hòa vốn 25/300; giữ phạm vi bảo hành toàn máy 1 năm, linh kiện chính 3 năm và ngoại lệ gói rẻ trong ghi chú dù tiêu đề khuyên từ chối chung."
+}

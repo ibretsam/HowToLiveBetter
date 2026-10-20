@@ -1,0 +1,15 @@
+{
+  "id": "e-19-18",
+  "source_sha256": "342def663ca19e8c1f169446624b28de10d0db8b99e1eebf0cb6001ab7b32d9d",
+  "draft_sha256": "6faa38a0affead30ad9be3dd6072c0457c71838cd63c45e832ab1af934029968",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ mức miễn thuế theo lương bình quân năm, khác lương tháng dùng tính N; phần vượt tính riêng. Giữ ví dụ10/30/36/6vạn và3480/58080, thuế3/10/45%, ngưỡng36000/144000, ngày1/1/2019 và31/12/2027 chỉ thuộc mục thưởng. Không tự kết luận tiền báo trước hoặc bồi thường trái luật được miễn; giữ yêu cầu hỏi thuế địa phương, ngoại lệ nghỉ hưu sớm/nội bộ. Các tham chiếu19-4/5/6 đúng."
+}

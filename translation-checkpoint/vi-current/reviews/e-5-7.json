@@ -1,0 +1,15 @@
+{
+  "id": "e-5-7",
+  "source_sha256": "df14367190b1dc1c244d6a528e46b0374041ccc7706f18466983ef3ba6c916b9",
+  "draft_sha256": "fa41f5fbe930d7f905d29b704ed8948d8f36a26b8a9c919b941baf7be3ee2e2a",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ tính lãi đơn/lãi kép,0.7trần,18.25%, ví dụ10vạn/12tháng/0.5%/1000,12.80/13.58 và phép0.5×12+1=7; ví dụ0.6/7.2/13.8, hệ số1.8–2. Giữ ngày chốt sao kê theo nguồn, nguồn ghi trước2020 và từ2021, không tự sửa. Đủ phạm vi LPR4lần và loại trừ tổ chức tài chính có phép/bảy nhóm địa phương, tính gốc thực nhận, dẫn chiếu7-15/23 và5-49."
+}

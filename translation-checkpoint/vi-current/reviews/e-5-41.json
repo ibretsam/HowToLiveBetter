@@ -1,0 +1,15 @@
+{
+  "id": "e-5-41",
+  "source_sha256": "5c16b4a82f442606b0fa322b4b32897a263a5bfb771715e5284f0c532c948936",
+  "draft_sha256": "9dbf49a2f4aac6c282e7ed33be8663436d46bd99a294b1f655b4d7dbee1c307c",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ thời gian cân nhắc, ký nhận bằng văn bản, ngày lịch, phí tối đa10 và hoàn giá trị tiền mặt trong30ngày. Nguồn dùng 一年以上 ở title/plain/notes và cuối benefit, nhưng 超过一年 ở đầu benefit: giữ ≥ và > riêng. Translator đã sửa title/plain/notes; reviewer sửa câu cuối benefit từ trên một năm thành từ một năm trở lên. Mâu thuẫn trong notes về hợp đồng đúng một năm được giữ theo nguồn, không hiệu đính pháp luật."
+}

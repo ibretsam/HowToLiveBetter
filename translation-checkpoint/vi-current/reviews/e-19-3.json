@@ -1,0 +1,15 @@
+{
+  "id": "e-19-3",
+  "source_sha256": "c51b0ebeb3c450c3ea4269eb697b46fc5b4600e405b76344758e15a9f0b0f181",
+  "draft_sha256": "ad392ffe8d0bf4e9c02a318ed5779a76dd3f7793de19f4329513ae9e1b5ece2e",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ từng trường. Giữ riêng các mốc đủ/chưa đủ năm trong benefit, hợp đồng hoàn thành công việc và dưới ba tháng, chỉ thử việc một lần và bồi thường thời gian vượt giới hạn. Plain của nguồn tóm tắt khoảng năm có đầu mút chồng nhau; giữ khác biệt này, benefit mới nêu ngưỡng đầy đủ. Giữ nguyên cách nguồn diễn đạt mức lương thấp nhất cùng vị trí hoặc 80% lương hợp đồng; không tự diễn giải lại pháp luật. Tham chiếu 12-16 và 19-6 đúng."
+}

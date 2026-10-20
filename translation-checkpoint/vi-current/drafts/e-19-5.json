@@ -1,0 +1,11 @@
+{
+  "id":"e-19-5","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"cec48ceb97d0c003f0748da5bba74efbe2eaa613c8a9ff184294110d9cbdf1a4","translator":"pilot_employment_batch4",
+  "translation":{
+    "title":"Công ty cho bạn nghỉ vì sau ốm không làm được việc, không đáp ứng công việc hoặc hoàn cảnh thay đổi lớn: nếu không báo trước 30 ngày thì phải trả thêm một tháng lương",
+    "cost":"Không tốn tiền.",
+    "plain":"Công ty cho bạn nghỉ vì sau ốm không làm được việc, không đáp ứng công việc hoặc hoàn cảnh thay đổi lớn thì phải báo trước bằng văn bản 30 ngày. Không báo thì ngoài N phải trả thêm một tháng lương, thường gọi là N+1. Khi thương lượng, liệt kê riêng tháng lương này, đừng để công ty tính gộp vào N.",
+    "benefit":"Luật Hợp đồng lao động quy định đơn vị sử dụng lao động chấm dứt hợp đồng theo điều này có hai cách. Một là “thông báo bằng văn bản cho chính người lao động trước ba mươi ngày”. Hai là “có thể chấm dứt hợp đồng lao động sau khi trả thêm một tháng lương cho người lao động”. Muốn bạn nghỉ ngay thì phải trả thêm một tháng lương. Tháng lương thêm này thường gọi là tiền thay cho báo trước, được tính riêng ngoài N. Tháng này tính theo lương tháng liền trước của bạn; N tính theo lương bình quân 12 tháng trước khi nghỉ, cơ sở tính hai khoản khác nhau",
+    "notes":"Tháng lương này chỉ áp dụng trong ba trường hợp ở Điều bốn mươi Luật Hợp đồng lao động. Người bị bệnh hoặc bị thương không do công việc, sau khi hết thời gian điều trị vẫn không làm được công việc cũ lẫn công việc được bố trí khác. Người không đáp ứng công việc, sau đào tạo hoặc chuyển vị trí vẫn không làm được. Hoàn cảnh khách quan khi giao kết hợp đồng thay đổi lớn và hai bên không thỏa thuận được. Những trường hợp khác đều không có tháng lương này. Cắt giảm nhân sự vì lý do kinh tế (Điều bốn mươi mốt) chỉ yêu cầu công ty giải thích tình hình cho công đoàn hoặc toàn thể người lao động trước 30 ngày. Công ty đề xuất và hai bên thỏa thuận chấm dứt thì trả N. Bạn bị cho nghỉ vì lỗi như vi phạm kỷ luật nghiêm trọng thì không có khoản bù đắp. Công ty chấm dứt trái pháp luật thì trả 2N. Thuộc ba trường hợp Điều bốn mươi thì khi thương lượng phải tính N và 1 riêng, đừng để công ty gộp tháng lương thêm vào N",
+    "extra":""
+  }
+}

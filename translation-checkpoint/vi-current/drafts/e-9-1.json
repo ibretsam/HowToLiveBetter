@@ -1,0 +1,14 @@
+{
+  "id": "e-9-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d469e306a5adbd2b264911271af08660e7edf0d39bdcab93c77f2f189e6e67cb",
+  "translator": "pilot_emergency_batch4",
+  "translation": {
+    "title": "Không chuyển tiếp trong nhóm tin chưa rõ thật giả về thiên tai, dịch bệnh hoặc tình hình an ninh; không sửa ảnh, không dùng AI tạo ảnh hiện trường giả",
+    "cost": "Không tốn tiền. Trước khi chuyển tiếp, hãy xem đó có phải thông báo chính thức không. Không chắc thì không chuyển, cũng không sửa ảnh hay thêm chữ “nghe nói”. Khó ở chỗ phải nén ý muốn làm người báo tin đầu tiên.",
+    "plain": "Một tin về thiên tai, dịch bệnh hoặc tình hình an ninh mà bạn biết rõ là giả vẫn chuyển đi thì bị phạt nặng như tự bịa. Không phải bạn bịa cũng vậy: tạm giữ hành chính từ 5 đến 10 ngày, còn có thể phạt thêm không quá 1000 nhân dân tệ. Gây rối loạn trật tự xã hội nghiêm trọng thì bị phạt tù không quá 3 năm; gây hậu quả nghiêm trọng thì từ 3 đến 7 năm. Ảnh hiện trường giả do chỉnh sửa hay dùng AI tạo đều tính là tự bịa.",
+    "benefit": "Cố ý tung tin đồn, báo giả tình huống nguy hiểm, dịch bệnh, thiên tai hoặc tình hình an ninh, gây rối trật tự công cộng thì bị tạm giữ hành chính từ 5 đến 10 ngày. Còn có thể phạt thêm không quá 1000 nhân dân tệ. Mức có tình tiết nhẹ hơn là tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Bịa tin giả về tình huống nguy hiểm, dịch bệnh, thiên tai hoặc tình hình an ninh rồi phát tán trên mạng thì bị phạt tù không quá 3 năm. Biết rõ là giả mà vẫn cố ý truyền đi cũng thuộc mức này. Điều kiện là gây rối loạn trật tự xã hội ở mức nghiêm trọng; cách nói trong điều luật là “gây rối loạn nghiêm trọng trật tự xã hội”. Gây hậu quả nghiêm trọng thì bị phạt tù từ 3 đến 7 năm (toàn Trung Quốc).",
+    "notes": "Biết rõ là giả mà vẫn chuyển tiếp và tự bịa đều bị công an xử lý theo cùng một điều khoản. “Tôi chỉ chuyển tiếp thôi” không miễn trách nhiệm. Ảnh hiện trường giả do chỉnh sửa hoặc AI tạo cũng tính là tự bịa. Năm 2025, Bộ Công an đã công bố nhiều đợt vụ việc điển hình về tin đồn trên mạng liên quan thiên tai, tình huống nguy hiểm. Khi viết chương này, trang của Bộ Công an không mở được nên không dẫn vụ cụ thể.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-21",
+  "source_sha256": "57c76384d0486e82483f7f42f53e8378e3fd0612c2e8561af967928dbf4f16a8",
+  "draft_sha256": "fb23143eeff2a6c1295e754e22d79ee8c02ad5077368c0fe710f9b9e08bebd72",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ năm hành vi lừa bảo hiểm, ba mức hình phạt và tiền phạt, trách nhiệm người cấp chứng nhận giả có chủ ý và thợ sửa xe đã bàn bạc cùng phạm tội. Giữ quyền chấm dứt không hoàn phí, từ chối phần khai tăng và hoàn tiền đã trả. Giữ khoảng án 4 năm đến 2 năm theo thứ tự giảm dần của nguồn, đủ vụ kiện giả và ngày hủy án 26/9/2019, cơ chế chống gian lận cùng dẫn chiếu nhiều tội và bảo hiểm y tế."
+}

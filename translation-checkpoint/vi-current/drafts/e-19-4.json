@@ -1,0 +1,11 @@
+{
+  "id":"e-19-4","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"bf88368d6dc4e765b6bf97a014055e3b2b9c8ae0a3de949a36f8b9d16dc5e3ac","translator":"pilot_employment_batch4",
+  "translation":{
+    "title":"Bị cắt giảm nhân sự thì tính rõ N trước: mỗi năm đủ được một tháng lương, chưa đủ sáu tháng tính nửa tháng",
+    "cost":"Không tốn tiền. Dùng máy tính tính một lần, mất mười phút.",
+    "plain":"Khoản bù đắp kinh tế công ty phải trả khi cắt giảm nhân sự tính như sau: làm đủ một năm được một tháng lương, đủ nửa năm nhưng chưa đủ một năm tính là một năm, chưa đủ nửa năm được nửa tháng lương. Lương tháng ở đây là trung bình của 12 tháng trước khi nghỉ; phải tính cả tiền thưởng, phụ cấp và trợ cấp. Nếu lương cao hơn 3 lần lương tháng bình quân địa phương của năm trước thì lấy mức trần 3 lần, số năm tối đa được tính là 12 năm.",
+    "benefit":"Khoản bù đắp kinh tế theo Luật Hợp đồng lao động là khoản đơn vị phải trả khi cắt giảm nhân sự, thường được gọi là N. Cách tính: “Mỗi năm đủ trả một tháng lương… từ đủ sáu tháng đến chưa đủ một năm tính là một năm; chưa đủ sáu tháng thì trả nửa tháng lương cho người lao động”. Nếu lương tháng cao hơn ba lần lương tháng bình quân của người lao động tại địa phương trong năm trước thì tính theo mức trần ba lần, đồng thời thâm niên chỉ tính tối đa mười hai năm",
+    "notes":"Lương tháng là mức bình quân của mười hai tháng trước khi chấm dứt hợp đồng lao động. Phải tính cả tiền thưởng, phụ cấp và trợ cấp, không chỉ lương cơ bản. Đây là chỗ công ty dễ tính thấp đi nhất. Khoản tiền này có phải đóng thuế thu nhập cá nhân không, xem mục 18 chương này (thuế thu nhập cá nhân đối với khoản bù đắp)",
+    "extra":""
+  }
+}

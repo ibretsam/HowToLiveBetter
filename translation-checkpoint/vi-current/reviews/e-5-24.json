@@ -1,0 +1,15 @@
+{
+  "id": "e-5-24",
+  "source_sha256": "ff7de1fa694ed490e4d50a56b352f6ff315b6633f87c52b5fc892252c6cb1edd",
+  "draft_sha256": "52e7f617d82da8df85a8e24f79603768453d3ea9b7b94ffd363f9aa0a1729ad8",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ví dụ 999/499, hiệu ứng neo, giá giao dịch thấp nhất tại cùng cửa hàng trong bảy ngày trước khuyến mãi và mốc 2020. Giữ giới hạn kết luận từ phòng thí nghiệm, chưa định lượng tổn thất tích hàng, cùng ba điều kiện phải đồng thời đáp ứng trước khi tích trữ."
+}

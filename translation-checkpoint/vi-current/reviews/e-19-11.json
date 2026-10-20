@@ -1,0 +1,15 @@
+{
+  "id": "e-19-11",
+  "source_sha256": "0563d8665529a55113d7ce09c6b303b19a30185a747366aa8120c6752701a992",
+  "draft_sha256": "eea448be7186c38bc4322fd2d426b0b2d38d2c853d287baad7bfeb6d6cf5fc46",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ điều kiện do công việc/trách nhiệm chính không thuộc người lao động, 30ngày và một năm, năm nhóm thời gian không tính vào hạn, trách nhiệm chứng minh và hai đường khi không được thụ lý/không đồng ý kết luận. Giữ ba trường hợp loại trừ và yêu cầu đồng thời thời gian/vị trí làm việc trong trường hợp đột ngột phát bệnh, 48giờ. Plain nguồn dùng gia đình trong khi trích dẫn luật ghi thân nhân gần; giữ từng trường theo nguồn."
+}

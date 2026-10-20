@@ -1,0 +1,14 @@
+{
+  "id": "e-9-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "3e015e4b243c91160fffcceba7c04b93c650c81e5601f799e0227cd2acc620e1",
+  "translator": "pilot_emergency_batch4",
+  "translation": {
+    "title": "Có thể chơi mạt chược, bài; không thu tiền xâu, làm nhà cái, tổ chức cuộc chơi để thu tiền hay đánh bạc trên mạng",
+    "cost": "Không tốn tiền. Vui chơi với số tiền nhỏ giữa người thân, bạn bè vẫn chơi được. Không thu phần trăm từ cuộc chơi, không làm nhà cái, không tổ chức để thu tiền. Khó ở chỗ có người khởi xướng thì phải nhịn, không đứng ra tiếp quản.",
+    "plain": "Chơi bài với số tiền nhỏ giữa người thân, bạn bè thì pháp luật không can thiệp. Tạo điều kiện đánh bạc để kiếm tiền, hoặc tham gia đánh bạc với tiền cược tương đối lớn thì bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Tụ tập người đánh bạc để kiếm tiền hoặc sống bằng cờ bạc thì phạt tù không quá 3 năm; mở sòng bạc thì không quá 5 năm. Bao nhiêu là “tiền cược tương đối lớn” do từng địa phương quy định, không có con số thống nhất toàn quốc.",
+    "benefit": "Tạo điều kiện thuận lợi cho đánh bạc để kiếm tiền, hoặc tham gia đánh bạc với tiền cược tương đối lớn thì bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Tình tiết nghiêm trọng thì tạm giữ hành chính từ 10 đến 15 ngày và phạt từ 1000 đến 5000 nhân dân tệ. Tụ tập người đánh bạc để kiếm tiền hoặc sống bằng cờ bạc thì phạt tù không quá 3 năm và phạt tiền. Mở sòng bạc thì phạt tù không quá 5 năm và phạt tiền; tình tiết nghiêm trọng thì từ 5 đến 10 năm (toàn Trung Quốc).",
+    "notes": "Bao nhiêu là “tiền cược tương đối lớn” không có con số thống nhất toàn quốc mà do từng địa phương quy định, nên mục này chỉ xếp B. Thu tiền xâu từ cuộc chơi, nhận tiền cược thay nền tảng đánh bạc trên mạng thường được xác định là mở sòng bạc khi xử lý vụ án. Chương này chưa kiểm chứng nguyên văn giải thích tư pháp liên quan, cũng chưa tìm được vụ việc chính thức.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-22",
+  "source_sha256": "b511d2f944bd9acf7db2de5c784fafee73e7d507aefa77fe3db02c00564c668a",
+  "draft_sha256": "e0745047826f3563fa36f7f527a7d1ad876102c42450127d5255bb702682e927",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nghĩa vụ hợp đồng viết, thỏa thuận hoàn tiền, ngừng thu khi rủi ro kinh doanh nghiêm trọng và báo trước khi đóng/chuyển cửa hàng. Giữ hai lựa chọn tiếp tục thực hiện hoặc hoàn số dư, mức phạt 1–10 lần và không quá 50 vạn, cùng Điều hai mươi bảy về tiền đặt cọc và giới hạn bảo vệ sau khi bên kinh doanh bỏ trốn."
+}

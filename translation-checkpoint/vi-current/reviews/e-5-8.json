@@ -1,0 +1,15 @@
+{
+  "id": "e-5-8",
+  "source_sha256": "aa359cb400a7823a6a9b66893defdb1eebac87da5120b1df6c999ea6673eab9a",
+  "draft_sha256": "6736bf1582c8c643adcd65fac4d8d7133ea743d697c9efa1b9a33864fa31d7a5",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu3257.83trăm triệu doanh thu/6.74trăm triệu người/~480, ngoại lệ hoàn tiền người chưa thành niên chưa được giám hộ đồng ý và khung chơi20–21giờ một giờ vào ngày chỉ định. Giữ giới hạn bằng chứng ngànhgame, kinh nghiệm tắt thanh toán/hạn mức và tham chiếu9,10-22; không mở rộng quyền hoàn tiền người lớn."
+}

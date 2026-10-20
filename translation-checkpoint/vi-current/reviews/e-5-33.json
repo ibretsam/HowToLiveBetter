@@ -1,0 +1,15 @@
+{
+  "id": "e-5-33",
+  "source_sha256": "f21baa3bcc631574acb1f025301a8372e1a8f78663b7facbfab979ceb7d18d23",
+  "draft_sha256": "58ae83de144b7aa2e01cb00bbfd2f3ee98d41de0215cee5cb34cbf6f391b1bed",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu thuế20/5/10%, ngưỡng10000chưagồmVAT, phí42‰/4.2%/27‰/24‰, thời hạn6tháng và5ngày, đấu giá≥3vạn. Giữ phí chưa gồm lãi, năm50%làphéptínhthô và suy luận không hoàn thuế; không biến giá niêm yết thành giá giao dịch."
+}

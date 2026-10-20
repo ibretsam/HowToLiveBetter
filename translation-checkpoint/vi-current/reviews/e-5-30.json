@@ -1,0 +1,15 @@
+{
+  "id": "e-5-30",
+  "source_sha256": "1c929158426f783fd8d041e5fb246482894f78b9f594e66fc53d3d9fc1b08645",
+  "draft_sha256": "0543010727786147427765315d4a3425f44aa22ae0a843bccb0e822c91e38029",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nghĩa vụ nền tảng cung cấp thông tin đơn vị/người tiếp thị và hồ sơ kinh doanh khi tranh chấp, giữ chứng cứ trước mua. Giữ đủ ba hạn chế đối với ngoại lệ trả hàng: không tự mở rộng, không mặc định, phải được xác nhận."
+}

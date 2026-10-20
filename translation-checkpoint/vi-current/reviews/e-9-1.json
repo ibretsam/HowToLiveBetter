@@ -1,0 +1,15 @@
+{
+  "id": "e-9-1",
+  "source_sha256": "d469e306a5adbd2b264911271af08660e7edf0d39bdcab93c77f2f189e6e67cb",
+  "draft_sha256": "a51b91981fa7166526b63f52b5dd77d62154834eaa4b0c345254a1122bb434dd",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ: biết rõ là giả và cố ý truyền, gây rối trật tự công cộng so với nghiêm trọng gây rối trật tự xã hội, các mức hành chính/hình sự, ngưỡng phạt tiền và lý do không có vụ án cụ thể. Giữ ảnh AI/chỉnh sửa được nguồn coi là tự bịa; không mở rộng điều kiện pháp luật."
+}

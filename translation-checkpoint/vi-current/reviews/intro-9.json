@@ -1,0 +1,15 @@
+{
+  "id": "intro-9",
+  "source_sha256": "a9c56f00b522f6d84f1a2bd60218dc5201c6fd3adb8d7a6128f4d787e53a9341",
+  "draft_sha256": "5e52a1780977a0d68f93322b03a066c577ea2d0fc6af85f3fc617be8350ad1ca",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ mọi nhóm chủ đề và số mục, mốc luật2025/2026 và phiên bản tu chính án hình sự. Sửa cụm mục9 thành ném từ ban công/cửa sổ ra ngoài để rõ hướng hành động. Giữ tuyên bố mỗi mục có vụ chính thức của nguồn dù một số mục tự ghi chưa có, không tự sửa lời dẫn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-16",
+  "source_sha256": "3c3ae6d1ce138c3e8527f7b827d5c9e337ba6deb907e737355f47f3b841d549c",
+  "draft_sha256": "f1a2522b402b4dbb644ae61bf09ab0c831e3e4eba115ed467329e23ce75e5062",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngưỡng kinh nghiệm dưới nửa năm, tài sản bình quân 20 ngày dưới 50 vạn và khả năng chịu rủi ro. Giữ điều kiện tỷ lệ bảo đảm xuống dưới yêu cầu kèm không bổ sung được tiền dẫn đến đóng vị thế bắt buộc, cùng nguy cơ bỏ lỡ hồi phục; giữ mức bằng chứng đồng thuận và liên kết mục 7."
+}

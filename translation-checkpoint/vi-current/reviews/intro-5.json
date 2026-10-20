@@ -1,0 +1,15 @@
+{
+  "id": "intro-5",
+  "source_sha256": "ec66c3b3937869d79bea390aa3cf360073e64cc143aa86d65a69d3c07711b592",
+  "draft_sha256": "e38d1f7910548e23bca648879fb12c8d4c771d32900911301f691617424595f6",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ lời dẫn, đủ bảy nhóm và đủ 50 mục, mỗi số xuất hiện một lần. Sửa câu mục 7 từ ra năm trước thành quy đổi lãi suất về mức theo năm để tránh hiểu là năm trước; khôi phục rõ hợp đồng bằng văn bản ở mục 22, bảo hiểm trách nhiệm ở mục 26 và trang sức ở mục 34; làm rõ tra kết quả kiểm tra lấy mẫu. Giữ lời giới hạn chỉ tính tiền và dữ liệu lịch sử, không quy thành tuổi thọ/thời gian. Giữ nguyên khái quát nguồn về mua cổ phiếu Mỹ qua QDII hoặc kênh cổ phiếu Hồng Kông ở mục 38, không tự sửa phạm vi lời nguồn."
+}

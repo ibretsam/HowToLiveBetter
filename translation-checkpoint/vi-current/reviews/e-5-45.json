@@ -1,0 +1,15 @@
+{
+  "id": "e-5-45",
+  "source_sha256": "06254bc3cdda58341a53cbde379b6198a0b032c71a2553f4c7a6f3390f27e84d",
+  "draft_sha256": "53c0b188ecf58ba763f4795bc22597ea3563f9fbb0fb8a86f4bd9324f16299dd",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nguyên văn có điều kiện trái trật tự công cộng/đạo đức, không đổi thành cấm sở hữu tuyệt đối; giữ khác biệt giao dịch vô hiệu và bị trộm phải xử lý hình sự. Mọi số tiền thập phân, số token, năm2021 xuất hiện hai lần đã đủ. Giữ vụ quét mã là quan điểm bài Báo Tòa án Nhân dân, không biến thành phán quyết."
+}

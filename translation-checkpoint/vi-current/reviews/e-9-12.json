@@ -1,0 +1,15 @@
+{
+  "id": "e-9-12",
+  "source_sha256": "f3ed48a8809e472b197b02a9161a67e27e527720df76cae8e1c28e6c121b1287",
+  "draft_sha256": "eb8217c7ea04ec7e0d82d08c0e0f19ae459ccfa2cb81a9d739c521d751e422d6",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ quay chụp/nghe lén, hậu quả nghiêm trọng, hai án, ngoại lệ luật hoặc đồng ý rõ ràng và quy định về không gian/hoạt động riêng tư. Giữ ghi chú việc camera trong nhà mọi người biết là suy luận tác giả, không thay thành yêu cầu đồng ý mới."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-19",
+  "source_sha256": "b48b16e2d35b24268066e72f3348a92dfb22db926ff303ad8c1a230af5090008",
+  "draft_sha256": "9e0dc70d65cf62a3d4bd4da59cd67251ec947dc6d26469b2abe7e792781dbd8e",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ các mức tạm giữ/phạt hành chính và tù/giam giữ hình sự/quản chế, điều kiện tăng nặng, sáu khoản bồi thường và công thức khuyết tật. Giữ ngưỡng từ 60/từ 75 tuổi bao gồm mốc, 20/5 năm và các số liệu 2022, 7 vạn, 11.3 vạn, 10 tháng. Hai vụ có và không bồi thường vẫn là vụ minh họa; ghi chú vẫn nêu có thể giảm hoặc không truy tố, không đảm bảo đương nhiên được miễn."
+}

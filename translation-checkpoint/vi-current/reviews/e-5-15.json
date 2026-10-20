@@ -1,0 +1,15 @@
+{
+  "id": "e-5-15",
+  "source_sha256": "2f55276573fc38854767c16416484d666ff7738662c0b38cf5a7cbf4eab8ab92",
+  "draft_sha256": "e9bb90dd8923b3b1a919671c80280a59d07fd7fbb7286acd693ccb7f37cf05eb",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mẫu 66,465 tài khoản Mỹ và 4000 vạn tài khoản Trung Quốc, mọi mức lợi suất, khoảng thời gian, tỷ lệ nhóm tài sản và chuyển dịch tiền. Giữ phân biệt lợi suất trước/sau phí, so với giữ thụ động, và việc nhóm đối chứng chỉ còn chênh 1–3%; không biến kết quả thành khẳng định 90% nhà đầu tư nhỏ lẻ thua lỗ."
+}

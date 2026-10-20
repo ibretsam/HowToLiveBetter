@@ -1,0 +1,15 @@
+{
+  "id": "e-5-6",
+  "source_sha256": "769da708b34d5def37777a8143595726de4a08373b529cde283db74b8432d604",
+  "draft_sha256": "339e3ae7a3d41809cacef65d2ef93139c6658ed97fcac0bd857ead1626789b51",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu >6%,>8%,từ10%trở lên, cấm cam kết và ứng vốn chi trả, tổn thất huy động vốn trái phép người tham gia tự chịu. Notes giữ rõ đây là mốc kinh nghiệm phát biểu2018 chứ không điều luật, bối cảnh chống huy động trái phép và dẫn chiếu12-26."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-5",
+  "source_sha256": "0fb4fbfc0260e8b473ad9859aaee8b522a4347370b9ceba6a89884df292cfcd4",
+  "draft_sha256": "1d8e6c0f3dfb4e085b29cdd007ef90e7b4a846adcd33aeb145dbb0fc8a2b2135",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ điều kiện biết rõ nguồn tiền/tài sản và các ví dụ. Giữ không truy tố vẫn bị xử phạt hành chính; 案底 dùng hồ sơ vi phạm để phù hợp cả ví dụ không truy tố, không biến tất cả thành tiền án. Giữ tiền ảo, hoa hồng và tiêu chí đánh giá nhận thức. Tham chiếu8-8 và5-45 đúng."
+}

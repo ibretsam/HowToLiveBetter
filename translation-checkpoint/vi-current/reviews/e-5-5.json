@@ -1,0 +1,15 @@
+{
+  "id": "e-5-5",
+  "source_sha256": "e9bd2e52bdeeba35fbd549f50d8e839df25d0081fbf4d04e8162fb962ea1649f",
+  "draft_sha256": "512c45f64063eca0821adf798042ad4a91daa7d2567e8ba96484ca13671c4d68",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tỷ lệ thưởng tối thiểu50/65/73%, Song Sắc Cầu51%, ví dụ100/51/1/0.51/49%, số toàn quốc6234.86/1610.31trăm triệu. Giữ lập luận tác giả về kỳ vọng dài hạn và giới hạn coi2nhân dân tệ là giải trí, không đổi đơn vị lớn hay số tiền."
+}

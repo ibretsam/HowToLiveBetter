@@ -1,0 +1,15 @@
+{
+  "id": "e-9-18",
+  "source_sha256": "3d27661609e9e4ca8e390034d6a64de3a56d26da3a2220aebe9f9263eac91f0a",
+  "draft_sha256": "45ed459c792c5f6717e878cd22e637654c800a2127887d2cdb2c356fcbd430df",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngưỡng chưa đủ 14/chưa đủ 12, dải 12–14 và khung 3–10 năm; phân biệt dùng cưỡng ép với không dùng cưỡng ép, phải biết với biết rõ và ngoại lệ thực sự không biết bị áp dụng chặt. Giữ tiêu đề/phần nói dễ hiểu rộng hơn phạm vi bé gái trong điều luật, đồng thời giữ người thực hiện không phân biệt nam nữ. Giữ việc nguồn không truy cập được văn bản gốc và dẫn chương 30 mục 19."
+}

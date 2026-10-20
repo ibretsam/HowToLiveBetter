@@ -1,0 +1,14 @@
+{
+  "id": "e-9-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "0690affaaa2e87468eab4407a4bc1f846892bbc4954dc850bf69f06fb6099aea",
+  "translator": "pilot_emergency_batch4",
+  "translation": {
+    "title": "Nhặt được thẻ ngân hàng thì không rút tiền; nhặt điện thoại, ví thì liên hệ người mất hoặc giao công an, đừng bỏ túi mang đi",
+    "cost": "Không tốn tiền, chỉ mất vài phút. Gọi điện tìm người mất hoặc mang đồ đến đồn công an.",
+    "plain": "Nhặt đồ rồi giữ dùng riêng, giá trị đạt mức “tương đối lớn” mà không chịu giao trả thì bị phạt tù không quá 2 năm; số tiền rất lớn thì từ 2 đến 5 năm. Dùng thẻ ngân hàng nhặt được rút tiền ở ATM còn nặng hơn: tính là mạo danh dùng thẻ tín dụng của người khác, số tiền tương đối lớn thì phạt tù không quá 5 năm, còn phải phạt từ 2 vạn đến 20 vạn nhân dân tệ. Trường hợp rút tiền này công an trực tiếp lập án, không cần người mất tự đi kiện.",
+    "benefit": "Nhặt được đồ người khác đánh mất thì phải trả lại, kịp thời báo họ đến nhận hoặc giao công an và cơ quan tương tự. Giữ đồ người khác để quên để tự dùng, giá trị đạt mức “tương đối lớn” mà không chịu giao trả thì cấu thành tội chiếm giữ trái phép, bị phạt tù không quá 2 năm. Số tiền rất lớn thì phạt tù từ 2 đến 5 năm. Nhặt thẻ tín dụng của người khác rồi dùng tại ATM thuộc hành vi “mạo danh dùng thẻ tín dụng của người khác”. Theo giải thích năm 2004 của Ủy ban Thường vụ Đại hội Đại biểu Nhân dân Toàn quốc, “thẻ tín dụng” trong Bộ luật Hình sự là thẻ thanh toán điện tử do ngân hàng và tổ chức tài chính tương tự phát hành. Có toàn bộ hoặc một phần chức năng thanh toán mua hàng, vay tín dụng, chuyển khoản quyết toán, gửi rút tiền mặt là được tính. Vì vậy, thẻ ngân hàng thông thường có thể gửi rút tiền mặt cũng nằm trong đó. Đủ mức cấu thành tội phạm thì xử lý về tội lừa đảo thẻ tín dụng: số tiền tương đối lớn thì phạt tù không quá 5 năm và phạt từ 2 vạn đến 20 vạn nhân dân tệ. Số tiền rất lớn hoặc có tình tiết nghiêm trọng khác thì phạt tù từ 5 đến 10 năm và phạt từ 5 vạn đến 50 vạn nhân dân tệ (toàn Trung Quốc).",
+    "notes": "Tội chiếm giữ trái phép là loại “có tố cáo mới xử lý”: người mất phải tự kiện ra tòa, công an không chủ động xử lý. Nhưng dùng thẻ nhặt được rút tiền thì khác, không cần người mất đi kiện, công an trực tiếp lập án. “Số tiền tương đối lớn” cụ thể là bao nhiêu do giải thích tư pháp quy định; chương này chưa kiểm chứng. Sau khi đồ được giao cơ quan liên quan, người mất đến nhận phải thanh toán chi phí bảo quản (điều ba trăm mười bảy của Bộ luật Dân sự).",
+    "extra": ""
+  }
+}

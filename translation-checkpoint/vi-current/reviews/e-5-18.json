@@ -1,0 +1,15 @@
+{
+  "id": "e-5-18",
+  "source_sha256": "8c2b97cd780a47042645bb4999fc4172657acc1a95183c3809a6a72fc9fff1dd",
+  "draft_sha256": "b2ecb536115f5fac7e586d61789bfce3c1670e9221858dd394b1929d39d09c68",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tác động phí thêm 1 điểm phần trăm ở 20/30 năm, công thức và các trần phí cải cách từ ngày 7 tháng 7 năm 2023. Giữ giả định lợi suất trước phí bằng nhau, 136 công ty và yêu cầu tính cả phí mua/bán lẫn phí dịch vụ bán hàng của lớp C."
+}

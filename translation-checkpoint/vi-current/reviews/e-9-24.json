@@ -1,0 +1,15 @@
+{
+  "id": "e-9-24",
+  "source_sha256": "50977a8abd5f9f23d22f3764aff4158ce0bc426c6f4985558d452db44af41dab",
+  "draft_sha256": "5a3823ee9f0d1bb729352b8b621d3911c30b6afb0b6f28409a48b11e341d6eeb",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ trách nhiệm dân sự, điều kiện nhằm kiếm lời trong hình sự, tất cả ngưỡng đơn lẻ/hai ngưỡng đạt nửa/ngưỡng gấp 10 và ba vụ minh họa. Giữ Hán hóa là dịch sang tiếng Trung, khác biệt pháp luật Nhật Bản, đổi quyên góp lấy quyền lợi thành viên và vai trò người dịch chỉ làm chứng trong vụ nêu. Sửa từ chỉ người giúp sức thành tòng phạm cho 从犯, tránh thu hẹp vai trò pháp lý. Giữ mốc bãi bỏ các giải thích cũ và ngưỡng lượt nhấp tăng từ 5 lên 10 vạn."
+}

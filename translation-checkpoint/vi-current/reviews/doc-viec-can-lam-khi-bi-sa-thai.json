@@ -1,0 +1,15 @@
+{
+  "id": "doc-viec-can-lam-khi-bi-sa-thai",
+  "source_sha256": "a04095feb0161c44f75fa5afcb8a3d8c4beb2ee8c25e89efbd3fe72b41f287a5",
+  "draft_sha256": "2896a8a871e1b78ecb115ed2d60d5b75ba77188f0e4b32a67fd179d4e4bb9639",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ34việc trong5giai đoạn (6/6/7/8/7), mọi số liệu, URL mục lục và dẫn chiếu; đọc các mục nguồn chương7/8/11/29/5-27 và chương19 đã đọc đầy đủ. Sửa账号权限 thành tài khoản và quyền truy cập; 包工头 thành cai thầu; thống nhất经济补偿 là khoản bù đắp kinh tế với chương19, giữ赔偿金 là bồi thường do vi phạm. Giữ ba điều kiện N+1, không áp dụng cắt giảm kinh tế/thỏa thuận, và2N riêng. Không sửa các khái quát của nguồn checklist:1năm sau nghỉ cho trọng tài trong khi8-19 phân biệt thời hiệu nợ lương với quyền khác; chậm đăng ký1tháng nhận ít1tháng trong khi7-1 chỉ nói nhận muộn;3tháng chờ医保 là phần cố định trong khi7-9 còn gia hạn theo số năm gián đoạn. Checklist cũng lược điều kiện tài sản của低保 và điều kiện hết thời gian điều trị/công việc bố trí khác ở N+1; giữ đúng mức chi tiết nguồn và dẫn chiếu để đọc đầy đủ."
+}

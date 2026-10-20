@@ -1,0 +1,15 @@
+{
+  "id": "e-5-4",
+  "source_sha256": "f99fa244a624734926d9cb7e12fdfe758c2860dce728f7548d49b6cd8125b1cb",
+  "draft_sha256": "e889731e38678b0e8aa2c8abba09d986352bf35fbd5f35e2b2242bd828917a89",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu hạ gói/đổi gói với ba hành vi cấm liên quan chuyển mạng giữ số, xem dùng nửa năm, yêu cầu căn cứ văn bản và12300. Giữ đúng nguồn dẫn luật chuyển mạng cho tiêu đề nói hạ gói, không tự khẳng định quy định khác hoặc sửa căn cứ."
+}

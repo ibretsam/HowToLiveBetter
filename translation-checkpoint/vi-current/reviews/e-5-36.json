@@ -1,0 +1,15 @@
+{
+  "id": "e-5-36",
+  "source_sha256": "fc6d0573609f1c4df37778d64afaf9aa7401232d5031c9921953a4a3fcd760c4",
+  "draft_sha256": "c8099cc8d4fccbb338b039641cc0311d9ad47d195fbad9f49b998bd8522be240",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đónggóisẵn so vớibánrời, đúng phụgia/tênchung và5.0g/kgtheophosphate. Giữ nettrừlớpbăng, GB2760—2024, sựkiện3·15, ngàyhiệulực2025. Nguồn tự khẳng định vượtliều là vấnđềtiền và khôngsafety; giữ riêng các câu, không hiệuđính ykhoa."
+}

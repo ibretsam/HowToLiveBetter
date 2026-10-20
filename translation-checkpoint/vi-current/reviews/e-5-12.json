@@ -1,0 +1,15 @@
+{
+  "id": "e-5-12",
+  "source_sha256": "a10ca1b318ceb4245d9f8e53b2f358bcbf8a138176d900f13f39e852c0961376",
+  "draft_sha256": "820196bd513c69b83058fcaed929488aeb8b9ea3e17837faaab0ae4b957c0641",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ thuốc generic qua đánh giá tương đương, 11 đợt/490 thuốc và 1695 loại, dữ liệu 63 thuốc, các tỷ lệ kiểm soát đường huyết và điều kiện theo dõi/không tự ngừng thuốc. Sửa hai chỗ hemoglobin glycated thành hemoglobin glycat hóa. Giữ cách nguồn diễn giải khoảng 80–125% và phân biệt phản ánh cá nhân với bằng chứng."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-11",
+  "source_sha256": "8e659120de067d1961d048cf59f786f6b0d112c24b237f3aa68ca832f24ed386",
+  "draft_sha256": "e965b21d2d36db502586c65591546c56de7dbb18ec9df0a593a9f3efd2f852ec",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu các mức phạt tách biệt cho chưa đăng ký, bay vùng kiểm soát và bẻ khóa; giữ gần3000m, hơn20 lượt, tiền1.5vạn và án treo. Giữ điều kiện máy siêu nhỏ/nhẹ trong vùng thích hợp không cần phê duyệt, khối lượng không tải dưới0.25kg và hạn chế nguồn đăng lại."
+}

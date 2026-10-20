@@ -1,0 +1,15 @@
+{
+  "id": "e-5-31",
+  "source_sha256": "0f694c3bedd98dedcc7d65231cdf585d78939c321a04bc741636d0c2742d6a40",
+  "draft_sha256": "5681a486e63fb80c6182ef33a9fdf075efa4a3ee65d1b73c15fc9e5b3f59bf09",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu thứ tự bồi thường trước, mười lần giá/ba lần thiệt hại, ngoại lệ nhãn và ba điều kiện, người biết trước chỉ phạm vi tiêu dùng hợp lý. Sửa hiện trường giả thành tình huống giả để 假象 không bị thu hẹp vào hiện trường vật lý. Giữ nghi ngờ cưỡng đoạt/chuyển công an và giới hạn12315chỉhòagiải."
+}

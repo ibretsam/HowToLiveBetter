@@ -1,0 +1,15 @@
+{
+  "id": "e-5-44",
+  "source_sha256": "58dd072b0633d2409af536bc2291d7977aac3c78af4643b9be82fc516fd4ea0a",
+  "draft_sha256": "e2f71b24187650f8e6f83b1b816cb2b34fe7aa2cea3d443aa75d1063bdac3b1d",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu quyền chỉ định cần đồng ý, đủ ba trường hợp tiền thành di sản, giả định thứ tự chết trong cùng sự việc, trả thuế/nợ trước. Giữ điều kiện tên kèm quan hệ đã đổi, thông báo công ty và thời hiệu5/2năm từ biết hoặc phải biết; nhóm người hưởng lợi② đúng nguồn."
+}

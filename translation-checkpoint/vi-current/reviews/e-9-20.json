@@ -1,0 +1,15 @@
+{
+  "id": "e-9-20",
+  "source_sha256": "5f200c4c9f6a9c4802bd62ba923ef391551ee8d38a87918e7a79bbdeefbbedeb",
+  "draft_sha256": "abae23be291c74ce7ebb297dfed1934f8abcdceeb79e34553678b2d3fa291c22",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ ba trường hợp bán con ruột, mục đích thu lợi bất hợp pháp, ngoại lệ giao nuôi không vì lợi nhuận và các điều về bỏ rơi/đăng ký nhận nuôi. Giữ cơ quan cấp huyện trở lên, điều kiện tình tiết tồi tệ và thứ tự thủ tục. Giữ khác biệt nguồn giữa tiêu đề nói một con đường hợp pháp và phần lợi ích phân biệt giao nuôi dân gian không cấu thành mua bán người. Giữ khẳng định nguồn về sàng lọc ở 42 ngày dù chương 27 mục 16 chỉ nói một số nơi, cùng mọi dẫn chiếu."
+}

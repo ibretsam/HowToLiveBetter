@@ -1,0 +1,15 @@
+{
+  "id": "e-5-23",
+  "source_sha256": "51f7a7c364f63b0f0511b20b09b19e14a2b32006f3f1d8bb4ccdd8ebcdc9bcea",
+  "draft_sha256": "4b8707a33737f00292ad220585524fe11eebc776a613399d59629043f2bc62c0",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu thời gian cân nhắc 24 giờ, quyền trả hàng bảy ngày tính từ ngày nhận, đủ bốn nhóm ngoại lệ và mốc 2017. Giữ chi phí vận chuyển thường do người mua chịu, chưa có tỷ lệ tiết kiệm chung và thời gian cân nhắc chỉ là kinh nghiệm; không thêm điều kiện pháp lý ngoài nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-47",
+  "source_sha256": "495d3da31f1ef6e79c3bb8a75456ef5b0eaa78e1111e107389c6fe95ab1a0c87",
+  "draft_sha256": "aa6097101808bbd4684b59f098f9a93261cd52903a37cb611f2afad23fb709ef",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu hai thời hạn ba bảo đảm/bảo hành sửa chữa, mốc đến trước, ngày giao so hóa đơn,7ngày/60ngày/3000km và bốn điều kiện đổi trả. Giữ công thức, trần0.5%, thời gian sửa>5ngày và phản hồi10ngày làm việc. Đã phát hiện câu vay mua xe mục7 ngoài nguồn; translator xóa trước freeze, reviewer xác nhận đã bỏ. Reviewer sửa giờ vào/ra thành thời điểm vào/ra để giữ cả ngày và giờ theo 时间. Nguồn diễn giải sơ thẩm6tháng tối thiểu giữ nguyên."
+}

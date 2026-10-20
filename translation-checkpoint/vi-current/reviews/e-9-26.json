@@ -1,0 +1,15 @@
+{
+  "id": "e-9-26",
+  "source_sha256": "a03d76858ee4f562949b18464040600e4168aeedb144253ed51e38060feaa3f1",
+  "draft_sha256": "b932b590d6fd816fe4b439720ab887d7495337f7473837538c313b46f5e23668",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đọc đối chiếu đầy đủ sáu trường, nguồn trích và các mục dẫn chiếu 8-10, 8-11, 13-36. Giữ 5/10/15 ngày, 1000/500 nhân dân tệ, 3/4 năm, góc 60 độ và 150/220 milimét, năm 2007/2013/2026, vụ 9 người và trường hợp phòng vệ. Giữ cách nguồn ghi khoảng tù giảm dần một năm ba tháng đến sáu tháng. Bản gốc tiêu đề khuyên rộng không mang dụng cụ và chi phí nói để ở nhà, trong khi lợi ích cấm cả sở hữu một số thiết bị; bản dịch giữ cùng lưu ý chưa có nguyên văn xác định thống nhất cho dùi cui rút, bình xịt cay nồng độ thấp. Không biến trường hợp chích điện cụ thể thành kết luận đã xác minh cho mọi sản phẩm."
+}

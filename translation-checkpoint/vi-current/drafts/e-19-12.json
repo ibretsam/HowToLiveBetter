@@ -1,0 +1,11 @@
+{
+  "id":"e-19-12","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"1ad467e9dac496d31a2cc0a0d43c9f1599848ec21861e0eeabaeef8ab85e0a18","translator":"pilot_employment_batch4",
+  "translation":{
+    "title":"Đừng tin “cố tới chỗ làm là được tính tai nạn lao động”: đột ngột thấy không khỏe thì gọi 120 trước, đừng vội đến chấm công",
+    "cost":"Không tốn tiền.",
+    "plain":"Đột ngột thấy không khỏe mà cố chạy đến công ty không giúp bạn nhận thêm tiền. Muốn được coi như tai nạn lao động phải phát bệnh trong giờ làm việc và tại vị trí làm việc; phát bệnh trên đường khi chưa đến vị trí vốn không được tính. Cấp cứu quá 48 giờ thì lại cũng không được tính. Vài chục phút trì hoãn để đủ điều kiện đổi bằng chính cơ hội sống của mình.",
+    "benefit":"Được coi như tai nạn lao động đòi hỏi người đó đột ngột phát bệnh và tử vong “trong giờ làm việc và tại vị trí làm việc”, hoặc tử vong trong vòng 48 giờ dù được cấp cứu nhưng không qua khỏi. Trì hoãn khám chữa bệnh để gom đủ hai điều kiện này là đánh đổi cơ hội sống của chính mình, còn khoản bồi thường đổi lại chưa chắc nhận được",
+    "notes":"Hai điều kiện phải đồng thời thỏa mãn: trong giờ làm việc và tại vị trí làm việc. Phát bệnh trên đường khi chưa đến vị trí không áp dụng. Phát bệnh tại vị trí rồi được đưa về nhà hoặc đi viện, tử vong trong vòng 48 giờ dù cấp cứu không hiệu quả, vẫn có thể áp dụng. Xét người đó ở đâu lúc phát bệnh, không xét cuối cùng chết ở đâu. Video ngắn nói thành “cố đến công ty là có tiền”, ngược hẳn ý nghĩa. Điều có thể đổi kết cục là vài chục phút sau phát bệnh có đi viện không. Ngoài ra, 48 giờ là giới hạn cứng; cấp cứu quá 48 giờ thì lại không được tính.",
+    "extra":""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-9-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "08f91c403bd601917a8e28f848d3ba0b808833e3af601e1c57bd700183949945",
+  "translator": "pilot_emergency_batch4",
+  "translation": {
+    "title": "Đòi nợ không được giữ người, giam người, theo về nhà rồi lì ở đó không cho họ đi",
+    "cost": "Không tốn tiền. Đối phương nợ không trả thì kiện ra tòa. Cách viết giấy vay xem chương 8 mục 18 (giấy vay). Khó ở chỗ khi đối phương chây ì, phải nhịn không động tay và không theo về nhà họ.",
+    "plain": "Dù họ thực sự nợ tiền bạn, cũng không được giữ hay giam người: điều luật viết riêng rằng làm vậy để đòi nợ vẫn xử lý về giam giữ trái pháp luật. Chưa đủ mức kết án thì bị tạm giữ hành chính từ 10 đến 15 ngày và phạt từ 1000 đến 2000 nhân dân tệ. Cấu thành tội giam giữ trái pháp luật thì phạt tù không quá 3 năm; gây thương tích nặng thì từ 3 đến 10 năm, làm chết người thì từ 10 năm trở lên. Đòi nợ thì kiện ra tòa.",
+    "benefit": "Hạn chế trái phép tự do thân thể của người khác, tự ý xông vào nhà người khác hoặc khám người trái phép thì bị tạm giữ hành chính từ 10 đến 15 ngày và phạt từ 1000 đến 2000 nhân dân tệ. Tình tiết nhẹ hơn thì tạm giữ hành chính từ 5 đến 10 ngày và phạt không quá 1000 nhân dân tệ. Giam giữ trái pháp luật bị phạt tù có thời hạn không quá 3 năm, giam giữ hình sự ngắn hạn, quản chế (không giam nhưng hạn chế hoạt động) hoặc tước quyền chính trị. Gây thương tích nặng thì phạt tù từ 3 đến 10 năm; làm chết người thì từ 10 năm trở lên. Giữ, giam người để đòi nợ bị xử phạt theo cùng các quy định này, khoản nợ có thật cũng vậy (toàn Trung Quốc).",
+    "notes": "Câu “họ thực sự nợ tiền tôi” không có tác dụng trong điều này. Luật viết riêng rằng giữ, giam người để đòi nợ cũng xử lý về giam giữ trái pháp luật. Trang Tòa án Trung Quốc có nhiều vụ giam người để đòi khoản nợ hợp pháp, bị phạt tù từ 7 tháng đến 1 năm. Khi viết chương này không mở được trang đó nên không trích dẫn.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-48",
+  "source_sha256": "31c526cead65eb6f203d86d590729829d32561733b3be002feac3c53f6ab963e",
+  "draft_sha256": "169809c79ac76fa3fc96ef205f078f0386f398f722454bb07332b2f2c15adc3d",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mua từ người kinh doanh khác cá nhân, ba lần chỉ khi chứng minh gian dối cố ý, hai chuỗi vụ án trái kết quả và tiền hoàn/cộng lãi. Giữ thời hạn hủy1năm từ biết và tối đa5năm từ giao dịch, không tự thêm bảo đảm chắc thắng. Đủ các cam kết tai nạn/ngập/cháy và tham chiếu47/7."
+}

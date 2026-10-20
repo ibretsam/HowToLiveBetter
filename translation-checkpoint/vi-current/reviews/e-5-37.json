@@ -1,0 +1,15 @@
+{
+  "id": "e-5-37",
+  "source_sha256": "2eb2d45c42ebaae73e7e280e02b28ddd3ce6d67f469a5690635fa4b3d748b6a4",
+  "draft_sha256": "4452724d6c80aaef8aa0a0c01cc4017618d8b5f9b3add0714b1c5493d6556398",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu PGR/PLR, mọi tỷlệ/tvalue, điểm phầntrăm3.4so với4.4%, phạmvi1987–1993/Mỹ. Giữ phần4.4%gồm lợiíchthuếMỹkhôngápTrungQuốc, quy tắc trước và kinhnghiệmítgiaodịch chưađượcđo."
+}

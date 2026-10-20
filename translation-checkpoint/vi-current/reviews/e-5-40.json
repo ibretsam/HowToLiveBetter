@@ -1,0 +1,15 @@
+{
+  "id": "e-5-40",
+  "source_sha256": "81b3c88a8119c1d4ca485c5079d054ab2033fd9b9c654b8c7688b0e88e96bf65",
+  "draft_sha256": "5359ecfb492325f1c442968261a52a467a36c9dad384a1b6556faafda0585452",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nhânthọcókỳhạn/trọnđời/tainạnkhôngthaythế, chínhngườiđượcbảohiểmđồngývàchấpthuậnmứcbảohiểm. Ngoạilệchamẹtrẻvịthànhniênvẫnchịutrầnchi trả, côngthứctácgiảkhôngphảichuẩnchínhthức. Giữngườihưởnglợinhóm②vàướctínhphí."
+}

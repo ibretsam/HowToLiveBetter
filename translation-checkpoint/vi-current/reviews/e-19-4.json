@@ -1,0 +1,15 @@
+{
+  "id": "e-19-4",
+  "source_sha256": "bf88368d6dc4e765b6bf97a014055e3b2b9c8ae0a3de949a36f8b9d16dc5e3ac",
+  "draft_sha256": "40b37d689948e0328260acacd06dbdf8afb38578bac269324f764083e20f2ea5",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ N, nửa năm, nửa tháng, mười hai tháng bình quân gồm thưởng/phụ cấp/trợ cấp. Trần ba lần và mười hai năm chỉ gắn với trường hợp lương cao hơn mức nêu trong nguồn. Thuật ngữ bù đắp kinh tế được giải thích tại chỗ và phân biệt với bồi thường do vi phạm. Tham chiếu 19-18 đúng."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-27",
+  "source_sha256": "25868c7ee1c452866d12754e662fd68a5650feb41ec718c21ad216d6cac36597",
+  "draft_sha256": "77606916326dbf6b1c9ff1a8ffdfa5047538e98ca9854d370a0a3766fbcb1dfe",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đọc toàn bộ nguồn và bản dịch, kiểm tra dẫn chiếu mục 9-14. Đã yêu cầu người dịch sửa 逆变器 từ bộ biến tần thành bộ nghịch lưu rồi xác nhận bản sửa. Giữ ngưỡng 500/50 kilôgam, 1 vạn/1000 nhân dân tệ và các nhánh mùa cấm/vùng cấm/phương pháp; không bỏ khả năng không truy tố khi nguy hại rõ ràng nhẹ. Giữ phạt 20/200/10/5 vạn, Trường Giang 1–5/5–50 vạn, các mốc 2021/2026, 60 lần/900 cân Trung Quốc/9000/2.5 và 2.25 vạn, 8 người/ba bốn chục lần/3 tháng/1 năm 1 tháng/10 vạn. Đơn vị cân Trung Quốc không đổi thành kilôgam. Giữ điều kiện câu giải trí và các hạn chế địa phương, không suy rộng ngưỡng nội địa sang biển."
+}

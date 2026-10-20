@@ -1,0 +1,15 @@
+{
+  "id": "intro-19",
+  "source_sha256": "efb603a7bee0da0f9b162ad2084f2e230457044e4943ad38c9ddb48c53ef9246",
+  "draft_sha256": "ec2bf33a4387ceebbd0a693ad2c7267738bec864ed771f65ab864cd2e1852b6b",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ tiêu đề, lời dẫn và ba nhóm điều hướng với đủ24mục; các mốc30ngày/120 giữ nguyên. Kiểm tra các mục đã có từ lô trước theo sourcepacket, không sửa bản đã rà soát. Giữ nhận định nguồn về quy mô tiền tai nạn lao động và tổn thương nghề nghiệp, không bổ sung số liệu."
+}

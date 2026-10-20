@@ -2,7 +2,7 @@
 
 **Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 20/10/2026](TRANSLATION-PLAN.md).
 
-**Đã hoàn tất đợt 3 ngày 20/10/2026:** thêm 48 mục, ba lời dẫn và bài hướng dẫn trước/sau sinh gồm 45 việc đã được dịch, rà soát song ngữ độc lập và kiểm tra: 9 mục mới, 32 mục cập nhật và 7 mục được kiểm tra lại. Tổng ba đợt có 147 mục, bảy lời dẫn và một bài hướng dẫn được rà soát theo nguồn đích. Trang dựng hiện có 232 mục khớp nguồn, 446 mục cần cập nhật và 87 mục chưa dịch. Các chương 13, 16, 18, 20, 27, 30 và 34 đã có đủ các mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
+**Đã hoàn tất đợt 4 ngày 20/10/2026:** thêm 95 mục, ba lời dẫn và bài hướng dẫn sau thôi việc gồm 34 việc đã được dịch, rà soát song ngữ độc lập và kiểm tra: 12 mục mới, 59 mục cập nhật và 24 mục được kiểm tra lại. Tổng bốn đợt có 242 mục, mười lời dẫn và hai bài hướng dẫn được rà soát theo nguồn đích. Trang dựng hiện có 303 mục khớp nguồn, 387 mục cần cập nhật và 75 mục chưa dịch. Các chương 5, 9, 13, 16, 18, 19, 20, 27, 30 và 34 đã có đủ các mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
 
 Các tệp Markdown cũ trong `vi/book/`, `vi/docs/` và `vi/README.md` vẫn là bản lưu theo nguồn 01/10 để kiểm tra hồi quy. Trang đọc áp dụng các bản cập nhật đã rà soát trong checkpoint lên dữ liệu hiển thị, với liên kết phiên bản nguồn riêng cho từng mục; không đổi mốc nguồn chung của phần chưa xử lý.
 
@@ -16,7 +16,7 @@ Trang đọc so sánh từng mục với phiên bản dùng để dịch:
 - **Bản dịch chưa cập nhật:** có bản dịch cũ, nhưng nguồn mới đã thay đổi. Trang ghi rõ bản dịch vẫn chưa hoàn tất theo nguồn mới và cho đối chiếu toàn bộ bản gốc mới.
 - **Chưa hoàn tất bản dịch:** nội dung mới chưa có bản dịch, hoặc chưa thể ghép bản dịch cũ với mục hiện tại một cách chắc chắn. Trang hiển thị đầy đủ tiếng Trung, không bỏ mục.
 
-Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn các chương 13, 16, 18, 20, 27, 30 và 34 cùng bài hướng dẫn trước/sau sinh đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
+Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn các chương 5, 9, 13, 16, 18, 19, 20, 27, 30 và 34 cùng bài hướng dẫn trước/sau sinh và sau thôi việc đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
 
 Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch](README.md) · [Xem bản gốc](../README.md).
 
@@ -39,6 +39,8 @@ Các tiêu đề, chi phí, phần “Nói dễ hiểu”, lợi ích và ghi ch
 Luật, thủ tục, trợ cấp, bảo hiểm y tế, bảo hiểm xã hội và số điện thoại trong sách thuộc **Trung Quốc đại lục**, trừ khi bản gốc ghi rõ quốc gia khác. Số tiền tính bằng **nhân dân tệ (CNY)**, trừ khi ghi rõ đơn vị khác. Bản dịch giữ bối cảnh và thời điểm của bản gốc; không thay chúng bằng quy định, đơn vị tiền hoặc số điện thoại của Việt Nam.
 
 Khi nguồn dùng đơn vị số lớn của Trung Quốc, bản dịch giữ nguyên con số để dễ đối chiếu: **vạn** (万) nghĩa là mười nghìn, 亿 được viết là **trăm triệu** và 万亿 là **nghìn tỷ**. Chẳng hạn “5 vạn nhân dân tệ” là năm mươi nghìn nhân dân tệ, “86.5 trăm triệu nhân dân tệ” là 8,65 tỷ nhân dân tệ.
+
+Với đơn vị tiền nhỏ, **hào** (角) bằng một phần mười nhân dân tệ; **phân** (分) bằng một phần trăm nhân dân tệ.
 
 Số thập phân giữ **dấu chấm** như bản gốc, không dùng dấu phẩy kiểu Việt Nam: “0.4 miligam” là không phẩy bốn miligam, không phải bốn trăm miligam. Ngưỡng “từ N trở lên” và “N trở xuống” bao gồm chính số N.
 

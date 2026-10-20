@@ -1,0 +1,15 @@
+{
+  "id": "e-9-4",
+  "source_sha256": "13d14b79639908927be0f95ba279ec27219c8957f550dedc7be2ad941837f5f8",
+  "draft_sha256": "be740c2208f769bffc763b861676761f0eb1f5fbb7572aa71230462fe6edd25e",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ việc xem riêng so với truyền bá, các mức hành chính và hình sự, kiếm tiền, liên quan người chưa thành niên, nhóm từ30người hoặc gây hậu quả nghiêm trọng. Giữ đánh giá gửi một lần là suy luận của tác giả và chưa kiểm chứng ngưỡng số lượng; không trình bày thành kết quả kiểm chứng mới."
+}

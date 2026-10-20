@@ -1,0 +1,15 @@
+{
+  "id": "e-9-17",
+  "source_sha256": "f46c7372fc5b58acf55fabe185546f95b2c50461d79b0a8e96b106547b4da897",
+  "draft_sha256": "65578ba1150f49e366c70ef97b02208136a26f410856c4c1b15a318538459cf6",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu điều kiện cảnh sát thi hành công vụ đúng luật, mức thương tích từ rất nhẹ trở lên, các kiểu chống cự thông thường bị loại và phương tiện nguy hiểm. Giữ tỷ lệ47.6%, các số vụ, điều kiện tội khác với nhân viên hỗ trợ, cùng hạn chế chưa có tình tiết vụ cá nhân."
+}

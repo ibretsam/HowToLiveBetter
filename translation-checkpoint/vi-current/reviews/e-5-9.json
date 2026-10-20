@@ -1,0 +1,15 @@
+{
+  "id": "e-5-9",
+  "source_sha256": "4778fa5c7cd126353db7c984c642bc5d8fd9fd5881230bf0f10b437b7c8b2e17",
+  "draft_sha256": "9e517f3747e818d241bb9d924582b6bc3a3ac9e65bc45cb51e6c5de9bca70582",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tuổi từ đủtám/chưađủtám, mức phù hợp tuổi/trí tuệ, đồng ý trước hoặc truy nhận sau, im lặng coi từ chối theo cách nguồn viết. Giữ yêu cầu chứng minh chính trẻ thao tác, đầy đủ loại bằng chứng/không ngưỡng tiền chung, việc đi nền tảng12315/kiện phí riêng và phòng ngừa."
+}

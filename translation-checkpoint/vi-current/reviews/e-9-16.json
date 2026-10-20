@@ -1,0 +1,15 @@
+{
+  "id": "e-9-16",
+  "source_sha256": "dcef28b05162f631567c019ceedc65be0471584b43b30f3871a1bcfc7e5f0b43",
+  "draft_sha256": "65defd2a305bd5c23a3947117e4e27f57f48680e4c41769546b573dd0f42b576",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu cho thuê/cho mượn/chuyển giao, mạo danh và giấy tờ giả, điều kiện hoạt động bắt buộc chứng minh danh tính và tình tiết nghiêm trọng. Giữ quyền chọn phạt hoặc tạm giữ, thời gian lưu nhật ký quán Internet ít nhất60ngày và toàn bộ tham chiếu."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-25",
+  "source_sha256": "c7189da7466fef309e91fb9d28669f01b4cfe8ded09565fa8249799ea956cba0",
+  "draft_sha256": "7fb04c902b007bb89318c76fc6de1413c929aab69bca495b78aa407ba79672e3",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu bảo hiểm thuần bảo vệ, nội dung cảnh báo chia lãi không bảo đảm, trần minh họa 4.5% trừ lãi suất định trước và mốc 2023. Giữ nguyên cách nguồn gộp phần hoàn tiền/chia lãi thành phần không được bảo đảm; không tự sửa khẳng định này. Giữ ngoại lệ người khó tiết kiệm, phạm vi người tự kiểm soát được và việc thiếu dữ liệu hệ thống cho so sánh đầu tư phần phí tiết kiệm."
+}

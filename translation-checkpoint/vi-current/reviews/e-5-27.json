@@ -1,0 +1,15 @@
+{
+  "id": "e-5-27",
+  "source_sha256": "57f3d6c349d18573d39005aacf950b2058034033c5992ffd9dbbbbe70c62729a",
+  "draft_sha256": "27db7efb4d803107a03b475ca8a2e3fa61379ba0cd84df8ab6c1d8f9aa3f4e3c",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu3–6tháng là kinh nghiệm chưa có nguồn chính thức, tính theo chi cố định không theo thu nhập. Giữ bảo hiểm tiền gửi50vạn/cùngngânhàng, các loại nơi gửi và chi phí cơ hội, tham chiếu mục7."
+}

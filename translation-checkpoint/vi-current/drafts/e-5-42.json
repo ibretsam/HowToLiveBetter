@@ -1,0 +1,14 @@
+{
+  "id": "e-5-42",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d51bf84cf84a50029ad3bf1b6420371fc61546a5eda09b7f2e202f16fd40a7e4",
+  "translator": "pilot_medicine_batch4",
+  "translation": {
+    "title": "Trước khi ký tại quầy ngân hàng, xem rõ giấy đang cầm là tiền gửi hay bảo hiểm",
+    "cost": "Không tốn tiền. Trước khi ký, dành thêm hai phút xem bìa hợp đồng.",
+    "plain": "Ngân hàng được bán hộ bảo hiểm nhưng không được gọi là tiền gửi. Bìa hợp đồng bảo hiểm phải in chữ lớn “Hợp đồng bảo hiểm” và tên công ty bảo hiểm, không được có chữ “tiền gửi”, “tiết kiệm”. Bìa mang tên công ty bảo hiểm thì đây không phải tiền gửi, hủy sau thời gian cân nhắc sẽ lỗ. Người từ 65 tuổi trở lên mua qua ngân hàng về nguyên tắc chỉ được mua loại quyền lợi xác định.",
+    "benefit": "Quy định nêu rõ ngân hàng không được đánh đồng bảo hiểm với tiền gửi tiết kiệm, quỹ, sản phẩm quản lý tài sản ngân hàng khi bán; không được so sánh đơn giản lợi nhuận bảo hiểm với tiền gửi, không được nói lợi nhuận chưa chắc chắn thành bảo đảm. Chứng từ, tài liệu quảng cáo bảo hiểm không được dùng tên, biểu trưng ngân hàng, không có các chữ “tiền gửi”, “tiết kiệm”, “cùng ngân hàng ra mắt”. Bìa đơn bảo hiểm phải in “Hợp đồng bảo hiểm” bằng cỡ chữ không nhỏ hơn 72, tên công ty bằng cỡ không nhỏ hơn cỡ hai theo hệ cỡ chữ Trung Quốc. Có ba nhóm người về nguyên tắc chỉ được bán sản phẩm có quyền lợi hợp đồng xác định: người mua trên 65 tuổi; người mua sản phẩm đóng định kỳ trên 60 tuổi; người khai thu nhập năm dưới thu nhập khả dụng bình quân đầu người của cư dân địa phương. Đơn của ba nhóm này còn phải chuyển công ty bảo hiểm thẩm định thủ công, không được phát hành tự động tại điểm giao dịch. Nhân viên công ty bảo hiểm không được bán bảo hiểm trong điểm giao dịch ngân hàng. Bảo hiểm có thời hạn từ một năm trở lên do ngân hàng bán có 15 ngày cân nhắc, qua đó hủy sẽ có tổn thất (toàn Trung Quốc, từ tháng 10 năm 2019).",
+    "notes": "Xếp B vì quy định rất rõ nhưng không có số chính thức về “người bị gây hiểu lầm mất bao nhiêu”. Người cao tuổi trong nhà dễ gặp khi đi gửi tiền; đi cùng thì giúp xem bìa. Đã ký thì hủy trong 15 ngày theo mục 41 của chương này (thời gian cân nhắc). Thấy bị gây hiểu lầm thì khiếu nại thế nào, xem mục 43 (dịch vụ đại diện hủy bảo hiểm). Người hưởng lợi là bạn và người cao tuổi trong nhà.",
+    "extra": ""
+  }
+}

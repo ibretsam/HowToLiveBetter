@@ -1,0 +1,15 @@
+{
+  "id": "e-5-43",
+  "source_sha256": "837b8731ceb44e18397be972d29eb373e53d66c7b2a1ab7fda85a0823b4b5858",
+  "draft_sha256": "9c6335bee0cd07c1185898b0faa34e8f2c3bc425421f8f92aea343b1d0138392",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu phí30–50%, rủi ro bị kiện giữa chừng, thông tin thu thập, bịa lý do khiếu nại và khả năng đồng phạm. Giữ bảo vệ chấm dứt khi hủy, tăng phí/từ chối khi mua lại, phương án giảm số tiền bảo hiểm và vay theo hợp đồng. Giữ đúng vụ ung thư3tháng sau hủy và các số đường dây như nguồn."
+}

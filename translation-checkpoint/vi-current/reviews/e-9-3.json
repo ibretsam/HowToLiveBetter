@@ -1,0 +1,15 @@
+{
+  "id": "e-9-3",
+  "source_sha256": "f6a9ba3b9308599c0af705eaa2e3f82b06fed2dedd5197e7d221f0251500a0bb",
+  "draft_sha256": "f73bfff89fc9d475152cd95b20407a449e299845ac8e4e73dcffa849e85a1b70",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ các hành vi, ngưỡng án và điều kiện cố ý sở hữu trái phép tài liệu khủng bố/cực đoan có tình tiết nghiêm trọng. Sửa cách gọi 第一百二十条之六 thành điều bổ sung thứ sáu sau Điều một trăm hai mươi, tránh nhầm với khoản sáu; sửa 境外 thành ngoài lãnh thổ trong title/cost cho nhất quán. Giữ nhận định bao quát của nguồn về tước quyền chính trị1–5năm, không tự sửa luật. Tham chiếu9-1 và11-11 đúng; 11-11 cụ thể về bán/cung cấp công cụ, trong khi câu dẫn nguồn dùng cách nói rộng hơn."
+}

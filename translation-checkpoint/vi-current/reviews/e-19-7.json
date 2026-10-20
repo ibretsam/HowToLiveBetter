@@ -1,0 +1,15 @@
+{
+  "id": "e-19-7",
+  "source_sha256": "a64f835b9419d0ca613b76e41bd097c0f35002c8c584e702fe781d45493d43d4",
+  "draft_sha256": "8b5204fce10b0167137fbb511a4b0cd3af005eb480a010eb31056c4f4fbe3d34",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ từ thường trong hậu quả mất khoản bù đắp và trợ cấp thất nghiệp, ngoại lệ công ty nợ lương/không đóng bảo hiểm xã hội; không biến thành tuyệt đối ở phần giải thích. Giữ yêu cầu ghi thỏa thuận tại chỗ và câu nguồn về không ký ngay trong ngày."
+}

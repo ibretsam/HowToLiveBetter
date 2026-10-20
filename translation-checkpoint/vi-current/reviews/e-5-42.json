@@ -1,0 +1,15 @@
+{
+  "id": "e-5-42",
+  "source_sha256": "d51bf84cf84a50029ad3bf1b6420371fc61546a5eda09b7f2e202f16fd40a7e4",
+  "draft_sha256": "baaf8b4c3757eb852413a9928ecd9db97ea1f3223c6b87c9bfdbeb37a4f0e0d8",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ ba nhóm thẩm định thủ công, giới hạn >65 và >60 trong benefit, trong khi plain của nguồn dùng ≥65. Giữ cỡ chữ72 và cỡ hai Trung Quốc, cấm nhân viên bảo hiểm bán tại quầy. Sửa câu cuối benefit 一年以上 thành từ một năm trở lên, không bỏ mốc đúng một năm."
+}

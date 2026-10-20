@@ -1,0 +1,14 @@
+{
+  "id": "e-5-44",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "58dd072b0633d2409af536bc2291d7977aac3c78af4643b9be82fc516fd4ea0a",
+  "translator": "pilot_medicine_batch4",
+  "translation": {
+    "title": "Ghi người thụ hưởng cụ thể trên hợp đồng, xảy ra sự kiện nhớ yêu cầu nhận tiền: nhân thọ trong 5 năm, bảo hiểm khác trong 2 năm",
+    "cost": "Không tốn tiền. Điền một lần khi tham gia, sau này đổi người thụ hưởng phải thông báo bằng văn bản cho công ty.",
+    "plain": "Không ghi người thụ hưởng hoặc người thụ hưởng chết trước thì tiền bảo hiểm thành di sản, trước tiên phải trả nợ người chết. Ghi “vợ tên…” rồi ly hôn thì khi xảy ra sự kiện được tính là chưa chỉ định. Người nhà phải biết có hợp đồng này: nhân thọ phải yêu cầu trong 5 năm từ khi biết sự kiện, bảo hiểm khác 2 năm.",
+    "benefit": "Luật Bảo hiểm quy định người thụ hưởng do người được bảo hiểm hoặc bên mua chỉ định. Bên mua chỉ định phải có người được bảo hiểm đồng ý. Ba trường hợp tiền bảo hiểm thành di sản của người được bảo hiểm, phân theo thừa kế: không chỉ định hoặc chỉ định không rõ; người thụ hưởng chết trước và không còn người thụ hưởng khác; người thụ hưởng mất quyền theo luật hoặc từ bỏ, không còn người khác. Người thụ hưởng và người được bảo hiểm chết trong cùng sự việc, không xác định thứ tự, thì suy đoán người thụ hưởng chết trước. Tiền thành di sản phải trả thuế, nợ của người chết trước, còn lại mới chia. Giải thích của Tòa án Tối cao nêu: ghi người thụ hưởng bằng “họ tên kèm quan hệ thân phận”, mà khi xảy ra sự kiện quan hệ đã đổi, thì coi như không chỉ định. Đổi người thụ hưởng mà không báo công ty thì không có hiệu lực đối với công ty. Thời hiệu khởi kiện đòi tiền của bảo hiểm nhân thọ là 5 năm, bảo hiểm khác 2 năm, đều từ ngày biết hoặc phải biết sự kiện xảy ra. Số tiền nhân thọ thường vài chục vạn nhân dân tệ, nên lợi ích xếp lớn (toàn Trung Quốc, sửa đổi năm 2015, từ năm 2021).",
+    "notes": "Hết thời hiệu, công ty có thể từ chối chi trả, kiện cũng khó lấy lại. Vì vậy người nhà ít nhất phải biết bạn mua tại những công ty nào. Sau ly hôn, tái hôn, sinh con, quay lại cập nhật người thụ hưởng. Sau khi người thân mất, lần lượt nhận tiền ở các nơi xem chương 25 mục 9 (lần lượt đi nhận). Dùng cái chết để trả nợ là con đường không giải quyết được, xem chương 29 mục 13 (trả nợ). Người hưởng lợi thuộc nhóm ②, là vợ hoặc chồng và con của bạn.",
+    "extra": ""
+  }
+}

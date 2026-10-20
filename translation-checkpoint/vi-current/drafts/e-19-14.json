@@ -1,0 +1,11 @@
+{
+  "id":"e-19-14","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"a738e02c308f2c3d4e99bbd239486b145f6ed9279f34d77095a979950ae3819a","translator":"pilot_employment_batch4",
+  "translation":{
+    "title":"Khi thương tích ổn định, đi giám định khả năng lao động; mức thương tật được quy trực tiếp thành tiền",
+    "cost":"Không tốn tiền. Làm quy trình giám định khả năng lao động một lần, phải chờ một thời gian từ đầu đến cuối.",
+    "plain":"Khi thương tích ổn định, đi giám định khả năng lao động; mức thương tật được quy trực tiếp thành tiền. Trợ cấp thương tật một lần tính theo lương của bản thân: mức năm là 18 tháng, mức sáu 16 tháng, mức bảy 13 tháng. Mức tám 11 tháng, mức chín 9 tháng, mức mười 7 tháng. Trước khi có kết quả giám định, đừng ký thỏa thuận “giải quyết dứt điểm một lần”.",
+    "benefit":"Trợ cấp thương tật một lần được quy từ mức thương tật sang số tháng lương và trả hết một lần. Mức năm là 18 tháng lương của bản thân, mức sáu 16 tháng, mức bảy 13 tháng. Mức tám là 11 tháng lương của bản thân, mức chín 9 tháng, mức mười 7 tháng",
+    "notes":"Mức năm, mức sáu được giữ quan hệ lao động, vẫn là nhân viên của đơn vị và nhận trợ cấp thương tật hằng tháng. Người thuộc mức bảy đến mười, khi hợp đồng hết hạn hoặc tự đề nghị chấm dứt, còn có hai khoản nữa. Trợ cấp y tế tai nạn lao động một lần do quỹ trả, trợ cấp việc làm do thương tật một lần do đơn vị trả, mức bao nhiêu do tỉnh quy định. Trước khi có kết quả giám định, đừng ký thỏa thuận “giải quyết dứt điểm một lần”. Người bị tai nạn lao động cần chân tay giả, xe lăn hay dụng cụ hỗ trợ tương tự phải được hội đồng giám định khả năng lao động xác nhận trước; xem chương 33 mục 7 (đến liên đoàn người khuyết tật cấp huyện hỏi đầy đủ).",
+    "extra":""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-50",
+  "source_sha256": "be48c52c73247d2df3b10f0478510d942c5b830268fba521d0cf7d7aa1682192",
+  "draft_sha256": "2a2e2761d66220610f94b57d89fb4ad50d2dd180151b5a2f2e2071b47e066fca",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ba khoản Điều35, tour giá thấp bất hợp lý/điểm mua sắm không thỏa thuận,30ngày hoàn hàng ứng tiền trước và không cần chứng minh chất lượng. Giữ ngoại lệ thỏa thuận tự nguyện, hai vụ với mọi số tiền, thời hạn khiếu nại90ngày và hòa giải60ngày; số12301 đã hủy theo nguồn. Giữ rủi ro kiện và du lịch nước ngoài, không thêm quyền trả hàng ngoài điều kiện."
+}

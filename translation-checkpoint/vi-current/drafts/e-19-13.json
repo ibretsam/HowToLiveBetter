@@ -1,0 +1,11 @@
+{
+  "id":"e-19-13","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"92aea17d1a6e92890912a10e536c115790bf6473e1b7f7c48a009281a8f1d738","translator":"pilot_employment_batch4",
+  "translation":{
+    "title":"Đơn vị chưa đóng bảo hiểm tai nạn lao động cho bạn thì vẫn được hưởng chế độ, đơn vị phải trả toàn bộ theo cùng mức",
+    "cost":"Không tốn tiền. Đơn vị không thừa nhận thì phải yêu cầu trọng tài, thậm chí khởi kiện, ít nhất vài tháng. Điều khó là phải theo sát suốt những tháng đó.",
+    "plain":"Đơn vị chưa đóng bảo hiểm tai nạn lao động cho bạn thì chế độ vẫn có. Chỉ chuyển sang đơn vị trả đủ theo cùng các khoản và mức, không thiếu đồng nào. Không tham gia bảo hiểm khiến đơn vị chịu thêm chế tài: buộc đóng bù, mỗi ngày thu thêm tiền chậm đóng bằng năm phần vạn; quá hạn còn bị phạt từ 1 đến 3 lần số tiền thiếu. “Công ty không mua bảo hiểm tai nạn lao động nên không thể bồi thường” là nói dối.",
+    "benefit":"Điều lệ ghi rõ: đơn vị chưa đóng bảo hiểm tai nạn lao động cho nhân viên mà nhân viên bị tai nạn lao động thì chính đơn vị phải trả theo các khoản và mức quy định trong điều lệ. Được nhận những khoản nào, mỗi khoản bao nhiêu đều giống hệt trường hợp đã đóng bảo hiểm, chỉ đổi thành đơn vị tự trả",
+    "notes":"“Công ty không mua bảo hiểm tai nạn lao động cho bạn nên không thể bồi thường” là lời nói dối thường gặp nhất trong loại việc này. Không tham gia bảo hiểm khiến đơn vị chịu thêm chế tài, không làm giảm chế độ của bạn.",
+    "extra":""
+  }
+}

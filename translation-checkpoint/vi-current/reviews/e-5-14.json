@@ -1,0 +1,15 @@
+{
+  "id": "e-5-14",
+  "source_sha256": "7fc4d0b4dbfa64cb3a6d46c5afc92269d97a404514cbf18d0612f1e083730057",
+  "draft_sha256": "655f82ca5fa6ed7e4f0da59a77f692ca4a6385a9d34625d2e7b874bacf91f0e4",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ phép so sánh giá nước, dung tích, tiêu chuẩn và mốc hiệu lực; giữ các số coliform, địa danh, diễn biến sự cố Hàng Châu và bồi hoàn. Giữ rõ đun sôi chỉ xử lý vi sinh, không khử mùi/chất hóa học, cùng điều kiện nguồn nước bất thường và lịch vệ sinh máy."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-9-6",
+  "source_sha256": "f4347e83c72db9bcffb2ddd9c6ca51a610c73c9d6e117a01ea4113f59392b12e",
+  "draft_sha256": "4ba88e82c3cfba4d7f60b9dea6cef11d27d60f996012eab4e50f3c56fb56e020",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ hai tội khác nhau: gian dối nhận khoản vay gây tổn thất và lừa đảo vay vốn với ý định không trả; các ngưỡng50vạn/5vạn, tiền phạt, năm hiệu lực, toàn bộ số vụ126/16/80/3000/105/76/4. Giữ tổng hợp hình phạt, trách nhiệm nợ và từng điều kiện hạn chế xuất cảnh. Tham chiếu9-5,8-9 đúng."
+}

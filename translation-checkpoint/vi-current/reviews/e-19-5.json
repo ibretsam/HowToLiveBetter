@@ -1,0 +1,15 @@
+{
+  "id": "e-19-5",
+  "source_sha256": "cec48ceb97d0c003f0748da5bba74efbe2eaa613c8a9ff184294110d9cbdf1a4",
+  "draft_sha256": "c6fd7035eb6483d225c29265e9d279e3250bddce55d42bf6d137b1d547cb9c44",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ phạm vi Điều bốn mươi, ba điều kiện, thời gian điều trị, đào tạo/điều chuyển, thay đổi hoàn cảnh và thương lượng không thành. Giữ cách tính tháng báo trước theo tháng liền trước, khác N theo mười hai tháng; phân biệt cắt giảm kinh tế, thỏa thuận, lỗi người lao động và chấm dứt trái luật. Không biến N+1 thành quyền cho mọi trường hợp nghỉ việc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-19-8",
+  "source_sha256": "51acb77c8e61f89f7edec44548d05bf27bae0fd1c1ef0c14b7741504c5390bb0",
+  "draft_sha256": "1a22f9db20447bd3a87688d50f75a32106039c9107b7796388348501f2c9e6a3",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ từng nhóm tranh chấp và trách nhiệm chứng minh, điều kiện chứng cứ nằm ở đơn vị, bản gốc điện tử, mức lưu trữ ít nhất hai năm. Giữ diễn biến vụ Thượng Hải: mười năm/hai năm/tám năm, 2021, tháng 8/2024, 1.9 vạn và khoảng ba năm. Không bỏ giới hạn chỉ lưu hồ sơ cá nhân hoặc khó khăn theo vụ đến kháng nghị. Tham chiếu 19-17 và chương11 đúng."
+}

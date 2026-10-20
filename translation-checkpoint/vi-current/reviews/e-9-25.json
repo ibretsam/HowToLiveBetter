@@ -1,0 +1,15 @@
+{
+  "id": "e-9-25",
+  "source_sha256": "32ff510baad88fb80ad5f3807f1e785589af20c867d8a18a0a52e87f97322a6e",
+  "draft_sha256": "3e6d6941bc307d5f80a299d55122da5de91e07f4760254f5edef5727cccb27eb",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ diễn biến vụ Giang Nam: sơ thẩm chỉ cạnh tranh không lành mạnh, phúc thẩm thêm quyền tác giả, bồi thường và nhuận bút tái bản, sau đó hòa giải ngày 19/9/2025 khiến cả hai bản án mất hiệu lực. Giữ hòa giải chỉ ràng buộc các bên và ba bước đánh giá từng trường hợp, cùng vụ Thiên Hạ Bá Xướng có kết quả khác về cốt truyện/bìa. Sửa tiêu đề xin phép tác phẩm thành xin phép chủ thể quyền của tác phẩm cho rõ đối tượng; không biến phán quyết hay hòa giải thành quy tắc chung."
+}

@@ -1,6 +1,6 @@
 # Tiến độ và kế hoạch hoàn thành bản dịch tiếng Việt
 
-Cập nhật: **20/10/2026 (giờ Việt Nam), sau đợt 3**. Đã dịch và rà soát song ngữ độc lập tổng cộng 147 mục, bảy lời dẫn chương và một bài hướng dẫn theo thời gian. Chưa thiết lập lịch chạy tự động.
+Cập nhật: **20/10/2026 (giờ Việt Nam), sau đợt 4**. Đã dịch và rà soát song ngữ độc lập tổng cộng 242 mục, mười lời dẫn chương và hai bài hướng dẫn theo thời gian. Chưa thiết lập lịch chạy tự động.
 
 ## Phạm vi và phiên bản đích
 
@@ -12,20 +12,22 @@ Các commit nguồn xuất hiện sau mốc này được ghi thành đợt cậ
 
 | Trạng thái mục | Số lượng | Tỷ lệ trên 765 mục |
 |---|---:|---:|
-| Bản nháp tiếng Việt khớp nguồn hiện tại | 232 | 30,3% |
-| Có bản tiếng Việt cũ, cần cập nhật | 446 | 58,3% |
-| Chưa có bản dịch dùng được cho mục hiện tại | 87 | 11,4% |
-| Tổng có bản tiếng Việt, gồm bản cũ | 678 | 88,6% |
+| Bản nháp tiếng Việt khớp nguồn hiện tại | 303 | 39,6% |
+| Có bản tiếng Việt cũ, cần cập nhật | 387 | 50,6% |
+| Chưa có bản dịch dùng được cho mục hiện tại | 75 | 9,8% |
+| Tổng có bản tiếng Việt, gồm bản cũ | 690 | 90,2% |
 
-**88,6% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 232 mục khớp nguồn gồm 85 mục có nguồn chưa đổi chưa qua quy trình rà soát mới và 147 mục đã qua rà soát độc lập trong ba đợt. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
+**90,2% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 303 mục khớp nguồn gồm 61 mục có nguồn chưa đổi chưa qua quy trình rà soát mới và 242 mục đã qua rà soát độc lập trong bốn đợt. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
 
 Lô thử đã xử lý **11 mục chưa dịch và 19 mục cần cập nhật**, cộng lời dẫn chương 34. Chương 34 có đủ 12/12 mục và lời dẫn khớp nguồn đích. Trước khi bắt đầu, số liệu là 95/554/116; danh sách công việc trong checkpoint giữ mốc ban đầu để đối chiếu.
 
 **Đợt 2 xử lý 69 mục và ba lời dẫn:** dịch mới 9 mục, cập nhật 57 mục và rà soát lại 3 mục có nguồn chưa đổi. Hoàn thiện chương 13 (48/48 mục), chương 16 (14/14) và chương 20 (17/17), gồm cả lời dẫn. Cùng chương 34, sau đợt 2 có bốn chương được rà soát đầy đủ theo nguồn đích. Hồ sơ từng mục ghi các lỗi đã sửa và điểm bất nhất của nguồn được giữ nguyên; xem `translation-checkpoint/vi-current/batch-2-report.json`.
 
-**Đợt 3 xử lý 48 mục, ba lời dẫn và một bài hướng dẫn:** dịch mới 9 mục, cập nhật 32 mục và rà soát lại 7 mục có nguồn chưa đổi. Hoàn thiện chương 18 (7/7 mục, chi phí và quyền lợi khi nuôi con), chương 27 (20/20, mang thai và sinh nở), chương 30 (21/21, trẻ sau khi đi học), cùng cả ba lời dẫn. Bài “Những việc cần làm trước và sau khi con ra đời” đã cập nhật đủ 45 việc trong sáu giai đoạn. Tổng cộng bảy chương được rà soát đầy đủ: 13, 16, 18, 20, 27, 30 và 34. Xem `translation-checkpoint/vi-current/batch-3-report.json`.
+**Đợt 3 xử lý 48 mục, ba lời dẫn và một bài hướng dẫn:** dịch mới 9 mục, cập nhật 32 mục và rà soát lại 7 mục có nguồn chưa đổi. Hoàn thiện chương 18 (7/7 mục, chi phí và quyền lợi khi nuôi con), chương 27 (20/20, mang thai và sinh nở), chương 30 (21/21, trẻ đã bắt đầu đi học), cùng cả ba lời dẫn. Bài “Những việc cần làm trước và sau khi con ra đời” đã được đối chiếu đủ 45 việc trong sáu giai đoạn. Sau đợt 3 có bảy chương được rà soát đầy đủ: 13, 16, 18, 20, 27, 30 và 34. Xem `translation-checkpoint/vi-current/batch-3-report.json`.
 
-Bài viết dài: 1/9 bản nháp khớp nguồn, 7/9 cần cập nhật, 1/9 chưa dịch. Bài khớp nguồn là hướng dẫn trước/sau sinh: nguồn chưa đổi, nhưng đợt 3 đã thay bản dịch bằng bản đối chiếu đầy đủ và có hồ sơ rà soát mới. Vì vậy đợt này tăng số bài được rà soát, không tăng số bài khớp nguồn. Lời dẫn: 7/34 khớp nguồn, 27/34 cần cập nhật. Hướng dẫn đọc vẫn cần cập nhật; không được bỏ qua những phần này khi đủ 765 mục.
+**Đợt 4 xử lý 95 mục, ba lời dẫn và một bài hướng dẫn:** dịch mới 12 mục, cập nhật 59 mục và rà soát lại 24 mục có nguồn chưa đổi. Hoàn thiện chương 5 (50/50 mục, tiền bạc), chương 9 (29/29, giới hạn pháp luật) và 16 mục còn lại của chương 19, nâng chương lao động lên 24/24 mục đã rà soát. Giữ nguyên tám mục chương 19 đã duyệt trước đó. Bài “Sau khi bị cho thôi việc, cần làm gì trước” được cập nhật đủ 34 việc trong năm giai đoạn. Tổng cộng mười chương được rà soát đầy đủ: 5, 9, 13, 16, 18, 19, 20, 27, 30 và 34. Xem `translation-checkpoint/vi-current/batch-4-report.json`.
+
+Bài viết dài: 2/9 bản nháp khớp nguồn và đã qua rà soát mới (hướng dẫn trước/sau sinh và sau thôi việc), 6/9 cần cập nhật, 1/9 chưa dịch. Nguồn bài trước/sau sinh chưa đổi, nên đợt 3 chỉ tăng số bài được rà soát; bài sau thôi việc được cập nhật theo nguồn mới trong đợt 4. Lời dẫn: 10/34 khớp nguồn, 24/34 cần cập nhật. Hướng dẫn đọc vẫn cần cập nhật; không được bỏ qua những phần này khi đủ 765 mục.
 
 Ở mốc ban đầu, trong 554 mục thay đổi, có 404 mục đổi phần “Nói dễ hiểu”, 275 đổi “Lợi ích”, 364 đổi “Ghi chú”, 169 đổi “Nguồn”, 25 đổi “Chi phí” và 8 đổi “Mức độ bằng chứng”. Các nhóm chồng lấp. Cần dịch và soát những phần thay đổi trong ngữ cảnh cả mục, không mặc định dịch lại mọi câu cũ.
 
@@ -35,10 +37,10 @@ Kiểm tra hiện tại:
 
 - `python3 tools/check-vi.py`: đạt cho snapshot cũ 01/10/2026 — 137 lô, 4.103 đoạn, 43 tệp, 649 mục. Không dùng kết quả này để tuyên bố đã dịch xong nguồn mới.
 - `python3 tools/check-vi-site.py`: đạt độ phủ 34 chương, 765 mục và 9 bài dài, cùng nhãn trạng thái và liên kết nguồn.
-- `python3 tools/check-vi-updates.py`: 155 bản nháp đạt, 155 bản ghi rà soát độc lập hợp lệ (147 mục, bảy lời dẫn và một bài hướng dẫn).
+- `python3 tools/check-vi-updates.py`: 254 bản nháp đạt, 254 bản ghi rà soát độc lập hợp lệ (242 mục, mười lời dẫn và hai bài hướng dẫn).
 - `python3 tools/test-vi-updates.py`: 7 bài kiểm tra bảo vệ checkpoint đạt, gồm số liệu, URL, thiếu trường, cấu trúc bảng, thuật ngữ giữ nguyên và sửa sau rà soát.
 - Thử tiếp tục: 62 tệp bản nháp/rà soát giữ nguyên dấu kiểm sau khi chạy lại bước chuẩn bị.
-- Đợt 3 giữ nguyên từng byte của 206 tệp bản nháp/rà soát đã có từ hai đợt trước.
+- Đợt 4 giữ nguyên từng byte của 310 tệp bản nháp/rà soát đã có từ ba đợt trước.
 - Trang đọc giữ cảnh báo cho phần chưa xử lý; nhãn lời dẫn lấy theo trạng thái thực tế.
 
 ## Kế hoạch và thời gian dự kiến
@@ -77,7 +79,7 @@ Các ô đã đánh dấu phản ánh việc đã thực hiện và có bằng c
 
 Chỉ bắt đầu dịch toàn bộ khi các mục trong hai nhóm “Cần hoàn tất” và “Cần đạt” đã được đánh dấu kèm kết quả kiểm tra. Không cần hoàn thành bản dịch toàn bộ để vượt qua checklist chuẩn bị này.
 
-**Ước lượng thận trọng cho phần còn lại: 24–36 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Đợt 3 đã bao phủ một bài hướng dẫn gồm 45 việc, nhưng bài này chủ yếu dẫn tới các mục và chưa đại diện cho những bài dài có lập luận pháp lý phức tạp. Thời gian chạy các tác vụ song song không phải tổng giờ công; chưa đủ cơ sở rút ngắn lịch chỉ từ số đo đó. Ước lượng sẽ được hiệu chỉnh tiếp sau lô có bài dài đa dạng hơn. Mốc 26/10 vẫn là mục tiêu có điều kiện, không phải cam kết tự chạy nền.
+**Ước lượng thận trọng cho phần còn lại: 24–36 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Đợt 3 và 4 đã bao phủ hai bài hướng dẫn theo thời gian, nhưng chúng chủ yếu dẫn tới các mục và chưa đại diện cho những bài dài có lập luận pháp lý phức tạp. Thời gian chạy các tác vụ song song không phải tổng giờ công; chưa đủ cơ sở rút ngắn lịch chỉ từ số đo đó. Ước lượng sẽ được hiệu chỉnh tiếp sau lô có bài dài đa dạng hơn. Mốc 26/10 vẫn là mục tiêu có điều kiện, không phải cam kết tự chạy nền.
 
 **Mục tiêu dự kiến: 26/10/2026**, nếu bắt đầu đợt dịch trong ngày 20/10 và dành khoảng 6 giờ xử lý chủ động mỗi ngày, không bị gián đoạn bởi giới hạn sử dụng. Các ngày dưới đây là lịch dự kiến, không phải cam kết chạy nền. Nếu phiên làm việc không tiếp tục hoặc phát sinh lỗi bảo toàn nội dung, ngày hoàn thành phải được tính lại theo số giờ còn lại.
 
@@ -106,7 +108,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 
 ## Danh sách theo chương
 
-“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau đợt 3 ngày 20/10/2026.
+“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau đợt 4 ngày 20/10/2026.
 
 | Chương | Tổng mục | Khớp nguồn | Cần cập nhật | Chưa dịch |
 |---|---:|---:|---:|---:|
@@ -114,11 +116,11 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 2. Đừng để mình chết dần | 47 | 10 | 32 | 5 |
 | 3. Đừng lãng phí sức lực | 27 | 6 | 18 | 3 |
 | 4. Đừng lãng phí thời gian | 18 | 9 | 9 | 0 |
-| 5. Đừng lãng phí tiền | 50 | 17 | 27 | 6 |
+| 5. Đừng lãng phí tiền | 50 | 50 | 0 | 0 |
 | 6. Danh sách những việc tưởng lợi mà không lợi | 35 | 3 | 25 | 7 |
 | 7. Sống thế nào khi không có tiền | 23 | 5 | 17 | 1 |
 | 8. Đừng tự đẩy mình vào rắc rối: an toàn pháp lý và tài sản | 46 | 3 | 41 | 2 |
-| 9. Những giới hạn pháp lý người bình thường dễ vi phạm | 29 | 2 | 21 | 6 |
+| 9. Những ranh giới pháp luật người bình thường dễ vượt qua | 29 | 29 | 0 | 0 |
 | 10. Yêu và kết hôn có đáng không | 23 | 1 | 19 | 3 |
 | 11. Những ranh giới pháp luật mà lập trình viên và người làm kỹ thuật dễ vượt qua | 21 | 2 | 15 | 4 |
 | 12. Khởi nghiệp và kinh doanh: đừng mất cả tài sản gia đình | 28 | 0 | 23 | 5 |
@@ -128,7 +130,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 16. Sống thế nào sau khi mắc bệnh mạn tính | 14 | 14 | 0 | 0 |
 | 17. Khi gia đình có người cao tuổi | 13 | 1 | 8 | 4 |
 | 18. Nuôi con có đáng không | 7 | 7 | 0 | 0 |
-| 19. Đang làm việc, nghỉ việc và tai nạn lao động | 24 | 13 | 11 | 0 |
+| 19. Đang làm việc, nghỉ việc và tai nạn lao động | 24 | 24 | 0 | 0 |
 | 20. Chăm trẻ mới sinh thế nào | 17 | 17 | 0 | 0 |
 | 21. Ra nước ngoài, du lịch và an toàn ở nước ngoài | 13 | 1 | 10 | 2 |
 | 22. Thư giãn thế nào: nơi giải trí và giảm căng thẳng | 12 | 1 | 9 | 2 |

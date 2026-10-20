@@ -1,0 +1,15 @@
+{
+  "id": "e-5-3",
+  "source_sha256": "b74f277e5ef2159889ffb5e518fbd526ec3a73d4e2f27b108b59dfbd02e481fe",
+  "draft_sha256": "6023f4d88022c8b554c706832fa68007a0ed279caa36589579fa77e2cdf18cdb",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mốc20/9/2026, chín trường hợp rút, ba ngày từ tiếp nhận, thuê/sửa nhà/phí quản lý và thừa kế/di tặng khi chết. Giữ nguyên nội dung quy định mới của nguồn, không tự kiểm chứng hoặc sửa luật; đủ bước hỏi trung tâm địa phương và hai dẫn chiếu15-16/17."
+}

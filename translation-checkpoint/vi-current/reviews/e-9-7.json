@@ -1,0 +1,15 @@
+{
+  "id": "e-9-7",
+  "source_sha256": "0690affaaa2e87468eab4407a4bc1f846892bbc4954dc850bf69f06fb6099aea",
+  "draft_sha256": "40b7324f7f953dc68be5029ba8f33b943d3fee2db89753ae91a6075f091924d8",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ việc nhặt đồ, không giao trả, giá trị đạt ngưỡng, tự khởi kiện so với công an trực tiếp lập án khi dùng thẻ. Giữ phạm vi thẻ tín dụng trong luật hình sự bao gồm thẻ gửi/rút thông thường và điều kiện toàn bộ/một phần chức năng. Giữ ngưỡng chưa được nguồn kiểm chứng và điều khoản phí bảo quản."
+}

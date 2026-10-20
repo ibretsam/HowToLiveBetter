@@ -1,0 +1,15 @@
+{
+  "id": "e-9-15",
+  "source_sha256": "08f91c403bd601917a8e28f848d3ba0b808833e3af601e1c57bd700183949945",
+  "draft_sha256": "75d5c0f249afecbfb613852e2a8b63fbd00d7a39cb7e7ef58213f93775de88b8",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu khoản nợ thật không loại trừ giam giữ trái pháp luật, cả tạm giữ hành chính và các hình phạt hình sự thay thế, mức gây thương tích/chết người. Giữ án trên trang tòa chưa mở được, không trình bày là nguồn đã xác minh lại."
+}

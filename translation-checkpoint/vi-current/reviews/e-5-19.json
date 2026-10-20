@@ -1,0 +1,15 @@
+{
+  "id": "e-5-19",
+  "source_sha256": "830975d7bbc8cd31bbd2afd16d88bc881d6eb1d77e2e5f6919689792ad3e4ec9",
+  "draft_sha256": "98a8c3d632e23f420fb127056124fffaed10d763ce0af606b2fda6678358e0cf",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu lập luận tương quan không hoàn hảo và giảm phương sai của Markowitz, phân biệt chứng minh toán học với số tiền kiếm được thực tế. Giữ điều kiện và cách diễn giải lợi suất kỳ vọng của nguồn, không thêm bảo đảm tránh lỗ; giữ dẫn chiếu quỹ chỉ số thị trường rộng ở mục 17."
+}

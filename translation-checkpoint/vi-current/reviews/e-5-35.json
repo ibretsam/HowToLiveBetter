@@ -1,0 +1,15 @@
+{
+  "id": "e-5-35",
+  "source_sha256": "9791bf44ce281152f47fb718ac0ef26ec60f894e447689f70729e8939d233491",
+  "draft_sha256": "1134e397bcd2311553b083cd835dee4dc44e95f2d06bf4952ae7019aca678379",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ thông tin công khai, ba điều cấm, bảo đảm chỉ khuyến khích và xác nhận từng giao dịch/không mặc định. Đúng ngưỡng dưới8và từđủ8cógiámhộ. Nguồn notes dẫn mục23cho thời gian cân nhắc24giờ trong khi chỗ khác mục23là trảhàng7ngày; giữ crossref của nguồn, không tự sửa."
+}

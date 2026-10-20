@@ -1,0 +1,15 @@
+{
+  "id": "e-5-10",
+  "source_sha256": "1dc334a69b531c1d6160f2006df4fd21f3e652ab588e90771b2ec22ec63a381b",
+  "draft_sha256": "5c5f40b3b22f83d39bcee893564148d99f768ad8978b5322072d1749f2e218f2",
+  "reviewer": "pilot_employment_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ sáu kiểu lừa, từng số260/3vạn/7000/7.3vạn/100%/500/888/48.88/8vạn/1.6vạn, lời dọa và ba giới hạn về thẻ/SIM, việc手机口, tuyển lương cao nước ngoài. Thuật ngữ手机口 được diễn đạt bằng cổng điện thoại kèm tiếp nối cuộc gọi, giữ nghĩa hoạt động lừa đảo. Giữ phân biệt trẻ tự nạp với tiền bị lừa, bảo toàn lời hứa không mắng, giới hạn chứng cứ và mọi tham chiếu8-2/3/4/45."
+}

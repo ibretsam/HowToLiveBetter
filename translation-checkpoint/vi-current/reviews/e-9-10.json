@@ -1,0 +1,15 @@
+{
+  "id": "e-9-10",
+  "source_sha256": "d55de6b7096d58934c102e4727ac5d06a86e66d33cb05000a448cf4653785005",
+  "draft_sha256": "1cdb465723772af30735a40a7cd8036b21c034b105f796c6665602ced1b77375",
+  "reviewer": "pilot_medicine_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mật độ động năng tại đầu nòng và đơn vị joule/cm², ngưỡng lớn hơn hoặc bằng, yêu cầu đánh giá tổng thể từ2018 và không truy tố do thiếu chứng cứ biết rõ. Giữ nguồn nói người lớn cố ý mua khó viện dẫn không biết, không biến thành quy tắc kết tội tự động."
+}

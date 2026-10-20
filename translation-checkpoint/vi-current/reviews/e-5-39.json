@@ -1,0 +1,15 @@
+{
+  "id": "e-5-39",
+  "source_sha256": "dd6c929b97f72219e1aa7a45e4e0018c2811f52d9850243e94bacae3bfe7aaec",
+  "draft_sha256": "e0fc178821fb6f4162e1e9a3ba93c4f5650927137cbe6bd907fc6acc8916368e",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu cơchếphí/bồithường, côngbốmỗinửanăm vànhậnđịnhlợidài hạn của tácgiả. Giữbảohiểmytếcơbảnngoạilệ cáchchọn, bệnhhiểmnghèolàbùthunhập vànhữngthamchiếu26/27/40,chương7/21. XếpCdo chưa có sốchínhthức."
+}

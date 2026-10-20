@@ -1,0 +1,15 @@
+{
+  "id": "e-19-17",
+  "source_sha256": "81220e9f33f94c2a2aeedf38bb7431953289b1519b7941da2eba03bb1b4536d8",
+  "draft_sha256": "caded3ea9a114e5c85d04d8367897cd9fd1c33e6f6965e88596ab7d3d5753536",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu tất cả trường hợp nghỉ, bốn nội dung giấy xác nhận,15ngày chuyển hồ sơ/bảo hiểm và trách nhiệm liên đới của đơn vị mới có gây thiệt hại. Phân biệt giấy xác nhận với điều kiện bàn giao để nhận bù đắp. Giữ60+30ngày làm việc thanh tra so với45+15ngày trọng tài, thời hiệu1năm, phí10CNY và phí luật sư tự trả. Nguồn gọi sơ thẩm thông thường6thángtrởlên; giữ theo nguồn. Tham chiếu19-7,7-1 đúng."
+}

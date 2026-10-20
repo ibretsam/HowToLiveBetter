@@ -1,0 +1,15 @@
+{
+  "id": "e-19-13",
+  "source_sha256": "92aea17d1a6e92890912a10e536c115790bf6473e1b7f7c48a009281a8f1d738",
+  "draft_sha256": "4cf3d578510eb424e2e2415501ddc59e5165c9aeaec50bf9f54fcc2eb69b2abf",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ việc đơn vị tự trả toàn bộ cùng các khoản/mức dù chưa đóng bảo hiểm, quyền lợi không bị giảm. Giữ tiền chậm đóng mỗi ngày năm phần vạn, phạt1–3lần số thiếu, và thời gian/chịu khó theo trọng tài hoặc kiện. Các chế tài trong plain có trong trích dẫn nguồn, không được thêm vào benefit."
+}

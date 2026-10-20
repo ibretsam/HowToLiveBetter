@@ -1,0 +1,15 @@
+{
+  "id": "e-9-28",
+  "source_sha256": "87b5aab304b1819aa368f93a0d211d077d21310a7345e2759396011017a1eea7",
+  "draft_sha256": "b2ecc9fdbb4dff889eb7a619807cdd72c3c101ac9f8cdbeca29036b92aca7003",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đọc đối chiếu đầy đủ các trường và danh mục nguồn. Giữ phân biệt phạt hành chính trong thời kỳ/khu vực phòng cháy với hình sự theo hậu quả; giữ 300–5000, 2–10 vạn, 2/4 hecta, 1 người chết/3 người thương nặng/50 vạn/10 hộ, 12119/119. Hai vụ giữ 39.2156/32.05 hecta, 9420 cây, 121.69 mẫu Trung Quốc, 46.9 vạn và chính xác 468578, 98.67 vạn, tù và thời gian thử thách riêng. Giữ câu nguồn nói chỉ được án treo sau hành động khắc phục; không tự nâng thành quy tắc pháp lý chung. Giữ nguyên phạm vi lời khuyên thoát cháy của bản gốc, không bổ sung hướng dẫn ngoài nguồn."
+}

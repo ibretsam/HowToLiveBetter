@@ -1,0 +1,15 @@
+{
+  "id": "e-19-12",
+  "source_sha256": "1ad467e9dac496d31a2cc0a0d43c9f1599848ec21861e0eeabaeef8ab85e0a18",
+  "draft_sha256": "6417d62fdb7f839d601e7ddeed6423cd4a8ad4cbe2789975a59834277461ea8c",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ điều kiện đồng thời trong giờ và tại vị trí làm việc; phân biệt nơi phát bệnh và nơi tử vong, giữ vẫn có thể áp dụng sau đưa về nhà/đi viện. Giữ giới hạn48giờ theo nguồn và thông điệp không trì hoãn cấp cứu để cố đạt điều kiện hưởng chế độ."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-28",
+  "source_sha256": "974de5c7539ddbbb12e378d36aef0422aad253d55f24ae73a10dfcb0dc470741",
+  "draft_sha256": "00458ba4eb4e62338e882119a647e5a48e92c86ee257bfd3dbd4b0fde2fa62ac",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ biếnr/g, sau thuế, ổn định, LPRtrên5năm3.5%và ngày2026. Giữ chi phí phạt trả trước/tiền khẩn cấp và phép tính do tác giả. Nguồn plain dùng không cao hoặc không chắc còn benefit chỉ g<r; giữ từng câu, không tự bổ sung trường hợp bằng nhau."
+}

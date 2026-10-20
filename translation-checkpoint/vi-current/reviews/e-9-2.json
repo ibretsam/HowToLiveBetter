@@ -1,0 +1,15 @@
+{
+  "id": "e-9-2",
+  "source_sha256": "950f69980de55f46b3f639839d4d8db9ab5501f8ba2a1a2650d47171978ae64c",
+  "draft_sha256": "d180dee80c621971dbbc86462ca342bd45898232af3f829245983b3515dd292a",
+  "reviewer": "root_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ số ngày, tiền phạt, tình tiết nhẹ/nặng/nghiêm trọng và hai vụ chính thức với số người theo dõi, số tin, hình phạt. Quản chế có giải thích không giam giữ, không nhầm với tù. Nguồn nói trước sửa luật2025 chỉ hình sự hoặc dân sự công ích; giữ nguyên giới hạn này trong bản dịch, không tự sửa hoặc kiểm chứng độc lập."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-32",
+  "source_sha256": "ee6ea80674ba679b1745a416f4654bcae9f89fd216867c1faaa753c78d7f9bf4",
+  "draft_sha256": "c73a98177cb3102a4e8baa261020477641106f3da9aaec5851a0062f960decb5",
+  "reviewer": "pilot_emergency_batch4_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tất cả mẫu/tỷ lệ/điểm phần trăm,3C và ba thành phần nhãn năng lượng. Giữ hạn chế lấy mẫu không đại diện toànthịtrường/khôngxếphạng và hai hostname tra cứu cùng tình trạng không mở được nguồn."
+}
