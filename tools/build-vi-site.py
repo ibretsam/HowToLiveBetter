@@ -179,7 +179,7 @@ def build():
     # available as downloads; the UI reads full content from data.json.
     for directory in ("book", "docs", "vi/book", "vi/docs"):
         shutil.copytree(ROOT / directory, OUT / directory, dirs_exist_ok=True)
-    for file in ("README.md", "vi/README.md", "vi/TRANSLATION.md"):
+    for file in ("README.md", "vi/README.md", "vi/TRANSLATION.md", "vi/TRANSLATION-PLAN.md"):
         shutil.copy2(ROOT / file, OUT / file)
     report = {"source_commit": config["source_commit"], "translation_base_commit": base,
               "chapters": len(sections), "entries": sum(counts.values()),

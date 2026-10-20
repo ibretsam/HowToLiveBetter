@@ -1,5 +1,7 @@
 # Thông tin về bản dịch tiếng Việt
 
+**Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 20/10/2026](TRANSLATION-PLAN.md).
+
 **Trang đọc hiện tại:** [ibretsam.github.io/HowToLiveBetter](https://ibretsam.github.io/HowToLiveBetter/).
 
 Ngày **20/10/2026**, fork đã đồng bộ mã nguồn và nội dung Trung văn đến commit [`5f210ca`](https://github.com/eternity4719/HowToLiveBetter/commit/5f210ca953b7b538c042ad8515d5c355b766a194): **34 chương, 765 mục và chín bài viết dài**. Bản dịch được phục hồi từ nhánh `codex/vietnamese-cloud-checkpoint` của fork, commit `7128efb`.
