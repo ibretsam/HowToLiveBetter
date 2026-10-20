@@ -1,0 +1,15 @@
+{
+  "id": "e-13-2",
+  "source_sha256": "276e5ceb6f87ffc6ce72f8e0f1adf198f0b3d50db14762b84e50f29d4c2855dd",
+  "draft_sha256": "8f354cb19bcc123a1bc5c8c6b4d3d1bf11e4b71961f4d42fef2b70b918b77ef8",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all fields including full Chinese legal quotations, process costs, Germany exception, scene-manager duty and references. Changed chắc chắn hơn to an toàn hơn for 稳妥, avoiding an implication of certainty. Source legal assertions retained as translation, not independently verified."
+}

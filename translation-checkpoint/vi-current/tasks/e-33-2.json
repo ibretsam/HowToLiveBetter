@@ -1,0 +1,48 @@
+{
+  "id": "e-33-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "add352f02587a8d0a777f4970ab60d44a84aa1ed087e54efcabab92c4a980e20",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "脊髓损伤致残之后的头十年是自杀的高风险期，别当成「想开点」就行的事",
+    "fields": {
+      "cost": "不花钱。打一个电话，或者挂一次号。",
+      "plain": "英国两家脊髓损伤中心的长期随访发现，这群人的自杀率是普通人的五倍。九成以上的自杀发生在受伤后的头十年。受伤原因本身就是自杀的人，风险还要高出一截。",
+      "benefit": "研究跟踪了 1991 到 2010 年新入院、熬过伤后第一年、出院时有神经功能缺损的 2304 例外伤性脊髓损伤患者，随访到 2014 年底。其中 63 例（2.7%）的受伤原因本身就是自杀未遂。到随访结束共 533 人死亡，其中 4.2% 死于自杀，91% 的自杀发生在受伤后的头十年。按年龄标化的自杀死亡率是每年每 10 万人 62.5 例（95% CI 36.4–88.6，可信范围），是 2014 年英格兰和威尔士普通人群自杀率（每 10 万人 12.2 例）的五倍。因自杀未遂致伤的那部分人，和其他致伤原因相比，死亡的比值比是 4.32（P<0.001），自杀的比值比是 9.46（P<0.001）",
+      "grade": "A",
+      "sources": "Savic G, DeVivo MJ, Frankel HL, Jamous MA, Soni BM, Charlifue S (2018). Suicide and traumatic spinal cord injury - a cohort study. Spinal Cord, 56(1):2-6. <https://doi.org/10.1038/sc.2017.98>",
+      "notes": "这项研究只看了脊髓损伤，套到失明、截肢、烧伤这些别的致残原因上属于往外推。它能说明的是时间窗：风险不是出院就过去了，要盯十年。要人陪着说话打 12356，见第 29 节第 11 条（12356）。家里别囤安眠药和农药，见第 1 节第 25 条（自杀念头）。哀伤和情绪卡住半年还在原地，去精神科或临床心理科挂号，见第 29 节第 8 条（哀伤过了半年）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Mười năm đầu sau khi bị khuyết tật là thời kỳ nguy cơ tự sát cao, đừng nghĩ chỉ cần ‘nghĩ thoáng’",
+    "fields": {
+      "cost": "Không tốn tiền. Gọi một cuộc hoặc đăng ký khám một lần.",
+      "plain": "Những năm đầu bị khuyết tật, bản thân hoặc gia đình suy sụp cảm xúc là thường gặp, không phải thiếu ý chí. Theo dõi dài hạn tại hai trung tâm chấn thương tủy sống Anh thấy tỷ lệ tự sát nhóm này gấp năm dân số chung. Hơn chín phần mười trường hợp xảy ra trong mười năm đầu sau chấn thương. Người mà chính nguyên nhân chấn thương là tự sát có nguy cơ cao hơn nữa.",
+      "benefit": "Nghiên cứu theo dõi 2304 bệnh nhân chấn thương tủy sống do ngoại lực mới nhập viện từ 1991 đến 2010, sống qua năm đầu sau chấn thương và còn thiếu hụt thần kinh khi xuất viện, đến cuối 2014. Trong đó 63 ca, 2.7%, bị thương do tự sát không thành. Cuối theo dõi có 533 người chết; 4.2% do tự sát, 91% số tự sát trong mười năm đầu sau chấn thương. Tỷ lệ tử vong do tự sát chuẩn hóa tuổi là 62.5 ca mỗi 10 vạn người mỗi năm, 95% CI 36.4–88.6, khoảng tin cậy, gấp năm tỷ lệ dân số chung Anh và Wales năm 2014 là 12.2 ca mỗi 10 vạn. Nhóm bị thương do tự sát không thành so với nguyên nhân khác có tỷ số chênh tử vong 4.32, P<0.001, và tỷ số chênh tự sát 9.46, P<0.001.",
+      "grade": "A",
+      "sources": "Savic G, DeVivo MJ, Frankel HL, Jamous MA, Soni BM, Charlifue S (2018). Suicide and traumatic spinal cord injury - a cohort study. Spinal Cord, 56(1):2-6. <https://doi.org/10.1038/sc.2017.98>",
+      "notes": "Nghiên cứu chỉ xét chấn thương tủy sống; áp dụng cho mù, cắt cụt chi, bỏng và nguyên nhân khuyết tật khác là ngoại suy. Điều nó cho thấy là khoảng thời gian: nguy cơ không hết khi xuất viện, cần chú ý mười năm. Cần người trò chuyện hãy gọi 12356, xem chương 29 mục 11 (12356). Đừng trữ thuốc ngủ và thuốc trừ sâu ở nhà, xem chương 1 mục 25 (ý nghĩ tự sát). Đau buồn và cảm xúc mắc kẹt nửa năm không tiến triển, đăng ký khoa tâm thần hoặc tâm lý lâm sàng, xem chương 29 mục 8 (đau buồn quá nửa năm)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

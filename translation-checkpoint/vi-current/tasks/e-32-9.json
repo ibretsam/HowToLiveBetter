@@ -1,0 +1,48 @@
+{
+  "id": "e-32-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "6636a76dc1d31bdc6c4c1ebfc0cd24edfbb4f360db917ffbc99e6b651f84969d",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "回国前留出认证时间：留服认证要 10 到 20 个工作日",
+    "fields": {
+      "cost": "线上申请，线上缴费。准备材料加上审核，按工作日算，前后一个月上下",
+      "plain": "国外的学历回国要用，得先做学历学位认证。光是审核就要 10 到 20 个工作日，准备材料的时间还另算。秋招、考公报名、落户都有截止日期，别等到要用了才开始办。",
+      "benefit": "国（境）外学历学位认证在中国（教育部）留学服务中心的网上服务大厅办。流程是四步：注册并实名认证，在线提交申请和材料，在线缴费，等评估和审核。公布的认证工作时限是 10 至 20 个工作日。工作日不含周末和节假日，这段是留服中心审核用的时间",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 网上服务大厅·学历学位认证. <http://zwfw.cscse.edu.cn/>",
+      "notes": "要交的材料有这几样：文凭证书，护照或者通行证，居留卡或者签证签注，证件照片，授权声明。出国期间的出入境记录由系统自己调取，所以在外期间的签证页别丢。留服中心网站上还会发公告，说哪些认证书作废、暂停受理哪所学校的认证申请。办之前先看一眼有没有涉及自己的学校。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Trước về nước, chừa thời gian công nhận bằng: Trung tâm Dịch vụ du học cần 10 đến 20 ngày làm việc",
+    "fields": {
+      "cost": "Nộp đơn và thanh toán trực tuyến. Chuẩn bị hồ sơ cộng thời gian xét, tính theo ngày làm việc, khoảng một tháng.",
+      "plain": "Muốn dùng bằng nước ngoài khi về nước phải công nhận trình độ và học vị trước. Riêng xét duyệt mất 10 đến 20 ngày làm việc. Gặp mùa tuyển dụng hoặc hồ sơ bị trả lại sẽ lâu hơn. Tuyển mùa thu, đăng ký thi công chức, nhập hộ khẩu đều có hạn chót; đừng đợi cần dùng mới làm.",
+      "benefit": "Công nhận trình độ và học vị nước ngoài hoặc ngoài lãnh thổ thực hiện tại cổng dịch vụ trực tuyến của Trung tâm Dịch vụ du học Trung Quốc thuộc Bộ Giáo dục. Có bốn bước: đăng ký, xác thực danh tính; nộp đơn và hồ sơ trực tuyến; thanh toán trực tuyến; chờ đánh giá, xét duyệt. Thời hạn công bố là 10 đến 20 ngày làm việc, không tính cuối tuần và ngày lễ; đây là thời gian Trung tâm dùng để xét.",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 网上服务大厅·学历学位认证. <http://zwfw.cscse.edu.cn/>",
+      "notes": "Hồ sơ gồm bằng tốt nghiệp, hộ chiếu hoặc giấy thông hành, thẻ cư trú hoặc thị thực/giấy phép đi lại, ảnh giấy tờ, tuyên bố ủy quyền. Hệ thống tự lấy lịch sử xuất nhập cảnh trong thời gian du học, vì vậy đừng làm mất trang thị thực thời gian ở ngoài. Trang Trung tâm còn công bố chứng nhận nào bị hủy, trường nào bị tạm ngừng nhận hồ sơ công nhận. Trước làm hãy xem trường mình có liên quan không."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

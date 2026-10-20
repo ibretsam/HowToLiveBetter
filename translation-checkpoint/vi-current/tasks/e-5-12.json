@@ -1,0 +1,48 @@
+{
+  "id": "e-5-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "a10ca1b318ceb4245d9f8e53b2f358bcbf8a138176d900f13f39e852c0961376",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "优先选通过一致性评价的仿制药和集采中选药",
+    "fields": {
+      "cost": "不花钱。医生开药、你去买药的时候，多问一句「有没有集采的、通用名的药」。",
+      "plain": "集采第二批药平均降价 53%，降得最多的降了 93%。到 2026 年 4 月，已经做了 11 批，覆盖 490 种药。开药买药时多问一句「有没有集采的、通用名的」，成分一样，钱能少花一大截。",
+      "benefit": "国家组织的药品集采，第二批平均降价 53%，最高降 93%。截至 2026 年 4 月，已经开展了 11 批，覆盖 490 种药品。通过或者视同通过一致性评价的药品达到 1695 个。这大约占临床常用化学药的 2/3（中国，2020 到 2026 年官方数据）",
+      "grade": "A",
+      "sources": "国家医疗保障局 (2020). 第二批国家组织药品集中采购和使用工作答记者问. <https://www.nhsa.gov.cn/art/2020/1/17/art_38_2264.html>；国家医疗保障局 (2026). 国务院政策例行吹风会：健全全周期全渠道药品价格形成机制. <http://www.nhsa.gov.cn/art/2026/4/15/art_14_20221.html>；国务院办公厅 (2016). 关于开展仿制药质量和疗效一致性评价的意见（国办发〔2016〕8 号）. <https://www.gov.cn/zhengce/zhengceku/2016-03/05/content_5049364.htm>；国家食品药品监督管理总局 (2016). 关于发布普通口服固体制剂参比制剂选择和确定等 3 个技术指导原则的通告（2016 年第 61 号）附件 1、附件 3，海南省药品监督管理局转载. <https://amr.hainan.gov.cn/himpa/ztzl/fzy/201607/t20160720_1591587.html>；国家医疗保障局 (2024). 集采药品质量严格监管，企业检查和品种抽检两个「全覆盖」. <https://www.nhsa.gov.cn/art/2024/12/30/art_52_15287.html>；国家医疗保障局 (2025). 医保部门、药监部门有关同志就集采药品相关问题接受人民日报健康客户端记者采访. <https://www.nhsa.gov.cn/art/2025/2/9/art_14_15647.html>",
+      "notes": "争议：常有人说「一致性评价只比成分，不比疗效」。这话对了一半。过评的做法是找健康人来吃药，抽血看药进到血液里以后的浓度曲线。再拿这条曲线和原研药的比，落在 80% 到 125% 之间就算过关。剂量差一点就出事的那类药，要求更严。辅料指有效成分之外的填充和包衣，允许和原研药不一样。法规只要求有效成分、剂型、吃法和治疗作用相同。所以它确实不是「找病人吃一段时间，看病好没好」。病人身上的效果由另一套研究来回答。国家医保局组织医院做过真实世界研究。到 2024 年 12 月，覆盖了 63 种集采药、近百家三甲医院、30 多万病人。结果都是和原研药没差别。比如二甲双胍，糖化血红蛋白达标率是仿制组 83.4%、原研组 78.9%。空腹血糖达标率反过来，仿制组 83.8%、原研组 87.6%。两组互有高低。2025 年 1 月，有医生公开说集采药「血压不降、麻药不睡、泻药不泻」。医保和药监去上海 7 家医院查过，结论是这些说法多半来自转述和个人感觉。被点名的那种泻药，当时还没开始在医院用。同一次也承认确实抽到过问题药。前 9 批 1600 多个中选产品里，有 9 个因为质量风险被取消资格。这 9 个里，6 个是进口药（含 3 个原研药），3 个是国产药。有两件事你能落实。一是想继续用原研药，通常还是开得到的。集采只占医院采购量的 60% 到 80%，剩下的由医院自己定。原研药没有被禁，代价是自己多掏钱。二是慢病换了药以后别凭感觉判断，按第 16 节第 3 条（把每次指标记在同一个本子上）盯住血压、血糖、糖化。真变差了就去找医生，请医生上报药品不良反应，别自己停药。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Ưu tiên thuốc generic đã qua đánh giá tính tương đương và thuốc trúng thầu mua sắm tập trung",
+    "fields": {
+      "cost": "Không tốn tiền. Khi bác sĩ kê hoặc khi mua, hỏi thêm “có thuốc mua sắm tập trung, thuốc theo tên hoạt chất không?”.",
+      "plain": "Thuốc đợt mua sắm tập trung thứ hai giảm giá trung bình 53%, cao nhất 93%. Đến tháng 4 năm 2026 đã có 11 đợt, bao phủ 490 loại thuốc. Khi kê hoặc mua thuốc hỏi thêm “có thuốc mua sắm tập trung, thuốc theo tên hoạt chất không”; thành phần giống nhau mà tiết kiệm được nhiều tiền.",
+      "benefit": "Chương trình mua sắm thuốc tập trung do nhà nước tổ chức giảm giá trung bình 53% ở đợt thứ hai, cao nhất 93%. Đến tháng 4 năm 2026 đã triển khai 11 đợt, bao phủ 490 loại thuốc. Có 1695 thuốc đã qua hoặc được coi là đã qua đánh giá tính tương đương, chiếm khoảng 2/3 thuốc hóa dược dùng phổ biến trong lâm sàng (Trung Quốc, số liệu chính thức từ 2020 đến 2026).",
+      "grade": "A",
+      "sources": "国家医疗保障局 (2020). 第二批国家组织药品集中采购和使用工作答记者问. <https://www.nhsa.gov.cn/art/2020/1/17/art_38_2264.html>；国家医疗保障局 (2026). 国务院政策例行吹风会：健全全周期全渠道药品价格形成机制. <http://www.nhsa.gov.cn/art/2026/4/15/art_14_20221.html>；国务院办公厅 (2016). 关于开展仿制药质量和疗效一致性评价的意见（国办发〔2016〕8 号）. <https://www.gov.cn/zhengce/zhengceku/2016-03/05/content_5049364.htm>；国家食品药品监督管理总局 (2016). 关于发布普通口服固体制剂参比制剂选择和确定等 3 个技术指导原则的通告（2016 年第 61 号）附件 1、附件 3，海南省药品监督管理局转载. <https://amr.hainan.gov.cn/himpa/ztzl/fzy/201607/t20160720_1591587.html>；国家医疗保障局 (2024). 集采药品质量严格监管，企业检查和品种抽检两个「全覆盖」. <https://www.nhsa.gov.cn/art/2024/12/30/art_52_15287.html>；国家医疗保障局 (2025). 医保部门、药监部门有关同志就集采药品相关问题接受人民日报健康客户端记者采访. <https://www.nhsa.gov.cn/art/2025/2/9/art_14_15647.html>",
+      "notes": "Còn tranh luận: có người nói “đánh giá tính tương đương chỉ so thành phần, không so hiệu quả”. Điều này đúng một nửa. Cách đánh giá là cho người khỏe dùng thuốc, lấy máu theo dõi đường cong nồng độ thuốc trong máu, so với thuốc phát minh; nằm trong khoảng 80% đến 125% thì đạt. Thuốc mà lệch liều chút ít đã nguy hiểm có yêu cầu nghiêm hơn. Tá dược là chất độn và lớp bao ngoài hoạt chất, được phép khác thuốc phát minh. Quy định chỉ yêu cầu cùng hoạt chất, dạng bào chế, cách dùng và tác dụng điều trị. Vì vậy đúng là không phải “cho bệnh nhân dùng một thời gian xem bệnh có đỡ không”. Hiệu quả trên bệnh nhân được trả lời bằng hệ nghiên cứu khác. Cục Bảo hiểm y tế quốc gia tổ chức nghiên cứu thực tế tại bệnh viện. Đến tháng 12 năm 2024, nghiên cứu gồm 63 thuốc mua sắm tập trung, gần một trăm bệnh viện hạng ba loại A, hơn 30 vạn bệnh nhân. Kết quả đều không khác thuốc phát minh. Ví dụ metformin: tỷ lệ đạt mục tiêu hemoglobin glycated là 83.4% ở nhóm generic, 78.9% ở nhóm thuốc phát minh; đường huyết lúc đói thì ngược lại, tương ứng 83.8% và 87.6%. Mỗi nhóm có chỉ số cao thấp khác nhau. Tháng 1 năm 2025, có bác sĩ công khai nói thuốc mua sắm tập trung “không hạ huyết áp, thuốc mê không gây ngủ, thuốc xổ không gây đi ngoài”. Cơ quan bảo hiểm y tế và quản lý thuốc kiểm tra 7 bệnh viện Thượng Hải, kết luận phần lớn là nghe kể và cảm nhận cá nhân; loại thuốc xổ bị nêu tên khi đó chưa được dùng trong bệnh viện. Cùng lần đó cũng thừa nhận đã lấy mẫu trúng thuốc có vấn đề. Trong hơn 1600 sản phẩm trúng thầu của 9 đợt đầu, có 9 sản phẩm bị loại vì nguy cơ chất lượng. Trong 9 sản phẩm đó, 6 là thuốc nhập khẩu (gồm 3 thuốc phát minh), 3 là thuốc nội địa. Bạn có thể làm hai việc. Thứ nhất, muốn tiếp tục thuốc phát minh thì thường vẫn kê được: mua sắm tập trung chỉ chiếm 60% đến 80% lượng mua của bệnh viện, phần còn lại bệnh viện tự quyết; thuốc phát minh không bị cấm, đổi lại bạn trả nhiều hơn. Thứ hai, đổi thuốc bệnh mạn tính thì đừng chỉ dựa cảm giác; theo chương 16 mục 3 (ghi các chỉ số vào cùng một sổ), theo dõi huyết áp, đường huyết, hemoglobin glycated. Nếu thực sự xấu đi, gặp bác sĩ và nhờ báo phản ứng có hại của thuốc, đừng tự ngừng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

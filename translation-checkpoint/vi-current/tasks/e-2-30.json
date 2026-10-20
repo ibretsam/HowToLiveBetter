@@ -1,0 +1,48 @@
+{
+  "id": "e-2-30",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "11565f8af455302e0b8b4438d6bd42064d54dfdad4fbadf7dbc1c14d1d677b05",
+  "status": "outdated",
+  "original": {
+    "number": 30,
+    "title": "热的东西放一放再喝，不喝滚烫的茶、汤和咖啡",
+    "fields": {
+      "cost": "不花钱，每次多等两三分钟。难在嘴馋的时候忍住不喝。",
+      "plain": "伊朗一个食管癌高发区的研究里，喝很烫的茶，得食管癌的概率是喝温茶的 8 倍。就算只是「热」，也有 2 倍。倒出来不到两分钟就喝，风险是等四分钟以上再喝的 5 倍。",
+      "benefit": "在伊朗北部的食管癌高发区，拿 300 名患者和 571 名没得病的人对比。下面都和喝温茶的人比。喝「热」茶的人，得食管鳞癌的机会约为 2.07 倍（比值比，95% CI 1.28–3.35，可信范围）。喝「很热」的约为 8.16 倍（3.93–16.9）。倒出后不到 2 分钟就喝的人，约为等 4 分钟以上再喝的人的 5.41 倍（2.63–11.1）",
+      "grade": "A",
+      "sources": "Islami F, Pourshams A, Nasrollahzadeh D, et al. (2009). Tea drinking habits and oesophageal cancer in a high risk area in northern Iran: population based case-control study. BMJ, 338, b929. <https://doi.org/10.1136/bmj.b929>；Loomis D, Guyton KZ, Grosse Y, et al. (2016). Carcinogenicity of drinking coffee, mate, and very hot beverages. Lancet Oncology, 17(7), 877-878. <https://doi.org/10.1016/S1470-2045(16)30239-X>；Yu C, Tang H, Guo Y, et al. (2018). Hot tea consumption and its interactions with alcohol and tobacco use on the risk for esophageal cancer: a population-based cohort study. Annals of Internal Medicine, 168(7), 489-497. <https://doi.org/10.7326/M17-2000>",
+      "notes": "国际癌症研究机构把 65 ℃ 以上的热饮列为 2A 类，意思是很可能致癌。同一份评估认定咖啡本身不致癌。国内一项研究跟踪了 45.6 万人，中位 9.2 年。喝很烫的茶、每天还喝 15 克以上酒的人，食管癌风险最高。他们约是很少喝茶、每天喝酒不到 15 克的人的 5 倍（HR 5.00，3.64–6.88）。吸烟又天天喝烫茶的，风险比是 2.03（1.55–2.67）。论文作者的结论是，烫茶和过量喝酒或吸烟叠在一起时，食管癌风险更高。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 30,
+    "title": "Để đồ nóng nguội bớt rồi uống; không uống trà, súp, cà phê nóng bỏng",
+    "fields": {
+      "cost": "Không tốn tiền, mỗi lần chờ thêm hai ba phút. Điều khó là kiềm chế không uống ngay lúc thèm.",
+      "plain": "Người uống trà rất nóng có khả năng mắc ung thư thực quản bằng 8 lần người uống trà ấm. Ngay cả chỉ “nóng” cũng bằng 2 lần. Uống chưa đầy hai phút sau khi rót có nguy cơ bằng 5 lần người đợi từ bốn phút trở lên.",
+      "benefit": "Tại vùng ung thư thực quản phổ biến ở miền bắc Iran, nghiên cứu so 300 bệnh nhân với 571 người không bệnh. So với trà ấm, người uống trà “nóng” có odds ung thư biểu mô vảy thực quản khoảng 2.07 lần (tỷ số odds, 95% CI 1.28–3.35 là khoảng tin cậy); trà “rất nóng” khoảng 8.16 lần (3.93–16.9). Người uống trong chưa đầy 2 phút sau rót có odds khoảng 5.41 lần người đợi từ 4 phút trở lên (2.63–11.1).",
+      "grade": "A",
+      "sources": "Islami F, Pourshams A, Nasrollahzadeh D, et al. (2009). Tea drinking habits and oesophageal cancer in a high risk area in northern Iran: population based case-control study. BMJ, 338, b929. <https://doi.org/10.1136/bmj.b929>；Loomis D, Guyton KZ, Grosse Y, et al. (2016). Carcinogenicity of drinking coffee, mate, and very hot beverages. Lancet Oncology, 17(7), 877-878. <https://doi.org/10.1016/S1470-2045(16)30239-X>",
+      "notes": "Cơ quan Nghiên cứu Ung thư Quốc tế xếp đồ uống từ 65 ℃ trở lên vào nhóm 2A, nghĩa là rất có thể gây ung thư. Cùng đánh giá đó xác định bản thân cà phê không gây ung thư. Vùng Triều Sán, Thái Hành Sơn ở Trung Quốc có ung thư thực quản phổ biến, liên quan thói quen uống khi còn nóng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

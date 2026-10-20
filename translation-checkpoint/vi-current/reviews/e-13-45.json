@@ -1,0 +1,15 @@
+{
+  "id": "e-13-45",
+  "source_sha256": "295cc6608699977ca2b38a2553bb3e3cc5d2a266fda9b324ee8eb501c4bd1589",
+  "draft_sha256": "873b204e408ba154ab37c0f79a1f587d81f2ec02e61fcf856e85de88e5a0c4b9",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed battery/magnet conditions, numerical cohorts, perforation risks, witness and misdiagnosis qualifiers, all honey eligibility conditions, six-dose limit and China/US guidance difference. Corrected 近五年 to năm năm gần đây. Made ages4/6/12以下 inclusive per documented translation convention; no source-claim verification performed."
+}

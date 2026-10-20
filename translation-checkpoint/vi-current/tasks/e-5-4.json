@@ -1,0 +1,48 @@
+{
+  "id": "e-5-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "f99fa244a624734926d9cb7e12fdfe758c2860dce728f7548d49b6cd8125b1cb",
+  "status": "draft",
+  "original": {
+    "number": 4,
+    "title": "每年重算一次手机和宽带套餐，用不上的降档，运营商不给转就投诉",
+    "fields": {
+      "cost": "不花钱。查一次账单，十几分钟。难的是要顶住客服不给你降档。",
+      "plain": "你用的老套餐，往往比现在新卖的贵几十块钱。一个月几十，一年就是几百块白扔。按规定，运营商没有正当理由，不能拒绝你转网，也不能拖着不给你办，更不能专门给转网的人单独设一套资费。它卡着不放，你就投诉。",
+      "benefit": "工信部的规章写明，运营商不得「无正当理由拒绝、阻止、拖延向用户提供携号转网服务」。也不得「采取拦截、限制等技术手段影响携号转网用户的通信服务质量」。还不得「为携号转网用户设置专项资费方案和营销方案」。老套餐往往比现在在售的套餐贵几十元。一直不换，就是每年白扔几百元",
+      "grade": "A",
+      "sources": "工业和信息化部 (2019). 携号转网服务管理规定（工信部信管〔2019〕242 号）. <http://www.gov.cn/zhengce/zhengceku/2019-11/13/content_5451483.htm>",
+      "notes": "先在营业厅 App 里查你近半年实际用了多少流量和通话，再按这个用量去选套餐。客服要是说「降档得到营业厅办」「合约期内不能改」，你就要求他给出书面依据。他给不出，就打 12300 投诉"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Mỗi năm tính lại gói điện thoại và internet một lần, hạ gói nếu không dùng hết; nhà mạng không cho chuyển thì khiếu nại",
+    "fields": {
+      "cost": "Không tốn tiền. Kiểm tra hóa đơn một lần, mất hơn mười phút. Khó ở chỗ phải kiên trì khi chăm sóc khách hàng không cho hạ gói.",
+      "plain": "Gói cũ bạn đang dùng thường đắt hơn gói đang bán vài chục nhân dân tệ. Mỗi tháng vài chục, cả năm là vài trăm nhân dân tệ bỏ phí. Theo quy định, nhà mạng không có lý do chính đáng thì không được từ chối hoặc trì hoãn chuyển mạng, càng không được đặt một biểu cước riêng cho người chuyển mạng. Họ gây khó thì bạn khiếu nại.",
+      "benefit": "Quy định của Bộ Công nghiệp và Công nghệ thông tin nêu rõ nhà mạng không được “từ chối, cản trở, trì hoãn cung cấp dịch vụ chuyển mạng giữ số cho người dùng khi không có lý do chính đáng”. Cũng không được “dùng các biện pháp kỹ thuật như chặn, hạn chế để ảnh hưởng chất lượng liên lạc của người chuyển mạng giữ số”, hoặc “đặt phương án cước và tiếp thị riêng cho người chuyển mạng giữ số”. Gói cũ thường đắt hơn gói đang bán vài chục nhân dân tệ. Không đổi thì mỗi năm bỏ phí vài trăm nhân dân tệ.",
+      "grade": "A",
+      "sources": "工业和信息化部 (2019). 携号转网服务管理规定（工信部信管〔2019〕242 号）. <http://www.gov.cn/zhengce/zhengceku/2019-11/13/content_5451483.htm>",
+      "notes": "Trước hết xem trong ứng dụng nhà mạng lượng dữ liệu và cuộc gọi thực tế của nửa năm gần đây, rồi chọn gói theo mức dùng đó. Nếu nhân viên nói “muốn hạ gói phải đến quầy” hoặc “chưa hết hợp đồng không đổi được”, hãy yêu cầu căn cứ bằng văn bản. Không đưa ra được thì gọi 12300 khiếu nại."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

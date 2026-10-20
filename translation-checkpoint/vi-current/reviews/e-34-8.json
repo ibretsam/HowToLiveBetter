@@ -1,0 +1,15 @@
+{
+  "id": "e-34-8",
+  "source_sha256": "1a11260d59cb53c6b0dc0aa84ec4b03eb0be82a4fa4b5bd2634fca2e82179f65",
+  "draft_sha256": "d20f0ca95da47a7939c3796aebd8a5ae67a156e483e8d4c79792dd68e223e7e6",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu phạm vi dưới 5 tuổi, tắc ruột có thể gây tử vong, không thay bằng đồ uống quá ngọt, công thức 245 mOsm/L và số liệu 33%, OR 0.59. Giữ rõ phép so sánh giữa hai công thức bù nước, không phải uống với không uống."
+}

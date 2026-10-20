@@ -1,0 +1,48 @@
+{
+  "id": "e-13-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "de2567e40d33fcc90d717963cf46aae96f1134ae3a5025cf19e72999bb99917d",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "突然全身起疹、喘不上气或者发晕，按过敏性休克处理，立刻叫 120 并说清楚",
+    "fields": {
+      "cost": "不花钱。已知有严重过敏的人自备肾上腺素笔要花钱，而且它是处方药。",
+      "plain": "突然全身起疹，再加上喘不上气或者发晕，就按过敏性休克办。立刻打 120，直接说「怀疑过敏性休克」，让急救带着肾上腺素来。抗过敏药和激素起效慢，替不了肾上腺素。有过一次严重过敏的人找医生问能不能开自动注射笔，打大腿中外侧，隔着不厚的裤子也能打。",
+      "benefit": "肾上腺素是二级及以上过敏性休克首选的药（一线药），指南把它列为强推荐。抗过敏药和激素起效慢，顶不了它的位置。国际红十字 2025 年急救指南写明，肾上腺素自动注射笔可以隔着衣服打，只要衣服不厚。医生开了处方、当地法律允许的，病人自己打不了时，旁人可以帮着打",
+      "grade": "B（指南强推荐，但底层证据等级低）",
+      "sources": "中国医药教育协会等 (2022). 过敏性休克急救临床实践指南（2020）. Frontiers in Pharmacology：「Epinephrine is the first-line medicine in GRADE II to IV anaphylaxis」「Intramuscular epinephrine should be injected in the mid-anterolateral thigh」，成人肌注上限 0.5 mg、14 岁以下 0.3 mg，无反应可每 5–15 分钟重复一次，「If an epinephrine pre-filled injector/auto-injector is available, they should follow the instructions written on the packaging or insert」. <https://doi.org/10.3389/fphar.2022.845689>；Muraro A, et al. (2022). EAACI guidelines: Anaphylaxis (2021 update). Allergy. <https://doi.org/10.1111/all.15032>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 376 页：「The epinephrine auto-injection may be administered through the person's clothing if the clothes are not thick」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>",
+      "notes": "这份过敏指南（EAACI）自己写明，这个领域「证据大多停留在很低的等级」。它列为强推荐，是因为好处远大于风险，不是因为有大型试验。肾上腺素是处方药，手上没有的，能做的是叫 120，并说「怀疑过敏性休克」，让急救带着药来。有过一次严重过敏的，找医生问能不能开肾上腺素预充针或者自动注射笔，学会打大腿中外侧（外侧偏前），隔着不厚的裤子也能打。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Đột ngột nổi ban toàn thân, khó thở hoặc choáng, xử lý như sốc phản vệ, gọi 120 ngay và nói rõ",
+    "fields": {
+      "cost": "Không tốn tiền. Người đã biết dị ứng nặng tự chuẩn bị bút adrenaline thì tốn tiền, và đây là thuốc kê đơn.",
+      "plain": "Đột ngột nổi ban toàn thân kèm khó thở hoặc choáng thì xử lý như sốc phản vệ. Gọi 120 ngay, nói “nghi sốc phản vệ” để cấp cứu mang adrenaline. Thuốc chống dị ứng, steroid tác dụng chậm, không thay adrenaline được. Người từng bị hãy nhờ bác sĩ kê bút tự tiêm, tiêm giữa mặt ngoài đùi, xuyên quần cũng được.",
+      "benefit": "Adrenaline là thuốc đầu tay cho sốc phản vệ từ cấp hai trở lên, được hướng dẫn khuyến cáo mạnh. Thuốc chống dị ứng, steroid khởi tác dụng chậm, không thay thế được.",
+      "grade": "B (hướng dẫn khuyến nghị mạnh, nhưng mức độ bằng chứng nền tảng thấp)",
+      "sources": "中国医药教育协会等 (2022). 过敏性休克急救临床实践指南（2020）. Frontiers in Pharmacology：「Epinephrine is the first-line medicine in GRADE II to IV anaphylaxis」「Intramuscular epinephrine should be injected in the mid-anterolateral thigh」，成人肌注上限 0.5 mg、14 岁以下 0.3 mg，无反应可每 5–15 分钟重复一次. <https://doi.org/10.3389/fphar.2022.845689>；Muraro A, et al. (2022). EAACI guidelines: Anaphylaxis (2021 update). Allergy. <https://doi.org/10.1111/all.15032>",
+      "notes": "Hướng dẫn dị ứng EAACI tự ghi bằng chứng lĩnh vực này “phần lớn ở mức rất thấp”. Khuyến cáo mạnh vì lợi ích lớn hơn rủi ro rất nhiều, không phải vì có thử nghiệm lớn. Ở Trung Quốc adrenaline là thuốc kê đơn, người thường không sẵn có. Có thể gọi 120, nói “nghi sốc phản vệ” để đội mang thuốc. Đã từng dị ứng nặng thì nhờ bác sĩ kê bút tự tiêm, học tiêm giữa mặt ngoài hơi trước đùi, xuyên quần cũng được."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

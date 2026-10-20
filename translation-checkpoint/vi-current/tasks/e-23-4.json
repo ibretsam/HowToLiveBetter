@@ -1,0 +1,48 @@
+{
+  "id": "e-23-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "41fe5be7b71535724fcc61b58c93f487b5cf69d8b038ccac0d418c8b356f3ef7",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "「读不起」先按政策算一遍：公办中职学费对农村和困难学生大多已免，助学金 2300 元，助学贷款每年最高 2 万",
+    "fields": {
+      "cost": "不花钱。开学前去学校的学生资助管理机构问一次，交一次材料。",
+      "plain": "公办中职里，农村学生、城市涉农专业学生和家庭困难学生已经免学费。中职和普通高中的助学金，2025 年春季起每年 2300 元。上了大学，助学金每年 3700 元，助学贷款每年最多能借 2 万。钱不够时，先把这几样算一遍，再决定要不要退学去打工。",
+      "benefit": "中职免学费是 2012 年秋季学期起的政策。原文是「对公办中等职业学校全日制正式学籍一、二、三年级在校生中所有农村（含县镇）学生、城市涉农专业学生和家庭经济困难学生免除学费（艺术类相关表演专业学生除外）」。2024 年调整了学生资助政策。本专科生国家助学金由每生每年 3300 元提高到 3700 元。国家励志奖学金由 5000 元提高到 6000 元。这两项从 2024 年秋季学期起执行（励志奖学金自 2024 年起）。中等职业学校国家助学金、普通高中国家助学金都由每生每年 2000 元提高到 2300 元，从 2025 年春季学期起执行。国家助学贷款也调了，从 2024 年秋季学期起。本专科学生「每人每年申请贷款额度由不超过16000元提高至不超过20000元」。研究生「由不超过20000元提高至不超过25000元」。利率是同期同档次的贷款市场报价利率（LPR）减 70 个基点（再低 0.7 个百分点）（全国）",
+      "grade": "A",
+      "sources": "财政部、发展改革委、教育部、人力资源社会保障部 (2012). 关于扩大中等职业教育免学费政策范围 进一步完善国家助学金制度的意见（财教〔2012〕376 号）. <http://www.gov.cn/gongbao/content/2013/content_2332779.htm>；财政部、教育部、人力资源社会保障部有关司局负责人 (2024). 就调整学生资助政策有关问题答记者问. <https://www.gov.cn/zhengce/202410/content_6983672.htm>；财政部、教育部、人民银行、金融监管总局 (2024). 关于调整完善国家助学贷款有关政策的通知（财教〔2024〕188 号）. <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm>",
+      "notes": "受益人是自己和子女。免学费具体覆盖哪些人、助学金分几档，都由各省定。民办学校按当地公办同类专业的标准补助，差额还是要自己付，所以入学前要按本地文件核一遍。助学贷款是贷款不是补助，毕业后要还。但它把「现在拿不出学费」和「这几年划不划算」拆成了两件事，先别把钱不够当成结论。第 7 节写过失业期间的培训补贴和临时救助，家里确实断了收入就先去申请那几样"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "“Không đủ tiền học” thì tính chính sách trước: phần lớn học phí trung cấp nghề đã miễn, trợ cấp 2300 nhân dân tệ, vay học tối đa 2 vạn mỗi năm",
+    "fields": {
+      "cost": "Không tốn tiền. Trước nhập học hỏi cơ quan hỗ trợ sinh viên trường một lần, nộp hồ sơ một lần.",
+      "plain": "Trung cấp nghề công lập miễn học phí cho học sinh nông thôn, học sinh thành thị ngành nông nghiệp và gia đình khó khăn. Trợ cấp trung cấp nghề, phổ thông trung học từ xuân 2025 là 2300 nhân dân tệ/năm. Lên cao đẳng/đại học, trợ cấp 3700/năm, vay tối đa 2 vạn/năm. Thiếu tiền có thể trì hoãn, đổi cách, hiếm khi đến mức buộc bỏ học đi làm ngay.",
+      "benefit": "Miễn học phí trung cấp nghề bắt đầu kỳ thu 2012: “Miễn cho toàn bộ học sinh nông thôn (kể huyện, thị trấn), học sinh thành thị ngành nông nghiệp, học sinh khó khăn kinh tế gia đình đang học năm một, hai, ba hệ chính quy toàn thời gian trường trung cấp nghề công lập (trừ ngành biểu diễn nghệ thuật liên quan)”. Năm 2024 điều chỉnh hỗ trợ học sinh. Trợ cấp quốc gia cao đẳng/đại học từ 3300 lên 3700/người/năm; học bổng khuyến học quốc gia từ 5000 lên 6000. Hai khoản từ kỳ thu 2024 (học bổng từ năm 2024). Trợ cấp quốc gia trung cấp nghề và phổ thông trung học từ 2000 lên 2300/người/năm, từ kỳ xuân 2025. Vay học quốc gia cũng đổi từ kỳ thu 2024: cao đẳng/đại học “hạn mỗi người mỗi năm từ không quá 16000 lên không quá 20000”; sau đại học “từ không quá 20000 lên không quá 25000”. Lãi suất bằng LPR cùng kỳ hạn, cùng loại trừ 70 điểm cơ bản (thấp hơn 0.7 điểm phần trăm) (toàn quốc)",
+      "grade": "A",
+      "sources": "财政部、发展改革委、教育部、人力资源社会保障部 (2012). 关于扩大中等职业教育免学费政策范围 进一步完善国家助学金制度的意见（财教〔2012〕376 号）. <http://www.gov.cn/gongbao/content/2013/content_2332779.htm>；财政部、教育部、人力资源社会保障部有关司局负责人 (2024). 就调整学生资助政策有关问题答记者问. <https://www.gov.cn/zhengce/202410/content_6983672.htm>；财政部、教育部、人民银行、金融监管总局 (2024). 关于调整完善国家助学贷款有关政策的通知（财教〔2024〕188 号）. <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm>",
+      "notes": "Hưởng lợi là bạn và con. Miễn cho ai, trợ cấp chia mấy mức do tỉnh quyết. Trường tư hỗ trợ theo chuẩn ngành cùng loại công lập địa phương, phần chênh tự trả, nên đối chiếu văn bản sở tại trước nhập học. Vay học là vay, không phải trợ cấp, tốt nghiệp phải trả. Nhưng nó tách “hiện không có học phí” khỏi “mấy năm này có đáng không”, đừng kết luận chỉ vì thiếu tiền. Chương 7 đã nói trợ cấp đào tạo khi thất nghiệp, cứu trợ tạm thời; gia đình thật sự mất thu nhập thì xin các khoản đó trước"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

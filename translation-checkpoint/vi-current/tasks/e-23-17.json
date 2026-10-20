@@ -1,0 +1,48 @@
+{
+  "id": "e-23-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "f3d6b53a4707c6aa0f575f75b48aea3ca5cd2554373c2cf6fb2111888841509a",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "几种题型混着练，别一种连做二十道",
+    "fields": {
+      "cost": "不花钱。把练习册按题型顺序做改成打乱着做。难在混着练当场正确率更低，感觉像退步。",
+      "plain": "同一类题连做一大串，当场做得顺。把几类题打乱着练，长期效果更好，属于中等幅度。但这招挑材料：认画家风格这类看图的材料最有效，数学题小一些，背单词反而不如分块练。",
+      "benefit": "一份纳入 59 项研究、238 个效应量、158 个样本的多层荟萃分析。交错练习相对于分块练习的总体效应属于中等（Hedges' g = 0.42）。按材料分，绘画类最好（g = 0.67），其他视觉材料也较好。数学任务的效应较小（g = 0.34）。说明性文本和味觉材料的总体效应不显著。词汇类反而是分块练习更好（g = −0.39）。回归分析显示：类别之间越相似、同一类别内部越不相似、材料越复杂，交错的好处越大。",
+      "grade": "A",
+      "sources": "Brunmair M, Richter T (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. Psychological Bulletin, 145(11), 1029–1052. <https://doi.org/10.1037/bul0000209>",
+      "notes": "第 16 条（别把划重点当主要学法）引的那份综述把交错练习评为中等一档，理由是当时研究还不够多。两份合起来看，需要「认出这是哪一类、该用哪个方法」的内容混着练，比如数学题型、病例、法条适用。需要死记的内容分块练，比如单词、名词解释。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Luyện trộn các dạng bài, đừng làm liền hai mươi câu cùng dạng",
+    "fields": {
+      "cost": "Không tốn tiền. Đổi làm sách bài theo thứ tự dạng thành xáo trộn. Khó là làm trộn có tỷ lệ đúng tức thì thấp hơn, cảm giác lùi.",
+      "plain": "Làm chuỗi dài cùng dạng rất trơn ngay lúc đó nhưng sau chưa chắc phân được dùng cách nào. Trộn các dạng cho hiệu quả dài hạn tốt hơn, mức vừa. Nhưng tùy tài liệu: hình ảnh, phân loại hiệu quả nhất; toán nhỏ hơn; từ vựng lại kém hơn học từng khối.",
+      "benefit": "Phân tích gộp nhiều tầng gồm 59 nghiên cứu, 238 cỡ hiệu ứng, 158 mẫu. Luyện xen kẽ so từng khối có tác dụng tổng vừa (Hedges' g = 0.42). Theo tài liệu: tranh vẽ tốt nhất (g = 0.67), thị giác khác cũng tốt; toán nhỏ hơn (g = 0.34); văn bản thuyết minh, vị giác không có tác dụng tổng có ý nghĩa; từ vựng từng khối tốt hơn (g = −0.39). Hồi quy cho thấy giữa loại càng giống, trong cùng loại càng khác, tài liệu càng phức tạp thì xen kẽ càng có lợi.",
+      "grade": "A",
+      "sources": "Brunmair M, Richter T (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. Psychological Bulletin, 145(11), 1029–1052. <https://doi.org/10.1037/bul0000209>",
+      "notes": "Tổng quan ở mục 16 (đừng lấy gạch ý làm chính) xếp xen kẽ trung bình vì lúc đó nghiên cứu chưa đủ. Gộp hai nguồn, cách dùng: nội dung cần nhận loại và chọn cách thì trộn, như dạng toán, ca bệnh, áp dụng điều luật; cần nhớ máy móc thì theo khối, như từ vựng, định nghĩa."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-13-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "1192baaebe300ecc00b14a75eac757f540d63957e8c68a7e83f2a2a1f2b4028b",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "一只眼睛突然像拉下窗帘一样黑掉，哪怕几分钟就自己好了，也当天按卒中去急诊",
+    "fields": {
+      "cost": "不花钱。急诊评估和血管检查要占掉半天到一天。",
+      "plain": "一只眼突然像拉下窗帘一样黑掉，可能是眼底血管堵了，堵得越久，能救回的视网膜越少。它也是脑缺血的一种，几分钟就好了也要去。小中风和短暂脑缺血改成当天评估、当天治，90 天内再中风从 10.3% 降到 2.1%。当天去有卒中中心的急诊，别等第二天。",
+      "benefit": "美国心脏协会 2021 年关于视网膜中央动脉阻塞（眼底那根主血管被堵住）的科学声明写明：「急性视网膜中央动脉阻塞是急症」。救治体系应当把它按急诊来识别、按轻重缓急排顺序。断血时间越长，还能救回来的视网膜越少。牛津 EXPRESS 研究看的是两类病人：小卒中，和症状自己好转的脑缺血（医学上叫短暂性脑缺血发作）。这批病人后来改为当天评估、当天开始治疗。改了之后，90 天内再发卒中的比例从 10.3%（32/310）降到 2.1%（6/281）。这份科学声明的摘要还写明，视网膜中央动脉阻塞是急性缺血性卒中的一种，也是接下来出现脑血管和心血管事件的预兆。英国国家医疗服务体系（NHS）把「一只眼或两只眼视物模糊、看不见」列为卒中症状，并写明症状过一会儿自己停了，也要立刻求医。过去 24 小时内出现过卒中症状、现在已经停了的，同样要打急救电话",
+      "grade": "B",
+      "sources": "Mac Grory B, Schrag M, Biousse V, et al. (2021). Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke, 52(6), e282-e294：「Central retinal artery occlusion (CRAO) is a form of acute ischemic stroke that causes severe visual loss and is a harbinger of further cerebrovascular and cardiovascular events」. <https://doi.org/10.1161/STR.0000000000000366> ；NHS. Symptoms of a stroke：「blurred vision or loss of sight in 1 or both eyes」「Symptoms of a stroke can sometimes stop after a short time, so you may think you're OK. Even if this happens, get medical help straight away」「you've had signs of a stroke within the last 24 hours even if they've now stopped」. <https://www.nhs.uk/conditions/stroke/symptoms/> ; Rothwell PM, Giles MF, Chandratheva A, et al. (2007). Effect of urgent treatment of transient ischaemic attack and minor stroke on early recurrent stroke (EXPRESS study): a prospective population-based sequential comparison. Lancet, 370(9596), 1432-1442. <https://doi.org/10.1016/S0140-6736(07)61448-2>",
+      "notes": "定 B 是因为 EXPRESS 不是随机试验。它比的是同一片人群改做法之前、之后两段时间，两段之间别的条件也可能变了，这部分分不开。眼前一黑几分钟又自己恢复，容易被当成「累的」「低血糖」放过去。NHS 写明，症状自己停了也要立刻求医，EXPRESS 那批病人不当天治，90 天内再中风的有 10.3%。单眼突然看不见，就算不疼、不红，也要当回事。别等第二天挂眼科门诊，直接去有卒中中心的医院急诊。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Một mắt đột ngột tối như kéo rèm, dù vài phút tự hết, vẫn đến cấp cứu trong ngày theo hướng đột quỵ",
+    "fields": {
+      "cost": "Không tốn tiền. Đánh giá cấp cứu và kiểm tra mạch máu mất nửa ngày đến một ngày.",
+      "plain": "Một mắt đột ngột tối như kéo rèm là mạch đáy mắt bị tắc; tắc càng lâu càng ít võng mạc cứu được. Đây cũng là một dạng thiếu máu não, vài ngày tiếp dễ đột quỵ. Với người được đánh giá và bắt đầu điều trị ngay trong ngày, tỷ lệ đột quỵ tiếp trong 90 ngày giảm từ 10.3% xuống 2.1%. Đến cấp cứu có trung tâm đột quỵ trong ngày, đừng chờ hôm sau khám mắt.",
+      "benefit": "Tuyên bố khoa học năm 2021 của Hiệp hội Tim mạch Mỹ về tắc động mạch trung tâm võng mạc, tức mạch chính đáy mắt bị tắc, ghi rõ: “Tắc động mạch trung tâm võng mạc cấp là cấp cứu”. Hệ thống cứu chữa cần nhận diện là cấp cứu và phân loại theo mức khẩn. Thiếu máu càng lâu, càng ít võng mạc cứu được. Nghiên cứu EXPRESS ở Oxford xét hai nhóm: đột quỵ nhẹ và thiếu máu não có triệu chứng tự hết, gọi là cơn thiếu máu não thoáng qua. Khi chuyển sang đánh giá và điều trị ngay trong ngày, tỷ lệ đột quỵ tái phát trong 90 ngày giảm từ 10.3% (32/310) xuống 2.1% (6/281).",
+      "grade": "B",
+      "sources": "Mac Grory B, Schrag M, Biousse V, et al. (2021). Management of Central Retinal Artery Occlusion: A Scientific Statement From the American Heart Association. Stroke, 52(6), e282-e294. <https://doi.org/10.1161/STR.0000000000000366> ; Rothwell PM, Giles MF, Chandratheva A, et al. (2007). Effect of urgent treatment of transient ischaemic attack and minor stroke on early recurrent stroke (EXPRESS study): a prospective population-based sequential comparison. Lancet, 370(9596), 1432-1442. <https://doi.org/10.1016/S0140-6736(07)61448-2>",
+      "notes": "Mức B vì EXPRESS không phải thử nghiệm ngẫu nhiên. Nghiên cứu so cùng quần thể ở hai giai đoạn trước và sau thay đổi cách làm; điều kiện khác cũng có thể thay đổi, không tách riêng được. Mắt tối vài phút rồi tự hồi phục dễ bị bỏ qua vì tưởng mệt, hạ đường huyết. Đây là dạng thiếu máu não thoáng qua; vài ngày sau là cửa sổ nguy cơ đột quỵ cao. Mất nhìn một mắt không đau, đỏ, chảy nước mắt càng cần chú ý. Đừng chờ hôm sau khám mắt ngoại trú; đến thẳng cấp cứu bệnh viện có trung tâm đột quỵ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

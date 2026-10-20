@@ -1,0 +1,48 @@
+{
+  "id": "e-3-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "381002bcd630ad34f138525d92260188a6ea0a63587f224f7b71d1ac58b1a197",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "减少让你消耗的人际关系，学会拒绝不想接的请求",
+    "fields": {
+      "cost": "不花钱。短期内会有社交摩擦，可能失去一部分关系。开口拒绝需要相当的毅力。",
+      "plain": "一项对 60 到 89 岁丧偶女性的调查里，让人难受的来往和幸福感的关系，比让人舒服的来往更强，也更一致。所以先做减法，再做加法。",
+      "benefit": "对 120 名 60 到 89 岁丧偶女性的调查：让人难受的来往和心理幸福感的关联，比让人舒服的来往更一致、也更强。按这个结果，一个消耗你的人造成的损失，大于一个支持你的人带来的好处。",
+      "grade": "C",
+      "sources": "Rook (1984). The negative side of social interaction: Impact on psychological well-being. Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.46.5.1097>",
+      "notes": "受访人群特殊，而且是一次性问卷，看不出先后。量的是幸福感，不是精力。放在本节是作者的推断。哪些关系算「消耗」没有客观标准，只能自己判断。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Giảm các mối quan hệ làm bạn hao sức, học từ chối yêu cầu mình không muốn nhận",
+    "fields": {
+      "cost": "Không tốn tiền. Trước mắt có thể xảy ra xích mích và mất một số mối quan hệ. Mở lời từ chối cần khá nhiều ý chí.",
+      "plain": "Tổn thất do một người làm bạn hao sức lớn hơn và nhất quán hơn lợi ích do một người hỗ trợ đem lại. Vì vậy, trước hết bớt những quan hệ gây hao tổn rồi hãy thêm quan hệ hỗ trợ.",
+      "benefit": "Khảo sát 120 phụ nữ góa chồng từ 60 đến 89 tuổi cho thấy liên hệ giữa giao tiếp gây khó chịu và hạnh phúc tâm lý mạnh, nhất quán hơn giao tiếp dễ chịu. Theo kết quả này, tổn thất từ một người làm bạn hao sức lớn hơn lợi ích của một người hỗ trợ.",
+      "grade": "C",
+      "sources": "Rook (1984). The negative side of social interaction: Impact on psychological well-being. Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.46.5.1097>",
+      "notes": "Nhóm được khảo sát khá đặc thù, lại chỉ hỏi một lần nên không biết điều gì xảy ra trước. Nghiên cứu đo hạnh phúc, không đo sức lực; đưa vào chương này là suy luận của tác giả. Không có tiêu chuẩn khách quan cho quan hệ nào “gây hao sức”, bạn phải tự đánh giá."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-15-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "827600251b8c71eff72faba4dee907f10c371ce008067eb479b77210ce95cf38",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "租长租公寓先查它的资金监管账户，别图便宜一次性付一年",
+    "fields": {
+      "cost": "不花钱。查一次十几分钟",
+      "plain": "一次性付一年，拿到的折扣就那么点。公司一旦跑路，你的押金和剩下十几个月的房租可能一起没。绑了租金贷更糟：公寓跑了，贷款还是你按月还完。签约前先查它有没有公示资金监管账户。",
+      "benefit": "行政法规要求转租经营的住房租赁企业「设立住房租赁资金监管账户并向社会公示」。转租经营就是企业从房东手里整租下来，再转租给你。一次性付一年拿到的那点折扣，抵不上企业跑路时押金和剩余租金一起没的风险。同时签了租金贷的，风险更大",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十九条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "签约时看清有没有绑定贷款。如果是分期 App 把一年的钱一次性给了公寓、你按月还贷，那么公寓跑了你还要接着还。这种合同不签"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Trước khi thuê căn hộ dài hạn do doanh nghiệp vận hành, kiểm tra tài khoản giám sát vốn; đừng ham rẻ trả một lần cả năm",
+    "fields": {
+      "cost": "Không tốn tiền. Mỗi lần kiểm tra mất hơn mười phút",
+      "plain": "Trả một lần cả năm chỉ được giảm một ít. Nếu công ty sụp đổ, tiền cọc và hơn mười tháng tiền thuê còn lại mất cùng lúc. Có kèm khoản vay tiền thuê còn tệ hơn: công ty căn hộ bỏ trốn, bạn vẫn phải trả hết khoản vay hằng tháng. Trước khi ký, kiểm tra họ đã công khai tài khoản giám sát vốn chưa.",
+      "benefit": "Quy định hành chính yêu cầu doanh nghiệp kinh doanh cho thuê lại nhà “mở tài khoản giám sát vốn cho thuê nhà và công khai với xã hội”. Cho thuê lại nghĩa là doanh nghiệp thuê trọn từ chủ nhà rồi cho bạn thuê lại. Khoản giảm ít ỏi khi trả một lần cả năm không bù được rủi ro mất cả cọc và tiền thuê còn lại khi doanh nghiệp bỏ trốn. Nếu đồng thời ký khoản vay tiền thuê thì rủi ro còn lớn hơn",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十九条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "Khi ký, xem kỹ có kèm khoản vay không. Nếu ứng dụng trả góp trả cả năm tiền thuê một lần cho công ty căn hộ, còn bạn trả nợ hằng tháng, thì dù công ty bỏ trốn bạn vẫn phải trả tiếp. Đừng ký loại hợp đồng này"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

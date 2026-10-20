@@ -1,0 +1,48 @@
+{
+  "id": "e-6-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "0f31e3a0763839ef9baa780a0292e0e7e6bd272a1dc45211d05a9f61efba8e13",
+  "status": "draft",
+  "original": {
+    "number": 2,
+    "title": "不要为了预防心血管病吃普通鱼油",
+    "fields": {
+      "cost": "一天约 1 到 3 元，一年 400 到 1000 元。吃它不费时间。",
+      "plain": "两项大试验分别找了 2.6 万人和 1.5 万名糖尿病患者。每天吃 1 克鱼油的人，心脏血管出大事的、死掉的，都和不吃的一样多。「吃鱼有好处」不等于「吃鱼油胶囊有好处」。不买能省下一年四百到一千块。",
+      "benefit": "VITAL 试验找了 25,871 人，每天吃 1 克鱼油，跟踪了 5.3 年（中位数）。心脏血管出大事和死亡，两边都没看出差别。主要心血管事件 HR 0.92（HR 是风险比，1 就是两边一个样）。95% CI 0.80–1.06 是这个数的可信范围。它跨过了 1，说明看不出差别。全因死亡 HR 1.02（0.90–1.15）。ASCEND 试验找了 15,480 名糖尿病患者，也是每天 1 克，平均跟踪 7.4 年，同样没看出差别。严重血管事件 RR 0.97（0.87–1.08）。全因死亡 RR 0.95（0.86–1.05）。它看起来划算，是因为很多人把「吃鱼有好处」直接当成了「吃鱼油胶囊有好处」",
+      "grade": "A",
+      "sources": "Manson JE et al. (2019). Marine n-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer. NEJM. <https://doi.org/10.1056/NEJMoa1811403>；ASCEND Study Collaborative Group (2018). Effects of n-3 Fatty Acid Supplements in Diabetes Mellitus. NEJM. <https://doi.org/10.1056/NEJMoa1804989>；Bhatt DL 等 (2019). Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa1812792>（备注里那项高纯度处方鱼油试验）",
+      "notes": "争议：有一项试验是有效的。REDUCE-IT 试验找了 8,179 人，他们本来就有心血管病或糖尿病，都在吃他汀，甘油三酯还偏高（135–499 mg/dL）。他们每天吃 4 g 纯 EPA 的处方药，出事的比例 17.2% 对 22.0%。风险低约四分之一（HR 0.75，0.68–0.83）。但那是给高危病人开的大剂量处方药，不等于普通人吃保健品鱼油。这里说的也不包括吃鱼本身"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Đừng uống dầu cá thông thường để phòng bệnh tim mạch",
+    "fields": {
+      "cost": "Khoảng 1 đến 3 nhân dân tệ mỗi ngày, 400 đến 1000 nhân dân tệ mỗi năm. Uống không mất thời gian.",
+      "plain": "Hai thử nghiệm lớn lần lượt có 2.6 vạn người và 1.5 vạn bệnh nhân đái tháo đường. Uống 1 gam dầu cá mỗi ngày thì số biến cố tim mạch lớn và tử vong vẫn như không uống. “Ăn cá có lợi” không đồng nghĩa “uống viên dầu cá có lợi”. Không mua tiết kiệm bốn trăm đến một nghìn nhân dân tệ mỗi năm.",
+      "benefit": "VITAL có 25,871 người uống 1 gam dầu cá mỗi ngày, theo dõi trung vị 5.3 năm. Không thấy khác biệt biến cố tim mạch lớn hay tử vong. HR biến cố tim mạch chính 0.92 (HR là tỷ số nguy cơ, 1 nghĩa hai bên giống nhau), 95% CI 0.80–1.06 là khoảng tin cậy, đi qua 1 nên không thấy khác biệt. HR tử vong mọi nguyên nhân 1.02 (0.90–1.15). ASCEND có 15,480 bệnh nhân đái tháo đường, cũng 1 gam mỗi ngày, theo dõi trung bình 7.4 năm, tương tự không thấy khác. RR biến cố mạch máu nghiêm trọng 0.97 (0.87–1.08), RR tử vong mọi nguyên nhân 0.95 (0.86–1.05). Nó có vẻ đáng tiền vì nhiều người đồng nhất “ăn cá tốt” với “uống viên dầu cá tốt”.",
+      "grade": "A",
+      "sources": "Manson JE et al. (2019). Marine n-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer. NEJM. <https://doi.org/10.1056/NEJMoa1811403>；ASCEND Study Collaborative Group (2018). Effects of n-3 Fatty Acid Supplements in Diabetes Mellitus. NEJM. <https://doi.org/10.1056/NEJMoa1804989>；Bhatt DL 等 (2019). Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa1812792>（备注里那项高纯度处方鱼油试验）",
+      "notes": "Còn tranh luận: có thử nghiệm hiệu quả. REDUCE-IT có 8,179 người vốn bị tim mạch hoặc đái tháo đường, đều dùng statin, triglyceride còn cao (135–499 mg/dL). Dùng thuốc kê đơn EPA tinh khiết 4 g mỗi ngày, tỷ lệ biến cố 17.2% so với 22.0%, nguy cơ thấp hơn khoảng một phần tư (HR 0.75, 0.68–0.83). Nhưng đó là thuốc kê đơn liều cao cho bệnh nhân nguy cơ cao, không tương đương người bình thường uống thực phẩm bổ sung dầu cá. Mục này cũng không nói về ăn cá."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

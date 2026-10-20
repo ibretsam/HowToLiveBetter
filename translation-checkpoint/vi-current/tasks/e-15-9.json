@@ -1,0 +1,48 @@
+{
+  "id": "e-15-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "a92280d3426dd9952d4ed46a6456fa53f5329759c8b81e6c74d72fcb8188ab4c",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "城镇户口想搬去乡下住，只租农房，别买宅基地和宅基地上的房子",
+    "fields": {
+      "cost": "不花钱。代价是房子不归你，租期一次最长 20 年，到期要重新和房东谈",
+      "plain": "城镇户口的人不能到农村买宅基地、农民的房子或者「小产权房」，国家文件明令禁止。村里人说「写个合同就行」，也一样不行。想在乡下长住，就签租赁合同，一次最长签 20 年，到期再续。",
+      "benefit": "国务院办公厅的文件写得很明白：「城镇居民不得到农村购买宅基地、农民住宅或『小产权房』。」同一份文件还规定，农民卖掉或者租出住房以后，再申请宅基地不会批准。2019 年中央农办和农业农村部的文件又说了一遍：「严禁城镇居民到农村购买宅基地。」同一份文件给出了合法的路：城镇居民可以租农房居住或者经营。租赁合同的期限不得超过二十年，到期双方可以另行约定",
+      "grade": "A",
+      "sources": "国务院办公厅 (2007). 关于严格执行有关农村集体建设用地法律和政策的通知（国办发〔2007〕71 号）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_2395.htm>；中央农村工作领导小组办公室、农业农村部 (2019). 关于进一步加强农村宅基地管理的通知（中农发〔2019〕11 号）第五、六部分. <https://www.moa.gov.cn/govpublic/NCJJTZ/201909/t20190920_6328397.htm>",
+      "notes": "宅基地就是村里分给本村村民盖房的地，只能分给本村人。租农房时和出租的农户签书面合同，写清租期、租金、能不能装修改建，以及装修的钱到期怎么算。文件规定租期不超过 20 年，别签「租 50 年」「租 70 年」这类合同，更别一次付清多年租金。文件还禁止下乡用宅基地盖别墅大院和私人会馆，别出钱给村民「合建」。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Nếu có hộ khẩu đô thị và muốn về nông thôn ở, chỉ thuê nhà nông thôn; đừng mua đất ở được giao cho hộ nông thôn hay nhà trên đất đó",
+    "fields": {
+      "cost": "Không tốn tiền. Đánh đổi là nhà không thuộc về bạn, mỗi lần thuê tối đa 20 năm; hết hạn phải thương lượng lại với chủ nhà",
+      "plain": "Người có hộ khẩu đô thị không được về nông thôn mua đất ở giao cho hộ nông thôn, nhà của nông dân hoặc “nhà tiểu sản quyền”; văn bản Nhà nước cấm rõ. Người trong làng nói “viết hợp đồng là được” cũng không được: trả tiền rồi nhà vẫn không trở thành của bạn. Muốn ở lâu tại nông thôn thì ký hợp đồng thuê, mỗi lần tối đa 20 năm, hết hạn gia hạn tiếp.",
+      "benefit": "Văn bản của Văn phòng Quốc vụ viện ghi rõ: “Cư dân đô thị không được về nông thôn mua đất ở được giao cho hộ nông thôn, nhà ở của nông dân hoặc ‘nhà tiểu sản quyền’.” Cũng văn bản đó quy định nông dân đã bán hoặc cho thuê nhà thì khi xin đất ở lần nữa sẽ không được phê duyệt. Văn bản năm 2019 của Văn phòng Công tác nông thôn Trung ương và Bộ Nông nghiệp và Nông thôn nhắc lại: “Nghiêm cấm cư dân đô thị về nông thôn mua đất ở được giao cho hộ nông thôn.” Văn bản này cũng nêu cách hợp pháp: cư dân đô thị có thể thuê nhà nông thôn để ở hoặc kinh doanh; thời hạn hợp đồng thuê không được quá hai mươi năm, hết hạn hai bên có thể thỏa thuận lại",
+      "grade": "A",
+      "sources": "国务院办公厅 (2007). 关于严格执行有关农村集体建设用地法律和政策的通知（国办发〔2007〕71 号）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_2395.htm>；中央农村工作领导小组办公室、农业农村部 (2019). 关于进一步加强农村宅基地管理的通知（中农发〔2019〕11 号）第五、六部分. <https://www.moa.gov.cn/govpublic/NCJJTZ/201909/t20190920_6328397.htm>",
+      "notes": "Đất ở giao cho hộ nông thôn là đất làng phân cho dân làng mình xây nhà, chỉ giao cho người của làng đó. Khi thuê nhà nông thôn, ký hợp đồng bằng văn bản với hộ cho thuê, ghi rõ thời hạn, tiền thuê, có được sửa chữa/cải tạo không và khi hết hạn sẽ tính chi phí sửa chữa thế nào. Văn bản quy định thời hạn không quá 20 năm; đừng ký kiểu “thuê 50 năm”, “thuê 70 năm”, càng không trả một lần nhiều năm tiền thuê. Văn bản cũng cấm về nông thôn dùng loại đất này xây biệt thự sân lớn và hội quán riêng, đừng góp tiền “cùng xây” với dân làng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

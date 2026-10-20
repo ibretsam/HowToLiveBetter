@@ -1,0 +1,48 @@
+{
+  "id": "e-10-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "c4d95094a40f6162fcee4b99e0fe0b2d31f27b79c79528470fce5dcc83f215fb",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "算退出成本：协议离婚有 30 天冷静期，诉讼离婚有法定条件",
+    "fields": {
+      "cost": "不花钱。婚前花点时间读一遍：万一要退出，要花多久，走什么程序。难在结婚前就去想散伙的事。",
+      "plain": "协议离婚不是签完就完。交了申请后 30 天内，任何一方都能撤回。期满还要在 30 天内两人亲自去领离婚证，不去就当撤回。对方不同意，只能起诉。法院先调解，有家暴、重婚、分居满两年这类情形的，调解不成应当判离。",
+      "benefit": "协议离婚要签书面离婚协议，并亲自到婚姻登记机关申请（第一千零七十六条）。自登记机关收到申请之日起 30 日内，任何一方可以撤回。期满后 30 日内，双方须亲自申领离婚证，不申领视为撤回（第一千零七十七条）。一方不同意时走诉讼，法院应先调解。有重婚或与他人同居、家庭暴力或虐待遗弃、赌博吸毒屡教不改、因感情不和分居满二年等情形的，调解无效应准予离婚。判不离后又分居满一年，再起诉应准予（第一千零七十九条）。2024 年全国离婚 351.3 万对，其中 89.1 万对走的是法院判决、调解",
+      "grade": "A",
+      "sources": "全国人民代表大会 (2020). 中华人民共和国民法典（第一千零七十六、一千零七十七、一千零七十九条）. <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>；民政部 (2020). 关于贯彻落实《中华人民共和国民法典》中有关婚姻登记规定的通知（民发〔2020〕116 号）. <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>；民政部 (2025). 2024 年民政事业发展统计公报. 题录同第 7 条（结婚率、离婚率各是什么口径）",
+      "notes": "冷静期只适用于协议离婚。诉讼离婚没有冷静期，但周期更长。诉讼费、律师费各地不同，本条不写数字。退出成本高不等于不该结婚，但结婚前就该知道这些。有孩子的，抚养费和探望怎么写见本节第 23 条（孩子的抚养费和探望）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Tính chi phí rút lui: thuận tình ly hôn có 30 ngày suy nghĩ, ly hôn qua tòa có điều kiện luật định",
+    "fields": {
+      "cost": "Không tốn tiền. Trước khi cưới dành chút thời gian đọc qua: nếu chẳng may phải rút lui thì mất bao lâu, đi theo thủ tục nào. Cái khó là phải nghĩ đến chuyện chia tay ngay từ trước khi cưới.",
+      "plain": "Thuận tình ly hôn không phải ký xong là xong. Trong 30 ngày sau khi nộp đơn, bất kỳ bên nào cũng có thể rút đơn. Hết thời hạn đó, trong vòng 30 ngày tiếp theo hai người còn phải trực tiếp đến nhận giấy chứng nhận ly hôn, không đến thì coi như rút đơn. Nếu bên kia không đồng ý ly hôn thì chỉ có cách khởi kiện. Tòa án hòa giải trước; phải có những tình huống như bạo lực gia đình, trùng hôn, ly thân đủ hai năm, và hòa giải không thành, thì tòa mới xử cho ly hôn.",
+      "benefit": "Thuận tình ly hôn phải ký thỏa thuận viết, trực tiếp xin tại cơ quan đăng ký (Điều một nghìn không trăm bảy mươi sáu). Trong 30 ngày từ nhận đơn, bất kỳ bên nào được rút. Trong 30 ngày sau hết hạn, cả hai phải trực tiếp xin giấy ly hôn, không xin coi như rút (Điều một nghìn không trăm bảy mươi bảy). Một bên không đồng ý thì kiện, tòa phải hòa giải trước. Có trùng hôn, sống chung người khác, bạo lực, ngược đãi bỏ rơi, đánh bạc ma túy không sửa dù khuyên nhiều, ly thân vì bất hòa đủ hai năm và tương tự, hòa giải không hiệu quả phải cho ly. Sau phán không cho ly mà ly thân thêm đủ một năm, kiện lại phải cho ly (Điều một nghìn không trăm bảy mươi chín). Năm 2024 toàn quốc ly hôn 351.3 vạn đôi, 89.1 vạn qua phán quyết, hòa giải của tòa.",
+      "grade": "A",
+      "sources": "全国人民代表大会 (2020). 中华人民共和国民法典（第一千零七十六、一千零七十七、一千零七十九条）. <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>；民政部 (2020). 关于贯彻落实《中华人民共和国民法典》中有关婚姻登记规定的通知（民发〔2020〕116 号）. <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>；民政部 (2025). 2024 年民政事业发展统计公报. 题录同第 7 条（结婚率、离婚率各是什么口径）",
+      "notes": "Thời gian suy nghĩ chỉ áp dụng thuận tình. Ly hôn qua tòa không có nhưng kéo dài hơn. Án phí, luật sư tùy nơi, mục này không ghi số. Chi phí rút lui cao không nghĩa không nên cưới, nhưng cần biết trước cưới."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

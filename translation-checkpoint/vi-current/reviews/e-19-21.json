@@ -1,0 +1,15 @@
+{
+  "id": "e-19-21",
+  "source_sha256": "81ef91ee2efba61912827ae94d45783936d4e2b9bb21ec0d219fc9fd654f7c29",
+  "draft_sha256": "a65f8a359379d8d4ffd50ae47d6e934ee52caa7adf96a093b6f6981a888423a2",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Giữ tiền chậm nộp năm phần vạn mỗi ngày, tiền phạt 1 đến 3 lần, thời gian điều tra 60 cộng 30 ngày làm việc, điều kiện ghi lý do nghỉ việc và giới hạn cách áp dụng Bắc Kinh với căn cứ đóng thấp. Không mở rộng phạm vi toàn quốc. Giữ thủ tục khiếu nại khác trọng tài, thời hiệu 2 năm và hoàn trả tiền mặt đã nhận nếu đơn vị đóng bù. Dẫn mục 13 cùng chương, chương 7 mục 18 đúng. Không sửa nghĩa."
+}

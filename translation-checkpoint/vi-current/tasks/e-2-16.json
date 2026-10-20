@@ -1,0 +1,48 @@
+{
+  "id": "e-2-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "31a9a8063feceb62269ac5ee29262e8bf5d0b9b4d929c02e0021c9918c184e48",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "每周做 30–60 分钟力量训练",
+    "fields": {
+      "cost": "徒手深蹲、俯卧撑不花钱。每周练 1–2 次，每次 20–30 分钟。难在要把它排进每周的日程里。",
+      "plain": "每周练 30–60 分钟力量的人，同期死亡的概率比不练的人低一到两成。再多练不会更好。力量和有氧一起做效果最好。",
+      "benefit": "把多项跟踪研究合起来算（只记录、不分组）：做力量训练的人比不做的人，死亡风险低 10%–17%。不是练得越多越好，每周约 30–60 分钟时降幅最大，约 10%–20%，再多练不会多出好处。力量和有氧都做的人，比两样都不做的人死亡风险更低。",
+      "grade": "A",
+      "sources": "Momma H 等 (2022). Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. British Journal of Sports Medicine. <https://doi.org/10.1136/bjsports-2021-105061>",
+      "notes": "这类研究只是跟踪记录，运动量还是参与者自己报的。「练过头反而变差」那一段的证据很弱，不必为此限制训练量。力量训练对老年人还有防跌倒、保住肌肉的好处，那些写在第 1 节。膝盖退化疼的人练大腿肌肉比做关节镜管用，见第 6 节第 33 条（关节镜清理）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Tập sức mạnh 30–60 phút mỗi tuần",
+    "fields": {
+      "cost": "Squat và chống đẩy bằng trọng lượng cơ thể không tốn tiền. Mỗi tuần tập 1–2 lần, mỗi lần 20–30 phút. Điều khó là đưa việc này vào lịch hằng tuần.",
+      "plain": "Người tập sức mạnh 30–60 phút mỗi tuần có xác suất tử vong cùng kỳ thấp hơn một đến hai phần mười so với người không tập. Tập thêm không làm kết quả tốt hơn. Kết hợp sức mạnh với vận động aerobic cho hiệu quả tốt nhất.",
+      "benefit": "Gộp nhiều nghiên cứu chỉ theo dõi, không phân nhóm, cho thấy người tập sức mạnh có nguy cơ tử vong thấp hơn 10%–17% so với người không tập. Không phải càng nhiều càng tốt: khoảng 30–60 phút mỗi tuần cho mức giảm lớn nhất, khoảng 10%–20%; tập thêm không tạo thêm lợi ích. Người tập cả sức mạnh và aerobic có nguy cơ tử vong thấp hơn người không tập cả hai.",
+      "grade": "A",
+      "sources": "Momma H 等 (2022). Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. British Journal of Sports Medicine. <https://doi.org/10.1136/bjsports-2021-105061>",
+      "notes": "Những nghiên cứu này chỉ theo dõi, và lượng vận động do người tham gia tự báo. Bằng chứng cho phần “tập quá nhiều lại xấu hơn” rất yếu, không cần vì thế mà hạn chế tập. Tập sức mạnh còn giúp người già phòng ngã, giữ cơ; các lợi ích đó nằm ở chương 1."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

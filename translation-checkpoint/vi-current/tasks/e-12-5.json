@@ -1,0 +1,48 @@
+{
+  "id": "e-12-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "82c7edbfc74e420dfb656b02d95e22d80bb3f9e052e8816af17e05d1be4ff3c9",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "加盟前先查商务部备案，拿到书面披露，把「冷静期」写进合同",
+    "fields": {
+      "cost": "不花钱。上商务部的「商业特许经营信息管理系统」网站，查品牌方有没有备案。再要求对方在签约前，把该交代的事写成书面材料给你，连同合同文本一起。几个小时能做完。",
+      "plain": "按规定，品牌方自己得先开 2 个直营店、经营满 1 年，签约后 15 日内还要去商务部门备案。签约前，它必须把加盟费、保证金怎么退、现有门店赚不赚钱等 12 项写成书面材料给你。查不到备案、不肯给材料、要先交钱才让看合同的，直接走人。",
+      "benefit": "法规要求品牌方（法规里叫特许人）至少有 2 个自己开、自己经营的直营店，而且开满 1 年以上。从第一次签加盟合同那天算起，15 日内它要去商务主管部门备案。不备案的，罚 1 万到 5 万元。过了期限还不备案的，罚 5 万到 10 万元，并且对外公告。签约之前，它必须把该交代的事写成书面材料交给你，一共 12 项。里面包括加盟费收哪几种、各多少钱，保证金什么情况下退，现有多少家加盟店、生意做得怎么样。还有近 2 年查过账的审计报告摘要，近 5 年打过的官司和仲裁。合同里还必须写明，加盟商在签约后的一段时间内可以自己一方说退就退（单方解除）。品牌方瞒着不说，或者给的是假信息，加盟商可以解除合同（全国，2007 年 5 月起）",
+      "grade": "A",
+      "sources": "国务院 (2007). 商业特许经营管理条例（国务院令第 485 号，第七、八、十二、二十二、二十三、二十五条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_4179.htm>；商务部 (2012). 商业特许经营信息披露管理办法（商务部令 2012 年第 2 号，第五、九条）. <http://www.gov.cn/gongbao/content/2012/content_2177025.htm>；商务部. 商业特许经营信息管理系统. <https://txjy.syggs.mofcom.gov.cn/>",
+      "notes": "查不到备案、不肯给披露文件、要先交钱再看合同的，直接走。「冷静期」就是签约之后还能自己一方说退就退的那几天。天数由合同定，条例只说「一定期限」，所以签约时要求把天数写进去。品牌方披露的「现有加盟店平均销售量、毛利、纯利」，要追问数字是哪来的，办法要求品牌方说明来源。不叫加盟、只收「代运营」「开店培训」服务费的，见第 24 条（代运营和开店培训）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Trước khi mua nhượng quyền, kiểm tra đăng ký Bộ Thương mại, nhận công bố bằng văn bản và ghi “thời gian cân nhắc” vào hợp đồng",
+    "fields": {
+      "cost": "Không tốn tiền. Vào website “Hệ thống quản lý thông tin nhượng quyền thương mại” của Bộ Thương mại kiểm tra thương hiệu có đăng ký không. Yêu cầu họ trước khi ký cung cấp bằng văn bản các thông tin phải công bố, cùng mẫu hợp đồng. Có thể làm xong trong vài giờ.",
+      "plain": "Theo quy định, bên thương hiệu phải tự mở ít nhất 2 cửa hàng trực tiếp, hoạt động đủ 1 năm, rồi đăng ký với cơ quan thương mại trong 15 ngày sau khi ký. Trước khi ký phải cung cấp bằng văn bản 12 nội dung như phí nhượng quyền, cách hoàn tiền bảo đảm, cửa hàng hiện có lãi không. Không tra thấy đăng ký, không đưa tài liệu hoặc đòi trả tiền rồi mới cho xem hợp đồng thì rời đi.",
+      "benefit": "Quy định yêu cầu bên thương hiệu, gọi là bên nhượng quyền, có ít nhất 2 cửa hàng do mình trực tiếp sở hữu, vận hành và hoạt động đủ 1 năm trở lên. Trong 15 ngày từ lần ký hợp đồng nhượng quyền đầu tiên phải đăng ký với cơ quan thương mại. Không đăng ký bị phạt 1 vạn đến 5 vạn nhân dân tệ; quá hạn vẫn không đăng ký thì phạt 5 vạn đến 10 vạn nhân dân tệ và công bố công khai. Trước khi ký phải cung cấp bằng văn bản 12 nội dung, gồm các loại phí nhượng quyền, từng mức phí, điều kiện hoàn tiền bảo đảm, số cửa hàng nhượng quyền hiện có và tình hình kinh doanh; còn có tóm tắt báo cáo kiểm toán trong 2 năm gần nhất, kiện tụng và trọng tài trong 5 năm gần nhất. Hợp đồng phải ghi bên nhận quyền có thể đơn phương chấm dứt trong một thời gian sau khi ký. Thương hiệu che giấu hoặc cung cấp thông tin giả thì bên nhận quyền có thể chấm dứt hợp đồng (toàn quốc, từ tháng 5 năm 2007).",
+      "grade": "A",
+      "sources": "国务院 (2007). 商业特许经营管理条例（国务院令第 485 号，第七、八、十二、二十二、二十三、二十五条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_4179.htm>；商务部 (2012). 商业特许经营信息披露管理办法（商务部令 2012 年第 2 号，第五、九条）. <http://www.gov.cn/gongbao/content/2012/content_2177025.htm>；商务部. 商业特许经营信息管理系统. <https://txjy.syggs.mofcom.gov.cn/>",
+      "notes": "Không tra thấy đăng ký, không chịu đưa tài liệu công bố, đòi trả tiền rồi mới xem hợp đồng thì đi ngay. “Thời gian cân nhắc” là những ngày sau ký mà bạn còn có quyền đơn phương rút. Số ngày do hợp đồng quy định; nghị định chỉ nói “một thời hạn nhất định”, nên khi ký cần yêu cầu ghi rõ số ngày. Với “doanh số, lãi gộp, lãi ròng bình quân cửa hàng nhượng quyền hiện có” do thương hiệu công bố, hãy hỏi nguồn số liệu; quy định yêu cầu họ nêu nguồn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

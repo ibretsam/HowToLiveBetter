@@ -1,0 +1,48 @@
+{
+  "id": "e-13-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "6894bd40b8b3496ff4f40f7bea26e83e85791861da547e55bbca0d6051102744",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "一只眼又胀又痛、发红，看灯有一圈彩虹，还头痛恶心想吐，当天去眼科急诊",
+    "fields": {
+      "cost": "不花钱。眼科急诊量眼压、查前房，占掉半天。",
+      "plain": "这可能是青光眼急性发作，眼睛里的水排不出去，眼压顶上去，压坏连着大脑的视神经。拖得越久，留下看不见的可能越大。武汉封控期间的病人平均拖了 241 小时才治上，失明的占 21.87%。第二年同期没封控，平均拖 121 小时，失明的占 7.84%。",
+      "benefit": "武汉一家眼科医院比了两段时间的急性原发性闭角型青光眼病人。2020 年封控的 76 天里有 54 人 64 眼，2021 年同期有 46 人 51 眼，两组的人口特征相近。从出现症状到接受治疗，封控那组是 241.84±211.95 小时，对照组是 121.53±96.12 小时（P=0.001）。就诊时的眼压是 52.63±12.45 mmHg 对 45.16±9.79 mmHg（P=0.001）。失明的比例是 21.87% 对 7.84%。查出青光眼性视神经病变的是 20/64 眼（31.25%）对 7/51 眼（13.73%）（P=0.03）。韩国一家医院回顾了 50 只发作过一次、后来摘了晶状体的眼睛。一年之后 25 只（50%）留下了不同程度的视野缺损。从症状出现到把眼压降下来的这段时间越长，留下缺损的可能越大（P=0.005）。另有一项前瞻研究，让 43 名前房浅的人在暗室里俯卧 1 小时。两只眼的眼压都明显升高（P<0.01）。平时主要用的那只眼中位数升了 3.60 mmHg，另一只升了 2.70 mmHg（P<0.05）。NHS 写明，青光眼有时会突然发作，症状包括眼睛剧痛、发红、看亮光周围有彩虹色的圈、视物模糊、恶心呕吐和头痛，突然出现就打急救电话或去急诊。它通常是眼里的液体排不出去、眼压升高，压坏了连着眼睛和大脑的视神经。风险较高的是 50 岁以上、父母或兄弟姐妹有青光眼、亚洲人，以及有近视、远视或糖尿病的人。中山眼科中心 2012 到 2019 年收治过 243 名 40 岁及以下的闭角型青光眼病人",
+      "grade": "B",
+      "sources": "Zhou L, Wu S, Wang Y, Bao X, Peng T, Luo W, Ortega-Usobiaga J (2022). Clinical presentation of acute primary angle closure during the COVID-19 epidemic lockdown. Frontiers in Medicine, 9, 1078237. <https://doi.org/10.3389/fmed.2022.1078237> ; Sung MS, Kim HJ, Park SW (2023). Predictors of long-term visual field outcome after an episode of acute primary angle closure. Clinical & Experimental Ophthalmology, 51(4), 291-299. <https://doi.org/10.1111/ceo.14206> ; Wang J, Wang J, Ng TK, Huang C (2025). Asymmetric intraocular pressure changes in dominant and contralateral eyes: the dark room prone provocative test. Seminars in Ophthalmology, 40(4), 325-331. <https://doi.org/10.1080/08820538.2024.2443972> ; NHS. Glaucoma：「Sometimes glaucoma can develop suddenly and cause symptoms such as: intense eye pain, a red eye, tenderness around the eyes, seeing rainbow-coloured circles around bright lights, blurred vision, feeling sick (nausea) and being sick, a headache」「This happens when the fluid in your eye cannot drain as it should」. <https://www.nhs.uk/conditions/glaucoma/> ; Lin SF, Xiao H, Chen LM, et al. (2022). [Clinical features of young inpatients with angle-closure glaucoma]. 中华眼科杂志, 58(1), 28-34. <https://doi.org/10.3760/cma.j.cn112142-20210301-00104>",
+      "notes": "定 B 的原因有两条。一是武汉那两组是翻旧病历比出来的，封控本身还带来别的差别，和「拖延」这一项分不开。二是韩国那组只有 50 只眼，也是回顾性的。诱因说的不是看屏幕。那项前瞻研究里，前房浅的人在暗室里趴 1 小时，眼压就升高了。高危人群看 NHS 列的几项：50 岁以上、家里有人得过、远视。年轻人也会得，中山眼科那批 40 岁以下的病人里，六成多是别的眼病引起的（继发性）。发作时会头痛、恶心呕吐，别只当胃肠炎或偏头痛处理，先看眼睛红不红、疼不疼、看灯有没有彩虹圈。不疼不红的单眼看不见是另一回事，见第 5 条（一只眼睛突然黑掉）。防蓝光眼镜有没有用，见第 6 节第 16 条（防蓝光眼镜）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Một mắt căng đau, đỏ, nhìn đèn có quầng cầu vồng, kèm đau đầu buồn nôn thì đến cấp cứu mắt trong ngày",
+    "fields": {
+      "cost": "Không tốn tiền. Cấp cứu mắt đo nhãn áp, khám tiền phòng mất nửa ngày.",
+      "plain": "Đây là cơn glôcôm cấp. Dịch trong mắt không thoát được, nhãn áp tăng vọt. Càng chậm, thần kinh thị giác càng bị tổn thương không hồi phục. Bệnh nhân thời phong tỏa Vũ Hán trung bình chờ 241 giờ mới điều trị, 21.87% mù. Cùng kỳ năm sau không phong tỏa, trung bình 121 giờ, 7.84% mù.",
+      "benefit": "Một bệnh viện mắt Vũ Hán so bệnh nhân glôcôm góc đóng nguyên phát cấp ở hai giai đoạn. Trong 76 ngày phong tỏa năm 2020 có 54 người, 64 mắt; cùng kỳ năm 2021 có 46 người, 51 mắt, đặc điểm dân số tương tự. Thời gian từ triệu chứng đến điều trị là 241.84±211.95 giờ ở nhóm phong tỏa, so với 121.53±96.12 giờ ở đối chứng (P=0.001). Nhãn áp lúc khám là 52.63±12.45 mmHg so với 45.16±9.79 mmHg (P=0.001). Tỷ lệ mù 21.87% so với 7.84%. Tổn thương thần kinh thị giác do glôcôm là 20/64 mắt (31.25%) so với 7/51 mắt (13.73%) (P=0.03). Một bệnh viện Hàn Quốc xem lại 50 mắt từng có một cơn, sau đó lấy thể thủy tinh. Một năm sau, 25 mắt (50%) còn khuyết thị trường ở mức khác nhau. Thời gian từ triệu chứng đến hạ nhãn áp càng dài, khả năng để lại khuyết càng cao (P=0.005). Một nghiên cứu tiến cứu khác cho 43 người tiền phòng nông nằm sấp trong phòng tối 1 giờ. Nhãn áp cả hai mắt tăng rõ (P<0.01). Mức tăng trung vị ở mắt thuận là 3.60 mmHg, mắt kia 2.70 mmHg (P<0.05).",
+      "grade": "B",
+      "sources": "Zhou L, Wu S, Wang Y, Bao X, Peng T, Luo W, Ortega-Usobiaga J (2022). Clinical presentation of acute primary angle closure during the COVID-19 epidemic lockdown. Frontiers in Medicine, 9, 1078237. <https://doi.org/10.3389/fmed.2022.1078237> ; Sung MS, Kim HJ, Park SW (2023). Predictors of long-term visual field outcome after an episode of acute primary angle closure. Clinical & Experimental Ophthalmology, 51(4), 291-299. <https://doi.org/10.1111/ceo.14206> ; Wang J, Wang J, Ng TK, Huang C (2025). Asymmetric intraocular pressure changes in dominant and contralateral eyes: the dark room prone provocative test. Seminars in Ophthalmology, 40(4), 325-331. <https://doi.org/10.1080/08820538.2024.2443972>",
+      "notes": "Mức B vì hai lý do. Nhóm Vũ Hán so hồ sơ cũ; phong tỏa còn tạo khác biệt khác không tách khỏi chậm trễ. Nhóm Hàn Quốc chỉ 50 mắt, cũng hồi cứu. Yếu tố khởi phát không phải nhìn màn hình mà là hai việc kết hợp: tối làm đồng tử giãn; cúi đầu lâu hoặc nằm sấp đẩy thể thủy tinh về trước. Người vốn tiền phòng nông dễ bị khởi phát như vậy, nên nguy cơ cao thực sự là người từ 50 tuổi trở lên, viễn thị, gia đình có người glôcôm góc đóng. Người trẻ chơi game suốt đêm cơ bản không phát cơn theo cách này. Sai lầm thường gặp là tưởng viêm dạ dày ruột, migraine hoặc tăng huyết áp, vì đau đầu, nôn nổi bật hơn triệu chứng mắt. Một mắt không nhìn được mà không đau, đỏ là chuyện khác; xem mục 5 (một mắt đột ngột tối). Kính chống ánh sáng xanh xem chương 6 mục 16."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

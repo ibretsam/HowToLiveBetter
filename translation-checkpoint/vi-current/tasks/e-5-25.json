@@ -1,0 +1,48 @@
+{
+  "id": "e-5-25",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "c7189da7466fef309e91fb9d28669f01b4cfe8ded09565fa8249799ea956cba0",
+  "status": "draft",
+  "original": {
+    "number": 25,
+    "title": "保险优先买消费型，把「返还」「分红」当作不保证的部分",
+    "fields": {
+      "cost": "消费型保险到期不返钱，心里会觉得「这钱白花了」。存钱的事要你自己安排。难的就是接受这笔钱拿不回来。",
+      "plain": "分红和返还的那部分钱，保险公司不保证给你。说明书上必须用加粗字写明「未来的保单红利为非保证利益」。你为返还多交的保费，等于交给保险公司替你存着，收益不保证，想取出来也不容易。",
+      "benefit": "监管规则要求，分红型产品的说明书要用加粗字体提示「未来的保单红利为非保证利益，其红利分配是不确定的」。红利演示就是保险公司给你看的那张分红测算表，它的利差上限是 4.5% 减去产品预定利率。预定利率就是合同里定死的那一档收益率。返还型和分红型多交的那部分保费，相当于交给保险公司代管的储蓄。它收益不保证，流动性也差，想取出来不容易（中国，2023 年起施行）",
+      "grade": "C",
+      "sources": "中国银保监会 (2022). 一年期以上人身保险产品信息披露规则（银保监规〔2022〕24 号）. <https://www.gov.cn/zhengce/zhengceku/2023-01/04/content_5735014.htm>",
+      "notes": "争议：对完全存不下钱的人来说，返还型保险逼着你按期交钱，这个作用有实际价值。上面的建议针对的是能管住自己的普通人。「买消费型，把省下的保费自己拿去投资」比「买返还型」到底好多少，要看具体产品，本节没有可以引用的系统性数据。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 25,
+    "title": "Ưu tiên bảo hiểm chỉ bảo vệ rủi ro, coi phần “hoàn lại”, “chia lãi” là không được bảo đảm",
+    "fields": {
+      "cost": "Bảo hiểm thuần bảo vệ hết hạn không hoàn tiền, khiến bạn thấy “tốn tiền vô ích”. Bạn phải tự thu xếp tiết kiệm. Khó chính là chấp nhận không lấy lại khoản phí.",
+      "plain": "Phần tiền chia lãi và hoàn lại không được công ty bảo hiểm bảo đảm. Tài liệu giới thiệu phải in đậm “lãi chia hợp đồng trong tương lai là quyền lợi không được bảo đảm”. Phí trả thêm để được hoàn giống như giao công ty bảo hiểm giữ tiết kiệm, lợi nhuận không bảo đảm, rút ra cũng khó.",
+      "benefit": "Quy định yêu cầu tài liệu sản phẩm chia lãi in đậm cảnh báo “lãi chia hợp đồng trong tương lai là quyền lợi không được bảo đảm, việc phân phối lãi không chắc chắn”. Bảng minh họa lãi là bảng tính công ty cho bạn xem, trần chênh lệch lãi suất bằng 4.5% trừ lãi suất giả định của sản phẩm. Lãi suất giả định là mức lợi suất cố định trong hợp đồng. Phần phí trả thêm cho bảo hiểm hoàn tiền và chia lãi giống khoản tiết kiệm giao công ty giữ hộ; lợi nhuận không bảo đảm, thanh khoản kém, khó rút ra (Trung Quốc, áp dụng từ năm 2023).",
+      "grade": "C",
+      "sources": "中国银保监会 (2022). 一年期以上人身保险产品信息披露规则（银保监规〔2022〕24 号）. <https://www.gov.cn/zhengce/zhengceku/2023-01/04/content_5735014.htm>",
+      "notes": "Còn tranh luận: với người hoàn toàn không giữ được tiền, bảo hiểm hoàn tiền buộc đóng định kỳ có giá trị thực tế. Khuyến nghị trên dành cho người bình thường tự kiểm soát được. “Mua bảo hiểm thuần bảo vệ rồi tự đầu tư phần phí tiết kiệm” tốt hơn “mua loại hoàn tiền” bao nhiêu tùy sản phẩm; chương này không có dữ liệu hệ thống để dẫn. Không phải lời khuyên đầu tư."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

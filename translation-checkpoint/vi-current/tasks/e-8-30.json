@@ -1,0 +1,48 @@
+{
+  "id": "e-8-30",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "c734f73cd7ec9a795fc4083448eedfd2f12b7daf4993f734cdb50ea8276da50f",
+  "status": "outdated",
+  "original": {
+    "number": 30,
+    "title": "养狗必须牵绳：不牵绳出了事是无过错责任（你有没有错都要赔），赔到底。狗还要按时打狂犬病疫苗、办养犬登记",
+    "fields": {
+      "cost": "一根绳几十元。给狗打狂犬病疫苗、办登记也要花钱，各地收费不同。难在每次出门都记得牵，到期记得带狗去打针。",
+      "plain": "狗伤了人，不管你有没有错原则上都要赔，只有证明对方故意或有重大过失才能少赔或不赔。没牵绳的只剩「对方故意」这一条能减轻，情节较重的还可能被拘留。狗没按规定打狂犬病疫苗，会被责令改正，还可能罚款。禁养的烈性犬伤了人，没有任何免责理由。",
+      "benefit": "自家养的动物伤了人，养的人或者当时管着它的人就要赔，法律叫承担侵权责任。只有能证明是被伤的人自己故意招惹，或者有重大过失，才可以不赔或者少赔。而违反管理规定、没采取安全措施的，比如该牵绳没牵，就只剩「被侵权人故意」这一条能减轻。禁止饲养的烈性犬伤了人，则没有任何能免责的理由。《治安管理处罚法》第八十九条规定，没对动物采取安全措施、让它伤了人的，罚 1000 元以下。情节较重的，拘留 5 到 10 日。《动物防疫法》第三十条要求，养狗要按规定定期给狗打狂犬病疫苗。再拿动物诊疗机构（比如宠物医院）开的免疫证明，去所在地办养犬登记。带狗出门要按规定戴犬牌、系犬绳。同一部法第九十二条规定，没按规定给狗打狂犬病疫苗的，农业农村部门责令限期改正。可以罚 1000 元以下。到期还不改的，罚 1000 到 5000 元，并委托动物诊疗机构等代为处理，费用由你出",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典. 最高人民检察院转载全文. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> 第一千二百四十五条：「饲养的动物造成他人损害的，动物饲养人或者管理人应当承担侵权责任；但是，能够证明损害是因被侵权人故意或者重大过失造成的，可以不承担或者减轻责任。」第一千二百四十六条：「违反管理规定，未对动物采取安全措施造成他人损害的，动物饲养人或者管理人应当承担侵权责任；但是，能够证明损害是因被侵权人故意造成的，可以减轻责任。」第一千二百四十七条：「禁止饲养的烈性犬等危险动物造成他人损害的，动物饲养人或者管理人应当承担侵权责任。」第一千二百四十九条：遗弃、逃逸的动物在此期间造成损害，由原饲养人或者管理人承担责任；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，2026-01-01 施行）. 国家法律法规数据库. <https://flk.npc.gov.cn/detail?id=ff80818197af9ccc0197b159c38a0408> 第八十九条第三款：「未对动物采取安全措施，致使动物伤害他人的，处一千元以下罚款；情节较重的，处五日以上十日以下拘留。」；全国人大常委会 (2021). 动物防疫法（2021 年修订，2021-05-01 施行）. 国家法律法规数据库. <https://flk.npc.gov.cn/detail?id=ff8080817703add2017737395a973e31> 第三十条第一款：「单位和个人饲养犬只，应当按照规定定期免疫接种狂犬病疫苗，凭动物诊疗机构出具的免疫证明向所在地养犬登记机关申请登记。」第二款：「携带犬只出户的，应当按照规定佩戴犬牌并采取系犬绳等措施，防止犬只伤人、疫病传播。」第五款：「饲养犬只防疫管理的具体办法，由省、自治区、直辖市制定。」第九十二条：「由县级以上地方人民政府农业农村主管部门责令限期改正，可以处一千元以下罚款；逾期不改正的，处一千元以上五千元以下罚款，由县级以上地方人民政府农业农村主管部门委托动物诊疗机构、无害化处理场所等代为处理，所需费用由违法行为人承担」，适用情形第（三）项：「对饲养的犬只未按照规定定期进行狂犬病免疫接种的」",
+      "notes": "狗咬人的赔偿包含医疗费、误工费、狂犬疫苗和免疫球蛋白。丢下不管也不脱责：遗弃、逃逸期间伤了人，仍然算原饲养人的。动物防疫法把养狗防疫的具体办法交给各省、自治区、直辖市定。在哪登记、收多少钱、多久打一次针，看本地的养犬管理规定。被咬之后怎么处置见第 13 节第 13 条（被狗、猫咬伤）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 30,
+    "title": "Nuôi chó phải dùng dây dắt: không dắt mà xảy ra chuyện thì chịu trách nhiệm không cần có lỗi (có lỗi hay không vẫn phải bồi thường), bồi thường đến cùng",
+    "fields": {
+      "cost": "Một sợi dây vài chục nhân dân tệ. Khó ở việc lần nào ra ngoài cũng nhớ dắt.",
+      "plain": "Chó làm người khác bị thương, về nguyên tắc bạn phải bồi thường dù có lỗi hay không. Chỉ chứng minh được đối phương cố ý hoặc có lỗi nghiêm trọng mới có thể giảm hay miễn bồi thường. Nếu vi phạm quy định không dắt dây thì chỉ còn “người bị xâm hại cố ý” là căn cứ giảm; không dùng dây đồng nghĩa tự chặn đường lui duy nhất. Chó dữ thuộc diện cấm nuôi làm người bị thương thì không có bất kỳ lý do miễn trách nhiệm nào.",
+      "benefit": "Động vật mình nuôi làm người khác bị thương thì người nuôi hoặc người đang quản lý phải bồi thường, pháp luật gọi là trách nhiệm xâm phạm quyền. Chỉ khi chứng minh được người bị thương cố ý chọc hoặc có lỗi nghiêm trọng mới có thể miễn hoặc giảm. Nhưng vi phạm quy định quản lý, không áp dụng biện pháp an toàn, như phải dắt dây mà không dắt, thì chỉ còn “người bị xâm hại cố ý” để giảm trách nhiệm. Chó dữ bị cấm nuôi làm người bị thương thì không có lý do nào miễn trách nhiệm.",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典. 最高人民检察院转载全文. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> 第一千二百四十五条：「饲养的动物造成他人损害的，动物饲养人或者管理人应当承担侵权责任；但是，能够证明损害是因被侵权人故意或者重大过失造成的，可以不承担或者减轻责任。」第一千二百四十六条：「违反管理规定，未对动物采取安全措施造成他人损害的，动物饲养人或者管理人应当承担侵权责任；但是，能够证明损害是因被侵权人故意造成的，可以减轻责任。」第一千二百四十七条：「禁止饲养的烈性犬等危险动物造成他人损害的，动物饲养人或者管理人应当承担侵权责任。」第一千二百四十九条：遗弃、逃逸的动物在此期间造成损害，由原饲养人或者管理人承担责任",
+      "notes": "Bồi thường chó cắn gồm tiền điều trị, thu nhập bị mất do nghỉ việc, vắc-xin dại và globulin miễn dịch; một lần hơn một vạn nhân dân tệ rất thường gặp. Thương nặng hoặc nạn nhân là trẻ em thì số tiền còn cao hơn. Bỏ mặc cũng không thoát trách nhiệm: gây thương tích trong thời gian bị bỏ rơi hoặc chạy mất vẫn thuộc trách nhiệm người nuôi ban đầu. Xử trí sau bị cắn xem chương 13."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

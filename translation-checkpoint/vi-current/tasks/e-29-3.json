@@ -1,0 +1,48 @@
+{
+  "id": "e-29-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "417fba48580988b082121a30ac313d68d17a168d9da4fe56d01c29730b95e96b",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "失业之后先把作息、医保和找工作的节奏固定下来，别整天待在家里",
+    "fields": {
+      "cost": "不花钱。先去办失业登记、领失业保险金，再把找工作排成固定日程。难在没人催你的时候还要按点起床。",
+      "plain": "失业的人之后死亡的概率比在职的人高约六成，男性和年纪不大的人更明显，头十年最高。把抽烟喝酒的影响扣掉，升幅少了约四分之一，这部分自己能管住。先去办失业登记、领失业保险金。",
+      "benefit": "42 项研究、235 个死亡风险估计、逾 2000 万人合起来算。把年龄等条件的影响扣平之后，失业者各种原因加起来的死亡风险平均 HR 为 1.63，比在职的人高约六成。男性高于女性。对处在职业生涯早期和中期的人影响明显，晚期较小。跟踪的头 10 年风险最高，之后下降。在把抽烟喝酒这类健康行为也算进去的那部分研究里，平均 HR 低 24%，即算出来的升幅少了约四分之一",
+      "grade": "A",
+      "sources": "Roelfs DJ, et al. (2011). Losing life and livelihood: a systematic review and meta-analysis of unemployment and all-cause mortality. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2011.01.005>",
+      "notes": "这是回头翻人群数据的研究，分不清因果方向。本来身体差的人也更容易失业。但「把生活习惯那部分影响扣掉后，效应低 24%」给了可着手的方向。失业能领什么、去哪领、社保怎么续见第 7 节。被辞退该拿多少补偿、别签主动辞职见第 19 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Sau thất nghiệp hãy ổn định giờ giấc, bảo hiểm y tế và nhịp tìm việc trước, đừng ở nhà cả ngày",
+    "fields": {
+      "cost": "Không tốn tiền. Đăng ký thất nghiệp, nhận trợ cấp bảo hiểm thất nghiệp trước, rồi xếp lịch tìm việc cố định. Khó là dậy đúng giờ khi không ai giục.",
+      "plain": "Người thất nghiệp về sau có nguy cơ chết cao hơn người có việc khoảng sáu phần mười, rõ hơn ở nam và người chưa lớn tuổi, cao nhất mười năm đầu. Trừ ảnh hưởng hút thuốc, uống rượu thì mức tăng giảm khoảng một phần tư; phần này bạn có thể kiểm soát. Đăng ký thất nghiệp và nhận bảo hiểm thất nghiệp trước; thời gian nhận trợ cấp, quỹ thất nghiệp đóng bảo hiểm y tế thay.",
+      "benefit": "Gộp 42 nghiên cứu, 235 ước tính nguy cơ tử vong, hơn 2000 vạn người. Sau hiệu chỉnh tuổi và các điều kiện, HR tử vong mọi nguyên nhân trung bình của người thất nghiệp là 1.63, cao hơn người đang làm khoảng sáu phần mười. Nam cao hơn nữ. Ảnh hưởng rõ ở đầu và giữa sự nghiệp, nhỏ hơn cuối sự nghiệp. Nguy cơ cao nhất 10 năm đầu theo dõi rồi giảm. Trong nhóm nghiên cứu tính cả hành vi sức khỏe như hút thuốc, uống rượu, HR trung bình thấp hơn 24%, tức mức tăng tính được giảm khoảng một phần tư",
+      "grade": "A",
+      "sources": "Roelfs DJ, et al. (2011). Losing life and livelihood: a systematic review and meta-analysis of unemployment and all-cause mortality. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2011.01.005>",
+      "notes": "Đây là nghiên cứu xem lại dữ liệu dân số, không xác định được chiều nhân quả; người vốn yếu sức cũng dễ mất việc hơn. Nhưng «sau loại ảnh hưởng thói quen sống, hiệu ứng thấp hơn 24%» cho thấy hướng có thể hành động. Nhận gì, ở đâu và nối bảo hiểm xã hội khi thất nghiệp xem chương 7. Bồi thường khi bị cho nghỉ và đừng ký tự nguyện nghỉ việc xem chương 19."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

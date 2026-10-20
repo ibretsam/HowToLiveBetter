@@ -1,0 +1,48 @@
+{
+  "id": "e-8-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "7b81d8592ad12f4150fd6bca1eee8afb6ccfbd9f96fb41bc334682eafcc2e3ac",
+  "status": "outdated",
+  "original": {
+    "number": 11,
+    "title": "躲不掉的侵害可以还手，但只打正在动手的那个人，他停你就停",
+    "fields": {
+      "cost": "律师费几千元起，经济困难的可以申请法律援助。代价主要在事后：常常先被按故意伤害立案，要配合调查，甚至先被关上十几天。难在这段日子里稳住不乱。",
+      "plain": "对方正在侵害你或者别人的时候，你动手制止、把他打伤，只要没明显过头，就不负刑事责任。对方正在行凶、杀人、抢劫、强奸、绑架，打伤打死也不算过当。但只能打正在动手的那个人，他停你就停。最后认定站你这边，你也可能先被立案、先被关上几天。",
+      "benefit": "刑法规定了什么算正当防卫。国家、公共利益、自己或者别人的人身、财产和其他权利，正在被不法侵害。这时候动手制止、把正在侵害的人打伤，属于正当防卫，不负刑事责任。同一条还写着：「正当防卫明显超过必要限度造成重大损害的，应当负刑事责任，但是应当减轻或者免除处罚」。另有一款：「对正在进行行凶、杀人、抢劫、强奸、绑架以及其他严重危及人身安全的暴力犯罪，采取防卫行为，造成不法侵害人伤亡的，不属于防卫过当，不负刑事责任」。两高一部的指导意见把边界说得更细。认定防卫过当，要同时具备「明显超过必要限度」和「造成重大损害」两条，缺一不可。「造成重大损害」是指把不法侵害人打成重伤或者打死，造成轻伤以及更轻的伤不算。只有不法侵害人确实已经失去侵害能力，或者确实已经放弃侵害，才算侵害结束。防卫必须针对不法侵害人本人。对方的侵害显著轻微、你也看得出来，却直接用足以致人重伤或者死亡的方式制止，就不认定为防卫行为。过程成本有官方案例。检例第 47 号于海明案：2018 年 8 月 27 日当晚，公安以「故意伤害案」立案侦查。9 月 1 日，昆山市公安局依据刑法第二十条第三款认定为正当防卫，撤销了案件。检例第 45 号陈某案：一名学生被 9 人围殴，持刀反击致 3 人重伤。公安以涉嫌故意伤害立案侦查，把他刑事拘留。检察机关认定属于正当防卫，不批准逮捕，公安才把人放了。被拘留之后公安认为需要逮捕的，应当在 3 日内提请检察院审查批准（报检察院批不批捕）。特殊情况可以延长 1 至 4 日。流窜作案、多次作案、结伙作案的重大嫌疑分子，可以延长到 30 日。检察院再在 7 日内作出决定（全国）",
+      "grade": "A",
+      "sources": "全国人大 (1997). 刑法（第二十条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院、最高人民检察院、公安部 (2020). 关于依法适用正当防卫制度的指导意见（法发〔2020〕31 号，第 5、6、7、10、11、13、14、19 条）. <https://www.court.gov.cn/zixun/xiangqing/251611.html>；最高人民检察院 (2018). 第十二批指导性案例（检例第 45 号陈某正当防卫案、检例第 47 号于海明正当防卫案）. <https://www.spp.gov.cn/spp/jczdal/201812/t20181219_402920.shtml>；全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第九十一条）. 宁夏回族自治区人民检察院转载全文 <https://www.nx.jcy.gov.cn/zwsy/qwfb/202011/t20201119_608817.html>",
+      "notes": "默认的动作还是第 10 条说的退开报警（起了冲突先报警不动手）。两个人对着打不算防卫，对方倒地或者跑了你还追着打也不算。只有退无可退的那一刻才考虑还手，这不是鼓励还手。事后有三件事要做。第一，报警之后别离开现场。第二，赶紧把监控和目击者保住，指导意见要求公安第一时间去调现场的录像录音、第一时间问目击者。第三，被警察正式问话之前先请律师，见第 5 条（被指控先请律师）。最后案子撤了、不起诉或者判无罪的，被关的日子可以按天申请赔偿，见第 35 条（羁押后的国家赔偿）。为别人出手防卫，法律上同样允许。但空着手去插手陌生人之间的打斗，风险要另算，见第 13 节第 37 条（撞见一群人打架）。这条的受益人主要是自己和家人。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Có thể đánh trả hành vi xâm hại không tránh được, nhưng chỉ đánh người đang ra tay; họ dừng thì bạn dừng",
+    "fields": {
+      "cost": "Phí luật sư từ vài nghìn nhân dân tệ; người khó khăn kinh tế có thể xin trợ giúp pháp lý. Chi phí chủ yếu đến sau đó: thường ban đầu vụ án được khởi tố theo tội cố ý gây thương tích, bạn phải phối hợp điều tra, thậm chí bị giam hơn chục ngày trước. Khó nhất là giữ bình tĩnh trong thời gian này.",
+      "plain": "Khi đối phương đang xâm hại bạn hoặc người khác, bạn ra tay ngăn chặn khiến họ bị thương thì không chịu trách nhiệm hình sự. Nếu họ đang tấn công bạo lực, giết người, cướp, hiếp dâm hoặc bắt cóc, việc khiến họ bị thương hay chết cũng không bị coi là vượt quá giới hạn. Nhưng chỉ được đánh người đang ra tay; họ dừng thì bạn dừng. Dù kết luận cuối cùng có lợi cho bạn, ban đầu bạn vẫn có thể bị khởi tố, bị giam vài ngày.",
+      "benefit": "Bộ luật Hình sự quy định thế nào là phòng vệ chính đáng. Lợi ích nhà nước, công cộng, thân thể, tài sản hoặc quyền khác của mình hay người khác đang bị xâm hại trái pháp luật; lúc đó ra tay ngăn chặn, làm người đang xâm hại bị thương là phòng vệ chính đáng, không chịu trách nhiệm hình sự. Cùng điều luật còn ghi: “Phòng vệ chính đáng rõ ràng vượt giới hạn cần thiết, gây thiệt hại nghiêm trọng thì phải chịu trách nhiệm hình sự, nhưng phải được giảm hoặc miễn hình phạt”. Khoản khác quy định: “Phòng vệ trước hành vi đang diễn ra như tấn công bạo lực, giết người, cướp, hiếp dâm, bắt cóc và các tội bạo lực khác đe dọa nghiêm trọng an toàn thân thể, khiến người xâm hại bị thương hoặc chết, không thuộc trường hợp vượt quá giới hạn phòng vệ và không chịu trách nhiệm hình sự”. Hướng dẫn của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và Bộ Công an xác định ranh giới chi tiết hơn. Muốn kết luận vượt quá giới hạn phải đồng thời có “rõ ràng vượt giới hạn cần thiết” và “gây thiệt hại nghiêm trọng”, không được thiếu điều nào. “Thiệt hại nghiêm trọng” là gây thương tích nặng hoặc làm người xâm hại chết; thương tích nhẹ và nhẹ hơn không tính. Chỉ khi người xâm hại thực sự mất khả năng tiếp tục hoặc thực sự từ bỏ thì hành vi xâm hại mới kết thúc. Phòng vệ phải nhằm vào chính người xâm hại. Nếu hành vi xâm hại rõ ràng rất nhẹ và có thể nhận ra điều đó mà vẫn dùng cách đủ gây thương tích nặng hoặc tử vong để ngăn chặn thì không được công nhận là phòng vệ. Có vụ án chính thức cho thấy chi phí của quá trình này. Vụ Vu Hải Minh, án lệ kiểm sát số 47: tối ngày 27 tháng 8 năm 2018, công an khởi tố điều tra “vụ cố ý gây thương tích”. Ngày 1 tháng 9, Công an thành phố Côn Sơn căn cứ khoản ba Điều hai mươi Bộ luật Hình sự xác định là phòng vệ chính đáng và đình chỉ vụ án. Vụ Trần, án lệ kiểm sát số 45: một học sinh bị 9 người vây đánh, dùng dao chống trả khiến 3 người bị thương nặng. Công an khởi tố điều tra về nghi phạm cố ý gây thương tích và tạm giữ hình sự. Cơ quan kiểm sát xác định là phòng vệ chính đáng, không phê chuẩn bắt; khi đó công an mới thả người. Sau tạm giữ, nếu công an thấy cần bắt thì phải đề nghị viện kiểm sát xem xét phê chuẩn trong 3 ngày. Trường hợp đặc biệt được kéo dài thêm 1 đến 4 ngày. Với nghi phạm nghiêm trọng phạm tội lưu động, nhiều lần hoặc theo nhóm, thời hạn có thể kéo dài đến 30 ngày. Viện kiểm sát ra quyết định trong 7 ngày tiếp theo (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (1997). 刑法（第二十条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院、最高人民检察院、公安部 (2020). 关于依法适用正当防卫制度的指导意见（法发〔2020〕31 号，第 5、6、7、10、11、13、14、19 条）. <https://www.court.gov.cn/zixun/xiangqing/251611.html>；最高人民检察院 (2018). 第十二批指导性案例（检例第 45 号陈某正当防卫案、检例第 47 号于海明正当防卫案）. <https://www.spp.gov.cn/spp/jczdal/201812/t20181219_402920.shtml>；全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第九十一条）. 宁夏回族自治区人民检察院转载全文 <https://www.nx.jcy.gov.cn/zwsy/qwfb/202011/t20201119_608817.html>",
+      "notes": "Cách mặc định vẫn là lùi lại và báo cảnh sát như mục 10 (xảy ra xung đột báo cảnh sát trước, đừng đánh người). Hai bên đánh nhau không phải phòng vệ; đối phương đã ngã hoặc bỏ chạy mà bạn đuổi đánh tiếp cũng không phải. Chỉ cân nhắc đánh trả khi không còn đường lùi. Sau đó cần làm ba việc. Thứ nhất, báo cảnh sát rồi đừng rời hiện trường. Thứ hai, nhanh chóng giữ lại camera và nhân chứng; hướng dẫn yêu cầu công an lấy video, âm thanh hiện trường và hỏi nhân chứng ngay từ đầu. Thứ ba, thuê luật sư trước khi cảnh sát chính thức hỏi cung, xem mục 5 (bị cáo buộc hãy thuê luật sư trước). Cuối cùng vụ án bị đình chỉ, không truy tố hoặc tuyên vô tội thì có thể yêu cầu Nhà nước bồi thường theo ngày cho thời gian bị giam, xem mục 35 (bồi thường của Nhà nước sau giam giữ). Pháp luật cũng cho phép ra tay phòng vệ cho người khác. Nhưng tay không can thiệp vào đánh nhau giữa người lạ có rủi ro riêng, xem chương 13 mục 37 (bắt gặp một nhóm người đánh nhau). Người hưởng lợi chính của mục này là bản thân và gia đình."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

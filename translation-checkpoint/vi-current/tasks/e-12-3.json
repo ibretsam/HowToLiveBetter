@@ -1,0 +1,48 @@
+{
+  "id": "e-12-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "ed1c8833da15fad361bafaef59816c6324b222051d17bc27f035ac984ed81579",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "开张前选对主体：个体户和合伙人赔到底，有限公司才「有限」",
+    "fields": {
+      "cost": "登记在当地政务服务网上办，一次几个小时。开了有限公司之后每个月要记账报税，这是长期的开销：自己做花时间，请人代记账花钱，各地价格不同。",
+      "plain": "个体户和普通合伙人欠多少还多少，有限公司的股东只赔自己注册时答应出的那个数。但答应了多少，5 年内就要真拿出多少：填 100 万，就是可能欠着 100 万。公司账和自家账混着用、拿公司躲债，「有限」也会失效。只有你一个股东的，还得你自己拿账证明没混。",
+      "benefit": "个体工商户欠的债，要拿个人的钱和东西还，或者拿全家的钱和东西还。普通合伙企业的合伙人，对合伙企业的债承担无限连带责任。意思是欠多少还多少，还不完不算完。债主还可以只揪住其中一个人，要他还全部。有限合伙不一样，里面的有限合伙人只赔到自己答应出的那笔钱（以认缴出资为限）为止。有限责任公司的股东也是只赔到自己答应出的那笔钱（以认缴出资额为限）。但「有限」会在三种情况下失效。一是答应出的钱要在公司成立起 5 年内真交齐，公司还不上到期的债时，债主可以要求提前交。二是已经投进去又抽走的钱（抽逃出资）要还回来。三是拿公司当壳子躲债、严重损害债主利益，这时公司的债你个人要跟着一起还（承担连带责任）。只有一个股东的公司更严：要由这个股东自己证明公司的钱和他自己的钱是分开的。证明不了，公司的债他个人就要跟着一起还。法院主要看钱和账分没分开。股东随便用公司的钱又不记账，公司账和个人账不分，都算混在一起（全国，2024 年 7 月起）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第五十六条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2006). 合伙企业法（2006 年修订，第二条）. <http://www.gov.cn/gongbao/content/2006/content_413955.htm>；全国人大常委会 (2023). 公司法（2023 年修订，第四、二十三、四十七、五十三、五十四条；第二十三条第三款：「只有一个股东的公司，股东不能证明公司财产独立于股东自己的财产的，应当对公司债务承担连带责任。」）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>；最高人民法院 (2019). 全国法院民商事审判工作会议纪要（第 10 点「人格混同」）：「最主要的表现是公司的财产与股东的财产是否混同且无法区分」「公司账簿与股东账簿不分，致使公司财产与股东财产无法区分的」. <https://www.court.gov.cn/zixun/xiangqing/199691.html>",
+      "notes": "公司账户和个人账户分开用，客户货款别收到个人卡上，公司的钱别付家里的开销，账目留全。注册资本别为了好看填大数。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Chọn đúng loại chủ thể trước khi mở: hộ kinh doanh và thành viên hợp danh chịu đến cùng; công ty trách nhiệm hữu hạn mới “hữu hạn”",
+    "fields": {
+      "cost": "Đăng ký trên cổng dịch vụ công địa phương, một lần vài giờ. Sau khi lập công ty trách nhiệm hữu hạn phải ghi sổ, khai thuế hằng tháng; đây là chi phí lâu dài. Tự làm tốn thời gian, thuê kế toán tốn tiền, giá khác nhau theo địa phương.",
+      "plain": "Hộ kinh doanh và thành viên hợp danh thông thường chịu trách nhiệm đến cùng, nợ bao nhiêu trả bấy nhiêu. Cổ đông công ty trách nhiệm hữu hạn chỉ chịu đến mức vốn đã cam kết lúc đăng ký. Nhưng cam kết bao nhiêu phải thật sự góp đủ trong 5 năm: điền 100 vạn nghĩa là có thể mang nghĩa vụ 100 vạn. Trộn tiền công ty với tiền nhà thì “hữu hạn” cũng mất tác dụng.",
+      "benefit": "Nợ hộ kinh doanh cá thể phải trả bằng tiền, tài sản cá nhân hoặc của cả nhà. Thành viên công ty hợp danh thông thường chịu trách nhiệm vô hạn, liên đới đối với nợ doanh nghiệp: nợ bao nhiêu trả bấy nhiêu, chưa trả hết chưa xong. Chủ nợ còn có thể chỉ đòi một người trả toàn bộ. Công ty hợp danh hữu hạn khác: thành viên góp vốn hữu hạn chỉ chịu đến khoản đã cam kết góp. Cổ đông công ty trách nhiệm hữu hạn cũng chỉ chịu đến số vốn đã cam kết. Nhưng “hữu hạn” mất tác dụng trong ba trường hợp. Thứ nhất, vốn cam kết phải góp đủ trong 5 năm từ khi thành lập; khi công ty không trả được nợ đến hạn, chủ nợ có thể yêu cầu góp sớm. Thứ hai, tiền đã góp rồi rút trái phép phải hoàn trả. Thứ ba, dùng công ty làm vỏ bọc trốn nợ. Công ty chỉ có một cổ đông mà không chứng minh được tiền công ty tách biệt tiền riêng cũng thuộc trường hợp thứ ba. Với hai cách làm vừa nêu trong trường hợp này, cá nhân phải cùng trả nợ công ty, tức chịu trách nhiệm liên đới (toàn quốc, từ tháng 7 năm 2024).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第五十六条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2006). 合伙企业法（2006 年修订，第二条）. <http://www.gov.cn/gongbao/content/2006/content_413955.htm>；全国人大常委会 (2023). 公司法（2023 年修订，第四、二十三、四十七、五十三、五十四条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>",
+      "notes": "Điều kiện của “hữu hạn” là tách bạch công tư: không trộn tài khoản công ty và cá nhân, không dùng tiền công ty chi việc nhà, giữ đầy đủ sổ sách. Đừng khai vốn đăng ký lớn chỉ để đẹp hồ sơ. Cam kết bao nhiêu phải thật sự góp đủ trong 5 năm. Điền 100 vạn là nghĩa vụ nợ tiềm tàng 100 vạn."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

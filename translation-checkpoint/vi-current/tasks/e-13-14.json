@@ -1,0 +1,48 @@
+{
+  "id": "e-13-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "d6ee76ea7bf4cd6da21ff92b0cd2b7acdcc3b982990621d5f4d5d99ebe3b1821",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "烫伤后立刻用凉的流动水冲 20 分钟，别抹牙膏酱油",
+    "fields": {
+      "cost": "不花钱。占 20 分钟。",
+      "plain": "受伤 3 小时内用凉的流动水冲够 20 分钟，后来需要植皮的可能性大约只有没冲的六成。是凉水不是冰水，冰敷会加重损伤。衣服粘在伤口上别硬撕，冲完拿干净布盖住去医院，牙膏、酱油、香油、面粉都不要抹。隔了一会儿才想起来，三小时内补冲仍然有用。",
+      "benefit": "澳大利亚跟踪了 2495 名烧烫伤儿童。受伤后 3 小时内用凉流动水冲 20 分钟的孩子，后来需要植皮的比值比是 0.6，95% CI 0.4–0.8（可信范围）。需要植皮的可能性大约只有没这么冲的六成。7 项研究合起来算的结果同样发现，「伤后三小时内 20 分钟凉流动水显著降低了需要植皮和手术处理创面的可能」。国际红十字 2025 年急救指南写明，不要用冰水冲，也不要敷冰，会加重损伤。NHS 写明，烫伤处附近的衣服首饰要摘掉，但粘在伤口上的别动，也不要往烫伤上抹任何药膏、油或黄油",
+      "grade": "A",
+      "sources": "Griffin BR, Frear CC, Babl F, Oakley E, Kimble RM (2020). Cool Running Water First Aid Decreases Skin Grafting Requirements in Pediatric Burns: A Cohort Study of Two Thousand Four Hundred Ninety-five Children. Annals of Emergency Medicine, 75(1), 75-85. <https://doi.org/10.1016/j.annemergmed.2019.06.028>；Griffin B, Cabilan CJ, Ayoub B, et al. (2022). The effect of 20 minutes of cool running water first aid within three hours of thermal burn injury on patient outcomes: A systematic review and meta-analysis. Australasian Emergency Care, 25(4), 367-376. <https://doi.org/10.1016/j.auec.2022.05.004>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 289 页：「Do not use ice-cold water」「Do not apply ice, as this may aggravate the injury」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>；NHS. Burns and scalds：「do not remove anything that is stuck to the affected area」「do not put any creams, oils or butter on burns or scalds」. <https://www.nhs.uk/conditions/burns-and-scalds/treatment/>",
+      "notes": "是凉水不是冰水，冰敷会加重损伤。衣服粘在伤口上就别硬撕，冲完用干净布盖住去医院。牙膏、酱油、香油、面粉都不要抹，NHS 写明烫伤上什么膏、什么油都不要抹。三小时内补冲仍然有用。给婴儿洗澡怎么防烫，见第 20 节第 17 条（先放冷水再兑热水）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Bỏng thì xả ngay nước mát chảy 20 phút, đừng bôi kem đánh răng, nước tương",
+    "fields": {
+      "cost": "Không tốn tiền, mất 20 phút.",
+      "plain": "Trong 3 giờ sau bị thương, xả đủ 20 phút nước mát chảy, khả năng cần ghép da sau đó khoảng sáu phần mười so với không xả. Nước mát, không nước đá; chườm đá làm tổn thương nặng hơn. Áo dính vết thương đừng giật, xả xong phủ vải sạch rồi đi viện. Không bôi kem đánh răng, nước tương, dầu mè, bột mì. Muộn mới nhớ thì xả bù trong ba giờ vẫn hữu ích.",
+      "benefit": "Australia theo dõi 2495 trẻ bị bỏng. Trẻ xả nước mát chảy 20 phút trong 3 giờ sau thương có tỷ số odds cần ghép da 0.6, 95% CI 0.4–0.8 (khoảng tin cậy), khoảng sáu phần mười so với không làm. Gộp 7 nghiên cứu cũng thấy “20 phút nước mát chảy trong ba giờ sau thương giảm rõ khả năng cần ghép da và xử lý vết thương bằng phẫu thuật”.",
+      "grade": "A",
+      "sources": "Griffin BR, Frear CC, Babl F, Oakley E, Kimble RM (2020). Cool Running Water First Aid Decreases Skin Grafting Requirements in Pediatric Burns: A Cohort Study of Two Thousand Four Hundred Ninety-five Children. Annals of Emergency Medicine, 75(1), 75-85. <https://doi.org/10.1016/j.annemergmed.2019.06.028>；Griffin B, Cabilan CJ, Ayoub B, et al. (2022). The effect of 20 minutes of cool running water first aid within three hours of thermal burn injury on patient outcomes: A systematic review and meta-analysis. Australasian Emergency Care, 25(4), 367-376. <https://doi.org/10.1016/j.auec.2022.05.004>",
+      "notes": "Nước mát, không nước đá; chườm đá làm nặng hơn. Áo dính vết thương đừng giật, xả xong phủ vải sạch đi viện. Không bôi kem đánh răng, nước tương, dầu mè, bột mì vì cản bác sĩ đánh giá độ sâu, dễ nhiễm trùng. Xả bù trong ba giờ vẫn có ích."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

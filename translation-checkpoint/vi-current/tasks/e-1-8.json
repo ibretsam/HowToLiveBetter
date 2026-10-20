@@ -1,0 +1,49 @@
+{
+  "id": "e-1-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "f01b497a5af6a90af12567cb66d04279c275488429758952c306f578d5c3ac42",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "35 岁以后只要超重，就去查一次空腹血糖，正常也每三年再查",
+    "fields": {
+      "cost": "空腹血糖十几元。糖化血红蛋白几十元。去医院抽一次血就行。",
+      "plain": "花几十块抽一管血，就能在一点症状都没有的时候查出糖尿病前期。美国官方的筛查建议是：35 到 70 岁、超重或肥胖的人去查。查出来正常的，每三年再查一次。美国按体重指数 25 算超重，对亚裔降到 23，中国标准是 24 就算超重。",
+      "benefit": "美国预防服务工作组是美国官方给筛查建议的机构。它现在的建议是：对 35 到 70 岁、超重或肥胖的成年人筛查糖尿病前期和 2 型糖尿病，哪怕一点症状都没有。超重指体重指数 ≥25，肥胖指 ≥30。对亚裔美国人，它建议把界线降到体重指数 ≥23，因为同样的体重指数下，亚裔的糖尿病风险更高。中国的行业标准是：体重指数 24.0 到 28.0 之间算超重，≥28.0 算肥胖。这条建议的推荐等级是 B。它还写明：「对血糖正常的成年人，每 3 年筛查一次是合理的做法」",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2021). Screening for Prediabetes and Type 2 Diabetes. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes>：「at a lower BMI (≥23) if the patient is Asian American」；国家卫生健康委办公厅 (2024). 居民体重管理核心知识（2024 年版）释义：「根据《成年人体重判定》（WS/T 428-2013）行业标准……24.0≤BMI＜28.0 为超重，BMI≥28.0 为肥胖」. <https://www.gov.cn/zhengce/zhengceku/202407/P020240703481519509521.pdf>；Wang L 等 (2021). Prevalence and Treatment of Diabetes in China, 2013-2018. JAMA：「In 2018, among adults with diabetes, 36.7% (95% CI, 34.7%-38.6%) reported being aware of their condition」「These rates did not change significantly from 2013.」<https://doi.org/10.1001/jama.2021.22208>",
+      "notes": "查出糖尿病前期不等于就要吃药。少吃、多动、减点体重，得糖尿病的风险能低三到六成。2018 年的全国调查里，中国成人糖尿病患者只有 36.7% 知道自己有病，和 2013 年比没有明显好转。这个降幅和查出以后怎么改、多久复查，见第 2 节第 45 条（查出糖尿病前期）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "35岁"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Sau 35 tuổi, hễ thừa cân hãy xét nghiệm đường máu lúc đói; bình thường vẫn kiểm lại mỗi ba năm",
+    "fields": {
+      "cost": "Đường máu lúc đói hơn chục nhân dân tệ, hemoglobin glycated vài chục. Chỉ cần đến bệnh viện lấy máu một lần.",
+      "plain": "Vài chục nhân dân tệ, một ống máu có thể phát hiện tiền tiểu đường dù không triệu chứng. Khuyến nghị chính thức Mỹ: người 35 đến 70 tuổi thừa cân hoặc béo phì nên xét nghiệm. Bình thường thì kiểm lại mỗi ba năm. Mỹ lấy BMI 25 là thừa cân, hạ xuống 23 cho người châu Á; chuẩn Trung Quốc là 24.",
+      "benefit": "Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ là cơ quan chính thức đưa khuyến nghị sàng lọc. Hiện khuyên sàng lọc tiền tiểu đường và tiểu đường loại 2 cho người lớn 35 đến 70 tuổi thừa cân, béo phì dù không triệu chứng. Thừa cân BMI ≥25, béo phì ≥30. Với người Mỹ gốc Á, khuyên hạ ngưỡng BMI ≥23 vì cùng BMI nguy cơ tiểu đường cao hơn. Chuẩn ngành Trung Quốc: BMI 24.0 đến 28.0 là thừa cân, ≥28.0 béo phì. Khuyến nghị mức B, còn ghi «người lớn đường máu bình thường sàng lọc mỗi 3 năm là hợp lý»",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2021). Screening for Prediabetes and Type 2 Diabetes. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes>：「at a lower BMI (≥23) if the patient is Asian American」；国家卫生健康委办公厅 (2024). 居民体重管理核心知识（2024 年版）释义：「根据《成年人体重判定》（WS/T 428-2013）行业标准……24.0≤BMI＜28.0 为超重，BMI≥28.0 为肥胖」. <https://www.gov.cn/zhengce/zhengceku/202407/P020240703481519509521.pdf>",
+      "notes": "Phát hiện tiền tiểu đường không có nghĩa phải dùng thuốc. Khá nhiều người có thể đảo ngược chỉ bằng đổi lối sống. Trong người lớn Trung Quốc, số biết mình tiểu đường luôn là thiểu số; nhiều người đến khi có biến chứng mới phát hiện"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

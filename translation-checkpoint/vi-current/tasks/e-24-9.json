@@ -1,0 +1,48 @@
+{
+  "id": "e-24-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "ab48270905eefe5a86dc3a7ec7a3acb1fc4528ff16ac0ec9f50b7aab573a9bba",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "伤残鉴定要等治疗终结或者临床治疗效果稳定之后再做",
+    "fields": {
+      "cost": "鉴定费几百到两千元不等，一般由提出申请的一方先垫。要等治疗终结，或者临床效果稳定，等多久看伤情，医生说了算。难在伤还没好利索就想赶紧定下来，得忍住。",
+      "plain": "赔多少钱主要看评几级，评几级看的是治完之后还剩多少功能障碍。标准写明要在治疗终结、或者临床治疗效果稳定之后再做。骨头还没长好就去评，不合这条要求。长好了、不影响功能的普通骨折，一般评不上。",
+      "benefit": "《人体损伤致残程度分级》的鉴定原则是「应以损伤治疗后果或者结局为依据，客观评价组织器官缺失和/或功能障碍程度」。标准规定鉴定时机「应在原发性损伤及其与之确有关联的并发症治疗终结或者临床治疗效果稳定后进行鉴定」。标准「将人体损伤致残程度划分为 10 个等级，从一级（人体致残率 100%）到十级（人体致残率 10%），每级致残率相差 10%」。判断依据是「人体组织器官结构破坏、功能障碍及其对医疗、护理的依赖程度，适当考虑由于残疾引起的社会交往和心理因素影响」。十级里与骨折有关的条款包括这么几条。一是「一椎体压缩性骨折（压缩程度达 1/3）或者粉碎性骨折」。二是「骨盆两处以上骨折或者粉碎性骨折，畸形愈合」。三是「四肢任一大关节（踝关节除外）功能丧失 25% 以上」。同一部位和性质的残疾不得重复计算。两处以上致残的，应分别写明等级（全国，2017 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "最高人民法院、最高人民检察院、公安部、国家安全部、司法部 (2016). 关于发布《人体损伤致残程度分级》的公告（2016 年 4 月 18 日发布，2017 年 1 月 1 日施行），标准第 4.1、4.2、4.3、4.4、4.5、5.10.6、6.2 条. <https://www.moj.gov.cn/pub/sfbgw/zwxxgk/fdzdgknr/fdzdgknrtzwj/201908/P020210316701681025917.pdf>",
+      "notes": "三套评残不通用，别搞混。被人打伤、交通事故和其他人身损害，走司法鉴定的《人体损伤致残程度分级》，用来算残疾赔偿金（见第 9 节）。工伤走劳动能力鉴定，用的是另一套十个伤残等级，管的是工伤待遇（见第 19 节）。想享受残疾人的政策待遇，要另外办残疾人证（见第 10 条，残疾人证）。鉴定前把病历、手术记录、复查影像备齐（见第 5 条，病历和影像自己存一份）。做早了等级是偏低还是偏高，标准没有写，是从「以损伤治疗后果或者结局为依据」这条原则推出来的：做早了评的是当时的样子，还没恢复的功能后来可能变好，也可能变差。这次受伤和本来就有的老毛病混在一起时，鉴定意见还要写明这次受伤在残疾后果里占多大分量。这一栏直接影响赔多少钱。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Giám định thương tật sau điều trị kết thúc; làm sớm cấp có thể bị đánh thấp",
+    "fields": {
+      "cost": "Phí từ vài trăm đến hai nghìn nhân dân tệ, thường bên đề nghị ứng. Chờ kết thúc điều trị hoặc hiệu quả lâm sàng ổn định, thường ba đến sáu tháng sau thương, đôi khi lâu hơn. Khó là chưa lành hẳn đã muốn chốt, phải kiên nhẫn.",
+      "plain": "Bồi thường chủ yếu theo cấp, cấp theo rối loạn chức năng còn lại sau điều trị. Chuẩn yêu cầu sau kết thúc hoặc hiệu quả lâm sàng ổn định mới làm. Xương chưa liền, nẹp chưa tháo mà đi, đánh theo trạng thái lúc đó như tự hạ cấp. Gãy thường lành không ảnh hưởng chức năng thì không đạt.",
+      "benefit": "Phân cấp mức khuyết tật do tổn thương cơ thể quy định thời điểm “sau điều trị kết thúc hoặc hiệu quả lâm sàng ổn định của tổn thương ban đầu và biến chứng có liên quan chắc chắn”. Chuẩn “chia 10 cấp, từ một (tỷ lệ khuyết tật 100%) đến mười (10%), mỗi cấp chênh 10%”. Căn cứ “phá hủy cấu trúc mô/cơ quan, rối loạn chức năng, mức phụ thuộc y tế, chăm sóc, xét thích hợp ảnh hưởng giao tiếp xã hội và tâm lý do khuyết tật”. Điều khoản gãy xương cấp mười gồm: “một đốt sống gãy nén (nén đến 1/3) hoặc gãy vụn”; “xương chậu gãy từ hai chỗ hoặc gãy vụn, liền lệch”; “bất kỳ khớp lớn chi (trừ cổ chân) mất từ 25% chức năng trở lên”. Cùng vị trí, tính chất không tính lặp. Có từ hai nơi gây khuyết tật ghi cấp riêng (toàn quốc, hiệu lực ngày 1 tháng 1 năm 2017)",
+      "grade": "A",
+      "sources": "最高人民法院、最高人民检察院、公安部、国家安全部、司法部 (2016). 关于发布《人体损伤致残程度分级》的公告（2016 年 4 月 18 日发布，2017 年 1 月 1 日施行），标准第 4.2、4.4、4.5、5.10.6、6.2 条. <https://www.moj.gov.cn/pub/sfbgw/zwxxgk/fdzdgknr/fdzdgknrtzwj/201908/P020210316701681025917.pdf>",
+      "notes": "Ba hệ đánh giá không dùng thay, đừng nhầm. Bị đánh, tai nạn giao thông, tổn hại thân thể khác dùng giám định tư pháp theo Phân cấp mức khuyết tật do tổn thương cơ thể để tính bồi thường (chương 9). Tai nạn lao động giám định khả năng lao động, bộ mười cấp khác, cho chế độ lao động (chương 19). Muốn chính sách người khuyết tật phải làm thẻ riêng (mục 10). Trước giám định đủ bệnh án, mổ, hình tái khám (mục 5); thiếu hình là lý do thường nhất bị đánh thấp. Thương lần này lẫn bệnh cũ, kết luận còn phải ghi tỷ trọng đóng góp lần thương vào hậu quả khuyết tật, trực tiếp ảnh hưởng bồi thường."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

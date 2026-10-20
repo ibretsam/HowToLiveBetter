@@ -1,0 +1,48 @@
+{
+  "id": "e-6-24",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "89b26d8ecbf15ebd11e7d2d7e09dd04755441396907e7c28363feb730e251945",
+  "status": "outdated",
+  "original": {
+    "number": 24,
+    "title": "不要为了「在周围人里往上挪一档」多花钱换房、换车、换圈子",
+    "fields": {
+      "cost": "不花钱。要做的只是在加预算之前多问一句：这笔加价买的是东西本身，还是我在这群人里的位置。难在周围人都换了的时候，自己不跟。",
+      "plain": "拿收入一样的人来比，邻居挣得越多，这个人报告的幸福感越低。这主要发生在学历和自己相同的邻居身上，常和邻居来往的人更明显。所以为了搬进一个人人都比你宽裕的地方而多花的钱，买到的是把自己往下挪一档。但收入一起涨的时候，人还是觉得更好过。",
+      "benefit": "美国全国家庭与住户调查（NSFH）两轮回访了同一批人。作者把这份数据和本地平均收入对上。本地平均收入（PUMA）是按 1990 年人口普查 5% 抽样推算出来的。把本人收入和一系列个人特征都扣掉之后，结果是：邻居收入越高，自己报告的幸福感越低。这个效应大，换一种算法也稳，而且高度显著。作者的表述是，「邻居收入上升」和「本人收入下降同样幅度」带来的幸福感下降处于同一数量级。改成同一个人前后自己跟自己比之后（这叫加个体固定效应），系数方向不变、大小也相近，只是显著性降到了 10% 的水平。再限定在同一个州、同一轮调查之间比（这叫加州和调查轮次的固定效应），结果基本不变。这说明它不是「爱搬去穷地方的人本来就更快乐」造成的，也不是州一级某些没测到的因素造成的。效应在常和邻居来往的人身上更强，在只和社区外朋友来往的人身上不显著。租房的人和自己有房的人没有差异，这一点不支持「贵地方房价高，所以实际可花的钱少」这种解释。幸福感只随学历相同的邻居的收入而下降，对学历不同的邻居的收入几乎没有反应。而且它主要是通过「对自己物质处境的满意度」传过去的，不是通过对家庭生活等其他方面的满意度。最后，如果本人和邻居的收入按同样比例一起上升，幸福感仍然上升",
+      "grade": "B",
+      "sources": "Luttmer EFP (2005). Neighbors as Negatives: Relative Earnings and Well-Being. The Quarterly Journal of Economics, 120(3), 963–1002. <https://doi.org/10.1093/qje/120.3.963>；Luttmer EFP (2004). Neighbors as Negatives: Relative Earnings and Well-Being. NBER Working Paper No. 10667（本条引用的表述与数量级按这一版逐字核对）. <https://www.nber.org/papers/w10667>",
+      "notes": "定 B 级的理由有几条：数据来自反复回访同一批人的问卷，只有这一项研究，样本又在国外。看的结果是受访者自己报的幸福感，不是钱。作者确实用统计手段排掉了几类干扰，比如同一个人前后比、同一个州同一轮之间比，但终究不是随机试验。中国人群也没有可以引用的同类数据。收益量级定「中」，是沿用本节第 23 条（别指望买东西改善心情）的口径。省下的钱确实可能到万元级。但「省下这笔钱能换来多少幸福感」没有数字支撑，所以不按万元级记成「大」。这里不反对为更大的房子、更安静的小区、更短的通勤花钱，那些买的是东西本身。要拦的是「同事都换了，我不能比他们差」这一个理由。住处该按什么排序见第 4 节第 18 条（选住处时把通勤时长放在前面）。买东西调情绪见本节第 23 条（别指望买东西改善心情）。在网上老往上比见第 3 节第 20 条（别把「别人过得怎么样」当每日必读）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 24,
+    "title": "Đừng chi thêm đổi nhà, xe, nhóm giao du chỉ để “lên một bậc giữa người xung quanh”",
+    "fields": {
+      "cost": "Không tốn tiền. Trước tăng ngân sách hỏi thêm: tiền tăng mua chính món đồ hay vị trí của mình trong nhóm? Khó là xung quanh đều đổi mà mình không theo.",
+      "plain": "So người cùng thu nhập, hàng xóm kiếm càng nhiều thì người đó tự báo hạnh phúc càng thấp. Chỉ xảy ra giữa hàng xóm cùng học vấn, hay giao tiếp. Vì vậy chi thêm để vào nơi ai cũng khá hơn bạn là mua việc hạ mình một bậc. Nhưng thu nhập cùng tăng thì vẫn thấy dễ sống hơn, mức tuyệt đối vẫn có ý nghĩa.",
+      "benefit": "Khảo sát NSFH Mỹ phỏng vấn lại cùng nhóm qua hai đợt. Tác giả ghép với thu nhập địa phương trung bình PUMA ước tính từ mẫu 5% điều tra dân số 1990. Loại ảnh hưởng thu nhập bản thân và nhiều đặc điểm cá nhân: hàng xóm thu nhập cao hơn thì hạnh phúc tự báo thấp hơn. Hiệu ứng lớn, bền với cách tính khác, rất có ý nghĩa thống kê. Tác giả nói “thu nhập hàng xóm tăng” gây giảm hạnh phúc cùng bậc độ lớn với “thu nhập mình giảm cùng mức”. So cùng người trước sau (hiệu ứng cố định cá nhân), hướng và độ lớn gần như cũ, chỉ ý nghĩa thống kê xuống mức 10%. Giới hạn so trong cùng bang, cùng đợt (hiệu ứng cố định bang và đợt), kết quả hầu như không đổi. Điều này cho thấy không phải người thích chuyển vùng nghèo vốn vui hơn hay yếu tố cấp bang chưa đo. Hiệu ứng mạnh hơn ở người hay giao tiếp hàng xóm, không rõ ở người chỉ giao du bạn ngoài cộng đồng. Không khác giữa người thuê và sở hữu nhà, không ủng hộ giải thích “vùng đắt nhà đắt, tiền thực dùng ít”. Hạnh phúc chỉ giảm theo thu nhập hàng xóm cùng học vấn, gần như không phản ứng với học vấn khác. Chủ yếu truyền qua “hài lòng hoàn cảnh vật chất”, không qua hài lòng đời sống gia đình hay mặt khác. Cuối cùng, khi thu nhập mình và hàng xóm cùng tăng tỷ lệ bằng nhau, hạnh phúc vẫn tăng.",
+      "grade": "B",
+      "sources": "Luttmer EFP (2005). Neighbors as Negatives: Relative Earnings and Well-Being. The Quarterly Journal of Economics, 120(3), 963–1002. <https://doi.org/10.1093/qje/120.3.963>；Luttmer EFP (2004). Neighbors as Negatives: Relative Earnings and Well-Being. NBER Working Paper No. 10667（本条引用的表述与数量级按这一版逐字核对）. <https://www.nber.org/papers/w10667>",
+      "notes": "Xếp B vì chỉ một nghiên cứu khảo sát lặp cùng người, mẫu nước ngoài; kết quả là hạnh phúc tự báo chứ không tiền. Tác giả loại vài nhiễu bằng thống kê như so cùng người trước sau, cùng bang cùng đợt, nhưng vẫn không ngẫu nhiên. Trung Quốc không có dữ liệu tương tự để dẫn. Lợi ích “vừa” theo cách tính mục 23 chương này (đừng trông chờ mua sắm cải thiện tâm trạng). Tiền tiết kiệm có thể hàng vạn nhân dân tệ, nhưng không có số cho biết đổi được bao nhiêu hạnh phúc nên không xếp “lớn” theo tiền đó. Không phản đối trả cho nhà rộng, khu yên, đi làm gần vì đó là mua chính giá trị sử dụng. Chỉ ngăn lý do “đồng nghiệp đổi hết, mình không thể kém”. Ưu tiên nơi ở xem chương 4 mục 18 (đặt thời gian đi làm lên trước). Mua sắm chỉnh tâm trạng xem mục 23 chương này. So với người hơn mình trên mạng xem chương 3 mục 20 (đừng coi cuộc sống người khác là tin phải đọc hằng ngày)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

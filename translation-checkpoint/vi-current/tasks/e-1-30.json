@@ -1,0 +1,48 @@
+{
+  "id": "e-1-30",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "bd17ab11fb15a92afeb4d82cbc534dea2c60248e5cf2fde2e91fa0ef6dead6de",
+  "status": "outdated",
+  "original": {
+    "number": 30,
+    "title": "性行为全程用安全套，不和别人共用针具",
+    "fields": {
+      "cost": "一只一两元。难的地方不在钱，在于每一次都用，而且从一开始就戴上。",
+      "plain": "每一次都全程戴，异性之间传染艾滋病的概率大约降七成以上。「大部分时候戴」的效果，和不戴差不了多少。对别的性病也有保护，但长在套子盖不住地方的梅毒、疱疹挡不住。",
+      "benefit": "一项研究把 25 项研究、10676 对异性伴侣合起来一起算。这些伴侣都是一方感染 HIV、一方没感染，学名叫血清不一致。和从来不用的人相比，坚持每次都用安全套的人，HIV 传播风险低约 71%。原值 RR 0.29，可信范围 95% CI 0.20 至 0.43。和用得断断续续的人相比，低约 77%（RR 0.23，95% CI 0.13 至 0.40）。作者的结论是，安全套虽然不完美，但「坚持使用可使 HIV 传播降低 70% 以上」。世界卫生组织说，正确、坚持地用安全套，是防性传播感染（包括 HIV）最有效的办法之一。但长在套子盖不住的地方的溃疡，比如梅毒、生殖器疱疹，安全套挡不住",
+      "grade": "A",
+      "sources": "Giannou FK, Tsiara CG, Nikolopoulos GK, et al. (2016). Condom effectiveness in reducing heterosexual HIV transmission: a systematic review and meta-analysis of studies on HIV serodiscordant couples. Expert Review of Pharmacoeconomics & Outcomes Research, 16(4), 489-499. <https://doi.org/10.1586/14737167.2016.1102635>；Fonner VA 等 (2016). Effectiveness and safety of oral HIV preexposure prophylaxis for all populations. AIDS. <https://doi.org/10.1097/QAD.0000000000001145>（暴露前预防 PrEP）；WHO (2025). Sexually transmitted infections (STIs) fact sheet：「When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Although highly effective, condoms do not offer protection for STIs that cause extra-genital ulcers (i.e., syphilis or genital herpes).」<https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)>",
+      "notes": "「不规律使用」和「不用」的差距很小，要每次、全程都用才有效。共用针具是另一条独立的高效传播途径，和性行为无关，注射毒品、纹身、穿孔都算。高风险人群还可以用暴露前预防（PrEP），就是事先吃药挡住感染。把 18 项研究合起来算，凡是超过七成人按时吃药的试验，吃 PrEP 的人感染 HIV 的风险比吃安慰剂的低约七成。原值是风险比 0.30，可信范围 95% CI 0.21 至 0.45。按时吃药的人少的那些试验，则看不到保护效果。PrEP 是处方药，去感染科或者疾控问，别自己网购。已经暴露之后怎么办见第 13 节"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 30,
+    "title": "Dùng bao cao su suốt cuộc quan hệ, không dùng chung kim tiêm",
+    "fields": {
+      "cost": "Một chiếc khoảng một hai nhân dân tệ. Khó không phải tiền mà là lần nào cũng dùng và đeo ngay từ đầu.",
+      "plain": "Dùng suốt mỗi lần giúp nguy cơ lây HIV giữa nam nữ giảm khoảng bảy phần mười trở lên. «Phần lớn lần có dùng» hiệu quả không khác không dùng bao nhiêu. Cũng giúp ngăn giang mai, lậu và bệnh khác.",
+      "benefit": "Nghiên cứu gộp 25 nghiên cứu, 10676 cặp khác giới có một người nhiễm HIV, một người không, gọi là bất đồng huyết thanh. So với không bao giờ dùng, người luôn dùng bao cao su giảm khoảng 71% nguy cơ lây HIV; RR gốc 0.29, khoảng tin cậy 95% CI 0.20 đến 0.43. So với dùng không đều, giảm khoảng 77% (RR 0.23, 95% CI 0.13 đến 0.40). Tác giả kết luận bao cao su không hoàn hảo nhưng «dùng nhất quán giảm lây HIV từ 70% trở lên». Lớp bảo vệ này còn bao gồm giang mai, lậu, chlamydia và nhiễm trùng lây qua tình dục khác",
+      "grade": "A",
+      "sources": "Giannou FK, Tsiara CG, Nikolopoulos GK, et al. (2016). Condom effectiveness in reducing heterosexual HIV transmission: a systematic review and meta-analysis of studies on HIV serodiscordant couples. Expert Review of Pharmacoeconomics & Outcomes Research, 16(4), 489-499. <https://doi.org/10.1586/14737167.2016.1102635>；Fonner VA 等 (2016). Effectiveness and safety of oral HIV preexposure prophylaxis for all populations. AIDS. <https://doi.org/10.1097/QAD.0000000000001145>（暴露前预防 PrEP）",
+      "notes": "«Dùng không đều» khác «không dùng» rất ít; phải dùng mỗi lần, từ đầu đến cuối mới hiệu quả. Dùng chung kim là con đường lây hiệu quả, độc lập với tình dục, gồm tiêm ma túy, xăm, xỏ khuyên. Nhóm nguy cơ cao còn có dự phòng trước phơi nhiễm PrEP, tức dùng thuốc trước để ngăn nhiễm. Gộp 18 nghiên cứu: thử nghiệm có hơn bảy phần mười người uống đúng lịch thì PrEP giảm nguy cơ HIV khoảng bảy phần mười so với giả dược; tỷ số nguy cơ gốc 0.30, khoảng tin cậy 95% CI 0.21 đến 0.45. Thử nghiệm ít người tuân thủ không thấy bảo vệ. PrEP là thuốc kê đơn, hỏi khoa truyền nhiễm hoặc trung tâm kiểm soát bệnh, đừng tự mua online. Đã phơi nhiễm làm gì xem chương 13"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

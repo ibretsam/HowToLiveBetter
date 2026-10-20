@@ -1,0 +1,15 @@
+{
+  "id": "e-34-4",
+  "source_sha256": "d74180464ee67a597f38082c2cb0e6fb42999c0e602a8b35ddce56b2ba31d999",
+  "draft_sha256": "30d84eebc4124bd6b63524cdb5fbcb50d3ac9b626ddfd69604542eb10b805cbe",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đủ các nhóm thuốc trong tổng quan và cảnh báo dưới 2 tuổi. Các tên thuốc Trung văn giữ lại đều có trong nguồn và được giới hạn trong retained_terms. Giữ ngoại lệ không dùng mật ong khi chưa đủ 1 tuổi và tham chiếu chương 20 mục 6."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-6-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "a5be336b0da117311c02f19a61449cac0ff5cc670ce69fd11a70ed7502d6852c",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "不要为了防癌吃抗氧化补剂（β 胡萝卜素、维生素 E、维生素 A）",
+    "fields": {
+      "cost": "一天约 0.5 到 2 元。对吸烟的人来说，真正的成本是肺癌风险跟着往上走。",
+      "plain": "抗氧化补剂不只是没用。78 项试验、近 30 万人合起来算，设计更严谨的那批试验里，吃的人死亡率反而略高一点。两项专门找吸烟者做的大试验里，β 胡萝卜素让得肺癌的比例高了 18% 到 28%。死亡也高了 8% 到 17%。吸烟的人、接触过石棉的人尤其别吃。",
+      "benefit": "Cochrane 把 78 项随机分组的对照试验、296,707 人合起来算。吃抗氧化补剂的人，总死亡 RR 1.02（RR 是风险比，1 就是两边一个样；95% CI 0.98–1.05 是可信范围）。只看设计更严谨、不容易跑偏的那批试验，RR 1.04（1.01–1.07），略高一点。单看 β 胡萝卜素 RR 1.05（1.01–1.09），单看维生素 E RR 1.03（1.00–1.05）。ATBC 试验找了 29,133 名男性吸烟者，每天吃 20 mg，得肺癌的比例高 18%（3%–36%），总死亡高 8%（1%–16%）。CARET 试验找了 18,314 名吸烟者或者接触过石棉的人。他们得肺癌的风险高约 28%（RR 1.28，1.04–1.57）。死亡风险高约 17%（全因死亡 RR 1.17，1.03–1.33）。它看起来划算，是因为「抗氧化就是抗衰老，抗衰老就能防癌」这条推理链，每一步听上去都像常识",
+      "grade": "A",
+      "sources": "Bjelakovic G et al. (2012). Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases. Cochrane Database Syst Rev. <https://doi.org/10.1002/14651858.CD007176.pub2>；The Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group (1994). The effect of vitamin E and beta carotene on the incidence of lung cancer and other cancers in male smokers. NEJM. <https://doi.org/10.1056/NEJM199404143301501>；Omenn GS et al. (1996). Effects of a combination of beta carotene and vitamin A on lung cancer and cardiovascular disease. NEJM. <https://doi.org/10.1056/NEJM199605023341802>",
+      "notes": "美国那个负责给预防措施打分的官方机构 USPSTF，2022 年给 β 胡萝卜素和维生素 E 评了 D 级，意思是建议别用。吸烟的人和接触过石棉的人已经因此受了害。蔬菜水果里本身含的抗氧化物不算在内，照吃"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Đừng dùng chất chống oxy hóa bổ sung để phòng ung thư (β-carotene, vitamin E, vitamin A)",
+    "fields": {
+      "cost": "Khoảng 0.5 đến 2 nhân dân tệ mỗi ngày. Với người hút thuốc, chi phí thật là nguy cơ ung thư phổi tăng.",
+      "plain": "Không chỉ vô dụng. Gộp 78 thử nghiệm, gần 30 vạn người, nhóm uống chất chống oxy hóa còn có tử vong hơi cao hơn. Hai thử nghiệm lớn riêng ở người hút thuốc cho thấy β-carotene tăng ung thư phổi 18% đến 28%, tử vong 8% đến 17%. Người hút thuốc hoặc từng tiếp xúc amiăng đặc biệt nên tránh.",
+      "benefit": "Cochrane gộp 78 thử nghiệm đối chứng ngẫu nhiên, 296,707 người. RR tử vong chung nhóm bổ sung chống oxy hóa 1.02 (RR là tỷ số nguy cơ, 1 nghĩa hai bên như nhau; 95% CI 0.98–1.05 là khoảng tin cậy). Chỉ xét nghiên cứu thiết kế chặt, ít sai lệch: RR 1.04 (1.01–1.07), hơi cao hơn. Riêng β-carotene RR 1.05 (1.01–1.09), vitamin E RR 1.03 (1.00–1.05). ATBC có 29,133 nam hút thuốc dùng 20 mg mỗi ngày, ung thư phổi cao hơn 18% (3%–36%), tử vong chung cao hơn 8% (1%–16%). CARET có 18,314 người hút thuốc hoặc từng tiếp xúc amiăng, nguy cơ ung thư phổi tăng khoảng 28% (RR 1.28, 1.04–1.57), tử vong tăng khoảng 17% (RR mọi nguyên nhân 1.17, 1.03–1.33). Nó có vẻ đáng tiền vì chuỗi suy luận “chống oxy hóa là chống lão hóa, chống lão hóa thì ngừa ung thư” bước nào nghe cũng như thường thức.",
+      "grade": "A",
+      "sources": "Bjelakovic G et al. (2012). Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases. Cochrane Database Syst Rev. <https://doi.org/10.1002/14651858.CD007176.pub2>；The Alpha-Tocopherol, Beta Carotene Cancer Prevention Study Group (1994). The effect of vitamin E and beta carotene on the incidence of lung cancer and other cancers in male smokers. NEJM. <https://doi.org/10.1056/NEJM199404143301501>；Omenn GS et al. (1996). Effects of a combination of beta carotene and vitamin A on lung cancer and cardiovascular disease. NEJM. <https://doi.org/10.1056/NEJM199605023341802>",
+      "notes": "Cơ quan chính thức Mỹ USPSTF đánh giá biện pháp phòng bệnh năm 2022 xếp β-carotene và vitamin E mức D, nghĩa khuyến nghị không dùng. Người hút thuốc và tiếp xúc amiăng đã bị hại vì chúng. Chất chống oxy hóa tự có trong rau quả không thuộc phạm vi, cứ ăn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

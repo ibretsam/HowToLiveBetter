@@ -1,0 +1,49 @@
+{
+  "id": "e-20-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "66ba023620c5bd6eee4cfa0f56be8595eda616d4e548f096f9ce18b4c6da9e28",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "不满 1 岁不喂蜂蜜",
+    "fields": {
+      "cost": "不花钱",
+      "plain": "孩子不满 1 岁，不要喂蜂蜜。蜂蜜水、拌进辅食里的蜂蜜、含蜂蜜的糕点，都算。蜂蜜里可能带有引起肉毒中毒的细菌。大人肚子里的菌群能压住它，婴儿压不住。",
+      "benefit": "美国疾控中心的说法是「不要给 1 岁以下的儿童喂蜂蜜」，因为「蜂蜜可能含有引起肉毒中毒的细菌」。成年人的肠道菌群能压住这种芽孢（这种细菌的休眠状态），婴儿压不住",
+      "grade": "A",
+      "sources": "US CDC. Preventing Botulism. <https://www.cdc.gov/botulism/prevention/index.html>",
+      "notes": "不能喂的包括蜂蜜水、拌了蜂蜜的辅食、含蜂蜜的糕点"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Không cho mật ong khi chưa đủ 1 tuổi",
+    "fields": {
+      "cost": "Không tốn tiền",
+      "plain": "Trẻ dưới 1 tuổi không ăn mật ong, gồm nước mật ong, mật ong trộn đồ ăn dặm, bánh chứa mật ong. Mật ong có thể mang vi khuẩn gây ngộ độc botulinum. Hệ vi sinh ruột người lớn kiềm chế được, trẻ nhỏ không. Dưa muối và đồ lên men tự làm cũng cùng lý do.",
+      "benefit": "CDC Hoa Kỳ khuyên “không cho trẻ dưới 1 tuổi ăn mật ong” vì “mật ong có thể chứa vi khuẩn gây ngộ độc botulinum”. Hệ vi sinh ruột người lớn kiềm chế được bào tử này (trạng thái ngủ của vi khuẩn), trẻ nhỏ không",
+      "grade": "A",
+      "sources": "US CDC. Preventing Botulism. <https://www.cdc.gov/botulism/prevention/index.html>",
+      "notes": "Không dùng nước mật ong, đồ ăn dặm trộn mật ong, bánh chứa mật ong. Cùng lý do, không cho trẻ nhũ nhi ăn dưa muối và thực phẩm lên men tự làm"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

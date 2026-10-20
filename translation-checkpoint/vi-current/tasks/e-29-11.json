@@ -1,0 +1,48 @@
+{
+  "id": "e-29-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "26950fdb587ae99e2b11cf2f434ff571b4147706749bf24a797452d4fd88b189",
+  "status": "draft",
+  "original": {
+    "number": 11,
+    "title": "要人陪着说话打 12356，未成年人和青少年打 12355，要看医生挂心理门诊",
+    "fields": {
+      "cost": "不花钱。两条热线都免费。心理门诊按普通门诊挂号。",
+      "plain": "想找个人说话，打 12356，这是全国心理援助热线，免费。未成年人和青少年另有 12355 青少年综合服务平台。要看医生，就挂精神科、心理科或临床心理科的心理门诊。遇到家庭变故、失业、失学，社区网格员和社工本来就该主动发现。",
+      "benefit": "国家卫生健康委等 25 部门 2026 年方案要求完善 12356 心理援助热线工作制度。要保证稳定运行、提升接通率。要推动建立省级 12356 信息化平台。要加强与 110 等服务热线的联动机制建设。还要建强用好 12355 青少年综合服务平台，并与 12356 联动协作。到 2030 年的目标有三条。一是 80% 以上的行政村、城市社区设心理咨询室或社会工作室并提供心理服务。二是各级公立精神专科医院、各县（区）至少有 1 所医院提供心理门诊服务。三是各省建成省级 12356 心理援助平台。心理危机干预与心理援助队伍，由精神科医师、心理治疗技师、心理咨询人员、社会工作专业人员和志愿者组成。方案还要求三类人平时就留意、早点发现。这三类人是网格员（社区里按片区负责的工作人员）、社会工作专业人员和志愿者。他们要及时发现家庭变故、失业、失学等心理危机风险（全国，2026 年 3 月印发）",
+      "grade": "B",
+      "sources": "国家卫生健康委等 25 部门 (2026). 关于印发健全社会心理服务体系和危机干预机制实施方案的通知（国卫医政发〔2026〕8 号）. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065035.htm>",
+      "notes": "给 B 是因为村和社区的咨询室、县级的心理门诊都是 2030 年才要建成的目标，不是现在各地都有。12356 和 12355 则是现在就能打的。12356 的开通时间和每天接听多长时间见第 1 节第 25 条。心理咨询和心理治疗不是一回事。下诊断、开药得由精神科医师来，治疗要在有资质的医疗机构做。市面上按小时收费的「疗愈」「灵性咨询」不在这个体系里。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Cần người nói chuyện hãy gọi 12356; trẻ vị thành niên, thanh thiếu niên gọi 12355; muốn gặp bác sĩ thì đăng ký phòng khám tâm lý",
+    "fields": {
+      "cost": "Không tốn tiền. Cả hai hotline miễn phí. Phòng khám tâm lý đăng ký như ngoại trú thông thường.",
+      "plain": "Muốn có người nói chuyện, gọi 12356, hotline hỗ trợ tâm lý toàn quốc miễn phí. Trẻ vị thành niên, thanh thiếu niên còn có nền tảng dịch vụ tổng hợp 12355. Muốn gặp bác sĩ, đăng ký phòng khám tâm lý thuộc khoa tâm thần, tâm lý hoặc tâm lý lâm sàng. Biến cố gia đình, thất nghiệp, bỏ học vốn là việc nhân viên địa bàn và công tác xã hội cần chủ động phát hiện.",
+      "benefit": "Kế hoạch 2026 của Ủy ban Y tế Quốc gia và 25 cơ quan yêu cầu hoàn thiện chế độ vận hành hotline hỗ trợ tâm lý 12356, bảo đảm ổn định, tăng tỷ lệ kết nối; thúc đẩy nền tảng thông tin 12356 cấp tỉnh, tăng liên thông với hotline 110 và các số khác. Cũng phải củng cố nền tảng dịch vụ tổng hợp thanh thiếu niên 12355, phối hợp với 12356. Ba mục tiêu đến 2030: từ 80% số thôn hành chính và cộng đồng đô thị trở lên có phòng tư vấn tâm lý hoặc công tác xã hội và cung cấp dịch vụ; bệnh viện công chuyên tâm thần các cấp và ít nhất 1 bệnh viện mỗi huyện/quận có khám tâm lý; mỗi tỉnh xây nền tảng hỗ trợ 12356 cấp tỉnh. Đội can thiệp khủng hoảng, hỗ trợ tâm lý gồm bác sĩ tâm thần, kỹ thuật viên tâm lý trị liệu, tư vấn viên, nhân viên công tác xã hội chuyên môn, tình nguyện viên. Kế hoạch yêu cầu ba nhóm thường xuyên chú ý phát hiện sớm: nhân viên địa bàn (phụ trách từng khu cộng đồng), nhân viên công tác xã hội chuyên môn, tình nguyện viên. Họ phải kịp thời phát hiện nguy cơ khủng hoảng do biến cố gia đình, thất nghiệp, bỏ học (toàn quốc, ban hành tháng 3 năm 2026)",
+      "grade": "B",
+      "sources": "国家卫生健康委等 25 部门 (2026). 关于印发健全社会心理服务体系和危机干预机制实施方案的通知（国卫医政发〔2026〕8 号）. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065035.htm>",
+      "notes": "Xếp B vì phòng tư vấn thôn, cộng đồng và phòng khám tâm lý cấp huyện là mục tiêu đến 2030, không phải hiện nơi nào cũng có. Nhưng 12356, 12355 gọi được ngay. Thời điểm mở và số giờ tiếp nhận hằng ngày của 12356 xem chương 1 mục 25. Tư vấn tâm lý khác tâm lý trị liệu. Chẩn đoán, kê thuốc phải do bác sĩ tâm thần; điều trị tại cơ sở y tế đủ điều kiện. «Chữa lành», «tư vấn tâm linh» tính tiền theo giờ ngoài thị trường không thuộc hệ thống này."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

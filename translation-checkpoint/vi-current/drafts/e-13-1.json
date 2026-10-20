@@ -1,0 +1,14 @@
+{
+  "id": "e-13-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "2e9b3b7e3c289252c73e185a7cdb4c7dbd950ce1c74457711ece3c889706fa62",
+  "translator": "pilot_emergency",
+  "translation": {
+    "title": "Có người ngã xuống, không thở: lập tức ép mạnh ngực, nhờ người bên cạnh gọi 120 và tìm AED",
+    "cost": "Không tốn tiền. Khóa hồi sinh tim phổi của Hội Chữ thập đỏ hoặc bệnh viện mất nửa ngày đến một ngày; học một lần dùng được nhiều năm. Chưa học vẫn làm được: chồng hai bàn tay lên nhau, đặt ở trung điểm đường nối hai núm vú, ép mạnh xuống khoảng 2 lần mỗi giây, không dừng.",
+    "plain": "Người bạn có khả năng phải ép ngực nhất là người nhà: 79.2% ca ngừng tim xảy ra ở nhà. Có người ép ngực, tỷ lệ sống ra viện tăng từ 3.9% lên 16.1%. Gọi không đáp, không thở thì ép ngay: chồng hai bàn tay ở trung điểm đường nối hai núm vú, ép mạnh 2 lần mỗi giây, liên tục. Nhờ người thứ hai gọi 120 và lấy AED, còn tay bạn đừng dừng.",
+    "benefit": "Gộp 79 nghiên cứu với 142,740 người để tính chung (phân tích tổng hợp). Trong những người ngừng tim ngoài bệnh viện, tổng cộng chỉ 7.6% sống ra viện. Khi người có mặt tại chỗ thực hiện hồi sinh tim phổi, tỷ lệ sống ra viện tăng từ 3.9% lên 16.1%. 53% có người chứng kiến lúc khởi phát, nhưng chỉ 32% thực sự được người tại chỗ ép ngực. Hệ thống đăng ký BASIC-OHCA của Trung Quốc ghi nhận 38,227 ca được lực lượng cấp cứu tiếp nhận. Trong đó, 30,282 ca (79.2%) ngừng tim tại nhà. Ở nhóm này, tỷ lệ được người tại chỗ ép ngực là 20.3%, tỷ lệ sống ra viện là 1.2%. Thứ tự là ép ngực trước, rồi nhờ người thứ hai gọi điện và lấy AED. Bật máy rồi làm theo hướng dẫn bằng giọng nói của máy.",
+    "notes": "Trẻ chưa đủ 1 tuổi cần kỹ thuật khác và phải thổi ngạt; xem mục 44 chương này (hồi sinh tim phổi cho trẻ nhũ nhi). Đừng bấm nhân trung trước, đừng đi tìm người nhà trước, đừng quay video trước. Cũng đừng vì sợ làm gãy xương sườn mà không dám ép mạnh. Điều một trăm tám mươi bốn của Bộ luật Dân sự ghi rõ: người tự nguyện cứu giúp trong tình huống khẩn cấp, làm người được cứu bị thương, không phải chịu trách nhiệm dân sự.",
+    "extra": ""
+  }
+}

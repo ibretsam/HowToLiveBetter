@@ -1,0 +1,48 @@
+{
+  "id": "e-29-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "bde220c5f2d6c165b1abd21075708fb567b35f3d0c5fa9762177bca2df7fdf72",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "变故后的头三个月，凡是不可逆的大决定一律往后推",
+    "fields": {
+      "cost": "不花钱，只是把决定往后推，可能因此错过某些机会。难在当时会觉得机会不等人。",
+      "plain": "这段时间你对各种「机会」的判断力最差。实验里伤心的人为了不等 3 个月，愿意少拿一成多到三成多的钱。金额超过一个月收入、或者反悔代价很大的事，一律推后三个月。先讲给一个跟这件事没利益关系的人听，别当天拍板。",
+      "benefit": "避免在刚受打击、判断力最差的那段时间，做出反悔不了的财产处置。这类事包括卖房、辞职、把抚恤金或赔偿款一次性投出去、仓促再婚、替人担保。这类决定的金额通常在数万元到一套房子这个量级，收益因此定为中。官方文件同样把「家庭变故、失业、失学」列为社区要主动排查的心理危机风险，这段时间的状态本来就被当成需要外人搭把手的状态。美国国家老龄化研究所（NIA）的哀伤指南把「很难做决定」列为哀伤时的常见表现。它建议：如果可以选择，就把重大的人生决定推到感觉好些之后。正在哀伤、可能想不清楚的时候，最好别做卖房、辞职这类大变动。一项研究做了三个实验。研究者随机分组，让一部分人进入伤心状态，再让他们选「现在拿钱」还是「3 个月后拿钱」。和情绪平静的人比，伤心的人为了不等 3 个月，愿意少拿 13% 到 34% 的钱。这是实验里引出来的伤心，不是真的丧亲。美国联邦贸易委员会（FTC）2023 年提示过一种骗局：有人冒充殡仪馆，对家属说不马上补钱葬礼就取消。它给的头一条办法是顶住「马上就办」的压力，正经商家会给你时间做决定",
+      "grade": "B",
+      "sources": "国家卫生健康委等 25 部门 (2026). 健全社会心理服务体系和危机干预机制实施方案（国卫医政发〔2026〕8 号）. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065035.htm>；National Institute on Aging. Coping With Grief and Loss（「Postpone major decisions if possible」一段，页面 2026-01-26 更新）. <https://www.nia.nih.gov/health/grief-and-mourning/coping-grief-and-loss>；Lerner JS, Li Y, Weber EU (2013). The financial costs of sadness. Psychological Science, 24(1), 72-79. <https://doi.org/10.1177/0956797612450302>；Puig A, Federal Trade Commission (2023-06-15). Imposters prey on families preparing for the funeral of a loved one. <https://consumer.ftc.gov/consumer-alerts/2023/06/imposters-prey-families-preparing-funeral-loved-one>",
+      "notes": "身边没有这样一个没利益关系的人，就打 12356 讲一遍（见本节第 11 条，要人陪着说话打 12356）。也可以自己写下来，隔三天再读一遍。记 B 级，是因为「往后推」有官方哀伤指南和一项随机实验撑着方向。但没有研究直接比较过丧亲者推后与不推后的财产结局。NIA 也只说「等感觉好些」，没给时长。「三个月」和「超过一个月收入」都是作者自己划的线。针对丧亲者和老人的常见骗局见第 17 节（投资养老、以房养老）和第 6 节（算命）。担保和借条的坑见第 8 节。有几笔钱要主动去办，不在「往后推」之列：公积金余额、社保待遇、工亡三笔钱，见第 25 节和第 19 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Ba tháng đầu sau biến cố, hoãn mọi quyết định lớn không thể đảo ngược",
+    "fields": {
+      "cost": "Không tốn tiền, chỉ hoãn quyết định, có thể bỏ lỡ cơ hội. Khó là lúc ấy bạn thấy cơ hội không chờ.",
+      "plain": "Giai đoạn này khả năng đánh giá «cơ hội» của bạn kém nhất. Người hứa liên lạc người chết, gỡ lại tiền, khuyên bỏ việc đi xa bắt đầu lại, rủ góp vốn đều có thể tìm đến. Việc vượt thu nhập một tháng hoặc rất tốn kém khi đổi ý hãy hoãn ba tháng. Kể trước cho người không có lợi ích trong việc đó, đừng chốt ngay trong ngày.",
+      "benefit": "Tránh xử lý tài sản không thể rút lại ngay sau cú sốc, lúc phán đoán kém nhất: bán nhà, nghỉ việc, đầu tư toàn bộ trợ cấp tuất hay bồi thường một lần, vội tái hôn, bảo lãnh cho người khác. Giá trị thường từ vài vạn nhân dân tệ đến cả căn nhà, nên lợi ích xếp vừa. Văn bản chính thức cũng coi «biến cố gia đình, thất nghiệp, bỏ học» là nguy cơ khủng hoảng cộng đồng phải chủ động rà soát; trạng thái lúc này vốn được xem là cần người ngoài giúp",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；「家庭变故、失业、失学」作为心理危机风险的表述见国家卫生健康委等 25 部门 (2026). 健全社会心理服务体系和危机干预机制实施方案（国卫医政发〔2026〕8 号）. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065035.htm>",
+      "notes": "Không có người không liên quan lợi ích bên cạnh thì gọi 12356 kể một lượt (xem mục 11 chương này, cần người nói chuyện gọi 12356), hoặc viết ra rồi ba ngày sau đọc lại. «Ba tháng» là mốc tác giả tự đặt, không có tài liệu chứng minh thời gian cụ thể nên xếp C. Lừa đảo thường nhắm người tang chế, người già xem chương 17 (đầu tư dưỡng lão, dưỡng lão bằng nhà) và chương 6 (bói toán). Rủi ro bảo lãnh, giấy vay xem chương 8. Một số tiền phải chủ động làm thủ tục, không thuộc diện hoãn: số dư quỹ nhà ở, chế độ an sinh, ba khoản khi chết do công việc, xem chương 25 và chương 19."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

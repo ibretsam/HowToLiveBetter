@@ -1,0 +1,48 @@
+{
+  "id": "e-8-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "9387a514aaa8467a1d6150211749fd6dafaf5d42585c5046a1756d051f3f363a",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "发现被骗，立刻打 110 或 96110 要求止付，别先自己查",
+    "fields": {
+      "cost": "不花钱。打一个电话，说清转账的时间、金额和对方的账号。把转账截图和聊天记录留好。",
+      "plain": "钱刚转出去的那一小段时间最要紧，警方可以紧急止付、快速冻结，银行必须配合。等钱被转走、分散开，追回的机会就小多了。所以先打 110 或者 96110，别自己先去查、先去问。96110 打进来的是警察在劝阻你，要接。",
+      "benefit": "公安机关有权对涉案的资金做即时查询、紧急止付、快速冻结。银行和支付机构必须配合。冻结住的钱，按程序返还给被害人。钱一旦被转走、分散开，追回的概率大幅下降，所以止付越早越有效。96110 是全国统一的反诈预警热线，来电是警方在劝阻你，务必接（全国，2022 年 12 月起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2022). 反电信网络诈骗法（第二十、三十四条）. <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>；福建省公安厅 (2023). 96110 来电，请务必接听. <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202303/t20230306_6126156.htm>（省级公安机关页面）",
+      "notes": "凡是自称公检法、让你把钱转到「安全账户」的，都是骗局。法律只写了「建立止付冻结制度」，意思是让银行把钱扣住。能追回多少，要看你报警的时候钱还在不在账上。「国家反诈中心」App 和 96110 的介绍引自福建省公安厅的页面，公安部网站的原文页打不开。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Phát hiện bị lừa, lập tức gọi 110 hoặc 96110 yêu cầu chặn thanh toán; đừng tự điều tra trước",
+    "fields": {
+      "cost": "Không tốn tiền. Gọi điện, nói rõ thời điểm chuyển khoản, số tiền và tài khoản bên kia. Giữ ảnh chụp giao dịch và lịch sử trò chuyện.",
+      "plain": "Khoảng thời gian ngắn ngay sau khi chuyển tiền là cơ hội duy nhất. Khi đó cảnh sát có thể khẩn cấp chặn thanh toán và nhanh chóng phong tỏa; ngân hàng phải phối hợp. Khi tiền đã được chuyển qua nhiều lớp và chia nhỏ thì gần như không thu hồi được. Vì vậy hãy gọi 110 hoặc 96110 trước, đừng tự đi điều tra hay hỏi han trước. Cuộc gọi từ 96110 là cảnh sát đang khuyên bạn dừng lại, hãy nghe máy.",
+      "benefit": "Cơ quan công an có quyền tra cứu tức thời, khẩn cấp chặn thanh toán và nhanh chóng phong tỏa tiền liên quan vụ án. Ngân hàng và tổ chức thanh toán phải phối hợp. Tiền bị phong tỏa được hoàn trả cho người bị hại theo thủ tục. Khi tiền đã được chuyển đi và chia nhỏ, xác suất thu hồi giảm mạnh, nên chặn càng sớm càng hiệu quả. 96110 là đường dây cảnh báo chống lừa đảo thống nhất toàn quốc; cuộc gọi đến là cảnh sát đang can ngăn bạn, nhất định phải nghe (toàn quốc, từ tháng 12 năm 2022).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2022). 反电信网络诈骗法（第二十、三十四条）. <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>；福建省公安厅 (2023). 96110 来电，请务必接听. <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202303/t20230306_6126156.htm>（省级公安机关页面）",
+      "notes": "Ai tự xưng là công an, viện kiểm sát hoặc tòa án và yêu cầu chuyển tiền vào “tài khoản an toàn” đều là lừa đảo. Luật chỉ quy định “thiết lập cơ chế chặn thanh toán và phong tỏa”, nghĩa là để ngân hàng giữ tiền lại. Thu hồi được bao nhiêu tùy việc tiền còn trong tài khoản khi bạn báo cảnh sát hay không. Phần giới thiệu ứng dụng “Trung tâm chống lừa đảo quốc gia” và 96110 dẫn từ trang Công an tỉnh Phúc Kiến vì không mở được trang gốc của Bộ Công an."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

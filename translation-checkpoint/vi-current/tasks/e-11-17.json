@@ -1,0 +1,48 @@
+{
+  "id": "e-11-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "b8f232ef98eeb779703b23e3b7b28168e27252369e37557bccf15d7193638402",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "对公众提供生成式 AI 服务前先按规定做安全评估和算法备案，生成内容加标识",
+    "fields": {
+      "cost": "不花钱，但要走网信部门的流程，办下来要花些时间。做的工具只要不向境内公众提供服务，就不适用这个办法",
+      "plain": "面向公众、能影响舆论或动员人的生成式 AI 服务，上线前要做安全评估、办算法备案，改了或停了还要办变更、注销。生成的图片和视频要加标识。自己用、不对公众开放的小工具不用管这些。违反了按网络安全法等法律处罚。",
+      "benefit": "提供具有舆论属性或者社会动员能力的生成式人工智能服务，应当按国家规定开展安全评估。还要按算法推荐管理规定办算法备案，以及后续的变更、注销手续。舆论属性或者社会动员能力，指的是能影响公众看法，或者能把人组织动员起来。提供者应当对图片、视频等生成内容进行标识。办法写明，企业、科研机构等研发、应用生成式人工智能技术，「未向境内公众提供生成式人工智能服务的，不适用本办法的规定」。违反办法的，「依照《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《中华人民共和国科学技术进步法》等法律、行政法规的规定予以处罚」。办法自 2023 年 8 月 15 日施行（全国）",
+      "grade": "B",
+      "sources": "国家互联网信息办公室等七部门 (2023). 生成式人工智能服务管理暂行办法（第二、十二、十七、二十一条）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm>",
+      "notes": "这个办法自己没写罚多少钱。违反了要回到网络安全法、数据安全法、个人信息保护法里找处罚，所以定 B 级。用 AI 生成的内容侵犯别人著作权、肖像的民事案例，本节未在最高法官网核实原文，不引。低价转卖境外大模型接口的中转站，见本节第 19 条（AI 中转站）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Trước khi cung cấp AI tạo sinh cho công chúng, đánh giá an toàn và đăng ký thuật toán đúng quy định; gắn nhãn nội dung tạo ra",
+    "fields": {
+      "cost": "Không tốn tiền nhưng phải làm thủ tục với cơ quan quản lý không gian mạng, mất một thời gian. Công cụ nhỏ cá nhân làm không mở cho công chúng thì không kích hoạt các yêu cầu này.",
+      "plain": "Dịch vụ AI tạo sinh công khai có khả năng ảnh hưởng dư luận hoặc huy động xã hội phải đánh giá an toàn, đăng ký thuật toán trước khi hoạt động; thay đổi hoặc dừng phải làm thủ tục thay đổi, hủy đăng ký. Ảnh, video tạo ra phải có nhãn. Công cụ nhỏ tự dùng, không mở công khai thì không phải theo các yêu cầu này. Vi phạm sẽ bị xử theo Luật An ninh mạng và luật liên quan.",
+      "benefit": "Cung cấp dịch vụ trí tuệ nhân tạo tạo sinh có thuộc tính dư luận hoặc khả năng huy động xã hội phải đánh giá an toàn theo quy định nhà nước và đăng ký thuật toán cùng thủ tục thay đổi, hủy đăng ký về sau theo quy định quản lý đề xuất thuật toán. Thuộc tính dư luận hoặc khả năng huy động xã hội là có thể tác động nhận thức công chúng hoặc tổ chức, huy động con người. Nhà cung cấp phải gắn nhãn nội dung tạo ra như ảnh, video. Biện pháp có hiệu lực từ ngày 15 tháng 8 năm 2023 (toàn quốc).",
+      "grade": "B",
+      "sources": "国家互联网信息办公室等七部门 (2023). 生成式人工智能服务管理暂行办法（第十二、十七条）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm>",
+      "notes": "Biện pháp này không tự quy định mức phạt tiền. Vi phạm phải tra chế tài trong Luật An ninh mạng, Luật An toàn dữ liệu, Luật Bảo vệ thông tin cá nhân, nên xếp mức B. Chưa kiểm chứng bản gốc trên trang Tòa án Tối cao về vụ dân sự nội dung AI xâm phạm quyền tác giả hay hình ảnh người khác, nên không dẫn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

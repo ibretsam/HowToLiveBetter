@@ -1,0 +1,48 @@
+{
+  "id": "e-33-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "ace822a2873bfa953125a9666d5ed16932c5134bd09dcc7670dbff1def22e090",
+  "status": "outdated",
+  "original": {
+    "number": 11,
+    "title": "残疾人的个人所得税可以减征，减多少打电话问省税务局",
+    "fields": {
+      "cost": "不花钱。申报时勾一项，或者交一次备案材料。",
+      "plain": "个人所得税法写着，残疾人的所得可以减征个税。但是减多少、减多久，法律交给了省级政府定，所以各省不一样。办法是打 12366 纳税服务热线问本省税务局，或者在个人所得税 App 里找减免事项。",
+      "benefit": "《个人所得税法》第五条：「有下列情形之一的，可以减征个人所得税，具体幅度和期限，由省、自治区、直辖市人民政府规定，并报同级人民代表大会常务委员会备案：（一）残疾、孤老人员和烈属的所得；（二）因自然灾害遭受重大损失的。」《残疾人保障法》第三十六条另外规定，国家对从事个体经营的残疾人，依法给予税收优惠，并免除行政事业性收费（全国，个人所得税法 2019 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "中华人民共和国个人所得税法（2018 年修正，第五条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf724bd0609>；中华人民共和国残疾人保障法（第三十六条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d134c88132b>",
+      "notes": "收益量级定「小」是凭判断，因为法律本身没给数字，减多少各省自己定。办一次能长期用，值得跑。具体到你这个省减多少，以省政府的规定和本省税务局的公告为准，网上转的对照表可能过期。自己开小店的，行政事业性收费按《残疾人保障法》第三十六条免除，办执照时主动提。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Thuế thu nhập cá nhân người khuyết tật có thể giảm; giảm bao nhiêu hãy gọi cơ quan thuế tỉnh",
+    "fields": {
+      "cost": "Không tốn tiền. Đánh dấu một mục khi khai hoặc nộp hồ sơ đăng ký một lần.",
+      "plain": "Luật Thuế thu nhập cá nhân ghi thu nhập người khuyết tật có thể được giảm thuế. Nhưng giảm bao nhiêu, bao lâu do chính quyền tỉnh định, nên mỗi tỉnh khác. Có nơi đặt trần giảm năm, có nơi giảm theo tỷ lệ. Gọi 12366 hỏi thuế địa phương hoặc tìm mục giảm miễn trong ứng dụng thuế thu nhập cá nhân.",
+      "benefit": "Điều năm Luật Thuế thu nhập cá nhân: ‘Một trong các tình huống sau có thể giảm thuế; mức và thời hạn do chính quyền tỉnh, khu tự trị, thành phố trực thuộc trung ương quy định, báo Ủy ban thường vụ Đại hội đại biểu nhân dân cùng cấp lưu hồ sơ: một, thu nhập người khuyết tật, người già neo đơn, thân nhân liệt sĩ; hai, tổn thất lớn do thiên tai’. Điều ba mươi sáu Luật Bảo đảm người khuyết tật còn quy định nhà nước ưu đãi thuế theo luật và miễn phí hành chính, sự nghiệp cho người khuyết tật kinh doanh cá thể (toàn quốc, Luật Thuế thu nhập cá nhân hiệu lực ngày 1 tháng 1 năm 2019).",
+      "grade": "A",
+      "sources": "中华人民共和国个人所得税法（2018 年修正，第五条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf724bd0609>；中华人民共和国残疾人保障法（第三十六条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d134c88132b>",
+      "notes": "Lợi ích xếp ‘nhỏ’ vì luật không có con số; phần lớn tỉnh giảm vài trăm đến vài nghìn nhân dân tệ mỗi năm. Không nhiều nhưng làm một lần dùng lâu, đáng đi. Tỉnh bạn giảm bao nhiêu chỉ thông báo thuế địa phương có giá trị; bảng so sánh truyền mạng thường lỗi thời. Tự mở cửa hàng nhỏ được miễn phí hành chính, sự nghiệp theo điều ba mươi sáu Luật Bảo đảm người khuyết tật, hãy chủ động nói khi làm giấy phép."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

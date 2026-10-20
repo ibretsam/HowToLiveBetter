@@ -1,0 +1,48 @@
+{
+  "id": "e-8-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "574d5ea630a7fd01b3fd32bee8aff19da785545c68d3e176d81f26b91dacc334",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "不把银行卡、手机卡、支付账号借给任何人，「跑分」不是兼职",
+    "fields": {
+      "cost": "不花钱。有人说「借卡走个账，给你几百块」，拒绝就行。",
+      "plain": "把银行卡、手机卡、支付账号租给、借给、卖给别人，这件事本身就违法。罚违法所得的 1 到 10 倍，没有所得的最高罚 20 万元，情节严重的拘留 15 日以下。要是明知对方拿去犯罪还帮着收钱转钱，就是帮信罪，判 3 年以下。",
+      "benefit": "出租、出借、买卖电话卡、银行账户、支付账户、互联网账号，这件事本身就是违法。没收违法所得，再罚违法所得的 1 到 10 倍。没有违法所得的，最高罚 20 万元。情节严重的，拘留 15 日以下。还可能被记入信用记录、限制账户功能、停掉非柜面业务（只能去柜台办）。明知别人用网络实施犯罪，还给他提供支付结算这类帮助，情节严重的就是犯罪。罪名是帮助信息网络犯罪活动罪（简称帮信罪），判 3 年以下并处罚金（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2022). 反电信网络诈骗法（第三十一、四十四条）. <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第二十九条，即刑法第二百八十七条之二）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>",
+      "notes": "说「我不知道他拿卡去干什么」挡不住。办案时会从外在情形反推你知不知情：收过好处费、流水明显不正常，都可能算你知道。卡被人用来收赃款的，就算你最后不构成犯罪，账户也会被冻结，本人也会被惩戒。替别人刷脸、念验证码过实名核验，罚则和这条相同，见第 45 条（帮忙刷个脸）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Không cho bất kỳ ai mượn thẻ ngân hàng, SIM điện thoại hay tài khoản thanh toán; “chạy dòng tiền” không phải việc làm thêm",
+    "fields": {
+      "cost": "Không tốn tiền. Ai nói “cho mượn thẻ chạy giao dịch, trả bạn vài trăm” thì chỉ cần từ chối.",
+      "plain": "Cho thuê, cho mượn hoặc bán thẻ ngân hàng, SIM điện thoại, tài khoản thanh toán tự nó đã trái pháp luật. Bị phạt từ 1 đến 10 lần khoản thu bất hợp pháp; không có khoản thu thì phạt tối đa 20 vạn nhân dân tệ; tình tiết nghiêm trọng bị tạm giữ 15 ngày, còn bị ghi vào hồ sơ tín dụng và hạn chế chức năng tài khoản. Nếu biết bên kia dùng để phạm tội mà vẫn giúp nhận, chuyển tiền thì phạm tội hỗ trợ tội phạm thông tin mạng, bị phạt đến 3 năm tù.",
+      "benefit": "Cho thuê, cho mượn, mua bán SIM điện thoại, tài khoản ngân hàng, tài khoản thanh toán hoặc tài khoản Internet tự nó đã trái pháp luật. Thu nhập bất hợp pháp bị tịch thu, rồi phạt từ 1 đến 10 lần khoản thu đó. Không có khoản thu bất hợp pháp thì phạt tối đa 20 vạn nhân dân tệ. Tình tiết nghiêm trọng bị tạm giữ hành chính đến 15 ngày. Còn có thể bị ghi vào hồ sơ tín dụng, hạn chế chức năng tài khoản, ngừng giao dịch ngoài quầy (chỉ được giao dịch tại quầy). Biết người khác dùng mạng để phạm tội mà vẫn hỗ trợ thanh toán, quyết toán hoặc việc tương tự, nếu tình tiết nghiêm trọng thì cấu thành tội hỗ trợ hoạt động phạm tội qua mạng thông tin, bị phạt đến 3 năm tù và phạt tiền (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2022). 反电信网络诈骗法（第三十一、四十四条）. <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第二十九条，即刑法第二百八十七条之二）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>",
+      "notes": "Nói “tôi không biết họ dùng thẻ làm gì” không đủ bảo vệ bạn. Cơ quan điều tra sẽ suy ra bạn có biết không từ hoàn cảnh bên ngoài: đã nhận thù lao hoặc dòng tiền rõ ràng bất thường đều có thể khiến bạn bị coi là biết. Thẻ được dùng nhận tiền phạm pháp thì dù cuối cùng bạn không cấu thành tội phạm, tài khoản vẫn bị phong tỏa và bản thân vẫn bị áp dụng chế tài."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

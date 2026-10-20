@@ -1,0 +1,48 @@
+{
+  "id": "e-5-24",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "ff7de1fa694ed490e4d50a56b352f6ff315b6633f87c52b5fc892252c6cb1edd",
+  "status": "outdated",
+  "original": {
+    "number": 24,
+    "title": "不为「划线价」和大促囤货",
+    "fields": {
+      "cost": "不花钱。代价是有些真折扣你也放过了。你得记住自己常买那几样东西的日常价。难的是大促当天忍住不囤。",
+      "plain": "人判断一样东西贵不贵，会被最先看到的那个数字定住，之后再调整通常调不够。所以「原价 999 现价 499」会让你系统性地高估它有多便宜。而按规定，打折要拿来当基准的，只是这家店促销前七天里的最低成交价。那个划掉的价格，不一定真卖过。",
+      "benefit": "人的判断会被最先看到的数字定住，之后再调整通常调不够。所以「原价 999 现价 499」会系统性地抬高你对「便宜了多少」的估计。监管规定，折价的基准应当是促销前七日内同一家店的最低成交价。打几折，要拿这家店促销前七天里实际卖出去的最低价当参照。划掉的那个价格，不一定真的卖过（中国，2020 年起施行）",
+      "grade": "C",
+      "sources": "Tversky A, Kahneman D (1974). Judgment under Uncertainty: Heuristics and Biases. Science 185(4157):1124-1131. <https://doi.org/10.1126/science.185.4157.1124>；国家市场监督管理总局 (2020). 规范促销行为暂行规定（总局令第 32 号，第二十一条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_cae53a080be2401e8f91c6d6291539f8.html>",
+      "notes": "锚定效应是实验室里得出的结论，没有人算过囤货实际亏多少钱。囤货还有几笔你不会记在账上的成本：东西过期，占地方，以及「反正家里有，那就多用点」。只囤这三种都满足的东西：保质期长，确定会用完，单价确实比以前的价格低。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 24,
+    "title": "Đừng tích hàng vì “giá gạch ngang” và đợt khuyến mãi lớn",
+    "fields": {
+      "cost": "Không tốn tiền. Đổi lại bạn cũng bỏ lỡ vài giảm giá thật. Cần nhớ giá thường ngày của những món hay mua. Khó là kiềm chế không tích hàng hôm khuyến mãi lớn.",
+      "plain": "Người ta đánh giá đắt rẻ dựa vào con số thấy đầu tiên; điều chỉnh sau đó thường không đủ. Vì thế “giá gốc 999, nay 499” khiến bạn đánh giá cao một cách có hệ thống mức rẻ. Theo quy định, mốc giảm giá chỉ là giá giao dịch thấp nhất của cùng cửa hàng trong bảy ngày trước khuyến mãi. Giá bị gạch chưa chắc từng được bán thật.",
+      "benefit": "Phán đoán bị neo vào con số thấy trước tiên, điều chỉnh sau đó thường không đủ. Vì vậy “giá gốc 999, nay 499” làm tăng có hệ thống ước lượng “rẻ được bao nhiêu”. Theo quy định, mốc giảm giá phải là giá giao dịch thấp nhất của cùng cửa hàng trong bảy ngày trước khuyến mãi; mức giảm phải so với giá thấp nhất thực sự bán trong bảy ngày đó. Giá bị gạch chưa chắc từng bán thật (Trung Quốc, áp dụng từ năm 2020).",
+      "grade": "C",
+      "sources": "Tversky A, Kahneman D (1974). Judgment under Uncertainty: Heuristics and Biases. Science 185(4157):1124-1131. <https://doi.org/10.1126/science.185.4157.1124>；国家市场监督管理总局 (2020). 规范促销行为暂行规定（总局令第 32 号，第二十一条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_cae53a080be2401e8f91c6d6291539f8.html>",
+      "notes": "Hiệu ứng neo là kết luận trong phòng thí nghiệm, chưa ai tính tích hàng thực tế lỗ bao nhiêu. Tích hàng còn các chi phí bạn không ghi sổ: hết hạn, chiếm chỗ và “nhà có sẵn thì dùng nhiều chút”. Chỉ tích hàng thỏa cả ba điều: hạn dùng dài, chắc chắn dùng hết, đơn giá thực sự thấp hơn trước."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

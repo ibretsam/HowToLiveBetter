@@ -1,0 +1,48 @@
+{
+  "id": "e-17-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "b1d1e44ab791ce7df5be1a54bcd88a02c12019ef6187f72c6f9d132b00095081",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "家里老人长期卧床或重度失能，去参保地医保部门申请长期护理保险；它不是只发给老人",
+    "fields": {
+      "cost": "去参保地医保部门交一次申请。再做一次失能等级评估。第一次评估就通过的，评估费由基金出，不用自己掏",
+      "plain": "长期护理保险付的是护理服务费，一般不直接发现金。家里有人重度失能、持续半年以上，就去参保地医保部门申请。护理费没有起付线，职工参保的报七成左右，城乡居民参保的报五成左右，床位费、伙食费不报。文件没设年龄门槛，年轻人重度失能也能申请。",
+      "benefit": "符合规定的长期护理服务费用不设起付线。起付线就是先自己垫够一个数才开始报，这里不用垫。按单位职工政策参保的，由基金报销约 70%。按未就业城乡居民政策参保的，约 50%。一年最多能报到的钱（年度最高支付限额），不超过本地统筹地区上年度城乡居民人均可支配收入的 50%。能享受待遇的，是按规定参保缴费、失能一般持续 6 个月以上、申请后通过评估认定的人，起步阶段先保重度失能。文件没有设年龄门槛，18 周岁以下没工作的跟着父母参保，符合条件的按城乡居民标准享受待遇。基金主要付给护理机构和护理人员，原则上不直接向失能人员发现金。机构床位费、膳食费这类不算护理的费用，基金不付",
+      "grade": "A",
+      "sources": "国家医保局等八部门 (2026). 关于印发《加快建立长期护理保险制度实施方案》的通知. <https://www.gov.cn/zhengce/zhengceku/202603/content_7063915.htm>：保障对象为「按规定参保缴费且失能状态长期持续（一般为6个月以上），经申请通过评估认定的失能人员」，「制度起步阶段保障重度失能人员」；「待遇享受不设起付标准。符合规定的长期护理服务费用，按未就业城乡居民参保政策参保的，基金支付比例为50%左右；按单位职工参保政策参保的，基金支付比例为70%左右，退休人员享受单位职工参保待遇」；「参保人员基金年度最高支付限额不超过统筹地区上年度城乡居民人均可支配收入的50%」；「除新生儿等特殊群体外，对未在当地长期护理保险制度启动时初次参保，以及中断缴费后再次参保的情形，应制定待遇享受等待期……待遇享受固定等待期原则上按照6个月设置」；「对机构床位费、膳食费等非护理服务费用以及应由医疗保险支付的医疗费用，基金不予支付」；「原则上不直接向失能人员发放现金」；另见中共中央办公厅、国务院办公厅《关于加快建立长期护理保险制度的意见》. <https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065119.html>",
+      "notes": "失能要「长期持续（一般为6个月以上）」，住院几周还不到申请的条件。本地制度启动时没参保、后来才参保的，或者断缴后再参保的，享受待遇前有等待期，原则上 6 个月。床位费、伙食费这类不算护理的费用，长护险不付。本该医保付的医疗费，长护险也不付。已经在领工伤生活护理费的，不重复享受。这笔钱和残疾人两项补贴里的护理补贴是两套手续、两笔钱，不冲突，见第 7 节第 8 条（两项补贴）。在家里和在社区接受护理，报销比例上有倾斜，不一定非得住进机构。这项制度各地分批落地，失能评估标准也不一样。先打 12393 或者参保地医保经办机构的电话，问本地启没启动、评估怎么约。评估不通过也别放弃，失能状态变重之后可以再申请。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Nếu người cao tuổi nằm lâu hoặc mất khả năng tự chăm sóc nặng, xin bảo hiểm chăm sóc dài hạn tại cơ quan bảo hiểm y tế nơi tham gia; bảo hiểm này không chỉ dành cho người già",
+    "fields": {
+      "cost": "Nộp hồ sơ một lần tại cơ quan bảo hiểm y tế nơi tham gia, rồi đánh giá mức mất khả năng tự chăm sóc. Nếu đạt ngay lần đánh giá đầu, quỹ trả phí đánh giá, bạn không phải tự trả",
+      "plain": "Bảo hiểm chăm sóc dài hạn giúp trả tiền thuê người chăm sóc. Gia đình có người mất khả năng tự chăm sóc nặng liên tục từ nửa năm trở lên thì đến cơ quan bảo hiểm y tế nơi tham gia xin. Không phải tự ứng tiền chăm sóc trước; người tham gia theo diện lao động được trả khoảng bảy phần mười, cư dân đô thị/nông thôn khoảng một nửa; tiền giường và ăn không được trả. Không có ngưỡng tuổi, người trẻ mất khả năng tự chăm sóc nặng cũng được xin.",
+      "benefit": "Chi phí chăm sóc dài hạn đủ điều kiện không có mức tự trả ban đầu. Mức đó là số tiền bạn phải tự trả đủ trước khi bảo hiểm bắt đầu thanh toán, ở đây không cần. Người tham gia theo chính sách lao động tại đơn vị được quỹ thanh toán khoảng 70%; người theo chính sách cư dân đô thị và nông thôn chưa có việc làm khoảng 50%. Mức tối đa được trả mỗi năm (hạn mức thanh toán năm) không quá 50% thu nhập khả dụng bình quân đầu người của cư dân đô thị và nông thôn trong khu vực điều phối quỹ địa phương năm trước",
+      "grade": "A",
+      "sources": "国家医保局等八部门 (2026). 关于印发《加快建立长期护理保险制度实施方案》的通知. <https://www.gov.cn/zhengce/zhengceku/202603/content_7063915.htm>：保障对象为「按规定参保缴费且失能状态长期持续（一般为6个月以上），经申请通过评估认定的失能人员」，「制度起步阶段保障重度失能人员」；「待遇享受不设起付标准。符合规定的长期护理服务费用，按未就业城乡居民参保政策参保的，基金支付比例为50%左右；按单位职工参保政策参保的，基金支付比例为70%左右，退休人员享受单位职工参保待遇」；「参保人员基金年度最高支付限额不超过统筹地区上年度城乡居民人均可支配收入的50%」；「待遇享受固定等待期原则上按照6个月设置」；另见中共中央办公厅、国务院办公厅《关于加快建立长期护理保险制度的意见》. <https://www.gov.cn/gongbao/2026/issue_12666/202604/content_7065119.html>",
+      "notes": "Mất khả năng tự chăm sóc phải “kéo dài liên tục (thường từ 6 tháng trở lên)”; nằm viện vài tuần chưa đủ điều kiện. Trước khi hưởng còn có thời gian chờ 6 tháng. Bảo hiểm chăm sóc dài hạn không trả khoản ngoài chăm sóc như giường, ăn; cũng không trả chi phí khám chữa bệnh vốn do bảo hiểm y tế chi trả. Người đang nhận trợ cấp chăm sóc sinh hoạt do tai nạn lao động không được hưởng trùng. Khoản này và trợ cấp chăm sóc trong hai trợ cấp cho người khuyết tật là hai thủ tục, hai khoản khác nhau, không xung đột; xem chương 7 mục 8 (hai trợ cấp). Chăm sóc tại nhà và cộng đồng được ưu tiên về tỷ lệ thanh toán, không nhất thiết phải vào cơ sở. Chế độ đang triển khai từng đợt theo địa phương, tiêu chuẩn đánh giá cũng khác nhau. Gọi trước 12393 hoặc đơn vị thực hiện bảo hiểm y tế nơi tham gia, hỏi địa phương đã triển khai chưa và cách đặt lịch đánh giá. Không đạt cũng đừng bỏ cuộc; tình trạng nặng hơn có thể xin lại."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

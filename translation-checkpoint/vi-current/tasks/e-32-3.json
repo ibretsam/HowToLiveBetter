@@ -1,0 +1,48 @@
+{
+  "id": "e-32-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "4ec35f1a1a3ad8d571cb6e1cf0034aca6ffa5bb9bc9e6db839ef268c7d7050fa",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "打工时数是美加英澳四国都写死的红线，超一小时就是违反签证条件",
+    "fields": {
+      "cost": "不花钱。自己按周把工时记下来。难在雇主会说「多干几个小时没人查」，这话不能信",
+      "plain": "四个国家都给学生签证的打工时间定了上限。超了就是违反签证条件。上课期间，美国每周 20 小时，英国读学位每周 20 小时、学位以下 10 小时。加拿大每周 24 小时，澳大利亚每两周 48 小时。打两份工要合起来算。",
+      "benefit": "美国的 F-1 学生，校内打工在学期中每周不得超过 20 小时。经批准的校外兼职同样是每周 20 小时。假期可以全职。依据是美国联邦移民法规 8 CFR 214.2(f)(9)。英国的学生签证，读学位及以上课程的，学期内每周 20 小时，学位以下的每周 10 小时。非全日制课程一律不得打工。还不得自雇（自己给自己干活），也不得做职业运动员或者演艺工作。依据是英国移民规则里管学生的那一部分，附录 Student ST26.1、ST26.5。加拿大符合条件的全日制学生，校外打工每周最多 24 小时，依据是加拿大移民法实施条例 IRPR 第 186(v) 条。澳大利亚的学生签证，课程进行期间每两周最多 48 小时。研究型硕士、博士和他们的家属不受这个限制",
+      "grade": "A",
+      "sources": "8 CFR 214.2(f)(9). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>；UK Home Office. Immigration Rules Appendix Student（ST26.1、ST26.5）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>；IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>",
+      "notes": "美国的校外打工必须先获批。申请打工许可的 I-765 还在审的时候，就不能开工。加拿大的旧许可上印的是每周 20 小时，只要还符合条件，实际可以做到 24 小时，以现行规定为准。英国不许自雇那条管得很宽：接私活、开网店、做自由职业都算。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Giới hạn giờ làm thêm là ranh giới rõ ở Mỹ, Canada, Anh, Australia; vượt một giờ cũng vi phạm điều kiện thị thực",
+    "fields": {
+      "cost": "Không tốn tiền. Tự ghi giờ làm từng tuần. Khó ở chỗ chủ có thể nói ‘làm thêm vài giờ chẳng ai kiểm tra’; đừng tin.",
+      "plain": "Cả bốn nước đều giới hạn giờ làm của thị thực sinh viên. Vượt là vi phạm điều kiện, có thể bị hủy thị thực, trục xuất và bị hỏi kỹ khi xin lại. Giới hạn: Mỹ 20 giờ mỗi tuần; Anh học chương trình cấp bằng đại học trở lên 20 giờ, dưới cấp bằng 10 giờ mỗi tuần; Canada 24 giờ mỗi tuần; Australia 48 giờ mỗi hai tuần. Làm hai việc phải cộng chung.",
+      "benefit": "Sinh viên F-1 ở Mỹ làm trong trường trong học kỳ không quá 20 giờ mỗi tuần. Làm bán thời gian ngoài trường đã được phê duyệt cũng 20 giờ mỗi tuần. Kỳ nghỉ có thể làm toàn thời gian. Căn cứ là quy định nhập cư liên bang 8 CFR 214.2(f)(9). Thị thực sinh viên Anh: học chương trình cấp bằng đại học trở lên được 20 giờ mỗi tuần trong kỳ, dưới cấp bằng là 10 giờ. Khóa không toàn thời gian đều không được làm thêm. Không được tự doanh, tức làm cho chính mình, cũng không làm vận động viên chuyên nghiệp hay biểu diễn nghệ thuật. Căn cứ là phần sinh viên trong Quy tắc nhập cư Anh, phụ lục Student ST26.1, ST26.5. Sinh viên toàn thời gian đủ điều kiện tại Canada làm ngoài trường tối đa 24 giờ mỗi tuần, theo điều 186(v) của Quy định thực hiện Luật Nhập cư Canada, IRPR. Thị thực sinh viên Australia trong thời gian khóa học cho làm tối đa 48 giờ mỗi hai tuần. Thạc sĩ nghiên cứu, tiến sĩ và người thân đi cùng không bị giới hạn này.",
+      "grade": "A",
+      "sources": "8 CFR 214.2(f)(9). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>；UK Home Office. Immigration Rules Appendix Student（ST26.1、ST26.5）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>；IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>",
+      "notes": "Tại Mỹ, làm ngoài trường phải được duyệt trước. Hồ sơ xin phép làm việc I-765 còn đang xét thì chưa được bắt đầu. Giấy phép Canada cũ ghi 20 giờ mỗi tuần, nhưng nếu vẫn đủ điều kiện thì thực tế được làm 24 giờ theo quy định hiện hành. Lệnh cấm tự doanh của Anh áp dụng rộng: nhận việc riêng, mở cửa hàng trực tuyến, hành nghề tự do đều tính."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

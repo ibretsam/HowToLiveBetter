@@ -1,0 +1,48 @@
+{
+  "id": "e-26-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "f7072e8cf8d04f594fa0fd2db1ae09baccb098f861db37b0fe2ea8849e0021f1",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "让用户上来卖东西，平台就要核验登记、报送信息、留存三年",
+    "fields": {
+      "cost": "不花钱。要在后台做卖家的资质核验，还要建一份登记档案。每个季度报一次涉税信息，交易数据留三年。难在它是常年的活，不是办一次就完",
+      "plain": "让别人上你的平台卖东西，你就要先核卖家的身份、地址、联系方式和许可证，再登记建档。建完档，至少每六个月回头再核一次。卖家是谁要报给市场监管，纳税的情况每季度报给税务，商品和交易记录留三年。漏做一项，先责令改正，不改罚 2 万到 10 万元。",
+      "benefit": "法律对平台有一段要求。原话是「应当要求申请进入平台销售商品或者提供服务的经营者提交其身份、地址、联系方式、行政许可等真实信息，进行核验、登记，建立登记档案，并定期核验更新」。卖家进场前要交身份、地址、联系方式和他该办的许可证。你要核一遍，登记建档，之后隔一段时间还要回头再核一次。「定期」是多久？部门规章说得更细，「至少每六个月核验更新一次」。你还要向市场监管部门报送平台内经营者的身份信息。税务那边也要报，原话是「依照税收征收管理法律、行政法规的规定，向税务部门报送平台内经营者的身份信息和与纳税有关的信息」。所以卖家是谁要报给市场监管，卖家的身份和纳税情况要报给税务。商品和服务信息、交易信息「保存时间自交易完成之日起不少于三年」，从一笔交易做完那天算起，数据至少留三年。上面任何一项没做到的，责令限期改正。逾期不改的，罚 2 万到 10 万元。情节严重的，责令停业整顿，再罚 10 万到 50 万元。涉税信息要「于季度终了的次月内」报送，每个季度结束后的下一个月里就要报掉。没按期报的，罚则一样（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2018). 电子商务法（第十、二十七、二十八、三十一、八十条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf8af050b81> ; 市场监管总局 (2021). 网络交易监督管理办法（市场监管总局令第 37 号，第八、二十四、二十五、三十一条）. <https://www.gov.cn/gongbao/content/2021/content_5602020.htm> ; 国务院 (2025). 互联网平台企业涉税信息报送规定（国务院令第 810 号，第二、三、四、十条）. <https://www.gov.cn/gongbao/2025/issue_12146/202507/content_7030983.html> ; 国家税务总局 (2025). 关于互联网平台企业报送涉税信息有关事项的公告（税务总局公告 2025 年第 15 号）. <https://www.gov.cn/zhengce/zhengceku/202506/content_7029727.htm>",
+      "notes": "卖家自己也要去办市场主体登记。法律列了几种不用办的：「个人销售自产农副产品、家庭手工业产品，个人利用自己的技能从事依法无须取得许可的便民劳务活动和零星小额交易活动」。「零星小额」有个具体数，网络交易监督管理办法第八条定的是年交易额 10 万元。平台这边还有两件事要做：把已登记和未登记的卖家分别标出来，以及不许删消费者的评价"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Cho người dùng bán hàng trên nền tảng thì phải xác minh, đăng ký, báo cáo thông tin và lưu giữ ba năm",
+    "fields": {
+      "cost": "Không tốn tiền. Phải làm chức năng xác minh điều kiện người bán trong hệ thống quản trị và lập hồ sơ đăng ký. Mỗi quý báo cáo thông tin thuế một lần, giữ dữ liệu giao dịch ba năm. Khó ở chỗ đây là việc lâu dài, không phải làm một lần là xong",
+      "plain": "Cho người khác bán hàng trên nền tảng của bạn thì phải xác minh danh tính, địa chỉ, liên hệ và giấy phép của người bán trước, rồi đăng ký lập hồ sơ. Sau đó ít nhất mỗi sáu tháng xác minh lại. Báo danh tính người bán cho cơ quan quản lý thị trường, mỗi quý báo thông tin thuế cho cơ quan thuế. Giữ thông tin hàng hóa và giao dịch ba năm. Thiếu một việc thì bị yêu cầu khắc phục trước; không khắc phục bị phạt từ 2 vạn đến 10 vạn nhân dân tệ.",
+      "benefit": "Luật có yêu cầu đối với nền tảng: «Phải yêu cầu người kinh doanh xin vào nền tảng bán hàng hoặc cung cấp dịch vụ nộp thông tin thật về danh tính, địa chỉ, liên hệ, giấy phép hành chính; xác minh, đăng ký, lập hồ sơ và định kỳ xác minh, cập nhật». Trước khi vào, người bán phải nộp danh tính, địa chỉ, liên hệ và giấy phép cần có. Bạn phải kiểm tra, lập hồ sơ rồi định kỳ kiểm tra lại. «Định kỳ» bao lâu? Quy định của bộ nêu rõ hơn: «ít nhất mỗi sáu tháng xác minh, cập nhật một lần». Bạn còn phải báo thông tin danh tính người kinh doanh trên nền tảng cho cơ quan quản lý thị trường. Cơ quan thuế cũng cần nhận báo cáo: «Theo luật, quy định hành chính về quản lý thu thuế, báo cho cơ quan thuế danh tính người kinh doanh trong nền tảng và thông tin liên quan đến thuế». Như vậy danh tính người bán báo cho quản lý thị trường; danh tính và tình hình thuế báo cho cơ quan thuế. Thông tin hàng hóa, dịch vụ, giao dịch phải «lưu ít nhất ba năm từ ngày hoàn tất giao dịch»: mỗi giao dịch xong phải giữ dữ liệu ít nhất ba năm. Thiếu bất cứ nghĩa vụ nào sẽ bị buộc khắc phục trong hạn. Quá hạn không sửa bị phạt từ 2 vạn đến 10 vạn nhân dân tệ. Nghiêm trọng bị buộc ngừng hoạt động để chấn chỉnh và phạt từ 10 vạn đến 50 vạn. Thông tin thuế phải báo «trong tháng tiếp theo sau khi quý kết thúc», tức tháng ngay sau mỗi quý. Báo không đúng hạn cũng bị phạt như vậy (toàn quốc)",
+      "grade": "A",
+      "sources": "全国人大常委会 (2018). 电子商务法（第十、二十七、二十八、三十一、八十条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf8af050b81> ; 市场监管总局 (2021). 网络交易监督管理办法（市场监管总局令第 37 号，第八、二十四、二十五、三十一条）. <https://www.gov.cn/gongbao/content/2021/content_5602020.htm> ; 国务院 (2025). 互联网平台企业涉税信息报送规定（国务院令第 810 号，第二、三、四、十条）. <https://www.gov.cn/gongbao/2025/issue_12146/202507/content_7030983.html> ; 国家税务总局 (2025). 关于互联网平台企业报送涉税信息有关事项的公告（税务总局公告 2025 年第 15 号）. <https://www.gov.cn/zhengce/zhengceku/202506/content_7029727.htm>",
+      "notes": "Người bán cũng phải tự đăng ký chủ thể kinh doanh. Luật miễn đăng ký cho một số trường hợp: «cá nhân bán nông sản phụ, sản phẩm thủ công gia đình tự làm; cá nhân dùng kỹ năng của mình cung cấp dịch vụ tiện ích cho dân mà pháp luật không yêu cầu giấy phép; hoạt động giao dịch nhỏ lẻ». «Nhỏ lẻ» có mức cụ thể: Điều tám Biện pháp giám sát quản lý giao dịch trực tuyến quy định doanh số năm 10 vạn nhân dân tệ. Nền tảng còn phải làm hai việc: đánh dấu riêng người bán đã đăng ký và chưa đăng ký, đồng thời không được xóa đánh giá người tiêu dùng"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

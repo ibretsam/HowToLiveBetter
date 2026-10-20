@@ -1,0 +1,48 @@
+{
+  "id": "e-8-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "ce5ee8b916ed1013e3d9c0ac97868b964e4ce23abcf954d8bbd93976cb60557d",
+  "status": "draft",
+  "original": {
+    "number": 1,
+    "title": "出了交通事故先停车、救人、报警，不要跑",
+    "fields": {
+      "cost": "不花钱。停车、开双闪、救人、打电话报警，等交警最多耗掉一两个小时。小事故要是没人受伤、双方对事实也没争议，就先拍照。再记下对方的姓名、电话、车牌、驾驶证号、保险凭证号和撞到的部位。双方签字后可以先撤离现场，再自己协商。",
+      "plain": "跑了，这起事故就默认算你全责。驾照吊销，这辈子都不能再考。还有更现实的一层：车损险和三者险对逃逸一律不赔，几十万的赔偿全要自己掏。留在现场救人、报警，最多耗掉一两个小时。",
+      "benefit": "跑了的那一方，要承担这次事故的全部责任。只有你能证明对方也有错，责任才可能减轻一点。跑了还要吊销驾驶证，而且这辈子都不能再考。如果这起事故构成交通肇事罪，跑了判 3 到 7 年。如果因为跑了导致人死亡，判 7 年以上。保险也不管：商业车险里的车损险和三者险，遇上「交通肇事逃逸」「故意破坏、伪造现场、毁灭证据」一律不赔，几十万的赔偿要你自己全掏（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 道路交通安全法（2021 年修订，第七十、一百零一条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/205308/index.html>（北京市公安交通管理局转载）；国务院 (2017). 道路交通安全法实施条例（国务院令第 405 号，2017 年修订，第八十六、九十二条）. <http://xzfg.moj.gov.cn/front/law/detail?LawID=75>；全国人大 (1997). 刑法（第一百三十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；中国保险行业协会 (2020). 机动车商业保险示范条款（2020 版）（第九、二十二条）. <https://www.iachina.cn/art/2020/9/4/art_24_104621.html>",
+      "notes": "有人受伤，先救人，再报警。为了救人必须挪动现场的，先把车和人原来的位置标出来。「撞了一下没感觉就开走」，事后也可能被算成逃逸，拿不准就报警。保险那一条引的是示范条款，它是保险行业的统一模板，你实际能赔到什么，以自己手里的保单为准。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Gặp tai nạn giao thông hãy dừng xe, cứu người, báo cảnh sát trước; đừng bỏ chạy",
+    "fields": {
+      "cost": "Không tốn tiền. Dừng xe, bật đèn cảnh báo, cứu người, gọi cảnh sát; chờ cảnh sát giao thông cùng lắm mất một hai giờ. Nếu tai nạn nhỏ không có người bị thương và hai bên không tranh cãi về sự việc, hãy chụp ảnh trước. Sau đó ghi tên, số điện thoại, biển số, số giấy phép lái xe, số chứng nhận bảo hiểm và vị trí va chạm của bên kia. Sau khi hai bên ký tên, có thể rời hiện trường rồi tự thương lượng.",
+      "plain": "Nếu bỏ chạy, mặc định bạn chịu toàn bộ trách nhiệm tai nạn. Bằng lái bị thu hồi và suốt đời không được thi lại. Còn một hậu quả thực tế hơn: bảo hiểm thiệt hại xe và bảo hiểm trách nhiệm với bên thứ ba đều không chi trả khi bỏ trốn; bạn phải tự trả toàn bộ khoản bồi thường hàng trăm nghìn nhân dân tệ. Ở lại cứu người và báo cảnh sát cùng lắm mất một hai giờ.",
+      "benefit": "Bên bỏ chạy phải chịu toàn bộ trách nhiệm tai nạn. Chỉ khi chứng minh được bên kia cũng có lỗi, trách nhiệm mới có thể giảm phần nào. Bỏ chạy còn bị thu hồi giấy phép lái xe và suốt đời không được thi lại. Nếu tai nạn cấu thành tội gây tai nạn giao thông, bỏ chạy bị phạt 3 đến 7 năm tù. Nếu việc bỏ chạy khiến người khác tử vong, bị phạt từ 7 năm tù trở lên. Bảo hiểm cũng không chi trả: bảo hiểm thiệt hại xe và trách nhiệm với bên thứ ba trong bảo hiểm ô tô thương mại đều loại trừ trường hợp “gây tai nạn giao thông rồi bỏ trốn”, “cố ý phá hoại, làm giả hiện trường, tiêu hủy chứng cứ”. Bạn phải tự trả toàn bộ khoản bồi thường hàng trăm nghìn nhân dân tệ (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 道路交通安全法（2021 年修订，第七十、一百零一条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/205308/index.html>（北京市公安交通管理局转载）；国务院 (2017). 道路交通安全法实施条例（国务院令第 405 号，2017 年修订，第八十六、九十二条）. <http://xzfg.moj.gov.cn/front/law/detail?LawID=75>；全国人大 (1997). 刑法（第一百三十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；中国保险行业协会 (2020). 机动车商业保险示范条款（2020 版）（第九、二十二条）. <https://www.iachina.cn/art/2020/9/4/art_24_104621.html>",
+      "notes": "Có người bị thương thì cứu người trước, báo cảnh sát sau. Nếu phải thay đổi hiện trường để cứu người, hãy đánh dấu vị trí ban đầu của xe và người trước. “Va nhẹ không cảm nhận được nên lái đi” về sau cũng có thể bị coi là bỏ trốn; không chắc thì báo cảnh sát. Điều về bảo hiểm dẫn điều khoản mẫu, tức mẫu thống nhất của ngành bảo hiểm. Thực tế được bồi thường gì phải căn cứ vào hợp đồng bảo hiểm bạn đang có."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

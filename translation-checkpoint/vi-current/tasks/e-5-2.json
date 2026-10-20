@@ -1,0 +1,48 @@
+{
+  "id": "e-5-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "b1ce3dcf506981f2960593877ac70b06698e965d8e1197246527bccebabad81d",
+  "status": "draft",
+  "original": {
+    "number": 2,
+    "title": "每年三月到六月做一次个税汇算，专项附加扣除该填的填",
+    "fields": {
+      "cost": "不花钱。在「个人所得税」App 上办，十几分钟就完了。",
+      "plain": "这几种人办下来通常能退到钱：全年只干了几个月，年中换过工作，或者子女教育、房贷、房租、赡养老人这些扣除没填。在手机上十几分钟就能办。如果你一年综合所得不到 12 万元，或者该补的税不到 400 元，可以不办。",
+      "benefit": "把工资薪金、劳务报酬、稿酬、特许权使用费这四项合起来算一次总账。多交的退给你，少交的要补上。有两种情况可以不办：你一年的综合所得收入不超过 12 万元，或者要补的税不超过 400 元。这两条是国家税务总局 2023 年公告定的，管到 2027 年 12 月 31 日。反过来，下面这几种人办下来通常能退到钱：全年只有几个月有收入的，年中换过工作的，有子女教育、房贷、房租、赡养老人等扣除没填的",
+      "grade": "A",
+      "sources": "国家税务总局 (2025). 个人所得税综合所得汇算清缴管理办法（第六条）及其解读. <https://www.gov.cn/zhengce/202502/content_7006465.htm>；财政部、税务总局 (2023). 关于延续实施个人所得税综合所得汇算清缴有关政策的公告. <https://www.gov.cn/zhengce/zhengceku/202308/content_6900594.htm>",
+      "notes": "该补税的人也要办，不办是违法的。专项附加扣除一共七项：子女教育、继续教育、大病医疗、住房贷款利息、住房租金、赡养老人、3 岁以下婴幼儿照护。其中房贷和房租只能选一样，不能两样都填"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Mỗi năm từ tháng ba đến tháng sáu hãy quyết toán thuế thu nhập cá nhân, điền đủ các khoản giảm trừ bổ sung đặc biệt được hưởng",
+    "fields": {
+      "cost": "Không tốn tiền. Làm trên ứng dụng “Thuế thu nhập cá nhân”, chỉ mất hơn mười phút.",
+      "plain": "Những người này thường được hoàn tiền khi quyết toán: chỉ làm việc vài tháng trong năm, đổi việc giữa năm, hoặc chưa khai giảm trừ cho giáo dục con cái, vay mua nhà, thuê nhà, phụng dưỡng người cao tuổi. Bạn có thể làm trên điện thoại trong hơn mười phút. Nếu thu nhập tổng hợp cả năm dưới 12 vạn nhân dân tệ hoặc thuế cần nộp thêm dưới 400 nhân dân tệ, bạn có thể không làm.",
+      "benefit": "Cộng bốn loại thu nhập là tiền lương, thù lao lao động, nhuận bút và tiền cấp quyền sử dụng để quyết toán chung. Nộp thừa thì được hoàn, thiếu thì phải nộp thêm. Có hai trường hợp được miễn quyết toán: thu nhập tổng hợp cả năm không quá 12 vạn nhân dân tệ hoặc số thuế cần nộp thêm không quá 400 nhân dân tệ. Hai điều này được Tổng cục Thuế Nhà nước quy định trong thông báo năm 2023, có hiệu lực đến ngày 31 tháng 12 năm 2027. Ngược lại, người chỉ có thu nhập vài tháng trong năm, đổi việc giữa năm hoặc chưa khai giảm trừ cho giáo dục con cái, vay mua nhà, thuê nhà, phụng dưỡng người cao tuổi thường được hoàn tiền khi làm quyết toán.",
+      "grade": "A",
+      "sources": "国家税务总局 (2025). 个人所得税综合所得汇算清缴管理办法（第六条）及其解读. <https://www.gov.cn/zhengce/202502/content_7006465.htm>；财政部、税务总局 (2023). 关于延续实施个人所得税综合所得汇算清缴有关政策的公告. <https://www.gov.cn/zhengce/zhengceku/202308/content_6900594.htm>",
+      "notes": "Người phải nộp thêm thuế cũng phải làm; không làm là vi phạm pháp luật. Có tổng cộng bảy khoản giảm trừ bổ sung đặc biệt: giáo dục con cái, giáo dục tiếp tục, điều trị bệnh nặng, lãi vay mua nhà, tiền thuê nhà, phụng dưỡng người cao tuổi và chăm sóc trẻ dưới 3 tuổi. Trong đó chỉ được chọn khoản vay mua nhà hoặc thuê nhà, không được khai cả hai."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

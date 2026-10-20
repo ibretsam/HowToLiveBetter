@@ -1,0 +1,48 @@
+{
+  "id": "e-25-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "1df33be5941d236ae034199d43f6ae3814eaf45d224467ecd5638a396c2cf28f",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "对死因有异议，48 小时内提出并进行尸检，同时封存病历",
+    "fields": {
+      "cost": "不花钱。难的是在那个时候还想得起来提。",
+      "plain": "对死因有疑问，要在人去世后 48 小时内做尸检，医院有冻存条件的可以延到 7 日。尸检要近亲属签字同意，不同意或者拖过了时间，死因查不清的责任就算在这一方。提尸检的同时，要求把病历封存起来。遗体一火化，就再也做不了尸检。",
+      "benefit": "尸检的时限写在医疗纠纷预防和处理条例第二十六条。原文是：「患者死亡，医患双方对死因有异议的，应当在患者死亡后 48 小时内进行尸检；具备尸体冻存条件的，可以延长至 7 日」。所以想查清死因，要在人去世后 48 小时内做尸检，医院有冷冻条件的最多放宽到 7 天。同一条还写着：「尸检应当经死者近亲属同意并签字，拒绝签字的，视为死者近亲属不同意进行尸检」。家属不签字，就当作不同意。还写着：「不同意或者拖延尸检，超过规定时间，影响对死因判定的，由不同意或者拖延的一方承担责任」。谁不同意、谁拖过了时间，后面查不清死因的责任就算谁的。第二十四条：封存、启封病历资料「应当在医患双方在场的情况下进行」。病历装封和拆封，你和医院都得在场",
+      "grade": "A",
+      "sources": "国务院 (2018). 医疗纠纷预防和处理条例（国务院令第 701 号，第二十四、二十六条）. <https://www.gov.cn/zhengce/content/2018-08/31/content_5318057.htm>",
+      "notes": "过了这个时限再说「当初就觉得不对」，责任反过来落在拖延的那一方。遗体一旦火化，就再没有尸检的可能，所以这件事要在联系殡仪馆之前定下来。病历怎么封存见第 24 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Nếu không đồng ý với nguyên nhân tử vong, đề nghị khám nghiệm tử thi trong 48 giờ và đồng thời niêm phong bệnh án",
+    "fields": {
+      "cost": "Không tốn tiền. Khó ở chỗ lúc ấy vẫn nhớ ra để đề nghị.",
+      "plain": "Nếu nghi ngờ nguyên nhân tử vong, phải đề nghị khám nghiệm trong 48 giờ sau khi người đó mất. Bệnh viện có điều kiện bảo quản đông lạnh thì có thể kéo dài đến 7 ngày. Khám nghiệm còn cần thân nhân gần gũi ký đồng ý. Không ký hoặc trì hoãn quá hạn làm nguyên nhân không thể xác định thì bên trì hoãn chịu trách nhiệm. Cùng lúc đề nghị khám nghiệm, yêu cầu niêm phong bệnh án. Đã hỏa táng thì không thể khám nghiệm nữa.",
+      "benefit": "Thời hạn khám nghiệm tử thi ghi tại Điều hai mươi sáu Điều lệ phòng ngừa và xử lý tranh chấp y tế. Nguyên văn: «Khi người bệnh tử vong và hai bên cơ sở y tế, người bệnh có bất đồng về nguyên nhân, phải khám nghiệm tử thi trong 48 giờ sau khi chết; nếu có điều kiện bảo quản thi hài đông lạnh, có thể kéo dài đến 7 ngày». Vì vậy muốn làm rõ nguyên nhân phải khám nghiệm trong 48 giờ; bệnh viện có bảo quản đông lạnh thì tối đa 7 ngày. Cùng điều này còn ghi: «Khám nghiệm phải được thân nhân gần gũi của người chết đồng ý và ký tên; từ chối ký được coi là không đồng ý khám nghiệm». Gia đình không ký tức là không đồng ý. Còn có quy định: «Bên không đồng ý hoặc trì hoãn khám nghiệm quá thời hạn quy định, gây ảnh hưởng đến việc xác định nguyên nhân tử vong, phải chịu trách nhiệm». Ai không đồng ý hoặc trì hoãn quá hạn thì chịu trách nhiệm nếu sau này không làm rõ được nguyên nhân. Điều hai mươi bốn: niêm phong và mở niêm phong hồ sơ bệnh án «phải có mặt cả phía cơ sở y tế và phía người bệnh». Khi đóng và mở niêm phong, bạn và bệnh viện đều phải có mặt",
+      "grade": "A",
+      "sources": "国务院 (2018). 医疗纠纷预防和处理条例（国务院令第 701 号，第二十四、二十六条）. <https://www.gov.cn/zhengce/content/2018-08/31/content_5318057.htm>",
+      "notes": "Qua thời hạn này mới nói «ngay từ đầu đã thấy có vấn đề» thì trách nhiệm lại thuộc về bên trì hoãn. Hỏa táng xong không thể khám nghiệm tử thi nữa, nên cần quyết định trước khi liên hệ nhà tang lễ. Cách niêm phong bệnh án xem chương 24."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

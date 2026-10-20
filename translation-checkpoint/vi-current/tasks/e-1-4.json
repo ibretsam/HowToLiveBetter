@@ -1,0 +1,48 @@
+{
+  "id": "e-1-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "d69426f90d24a44aed28261ea0e6ecc261c73fa8268ea47e67fbb96bca651e94",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "燃气软管和灶具到期就换，不自己改管道，燃气公司上门推销可以直接拒绝",
+    "fields": {
+      "cost": "一根合规的燃气软管几十元。灶具几年换一次。换的时候顺手看一眼有没有过期。",
+      "plain": "软管和灶具到期就换，这是《城镇燃气管理条例》写明的用户义务。自己改管道、拆燃气表是条例明令禁止的。同一部条例还写了，燃气公司不能要求你买它指定的产品和服务。上门说「必须换」的推销，可以直接拒绝。",
+      "benefit": "条例把「及时更换国家明令淘汰或者使用年限已届满的燃气燃烧器具、连接管」写成了用户的义务：灶具和软管到了年限或者被国家淘汰了，你就要换。条例还把「擅自安装、改装、拆除户内燃气设施和燃气计量装置」列为禁止行为，自己动手改管道、拆燃气表都在里面。条例同时明确，燃气经营者不得要求用户购买它指定的产品，也不得要求用户接受它提供的服务",
+      "grade": "C",
+      "sources": "国务院 (2010). 城镇燃气管理条例（国务院令第 583 号）第二十七条：「燃气用户应当遵守安全用气规则，使用合格的燃气燃烧器具和气瓶，及时更换国家明令淘汰或者使用年限已届满的燃气燃烧器具、连接管等」；第二十八条禁止行为含「（一）擅自操作公用燃气阀门」「（二）将燃气管道作为负重支架或者接地引线」「（四）擅自安装、改装、拆除户内燃气设施和燃气计量装置」；第二十条燃气经营者不得「（六）要求燃气用户购买其指定的产品或者接受其提供的服务」；第二十九条用户可就收费、服务向燃气管理等部门投诉，「有关部门应当自收到投诉之日起15个工作日内予以处理」. <http://www.gov.cn/gongbao/content/2010/content_1758214.htm>；深圳市住房和建设局 (2024). 安全用气小知识（二）：「立即关闭家里的燃气总阀门」「迅速开门、开窗进行通风」「一定不要开、关家里的电灯、抽油烟机等电器」「人员应该迅速撤离，转移到安全的地方，并且及时拨打燃气公司的报警电话」. <https://zjj.sz.gov.cn/zcjzts/content/post_11882410.html>；张家港市应急管理局 (2024). 燃气安全使用知识：「不要情急之下打开排气扇进行通风」「应远离现场之后才能打电话求助」. <https://www.zjg.gov.cn/zjgszwz/yjaqzs/202411/72b4fad7399c48378302460c6ce2d55b.shtml>；市场监管总局 (2023). 燃气器具产品质量安全风险提示（鄂州市城建委转载）：「鼓励用户安装使用燃气智能表、燃气泄漏安全保护装置、自闭阀、独立式感烟火灾探测器、可燃气体探测报警器等保护装置」. <https://cjw.ezhou.gov.cn/zxzx/gzdt/202308/t20230821_569108.html>",
+      "notes": "条例原文能逐字核对，但它只说明到期换管是你的义务，不说明换了能少出多少事故。按年限换管能把燃气事故降多少，没找到官方统计数字，所以只给 C 级。上门安检的人要你买他指定的自闭阀、报警器，你可以拒绝，也可以投诉，因为条例第二十条第六项不许燃气公司这样要求。自闭阀和报警器本身是市场监管总局鼓励装的，要装就自己挑合格的产品。闻到燃气味，先关燃气总阀，瓶装气关钢瓶阀门。再开门开窗通风，别开排气扇。电灯、抽油烟机这些电器一律别开也别关，打火机也别碰。然后人撤出去，离开现场再打燃气公司的报警电话。一氧化碳中毒是另一件事，见第 13 节。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Ống mềm, bếp khí đốt hết hạn thì thay; không tự sửa đường ống, có thể từ chối công ty khí đốt chào bán tận nhà",
+    "fields": {
+      "cost": "Một ống mềm đúng chuẩn giá vài chục nhân dân tệ. Bếp thay sau vài năm. Khi thay tiện xem đã quá hạn chưa.",
+      "plain": "Ống mềm đúng chuẩn chỉ vài chục nhân dân tệ. Thay khi hết hạn là nghĩa vụ người dùng ghi trong «Điều lệ quản lý khí đốt đô thị». Tự sửa đường ống, tháo đồng hồ bị cấm rõ. Cùng điều lệ còn quy định công ty không được yêu cầu bạn mua sản phẩm, dịch vụ họ chỉ định. Người đến bán hàng nói «bắt buộc thay» thì bạn có thể từ chối.",
+      "benefit": "Điều lệ đặt nghĩa vụ «kịp thời thay thiết bị đốt khí, ống nối bị nhà nước loại bỏ hoặc hết niên hạn»: bếp và ống đến hạn hoặc bị loại thì phải thay. Cũng cấm «tự ý lắp, sửa, tháo thiết bị khí đốt và thiết bị đo trong nhà», bao gồm tự sửa ống, tháo đồng hồ. Đồng thời doanh nghiệp khí đốt không được yêu cầu người dùng mua sản phẩm chỉ định hoặc sử dụng dịch vụ của họ",
+      "grade": "C",
+      "sources": "国务院 (2010). 城镇燃气管理条例（国务院令第 583 号）第二十七条：「燃气用户应当遵守安全用气规则，使用合格的燃气燃烧器具和气瓶，及时更换国家明令淘汰或者使用年限已届满的燃气燃烧器具、连接管等」；第二十八条禁止行为含「（一）擅自操作公用燃气阀门」「（二）将燃气管道作为负重支架或者接地引线」「（四）擅自安装、改装、拆除户内燃气设施和燃气计量装置」；第二十条燃气经营者不得「（六）要求燃气用户购买其指定的产品或者接受其提供的服务」；第二十九条用户可就收费、服务向燃气管理等部门投诉，「有关部门应当自收到投诉之日起15个工作日内予以处理」. <http://www.gov.cn/gongbao/content/2010/content_1758214.htm>；深圳市住房和建设局 (2024). 安全用气小知识（二）：「立即关闭家里的燃气总阀门」「迅速开门、开窗进行通风」「一定不要开、关家里的电灯、抽油烟机等电器」「人员应该迅速撤离，转移到安全的地方，并且及时拨打燃气公司的报警电话」. <https://zjj.sz.gov.cn/zcjzts/content/post_11882410.html>；张家港市应急管理局 (2024). 燃气安全使用知识：「不要情急之下打开排气扇进行通风」「应远离现场之后才能打电话求助」. <https://www.zjg.gov.cn/zjgszwz/yjaqzs/202411/72b4fad7399c48378302460c6ce2d55b.shtml>",
+      "notes": "Nguyên văn đối chiếu được từng chữ, nhưng chỉ nói nghĩa vụ thay khi hết hạn, không cho biết giảm bao nhiêu tai nạn. Chưa tìm được thống kê chính thức về mức giảm nhờ thay theo niên hạn nên chỉ xếp C. Có người lấy danh «kiểm tra an toàn» rồi chào van tự đóng, máy báo. Khoản sáu Điều hai mươi cấm công ty ép mua sản phẩm chỉ định; bạn được từ chối, khiếu nại. Ngửi mùi khí thì đóng van tổng trước; bình khí thì đóng van bình. Mở cửa thông gió, đừng bật quạt hút. Không bật hoặc tắt đèn, máy hút mùi hay thiết bị điện khác; đừng dùng bật lửa. Rời hiện trường rồi mới gọi số báo sự cố công ty khí đốt. Ngộ độc carbon monoxide là chuyện khác, xem chương 13."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

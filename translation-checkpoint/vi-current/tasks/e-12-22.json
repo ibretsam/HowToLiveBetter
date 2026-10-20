@@ -1,0 +1,48 @@
+{
+  "id": "e-12-22",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "d00d905afd4c37ef7b990692f15580cef21678033d865e8d55de3441164e36d0",
+  "status": "outdated",
+  "original": {
+    "number": 22,
+    "title": "在岗位上按规程办事，规程之外的好意先想清楚责任归谁",
+    "fields": {
+      "cost": "不花钱。上班做事按制度、按医嘱、按流程走。不在自己的权限之外替人做决定。想帮忙之前，先问自己一句：出了事谁负责。难的是当场顶住「通融一下」的请求。",
+      "plain": "以护士为例：条例写明，发现病人病情危急，要立即通知医师；发现医嘱违反规定，要向开医嘱的医师提出。别的岗位也一样，先看清自己这份规程把「必须上报」划在哪儿。另外，自愿出手紧急救助，把被救的人弄伤了，不用赔钱。",
+      "benefit": "以护士为例，法规写明的职务边界是这样的。发现病情危急，立即通知医师。紧急情况下为抢救垂危患者，可以先行实施必要的紧急救护。发现医嘱违法违规，或者违反诊疗技术规范的，要向医师提出，必要时向科室负责人报告。民法典另有规定。自愿出手做紧急救助，结果把被救的人弄伤了的，救人的一方不用赔钱（不承担民事责任）（全国）",
+      "grade": "B",
+      "sources": "国务院 (2008). 护士条例（国务院令第 517 号，第十七条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6169.htm>；国务院 (2020). 护士条例（2020 年修订，第十七条）. <https://flk.npc.gov.cn/detail?id=ff808081777d07c50177b8ed29bf3950>（国家法律法规数据库）；全国人大 (2020). 民法典（第一百八十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "岗位之内按规程办，紧急救人受法律保护。其余的事，先分清是谁的权限、谁的责任，别用私人的好意代替制度上的决定。护士条例 2020 年经国务院令第 726 号修订，只改了注册那几条，第十七条一字未动。医师法里关于按诊疗规范执业的条款，本次未能打开官方原文，所以没有引用。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 22,
+    "title": "Làm việc đúng quy trình của vị trí; muốn giúp ngoài quy trình thì nghĩ rõ ai chịu trách nhiệm trước",
+    "fields": {
+      "cost": "Không tốn tiền. Làm theo quy chế, y lệnh, quy trình; không quyết thay người khác ngoài thẩm quyền. Trước khi giúp, tự hỏi xảy ra chuyện ai chịu trách nhiệm. Điều khó là chịu được yêu cầu “linh động một chút” ngay tại chỗ.",
+      "plain": "Ví dụ điều dưỡng: quy định nói phát hiện bệnh nguy kịch phải báo bác sĩ ngay; thấy y lệnh trái quy định phải nêu với bác sĩ ra y lệnh. Vị trí khác cũng vậy, xác định quy trình đặt ranh giới “bắt buộc báo cáo” ở đâu. Luật cũng không yêu cầu thấy chết mà bỏ: tự nguyện cứu khẩn cấp, làm người được cứu bị thương thì không phải bồi thường.",
+      "benefit": "Ví dụ điều dưỡng, ranh giới công việc trong quy định như sau: phát hiện bệnh nguy kịch phải báo bác sĩ ngay; tình huống khẩn cấp cứu bệnh nhân hấp hối có thể thực hiện trước biện pháp cấp cứu cần thiết. Phát hiện y lệnh trái luật, quy định hoặc quy chuẩn kỹ thuật khám chữa bệnh phải nêu với bác sĩ, khi cần báo trưởng khoa. Bộ luật Dân sự còn quy định người tự nguyện cứu khẩn cấp, gây thương tích cho người được cứu thì không chịu trách nhiệm dân sự, không phải bồi thường (toàn quốc).",
+      "grade": "B",
+      "sources": "国务院 (2008). 护士条例（国务院令第 517 号，第十七条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6169.htm>；国务院 (2020). 护士条例（2020 年修订，第十七条）. <https://flk.npc.gov.cn/detail?id=ff808081777d07c50177b8ed29bf3950>（国家法律法规数据库）；全国人大 (2020). 民法典（第一百八十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "Trong công việc hãy theo quy trình; cứu khẩn cấp được pháp luật bảo vệ. Việc khác cần phân rõ thẩm quyền, trách nhiệm, đừng dùng lòng tốt riêng thay quyết định theo quy chế. Nghị định Điều dưỡng được sửa năm 2020 bằng Lệnh Quốc vụ viện số 726, chỉ sửa các điều đăng ký, Điều mười bảy không đổi chữ nào. Lần này chưa mở được bản chính thức các điều Luật Bác sĩ về hành nghề theo quy chuẩn nên không dẫn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

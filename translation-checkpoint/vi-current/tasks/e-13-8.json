@@ -1,0 +1,48 @@
+{
+  "id": "e-13-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "e0603907564c8b3a9851696c85db029780cea9934ac79931a9112e20fcae260f",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "突然像被撕开一样的剧痛，从胸口往后背、往腰一路挪，打 120 并说清「像撕开一样」",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "撕裂一样的剧痛从胸口往后背、往腰一路挪，打 120 时直接说「像撕开一样，疼在往下走」。A 型夹层不手术、光吃药的，住院死亡率 58%。它和心梗的处理不一样，医生先想到它才会去查。两条胳膊血压差很多、一侧摸不到脉，也说出来。",
+      "benefit": "国际急性主动脉夹层登记（IRAD）收了 12 家中心的 464 例。主动脉夹层就是胸背撕裂样剧痛那种病。病人最先说出来的症状里，最常见的是突然发作的剧烈锐痛。但表现五花八门，一侧摸不到脉这类典型体征只在 15.1% 的人身上出现。住院期间总死亡率 27.4%。A 型夹层没做手术、只吃药的，死亡率 58%。美国心脏协会和美国心脏病学会 2022 年的主动脉病指南，用一张评分表判断夹层的可能性。高危情况是马凡综合征这类结缔组织病、家里有人得过主动脉病、已知有胸主动脉瘤等。高危的疼法是胸、背或腹部疼，突然发作、非常剧烈、像撕裂一样。高危的体征是一侧摸不到脉，或者两条胳膊的收缩压（高压）差得多。指南还写明，血压控制不好是主动脉破裂和夹层的已知危险因素",
+      "grade": "B",
+      "sources": "Hagan PG, Nienaber CA, Isselbacher EM, et al. (2000). The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. JAMA, 283(7), 897-903. <https://doi.org/10.1001/jama.283.7.897>；Isselbacher EM, Preventza O, Hamilton Black J, et al. (2022). 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation, 146(24), e334-e482，表 24（ADD-RS）：「Marfan syndrome or other connective tissue disease」「Family history of aortic disease」「Ripping or tearing in quality」「Pulse deficit or systolic blood pressure differential」；「Uncontrolled hypertension is a known risk factor for aortic rupture and dissection」. <https://doi.org/10.1161/CIR.0000000000001106>",
+      "notes": "到医院要主动说「撕裂样，疼在往下走」，让医生想到夹层、去做增强 CT。心梗常用抗凝、溶栓这类让血别凝住的药。作者推断，这类药用在夹层上会加重出血，所以要让医生先把夹层排除掉。两条胳膊血压差很多、一侧摸不到脉搏，是提示。血压控制不好的、有马凡综合征的、家里得过主动脉病的，风险高。同样不要自己开车，不要忍到第二天"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Đột ngột đau dữ dội như bị xé, di chuyển từ ngực ra lưng xuống eo, gọi 120 và nói rõ “cơn đau đang di chuyển”",
+    "fields": {
+      "cost": "Không tốn tiền.",
+      "plain": "Đau dữ dội như xé từ ngực ra lưng xuống eo, khi gọi 120 hãy nói “như bị xé, đau đang đi xuống”. Bệnh này chỉ dùng thuốc không mổ có tỷ lệ chết 58%. Xử lý ngược với nhồi máu cơ tim: bác sĩ nghĩ tới mới chụp CT có cản quang thay vì dùng chống đông, tiêu sợi huyết. Hai tay chênh huyết áp lớn hoặc một bên không bắt được mạch cũng phải nói.",
+      "benefit": "Đăng ký quốc tế bóc tách động mạch chủ cấp (IRAD) thu 464 ca từ 12 trung tâm. Bóc tách động mạch chủ là bệnh gây đau ngực lưng như xé. Triệu chứng đầu tiên được kể phổ biến nhất là đau sắc, dữ dội khởi phát đột ngột. Tỷ lệ chết chung trong viện 27.4%. Bóc tách loại A không mổ, chỉ dùng thuốc có tỷ lệ chết 58%.",
+      "grade": "B",
+      "sources": "Hagan PG, Nienaber CA, Isselbacher EM, et al. (2000). The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. JAMA, 283(7), 897-903. <https://doi.org/10.1001/jama.283.7.897>",
+      "notes": "Xử lý bóc tách ngược với nhồi máu cơ tim. Nhồi máu dùng thuốc chống đông, tiêu sợi huyết để máu không đông; dùng cho bóc tách giống làm vết rách chảy máu thêm. Vì vậy đến viện chủ động nói “đau như xé, đang đi xuống” để bác sĩ nghĩ đến CT cản quang. Hai tay chênh huyết áp lớn, một bên không bắt được mạch là dấu gợi ý. Kiểm soát huyết áp kém, hội chứng Marfan, gia đình có phình hoặc bóc tách động mạch chủ là nguy cơ cao. Cũng không tự lái, không chịu đến hôm sau."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-10-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "ac82b73c27d1f1b5a09dc92260193aa61e80791555e1b27f79b9d939e57cf181",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "婚前做一次婚检，有重大疾病必须在登记前如实告诉对方",
+    "fields": {
+      "cost": "多数地区对适龄人群免费或者减免。自费也就几百元。要花半天时间。",
+      "plain": "有重大疾病，没在登记前如实告诉对方，对方可以去法院请求撤销这段婚姻。要在知道之日起一年内提出。婚检本身从 2003 年起就不是领证的前置条件，去不去自愿。费用看本地政策，花半天。",
+      "benefit": "隐瞒的法律后果是明确的。新婚姻登记条例规定「一方当事人患有重大疾病的，应当在结婚登记前如实告知另一方当事人；不如实告知的，另一方当事人可以依据民法典第一千零五十三条的规定向人民法院请求撤销婚姻」。国家把婚检当作出生缺陷防治的第一道关口。现行目标是「婚前医学检查率、孕前优生健康检查目标人群覆盖率分别保持在 70% 和 80% 以上」。文件还要求「推进婚前医学检查机构与婚姻登记场所就近设置方便群众」。文件还推广「婚姻登记、婚前医学检查、生育指导『一站式』服务」。民法典规定，一方患有重大疾病的应当在结婚登记前如实告知，不如实告知的，另一方可以向人民法院请求撤销婚姻。请求撤销婚姻的，应当自知道或者应当知道撤销事由之日起一年内提出。婚检不是领证的前置条件。泰安市卫健委 2022 年答复政协提案时写明：「2003年《婚姻登记条例》在取消『强制婚检』的同时，明确要求婚姻登记机关办理婚姻登记不得附加其他义务」。现行条例第八条列的结婚登记材料里，也没有婚检证明",
+      "grade": "B",
+      "sources": "全国人大 (2020). 民法典（第一千零五十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院 (2025). 婚姻登记条例（国令第 804 号，第八、十二条）. <https://www.gov.cn/zhengce/zhengceku/202504/content_7017752.htm>；国家卫生健康委办公厅 (2023). 出生缺陷防治能力提升计划（2023—2027 年）（国卫办妇幼发〔2023〕9 号）. <https://www.gov.cn/zhengce/zhengceku/202308/content_6900320.htm>；国家卫生健康委等五部门 (2020). 关于加强婚前保健工作的通知（国卫妇幼函〔2020〕205 号）：「积极倡导各地结合实际推行免费婚前检查」. <https://www.gov.cn/zhengce/zhengceku/2020-05/22/content_5513902.htm>；泰安市卫生健康委员会 (2022). 《关于婚前医学检查管理的建议》的答复（市政协十四届一次会议第 188 号）. <http://www.taian.gov.cn/art/2022/7/8/art_176934_24592.html>",
+      "notes": "婚检自 2003 年起就不是领证必须先做的一步，去不去自愿。但「有重大疾病不如实说」这一条，确实给了对方去法院撤销这段婚姻的权利，要在知道之日起一年内提。全国没有统一规定婚检免费。国家卫健委等五部门 2020 年的通知只写了「积极倡导各地结合实际推行免费婚前检查」。所以是否免费、查哪些项目由各地自己定，去当地妇幼保健机构或婚姻登记处的一站式窗口问。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Khám tiền hôn nhân một lần; có bệnh nghiêm trọng phải nói thật trước đăng ký",
+    "fields": {
+      "cost": "Đa số nơi miễn hoặc giảm cho người đúng tuổi; tự trả cũng vài trăm nhân dân tệ. Mất nửa ngày.",
+      "plain": "Có bệnh nghiêm trọng không nói thật trước đăng ký, đối phương được xin tòa hủy hôn nhân, trong một năm từ khi biết. Khám tiền hôn nhân từ năm 2003 không còn là điều kiện đăng ký, tự nguyện đi hay không. Phí theo địa phương, mất nửa ngày.",
+      "benefit": "Hậu quả giấu bệnh rõ ràng. Điều lệ mới quy định “một bên có bệnh nghiêm trọng phải nói thật trước đăng ký; không nói, bên kia có thể theo Điều một nghìn không trăm năm mươi ba Bộ luật Dân sự yêu cầu tòa hủy hôn nhân”. Nhà nước coi khám tiền hôn nhân là cửa đầu phòng dị tật bẩm sinh. Mục tiêu hiện hành “tỷ lệ khám tiền hôn nhân, bao phủ đối tượng khám sức khỏe sinh sản trước mang thai lần lượt duy trì ở mức từ 70% và từ 80% trở lên”. Văn bản yêu cầu “bố trí cơ sở khám gần nơi đăng ký để tiện dân”, quảng bá “dịch vụ một cửa đăng ký, khám tiền hôn nhân, hướng dẫn sinh sản”. Bộ luật Dân sự yêu cầu người bệnh nghiêm trọng nói thật trước đăng ký; không nói, bên kia được xin tòa hủy. Yêu cầu trong một năm từ biết hoặc phải biết căn cứ hủy.",
+      "grade": "B",
+      "sources": "全国人大 (2020). 民法典（第一千零五十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院 (2025). 婚姻登记条例（国令第 804 号，第十二条）. <https://www.gov.cn/zhengce/zhengceku/202504/content_7017752.htm>；国家卫生健康委办公厅 (2023). 出生缺陷防治能力提升计划（2023—2027 年）（国卫办妇幼发〔2023〕9 号）. <https://www.gov.cn/zhengce/zhengceku/202308/content_6900320.htm>；国家卫生健康委等五部门 (2020). 关于加强婚前保健工作的通知（国卫妇幼函〔2020〕205 号）：「积极倡导各地结合实际推行免费婚前检查」. <https://www.gov.cn/zhengce/zhengceku/2020-05/22/content_5513902.htm>",
+      "notes": "Khám tiền hôn nhân từ năm 2003 không còn bắt buộc trước đăng ký, tự nguyện đi hay không. Nhưng “có bệnh nghiêm trọng không nói thật” thực sự cho đối phương quyền xin tòa hủy hôn nhân, trong một năm từ khi biết. Không có quy định toàn quốc miễn phí khám. Thông báo năm 2020 của Ủy ban Y tế quốc gia và năm cơ quan chỉ ghi “tích cực khuyến khích địa phương căn cứ thực tế triển khai khám tiền hôn nhân miễn phí”. Vì vậy miễn không, khám gì do địa phương định; hỏi cơ sở chăm sóc sức khỏe bà mẹ trẻ em địa phương hoặc quầy một cửa đăng ký hôn nhân."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

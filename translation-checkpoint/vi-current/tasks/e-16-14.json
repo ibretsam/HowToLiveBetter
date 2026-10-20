@@ -1,0 +1,29 @@
+{
+  "id": "e-16-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "eb12b089ed6fa23d466464a2b874068fc7d530ee55e65da5b34de38dfd0c8360",
+  "status": "pending",
+  "original": {
+    "number": 14,
+    "title": "结肠癌做完手术和化疗的，参加有人指导的运动方案，坚持练满三年",
+    "fields": {
+      "cost": "走路这类运动不花钱。找医院的康复科或运动处方门诊做体能评估、开运动方案，要挂号费和检查费，请私人教练另算。每周要多花几个小时运动，还要坚持三年。练的人肌肉、关节受伤的多一些。",
+      "plain": "结肠癌做完手术和化疗以后，参加三年有人指导的运动方案的人，复发、长新癌或死亡的可能低约 28%，死亡低约 37%。8 年后还活着的，练的人约九成，只拿宣传材料的约八成三。练的人肌肉、关节受伤的多一些。",
+      "benefit": "一项在 55 个中心做的随机分组试验（CHALLENGE），收了 889 名结肠癌病人。他们都做完了手术和辅助化疗，属于高危 II 期或 III 期，入组时没有转移。化疗结束后 2 到 6 个月入组，入组前每周运动不到 150 分钟。445 人参加三年的运动方案，444 人只拿健康宣传材料。运动方案前 6 个月，每两周见一次运动指导员，谈怎么坚持，还要在指导员看着下练一次。6 到 12 个月改成面谈或电话，之后到第 3 年只留最少的支持。目标是比原来每周多出 10 个代谢当量小时（衡量运动量的单位）的运动，中等强度以上的运动都算，方案预计多数人会选走路。一年时，运动组每周的休闲运动量多了 15.6 个代谢当量小时，对照组多了 5.1。中位跟踪 7.9 年。复发、长新癌或死亡，运动组比对照组低约 28%，HR 0.72（95% CI 0.55–0.94）。5 年时没出这些事的，80.3% 对 73.9%。死亡低约 37%，HR 0.63（0.43–0.94）。8 年还活着的，90.3% 对 83.2%。肌肉骨骼方面的不良事件，18.5% 对 11.5%。同一试验的费用分析按加拿大公费医疗算，运动方案每人先花 2917 加元，但复发少了，5 年总费用反而每人少 1589 加元",
+      "grade": "A",
+      "sources": "Courneya KS, Vardy JL, O'Callaghan CJ, et al.; CHALLENGE Investigators (2025). Structured Exercise after Adjuvant Chemotherapy for Colon Cancer. New England Journal of Medicine, 393(1), 13-25. <https://doi.org/10.1056/NEJMoa2502760>；ClinicalTrials.gov NCT00819208. Colon Health and Life-Long Exercise Change Trial（试验方案与入组条件）. <https://clinicaltrials.gov/study/NCT00819208>；Courneya KS, Vardy JL, O'Callaghan CJ, et al. (2016). Effects of a Structured Exercise Program on Physical Activity and Fitness in Colon Cancer Survivors: One Year Feasibility Results from the CHALLENGE Trial. Cancer Epidemiology, Biomarkers & Prevention, 25(6), 969-977. <https://doi.org/10.1158/1055-9965.EPI-15-1267>；Chan KKW, Chu RWK, Cheung MC, et al.; CHALLENGE Investigators (2026). Structured Exercise Program After Adjuvant Chemotherapy for Colon Cancer: A Cost-Utility Analysis of the CHALLENGE Trial. Journal of Clinical Oncology, 44(22), 2130-2139. <https://doi.org/10.1200/JCO-26-00765>",
+      "notes": "试验只收结肠癌，不收直肠癌，也只收手术切干净、做完化疗、没转移的人。所以不能直接套到别的癌症和晚期病人身上。主要结果是复发、长新癌或死亡。总死亡是次要结果，作者的说法是「和活得更长相符」，没有把它当成定论。国内没有现成的同款项目，可以请肿瘤科或康复医学科开运动处方。开练前先做体能评估，试验里每人入组前都做了运动测试。走路的量怎么算，见第 2 节第 11 条（每天走到 7000–8000 步）。力量训练见第 2 节第 16 条（力量训练）。受益人主要是你自己。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

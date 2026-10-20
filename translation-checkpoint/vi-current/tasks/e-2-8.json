@@ -1,0 +1,48 @@
+{
+  "id": "e-2-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "ac18bacf3744fbb9af6d96c4ffdcad05e9cfa349549907948ad0e6c1d6e53775",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "不嚼槟榔",
+    "fields": {
+      "cost": "不花钱，也不占时间，还省下买槟榔的钱。难在要戒掉嚼的习惯。",
+      "plain": "嚼槟榔的人，同期死亡的概率比不嚼的人高约两成。糖尿病和代谢综合征的风险高约五成。口腔癌和食管癌的风险还要另算。",
+      "benefit": "把 17 项亚洲研究、38.8 万人合起来算。嚼槟榔的人死亡风险比不嚼的人高约 21%（相对风险 1.21，P=0.02）。死亡这一项算的是其中的 17.96 万人。得糖尿病的风险高约 47%（1.47）。得代谢综合征的风险高约 51%（1.51）。槟榔本身也是口腔癌和食管癌的已知危险因素。口腔癌：50 篇研究合起来算，在印度次大陆，嚼不加烟草的槟榔，口腔和口咽癌风险约是不嚼的 2.56 倍（95% CI 2.00–3.28）。加了烟草的约 7.74 倍（5.38–11.13）。台湾嚼不加烟草的槟榔约 10.98 倍（4.86–24.84）。在印度和台湾，每天嚼得越多、嚼的年头越长，风险越高。食管癌：12 项亚洲研究合起来算，嚼槟榔的人食管鳞癌风险约是不嚼的 3.05 倍（2.41–3.87）。又嚼槟榔又吸烟的约 6.79 倍（4.71–9.79）。戒掉以后：13 项研究合起来算，戒了加烟草槟榔的人，头颈部癌风险比还在嚼的低约 34%（RR 0.66，0.54–0.81）。戒了不加烟草的低约 27%（RR 0.73，0.56–0.95）。戒满 20 年以上的低约 63%（RR 0.37，0.22–0.61）。",
+      "grade": "A",
+      "sources": "Yamada T, Hara K, Kadowaki T (2013). Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. PLoS One, 8(8), e70679. <https://doi.org/10.1371/journal.pone.0070679>；Guha N, Warnakulasuriya S, Vlaanderen J, Straif K (2014). Betel quid chewing and the risk of oral and oropharyngeal cancers: a meta-analysis with implications for cancer control. International Journal of Cancer, 135(6), 1433-1443. <https://doi.org/10.1002/ijc.28643>；Akhtar S (2013). Areca nut chewing and esophageal squamous-cell carcinoma risk in Asians: a meta-analysis of case-control studies. Cancer Causes & Control, 24(2), 257-265. <https://doi.org/10.1007/s10552-012-0113-9>；Shah K, Boffetta P, Seyyedsalehi MS (2025). Reversal of head and neck cancer risk after the cessation of use of smokeless tobacco and betel quid use: meta-analysis. Cancer Epidemiology, Biomarkers & Prevention, 34(5), 619-626. <https://doi.org/10.1158/1055-9965.EPI-24-1502>",
+      "notes": "嚼的年头越长、每天嚼得越多，口腔癌风险越高。戒了以后，风险会随时间往下走。在印度的研究里，加了烟草的槟榔比不加的更危险。台湾嚼的多是不加烟草的，风险也很高。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Không nhai cau",
+    "fields": {
+      "cost": "Không tốn tiền, không mất thời gian, còn tiết kiệm tiền mua cau. Điều khó là bỏ thói quen nhai.",
+      "plain": "Người nhai cau có xác suất tử vong trong cùng thời gian cao hơn khoảng hai phần mười so với người không nhai. Nguy cơ đái tháo đường và hội chứng chuyển hóa cao hơn gần năm phần mười. Nguy cơ ung thư miệng, thực quản còn phải tính riêng.",
+      "benefit": "Gộp 17 nghiên cứu châu Á với 38.8 vạn người cho thấy người nhai cau có nguy cơ tử vong cao hơn khoảng 21% so với người không nhai (nguy cơ tương đối 1.21, P=0.02). Riêng kết quả tử vong được tính trên 17.96 vạn người trong số đó. Nguy cơ đái tháo đường cao hơn khoảng 47% (1.47), hội chứng chuyển hóa cao hơn khoảng 51% (1.51). Bản thân cau cũng là yếu tố nguy cơ đã biết của ung thư miệng và thực quản.",
+      "grade": "A",
+      "sources": "Yamada T, Hara K, Kadowaki T (2013). Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. PLoS One, 8(8), e70679. <https://doi.org/10.1371/journal.pone.0070679>",
+      "notes": "Nhai càng nhiều năm, lượng mỗi ngày càng lớn thì nguy cơ ung thư miệng càng cao. Sau khi bỏ, nguy cơ giảm dần theo thời gian. Cau có chứa thuốc lá còn nguy hiểm hơn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

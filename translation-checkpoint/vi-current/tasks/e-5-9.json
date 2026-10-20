@@ -1,0 +1,49 @@
+{
+  "id": "e-5-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "4778fa5c7cd126353db7c984c642bc5d8fd9fd5881230bf0f10b437b7c8b2e17",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "孩子用手机充值打赏，八岁以上的大额支出未经家长追认可以主张退",
+    "fields": {
+      "cost": "不花钱。要花时间收集证据、跟平台交涉，平台通常先拒绝、后退款。谈不拢就只能起诉，那是几个月起步的事，律师费要自己出。所以先把材料备齐，走平台和 12315 更划算。难的是孩子不肯说，你得耐着性子问清楚。",
+      "plain": "八岁以上的孩子花的钱，金额和他的年龄、智力不相称的，要家长同意或者事后认账才有效。家长既不同意也不认这笔账，这笔交易就是无效的，可以要求退。不满八岁的孩子，本来就不能自己做主花钱。家长一直不表态，法律上就算作不认这笔账。",
+      "benefit": "八周岁以上的未成年人是限制民事行为能力人，意思是他只能自己做和年龄、智力相称的事。和他年龄、智力不相称的民事法律行为，要经过法定代理人同意或者追认才有效：家长要事先点头，或者事后认账。不满八周岁的孩子是无民事行为能力人，自己做不了主，他的事由法定代理人代他办。法定代理人没有表示的，视为拒绝追认：家长一直不吭声，就算作不认这笔账",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典. 最高人民检察院转载全文. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> 第十九条：「八周岁以上的未成年人为限制民事行为能力人，实施民事法律行为由其法定代理人代理或者经其法定代理人同意、追认；但是，可以独立实施纯获利益的民事法律行为或者与其年龄、智力相适应的民事法律行为。」第二十条：「不满八周岁的未成年人为无民事行为能力人，由其法定代理人代理实施民事法律行为。」第一百四十五条：「限制民事行为能力人实施的纯获利益的民事法律行为或者与其年龄、智力、精神健康状况相适应的民事法律行为有效；实施的其他民事法律行为经法定代理人同意或者追认后有效。」「法定代理人未作表示的，视为拒绝追认。」",
+      "notes": "关键在举证：你要拿出证据，证明操作手机的是孩子，不是你。有用的材料有这几样：充值时间集中在上课时段或者家长上班时段，设备的使用记录，孩子的聊天记录和游戏记录，还有孩子本人的说明。「与年龄智力相适应」没有统一的金额线，几十元的游戏皮肤和几万元的打赏不是一回事。事前防住更省力：给支付方式设免密上限，开启青少年模式，别把支付密码告诉孩子。你自己冲动打赏充值的情况，见本节「不给主播打赏、不给游戏充值、不冲动下单」那条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Trẻ dùng điện thoại nạp tiền, tặng tiền: khoản chi lớn của trẻ từ tám tuổi trở lên chưa được cha mẹ công nhận sau đó có thể yêu cầu hoàn lại",
+    "fields": {
+      "cost": "Không tốn tiền. Phải dành thời gian thu thập chứng cứ và trao đổi với nền tảng; họ thường từ chối trước rồi mới hoàn. Không thương lượng được thì chỉ còn khởi kiện, mất ít nhất vài tháng, tự trả phí luật sư. Vì vậy chuẩn bị đủ hồ sơ rồi làm qua nền tảng và 12315 có lợi hơn. Khó là trẻ không chịu nói, bạn phải kiên nhẫn hỏi rõ.",
+      "plain": "Với tiền trẻ từ tám tuổi trở lên chi, nếu số tiền rõ ràng không tương xứng với tuổi và trí lực, cha mẹ không đồng ý cũng không công nhận sau đó thì giao dịch vô hiệu, có thể đòi hoàn. Trẻ dưới tám tuổi vốn không được tự quyết việc chi tiền. Cha mẹ im lặng suốt thì pháp luật coi là không công nhận khoản chi.",
+      "benefit": "Trẻ vị thành niên từ đủ tám tuổi thuộc nhóm hạn chế năng lực hành vi dân sự: chỉ được tự làm việc phù hợp tuổi và trí lực. Hành vi pháp lý dân sự không phù hợp phải có người đại diện theo pháp luật đồng ý hoặc công nhận sau đó mới có hiệu lực: cha mẹ phải chấp thuận trước hoặc nhận khoản chi sau. Trẻ chưa đủ tám tuổi không có năng lực hành vi dân sự, không thể tự quyết; người đại diện theo pháp luật làm thay. Nếu người đại diện không bày tỏ ý kiến thì coi là từ chối công nhận: cha mẹ cứ im lặng được tính là không nhận khoản chi.",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典. 最高人民检察院转载全文. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> 第十九条：「八周岁以上的未成年人为限制民事行为能力人，实施民事法律行为由其法定代理人代理或者经其法定代理人同意、追认；但是，可以独立实施纯获利益的民事法律行为或者与其年龄、智力相适应的民事法律行为。」第二十条：「不满八周岁的未成年人为无民事行为能力人，由其法定代理人代理实施民事法律行为。」第一百四十五条：「限制民事行为能力人实施的纯获利益的民事法律行为或者与其年龄、智力、精神健康状况相适应的民事法律行为有效；实施的其他民事法律行为经法定代理人同意或者追认后有效。」「法定代理人未作表示的，视为拒绝追认。」",
+      "notes": "Điểm mấu chốt là chứng cứ: bạn phải chứng minh người thao tác điện thoại là trẻ chứ không phải mình. Tài liệu hữu ích gồm thời gian nạp tiền tập trung lúc trẻ đi học hoặc cha mẹ đi làm, lịch sử dùng thiết bị, lịch sử trò chuyện và chơi game của trẻ, cùng lời trình bày của trẻ. “Phù hợp với tuổi và trí lực” không có ngưỡng tiền chung; trang phục game vài chục nhân dân tệ và tặng tiền vài vạn nhân dân tệ là hai chuyện khác nhau. Phòng trước đỡ mất công hơn: đặt hạn mức thanh toán không mật khẩu, bật chế độ thanh thiếu niên, không cho trẻ biết mật khẩu thanh toán. Trường hợp chính bạn bốc đồng tặng tiền hoặc nạp tiền, xem mục “Không tặng tiền cho người phát trực tiếp, không nạp tiền trò chơi, không đặt hàng bốc đồng” trong chương này."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

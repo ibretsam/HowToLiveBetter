@@ -1,0 +1,48 @@
+{
+  "id": "e-8-21",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "6192c95080f0418744672cd7b06c4cf1645f5e138578566dc3d4c92b210b6f02",
+  "status": "outdated",
+  "original": {
+    "number": 21,
+    "title": "被限制消费或者被列入失信名单，先查清是按哪一条纳入的，能纠正的申请纠正",
+    "fields": {
+      "cost": "不花钱。去执行法院查清自己是按哪一项纳入的。准备好已经还了钱、已经照判决做了的凭据（履行凭证），或者准备担保材料。生活、经营必需的那笔消费，要一次一申请。难在得自己一趟趟跑、一次次申请。",
+      "plain": "先弄清自己是被限制消费，还是进了失信名单，这是两件事。失信名单只有六种情形能纳入，期限 2 年，已经履行完毕的要在 3 个工作日内删除。限高禁九类消费，坐 G 字头高铁也算，生活或者经营必需的可以一次一申请。",
+      "benefit": "纳入失信名单只有六种情形。一是有履行能力而拒不履行。二是以伪造证据、暴力威胁妨碍抗拒执行。三是以虚假诉讼、虚假仲裁或者隐匿转移财产规避执行。四是违反财产报告制度。五是违反限制消费令。六是无正当理由拒不履行执行和解协议。提供了充分有效的担保，或者被查封扣押冻结的财产够还债的，不得按第一项（有履行能力而拒不履行）纳入。被执行人是未成年人的，不得纳入。纳入的期限是 2 年。以暴力威胁妨碍抗拒执行、情节严重的，或者有多项失信行为的，可以延长 1 到 3 年。已经履行完毕、和解协议已经履行完毕、法院裁定终结执行等七种情形，法院应当在 3 个工作日内删除。积极履行或者主动纠正失信行为的，还可以提前删除。被限制消费的个人不能做九类高消费，也不能做生活和工作不必需的消费。一是坐飞机、列车软卧、轮船二等以上舱位。二是在星级以上宾馆、酒店、夜总会、高尔夫球场高消费。三是买不动产，或者新建、扩建、高档装修房屋。四是租高档写字楼、宾馆、公寓办公。五是买非经营必需的车辆。六是旅游、度假。七是子女就读高收费私立学校。八是花高额保费买保险理财产品。九是坐 G 字头动车组列车的任何座位，或者其他动车组列车一等以上座位。因为生活或者经营必需要做其中一项的，应当向法院申请，获得批准才能做。提供确实有效的担保，或者经申请执行人同意的，法院可以解除限高（全国）",
+      "grade": "A",
+      "sources": "最高人民法院 (2017 修正). 关于公布失信被执行人名单信息的若干规定（第一、二、三、四、十条）. <https://www.court.gov.cn/fabu/xiangqing/37182.html>；最高人民法院 (2015 修正). 关于限制被执行人高消费及有关消费的若干规定（法释〔2015〕17 号，第三、八、九条）：「（九）乘坐G字头动车组列车全部座位、其他动车组列车一等以上座位等其他非生活和工作必需的消费行为」. <https://www.court.gov.cn/fabu/xiangqing/15046.html>",
+      "notes": "限高就是限制高消费。这个规定 2010 年出台，2015 年经法释〔2015〕17 号修改。名称改成了《……及有关消费的若干规定》，本条按修改后的现行文本写。2015 年这次改动有三处要紧。它加了第九类，高铁全部座位都算。它删掉了「以其财产支付」这层限定，原来写的是「不得有以下以其财产支付费用的行为」。它还规定，单位被限制消费的，实际控制人也跟着受限，但因私消费、花个人钱的，可以向执行法院申请。失信名单和限制消费是两回事，可能只沾上一样。删出名单之后怎么重来，见第 7 节第 19 条（上过失信名单之后怎么重来）。配偶、子女花自己挣的钱受不受限，现行文本没有写明，碰到了去问执行法院。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 21,
+    "title": "Bị hạn chế tiêu dùng hoặc vào danh sách mất tín nhiệm, hãy kiểm tra căn cứ áp dụng trước; có thể sửa sai thì xin sửa",
+    "fields": {
+      "cost": "Không tốn tiền. Đến tòa thi hành án để xác định mình bị đưa vào theo trường hợp nào. Chuẩn bị chứng từ đã trả tiền, đã làm theo phán quyết (chứng từ thực hiện nghĩa vụ), hoặc tài liệu bảo đảm. Khoản chi cần thiết cho sinh hoạt, kinh doanh phải xin từng lần. Khó ở việc phải tự đi lại và nộp đơn nhiều lần.",
+      "plain": "Trước hết làm rõ mình bị hạn chế tiêu dùng hay vào danh sách mất tín nhiệm; đây là hai việc khác nhau. Chỉ sáu tình huống được đưa vào danh sách, thời hạn 2 năm. Với bảy tình huống như đã hoàn thành nghĩa vụ, tòa phải xóa trong 3 ngày làm việc. Hạn chế tiêu dùng cao cấm chín loại chi tiêu, kể cả tàu cao tốc mã G. Cần cho sinh hoạt hoặc kinh doanh thì có thể xin phép từng lần.",
+      "benefit": "Chỉ sáu tình huống được đưa vào danh sách mất tín nhiệm. Một là có khả năng nhưng từ chối thực hiện. Hai là dùng chứng cứ giả, bạo lực, đe dọa để cản trở hoặc chống thi hành. Ba là dùng kiện giả, trọng tài giả, che giấu hoặc chuyển tài sản để né thi hành. Bốn là vi phạm chế độ báo cáo tài sản. Năm là vi phạm lệnh hạn chế tiêu dùng. Sáu là không có lý do chính đáng mà từ chối thực hiện thỏa thuận hòa giải thi hành án. Đã cung cấp bảo đảm đầy đủ, có hiệu lực, hoặc tài sản bị niêm phong, kê biên, phong tỏa đủ thanh toán thì tòa không được đưa vào theo trường hợp thứ nhất (có khả năng nhưng từ chối). Người phải thi hành án là người chưa thành niên thì không được đưa vào. Thời hạn trong danh sách là 2 năm. Dùng bạo lực, đe dọa cản trở hoặc chống thi hành với tình tiết nghiêm trọng, hoặc có nhiều hành vi mất tín nhiệm, có thể kéo dài 1 đến 3 năm. Với bảy tình huống gồm hoàn thành nghĩa vụ, hoàn thành thỏa thuận hòa giải, tòa quyết định kết thúc thi hành, tòa phải xóa trong 3 ngày làm việc. Tích cực thực hiện hoặc chủ động sửa hành vi mất tín nhiệm còn có thể được xóa sớm. Cá nhân bị hạn chế tiêu dùng không được thực hiện chín nhóm chi tiêu cao cấp và không thiết yếu cho sinh hoạt, công việc. Một là đi máy bay, giường nằm mềm trên tàu hỏa, khoang hạng hai trở lên trên tàu thủy. Hai là chi tiêu cao tại khách sạn được xếp sao trở lên, hộp đêm, sân golf. Ba là mua bất động sản hoặc xây mới, mở rộng, trang trí nhà cao cấp. Bốn là thuê văn phòng, khách sạn, căn hộ cao cấp làm nơi làm việc. Năm là mua xe không thiết yếu cho kinh doanh. Sáu là du lịch, nghỉ dưỡng. Bảy là cho con học trường tư học phí cao. Tám là đóng phí bảo hiểm lớn để mua sản phẩm bảo hiểm đầu tư. Chín là ngồi bất kỳ ghế nào trên tàu cao tốc mã G hoặc ghế hạng nhất trở lên trên các đoàn tàu động lực phân tán khác. Nếu cần một khoản trong số đó cho sinh hoạt hoặc kinh doanh thì phải xin tòa, được duyệt mới làm. Có bảo đảm thực sự có hiệu lực hoặc được người yêu cầu thi hành đồng ý thì tòa có thể dỡ hạn chế tiêu dùng cao (toàn quốc).",
+      "grade": "A",
+      "sources": "最高人民法院 (2017 修正). 关于公布失信被执行人名单信息的若干规定（第一、二、三、四、十条）. <https://www.court.gov.cn/fabu/xiangqing/37182.html>；最高人民法院 (2015 修正). 关于限制被执行人高消费及有关消费的若干规定（法释〔2015〕17 号，第三、八、九条）：「（九）乘坐G字头动车组列车全部座位、其他动车组列车一等以上座位等其他非生活和工作必需的消费行为」. <https://www.court.gov.cn/fabu/xiangqing/15046.html>",
+      "notes": "Hạn chế tiêu dùng cao là hạn chế chi tiêu xa xỉ. Quy định ban hành năm 2010, sửa năm 2015 theo văn bản Giải thích pháp luật〔2015〕17, tên đổi thành “Một số quy định về… và tiêu dùng liên quan”; mục này dựa trên văn bản hiện hành sau sửa đổi. Có ba thay đổi quan trọng năm 2015. Một là thêm nhóm thứ chín, mọi ghế tàu cao tốc đều tính. Hai là bỏ điều kiện “chi trả bằng tài sản của người đó”; bản cũ ghi “không được thực hiện các hành vi sau bằng tài sản của mình”. Ba là đơn vị bị hạn chế thì người kiểm soát thực tế cũng bị hạn chế theo, nhưng chi cá nhân bằng tiền cá nhân thì có thể xin tòa thi hành án. Danh sách mất tín nhiệm và hạn chế tiêu dùng là hai việc khác nhau, có thể chỉ vướng một. Cả hai cũng không đồng nghĩa hồ sơ tín dụng có vết xấu; xóa tên khỏi danh sách không thay đổi hồ sơ tín dụng, xem chương 7 mục 19 (bắt đầu lại sau danh sách mất tín nhiệm). Vợ chồng, con cái tiêu tiền tự kiếm có bị hạn chế không, văn bản hiện hành không nói rõ; gặp trường hợp đó hãy hỏi tòa thi hành án."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

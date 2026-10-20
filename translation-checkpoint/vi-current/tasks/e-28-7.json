@@ -1,0 +1,48 @@
+{
+  "id": "e-28-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "2784f750e6bd3b8dfa6efe079079b407b1fb918367ffe97c64cf780add92997c",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "性激素类药只在医生开方并定期复查的前提下用，不要网购、不要自己加量",
+    "fields": {
+      "cost": "定期挂号，加上抽血复查。一年几百元，占掉几个半天。",
+      "plain": "不讨论该不该用，只讨论怎么用。用雌激素的跨性别女性，血管里长血块的比同龄人明显多，每一千人两年多出约 4 个，八年多出约 17 个。这类风险得靠定期复查盯着，网购药、自己调量就没人替你查。",
+      "benefit": "研究者从 Kaiser Permanente 这家医疗集团的电子病历里跟踪了一批人。其中 2,842 名跨性别女性、2,118 名跨性别男性。平均跟踪 4.0 年与 3.6 年。每个人都按出生年、种族、就诊点和入组时间配了约 10 倍的顺性别对照，一共 48,686 名顺性别男性与 48,775 名顺性别女性。跨性别女性的静脉血栓栓塞（血管里长血块堵住）比对照多。和顺性别男性比，2 年是每 1000 人 4.1 例（95% CI 1.6–6.7）。8 年是 16.7 例（6.4–27.5）。算下来，1000 个人里两年多出 4.1 例，八年多出 16.7 例。和顺性别女性比，这两个数是 3.4（1.1–5.6）与 13.7（4.1–22.7）。缺血性卒中（血管堵住那一类中风）与心肌梗死总体各组接近。但在跟踪期内才开始激素治疗的跨性别女性中，静脉血栓与缺血性卒中的差异更明显。跨性别男性的证据不够，下不了结论。作者结论为「这些结果可能提示需要长期警惕跨性别激素中雌激素的血管副作用」",
+      "grade": "A",
+      "sources": "Getahun D et al. (2018). Cross-sex Hormones and Acute Cardiovascular Events in Transgender Persons: A Cohort Study. Ann Intern Med. <https://doi.org/10.7326/M17-2785>；国家市场监督管理总局 (2022). 药品网络销售监督管理办法（总局令第 58 号，第九条）. <https://www.gov.cn/gongbao/content/2022/content_5717002.htm>",
+      "notes": "研究者自己写明了这项研究的短处：有多少人是在医院系统外自己买的药，他们查不到。所以「有没有用药」这条线本来就划不干净。这反过来正说明，用药该放进正规随访里。这项研究看的只是血管出没出事，不回答激素治疗该不该用、用了有什么好处，那是另一套证据。所有用到性激素的场合都一样，包括避孕药、更年期激素治疗、睾酮补充。凡是自己网购、照着网帖调量、从不查血栓和肝肾指标的，风险都出在「没人盯着」这一段，不是出在为什么用药上。国内的正规路子是去正规医疗机构的内分泌科或者相应专科，做评估、开方、复查。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Chỉ dùng hormone sinh dục khi bác sĩ kê đơn và tái khám định kỳ; đừng mua trên mạng hoặc tự tăng liều",
+    "fields": {
+      "cost": "Đăng ký khám định kỳ và xét nghiệm máu. Mỗi năm vài trăm nhân dân tệ, mất vài nửa ngày.",
+      "plain": "Mục này không bàn nên dùng hay không, chỉ bàn cách dùng. Phụ nữ chuyển giới dùng estrogen có huyết khối nhiều hơn rõ rệt so với người cùng tuổi: mỗi nghìn người thêm khoảng 4 ca trong hai năm, khoảng 17 ca trong tám năm. Rủi ro cần được theo dõi bằng tái khám định kỳ; mua trên mạng và tự chỉnh liều thì không ai kiểm tra giúp.",
+      "benefit": "Nhà nghiên cứu theo dõi qua bệnh án điện tử của hệ thống y tế Kaiser Permanente: 2,842 phụ nữ chuyển giới, 2,118 nam giới chuyển giới, thời gian trung bình tương ứng 4.0 và 3.6 năm. Mỗi người được ghép khoảng 10 người hợp giới theo năm sinh, chủng tộc, nơi khám, thời điểm vào nghiên cứu; tổng cộng 48,686 nam và 48,775 nữ hợp giới. Phụ nữ chuyển giới bị thuyên tắc huyết khối tĩnh mạch (cục máu đông làm tắc mạch) nhiều hơn đối chứng. So với nam hợp giới, chênh lệch sau 2 năm là 4.1 ca mỗi 1000 người (95% CI 1.6–6.7); sau 8 năm là 16.7 ca (6.4–27.5). Nghĩa là trong 1000 người, hai năm thêm 4.1 ca, tám năm thêm 16.7 ca. So với nữ hợp giới, hai số là 3.4 (1.1–5.6) và 13.7 (4.1–22.7). Đột quỵ thiếu máu (do tắc mạch) và nhồi máu cơ tim nhìn chung tương tự giữa các nhóm. Nhưng ở phụ nữ chuyển giới mới bắt đầu hormone trong thời gian theo dõi, chênh lệch huyết khối tĩnh mạch và đột quỵ thiếu máu rõ hơn. Bằng chứng với nam chuyển giới chưa đủ kết luận. Tác giả kết luận «kết quả có thể cho thấy cần cảnh giác lâu dài với tác dụng phụ mạch máu của estrogen trong điều trị hormone chuyển giới»",
+      "grade": "A",
+      "sources": "Getahun D et al. (2018). Cross-sex Hormones and Acute Cardiovascular Events in Transgender Persons: A Cohort Study. Ann Intern Med. <https://doi.org/10.7326/M17-2785>；国家市场监督管理总局 (2022). 药品网络销售监督管理办法（总局令第 58 号，第九条）. <https://www.gov.cn/gongbao/content/2022/content_5717002.htm>",
+      "notes": "Tác giả nêu hạn chế: không biết bao nhiêu người tự mua thuốc ngoài hệ thống bệnh viện nên ranh giới «có dùng thuốc hay không» vốn không rõ. Vì thế càng cần dùng trong chương trình theo dõi chính quy. Nghiên cứu chỉ xem biến cố mạch máu, không trả lời nên dùng hormone không hay lợi ích gì; đó là nhóm bằng chứng khác. Mọi trường hợp dùng hormone sinh dục đều vậy, gồm thuốc tránh thai, hormone mãn kinh, bổ sung testosterone. Tự mua online, chỉnh liều theo bài đăng, không kiểm tra huyết khối và chỉ số gan thận thì rủi ro nằm ở chỗ «không ai theo dõi», không phụ thuộc lý do dùng. Con đường chính quy trong nước là khoa nội tiết hoặc chuyên khoa phù hợp tại cơ sở y tế chính quy để đánh giá, kê đơn, tái khám."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

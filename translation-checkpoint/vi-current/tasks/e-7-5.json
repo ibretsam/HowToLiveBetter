@@ -1,0 +1,48 @@
+{
+  "id": "e-7-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "a542a30ae41b0de7324b84562965f80ddfda600925ab661cac95d3358e254004",
+  "status": "draft",
+  "original": {
+    "number": 5,
+    "title": "找活先用免费的公共就业服务和零工市场，不找收费中介",
+    "fields": {
+      "cost": "不花钱。到县级以上的公共就业服务机构登记，比如就业服务中心、人力资源市场。本地的零工市场也可以登记。不知道地址就拨 12333 问。",
+      "plain": "就业服务中心、人力资源市场这些公家机构，介绍工作、职业指导、政策咨询、办就业和失业登记，全都不收钱。法律还明文不许它们拿这些服务去赚钱。零工市场的登记和发布信息也免费。顺手把失业登记办掉，领失业金和认定就业困难人员都要用它。",
+      "benefit": "法律规定下面这几样一律免费：就业政策咨询；哪里在招人、哪里缺人的信息；职业指导和职业介绍；办就业登记和失业登记；对就业困难人员的就业援助。这些机构不得从事经营性活动，不许靠这些服务赚钱。零工的求职招聘信息，登记和发布也免费向社会提供，已经纳入公共就业信息服务的范围。对待工时间长的人（就是长期接不到活的）、低收入家庭等困难零工人员，还要加强帮扶（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007, 2015 修正). 就业促进法（第三十五条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647636.htm>；人力资源社会保障部等五部门 (2022). 关于加强零工市场建设 完善求职招聘服务的意见（人社部发〔2022〕38 号）. <https://www.gov.cn/zhengce/zhengceku/2022-07/09/content_5700177.htm>",
+      "notes": "失业登记是领失业保险金、认定就业困难人员的前置手续，顺手办掉。干零工按天结账的，当场核对工钱，留下对方的联系方式和干活记录。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Tìm việc thì trước hết dùng dịch vụ việc làm công và chợ việc thời vụ miễn phí, đừng tìm trung gian thu phí",
+    "fields": {
+      "cost": "Không tốn tiền. Đến đăng ký tại cơ quan dịch vụ việc làm công từ cấp huyện trở lên, ví dụ trung tâm dịch vụ việc làm hoặc thị trường nhân lực. Cũng có thể đăng ký ở chợ việc thời vụ địa phương. Không biết địa chỉ thì gọi 12333 để hỏi.",
+      "plain": "Các cơ quan nhà nước như trung tâm dịch vụ việc làm, thị trường nhân lực giới thiệu việc làm, hướng nghiệp, tư vấn chính sách, làm thủ tục đăng ký việc làm và đăng ký thất nghiệp, tất cả đều không thu tiền. Luật còn quy định rõ không cho phép họ dùng các dịch vụ này để kiếm lợi. Đăng ký và đăng tin ở chợ việc thời vụ cũng miễn phí. Nhân tiện hãy đăng ký thất nghiệp luôn, vì cả việc xin trợ cấp thất nghiệp lẫn việc xác nhận người khó tìm việc đều cần đến nó.",
+      "benefit": "Luật quy định những việc sau đây đều miễn phí: tư vấn chính sách việc làm; thông tin nơi nào đang tuyển người, nơi nào thiếu người; hướng nghiệp và giới thiệu việc làm; làm thủ tục đăng ký việc làm và đăng ký thất nghiệp; hỗ trợ việc làm cho người khó tìm việc. Các cơ quan này không được tiến hành hoạt động kinh doanh, không được dựa vào các dịch vụ này để kiếm tiền. Thông tin tìm việc và tuyển người làm thời vụ cũng được đăng ký và công bố miễn phí cho xã hội, và đã được đưa vào phạm vi dịch vụ thông tin việc làm công. Đối với những người làm thời vụ gặp khó khăn như người chờ việc lâu (tức là lâu ngày không nhận được việc) hay gia đình thu nhập thấp, còn phải tăng cường hỗ trợ (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007, 2015 修正). 就业促进法（第三十五条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647636.htm>；人力资源社会保障部等五部门 (2022). 关于加强零工市场建设 完善求职招聘服务的意见（人社部发〔2022〕38 号）. <https://www.gov.cn/zhengce/zhengceku/2022-07/09/content_5700177.htm>",
+      "notes": "Đăng ký thất nghiệp là thủ tục phải làm trước khi xin trợ cấp thất nghiệp hay xin xác nhận người khó tìm việc, nên tiện thì làm luôn. Làm thời vụ được trả công theo ngày thì hãy đối chiếu tiền công ngay tại chỗ, giữ lại cách liên lạc của bên thuê và ghi chép lại việc đã làm."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

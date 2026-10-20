@@ -1,0 +1,48 @@
+{
+  "id": "e-5-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "7fc4d0b4dbfa64cb3a6d46c5afc92269d97a404514cbf18d0612f1e083730057",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "喝烧开的自来水，不常年订饮水机用的桶装水、买瓶装水",
+    "fields": {
+      "cost": "买一个水壶。每次烧水要花一点时间，还有少量燃气费或者电费。",
+      "plain": "饮水机用的桶装水按 20 元一桶算，约 1 元一升，比北京自来水贵 200 多倍。一家一周喝一桶，一年要花 1000 元出头，同样多的自来水不到 5 元。自来水有强制的国家标准，平时烧开了喝就行。",
+      "benefit": "北京居民第一阶梯水价是 5 元一立方米，折合 0.005 元一升。家里饮水机用的桶装水一桶 18.9 升，按 20 元一桶算，每升约 1.06 元，约是自来水的 210 倍。一家一周喝一桶，一年 52 桶约 983 升，桶装水约 1040 元，同样多的自来水约 4.9 元。小瓶装水按 1 元 500 毫升算，就是每升 2 元，是自来水的 400 倍。生活饮用水执行的是强制性国家标准 GB 5749-2022。这个标准 2022 年 3 月 15 日发布，2023 年 4 月 1 日起施行。主管部门是国家疾控局（中国，2015 年水价与 2022 年标准）",
+      "grade": "C（争议）",
+      "sources": "北京市发展和改革委员会. 居民用水价格表. <https://fgw.beijing.gov.cn/bmcx/djcx/jzldj/202003/t20200331_1752796.htm>；国家市场监督管理总局 国家标准全文公开系统. GB 5749-2022 生活饮用水卫生标准. <https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=99E9C17E3547A3C0CE2FD1FFD9F2F7BE>；杭州市联合调查组 (2025). 关于杭州市余杭区部分小区供水异常调查情况通报（2025 年 7 月 23 日），新华网转载 <http://www.news.cn/20250723/1be62dac3b0b4461a643791ff552e93d/c.html>；杭州市余杭区人民政府. 余杭区 2025 年 4 月／5 月／6 月水源水水质监测数据（杭州余杭水务控股集团公开，检测单位杭州嘉澍环境监测有限公司，附件 PDF 表 1 第 24 项「粪大肠菌群」） <https://www.yuhang.gov.cn/art/2025/5/8/art_1229204072_59140140.html>、<https://www.yuhang.gov.cn/art/2025/6/5/art_1229204072_59142885.html>、<https://www.yuhang.gov.cn/art/2025/7/3/art_1229204072_59146464.html>；公安部网络安全保卫局 (2025). 编造虚假「警情通报」，捏造「粪水」谣言，邵某豪被刑事拘留 <http://www.news.cn/politics/20250722/3178b3bd189c4eb4b293982e92aab438/c.html>；重庆市市场监督管理局 (2022). 桶装饮用水消费提示（2022 年 10 月 25 日） <https://scjgj.cq.gov.cn/bkzs/spbk/202210/t20221025_11222964.html>",
+      "notes": "争议在于，所谓「达标」查的是水厂出来的水和管道末端的水。水源或者管网出问题的时候，会短暂失守。2025 年 7 月 16 日，杭州余杭仁和水厂进的原水气味不对，仁和、良渚部分小区的自来水发臭。官方结论是藻类在缺氧条件下分解，产生了硫醚类物质。换了水源以后，出厂水的总大肠菌群、大肠埃希氏菌都没有检出，全部项目符合生活饮用水标准 GB 5749-2022。事后 7 名干部被问责，7 月水费全免，还免费换了滤芯。但同一个水源的粪大肠菌群，事发前已经连着几个月往上走。苕溪永胜取水口 4 月是 10 个/L，5 月 7300 个/L，6 月 16000 个/L。地表水标准 GB 3838 Ⅲ 类的限值是 10000 个/L。同月四岭水库 28000 个/L、馒头山水库 24000 个/L 也超了。下面是作者的提醒，官方通报没有这样写：烧开只能杀微生物，除不掉气味物质，也除不掉溶在水里的化学物。闻到异味，或者水发黄发浑，就停下来别喝，向供水企业和 12345 反映。临时改喝瓶装水，别指望多煮几分钟压过去。但这是局部的偶发事故，当地也按次赔了，仍然不构成常年买瓶装水的理由。网上传的「粪水管接错」是伪造的警情通报，发布者已经被刑事拘留（见第 9 节）。桶装水 20 元一桶、瓶装水 1 元 500 毫升都是为了算账设的假设价，你按自己所在城市的实际价格重算。桶装水也不见得更干净：重庆市市场监管局提醒，开封后存得越久微生物污染风险越高，饮水机至少 2 到 3 个月要洗一次。老旧小区的二次供水设施不达标的，可以加装过滤，或者只在这种情况下买水喝。各地水价不同，北京这个数字只用来看个量级。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Uống nước máy đun sôi, không mua nước đóng chai quanh năm",
+    "fields": {
+      "cost": "Mua một ấm nước. Mỗi lần đun mất chút thời gian và ít tiền gas hoặc điện.",
+      "plain": "Giá nước bậc đầu tại Bắc Kinh quy ra 0.005 nhân dân tệ một lít. Nước đóng chai tính 1 nhân dân tệ cho 500 ml thì là 2 nhân dân tệ một lít, chênh nhau 400 lần. Nước máy áp dụng tiêu chuẩn quốc gia bắt buộc, bình thường đun sôi uống là được. Khi nguồn nước gặp sự cố, nước hôi hoặc đục, đun thêm vài phút không giải quyết được; hãy ngừng uống và báo phản ánh.",
+      "benefit": "Giá nước sinh hoạt bậc đầu Bắc Kinh là 5 nhân dân tệ một mét khối, tương đương 0.005 nhân dân tệ một lít. Nước đóng chai giá 1 nhân dân tệ cho 500 ml thì bằng 2 nhân dân tệ một lít, gấp 400 lần nước máy. Nước ăn uống sinh hoạt áp dụng tiêu chuẩn quốc gia bắt buộc GB 5749-2022, ban hành ngày 15 tháng 3 năm 2022, có hiệu lực từ ngày 1 tháng 4 năm 2023. Cơ quan phụ trách là Cục Kiểm soát và phòng ngừa dịch bệnh quốc gia (Trung Quốc, giá nước năm 2015 và tiêu chuẩn năm 2022).",
+      "grade": "C (có tranh luận)",
+      "sources": "北京市发展和改革委员会. 居民用水价格表. <https://fgw.beijing.gov.cn/bmcx/djcx/jzldj/202003/t20200331_1752796.htm>；国家市场监督管理总局 国家标准全文公开系统. GB 5749-2022 生活饮用水卫生标准. <https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=99E9C17E3547A3C0CE2FD1FFD9F2F7BE>；杭州市联合调查组 (2025). 关于杭州市余杭区部分小区供水异常调查情况通报（2025 年 7 月 23 日），新华网转载 <http://www.news.cn/20250723/1be62dac3b0b4461a643791ff552e93d/c.html>；杭州市余杭区人民政府. 余杭区 2025 年 4 月／5 月／6 月水源水水质监测数据（杭州余杭水务控股集团公开，检测单位杭州嘉澍环境监测有限公司，附件 PDF 表 1 第 24 项「粪大肠菌群」） <https://www.yuhang.gov.cn/art/2025/5/8/art_1229204072_59140140.html>、<https://www.yuhang.gov.cn/art/2025/6/5/art_1229204072_59142885.html>、<https://www.yuhang.gov.cn/art/2025/7/3/art_1229204072_59146464.html>；公安部网络安全保卫局 (2025). 编造虚假「警情通报」，捏造「粪水」谣言，邵某豪被刑事拘留 <http://www.news.cn/politics/20250722/3178b3bd189c4eb4b293982e92aab438/c.html>",
+      "notes": "Còn tranh luận ở chỗ “đạt chuẩn” là kiểm tra nước ra khỏi nhà máy và nước ở cuối đường ống. Khi nguồn nước hoặc mạng lưới đường ống gặp vấn đề, chuẩn có thể tạm thời bị vi phạm. Ngày 16 tháng 7 năm 2025, nước thô vào nhà máy Nhân Hòa ở Dư Hàng, Hàng Châu có mùi lạ; nước máy tại một số khu dân cư Nhân Hòa, Lương Chử bị hôi. Kết luận chính thức là tảo phân hủy trong điều kiện thiếu oxy tạo ra chất thioether. Sau khi đổi nguồn nước, không phát hiện tổng coliform hay Escherichia coli trong nước ra khỏi nhà máy, mọi chỉ tiêu đạt GB 5749-2022. Sau đó 7 cán bộ bị xử lý trách nhiệm, miễn toàn bộ tiền nước tháng 7 và thay lõi lọc miễn phí. Nhưng coliform phân tại chính nguồn nước này đã tăng nhiều tháng liên tiếp trước sự cố. Điểm lấy nước Vĩnh Thắng trên sông Thiều Khê có 10 cá thể/L tháng 4, 7300 cá thể/L tháng 5 và 16000 cá thể/L tháng 6. Giới hạn loại Ⅲ của tiêu chuẩn nước mặt GB 3838 là 10000 cá thể/L. Cùng tháng, hồ Tứ Lĩnh 28000 cá thể/L, hồ Màn Đầu Sơn 24000 cá thể/L cũng vượt chuẩn. Đun sôi chỉ diệt vi sinh vật, không loại chất gây mùi hay hóa chất hòa tan. Thấy mùi lạ, nước vàng hoặc đục thì ngừng uống, phản ánh với đơn vị cấp nước và 12345, tạm chuyển sang nước đóng chai, đừng mong đun thêm vài phút sẽ hết. Tuy nhiên, đây là sự cố cục bộ thỉnh thoảng xảy ra, địa phương cũng bồi thường theo vụ, vẫn không phải lý do mua nước đóng chai quanh năm. Tin “đấu nhầm đường ống nước phân” trên mạng là thông báo cảnh sát giả, người đăng đã bị tạm giữ hình sự (xem chương 9). Giá nước đóng chai 1 nhân dân tệ cho 500 ml chỉ là giả định để tính; hãy tính lại theo giá thực tế ở thành phố bạn. Nếu hệ thống cấp nước thứ cấp tại khu dân cư cũ không đạt chuẩn, có thể lắp lọc hoặc chỉ mua nước trong trường hợp đó. Giá nước mỗi nơi khác nhau, con số Bắc Kinh chỉ dùng để hình dung quy mô."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

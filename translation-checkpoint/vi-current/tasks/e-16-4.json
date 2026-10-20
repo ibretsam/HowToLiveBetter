@@ -1,0 +1,48 @@
+{
+  "id": "e-16-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "f61080adbf586243414bc7bf8336a4a29d5f45988293908abb71866b6dedc3a7",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "别为了试偏方、保健品停掉正规治疗",
+    "fields": {
+      "cost": "不花钱，还省下买保健品的钱。不占时间。难在别人反复劝你试的时候能顶住。",
+      "plain": "本来能治的癌症，只用替代疗法、不做正规治疗的人，死亡风险是正规治疗的 2.5 倍。边治边用补充疗法的人更常拒绝手术、化疗和放疗，多出来的死亡就出在这里。有的草药还会减弱抗排异药、抗凝药的作用，想吃先问主治医生。",
+      "benefit": "美国癌症登记数据里有两项研究，看的都是没转移、本来能治的乳腺癌、前列腺癌、肺癌和结直肠癌病人。第一项看只用替代疗法、手术放化疗和内分泌治疗一样都不做的人。和条件配对的正规治疗病人比，他们的死亡风险是 2.5 倍（HR 2.50，95% CI 1.88–3.27，高约 1.5 倍）。乳腺癌是 5.68 倍（3.22–10.04），肺癌是 2.17 倍（1.42–3.32），结直肠癌是 4.57 倍（1.66–12.61）。第二项看一边正规治疗、一边用补充疗法的人。他们拒绝手术的比例是 7.0% 对 0.1%，拒绝化疗是 34.1% 对 3.2%。拒绝放疗是 53.0% 对 2.3%，拒绝内分泌治疗是 33.7% 对 2.8%。5 年存活率是 82.2% 对 86.6%，死亡风险是 2.08 倍（HR 2.08，1.50–2.90，高约一倍）。把拖延和拒绝治疗算进去以后，补充疗法本身和死亡就看不出关系了（HR 1.39，0.83–2.33）。作者的结论是，多出来的死亡来自拒绝正规治疗。国家市场监管总局要求保健食品标签上标注：「保健食品不是药物，不能代替药物治疗疾病」。美国国家补充与整合健康中心（NCCIH）写明，贯叶连翘（也叫圣约翰草）会减弱多种药的作用。其中包括防器官移植排异的环孢素，和抗凝药华法林",
+      "grade": "B",
+      "sources": "Johnson SB, Park HS, Gross CP, Yu JB (2018). Use of Alternative Medicine for Cancer and Its Impact on Survival. Journal of the National Cancer Institute, 110(1), 121-124. <https://doi.org/10.1093/jnci/djx145>；Johnson SB, Park HS, Gross CP, Yu JB (2018). Complementary Medicine, Refusal of Conventional Cancer Therapy, and Survival Among Patients With Curable Cancers. JAMA Oncology, 4(10), 1375-1381. <https://doi.org/10.1001/jamaoncol.2018.2487>；国家市场监督管理总局 (2019). 市场监管总局就《保健食品标注警示用语指南》和《保健食品原料目录与保健功能目录管理办法》有关情况举办专题新闻发布会. <https://www.samr.gov.cn/tssps/sjdt/tpxw/art/2023/art_4b658b824b1b4b0ba57c09a56cc93aad.html>；National Center for Complementary and Integrative Health (2025). St. John's Wort. <https://www.nccih.nih.gov/health/st-johns-wort>",
+      "notes": "只给 B 级。两项研究都只看了癌症，是从登记数据里跟踪下来的，没有分组对照，选替代疗法的人在别的方面也可能不一样。高血压、糖尿病这类病停药的账，见第 1 条（药按医嘱吃满）。想试补充剂就先告诉主治医生。保健品要不要花钱买，见第 6 节第 10 条（保健品、膏方、滋补品）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Đừng ngừng điều trị chính thống để thử mẹo chữa bệnh hay thực phẩm bảo vệ sức khỏe",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm tiền mua thực phẩm bảo vệ sức khỏe. Không mất thời gian. Khó ở chỗ giữ vững ý kiến khi người khác liên tục khuyên thử.",
+      "plain": "Tác hại của ngừng thuốc đã rõ, còn lợi ích của mẹo chữa bệnh và thực phẩm bảo vệ sức khỏe chưa chắc chắn. Như vậy là đổi thiệt hại chắc chắn lấy lợi ích không chắc. Muốn thử chất bổ sung, hãy báo bác sĩ điều trị trước. Một số loại ảnh hưởng đến nồng độ thuốc chống đông, chống thải ghép trong máu.",
+      "benefit": "Tác hại của ngừng thuốc đã rõ, lợi ích của mẹo chữa bệnh chưa chắc chắn. Chương 6 sách này liệt kê một số nhóm sản phẩm thường gặp không có hiệu quả",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；相关证据见第 6 节",
+      "notes": "Muốn thử chất bổ sung, hãy báo bác sĩ điều trị trước. Một số loại tương tác với thuốc kê đơn, chẳng hạn làm thay đổi nồng độ thuốc chống đông, chống thải ghép trong máu"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "e-20-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "a03d6679b04b286c9989830d1718fde5ab03ee000c1045626e2325be9176b039",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "按国家免疫规划把该打的疫苗打齐，全程免费，错过了只补没打完的剂次",
+    "fields": {
+      "cost": "不花钱。法律写明「接种单位接种免疫规划疫苗不得收取任何费用」。要按月龄跑几趟接种门诊。预防接种证收好，别弄丢",
+      "plain": "国家免疫规划里的疫苗全程免费，接种单位不能收钱。孩子入托、入学都要查预防接种证，漏打的一般会被查出来补上。错过了只补没打完的那几剂，不用从头再打，换了厂家也能接着打。",
+      "benefit": "孩子入托、入学的时候，托幼机构和学校要查验预防接种证。发现没按规定接种免疫规划疫苗的，要报告接种单位，并且配合督促监护人补种。所以漏打的疫苗，入托、入学查验预防接种证时一般会被发现。现在执行的是 2026 年版程序。人乳头瘤病毒（HPV）疫苗已经纳入国家免疫规划。百白破疫苗的起始接种年龄从 3 月龄改成 2 月龄。一共 5 剂，分别在 2 月龄、4 月龄、6 月龄、18 月龄和 6 周岁各打 1 剂。西藏、青海、新疆和新疆生产建设兵团的适龄儿童，2026 年 3 月起也常规接种乙脑疫苗。几种疫苗可以同一天打：现阶段国家免疫规划疫苗都可以按免疫程序或补种原则同时接种。两种及以上打针的疫苗要打在不同部位，「严禁将两种或多种疫苗混合吸入同一支注射器内接种」。没在同一天打的，两种及以上打针的减毒活疫苗之间要间隔不小于 28 天。灭活疫苗、口服的减毒活疫苗和其他疫苗之间的间隔不作限制。不满 18 周岁的补种原则是尽早补种，「只需补种未完成的剂次，无需重新开始全程接种」，同一种疫苗换厂家可以接着打（全国，2026 年版程序）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2019). 疫苗管理法（第四十八、四十九条）. <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html>（云南省卫生健康委员会转载）；国家疾病预防控制局、国家卫生健康委 (2026). 《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》解读问答. <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>",
+      "notes": "最常见的误会是「孩子体质不好，先别打」。官方说法是：所谓「过敏性体质」、家里人有过敏的病、孩子以前对食物或药物过敏过，都不是不能打的理由。特应性皮炎（湿疹）、荨麻疹、过敏性鼻炎、支气管哮喘，只要病情稳定就能正常打。正在吃抗过敏药，或者在用吸入型激素，也能打。新生儿的生理性黄疸、母乳性黄疸也能正常打。真正不能打的只有两种：以前打同一种疫苗出现过急性的严重过敏反应，或者对疫苗里已知的某种成分严重过敏。有免疫缺陷的孩子，以及正在化疗放疗、正在用免疫抑制剂的孩子，要一个个单独评估，去接种门诊说明情况再定。乙肝第一针见第 2 条。自费的非免疫规划疫苗要另收疫苗费和接种服务费，和这条说的免费无关。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,孩子,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Tiêm đủ theo chương trình tiêm chủng quốc gia, miễn phí toàn bộ; lỡ lịch chỉ bù liều chưa hoàn thành",
+    "fields": {
+      "cost": "Không tốn tiền. Luật ghi “đơn vị tiêm chủng không được thu bất kỳ phí nào khi tiêm vắc xin thuộc chương trình”. Phải đến điểm tiêm vài lần theo tháng tuổi. Giữ kỹ sổ tiêm chủng, đừng mất",
+      "plain": "Vắc xin trong chương trình quốc gia miễn phí toàn bộ, đơn vị tiêm không được thu tiền. Vào nhà trẻ, trường học đều kiểm tra sổ; thiếu sẽ bị phát hiện và yêu cầu bù. Lỡ chỉ bù liều chưa đủ, không cần bắt đầu lại, đổi nhà sản xuất vẫn tiêm tiếp được. Chàm, mề đay, viêm mũi dị ứng, hen khi ổn định, cũng như vàng da sơ sinh, vẫn tiêm bình thường.",
+      "benefit": "Khi trẻ vào nhà trẻ, trường học, cơ sở phải kiểm tra sổ tiêm. Thiếu vắc xin chương trình phải báo đơn vị tiêm, phối hợp thúc người giám hộ tiêm bù. Vì vậy không tránh được mũi thiếu, vào học sẽ được phát hiện. Hiện áp dụng lịch 2026. Vắc xin HPV đã vào chương trình quốc gia. Tuổi bắt đầu vắc xin bạch hầu–ho gà–uốn ván đổi từ 3 tháng sang 2 tháng, tổng 5 liều: mỗi lần 1 liều ở 2 tháng, 4 tháng, 6 tháng, 18 tháng và 6 tuổi. Trẻ đúng tuổi tại Tây Tạng, Thanh Hải, Tân Cương và Binh đoàn Sản xuất Xây dựng Tân Cương từ tháng 3 năm 2026 cũng tiêm thường quy viêm não Nhật Bản. Có thể tiêm nhiều vắc xin cùng ngày: hiện mọi vắc xin chương trình đều có thể tiêm đồng thời theo lịch hoặc nguyên tắc bù. Hai loại trở lên dạng tiêm phải tiêm khác vị trí, “nghiêm cấm trộn hút hai hay nhiều vắc xin vào cùng một bơm tiêm”. Nếu không cùng ngày, hai loại trở lên vắc xin sống giảm độc lực dạng tiêm phải cách ít nhất 28 ngày. Không hạn chế khoảng cách giữa vắc xin bất hoạt, sống giảm độc lực đường uống và vắc xin khác. Người dưới 18 tuổi cần bù sớm, “chỉ bù liều chưa hoàn thành, không cần bắt đầu lại toàn bộ”; cùng loại đổi hãng vẫn tiếp tục được (toàn quốc, lịch 2026)",
+      "grade": "A",
+      "sources": "全国人大常委会 (2019). 疫苗管理法（第四十八、四十九条）. <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html>（云南省卫生健康委员会转载）；国家疾病预防控制局、国家卫生健康委 (2026). 《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》解读问答. <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>",
+      "notes": "Hiểu lầm thường gặp là “trẻ thể trạng yếu, khoan tiêm”. Hướng dẫn chính thức: cái gọi là “cơ địa dị ứng”, gia đình có bệnh dị ứng, trẻ từng dị ứng thức ăn hay thuốc đều không phải lý do cấm tiêm. Viêm da cơ địa (chàm), mề đay, viêm mũi dị ứng, hen phế quản ổn định thì tiêm được. Đang dùng thuốc chống dị ứng hoặc corticoid hít cũng được. Vàng da sinh lý, vàng da do sữa mẹ cũng vậy. Thật sự không tiêm chỉ hai trường hợp: từng phản ứng dị ứng cấp nghiêm trọng với cùng vắc xin, hoặc dị ứng nặng với thành phần đã biết trong vắc xin. Trẻ suy giảm miễn dịch, đang hóa xạ trị hoặc dùng thuốc ức chế miễn dịch phải đánh giá riêng từng trường hợp; khai rõ tại điểm tiêm rồi quyết định. Mũi viêm gan B đầu xem mục 2. Vắc xin ngoài chương trình tự trả có phí thuốc và dịch vụ riêng, không thuộc miễn phí ở đây."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

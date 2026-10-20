@@ -1,0 +1,48 @@
+{
+  "id": "e-12-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "ba6affd32df4f01b3541e10327fbe4e59ce3c13e4db809213cb84e2e796862f4",
+  "status": "outdated",
+  "original": {
+    "number": 18,
+    "title": "先卖再造：用预售和小订单验证有人买，再投钱生产",
+    "fields": {
+      "cost": "几十到几百元，做个样品或者一个页面。再去找几十个真实客户，让他们预付或者下小单。这样比直接开工慢几个星期。难的是忍住不先把货做出来。",
+      "plain": "意大利的一项研究发现，先立假设、再拿市场反馈去验的创业者，生意做得更好。他们也更可能及时换方向，并没有更早放弃。所以，没人肯预付、没人肯下小单，就别信「做出来自然有人买」。",
+      "benefit": "一项随机对照试验，跟踪了 116 家意大利初创企业大约一年。随机对照试验就是把人随机分成两组，只给一组做培训，再比两组的结果。结果是：受过培训、按「先提假设、再用市场反馈严格检验」来做决定的创业者，业绩更好。他们也更可能及时掉头换别的方案，早期放弃的比例并不更高。看着有戏、其实做不成的项目，作者叫它假阳性项目。作者的解释是，这种做法减少了往这类项目上继续砸钱的概率（意大利，2020 年发表）",
+      "grade": "B",
+      "sources": "Camuffo A, Cordova A, Gambardella A, Spina C (2020). A Scientific Approach to Entrepreneurial Decision Making: Evidence from a Randomized Control Trial. Management Science 66(2):564-586. <https://doi.org/10.1287/mnsc.2018.3249>",
+      "notes": "只有这一项研究，样本小，而且是在意大利做的，所以定 B 级。标题、出处和摘要经 Crossref 与 Semantic Scholar 核对过，全文里的效果数字本节没有核实。落到操作上：没人肯预付、没人肯下小单，就别相信「做出来就有人买」。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 18,
+    "title": "Bán trước, làm sau: dùng đặt trước và đơn nhỏ xác nhận có người mua rồi mới bỏ tiền sản xuất",
+    "fields": {
+      "cost": "Vài chục đến vài trăm nhân dân tệ để làm mẫu hoặc trang giới thiệu. Sau đó tìm vài chục khách thật, đề nghị họ trả trước hoặc đặt đơn nhỏ. Cách này chậm hơn bắt tay làm ngay vài tuần. Điều khó là kiềm chế không sản xuất hàng trước.",
+      "plain": "Có nghiên cứu theo dõi 116 công ty mới ở Ý khoảng một năm: người khởi nghiệp đặt giả thuyết rồi kiểm tra bằng phản hồi thị trường có kết quả tốt hơn, sẵn sàng đổi hướng kịp thời hơn, mà không bỏ cuộc sớm hơn. Vì vậy nếu không ai chịu trả trước hay đặt đơn nhỏ, đừng tin “làm ra tự khắc có người mua”.",
+      "benefit": "Một thử nghiệm ngẫu nhiên có đối chứng theo dõi 116 doanh nghiệp khởi nghiệp Ý khoảng một năm. Nghĩa là chia ngẫu nhiên thành hai nhóm, chỉ đào tạo một nhóm rồi so kết quả. Người được đào tạo, quyết định theo cách “đặt giả thuyết trước rồi kiểm tra nghiêm bằng phản hồi thị trường” có kết quả tốt hơn và dễ chuyển kịp sang phương án khác hơn; tỷ lệ bỏ sớm không cao hơn. Tác giả giải thích cách này giảm xác suất tiếp tục rót tiền vào dự án trông hứa hẹn nhưng thực tế không thành, tức dự án dương tính giả (Ý, công bố năm 2020).",
+      "grade": "B",
+      "sources": "Camuffo A, Cordova A, Gambardella A, Spina C (2020). A Scientific Approach to Entrepreneurial Decision Making: Evidence from a Randomized Control Trial. Management Science 66(2):564-586. <https://doi.org/10.1287/mnsc.2018.3249>",
+      "notes": "Chỉ một nghiên cứu, mẫu nhỏ, thực hiện ở Ý nên mức B. Tên, nguồn, tóm tắt đã đối chiếu qua Crossref và Semantic Scholar; chương này chưa kiểm chứng con số hiệu quả trong toàn văn. Áp dụng thực tế: không ai chịu trả trước hay đặt đơn nhỏ thì đừng tin “làm ra sẽ có người mua”."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

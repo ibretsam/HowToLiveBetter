@@ -1,0 +1,49 @@
+{
+  "id": "e-27-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "b7b71f6b0911d709e96d6813b266e94320615b9cb47fdec6a93936067fa08682",
+  "status": "draft",
+  "original": {
+    "number": 5,
+    "title": "有子痫前期高危因素的，孕 12 周后开始每天一片小剂量阿司匹林",
+    "fields": {
+      "cost": "几十元。每天一片，要一直吃到生。难在天天不忘",
+      "plain": "子痫前期是孕期的一种高血压病。上一胎得过、怀多胎、有慢性高血压、孕前有糖尿病、有肾病或自身免疫病的人算高危。高危的人从孕 12 周起每天一片小剂量阿司匹林，子痫前期低约一成半，早产和孩子在生产前后死亡都低约两成。其他人别自己吃。",
+      "benefit": "美国预防服务工作组给的是 B 级推荐：对子痫前期高危的人，在孕 12 周之后开始吃小剂量阿司匹林（81 毫克/天）来预防。子痫前期是孕期的一种高血压疾病。把多项研究合起来算，结果如下，95% CI 是可信范围。子痫前期 RR 0.85（95% CI 0.75 至 0.95，16 项研究），低约 15%。早产 RR 0.80（95% CI 0.67 至 0.95，13 项研究），低约 20%。围产期死亡 RR 0.79（95% CI 0.66 至 0.96，11 项研究），低约 21%；围产期死亡就是生产前后这段时间里的死亡。小于胎龄儿／宫内生长受限 RR 0.82（95% CI 0.68 至 0.99，16 项研究），低约 18%；说的是胎儿长得比同孕周的偏小",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2021). Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality: Preventive Medication. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/low-dose-aspirin-use-for-the-prevention-of-morbidity-and-mortality-from-preeclampsia-preventive-medication>",
+      "notes": "算高危的有：上一胎得过子痫前期、怀的是双胎或者多胎、有慢性高血压。还有怀孕前就有 1 型或者 2 型糖尿病、有肾病，以及有系统性红斑狼疮、抗磷脂综合征这类自身免疫病。不在这几类里的不要自己吃。这个药要医生开处方，产检的时候把病史说清楚，让医生判断。国内卖的多是 100 毫克的肠溶片，按医嘱吃"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Có yếu tố nguy cơ cao tiền sản giật thì bắt đầu uống một viên aspirin liều thấp mỗi ngày sau tuần thai 12",
+    "fields": {
+      "cost": "Vài chục nhân dân tệ. Mỗi ngày một viên đến khi sinh, khó là không quên hằng ngày",
+      "plain": "Tiền sản giật là một bệnh tăng huyết áp trong thai kỳ. Nguy cơ cao gồm từng mắc ở thai trước, đa thai, tăng huyết áp mạn, tiểu đường trước mang thai, bệnh thận hoặc bệnh tự miễn. Nhóm nguy cơ cao uống một viên aspirin liều thấp mỗi ngày từ tuần thai 12 giúp giảm khoảng mười lăm phần trăm nguy cơ tiền sản giật, khoảng hai phần mười nguy cơ sinh non và trẻ tử vong quanh cuộc sinh. Người khác đừng tự uống.",
+      "benefit": "Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ khuyến nghị mức B: người nguy cơ cao tiền sản giật bắt đầu dùng aspirin liều thấp (81 miligam/ngày) sau tuần thai 12 để phòng ngừa. Tiền sản giật là một bệnh tăng huyết áp thai kỳ. Gộp nhiều nghiên cứu cho kết quả sau; 95% CI là khoảng tin cậy. Tiền sản giật RR 0.85 (95% CI 0.75 đến 0.95, 16 nghiên cứu), giảm khoảng 15%. Sinh non RR 0.80 (95% CI 0.67 đến 0.95, 13 nghiên cứu), giảm khoảng 20%. Tử vong chu sinh RR 0.79 (95% CI 0.66 đến 0.96, 11 nghiên cứu), giảm khoảng 21%; chu sinh là giai đoạn trước và sau cuộc sinh. Trẻ nhỏ so với tuổi thai/hạn chế tăng trưởng trong tử cung RR 0.82 (95% CI 0.68 đến 0.99, 16 nghiên cứu), giảm khoảng 18%; tức thai nhỏ hơn so với những thai cùng tuần tuổi",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2021). Aspirin Use to Prevent Preeclampsia and Related Morbidity and Mortality: Preventive Medication. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/low-dose-aspirin-use-for-the-prevention-of-morbidity-and-mortality-from-preeclampsia-preventive-medication>",
+      "notes": "Nguy cơ cao gồm: thai trước từng tiền sản giật, song thai hoặc đa thai, tăng huyết áp mạn; đã có tiểu đường loại 1 hoặc loại 2 trước khi mang thai; bệnh thận; bệnh tự miễn như lupus ban đỏ hệ thống, hội chứng kháng phospholipid. Không thuộc các nhóm này thì đừng tự uống. Thuốc cần bác sĩ kê đơn; khi khám thai hãy nói rõ tiền sử để bác sĩ đánh giá. Trong nước chủ yếu bán viên bao tan trong ruột 100 miligam, dùng theo chỉ định bác sĩ"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

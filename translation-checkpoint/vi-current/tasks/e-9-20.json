@@ -1,0 +1,49 @@
+{
+  "id": "e-9-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "5f200c4c9f6a9c4802bd62ba923ef391551ee8d38a87918e7a79bbdeefbbedeb",
+  "status": "outdated",
+  "original": {
+    "number": 20,
+    "title": "孩子生下来养不了，只有民政登记这一条合法出路：收钱把孩子给人可能按拐卖罪判，扔下不管是遗弃罪",
+    "fields": {
+      "cost": "不花钱。到县级以上民政部门办收养登记，要交材料，还要等审核和收养评估，前后要花些时间。",
+      "plain": "养不了有出路，但合法的只有一条：到民政部门办收养登记，收养关系从登记那天才成立。私下把孩子给人，尤其是收了钱，可能从「送养」变成拐卖儿童罪，起刑就是 5 年以上。把孩子扔下不管、拒不抚养，情节恶劣的是遗弃罪，判 5 年以下。",
+      "benefit": "刑法第二百四十条：「拐卖妇女、儿童的，处五年以上十年以下有期徒刑，并处罚金」。有加重情形的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。「情节特别严重的，处死刑，并处没收财产」。《关于依法惩治拐卖妇女儿童犯罪的意见》第 17 条，说的是怎么区分卖亲生孩子和民间送养。判断标准是「关键在于行为人是否具有非法获利的目的」。也就是看有没有想靠这件事挣钱。有三种情形可以认定为出卖亲生子女，按拐卖妇女、儿童罪定罪。第一种是「将生育作为非法获利手段，生育后即出卖子女的」。第二种是「明知对方不具有抚养目的，或者根本不考虑对方是否具有抚养目的，为收取钱财将子女『送』给他人的」。第三种是「为收取明显不属于『营养费』『感谢费』的巨额钱财将子女『送』给他人的」。反过来，不是为了挣钱、确实迫于生活困难私自送养、只收少量营养费感谢费的，属于民间送养，不按拐卖罪定罪。再看刑法第二百六十一条。「对于年老、年幼、患病或者其他没有独立生活能力的人，负有扶养义务而拒绝扶养，情节恶劣的，处五年以下有期徒刑、拘役或者管制」。民法典第一千零九十四条规定，能当送养人的只有三种：孤儿的监护人、儿童福利机构、有特殊困难无力抚养子女的生父母。第一千一百零五条：「收养应当向县级以上人民政府民政部门登记。收养关系自登记之日起成立」",
+      "grade": "A",
+      "sources": "全国人大 (1997). 刑法（第二百四十、二百六十一条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院、最高人民检察院、公安部、司法部 (2010). 关于依法惩治拐卖妇女儿童犯罪的意见（法发〔2010〕7 号，第 17 条）. 最高人民法院官网 <https://www.court.gov.cn/fabu/xiangqing/977.html>；全国人大 (2020). 民法典（第一千零九十四、一千一百零五条）. 盐城市人民政府转载收养编全文 <https://xxgk.yczf.gov.cn/xzf/ycmzj/fdzdgknr/fgwj_41995/202112/t20211203_1506640.shtml>",
+      "notes": "要不要生这里不谈。孩子生下来之后，按这个顺序走省事。第一步，去医院生，产检和住院分娩见第 27 节。出生医学证明是后面所有手续的前提。第二步，要送养就直接找县级以上民政部门，别经由中间人。钱一旦过手，性质就可能变。产后一年之内，如果出现「有伤害自己或者伤害孩子的念头」，按急症处理。孕期和产后要立刻去医院的清单，见第 27 节第 7 条。产后 42 天复查同时是产后抑郁筛查，见第 27 节第 16 条。有自杀念头时打 12356，见第 1 节第 25 条。本条没有配案例：拐卖亲生子女的官方典型案例，本轮没有逐案核对，所以只引了条文和意见原文。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由",
+      "人群": "婴幼儿,孩子,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 20,
+    "title": "Sinh con không nuôi được, chỉ đăng ký với dân chính là đường hợp pháp: nhận tiền giao con có thể bị tội mua bán trẻ em; bỏ mặc là tội bỏ rơi",
+    "fields": {
+      "cost": "Không tốn tiền. Đăng ký nhận nuôi tại cơ quan dân chính cấp huyện trở lên, nộp giấy tờ, chờ duyệt và đánh giá nhận nuôi, mất một khoảng thời gian.",
+      "plain": "Không nuôi được có lối ra nhưng hợp pháp chỉ một: đăng ký nhận nuôi tại dân chính, quan hệ nhận nuôi chỉ hình thành từ ngày đăng ký. Tự giao con, nhất là nhận tiền, có thể từ “cho làm con nuôi” thành mua bán trẻ em, khởi điểm từ 5 năm tù. Bỏ mặc, từ chối nuôi với tình tiết tồi tệ là tội bỏ rơi, đến 5 năm.",
+      "benefit": "Điều hai trăm bốn mươi Bộ luật Hình sự: “Mua bán phụ nữ, trẻ em bị phạt tù từ năm đến mười năm và phạt tiền”. Có tình tiết tăng nặng thì từ mười năm trở lên hoặc chung thân, kèm phạt tiền hoặc tịch thu tài sản. “Đặc biệt nghiêm trọng thì tử hình, tịch thu tài sản”. Điều 17 “Ý kiến về trừng trị theo luật tội mua bán phụ nữ trẻ em” phân biệt bán con ruột với cho nuôi trong dân: “mấu chốt là có mục đích thu lợi bất hợp pháp không”, tức muốn kiếm tiền không. Ba tình huống xác định bán con ruột, kết tội mua bán phụ nữ trẻ em: “dùng sinh con làm cách thu lợi bất hợp pháp, sinh xong bán”; “biết người nhận không có mục đích nuôi hoặc hoàn toàn không quan tâm họ có mục đích đó không, ‘cho’ con để lấy tiền”; “cho con để lấy khoản lớn rõ ràng không phải ‘tiền dinh dưỡng’, ‘tiền cảm ơn’”. Ngược lại, không nhằm kiếm tiền, thật sự khó khăn phải tự cho nuôi, chỉ nhận ít tiền dinh dưỡng, cảm ơn, là cho nuôi trong dân, không kết tội mua bán. Điều hai trăm sáu mươi mốt: “Có nghĩa vụ cấp dưỡng người già, nhỏ, bệnh hoặc không thể sống độc lập mà từ chối, tình tiết tồi tệ, bị đến năm năm tù, giam ngắn hạn hoặc quản chế”. Điều một nghìn không trăm chín mươi bốn Bộ luật Dân sự cho ba nhóm giao trẻ làm con nuôi: người giám hộ trẻ mồ côi, cơ sở phúc lợi trẻ em, cha mẹ ruột có khó khăn đặc biệt không đủ nuôi. Điều một nghìn một trăm lẻ năm: “Nhận nuôi phải đăng ký tại cơ quan dân chính chính quyền từ cấp huyện; quan hệ nhận nuôi hình thành ngày đăng ký”.",
+      "grade": "A",
+      "sources": "全国人大 (1997). 刑法（第二百四十、二百六十一条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院、最高人民检察院、公安部、司法部 (2010). 关于依法惩治拐卖妇女儿童犯罪的意见（法发〔2010〕7 号，第 17 条）. 最高人民法院官网 <https://www.court.gov.cn/fabu/xiangqing/977.html>；全国人大 (2020). 民法典（第一千零九十四、一千一百零五条）. 盐城市人民政府转载收养编全文 <https://xxgk.yczf.gov.cn/xzf/ycmzj/fdzdgknr/fgwj_41995/202112/t20211203_1506640.shtml>",
+      "notes": "Ở đây không bàn có sinh không. Con đã sinh thì theo thứ tự này đỡ phiền nhất. Bước đầu, sinh ở bệnh viện; khám thai, sinh nội trú xem chương 27. Giấy chứng sinh là tiền đề mọi thủ tục sau. Bước hai, muốn cho nuôi thì tìm thẳng dân chính cấp huyện trở lên, không qua trung gian. Tiền đã qua tay thì tính chất có thể đổi. Trong năm đầu sau sinh, xuất hiện “ý nghĩ hại mình hoặc con” phải xử như cấp cứu. Danh sách dấu hiệu phải tới viện ngay khi mang thai, sau sinh xem chương 27 mục 7. Khám lại sau sinh 42 ngày cũng sàng lọc trầm cảm, xem chương 27 mục 16. Có ý nghĩ tự sát gọi 12356, xem chương 1 mục 25. Mục này không kèm vụ án: đợt này chưa đối chiếu từng vụ chính thức về bán con ruột, nên chỉ dẫn luật và ý kiến gốc."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

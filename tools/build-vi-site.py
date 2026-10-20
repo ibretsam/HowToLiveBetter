@@ -12,6 +12,7 @@ import re
 import shutil
 import subprocess
 from urllib.parse import quote
+import vi_updates
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "dist/vi-site"
@@ -88,6 +89,17 @@ def build():
     manifest = json.loads((ROOT / "vi/translation-manifest.json").read_text())
     records = {r["source"]: r for r in manifest["files"]}
     mappings = json.loads((ROOT / "vi/entry-mapping.json").read_text())["pairs"]
+    updates = vi_updates.load_reviewed()
+    applied_updates = set()
+    def update_for(ident, source, original):
+        update = updates.get(ident)
+        if update:
+            task, draft, review = update
+            assert task["source_commit"] == config["source_commit"], f"Update source revision: {ident}"
+            assert task["source_path"] == source and task["source_sha256"] == vi_updates.digest(original), (
+                f"Update source content mismatch: {ident}")
+            applied_updates.add(ident)
+        return update
     sections, docs, counts = [], [], Counter()
     readme = git_text(config["source_commit"], "README.md")
     chapter_paths = sorted(set(re.findall(r"\]\((book/[^)#]+\.md)\)", readme)))
@@ -109,9 +121,17 @@ def build():
         section = {"id": sec, "title": translated["title"] or current["title"],
                    "originalTitle": current["title"], "introOriginal": current["intro"],
                    "introTranslation": translated["intro"], "sourcePath": source,
+                   "introStatus": "outdated", "introTranslationRevision": base,
                    "sourceUrl": source_url(config, source), "entries": []}
+        intro_update = update_for(f"intro-{sec}", source, {"title": current["title"], "intro": current["intro"]})
+        if intro_update:
+            intro = intro_update[1]["translation"]
+            section.update(title=intro["title"],
+                           introTranslation=vi_updates.segments.rewrite_links(intro["intro"], source),
+                           introStatus="draft", introTranslationRevision=config["source_commit"])
         for entry in current["entries"]:
             n = entry["number"]
+            ident = f"e-{sec}-{n}"
             vi, old = vi_by_n.get(n), old_by_n.get(n)
             mapping = mappings.get(f"e-{sec}-{n}", {})
             # Numbering is stable in this update, but refuse a mismatched pairing.
@@ -124,12 +144,21 @@ def build():
                 status = "draft" if same_content(old, entry) else "outdated"
             if status == "pending":
                 vi = None
+            translation_commit = base
+            update = update_for(ident, source, entry)
+            if update:
+                task, draft, review = update
+                vi = vi_updates.entry_translation(task, draft)
+                status = "draft"
+                translation_commit = task["source_commit"]
             counts[status] += 1
             section["entries"].append({
-                "id": f"e-{sec}-{n}", "number": n, "status": status,
+                "id": ident, "number": n, "status": status,
                 "translation": vi, "original": entry,
                 "sourceUrl": source_url(config, source),
-                "translationSourceUrl": source_url(config, source, base),
+                "translationSourceUrl": source_url(config, source, translation_commit),
+                "translationRevision": translation_commit,
+                "reviewedUpdate": bool(update),
             })
         sections.append(section)
     doc_paths = list(dict.fromkeys(re.findall(r"\]\((docs/[^)#/]+\.md)\)", readme)))
@@ -145,19 +174,38 @@ def build():
         status = "pending"
         if translation and "[CHƯA DỊCH]" not in translation:
             status = "draft" if original == git_text(base, source) else "outdated"
+        translation_commit = base
+        doc_update = update_for("doc-" + slug, source, original)
+        if doc_update:
+            translation = vi_updates.segments.rewrite_links(doc_update[1]["translation"]["markdown"], source)
+            translation_commit = config["source_commit"]
+            status = "draft"
+            target = target or f"vi/docs/{slug}.md"
         docs.append({"id": slug, "title": title, "status": status, "sourcePath": source,
                      "translationPath": target, "originalMarkdown": original,
                      "translationMarkdown": translation if status != "pending" else None,
                      "sourceUrl": source_url(config, source),
-                     "translationSourceUrl": source_url(config, source, base)})
+                     "translationSourceUrl": source_url(config, source, translation_commit),
+                     "translationRevision": translation_commit, "reviewedUpdate": bool(doc_update)})
+    guide_update = update_for("guide", "README.md", readme)
+    guide_translation = (ROOT / "vi/README.md").read_text()
+    guide_commit = base
+    if guide_update:
+        guide_translation = vi_updates.segments.rewrite_links(guide_update[1]["translation"]["markdown"], "README.md")
+        guide_commit = config["source_commit"]
+    assert applied_updates == set(updates), "Reviewed update has no current content"
+    reviewed_entries = sum(ident.startswith("e-") for ident in applied_updates)
     data = {"meta": {**config, "total": sum(counts.values()), "counts": dict(counts),
+                    "reviewed_updates": reviewed_entries,
+                    "reviewed_supplementary": len(applied_updates) - reviewed_entries,
                     "statusLabels": STATUSES}, "sections": sections, "docs": docs,
-            "guide": {"title": "Hướng dẫn đọc và thuật ngữ", "status": "outdated",
-                      "translationMarkdown": (ROOT / "vi/README.md").read_text(),
+            "guide": {"title": "Hướng dẫn đọc và thuật ngữ", "status": "draft" if guide_update else "outdated",
+                      "translationMarkdown": guide_translation,
                       "originalMarkdown": readme, "sourcePath": "README.md",
                       "translationPath": "vi/README.md",
+                      "translationRevision": guide_commit, "reviewedUpdate": bool(guide_update),
                       "sourceUrl": source_url(config, "README.md"),
-                      "translationSourceUrl": source_url(config, "README.md", base)}}
+                      "translationSourceUrl": source_url(config, "README.md", guide_commit)}}
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "data.json").write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")) + "\n")
     html = (ROOT / "vi/index.html").read_text()
@@ -184,6 +232,10 @@ def build():
     report = {"source_commit": config["source_commit"], "translation_base_commit": base,
               "chapters": len(sections), "entries": sum(counts.values()),
               "articles": len(docs), "entries_by_status": dict(counts),
+              "reviewed_updates": reviewed_entries,
+              "reviewed_supplementary": len(applied_updates) - reviewed_entries,
+              "chapter_intros_by_status": dict(Counter(s["introStatus"] for s in sections)),
+              "guide_status": data["guide"]["status"],
               "articles_by_status": dict(Counter(d["status"] for d in docs))}
     (OUT / "coverage.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
     print(json.dumps(report, ensure_ascii=False, indent=2))

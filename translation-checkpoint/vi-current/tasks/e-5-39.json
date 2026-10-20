@@ -1,0 +1,48 @@
+{
+  "id": "e-5-39",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "dd6c929b97f72219e1aa7a45e4e0018c2811f52d9850243e94bacae3bfe7aaec",
+  "status": "draft",
+  "original": {
+    "number": 39,
+    "title": "只给自己扛不住的损失买保险，扛得住的损失用应急金兜着",
+    "fields": {
+      "cost": "不花钱。要做的是把家里可能遇到的大损失列一遍，看哪几样存款扛不住。一次半小时。",
+      "plain": "你交的保费不会全部赔回来，有一部分要付保险公司的费用和利润。所以值得买的，是很少发生、一旦发生家里掏不出来的损失，比如大病、开车撞伤人、家里挣钱的人走了。存款扛得住的小损失，交给应急金。",
+      "benefit": "保险公司收上来的保费，只有一部分会作为赔款付出去。剩下的要付销售和运营的费用，还有公司的利润。监管要求卖个人短期健康险的公司，每半年在官网公布一次「综合赔付率」。它大致是赔出去的钱占保费的比例，想知道一家公司赔出去多少，可以去它官网查。所以对一件损失来说，买保险长期平均是亏一点钱。换来的是把一次能压垮家里的大额支出，摊成每年一笔小钱。损失越小、你越掏得起，这笔交换越不划算。按这个标准，书里已经写过的几样是值得买的。一年期医疗险见第 7 节第 20 条（一年期医疗险）。有车的人见本节第 26 条（三者险）。出国的人见第 21 节第 4 条（境外医疗）。家里有人靠你的收入过日子的，见本节第 40 条（定期寿险）（全国，2021 年起）",
+      "grade": "C",
+      "sources": "中国银保监会办公厅 (2021). 关于规范短期健康保险业务有关问题的通知（银保监办发〔2021〕7 号，综合赔付率按半年在公司官网披露）. <https://www.gov.cn/zhengce/zhengceku/2021-01/12/content_5579193.htm>",
+      "notes": "定 C 级，是因为没有官方数字能算出哪种保险买了划算，这里给的是取舍的办法。碎屏险、航班延误险这类，损失几百元，自己掏得起，按这个标准可以不买。重疾险赔的是生病停工那几年的收入，存款够撑一两年停工的人，可以考虑不买。基本医保是社会保险，不按这个办法取舍，照样要交，见第 7 节第 9 条（居民医保）。小损失靠什么兜，见本节第 27 条（应急金）。这条的受益人是你自己和家人。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 39,
+    "title": "Chỉ mua bảo hiểm cho tổn thất mình không gánh nổi, tổn thất gánh được thì dùng quỹ khẩn cấp",
+    "fields": {
+      "cost": "Không tốn tiền. Liệt kê các thiệt hại lớn gia đình có thể gặp, xem khoản nào tiền tiết kiệm không đủ chịu. Một lần nửa giờ.",
+      "plain": "Phí bạn đóng không được trả lại toàn bộ thành bồi thường, một phần dùng cho chi phí và lợi nhuận công ty bảo hiểm. Vì vậy đáng mua là bảo vệ tổn thất hiếm xảy ra nhưng khi xảy ra gia đình không trả nổi, như bệnh nặng, lái xe gây thương tích, người kiếm tiền trong nhà qua đời. Tổn thất nhỏ tiền tiết kiệm đủ gánh thì để quỹ khẩn cấp lo.",
+      "benefit": "Chỉ một phần phí công ty bảo hiểm thu được chi trả bồi thường; phần còn lại trả chi phí bán hàng, vận hành và lợi nhuận. Quy định yêu cầu công ty bán bảo hiểm sức khỏe cá nhân ngắn hạn công bố “tỷ lệ bồi thường tổng hợp” trên website mỗi nửa năm. Đại thể đó là tỷ lệ tiền bồi thường trên phí; muốn biết một công ty trả bao nhiêu có thể tra website. Vì thế xét một loại tổn thất, mua bảo hiểm trung bình dài hạn lỗ chút tiền, đổi lại chia khoản chi lớn đủ làm gia đình khánh kiệt thành khoản nhỏ mỗi năm. Tổn thất càng nhỏ, bạn càng trả nổi thì đổi chác càng không đáng. Theo tiêu chí này, vài loại đã có trong sách đáng mua: bảo hiểm y tế thương mại một năm xem chương 7 mục 20; có xe xem mục 26 chương này (bên thứ ba); ra nước ngoài xem chương 21 mục 4 (y tế nước ngoài); có người sống nhờ thu nhập của bạn xem mục 40 chương này (nhân thọ có thời hạn) (toàn quốc, từ năm 2021).",
+      "grade": "C",
+      "sources": "中国银保监会办公厅 (2021). 关于规范短期健康保险业务有关问题的通知（银保监办发〔2021〕7 号，综合赔付率按半年在公司官网披露）. <https://www.gov.cn/zhengce/zhengceku/2021-01/12/content_5579193.htm>",
+      "notes": "Xếp C vì không có số chính thức tính loại bảo hiểm nào mua là lợi, chỉ đưa cách cân nhắc. Bảo hiểm vỡ màn hình, chuyến bay chậm gây thiệt hại vài trăm nhân dân tệ, tự trả được thì có thể không mua. Bảo hiểm bệnh hiểm nghèo bù thu nhập những năm nghỉ làm do bệnh; tiết kiệm đủ nghỉ một hai năm có thể cân nhắc không mua. Bảo hiểm y tế cơ bản là bảo hiểm xã hội, không chọn theo cách này, vẫn phải đóng, xem chương 7 mục 9 (bảo hiểm y tế cư dân). Tổn thất nhỏ dựa gì xem mục 27 chương này (quỹ khẩn cấp). Người hưởng lợi là bạn và gia đình."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

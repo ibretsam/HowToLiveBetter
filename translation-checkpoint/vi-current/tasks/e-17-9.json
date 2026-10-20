@@ -1,0 +1,49 @@
+{
+  "id": "e-17-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "eef0e28f0ca6164834af474457f63749206950a8b9e8bd8220c3060e9afe7323",
+  "status": "draft",
+  "original": {
+    "number": 9,
+    "title": "老人的白内障已经影响看路，就去眼科评估做手术；两只眼都有的，第二只别拖太久",
+    "fields": {
+      "cost": "先陪老人去眼科查一次，由医生判断该不该做。一只眼做一次手术，很多医院按日间手术做，当天就能回家。两只眼都有白内障的，要分两次做。自己掏多少钱，看换进眼里的人工晶体（人造镜片）选哪种、当地医保怎么报，术前问清楚。",
+      "plain": "70 岁以上的女性尽快做第一只眼的白内障手术，一年里跌倒的次数少约三成四，骨折的人也少了。但摔过跤的人数没有少。第二只眼做不做，跌倒上没看出明显差别。做了手术的老人，一年内髋部骨折低约一成六。",
+      "benefit": "一项随机试验找了 306 名 70 岁以上、有白内障的女性。一半在约 4 周内做第一只眼的手术，另一半按常规等 12 个月。一年里，尽快做手术的人跌倒次数少约 34%。原值是跌倒率之比 0.66，可信范围 95% CI 0.45 到 0.96。跌过至少一次的人，手术组 49%，等待组 45%，没有少。跌过两次以上的人，手术组 18%，等待组 25%。手术组 4 人骨折（3%），等待组 12 人（8%）。Cochrane 综述收了这项试验，结论是女性第一只眼的手术减少了跌倒次数，第二只眼的手术没有。第二只眼的随机试验找了 239 名 70 岁以上的女性。手术组跌倒率低 32%，但差别可能是碰巧（跌倒率之比 0.68，95% CI 0.39 到 1.19）。美国医保 5% 抽样里，有 1113640 名 65 岁以上的白内障病人（2002 到 2009 年）。这项研究只是跟踪记录，没有分组对照。做了手术的人，一年内髋部骨折的几率低约 16%（OR 0.84，95% CI 0.81 到 0.87）。绝对差是 0.20 个百分点，约每 1000 人少 2 例",
+      "grade": "B",
+      "sources": "Harwood RH, Foss AJ, Osborn F, Gregson RM, Zaman A, Masud T (2005). Falls and health status in elderly women following first eye cataract surgery: a randomised controlled trial. British Journal of Ophthalmology, 89(1), 53-59. <https://doi.org/10.1136/bjo.2004.049478> ; Foss AJ, Harwood RH, Osborn F, Gregson RM, Zaman A, Masud T (2006). Falls and health status in elderly women following second eye cataract surgery: a randomised controlled trial. Age and Ageing, 35(1), 66-71. <https://doi.org/10.1093/ageing/afj005> ; Gillespie LD, Robertson MC, Gillespie WJ, et al. (2012). Interventions for preventing falls in older people living in the community. Cochrane Database of Systematic Reviews, 9, CD007146. <https://doi.org/10.1002/14651858.CD007146.pub3> ; Tseng VL, Yu F, Lum F, Coleman AL (2012). Risk of fractures following cataract surgery in Medicare beneficiaries. JAMA, 308(5), 493-501. <https://doi.org/10.1001/jama.2012.9014> ; Desapriya E, Subzwari S, Scime-Beltrano G, et al. (2010). Vision improvement and reduction in falls after expedited cataract surgery: systematic review and metaanalysis. Journal of Cataract and Refractive Surgery, 36(1), 13-19. <https://doi.org/10.1016/j.jcrs.2009.07.032> ; Meuleners LB, Lee AH, Ng JQ, Morlet N, Fraser ML (2012). First eye cataract surgery and hospitalization from injuries due to a fall: a population-based study. Journal of the American Geriatrics Society, 60(9), 1730-1733. <https://doi.org/10.1111/j.1532-5415.2012.04098.x> ; Meuleners LB, Fraser ML, Ng J, Morlet N (2014). The impact of first- and second-eye cataract surgery on injurious falls that require hospitalisation: a whole-population study. Age and Ageing, 43(3), 341-346. <https://doi.org/10.1093/ageing/aft177> ; Keay L, Ho KC, Rogers K, et al. (2022). The incidence of falls after first and second eye cataract surgery: a longitudinal cohort study. Medical Journal of Australia, 217(2), 94-99. <https://doi.org/10.5694/mja2.51611> ; 国家卫生健康委 (2022). 「十四五」全国眼健康规划（2021-2025年）. <https://www.gov.cn/zhengce/zhengceku/2022-01/17/content_5668951.htm>",
+      "notes": "争议：两项随机试验合起来算，摔过跤的人数没有明显减少（OR 0.81，95% CI 0.55 到 1.17）。澳大利亚西部的全人群住院记录里，做完第一只眼后的一年，因跌倒受伤住院的反而多了 27%。两次手术之间那段，这类住院是术前的 2.14 倍。这类前后对比分不开手术的影响和人变老的影响。另一项澳大利亚的跟踪研究里，做完第二只眼以后，跌倒次数降得最多。所以两只眼都有白内障的，第二只别拖太久。两次手术之间那段，走路和上下楼要格外小心。Cochrane 还收了一项帮老人处理视力问题的试验，跌倒次数反而多了约五成七。手术管的是看不看得清，少摔跤还要靠第 1 节第 13 条（平衡和腿部力量）。骨头经不经得起摔，见第 1 节第 39 条（骨密度检查）和第 1 节第 40 条（查出骨质疏松就用药）。国家眼健康规划写明，白内障复明手术已在县域普遍开展，不一定要去大城市的医院。受益人主要是你的父母和祖父母。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Nếu đục thủy tinh thể đã cản trở người cao tuổi nhìn đường, đến chuyên khoa mắt đánh giá phẫu thuật; nếu cả hai mắt mắc, đừng trì hoãn mắt thứ hai quá lâu",
+    "fields": {
+      "cost": "Đưa người cao tuổi khám mắt trước để bác sĩ quyết định có nên mổ. Mỗi mắt mổ một lần, nhiều bệnh viện thực hiện trong ngày và về nhà ngay. Hai mắt cùng đục thì chia hai lần. Số tiền tự trả tùy loại thủy tinh thể nhân tạo được đặt vào mắt và cách bảo hiểm y tế địa phương thanh toán; hỏi rõ trước mổ.",
+      "plain": "Phụ nữ từ 70 tuổi trở lên mổ mắt đầu tiên sớm có số lần ngã trong một năm giảm khoảng ba mươi bốn phần trăm, số người gãy xương cũng giảm. Nhưng số người từng ngã không giảm. Có mổ mắt thứ hai hay không chưa thấy khác biệt rõ về ngã. Người cao tuổi đã mổ có gãy hông trong một năm thấp hơn khoảng mười sáu phần trăm.",
+      "benefit": "Một thử nghiệm ngẫu nhiên gồm 306 phụ nữ từ 70 tuổi trở lên bị đục thủy tinh thể. Một nửa mổ mắt đầu trong khoảng 4 tuần; nửa còn lại chờ thường quy 12 tháng. Trong một năm, người mổ sớm có số lần ngã giảm khoảng 34%. Giá trị gốc là tỷ số tỷ suất ngã 0.66, khoảng tin cậy 95% CI 0.45 đến 0.96. Số người ngã ít nhất một lần là 49% nhóm mổ và 45% nhóm chờ, không giảm. Người ngã từ hai lần trở lên là 18% nhóm mổ và 25% nhóm chờ. Nhóm mổ có 4 người gãy xương (3%), nhóm chờ 12 người (8%). Tổng quan Cochrane đưa thử nghiệm này vào và kết luận mổ mắt đầu ở phụ nữ giảm số lần ngã, mổ mắt thứ hai thì không. Thử nghiệm ngẫu nhiên mắt thứ hai gồm 239 phụ nữ từ 70 tuổi trở lên. Tỷ suất ngã nhóm mổ thấp hơn 32%, nhưng khác biệt có thể tình cờ (tỷ số tỷ suất ngã 0.68, 95% CI 0.39 đến 1.19). Mẫu 5% bảo hiểm y tế Hoa Kỳ có 1113640 bệnh nhân đục thủy tinh thể từ 65 tuổi trở lên (2002 đến 2009). Nghiên cứu này chỉ theo dõi ghi nhận, không chia nhóm đối chứng. Người đã mổ có odds gãy hông trong một năm thấp hơn khoảng 16% (OR 0.84, 95% CI 0.81 đến 0.87). Chênh lệch tuyệt đối 0.20 điểm phần trăm, khoảng ít hơn 2 ca trên mỗi 1000 người",
+      "grade": "B",
+      "sources": "Harwood RH, Foss AJ, Osborn F, Gregson RM, Zaman A, Masud T (2005). Falls and health status in elderly women following first eye cataract surgery: a randomised controlled trial. British Journal of Ophthalmology, 89(1), 53-59. <https://doi.org/10.1136/bjo.2004.049478> ; Foss AJ, Harwood RH, Osborn F, Gregson RM, Zaman A, Masud T (2006). Falls and health status in elderly women following second eye cataract surgery: a randomised controlled trial. Age and Ageing, 35(1), 66-71. <https://doi.org/10.1093/ageing/afj005> ; Gillespie LD, Robertson MC, Gillespie WJ, et al. (2012). Interventions for preventing falls in older people living in the community. Cochrane Database of Systematic Reviews, 9, CD007146. <https://doi.org/10.1002/14651858.CD007146.pub3> ; Tseng VL, Yu F, Lum F, Coleman AL (2012). Risk of fractures following cataract surgery in Medicare beneficiaries. JAMA, 308(5), 493-501. <https://doi.org/10.1001/jama.2012.9014> ; Desapriya E, Subzwari S, Scime-Beltrano G, et al. (2010). Vision improvement and reduction in falls after expedited cataract surgery: systematic review and metaanalysis. Journal of Cataract and Refractive Surgery, 36(1), 13-19. <https://doi.org/10.1016/j.jcrs.2009.07.032> ; Meuleners LB, Lee AH, Ng JQ, Morlet N, Fraser ML (2012). First eye cataract surgery and hospitalization from injuries due to a fall: a population-based study. Journal of the American Geriatrics Society, 60(9), 1730-1733. <https://doi.org/10.1111/j.1532-5415.2012.04098.x> ; Meuleners LB, Fraser ML, Ng J, Morlet N (2014). The impact of first- and second-eye cataract surgery on injurious falls that require hospitalisation: a whole-population study. Age and Ageing, 43(3), 341-346. <https://doi.org/10.1093/ageing/aft177> ; Keay L, Ho KC, Rogers K, et al. (2022). The incidence of falls after first and second eye cataract surgery: a longitudinal cohort study. Medical Journal of Australia, 217(2), 94-99. <https://doi.org/10.5694/mja2.51611> ; 国家卫生健康委 (2022). 「十四五」全国眼健康规划（2021-2025年）. <https://www.gov.cn/zhengce/zhengceku/2022-01/17/content_5668951.htm>",
+      "notes": "Còn tranh luận: gộp hai thử nghiệm ngẫu nhiên, số người từng ngã không giảm rõ (OR 0.81, 95% CI 0.55 đến 1.17). Hồ sơ nhập viện toàn dân Tây Úc cho thấy trong năm sau mổ mắt đầu, nhập viện vì chấn thương do ngã lại tăng 27%. Giai đoạn giữa hai lần mổ, loại nhập viện này gấp 2.14 lần trước mổ. So sánh trước sau không tách được tác động của mổ với tác động lão hóa. Một nghiên cứu theo dõi khác ở Úc thấy số lần ngã giảm nhiều nhất sau mổ mắt thứ hai. Vì vậy, nếu cả hai mắt đều đục, đừng trì hoãn mắt thứ hai quá lâu. Giữa hai lần mổ cần đặc biệt cẩn thận khi đi bộ, lên xuống cầu thang. Cochrane còn đưa vào một thử nghiệm giúp người cao tuổi xử lý vấn đề thị lực, nhưng số lần ngã lại tăng khoảng năm mươi bảy phần trăm. Mổ giải quyết nhìn rõ hay không; muốn bớt ngã còn cần chương 1 mục 13 (thăng bằng và sức mạnh chân). Xương có chịu được cú ngã không xem chương 1 mục 39 (đo mật độ xương) và chương 1 mục 40 (phát hiện loãng xương thì dùng thuốc). Kế hoạch sức khỏe mắt Quốc gia ghi rõ phẫu thuật phục hồi thị lực do đục thủy tinh thể đã phổ biến ở cấp huyện, không nhất thiết đến bệnh viện thành phố lớn. Người hưởng lợi chủ yếu là cha mẹ và ông bà của bạn."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

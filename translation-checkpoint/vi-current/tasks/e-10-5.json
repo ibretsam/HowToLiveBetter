@@ -1,0 +1,48 @@
+{
+  "id": "e-10-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "d8cb0a2f36cc76c422a5b786d1979948901964b6093636d4f02af89ce5fd9cc7",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "想拉近距离就轮流回答一组由浅入深的问题，别学话术",
+    "fields": {
+      "cost": "不花钱。要花 45 分钟。",
+      "plain": "两个陌生人轮流回答 36 道由浅入深的问题，45 分钟后，比光闲聊同样久的人更亲近。起作用的是轮流说真话、一层层往深里说，不靠话术。这只说明当时更亲近，不代表能发展成长期关系。",
+      "benefit": "把互不相识的两人配对，让他们轮流回答三组逐步深入的问题，一共 36 题。问题从「你最想请谁吃饭」一直到「上一次当着别人的面哭是什么时候」。45 分钟后的亲近感，显著高于做同样时长闲聊的对照组。也高于该研究中大学生对自己现实中最亲密关系的平均评分",
+      "grade": "B",
+      "sources": "Aron A, Melinat E, Aron EN, Vallone RD, Bator RJ (1997). The experimental generation of interpersonal closeness: a procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363-377. <https://doi.org/10.1177/0146167297234003>",
+      "notes": "只做过一次实验，对象是大学生，只测了短时间内的亲近感，没测能不能发展成长期关系。实验里的亲近感来自两个人轮流、一层层往深里说自己的真实情况，靠的不是话术、套路或单方面表现。所以聊天时管用的做法是「我说一点真实的，也问一句一样深的」，两边轮流"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Muốn gần nhau hãy luân phiên trả lời câu hỏi từ nông đến sâu, đừng học chiêu nói chuyện",
+    "fields": {
+      "cost": "Không tốn tiền. Cần 45 phút.",
+      "plain": "Hai người lạ luân phiên trả lời 36 câu từ nông đến sâu, sau 45 phút gần gũi hơn nhiều so với chỉ trò chuyện vu vơ cùng thời gian. Điều có tác dụng là luân phiên nói thật, từng lớp sâu hơn, không phải chiêu nói. Chỉ cho thấy lúc đó gần hơn, không chứng minh thành quan hệ lâu dài.",
+      "benefit": "Ghép hai người lạ, cho luân phiên trả lời ba nhóm câu hỏi sâu dần, tổng 36 câu, từ “bạn muốn mời ai ăn tối nhất” đến “lần cuối khóc trước mặt người khác là khi nào”. Sau 45 phút, gần gũi cao hơn rõ rệt nhóm đối chứng trò chuyện vu vơ cùng thời gian, cũng cao hơn điểm trung bình sinh viên trong nghiên cứu dành cho quan hệ thân nhất ngoài đời.",
+      "grade": "B",
+      "sources": "Aron A, Melinat E, Aron EN, Vallone RD, Bator RJ (1997). The experimental generation of interpersonal closeness: a procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363-377. <https://doi.org/10.1177/0146167297234003>",
+      "notes": "Chỉ một thí nghiệm, đối tượng sinh viên, chỉ đo gần gũi ngắn hạn, không đo thành quan hệ lâu dài không. Sự gần gũi đến từ hai người luân phiên nói thật về mình sâu dần, không từ lời khéo, thủ thuật hay thể hiện một phía. Vì vậy có thể “tôi nói thật một chút, hỏi một câu sâu tương tự”, hai bên thay phiên."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

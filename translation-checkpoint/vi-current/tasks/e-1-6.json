@@ -1,0 +1,48 @@
+{
+  "id": "e-1-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "22b1986a61f54a0b8b6db31e0f2f98932aa0a36ffb5981bd79edfd9d8c9c812d",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "电动自行车不推进楼道、不进电梯、不在家里充电",
+    "fields": {
+      "cost": "不花钱。难的地方是每次都停到楼下的集中充电点，多走几十米。",
+      "plain": "在高层住宅的门厅、走道、楼梯间停电动车或者充电，是应急管理部的规章明令禁止的。不改正的，个人罚 500 到 1000 元，做生意的罚 2000 到 10000 元。罚款还是小事，要紧的是这种火正好烧在你唯一的逃生通道上。",
+      "benefit": "应急管理部的规章明文禁止：「禁止在高层民用建筑公共门厅、疏散走道、楼梯间、安全出口停放电动自行车或者为电动自行车充电」。楼门厅、走道、楼梯间、安全出口这几处，既不能停车也不能充电。拒不改正的，不做生意的单位和个人罚 500 至 1000 元，做生意的罚 2000 至 10000 元。这部规章没管电梯和屋里。应急管理部答复人大代表时说，把电动车和电池违规放在室内停放、充电，列为消防重大风险隐患的整治重点。它向社会提示的是「车入楼、线出户、自拆改」的危害。电梯是地方法规管的：北京 2025 年 5 月 1 日起禁止把电动自行车、充电电池带进电梯轿厢，拒不改正的个人罚 500 到 1000 元",
+      "grade": "A",
+      "sources": "应急管理部 (2021). 高层民用建筑消防安全管理规定（应急管理部令第 5 号，第三十七条、第四十七条）. <https://www.gov.cn/zhengce/zhengceku/2021-08/01/content_5628815.htm>；应急管理部 (2023). 关于政协第十三届全国委员会第五次会议第00969号提案答复的函：「2021年，全国共接报电动自行车火灾1.8万起，造成65人死亡、222人受伤，直接财产损失达2.21亿元，其中发生在建筑物内3782起，造成60人死亡、175人受伤」. <https://www.mem.gov.cn/gk/jytabljggk/zxwytadfzy/2022zx/202301/t20230119_440918.shtml>；应急管理部 (2025). 2025年1月15日新闻发布会：「每百万辆电动自行车火灾数量由2023年的5.6起下降至3起，火灾起数同比下降42.2%，伤亡人数下降超过90%」. <https://www.mem.gov.cn/xw/xwfbh/2025n01y15xwfbh_6337/>；应急管理部 (2024). 对十四届全国人大一次会议第7187号建议的答复：「将电动车（蓄电池）违规在室内停放或充电、未按要求设置防火分区等问题作为消防安全重大风险隐患专项排查整治2023行动整治重点」「向社会宣传提示\"车入楼、线出户、自拆改\"的火灾危险危害」. <https://www.mem.gov.cn/gk/jytabljggk/rddbjydfzy/2023_5984/202401/t20240130_476731.shtml>；北京市东城区人民政府转载北京消防 (2025). 北京消防条例：电动自行车、电池进电梯，个人最高可罚1000元：「禁止携带电动自行车、充电电池进入电梯轿厢。违规拒不改正的，可对单位处2000元以上1万元以下罚款，对个人处500元以上1000元以下罚款」. <https://www.bjdch.gov.cn/ztzl/aqsczbgjsnxd/zdgz/202504/t20250410_4061604.html>",
+      "notes": "别买改装电池，别用杂牌充电器，别整夜充着不管。锂电池一旦起火，几十秒里就整片烧开，同时冒出剧毒的烟。车停在楼道里起火，烧的就是你唯一的逃生通道。应急管理部公布的数字是，2021 年全国电动自行车火灾 1.8 万起，死 65 人。其中烧在建筑物里的 3782 起，死了 60 人，死者几乎都在室内。2024 年整治之后，火灾起数比上年降了 42.2%，伤亡降了九成以上。每百万辆车的火灾从 5.6 起降到 3 起。那次发布会没有给出全年的绝对数。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Không đưa xe đạp điện vào hành lang, thang máy, không sạc trong nhà",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là lần nào cũng đỗ ở điểm sạc tập trung dưới nhà, đi thêm vài chục mét.",
+      "plain": "Đưa xe điện vào hành lang, thang máy hoặc sạc trong nhà bị «Quy định quản lý an toàn phòng cháy nhà dân dụng cao tầng» của Bộ Quản lý Khẩn cấp cấm rõ. Không khắc phục, cá nhân phạt 500 đến 1000 nhân dân tệ, bên kinh doanh 2000 đến 10000. Phạt còn là chuyện nhỏ; nguy hiểm là ngọn lửa nằm ngay lối thoát duy nhất của bạn.",
+      "benefit": "Quy định của Bộ Quản lý Khẩn cấp ghi: «Cấm đỗ hoặc sạc xe đạp điện tại sảnh chung, hành lang thoát nạn, buồng thang, cửa thoát hiểm của nhà dân dụng cao tầng». Các vị trí đó không được đỗ, cũng không được sạc. Từ chối khắc phục thì đơn vị, cá nhân không kinh doanh bị phạt 500 đến 1000 nhân dân tệ, bên kinh doanh 2000 đến 10000",
+      "grade": "A",
+      "sources": "应急管理部 (2021). 高层民用建筑消防安全管理规定（应急管理部令第 5 号，第三十七条、第四十七条）. <https://www.gov.cn/zhengce/zhengceku/2021-08/01/content_5628815.htm>；应急管理部 (2023). 关于政协第十三届全国委员会第五次会议第00969号提案答复的函：「2021年，全国共接报电动自行车火灾1.8万起，造成65人死亡、222人受伤，直接财产损失达2.21亿元，其中发生在建筑物内3782起，造成60人死亡、175人受伤」. <https://www.mem.gov.cn/gk/jytabljggk/zxwytadfzy/2022zx/202301/t20230119_440918.shtml>；应急管理部 (2025). 2025年1月15日新闻发布会：「火灾起数同比下降42.2%，伤亡人数下降超过90%」. <https://www.mem.gov.cn/xw/xwfbh/2025n01y15xwfbh_6337/>",
+      "notes": "Đừng mua pin cải tạo, dùng sạc không rõ hãng hoặc sạc cả đêm bỏ mặc. Pin lithium cháy có thể lan cả vùng trong vài chục giây, phát khói cực độc. Xe cháy ở hành lang chính là đốt lối thoát duy nhất. Bộ Quản lý Khẩn cấp công bố năm 2021 toàn quốc có 1.8 vạn vụ cháy xe đạp điện, 65 người chết. Trong đó 3782 vụ trong công trình, 60 người chết; gần như toàn bộ tử vong ở trong nhà. Sau chấn chỉnh năm 2024, số vụ giảm 42.2% so năm trước, thương vong giảm từ chín phần mười trở lên; số tuyệt đối năm đó không công bố."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

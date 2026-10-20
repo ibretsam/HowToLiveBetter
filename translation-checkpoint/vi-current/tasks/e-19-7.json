@@ -1,0 +1,48 @@
+{
+  "id": "e-19-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "a64f835b9419d0ca613b76e41bd097c0f35002c8c584e702fe781d45493d43d4",
+  "status": "draft",
+  "original": {
+    "number": 7,
+    "title": "不要签「个人原因主动辞职」，那一签就没有 N 了",
+    "fields": {
+      "cost": "不花钱。难在要顶住当场签字的压力。",
+      "plain": "签字承认「个人原因主动辞职」，经济补偿和失业保险金通常一起落空。自己提出离职，本来就不在给补偿的那几种情形里，公司欠薪、不缴社保这类过错除外。不必当天签，冷静一晚再说。",
+      "benefit": "劳动合同法把该给经济补偿的情形限定在法律列明的那几类里。劳动者自己提出走人，不在里面，除非是因为公司欠薪、不缴社保这类法定过错。签了「主动辞职」，经济补偿和失业保险金通常一起落空",
+      "grade": "B",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第三十八条、第四十六条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "公司常用的话术是「先签了好走流程，补偿另外给」。要就当场写进协议，不写就不签。当天不签不会有任何法律后果，冷静一晚再说"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Đừng ký “tự nguyện nghỉ vì lý do cá nhân”; ký rồi sẽ không còn N",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là chịu được áp lực bắt ký tại chỗ.",
+      "plain": "Ký nhận “tự nguyện nghỉ vì lý do cá nhân” thường mất cả trợ cấp kinh tế lẫn trợ cấp thất nghiệp. Tự đề nghị nghỉ vốn không thuộc các trường hợp có trợ cấp, trừ lỗi công ty như nợ lương, không đóng bảo hiểm xã hội. Không cần ký ngay hôm đó; bình tĩnh một đêm rồi tính.",
+      "benefit": "Luật Hợp đồng lao động giới hạn trợ cấp kinh tế trong các trường hợp luật liệt kê. Người lao động tự đề nghị nghỉ không thuộc đó, trừ khi vì lỗi luật định của công ty như nợ lương, không đóng bảo hiểm xã hội. Ký “tự nguyện nghỉ” thường mất cả trợ cấp kinh tế và trợ cấp thất nghiệp",
+      "grade": "B",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第三十八条、第四十六条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "Công ty hay nói “cứ ký trước cho chạy thủ tục, tiền trợ cấp trả riêng”. Muốn vậy phải ghi ngay vào thỏa thuận, không ghi thì không ký. Không ký trong ngày không gây hậu quả pháp lý nào; bình tĩnh qua một đêm rồi tính"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

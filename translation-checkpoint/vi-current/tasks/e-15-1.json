@@ -1,0 +1,48 @@
+{
+  "id": "e-15-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "b3d9cfb01c72aaabf989c36336ca1c6e9797f9926ee855f10c078f358032f884",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "租房时押金的数额、退还时间和扣减情形，必须写进合同",
+    "fields": {
+      "cost": "不花钱。签合同时多花十分钟。难在要当着房东的面提出来",
+      "plain": "押金多少、什么时候退、什么情况下能扣，签字前就要写进合同。合同里没写的扣款理由，房东退租时不能拿来扣你的押金。",
+      "benefit": "行政法规写得很明白：「出租人收取押金的，应当在住房租赁合同中约定押金的数额、返还时间以及扣减押金的情形等事项。除住房租赁合同约定的情形以外，出租人无正当理由不得扣减押金。」三件事要写进合同：押金收多少、什么时候退、什么情况下能扣。合同里没写的理由，房东不能拿来扣你的钱",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "退租那天和房东一起拍照录像。水表、电表、燃气表的读数都拍下来，墙面和地面也拍。押金被无故扣了，先找房屋租赁管理部门投诉。金额不大的走小额诉讼，见第 8 节。租来开店的铺面能不能开、餐饮能不能办证，见第 12 节第 27 条（租铺面开店）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Phải ghi vào hợp đồng số tiền cọc, thời điểm hoàn trả và các trường hợp được khấu trừ",
+    "fields": {
+      "cost": "Không tốn tiền. Dành thêm mười phút khi ký hợp đồng. Khó ở chỗ phải nói trực tiếp trước mặt chủ nhà",
+      "plain": "Trước khi ký, phải ghi vào hợp đồng tiền cọc bao nhiêu, khi nào trả và trường hợp nào được trừ. Khi bạn trả nhà, chủ nhà không được lấy lý do khấu trừ không có trong hợp đồng để trừ tiền cọc.",
+      "benefit": "Quy định hành chính ghi rất rõ: “Nếu bên cho thuê thu tiền cọc, hợp đồng thuê nhà phải thỏa thuận số tiền cọc, thời điểm hoàn trả, các trường hợp khấu trừ tiền cọc và những nội dung liên quan. Ngoài những trường hợp đã thỏa thuận trong hợp đồng thuê nhà, bên cho thuê không được khấu trừ tiền cọc nếu không có lý do chính đáng.” Ba việc phải ghi trong hợp đồng là thu bao nhiêu tiền cọc, khi nào trả, trường hợp nào được trừ. Chủ nhà không được lấy lý do ngoài hợp đồng để trừ tiền của bạn",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "Ngày trả nhà, cùng chủ nhà chụp ảnh và quay video. Chụp chỉ số đồng hồ nước, điện, gas, cả tường và sàn. Nếu tiền cọc bị trừ vô cớ, trước hết khiếu nại với cơ quan quản lý cho thuê nhà. Khoản nhỏ có thể dùng thủ tục tố tụng giá trị nhỏ, xem chương 8"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

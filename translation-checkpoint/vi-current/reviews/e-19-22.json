@@ -1,0 +1,15 @@
+{
+  "id": "e-19-22",
+  "source_sha256": "ac6cdc840e7339f1ad47a94140e79661e03b69af07ec0bb4dbfa4fdcde9d95c5",
+  "draft_sha256": "e1e28b0f584a48c0817a8847a981b25c6f247a8f2c0d63ce9e01bbcff366e4cf",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Sửa duy nhất một câu ghi chú để điều kiện gây thiệt hại cho đơn vị áp dụng rõ ràng cho cả nghỉ không báo trước và vi phạm bảo mật/hạn chế cạnh tranh; tránh đọc thành tự động bồi thường chỉ vì thiếu báo trước. Giữ tiền phạt khác bồi thường thiệt hại, trần đào tạo phân bổ theo thời gian chưa làm đủ, ví dụ 3 vạn/3 năm/2 năm/1 vạn và ngoại lệ lỗi của đơn vị. Dẫn chương 11 mục 12 và chương 7 mục 2 đúng."
+}

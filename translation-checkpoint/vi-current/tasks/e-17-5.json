@@ -1,0 +1,49 @@
+{
+  "id": "e-17-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "1d7f204702216121515bad1cd806285c76841184d2a373ec071fd00a20b3e1fc",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "凡是让老人先交钱的「投资养老」都别碰：办卡、买床位、买养老公寓、旅居养老、买老年产品是同一套非法集资",
+    "fields": {
+      "cost": "不花钱。把下面这几种名目念给老人听一遍，几分钟。以后遇上就直接拒绝：不去听课，不去参观，不留电话。难在老人要是已经去过几次、和人处熟了，就不容易劝回来",
+      "plain": "让老人先交钱、又许诺回报的养老名目，都是同一套骗局。常见的有办卡、买床位、买养老公寓、旅居养老、开会卖老年产品。按规定，这种钱亏了只能自己认。有人借预定养老公寓床位收走 1.36 亿元，坑了 2100 多人。",
+      "benefit": "民政部列了五种表现形式，认名目比认人可靠。第一种，假借养老服务机构之名：没有实体，临时租个场地，宣称和养老机构签了合作协议来「碰瓷」。第二种，以提供「养老服务」为名：卖「贵宾卡」「会员卡」「预付卡」，让人预交「养老服务费用」。承诺的服务明显超过自己的床位供给能力。第三种，以投资「养老项目」为名。常见名目有入股养生养老基地、销售虚构的养老公寓。还有长期出租养老床位、「时间银行」互助养老。打的幌子是返本销售、售后返租、约定回购。第四种，以销售「老年产品」为名：商品回购、寄存代售、消费返利、免费体检、赠送礼品、会议营销、养生讲座、专家义诊。第五种，以享受「旅居养老」为名：低价或免费旅游、储值返利、积分养老。钱追不回来，条例里写明了。防范和处置非法集资条例第二十五条规定，「因参与非法集资受到的损失，由集资参与人自行承担」，亏掉的钱只能自己认。官方通报过的案子里，戴某平等人以预定养老公寓床位名义非法集资 1.36 亿元，被害人 2100 余人。戴某平以集资诈骗罪判 15 年，并处罚金 40 万元。曹某铭以投资养老产业为名集资诈骗 132.07 亿元，涉及 11 万余人。曹某铭被判无期徒刑、剥夺政治权利终身、没收个人全部财产。保健品会销走的是诈骗罪。倪某荣用免费宴请、赠送礼品、专车接送，把老年人拉去听课。讲师用「虚假人设、虚假案例、虚高砍价」编造防癌抗癌功效。老人被诱骗以成本价的数十倍买「二氢槲皮素」。销售金额 62 万余元。倪某荣判 10 年 3 个月，并处罚金 12 万元（全国，条例 2021 年 5 月 1 日起施行）",
+      "grade": "A",
+      "sources": "民政部 (2023). 关于养老服务领域非法集资的风险提示. <https://www.gov.cn/lianbo/bumen/202306/content_6886556.htm>（中国政府网发布）；民政部、中国银保监会 (2021). 关于养老领域非法集资的风险提示. <https://www.mca.gov.cn/n152/n164/c36171/content.html>；国务院 (2021). 防范和处置非法集资条例（国务院令第 737 号，第二、二十五、三十条）. <https://www.gov.cn/zhengce/zhengceku/2021-02/10/content_5586632.htm>；最高人民检察院 (2022). 检察机关打击整治养老诈骗犯罪典型案例. <https://www.spp.gov.cn/xwfbh/wsfbt/202206/t20220617_560010.shtml>；最高人民法院 (2025). 依法惩治涉民生领域诈骗犯罪典型案例（案例五 倪某荣诈骗案）. <https://www.court.gov.cn/zixun/xiangqing/482861.html>",
+      "notes": "判断不靠「这家看着正规」，靠「有没有让你先交钱、有没有承诺回报」。养老机构本来是卖服务的，话里一带上投资、返利、回本，就别信。老人被拉去听课、旅游、义诊，本身不违法，也很难拦住。能拦的是掏钱那一步，配合第 3 条的双人确认规矩用。已经交了钱，就立刻按第 8 节第 2 条打 110 或 96110 要求止付。同时向当地负责处置非法集资的牵头部门举报。以房养老是另一套路径，见第 6 条（住房反向抵押养老保险）。正规养老院收押金、会员费的上限和收款账户，见第 11 条（押金最多 12 个月床位费）。跟低价团被带进购物店买了东西的，见第 5 节第 50 条（跟团被带进购物店）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Tránh mọi hình thức “đầu tư dưỡng lão” yêu cầu người cao tuổi nộp tiền trước: làm thẻ, mua giường, mua căn hộ dưỡng lão, dưỡng lão kết hợp du lịch và mua sản phẩm cho người già đều thuộc cùng kiểu huy động vốn trái phép",
+    "fields": {
+      "cost": "Không tốn tiền. Dành vài phút đọc cho người cao tuổi các tên gọi dưới đây. Gặp thì từ chối ngay: không nghe giảng, không tham quan, không để lại số điện thoại. Khó là nếu họ đã đi vài lần và quen người ở đó thì khó khuyên quay lại",
+      "plain": "Những hình thức dưỡng lão đòi người cao tuổi trả tiền trước và hứa lợi nhuận đều cùng kiểu lừa: làm thẻ, mua giường, căn hộ dưỡng lão, dưỡng lão du lịch, hội nghị bán sản phẩm cho người già. Theo quy định, mất tiền loại này phải tự chịu. Có người thu 1.36 trăm triệu nhân dân tệ dưới danh nghĩa đặt giường căn hộ dưỡng lão, hại hơn 2100 người. Chỉ còn chặn được ở bước bỏ tiền.",
+      "benefit": "Bộ Dân chính liệt kê năm hình thức; nhận diện tên gọi đáng tin hơn nhìn người. Thứ nhất, mạo danh cơ sở dưỡng lão: không có cơ sở thật, thuê địa điểm tạm rồi tuyên bố đã ký hợp tác với cơ sở dưỡng lão để dựa danh. Thứ hai, viện danh cung cấp “dịch vụ dưỡng lão”: bán “thẻ VIP”, “thẻ hội viên”, “thẻ trả trước”, yêu cầu nộp trước “phí dịch vụ dưỡng lão”, hứa dịch vụ vượt xa số giường có thể cung cấp. Thứ ba, viện danh đầu tư “dự án dưỡng lão”, thường là góp cổ phần vào cơ sở dưỡng sinh dưỡng lão, bán căn hộ dưỡng lão không có thật, cho thuê giường dài hạn hoặc hỗ trợ dưỡng lão kiểu “ngân hàng thời gian”. Chiêu quảng cáo là bán hàng hoàn vốn, bán rồi thuê lại, cam kết mua lại. Thứ tư, viện danh bán “sản phẩm cho người cao tuổi”: mua lại hàng, ký gửi bán hộ, hoàn tiền tiêu dùng, khám miễn phí, tặng quà, bán hàng qua hội nghị, giảng dưỡng sinh, chuyên gia khám thiện nguyện. Thứ năm, viện danh hưởng “dưỡng lão kết hợp du lịch”: du lịch rẻ hoặc miễn phí, nạp tiền được hoàn lợi, tích điểm dưỡng lão. Quy định đã ghi rõ chuyện tiền không thu hồi được. Điều hai mươi lăm Quy định phòng ngừa và xử lý huy động vốn trái phép nêu: “Tổn thất do tham gia huy động vốn trái phép do người tham gia tự chịu”; tiền mất phải tự chấp nhận. Trong vụ được chính thức thông báo, Đới mỗ Bình và đồng phạm huy động trái phép 1.36 trăm triệu nhân dân tệ dưới danh nghĩa đặt giường căn hộ dưỡng lão, hơn 2100 nạn nhân. Đới mỗ Bình bị phạt 15 năm tù về tội lừa đảo huy động vốn, phạt tiền 40 vạn nhân dân tệ. Tào mỗ Minh lừa huy động 132.07 trăm triệu nhân dân tệ dưới danh nghĩa đầu tư ngành dưỡng lão, liên quan hơn 11 vạn người, bị tù chung thân, tước quyền chính trị suốt đời và tịch thu toàn bộ tài sản cá nhân. Bán thực phẩm bảo vệ sức khỏe qua hội nghị bị xử lý về tội lừa đảo. Nghê mỗ Vinh dùng tiệc miễn phí, quà tặng, xe đưa đón để kéo người cao tuổi đi nghe giảng. Giảng viên dùng “nhân thân giả, trường hợp giả, nâng giá rồi giả giảm giá” để bịa công dụng phòng và chống ung thư. Người cao tuổi bị dụ mua “dihydroquercetin” với giá gấp hàng chục lần giá vốn. Doanh số hơn 62 vạn nhân dân tệ. Nghê mỗ Vinh bị phạt 10 năm 3 tháng tù và 12 vạn nhân dân tệ tiền phạt (toàn quốc, quy định có hiệu lực từ ngày 1 tháng 5 năm 2021)",
+      "grade": "A",
+      "sources": "民政部 (2023). 关于养老服务领域非法集资的风险提示. <https://www.gov.cn/lianbo/bumen/202306/content_6886556.htm>（中国政府网发布）；民政部、中国银保监会 (2021). 关于养老领域非法集资的风险提示. <https://www.mca.gov.cn/n152/n164/c36171/content.html>；国务院 (2021). 防范和处置非法集资条例（国务院令第 737 号，第二、二十五、三十条）. <https://www.gov.cn/zhengce/zhengceku/2021-02/10/content_5586632.htm>；最高人民检察院 (2022). 检察机关打击整治养老诈骗犯罪典型案例. <https://www.spp.gov.cn/xwfbh/wsfbt/202206/t20220617_560010.shtml>；最高人民法院 (2025). 依法惩治涉民生领域诈骗犯罪典型案例（案例五 倪某荣诈骗案）. <https://www.court.gov.cn/zixun/xiangqing/482861.html>",
+      "notes": "Đánh giá bằng việc họ có yêu cầu trả trước và hứa lợi nhuận không, đừng dựa vào “trông có vẻ chính quy”. Cơ sở dưỡng lão vốn bán dịch vụ; lời chào có đầu tư, hoàn lợi, thu hồi vốn thì đừng tin. Người cao tuổi được kéo đi nghe giảng, du lịch, khám miễn phí tự nó không trái luật, cũng khó ngăn. Có thể ngăn ở bước chi tiền, kết hợp quy tắc hai người xác nhận ở mục 3. Nếu đã trả, lập tức làm theo chương 8 mục 2, gọi 110 hoặc 96110 yêu cầu chặn thanh toán, đồng thời tố giác tới cơ quan đầu mối xử lý huy động vốn trái phép địa phương. Dưỡng lão bằng nhà là cách khác, xem mục 6 (bảo hiểm dưỡng lão thế chấp ngược nhà ở)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

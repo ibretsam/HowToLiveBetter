@@ -1,0 +1,48 @@
+{
+  "id": "e-5-23",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "51f7a7c364f63b0f0511b20b09b19e14a2b32006f3f1d8bb4ccdd8ebcdc9bcea",
+  "status": "draft",
+  "original": {
+    "number": 23,
+    "title": "大额非必需购买设 24 小时冷静期，网购善用七日无理由退货",
+    "fields": {
+      "cost": "不花钱。想要的东西要晚一天才拿到。退货的运费通常要你自己出。难的是当天忍住不下单。",
+      "plain": "省下来的，是那些你第二天就不想要的东西。网购的东西，从你收到货那天算起，七天之内可以无理由退。有几类不能退：按你的要求定做的，生鲜和容易坏的，已经拆封的数字商品，还有报刊。",
+      "benefit": "省下来的是冲动买的东西里「第二天就不想要了」的那部分。这部分占多少，给不出统一的比例。网上买的商品，从收到那天算起七日内可以无理由退货。有四类除外：定做的、鲜活易腐的、已经拆封的数字商品、报刊（中国，2017 年起施行）",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2020 修订). 网络购买商品七日无理由退货暂行办法（总局令第 31 号）. <https://www.gov.cn/zhengce/zhengceku/2020-11/03/content_5557118.htm>",
+      "notes": "「冷静期」本身是经验做法，没有直接的文献支持。冷静期没拦住的，还有七日无理由退货这条制度可用。退货之前先确认两件事：这件商品在不在不能退的清单里，包装还完不完好。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 23,
+    "title": "Đặt thời gian cân nhắc 24 giờ cho khoản mua lớn không thiết yếu; tận dụng quyền trả hàng trực tuyến trong bảy ngày không cần lý do",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn nhận món muốn mua muộn một ngày. Phí gửi trả thường tự chịu. Khó là nhịn không đặt ngay hôm đó.",
+      "plain": "Tiền tiết kiệm là những món đến hôm sau bạn đã không muốn nữa. Hàng mua trực tuyến có thể trả không cần lý do trong bảy ngày kể từ ngày nhận. Một số loại không được trả: đặt làm theo yêu cầu, tươi sống dễ hỏng, sản phẩm số đã mở niêm phong, báo và tạp chí.",
+      "benefit": "Tiền tiết kiệm là phần mua bốc đồng mà “đến hôm sau không muốn nữa”, không có tỷ lệ chung. Hàng mua trực tuyến có thể trả không cần lý do trong bảy ngày từ ngày nhận. Bốn loại ngoại lệ: đặt làm, tươi sống dễ hỏng, sản phẩm số đã mở niêm phong, báo và tạp chí (Trung Quốc, áp dụng từ năm 2017).",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2020 修订). 网络购买商品七日无理由退货暂行办法（总局令第 31 号）. <https://www.gov.cn/zhengce/zhengceku/2020-11/03/content_5557118.htm>",
+      "notes": "“Thời gian cân nhắc” là kinh nghiệm, chưa có tài liệu trực tiếp. Nếu vẫn mua, còn quyền trả trong bảy ngày không cần lý do. Trước khi trả, kiểm tra hai điều: hàng có thuộc danh sách không được trả không, bao bì còn nguyên không."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

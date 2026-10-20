@@ -1,0 +1,48 @@
+{
+  "id": "e-1-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "611a0bf0df7e4978b4bfb6bac14bcff2ea6bb08c3337505206792e7ef8a3dd4a",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "装烟雾报警器；冬天在室内烧煤、用燃气取暖的再装一氧化碳报警器",
+    "fields": {
+      "cost": "烟雾报警器一个 30 到 100 元。一氧化碳报警器一个 50 到 150 元。装好以后每年换一次电池。",
+      "plain": "一个能正常工作的烟雾报警器，能把住宅火灾里死亡的概率降约六成。美国死了人的住宅火灾，四成起火时人在睡觉。冬天在屋里烧煤或用燃气的，再加一个一氧化碳报警器。中国 2018 年有 1.15 万人死于一氧化碳中毒，冬天那三个月约七成死在家里。",
+      "benefit": "美国北卡罗来纳州研究了一批住宅火灾，回头比对出事和没出事的家庭。家里有一个能正常工作的烟雾报警器，死亡风险下降约六成。原值 OR 0.39，可信范围 95% CI 0.18 到 0.83。美国 2018 到 2020 年，有人住的住宅里发生的致死火灾，24% 家里没有烟雾报警器，41% 起火时人在睡觉。中国 2018 年报告一氧化碳中毒死亡 11,523 例。这些死亡里，12 月有 72.59%、1 月有 67.42%、2 月有 66.48% 发生在家中",
+      "grade": "B",
+      "sources": "Marshall SW 等 (1998). Fatal residential fires: who dies and who survives? JAMA. <https://doi.org/10.1001/jama.279.20.1633> ; USFA (2022). Fatal Fires in Residential Buildings (2018-2020), Topical Fire Report Series 22(2). <https://www.usfa.fema.gov/downloads/pdf/statistics/v22i2.pdf> ; You J 等 (2020). Number of Deaths due to Carbon Monoxide Poisoning by Month and by Place of Death — China, 2018. China CDC Weekly. <https://doi.org/10.46234/ccdcw2020.008>",
+      "notes": "给 B 的原因：烟雾报警器这边只有一项研究，做法是回头比对出事和没出事的家庭，不是随机分组的试验。一氧化碳报警器本身没有降低死亡率的研究。这里的收益是按「中毒死亡集中在冬季、集中在家中」推出来的。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Lắp báo khói; mùa đông đốt than hoặc sưởi bằng khí đốt trong nhà thì lắp thêm báo carbon monoxide",
+    "fields": {
+      "cost": "Máy báo khói giá 30 đến 100 nhân dân tệ, báo carbon monoxide 50 đến 150 nhân dân tệ. Sau lắp, thay pin mỗi năm một lần.",
+      "plain": "Máy báo khói hoạt động tốt có thể giảm khoảng sáu phần mười nguy cơ chết trong cháy nhà. Khi cháy, bốn phần mười nạn nhân đang ngủ; chỉ dựa khứu giác không thể tỉnh dậy. Mùa đông đốt than hoặc dùng khí trong nhà hãy thêm máy báo carbon monoxide. Trung Quốc năm 2018 có 1.15 vạn người chết do ngộ độc này; trong ba tháng đông, khoảng bảy phần mười tử vong xảy ra tại nhà.",
+      "benefit": "Nghiên cứu ở Bắc Carolina, Mỹ xem lại các vụ cháy nhà, so gia đình có và không có tử vong. Có máy báo khói hoạt động giúp nguy cơ chết giảm khoảng sáu phần mười; OR 0.39, khoảng tin cậy 95% CI 0.18 đến 0.83. Trong cháy gây tử vong tại nhà có người cư trú ở Mỹ từ 2018 đến 2020, 24% nhà không có báo khói, 41% người đang ngủ khi cháy. Trung Quốc năm 2018 ghi nhận 11,523 ca tử vong do carbon monoxide. Trong số tử vong, 72.59% tháng 12, 67.42% tháng 1, 66.48% tháng 2 xảy ra tại nhà",
+      "grade": "B",
+      "sources": "Marshall SW 等 (1998). Fatal residential fires: who dies and who survives? JAMA. <https://doi.org/10.1001/jama.279.20.1633> ; USFA (2022). Fatal Fires in Residential Buildings (2018-2020), Topical Fire Report Series 22(2). <https://www.usfa.fema.gov/downloads/pdf/statistics/v22i2.pdf> ; You J 等 (2020). Number of Deaths due to Carbon Monoxide Poisoning by Month and by Place of Death — China, 2018. China CDC Weekly. <https://doi.org/10.46234/ccdcw2020.008>",
+      "notes": "Xếp B vì báo khói chỉ có một nghiên cứu so sánh hồi cứu gia đình có và không có tử vong, không phải thử nghiệm ngẫu nhiên. Riêng máy báo carbon monoxide chưa có nghiên cứu giảm tử vong. Lợi ích ở đây suy từ việc tử vong ngộ độc tập trung mùa đông và trong nhà."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

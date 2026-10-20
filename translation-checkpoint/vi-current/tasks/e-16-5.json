@@ -1,0 +1,48 @@
+{
+  "id": "e-16-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "e7cf51282b99b7ef647961938eb29ba463576e8aea215538871fa30fbbabb938",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "病情稳定的慢性病，在社区医院一次可以开到 12 周的药",
+    "fields": {
+      "cost": "不花钱。去社区卫生服务中心问一句能不能开长期处方，一句话的事。",
+      "plain": "病情稳定、吃的药也没换的人，在社区卫生服务中心一次最多能开 12 周的药。省掉每月往返大医院排队挂号的半天。在同一个参保地里，住基层医院的报销比例原则上要比上一级医院高十个百分点左右。",
+      "benefit": "不用每月往返大医院排队开药。在同一个参保地（也叫统筹地区）里，住基层医院的报销比例原则上比上一级医院高约 10 个百分点",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「对于符合条件的慢性病患者，基层医疗卫生机构单次可开具不超过12周用药的长期处方。」；同文「原则上统筹地区内医疗卫生机构住院报销比例逐级拉开10个百分点左右的差距」，并要求上级医院在基层开设高血压、糖尿病、慢性阻塞性肺疾病等常见病慢性病门诊；同文「三级医院要聚焦急危重症和疑难复杂疾病，加强转诊会诊和住院服务，逐步酌减常见病复诊和诊断明确、病情稳定的慢性病等普通门诊」，「并将专家团队普通门诊向基层医疗卫生机构延伸」",
+      "notes": "「符合条件」由医生判断，一般是诊断已经明确、用药方案也稳定的人。药还是那个药，省下的是每月跑一趟的半天和挂号费。基层没有你要的那种药，可以问问有没有缺药登记和配送。同一份文件还要求三级医院逐步减掉这类慢病的普通门诊，专家团队的普通门诊往社区延伸。所以还把大医院当开药点的，以后会越来越难挂号。社区没有你那种药，或者要专科医生看着调药的，可以在确诊的医院线上复诊开药，见第 24 节第 14 条（互联网医院线上复诊）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Nếu bệnh mạn tính ổn định, cơ sở y tế cộng đồng có thể kê một lần đủ thuốc cho 12 tuần",
+    "fields": {
+      "cost": "Không tốn tiền. Đến trung tâm dịch vụ y tế cộng đồng hỏi có kê đơn dài hạn được không, chỉ một câu hỏi.",
+      "plain": "Người có bệnh ổn định, thuốc dùng cũng không thay đổi có thể nhận đơn đủ 12 tuần tại trung tâm dịch vụ y tế cộng đồng. Tiết kiệm nửa ngày đi lại, xếp hàng đăng ký ở bệnh viện lớn mỗi tháng. Trong cùng nơi tham gia bảo hiểm, tỷ lệ thanh toán khi nằm viện ở bệnh viện tuyến cơ sở thường còn cao hơn bệnh viện tuyến trên một cấp khoảng mười điểm phần trăm.",
+      "benefit": "Không phải mỗi tháng đi lại bệnh viện lớn, xếp hàng lấy đơn. Trong cùng nơi tham gia bảo hiểm (còn gọi là khu vực điều phối quỹ), tỷ lệ thanh toán khi nằm viện tuyến cơ sở về nguyên tắc cao hơn bệnh viện tuyến trên một cấp khoảng 10 điểm phần trăm",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「对于符合条件的慢性病患者，基层医疗卫生机构单次可开具不超过12周用药的长期处方。」；同文「原则上统筹地区内医疗卫生机构住院报销比例逐级拉开10个百分点左右的差距」，并要求上级医院在基层开设高血压、糖尿病、慢性阻塞性肺疾病等常见病慢性病门诊；同文「三级医院要聚焦急危重症和疑难复杂疾病，加强转诊会诊和住院服务，逐步酌减常见病复诊和诊断明确、病情稳定的慢性病等普通门诊」，「并将专家团队普通门诊向基层医疗卫生机构延伸」",
+      "notes": "Bác sĩ xác định ai “đủ điều kiện”; thường là người đã chẩn đoán rõ và phác đồ thuốc ổn định. Thuốc vẫn là thuốc đó, tiết kiệm được nửa ngày đi lại mỗi tháng và phí đăng ký khám. Nếu cơ sở không có thuốc bạn cần, có thể hỏi có đăng ký thuốc thiếu và giao thuốc không. Cùng văn bản còn yêu cầu bệnh viện hạng ba dần giảm khám ngoại trú thông thường cho loại bệnh mạn này, chuyển buổi khám thông thường của cùng nhóm chuyên gia về cộng đồng. Nếu vẫn chỉ coi bệnh viện lớn là nơi lấy thuốc, sau này sẽ ngày càng khó đăng ký."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

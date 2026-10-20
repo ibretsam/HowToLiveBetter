@@ -2,6 +2,10 @@
 
 **Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 20/10/2026](TRANSLATION-PLAN.md).
 
+**Đợt cập nhật 20/10/2026 đã bắt đầu:** 30 mục (11 mới, 19 cập nhật) và lời dẫn chương 34 đã được dịch, rà soát song ngữ độc lập và kiểm tra. Trang dựng hiện có 125 mục khớp nguồn, 535 mục cần cập nhật và 105 mục chưa dịch. Chương 34 đã có đủ 12 mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
+
+Các tệp Markdown cũ trong `vi/book/`, `vi/docs/` và `vi/README.md` vẫn là bản lưu theo nguồn 01/10 để kiểm tra hồi quy. Trang đọc áp dụng các bản cập nhật đã rà soát trong checkpoint lên dữ liệu hiển thị, với liên kết phiên bản nguồn riêng cho từng mục; không đổi mốc nguồn chung của phần chưa xử lý.
+
 **Trang đọc hiện tại:** [ibretsam.github.io/HowToLiveBetter](https://ibretsam.github.io/HowToLiveBetter/).
 
 Ngày **20/10/2026**, fork đã đồng bộ mã nguồn và nội dung Trung văn đến commit [`5f210ca`](https://github.com/eternity4719/HowToLiveBetter/commit/5f210ca953b7b538c042ad8515d5c355b766a194): **34 chương, 765 mục và chín bài viết dài**. Bản dịch được phục hồi từ nhánh `codex/vietnamese-cloud-checkpoint` của fork, commit `7128efb`.
@@ -12,7 +16,7 @@ Trang đọc so sánh từng mục với phiên bản dùng để dịch:
 - **Bản dịch chưa cập nhật:** có bản dịch cũ, nhưng nguồn mới đã thay đổi. Trang ghi rõ bản dịch vẫn chưa hoàn tất theo nguồn mới và cho đối chiếu toàn bộ bản gốc mới.
 - **Chưa hoàn tất bản dịch:** nội dung mới chưa có bản dịch, hoặc chưa thể ghép bản dịch cũ với mục hiện tại một cách chắc chắn. Trang hiển thị đầy đủ tiếng Trung, không bỏ mục.
 
-Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Phần giới thiệu chương và hướng dẫn đọc cũng được đánh dấu chưa cập nhật. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
+Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn chương 34 đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
 
 Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch](README.md) · [Xem bản gốc](../README.md).
 
@@ -57,6 +61,8 @@ Từ thư mục gốc:
 ```sh
 npm --prefix tools/epub ci
 python3 tools/check-vi.py
+python3 tools/check-vi-updates.py
+python3 tools/test-vi-updates.py
 python3 tools/build-vi-site.py
 python3 tools/check-vi-site.py
 python3 -m http.server 8000 --directory dist/vi-site
@@ -64,4 +70,4 @@ python3 -m http.server 8000 --directory dist/vi-site
 
 Mở `http://localhost:8000`. Workflow `.github/workflows/vietnamese-pages.yml` chạy khi nội dung liên quan thay đổi trên nhánh `main`, kiểm tra rồi triển khai `dist/vi-site` lên GitHub Pages của fork.
 
-Khi đồng bộ upstream tiếp, hợp nhất thay đổi rồi cập nhật `source_commit` và `synced_at` trong `vi/site-config.json`. Giữ `translation_base_commit` ở phiên bản thực sự dùng để dịch. Công cụ tự đánh dấu mục thay đổi hoặc chưa dịch; không tự dịch nội dung mới. Trình kiểm tra bản dịch cũ đối chiếu snapshot đã ghim trong Git, còn trình kiểm tra trang đọc xác nhận mọi mục của nguồn mới đều có mặt.
+Đợt dịch hiện tại ghim nguồn `5f210ca`. Khi đồng bộ upstream tiếp, cần lập đợt checkpoint mới và đối chiếu lại các bản cập nhật theo nguồn mới trước khi đổi `source_commit` và `synced_at` trong `vi/site-config.json`. Không đổi dấu kiểm hoặc mốc nguồn của bản dịch cũ chỉ để vượt qua kiểm tra. Giữ `translation_base_commit` cho bản lưu 01/10. Công cụ không tự dịch nội dung mới; nếu checkpoint không khớp nguồn xuất bản, quá trình dựng trang sẽ dừng. Trình kiểm tra bản dịch cũ đối chiếu snapshot đã ghim trong Git, trình kiểm tra bản cập nhật xác nhận nguồn và rà soát từng phần, còn trình kiểm tra trang đọc xác nhận mọi mục đều có mặt với nhãn đúng.

@@ -1,0 +1,48 @@
+{
+  "id": "e-1-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "ad43da5724a61feb6e7ef7a314abac24c0dd8183d1ffafded42c7884865478ca",
+  "status": "outdated",
+  "original": {
+    "number": 20,
+    "title": "有心血管病的人和老年人每年打流感疫苗",
+    "fields": {
+      "cost": "一针 50 到 150 元。每年秋天打一次。",
+      "plain": "心梗之后打流感疫苗的那项试验里，一年内死亡的比例从 4.9% 降到 2.9%。有心血管病的人和老人，每年秋天补一针，50 到 150 元。",
+      "benefit": "一项试验在心肌梗死之后做，2571 人随机分组。医生和病人都不知道打的是哪一针。打流感疫苗的人，12 个月里的总死亡率是 2.9%。打安慰剂的是 4.9%。原值 HR 0.59，可信范围 95% CI 0.39 到 0.89。安慰剂就是不含有效成分的对照针。心血管死亡的 HR 是 0.59。另一项研究把多项研究合起来一起算。打流感疫苗的人主要心血管事件为 3.6%，对照为 5.4%。原值 RR 0.66，可信范围 95% CI 0.53 到 0.83。心血管死亡 RR 0.74（95% CI 0.42 到 1.30，这点差别还在误差范围内，算不上有统计学意义）",
+      "grade": "A",
+      "sources": "Fröbert O 等 (2021). Influenza Vaccination After Myocardial Infarction: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.121.057042> ; Behrouzi B 等 (2022). Association of Influenza Vaccination With Cardiovascular Risk: A Meta-analysis. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2022.8873>；Demicheli V 等 (2018). Vaccines for preventing influenza in the elderly. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD004876.pub4>（备注里说的那份 Cochrane 汇总）",
+      "notes": "争议。A 级只对应有心血管病的人。对本来健康的老年人，Cochrane 综述只能给出一个结论：一季流感的发病从 6% 降到 2.4%。它把这条证据的可信度评为「低」，死亡率方面的证据评为「极低」。综述出处是 Demicheli V 等 2018 年那篇。孕妇见第 27 节第 18 条（怀孕期间打流感灭活疫苗），慢阻肺病人见第 16 节第 12 条（慢阻肺用吸入剂）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 20,
+    "title": "Người có bệnh tim mạch và người cao tuổi tiêm cúm mỗi năm",
+    "fields": {
+      "cost": "Một mũi giá 50 đến 150 nhân dân tệ, tiêm mỗi mùa thu.",
+      "plain": "Trong thử nghiệm tiêm cúm sau nhồi máu cơ tim, tử vong trong một năm giảm từ 4.9% xuống 2.9%. Người bệnh tim mạch và người già nên tiêm mỗi mùa thu, giá 50 đến 150 nhân dân tệ.",
+      "benefit": "Thử nghiệm sau nhồi máu cơ tim phân ngẫu nhiên 2571 người; bác sĩ và bệnh nhân đều không biết nhận mũi nào. Nhóm vắc xin cúm có tử vong chung trong 12 tháng là 2.9%, giả dược 4.9%; HR 0.59, khoảng tin cậy 95% CI 0.39 đến 0.89. Giả dược là mũi đối chứng không hoạt chất. HR tử vong tim mạch cũng 0.59. Tổng hợp nhiều nghiên cứu khác cho biến cố tim mạch chính 3.6% ở nhóm tiêm, đối chứng 5.4%; RR 0.66, khoảng tin cậy 95% CI 0.53 đến 0.83. Tử vong tim mạch RR 0.74 (95% CI 0.42 đến 1.30, khác biệt còn trong sai số, không có ý nghĩa thống kê)",
+      "grade": "A",
+      "sources": "Fröbert O 等 (2021). Influenza Vaccination After Myocardial Infarction: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.121.057042> ; Behrouzi B 等 (2022). Association of Influenza Vaccination With Cardiovascular Risk: A Meta-analysis. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2022.8873>；Demicheli V 等 (2018). Vaccines for preventing influenza in the elderly. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD004876.pub4>（备注里说的那份 Cochrane 汇总）",
+      "notes": "Tranh luận. Mức A chỉ áp dụng người có bệnh tim mạch. Với người già vốn khỏe, tổng quan Cochrane chỉ kết luận tỷ lệ mắc cúm một mùa giảm từ 6% xuống 2.4%, đánh giá độ chắc chắn «thấp»; bằng chứng tử vong «rất thấp». Nguồn là bài Demicheli V và cộng sự năm 2018."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

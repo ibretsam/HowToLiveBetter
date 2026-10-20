@@ -1,0 +1,14 @@
+{
+  "id": "e-13-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d10e1291b60bc5f34abb9d2b53435316a7d26922e291eef00c12535f98f1f95b",
+  "translator": "pilot_emergency",
+  "translation": {
+    "title": "Đột ngột méo miệng, yếu một bên tay, nói không rõ: gọi 120 ngay, đừng đợi và đừng tự lái xe đi viện",
+    "cost": "Không tốn tiền. Ba động tác chỉ cần xem một lần là biết: yêu cầu người đó cười, nâng ngang hai tay và nói một câu hoàn chỉnh.",
+    "plain": "Méo miệng, không nâng được một bên tay, nói không rõ thì gọi 120 ngay và ghi lại chính xác thời điểm bắt đầu triệu chứng. Dùng thuốc thông mạch trong 3 giờ từ lúc khởi phát, khả năng hồi phục đến mức cơ bản tự sinh hoạt được khoảng 1.75 lần so với không dùng thuốc. Chậm đến 3 đến 4.5 giờ thì chỉ còn 1.26 lần, quá 4.5 giờ không còn thấy khác biệt. Đừng cho uống nước hay thuốc, đừng tự lái xe.",
+    "benefit": "Gộp dữ liệu cá nhân của 6756 bệnh nhân trong 16 thử nghiệm ngẫu nhiên về tiêu sợi huyết đường tĩnh mạch để tính chung (phân tích tổng hợp). Tiêu sợi huyết đường tĩnh mạch là dùng thuốc để thông mạch máu bị tắc. Dùng alteplase để tiêu sợi huyết trong 3 giờ từ lúc khởi phát, tỷ số odds hồi phục đến mức cơ bản tự sinh hoạt được (điểm Rankin sửa đổi 0–1) là 1.75, 95% CI 1.35–2.27 (khoảng tin cậy). Khả năng có kết quả này khoảng 1.75 lần so với không tiêu sợi huyết. Chậm đến 3 đến 4.5 giờ thì là 1.26 (1.05–1.51). Quá 4.5 giờ thì là 1.15 (0.95–1.40), không còn thấy khác biệt có ý nghĩa thống kê. Đồng thuận về cấp cứu trước viện năm 2017 của Phân hội Y học cấp cứu thuộc Hội Đột quỵ Trung Quốc yêu cầu nhân viên cấp cứu “chuyển người nghi bị đột quỵ trong thời gian ngắn nhất đến trung tâm đột quỵ được chứng nhận gần nhất, hoặc bệnh viện có thể thực hiện tiêu sợi huyết đường tĩnh mạch và/hoặc điều trị nội mạch”, đồng thời “báo trước cho bệnh viện tiếp nhận trước khi người nghi bị đột quỵ đến viện”. Đồng thuận còn nêu rõ người bị đột quỵ cấp có thể bị ảnh hưởng hô hấp do “hít sặc” và các nguyên nhân khác.",
+    "notes": "Tiêu sợi huyết càng sớm càng hiệu quả, quá 4.5 giờ thì về cơ bản không còn tác dụng. Gọi 120 thay vì tự lái xe vì theo đồng thuận về cấp cứu trước viện, nhân viên cấp cứu phải đưa người bệnh đến bệnh viện có thể tiêu sợi huyết và báo trước để bệnh viện chuẩn bị. Ghi lại chính xác thời điểm bắt đầu triệu chứng; bác sĩ cần thông tin đó để quyết định có thể tiêu sợi huyết hay không. Đừng cho uống nước hoặc thuốc. Đây là điều tác giả suy ra từ “hít sặc” được nêu trong đồng thuận: người đột quỵ có thể bị sặc. Đừng đợi “nghỉ một chút xem sao”.",
+    "extra": ""
+  }
+}

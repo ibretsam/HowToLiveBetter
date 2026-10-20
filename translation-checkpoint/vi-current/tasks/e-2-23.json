@@ -1,0 +1,48 @@
+{
+  "id": "e-2-23",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "0388ff4765f021d7001560cb255823ed8774afe539f2bdb84599f431d10fde43",
+  "status": "outdated",
+  "original": {
+    "number": 23,
+    "title": "把一部分红肉换成鱼和禽肉",
+    "fields": {
+      "cost": "不花钱，也不占时间。这是把肉换一种，不是多买。难在要改点口味偏好。",
+      "plain": "每周多吃两份加工肉或者红肉，同期死亡的概率高约 3%。换成同样份数的鱼或者禽肉，就看不出升高。换肉的效应在本节里偏小，属于顺手就换、不必较劲的事。",
+      "benefit": "把美国 6 项跟踪研究、近 3 万人合起来算。每周多吃两份加工肉，死亡风险高约 3%（风险比 1.03，95% CI 1.02–1.05，可信范围）。每周多吃两份没加工的红肉，也高约 3%（1.03，1.01–1.05）。同样的吃法换成禽肉，是 0.99（0.97–1.02）；换成鱼，是 0.99（0.97–1.01）。这两项都没看出统计上的差别",
+      "grade": "A",
+      "sources": "Zhong VW, Van Horn L, Greenland P, et al. (2020). Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. JAMA Internal Medicine, 180(4), 503-512. <https://doi.org/10.1001/jamainternmed.2019.6969>",
+      "notes": "每周两份带来的差别很小，别指望靠换肉多活几年。同样花钱吃肉，可以优先挑鱼和禽肉"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 23,
+    "title": "Thay một phần thịt đỏ bằng cá và thịt gia cầm",
+    "fields": {
+      "cost": "Không tốn thêm tiền hay thời gian. Đây là đổi loại thịt, không phải mua thêm. Điều khó là thay đổi một chút sở thích ăn uống.",
+      "plain": "Mỗi tuần ăn thêm hai khẩu phần thịt chế biến hoặc thịt đỏ liên quan xác suất tử vong cùng kỳ cao hơn khoảng 3%. Đổi sang cùng số khẩu phần cá hoặc gia cầm thì không thấy tăng. Hiệu quả của mục này tương đối nhỏ trong chương; tiện thì đổi, không cần quá căng thẳng.",
+      "benefit": "Gộp 6 nghiên cứu theo dõi tại Mỹ với gần 3 vạn người: thêm hai khẩu phần thịt chế biến mỗi tuần liên quan nguy cơ tử vong cao hơn khoảng 3% (tỷ số nguy cơ 1.03, 95% CI 1.02–1.05 là khoảng tin cậy). Thêm hai khẩu phần thịt đỏ chưa chế biến mỗi tuần cũng cao hơn khoảng 3% (1.03, 1.01–1.05). Cùng lượng đó ở gia cầm cho tỷ số 0.99 (0.97–1.02), ở cá là 0.99 (0.97–1.01). Hai kết quả sau đều không khác biệt có ý nghĩa thống kê.",
+      "grade": "A",
+      "sources": "Zhong VW, Van Horn L, Greenland P, et al. (2020). Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. JAMA Internal Medicine, 180(4), 503-512. <https://doi.org/10.1001/jamainternmed.2019.6969>",
+      "notes": "Chênh lệch từ hai khẩu phần mỗi tuần rất nhỏ; đừng mong sống thêm vài năm chỉ nhờ đổi thịt. Cùng bỏ tiền mua thịt, bạn có thể ưu tiên cá và gia cầm."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

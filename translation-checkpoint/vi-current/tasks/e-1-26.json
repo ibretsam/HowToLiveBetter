@@ -1,0 +1,48 @@
+{
+  "id": "e-1-26",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "357ef0a1f899bec21b1af77a6bf5dbf2b0be6a7c4d5ffd580dc93a90138b7892",
+  "status": "outdated",
+  "original": {
+    "number": 26,
+    "title": "备齐灭火器、灭火毯、逃生呼吸面罩和急救包，每年检查一次",
+    "fields": {
+      "cost": "灭火器、灭火毯、每人一只呼吸面罩，再加一个急救包，一套几百元。买一次就行，以后每年花十分钟检查一遍。",
+      "plain": "灭火器、灭火毯、逃生面罩、急救包，都在应急管理部那份 11 样的家庭应急清单里。一套几百元，买一次就行。上门做过家庭安全指导的那些研究里，伤害发生率低约四分之一。",
+      "benefit": "应急管理部的《全国基础版家庭应急物资储备建议清单》一共 11 样。其中「灭火器和灭火毯」用于「初起火灾的扑救」，清单还写明「灭火毯可披覆在身上逃生」。「呼吸面罩」指的是「消防过滤式自救呼吸器，用于火灾逃生使用」。「外用药品」是「止血粉、止血贴、纱布绷带等，用于处理伤口」。Cochrane 把 98 项研究、2,605,044 人合起来一起算。家庭安全干预让伤害发生率降到 IRR 0.89。可信范围是 95% CI 0.78 到 1.01。其中上门开展的干预，伤害发生率低约 25%（IRR 0.75，95% CI 0.62 到 0.91）",
+      "grade": "B",
+      "sources": "应急管理部 (2020). 全国基础版家庭应急物资储备建议清单. <https://www.mem.gov.cn/kp/shaq/202011/t20201129_372149.shtml> ; Kendrick D 等 (2012). Home safety education and provision of safety equipment for injury prevention. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD005014.pub3> ; 武胜县市场监督管理局 (2025). 手提式灭火器、防火门（窗）、点型感温（烟）火灾探测器消费提示. <https://www.wusheng.gov.cn/gasylbzj/c109568/zzzq/content/content_1988424970198126592.html> ; 贵州省消防救援总队 (2025). 居家必备灭火毯 功能用法全攻略（转载北京消防）. <https://gz.119.gov.cn/xfkp/xfcs/202503/t20250313_87157898.html> ; NVWA (2014). Blusdekens oktober 2014（荷兰食品与消费品安全局检查报告，原页面已下线，链接为 2021 年 10 月 20 日的网页存档）. <https://web.archive.org/web/20211020154732/https://www.nvwa.nl/binaries/nvwa/documenten/consument/consumentenartikelen/non-food/overige-non-food/blusdekens-oktober-2014/Factsheet+Blusdekens+Oktober+2014.pdf>",
+      "notes": "争议。同一份 Cochrane 汇总里，不发装备的那一类干预，受伤率低约两成。原值 IRR 0.78，可信范围 95% CI 0.66 到 0.92。发了装备的那一组并没有做得更好。降低伤害的主要是入户教育和改造，所以装备的收益记「中」，不记「大」。买灭火器认准 CCC 标志，贮压式的指针要停在绿区。灭火毯多是玻璃纤维的，只抓那两根拉带，别光着手摸毯面。拿它盖油锅也有争议：荷兰监管机构 2014 年测了 22 个牌子，按普通人的用法没有一个能稳定扑灭。油锅着火先关火、盖锅盖。烟雾报警器和一氧化碳报警器见本节第 3 条。止血带的用法见第 13 节第 12 条。每样东西怎么选、放在哪里、几年换一次，见 [docs/家庭应急装备清单.md](../docs/家庭应急装备清单.md)"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 26,
+    "title": "Chuẩn bị đủ bình, chăn chữa cháy, mặt nạ thoát hiểm, túi sơ cứu; kiểm tra mỗi năm",
+    "fields": {
+      "cost": "Bình, chăn, mỗi người một mặt nạ và một túi sơ cứu, cả bộ vài trăm nhân dân tệ. Mua một lần, sau đó mỗi năm dành mười phút kiểm tra.",
+      "plain": "Bình, chăn chữa cháy, mặt nạ thoát hiểm, túi sơ cứu đều thuộc danh sách 11 vật dụng gia đình của Bộ Quản lý Khẩn cấp. Cả bộ vài trăm nhân dân tệ, mua một lần. Trong nghiên cứu hướng dẫn an toàn tại nhà, tỷ lệ thương tích thấp hơn khoảng một phần tư.",
+      "benefit": "«Danh sách khuyến nghị dự trữ vật tư khẩn cấp gia đình cơ bản toàn quốc» của Bộ Quản lý Khẩn cấp gồm 11 thứ. «Bình và chăn chữa cháy» dùng «dập cháy mới phát», còn ghi «có thể khoác chăn để thoát hiểm». «Mặt nạ hô hấp» là «thiết bị tự cứu lọc khói dùng thoát cháy». «Thuốc ngoài da» gồm «bột cầm máu, miếng cầm máu, băng gạc để xử lý vết thương». Cochrane gộp 98 nghiên cứu, 2,605,044 người: can thiệp an toàn gia đình đưa tỷ lệ thương tích xuống IRR 0.89, khoảng tin cậy 95% CI 0.78 đến 1.01. Trong đó can thiệp đến tận nhà giảm khoảng 25% (IRR 0.75, 95% CI 0.62 đến 0.91)",
+      "grade": "B",
+      "sources": "应急管理部 (2020). 全国基础版家庭应急物资储备建议清单. <https://www.mem.gov.cn/kp/shaq/202011/t20201129_372149.shtml> ; Kendrick D 等 (2012). Home safety education and provision of safety equipment for injury prevention. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD005014.pub3> ; 武胜县市场监督管理局 (2025). 手提式灭火器、防火门（窗）、点型感温（烟）火灾探测器消费提示. <https://www.wusheng.gov.cn/gasylbzj/c109568/zzzq/content/content_1988424970198126592.html>",
+      "notes": "Tranh luận. Cùng tổng hợp Cochrane, can thiệp không phát thiết bị có tỷ lệ thương tích thấp khoảng hai phần mười; IRR 0.78, khoảng tin cậy 95% CI 0.66 đến 0.92. Nhóm phát thiết bị không tốt hơn. Chủ yếu giáo dục tại nhà và cải tạo giúp giảm thương tích, nên lợi ích thiết bị xếp «vừa», không «lớn». Mua bình chọn dấu CCC; loại chứa áp có kim ở vùng xanh. Báo khói, carbon monoxide xem mục 3 chương này. Dùng garô xem chương 13 mục 12. Chọn, đặt, thay từng món xem [Danh sách thiết bị khẩn cấp gia đình](../docs/danh-sach-do-dung-khan-cap.md)"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-1-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "6574e2f8ebf27fd2b7e4429e3408db8ab5194874d6b1090268ee44fccdd18e36",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "不采、不买、不吃野生蘑菇，任何「土办法鉴别」都不成立",
+    "fields": {
+      "cost": "不花钱。难的地方是放弃一种季节性的野味。",
+      "plain": "光 2025 年一年，中国疾控中心就调查了 828 起蘑菇中毒，2165 人中招，13 人死。那一年还新认出 34 种以前没记录过会毒人的蘑菇。银针试毒、虫子吃过就没毒、颜色鲜艳才有毒，这些说法全都不成立。",
+      "benefit": "中国疾控中心 2025 年调查了 828 起蘑菇中毒事件，涉及 2165 人，死亡 13 人。病死率 0.6%，指中毒的人里有 0.6% 死亡。2019 到 2024 年每年 276 到 676 起，病死率在 0.87% 到 2.86% 之间。光 2025 年就鉴定出 138 种有毒蘑菇，其中 34 种是国内第一次记录到会引起中毒。中国疾控中心的科普逐条否掉了民间的鉴别法。颜色鲜艳的才有毒：错，有没有毒和颜色无关。虫子吃过、生了蛆的没毒：错，很多剧毒蘑菇成熟后也会被虫吃。和银器、大蒜同煮会变色的有毒：错，蘑菇毒素不含硫，银针变黑靠的是硫。高温油炸能去毒：也不靠谱。它的结论是「目前没有简单易行、快速有效的识别蘑菇是否有毒的方法」。北京市市场监管局 2026 年的提示是，误食后有不适「请立即就医，切勿自行处理」，把剩下的蘑菇和食物残渣留好，方便医生识别毒物",
+      "grade": "A",
+      "sources": "Mushroom Poisoning Outbreaks — China, 2025. China CDC Weekly (2026)：「In 2025, China CDC investigated 828 mushroom poisoning incidents across 27 provincial-level administrative divisions (PLADs), affecting 2,165 individuals and causing 13 deaths - a case fatality rate of 0.6%, the lowest of the past six years. In total, 138 poisonous mushroom species were identified, including 34 newly recorded in poisoning incidents in China.」「From 2019 to 2024, the annual number of incidents ranged from 276 to 676, and the case fatality rate ranged from 0.87% to 2.86%.」<https://doi.org/10.46234/ccdcw2026.120>；同刊 2024 年度报告 <https://doi.org/10.46234/ccdcw2025.106>；中国疾病预防控制中心职业卫生所 尹萸、李海蛟 (2019). 防控蘑菇中毒，任重而道远：「方法4：虫食或生蛆的蘑菇无毒。错！」「方法6：与银器、大葱、大蒜、大米同煮可使其变色的蘑菇有毒。错！」「因此，目前没有简单易行、快速有效的识别蘑菇是否有毒的方法」. <https://www.chinacdc.cn/jkkp/zyjk/zdzs/201908/t20190802_301109.html>；北京市疾病预防控制中心 (2023). 远离毒蘑菇，不做「菇勇者」：「民间流传辨别毒蘑菇的方法，如看颜色和形状、看生长环境、用银器辨毒、看分泌物、看有无生蛆生虫等均不可靠」. <https://www.bjcdc.org/cdcmodule/jkfw/yyyspjk/jkyf/swzdyf/2023/35518.shtml>；北京市市场监督管理局 (2026). 关于防范误食野生蘑菇中毒的风险提示：「请立即就医，切勿自行处理，以免延误诊疗时机。妥善保存剩余野生蘑菇、食物残渣等样本」. <https://scjgj.beijing.gov.cn/zwxx/scjgdt/202606/t20260625_4715961.html>",
+      "notes": "怀疑吃错了，就马上去医院，别在家自己处理。带上剩下的蘑菇、食物残渣或者拍的照片。毒蘑菇中毒分好几种类型，认出是哪一种蘑菇，医生才好对症治。每年都有新种类被记录到能毒人，所以「本地人认得清」这个前提本身站不住。银针验毒、和大蒜同煮、虫子吃过就没毒、颜色鲜艳才有毒，这些说法全都不成立。泡发太久的木耳、银耳和放久的湿米粉是另一种毒，见第 48 条（泡发的木耳）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Không hái, mua, ăn nấm hoang; mọi «mẹo dân gian phân biệt» đều không có cơ sở",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là từ bỏ một món tự nhiên theo mùa.",
+      "plain": "Riêng năm 2025, toàn quốc có 828 vụ ngộ độc nấm, 2165 người mắc, 13 tử vong. Cùng năm nhận diện thêm 34 loài trước đây chưa ghi nhận gây độc. Thử bằng kim bạc, côn trùng ăn được thì không độc, chỉ nấm sặc sỡ mới độc đều là lời sai.",
+      "benefit": "Trung tâm Kiểm soát Bệnh Trung Quốc năm 2025 điều tra 828 vụ ngộ độc nấm, 2165 người, 13 tử vong. Tỷ lệ tử vong 0.6%, tức 0.6% người bị ngộ độc chết. Từ 2019 đến 2024 mỗi năm có 276 đến 676 vụ, tỷ lệ tử vong 0.87% đến 2.86%. Riêng 2025 xác định 138 loài nấm độc, trong đó 34 loài lần đầu ghi nhận gây ngộ độc trong nước",
+      "grade": "A",
+      "sources": "Mushroom Poisoning Outbreaks — China, 2025. China CDC Weekly (2026)：「In 2025, China CDC investigated 828 mushroom poisoning incidents across 27 provincial-level administrative divisions (PLADs), affecting 2,165 individuals and causing 13 deaths - a case fatality rate of 0.6%, the lowest of the past six years. In total, 138 poisonous mushroom species were identified, including 34 newly recorded in poisoning incidents in China.」「From 2019 to 2024, the annual number of incidents ranged from 276 to 676, and the case fatality rate ranged from 0.87% to 2.86%.」<https://doi.org/10.46234/ccdcw2026.120>；同刊 2024 年度报告 <https://doi.org/10.46234/ccdcw2025.106>",
+      "notes": "Ăn nhầm thì lập tức gây nôn, sau đó mang nấm còn lại hoặc ảnh chụp đến bệnh viện. Ngộ độc nấm có nhiều loại, xác định loài quyết định trực tiếp cách bác sĩ chữa. Mỗi năm vẫn ghi nhận loài độc mới, nên giả định «người địa phương biết rõ» vốn không vững. Thử kim bạc, nấu cùng tỏi, côn trùng ăn thì không độc, màu sặc sỡ mới độc đều không có cơ sở."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

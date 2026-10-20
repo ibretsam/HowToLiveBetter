@@ -1,0 +1,14 @@
+{
+  "id": "e-34-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "7b005a37ac8ff0f6c8a04e65d5170017ae0ac7f229060764018589d543e4f497",
+  "translator": "pilot_medicine",
+  "translation": {
+    "title": "Người từ 60 tuổi trở lên, từng chảy máu dạ dày, đang dùng thuốc chống đông hoặc corticoid cần hỏi bác sĩ trước khi uống các thuốc giảm đau như ibuprofen",
+    "cost": "Không tốn tiền. Hỏi bác sĩ hoặc dược sĩ một lần.",
+    "plain": "Các thuốc giảm đau như ibuprofen, naproxen và aspirin có thể gây hại dạ dày. Trong các thử nghiệm dùng liều cao, nguy cơ chảy máu hoặc thủng dạ dày của người dùng ibuprofen gấp khoảng 4 lần người không dùng. Người lớn tuổi, từng chảy máu dạ dày, đang dùng thêm thuốc chống đông hoặc corticoid, hay uống từ 3 ly rượu trở lên mỗi ngày có nguy cơ cao hơn.",
+    "benefit": "Nhóm thuốc này gọi là thuốc chống viêm không steroid, thường gặp có ibuprofen, naproxen và diclofenac. Một phân tích gộp tổng hợp 280 thử nghiệm ngẫu nhiên so sánh thuốc nhóm này với giả dược, gồm tổng cộng 124513 người. So với giả dược, nguy cơ thủng, tắc hoặc chảy máu đường tiêu hóa trên là: ibuprofen RR 3.97 (95% CI 2.22–7.10, khoảng 4 lần), naproxen 4.22 (2.71–6.56), diclofenac 1.89 (1.16–3.09). Tất cả các thuốc trong nhóm đều làm nguy cơ suy tim tăng khoảng gấp đôi. Quy định của Mỹ yêu cầu thuốc không kê đơn nhóm này phải ghi cảnh báo chảy máu dạ dày. Cảnh báo nêu sáu nhóm có nguy cơ cao hơn: từ 60 tuổi trở lên; từng loét hoặc chảy máu dạ dày; đang dùng thuốc chống đông hoặc corticoid; đồng thời dùng thuốc khác cùng nhóm; uống từ 3 ly rượu trở lên mỗi ngày trong thời gian dùng thuốc; dùng nhiều hơn hoặc lâu hơn hướng dẫn.",
+    "notes": "Kết luận của bài báo nói về cách dùng liều cao. Bài báo không đưa ra số liệu riêng cho việc thỉnh thoảng dùng một hai ngày, đúng liều trong hướng dẫn. Nhiều thuốc cảm phối hợp cũng chứa các thành phần thuộc nhóm này; dùng cùng thuốc giảm đau sẽ bị trùng, nên hãy xem bảng thành phần trước. Nếu bác sĩ chỉ định dùng aspirin liều thấp lâu dài để phòng huyết khối, đừng tự ngừng và cũng đừng tự thêm một thuốc giảm đau khác. Về cách dùng nhóm thuốc này khi đau bụng kinh và khi nào cần đi khám phụ khoa, xem chương 3 mục 25 (dùng các thuốc giảm đau như ibuprofen khi đau bụng kinh).",
+    "extra": ""
+  }
+}

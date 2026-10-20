@@ -1,0 +1,48 @@
+{
+  "id": "e-13-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "16f668984d075428004ae4216d75832d1752b3c2a4758891aa1f3af4eae1f157",
+  "status": "outdated",
+  "original": {
+    "number": 19,
+    "title": "一氧化碳报警器响了，或者一屋子人同时头痛恶心，先出门再打电话",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "报警器响了，或者一屋子人同时头痛、恶心、发晕，先把人都带到室外，再打电话。别留在屋里找原因，也别回去关阀门。症状像感冒，「出门就好转」是最强的提示。中国 2018 年报告了 11523 人死于一氧化碳中毒，冬天最多，冬天三个月里约七成死在家里。",
+      "benefit": "中国疾控的死因监测系统 2018 年报告了 11523 例一氧化碳中毒死亡。最多的是 1 月（2845 例）、2 月（2321 例）和 12 月（2010 例）。冬天这三个月，死在家里的占 66% 到 73%。这是系统里报上来的数，不是按全国人口推算的。美国每年 400 多人死于与火灾无关的意外一氧化碳中毒。10 万人以上进急诊，1.4 万人以上住院。美国疾控中心说，一氧化碳中毒的症状常被形容为「像流感」。NHS 写明，症状在待在出问题的房间里时加重，离开或者到室外就好转",
+      "grade": "B",
+      "sources": "You J, Liu J, Zhou M (2020). Number of Deaths due to Carbon Monoxide Poisoning by Month and by Place of Death — China, 2018. China CDC Weekly 2(2):32：「In 2018, there were 11,523 deaths caused by carbon monoxide poisoning reported in China」. <https://doi.org/10.46234/ccdcw2020.008>；美国疾病控制与预防中心. 一氧化碳中毒：「More than 400 Americans die from unintentional CO poisoning not linked to fires」「More than 100,000 visit an emergency department」「More than 14,000 are hospitalized」，常见症状「headache, dizziness, weakness, upset stomach, vomiting, chest pain, and confusion」「CO symptoms are often described as \"flu-like.\"」. <https://www.cdc.gov/carbon-monoxide/about/index.html>；美国消费品安全委员会. 一氧化碳信息中心：「If you suspect CO poisoning, get outside to fresh air immediately, and then call 911」. <https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center>；NHS. Carbon monoxide poisoning：「They may get worse when you spend time in an affected room or building and get better when you leave or go outside」. <https://www.nhs.uk/conditions/carbon-monoxide-poisoning/>",
+      "notes": "症状像感冒。出门就好转，是最强的提示。一屋子人同时难受也当回事，这是作者从「同一间屋里的人吸的是同样的空气」推出来的。别留在屋里找原因，别回去关阀门，人先出来再打电话。报警器怎么装见第 1 节第 3 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 19,
+    "title": "Thiết bị báo khí carbon monoxide kêu, hoặc cả phòng cùng lúc đau đầu, buồn nôn: ra ngoài trước rồi mới gọi điện",
+    "fields": {
+      "cost": "Không tốn tiền.",
+      "plain": "Thiết bị báo kêu, hoặc cả phòng cùng lúc đau đầu, buồn nôn, choáng váng, thì trước hết đưa mọi người ra ngoài trời rồi mới gọi điện. Đừng ở lại trong phòng tìm nguyên nhân, cũng đừng quay vào khóa van. Triệu chứng giống cảm cúm; “ra khỏi phòng là đỡ” là dấu hiệu gợi ý mạnh nhất. Năm 2018 Trung Quốc ghi nhận 11523 người chết do ngộ độc carbon monoxide, nhiều nhất vào mùa đông, phần lớn chết tại nhà.",
+      "benefit": "Hệ thống giám sát nguyên nhân tử vong của CDC Trung Quốc năm 2018 ghi nhận 11523 ca tử vong do ngộ độc carbon monoxide. Nhiều nhất là tháng 1 (2845 ca), tháng 2 (2321 ca) và tháng 12 (2010 ca). Trong ba tháng mùa đông này, số ca chết tại nhà chiếm 66% đến 73%. Đây là số được báo cáo vào hệ thống, không phải ước tính theo dân số cả nước. Ở Mỹ mỗi năm có hơn 400 người chết do ngộ độc carbon monoxide ngoài ý muốn không liên quan đến hỏa hoạn; từ 10 vạn người trở lên phải vào cấp cứu, từ 1.4 vạn người trở lên phải nhập viện.",
+      "grade": "B",
+      "sources": "You J, Liu J, Zhou M (2020). Number of Deaths due to Carbon Monoxide Poisoning by Month and by Place of Death — China, 2018. China CDC Weekly 2(2):32：「In 2018, there were 11,523 deaths caused by carbon monoxide poisoning reported in China」. <https://doi.org/10.46234/ccdcw2020.008>；美国疾病控制与预防中心. 一氧化碳中毒：「More than 400 Americans die from unintentional CO poisoning not linked to fires」「More than 100,000 visit an emergency department」「More than 14,000 are hospitalized」，常见症状「headache, dizziness, weakness, upset stomach, vomiting, chest pain, and confusion」. <https://www.cdc.gov/carbon-monoxide/about/index.html>；美国消费品安全委员会. 一氧化碳信息中心：「If you suspect CO poisoning, get outside to fresh air immediately, and then call 911」. <https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center>",
+      "notes": "Triệu chứng giống cảm cúm, cũng giống say rượu. Cả phòng cùng khó chịu và ra ngoài là đỡ, đó là dấu hiệu gợi ý mạnh nhất. Đừng ở lại trong phòng tìm nguyên nhân, đừng quay vào khóa van; đưa người ra ngoài trước rồi mới gọi điện. Cách lắp thiết bị báo xem chương 1 mục 3."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

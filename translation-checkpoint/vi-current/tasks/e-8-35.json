@@ -1,0 +1,48 @@
+{
+  "id": "e-8-35",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "93ca92c7be92a94737e134972fc4950688d86f12abf0f3bac4e42bb72b800d2b",
+  "status": "outdated",
+  "original": {
+    "number": 35,
+    "title": "被羁押后撤案、不起诉或者判无罪的，去申请国家赔偿，按天算钱",
+    "fields": {
+      "cost": "不花钱。向当初作出拘留、逮捕、起诉或者判决的那个机关提出赔偿申请。",
+      "plain": "被拘留、逮捕后又撤案、不起诉或判无罪的，能申请国家赔偿。被关的日子按天赔，2026 年 5 月 18 日起每天 495.94 元。后果严重的另给精神损害抚慰金。犯了事只因情节轻微不起诉的不赔，过了追诉期、没到年龄、自己作假口供的也不赔。",
+      "benefit": "《国家赔偿法》第十七条列了几种情形，受害人有取得赔偿的权利。第一种是拘留：违反刑事诉讼法规定对公民采取拘留措施，或者依法拘留但超过法定时限。这之后决定撤销案件、不起诉，或者判决宣告无罪终止追究刑事责任的。第二种是逮捕：对公民采取逮捕措施后，决定撤销案件、不起诉，或者判决宣告无罪终止追究刑事责任的。第三种是再审：案子按审判监督程序再审改判无罪，原判刑罚已经执行的。审判监督程序就是把已经生效的判决重新拿出来审的程序。第三十三条：侵犯公民人身自由的，每日赔偿金按照国家上年度职工日平均工资计算。第三十五条：致人精神损害的，应当在侵权行为影响的范围内为受害人消除影响、恢复名誉、赔礼道歉，造成严重后果的应当支付相应的精神损害抚慰金。第十九条列了六种国家不赔的情形。一是自己故意作假口供，或者伪造其他有罪证据，因此被关或者被判刑。二是按刑法第十七条、第十八条不负刑事责任的人被关。比如没到负刑事责任的年龄，或者精神病人在不能辨认、不能控制自己行为的时候造成危害。三是按刑事诉讼法规定不追究刑事责任的人被关。这包括情节显著轻微、危害不大，不认为是犯罪的，过了追诉时效的，嫌疑人死亡的。也包括犯罪情节轻微、检察院决定不起诉的，就是常说的相对不起诉（也叫酌定不起诉）。未成年人附条件不起诉考验期满后不起诉的，和被害人达成和解后不起诉的，同样在内。四是办案人员和行使职权无关的个人行为。五是自己自伤、自残等故意行为造成的损害。六是法律规定的其他情形。两高 2015 年的刑事赔偿司法解释第七条再次确认：不负刑事责任的人和相对不起诉的人被羁押，国家不赔。但起诉后被法院错判拘役、有期徒刑、无期徒刑并已执行的，判决确定后继续关押的那段仍然要赔。该解释第八条：办案机关以「你自己作假口供」「你自己自伤自残」为理由不赔的，由办案机关举证。最高人民检察院 2026 年 5 月发了通知。国家统计局 2026 年 5 月 15 日公布了 2025 年的数字。全国城镇非私营单位就业人员年平均工资约 12.9 万元（129441 元）。据此算出的日平均工资为 495.94 元。各级检察院从 2026 年 5 月 18 日起作出国家赔偿决定时，按这个数算。侵犯公民人身自由的赔偿金，每日 495.94 元。上一个标准是每日 475.52 元，从 2025 年 5 月起用（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 年修正). 国家赔偿法（第十七、十九、三十三、三十五条）. <https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html>（国家统计局转载）；最高人民检察院 (2026). 最高人民检察院公布最新侵犯公民人身自由的赔偿金标准. <https://www.spp.gov.cn/xwfbh/wsfbh/202605/t20260519_727675.shtml>；最高人民法院、最高人民检察院 (2015). 关于办理刑事赔偿案件适用法律若干问题的解释（法释〔2015〕24 号，第七、八条）. <https://www.court.gov.cn/zixun/xiangqing/16409.html>；全国人大 (2018). 刑事诉讼法（2018 年修正，第十六、一百七十七、一百八十一、二百八十四、二百九十条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>。国家赔偿法第十九条和该解释引的是 2012 年刑事诉讼法条号（第十五条、第一百七十三条第二款、第二百七十三条第二款、第二百七十九条），2018 年修正后依次对应第十六条、第一百七十七条第二款、第二百八十四条第二款、第二百九十条",
+      "notes": "这个按天算的标准，每年 5 月随国家统计局公布的上年度城镇非私营单位年平均工资更新。用的时候查当年的数字，别直接套本条这个。拿到不起诉决定书，先看它写的依据。写的是「没有犯罪事实」或者「证据不足」，可以申请赔偿。写的是「犯罪情节轻微」，或者过了追诉时效，被关的日子原则上赔不了。不服相对不起诉的，收到决定书后 7 日内可以向检察院申诉。精神损害抚慰金由办案机关按后果定，没有统一公式。该赔钱的是当初决定关你的那个机关（公安、检察院或者法院），先找它提。对它的处理不服，再按国家赔偿法的程序往上申请。实际怎么算，可以看本节第 36 条（自己是受害人去索赔）里郭利那个案子的决定书。郭利被关了 1826 天。赔偿按作决定那一年的标准算，不按关他那一年的。用的是 2016 年度全国职工日平均工资 258.89 元。限制人身自由这部分赔了约 47.3 万元（472733.14 元）。另给精神损害抚慰金约 16.5 万元（165450 元）。他自己申请的十年精神损害抚慰金 8888 万元，超出的部分不支持。也要知道哪些赔不了。那份决定书认定，这几样不在国家赔偿的范围里：误工费、身体健康方面的赔偿、财产损失、律师费、看守所的生活费补贴。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 35,
+    "title": "Sau bị giam giữ mà đình chỉ vụ án, không truy tố hoặc tuyên vô tội, hãy xin bồi thường của Nhà nước, tiền tính theo ngày",
+    "fields": {
+      "cost": "Không tốn tiền. Nộp yêu cầu bồi thường tới cơ quan ban đầu quyết định tạm giữ, bắt giữ, truy tố hoặc ra bản án.",
+      "plain": "Sau tạm giữ, bắt giữ mà vụ án bị đình chỉ, không truy tố hoặc tuyên vô tội, có thể xin Nhà nước bồi thường. Thời gian bị giam tính theo ngày; từ ngày 18 tháng 5 năm 2026 là 495.94 nhân dân tệ/ngày, một năm khoảng 18 vạn nhân dân tệ. Hậu quả nghiêm trọng còn được bù đắp tổn thất tinh thần. Đã phạm tội nhưng không truy tố chỉ vì tình tiết nhẹ thì không bồi thường. Hết thời hiệu truy cứu, chưa đủ tuổi, tự khai gian cũng không được bồi thường.",
+      "benefit": "Điều mười bảy Luật Bồi thường nhà nước liệt kê các trường hợp người bị hại có quyền được bồi thường. Thứ nhất là tạm giữ: áp dụng tạm giữ trái Luật Tố tụng hình sự, hoặc tạm giữ đúng luật nhưng quá thời hạn, sau đó quyết định đình chỉ vụ án, không truy tố hoặc tuyên vô tội chấm dứt truy cứu hình sự. Thứ hai là bắt giữ: sau khi bắt công dân, quyết định đình chỉ vụ án, không truy tố hoặc tuyên vô tội chấm dứt truy cứu hình sự. Thứ ba là tái thẩm: xét xử lại theo thủ tục giám sát xét xử, sửa thành vô tội, trong khi hình phạt ban đầu đã thi hành. Thủ tục giám sát xét xử là đưa bản án đã có hiệu lực ra xét lại. Điều ba mươi ba: xâm phạm tự do thân thể công dân thì tiền bồi thường mỗi ngày tính theo lương ngày bình quân người lao động toàn quốc năm trước. Điều ba mươi lăm: gây tổn hại tinh thần phải khắc phục ảnh hưởng, khôi phục danh dự, xin lỗi trong phạm vi hành vi xâm phạm tác động; hậu quả nghiêm trọng phải trả tiền bù đắp tổn thất tinh thần tương ứng. Điều mười chín liệt kê sáu trường hợp Nhà nước không bồi thường. Một là tự cố ý khai gian hoặc làm giả chứng cứ có tội khác khiến mình bị giam, kết án. Hai là người không chịu trách nhiệm hình sự theo Điều mười bảy, mười tám Bộ luật Hình sự bị giam, như chưa đủ tuổi chịu trách nhiệm hoặc người bệnh tâm thần gây hại lúc không thể nhận thức, kiểm soát hành vi. Ba là người không bị truy cứu theo Luật Tố tụng hình sự bị giam, gồm tình tiết rõ ràng rất nhẹ, tác hại không lớn, không coi là tội phạm; hết thời hiệu; nghi phạm chết. Cũng gồm phạm tội nhẹ, viện kiểm sát quyết định không truy tố, thường gọi không truy tố tương đối (hoặc tùy nghi). Người chưa thành niên được không truy tố có điều kiện sau hết thời gian thử thách, hoặc không truy tố sau hòa giải với nạn nhân cũng thuộc nhóm này. Bốn là hành vi cá nhân của người xử lý vụ án không liên quan thi hành công vụ. Năm là thiệt hại do hành vi cố ý tự gây thương tích, tự hủy hoại cơ thể. Sáu là trường hợp khác luật định. Điều bảy giải thích tư pháp năm 2015 của hai cơ quan tối cao về bồi thường hình sự xác nhận lại: người không chịu trách nhiệm hình sự và người không bị truy tố theo diện tương đối bị giam thì Nhà nước không bồi thường. Nhưng sau truy tố bị tòa kết sai giam ngắn hạn, tù có thời hạn hoặc chung thân và đã thi hành, thời gian tiếp tục bị giam sau xác định bản án vẫn phải bồi thường. Điều tám của giải thích: cơ quan xử lý viện lý do “bạn tự khai gian”, “bạn tự gây thương tích” để không bồi thường thì chính cơ quan đó phải chứng minh. Viện kiểm sát nhân dân tối cao ban hành thông báo tháng 5 năm 2026. Ngày 15 tháng 5 năm 2026, Cục Thống kê quốc gia công bố lương năm bình quân năm 2025 của người làm việc tại đơn vị đô thị ngoài khu vực tư nhân khoảng 12.9 vạn nhân dân tệ (129441 nhân dân tệ). Lương ngày tính từ đó là 495.94 nhân dân tệ. Từ ngày 18 tháng 5 năm 2026, khi quyết định bồi thường nhà nước, viện kiểm sát các cấp tính bồi thường xâm phạm tự do thân thể theo 495.94 nhân dân tệ mỗi ngày. Mức trước là 475.52 nhân dân tệ/ngày, áp dụng từ tháng 5 năm 2025 (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 年修正). 国家赔偿法（第十七、十九、三十三、三十五条）. <https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html>（国家统计局转载）；最高人民检察院 (2026). 最高人民检察院公布最新侵犯公民人身自由的赔偿金标准. <https://www.spp.gov.cn/xwfbh/wsfbh/202605/t20260519_727675.shtml>；最高人民法院、最高人民检察院 (2015). 关于办理刑事赔偿案件适用法律若干问题的解释（法释〔2015〕24 号，第七、八条）. <https://www.court.gov.cn/zixun/xiangqing/16409.html>；全国人大 (2018). 刑事诉讼法（2018 年修正，第十六、一百七十七、一百八十一、二百八十四、二百九十条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>。国家赔偿法第十九条和该解释引的是 2012 年刑事诉讼法条号（第十五条、第一百七十三条第二款、第二百七十三条第二款、第二百七十九条），2018 年修正后依次对应第十六条、第一百七十七条第二款、第二百八十四条第二款、第二百九十条",
+      "notes": "Mức theo ngày này cập nhật mỗi tháng 5 theo lương năm bình quân các đơn vị đô thị ngoài tư nhân năm trước do Cục Thống kê quốc gia công bố. Khi dùng hãy tra số của năm đó, đừng áp thẳng số ở đây. Nhận quyết định không truy tố thì xem căn cứ trước. Ghi “không có sự thật phạm tội” hoặc “thiếu chứng cứ” thì có thể xin bồi thường. Ghi “tình tiết phạm tội nhẹ” hoặc hết thời hiệu thì thời gian bị giam nguyên tắc không được bồi thường. Không đồng ý quyết định không truy tố tương đối thì trong 7 ngày từ khi nhận có thể khiếu nại tới viện kiểm sát. Tiền bù tinh thần do cơ quan xử lý định theo hậu quả, không có công thức chung. Cơ quan ban đầu quyết định giam bạn (công an, viện kiểm sát hoặc tòa) là bên phải bồi thường; yêu cầu họ trước. Không đồng ý cách xử lý thì tiếp tục yêu cầu cấp trên theo Luật Bồi thường nhà nước. Cách tính thực tế có thể xem quyết định vụ Quách Lợi ở mục 36 chương này (nạn nhân đi yêu cầu bồi thường). Quách Lợi bị giam 1826 ngày. Bồi thường tính theo mức năm quyết định, không phải năm giam; dùng lương ngày bình quân toàn quốc năm 2016 là 258.89 nhân dân tệ. Phần hạn chế tự do thân thể được khoảng 47.3 vạn nhân dân tệ (472733.14 nhân dân tệ), thêm tổn thất tinh thần khoảng 16.5 vạn nhân dân tệ (165450 nhân dân tệ). Ông yêu cầu 8888 vạn nhân dân tệ tổn thất tinh thần mười năm, phần vượt không được chấp nhận. Cũng cần biết khoản không bồi thường: quyết định xác định thu nhập mất do nghỉ việc, bồi thường sức khỏe, tổn thất tài sản, phí luật sư và trợ cấp sinh hoạt trong trại tạm giam đều ngoài phạm vi bồi thường nhà nước."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

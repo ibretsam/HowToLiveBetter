@@ -1,0 +1,48 @@
+{
+  "id": "e-9-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "dcef28b05162f631567c019ceedc65be0471584b43b30f3871a1bcfc7e5f0b43",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "身份证不借人，不用别人的身份证，也不拿别人的证件登记、开卡、买票",
+    "fields": {
+      "cost": "不花钱。有人开口借，拒绝就行。要给复印件的，在复印件上写明这份只用在哪件事上。",
+      "plain": "把身份证借给、租给、转给别人，警告并罚 200 元以下。冒用别人的身份证，或者用骗领来的，罚 200 到 1000 元，或者拘留 10 日以内。买火车票、住店这类必须实名的场合用假证件或者盗用别人的证件，情节严重的判拘役或者管制。",
+      "benefit": "把自己的居民身份证出租、出借、转让给别人的，警告并罚 200 元以下。冒用别人的身份证，或者使用骗领来的身份证，罚 200 到 1000 元，或者拘留 10 日以下。购买、出售、使用伪造变造的身份证的，也是这一档。有些场合按国家规定必须出示身份证明。在这些场合使用伪造、变造或者盗用别人的证件，情节严重的就要判刑。证件包括身份证、护照、社保卡、驾驶证等。刑罚是拘役（短期关押）或者管制（不关押但行动受限），还要并处或者单处罚金，判刑的同时罚钱，也可能只罚钱（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2011). 居民身份证法（2011 年修正，第十六、十七条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/203777/index.html>（北京市公安交通管理局转载）；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十条之一）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；国务院 (2002). 互联网上网服务营业场所管理条例（国令第 363 号，第二十三条）. <http://www.gov.cn/gongbao/content/2002/content_61788.htm>",
+      "notes": "身份证借出去，可能被拿去注册公司、办银行卡。这两样的后果见第 8 节第 28、8 条（别当挂名法人、不把银行卡借给人）。用别人的身份证买火车票、住店，属于法条说的「应当提供身份证明的活动」。本条没有找到官方案例。去网吧上网也一样用自己的证。网吧必须核对登记身份证，登记内容和上网记录至少存 60 天，公安和文化部门随时能调。用谁的证上网，那段时间机器上干的事就记在谁头上。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Không cho mượn căn cước, không dùng căn cước người khác, không dùng giấy tờ họ đăng ký, mở thẻ, mua vé",
+    "fields": {
+      "cost": "Không tốn tiền. Có người hỏi mượn thì từ chối. Cần đưa bản sao thì ghi rõ chỉ dùng cho việc gì.",
+      "plain": "Cho mượn, thuê, chuyển căn cước bị cảnh cáo và phạt đến 200 nhân dân tệ. Mạo dùng người khác hoặc căn cước lấy bằng gian dối bị phạt 200 đến 1000 nhân dân tệ hoặc tạm giữ đến 10 ngày. Dùng giấy giả hay giấy người khác trong việc bắt buộc danh tính thật như vé tàu, khách sạn, nghiêm trọng thì giam ngắn hạn hoặc quản chế.",
+      "benefit": "Cho thuê, mượn, chuyển căn cước cư dân của mình bị cảnh cáo và phạt đến 200 nhân dân tệ. Mạo dùng căn cước người khác hoặc dùng căn cước lấy bằng gian dối phạt 200 đến 1000 nhân dân tệ hoặc tạm giữ đến 10 ngày. Mua, bán, dùng căn cước giả, sửa cũng cùng mức. Có hoạt động theo quy định phải xuất trình giấy tờ danh tính; dùng giấy giả, sửa hoặc mạo dùng người khác trong đó, nghiêm trọng sẽ bị hình phạt. Giấy tờ gồm căn cước, hộ chiếu, thẻ an sinh, giấy phép lái xe và tương tự. Phạt giam ngắn hạn hoặc quản chế (không giam nhưng hạn chế đi lại), kèm hoặc chỉ phạt tiền (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2011). 居民身份证法（2011 年修正，第十六、十七条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/203777/index.html>（北京市公安交通管理局转载）；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十条之一）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；国务院 (2002). 互联网上网服务营业场所管理条例（国令第 363 号，第二十三条）. <http://www.gov.cn/gongbao/content/2002/content_61788.htm>",
+      "notes": "Căn cước cho mượn có thể bị dùng lập công ty, mở tài khoản ngân hàng. Hậu quả xem chương 8 mục 28, 8 (không đứng tên đại diện hộ, không cho mượn thẻ). Dùng căn cước người khác mua vé tàu, ở khách sạn thuộc “hoạt động cần cung cấp chứng minh danh tính”. Chưa tìm được vụ chính thức cho mục này. Đi quán Internet cũng dùng giấy của mình. Quán phải kiểm tra đăng ký căn cước, lưu nội dung và lịch sử dùng mạng ít nhất 60 ngày; công an, cơ quan văn hóa có thể lấy bất cứ lúc nào. Dùng giấy ai thì việc làm trên máy thời gian đó ghi cho người đó."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

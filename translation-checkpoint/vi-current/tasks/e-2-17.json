@@ -1,0 +1,48 @@
+{
+  "id": "e-2-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "c1d847ad4d4f67c1d8f6950f289356fd8c225c62c19e7aa07be53292f03c08e2",
+  "status": "draft",
+  "original": {
+    "number": 17,
+    "title": "别连着坐太久，隔一阵起身动一动",
+    "fields": {
+      "cost": "不花钱，起身几下也用不了多少时间。难在坐进去就忘了时间，得设个提醒。",
+      "plain": "坐得最久的人，同期死亡的概率是坐得最少的人的 2.6 倍。一次连着坐很久，还要另算一笔风险。但只要每天有 60–75 分钟中等强度活动，久坐多出来的风险基本就被抵消了。",
+      "benefit": "美国有一项跟踪研究，只记录、不分组，用加速度计实测。把人按每天久坐总时长分成四份。久坐最多的那份人，死亡风险是最少那份的 2.63 倍（HR 2.63）。再按一次连着坐多久分成四份：连坐最久的那份人，是连坐最短那份的 1.96 倍（HR 1.96）。所以坐的总量和一次连坐多久，各自单独相关。另一项汇总把上百万人的研究合起来算，只记录、不分组。每天坐 8 小时以上、又几乎不运动的人，死亡风险是另一类人的 1.59 倍（HR 1.59）。另一类人是每天坐不到 4 小时、又最活跃的。每天约 60–75 分钟中等强度活动，可以抵消久坐多出来的风险。最活跃那组即使每天坐 8 小时以上，HR 也只有 1.04，没看出统计上的差别。",
+      "grade": "A",
+      "sources": "Diaz KM 等 (2017). Patterns of Sedentary Behavior and Mortality in U.S. Middle-Aged and Older Adults: A National Cohort Study. Annals of Internal Medicine. <https://doi.org/10.7326/M17-0212>；Ekelund U 等 (2016). Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. <https://doi.org/10.1016/S0140-6736(16)30370-1>",
+      "notes": "可靠的结论是：坐多久不如动多少重要，运动量够的时候久坐的风险基本消失。要注意这类研究只是跟踪记录，坐得最多的人里有大量本来就病着的，「风险高到 2.63 倍」里明显含着「先病了才久坐」。另外同一份汇总里，每天看电视 3 小时以上的风险在各个运动量的人身上都存在，最活跃那组只是把这个起点推到 5 小时。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Đừng ngồi liên tục quá lâu; thỉnh thoảng đứng dậy vận động",
+    "fields": {
+      "cost": "Không tốn tiền, đứng dậy vài lần cũng không mất nhiều thời gian. Điều khó là ngồi vào rồi quên giờ, nên cần đặt nhắc nhở.",
+      "plain": "Người ngồi nhiều nhất có xác suất tử vong cùng kỳ bằng 2.6 lần người ngồi ít nhất. Mỗi lần ngồi liên tục lâu còn có phần nguy cơ riêng. Nhưng nếu mỗi ngày có 60–75 phút hoạt động cường độ vừa, phần nguy cơ tăng thêm do ngồi lâu gần như được bù hết.",
+      "benefit": "Một nghiên cứu tại Mỹ chỉ theo dõi, không phân nhóm, dùng gia tốc kế đo thực tế. Khi chia người tham gia thành bốn nhóm theo tổng thời gian ngồi mỗi ngày, nhóm nhiều nhất có nguy cơ tử vong bằng 2.63 lần nhóm ít nhất (HR 2.63). Chia thành bốn nhóm theo độ dài mỗi lần ngồi liên tục, nhóm dài nhất có nguy cơ bằng 1.96 lần nhóm ngắn nhất (HR 1.96). Tổng thời gian ngồi và độ dài mỗi đợt có liên quan độc lập với nguy cơ. Một phân tích gộp khác gồm nghiên cứu trên hơn một triệu người, cũng chỉ theo dõi, thấy người ngồi từ 8 giờ trở lên mỗi ngày và gần như không vận động có nguy cơ bằng 1.59 lần nhóm đối chiếu (HR 1.59). Nhóm đối chiếu ngồi dưới 4 giờ mỗi ngày và vận động nhiều nhất. Khoảng 60–75 phút hoạt động cường độ vừa mỗi ngày có thể bù phần nguy cơ tăng thêm do ngồi lâu. Nhóm hoạt động nhiều nhất dù ngồi từ 8 giờ trở lên mỗi ngày vẫn chỉ có HR 1.04, không khác biệt có ý nghĩa thống kê.",
+      "grade": "A",
+      "sources": "Diaz KM 等 (2017). Patterns of Sedentary Behavior and Mortality in U.S. Middle-Aged and Older Adults: A National Cohort Study. Annals of Internal Medicine. <https://doi.org/10.7326/M17-0212>；Ekelund U 等 (2016). Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. <https://doi.org/10.1016/S0140-6736(16)30370-1>",
+      "notes": "Kết luận đáng tin là lượng vận động quan trọng hơn thời gian ngồi; khi vận động đủ, nguy cơ do ngồi lâu gần như biến mất. Cần nhớ đây chỉ là nghiên cứu theo dõi. Trong nhóm ngồi nhiều nhất có nhiều người vốn đã bệnh, nên “nguy cơ cao 2.63 lần” rõ ràng chứa cả ảnh hưởng “bệnh trước rồi mới ngồi nhiều”. Cũng trong phân tích gộp đó, xem tivi từ 3 giờ trở lên mỗi ngày vẫn liên quan nguy cơ ở mọi mức vận động; nhóm hoạt động nhiều nhất chỉ đẩy ngưỡng này lên 5 giờ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

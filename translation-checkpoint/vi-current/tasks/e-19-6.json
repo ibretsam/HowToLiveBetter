@@ -1,0 +1,48 @@
+{
+  "id": "e-19-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "3ceb6d448933b801d64c626245559ac17bbd641b1e0337680a3643d2ab73a61c",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "公司违法解除的，赔偿金是经济补偿标准的二倍",
+    "fields": {
+      "cost": "不花钱。走仲裁要等几个月。难在这几个月要一直跟着办，不能中途放弃。",
+      "plain": "公司属于违法解除的，赔偿金按经济补偿的标准翻倍，就是常说的 2N。是不是违法解除要看具体情形。先找法律援助或者律师问清楚，再决定是跟公司谈，还是去仲裁。",
+      "benefit": "劳动合同法规定，用人单位违反本法规定解除或者终止劳动合同的，「应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金」。算法是先按经济补偿那套标准算出一份，再翻一倍给你",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第八十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "这就是俗称的 2N。什么算违法解除要看具体情形。先咨询法律援助或者律师，再决定是谈还是去仲裁，路径见第 7 节"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Nếu công ty chấm dứt trái luật, tiền bồi thường bằng hai lần mức trợ cấp kinh tế",
+    "fields": {
+      "cost": "Không tốn tiền. Trọng tài phải chờ vài tháng. Khó là suốt những tháng đó phải theo thủ tục, không bỏ giữa chừng.",
+      "plain": "Nếu công ty chấm dứt trái luật, bồi thường gấp đôi mức trợ cấp kinh tế, thường gọi 2N. Có trái luật hay không tùy tình huống. Hỏi trợ giúp pháp lý hoặc luật sư trước, rồi quyết định thương lượng với công ty hay yêu cầu trọng tài.",
+      "benefit": "Luật Hợp đồng lao động quy định nếu đơn vị vi phạm luật khi chấm dứt hoặc kết thúc hợp đồng, “phải trả bồi thường cho người lao động bằng hai lần tiêu chuẩn trợ cấp kinh tế quy định tại Điều bốn mươi bảy”. Tính một phần theo quy tắc trợ cấp kinh tế rồi nhân đôi",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第八十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "Đó là 2N thường nói. Thế nào là chấm dứt trái luật tùy trường hợp. Hỏi trợ giúp pháp lý hoặc luật sư trước rồi quyết định thương lượng hay trọng tài; cách tiếp cận xem chương 7"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

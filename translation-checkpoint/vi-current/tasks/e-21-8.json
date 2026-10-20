@@ -1,0 +1,48 @@
+{
+  "id": "e-21-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "5c4ee19393cbda68e0750ae7efd562cf3b73a4ff44b6665194e43a38f7ca4fe4",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "境外自驾先确认当地认不认中国驾照，网上卖的「国际驾照」多数是废纸",
+    "fields": {
+      "cost": "不花钱。出发前查一次目的地的规定。",
+      "plain": "网上代办的「国际驾照」在中国内地不成立。那本证是 1949 年日内瓦公约缔约方之间互认的翻译件，103 个缔约方里没有中国内地。所以国内不管谁给你办，都没有法律效力。能不能用中国驾照开车，看目的地自己的规定，没确认清楚就别开。",
+      "benefit": "所谓「国际驾照」（IDP），是 1949 年《道路交通公约》缔约国之间互相认可的翻译件。这份公约 1949 年 9 月 19 日在日内瓦订立，1952 年 3 月 26 日生效。目前有 103 个缔约方（签约的国家和地区）。中国内地不在这份名单里。所以中国不签发这种国际驾照。任何机构在国内「代办国际驾照」，都不产生法律效力。能不能用中国驾照开车，取决于目的地国家或地区自己的规定。有的承认中国驾照加公证翻译件，有的要求换领当地驾照，有的完全不认",
+      "grade": "A",
+      "sources": "United Nations Treaty Collection. Convention on Road Traffic, Geneva, 19 September 1949 — status of treaties. <https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&clang=_en>",
+      "notes": "开车用的驾照当地不认，出了事保险可能拒赔，这才是真正的成本。这一句是作者经验，具体看保单条款和当地法律。查法有两个：在中国领事服务网上找目的地国家的「中国公民须知」，或者直接让租车公司给你一份书面确认。香港、澳门、台湾地区以及部分国家另有单独安排"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Trước tự lái ở nước ngoài, xác nhận nơi đó có công nhận bằng Trung Quốc; “bằng quốc tế” bán mạng phần lớn là giấy vô dụng",
+    "fields": {
+      "cost": "Không tốn tiền. Tra quy định điểm đến trước đi.",
+      "plain": "“Bằng lái quốc tế” làm hộ trên mạng không có cơ sở ở Trung Quốc đại lục. Đó là bản dịch được các bên Công ước Geneva 1949 công nhận lẫn nhau, trong 103 bên không có Trung Quốc đại lục. Vì vậy bất kỳ ai làm hộ trong nước cũng không có hiệu lực pháp lý. Dùng bằng Trung Quốc lái được không tùy nơi đến; chưa rõ thì đừng lái.",
+      "benefit": "Cái gọi là bằng quốc tế (IDP) là bản dịch các nước thành viên Công ước Giao thông đường bộ 1949 công nhận lẫn nhau. Công ước ký tại Geneva ngày 19 tháng 9 năm 1949, hiệu lực ngày 26 tháng 3 năm 1952, hiện 103 bên (quốc gia, vùng lãnh thổ). Trung Quốc đại lục không có trong danh sách nên không cấp loại bằng này. Tổ chức nào “làm hộ bằng quốc tế” trong nước cũng không tạo hiệu lực pháp lý. Có lái bằng Trung Quốc được không tùy quốc gia/vùng đến: có nơi nhận kèm bản dịch công chứng, nơi yêu cầu đổi bằng sở tại, nơi hoàn toàn không nhận",
+      "grade": "A",
+      "sources": "United Nations Treaty Collection. Convention on Road Traffic, Geneva, 19 September 1949 — status of treaties. <https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&clang=_en>",
+      "notes": "Ở đa số nước, lái không bằng là tội hình sự hoặc bị phạt nặng. Khi xảy ra việc bảo hiểm nhiều khả năng từ chối, mới là chi phí thực. Hai cách tra: tìm “Điều công dân Trung Quốc cần biết” của nước đến trên trang Dịch vụ lãnh sự Trung Quốc, hoặc yêu cầu công ty thuê xe xác nhận bằng văn bản. Hong Kong, Macau, Đài Loan và một số nước có thỏa thuận riêng"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

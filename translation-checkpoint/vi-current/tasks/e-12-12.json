@@ -1,0 +1,48 @@
+{
+  "id": "e-12-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "8a7826a65a3814af19a3f702f7aab6148555feebb82e54ba2cd93a6e5e7704e3",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "领了执照就开始有申报义务，没有收入也要按期零申报（照报一张全是零的表）",
+    "fields": {
+      "cost": "不花钱。自己在电子税务局按月或者按季申报，一次几分钟。请人代记账是另一笔市场上的开支。用了人的，还要从成立那天算起 30 日内办社保登记。难的是没生意的月份也得记着按时报。",
+      "plain": "领了执照就要按期报税。一分钱没赚也要报，只是表上数字全填零。不报会被责令限期改正，可以罚 2000 元以下，情节严重的罚 2000 到 1 万。连着三个月所有税种都不报，系统会自动把你列为非正常户，发票就开不了了。",
+      "benefit": "「纳税人在纳税期内没有应纳税款的，也应当按照规定办理纳税申报」：这一期一分税都不用交，表照样要报。不按期报的，「由税务机关责令限期改正，可以处二千元以下的罚款；情节严重的，可以处二千元以上一万元以下的罚款」。不报又少缴了税的，税要追回来，还要把按天加收的滞纳金一起补上，另罚少缴那笔税的「百分之五十以上五倍以下的罚款」。滞纳金按每天万分之五加。「连续三个月所有税种均未进行纳税申报的，税收征管系统自动将其认定为非正常户，并停止其发票领用簿和发票的使用」。三个月什么都不报，系统就自己把你列为非正常户，发票领不了也开不了。补报并且接受处罚之后，自动解除。用了人的单位「应当自成立之日起三十日内……向当地社会保险经办机构申请办理社会保险登记」（全国）",
+      "grade": "A",
+      "sources": "国务院 (2002). 税收征收管理法实施细则（国务院令第 362 号，第三十二、七十五条）. <https://fgk.chinatax.gov.cn/zcfgk/c100010/c5195082/content.html> ; 全国人大常委会 (2015). 税收征收管理法（2015 年修正，第二十五、三十二、六十二、六十四条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html> ; 国家税务总局 (2019). 关于税收征管若干事项的公告（国家税务总局公告 2019 年第 48 号，第三条）. <https://fgk.chinatax.gov.cn/zcfgk/c100012/c5195194/content.html> ; 全国人大常委会 (2018). 个人所得税法（2018 年修正，第十二条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193028/content.html> ; 全国人大常委会 (2018). 社会保险法（2018 年修正，第五十七条）. <http://www.npc.gov.cn/zgrdw/npc/xinwen/2019-01/07/content_2070267.htm> ; 全国人大常委会 (2018). 企业所得税法（2018 年修正，第五十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f2106acd11784>（国家法律法规数据库） ; 市场监管总局等六部门 (2025). 企业注销指引（2025 年修订）（2025 年第 52 号公告）. <https://www.gov.cn/zhengce/zhengceku/202512/content_7053238.htm>",
+      "notes": "「多证合一」之后不用单独办税务登记。拿营业执照上的统一社会信用代码登录电子税务局，确认登记信息，报上自己要交哪些税。个体工商户和个人独资企业交的是经营所得个税。先「在月度或者季度终了后十五日内」交一笔，再「在取得所得的次年三月三十一日前办理汇算清缴」（全年算总账，多退少补）。有限公司交的是企业所得税，按月或者按季先预缴。全年总账在「自年度终了之日起五个月内」算，截止是次年 5 月 31 日。没开张也要报，零申报同样是申报。放着不管三个月就成了非正常户，发票停用。2025 年的企业注销指引写明，非正常户办税务注销前「需先解除非正常状态，补办纳税申报手续」。注销怎么走，见本节第 23 条（亏了就按程序退场）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Nhận giấy phép kinh doanh là bắt đầu có nghĩa vụ kê khai; không có doanh thu vẫn phải khai số không đúng hạn",
+    "fields": {
+      "cost": "Không tốn tiền. Tự khai hằng tháng hoặc quý trên cơ quan thuế điện tử, mỗi lần vài phút. Thuê dịch vụ kế toán là khoản chi thị trường riêng. Có dùng lao động thì phải đăng ký bảo hiểm xã hội trong 30 ngày từ ngày thành lập. Điều khó là tháng không có kinh doanh vẫn phải nhớ khai đúng hạn.",
+      "plain": "Có giấy phép là phải khai thuế đúng kỳ. Chưa kiếm được đồng nào vẫn phải khai, chỉ là các con số đều bằng không. Không khai thì trước hết phạt đến 2000 nhân dân tệ; nghiêm trọng phạt 2000 đến 1 vạn nhân dân tệ. Ba tháng liên tiếp không khai bất kỳ sắc thuế nào, hệ thống tự xếp bạn thành người nộp thuế bất thường, không xuất được hóa đơn.",
+      "benefit": "“Người nộp thuế không phát sinh thuế phải nộp trong kỳ vẫn phải kê khai theo quy định”: kỳ này không phải nộp đồng thuế nào vẫn phải nộp tờ khai. Không khai đúng kỳ thì “cơ quan thuế yêu cầu sửa trong thời hạn, có thể phạt đến hai nghìn nhân dân tệ; nghiêm trọng thì phạt từ hai nghìn đến một vạn nhân dân tệ”. Không khai và nộp thiếu thuế thì phải nộp lại thuế, tiền chậm nộp tính theo ngày, cộng phạt “từ năm mươi phần trăm đến năm lần” số thuế thiếu. Tiền chậm nộp là năm phần vạn mỗi ngày. “Ba tháng liên tiếp không khai tất cả các sắc thuế, hệ thống quản lý thuế tự xác định là người nộp thuế bất thường và dừng sử dụng sổ lĩnh hóa đơn, hóa đơn”. Ba tháng không khai gì, hệ thống tự đánh dấu bất thường; không lĩnh hay xuất hóa đơn được. Khai bổ sung và chấp nhận xử phạt thì tự được gỡ. Đơn vị có lao động “phải đăng ký bảo hiểm xã hội với cơ quan bảo hiểm xã hội địa phương trong ba mươi ngày từ ngày thành lập” (toàn quốc).",
+      "grade": "A",
+      "sources": "国务院 (2002). 税收征收管理法实施细则（国务院令第 362 号，第三十二、七十五条）. <https://fgk.chinatax.gov.cn/zcfgk/c100010/c5195082/content.html> ; 全国人大常委会 (2015). 税收征收管理法（2015 年修正，第二十五、三十二、六十二、六十四条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html> ; 国家税务总局 (2019). 关于税收征管若干事项的公告（国家税务总局公告 2019 年第 48 号，第三条）. <https://fgk.chinatax.gov.cn/zcfgk/c100012/c5195194/content.html> ; 全国人大常委会 (2018). 个人所得税法（2018 年修正，第十二条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193028/content.html> ; 全国人大常委会 (2018). 社会保险法（2018 年修正，第五十七条）. <http://www.npc.gov.cn/zgrdw/npc/xinwen/2019-01/07/content_2070267.htm>",
+      "notes": "Sau khi hợp nhất nhiều giấy tờ, không cần đăng ký thuế riêng. Dùng mã tín dụng xã hội thống nhất trên giấy phép đăng nhập cơ quan thuế điện tử, xác nhận thông tin và khai các loại thuế phải nộp. Hộ kinh doanh cá thể, doanh nghiệp một chủ nộp thuế thu nhập cá nhân đối với thu nhập kinh doanh. Trước hết nộp một khoản “trong mười lăm ngày sau khi hết tháng hoặc quý”, rồi “quyết toán trước ngày ba mươi mốt tháng ba năm tiếp theo năm có thu nhập”: tính cả năm, thừa hoàn thiếu nộp. Chưa mở vẫn phải khai, khai số không cũng là khai. Bỏ mặc ba tháng sẽ bị xếp bất thường, ngừng hóa đơn, muốn giải thể cũng không dùng thủ tục đơn giản được; xem mục 23 của chương (thua lỗ thì rút lui đúng thủ tục)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

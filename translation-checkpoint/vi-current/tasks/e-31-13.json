@@ -1,0 +1,48 @@
+{
+  "id": "e-31-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "289ba060f70f9d2be2de641d50bfde8cdd15dd325e3d77d726a0f21f41ef9e2f",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "高考填志愿那天就能基本锁定编制的两条路：公费师范生和定向医学生，代价是 6 年履约",
+    "fields": {
+      "cost": "学费和住宿费都不用你出，还能拿生活费补助。代价是毕业后 6 年不能自由择业，违约要退钱、交违约金、进信用记录。难在这 6 年里换不了地方。",
+      "plain": "这两条路都是国家先替你出钱，你毕业后按协议去指定的地方干 6 年。公费师范生只在六所教育部直属师范大学招，提前批录取。定向医学生在拿到入学通知书前就要签三方协议。违约要退钱、交违约金，还进信用记录。想清楚这 6 年能不能接受，再填志愿。",
+      "benefit": "公费师范生看《教育部直属师范大学本研衔接师范生公费教育实施办法》（2024 年，2018 年办法同时废止）。第二条：由中央财政承担学生在校期间学费、住宿费并给予生活费补助。第三条：重点为中西部地区省会城市之外的地（市、州、盟）及以下培养。它还写着「不得定向到直辖市、计划单列市或省会城市主城区任教（五个自治区、陆地边境省份、海南省、贵州省、青海省除外）」。第九条：毕业后一般回生源所在省份定向地（市、州、盟）中小学任教，「承诺从事中小学教育工作 6 年以上」。到城镇学校工作的，「应到农村义务教育学校任教服务至少 1 年」。第十三条：没履约或者履约期限不够的，按协议承担责任。后果之一是「违约行为纳入信用记录，并及时与全国信用信息共享平台共享，违约相关材料归入本人人事档案」。另一句是「履约任务完成前不得到定向地（市、州、盟）之外从教，不得被招录（聘用）为其他公务人员。完成履约任务后即修复相关信用」。协议约定的服务期没干满之前，别的公职岗位报不了；干满了，信用记录才恢复。第六条：录取后经考察不适合从教的，入学 1 年内退还已享受的公费教育费用，并调整到非师范专业。第十四条：没在规定学习年限内取得教育硕士学历学位证书和教师资格证书的，按违约处理，退费并缴纳违约金。第二十一条：各地在现有事业编制总量内，解决公费师范生到中小学任教所需编制。第十二条写着，地市组织用人学校对公费师范生专项招聘，「通过双向选择等方式切实为每位毕业的公费师范生落实任教学校和岗位」。农村订单定向免费医学生看另一份通知。录取后、获得入学通知书前，须与培养学校和定向就业所在地县级卫生健康、人社部门签署协议。协议里要「承诺毕业后到定向农村基层医疗卫生机构服务 6 年」。履约就是按协议去指定的地方干满。编制这一块，通知写的是省级卫生健康部门「要积极争取当地机构编制部门支持，在当地编制总量内，按照规定程序，妥善解决定向医学毕业生就业安置问题」。到中西部报到的，由县里专项招聘，「办理事业单位正式工作人员聘用手续」。履约报到就业后，须参加 3 年全科专业住院医师规范化培训，简称规培。规培就是毕业后在医院按统一标准接着练本事的阶段。培训期间原人事、工资关系不变。违约记录归入个人人事档案，并作为医疗卫生机构等行政事业单位公开招录（招聘）、住院医师规范化培训招收、研究生招生录取的诚信评价依据。恶意违约的人，通过「信用中国」网站全国公示，并实行失信联合惩戒。违约的培训年限不计入服务期。没按协议退还费用和违约金的，由县级卫生健康行政部门通过法律途径追缴（全国）",
+      "grade": "A",
+      "sources": "国务院办公厅 (2024). 关于转发教育部等部门《教育部直属师范大学本研衔接师范生公费教育实施办法》的通知（国办发〔2024〕27 号，第二、三、六、九、十二、十三、十四、二十一条）. <https://www.gov.cn/zhengce/zhengceku/202406/content_6957261.htm>；国家卫生健康委、中央编办、国家发展改革委、教育部、财政部、人力资源社会保障部、国家中医药局 (2019). 关于做好农村订单定向免费培养医学生就业安置和履约管理工作的通知. <https://www.gov.cn/zhengce/zhengceku/2019-11/13/content_5451684.htm>",
+      "notes": "2024 年那份办法把公费师范生改成了「本研衔接」（本科接着读教育硕士）。2018 年的老办法已经废止，网上还在传的「本科毕业直接任教」是旧说法。办法发布前已经签了协议的，按原协议走。「有编制」不等于「进去就不用管」：编制要在现有总量里腾，具体岗位由地市组织用人学校专门招聘，你和学校互相挑。定向医学生的编制，文件只写了要争取、要妥善解决，各省做法不一样，填志愿前看本省文件。定向医学生服务期满想走是可以的，文件写明「服务期满，对自主择业的应予同意」。已经违约的也有办法把违约记录消掉。代价是按原协议、或者改到省内其他农村基层机构再干满至少 6 年，已交的费用和违约金不退。医学生还要算上 3 年规培的时间，整个周期比师范长。各省还有自己的公费师范生和定向医学生计划，条件由省里定，填志愿前看当年本省的招生文件。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Hai hướng xác định biên chế ngay ngày đăng ký nguyện vọng đại học: sư phạm công phí và y khoa theo địa chỉ, đổi lại phải thực hiện cam kết 6 năm",
+    "fields": {
+      "cost": "Bạn không phải trả học phí và ký túc xá, còn được trợ cấp sinh hoạt. Đổi lại, 6 năm sau tốt nghiệp không tự do chọn việc; vi phạm phải hoàn tiền, nộp phạt hợp đồng và bị ghi hồ sơ tín nhiệm. Khó ở việc không đổi được nơi trong 6 năm đó.",
+      "plain": "Cả hai hướng đều là nhà nước trả tiền trước, sau tốt nghiệp bạn làm ở nơi chỉ định theo thỏa thuận trong 6 năm. Sư phạm công phí chỉ tuyển tại sáu đại học sư phạm trực thuộc Bộ Giáo dục, theo đợt tuyển sớm. Sinh viên y theo địa chỉ phải ký thỏa thuận ba bên trước khi nhận giấy báo nhập học. Vi phạm phải hoàn tiền, trả phạt hợp đồng, còn bị ghi hồ sơ tín nhiệm. Hãy nghĩ kỹ có chấp nhận 6 năm ấy không rồi mới điền nguyện vọng.",
+      "benefit": "Sư phạm công phí xem Biện pháp Thực hiện giáo dục sư phạm công phí liên thông đại học và sau đại học tại các đại học sư phạm trực thuộc Bộ Giáo dục, ban hành năm 2024, đồng thời bãi bỏ biện pháp năm 2018. Điều hai: ngân sách trung ương chi học phí, ký túc xá và trợ cấp sinh hoạt khi học. Điều ba: chủ yếu đào tạo cho địa bàn cấp địa khu, thành phố, châu, minh và cấp dưới ở miền Trung, miền Tây ngoài thủ phủ tỉnh. Văn bản còn ghi «không được định hướng về dạy ở khu trung tâm của thành phố trực thuộc trung ương, thành phố có kế hoạch ngân sách riêng hoặc thủ phủ tỉnh, trừ năm khu tự trị, các tỉnh biên giới đất liền, Hải Nam, Quý Châu, Thanh Hải». Điều chín: sau tốt nghiệp thường về dạy phổ thông tại địa bàn được chỉ định thuộc tỉnh xuất thân, «cam kết làm giáo dục phổ thông từ 6 năm trở lên». Người làm ở trường đô thị «phải dạy tại trường giáo dục bắt buộc nông thôn ít nhất 1 năm». Điều mười ba: không thực hiện hoặc chưa đủ thời hạn thì chịu trách nhiệm theo thỏa thuận. Một hậu quả là «hành vi vi phạm được ghi hồ sơ tín nhiệm, kịp thời chia sẻ với nền tảng thông tin tín nhiệm quốc gia; tài liệu liên quan được đưa vào hồ sơ nhân sự cá nhân». Còn câu «trước khi hoàn thành cam kết không được dạy ngoài địa bàn chỉ định, không được tuyển dụng làm nhân viên công vụ khác. Hoàn thành cam kết thì khôi phục tín nhiệm liên quan». Chưa làm đủ thời hạn trong thỏa thuận thì không được đăng ký vị trí công khác; làm đủ mới khôi phục hồ sơ tín nhiệm. Điều sáu: sau trúng tuyển, nếu qua đánh giá thấy không phù hợp dạy học thì trong 1 năm từ nhập học phải hoàn trả chi phí công phí đã hưởng và chuyển sang ngành ngoài sư phạm. Điều mười bốn: không lấy được bằng trình độ, học vị thạc sĩ giáo dục và chứng chỉ giáo viên trong thời gian quy định thì xử lý vi phạm, hoàn phí và trả phạt hợp đồng. Điều hai mươi mốt: địa phương giải quyết biên chế cho sinh viên sư phạm công phí dạy phổ thông trong tổng biên chế sự nghiệp hiện có. Sinh viên y miễn phí theo đơn đặt hàng cho nông thôn xem thông báo khác. Sau trúng tuyển, trước khi nhận giấy báo nhập học phải ký thỏa thuận với trường và cơ quan y tế, nhân lực và an sinh xã hội cấp huyện nơi được bố trí làm. Thỏa thuận phải «cam kết sau tốt nghiệp phục vụ tại cơ sở y tế nông thôn được chỉ định 6 năm». Thực hiện cam kết là tới đúng nơi và làm đủ thời hạn. Sau trình diện nhận việc phải tham gia 3 năm đào tạo chuẩn hóa bác sĩ nội trú chuyên ngành y học gia đình, gọi tắt là đào tạo chuẩn hóa. Đây là giai đoạn sau tốt nghiệp tiếp tục rèn nghề tại bệnh viện theo chuẩn thống nhất. Trong thời gian đào tạo, quan hệ nhân sự và lương cũ không đổi. Hồ sơ vi phạm đưa vào hồ sơ nhân sự, làm căn cứ đánh giá tính trung thực khi tuyển công khai vào cơ quan, đơn vị sự nghiệp như cơ sở y tế, tuyển đào tạo bác sĩ nội trú chuẩn hóa và tuyển sau đại học. Người cố ý vi phạm bị công khai toàn quốc qua trang «Credit China» và chịu chế tài liên ngành về tín nhiệm. Thời gian đào tạo vi phạm không tính vào thời gian phục vụ. Không hoàn phí và tiền phạt theo thỏa thuận thì cơ quan y tế cấp huyện thu hồi qua con đường pháp luật (toàn quốc).",
+      "grade": "A",
+      "sources": "国务院办公厅 (2024). 关于转发教育部等部门《教育部直属师范大学本研衔接师范生公费教育实施办法》的通知（国办发〔2024〕27 号，第二、三、六、九、十三、十四、二十一条）. <https://www.gov.cn/zhengce/zhengceku/202406/content_6957261.htm>；国家卫生健康委、中央编办、国家发展改革委、教育部、财政部、人力资源社会保障部、国家中医药局 (2019). 关于做好农村订单定向免费培养医学生就业安置和履约管理工作的通知. <https://www.gov.cn/zhengce/zhengceku/2019-11/13/content_5451684.htm>",
+      "notes": "Biện pháp năm 2024 đổi sư phạm công phí thành «liên thông đại học và sau đại học», tức học đại học rồi tiếp thạc sĩ giáo dục. Biện pháp cũ năm 2018 đã bãi bỏ; lời truyền trên mạng «tốt nghiệp đại học đi dạy ngay» là cách nói cũ. Người ký trước khi ban hành biện pháp theo thỏa thuận cũ. «Có biên chế» không có nghĩa «vào là khỏi lo»: phải dành biên chế trong tổng số hiện có; địa phương tổ chức trường tuyển riêng vị trí cụ thể, bạn và trường lựa chọn lẫn nhau. Sinh viên y theo địa chỉ có thể rời đi khi hết thời hạn, văn bản ghi «hết thời hạn phục vụ phải chấp thuận người tự chọn việc». Người đã vi phạm cũng có cách xóa ghi nhận vi phạm: làm đủ ít nhất 6 năm theo thỏa thuận cũ hoặc chuyển sang cơ sở y tế nông thôn khác trong tỉnh; phí và tiền phạt đã nộp không được hoàn. Sinh viên y còn phải tính 3 năm đào tạo chuẩn hóa, toàn bộ chu kỳ dài hơn sư phạm. Các tỉnh cũng có chương trình sư phạm công phí và y khoa theo địa chỉ riêng, điều kiện do tỉnh đặt; trước điền nguyện vọng hãy xem văn bản tuyển sinh năm đó của tỉnh mình."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

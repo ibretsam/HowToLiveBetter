@@ -1,0 +1,48 @@
+{
+  "id": "e-13-31",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "d31e8e2b178945a7616697053af17a09b09e8e909f33afa7e793693c9e785e39",
+  "status": "outdated",
+  "original": {
+    "number": 31,
+    "title": "遇到熊、野猪、成群野狗，别跑，侧身慢慢退开",
+    "fields": {
+      "cost": "不花钱。进山带根登山杖，结伴走、出声走，让动物先知道你来了。难的是站住不跑。",
+      "plain": "遇到熊别跑，它上下坡都跑得像赛马，也别爬树，黑熊棕熊都会爬。站住，低声一直跟它说话，等它不动了再侧身慢慢退开。棕熊扑上来就趴下装死、双手扣住后颈，黑熊扑上来就往车里屋里跑，跑不掉就反击。被狗抓咬按第 13 条冲洗打针。",
+      "benefit": "美国国家公园管理局关于熊的原文有六句。一句是「不要跑，熊上下坡都能跑得像赛马一样快」。一句是「保持冷静，大多数熊不想攻击你，只想被放着不管」。一句是「用低沉的声音持续跟熊说话」。一句是「熊不动时，侧着身慢慢退开，这样既能盯着熊又不会绊倒」。一句是「让自己显得尽量大」。还有一句是「不要爬树，灰熊和黑熊都会爬树」。被棕熊攻击时「装死，趴着双手扣在颈后、双腿分开」。被黑熊攻击时「不要装死，逃向车或房子，逃不了就用手边任何东西反击」。被狗咬伤按第 13 条处理",
+      "grade": "B",
+      "sources": "US National Park Service. Staying Safe Around Bears. <https://www.nps.gov/subjects/bears/safety.htm> ；国家疾控局综合司、国家卫生健康委办公厅 (2023). 狂犬病暴露预防处置工作规范（2023 年版）. <https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html>",
+      "notes": "B 级只对应熊。野猪和野狗的「不跑、慢退、找高处或者障碍物挡」是经验，算 C 级，国家林草局和地方林草的官方提示本次未找到。不要拿食物引，不要凑近拍照，不要带狗进有野猪的山。中国的熊多是黑熊和棕熊，装死还是不装死，按这两种分开看。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 31,
+    "title": "Gặp gấu, lợn rừng, đàn chó hoang: đừng chạy, đừng la hét, đừng nhìn thẳng vào mắt chúng; nghiêng người từ từ lùi ra xa",
+    "fields": {
+      "cost": "Không tốn tiền. Lên núi mang theo gậy leo núi, đi theo nhóm, vừa đi vừa tạo tiếng động để thú biết trước bạn đang đến. Điều khó là đứng yên được mà không bỏ chạy.",
+      "plain": "Đừng chạy, gấu chạy lên dốc hay xuống dốc đều nhanh như ngựa đua. Cũng đừng trèo cây, cả gấu đen lẫn gấu nâu đều biết trèo. Đứng yên, liên tục nói với nó bằng giọng trầm, đợi nó đứng yên rồi nghiêng người từ từ lùi ra. Gấu nâu lao vào tấn công thì nằm sấp giả chết, hai tay đan sau gáy, hai chân dang ra. Gấu đen lao vào tấn công thì không giả chết, mà chạy vào xe hoặc vào nhà; không chạy thoát được thì dùng bất cứ thứ gì trong tầm tay để chống trả. Bị chó cào, cắn thì rửa vết thương và tiêm phòng theo mục 13.",
+      "benefit": "Nguyên văn của Cơ quan Công viên Quốc gia Mỹ về gấu có sáu câu. Một là “đừng chạy, gấu chạy lên dốc hay xuống dốc đều nhanh như ngựa đua”. Hai là “giữ bình tĩnh, đa số gấu không muốn tấn công bạn, chỉ muốn được để yên”. Ba là “liên tục nói với gấu bằng giọng trầm”. Bốn là “khi gấu đứng yên, nghiêng người từ từ lùi ra, như vậy vừa theo dõi được gấu vừa không bị vấp ngã”. Năm là “làm cho mình trông to lớn nhất có thể”. Sáu là “đừng trèo cây, cả gấu xám lẫn gấu đen đều biết trèo cây”. Khi bị gấu nâu tấn công thì “giả chết, nằm sấp, hai tay đan sau gáy, hai chân dang ra”. Khi bị gấu đen tấn công thì “đừng giả chết, chạy về phía xe hoặc nhà, không chạy được thì dùng bất cứ thứ gì trong tầm tay để chống trả”. Bị chó cắn thì xử lý theo mục 13.",
+      "grade": "B",
+      "sources": "US National Park Service. Staying Safe Around Bears. <https://www.nps.gov/subjects/bears/safety.htm> ；国家疾控局综合司、国家卫生健康委办公厅 (2023). 狂犬病暴露预防处置工作规范（2023 年版）. <https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html>",
+      "notes": "Mức B chỉ áp dụng cho gấu. Với lợn rừng và chó hoang, cách “không chạy, lùi từ từ, tìm chỗ cao hoặc vật cản để che chắn” là kinh nghiệm, tính mức C; lần này chưa tìm thấy khuyến cáo chính thức của Cục Lâm nghiệp và Đồng cỏ Quốc gia hay cơ quan lâm nghiệp địa phương. Đừng dùng thức ăn để dụ, đừng đến gần chụp ảnh, đừng dắt chó vào vùng núi có lợn rừng. Gấu ở Trung Quốc chủ yếu là gấu đen và gấu nâu; giả chết hay không thì xét riêng theo hai loại này."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "e-2-46",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "1db0fcdbc0cfa81a832f8b3edf7760be421ac739ab6de3667bb8e3560986681b",
+  "status": "pending",
+  "original": {
+    "number": 46,
+    "title": "家里的花生、玉米、坚果和米面发了霉，整包扔掉，别挑掉霉的吃剩下的；嚼到发苦的坚果马上吐掉",
+    "fields": {
+      "cost": "扔掉一包花生、坚果或一袋米面，几块到几十块钱。平时把粮食和坚果放在干燥、通风、阴凉的地方，买小包装，少囤货。难在舍不得扔，尤其是说服家里的长辈。",
+      "plain": "花生、玉米发霉会长黄曲霉毒素，它能让人得肝癌。上海一项研究里，尿里查出这种毒素的人，得肝癌的风险约是查不出的 3.4 倍。带乙肝病毒又查出毒素的人，约是两样都没有的 59.4 倍。这种毒素炒、煮、油炸都很难去掉。",
+      "benefit": "黄曲霉毒素是国际癌症研究机构定的 1 类致癌物（确定能让人得癌），致的是肝癌。它在花生和玉米里最常见，炒、煮、油炸这类一般烹调都很难破坏它。上海一项研究从 1986 年起跟踪 18244 名中年男性，入组时各留一次尿。跟踪约 7 万人年，查出 55 例肝癌。拿其中 50 例和同一批人里 267 名没得病的人比。尿里查出黄曲霉毒素的，肝癌风险约为 3.4 倍（RR 3.4，95% CI 1.1–10.0，可信范围）。乙肝表面抗原阳性的约为 7.3 倍（2.2–24.4）。两样都有的约为 59.4 倍（16.6–212.0），比的是两样都没有的人。同一批人早期的分析里，扣掉乙肝、吸烟、喝酒和文化程度，查出毒素的约为 3.8 倍（1.2–12.2）。江苏启东过去是肝癌高发区，1980 年代起当地主粮从玉米换成了大米。居民血里的毒素标志物中位数从 1989 年的 19.3 pg/mg 降到 2009 年查不出（低于 0.5）。35 岁以下居民的肝癌死亡率，1960 年代到 1980 年代出生的几批人降了一半以上。这几批人都出生在新生儿普遍打乙肝疫苗之前。作者估算，肝癌死亡的下降里约 65% 可以归到少吃了毒素，其中 83% 落在乙肝感染者身上。按全球的估算，乙肝携带者吃进同样多的毒素，致癌能力约为不带病毒的人的 30 倍。中国每年有一批肝癌可以归到这种毒素。其中约 5300 到 14400 例出在乙肝携带者身上，约 1990 到 4430 例出在不带病毒的人身上。",
+      "grade": "B",
+      "sources": "IARC (2012). Aflatoxins. In: Chemical Agents and Related Occupations. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, Vol 100F, 225-248. <https://publications.iarc.fr/123>；Qian GS, Ross RK, Yu MC, 等 (1994). A follow-up study of urinary markers of aflatoxin exposure and liver cancer risk in Shanghai, People's Republic of China. Cancer Epidemiology, Biomarkers & Prevention, 3(1), 3-10. <https://pubmed.ncbi.nlm.nih.gov/8118382/>；Ross RK, Yuan JM, Yu MC, 等 (1992). Urinary aflatoxin biomarkers and risk of hepatocellular carcinoma. Lancet, 339(8799), 943-946. <https://doi.org/10.1016/0140-6736(92)91528-G>；Chen JG, Egner PA, Ng D, 等 (2013). Reduced aflatoxin exposure presages decline in liver cancer mortality in an endemic region of China. Cancer Prevention Research, 6(10), 1038-1045. <https://doi.org/10.1158/1940-6207.CAPR-13-0168>；Liu Y, Wu F (2010). Global burden of aflatoxin-induced hepatocellular carcinoma: a risk assessment. Environmental Health Perspectives, 118(6), 818-824. <https://doi.org/10.1289/ehp.0901388>；农业农村部油料产品质量安全风险评估实验室（武汉）(2020). 农产品及食品中黄曲霉毒素污染识别与预防. 农业农村部农产品质量安全监管司科普天地. <https://jgs.moa.gov.cn/kptd/202011/t20201110_6356097.htm>；广东省卫生健康委员会 (2015). 勿吃霉变食物 谨防黄曲霉素中毒. <https://wsjkw.gd.gov.cn/gkmlpt/content/2/2129/post_2129622.html>；USDA Food Safety and Inspection Service. Molds on Food: Are They Dangerous? <https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/molds-food-are-they-dangerous>",
+      "notes": "收益栏的数字算的是「吃进多少毒素」和肝癌的关系，没有研究直接测过「家里扔掉发霉的东西」能少多少肝癌。上海那项只在入组时验过一次尿。按饮食问卷估算的吃进量和肝癌看不出关联，说明问卷估不准，要靠化验。启东居民的毒素标志物到 2009 年已经查不出。眼下多数家庭吃进的量很可能远低于当年，这是判断，没有全国数字。所以收益量级没按 3.4 倍机械定为大，凭判断定为中。为什么整包扔：广东省卫健委提醒，坚果花生打开一闻有变味就整袋扔掉，免得抖开后霉菌孢子飞散。有霉味的食物要坚决丢弃。美国农业部的食品安全指南写明，花生酱、豆类和坚果发了霉一律扔掉，煮好的米饭面条、面包也是。只有卷心菜、胡萝卜这类水分少的硬蔬菜，可以切掉霉点周围至少 2.5 厘米再吃。农业农村部提醒，霉变的花生吃进嘴里会有苦味和异味，误吃了要马上吐出来并漱口。乙肝携带者的风险叠加最明显，没查过乙肝的见第 1 节第 14 条（查乙肝两对半）。买油的事见本节第 40 条（不买小作坊散装自榨花生油），本条管家里囤的粮食和坚果。泡发木耳、酵米面那类急性中毒是另一种毒素，见第 1 节第 48 条（家里不自制酵米面）。没发霉的坚果照样值得吃，见本节第 22 条（每天吃一小把坚果）。本条受益人主要是你和一起吃饭的家人。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

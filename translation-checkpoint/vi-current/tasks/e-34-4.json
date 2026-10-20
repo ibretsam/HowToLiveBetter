@@ -1,0 +1,49 @@
+{
+  "id": "e-34-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "d74180464ee67a597f38082c2cb0e6fb42999c0e602a8b35ddce56b2ba31d999",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "2 岁以下的孩子感冒，别自己喂复方感冒药和止咳药",
+    "fields": {
+      "cost": "不花钱，还能省下买药的钱。",
+      "plain": "国家药监局要求 14 种儿童复方感冒药加上警示。警示说不建议家长自己给 2 岁以下孩子用，要在医生或药师指导下用。在孩子身上做的试验里，止咳药、抗过敏药效果都不比安慰剂好。",
+      "benefit": "国家药监局 2021 年第 57 号公告修订了 14 个品种的说明书，包括氨酚麻美口服溶液、小儿氨酚黄那敏颗粒、小儿氨酚烷胺颗粒等。新增警示语是「不建议家长或监护人自行给2岁以下婴幼儿使用本品，应在医师或药师的指导下使用」。注意事项加了「应严格按照药品说明书用法用量使用，避免用药过量」。还加了「应避免合并使用含有相同或相似活性成份的抗感冒药」。一篇 Cochrane 系统综述纳入 29 项随机对照试验，其中 10 项在儿童身上做。儿童试验里，这几类药都不比安慰剂好：止咳药，抗组胺药（抗过敏成分），抗组胺药加减充血剂（通鼻子的成分），止咳药加支气管扩张剂。21 项研究报告了不良反应，含抗组胺药和右美沙芬的制剂不良反应更多。",
+      "grade": "B",
+      "sources": "国家药监局关于修订氨酚麻美口服溶液等14个品种药品说明书的公告（2021年第57号）及附件. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20210423105404141.html>；Smith SM, Schroeder K, Fahey T (2014). Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database of Systematic Reviews, (11):CD001831. <https://doi.org/10.1002/14651858.CD001831.pub5>",
+      "notes": "这 14 种里很多名字带「氨酚」，也含对乙酰氨基酚，再和退烧药一起吃就重复了，见本节第 1 条（对乙酰氨基酚）。那篇综述里有一项试验发现蜂蜜比安慰剂好，但不满 1 岁不能喂蜂蜜，见第 20 节第 6 条（蜂蜜）。定 B 是因为综述里每类药的试验都少，作者没有合并出数字。收益定「中」是判断：这类药对小孩没有证实的好处，风险主要是过量和成分重复。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Trẻ dưới 2 tuổi cảm: đừng tự cho thuốc cảm phối hợp và thuốc ho",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm tiền thuốc.",
+      "plain": "Cơ quan dược Trung Quốc yêu cầu 14 thuốc cảm phối hợp trẻ em thêm cảnh báo: không khuyên cha mẹ tự dùng cho trẻ dưới 2, phải theo bác sĩ hoặc dược sĩ. Trong thử nghiệm trẻ em, thuốc ho, chống dị ứng đều không hiệu quả hơn giả dược.",
+      "benefit": "Thông báo số 57 năm 2021 của Cục Quản lý Dược phẩm Quốc gia sửa đổi hướng dẫn sử dụng của 14 loại thuốc, gồm dung dịch uống paracetamol – pseudoephedrine – dextromethorphan (氨酚麻美口服溶液), cốm trẻ em paracetamol – ngưu hoàng nhân tạo – chlorpheniramine (小儿氨酚黄那敏颗粒), cốm trẻ em paracetamol – amantadine (小儿氨酚烷胺颗粒)… Câu cảnh báo mới là ‘không khuyến nghị cha mẹ hoặc người giám hộ tự cho trẻ dưới 2 tuổi dùng thuốc này, phải dùng dưới sự hướng dẫn của bác sĩ hoặc dược sĩ’. Phần lưu ý thêm ‘phải dùng đúng nghiêm ngặt cách dùng và liều lượng trong hướng dẫn, tránh quá liều’. Còn thêm ‘tránh dùng phối hợp các thuốc cảm có hoạt chất giống hoặc tương tự’. Một tổng quan hệ thống Cochrane gồm 29 thử nghiệm ngẫu nhiên có đối chứng, trong đó 10 thử nghiệm làm trên trẻ em. Trong các thử nghiệm ở trẻ em, các nhóm thuốc sau đều không tốt hơn giả dược: thuốc ho; thuốc kháng histamine (thành phần chống dị ứng); kháng histamine cộng thuốc giảm sung huyết (thành phần làm thông mũi); thuốc ho cộng thuốc giãn phế quản. Có 21 nghiên cứu báo cáo phản ứng bất lợi; chế phẩm chứa kháng histamine và dextromethorphan có nhiều phản ứng bất lợi hơn.",
+      "grade": "B",
+      "sources": "国家药监局关于修订氨酚麻美口服溶液等14个品种药品说明书的公告（2021年第57号）及附件. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20210423105404141.html>；Smith SM, Schroeder K, Fahey T (2014). Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database of Systematic Reviews, (11):CD001831. <https://doi.org/10.1002/14651858.CD001831.pub5>",
+      "notes": "Trong 14 loại này, nhiều loại có chữ 「氨酚」 (anfen) trong tên, tức cũng chứa paracetamol; uống thêm thuốc hạ sốt nữa là trùng thành phần, xem mục 1 chương này (paracetamol). Trong bài tổng quan đó có một thử nghiệm thấy mật ong tốt hơn giả dược, nhưng trẻ chưa đủ 1 tuổi không được ăn mật ong, xem chương 20 mục 6 (mật ong). Xếp B vì mỗi nhóm thuốc trong tổng quan đều có ít thử nghiệm, tác giả không gộp ra con số. Lợi ích ‘trung bình’ là nhận định: nhóm thuốc này chưa được chứng minh có lợi cho trẻ nhỏ, rủi ro chủ yếu là quá liều và trùng thành phần."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": true
+}

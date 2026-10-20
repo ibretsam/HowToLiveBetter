@@ -1,0 +1,48 @@
+{
+  "id": "e-7-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "3ed904c9290822cea3a7f2f615f6adad192374415f15e4f98e8b060e0e678a52",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "得了重病先走医保、大病保险、医疗救助和异地备案，不碰网贷",
+    "fields": {
+      "cost": "不花钱。顺序是固定的，一步一步来。第一步，跨省住院之前，用「国家医保局」微信公众号里的「国家异地就医备案」小程序备案。第二步，出院时直接结算。第三步，报销之后自己要掏的还是太重，就向乡镇政府或者街道办申请医疗救助。第四步，还在上班的按医疗期请病假，医疗期就是生病停工又不能被辞退的那段时间；属于工伤的走工伤保险。第五步，信用卡还不上，主动找银行协商分期。第六步，实在不够，再上民政部指定的个人求助平台筹款。材料主要是诊断证明、费用清单、结算单，跑 2 到 4 趟。难在人在病中，还要一趟趟跑手续。",
+      "plain": "顺序是固定的：跨省住院前先在「国家医保局」公众号里备案，出院直接结算，不用先垫全款。报销完自己还掏不起的，向乡镇或者街道申请医疗救助。在职的按工龄有 3 到 24 个月医疗期，这期间公司不能辞你。网贷和民间高息借款不要碰。",
+      "benefit": "国家把基本医保、大病保险、医疗救助合起来叫「三重制度」，一层一层往下兜。低保对象和特困人员，符合规定的医疗费用按不低于 70% 救助。本来不穷、看病看穷了的重病患者，可以自己提出申请再救助。跨省住院前备了案，就能出院直接结算，不必先垫全款再回参保地报。生病停工有 3 到 24 个月的医疗期，具体多久按工龄长短定。这段时间里，公司不得解除劳动合同，病假工资不得低于当地最低工资的 80%。工伤职工有停工留薪期，就是养伤不上班的那段时间，原来的工资福利照发，由单位按月发，一般不超过 12 个月。信用卡欠款超出还款能力、本人又愿意还的，可以和银行协商个性化分期，把欠款重新排一个还款计划，最长 5 年。签了协议，银行就必须停止催收。网上替本人筹钱的个人求助平台，必须经国务院民政部门指定。平台要核验求助信息是不是真的。捐来的钱只能打给求助人本人，或者他提供的账户（全国）",
+      "grade": "A",
+      "sources": "国务院办公厅 (2021). 关于健全重特大疾病医疗保险和救助制度的意见（国办发〔2021〕42 号）. <https://www.gov.cn/gongbao/content/2021/content_5659514.htm>；国家医保局 (2025). 跨省异地就医如何直接报销？. <https://www.nhsa.gov.cn/art/2025/3/16/art_14_16010.html>；劳动部 (1994). 企业职工患病或非因工负伤医疗期规定（劳部发〔1994〕479 号，第二、三条）. <https://www.gov.cn/zhengce/2022-08/31/content_5711269.htm>；劳动部 (1995). 关于贯彻执行《劳动法》若干问题的意见（劳部发〔1995〕309 号，第 59 条）. <http://hrss.jl.gov.cn/ldgx/ldyggl/201608/t20160824_2401358.html>（吉林省人社厅转载）；国务院 (2010 修订). 工伤保险条例（国务院令第 586 号，第三十、三十三条）. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>；银监会 (2011). 商业银行信用卡业务监督管理办法（银监会令 2011 年第 2 号，第七十条）. <https://www.gov.cn/gongbao/content/2011/content_1893974.htm>；全国人大常委会 (2023). 关于修改慈善法的决定（第一百二十四条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923390.htm>；民政部等五部门 (2024). 个人求助网络服务平台管理办法（令第 75 号，第三、十一、十三、十七条）. <https://www.gov.cn/gongbao/2024/issue_11646/202410/content_6980857.html>",
+      "notes": "医疗救助报多大比例、一年最多报多少，由你参保的那个地方自己定。医疗期分六档，看你一共工作了几年、在这家单位干了几年。医疗期一过，公司就可能合法跟你解约，提前看清自己在哪一档。急诊抢救的人也在需要备案的名单里。医保局的页面没说急诊算不算自动备案、事后能不能补办，打电话问参保地。网贷和民间高息借款不要碰。法院只保护到一年期 LPR 的 4 倍这条线（不借高利贷见第 15 条）。超出那条线的部分不受保护，本金还是照还。躺在病床上也没精力去打这种官司。急重伤病是另一回事：没钱也要打 120，医院不得拒绝、推诿或者拖延救治。那一段的急救费由疾病应急救助基金付，见第 24 节第 8 条（急诊也必须先救）。劳部发〔1995〕309 号的原文页在人社部官网打不开，内容取自省人社厅的转载。信用卡还不上怎么和银行谈分期，见第 23 条（信用卡、网贷已经还不上）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Mắc bệnh nặng thì trước hết dùng bảo hiểm y tế, bảo hiểm bệnh nặng, cứu trợ y tế và đăng ký khám chữa bệnh ngoài tỉnh, đừng đụng đến vay online",
+    "fields": {
+      "cost": "Không tốn tiền. Thứ tự là cố định, làm từng bước một. Bước một: trước khi nằm viện ở tỉnh khác, đăng ký bằng tiện ích “Đăng ký khám chữa bệnh ngoài tỉnh quốc gia” trong tài khoản WeChat chính thức “Cục Bảo hiểm y tế quốc gia”. Bước hai: khi xuất viện thì thanh toán trực tiếp. Bước ba: sau khi bảo hiểm thanh toán mà phần tự trả vẫn quá nặng, thì nộp đơn xin cứu trợ y tế lên chính quyền xã, thị trấn hoặc văn phòng khu phố. Bước bốn: nếu còn đang đi làm thì xin nghỉ ốm theo thời gian điều trị được bảo vệ, tức là khoảng thời gian bị bệnh phải nghỉ việc mà không thể bị sa thải; nếu là tai nạn lao động thì dùng bảo hiểm tai nạn lao động. Bước năm: không trả nổi nợ thẻ tín dụng thì chủ động tìm ngân hàng thương lượng trả góp. Bước sáu: nếu thật sự vẫn không đủ, mới lên nền tảng cầu trợ cá nhân do Bộ Dân chính chỉ định để gây quỹ. Hồ sơ chủ yếu là giấy chẩn đoán, bảng kê chi phí, phiếu quyết toán, phải đi 2 đến 4 lần. Cái khó là người đang bệnh mà vẫn phải đi lại làm thủ tục nhiều lần.",
+      "plain": "Thứ tự là cố định. Trước khi nằm viện ở tỉnh khác, đăng ký trước trong tài khoản WeChat chính thức “Cục Bảo hiểm y tế quốc gia”, khi xuất viện được thanh toán trực tiếp, không phải ứng trước toàn bộ tiền. Sau khi bảo hiểm thanh toán mà vẫn không kham nổi phần tự trả, thì xin cứu trợ y tế ở xã, thị trấn hoặc khu phố. Người đang đi làm, tùy thâm niên, có thời gian điều trị được bảo vệ từ 3 đến 24 tháng, trong thời gian này công ty không được sa thải bạn. Đừng đụng đến vay online và vay tư nhân lãi cao.",
+      "benefit": "Nhà nước gọi chung bảo hiểm y tế cơ bản, bảo hiểm bệnh nặng và cứu trợ y tế là “chế độ ba tầng”, đỡ từng tầng một. Người hưởng trợ cấp tối thiểu và người đặc biệt khó khăn được cứu trợ không thấp hơn 70% chi phí khám chữa bệnh hợp lệ. Bệnh nhân bệnh nặng vốn không nghèo nhưng vì chữa bệnh mà thành nghèo có thể tự nộp đơn xin cứu trợ thêm. Đã đăng ký trước khi nằm viện ở tỉnh khác thì khi xuất viện được quyết toán trực tiếp, không cần ứng trước toàn bộ rồi về nơi tham gia bảo hiểm để thanh toán. Bị bệnh phải nghỉ việc thì có thời gian điều trị được bảo vệ từ 3 đến 24 tháng, dài bao lâu tùy thâm niên công tác. Trong thời gian này công ty không được chấm dứt hợp đồng lao động, lương nghỉ ốm không được thấp hơn 80% lương tối thiểu địa phương. Người bị tai nạn lao động có thời gian nghỉ việc hưởng nguyên lương, tức là thời gian dưỡng thương không đi làm; lương và phúc lợi vẫn được trả như cũ, do đơn vị trả hằng tháng, thường không quá 12 tháng. Nợ thẻ tín dụng vượt quá khả năng trả mà bản thân vẫn muốn trả, thì có thể thương lượng với ngân hàng một phương án trả góp riêng, sắp xếp lại kế hoạch trả nợ, dài nhất 5 năm; ký thỏa thuận rồi thì ngân hàng phải ngừng đòi nợ. Nền tảng cầu trợ cá nhân gây quỹ online cho người cần giúp phải do cơ quan dân chính của Quốc vụ viện chỉ định. Nền tảng phải xác minh thông tin cầu trợ có thật hay không. Tiền quyên góp chỉ được chuyển cho chính người cầu trợ, hoặc vào tài khoản do người đó cung cấp (toàn quốc).",
+      "grade": "A",
+      "sources": "国务院办公厅 (2021). 关于健全重特大疾病医疗保险和救助制度的意见（国办发〔2021〕42 号）. <https://www.gov.cn/gongbao/content/2021/content_5659514.htm>；国家医保局 (2025). 跨省异地就医如何直接报销？. <https://www.nhsa.gov.cn/art/2025/3/16/art_14_16010.html>；劳动部 (1994). 企业职工患病或非因工负伤医疗期规定（劳部发〔1994〕479 号，第二、三条）. <https://www.gov.cn/zhengce/2022-08/31/content_5711269.htm>；劳动部 (1995). 关于贯彻执行《劳动法》若干问题的意见（劳部发〔1995〕309 号，第 59 条）. <http://hrss.jl.gov.cn/ldgx/ldyggl/201608/t20160824_2401358.html>（吉林省人社厅转载）；国务院 (2010 修订). 工伤保险条例（国务院令第 586 号，第三十、三十三条）. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>；银监会 (2011). 商业银行信用卡业务监督管理办法（银监会令 2011 年第 2 号，第七十条）. <https://www.gov.cn/gongbao/content/2011/content_1893974.htm>；全国人大常委会 (2023). 关于修改慈善法的决定（第一百二十四条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923390.htm>；民政部等五部门 (2024). 个人求助网络服务平台管理办法（令第 75 号，第三、十一、十三、十七条）. <https://www.gov.cn/gongbao/2024/issue_11646/202410/content_6980857.html>",
+      "notes": "Tỷ lệ cứu trợ y tế bao nhiêu, mỗi năm tối đa được bao nhiêu, do nơi bạn tham gia bảo hiểm tự quy định. Thời gian điều trị được bảo vệ chia thành sáu mức, tùy tổng số năm bạn đã đi làm và số năm làm ở đơn vị hiện tại. Hết thời gian này, công ty có thể chấm dứt hợp đồng với bạn một cách hợp pháp, nên hãy xem trước mình thuộc mức nào. Người cấp cứu cũng nằm trong danh sách phải đăng ký. Trang của Cục Bảo hiểm y tế không nói rõ cấp cứu có được coi là tự động đăng ký hay không, sau đó có làm bổ sung được không, hãy gọi điện hỏi nơi tham gia bảo hiểm. Đừng đụng đến vay online và vay tư nhân lãi cao. Tòa án chỉ bảo vệ lãi suất đến mức 4 lần LPR kỳ hạn một năm (không vay nặng lãi, xem mục 15). Phần vượt quá mức đó không được bảo vệ, nhưng tiền gốc vẫn phải trả. Nằm trên giường bệnh thì cũng chẳng còn sức đi kiện kiểu này. Chấn thương hoặc bệnh cấp tính nặng là chuyện khác: không có tiền vẫn phải gọi 120, bệnh viện không được từ chối, đùn đẩy hay trì hoãn cấp cứu; chi phí cấp cứu giai đoạn đó do quỹ cứu trợ y tế khẩn cấp chi trả, xem chương 24 mục 8 (cấp cứu cũng phải cứu trước). Trang gốc văn bản〔1995〕309 của Bộ Lao động trên website Bộ Nhân lực và An sinh xã hội không mở được, nội dung lấy từ bản đăng lại của sở nhân lực và an sinh xã hội cấp tỉnh."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

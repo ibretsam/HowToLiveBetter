@@ -1,0 +1,15 @@
+{
+  "id": "e-19-24",
+  "source_sha256": "e1f6c0e087943d92b78df35c85673e5d0071c20ec4d6e9e918e7747c192651e6",
+  "draft_sha256": "41944d3fa580f8889e06e2b1c5a99363b02beff2d41b56f4ae795aeea3f2cea9",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Giữ hợp đồng từ 2 năm trở lên, vị trí tạm không quá 6 tháng, trần lao động thuê lại 10%, tiền lương tối thiểu lúc không được cử đi làm và nghĩa vụ từng công ty. Giữ điều kiện đơn vị tiếp nhận gây thiệt hại trong phần lợi ích, bồi thường liên đới có thể đòi toàn bộ ở một bên, cùng là đương sự trọng tài, và điều kiện không được chấm dứt vì người lao động từ chối điều kiện thấp hơn. Dẫn mục 4, mục 11 cùng chương và chương 7 mục 2 đúng. Không sửa nghĩa."
+}

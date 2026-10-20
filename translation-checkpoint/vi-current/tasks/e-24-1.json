@@ -1,0 +1,48 @@
+{
+  "id": "e-24-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "9b0125206da942a42466e47ec88b5e2a7166431580c1efa9a7a2e253dd4fa0d1",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "常见病先在社区看，经基层逐级转诊上去，住院起付线接着算",
+    "fields": {
+      "cost": "不花钱。要先去一趟社区。难在忍住不直接去挂专家号。",
+      "plain": "先去社区，再由社区转到大医院住院，自己先掏的那一段钱可以接着算，不用重新掏一遍。具体怎么算各地定，四川是只补两家起付线的差额。由大医院转回社区接着住的，同一个病这段时间里也不再重算一次。",
+      "benefit": "经基层逐级转诊的参保患者，在上级医院的住院起付线可以连续计算。起付线就是每次住院自己先掏、掏够了医保才开始报的那一段。国办文件没写连续计算具体怎么算，由各地定。四川的做法是只补两家医院起付线的差额：县中医院起付线 600 元，转到县人民医院（起付线 800 元），只需要再补 200 元。由上级医院下转回基层的住院患者，同一疾病周期内不再另设起付线",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「统筹地区内经基层医疗卫生机构逐级转诊的参保患者，在上级医院的住院起付线可连续计算；由上级医院下转至基层医疗卫生机构的住院患者，同一疾病周期内不再另设住院起付线。」；四川省医疗保障局 (2025). 关于省第十四届人大第四次会议第14041026号建议办理答复的函. <https://ylbzj.sc.gov.cn/scsybj/nc010414/2025/3/19/fea6f0a5f8ba416abf7ed17541afdc7a.shtml>：「仪陇县人民医院起付线是800元，仪陇县中医院起付线是600元，仪陇县中医院转仪陇县人民医院起付线只需要补200元差额即可。」",
+      "notes": "转诊规则由各省、各市和医联体分别制定，去之前先问一下社区。稳定期的慢病别再去大医院开药，因为大医院的这类普通门诊会逐步减掉。社区一次能开 12 周的药，见第 16 节第 5 条（社区一次开到 12 周的药）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Bệnh thường gặp khám ở cơ sở cộng đồng trước, được chuyển lên từng tuyến từ cơ sở thì mức tự trả ban đầu khi nằm viện được tính liên tục",
+    "fields": {
+      "cost": "Không tốn tiền. Phải đi cơ sở cộng đồng trước. Khó là không đăng ký chuyên gia ngay.",
+      "plain": "Khám cộng đồng rồi được chuyển lên bệnh viện lớn nằm viện thì mức tự trả ban đầu chỉ tính một lần. Tự đến bệnh viện hạng ba rồi chuyển về cộng đồng phục hồi có thể phải trả mức này hai lần. Bệnh viện lớn chuyển về cộng đồng nằm tiếp, trong cùng đợt bệnh cũng không tính lại mức này.",
+      "benefit": "Người có bảo hiểm chuyển từng cấp từ cơ sở được tính liên tục mức tự trả ban đầu tại bệnh viện trên. Mức tự trả ban đầu là phần mỗi lần nằm viện bạn phải tự trả trước, trả đủ rồi bảo hiểm mới bắt đầu chi. Liên tục nghĩa là gộp hai bệnh viện tính một lần, không tự trả lại. Người nội trú chuyển từ trên về cơ sở không đặt thêm mức tự trả ban đầu trong cùng đợt bệnh",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「统筹地区内经基层医疗卫生机构逐级转诊的参保患者，在上级医院的住院起付线可连续计算；由上级医院下转至基层医疗卫生机构的住院患者，同一疾病周期内不再另设住院起付线。」",
+      "notes": "Tự đến hạng ba nhập viện rồi về cơ sở phục hồi có thể tự trả phần này hai lần, qua chuyển tuyến chỉ một. Quy tắc do tỉnh, thành phố, liên minh y tế định riêng, hỏi cơ sở cộng đồng trước. Bệnh mạn ổn định đừng lại lên bệnh viện lớn lấy thuốc: ngoại trú thường loại này sẽ giảm dần, cộng đồng kê một lần 12 tuần, xem chương 16 mục 5 (thuốc đủ 12 tuần tại cộng đồng)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

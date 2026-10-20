@@ -1,0 +1,15 @@
+{
+  "id": "e-34-12",
+  "source_sha256": "1f5c846bb806cfd2285f62132a71eafcb37c9da19effdd46a2a895d82f04a8fc",
+  "draft_sha256": "4839fa66f0151a6d3847da93eaf6df1b5de1d2b99ce6af82605512af7ab2f206",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu bốn điều kiện mô phỏng lái xe, các liều, nồng độ cồn, thời gian phản ứng, giới hạn nghiên cứu 40 người và phân biệt cảnh báo thuốc với lệnh cấm của luật giao thông. Tên Trung văn giữ lại được kiểm tra trực tiếp với nguồn; các tham chiếu chương 1 mục 9 và mục 1 chương này được giữ đúng."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-24-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "a8b62f849851cd176cb8c457fdb4cf28c85eb1d0c0121fdc01573b129ca78aae",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "治完之后确实留下功能障碍，去户籍地县级残联申请残疾人证",
+    "fields": {
+      "cost": "证本身不收工本费。评定费和照片费原则上自己出，困难的可以申请减免。带身份证、户口本和 3 张两寸白底照片到户籍地县级残联。评定合格后在村（社区）公示 5 个工作日，残联 10 个工作日内审核完毕。难在要跑这几趟、等这段时间。",
+      "plain": "残疾人证是领残疾人待遇的门槛，不是伤情证明。分视力、听力、言语、肢体、智力、精神和多重七类，每类一到四级。流程是申请、受理、到指定机构评定、公示、审核批准、发证，有效期十年、到期免费换。对评定结论有异议的，可以申请重新评定。",
+      "benefit": "残疾人证「是认定残疾人及其残疾类别、残疾等级的合法凭证，是残疾人依法享有国家和地方政府优惠政策的重要依据」。评定标准是国家标准《残疾人残疾分类和分级》（GB/T 26341-2010）。办证坚持申领自愿、属地管理。视力、听力、言语、肢体、智力、精神及多重七类残疾人均可申领，残疾等级为一至四级。县级残联负责申办受理与核发，依据省级指定的医院或专业机构作出的评定结论。评定结论符合标准的，在村（社区）公示五个工作日，县级残联「在十个工作日内审核完毕」。「办理残疾人证不收取工本费」。评定与照片费用「原则上由申请人个人自理；有条件的地方可由当地财政予以补贴，对特殊困难的申请人应协调有关部门予以减免」。证的有效期十年，期满免费换领。残疾类别或等级发生变化的，可申请重新评定。对评定结论有异议的，可在十个工作日内到地市级残联申请重新评定。仍有异议的，由省级残疾评定专家委员会作出最终结论（全国，2018 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "中国残疾人联合会、国家卫生和计划生育委员会 (2017). 中华人民共和国残疾人证管理办法（2017 年 5 月 27 日发布，2018 年 1 月 1 日施行；第二、三、五、七、九、十七、十九、二十二、二十五条）. <https://www.bdpf.org.cn/cms68/web1459/subject/n1/n1459/n1508/n1509/n1512/c68465/content.html>",
+      "notes": "办不办先算账。证本身不直接发钱。它接上的是残疾人两项补贴：低保家庭中的残疾人领生活补贴，一级二级且需长期照护的领护理补贴，见第 7 节第 8 条（两项补贴）。证还接上各地的康复、辅助器具、税费、就业和交通优惠。这些标准各省差别很大，先在当地残联官网查清楚，再决定跑不跑这一趟。它和司法鉴定的伤残等级、工伤的劳动能力鉴定是三套东西，互不替代（见第 9 条，伤残鉴定要等治疗终结之后再做）。证只限本人使用，不得转借。残疾状况不再符合标准的会被注销，注销后一年内不得重新申请。多重残疾按其中最重的一类定等级。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Sau điều trị thật sự còn rối loạn chức năng, xin thẻ người khuyết tật tại Liên hiệp Người khuyết tật cấp huyện nơi hộ khẩu",
+    "fields": {
+      "cost": "Thẻ không thu phí vật liệu. Phí đánh giá, ảnh nguyên tắc tự trả, khó khăn xin giảm/miễn. Mang căn cước, sổ hộ khẩu và 3 ảnh thẻ nền trắng cỡ “hai thốn” của Trung Quốc (khoảng ba mươi lăm nhân bốn mươi chín milimét) đến Liên hiệp Người khuyết tật cấp huyện nơi hộ khẩu. Đạt thì công khai tại thôn/cộng đồng 5 ngày làm việc; liên hiệp duyệt trong 10 ngày làm việc. Khó là đi vài lượt, chờ khoảng đó.",
+      "plain": "Thẻ là điều kiện nhận chế độ khuyết tật, không phải giấy thương tích. Gồm bảy loại: thị giác, thính giác, ngôn ngữ, vận động, trí tuệ, tâm thần, đa khuyết tật; mỗi loại cấp một đến bốn. Quy trình xin, tiếp nhận, đánh giá cơ sở chỉ định, công khai, phê duyệt, cấp; hạn mười năm, hết đổi miễn phí. Không đạt là không đạt, không phải quen biết là làm được.",
+      "benefit": "Thẻ “là chứng từ hợp pháp xác định người, loại, cấp khuyết tật, căn cứ quan trọng hưởng chính sách ưu đãi quốc gia, địa phương theo luật”. Chuẩn quốc gia Phân loại, phân cấp khuyết tật (GB/T 26341-2010). Tự nguyện xin, quản theo địa bàn. Bảy loại thị giác, thính giác, ngôn ngữ, vận động, trí tuệ, tâm thần, đa khuyết tật đều được xin, cấp một đến bốn. Liên hiệp cấp huyện nhận/cấp, dựa kết luận bệnh viện hoặc tổ chức chuyên môn tỉnh chỉ định. Đạt chuẩn thì công khai thôn/cộng đồng năm ngày làm việc, liên hiệp huyện “duyệt xong trong mười ngày làm việc”. “Không thu phí vật liệu làm thẻ”. Phí đánh giá, ảnh “nguyên tắc người xin tự trả; nơi có điều kiện ngân sách trợ cấp, trường hợp đặc biệt khó khăn phối hợp cơ quan giảm/miễn”. Thẻ mười năm, hết đổi miễn phí. Loại/cấp đổi được xin đánh giá lại. Bất đồng kết luận có thể trong mười ngày làm việc đến liên hiệp cấp địa khu/thành phố xin lại; còn bất đồng thì hội đồng chuyên gia tỉnh kết luận cuối (toàn quốc, hiệu lực ngày 1 tháng 1 năm 2018)",
+      "grade": "A",
+      "sources": "中国残疾人联合会、国家卫生和计划生育委员会 (2017). 中华人民共和国残疾人证管理办法（2017 年 5 月 27 日发布，2018 年 1 月 1 日施行；第二、三、五、七、九、十七、十九、二十二、二十五条）. <https://www.bdpf.org.cn/cms68/web1459/subject/n1/n1459/n1508/n1509/n1512/c68465/content.html>",
+      "notes": "Có làm không tính trước. Thẻ tự nó không phát tiền mà nối với hai trợ cấp: người khuyết tật hộ bảo đảm tối thiểu nhận sinh hoạt; cấp một/hai cần chăm lâu nhận chăm sóc, xem chương 7 mục 8. Còn ưu đãi phục hồi, dụng cụ trợ giúp, thuế phí, việc làm, giao thông địa phương. Chuẩn khác tỉnh lớn, tra trang liên hiệp địa phương rồi quyết có đi. Nó, cấp thương tật tư pháp, giám định lao động là ba hệ không thay nhau (mục 9, đợi kết thúc điều trị mới giám định). Thẻ chỉ bản thân dùng, không cho mượn. Tình trạng không còn đạt chuẩn sẽ hủy, trong một năm sau hủy không xin lại. Đa khuyết tật lấy loại nặng nhất định cấp."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-8-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "5862bd3d739ce6795783bf0e122fc7ca1059708248ceaeaf85c9c358a847b5a9",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "被指控或被传唤，先请律师，不私了、不删记录",
+    "fields": {
+      "cost": "律师费从几千元起。经济困难的可以向法律援助机构申请免费律师。被问话时只回答和本案有关的问题，其余交给律师。难在当场稳住，不急着自己解释。",
+      "plain": "被叫去问话的第一次，你就可以请律师了。律师要求见你，看守所最迟 48 小时内安排，谈话不会被听。跟这个案子无关的问题，你可以不答。",
+      "benefit": "从第一次讯问起，或者从被采取强制措施（被限制人身自由）起，你就有权委托律师。案子还在公安手里侦查的这一段，只能委托律师，不能请律师以外的人当辩护人。律师提出会见，看守所最迟 48 小时内安排，会见不被监听。不得强迫任何人证实自己有罪。和本案无关的问题，你有权拒绝回答。传唤、拘传一次最长 12 小时，特别重大复杂的最长 24 小时。传唤是通知你去问话，拘传是强制把你带去问话。不得连着传唤，把人变相关住。捏造事实诬告别人、想让他被追究刑事责任的，判 3 年以下，造成严重后果的判 3 到 10 年。被拘留、逮捕之后又撤案、不起诉或者判无罪的，可以申请国家赔偿。赔偿每天按上一年度全国职工日平均工资计算（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第三十四、三十五、三十九、五十二、一百一十九、一百二十条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>；全国人大 (1997). 刑法（第二百四十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2012). 国家赔偿法（2012 年修正，第十七、三十三条）. <https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html>（国家统计局转载）",
+      "notes": "不要私下去找对方，也不要去找他家里人。任何「私了」都可能被理解成你认了。聊天记录、通话记录、行程记录是你自证清白的材料，删掉等于把自己的证据也删了。记错了、举报的事后来查下来不成立，不算诬告陷害罪。本条对被指控的人不分男女。展开的三条见本节第 33 条（追究捏造事实的一方）、第 34 条（证据不足应当判无罪与申诉再审）、第 35 条（羁押后的国家赔偿按天算）。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Bị cáo buộc hoặc triệu tập, hãy thuê luật sư trước; đừng tự dàn xếp, đừng xóa hồ sơ",
+    "fields": {
+      "cost": "Phí luật sư từ vài nghìn nhân dân tệ trở lên. Người khó khăn kinh tế có thể xin luật sư miễn phí tại cơ quan trợ giúp pháp lý. Khi bị hỏi, chỉ trả lời câu liên quan vụ án này; phần còn lại giao luật sư. Khó ở chỗ phải bình tĩnh ngay lúc đó, không vội tự giải thích.",
+      "plain": "Ngay lần đầu được gọi đến hỏi, bạn đã có thể thuê luật sư. Khi luật sư yêu cầu gặp bạn, trại tạm giam phải bố trí chậm nhất trong 48 giờ; cuộc nói chuyện không bị nghe lén. Bạn có thể không trả lời câu hỏi không liên quan vụ án.",
+      "benefit": "Từ lần hỏi cung đầu tiên hoặc khi bị áp dụng biện pháp cưỡng chế (hạn chế tự do thân thể), bạn có quyền nhờ luật sư. Trong giai đoạn công an điều tra, chỉ được nhờ luật sư, không thể nhờ người không phải luật sư bào chữa. Khi luật sư yêu cầu gặp, trại tạm giam phải bố trí chậm nhất trong 48 giờ; cuộc gặp không bị nghe lén. Không được ép ai chứng minh mình có tội. Bạn có quyền từ chối trả lời câu hỏi không liên quan vụ án. Mỗi lần triệu tập hoặc cưỡng chế dẫn giải để hỏi tối đa 12 giờ, vụ đặc biệt nghiêm trọng và phức tạp tối đa 24 giờ. Triệu tập là thông báo bạn đến để hỏi; cưỡng chế dẫn giải là buộc đưa bạn đến hỏi. Không được triệu tập liên tiếp để giam giữ trá hình. Bịa sự thật tố cáo người khác nhằm khiến họ bị truy cứu hình sự bị phạt đến 3 năm tù; gây hậu quả nghiêm trọng bị phạt 3 đến 10 năm. Sau khi bị tạm giữ, bắt giữ mà vụ án được đình chỉ, không truy tố hoặc được tuyên vô tội, có thể yêu cầu Nhà nước bồi thường, tính mỗi ngày theo mức lương ngày bình quân của người lao động toàn quốc trong năm trước (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第三十四、三十五、三十九、五十二、一百一十九、一百二十条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>；全国人大 (1997). 刑法（第二百四十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2012). 国家赔偿法（2012 年修正，第十七、三十三条）. <https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html>（国家统计局转载）",
+      "notes": "Đừng tự tìm gặp bên kia hay gia đình họ. Mọi việc “dàn xếp riêng” đều có thể bị hiểu là bạn nhận lỗi. Lịch sử trò chuyện, cuộc gọi và hành trình là tài liệu chứng minh sự trong sạch; xóa chúng cũng là xóa chứng cứ của mình. Nhớ nhầm hoặc nội dung tố giác về sau không được xác nhận không cấu thành tội vu cáo hãm hại. Mục này áp dụng cho người bị cáo buộc bất kể nam nữ. Ba phần mở rộng xem mục 33 (truy cứu bên bịa đặt), mục 34 (thiếu chứng cứ phải tuyên vô tội, khiếu nại và tái thẩm), mục 35 (bồi thường của Nhà nước sau giam giữ tính theo ngày) trong chương này."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

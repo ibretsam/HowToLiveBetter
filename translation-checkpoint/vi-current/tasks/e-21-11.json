@@ -1,0 +1,48 @@
+{
+  "id": "e-21-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "801f8f334e5f39874a05279e03f624e625e8e089fcce7dea3cf401c26b890fbd",
+  "status": "outdated",
+  "original": {
+    "number": 11,
+    "title": "出境前把行程、住处和同行人发给一位家人，约好多久联系一次",
+    "fields": {
+      "cost": "不花钱。出发前发一条消息。",
+      "plain": "人在境外失联，家里人可以找使领馆求助，使领馆会告诉家属当地怎么报警，立案后还会催办。前提是国内有人知道你该在哪、该什么时候联系。把航班号、住址、同行人电话和约好多久联系一次，发给一个家人就够。",
+      "benefit": "中国公民在境外下落不明时，亲属可以向驻外外交机构求助。条例原文是「驻外外交机构应当提供当地报警方式及其他获取救助的信息」。当地警方立案以后，使领馆会催他们及时处理。这些求助能不能启动，取决于国内有没有人知道你本该在哪、本该什么时候联系",
+      "grade": "C",
+      "sources": "国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十三条）；作者经验，无直接文献",
+      "notes": "写清四样就够：航班号、住处地址、同行人的姓名和电话、约好的联系频率。要去信号差或者治安差的地方，再把「多久没消息就报警」这句话说明白。这件事成本接近零，可上面这些救助程序，都要先有家人知道你的行程才能开始"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Trước xuất cảnh, gửi lịch trình, nơi ở, người đi cùng cho một người nhà, thống nhất tần suất liên lạc",
+    "fields": {
+      "cost": "Không tốn tiền. Gửi tin nhắn trước đi.",
+      "plain": "Mất liên lạc ở nước ngoài, gia đình có thể nhờ cơ quan đại diện; họ hướng dẫn cách báo cảnh sát sở tại, sau lập hồ sơ còn thúc xử lý. Điều kiện là có người trong nước biết bạn đáng ở đâu, khi nào liên hệ. Gửi số chuyến bay, địa chỉ nơi ở, số điện thoại của người đi cùng và tần suất liên lạc đã hẹn cho một người nhà là đủ.",
+      "benefit": "Công dân Trung Quốc mất tích ngoài nước, thân nhân được nhờ cơ quan ngoại giao. Quy định ghi “cơ quan ngoại giao ở nước ngoài phải cung cấp cách báo cảnh sát sở tại và thông tin khác để nhận cứu trợ”. Cảnh sát lập hồ sơ xong, cơ quan đại diện thúc xử lý kịp thời. Có khởi động được giúp đỡ không tùy trong nước có người biết bạn lẽ ra ở đâu, lúc nào liên hệ không",
+      "grade": "C",
+      "sources": "国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十三条）；作者经验，无直接文献",
+      "notes": "Ghi rõ bốn việc: số chuyến bay, địa chỉ ở, tên và số điện thoại của người đi cùng, tần suất liên lạc đã hẹn. Đi nơi sóng yếu hoặc an ninh kém thì nói rõ “bao lâu không tin sẽ báo cảnh sát”. Mọi quy trình giúp đỡ trên cần gia đình biết lịch trình trước mới bắt đầu được"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

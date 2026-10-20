@@ -1,0 +1,48 @@
+{
+  "id": "e-7-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "63f7f70f402b3f885509768983a29d0d5535a331e413e089a2770f00238284e5",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "求职别只投简历，用系统方法：学技巧、定目标、找人帮",
+    "fields": {
+      "cost": "不花钱。每天要花 1 到 2 小时，连着做上几周。付费课程可以不报，用公共就业服务机构的免费职业指导代替。难在没人盯着的时候天天坚持，还要主动开口找人帮忙。",
+      "plain": "参加过求职辅导的人，找到工作的几率是没参加的人的 2.67 倍。管用的是这几样：学具体的求职技巧，把自己讲清楚，定明确目标，主动出击，开口找人帮忙。",
+      "benefit": "把 47 项做过对照的求职辅导研究合并起来算。这些研究是实验或者准实验设计，都分了组做比较。结果是：参加辅导的那组，找到工作的几率是没参加那组的 2.67 倍（OR 2.67，即几率之比）。辅导里管用的成分有这几样。一是教求职技巧。二是改善自我呈现（把自己讲清楚）。三是提升自我效能（相信自己做得到）。四是鼓励主动出击。五是设定目标。六是争取社会支持（开口找人帮忙）。既教技能、又能提起劲头的辅导，效果最大",
+      "grade": "A",
+      "sources": "Liu S, Huang JL, Wang M (2014). Effectiveness of job search interventions: a meta-analytic review. Psychological Bulletin 140(4): 1009–1041. <https://doi.org/10.1037/a0035923>",
+      "notes": "这些研究多数在欧美做，形式是成套的小组课程。搬到中国是拿别处的结果套过来，不是国内测出来的。争取社会支持落到实处，就是让熟人帮着介绍和内推，别不好意思开口。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Tìm việc đừng chỉ rải hồ sơ, hãy làm có phương pháp: học kỹ năng, đặt mục tiêu, nhờ người giúp",
+    "fields": {
+      "cost": "Không tốn tiền. Mỗi ngày cần dành 1 đến 2 giờ, làm liên tục vài tuần. Không cần đăng ký khóa học trả phí, có thể dùng dịch vụ hướng nghiệp miễn phí của cơ quan dịch vụ việc làm công thay thế. Cái khó là phải kiên trì ngày nào cũng làm khi không có ai giám sát, lại còn phải chủ động mở lời nhờ người giúp.",
+      "plain": "Người từng tham gia hướng dẫn tìm việc có khả năng tìm được việc (tính theo odds) gấp 2.67 lần người không tham gia. Những việc thực sự hiệu quả gồm: học kỹ năng tìm việc cụ thể, giới thiệu bản thân cho rõ ràng, đặt mục tiêu rõ ràng, chủ động tìm kiếm, mở lời nhờ người khác giúp. Nhờ người giúp, nói cụ thể ra, là nhờ người quen giới thiệu nội bộ.",
+      "benefit": "Đây là kết quả gộp chung 47 nghiên cứu về hướng dẫn tìm việc có đối chứng. Các nghiên cứu này dùng thiết kế thực nghiệm hoặc bán thực nghiệm, đều chia nhóm để so sánh. Kết quả là: nhóm tham gia hướng dẫn có khả năng tìm được việc gấp 2.67 lần nhóm không tham gia (OR 2.67, tức tỷ số odds). Những thành phần hiệu quả trong hướng dẫn gồm: một là dạy kỹ năng tìm việc; hai là cải thiện cách thể hiện bản thân (giới thiệu mình cho rõ ràng); ba là nâng cao niềm tin vào năng lực bản thân (tin rằng mình làm được); bốn là khuyến khích chủ động tìm kiếm; năm là đặt mục tiêu; sáu là tranh thủ sự hỗ trợ xã hội (mở lời nhờ người giúp). Loại hướng dẫn vừa dạy kỹ năng vừa tiếp thêm động lực có hiệu quả lớn nhất.",
+      "grade": "A",
+      "sources": "Liu S, Huang JL, Wang M (2014). Effectiveness of job search interventions: a meta-analytic review. Psychological Bulletin 140(4): 1009–1041. <https://doi.org/10.1037/a0035923>",
+      "notes": "Phần lớn các nghiên cứu này được làm ở châu Âu và Mỹ, dưới hình thức khóa học nhóm trọn gói. Áp dụng sang Trung Quốc là mượn kết quả từ nơi khác, chứ không phải đo được trong nước. Tranh thủ sự hỗ trợ xã hội, nói cụ thể ra, là nhờ người quen giới thiệu và tiến cử nội bộ, đừng ngại mở lời."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

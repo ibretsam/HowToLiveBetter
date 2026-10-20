@@ -1,0 +1,48 @@
+{
+  "id": "e-22-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "ad57aeaa652c99c338df3f4a96f0d75318f00ed5c5783919947349b014b1c640",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "不吃陌生人给的糖和零食，不喝离开过视线的饮料，不接别人递的烟弹",
+    "fields": {
+      "cost": "不花钱。别人递过来的一律不接。自己的杯子离开过视线，就换一杯。",
+      "plain": "现在的毒品不长毒品的样子。掺了合成大麻素的「上头」电子烟，看着和普通电子烟差不多，有人专在酒吧、KTV、宾馆里递给人试。骗人吸的拘留 10 到 15 日并罚款，自己吸的也要拘留，被骗吸的可以从轻或者不罚。饮料离开过视线就换一杯。",
+      "benefit": "现在的毒品不长毒品的样子。合成大麻素类物质自 2021 年 7 月 1 日起被整类列管，这一大类整体按毒品管。有人把它掺进烟油，做成「上头」电子烟。最高检报道的案子里，办案人员的描述是：这种烟油「可以通过添加食用颜料变成各种颜色、各种口味」，「在外观上和普通电子烟基本一致」。卖家在酒吧、KTV、宾馆呼朋引伴推销，诱导他人吸食。报道里，当地当年办理的吸食案件中，未成年吸食者占比近四成。依托咪酯自 2023 年 10 月 1 日起列入第二类精神药品目录。骗人吸食本身就是一档违法。引诱、教唆、欺骗或者强迫他人吸食、注射毒品的，拘留 10 到 15 日并罚 1000 到 5000 元。构成犯罪的判 3 年以下，情节严重的判 3 到 7 年，强迫的判 3 到 10 年，对未成年人下手的从重。自己吸食、注射毒品的，处 10 到 15 日拘留并可罚 3000 元以下。情节较轻的处 5 日以下拘留或者 1000 元以下罚款。被人胁迫或者诱骗才吸的，同一部法律规定「从轻、减轻或者不予处罚」。还可能被同时责令 6 个月到 1 年内不得进入娱乐场所。成瘾的责令社区戒毒 3 年。拒绝社区戒毒、或者戒毒期间再吸的，强制隔离戒毒 2 年，最长可再延长 1 年（全国，治安管理处罚法 2026 年 1 月起）",
+      "grade": "A",
+      "sources": "最高人民检察院 (2021). 江苏苏州吴江区：办案检察官揭秘披着潮流外衣的新型毒品. <https://www.spp.gov.cn/spp/zdgz/202110/t20211011_531831.shtml>；国家药监局、公安部、国家卫生健康委 (2023). 关于调整麻醉药品和精神药品目录的公告（2023 年第 120 号）. <https://yjj.sh.gov.cn/qtgzwj/20230911/3b612c94e35b4b63abba314c972a2593.html>（上海市药监局转载，原文页 nmpa.gov.cn 在本机返回 412）；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十、八十四、八十五条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第三百五十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2007). 禁毒法（第三十三、三十八、四十七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2520706.html>（广东省人民政府转载）",
+      "notes": "不只是娱乐场所，学校门口、朋友聚会、长途车上同理。给的是糖果、饮料还是烟弹，也都一样。被下药之后常跟着抢劫、性侵和敲诈，这部分没有公开的官方统计，属于经验判断。饮料只要离开过视线就换一杯，比事后追究省事得多。场子里有人拿出不明粉末、片剂、烟弹时怎么办，见本节第 3 条。替人带东西见第 8 节第 29 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Không ăn kẹo, đồ ăn vặt người lạ cho, không uống đồ từng rời tầm mắt, không nhận lõi thuốc lá điện tử người khác đưa",
+    "fields": {
+      "cost": "Không tốn tiền. Người khác đưa thì không nhận. Cốc của mình rời tầm mắt thì đổi cốc.",
+      "plain": "Ma túy nay không trông như ma túy. Thuốc lá điện tử “phê” pha cannabinoid tổng hợp trông gần như loại thường; có người chuyên đưa thử ở bar, karaoke, khách sạn. Lừa người hút bị giam 10 đến 15 ngày, phạt 1000 đến 5000 nhân dân tệ; người bị lừa hút cũng bị giam 10 đến 15 ngày. Đồ uống rời mắt thì đổi.",
+      "benefit": "Ma túy nay không giống hình dung. Từ ngày 1 tháng 7 năm 2021, toàn nhóm cannabinoid tổng hợp được quản lý như ma túy. Có người pha vào tinh dầu thành thuốc lá điện tử “phê”. Trong vụ Viện Kiểm sát Nhân dân Tối cao đưa tin, điều tra viên mô tả tinh dầu “thêm màu thực phẩm thành đủ màu, vị”, “bề ngoài cơ bản giống thuốc lá điện tử thường”. Người bán rủ rê ở bar, karaoke, khách sạn, dụ người hút. Bản tin nói trong các vụ sử dụng địa phương xử lý năm đó, người chưa thành niên gần bốn phần mười. Etomidate vào danh mục thuốc hướng thần loại hai từ ngày 1 tháng 10 năm 2023. Lừa người dùng tự nó là vi phạm: dụ, xúi, lừa hoặc ép hút/tiêm ma túy bị giam 10 đến 15 ngày và phạt 1000 đến 5000 nhân dân tệ. Cấu thành tội thì tù đến 3 năm; nghiêm trọng 3 đến 7 năm; cưỡng ép 3 đến 10 năm; nhắm trẻ vị thành niên phạt nặng hơn. Người bị lừa cũng chịu hậu quả: hút/tiêm bị giam 10 đến 15 ngày, có thể phạt đến 3000 nhân dân tệ. Nhẹ thì giam đến 5 ngày hoặc phạt đến 1000 nhân dân tệ. Có thể đồng thời cấm vào nơi giải trí 6 tháng đến 1 năm. Nghiện thì buộc cai cộng đồng 3 năm; từ chối hoặc tái dùng trong thời gian cai thì cai cách ly bắt buộc 2 năm, tối đa gia hạn 1 năm (toàn quốc, Luật Xử phạt quản lý trị an từ tháng 1 năm 2026)",
+      "grade": "A",
+      "sources": "最高人民检察院 (2021). 江苏苏州吴江区：办案检察官揭秘披着潮流外衣的新型毒品. <https://www.spp.gov.cn/spp/zdgz/202110/t20211011_531831.shtml>；国家药监局、公安部、国家卫生健康委 (2023). 关于调整麻醉药品和精神药品目录的公告（2023 年第 120 号）. <https://yjj.sh.gov.cn/qtgzwj/20230911/3b612c94e35b4b63abba314c972a2593.html>（上海市药监局转载，原文页 nmpa.gov.cn 在本机返回 412）；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第八十四、八十五条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第三百五十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2007). 禁毒法（第三十三、三十八、四十七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2520706.html>（广东省人民政府转载）",
+      "notes": "Không chỉ nơi giải trí, cổng trường, tụ tập bạn, xe đường dài cũng vậy; kẹo, nước hay lõi thuốc lá đều như nhau. Sau bị bỏ thuốc thường có cướp, xâm hại tình dục, tống tiền; phần này không có thống kê chính thức công khai, là nhận định kinh nghiệm. Nước rời mắt thì đổi, ít phiền hơn truy cứu sau. Có người lấy bột, viên, lõi lạ trong quán thì xem mục 3. Mang hộ đồ xem chương 8 mục 29."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

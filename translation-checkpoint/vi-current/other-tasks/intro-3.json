@@ -1,0 +1,14 @@
+{
+  "id": "intro-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "c784701bc8023caa531b922dcdffe8a772c73317ce833135372579fd956a77e1",
+  "original": {
+    "title": "不要浪费精力",
+    "intro": "本节只算精力和时间账。看的是四样东西：你每天能用的注意力、反应快不快、出错多不多、被打断以后要多久才回得来。多数数字是直接测出来的，来自实验，或者来自跟踪一群人做的记录（队列研究）。这些数字不换算成寿命，也不换算成死亡率。本节多数条目的证据等级是 B。这个领域本来就这样，不代表建议不成立。第 19 条讲的是和警察、医生、柜员打交道时该有的预期，引的是法规，不是实验，所以等级记 C。第 15 条（把悲观念头当症状看）和第 22 条（把「别人要求我完美」当症状看）引的是死亡率与自杀风险的数字。它们的口径和本节其他条目不一样，不放在一起比较。\n\n本节条目按主题分成下面几块，括号里是条号。\n\n**工作时的注意力**：关掉非必要通知（第 1 条），消息每天批量处理（第 5 条），挡住几秒钟的打断（第 6 条），一次只做一件事（第 7 条），开放式办公室用耳塞（第 12 条），每周工作时间别一味往上加（第 13 条）。\n\n**睡觉和熬夜**：固定起床时间（第 2 条），每晚睡够 7 到 8 小时（第 3 条），下午两点以后不碰咖啡因（第 4 条），睡前一小时不看屏幕（第 8 条），到点就睡（第 9 条），深夜不做重大决定（第 10 条），下午困了就睡 10 分钟（第 11 条），长期失眠先做认知行为治疗（第 26 条），打鼾憋气、白天犯困去查睡眠呼吸暂停（第 27 条）。\n\n**脑子里的念头**：反复回想时换个动手的活（第 14 条），把悲观念头当症状看（第 15 条），觉得出丑时把估计除以二（第 21 条），把「别人要求我完美」当症状看（第 22 条）。\n\n**生气和情绪低落**：生气时先离场（第 17 条），情绪低落时先做的几件事（第 18 条），生气别靠打沙袋发泄（第 23 条），把心事连着几天写下来（第 24 条）。\n\n**人际和社交媒体**：学会拒绝不想接的请求（第 16 条），把警察医生当按规则上班的人（第 19 条），给刷同龄人动态的应用设限（第 20 条）。\n\n**身上的痛**：痛经就吃布洛芬这类止痛药（第 25 条）。"
+  },
+  "previous_translation": {
+    "title": "Đừng lãng phí sức lực",
+    "intro": "Chương này chỉ tính sức lực và thời gian, xét bốn điều: lượng chú ý bạn có thể dùng mỗi ngày, tốc độ phản ứng, số lỗi và thời gian quay lại việc sau khi bị ngắt. Các số đều được đo trực tiếp trong thí nghiệm hoặc khi theo dõi một nhóm người (nghiên cứu đoàn hệ), không quy đổi thành tuổi thọ hay tỷ lệ tử vong. Đa số mục có bằng chứng mức B; đặc điểm của lĩnh vực này là vậy, không có nghĩa lời khuyên không có cơ sở. Mục 19 nói về kỳ vọng khi làm việc với cảnh sát, bác sĩ, nhân viên quầy, dẫn quy định chứ không phải thí nghiệm nên xếp C. Mục 15 (coi ý nghĩ bi quan là triệu chứng) và mục 22 (coi cảm giác “người khác đòi tôi hoàn hảo” là triệu chứng) dùng số liệu tử vong và nguy cơ tự sát, khác cách tính với các mục còn lại nên không so chung."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-34-2",
+  "source_sha256": "ff08e0f47858f95e0af3e350ecd7777e3fd79327197e7e8543a0da5981865703",
+  "draft_sha256": "9fcc750388526edb7a84f1d1c6da4efa733409ebb8577b18239850c461645d94",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa 婴儿 từ trẻ sơ sinh thành trẻ nhũ nhi để không thu hẹp độ tuổi; sửa diễn đạt OR 2.3 thành gấp hơn hai lần. Đã đối chiếu cấm dùng dưới 12/18 tuổi, hai nồng độ 80 miligam/0.8 mililít và 160 miligam/5 mililít, cảnh báo không dùng lẫn dụng cụ, và tham chiếu chương 20 mục 8."
+}

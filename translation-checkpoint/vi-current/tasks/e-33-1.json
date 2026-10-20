@@ -1,0 +1,48 @@
+{
+  "id": "e-33-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "04ab1307527e0211093d50143f0ad18e0fc34b4f904a89bdd4708c997f101b3f",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "脊髓损伤之后突然剧烈头痛、出汗，先扶坐直、松开衣物，同时叫 120",
+    "fields": {
+      "cost": "不花钱。三个动作，几十秒做完。",
+      "plain": "脊髓损伤的人，身体的报警线路断了一截。膀胱憋着、衣服勒着，本人可能没感觉，血压却会猛往上冲。信号是突然剧烈头痛和出汗。这时先把人扶坐直、松开勒紧的衣物、看是不是憋着尿，同时叫 120。",
+      "benefit": "这种发作叫自主神经反射异常。一篇系统综述检索了 Medline、CINAHL、EMBASE 和 PsycINFO 四个数据库，纳入 31 项研究，其中 6 项是随机对照试验。综述写明，发作当时的非药物处理是三步：把患者摆成直立体位、松开紧身衣物、去除诱发刺激。这三步的依据是临床共识和生理学数据，属于第 5 级证据。综述的正文写明，这种发作多见于胸 6 节段及以上的损伤，最常见的诱因是膀胱或肠道受刺激。损伤平面以下的刺激引发大量交感神经放电，血压急升，而损伤平面以下的感觉部分或全部没了。症状包括剧烈头痛、损伤平面以上大量出汗，也可能完全没有症状。不处理可能导致颅内出血、癫痫发作甚至死亡。没有研究专门测过发作时坐起来的效果，但脊髓损伤的人从平躺改为坐起或倾斜时，静息血压会明显下降。血压持续升高时才用降压药，其中哌唑嗪有第 1 级证据，硝苯地平和前列腺素 E2 有第 2 级证据。综述还写明，预防发作的策略主要针对泌尿生殖系统和手术这两类常见诱因，多数只有第 4 级和第 5 级证据支撑",
+      "grade": "B",
+      "sources": "Krassioukov A, Warburton DE, Teasell R, Eng JJ; Spinal Cord Injury Rehabilitation Evidence Research Team (2009). A systematic review of the management of autonomic dysreflexia after spinal cord injury. Archives of Physical Medicine and Rehabilitation, 90(4):682-695. <https://doi.org/10.1016/j.apmr.2008.10.017>",
+      "notes": "定 B 是因为那三个现场动作背后没有随机对照试验，只有共识和生理学推理。综述自己也说，这些办法多数只有非对照研究支撑。用药那一段是医生的事，家里不要自己给降压药。让人躺平会让血压更高，所以要扶坐直。家属和护工也要会这三步。别把它当普通头痛扛过去。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Sau chấn thương tủy sống, đột ngột đau đầu dữ dội và đổ mồ hôi: giúp ngồi thẳng, nới quần áo, đồng thời gọi 120",
+    "fields": {
+      "cost": "Không tốn tiền. Ba động tác làm trong vài chục giây.",
+      "plain": "Ở người chấn thương tủy sống, đường báo động của cơ thể bị ngắt một đoạn. Bàng quang đầy hoặc quần áo siết, họ có thể không cảm thấy nhưng huyết áp tăng vọt. Dấu hiệu là đột ngột đau đầu dữ dội và đổ mồ hôi. Lúc đó giúp ngồi thẳng, nới quần áo bó, kiểm tra có bí tiểu không, đồng thời gọi 120.",
+      "benefit": "Cơn này gọi là rối loạn phản xạ thần kinh tự chủ. Một tổng quan hệ thống tìm trong bốn cơ sở Medline, CINAHL, EMBASE, PsycINFO, đưa vào 31 nghiên cứu, trong đó 6 thử nghiệm ngẫu nhiên có đối chứng. Tổng quan nêu ba bước xử trí không dùng thuốc lúc phát cơn: đặt bệnh nhân ở tư thế thẳng đứng, nới quần áo chật, loại bỏ kích thích gây cơn. Ba bước dựa trên đồng thuận lâm sàng và dữ liệu sinh lý, thuộc bằng chứng cấp 5. Chỉ dùng thuốc hạ áp khi huyết áp tiếp tục cao; prazosin có bằng chứng cấp 1, nifedipine và prostaglandin E2 có bằng chứng cấp 2. Tổng quan còn nói chiến lược dự phòng chủ yếu nhắm hai nhóm tác nhân thường gặp là hệ tiết niệu sinh dục và phẫu thuật; phần lớn chỉ được bằng chứng cấp 4 và 5 hỗ trợ.",
+      "grade": "B",
+      "sources": "Krassioukov A, Warburton DE, Teasell R, Eng JJ; Spinal Cord Injury Rehabilitation Evidence Research Team (2009). A systematic review of the management of autonomic dysreflexia after spinal cord injury. Archives of Physical Medicine and Rehabilitation, 90(4):682-695. <https://doi.org/10.1016/j.apmr.2008.10.017>",
+      "notes": "Xếp B vì ba động tác tại chỗ không có thử nghiệm ngẫu nhiên đối chứng, chỉ có đồng thuận và suy luận sinh lý. Tổng quan cũng nói phần lớn biện pháp chỉ có nghiên cứu không đối chứng hỗ trợ. Dùng thuốc là việc bác sĩ, gia đình đừng tự cho thuốc hạ áp. Nằm phẳng khiến huyết áp cao hơn nên phải giúp ngồi thẳng. Người nhà, người chăm sóc cũng cần biết ba bước. Đừng coi là đau đầu thông thường rồi chịu đựng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

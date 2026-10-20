@@ -1,0 +1,48 @@
+{
+  "id": "e-29-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "a6ffc08facdafb38441e048d369e136ef8d702d2f7ca722a71d3d72467173bf9",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "亲人刚走的那几天别一个人待着，有心脏病、高血压、糖尿病的照常吃药，胸口压着疼就叫 120",
+    "fields": {
+      "cost": "不花钱。这几天别一个人待着，药照常吃。",
+      "plain": "亲人去世后头一天，心梗发作的概率是平时的 21.1 倍，之后一天比一天低。60 到 89 岁的人在伴侣去世后 30 天内，心梗或中风的比例大约翻倍，一个月后回落。本来就有心血管病的人，这几天别停药。胸口压着疼、喘不上气、一侧手脚没力，立刻打 120。",
+      "benefit": "1985 名急性心梗患者，拿同一个人发病前后的不同时间段自己跟自己比。其中 270 人（13.6%）在发病前 6 个月内失去过重要的人，19 人是在心梗前 1 天内失去的。重要的人去世后 24 小时内，急性心梗发作率升高 21.1 倍（95% CI 13.1–34.1，真实倍数大致在 13 到 34 之间）。此后逐日下降。换成实际人数：十年心梗风险 5% 的人里，每 1394 个刚失去亲人的多出 1 例。风险 20% 的人里，每 320 个多出 1 例。英国另一项研究，比了 30447 名 60 至 89 岁丧偶者和 83588 名条件相当的对照。丧偶后 30 天内发生心梗或中风的，丧偶的一边 50 人（0.16%）。对照的一边 67 人（0.08%）。IRR 2.20（1.52–3.15），即出事的概率约为对照的 2.2 倍。其中心梗 2.14（1.20–3.81），约 2.1 倍。中风 2.40（1.22–4.71），约 2.4 倍。30 天以后减弱。90 天内还看了两类病。一类是非心梗急性冠脉综合征（心脏供血急性出问题、但还够不上心梗的那类），IRR 2.20（1.12–4.29）。一类是肺栓塞（血块堵在肺的血管里），IRR 2.37（1.18–4.75）。怎么认这几种病，英国国家医疗服务体系（NHS）列了要马上打急救电话的信号。心梗是胸口像被压住、挤住一样疼，疼可能窜到胳膊、脖子、下巴，还有喘不上气。中风是一侧脸往下耷拉，一条胳膊或一侧身体没劲、发麻，说话含糊",
+      "grade": "A",
+      "sources": "Mostofsky E, et al. (2012). Risk of acute myocardial infarction after the death of a significant person in one's life: the Determinants of Myocardial Infarction Onset Study. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.111.061770>；Carey IM, et al. (2014). Increased risk of acute cardiovascular events after partner bereavement: a matched cohort study. JAMA Internal Medicine. <https://doi.org/10.1001/jamainternmed.2013.14558>；NHS. Heart attack: symptoms. <https://www.nhs.uk/conditions/heart-attack/symptoms/>；NHS. Symptoms of a stroke. <https://www.nhs.uk/conditions/stroke/symptoms/>",
+      "notes": "药盒交给别人管，别靠自己记。这几天别开长途。别靠喝酒扛过去，酒的账见第 2 节。心梗、中风怎么认、怎么叫车见第 13 节。两项都是回头翻人群数据的研究，分不清里面有多少人本来就要发病。但两项指的方向和时间段一致。没有人可以把药盒交出去、这几天注定一个人在屋里的，见本节第 6 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Những ngày đầu sau khi người thân mất đừng ở một mình; có bệnh tim, tăng huyết áp, tiểu đường vẫn uống thuốc thường lệ; đau ngực kiểu đè ép thì gọi 120",
+    "fields": {
+      "cost": "Không tốn tiền. Những ngày này đừng ở một mình, vẫn uống thuốc như thường.",
+      "plain": "Ngày đầu sau khi người thân mất, nguy cơ nhồi máu cơ tim bằng 21.1 lần bình thường rồi giảm từng ngày. Người 60 đến 89 tuổi trong 30 ngày sau mất bạn đời có tỷ lệ nhồi máu cơ tim hoặc đột quỵ gần gấp đôi, sau một tháng giảm xuống. Vốn có bệnh tim mạch thì đừng ngừng thuốc những ngày này. Ngực đau đè ép, khó thở, tay chân một bên yếu thì gọi 120 ngay.",
+      "benefit": "Trong 1985 bệnh nhân nhồi máu cơ tim cấp, so sánh các khoảng thời gian trước và sau phát bệnh của cùng một người. Có 270 người (13.6%) mất người quan trọng trong 6 tháng trước phát bệnh; 19 người mất trong 1 ngày trước nhồi máu. Trong 24 giờ sau khi người quan trọng mất, tỷ lệ nhồi máu cấp tăng 21.1 lần (95% CI 13.1–34.1, tỷ số thật ước từ 13 đến 34). Sau đó giảm từng ngày. Quy ra số người: nhóm nguy cơ nhồi máu mười năm 5%, cứ 1394 người vừa mất người thân thêm 1 ca; nhóm nguy cơ 20%, cứ 320 người thêm 1 ca. Nghiên cứu Anh khác so 30447 người góa 60 đến 89 tuổi với 83588 đối chứng tương đồng. Trong 30 ngày sau mất bạn đời, nhóm góa có 50 người (0.16%) nhồi máu hoặc đột quỵ; đối chứng 67 người (0.08%). IRR 2.20 (1.52–3.15), tức nguy cơ khoảng 2.2 lần đối chứng. Riêng nhồi máu 2.14 (1.20–3.81), khoảng 2.1 lần; đột quỵ 2.40 (1.22–4.71), khoảng 2.4 lần. Sau 30 ngày giảm. Trong 90 ngày còn xét hội chứng vành cấp không nhồi máu (cấp tính thiếu máu nuôi tim nhưng chưa đạt tiêu chuẩn nhồi máu), IRR 2.20 (1.12–4.29), và thuyên tắc phổi (máu đông tắc mạch phổi), IRR 2.37 (1.18–4.75)",
+      "grade": "A",
+      "sources": "Mostofsky E, et al. (2012). Risk of acute myocardial infarction after the death of a significant person in one's life: the Determinants of Myocardial Infarction Onset Study. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.111.061770>；Carey IM, et al. (2014). Increased risk of acute cardiovascular events after partner bereavement: a matched cohort study. JAMA Internal Medicine. <https://doi.org/10.1001/jamainternmed.2013.14558>",
+      "notes": "Giao hộp thuốc cho người khác quản, đừng dựa trí nhớ. Những ngày này đừng lái xe đường dài. Đừng dùng rượu để chịu đựng; tác hại rượu xem chương 2. Nhận biết nhồi máu, đột quỵ và gọi xe xem chương 13. Cả hai nghiên cứu đều xem lại dữ liệu dân số, không tách được bao nhiêu người vốn sắp phát bệnh. Nhưng hướng kết quả và khoảng thời gian đều nhất quán. Không có ai để giao thuốc, chắc chắn phải ở một mình những ngày này thì xem mục 6 chương này."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

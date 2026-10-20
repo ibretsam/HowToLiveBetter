@@ -1,0 +1,48 @@
+{
+  "id": "e-3-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "b02df425c612c4899272e7e01253f89768d7169b090f70323002279c88ab4d53",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "深夜不做重大决定、不发要紧的消息",
+    "fields": {
+      "cost": "不花钱。只是把事情推到睡醒之后再办。",
+      "plain": "人睡饱的时候，很快就能学会躲开高风险的选项。连着两晚没睡之后，反而一次次挑高风险的，年纪越大越明显。少睡几小时有多大影响，没有直接测过，但要紧的决定还是推到睡醒以后。",
+      "benefit": "34 名健康人在 49.5 小时不睡之后，做爱荷华赌博任务。这是一种衡量风险决策的实验。休息充足时，他们能很快学会避开高风险选项。缺觉之后，反而更多地选高风险选项。年纪大的人受影响更大。这是一项实验，只有这一项研究。",
+      "grade": "B",
+      "sources": "Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x>",
+      "notes": "研究的是连续两晚不睡的极端情况。普通人熬到凌晨两点会怎样，没有直接测过。「不发消息」那半是作者经验（C 级），第二天再发也不迟。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Đêm khuya đừng đưa ra quyết định lớn hoặc gửi tin nhắn quan trọng",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn chỉ cần để việc đó tới sau khi ngủ dậy.",
+      "plain": "Khi ngủ đủ, người ta nhanh chóng học được cách tránh lựa chọn rủi ro cao. Sau hai đêm liên tục không ngủ, họ lại chọn phương án rủi ro cao nhiều lần hơn; càng lớn tuổi càng rõ. Chưa ai đo thiếu vài giờ ảnh hưởng bao nhiêu, nhưng quyết định quan trọng vẫn nên để sau khi ngủ dậy.",
+      "benefit": "34 người khỏe mạnh làm nhiệm vụ cờ bạc Iowa sau 49.5 giờ không ngủ. Đây là thí nghiệm đo khả năng quyết định trước rủi ro. Khi nghỉ đủ, họ nhanh chóng học cách tránh phương án rủi ro cao; thiếu ngủ thì lại chọn những phương án đó nhiều hơn. Người lớn tuổi chịu ảnh hưởng mạnh hơn. Đây là một thí nghiệm và chỉ có nghiên cứu này.",
+      "grade": "B",
+      "sources": "Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x>",
+      "notes": "Nghiên cứu xét tình huống cực đoan hai đêm liền không ngủ. Chưa ai trực tiếp đo người bình thường thức tới hai giờ sáng sẽ ra sao. Phần “không gửi tin nhắn” là kinh nghiệm của tác giả (mức C); gửi vào hôm sau cũng chưa muộn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

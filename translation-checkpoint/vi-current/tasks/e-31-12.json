@@ -1,0 +1,48 @@
+{
+  "id": "e-31-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "9e924c714fee7c26f050b4414b284d2c33256038881b63fbf2dc44ee5072bb4d",
+  "status": "draft",
+  "original": {
+    "number": 12,
+    "title": "送外卖、跑网约车、拉同城货运，平台按单给你交职业伤害保障费，自己不缴",
+    "fields": {
+      "cost": "不花钱，这笔钱由平台缴。你要做的是查自己接单的平台在不在试点里。办法有两个：在 App 的保障或权益页面找「职业伤害保障」，或者打本省人社局的电话，问这家平台报没报。",
+      "plain": "送外卖、跑网约车、拉同城货运的人，平台要按单替你缴职业伤害保障费，你自己一分钱不出，每接一单就保一单。这还是试点，接单前先查自己所在的省份和平台在不在范围里。已经和平台建立劳动关系的，走工伤保险，不走这套。",
+      "benefit": "这项保障看《新就业形态人员职业伤害保障办法（试行）》。第二条写着：「平台企业应当依照本办法规定参加新就业形态人员职业伤害保障……为通过平台注册并接单，以平台企业名义提供出行、即时配送和同城货运等劳动并获得报酬或者收入的新就业形态人员缴纳职业伤害保障费，实现每单必保、每人必保。适用《工伤保险条例》规定的劳动者，企业应当依法为其参加工伤保险，不适用本办法」。第九条：「试行期间，出行行业按照每单 0.01 元执行；即时配送行业按照每单 0.07 元、0.25 元执行；同城货运行业按照每单 0.18 元执行」。试点怎么往外扩，看这一段：「2025 年 7 月 1 日起，在已先行试点 7 个省份和 7 个平台企业的基础上……增加天津、河北、辽宁、浙江、安徽、福建、山东、湖北、广西、宁夏等 10 个省份……2026 年，推动职业伤害保障试点在全国 31 个省份和新疆生产建设兵团实施；将出行、即时配送和同城货运三个行业的平台企业总体纳入职业伤害保障试点范围」（试点，逐年扩围）",
+      "grade": "A",
+      "sources": "人力资源社会保障部等九部门 (2025). 关于扩大新就业形态人员职业伤害保障试点的通知（人社部发〔2025〕24 号）及附件《新就业形态人员职业伤害保障办法（试行）》第二、九条. <https://www.gov.cn/zhengce/zhengceku/202507/content_7031656.htm>",
+      "notes": "这还是试点，不是全国都有的正式制度。接单前确认你所在的省份和平台在不在范围里，不在的就只剩自己买商业保险这一层。另一份文件《关于维护新就业形态劳动者劳动保障权益的指导意见》还提了几条要求。平台给正常干活的人开的报酬不低于当地最低工资，要按时足额发，不得克扣或者无故拖欠。法定节假日还要付合理报酬。这份文件的文号是人社部发〔2021〕56 号，灵活就业那条也引了它，见第 11 条。出了事先照这套走，别先跟站点私了。医保和养老那一块还得自己参保，灵活就业参保见第 11 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Giao đồ ăn, chạy xe gọi qua ứng dụng, vận chuyển hàng nội thành: nền tảng đóng phí bảo đảm tổn thương nghề nghiệp theo đơn, bạn không tự đóng",
+    "fields": {
+      "cost": "Không tốn tiền, nền tảng đóng khoản này. Bạn cần kiểm tra nền tảng nhận việc có nằm trong thí điểm không. Có hai cách: tìm «bảo đảm tổn thương nghề nghiệp» ở trang bảo đảm hoặc quyền lợi trong ứng dụng, hoặc gọi cơ quan nhân lực và an sinh xã hội tỉnh, hỏi nền tảng đã tham gia chưa.",
+      "plain": "Với người giao đồ ăn, chạy xe gọi qua ứng dụng, chở hàng nội thành, nền tảng phải đóng phí bảo đảm tổn thương nghề nghiệp theo đơn. Bạn không bỏ đồng nào; nhận đơn nào được bảo đảm đơn đó. Đây vẫn là thí điểm, trước khi nhận việc hãy kiểm tra tỉnh và nền tảng của mình có trong phạm vi không. Đã có quan hệ lao động với nền tảng thì áp dụng bảo hiểm tai nạn lao động, không dùng cơ chế này.",
+      "benefit": "Chế độ này xem Biện pháp Bảo đảm tổn thương nghề nghiệp cho người thuộc hình thức việc làm mới, thí điểm. Điều hai ghi: «Doanh nghiệp nền tảng phải tham gia bảo đảm tổn thương nghề nghiệp theo biện pháp này… đóng phí cho người đăng ký và nhận đơn qua nền tảng, cung cấp dịch vụ đi lại, giao hàng tức thời, vận chuyển hàng nội thành… dưới danh nghĩa doanh nghiệp nền tảng và được trả công hoặc thu nhập, bảo đảm mọi đơn và mọi người đều được bảo hiểm. Với người lao động thuộc Điều lệ Bảo hiểm tai nạn lao động, doanh nghiệp phải tham gia bảo hiểm tai nạn lao động cho họ theo luật, không áp dụng biện pháp này». Điều chín: «Trong thời gian thí điểm, ngành đi lại áp dụng 0.01 nhân dân tệ mỗi đơn; giao hàng tức thời 0.07 nhân dân tệ, 0.25 nhân dân tệ mỗi đơn; chở hàng nội thành 0.18 nhân dân tệ mỗi đơn». Mở rộng thí điểm xem đoạn: «Từ ngày 1 tháng 7 năm 2025, trên cơ sở đã thí điểm tại 7 tỉnh và 7 doanh nghiệp nền tảng… bổ sung 10 tỉnh, thành, khu gồm Thiên Tân, Hà Bắc, Liêu Ninh, Chiết Giang, An Huy, Phúc Kiến, Sơn Đông, Hồ Bắc, Quảng Tây, Ninh Hạ… Năm 2026, thúc đẩy triển khai thí điểm tại 31 tỉnh toàn quốc và Binh đoàn Sản xuất và Xây dựng Tân Cương; về tổng thể đưa doanh nghiệp nền tảng ba ngành đi lại, giao hàng tức thời và chở hàng nội thành vào phạm vi thí điểm» (thí điểm, mở rộng từng năm).",
+      "grade": "A",
+      "sources": "人力资源社会保障部等九部门 (2025). 关于扩大新就业形态人员职业伤害保障试点的通知（人社部发〔2025〕24 号）及附件《新就业形态人员职业伤害保障办法（试行）》第二、九条. <https://www.gov.cn/zhengce/zhengceku/202507/content_7031656.htm>",
+      "notes": "Đây vẫn là thí điểm, chưa phải chế độ chính thức có khắp toàn quốc. Trước nhận việc, xác nhận tỉnh và nền tảng có trong phạm vi; nếu không thì chỉ còn lớp bảo vệ là bảo hiểm thương mại tự mua. Văn bản Ý kiến hướng dẫn bảo vệ quyền lợi bảo đảm lao động của người lao động trong hình thức việc làm mới còn đưa ra một số yêu cầu. Nền tảng phải trả người làm việc bình thường không dưới lương tối thiểu địa phương, đúng hạn và đủ, không khấu trừ trái phép hoặc nợ vô cớ. Ngày nghỉ lễ theo luật cũng phải trả công hợp lý. Văn bản mang số 56 năm 2021 của Bộ Nhân lực và An sinh xã hội; mục việc làm linh hoạt cũng dẫn nó, xem mục 11. Khi có chuyện, hãy theo cơ chế này trước, đừng vội dàn xếp riêng với trạm. Phần bảo hiểm y tế, hưu trí vẫn phải tự tham gia; xem mục 11 về tham gia bảo hiểm khi làm việc linh hoạt."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

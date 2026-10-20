@@ -1,0 +1,15 @@
+{
+  "id": "e-34-11",
+  "source_sha256": "ec8dba378c6665f30ef8d65171f5b5d9c06a90e12ec057c38b4e9b9e0893425b",
+  "draft_sha256": "ebb397a074f3b861a0e9afa80e03481e2267c4cebea39c3bd970557dd466ce8b",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đủ tên thuốc, tỷ lệ và phân độ trong 82 ca. Giữ phân biệt hướng dẫn kiêng 7 ngày với hướng dẫn Mỹ ít nhất 3 ngày, cùng nhận xét nguồn rằng khoảng kiêng trước dùng chưa có kết luận có thẩm quyền. Giữ tính không phải mọi cephalosporin đều gây phản ứng."
+}

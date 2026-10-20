@@ -1,0 +1,49 @@
+{
+  "id": "e-27-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "859a7bf70d8d000f0844368fc7d60d8b6e96c3b713a245dcce2e77708d236566",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "孩子出生后一个月以内去派出所申报出生登记",
+    "fields": {
+      "cost": "不花钱。跑一趟派出所的户籍窗口",
+      "plain": "法律给的是一个月，不是「有空再说」。落户卡着后面的打疫苗、入园、入学和办身份证。越往后拖，要补的材料越多。",
+      "benefit": "《户口登记条例》第七条：「婴儿出生后一个月以内，由户主、亲属、抚养人或者邻居向婴儿常住地户口登记机关申报出生登记。」这是法律定的时限，不是建议。落户是后面这些事的前置条件：打疫苗、入园、入学、办身份证。越往后拖，需要补的材料越多",
+      "grade": "A",
+      "sources": "国务院 (1958). 中华人民共和国户口登记条例（第七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2531969.html>（广东省人民政府转载）；国务院办公厅 (2015). 关于解决无户口人员登记户口问题的意见（国办发〔2015〕96 号）. <https://www.gov.cn/zhengce/zhengceku/2016-01/14/content_10595.htm>",
+      "notes": "带齐这些：出生医学证明、父母的身份证和户口本、结婚证，具体清单以当地派出所的要求为准。国务院办公厅 2015 年的意见写明按「随父随母落户自愿」，跟父亲还是跟母亲落户可以自己选。两边的学区和参保地可能不一样，去之前想清楚，改起来麻烦。没结婚生的孩子同样可以落户：同一份意见写明，可以凭出生医学证明、父母一方的户口簿和非婚生育说明申请。随父落户的，还要交有资质的鉴定机构出的亲子鉴定证明"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "自由",
+      "人群": "怀孕,婴幼儿"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Trong một tháng sau khi con sinh, đến đồn công an khai đăng ký khai sinh",
+    "fields": {
+      "cost": "Không tốn tiền. Đến quầy hộ khẩu của đồn công an một lần",
+      "plain": "Luật cho một tháng, không phải «rảnh rồi làm». Nhập hộ khẩu ảnh hưởng việc tiêm chủng, vào mẫu giáo, đi học và làm căn cước sau này. Càng trì hoãn càng phải bổ sung nhiều giấy tờ.",
+      "benefit": "Điều bảy «Điều lệ đăng ký hộ khẩu»: «Trong một tháng sau khi trẻ sinh, chủ hộ, thân nhân, người nuôi dưỡng hoặc hàng xóm phải khai đăng ký khai sinh với cơ quan đăng ký hộ khẩu nơi trẻ thường trú». Đây là thời hạn luật định, không phải lời khuyên. Nhập hộ khẩu là điều kiện trước cho tiêm chủng, vào mẫu giáo, đi học, làm căn cước. Càng để lâu càng cần bổ sung nhiều tài liệu",
+      "grade": "A",
+      "sources": "国务院 (1958). 中华人民共和国户口登记条例（第七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2531969.html>（广东省人民政府转载）",
+      "notes": "Mang đủ giấy chứng sinh y tế, căn cước và sổ hộ khẩu của cả cha mẹ, giấy kết hôn. Có thể chọn nhập theo cha hoặc mẹ, nhưng chính sách hai nơi khác nhau, ảnh hưởng cả khu tuyển sinh và nơi tham gia bảo hiểm. Nghĩ kỹ trước khi đi vì sửa rất phiền. Trẻ sinh ngoài hôn nhân cũng được khai đăng ký khai sinh"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

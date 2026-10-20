@@ -1,0 +1,48 @@
+{
+  "id": "e-26-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "92d5219728d6154a6d14803630527165d30724000cf5534e7bea63a9b86862cb",
+  "status": "outdated",
+  "original": {
+    "number": 11,
+    "title": "选服务器先看停机能不能忍，再看有没有人运维，最后才比价",
+    "fields": {
+      "cost": "主流云厂商的云主机，每月数百到数千元。小服务商的 VPS，每月几十元起。VPS 就是一台虚拟的小服务器。独立服务器托管每年数千元起，而且硬件要自己买",
+      "plain": "三档的差别不在价格，在出事那天你手上有什么。大厂有备案通道，资质公开，坏了有公告、有赔偿条款，能找到人。小服务商便宜一半，可它超售、跑路、被上游封掉的时候，你连找谁都不知道。没有用户数据的静态站，几十元的 VPS 就够用。",
+      "benefit": "三档的差别不在价格，在出事那天你手上有什么。主流云厂商有备案通道，资质是公开的，出故障有公告，合同里有赔偿条款，出了问题能找到人。小服务商价格能低一半，但它超售、跑路、被上游封掉的时候，你没有申诉对象。所以谈价之前先去工信部系统查它有没有增值电信业务经营许可。独立服务器托管只有在两个条件都成立时才合算：带宽或者硬件成本明显更便宜，并且你自己有人做运维。怎么选：没有用户数据的静态站，用最便宜的 VPS 就够。有用户注册和交易的，选能弹性扩容、能快照备份的云主机，备份至少放在两个地方",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；服务商资质与备案的法定要求见本节第 4 条，日志留存 6 个月和等级保护义务见第 11 节第 16 条",
+      "notes": "上面是经验判断，没有文献证据。能真正核查的只有一件事：服务商的许可证。要省钱就在配置和带宽上省，别在资质上省"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Chọn máy chủ: xét khả năng chấp nhận gián đoạn trước, rồi xem có người vận hành không, cuối cùng mới so giá",
+    "fields": {
+      "cost": "Máy chủ đám mây của hãng lớn tốn vài trăm đến vài nghìn nhân dân tệ mỗi tháng. VPS của nhà cung cấp nhỏ từ vài chục mỗi tháng. VPS là máy chủ ảo nhỏ. Thuê chỗ đặt máy chủ riêng từ vài nghìn mỗi năm và phải tự mua phần cứng",
+      "plain": "Khác biệt giữa ba loại không nằm ở giá mà ở chỗ bạn có gì khi sự cố xảy ra. Hãng lớn có kênh đăng ký lưu hồ sơ, giấy phép công khai, thông báo sự cố, điều khoản bồi thường và người để liên hệ. Nhà nhỏ rẻ bằng nửa nhưng nếu bán quá năng lực, bỏ trốn hoặc bị nhà cung cấp tuyến trên chặn thì bạn không biết tìm ai. Website tĩnh không có dữ liệu người dùng chỉ cần VPS vài chục nhân dân tệ.",
+      "benefit": "Khác biệt giữa ba loại không nằm ở giá mà ở chỗ bạn có gì khi sự cố xảy ra. Hãng đám mây lớn có kênh đăng ký, giấy phép công khai, thông báo khi lỗi, điều khoản bồi thường trong hợp đồng và người để liên hệ. Nhà nhỏ có thể rẻ bằng nửa nhưng khi bán quá năng lực, bỏ trốn hoặc bị tuyến trên chặn thì bạn chẳng có ai để khiếu nại. Vì vậy trước khi bàn giá hãy tra hệ thống của Bộ Công nghiệp và Công nghệ thông tin xem họ có giấy phép kinh doanh viễn thông giá trị gia tăng không. Đặt máy chủ riêng chỉ đáng tiền khi đồng thời có hai điều kiện: băng thông hoặc phần cứng rẻ hơn rõ rệt, và bạn có người tự vận hành. Cách chọn: website tĩnh không có dữ liệu người dùng dùng VPS rẻ nhất là đủ. Có đăng ký tài khoản và giao dịch thì chọn máy chủ đám mây mở rộng linh hoạt, sao lưu được bằng ảnh chụp trạng thái; lưu bản sao ở ít nhất hai nơi",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；服务商资质与备案的法定要求见本节第 4 条，日志留存 6 个月和等级保护义务见第 11 节第 16 条",
+      "notes": "Trên đây là nhận định theo kinh nghiệm, không có bằng chứng nghiên cứu. Chỉ một điều thực sự kiểm tra được: giấy phép của nhà cung cấp. Muốn tiết kiệm hãy giảm cấu hình và băng thông, đừng bỏ qua điều kiện pháp lý"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": "## Giấy phép\n\nNội dung phát hành theo [CC BY 4.0](../../LICENSE); đăng lại hoặc cải biên phải ghi nguồn và kèm liên kết bản gốc. Mã nguồn dùng [MIT](../../LICENSE-CODE)."
+  },
+  "pilot": false
+}

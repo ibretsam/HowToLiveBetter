@@ -1,0 +1,49 @@
+{
+  "id": "e-30-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "479db2c70d43de71eb22cc7d5b65cedcca2bcea5bff4191f95ca3a9f27ff1647",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "孩子难管、自己总忍不住打骂，去上一期教具体做法的家长课",
+    "fields": {
+      "cost": "学校、幼儿园办的家长学校和省级以上政府开的网上家长学校，法律写明是公益性的。有证据的那类课每周或隔周上一次，每次一到两小时，从四周到二十四周不等。回家要照着练。难在坚持上完、天天练。",
+      "plain": "孩子本来就难管的，家长上过教具体管法的课，孩子打人、不守规矩的问题少了，家长的情绪也好了。家长打骂孩子也少了，刚上完课时最明显，一两年后还在，但小了很多。上海也试过这类课，有效。",
+      "benefit": "Cochrane 汇总了 13 项试验，其中 10 项是抽签分组的，共 1078 名家长。孩子 3 到 12 岁，都有行为问题。收进来的课每周或隔周一次，每次一到两小时，至少三次。短的连上 4 周，长的连上 24 周。上过课的家长，孩子的行为问题少了。家长自己评是 SMD −0.53（95% CI −0.72 到 −0.34，可信范围），旁人独立评是 −0.44（−0.77 到 −0.11）。SMD 和 d 是同一把尺子，0.5 算中等。家长的心理健康变好，−0.36（−0.52 到 −0.20）。负面或严厉的管法变少，家长自己评 −0.77（−0.96 到 −0.59），旁人评 −0.42（−0.67 到 −0.16）。作者说这些是短期效果。另一篇荟萃筛出 346 项抽签分组的试验，其中 60 项量了打骂孩子这类行为，分布在 22 个国家。打骂在课刚上完时少了，d = −0.46（−0.59 到 −0.33）。1 到 6 个月后是 −0.24（−0.37 到 −0.11）。7 到 24 个月后是 −0.18（−0.34 到 −0.02），越往后越小。这些数据大多是家长自己报的。国内也有试验。上海 81 名家长抽签分组，一部分上 Triple P 小组课。上完课，孩子的适应问题、家长的管法和情绪，都比等着上课的家长好，6 个月后还在。农村一所幼儿园有 191 名带孩子的大人参加，一部分自学网课，再加两次小组讨论。上完两周，他们报告的虐待孩子行为比只发书读的少约 33%（IRR 0.67）。三个月后，孩子的行为问题也少了（d = −0.40）。《家庭教育促进法》要求父母自觉学习家庭教育知识。中小学校、幼儿园可以办家长学校，定期组织公益性的家庭教育指导。居委会、村委会可以办社区家长学校。省级以上政府要开公益性的网上家长学校和服务热线。家庭教育指导机构不得组织营利性培训（全国，2022 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "Furlong M, McGilloway S, Bywater T, Hutchings J, Smith SM, Donnelly M. (2012). Behavioural and cognitive-behavioural group-based parenting programmes for early-onset conduct problems in children aged 3 to 12 years. Cochrane Database of Systematic Reviews, (2), CD008225. <https://doi.org/10.1002/14651858.CD008225.pub2>；Backhaus S, Leijten P, Jochim J, Melendez-Torres GJ, Gardner F. (2023). Effects over time of parenting interventions to reduce physical and emotional violence against children: a systematic review and meta-analysis. eClinicalMedicine, 60, 102003. <https://doi.org/10.1016/j.eclinm.2023.102003>；Guo M, Morawska A, Sanders MR. (2016). A Randomized Controlled Trial of Group Triple P With Chinese Parents in Mainland China. Behavior Modification, 40(6), 825–851. <https://doi.org/10.1177/0145445516644221>；Wang W, Zhang H. (2026). A self-directed parenting program to reduce the risk of child maltreatment in rural China: A cluster randomized controlled trial. Child Abuse & Neglect, 173, 107937. <https://doi.org/10.1016/j.chiabu.2026.107937>；全国人大常委会 (2021). 家庭教育促进法（第十八、二十五、三十一、三十八、四十条）. <https://flk.npc.gov.cn/detail?id=ff8081817cac3b2d017cac5a6c6f0109>",
+      "notes": "给 A 是因为有 Cochrane 和多项抽签试验合并出来的数字。试验里的课有几个共同点。带课的人教具体做法，比如陪孩子玩、夸奖、奖励和管教。家长在课上练习、演练，回家还有作业。只发资料或者只讨论的课被排除在外，所以证据管不到只听一场讲座的那种。国内公益家长学校讲什么、怎么讲，各地不一样，未必是这一类。挑课时看它是不是连上几周、让你练具体做法。两篇荟萃收进的试验里，常见的课名有 Triple P、Incredible Years。本书不推荐具体机构和收费产品。打骂少了的效果一两年后变小，课上完还得接着练。受益人是孩子，也是你自己。孩子已经有严重的情绪问题，带去精神科或儿童心理科，见本节第 8 条（抑郁筛查）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿,孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Con khó dạy, bản thân không nhịn được đánh mắng thì tham gia một khóa cha mẹ dạy cách làm cụ thể",
+    "fields": {
+      "cost": "Lớp cha mẹ của trường, mẫu giáo, cộng đồng phục vụ cộng đồng, không thu phí. Loại có bằng chứng học mỗi tuần hoặc cách tuần, mỗi lần một đến hai giờ, kéo dài bốn đến hai mươi bốn tuần. Về nhà phải luyện theo. Khó là học hết và luyện hằng ngày.",
+      "plain": "Trong thử nghiệm phân ngẫu nhiên, lớp dạy cách quản lý cụ thể giúp trẻ bớt đánh người, vi phạm quy tắc, tâm trạng cha mẹ tốt hơn. Cha mẹ cũng bớt đánh mắng, rõ nhất ngay sau khóa; một hai năm sau còn nhưng nhỏ hơn nhiều. Thượng Hải cũng thử loại lớp này và có hiệu quả.",
+      "benefit": "Cochrane gộp 13 thử nghiệm, 10 phân ngẫu nhiên, 1078 phụ huynh. Trẻ 3 đến 12 tuổi đều có vấn đề hành vi. Sau cha mẹ học, hành vi trẻ giảm: cha mẹ tự đánh giá SMD −0.53 (95% CI −0.72 đến −0.34, khoảng tin cậy), người ngoài độc lập −0.44 (−0.77 đến −0.11). SMD và d dùng cùng một thang đo, 0.5 là vừa. Sức khỏe tâm lý cha mẹ tốt hơn, −0.36 (−0.52 đến −0.20). Cách dạy tiêu cực, hà khắc giảm: tự đánh giá −0.77 (−0.96 đến −0.59), người ngoài −0.42 (−0.67 đến −0.16). Tác giả nói đây là hiệu quả ngắn hạn. Phân tích khác sàng 346 thử nghiệm ngẫu nhiên, 60 đo đánh mắng trẻ, ở 22 nước. Ngay sau khóa giảm d = −0.46 (−0.59 đến −0.33); sau 1 đến 6 tháng −0.24 (−0.37 đến −0.11); sau 7 đến 24 tháng −0.18 (−0.34 đến −0.02), càng lâu càng nhỏ. Đa số dữ liệu cha mẹ tự báo. Trong nước cũng có: Thượng Hải phân ngẫu nhiên 81 phụ huynh, một nhóm học Triple P. Sau khóa, thích nghi trẻ, cách dạy, tâm trạng cha mẹ tốt hơn nhóm chờ, sau 6 tháng vẫn còn. Một mẫu giáo nông thôn có 191 người chăm trẻ, một nhóm tự học online cộng hai buổi thảo luận. Hai tuần sau khóa, hành vi ngược đãi tự báo ít hơn khoảng 33% so với chỉ phát sách (IRR 0.67). Ba tháng sau vấn đề hành vi trẻ cũng giảm (d = −0.40). «Luật thúc đẩy giáo dục gia đình» yêu cầu cha mẹ chủ động học kiến thức giáo dục. Trường phổ thông, mẫu giáo được mở lớp cha mẹ, tổ chức hướng dẫn công ích định kỳ; ủy ban cư dân, thôn được mở lớp cộng đồng. Chính quyền từ cấp tỉnh phải có lớp cha mẹ online công ích và hotline. Tổ chức hướng dẫn giáo dục gia đình không được tổ chức đào tạo vì lợi nhuận (toàn quốc, hiệu lực ngày 1 tháng 1 năm 2022)",
+      "grade": "A",
+      "sources": "Furlong M, McGilloway S, Bywater T, Hutchings J, Smith SM, Donnelly M. (2012). Behavioural and cognitive-behavioural group-based parenting programmes for early-onset conduct problems in children aged 3 to 12 years. Cochrane Database of Systematic Reviews, (2), CD008225. <https://doi.org/10.1002/14651858.CD008225.pub2>；Backhaus S, Leijten P, Jochim J, Melendez-Torres GJ, Gardner F. (2023). Effects over time of parenting interventions to reduce physical and emotional violence against children: a systematic review and meta-analysis. eClinicalMedicine, 60, 102003. <https://doi.org/10.1016/j.eclinm.2023.102003>；Guo M, Morawska A, Sanders MR. (2016). A Randomized Controlled Trial of Group Triple P With Chinese Parents in Mainland China. Behavior Modification, 40(6), 825–851. <https://doi.org/10.1177/0145445516644221>；Wang W, Zhang H. (2026). A self-directed parenting program to reduce the risk of child maltreatment in rural China: A cluster randomized controlled trial. Child Abuse & Neglect, 173, 107937. <https://doi.org/10.1016/j.chiabu.2026.107937>；全国人大常委会 (2021). 家庭教育促进法（第十八、二十五、三十一、三十八、四十条）. <https://flk.npc.gov.cn/detail?id=ff8081817cac3b2d017cac5a6c6f0109>",
+      "notes": "Xếp A vì có Cochrane và số gộp nhiều thử nghiệm ngẫu nhiên. Các khóa có điểm chung: người hướng dẫn dạy cách cụ thể như chơi cùng con, khen, thưởng, kỷ luật; phụ huynh luyện, đóng vai trên lớp, có bài về nhà. Khóa chỉ phát tài liệu hoặc thảo luận bị loại nên bằng chứng không áp cho chỉ nghe một buổi nói chuyện. Lớp công ích trong nước dạy gì, thế nào tùy nơi, chưa chắc thuộc loại này. Chọn lớp xem có học liên tiếp vài tuần, luyện kỹ năng cụ thể không. Tên thường gặp Triple P, Incredible Years, trị liệu tương tác cha mẹ-con (PCIT). Sách không giới thiệu cơ sở hoặc sản phẩm thu phí cụ thể. Hiệu quả giảm đánh mắng nhỏ đi sau một hai năm, học xong vẫn phải luyện. Người hưởng lợi là trẻ và bạn. Trẻ đã có vấn đề cảm xúc nghiêm trọng thì khám tâm thần hoặc tâm lý trẻ em, xem mục 8 chương này (sàng lọc trầm cảm)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

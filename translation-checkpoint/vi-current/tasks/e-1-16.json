@@ -1,0 +1,49 @@
+{
+  "id": "e-1-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "d684d54d9959ef7f048f7f52086e5e610c4ce61c0c235fce6c5c98f2d0df0325",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "女性接种 HPV 疫苗，越早越好",
+    "fields": {
+      "cost": "国产二价约 300 多元一针，进口九价约 1300 元一针。一共打 2 到 3 针。每次跑一趟，半天。",
+      "plain": "瑞典跟踪了 167 万女性。17 岁以前打过 HPV 疫苗的人，后来得浸润性宫颈癌的概率只有没打的约八分之一。17 到 30 岁才打的，也只有一半左右。所以越早打越值。",
+      "benefit": "瑞典跟踪了 167 万名女性做统计：打过疫苗的人，浸润性宫颈癌的发病率比没打的低。17 岁以前接种的低约 88%（IRR 0.12，95% CI 0.00 到 0.34，括号里是原值和它的可信范围）。17 到 30 岁接种的低约 53%（IRR 0.47，95% CI 0.27 到 0.75）。世界卫生组织把 9 到 14 岁、还没有性生活的女孩定为优先接种对象",
+      "grade": "A",
+      "sources": "Lei J 等 (2020). HPV Vaccination and the Risk of Invasive Cervical Cancer. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa1917338>；WHO. Cervical cancer fact sheet：「HPV vaccination is a priority for all girls aged 9–14 years, before they become sexually active.」<https://www.who.int/news-room/fact-sheets/detail/cervical-cancer>",
+      "notes": "世界卫生组织优先给 9 到 14 岁、还没有性生活的女孩打。17 到 30 岁打，还有一半以上的下降。瑞典那项研究只看到 30 岁，30 岁以后打能降多少，它没有数字。打过疫苗也还是要做宫颈癌筛查，疫苗替代不了筛查，见第 18 条（30 岁以上女性做宫颈癌筛查）。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "女性,孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Phụ nữ hãy tiêm vắc xin HPV càng sớm càng tốt",
+    "fields": {
+      "cost": "Vắc xin hai giá sản xuất trong nước hơn 300 nhân dân tệ/mũi, chín giá nhập khẩu khoảng 1300/mũi. Tổng 2 đến 3 mũi; mỗi lần đi mất nửa ngày.",
+      "plain": "Dữ liệu 167 vạn phụ nữ Thụy Điển: tiêm HPV trước 17 tuổi thì nguy cơ ung thư cổ tử cung xâm lấn về sau chỉ khoảng một phần tám người chưa tiêm. Tiêm ở 17 đến 30 tuổi vẫn chỉ khoảng một nửa. Vì vậy càng sớm càng đáng.",
+      "benefit": "Theo dõi 167 vạn phụ nữ Thụy Điển cho thấy nhóm tiêm ít mắc ung thư cổ tử cung xâm lấn hơn. Tiêm trước 17 tuổi thấp khoảng 88% (IRR 0.12, 95% CI 0.00 đến 0.34; trong ngoặc là giá trị gốc, khoảng tin cậy). Tiêm tuổi 17 đến 30 thấp khoảng 53% (IRR 0.47, 95% CI 0.27 đến 0.75)",
+      "grade": "A",
+      "sources": "Lei J 等 (2020). HPV Vaccination and the Risk of Invasive Cervical Cancer. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa1917338>",
+      "notes": "Tiêm ở 9 đến 14 tuổi lợi ích lớn nhất. Tuổi 17 đến 30 vẫn giảm hơn một nửa; sau 30 lợi ích nhỏ dần. Đã tiêm vẫn cần sàng lọc cổ tử cung, vắc xin không thay sàng lọc, xem mục 18 (phụ nữ từ 30 tuổi trở lên sàng lọc ung thư cổ tử cung)."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

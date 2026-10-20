@@ -1,0 +1,48 @@
+{
+  "id": "e-13-30",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "e3b1102788dc49d44e70637b4112f1f07c390d3d25f90726df30d33046a13113",
+  "status": "outdated",
+  "original": {
+    "number": 30,
+    "title": "地震时先看自己在什么房子里：符合抗震设防的楼里就地躲，会垮的老房子门在几步外就出去",
+    "fields": {
+      "cost": "不花钱。提前看一眼自己家出门要几步、走哪条路、哪张桌子结实。",
+      "plain": "先看自己在什么房子里。按抗震规范建的楼，要下楼梯、穿门厅才能出去的，就地躲：护住头颈钻到结实桌子下面，抓牢桌腿。平房、老砖房、没抗震设防的自建房，门就在几步外，出去。任何情况都不跳楼、不坐电梯、不在摇晃中下楼梯。",
+      "benefit": "中国地震局科普片《地震来了，是躲还是跑？》的口诀是「震时就近躲避，震后迅速撤离」，并明确限定「这里指的是在符合抗震设防要求的建筑内」。理由是这类建筑「整体垮塌的可能性较小」。原文说「坠落的建筑构件及装饰物品」「才是对生命安全最大的威胁」。而「震时无保护措施的盲目乱跑」「反而容易被坠落的天花板、吊灯（扇）等物品砸伤」。躲的做法是「用手或者其他软物保护好头颈部」「并牢牢地抓住桌腿」；没有桌子就「迅速贴紧承重墙蹲伏」「避开外墙、窗户、阳台」。「如果在户外」则「应该第一时间疏散到空旷的地方避震」。反过来看，1988 年亚美尼亚地震是苏联式预制板楼成片垮塌。那次的病例对照研究写着，「第一下震动之后离开建筑是保护性行为」。待在室内的人受伤的可能性，是跑出去的 4.40 倍（比值比 4.40），95% CI 2.24–8.71（可信范围）。在建筑里受伤的可能性，是在室外的 12.20 倍（3.62–63.79）。在 5 层以上的楼里，是在更矮的楼里的 3.65 倍（2.12–6.33）。应急管理部的地震科普写明：「住在砖混老楼里面的人应更主动地寻找机会，迅速撤离」。住平房的，「若正处在门边、窗边，且窗外无其它危险建筑，可立即逃到院子中间空地上」。地震时「千万不能使用电梯」，住一、二层「也不要选择跳楼逃生」，在高层「注意不要下楼」。到了户外，要避开有玻璃幕墙的楼、立交桥、电线杆、路灯和广告牌",
+      "grade": "B",
+      "sources": "中国地震局（安徽省地震局制作）. 地震来了，是躲还是跑？（科普视频，字幕转录）. <https://www.cea.gov.cn/cea/dzpd/dzcs/5537260/index.html>；Armenian HK, Noji EK, Oganesian AP (1992). A case-control study of injuries arising from the earthquake in Armenia, 1988. Bulletin of the World Health Organization, 70(2), 251-257. <https://europepmc.org/article/MED/1600585>；US FEMA Ready.gov. Earthquakes. <https://www.ready.gov/earthquakes>；Mahue-Giangreco M, Mack W, Seligson H, Bourque LB (2001). Risk factors associated with moderate and serious injuries attributable to the 1994 Northridge Earthquake. Annals of Epidemiology, 11(5), 347-357. <https://doi.org/10.1016/s1047-2797(01)00220-4>；应急管理部 (2019). 地震自救手册，关键时刻能救命！ <https://www.mem.gov.cn/kp/zrzh/201904/t20190401_366172.shtml>；应急管理部 (2019). 地震避险自救互救常识：「千万不可在慌乱中跳楼」「避开高大建筑物或构筑物：楼房，特别是有玻璃幕墙的建筑 ; 过街桥、立交桥」「避开危险物、高耸或悬挂物：变压器、电线杆、路灯、广告牌、吊车等」. <https://www.mem.gov.cn/kp/zrzh/201902/t20190226_366163.shtml>；应急管理部 (2019). 不同场所遭遇地震如何应对：「如在高层注意不要下楼」. <https://www.mem.gov.cn/kp/zrzh/201903/t20190328_366164.shtml>",
+      "notes": "争议，两种结论针对的是两种房子。中国地震局自己也把「躲」的前提写成了「符合抗震设防要求的建筑内」。它还要求「因地制宜」「因人而异」，一起看楼抗不抗震、你人在哪个位置、自己跑不跑得动。亚美尼亚那批楼整栋垮塌，躲无处可躲，出去才占优。美国 FEMA 对本国住宅给的是「就地趴下、护住头颈、抓牢，不要往外跑」，那里的伤主要来自坠物和摇晃中移动摔倒。Northridge 的研究还提示，伸手去接东西、扶住「看起来稳」的东西会加重受伤。所以光问「跑不跑」没用，要判断「这栋楼会不会垮、你几秒内能不能到空地」。符合抗震设防要求的楼房，需要下楼梯或者穿门厅的，就地躲。以 2001 年以后按规范建的楼来认，是作者给的粗略划法，官方原文只说「符合抗震设防要求」。平房、老旧砖房、无抗震设防的自建房，门就在几步外，出去。亚美尼亚这项研究只比了幸存者中受伤与未受伤的，没把遇难者算进去，也没说明有没有把楼层高低的影响扣掉。能跑出去的人本来就可能住在低层，数字要打折看。任何情况下都不跳楼、不坐电梯、不在摇晃中下楼梯。到室外要远离高大建筑、立交桥、电线杆、玻璃幕墙和广告牌。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 30,
+    "title": "Khi động đất, trước hết xem mình đang ở trong loại nhà nào: trong nhà đạt chuẩn kháng chấn thì trú ngay tại chỗ; ở nhà cũ có thể sập mà cửa chỉ cách vài bước thì chạy ra ngoài",
+    "fields": {
+      "cost": "Không tốn tiền. Xem trước từ nhà mình ra đến cửa mất mấy bước, đi đường nào, cái bàn nào chắc chắn.",
+      "plain": "Trước hết xem mình đang ở trong loại nhà nào. Nhà xây theo đúng quy chuẩn sau năm 2001, mà muốn ra ngoài phải xuống cầu thang, đi qua sảnh, thì trú ngay tại chỗ: che chắn đầu và cổ, chui xuống gầm bàn chắc chắn, nắm chặt chân bàn. Nhà một tầng, nhà gạch cũ, nhà tự xây không có thiết kế kháng chấn, cửa chỉ cách vài bước, thì chạy ra ngoài. Trong mọi trường hợp: không nhảy lầu, không đi thang máy, không xuống cầu thang khi đang rung.",
+      "benefit": "Phim phổ biến kiến thức “Động đất đến, nên trú hay nên chạy?” của Cục Địa chấn Trung Quốc có câu khẩu quyết “khi rung thì trú ở chỗ gần nhất, rung xong thì nhanh chóng rút ra”, và giới hạn rõ “ở đây là nói trong công trình đáp ứng yêu cầu thiết kế kháng chấn”. Lý do là loại công trình này “ít có khả năng sập toàn bộ”. Nguyên văn nói “cấu kiện công trình và đồ trang trí rơi xuống” “mới là mối đe dọa lớn nhất đối với tính mạng”. Còn “chạy mù quáng khi đang rung mà không có biện pháp bảo vệ” thì “ngược lại dễ bị trần nhà, đèn chùm (quạt trần) và các vật khác rơi trúng”. Cách trú là “dùng tay hoặc vật mềm khác bảo vệ đầu và cổ” “và nắm chặt chân bàn”; không có bàn thì “nhanh chóng ngồi thụp sát vào tường chịu lực” “tránh xa tường ngoài, cửa sổ, ban công”. “Nếu đang ở ngoài trời” thì “nên lập tức sơ tán đến chỗ trống trải để tránh động đất”. Nhìn từ chiều ngược lại, trận động đất Armenia năm 1988 làm sập hàng loạt nhà panel lắp ghép kiểu Liên Xô. Nghiên cứu bệnh-chứng về trận đó ghi: “rời khỏi tòa nhà sau đợt rung đầu tiên là hành vi bảo vệ”. Khả năng bị thương của người ở lại trong nhà gấp 4.40 lần người chạy ra ngoài (tỷ số odds 4.40), 95% CI 2.24–8.71 (khoảng tin cậy). Khả năng bị thương khi ở trong tòa nhà gấp 12.20 lần khi ở ngoài trời (3.62–63.79). Ở trong tòa nhà từ 5 tầng trở lên thì gấp 3.65 lần so với tòa nhà thấp hơn (2.12–6.33).",
+      "grade": "B",
+      "sources": "中国地震局（安徽省地震局制作）. 地震来了，是躲还是跑？（科普视频，字幕转录）. <https://www.cea.gov.cn/cea/dzpd/dzcs/5537260/index.html>；Armenian HK, Noji EK, Oganesian AP (1992). A case-control study of injuries arising from the earthquake in Armenia, 1988. Bulletin of the World Health Organization, 70(2), 251-257. <https://europepmc.org/article/MED/1600585>；US FEMA Ready.gov. Earthquakes. <https://www.ready.gov/earthquakes>；Mahue-Giangreco M, Mack W, Seligson H, Bourque LB (2001). Risk factors associated with moderate and serious injuries attributable to the 1994 Northridge Earthquake. Annals of Epidemiology, 11(5), 347-357. <https://doi.org/10.1016/s1047-2797(01)00220-4>",
+      "notes": "Có tranh luận, nhưng hai kết luận nhắm vào hai loại nhà khác nhau. Chính Cục Địa chấn Trung Quốc cũng đặt điều kiện tiên quyết của việc “trú” là “trong công trình đáp ứng yêu cầu thiết kế kháng chấn”. Cục còn yêu cầu “tùy điều kiện từng nơi”, “tùy từng người”, xét chung cả việc tòa nhà có kháng chấn hay không, bạn đang ở vị trí nào, bản thân có chạy được hay không. Những tòa nhà ở Armenia sập toàn bộ, muốn trú cũng không có chỗ trú, nên chạy ra ngoài mới có lợi. FEMA Mỹ khuyên với nhà ở trong nước họ là “nằm xuống tại chỗ, che đầu cổ, bám chắc, đừng chạy ra ngoài”, vì ở đó thương tích chủ yếu do vật rơi và do di chuyển khi đang rung rồi ngã. Nghiên cứu về trận Northridge còn gợi ý rằng với tay đỡ đồ vật, bám vào thứ “trông có vẻ chắc” sẽ làm thương tích nặng hơn. Vì vậy chỉ hỏi “có chạy hay không” thì vô ích, mà phải phán đoán “tòa nhà này có sập không, trong vài giây bạn có ra được chỗ trống không”. Nhà xây theo đúng quy chuẩn sau năm 2001, cần xuống cầu thang hoặc đi qua sảnh mới ra được, thì trú tại chỗ. Nhà một tầng, nhà gạch cũ, nhà tự xây không có thiết kế kháng chấn, cửa chỉ cách vài bước, thì chạy ra ngoài. Nghiên cứu Armenia chỉ so sánh người bị thương và không bị thương trong số người sống sót, không tính người thiệt mạng, cũng không nói rõ đã loại trừ ảnh hưởng của tầng cao thấp hay chưa. Người chạy ra được vốn có thể ở tầng thấp, nên khi xem con số cần trừ hao. Trong mọi trường hợp: không nhảy lầu, không đi thang máy, không xuống cầu thang khi đang rung. Ra ngoài trời thì tránh xa nhà cao tầng, cầu vượt, cột điện, tường kính và biển quảng cáo."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

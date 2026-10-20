@@ -1,0 +1,48 @@
+{
+  "id": "e-5-38",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "20cbaff4f3a20266341eb55d3f668951e0bc1f57734431785910e968f2bb9d42",
+  "status": "outdated",
+  "original": {
+    "number": 38,
+    "title": "想买美股这类海外资产，走 QDII 基金或港股通，别去境外券商开户，也别拿每年的换汇额度去买",
+    "fields": {
+      "cost": "不花钱。在自己的银行或证券 App 里就能买 QDII 基金，几分钟。代价是能买的品种比境外券商少。",
+      "plain": "老虎、富途、长桥这类境外券商，2026 年 5 月起不许再给境内的人开户。已经开了的，两年内只能卖出、把钱转出来，不能再买。换汇额度也不许拿去买境外股票，违规的当年和之后 2 年都不能再用这个额度。想买海外资产，走 QDII 基金或港股通。",
+      "benefit": "2026 年 5 月 22 日，证监会、工业和信息化部、公安部、中国人民银行、市场监管总局、金融监管总局、国家网信办、国家外汇局八个部门印发《综合整治非法跨境证券期货基金经营活动实施方案》。总体要求是「经过2年集中整治，全面取缔境外证券期货基金经营机构非法跨境经营活动」。境外机构不得在境内开展营销招揽，不得「提供相关开户、处理交易指令、资金划转等交易服务」。对已经开了户的人，方案写的是「禁止境外机构为存量投资者在境内非法提供买入交易、转入资金等服务，只允许单向卖出交易并转出资金」。两年期满后，「全面关停境内网站、交易软件及配套服务器」。同一天证监会通报，拟没收老虎、富途、长桥境内外相关主体全部违法所得，并依法严厉处罚。配套的答记者问写明，要「引导境内投资者通过港股通、合格境内机构投资者（QDII）及跨境理财通等合法渠道开展境外投资」。换汇这头，国家外汇局的《个人购汇申请书》写明，个人购汇「不得用于境外买房、证券投资、购买人寿保险和投资性返还分红类保险等尚未开放的资本项目」。违规的人列入「关注名单」，「当年及之后连续 2 年不享有个人便利化额度」，还会被行政处罚、移送反洗钱调查，信息纳入个人征信记录（全国，2026 年 5 月起）",
+      "grade": "A",
+      "sources": "中国证监会 (2026-05-22). 中国证监会等八部门联合印发《综合整治非法跨境证券期货基金经营活动实施方案》. <https://www.csrc.gov.cn/csrc/c100028/c7634324/content.shtml>；中国证监会 (2026-05-22). 中国证监会有关部门负责人就《综合整治非法跨境证券期货基金经营活动实施方案》答记者问. <https://www.csrc.gov.cn/csrc/c100028/c7634328/content.shtml>；中国证监会 (2026-05-22). 证监会严肃查处老虎等机构非法跨境展业案件. <https://www.csrc.gov.cn/csrc/c100028/c7634330/content.shtml>；国家外汇管理局 (2021). 个人购汇申请书（附件 1）. <https://www.safe.gov.cn/safe/file/file/20210402/30fab7a9646f417ca9d2f67ff4c1e5f0.pdf>",
+      "notes": "这几份文件管的是境外机构，没有写对投资者本人的处罚。已经在境外券商有账户的，两年内卖出、把钱转回来即可。三条合法渠道各有开通条件，先在自己的银行或券商问清楚。美股过去涨得多，不代表以后也会。买 QDII 同样按第 17 条（宽基指数基金）和第 19 条（别把钱押在一只股票、一个平台、一套房上）的办法。挑宽基指数，别押在单一市场上。境外取现另有额度，见第 21 节第 6 条（境外取现）。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 38,
+    "title": "Muốn mua tài sản nước ngoài như cổ phiếu Mỹ, dùng quỹ QDII hoặc Stock Connect Hồng Kông; đừng mở tài khoản môi giới nước ngoài, cũng đừng dùng hạn mức đổi ngoại tệ hằng năm để mua",
+    "fields": {
+      "cost": "Không tốn tiền. Mua quỹ QDII ngay trong ứng dụng ngân hàng hoặc chứng khoán của mình, mất vài phút. Đổi lại lựa chọn ít hơn nhà môi giới nước ngoài.",
+      "plain": "Từ tháng 5 năm 2026, nhà môi giới nước ngoài như Tiger, Futu, Longbridge không được mở tài khoản mới cho người trong nước. Tài khoản đã mở trong hai năm chỉ được bán và chuyển tiền ra, không mua thêm. Cũng không được dùng hạn mức đổi ngoại tệ mua cổ phiếu nước ngoài; vi phạm sẽ mất hạn mức trong năm đó và 2 năm tiếp theo. Muốn mua tài sản nước ngoài hãy qua QDII hoặc Stock Connect Hồng Kông.",
+      "benefit": "Ngày 22 tháng 5 năm 2026, tám cơ quan gồm Ủy ban Chứng khoán, Bộ Công nghiệp và Công nghệ thông tin, Bộ Công an, Ngân hàng Nhân dân Trung Quốc, Tổng cục Quản lý thị trường, Tổng cục Quản lý tài chính, Cơ quan Không gian mạng và Cục Ngoại hối ban hành “Phương án triển khai chấn chỉnh tổng hợp hoạt động kinh doanh chứng khoán, hợp đồng tương lai, quỹ xuyên biên giới trái phép”. Yêu cầu tổng thể là “sau 2 năm chấn chỉnh tập trung, triệt bỏ hoàn toàn hoạt động xuyên biên giới trái phép của tổ chức chứng khoán, tương lai, quỹ nước ngoài”. Tổ chức nước ngoài không được tiếp thị thu hút trong nước, không được “cung cấp dịch vụ mở tài khoản, xử lý lệnh giao dịch, chuyển vốn liên quan”. Với người đã mở, “cấm tổ chức nước ngoài cung cấp trái phép trong nước dịch vụ mua, chuyển vốn vào cho nhà đầu tư hiện hữu; chỉ cho phép bán một chiều và chuyển vốn ra”. Sau hai năm, “đóng toàn bộ website, phần mềm giao dịch và máy chủ hỗ trợ trong nước”. Cùng ngày, Ủy ban Chứng khoán thông báo dự kiến tịch thu toàn bộ thu nhập bất hợp pháp của các chủ thể liên quan trong và ngoài nước thuộc Tiger, Futu, Longbridge và xử phạt nghiêm. Phần trả lời báo chí nêu phải “hướng dẫn nhà đầu tư trong nước đầu tư ra ngoài qua kênh hợp pháp như Stock Connect Hồng Kông, nhà đầu tư tổ chức trong nước đủ điều kiện (QDII), Wealth Management Connect xuyên biên giới”. Về đổi ngoại tệ, “Đơn mua ngoại tệ cá nhân” của Cục Ngoại hối nêu không được dùng để mua nhà, đầu tư chứng khoán, mua bảo hiểm nhân thọ và bảo hiểm đầu tư hoàn tiền chia lãi ở nước ngoài cùng các hạng mục vốn chưa mở. Người vi phạm vào “danh sách theo dõi”, “không được hưởng hạn mức thuận tiện cá nhân trong năm đó và 2 năm liên tiếp sau”, còn bị xử phạt hành chính, chuyển điều tra chống rửa tiền và ghi vào hồ sơ tín dụng cá nhân (toàn quốc, từ tháng 5 năm 2026).",
+      "grade": "A",
+      "sources": "中国证监会 (2026-05-22). 中国证监会等八部门联合印发《综合整治非法跨境证券期货基金经营活动实施方案》. <https://www.csrc.gov.cn/csrc/c100028/c7634324/content.shtml>；中国证监会 (2026-05-22). 中国证监会有关部门负责人就《综合整治非法跨境证券期货基金经营活动实施方案》答记者问. <https://www.csrc.gov.cn/csrc/c100028/c7634328/content.shtml>；中国证监会 (2026-05-22). 证监会严肃查处老虎等机构非法跨境展业案件. <https://www.csrc.gov.cn/csrc/c100028/c7634330/content.shtml>；国家外汇管理局 (2021). 个人购汇申请书（附件 1）. <https://www.safe.gov.cn/safe/file/file/20210402/30fab7a9646f417ca9d2f67ff4c1e5f0.pdf>",
+      "notes": "Các văn bản này điều chỉnh tổ chức nước ngoài, không ghi hình phạt cho chính nhà đầu tư. Đã có tài khoản thì trong hai năm bán và chuyển tiền về. Ba kênh hợp pháp có điều kiện mở riêng, hãy hỏi ngân hàng hoặc công ty chứng khoán của mình. Cổ phiếu Mỹ từng tăng nhiều không nghĩa sau này cũng vậy. Mua QDII vẫn theo mục 17 (quỹ chỉ số thị trường rộng) và 19 (không dồn tiền vào một cổ phiếu, nền tảng, căn nhà): chọn chỉ số rộng, đừng đặt hết vào một thị trường. Rút tiền mặt nước ngoài có hạn mức riêng, xem chương 21 mục 6. Không phải lời khuyên đầu tư."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

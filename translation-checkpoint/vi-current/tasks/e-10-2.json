@@ -1,0 +1,48 @@
+{
+  "id": "e-10-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "5e4fa7d184943e2f2df7a9a4b5d94bb40224e29406b818589ac97a0f08fe3e56",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "对方明确拒绝之后就停下，继续纠缠是治安违法，不是「诚意」",
+    "fields": {
+      "cost": "不花钱，也不花时间。难在忍住：不再发消息，不再去等人。",
+      "plain": "对方明确说了拒绝，你还反复发消息、去等人，干扰到对方正常生活的，2026 年 1 月起就是治安违法。可以拘留 5 日以下，或者罚 1000 元以下。情节较重的拘留 5 到 10 日。公安还可以下令禁止你接触对方，违反了再拘留 5 到 10 日。",
+      "benefit": "2026 年 1 月 1 日起施行的治安管理处罚法，把纠缠、跟踪单列成一项。条文写的是「多次发送淫秽、侮辱、恐吓等信息或者采取滋扰、纠缠、跟踪等方法，干扰他人正常生活的」。这种行为处五日以下拘留，或者一千元以下罚款。情节较重的，处五日以上十日以下拘留，可以并处一千元以下罚款。这一项还多一层：经公安机关负责人批准，可以责令行为人在一定期限内禁止接触被侵害人。违反禁止接触规定的，再处五日以上十日以下拘留",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025 修订). 治安管理处罚法（第五十条第一款第五项、第二款，第一百三十六条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>（最高人民检察院转载）",
+      "notes": "「死追到底会感动对方」没有任何研究支持，但拘留和禁止接触令是白纸黑字的。这类违法记录要封存，不向一般单位和个人提供或者公开，但有关单位按国家规定可以查询。法条看的是你有没有多次滋扰、纠缠、跟踪，干扰到对方正常生活，不看你怎么想。对方明确说过拒绝还接着来，是最容易被认定为干扰的情形，这一句是作者的判断"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Đối phương từ chối rõ thì dừng; tiếp tục đeo bám là vi phạm trị an, không phải “thành ý”",
+    "fields": {
+      "cost": "Không tốn tiền, thời gian. Khó ở việc nhịn: không nhắn nữa, không đến chờ nữa.",
+      "plain": "Đối phương từ chối rõ mà bạn vẫn nhắn, đến chờ, từ tháng 1 năm 2026 là vi phạm trị an. Có thể tạm giữ đến 5 ngày hoặc phạt đến 1000 nhân dân tệ; nặng hơn 5 đến 10 ngày. Công an còn có thể cấm tiếp xúc, vi phạm lại bị 5 đến 10 ngày.",
+      "benefit": "Luật Xử phạt quản lý trị an hiệu lực ngày 1 tháng 1 năm 2026 tách đeo bám, theo dõi thành một mục. Điều luật viết “nhiều lần gửi tin đồi trụy, làm nhục, đe dọa hoặc dùng quấy nhiễu, đeo bám, theo dõi làm ảnh hưởng đời sống bình thường người khác”. Tạm giữ đến năm ngày hoặc phạt đến một nghìn nhân dân tệ. Nặng hơn từ năm đến mười ngày, có thể thêm đến một nghìn nhân dân tệ. Còn một lớp: được người phụ trách công an duyệt thì có thể cấm người thực hiện tiếp xúc nạn nhân trong thời hạn nhất định. Vi phạm cấm tiếp xúc lại bị từ năm đến mười ngày.",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025 修订). 治安管理处罚法（第五十条第一款第五项、第二款）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>（最高人民检察院转载）",
+      "notes": "Không có nghiên cứu nào ủng hộ “theo đến cùng sẽ làm họ cảm động”, nhưng tạm giữ và lệnh cấm tiếp xúc được ghi rõ. Hồ sơ còn ảnh hưởng thi công chức, viên chức, thẩm tra chính trị và điều kiện một số nghề. Ranh giới theo đuổi và quấy rối không tùy bạn nghĩ gì, mà tùy họ đã từ chối rõ chưa."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

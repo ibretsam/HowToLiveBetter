@@ -1,0 +1,48 @@
+{
+  "id": "e-12-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "cf3da4928d4381187ac6426841bd90e848df1ba869978d7c44814ea1c5e246b8",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "不当挂名股东，不替人代持股权",
+    "fields": {
+      "cost": "不花钱。有人来说「借你身份证挂个股东」「股份先放你名下」，一律回绝。",
+      "plain": "名字登记在册，你在法律上就是股东。注册时答应出的钱要按期交齐，交不上除了补交还要赔公司的损失。公司开办时别的股东没真把钱交进来，缺多少你也跟着还多少。生意是别人做的，债记在你名下。",
+      "benefit": "登记在册的股东，就是法律上的股东。你要按公司章程定的期限，把答应出的钱一分不少地交进去（足额缴纳认缴出资）。没按期交的，除了补交还要赔公司的损失。公司开办时有股东没把钱真交进来的，开办时的其他股东在这个缺口里跟着一起还（承担连带责任）。公司还不上到期的债时，债主可以要求还没到期限的那笔钱提前交。真正做生意的人不在登记上，债却记在你名下（全国，2024 年 7 月起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2023). 公司法（2023 年修订，第四十七、四十九、五十、五十四条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>；最高人民法院 (2020 修正). 关于适用《中华人民共和国公司法》若干问题的规定（三）（法释〔2011〕3 号，2014 年法释〔2014〕2 号、2020 年法释〔2020〕18 号两次修正，第二十四、二十五条）：「如无法律规定的无效情形，人民法院应当认定该合同有效」「实际出资人未经公司其他股东半数以上同意，请求公司变更股东……人民法院不予支持」「名义股东处分股权造成实际出资人损失，实际出资人请求名义股东承担赔偿责任的，人民法院应予支持」. <https://flk.npc.gov.cn/detail?id=ff808181799def980179ac07a9ca117c>（国家法律法规数据库）；最高人民法院 (2025). 关于适用《中华人民共和国公司法》若干问题的解释（征求意见稿）第九十条. <https://www.court.gov.cn/zixun/xiangqing/477881.html>",
+      "notes": "替人挂名的股东和真正出钱的人之间，代持协议没有无效情形的就算数。但真正出钱的人想把名字换上来，要其他股东半数以上同意。挂名的人把股权卖了或者押了，法院参照民法典的善意取得处理。买方不知情、价格合理、已经办了登记的，出钱的人拿不回股权，只能找挂名的人赔。2025 年 9 月，最高法已经出了新解释的征求意见稿，新解释定稿施行后，这份规定整份废止。截至 2026 年 9 月，有效的仍是 2020 年修正本，本条以它为准。挂名法定代表人的风险，见第 8 节第 28 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Không làm cổ đông đứng tên hộ, không giữ hộ phần vốn góp cho người khác",
+    "fields": {
+      "cost": "Không tốn tiền. Ai nói “cho mượn căn cước để ghi tên cổ đông”, “để cổ phần tạm dưới tên bạn” thì từ chối hết.",
+      "plain": "Tên nằm trong đăng ký thì về pháp luật bạn là cổ đông. Vốn cam kết phải góp đủ đúng hạn; không góp được thì ngoài góp bù còn phải bồi thường thiệt hại công ty. Khi thành lập, cổ đông khác không thực góp thì bạn cũng cùng chịu phần thiếu. Người khác kinh doanh, nhưng nợ đứng tên bạn.",
+      "benefit": "Cổ đông có tên trong đăng ký là cổ đông về pháp luật. Bạn phải góp đủ từng đồng vốn cam kết theo hạn điều lệ công ty. Không góp đúng hạn thì ngoài góp bù còn phải bồi thường thiệt hại công ty. Khi thành lập có cổ đông chưa thực góp, các cổ đông sáng lập khác cùng chịu trách nhiệm liên đới trong phần thiếu. Khi công ty không trả được nợ đến hạn, chủ nợ có thể yêu cầu góp sớm phần vốn chưa đến hạn. Người thực sự kinh doanh không có tên trong đăng ký, còn nợ lại ghi tên bạn (toàn quốc, từ tháng 7 năm 2024).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2023). 公司法（2023 年修订，第四十七、四十九、五十、五十四条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>；最高人民法院 (2020 修正). 关于适用《中华人民共和国公司法》若干问题的规定（三）（法释〔2011〕3 号，2014 年法释〔2014〕2 号、2020 年法释〔2020〕18 号两次修正，第二十四、二十五条）：「如无法律规定的无效情形，人民法院应当认定该合同有效」「实际出资人未经公司其他股东半数以上同意，请求公司变更股东……人民法院不予支持」「名义股东处分股权造成实际出资人损失，实际出资人请求名义股东承担赔偿责任的，人民法院应予支持」. <https://flk.npc.gov.cn/detail?id=ff808181799def980179ac07a9ca117c>（国家法律法规数据库）；最高人民法院 (2025). 关于适用《中华人民共和国公司法》若干问题的解释（征求意见稿）第九十条. <https://www.court.gov.cn/zixun/xiangqing/477881.html>",
+      "notes": "Thỏa thuận giữa cổ đông đứng tên hộ và người thực góp có hiệu lực nếu không thuộc trường hợp vô hiệu. Nhưng người thực góp muốn chuyển tên sang mình phải được từ một nửa số cổ đông khác trở lên đồng ý. Người đứng tên bán hoặc thế chấp phần vốn, tòa áp dụng tương tự quy định Bộ luật Dân sự về người thứ ba ngay tình nhận tài sản. Nếu bên mua không biết, giá hợp lý và đã đăng ký, người góp tiền không lấy lại được phần vốn mà chỉ có thể đòi người đứng tên bồi thường. Tháng 9 năm 2025 đã có dự thảo lấy ý kiến giải thích mới thay cho giải thích tư pháp này; khi bản chính thức có hiệu lực, toàn bộ bản cũ sẽ bị bãi bỏ. Ở đây dùng bản sửa đổi năm 2020 vẫn có hiệu lực đến tháng 9 năm 2026. Rủi ro đứng tên người đại diện theo pháp luật xem chương 8 mục 28."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

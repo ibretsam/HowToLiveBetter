@@ -1,0 +1,48 @@
+{
+  "id": "e-4-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "4dba9ba1aa01469753e260be43340f1f50f57da5952e60dd39d97f5543f6859b",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "给没有外部截止的事自己定一个日期",
+    "fields": {
+      "cost": "不花钱。难在定了就要认，到了那天不当回事就等于没定。",
+      "plain": "有别人定的截止日期时，80.6% 的学生能在那之前做完。按自己预计的时间做完的，只有 38.7%。什么时候做完，几乎跟着截止日期走，和自己估的关系不大。所以没有截止日期的事，自己给它定一个，并且认账。",
+      "benefit": "有外部截止日期的学生，80.6% 在截止前完成。而在自己预计的时间内完成的，只有 38.7%。什么时候做完，几乎跟着截止日期走，相关系数 r = 0.82，这个数越接近 1 说明跟得越紧。和自己的预计只有很弱的关系。",
+      "grade": "B",
+      "sources": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>",
+      "notes": "把自己定的日期告诉别人，它就更接近别人定的那一种。研究验证的是别人定的截止日期管用。自己给自己定的那种，比如时间盒、番茄钟，没人直接测过，这里是照着推的。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Tự đặt ngày hoàn thành cho việc không có hạn do người khác đặt",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là đặt ngày rồi phải giữ; đến ngày lại không coi trọng thì cũng như chưa đặt.",
+      "plain": "Khi có hạn người khác đặt, 80.6% sinh viên hoàn thành trước hạn. Chỉ 38.7% hoàn thành theo thời gian tự dự đoán. Thời điểm xong gần như do hạn quyết định, ít liên quan dự đoán. Vì vậy hãy đặt và giữ hạn cho việc chưa có hạn.",
+      "benefit": "Trong số sinh viên có hạn do người khác đặt, 80.6% hoàn thành trước hạn. Chỉ 38.7% hoàn thành trong thời gian mình dự đoán. Thời điểm làm xong gần như đi theo hạn, với hệ số tương quan r = 0.82; số càng gần 1 nghĩa liên hệ càng chặt. Thời điểm làm xong chỉ liên hệ rất yếu với dự đoán của bản thân.",
+      "grade": "B",
+      "sources": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>",
+      "notes": "Nói ngày mình đặt cho người khác khiến nó gần với hạn do người khác đặt hơn. Tuy nhiên, nghiên cứu chỉ xác nhận hạn do người khác đặt có hiệu quả. Hạn tự đặt như chia khung thời gian hoặc đồng hồ Pomodoro chưa được đo trực tiếp; ở đây là suy luận áp dụng tương tự."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

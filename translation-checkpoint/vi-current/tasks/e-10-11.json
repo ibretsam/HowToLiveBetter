@@ -1,0 +1,48 @@
+{
+  "id": "e-10-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "30148fae2be176324b569d8fdcb1c80a64ac9ce2b12275437eb7d47822e64e24",
+  "status": "outdated",
+  "original": {
+    "number": 11,
+    "title": "父母出资买房，在转账的时候就把是借是送写清楚",
+    "fields": {
+      "cost": "不花钱。出资当天写一页说明，写明这笔钱是赠与谁、还是借给谁，出资的父母和子女都签字。如果写的是借款，就让夫妻两个人都签，转账备注也写同一句话。",
+      "plain": "婚前父母出钱买房，默认只给自己孩子。婚后出的钱没约定，按夫妻共同财产算。2025 年 2 月起，婚后一方父母全额出资、又没写明只给自己孩子的，离婚时法院可以把房判给出资方的孩子，再定补不补偿另一方。要算借款，就当天写清楚、双方签字。",
+      "benefit": "婚前父母为双方购房出资的，认定为对自己子女个人的赠与。父母明确表示赠与双方的除外。婚后出资的，有约定按约定。没有约定或者约定不明确的，按夫妻共同财产的原则处理。2025 年 2 月 1 日起还有一条。婚内由一方父母全额出资、赠与合同又没写明只赠与自己子女的，离婚分割时，法院可以判房屋归出资人子女一方所有。判归之后再综合几项情况，确定要不要给另一方补偿、补多少。这几项是共同生活和生育共同子女的情况、离婚过错、对家庭的贡献大小、离婚时房屋市场价格。一方父母部分出资，或者双方父母都出资的，以出资来源和比例为基础判归其中一方，并合理补偿（全国）",
+      "grade": "A",
+      "sources": "最高人民法院 (2020). 关于适用《民法典》婚姻家庭编的解释（一）（法释〔2020〕22 号，第二十九条）. <https://www.court.gov.cn/fabu/xiangqing/282071.html>；最高人民法院 (2025). 关于适用《民法典》婚姻家庭编的解释（二）（法释〔2025〕1 号，第八条）. <https://www.court.gov.cn/zixun/xiangqing/452771.html>；全国人大 (2020). 民法典（第一千零六十二条第一款第四项）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "写清楚对两边都有用。出钱的父母不必再指望离婚时补一张借条来保住出资。解释（二）施行后，钱是谁出的本身就是分房子的依据，不只看房本写谁的名字。接受出资的一方，也不用等到离婚才知道这笔钱算什么。要按借款办就真按借款办：双方说好是借，约定怎么还，转账写明，必要时留下还款记录。缺一样，上了法庭都要解释"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Cha mẹ góp tiền mua nhà thì ghi rõ vay hay tặng ngay lúc chuyển",
+    "fields": {
+      "cost": "Không tốn tiền. Ngay ngày đưa tiền, viết một trang giấy ghi rõ khoản tiền này là tặng cho ai hay cho ai vay, cha mẹ góp tiền và con cái cùng ký tên. Nếu ghi là cho vay, thì để cả hai vợ chồng cùng ký, nội dung ghi chú khi chuyển khoản cũng viết đúng câu đó.",
+      "plain": "Cha mẹ bỏ tiền mua nhà trước khi con kết hôn thì mặc định là chỉ tặng cho con mình. Tiền bỏ ra sau khi kết hôn mà không có thỏa thuận thì tính là tài sản chung của vợ chồng. Từ tháng 2 năm 2025, nếu sau khi kết hôn cha mẹ một bên bỏ toàn bộ tiền mua nhà mà không ghi rõ chỉ tặng cho con mình, thì khi ly hôn tòa án có thể giao nhà cho con của bên bỏ tiền, rồi quyết định có bù cho bên kia hay không. Muốn tính là khoản vay thì phải ghi rõ ngay trong ngày đưa tiền và hai bên cùng ký.",
+      "benefit": "Trước khi con kết hôn, cha mẹ bỏ tiền mua nhà cho đôi vợ chồng thì được xác định là tặng riêng cho con mình, trừ khi cha mẹ nói rõ là tặng cho cả hai. Tiền bỏ ra sau khi kết hôn thì có thỏa thuận làm theo thỏa thuận; không có thỏa thuận hoặc thỏa thuận không rõ thì xử lý theo nguyên tắc tài sản chung của vợ chồng. Từ ngày 1 tháng 2 năm 2025 còn có thêm một quy định. Trong thời kỳ hôn nhân, nếu cha mẹ một bên bỏ toàn bộ tiền mà hợp đồng tặng cho không ghi rõ chỉ tặng cho con mình, thì khi chia tài sản ly hôn, tòa án có thể xử nhà thuộc sở hữu của bên là con người bỏ tiền. Sau đó tòa xét tổng hợp một số yếu tố để quyết định có bù cho bên kia không và bù bao nhiêu. Các yếu tố đó là tình hình chung sống và sinh con chung, lỗi dẫn đến ly hôn, mức đóng góp cho gia đình, giá thị trường của căn nhà lúc ly hôn. Nếu cha mẹ một bên chỉ bỏ một phần tiền, hoặc cha mẹ cả hai bên đều bỏ tiền, thì tòa căn cứ vào nguồn và tỷ lệ góp tiền để xử nhà cho một bên, và bù đắp hợp lý cho bên kia (toàn quốc).",
+      "grade": "A",
+      "sources": "最高人民法院 (2020). 关于适用《民法典》婚姻家庭编的解释（一）（法释〔2020〕22 号，第二十九条）. <https://www.court.gov.cn/fabu/xiangqing/282071.html>；最高人民法院 (2025). 关于适用《民法典》婚姻家庭编的解释（二）（法释〔2025〕1 号，第八条）. <https://www.court.gov.cn/zixun/xiangqing/452771.html>；全国人大 (2020). 民法典（第一千零六十二条第一款第四项）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "Ghi rõ có lợi cho cả hai phía. Cha mẹ bỏ tiền không cần trông vào việc đến lúc ly hôn mới bổ sung một tờ giấy vay để giữ khoản tiền đã góp. Sau khi Giải thích (II) có hiệu lực, việc tiền do ai bỏ ra tự nó đã là căn cứ để chia nhà; tên ghi trên sổ nhà không còn quyết định nhà thuộc về ai. Bên nhận tiền cũng không phải đợi đến lúc ly hôn mới biết khoản tiền này được tính là gì. Muốn tính là khoản vay thì phải làm đúng như một khoản vay: hai bên thống nhất đó là vay, thỏa thuận cách trả, ghi rõ khi chuyển khoản, cần thì giữ lại lịch sử trả nợ. Thiếu một thứ, ra tòa đều phải giải thích."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

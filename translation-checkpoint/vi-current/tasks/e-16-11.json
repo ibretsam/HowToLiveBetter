@@ -1,0 +1,29 @@
+{
+  "id": "e-16-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "e1c41dd74b0754b88eb4071f9849cb45499e66e1438fc38c0bdca3df6aab459b",
+  "status": "pending",
+  "original": {
+    "number": 11,
+    "title": "查出乙肝表面抗原阳性的，每半年做一次肝脏 B 超加甲胎蛋白，按医生评估决定吃不吃抗病毒药，吃上了别自己停",
+    "fields": {
+      "cost": "每半年去一次肝病科或感染科，抽血再做个 B 超，费用各地不同。要吃抗病毒药的，国家医保局说恩替卡韦集采后一年药费降到 100 多元。难在没感觉的时候也要按时去查，药也要一直吃下去。",
+      "plain": "身上带着乙肝病毒的人，每半年查一次 B 超和甲胎蛋白，在上海的试验里死于肝癌的少了近四成。血里病毒越多，以后得肝癌的越多。肝已经严重纤维化、硬化的人吃上抗病毒药，肝癌少了约一半。药多数要长期吃，自己停了病毒容易反弹。",
+      "benefit": "上海一项随机分组试验，18816 名 35 到 59 岁的人，都感染了乙肝病毒或有慢性肝炎病史。筛查组每 6 个月受邀查一次甲胎蛋白和 B 超，对照组不筛查。甲胎蛋白是抽血查的一项指标，得了肝癌常会升高。筛查组死于肝癌 32 人，对照组 54 人。肝癌死亡率是每 10 万人 83.2 对 131.5。筛查组是对照组的 0.63 倍（95% CI 0.41–0.98，可信范围），低约 37%。筛查组查出的肝癌有 46.5% 做了切除手术，对照组只有 7.5%。台湾一项跟踪研究，3653 名 30 到 65 岁、表面抗原阳性的人，平均跟踪 11.4 年，只记录、不分组。入组时血里病毒越多，后来得肝癌的越多。病毒量每毫升低于 300 拷贝的，每 10 万人年有 108 例肝癌。每毫升 100 万拷贝以上的，有 1152 例。累计得肝癌的比例分别是 1.3% 和 14.9%。扣掉性别、年龄、抽烟、喝酒、转氨酶和肝硬化之后，病毒越多、肝癌越多的规律仍然成立。亚洲一项随机分组试验，651 名已有严重肝纤维化或肝硬化的慢性乙肝病人。一组吃拉米夫定，一组吃安慰剂，中位吃了 32.4 个月。肝癌是 3.9% 对 7.4%，风险约低一半（HR 0.49，P=0.047）。病情加重是 7.8% 对 17.7%（HR 0.45，低约 55%）。中华医学会 2022 年版指南写明，慢性乙肝病毒感染者每 6 个月做一次腹部 B 超和甲胎蛋白，筛查肝癌。高危的人至少每 3 到 6 个月一次。暂时不用吃药的携带者，血常规、肝功能、病毒指标、甲胎蛋白、B 超每 6 到 12 个月查一次。一旦够了用药条件，就马上开始治。血里查得到病毒的，年龄超过 30 岁就建议抗病毒治疗，不管转氨酶高不高。家里有人因乙肝得了肝硬化或肝癌的，也一样。指南推荐的口服药是恩替卡韦、替诺福韦这一类。指南写明，大多数人要长期吃药，停药后病毒反弹的比例高",
+      "grade": "A",
+      "sources": "Zhang BH, Yang BH, Tang ZY (2004). Randomized controlled trial of screening for hepatocellular carcinoma. Journal of Cancer Research and Clinical Oncology, 130(7), 417-422. <https://doi.org/10.1007/s00432-004-0552-0>；Chen CJ, Yang HI, Su J, et al.; REVEAL-HBV Study Group (2006). Risk of hepatocellular carcinoma across a biological gradient of serum hepatitis B virus DNA level. JAMA, 295(1), 65-73. <https://doi.org/10.1001/jama.295.1.65>；Liaw YF, Sung JJ, Chow WC, et al.; Cirrhosis Asian Lamivudine Multicentre Study Group (2004). Lamivudine for patients with chronic hepatitis B and advanced liver disease. New England Journal of Medicine, 351(15), 1521-1531. <https://doi.org/10.1056/NEJMoa033364>；中华医学会肝病学分会, 中华医学会感染病学分会 (2022). 慢性乙型肝炎防治指南（2022 年版）. 中华肝脏病杂志, 30(12), 1309-1331. <https://doi.org/10.3760/cma.j.cn501113-20221204-00607>；同一指南的英文版：You H, Wang F, Li T, et al. (2023). Guidelines for the Prevention and Treatment of Chronic Hepatitis B (version 2022). Journal of Clinical and Translational Hepatology, 11(6), 1425-1442. <https://doi.org/10.14218/JCTH.2023.00320>；Wun YT, Dickinson JA (2003). Alpha-fetoprotein and/or liver ultrasonography for liver cancer screening in patients with chronic hepatitis B. Cochrane Database of Systematic Reviews, CD002799. <https://doi.org/10.1002/14651858.CD002799>（反方）；Aghoram R, Cai P, Dickinson JA (2012). Alpha-foetoprotein and/or liver ultrasonography for screening of hepatocellular carcinoma in patients with chronic hepatitis B. Cochrane Database of Systematic Reviews, CD002799.pub2. <https://doi.org/10.1002/14651858.CD002799.pub2>（反方）；国家医疗保障局 (2025). 中国医保惠民生 积跬步、至长远（七）：医药集采规范化制度化常态化：「乙肝治疗一线用药恩替卡韦，过去患者吃一年的费用大约5000元……集采后恩替卡韦年费用降到100多元」. <https://www.nhsa.gov.cn/art/2025/12/29/art_14_19172.html>",
+      "notes": "争议：上海那项试验的结论有人不认。Cochrane 2003 年的综述按自己的算法重算了一遍。算出来肝癌死亡的差别不显著（OR 0.81，0.54–1.22）。2012 年的更新版说，这项试验偏倚风险高，几份报告给的数字对不上，下不了结论。所以「每半年查一次」靠的是这一项有争议的试验，加上各国指南。拉米夫定是老药，试验里 49% 的人出了耐药突变，现在指南推荐的是恩替卡韦这类。要不要吃药、能不能停，看病毒量、转氨酶、肝纤维化程度和家族史，由医生定。还没感染的人查两对半、打疫苗，见第 1 节第 14 条（查乙肝两对半）。丙肝是另一种病，见第 1 节第 45 条（丙肝抗体）。喝酒伤肝，见第 2 节第 19 条（少喝或不喝酒）。受益人主要是你自己。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

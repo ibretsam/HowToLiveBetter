@@ -1,0 +1,48 @@
+{
+  "id": "e-4-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "0f57ddfa2e60d10a156091e61534da1fdcd5d0a22c2b075314105496a26134b5",
+  "status": "draft",
+  "original": {
+    "number": 4,
+    "title": "估工期时按过去同类任务的实际耗时估，不按计划推",
+    "fields": {
+      "cost": "不花钱。估之前花几分钟，翻一下上次同类的事实际做了多久。",
+      "plain": "学生估自己 33.9 天写完论文，实际用了 55.5 天，只有 29.7% 的人按自己估的时间做完。另一组被要求先回想上次同类的事花了多久再估，按时完成的比例从 29.3% 升到 60.0%。",
+      "benefit": "学生预计 33.9 天完成论文，实际用了 55.5 天。只有 29.7% 的人按自己的估计按时完成。研究者要求另一组人先把过去的经历和眼下这件事挂上钩，再去估。这一组按时完成的比例，从对照组的 29.3% 升到 60.0%。把工期往少了估的那种乐观，在这一组身上不再出现。",
+      "grade": "B",
+      "sources": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>；Flyvbjerg, B. (2006). From Nobel Prize to project management: Getting risks right. Project Management Journal, 37(3), 5–15. <https://doi.org/10.1177/875697280603700302>；Halkjelsvik, T., & Jørgensen, M. (2012). From origami to software development: A review of studies on judgment-based predictions of performance time. Psychological Bulletin, 138(2), 238–271. <https://doi.org/10.1037/a0025996>",
+      "notes": "Buehler 那项只找了加拿大大学生，是单独一项研究，人也少，37 人和每组约 40 人。照同类项目的历史数据来估，这种做法叫参考类预测，工程上具体怎么做见 Flyvbjerg。Halkjelsvik 汇总多项研究后指出，估少比估多更常见，但差多少随任务和研究方法变化很大。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Ước lượng thời gian làm theo thời gian thực tế của việc tương tự trước đây, đừng suy từ kế hoạch",
+    "fields": {
+      "cost": "Không tốn tiền. Trước khi ước lượng, dành vài phút xem việc tương tự lần trước thực sự mất bao lâu.",
+      "plain": "Sinh viên dự đoán viết xong luận văn trong 33.9 ngày, thực tế mất 55.5 ngày; chỉ 29.7% hoàn thành theo dự đoán. Nhóm khác được yêu cầu nhớ thời gian làm việc tương tự lần trước rồi mới ước lượng; tỷ lệ đúng hạn tăng từ 29.3% lên 60.0%.",
+      "benefit": "Sinh viên dự đoán hoàn thành luận văn trong 33.9 ngày nhưng mất 55.5 ngày. Chỉ 29.7% hoàn thành theo ước lượng. Nhà nghiên cứu yêu cầu nhóm khác liên hệ kinh nghiệm trước với việc hiện tại rồi mới ước lượng. Tỷ lệ hoàn thành đúng hạn tăng từ 29.3% ở nhóm đối chứng lên 60.0%; sự lạc quan khiến ước lượng quá ngắn không còn xuất hiện.",
+      "grade": "B",
+      "sources": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>；Flyvbjerg, B. (2006). From Nobel Prize to project management: Getting risks right. Project Management Journal, 37(3), 5–15. <https://doi.org/10.1177/875697280603700302>；Halkjelsvik, T., & Jørgensen, M. (2012). From origami to software development: A review of studies on judgment-based predictions of performance time. Psychological Bulletin, 138(2), 238–271. <https://doi.org/10.1037/a0025996>",
+      "notes": "Buehler chỉ nghiên cứu sinh viên Canada, một nghiên cứu nhỏ: 37 người và khoảng 40 người mỗi nhóm. Ước lượng theo dữ liệu lịch sử của dự án tương tự gọi là dự báo theo nhóm tham chiếu; cách áp dụng kỹ thuật xem Flyvbjerg. Tổng hợp của Halkjelsvik cho thấy ước lượng thiếu phổ biến hơn thừa, nhưng mức chênh thay đổi nhiều theo nhiệm vụ và phương pháp nghiên cứu."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

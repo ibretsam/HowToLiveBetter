@@ -1,0 +1,48 @@
+{
+  "id": "e-6-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "6cd35790a01f9e4b672b6c78bffdd777e9bfe643aa7a47cecccabbd6ed861475",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "不要给没有症状的自己做「全身 PET-CT」或「肿瘤标志物套餐」",
+    "fields": {
+      "cost": "全身 PET-CT 一次约 7000 到 10000 元，还要挨一次电离辐射。肿瘤标志物套餐几百元。真正的成本在后面：查出来一处「异常」，其实是虚惊一场（这叫假阳性），接下来的复查、取组织化验、开刀，钱和罪都在这一段。",
+      "plain": "没症状的人去查，查出来最多的是虚惊一场。做全身 CT 的人八成多至少查出一处「异常」，将近四成被叫回去复查，可大多数是良性的。女性查卵巢癌标志物，死于卵巢癌的并没有少，还有人因为虚惊一场白做了一次手术。",
+      "benefit": "美国那个给预防措施打分的机构 USPSTF，对没有症状的女性用 CA-125 和超声筛查卵巢癌给了 D 级，意思是建议不做。依据是 PLCO 试验。因卵巢癌死亡的比例，筛查组 0.34%、常规组 0.29%。RR 1.18（95% CI 0.82–1.71）。查了没有好处。因为查错了（假阳性）而白挨一刀的比例，各试验里是 0.2%–3.25%，这些人里最多 15% 出现严重的手术并发症。另一项研究给 1,192 名没有症状的人做全身 CT 筛查。其中 86% 至少查出一处「异常」，37% 被建议进一步检查。原文说「大多数发现按描述是良性的」。它看起来划算，是因为「一次查全身、早发现早治疗」太符合直觉",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2018). Screening for Ovarian Cancer: US Preventive Services Task Force Recommendation Statement. JAMA（同一份建议另有 USPSTF 官方页）. <https://doi.org/10.1001/jama.2017.21926>、<https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/ovarian-cancer-screening>；Furtado CD et al. (2005). Whole-body CT screening: spectrum of findings and recommendations in 1192 patients. Radiology. <https://doi.org/10.1148/radiol.2372041741>",
+      "notes": "肿瘤标志物那部分有随机对照试验撑着。全身 CT 和 PET-CT 那部分只有「看做过的人后来怎么样」这类跟踪记录，没有分组对照，证据要弱一档，相当于 B 级。真正有证据的那几项筛查，像结直肠癌、宫颈癌、乳腺癌、高危的人做低剂量胸部 CT，是另一回事，见第 1 节。已经有症状的人，或者已经确诊癌症的人做 PET-CT，那是看病不是筛查，另当别论"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Đừng làm “PET-CT toàn thân” hoặc “gói dấu ấn ung thư” khi mình không có triệu chứng",
+    "fields": {
+      "cost": "PET-CT toàn thân khoảng 7000 đến 10000 nhân dân tệ một lần, còn chịu bức xạ ion hóa. Gói dấu ấn ung thư vài trăm nhân dân tệ. Chi phí thật ở sau: phát hiện “bất thường” thực ra báo động giả (dương tính giả), rồi khám lại, lấy mô xét nghiệm, phẫu thuật; tiền và đau đớn tập trung ở đoạn này.",
+      "plain": "Người không triệu chứng đi kiểm tra, thứ phát hiện nhiều nhất là báo động giả. Hơn tám phần mười chụp CT toàn thân có ít nhất một “bất thường”, gần bốn phần mười được gọi kiểm tra tiếp, nhưng phần lớn là lành tính. Phụ nữ xét dấu ấn ung thư buồng trứng còn có tử vong do bệnh này hơi nhiều hơn, có người phải mổ vô ích vì báo động giả.",
+      "benefit": "USPSTF, cơ quan Mỹ đánh giá phòng bệnh, xếp sàng lọc ung thư buồng trứng bằng CA-125 và siêu âm cho phụ nữ không triệu chứng mức D, tức khuyên không làm. Căn cứ là PLCO: tử vong do ung thư buồng trứng nhóm sàng lọc 0.34%, thường quy 0.29%, RR 1.18 (95% CI 0.82–1.71). Kiểm tra không có lợi. Tỷ lệ mổ vô ích vì dương tính giả ở các thử nghiệm là 0.2%–3.25%; tối đa 15% trong số đó bị biến chứng phẫu thuật nặng. Nghiên cứu khác chụp CT toàn thân 1,192 người không triệu chứng: 86% có ít nhất một “bất thường”, 37% được khuyên xét tiếp. Bản gốc nói “phần lớn phát hiện được mô tả là lành tính”. Có vẻ đáng tiền vì “kiểm tra cả người một lần, phát hiện sớm chữa sớm” rất hợp trực giác.",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2018). Screening for Ovarian Cancer: US Preventive Services Task Force Recommendation Statement. JAMA（同一份建议另有 USPSTF 官方页）. <https://doi.org/10.1001/jama.2017.21926>、<https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/ovarian-cancer-screening>；Furtado CD et al. (2005). Whole-body CT screening: spectrum of findings and recommendations in 1192 patients. Radiology. <https://doi.org/10.1148/radiol.2372041741>",
+      "notes": "Phần dấu ấn ung thư có thử nghiệm đối chứng ngẫu nhiên. Phần CT, PET-CT toàn thân chỉ theo dõi người đã làm về sau ra sao, không chia nhóm đối chứng, bằng chứng yếu hơn một bậc, tương đương B. Những sàng lọc thực sự có bằng chứng như đại trực tràng, cổ tử cung, vú, CT ngực liều thấp cho người nguy cơ cao là chuyện khác, xem chương 1. Người đã có triệu chứng hoặc đã chẩn đoán ung thư làm PET-CT là khám chữa bệnh, không phải sàng lọc, cần xét riêng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

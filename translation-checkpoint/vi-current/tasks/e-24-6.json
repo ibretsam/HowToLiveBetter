@@ -1,0 +1,48 @@
+{
+  "id": "e-24-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "2e31da26b811d0f048b0a88ef7905ea76d36fc4084a984b8b328b45d0896cf8a",
+  "status": "draft",
+  "original": {
+    "number": 6,
+    "title": "对诊疗有疑问就当场要求封存病历，双方在场、开清单、各执一份",
+    "fields": {
+      "cost": "不花钱。向医院提出封存要求，等医患双方到场把手续做完。难在当着医生的面把这句话说出口。",
+      "plain": "对治疗有疑问，可以要求把病历封存起来。封存要医患双方都在场，开清单、签字盖章、各拿一份。病历还没写完的，先封已经写完的那部分。怀疑是输液、输血、打针、用药出的问题，那袋液体、那支药和输液器要一起封存。",
+      "benefit": "条例规定「发生医疗纠纷需要封存、启封病历资料的，应当在医患双方在场的情况下进行」。封存的可以是原件，也可以是复制件，由医疗机构保管。病历尚未完成需要封存的，对已完成部分先行封存，后续完成后再封存。医疗机构应当对封存的病历开列封存清单，由医患双方签字或者盖章，各执一份。疑似输液、输血、注射、用药等引起不良后果的，医患双方应当共同对现场实物进行封存、启封。需要检验的，应当由双方共同委托有检验资格的机构。双方无法共同委托的，由医疗机构所在地县级人民政府卫生主管部门指定。疑似输血引起不良后果、需要封存血液的，医疗机构应当通知血站派员到场。另有一条硬约束：「任何单位和个人不得篡改、伪造、隐匿、毁灭或者抢夺病历资料。」封存后纠纷已解决，或者满 3 年未再提出解决要求的，医疗机构可以自行启封（全国，2018 年 10 月 1 日起施行）",
+      "grade": "A",
+      "sources": "国务院 (2018). 医疗纠纷预防和处理条例（国务院令第 701 号，第十五、二十四、二十五条）. <https://www.gov.cn/zhengce/zhengceku/2018-08/31/content_5318057.htm>",
+      "notes": "封存和复印是两件事。复印是平时就该做的，见第 5 条（病历和影像自己存一份）。封存是纠纷发生时把证据固定住，防的是事后补写和修改。怀疑是输液、输血、用药出的问题，除了病历，还要一起封存那袋液体、那支药和输液器，别让人收走扔掉。医疗机构应当在显著位置公布医疗纠纷的解决途径、程序和联系方式，并设置统一的投诉管理部门。有事先找那个部门，不要找当班医生理论。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Nghi ngờ khám chữa thì yêu cầu niêm phong bệnh án tại chỗ, hai bên có mặt, lập danh sách, mỗi bên một bản",
+    "fields": {
+      "cost": "Không tốn tiền. Yêu cầu bệnh viện niêm phong, chờ hai bên làm xong. Khó là nói câu đó trước bác sĩ.",
+      "plain": "Có nghi vấn điều trị được yêu cầu niêm phong bệnh án. Phải có bên y tế và bệnh nhân, lập danh sách, ký/đóng dấu, mỗi bên giữ bản. Bệnh án chưa xong thì niêm phần xong trước. Nghi do truyền dịch, truyền máu, tiêm, thuốc thì niêm cả túi dịch, thuốc, bộ truyền.",
+      "benefit": "Quy định: “Khi tranh chấp y tế cần niêm phong, mở niêm bệnh án, phải có cả hai bên y tế, bệnh nhân”. Có thể bản gốc hoặc sao, cơ sở y tế giữ. Chưa hoàn tất thì niêm phần đã xong trước, phần sau hoàn tất rồi niêm. Cơ sở lập danh sách, hai bên ký hoặc đóng dấu, mỗi bên một bản. Nghi hậu quả xấu do truyền dịch/máu, tiêm, thuốc, hai bên cùng niêm/mở vật chứng tại chỗ. Cần xét nghiệm thì cùng ủy thác cơ sở có tư cách; không thống nhất được, cơ quan y tế chính quyền cấp huyện nơi cơ sở đặt chỉ định. Nghi do truyền máu cần niêm máu, cơ sở phải báo trạm máu cử người có mặt. Ràng buộc cứng khác: “Không đơn vị, cá nhân nào được sửa, giả, giấu, hủy hoặc cướp bệnh án”. Niêm xong tranh chấp giải quyết hoặc đủ 3 năm không yêu cầu xử lý thêm, cơ sở được tự mở (toàn quốc, hiệu lực ngày 1 tháng 10 năm 2018)",
+      "grade": "A",
+      "sources": "国务院 (2018). 医疗纠纷预防和处理条例（国务院令第 701 号，第十五、二十四、二十五条）. <https://www.gov.cn/zhengce/zhengceku/2018-08/31/content_5318057.htm>",
+      "notes": "Niêm và sao là hai việc. Sao nên làm thường ngày, xem mục 5 (tự giữ bệnh án, hình). Niêm khi tranh chấp để cố định chứng cứ, ngăn viết thêm, sửa sau. Nghi do truyền dịch/máu, thuốc thì ngoài bệnh án niêm cả túi dịch, thuốc, bộ truyền, đừng để thu vứt. Cơ sở phải công bố rõ cách, quy trình, liên hệ giải quyết tranh chấp và có bộ phận quản lý khiếu nại thống nhất. Có việc tìm bộ phận đó, đừng tranh luận bác sĩ trực."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

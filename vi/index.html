@@ -167,7 +167,7 @@ function render(){
   let html='',last=null;
   for(const e of filtered.slice(0,limit)){
     if(e.sec!==last){const s=DATA.sections.find(s=>s.id===e.sec);html+='<h2 class="section-title" id="sec-'+s.id+'">'+s.id+'. '+escapeHtml(s.title)+'</h2>';
-      html+='<details class="intro"><summary>Giới thiệu chương và bản gốc</summary>'+warning('outdated')+markdown(s.introTranslation,'vi/book/'+String(s.id).padStart(2,'0')+'.md')+'<details><summary>Giới thiệu tiếng Trung mới nhất</summary><div lang="zh-CN">'+markdown(s.introOriginal,s.sourcePath)+'</div></details></details>';last=e.sec;}
+      html+='<details class="intro"><summary>Giới thiệu chương và bản gốc</summary>'+badge(s.introStatus)+warning(s.introStatus)+markdown(s.introTranslation,'vi/book/'+String(s.id).padStart(2,'0')+'.md')+'<details><summary>Giới thiệu tiếng Trung mới nhất</summary><div lang="zh-CN">'+markdown(s.introOriginal,s.sourcePath)+'</div></details></details>';last=e.sec;}
     html+=card(e);
   }
   $('list').innerHTML=html||'<div class="empty">Không có mục phù hợp. Thử từ khóa khác hoặc xóa bộ lọc.</div>';

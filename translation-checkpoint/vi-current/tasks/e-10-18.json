@@ -1,0 +1,48 @@
+{
+  "id": "e-10-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "ecc2dbbc9f404edbccf3a288059604b66f359c61cb05b60f220aae3180706dde",
+  "status": "outdated",
+  "original": {
+    "number": 18,
+    "title": "同性伴侣趁两个人都清醒，办好授权委托、意定监护和遗嘱：法律上你们不是近亲属，不办就没有签字权和继承权",
+    "fields": {
+      "cost": "意定监护和遗嘱去公证处办，公证费各地不同，几百元起。自己手写遗嘱不花钱。前后要花一两个半天。难在两个人要坐下来谈生病和死。",
+      "plain": "法律上的近亲属是配偶、父母、子女、兄弟姐妹这些人，伴侣不算。不提前办文件，一方病重时，另一方替他做不了主。一方去世时，另一方一分遗产也继承不到。三份文件各管一段：清醒时靠授权委托，失去判断能力后靠意定监护，身后靠遗嘱。",
+      "benefit": "民法典第一千零四十五条列的近亲属是配偶、父母、子女、兄弟姐妹、祖父母、外祖父母、孙子女、外孙子女。第一千一百二十七条的法定继承人先是配偶、子女、父母，其次是兄弟姐妹、祖父母、外祖父母。伴侣两处都不在。第一千二百一十九条管的是手术、特殊检查、特殊治疗。不能或者不宜向患者说明的，医务人员要向患者的「近亲属」说明，并取得同意。有三条路可以补上。第一，第三十三条允许成年人和「其他愿意担任监护人的个人」事先书面约定监护人。本人丧失或者部分丧失民事行为能力后，这个人来当监护人，监护人就是法定代理人。第二，第一百六十五条规定，书面授权委托书要写明代理人的姓名、代理事项、权限和期限，由本人签名或者盖章。本人去世或者失去民事行为能力，委托就终止。第三，第一千一百三十三条允许立遗嘱，把个人财产赠给法定继承人以外的个人。宜昌市司法局有一篇文章登在湖北省司法厅网站上。文章写明，同性伴侣可以办意定监护协议公证，指定对方当自己将来的监护人（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第二十三、三十三、一百六十五、一百七十三、一千零四十五、一千一百二十四、一千一百二十七、一千一百三十三至一千一百四十、一千一百四十二、一千二百一十九条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>（国家法律法规数据库）；宜昌市司法局 (2021). 意定监护公证：通向彩虹的公证之路. 湖北省司法厅网站「实践荟萃」栏目. <https://sft.hubei.gov.cn/fbjd/sjhc/202101/t20210108_3208602.shtml>",
+      "notes": "伴侣拿遗产的身份是「受遗赠人」，不是继承人。知道有这份遗赠后，60 天内要明确表示接受，不表示就算放弃。伴侣本人和跟他有利害关系的人，不能当遗嘱见证人。立了几份遗嘱，以最后一份为准，见第 17 节第 2 条（遗嘱后立的推翻先立的）。意定监护人能不能直接签手术同意书，各医院做法不一，提前问一下常去的医院。家属不认这些文件，就要打官司：一审普通程序 6 个月起，律师费自己出。所以文件尽量去公证处办。一起买的房子、一起存的钱，按真实出资另外写书面约定。意定监护怎么办，见第 17 节第 1 条（书面指定将来的监护人）。受益人是你自己和伴侣。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 18,
+    "title": "Cặp đôi đồng giới hãy làm ủy quyền, giám hộ theo thỏa thuận, di chúc khi cả hai còn minh mẫn: pháp luật không coi là thân nhân gần, không làm thì không có quyền ký, thừa kế",
+    "fields": {
+      "cost": "Làm công chứng thỏa thuận giám hộ, di chúc tại cơ quan công chứng, phí tùy nơi từ vài trăm nhân dân tệ. Tự viết tay di chúc không tốn. Mất một hai buổi nửa ngày. Khó ở cùng ngồi bàn bệnh và chết.",
+      "plain": "Thân nhân gần theo luật là vợ chồng, cha mẹ, con cái, anh chị em và những người tương tự, không bao gồm bạn đời đồng giới. Nếu không làm giấy tờ từ trước, khi một người bệnh nặng thì người kia không thể quyết định thay. Khi một người qua đời, người kia không được thừa kế một đồng nào. Ba loại giấy tờ, mỗi loại lo một giai đoạn: khi còn sống thì dựa vào giấy ủy quyền, khi mất khả năng nhận thức thì dựa vào giám hộ theo thỏa thuận, sau khi qua đời thì dựa vào di chúc.",
+      "benefit": "Điều một nghìn không trăm bốn mươi lăm Bộ luật Dân sự liệt kê thân nhân gần: vợ chồng, cha mẹ, con, anh chị em, ông bà nội ngoại, cháu nội ngoại. Điều một nghìn một trăm hai mươi bảy quy định người thừa kế theo luật trước là vợ chồng, con, cha mẹ, sau là anh chị em, ông bà nội ngoại. Bạn đời đồng giới không ở cả hai. Điều một nghìn hai trăm mười chín về mổ, kiểm tra, điều trị đặc biệt: không thể hoặc không thích hợp giải thích cho bệnh nhân thì nhân viên y tế phải giải thích, xin đồng ý từ “thân nhân gần”. Ba cách bổ sung. Thứ nhất, Điều ba mươi ba cho người trưởng thành thỏa thuận trước bằng văn bản với “cá nhân khác sẵn lòng làm giám hộ”. Sau mất toàn bộ hoặc một phần năng lực hành vi dân sự, người này làm giám hộ, tức đại diện theo pháp luật. Thứ hai, Điều một trăm sáu mươi lăm yêu cầu giấy ủy quyền viết tên người đại diện, việc, quyền hạn, thời hạn, do bản thân ký hoặc đóng dấu. Người ủy quyền chết thì kết thúc. Thứ ba, Điều một nghìn một trăm ba mươi ba cho lập di chúc tặng tài sản riêng cho cá nhân ngoài hàng thừa kế luật định. Bài Cục Tư pháp Nghi Xương đăng trên website Sở Tư pháp Hồ Bắc nói rõ cặp đồng giới có thể công chứng thỏa thuận giám hộ, chỉ định nhau làm giám hộ tương lai (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第二十三、三十三、一百六十五、一百七十三、一千零四十五、一千一百二十四、一千一百二十七、一千一百三十三至一千一百四十、一千一百四十二、一千二百一十九条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>（国家法律法规数据库）；宜昌市司法局 (2021). 意定监护公证：通向彩虹的公证之路. 湖北省司法厅网站「实践荟萃」栏目. <https://sft.hubei.gov.cn/fbjd/sjhc/202101/t20210108_3208602.shtml>",
+      "notes": "Tư cách bạn đời nhận di sản là “người được di tặng”, không phải người thừa kế. Trong 60 ngày từ biết phải nói rõ chấp nhận, im lặng coi như từ bỏ. Chính bạn đời và người có lợi ích liên quan họ không được làm chứng di chúc. Có nhiều di chúc thì bản cuối làm chuẩn, xem chương 17 mục 2 (bản sau thay bản trước). Giám hộ theo thỏa thuận có ký thẳng giấy đồng ý mổ không, bệnh viện làm khác nhau; hỏi trước nơi thường khám. Gia đình không nhận giấy tờ thì phải kiện: sơ thẩm thông thường từ 6 tháng, tự trả luật sư. Vì vậy nên công chứng giấy tờ. Nhà mua chung, tiền tiết kiệm chung viết thỏa thuận riêng theo đóng góp thật. Làm giám hộ xem chương 17 mục 1 (viết chỉ định giám hộ tương lai). Người hưởng lợi là bạn và bạn đời."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

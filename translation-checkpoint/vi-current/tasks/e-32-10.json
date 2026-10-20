@@ -1,0 +1,48 @@
+{
+  "id": "e-32-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "d1423c001b8dc99b20b9bc5176c6ffba71ab727d780384d40acd4eef7e627b4d",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "报名前在留服中心的公告里搜一次学校名，被「加强审查」的学校认证至少要等 60 个工作日",
+    "fields": {
+      "cost": "不花钱。报名之前，在留服中心的通知公告里搜一次学校名",
+      "plain": "留服中心会点名一批国外院校，对它们的学历认证单独加强审查，也会暂停受理个别学校的认证申请。报名前搜一次学校名，比事后申诉省事得多。",
+      "benefit": "中国（教育部）留学服务中心一直在发公告，对部分国外院校的学历学位认证加强认证审查（对这些学校的文凭单独多查一道）。最新一份是第九号（2025-10-28），点名了 4 所学校。加强审查期间，这些学校的认证申请「原则上自提交认证申请之日（含）起不少于60个工作日」。依据是《国（境）外学历学位认证办法》第二十八条：认证数据异常、收到反映问题的线索等情形，留服中心可以启动加强审查，要求申请人、学校等协助提供材料，同时延长认证期限。2025 年 5 月，留服中心还对 3 所学校发了「再次加强认证审查」的公告。留服中心还发过暂停受理个别境外院校认证申请的公告。2025 年 8 月的防诈骗提示写明：「任何机构或个人声称“包认证”“内部渠道认证”“疫情补录”“加急认证”等，均属虚假宣传。」",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 关于对部分国外院校学历学位认证加强认证审查的公告（九）（2025-10-28）. <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html>；中国（教育部）留学服务中心 (2025-08-29). 关于谨防借国（境）外学历学位认证实施诈骗的重要提示. <https://www.cscse.edu.cn/cscse/sy/tzgg/2025082913242989351/index.html>；中国（教育部）留学服务中心 (2023). 国（境）外学历学位认证办法（第二十八条）. <http://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/409891/rzbf/2026042823373762003/index.html>；中国（教育部）留学服务中心. 通知公告. <https://www.cscse.edu.cn/cscse/sy/tzgg/index.html>",
+      "notes": "「加强审查」是多查一道、拖长期限，不等于一定认证不了。凡是承诺「包认证」「内部渠道加急」的，按留服中心的提示都是虚假宣传。跨境找人代写论文、代上网课，被查到除了学历作废，还可能影响签证记录。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Trường bị ‘tăng cường thẩm tra’ công nhận tăng thêm hằng năm; con đường mua bằng đã không còn khả thi",
+    "fields": {
+      "cost": "Không tốn tiền. Trước đăng ký học, tìm tên trường trong mục thông báo của Trung tâm Dịch vụ du học.",
+      "plain": "Trung tâm nêu tên một số trường nước ngoài để tăng cường thẩm tra riêng khi công nhận bằng, cũng tạm ngừng nhận hồ sơ của một số trường. Những trường bị nêu thường quảng cáo kiểu ‘không cần ngoại ngữ, không cần xuất cảnh, vài tháng có thạc sĩ’. Tra tên trước đăng ký đỡ việc hơn nhiều so với khiếu nại sau.",
+      "benefit": "Trung tâm Dịch vụ du học Trung Quốc thuộc Bộ Giáo dục liên tục công bố tăng cường xét công nhận trình độ và học vị của một số trường nước ngoài, tức kiểm tra thêm một bước riêng với bằng các trường này. Bản mới nhất là số chín (2025-10-28). Trung tâm cũng từng thông báo tạm ngừng nhận hồ sơ công nhận của một số trường ngoài lãnh thổ, và cảnh báo có người lợi dụng việc công nhận bằng nước ngoài để lừa đảo.",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 关于对部分国外院校学历学位认证加强认证审查的公告（九）（2025-10-28）. <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html>；中国（教育部）留学服务中心. <https://www.cscse.edu.cn/>",
+      "notes": "‘Tăng cường thẩm tra’ không đồng nghĩa chắc chắn không được công nhận, nhưng sẽ đòi thêm hồ sơ và lâu hơn. Môi giới hứa ‘bảo đảm công nhận’, ‘kênh nội bộ làm gấp’ đều là lừa đảo; Trung tâm đã có cảnh báo riêng. Nhờ người xuyên biên giới viết luận văn hoặc học trực tuyến hộ, nếu bị phát hiện không chỉ có thể bị hủy bằng mà còn ảnh hưởng hồ sơ thị thực."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "intro-34",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "d9a3a326a9ea7c27caba1e7bfa3d98555e1b0643c9cc706b6cdf9950e2a0246f",
+  "original": {
+    "title": "家里的常备药别吃出事",
+    "intro": "退烧药、止痛药、感冒药、胃药、止泻药，很多在药店就能自己买。不用处方能买，不等于怎么吃都行。这一节不讲每种病该吃什么药，只挑一个动作就能避开重后果的几件事。\n\n所有条目按死亡率口径算，包括肝衰竭、胃出血、新生儿肾衰竭这类健康终点。收益大多是「少出一次严重事故」，研究给不出「做了能少几成」的数字。所以收益量级是按后果轻重判断的，每条备注里写了凭什么定。\n\n已经写在别处的，这里只指路。误服了药或清洁剂先做什么，见第 13 节第 20 条（误服）。慢性病的药按医嘱吃满，见第 16 节第 1 条（药按医嘱吃满）。网上买处方药要先过处方审核，见第 28 节第 6 条（减肥药就去医院拿处方）。\n\n本节条目的受益人是你自己和家人，属于最高的两档。"
+  },
+  "previous_translation": {
+    "title": "Đừng để thuốc dự trữ trong nhà gây họa",
+    "intro": "Thuốc hạ sốt, giảm đau, cảm, dạ dày, tiêu chảy nhiều loại tự mua ở hiệu thuốc được. Không cần đơn không có nghĩa uống sao cũng được. Chương không chỉ từng bệnh dùng thuốc gì, chỉ chọn những việc mà một động tác giúp tránh hậu quả nặng.\n\nMọi mục tính theo tử vong, gồm kết cục sức khỏe như suy gan, xuất huyết dạ dày, suy thận sơ sinh. Lợi ích phần lớn là ‘tránh một tai nạn nghiêm trọng’; nghiên cứu không cho tỷ lệ giảm khi làm theo. Mức lợi ích đánh giá theo hậu quả, mỗi ghi chú giải thích căn cứ.\n\nĐiều đã viết nơi khác chỉ dẫn đường. Uống nhầm thuốc hoặc chất tẩy làm gì trước xem chương 13 mục 20 (uống nhầm). Thuốc bệnh mạn dùng đủ theo bác sĩ xem chương 16 mục 1. Mua thuốc kê đơn trực tuyến phải duyệt đơn trước, xem chương 28 mục 6 (thuốc giảm cân phải đến bệnh viện lấy đơn).\n\nNgười hưởng lợi là bạn và gia đình, thuộc hai nhóm cao nhất."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "e-27-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "e7f5b1e9056beefbaf17a7524394866fd39ce9f81363c400bae8224e52136e54",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "想要无痛分娩就直接说，它不增加剖宫产的风险",
+    "fields": {
+      "cost": "几百到一千多元，各地价格不一样。要提前问医院和麻醉科能不能做。难在得自己开口提",
+      "plain": "无痛分娩就是在腰上打一针麻药，把生孩子的疼压下去。它比别的止疼办法更管用，也不会让你更可能挨一刀。「打了无痛腰疼一辈子」同样没有依据。现在它有了单独的收费项目，为的是让医院更愿意做。",
+      "benefit": "Cochrane 系统综述的结论是：硬膜外镇痛在减轻产痛、提高产妇对镇痛的满意度上，比不用硬膜外的办法更有效。无痛分娩用的就是硬膜外镇痛。同一篇还说，「硬膜外镇痛对剖宫产风险和长期腰痛没有影响」。器械助产（用器械把孩子接出来）增加的现象，在 2005 年以后的研究中已经看不到。2024 年起，国家医保局的产科类医疗服务价格项目立项指南，把「分娩镇痛」「导乐分娩」「亲情陪产」单独立了项。理由正是原先没有独立的价格项目，医院提供分娩镇痛的积极性被压低",
+      "grade": "A",
+      "sources": "Anim-Somuah M, Smyth RMD, Cyna AM, Cuthbert A (2018). Epidural versus non-epidural or no analgesia for pain management in labour. Cochrane Database of Systematic Reviews, (5), CD000331. <https://doi.org/10.1002/14651858.CD000331.pub4>；国家医疗保障局 (2024). 重构产科服务价格项目 助力构建生育友好型社会. <https://www.gov.cn/zhengce/202406/content_6957553.htm>",
+      "notes": "「打无痛会腰疼一辈子」和「打无痛会难产要挨刀」这两条流传最广的说法都没有依据。Cochrane 把硬膜外镇痛和别的镇痛办法放在一起汇总，结论是它对剖宫产风险和长期腰痛都没有影响。真实的副作用是这些：血压偏低、发热、腿发软、尿不出来，以及第一、第二产程变长、更可能要用缩宫素。做不做自己定，但别因为传言放弃。能不能做还要看医院有没有 24 小时在场的麻醉医生，产检的时候就问清楚"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Muốn giảm đau khi sinh thì nói thẳng, phương pháp này không tăng nguy cơ sinh mổ",
+    "fields": {
+      "cost": "Vài trăm đến hơn một nghìn nhân dân tệ, giá tùy nơi. Hỏi trước bệnh viện và khoa gây mê có làm được không. Khó là phải tự mở lời",
+      "plain": "Giảm đau khi sinh là tiêm thuốc gây tê vùng lưng để giảm cơn đau đẻ. Cách này hiệu quả hơn các biện pháp giảm đau khác và không làm bạn dễ phải mổ hơn. «Gây tê rồi đau lưng cả đời» cũng không có căn cứ. Hiện đã có hạng mục thu phí riêng nên bệnh viện có động lực cung cấp hơn.",
+      "benefit": "Tổng quan hệ thống Cochrane kết luận: giảm đau ngoài màng cứng giảm đau chuyển dạ và tăng mức hài lòng về giảm đau tốt hơn những phương pháp không dùng ngoài màng cứng. Giảm đau khi sinh chính là phương pháp này. Cùng tổng quan còn nêu «giảm đau ngoài màng cứng không ảnh hưởng đến nguy cơ sinh mổ hoặc đau lưng lâu dài». Hiện tượng tăng sinh có hỗ trợ dụng cụ (dùng dụng cụ đỡ trẻ ra) không còn thấy trong các nghiên cứu sau 2005. Từ 2024, hướng dẫn lập hạng mục giá dịch vụ sản khoa của Cục Bảo hiểm Y tế Quốc gia đã tách riêng «giảm đau khi sinh», «hỗ trợ sinh bởi doula», «người thân đồng hành khi sinh». Lý do chính là trước đây không có hạng mục giá độc lập làm giảm động lực cung cấp giảm đau của bệnh viện",
+      "grade": "A",
+      "sources": "Anim-Somuah M, Smyth RMD, Cyna AM, Cuthbert A (2018). Epidural versus non-epidural or no analgesia for pain management in labour. Cochrane Database of Systematic Reviews, (5), CD000331. <https://doi.org/10.1002/14651858.CD000331.pub4>；国家医疗保障局 (2024). 重构产科服务价格项目 助力构建生育友好型社会. <https://www.gov.cn/zhengce/202406/content_6957553.htm>",
+      "notes": "Hai lời đồn phổ biến nhất, «gây tê sẽ đau lưng cả đời» và «gây tê sẽ sinh khó rồi phải mổ», đều không có căn cứ. Cochrane tổng hợp so sánh giảm đau ngoài màng cứng với các cách khác, kết luận không ảnh hưởng nguy cơ sinh mổ và đau lưng lâu dài. Tác dụng phụ thật gồm: huyết áp thấp, sốt, chân yếu, bí tiểu, giai đoạn chuyển dạ thứ nhất và thứ hai dài hơn, dễ cần oxytocin hơn. Bạn tự quyết có làm không, nhưng đừng từ bỏ vì lời đồn. Làm được hay không còn tùy bệnh viện có bác sĩ gây mê túc trực 24 giờ không; hỏi rõ khi khám thai"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

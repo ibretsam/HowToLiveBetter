@@ -1,6 +1,6 @@
 # Tiến độ và kế hoạch hoàn thành bản dịch tiếng Việt
 
-Cập nhật: **20/10/2026 (giờ Việt Nam)**. Đây là kế hoạch công việc; chưa thiết lập lịch chạy tự động và chưa bắt đầu đợt dịch mới theo kế hoạch này.
+Cập nhật: **20/10/2026 (giờ Việt Nam)**. Đã bắt đầu thực hiện: hoàn thành lô thử 30 mục và lời dẫn chương 34, có rà soát song ngữ độc lập. Chưa thiết lập lịch chạy tự động.
 
 ## Phạm vi và phiên bản đích
 
@@ -12,24 +12,29 @@ Các commit nguồn xuất hiện sau mốc này được ghi thành đợt cậ
 
 | Trạng thái mục | Số lượng | Tỷ lệ trên 765 mục |
 |---|---:|---:|
-| Có bản nháp tiếng Việt, nguồn chưa đổi | 95 | 12,4% |
-| Có bản tiếng Việt cũ, cần cập nhật | 554 | 72,4% |
-| Chưa có bản dịch dùng được cho mục hiện tại | 116 | 15,2% |
-| Tổng có bản tiếng Việt, gồm bản cũ | 649 | 84,8% |
+| Bản nháp tiếng Việt khớp nguồn hiện tại | 125 | 16,3% |
+| Có bản tiếng Việt cũ, cần cập nhật | 535 | 69,9% |
+| Chưa có bản dịch dùng được cho mục hiện tại | 105 | 13,7% |
+| Tổng có bản tiếng Việt, gồm bản cũ | 660 | 86,3% |
 
-**84,8% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 95 mục còn khớp nguồn cũng vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
+**86,3% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 125 mục khớp nguồn gồm 95 mục có nguồn chưa đổi và 30 mục của đợt mới đã qua rà soát độc lập. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
+
+Lô thử đã xử lý **11 mục chưa dịch và 19 mục cần cập nhật**, cộng lời dẫn chương 34. Chương 34 có đủ 12/12 mục và lời dẫn khớp nguồn đích. Trước khi bắt đầu, số liệu là 95/554/116; danh sách công việc trong checkpoint giữ mốc ban đầu để đối chiếu.
 
 Bài viết dài: 1/9 bản nháp còn khớp nguồn, 7/9 cần cập nhật, 1/9 chưa dịch. Phần hướng dẫn đọc và lời dẫn chương cần đối chiếu riêng; không được bỏ qua khi đủ 765 mục.
 
-Trong 554 mục thay đổi, có 404 mục đổi phần “Nói dễ hiểu”, 275 đổi “Lợi ích”, 364 đổi “Ghi chú”, 169 đổi “Nguồn”, 25 đổi “Chi phí” và 8 đổi “Mức độ bằng chứng”. Các nhóm chồng lấp. Cần dịch và soát những phần thay đổi trong ngữ cảnh cả mục, không mặc định dịch lại mọi câu cũ.
+Ở mốc ban đầu, trong 554 mục thay đổi, có 404 mục đổi phần “Nói dễ hiểu”, 275 đổi “Lợi ích”, 364 đổi “Ghi chú”, 169 đổi “Nguồn”, 25 đổi “Chi phí” và 8 đổi “Mức độ bằng chứng”. Các nhóm chồng lấp. Cần dịch và soát những phần thay đổi trong ngữ cảnh cả mục, không mặc định dịch lại mọi câu cũ.
 
-116 mục mới chứa khoảng 114.483 ký tự Hán; toàn bộ 554 mục cũ bị ảnh hưởng chứa khoảng 356.584 ký tự Hán (không phải tất cả đều thay đổi). Tám bài dài cần xử lý chứa khoảng 22.870 ký tự Hán. Đây là số đo độ lớn nguồn, không phải số từ tiếng Việt hoặc dự toán token.
+Ở mốc ban đầu, 116 mục mới chứa khoảng 114.483 ký tự Hán; toàn bộ 554 mục cũ bị ảnh hưởng chứa khoảng 356.584 ký tự Hán (không phải tất cả đều thay đổi). Tám bài dài cần xử lý chứa khoảng 22.870 ký tự Hán. Đây là số đo độ lớn nguồn, không phải số từ tiếng Việt hoặc dự toán token.
 
 Kiểm tra hiện tại:
 
 - `python3 tools/check-vi.py`: đạt cho snapshot cũ 01/10/2026 — 137 lô, 4.103 đoạn, 43 tệp, 649 mục. Không dùng kết quả này để tuyên bố đã dịch xong nguồn mới.
 - `python3 tools/check-vi-site.py`: đạt độ phủ 34 chương, 765 mục và 9 bài dài, cùng nhãn trạng thái và liên kết nguồn.
-- Trang đọc đang hiển thị đầy đủ nội dung nguồn và cảnh báo bản dịch chưa hoàn tất.
+- `python3 tools/check-vi-updates.py`: 31 bản nháp đạt, 31 bản ghi rà soát độc lập hợp lệ (30 mục và một lời dẫn).
+- `python3 tools/test-vi-updates.py`: 7 bài kiểm tra bảo vệ checkpoint đạt, gồm số liệu, URL, thiếu trường, cấu trúc bảng, thuật ngữ giữ nguyên và sửa sau rà soát.
+- Thử tiếp tục: 62 tệp bản nháp/rà soát giữ nguyên dấu kiểm sau khi chạy lại bước chuẩn bị.
+- Trang đọc giữ cảnh báo cho phần chưa xử lý; nhãn lời dẫn lấy theo trạng thái thực tế.
 
 ## Kế hoạch và thời gian dự kiến
 
@@ -47,27 +52,27 @@ Các ô đã đánh dấu phản ánh việc đã thực hiện và có bằng c
 
 **Cần hoàn tất trước lô dịch thử**
 
-- [ ] Tạo nhánh làm việc `codex/…` từ trạng thái sạch; ghi commit khởi đầu để có thể đối chiếu và khôi phục. Chỉ đưa các lô đã kiểm tra lên nhánh xuất bản.
-- [ ] Xuất danh sách công việc theo từng mục/đoạn: ID, tệp, nguồn đích, dấu kiểm nguồn, bản dịch hiện có và phần nguồn thay đổi; xác minh các mục đổi tiêu đề hoặc số thứ tự được ghép đúng.
-- [ ] Đưa 34 lời dẫn chương, tiêu đề, README/thuật ngữ và 9 bài dài vào danh sách công việc riêng, tránh chỉ đếm 765 mục rồi bỏ sót phần còn lại.
-- [ ] Chuẩn bị cơ chế lưu và tiếp tục theo từng lô: bản dịch nháp, bản đã rà soát, dấu kiểm nguồn và lỗi còn lại. Chạy lại phải giữ được các lô đã đạt.
-- [ ] Điều chỉnh bộ xuất và kiểm tra để nhận bản dịch của nguồn mới theo từng mục/tệp; giữ kiểm tra snapshot cũ. Không chạy bộ lắp ghép cũ lên nguồn mới hoặc đổi mốc chung chỉ để xóa nhãn “chưa cập nhật”.
-- [ ] Chuẩn bị kiểm tra số liệu, đơn vị, liên kết, trích dẫn, trường nội dung và phần còn tiếng Trung; thử với dữ liệu có lỗi để chắc chắn công cụ phát hiện được. Phân biệt trích dẫn được giữ nguyên với văn xuôi chưa dịch.
-- [ ] Lập bảng thuật ngữ dùng chung từ bản dịch hiện có: y tế, pháp luật, bảo hiểm, tiền tệ và ngưỡng số; chốt cách xử lý tên riêng, trích dẫn và điểm không rõ nghĩa của nguồn.
-- [ ] Chia lô nhỏ theo chương/tệp, có thứ tự ưu tiên và bước rà soát song ngữ riêng. Nếu làm song song, mỗi tệp chỉ có một người hoặc tác vụ phụ trách tại một thời điểm.
-- [ ] Chọn 20–30 mục cho lô thử: có mục mới, mục sửa ít/sửa nhiều, số liệu, phủ định và điều kiện; chọn thêm đoạn có bảng hoặc liên kết để thử đường xuất nội dung.
-- [ ] Kiểm tra hạn mức và thời gian phiên làm việc thực tế; ghi cách dừng và tiếp tục khi hết hạn mức. Kế hoạch hiện dùng AI trong phiên làm việc, chưa có lịch chạy nền hay dịch vụ dịch ngoài trả phí.
+- [x] Tạo nhánh làm việc `codex/…` từ trạng thái sạch; ghi commit khởi đầu để có thể đối chiếu và khôi phục. Chỉ đưa các lô đã kiểm tra lên nhánh xuất bản.
+- [x] Xuất danh sách công việc theo từng mục/đoạn: ID, tệp, nguồn đích, dấu kiểm nguồn, bản dịch hiện có và phần nguồn thay đổi; xác minh các mục đổi tiêu đề hoặc số thứ tự được ghép đúng.
+- [x] Đưa 34 lời dẫn chương, tiêu đề, README/thuật ngữ và 9 bài dài vào danh sách công việc riêng, tránh chỉ đếm 765 mục rồi bỏ sót phần còn lại.
+- [x] Chuẩn bị cơ chế lưu và tiếp tục theo từng lô: bản dịch nháp, bản đã rà soát, dấu kiểm nguồn và lỗi còn lại. Chạy lại phải giữ được các lô đã đạt.
+- [x] Điều chỉnh bộ xuất và kiểm tra để nhận bản dịch của nguồn mới theo từng mục/tệp; giữ kiểm tra snapshot cũ. Không chạy bộ lắp ghép cũ lên nguồn mới hoặc đổi mốc chung chỉ để xóa nhãn “chưa cập nhật”.
+- [x] Chuẩn bị kiểm tra số liệu, đơn vị, liên kết, trích dẫn, trường nội dung và phần còn tiếng Trung; thử với dữ liệu có lỗi để chắc chắn công cụ phát hiện được. Phân biệt trích dẫn được giữ nguyên với văn xuôi chưa dịch.
+- [x] Lập bảng thuật ngữ dùng chung từ bản dịch hiện có: y tế, pháp luật, bảo hiểm, tiền tệ và ngưỡng số; chốt cách xử lý tên riêng, trích dẫn và điểm không rõ nghĩa của nguồn.
+- [x] Chia lô nhỏ theo chương/tệp, có thứ tự ưu tiên và bước rà soát song ngữ riêng. Nếu làm song song, mỗi tệp chỉ có một người hoặc tác vụ phụ trách tại một thời điểm.
+- [x] Chọn 30 mục của chương 13, 19, 34 có mục mới/sửa, số liệu, phủ định và điều kiện. Kiểm tra liên kết trong lô; kiểm tra bảng bằng mẫu nguồn–bản dịch và 10 bảng trong hướng dẫn đọc hiện có.
+- [x] Kiểm tra hạn mức và thời gian phiên làm việc thực tế; ghi cách dừng và tiếp tục khi hết hạn mức. Kế hoạch hiện dùng AI trong phiên làm việc, chưa có lịch chạy nền hay dịch vụ dịch ngoài trả phí.
 
 **Cần đạt trước khi mở rộng dịch toàn bộ**
 
-- [ ] Hoàn thành lô thử, đối chiếu từng đoạn với nguồn và sửa hết lỗi; kiểm tra cấu trúc đạt. Kết quả lô thử được tính vào khối lượng chung.
-- [ ] Thử dừng rồi tiếp tục một lô; xác nhận không mất bản đã rà soát, không ghi đè nhầm và không tăng tiến độ cho bản còn lỗi.
-- [ ] Dựng trang thử với cả mục đã cập nhật và mục chưa xử lý; xác nhận nhãn trạng thái đúng, lời dẫn/bài dài được theo dõi, bản gốc và liên kết vẫn truy cập được.
-- [ ] Đo thời gian dịch, rà soát và sửa lỗi của lô thử; cập nhật lại ước lượng 24–36 giờ và mốc 26/10/2026 theo tốc độ đo được.
+- [x] Hoàn thành lô thử, đối chiếu từng đoạn với nguồn và sửa hết lỗi; kiểm tra cấu trúc đạt. Kết quả lô thử được tính vào khối lượng chung.
+- [x] Thử dừng rồi tiếp tục một lô; xác nhận không mất bản đã rà soát, không ghi đè nhầm và không tăng tiến độ cho bản còn lỗi.
+- [x] Dựng trang thử với cả mục đã cập nhật và mục chưa xử lý; xác nhận nhãn trạng thái đúng, lời dẫn/bài dài được theo dõi, bản gốc và liên kết vẫn truy cập được.
+- [x] Ghi thời gian lô thử trong `translation-checkpoint/vi-current/pilot-report.json`. Đánh giá lại ước lượng: tạm giữ 24–36 giờ và mốc mục tiêu 26/10/2026; thời gian chạy ba tác vụ song song không phải tổng giờ công, còn bài dài chưa được thử.
 
 Chỉ bắt đầu dịch toàn bộ khi các mục trong hai nhóm “Cần hoàn tất” và “Cần đạt” đã được đánh dấu kèm kết quả kiểm tra. Không cần hoàn thành bản dịch toàn bộ để vượt qua checklist chuẩn bị này.
 
-**Ước lượng ban đầu: 24–36 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Đây chưa phải số đo tốc độ thực tế của đợt mới. Hiệu chỉnh ước lượng sau lô thử 20–30 mục có cả mục mới và mục sửa nhiều.
+**Ước lượng đang giữ: 24–36 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Lô thử đã được đo, nhưng có ba tác vụ song song và chưa bao phủ bài dài; chưa đủ cơ sở rút ngắn lịch chỉ theo thời gian chạy của lô này. Ước lượng sẽ được hiệu chỉnh tiếp sau lô có bài dài. Mốc 26/10 vẫn là mục tiêu có điều kiện, không phải cam kết tự chạy nền.
 
 **Mục tiêu dự kiến: 26/10/2026**, nếu bắt đầu đợt dịch trong ngày 20/10 và dành khoảng 6 giờ xử lý chủ động mỗi ngày, không bị gián đoạn bởi giới hạn sử dụng. Các ngày dưới đây là lịch dự kiến, không phải cam kết chạy nền. Nếu phiên làm việc không tiếp tục hoặc phát sinh lỗi bảo toàn nội dung, ngày hoàn thành phải được tính lại theo số giờ còn lại.
 
@@ -96,7 +101,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 
 ## Danh sách theo chương
 
-“Khớp nguồn” dưới đây chỉ có nghĩa là nguồn chưa đổi so với bản nháp hiện có. Các số được lấy từ dữ liệu trang dựng ngày 20/10/2026.
+“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau lô thử ngày 20/10/2026.
 
 | Chương | Tổng mục | Khớp nguồn | Cần cập nhật | Chưa dịch |
 |---|---:|---:|---:|---:|
@@ -112,13 +117,13 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 10. Yêu và kết hôn có đáng không | 23 | 1 | 19 | 3 |
 | 11. Những ranh giới pháp luật mà lập trình viên và người làm kỹ thuật dễ vượt qua | 21 | 2 | 15 | 4 |
 | 12. Khởi nghiệp và kinh doanh: đừng mất cả tài sản gia đình | 28 | 0 | 23 | 5 |
-| 13. Tình huống khẩn cấp: làm gì trước | 48 | 1 | 43 | 4 |
+| 13. Tình huống khẩn cấp: làm gì trước | 48 | 11 | 37 | 0 |
 | 14. An toàn tài khoản và thông tin | 12 | 3 | 6 | 3 |
 | 15. Thuê và mua nhà | 18 | 0 | 9 | 9 |
 | 16. Sống thế nào sau khi mắc bệnh mạn tính | 14 | 1 | 8 | 5 |
 | 17. Khi gia đình có người cao tuổi | 13 | 1 | 8 | 4 |
 | 18. Nuôi con có đáng không | 7 | 1 | 5 | 1 |
-| 19. Đang làm việc, nghỉ việc và tai nạn lao động | 24 | 5 | 13 | 6 |
+| 19. Đang làm việc, nghỉ việc và tai nạn lao động | 24 | 13 | 11 | 0 |
 | 20. Chăm trẻ mới sinh thế nào | 17 | 1 | 12 | 4 |
 | 21. Ra nước ngoài, du lịch và an toàn ở nước ngoài | 13 | 1 | 10 | 2 |
 | 22. Thư giãn thế nào: nơi giải trí và giảm căng thẳng | 12 | 1 | 9 | 2 |
@@ -133,6 +138,6 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 31. Những con đường sau tuổi mười tám | 17 | 4 | 12 | 1 |
 | 32. Du học: tư cách cư trú, làm thêm, bảo hiểm và công nhận bằng khi về nước | 12 | 3 | 7 | 2 |
 | 33. Sống thế nào sau khi bị khuyết tật | 21 | 0 | 20 | 1 |
-| 34. Đừng để thuốc dự trữ trong nhà gây họa | 12 | 0 | 11 | 1 |
+| 34. Đừng để thuốc dự trữ trong nhà gây hại | 12 | 12 | 0 | 0 |
 
 Xem [thông tin và quy ước bản dịch](TRANSLATION.md) · [trang đọc](https://ibretsam.github.io/HowToLiveBetter/) · [thống kê máy đọc](https://ibretsam.github.io/HowToLiveBetter/coverage.json).

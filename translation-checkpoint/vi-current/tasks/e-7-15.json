@@ -1,0 +1,48 @@
+{
+  "id": "e-7-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "293bd1aa09c42c2acfa9975efcd6bcc487e6bd4f60bc9af37d99f225e313d17a",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "不交押金、不押证件、不签「培训贷」、不进传销、不借高利贷",
+    "fields": {
+      "cost": "不花钱。遇到「先交钱再上岗」「先培训再安排工作」「拉人头」这三种说法，当场拒绝。留好聊天记录和转账凭证。难在越缺钱越想赌一把，当场说「不」不容易。",
+      "plain": "用人单位不能扣你的身份证，不能收押金，也不能换个名目收钱。中介没给你介绍成工作，必须退中介费。先交培训费再上岗的培训贷、靠拉人头算钱的传销，都是官方点名的骗局。借钱的利息超过一年期 LPR 四倍的部分，法院不支持，但本金照还。",
+      "benefit": "公司不得扣押你的身份证等证件，不得要你找人担保，也不得换个名目收你的钱和物。违反的责令退还，并按每人 500 元以上 2000 元以下罚款。职业中介同样不得扣证件、收押金，工作没介绍成，必须把中介费退给你。打着招聘的名义，诱导你先交培训费或者先贷款，这是人社部等五部门点名提示的「招转培」「培训贷」骗局。靠拉人头算提成、交了钱才能加入的，属于传销，参加的人可罚 2000 元以下。民间借贷的利息，超过签合同时一年期 LPR 4 倍的那部分，法院不支持。这条新规矩取代了原来按 24%、36% 两条线划三段的老办法（全国，2020 年 8 月起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 劳动合同法（主席令第六十五号，第九、八十四条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；劳动保障部 (2007). 就业服务与就业管理规定（劳动保障部令第 28 号，第十四、五十五、五十八条）. <https://www.gov.cn/zhengce/2022-11/28/content_5711307.htm>；人力资源社会保障部等五部门 (2026). 警惕「招转培」「培训贷」等风险提示. <https://chinajob.mohrss.gov.cn/h5/c/2026-05-18/543038.shtml>；国务院 (2005). 禁止传销条例（国务院令第 444 号，第二、七、二十四条）. <https://www.gov.cn/gongbao/content/2005/content_80604.htm>；最高人民法院 (2020). 关于修改《关于审理民间借贷案件适用法律若干问题的规定》的决定（法释〔2020〕6 号，第二十六条）. <https://www.court.gov.cn/fabu/xiangqing/249031.html>；最高人民法院 (2020). 民间借贷利率司法保护上限调整为「一年期 LPR 的 4 倍」. <https://www.court.gov.cn/zixun/xiangqing/249051.html>",
+      "notes": "4 倍 LPR 是法院愿意保护的利息上限，不是「借了可以不还」，本金照还。这份司法解释 2020 年 12 月又改过一次，条文序号有变，以现行文本为准。分期和网贷的手续费怎么换算成年化利率，见第 5 节第 7 条（把利息换成年化利率）。越急着用钱，越容易被这些套路盯上。先走本节前面那几条正规渠道：失业保险金、劳动监察投诉、法律援助、救助站、临时救助。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Không nộp tiền đặt cọc, không giao giữ giấy tờ, không ký “vay đào tạo”, không vào đa cấp, không vay nặng lãi",
+    "fields": {
+      "cost": "Không tốn tiền. Gặp một trong ba kiểu nói “nộp tiền trước rồi mới được đi làm”, “đào tạo trước rồi mới bố trí việc”, “kéo thêm người” thì từ chối ngay tại chỗ. Giữ lại lịch sử tin nhắn và chứng từ chuyển tiền. Cái khó là càng thiếu tiền càng muốn đánh cược một phen, nói “không” ngay tại chỗ không dễ.",
+      "plain": "Đơn vị sử dụng lao động không được giữ căn cước của bạn, không được thu tiền đặt cọc, cũng không được thu tiền dưới danh nghĩa khác. Trung gian không giới thiệu được việc cho bạn thì phải hoàn lại phí trung gian. “Vay đào tạo” bắt nộp học phí trước rồi mới cho đi làm và đa cấp tính tiền theo số người kéo vào đều là những trò lừa đảo đã bị cơ quan nhà nước nêu đích danh. Phần lãi vay vượt quá bốn lần LPR kỳ hạn một năm không được tòa án chấp nhận, nhưng tiền gốc vẫn phải trả.",
+      "benefit": "Công ty không được giữ căn cước và các giấy tờ khác của bạn, không được yêu cầu bạn tìm người bảo lãnh, cũng không được thu tiền hay tài sản của bạn dưới danh nghĩa khác. Vi phạm sẽ bị buộc hoàn trả, và bị phạt từ 500 đến 2000 nhân dân tệ cho mỗi người. Trung gian việc làm cũng không được giữ giấy tờ, không được thu tiền đặt cọc; không giới thiệu được việc thì phải hoàn lại phí trung gian cho bạn. Mượn danh nghĩa tuyển dụng để dụ bạn nộp học phí đào tạo trước hoặc vay tiền trước, đó là trò lừa “tuyển dụng chuyển thành đào tạo”, “vay đào tạo” mà Bộ Nhân lực và An sinh xã hội cùng bốn cơ quan khác đã nêu đích danh cảnh báo. Tính hoa hồng theo số người kéo vào, phải nộp tiền mới được tham gia, thì thuộc đa cấp, người tham gia có thể bị phạt tối đa 2000 nhân dân tệ. Với lãi vay dân sự, phần vượt quá 4 lần LPR kỳ hạn một năm tại thời điểm ký hợp đồng thì tòa án không chấp nhận. Quy tắc mới này thay thế cách làm cũ chia ba khoảng theo hai mốc 24% và 36% (toàn quốc, từ tháng 8 năm 2020).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 劳动合同法（主席令第六十五号，第九、八十四条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；劳动保障部 (2007). 就业服务与就业管理规定（劳动保障部令第 28 号，第十四、五十五、五十八条）. <https://www.gov.cn/zhengce/2022-11/28/content_5711307.htm>；人力资源社会保障部等五部门 (2026). 警惕「招转培」「培训贷」等风险提示. <https://chinajob.mohrss.gov.cn/h5/c/2026-05-18/543038.shtml>；国务院 (2005). 禁止传销条例（国务院令第 444 号，第二、七、二十四条）. <https://www.gov.cn/gongbao/content/2005/content_80604.htm>；最高人民法院 (2020). 关于修改《关于审理民间借贷案件适用法律若干问题的规定》的决定（法释〔2020〕6 号，第二十六条）. <https://www.court.gov.cn/fabu/xiangqing/249031.html>；最高人民法院 (2020). 民间借贷利率司法保护上限调整为「一年期 LPR 的 4 倍」. <https://www.court.gov.cn/zixun/xiangqing/249051.html>",
+      "notes": "Mức 4 lần LPR là trần lãi suất mà tòa án sẵn sàng bảo vệ, không có nghĩa là “vay rồi có thể không trả”, tiền gốc vẫn phải trả. Bản giải thích tư pháp này đã được sửa thêm một lần vào tháng 12 năm 2020, số thứ tự điều khoản có thay đổi, lấy theo bản hiện hành. Càng cần tiền gấp, càng dễ bị những chiêu trò này nhắm tới. Trước hết hãy đi theo các kênh chính thức ở những mục đầu phần này: trợ cấp thất nghiệp, khiếu nại thanh tra lao động, trợ giúp pháp lý, trạm cứu trợ, cứu trợ tạm thời."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

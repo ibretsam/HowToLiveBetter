@@ -1,0 +1,48 @@
+{
+  "id": "e-6-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "475795244e5662776d7dcade09ec1aa229a8a910ed5fed1a7c1d04d66374ddf6",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "不要为了凑够「每天 8 杯水」强迫自己喝水",
+    "fields": {
+      "cost": "不花钱。要花一点时间和精力去记着喝，晚上起夜也会变多。",
+      "plain": "有人专门去追「每天 8 杯水」的出处，一项支持它的研究都没找到。食物和别的饮料里本来就带着大量水分，所以用不着喝那么多。这个结论只适用于住在气候温和的地方、平时不怎么动的健康成年人。天热干活、剧烈运动，还有为了治病防病要多喝的人，要另外主动喝。",
+      "benefit": "有一篇文献回顾专门查「8×8」这个说法，指的是每天 8 杯、每杯 8 盎司水。它的结论是「未找到任何支持 8×8 的科学研究」。它还写道，「对数千名成年人的食物与液体摄入调查强烈提示不需要如此大量」，因为食物和其他饮品已经提供了大量水分。作者特意写明，这个结论只适用于「气候温和、大部分时间坐着的健康成年人」。他还写道，有些病的治疗或预防要喝到 8×8 或更多，「剧烈劳动和运动，尤其在炎热气候下」当然也要多喝。这个说法看起来划算，是因为水不要钱、8 这个数字又整齐，而且「多喝水」这话在任何场合说出来都显得没坏处",
+      "grade": "C",
+      "sources": "Valtin H (2002). \"Drink at least eight glasses of water a day.\" Really? Is there scientific evidence for \"8 x 8\"? Am J Physiol Regul Integr Comp Physiol. <https://doi.org/10.1152/ajpregu.00365.2002>",
+      "notes": "要否掉的是「每天必须喝够几杯」这个数字，不是说多喝水有害。在高温下干活的人、剧烈运动的人另当别论，要主动喝。得过肾结石的要多喝，见第 16 节第 8 条（得过肾结石就把水喝到）。下面两句是常识性的提醒，来源栏那篇没有写：平时渴了就喝，看看尿的颜色；上年纪之后不太觉得渴的人，要主动喝"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Đừng ép uống cho đủ “8 cốc nước mỗi ngày”",
+    "fields": {
+      "cost": "Không tốn tiền. Mất chút thời gian, tâm sức nhớ uống, ban đêm đi tiểu nhiều hơn.",
+      "plain": "Có người truy nguồn “8 cốc nước mỗi ngày” mà không tìm được nghiên cứu nào ủng hộ. Thức ăn và đồ uống khác vốn chứa nhiều nước, không cần uống nhiều vậy. Khát thì uống, xem màu nước tiểu là đủ. Người làm việc trời nóng, vận động mạnh, từng sỏi thận, người già ít thấy khát cần chủ động uống thêm riêng.",
+      "benefit": "Một tổng quan truy riêng câu “8×8”, tức 8 cốc mỗi ngày, mỗi cốc 8 ounce. Kết luận “không tìm được nghiên cứu khoa học nào ủng hộ 8×8”. Bài còn viết “khảo sát thức ăn và chất lỏng của hàng nghìn người trưởng thành gợi ý mạnh rằng không cần nhiều đến vậy”, vì thức ăn, đồ uống khác đã cung cấp nhiều nước. Có vẻ hợp lý vì nước miễn phí, số 8 gọn, và “uống nhiều nước” nói ở đâu cũng có vẻ vô hại.",
+      "grade": "C",
+      "sources": "Valtin H (2002). \"Drink at least eight glasses of water a day.\" Really? Is there scientific evidence for \"8 x 8\"? Am J Physiol Regul Integr Comp Physiol. <https://doi.org/10.1152/ajpregu.00365.2002>",
+      "notes": "Điều bác bỏ là con số “phải đủ mấy cốc mỗi ngày”, không nói uống nhiều nước có hại. Khát thì uống, xem màu nước tiểu là đủ. Làm việc nóng, vận động mạnh, từng sỏi thận, lớn tuổi ít thấy khát thì cần chủ động uống, xét riêng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

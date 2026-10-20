@@ -1,0 +1,48 @@
+{
+  "id": "e-14-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "2470e881ac14a26dcbe5f041339d4782ee1193a2f4fc25cfc269b47f5a5fae44",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "刷脸不是必须答应的：有别的办法就不能只让你刷脸，你不同意得给你其他方式",
+    "fields": {
+      "cost": "不花钱。被要求刷脸时，问一句「有没有别的验证方式」。对方说没有，就要求它提供一个。难的是要当面开口问。",
+      "plain": "只要还有别的办法能办成同一件事，对方就不能只让你刷脸。你不同意刷脸，它得给你刷卡、密码或者身份证这类别的办法，也不许拿「那就办不了业务」来逼你。宾馆客房、公共浴室、更衣室、卫生间这些地方，谁都不许装人脸识别设备。",
+      "benefit": "人脸识别技术应用安全管理办法写明：「实现相同目的或者达到同等业务要求，存在其他非人脸识别技术方式的，不得将人脸识别技术作为唯一验证方式。个人不同意通过人脸信息进行身份验证的，应当提供其他合理、便捷的方式。」办法还写明：「任何组织和个人不得以办理业务、提升服务质量等为由，误导、欺诈、胁迫个人接受人脸识别技术验证个人身份。」要是按你同意来处理人脸信息，得取得「在充分知情的前提下自愿、明确作出的单独同意」：单独就这一件事问你，你单独点头才算。你有权撤回同意，处理者要提供便捷的撤回方式。处理不满十四周岁未成年人的人脸信息，应当取得父母或者其他监护人的同意。公共场所安装人脸识别设备，「应当为维护公共安全所必需」，并设置显著提示标识。宾馆客房、公共浴室、公共更衣室、公共卫生间等公共场所中的私密空间内部，任何组织和个人不得安装。人脸信息应当存储于人脸识别设备内，不得通过互联网对外传输。两种情况例外：法律、行政法规另有规定，或者取得了单独同意（全国，2025 年 6 月 1 日起施行）",
+      "grade": "A",
+      "sources": "国家互联网信息办公室、公安部 (2025). 人脸识别技术应用安全管理办法（第 19 号令，第十条、十二条、十三条、十五条，2025 年 6 月 1 日起施行）. <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm>",
+      "notes": "最常遇到的是小区门禁、租房平台、健身房、酒店要你录人脸。对方说「系统只支持刷脸」的时候，把办法的原话念给他听。原话是：「实现相同目的或者达到同等业务要求，存在其他非人脸识别技术方式的，不得将人脸识别技术作为唯一验证方式」。然后要求它提供刷卡、密码或者身份证这类别的方式。还是不给的，向当地网信部门反映。国家对刷脸验证身份另有规定的，比如一部分金融和政务场景，按那些规定办。人脸和密码最大的区别是泄露之后改不掉，所以它值得比密码更谨慎。存了 10 万人以上人脸信息的单位，要在 30 个工作日内向省级以上网信部门备案，这也是判断对方正不正规的一个问法。查阅、更正、删除自己个人信息的权利见第 8 条。别人借你的脸去办他自己的贷款，是另一回事，见第 8 节第 45 条（帮忙刷个脸）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Bạn không buộc phải đồng ý nhận diện khuôn mặt: có cách khác thì không được ép chỉ dùng khuôn mặt; nếu bạn từ chối, họ phải cung cấp phương thức khác",
+    "fields": {
+      "cost": "Không tốn tiền. Khi được yêu cầu quét mặt, hỏi “Có cách xác minh nào khác không?”. Nếu họ nói không, hãy yêu cầu cung cấp một cách khác. Khó nhất là phải trực tiếp lên tiếng.",
+      "plain": "Chỉ cần có cách khác làm được cùng việc đó, bên kia không được bắt bạn chỉ dùng khuôn mặt. Nếu bạn không đồng ý, họ phải cho dùng cách khác như thẻ, mật khẩu hoặc giấy tờ căn cước, và không được ép bằng câu “vậy thì không làm được thủ tục”. Không ai được lắp thiết bị nhận diện khuôn mặt trong phòng khách sạn, nhà tắm công cộng, phòng thay đồ hay nhà vệ sinh.",
+      "benefit": "Biện pháp quản lý an toàn ứng dụng công nghệ nhận diện khuôn mặt quy định: “Nếu có phương thức khác không dùng công nghệ nhận diện khuôn mặt mà đạt cùng mục đích hoặc đáp ứng cùng yêu cầu nghiệp vụ, không được dùng nhận diện khuôn mặt làm phương thức xác minh duy nhất. Nếu cá nhân không đồng ý xác minh danh tính bằng thông tin khuôn mặt, phải cung cấp phương thức khác hợp lý, thuận tiện.” Văn bản còn quy định: “Không tổ chức hay cá nhân nào được viện cớ giải quyết nghiệp vụ, nâng cao chất lượng dịch vụ, v.v. để gây hiểu lầm, lừa dối hoặc cưỡng ép cá nhân chấp nhận công nghệ nhận diện khuôn mặt nhằm xác minh danh tính.” Nếu xử lý thông tin khuôn mặt dựa trên sự đồng ý của bạn, họ phải có “sự đồng ý riêng biệt, tự nguyện và rõ ràng trên cơ sở được cung cấp đầy đủ thông tin”: phải hỏi riêng về việc này và bạn đồng ý riêng thì mới tính. Bạn có quyền rút lại đồng ý; bên xử lý phải cung cấp cách rút lại thuận tiện. Khi xử lý thông tin khuôn mặt của người chưa đủ mười bốn tuổi, phải được cha mẹ hoặc người giám hộ khác đồng ý. Thiết bị nhận diện khuôn mặt lắp tại nơi công cộng “phải cần thiết để bảo vệ an toàn công cộng”, kèm biển thông báo dễ thấy. Không tổ chức hay cá nhân nào được lắp trong không gian riêng tư thuộc nơi công cộng như phòng khách sạn, nhà tắm, phòng thay đồ và nhà vệ sinh công cộng. Thông tin khuôn mặt phải lưu trong thiết bị nhận diện, không được truyền ra ngoài qua Internet. Có hai ngoại lệ: luật hoặc quy định hành chính có quy định khác, hoặc đã được đồng ý riêng (áp dụng toàn quốc, có hiệu lực từ ngày 1 tháng 6 năm 2025)",
+      "grade": "A",
+      "sources": "国家互联网信息办公室、公安部 (2025). 人脸识别技术应用安全管理办法（第 19 号令，第十条、十二条、十三条，2025 年 6 月 1 日起施行）. <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm>",
+      "notes": "Tình huống thường gặp nhất là cổng khu dân cư, nền tảng thuê nhà, phòng tập và khách sạn yêu cầu ghi hình khuôn mặt. Khi họ nói “hệ thống chỉ hỗ trợ quét mặt”, hãy đọc nguyên văn quy định cho họ nghe: “Nếu có phương thức khác không dùng công nghệ nhận diện khuôn mặt mà đạt cùng mục đích hoặc đáp ứng cùng yêu cầu nghiệp vụ, không được dùng nhận diện khuôn mặt làm phương thức xác minh duy nhất”. Sau đó yêu cầu họ cung cấp cách khác như thẻ, mật khẩu hoặc giấy tờ căn cước. Nếu vẫn không có, phản ánh với cơ quan quản lý không gian mạng địa phương. Khi Nhà nước có quy định riêng về xác minh danh tính bằng khuôn mặt, chẳng hạn một số tình huống tài chính và hành chính công, thì làm theo quy định đó. Khác biệt lớn nhất giữa khuôn mặt và mật khẩu là khuôn mặt không đổi được sau khi bị lộ, nên cần thận trọng hơn mật khẩu. Đơn vị lưu thông tin khuôn mặt của từ 10 vạn người trở lên phải đăng ký với cơ quan quản lý không gian mạng cấp tỉnh trở lên trong 30 ngày làm việc; bạn cũng có thể hỏi việc này để đánh giá họ có hoạt động đúng quy định không. Quyền xem, sửa và xóa thông tin cá nhân của mình được nêu ở mục 8."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

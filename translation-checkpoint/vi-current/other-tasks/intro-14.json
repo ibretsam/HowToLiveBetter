@@ -1,0 +1,14 @@
+{
+  "id": "intro-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "3c6cfb14c74b5986081e11ce680bac14db5865ba640ce1305bb5ea3be54f2120",
+  "original": {
+    "title": "账号与信息安全",
+    "intro": "口径：金钱与个人信息。账号被别人登进去，丢的先是钱。对方还会用你的账号去骗你通讯录里的人。你的身份也等于被人拿走了。"
+  },
+  "previous_translation": {
+    "title": "An toàn tài khoản và thông tin",
+    "intro": "Tiêu chí: tiền bạc và thông tin cá nhân. Khi người khác đăng nhập được vào tài khoản của bạn, thứ mất đầu tiên là tiền. Họ còn dùng tài khoản đó lừa những người trong danh bạ của bạn. Danh tính của bạn cũng coi như bị chiếm đoạt."
+  }
+}

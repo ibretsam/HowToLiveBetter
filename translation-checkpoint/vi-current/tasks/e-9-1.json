@@ -1,0 +1,48 @@
+{
+  "id": "e-9-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "d469e306a5adbd2b264911271af08660e7edf0d39bdcab93c77f2f189e6e67cb",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "群里不转发不知真假的灾情、疫情、警情消息，不 P 图、不用 AI 造现场图",
+    "fields": {
+      "cost": "不花钱。转发前看一眼，看它是不是官方发的通报。拿不准就不转，也不改图、不加「据说」。难在忍住那股当第一个报信人的劲头。",
+      "plain": "一条灾情、疫情、警情的消息，你明知是假的还转出去，罚得和自己编一样重。不是你编的也一样：拘留 5 到 10 日，还可以再罚 1000 元以下。把社会秩序搅乱得厉害的，判 3 年以下，造成严重后果判 3 到 7 年。P 图、AI 做的假现场图，都算自己编。",
+      "benefit": "故意散布谣言，谎报险情、疫情、灾情、警情，扰乱公共秩序的，拘留 5 到 10 日。还可以再罚 1000 元以下。情节较轻的那一档，是拘留 5 日以下，或者罚 1000 元以下。编造虚假的险情、疫情、灾情、警情，放到网上传播的，判 3 年以下。明知是假的还故意往外传，也是这一档。前提是把社会秩序搅乱得厉害，法条的说法是「严重扰乱社会秩序」。造成严重后果的，判 3 到 7 年（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十九条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第三十二条，即刑法第二百九十一条之一第二款）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百九十一条之一）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>（北京市公安交通管理局转载）",
+      "notes": "明知是假还转发，和自己编，警察用的是同一个条款。「我只是转了一下」不免责。P 图和 AI 生成的假现场图，一样算自己编。公安部 2025 年公布过多批涉灾情、险情的网络谣言典型案例。本节写作时公安部网站打不开，所以没引用具体案例。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Trong nhóm đừng chuyển tin thiên tai, dịch bệnh, vụ việc cảnh sát chưa rõ thật giả; đừng sửa ảnh hay dùng AI dựng ảnh hiện trường",
+    "fields": {
+      "cost": "Không tốn tiền. Trước chia sẻ, xem có phải thông báo chính thức không. Không chắc thì không chuyển, không sửa ảnh, không thêm “nghe nói”. Khó nhất là nhịn ham muốn làm người báo tin đầu tiên.",
+      "plain": "Tin thiên tai, dịch bệnh, vụ việc cảnh sát mà biết giả vẫn chuyển thì bị phạt nặng như tự bịa. Dù không do bạn bịa cũng vậy: tạm giữ 5 đến 10 ngày, còn phạt 1000 nhân dân tệ. Làm rối loạn trật tự xã hội phạt đến 3 năm; hậu quả nghiêm trọng phạt 3 đến 7 năm. Ảnh hiện trường giả chỉnh sửa hoặc tạo bằng AI đều tính là tự bịa.",
+      "benefit": "Cố ý phát tán tin đồn, báo giả nguy hiểm, dịch bệnh, thiên tai, vụ việc cảnh sát gây rối trật tự công cộng bị tạm giữ 5 đến 10 ngày, có thể kèm phạt đến 1000 nhân dân tệ. Tình tiết nhẹ hơn thì tạm giữ đến 5 ngày hoặc phạt đến 1000 nhân dân tệ. Bịa tin giả về nguy hiểm, dịch bệnh, thiên tai, vụ việc cảnh sát rồi phát trên mạng bị phạt đến 3 năm. Biết giả vẫn cố ý phát cũng cùng mức. Điều kiện là gây rối trật tự xã hội nặng, luật gọi “gây rối loạn nghiêm trọng trật tự xã hội”. Gây hậu quả nghiêm trọng phạt 3 đến 7 năm (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十九条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第三十二条，即刑法第二百九十一条之一第二款）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百九十一条之一）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>（北京市公安交通管理局转载）",
+      "notes": "Biết giả vẫn chuyển và tự bịa được cảnh sát áp cùng điều khoản. “Tôi chỉ chia sẻ lại” không miễn trách nhiệm. Ảnh hiện trường giả do chỉnh sửa hay AI cũng tính tự bịa. Bộ Công an từng công bố nhiều đợt vụ điển hình về tin đồn thiên tai, nguy hiểm năm 2025. Khi viết chương này không mở được website Bộ nên không dẫn vụ cụ thể."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

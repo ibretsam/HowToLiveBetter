@@ -13,6 +13,9 @@ on:
       - tools/check-vi-site.py
       - tools/check-vi.py
       - tools/vi_segments.py
+      - tools/vi_updates.py
+      - tools/check-vi-updates.py
+      - tools/test-vi-updates.py
       - tools/assemble-vi.py
       - tools/epub/package*.json
       - translation-checkpoint/**
@@ -45,6 +48,10 @@ jobs:
       - run: npm --prefix tools/epub ci
       - name: Validate pinned Vietnamese drafts
         run: python3 tools/check-vi.py
+      - name: Validate current-source drafts and independent reviews
+        run: python3 tools/check-vi-updates.py
+      - name: Check translation validation rejects damaged records
+        run: python3 tools/test-vi-updates.py
       - name: Build every current chapter and article
         run: python3 tools/build-vi-site.py
       - name: Check coverage and translation status

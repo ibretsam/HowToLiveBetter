@@ -1,0 +1,49 @@
+{
+  "id": "e-20-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "be422e58cd33d75af64b69dfe5f4938d9787601f7e3a3eabb78925f08d9025ed",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "盯住新生儿黄疸的几个信号：出生 24 小时内就黄、叫不醒不吃奶，就当天去医院；越来越黄、大便发白，就尽快去查",
+    "fields": {
+      "cost": "挂号加测胆红素，几百元以内。要照蓝光的，一般在医院照两天左右。难在孩子看着还好的时候，也要跑这一趟",
+      "plain": "八成以上的新生儿会有点黄。出生不满 24 小时就黄，或者黄的同时比平时嗜睡叫不醒、不吃奶、身子发软或发硬，要马上去医院。过了 24 小时越来越黄，或者大便颜色发白，也要尽快去查，大便发白可能是胆道闭锁。胆红素太高会伤到脑子，留下一辈子的残疾。",
+      "benefit": "美国儿科学会 2022 年的指南说，「超过 80% 的新生儿会有某种程度的黄疸」。胆红素太高，会引起急性胆红素脑病和核黄疸。指南说核黄疸是「永久的致残性神经系统疾病」。它的表现包括手脚不自主扭动的脑瘫、眼睛往上看不了、乳牙釉质发育不良和听力损害。指南把「出生后 24 小时内出现黄疸」列为会发展成重度黄疸的风险因素。英国国家医疗服务体系（NHS）给家长的说法分两档。第一档要打急救电话或直接去急诊。这一档是孩子有黄疸，同时比平时嗜睡或叫不醒、不吃奶、身子发软或发硬、有抽动。孩子出生还不满 24 小时就有黄疸的，也算这一档。第二档要尽快约医生。这一档是出生超过 24 小时，黄疸不见好或越来越重，尿深黄或褐色，或者大便是淡奶油色。全球估算，2010 年约 48 万名新生儿得了 Rh 溶血病（母子血型不合引起）或极重度的高胆红素血症。这些孩子里 24% 死亡，13% 发展成核黄疸。核黄疸活下来的孩子里，83% 以上留下一种或多种残损。大便发白可能是胆道闭锁，这种病要在 60 天内做葛西手术（Kasai 手术），治疗结果才明显更好。台湾从 2004 年起，把大便比色卡印进每个新生儿的儿童健康手册。60 天内做上手术的比例，从 2004 年的 60% 升到 2005 年的 74.3%。另一项台湾全民研究里，推行比色卡之后，胆道闭锁孩子的死亡率从 26.2% 降到 15.9%。这是前后对比，不是分组试验",
+      "grade": "B",
+      "sources": "Kemper AR, Newman TB, Slaughter JL, et al. (2022). Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics, 150(3), e2022058859. <https://doi.org/10.1542/peds.2022-058859>；NHS. Jaundice in babies（2026-03-24 审阅）. <https://www.nhs.uk/conditions/jaundice-newborn/>；NICE (2010, 2023 修订). Jaundice in newborn babies under 28 days (CG98), 1.2.6、1.7.1. <https://www.nice.org.uk/guidance/cg98/chapter/Recommendations>；Bhutani VK, Zipursky A, Blencowe H, et al. (2013). Neonatal hyperbilirubinemia and Rhesus disease of the newborn: incidence and impairment estimates for 2010 at regional and global levels. Pediatric Research, 74(Suppl 1), 86-100. <https://doi.org/10.1038/pr.2013.208>；Hsiao CH, Chang MH, Chen HL, et al. (2008). Universal screening for biliary atresia using an infant stool color card in Taiwan. Hepatology, 47(4), 1233-1240. <https://doi.org/10.1002/hep.22182>；Lee M, Chen SC, Yang HY, et al. (2016). Infant Stool Color Card Screening Helps Reduce the Hospitalization Rate and Mortality of Biliary Atresia: A 14-Year Nationwide Cohort Study in Taiwan. Medicine, 95(12), e3166. <https://doi.org/10.1097/MD.0000000000003166>；国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版），0～6 岁儿童健康管理服务规范. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>",
+      "notes": "照蓝光（光照治疗）是用特殊的光照孩子的皮肤，让胆红素变成容易排出去的形式。别在家晒太阳代替：美国儿科学会说，晒太阳很难做到既安全又不晒伤，所以不推荐拿它当治疗。也别喂水或葡萄糖水来退黄，这个指南也明确不推荐。肉眼看黄的深浅，估不准胆红素有多高。英国 NICE 指南写明不要只靠肉眼，拿不准就去测一次。不满 38 周出生、哥哥姐姐照过蓝光、母乳没吃够的孩子，更容易黄得重。复查按国家基本公共卫生服务规范走：出院后 1 周内，医务人员上门访视。出生后 28 到 30 天，到社区卫生服务中心或乡镇卫生院随访。两次都要看黄疸。出院时医生另约了复查胆红素的，按约的时间去。足月的孩子黄了超过 14 天，早产的超过 21 天，NICE 指南要求查一次结合胆红素，并看大便是不是发白。黄疸本身不耽误打疫苗，见本节第 3 条（疫苗）。新生儿筛查见第 27 节第 13 条（足跟血筛查）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Theo dõi dấu hiệu vàng da sơ sinh: vàng trong 24 giờ đầu, ngày càng vàng, khó đánh thức không bú, phân bạc màu thì đi bệnh viện trong ngày",
+    "fields": {
+      "cost": "Khám và đo bilirubin trong vài trăm nhân dân tệ. Cần chiếu đèn xanh thường nằm viện khoảng hai ngày. Khó là trẻ trông vẫn ổn cũng phải đi",
+      "plain": "Ít nhất tám phần mười trẻ sơ sinh hơi vàng, phần lớn tự hết. Vàng trước 24 giờ, càng vàng, ngủ nhiều hơn khó đánh thức, không bú, người mềm nhũn hoặc cứng thì đi viện trong ngày. Phân bạc màu có thể teo đường mật, cũng cần khám sớm. Bilirubin quá cao tổn thương não, để lại tàn tật cả đời.",
+      "benefit": "Hướng dẫn 2022 Hội Nhi khoa Hoa Kỳ nói “hơn 80% trẻ sơ sinh có vàng da ở mức nào đó”. Bilirubin quá cao gây bệnh não bilirubin cấp và vàng da nhân. Hướng dẫn gọi vàng da nhân là “bệnh thần kinh gây khuyết tật vĩnh viễn”, biểu hiện bại não với tay chân vặn vẹo không tự chủ, không nhìn lên được, men răng sữa kém phát triển, tổn thương thính lực. “Vàng da trong 24 giờ sau sinh” là yếu tố nguy cơ thành vàng da nặng. NHS Anh hướng dẫn cha mẹ hai mức. Mức đầu gọi cấp cứu hoặc đến cấp cứu ngay: trẻ vàng da kèm ngủ nhiều hơn, không đánh thức được, không bú, mềm nhũn hoặc cứng, co giật; vàng trước 24 giờ cũng thuộc mức này. Mức hai hẹn bác sĩ sớm: trẻ trên 24 giờ, vàng không giảm hoặc tăng, nước tiểu vàng sẫm/nâu, hoặc phân kem nhạt. Ước tính toàn cầu năm 2010 khoảng 48 vạn trẻ mắc bệnh tan máu Rh (bất đồng nhóm máu mẹ con) hoặc tăng bilirubin cực nặng. Trong đó 24% chết, 13% thành vàng da nhân. Trong trẻ sống sót vàng da nhân, ít nhất 83% có một hoặc nhiều khiếm khuyết. Phân bạc màu có thể teo đường mật; bệnh này mổ Kasai trong 60 ngày mới có tiên lượng tốt hơn rõ. Từ 2004, Đài Loan in thẻ so màu phân vào sổ sức khỏe mọi trẻ. Tỷ lệ mổ trong 60 ngày tăng từ 60% năm 2004 lên 74.3% năm 2005. Nghiên cứu toàn dân khác ở Đài Loan: sau triển khai thẻ, tử vong trẻ teo đường mật giảm từ 26.2% xuống 15.9%. Đây là so trước sau, không thử nghiệm chia nhóm",
+      "grade": "B",
+      "sources": "Kemper AR, Newman TB, Slaughter JL, et al. (2022). Clinical Practice Guideline Revision: Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics, 150(3), e2022058859. <https://doi.org/10.1542/peds.2022-058859>；NHS. Jaundice in babies（2026-03-24 审阅）. <https://www.nhs.uk/conditions/jaundice-newborn/>；NICE (2010, 2023 修订). Jaundice in newborn babies under 28 days (CG98), 1.2.6、1.7.1. <https://www.nice.org.uk/guidance/cg98/chapter/Recommendations>；Bhutani VK, Zipursky A, Blencowe H, et al. (2013). Neonatal hyperbilirubinemia and Rhesus disease of the newborn: incidence and impairment estimates for 2010 at regional and global levels. Pediatric Research, 74(Suppl 1), 86-100. <https://doi.org/10.1038/pr.2013.208>；Hsiao CH, Chang MH, Chen HL, et al. (2008). Universal screening for biliary atresia using an infant stool color card in Taiwan. Hepatology, 47(4), 1233-1240. <https://doi.org/10.1002/hep.22182>；Lee M, Chen SC, Yang HY, et al. (2016). Infant Stool Color Card Screening Helps Reduce the Hospitalization Rate and Mortality of Biliary Atresia: A 14-Year Nationwide Cohort Study in Taiwan. Medicine, 95(12), e3166. <https://doi.org/10.1097/MD.0000000000003166>；国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版），0～6 岁儿童健康管理服务规范. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>",
+      "notes": "Chiếu đèn xanh (quang trị liệu) dùng ánh sáng đặc biệt lên da, chuyển bilirubin thành dạng dễ thải. Đừng phơi nắng tại nhà thay thế: Hội Nhi khoa Hoa Kỳ nói khó đảm bảo vừa an toàn vừa không cháy nắng nên không khuyến nghị làm điều trị. Cũng đừng cho nước hay nước glucose để hết vàng, hướng dẫn phản đối rõ. Nhìn độ vàng bằng mắt không ước lượng chính xác bilirubin. NICE Anh yêu cầu không chỉ dựa mắt, không chắc thì đo. Trẻ sinh dưới 38 tuần, anh chị từng chiếu đèn, bú mẹ chưa đủ dễ vàng nặng hơn. Tái khám theo tiêu chuẩn dịch vụ y tế công cộng cơ bản quốc gia: trong 1 tuần sau xuất viện nhân viên y tế thăm nhà; từ 28 đến 30 ngày sau sinh đến trung tâm y tế cộng đồng hoặc trạm y tế xã/thị trấn theo dõi. Cả hai lần đều xem vàng da. Nếu bác sĩ hẹn đo bilirubin riêng khi xuất viện thì đi đúng hẹn. Trẻ đủ tháng vàng hơn 14 ngày, sinh non hơn 21 ngày, NICE yêu cầu đo bilirubin liên hợp và xem phân có bạc màu không. Vàng da tự nó không cản tiêm vắc xin, xem mục 3 chương này. Sàng lọc sơ sinh xem chương 27 mục 13 (lấy máu gót chân)."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

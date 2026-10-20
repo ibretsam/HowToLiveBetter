@@ -1,0 +1,15 @@
+{
+  "id": "e-13-28",
+  "source_sha256": "504a6a37617668794ba22f343b3e0ee820ded671f73fb9025b23feef30bf158e",
+  "draft_sha256": "68f97f6e35a09e1a800b290fe177f535c343fd67503f841c97541356906b04f4",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed warming sequence, shivering, frostbite and limited-source-access note. Made 以下 inclusive at35C/95F per translation convention. Source itself says unconsciousness triggers CPR without a breathing qualification; faithfully retained and flagged for source review rather than adding advice."
+}

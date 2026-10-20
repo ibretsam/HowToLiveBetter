@@ -1,0 +1,15 @@
+{
+  "id": "e-13-46",
+  "source_sha256": "59b6d208d13356b640132c5c1fd9dea24f1a8b3ef28e99d3ecdf9df272ee0aed",
+  "draft_sha256": "1d9f0ccb2c258e192390294edba334c5c24dc478f590471fe7838886df714a4a",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed alertness/swallowing/vomiting conditions for water, recovery posture, CPR trigger, conflicting emesis guidance, all legal percentages and amounts, local setting and cross-references. No correction required."
+}

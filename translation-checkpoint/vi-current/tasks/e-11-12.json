@@ -1,0 +1,48 @@
+{
+  "id": "e-11-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "654166ce4dfb9b700de8aecb234acf86e8182538f01a7cef6914f7d8ee15aae9",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "签了竞业协议，离职后公司不按月给补偿就书面催告，满 3 个月没给可以解除；没接触过商业秘密的岗位可请求确认条款不生效",
+    "fields": {
+      "cost": "不花钱。离职时留好竞业协议的原件，以及公司没有按月付钱的证据",
+      "plain": "竞业限制就是离职后一段时间不许去同行干活，最长 2 年，公司要按月给补偿。没约定数额的，按离职前 12 个月平均工资的 30% 给，不低于当地最低工资。公司的原因 3 个月没给，你可以请求解除。2025 年起，没接触过商业秘密的岗位，可以请求确认条款不生效。",
+      "benefit": "竞业限制只能约束高管、高级技术人员，以及其他负有保密义务的人。期限最长 2 年。公司必须在这段期限内按月给经济补偿。没有约定补偿数额的，按离职前 12 个月平均工资的 30% 给，并且不低于当地最低工资。因为公司自己的原因 3 个月没付，劳动者可以请求解除这份竞业限制。公司主动解除的，要额外付 3 个月补偿。2025 年起，岗位上没知道、没接触过商业秘密的劳动者，可以请求确认条款不生效。约定范围超出他实际知道的那部分秘密的，超出的部分无效。官方案例：某医药公司起诉首席技术官郑某，索赔违约金 710 万元。法院认定他新东家的产品与原公司不具替代性，竞业范围应当限于他实际知悉的秘密，判决全部驳回（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012). 劳动合同法（2012 年修正，第二十三、二十四条）. <https://yjglj.fushun.gov.cn/008/20260622/d846d3c2-df3d-4c4c-af16-898ede43e1ee.html>（抚顺市应急管理局转载）；最高人民法院 (2020). 关于审理劳动争议案件适用法律问题的解释（一）（第三十六至四十条）. <https://www.court.gov.cn/zixun/xiangqing/282121.html>；最高人民法院 (2025). 关于审理劳动争议案件适用法律问题的解释（二）（法释〔2025〕12 号，第十三至十五条）. <https://www.court.gov.cn/zixun/xiangqing/472691.html>；最高人民法院 (2025). 劳动争议典型案例（案例四）. <https://www.court.gov.cn/zixun/xiangqing/472681.html>",
+      "notes": "法条只看是不是因为公司的原因满 3 个月没付，书面催告是作者建议的留证办法。反过来，协议有效、公司也按月付了钱，你还去竞品上班，就要按约定掏违约金。掏完还可能被要求把剩下的竞业期守完。公司和高管、高级技术人员这类负有保密义务的人约定在职期间也不许干竞业，公司不另外给钱也算数。除了竞业限制和专项培训服务期，公司不能约定由你付违约金，见第 19 节第 22 条（离职被要违约金）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Đã ký thỏa thuận không cạnh tranh mà công ty không trả bồi hoàn hằng tháng sau khi nghỉ việc thì gửi yêu cầu bằng văn bản; đủ 3 tháng không trả có thể yêu cầu chấm dứt; người chưa tiếp xúc bí mật kinh doanh có thể yêu cầu xác nhận điều khoản không có hiệu lực",
+    "fields": {
+      "cost": "Không tốn tiền. Khi nghỉ việc, giữ bản gốc thỏa thuận không cạnh tranh và chứng cứ công ty không trả tiền hằng tháng.",
+      "plain": "Hạn chế cạnh tranh nghĩa là sau khi nghỉ không được làm cho đơn vị cùng ngành trong một thời gian, tối đa 2 năm; công ty phải bồi hoàn hằng tháng. Không thỏa thuận mức tiền thì trả 30% lương bình quân 12 tháng trước khi nghỉ, không thấp hơn lương tối thiểu địa phương. Do lỗi công ty mà 3 tháng không trả, bạn có thể yêu cầu chấm dứt. Từ năm 2025, người ở vị trí chưa tiếp xúc bí mật kinh doanh có thể yêu cầu xác nhận điều khoản không có hiệu lực.",
+      "benefit": "Hạn chế cạnh tranh chỉ ràng buộc quản lý cấp cao, nhân viên kỹ thuật cấp cao và người khác có nghĩa vụ bảo mật, tối đa 2 năm. Công ty phải trả bồi hoàn kinh tế hằng tháng trong thời gian này. Không thỏa thuận mức thì trả 30% lương bình quân 12 tháng trước khi nghỉ, không thấp hơn lương tối thiểu địa phương. Vì nguyên nhân phía công ty mà 3 tháng không trả, người lao động có thể yêu cầu chấm dứt hạn chế. Công ty chủ động chấm dứt phải trả thêm 3 tháng bồi hoàn. Từ năm 2025, người không biết, không tiếp xúc bí mật kinh doanh trong công việc có thể yêu cầu xác nhận điều khoản không có hiệu lực. Phạm vi thỏa thuận vượt phần bí mật thực tế họ biết thì phần vượt đó vô hiệu. Vụ án chính thức: một công ty dược kiện giám đốc công nghệ Trịnh, đòi tiền phạt vi phạm 710 vạn nhân dân tệ. Tòa xác định sản phẩm công ty mới không thay thế sản phẩm công ty cũ, phạm vi hạn chế phải giới hạn ở bí mật thực tế người này biết, nên bác toàn bộ yêu cầu (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012). 劳动合同法（2012 年修正，第二十三、二十四条）. <https://yjglj.fushun.gov.cn/008/20260622/d846d3c2-df3d-4c4c-af16-898ede43e1ee.html>（抚顺市应急管理局转载）；最高人民法院 (2020). 关于审理劳动争议案件适用法律问题的解释（一）（第三十六至四十条）. <https://www.court.gov.cn/zixun/xiangqing/282121.html>；最高人民法院 (2025). 关于审理劳动争议案件适用法律问题的解释（二）（法释〔2025〕12 号，第十三至十五条）. <https://www.court.gov.cn/zixun/xiangqing/472691.html>；最高人民法院 (2025). 劳动争议典型案例（案例四）. <https://www.court.gov.cn/zixun/xiangqing/472681.html>",
+      "notes": "Ngược lại, thỏa thuận có hiệu lực, công ty trả tiền hằng tháng mà bạn vẫn làm cho đối thủ thì phải trả tiền phạt vi phạm theo thỏa thuận. Trả xong vẫn có thể bị yêu cầu tuân thủ hết thời gian hạn chế còn lại. Hạn chế cạnh tranh thỏa thuận trong thời gian còn làm việc vẫn có hiệu lực dù công ty không trả thêm tiền."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

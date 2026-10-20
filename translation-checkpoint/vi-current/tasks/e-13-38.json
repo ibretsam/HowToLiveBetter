@@ -1,0 +1,48 @@
+{
+  "id": "e-13-38",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "180e5e84662ffa58c113e510198751999f98504f13ee3aeaf80d120c456bfc0a",
+  "status": "outdated",
+  "original": {
+    "number": 38,
+    "title": "可能被 HIV 暴露了，72 小时内去拿阻断药，越早越好",
+    "fields": {
+      "cost": "一个 28 天疗程的药费上千元，多数地区自费。当晚就得跑一趟医院。难的是当场承认自己可能被传染，立刻出门。",
+      "plain": "怀疑自己可能接触了艾滋病病毒，72 小时是硬线，最好 2 小时内就吃上药。药要连吃 28 天。超过 72 小时这条路就没了，所以别等到第二天再决定。",
+      "benefit": "北京市人民政府防艾科普栏目的口径是：接触之后的预防用药叫暴露后预防（英文缩写 PEP），应「尽可能在 2 小时内进行预防性用药，最好在 24 小时内、不超过 72 小时」。还要「连续服用 28 天」。超过 72 小时就不再建议启动，这是一条硬时限。北京那篇还写明，「每天规律服药比经常漏服阻断效果好」。中国疾控艾防中心的技术指南写明，漏服、自行停药都会降低预防效果。指南要求开始服药第 2 周随访药物副作用，暴露后 30 天和 90 天各做一次艾滋病和丙肝抗体检测。重庆市疾控中心 2024 年发布，全市能开暴露前后预防药的有 26 个区县 29 家门诊，其中 14 家提供 24 小时服务",
+      "grade": "B",
+      "sources": "北京市人民政府. 事前、事后分不清？六问六答全面了解艾滋病病毒暴露前/暴露后预防. <https://www.beijing.gov.cn/fuwu/bmfw/jhsyfwzdzx/sjazbr/fakp/202311/t20231110_3299397.html>；中国疾病预防控制中心性病艾滋病预防控制中心 (2020). 艾滋病病毒暴露后预防技术指南（试用）：「服药者可能由于不能耐受药物的副作用而停药，或者因其他原因发生漏服等情况。这些都将降低药物的预防有效性」「医生应在求询者暴露后30天和90天，分别对服药者进行HIV、HCV抗体检测随访」. <https://www.chinacdc.cn/jkyj/crb2/yl/azb/jswj_azb/202410/t20241027_302131.html>；重庆市疾病预防控制中心 (2024). 重庆市艾滋病暴露后预防用药24小时门诊规范化流程建设指南发布，已有多家医院提供全天候服务：「重庆市目前提供艾滋病暴露前和暴露后预防药物服务的机构已经增加至26个区县29家门诊」「能提供24小时全天候服务的门诊已经达到14家」. <https://www.cqcdc.org/index.php?a=shows&catid=2270&id=3045>",
+      "notes": "去哪里拿：当地疾控中心指定的艾滋病定点医疗机构，通常挂感染科（性病艾滋病门诊）。有的城市已经建了 24 小时门诊，比如重庆。去之前打当地疾控电话问哪家有药，别在急诊科耗时间。算「暴露」的情况包括没做防护的性行为、安全套破了、被针头扎到、血沾到黏膜上，到底用不用药由医生判断。药必须吃满 28 天，漏服会降低效果。之后按医嘱在暴露后 30 天和 90 天复查。阻断药只是补救，替代不了平时的预防。日常预防和检测见第 1 节第 30、31 条（全程用安全套、有过高危行为就去查）。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 38,
+    "title": "Có thể đã phơi nhiễm HIV: đi lấy thuốc dự phòng trong vòng 72 giờ, càng sớm càng tốt",
+    "fields": {
+      "cost": "Một liệu trình 28 ngày tốn cả nghìn nhân dân tệ, đa số địa phương phải tự trả. Phải đến bệnh viện ngay trong đêm đó. Điều khó là ngay lúc đó thừa nhận mình có thể đã bị lây và lập tức ra khỏi nhà.",
+      "plain": "Nghi mình bị lây HIV thì 72 giờ là hạn chót cứng, tốt nhất uống thuốc trong vòng 2 giờ. Thuốc phải uống liên tục 28 ngày. Quá 72 giờ là không còn con đường này nữa, nên đừng đợi đến hôm sau mới quyết định.",
+      "benefit": "Chuyên mục phổ biến kiến thức phòng chống AIDS của Chính quyền Nhân dân thành phố Bắc Kinh nói: dùng thuốc dự phòng sau tiếp xúc gọi là dự phòng sau phơi nhiễm (viết tắt tiếng Anh là PEP), nên “cố gắng dùng thuốc dự phòng trong vòng 2 giờ, tốt nhất trong vòng 24 giờ, không quá 72 giờ”. Ngoài ra phải “uống liên tục 28 ngày”. Quá 72 giờ thì không còn khuyến nghị bắt đầu nữa, đây là một hạn chót cứng.",
+      "grade": "B",
+      "sources": "北京市人民政府. 事前、事后分不清？六问六答全面了解艾滋病病毒暴露前/暴露后预防. <https://www.beijing.gov.cn/fuwu/bmfw/jhsyfwzdzx/sjazbr/fakp/202311/t20231110_3299397.html>；中国疾病预防控制中心性病艾滋病预防控制中心 (2020). 艾滋病病毒暴露后预防技术指南（试用）. <https://www.chinacdc.cn/jkyj/crb2/yl/azb/jswj_azb/202410/t20241027_302131.html>",
+      "notes": "Lấy thuốc ở đâu: cơ sở y tế chuyên trách về HIV/AIDS do CDC địa phương chỉ định, thường đăng ký khám ở khoa truyền nhiễm (phòng khám bệnh lây truyền qua đường tình dục và AIDS). Nhiều thành phố đã có phòng khám 24 giờ; số liệu công khai của Trùng Khánh là 29 phòng khám ở 26 quận huyện, trong đó 14 phòng khám mở cả ngày đêm. Trước khi đi, gọi điện cho CDC địa phương hỏi nơi nào có thuốc, đừng mất thời gian ở khoa cấp cứu. Các trường hợp tính là “phơi nhiễm” gồm quan hệ tình dục không có biện pháp bảo vệ, bao cao su bị rách, bị kim đâm, máu dính vào niêm mạc; có dùng thuốc hay không là do bác sĩ quyết định. Thuốc phải uống đủ 28 ngày, bỏ sót vài lần sẽ làm hiệu quả giảm rõ rệt. Sau đó tái khám theo chỉ định của bác sĩ vào tuần thứ 4 đến 6 và tháng thứ 3. Thuốc dự phòng chỉ là biện pháp cứu vãn; phòng ngừa và xét nghiệm hằng ngày xem chương 1 mục 30, 31 (dùng bao cao su suốt cuộc quan hệ; từng có hành vi nguy cơ cao thì đi xét nghiệm)."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

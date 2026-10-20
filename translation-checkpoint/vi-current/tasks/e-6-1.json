@@ -1,0 +1,48 @@
+{
+  "id": "e-6-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "cdf7e532d30332c3901e31894ec317e0bed2d95ce127f27316943624c5875c39",
+  "status": "draft",
+  "original": {
+    "number": 1,
+    "title": "不要为了长寿或防心血管病吃复合维生素",
+    "fields": {
+      "cost": "一天约 0.5 到 2 元，一年 200 到 700 元。吃它不费时间，一粒的事。吃久了容易产生依赖，觉得哪天没吃就像少做了点什么。",
+      "plain": "1.4 万名男医生吃了十一年复合维生素。心脏和血管出大事的人、死掉的人，和不吃的一样多。把 9 项试验、5 万多人放一起看，对死亡也看不出影响。不买能省下一年两百到七百块。查出来确实缺某种营养的人、孕妇补叶酸，不在这条里面。",
+      "benefit": "PHS II 试验找了 14,641 名男医生，跟踪了 11.2 年（这是中位数，一半人比它长、一半人比它短）。吃的人和不吃的人，心脏血管出大事的比例一样。主要心血管事件 HR 1.01（HR 是风险比，1 就是两边一个样）。95% CI 0.91–1.10 是这个数的可信范围。死亡也一样，全因死亡 HR 0.94（0.88–1.02）。美国给预防措施打分的机构 USPSTF，2022 年把 9 项随机分组的对照试验、51,550 人合起来算，结果是多维片和总死亡没有关联。评级 I，意思是证据不够、说不清。它看起来划算，是因为「一片补齐所有营养」听着顺，而且一天只要几毛钱",
+      "grade": "A",
+      "sources": "Sesso HD et al. (2012). Multivitamins in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial. JAMA. <https://doi.org/10.1001/jama.2012.14805>；US Preventive Services Task Force (2022). Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer. JAMA. <https://doi.org/10.1001/jama.2022.8970>；Gaziano JM 等 (2012). Multivitamins in the Prevention of Cancer in Men. JAMA. <https://doi.org/10.1001/jama.2012.14641>（备注里那项癌症结果）",
+      "notes": "争议：同一批男医生里还看过癌症。吃的人得癌症的比例低约 8%（0.86–0.998，P=0.04，勉强够上「不像碰巧」的线）。因为癌症死掉的比例低约 12%（0.77–1.01）。这个范围跨过了 1，所以可能只是偶然。这点好处很小，而且只在男医生身上看到过。查出来确实缺营养的人、孕妇（补叶酸）、平时吃得实在很偏的人，不算在内，按医生说的补"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Đừng uống đa vitamin để sống lâu hoặc phòng bệnh tim mạch",
+    "fields": {
+      "cost": "Khoảng 0.5 đến 2 nhân dân tệ mỗi ngày, 200 đến 700 nhân dân tệ mỗi năm. Uống một viên không mất thời gian. Uống lâu dễ phụ thuộc tâm lý, hôm nào quên thấy như chưa làm đủ việc.",
+      "plain": "1.4 vạn bác sĩ nam uống đa vitamin mười một năm. Số người gặp biến cố tim mạch lớn hoặc chết bằng nhóm không uống. Gộp 9 thử nghiệm, hơn 5 vạn người cũng không thấy tác động lên tử vong. Không mua tiết kiệm hai trăm đến bảy trăm nhân dân tệ mỗi năm. Người xét nghiệm thực sự thiếu chất, phụ nữ mang thai bổ sung axit folic không thuộc mục này.",
+      "benefit": "Thử nghiệm PHS II có 14,641 bác sĩ nam, theo dõi 11.2 năm, là trung vị: một nửa dài hơn, một nửa ngắn hơn. Tỷ lệ biến cố tim mạch lớn như nhau giữa uống và không uống. HR biến cố tim mạch chính 1.01 (HR là tỷ số nguy cơ, 1 nghĩa hai bên giống nhau), 95% CI 0.91–1.10 là khoảng tin cậy. Tử vong cũng tương tự: HR tử vong mọi nguyên nhân 0.94 (0.88–1.02). USPSTF, cơ quan Mỹ đánh giá biện pháp phòng bệnh, năm 2022 gộp 9 thử nghiệm đối chứng phân nhóm ngẫu nhiên, 51,550 người, không thấy liên hệ giữa đa vitamin và tử vong chung. Xếp I nghĩa bằng chứng thiếu, chưa rõ. Nó có vẻ đáng tiền vì “một viên đủ mọi chất” nghe thuận tai, mỗi ngày chỉ vài hào.",
+      "grade": "A",
+      "sources": "Sesso HD et al. (2012). Multivitamins in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial. JAMA. <https://doi.org/10.1001/jama.2012.14805>；US Preventive Services Task Force (2022). Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer. JAMA. <https://doi.org/10.1001/jama.2022.8970>；Gaziano JM 等 (2012). Multivitamins in the Prevention of Cancer in Men. JAMA. <https://doi.org/10.1001/jama.2012.14641>（备注里那项癌症结果）",
+      "notes": "Còn tranh luận: cùng nhóm bác sĩ nam cũng được khảo sát ung thư. Nhóm uống mắc ung thư ít hơn khoảng 8% (0.86–0.998, P=0.04, vừa đạt ngưỡng “không có vẻ ngẫu nhiên”). Tử vong do ung thư thấp hơn khoảng 12% (0.77–1.01). Khoảng này đi qua 1 nên có thể chỉ tình cờ. Lợi ích nhỏ và chỉ thấy ở bác sĩ nam. Người xác định thiếu dinh dưỡng, phụ nữ mang thai bổ sung axit folic, người ăn quá mất cân đối không thuộc phạm vi; bổ sung theo bác sĩ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

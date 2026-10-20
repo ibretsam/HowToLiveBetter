@@ -1,0 +1,48 @@
+{
+  "id": "e-33-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "dbfccc6b6ff969b2748f4df30d6cda5c7f34ab50f270da58f2e3b933e5ce96a3",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "右下肢或者双下肢没了也能考驾照，准驾车型叫 C5",
+    "fields": {
+      "cost": "学费和普通驾照差不多，多数地方几千元。车要改装成手动操控。每三年查一次身体。",
+      "plain": "右下肢或双下肢没了、动不了，但能自己坐稳、上肢条件够的人，可以考残疾人专用的自动挡小车驾照，代号 C5。一只手掌缺失、另一只手够条件的也能申请。单眼视力障碍、听力障碍的人各有能考的车型。体检要去省里认定的专门医院做。",
+      "benefit": "《机动车驾驶证申领和使用规定》附件 1 把身体条件写得很细。第 8 目：「右下肢、双下肢缺失或者丧失运动功能但能够自主坐立，且上肢符合本项第5目规定的，可以申请残疾人专用小型自动挡载客汽车准驾车型的机动车驾驶证。一只手掌缺失，另一只手拇指健全，其他手指有两指健全，上肢和手指运动功能正常，且下肢符合本项第6目规定的，可以申请残疾人专用小型自动挡载客汽车准驾车型的机动车驾驶证」。第 6 目：单独左下肢缺失或者丧失运动功能、但右下肢正常的，可以申请小型自动挡汽车准驾车型。视力一项：「单眼视力障碍，优眼裸视力或者矫正视力达到对数视力表5.0以上，且水平视野达到150度的」，可以申请小型汽车、小型自动挡汽车、低速载货汽车、三轮汽车、残疾人专用小型自动挡载客汽车准驾车型。听力一项：有听力障碍但佩戴助听设备能够辨别声源方向的，可以申请小型汽车、小型自动挡汽车准驾车型，驾驶时应当佩戴助听设备。第八十五条规定，办理残疾人专用小型自动挡载客汽车驾驶证业务时提交的身体条件证明，应当由经省级卫生健康行政部门认定的专门医疗机构出具。持这一准驾车型的人应当每三年进行一次身体检查，在记分周期结束后三十日内提交身体条件证明。第七十八条规定，驾驶时应当按规定在车身设置残疾人机动车专用标志。第七十九条第一款第九项规定，持残疾人专用小型自动挡载客汽车准驾车型，「在三个记分周期结束后一年内未提交身体条件证明的」，车辆管理所应当注销驾驶证（全国，公安部令第 172 号修正，2025 年 1 月 1 日起施行）。《机动车登记规定》第二十三条第一款第五项规定，小型、微型自动挡载客汽车加装、拆除、更换肢体残疾人操纵辅助装置的，机动车所有人应当在变更后三十日内向登记地车辆管理所申请变更备案。第二十四条规定，办理时要交身份证明、行驶证、机动车安全技术检验合格证明和操纵辅助装置加装合格证明，并交验机动车（公安部令第 164 号）",
+      "grade": "A",
+      "sources": "公安部令第 172 号. 机动车驾驶证申领和使用规定（第七十八条、第七十九条、第八十五条、附件 1）. <https://www.gov.cn/gongbao/2025/issue_11866/202502/content_7004031.html>；公安部令第 164 号. 机动车登记规定（第二十三条、第二十四条）. <https://www.gov.cn/gongbao/content/2022/content_5682413.htm>；中华人民共和国道路交通安全法（2021 年修正，第五十八条、第一百一十九条）. <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd617ef70519>",
+      "notes": "另一条门槛低得多的路是残疾人机动轮椅车。《道路交通安全法》第一百一十九条把设计时速、空车质量、外形尺寸符合国家标准的残疾人机动轮椅车列进非机动车，所以不用驾照；第五十八条规定，残疾人机动轮椅车在非机动车道内行驶时最高时速不得超过十五公里。C5 的车要加装肢体残疾人操纵辅助装置，装完要拿到加装合格证明，30 天内去车管所办变更备案。三个记分周期结束后一年内不提交身体条件证明，驾驶证会被注销。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Mất chi dưới phải hoặc cả hai chi dưới vẫn có thể thi bằng lái, loại xe cho phép là C5",
+    "fields": {
+      "cost": "Học phí gần bằng bằng lái thường, đa số nơi vài nghìn nhân dân tệ. Xe phải cải tạo điều khiển bằng tay. Khám sức khỏe mỗi ba năm.",
+      "plain": "Mất hoặc không cử động được chân phải hay cả hai chân, nhưng tự ngồi vững và chi trên đủ điều kiện, có thể thi bằng xe con số tự động dành cho người khuyết tật, mã C5. Mất một bàn tay cũng có thể xin. Người chỉ nhìn được một mắt, người giảm thính lực có các loại xe tương ứng được thi. Phải khám tại cơ sở chuyên biệt được tỉnh công nhận.",
+      "benefit": "Phụ lục 1 Quy định Cấp và sử dụng giấy phép lái xe ghi rất chi tiết điều kiện cơ thể. Tiểu mục 8: ‘Người mất hoặc mất vận động chi dưới phải, cả hai chi dưới nhưng tự ngồi được, chi trên đáp ứng tiểu mục 5, có thể xin bằng lái ô tô chở khách nhỏ số tự động chuyên dụng cho người khuyết tật. Người mất một bàn tay, tay kia ngón cái lành, có hai ngón khác lành, vận động chi trên và ngón bình thường, chi dưới đáp ứng tiểu mục 6, có thể xin loại bằng này’. Tiểu mục 6: chỉ mất hoặc mất vận động chân trái, chân phải bình thường được xin lái ô tô nhỏ số tự động. Phần thị lực: ‘một mắt suy giảm, mắt tốt có thị lực tự nhiên hoặc chỉnh kính đạt 5.0 trở lên theo bảng logarit, tầm nhìn ngang đạt 150 độ’ thì được xin lái ô tô nhỏ, ô tô nhỏ số tự động, xe tải tốc độ thấp, ô tô ba bánh, xe nhỏ số tự động chuyên dụng cho người khuyết tật. Phần thính lực: nghe kém nhưng đeo thiết bị trợ thính phân biệt được hướng âm thanh có thể xin lái ô tô nhỏ, ô tô nhỏ số tự động, phải đeo thiết bị khi lái. Điều tám mươi lăm: giấy chứng nhận sức khỏe cho loại xe chuyên dụng phải do cơ sở y tế chuyên biệt được cơ quan y tế tỉnh công nhận cấp. Người có loại bằng này khám mỗi ba năm, nộp chứng nhận trong ba mươi ngày sau hết chu kỳ điểm. Điều bảy mươi tám: khi lái phải gắn dấu chuyên dụng cho xe người khuyết tật theo quy định (toàn quốc, sửa bởi lệnh Bộ Công an số 172, hiệu lực ngày 1 tháng 1 năm 2025).",
+      "grade": "A",
+      "sources": "公安部令第 172 号. 机动车驾驶证申领和使用规定（第七十八条、第八十五条、附件 1）. <https://www.gov.cn/gongbao/2025/issue_11866/202502/content_7004031.html>",
+      "notes": "Điều kiện thấp hơn nhiều là xe lăn có động cơ dành cho người khuyết tật. Điều một trăm mười chín Luật An toàn giao thông đường bộ xếp loại xe này vào phương tiện phi cơ giới nên không cần bằng lái; điều năm mươi tám quy định xe lăn có động cơ của người khuyết tật khi chạy trên làn phi cơ giới thì tốc độ tối đa không được quá mười lăm km/giờ. Xe hạng C5 phải lắp bộ điều khiển ga và phanh bằng tay, việc cải tạo phải tìm đơn vị có đủ tư cách, cải tạo xong đến cơ quan quản lý phương tiện làm đăng ký thay đổi. Trong vòng một năm sau khi kết thúc ba chu kỳ tính điểm mà không nộp giấy chứng nhận điều kiện sức khỏe thì bằng lái sẽ bị thu hồi."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

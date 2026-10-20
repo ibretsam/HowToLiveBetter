@@ -1,0 +1,48 @@
+{
+  "id": "e-5-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "2da1293e20e59aa3dde39bd9535748483c51e0c825d702e606d8a2d3904c28db",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "关掉所有自动续费，改为到期手动续",
+    "fields": {
+      "cost": "不花钱。把支付宝、微信、苹果、安卓的「自动扣款」列表翻一遍，一次 10 到 20 分钟。以后每次续费，要自己多点一次。",
+      "plain": "省下来的，是那些你早就不用、每月还在扣钱的订阅。翻一遍支付宝、微信、苹果和安卓的自动扣款列表，用不了 20 分钟。按规定，商家扣款前要明显提醒你，还必须给你一个随时能取消的入口，而且要好找好点。",
+      "benefit": "省下的钱，等于你已经不用、却还在扣费的那些订阅加起来的钱。每个人不一样，没有统一数字。监管要求商家在续费前明显提醒你，还要给你一个「简便的随时取消」的选项，取消不用另外花钱（中国，2021 年起施行）",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2021, 2025 修正). 网络交易监督管理办法（总局令第 37 号，第十八条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html>",
+      "notes": "你确实经常用的服务，年付一般比月付便宜，留着自动续费反而划算。要关的是你早就忘了、却还在扣钱的那些。做网站卖会员的经营者该怎么提醒，见第 26 节第 13 条（卖自动续费会员的）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Tắt mọi gia hạn tự động, chuyển sang tự gia hạn khi hết hạn",
+    "fields": {
+      "cost": "Không tốn tiền. Xem hết danh sách “trừ tiền tự động” của Alipay, WeChat, Apple và Android, một lần mất 10 đến 20 phút. Sau này mỗi lần gia hạn bạn phải tự bấm thêm một lần.",
+      "plain": "Số tiền tiết kiệm là những khoản đăng ký bạn đã bỏ dùng từ lâu nhưng vẫn bị trừ tiền hằng tháng. Xem một lượt danh sách trừ tiền tự động trên Alipay, WeChat, Apple và Android mất chưa đến 20 phút. Theo quy định, trước khi trừ tiền, bên bán phải nhắc rõ ràng và cung cấp một chỗ hủy bất cứ lúc nào, dễ tìm, dễ thao tác.",
+      "benefit": "Số tiền tiết kiệm bằng tổng phí của những dịch vụ bạn đã không dùng nhưng vẫn bị thu tiền. Mỗi người khác nhau, không có con số chung. Quy định yêu cầu bên bán nhắc rõ trước khi gia hạn, đồng thời cho bạn lựa chọn “hủy dễ dàng bất cứ lúc nào”, không phải trả thêm phí hủy (Trung Quốc, áp dụng từ năm 2021).",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2021, 2025 修正). 网络交易监督管理办法（总局令第 37 号，第十八条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html>",
+      "notes": "Với dịch vụ bạn thực sự dùng thường xuyên, trả theo năm thường rẻ hơn theo tháng, nên giữ gia hạn tự động có thể có lợi hơn. Cần tắt những khoản bạn đã quên từ lâu mà vẫn bị trừ tiền."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-13-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "d10e1291b60bc5f34abb9d2b53435316a7d26922e291eef00c12535f98f1f95b",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "突然嘴歪、一侧胳膊没劲、说话说不清，立刻打 120，不要等、不要自己开车去",
+    "fields": {
+      "cost": "不花钱。三个动作，看一遍就会：让他笑一下、双手平举、说一句完整的话。",
+      "plain": "嘴歪、一侧胳膊抬不起、说话说不清，立刻打 120，记下症状开始的准确时间。发病 3 小时内打药通开血管，恢复到生活基本能自理的可能性大约是不打药的 1.75 倍。拖到 3 到 4.5 小时只剩 1.26 倍，超过 4.5 小时就看不出差别了。别喂水喂药，别自己开车。",
+      "benefit": "把 16 项静脉溶栓随机试验、6756 名患者的个体数据合起来算（荟萃分析）。静脉溶栓就是打药把堵住的血管通开。发病 3 小时内用阿替普酶溶栓，恢复到生活基本能自理（改良 Rankin 评分 0–1）的比值比 1.75，95% CI 1.35–2.27（可信范围）。这个结果出现的可能性约为不溶栓的 1.75 倍。拖到 3 到 4.5 小时是 1.26（1.05–1.51）。超过 4.5 小时是 1.15（0.95–1.40），统计上已经看不出差别。中国卒中学会急救医学分会 2017 年的院前急救共识要求，急救人员把疑似卒中的病人「在最短时间内转运至最近的经认证的卒中中心、或可开展静脉溶栓和(或)血管内治疗的医院」，并「在疑似卒中患者抵达医院前预先通知接诊医院」。共识还写明，急性卒中病人可能因「误吸」等原因呼吸受损",
+      "grade": "A",
+      "sources": "Emberson J, Lees KR, Lyden P, et al. (2014). Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials. Lancet, 384(9958), 1929-1935. <https://doi.org/10.1016/S0140-6736(14)60584-5>；中国卒中学会急救医学分会 (2017). 脑卒中院前急救专家共识. 中华急诊医学杂志, 26(10), 1107-1114. <http://www.cem.org.cn/rhtml/20171002/index.htm>",
+      "notes": "溶栓越早越有效，超过 4.5 小时就基本没用了。打 120 而不是自己开车，是因为按院前急救共识，急救人员要把人送到能溶栓的医院，还要提前通知医院准备。记下症状开始的准确时间，医生要用它决定能不能溶栓。别喂水喂药，这是作者从共识说的「误吸」推出来的：卒中病人可能呛着。别等「休息一下看看」"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Đột ngột méo miệng, yếu một tay, nói không rõ: gọi 120 ngay, đừng đợi hay tự lái xe",
+    "fields": {
+      "cost": "Không tốn tiền. Ba động tác nhìn một lần là biết: yêu cầu cười, nâng ngang hai tay, nói một câu hoàn chỉnh.",
+      "plain": "Méo miệng, không nâng được một tay, nói không rõ thì gọi 120 ngay. Dùng thuốc thông mạch trong 3 giờ từ khởi phát, khả năng hồi phục đến mức cơ bản tự sinh hoạt khoảng 1.75 lần không dùng. Chậm đến 3 đến 4.5 giờ chỉ còn 1.26 lần. Quá 4.5 giờ không thấy khác biệt. Ghi chính xác giờ bắt đầu triệu chứng. Đừng cho uống nước, thuốc, đừng tự lái xe.",
+      "benefit": "Gộp dữ liệu cá nhân của 6756 bệnh nhân trong 16 thử nghiệm ngẫu nhiên về tiêu sợi huyết đường tĩnh mạch. Đây là dùng thuốc mở mạch bị tắc. Dùng alteplase trong 3 giờ từ khởi phát, tỷ số odds hồi phục đến mức cơ bản tự sinh hoạt (điểm Rankin sửa đổi 0–1) là 1.75, 95% CI 1.35–2.27 (khoảng tin cậy). Khả năng kết quả này khoảng 1.75 lần không tiêu sợi huyết. Đến 3 đến 4.5 giờ là 1.26 (1.05–1.51); quá 4.5 giờ là 1.15 (0.95–1.40), không còn thấy khác biệt có ý nghĩa thống kê.",
+      "grade": "A",
+      "sources": "Emberson J, Lees KR, Lyden P, et al. (2014). Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials. Lancet, 384(9958), 1929-1935. <https://doi.org/10.1016/S0140-6736(14)60584-5>",
+      "notes": "Tiêu sợi huyết càng sớm càng hiệu quả; quá 4.5 giờ cơ bản không còn tác dụng. Gọi 120 thay vì tự lái vì xe cấp cứu đưa thẳng đến bệnh viện có trung tâm đột quỵ, báo trước để chuẩn bị. Ghi chính xác giờ triệu chứng bắt đầu để bác sĩ quyết định có tiêu sợi huyết được không. Không cho nước, thuốc, không đợi “nghỉ chút xem sao”."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": true
+}

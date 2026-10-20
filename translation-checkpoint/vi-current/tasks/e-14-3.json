@@ -1,0 +1,48 @@
+{
+  "id": "e-14-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "e9661de16551456c2420cc40ec4e5776874c6e6e6517f48c5a12c53920c87933",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "手机设锁屏密码，SIM 卡设 PIN 码",
+    "fields": {
+      "cost": "不花钱。锁屏密码和 PIN 码各设一次就行。",
+      "plain": "SIM 卡就是手机里那张小卡片，短信验证码靠它来收。手机丢了，捡到的人可能把这张卡拔下来，插进别的手机收验证码，再挨个重置你的账号。给卡设一个 PIN 码，卡换到别的手机上，一开机就要先输这个码，这条路就断了。",
+      "benefit": "手机丢了以后，捡到的人最快的一条路是把 SIM 卡插到别的手机上，收你的短信验证码。有了验证码，他就能一个个重置你的账号。SIM 卡设了 PIN 码，换到别的手机上开机就要先输密码，捡到的人就没法拿它收验证码。工信部 2020 年 10 月通报过一起真事。用户手机被偷后，没及时挂失电话卡，给了不法分子钻空子的时间。不法分子用「手机号加验证码」登录一个政务 App，拿到了用户的身份证号等信息。他们接着改了手机服务密码。用户后来挂失了这张卡，他们又用话术骗电信客服，把卡解挂。最后利用网贷平台「找回密码」的漏洞，重置支付密码，骗走了网贷资金。工信部借这件事提醒用户及时设置 SIM 卡密码，丢了手机第一时间挂失。至于锁屏密码，美国联邦通信委员会的建议是：给手机设一个强密码，限制别人使用。手机丢了或被偷时，它能防止别人乱用产生费用，也能防止你的个人数据被盗用",
+      "grade": "C",
+      "sources": "工业和信息化部 (2020). 工信部提醒！强化个人信息保护意识. 中国政府网转载工信微报，2020-10-22. <https://app.www.gov.cn/govdata/gov/202010/22/464049/article.html>；US FCC. Protect Your Smart Device. <https://www.fcc.gov/consumers/guides/protect-your-mobile-device>",
+      "notes": "PIN 码在手机设置里的「SIM 卡锁」那一项里设。出厂时的初始码一般是 1234 或者 0000。连着输错三次，就要用运营商给的 PUK 码才能解开。所以设完先把这个码记在纸上。定 C 级，是因为两份来源都是官方提醒，加上一起个案，没有研究算过设了 PIN 码能少丢多少钱。丢了手机先做什么，见第 4 条（手机丢了按这个顺序做）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Đặt mật mã khóa màn hình điện thoại và mã PIN cho SIM",
+    "fields": {
+      "cost": "Không tốn tiền. Mật mã khóa màn hình và PIN chỉ cần đặt mỗi loại một lần.",
+      "plain": "SIM là chiếc thẻ nhỏ trong điện thoại, dùng để nhận mã xác minh SMS. Khi điện thoại mất, người nhặt được có thể tháo SIM lắp sang máy khác để nhận mã, rồi lần lượt đặt lại các tài khoản của bạn. Đặt PIN cho SIM thì khi chuyển SIM sang máy khác và bật lên, phải nhập mã này trước, chặn được cách đó.",
+      "benefit": "Sau khi bạn mất điện thoại, cách nhanh nhất của người nhặt được là lắp SIM sang máy khác để nhận mã xác minh SMS. Có mã, họ đặt lại được từng tài khoản của bạn. Nếu SIM có PIN, khi chuyển sang máy khác và bật lên phải nhập mật mã trước, nên người nhặt được không thể dùng SIM nhận mã xác minh",
+      "grade": "C",
+      "sources": "作者经验，无直接文献",
+      "notes": "Đặt PIN tại mục “Khóa SIM” trong cài đặt điện thoại. Mã mặc định ban đầu thường là 1234 hoặc 0000. Nhập sai ba lần liên tiếp thì phải dùng mã PUK do nhà mạng cấp mới mở được. Vì vậy, đặt xong hãy ghi mã ra giấy trước"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

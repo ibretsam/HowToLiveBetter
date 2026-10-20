@@ -1,0 +1,48 @@
+{
+  "id": "e-7-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "ed312107f5b81dac466c642754b42f652cee1bebc8e96d26d414c34ed6ff95fa",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "走投无路时去救助站，管吃住和返乡车票",
+    "fields": {
+      "cost": "不花钱。自己到当地的救助管理站求助，也可以告诉民警或者民政部门，让他们带你去。进站要如实登记姓名和随身物品。难在要开口跟人说自己没钱、没地方去。",
+      "plain": "救助站管吃、管住，生病了送医院，还帮你联系家里人，没钱回家的发车票。一般住不超过 10 天。自愿来、自愿走，不是收容，也不发现金。车票按户籍地或者住所地开，去之前先想清楚要回哪儿。",
+      "benefit": "救助站提供符合卫生要求的食物和住处。在站里突发急病的，送医院治。还会帮你联系亲属和单位。没钱买票回户籍地或者住所地的，发乘车（船）凭证，就是车票船票。户籍地就是老家，住所地就是现在常住的地方。救助期限一般不超过 10 天。等家人来接、等治疗、等安置的，可以延长。公安和其他行政机关的人执行职务时碰上流浪乞讨人员，应当告诉他可以去求助。对残疾人、未成年人、老年人和行动不便的人，要引导护送过去（全国，2003 年起）",
+      "grade": "A",
+      "sources": "国务院 (2003). 城市生活无着的流浪乞讨人员救助管理办法（国务院令第 381 号，第五、六、七条）. <https://www.gov.cn/gongbao/content/2003/content_62246.htm>；民政部 (2003). 城市生活无着的流浪乞讨人员救助管理办法实施细则（民政部令第 24 号，第十一、十二条）. <https://www.gov.cn/gongbao/content/2003/content_62510.htm>",
+      "notes": "自愿求助、自愿离站，不是收容。给的是基本食宿，不发现金。乘车凭证按户籍地或者住所地开，求助前先想清楚要去哪。夜里和冬天的救助安排，见第 21 条（实在没地方睡）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Khi cùng đường thì đến trạm cứu trợ, được lo ăn ở và vé về quê",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn có thể tự đến trạm quản lý cứu trợ ở địa phương để xin giúp đỡ, hoặc báo với cảnh sát hay cơ quan dân chính để họ đưa bạn đến. Khi vào trạm phải khai đúng họ tên và đăng ký đồ mang theo người. Cái khó là phải mở lời nói với người khác rằng mình không có tiền, không có chỗ nào để đi.",
+      "plain": "Trạm cứu trợ lo ăn, lo chỗ ở; bị bệnh thì đưa đi viện, còn giúp bạn liên lạc với gia đình. Ai không có tiền về nhà sẽ được cấp vé. Thông thường ở không quá 10 ngày. Tự nguyện đến, tự nguyện đi, không phải là thu gom giam giữ, và cũng không phát tiền mặt. Vé được cấp theo nơi đăng ký hộ khẩu hoặc nơi cư trú, nên trước khi đến hãy nghĩ rõ mình muốn về đâu.",
+      "benefit": "Trạm cứu trợ cung cấp đồ ăn và chỗ ở đạt yêu cầu vệ sinh. Ai đột ngột bị bệnh cấp tính trong trạm sẽ được đưa đến bệnh viện chữa trị. Trạm còn giúp bạn liên lạc với người thân và đơn vị. Ai không có tiền mua vé về nơi hộ khẩu hoặc nơi cư trú sẽ được cấp giấy đi xe (tàu thủy), tức là vé xe, vé tàu. Nơi hộ khẩu tức là quê, nơi cư trú tức là nơi hiện đang sống thường xuyên. Thời gian cứu trợ thường không quá 10 ngày. Trường hợp đang chờ người nhà đến đón, chờ chữa bệnh hoặc chờ sắp xếp chỗ ở thì có thể kéo dài. Công an và cán bộ các cơ quan hành chính khác khi thi hành công vụ mà gặp người lang thang xin ăn thì phải cho họ biết có thể đến xin cứu trợ. Đối với người khuyết tật, trẻ vị thành niên, người già và người đi lại khó khăn thì phải hướng dẫn và hộ tống đến trạm (toàn quốc, từ năm 2003).",
+      "grade": "A",
+      "sources": "国务院 (2003). 城市生活无着的流浪乞讨人员救助管理办法（国务院令第 381 号，第五、六、七条）. <https://www.gov.cn/gongbao/content/2003/content_62246.htm>；民政部 (2003). 城市生活无着的流浪乞讨人员救助管理办法实施细则（民政部令第 24 号，第十一、十二条）. <https://www.gov.cn/gongbao/content/2003/content_62510.htm>",
+      "notes": "Tự nguyện xin giúp, tự nguyện rời trạm, không phải là thu gom giam giữ. Trạm chỉ lo ăn ở cơ bản, không phát tiền mặt. Giấy đi xe được cấp theo nơi hộ khẩu hoặc nơi cư trú, nên trước khi xin giúp hãy nghĩ rõ mình muốn đi đâu."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

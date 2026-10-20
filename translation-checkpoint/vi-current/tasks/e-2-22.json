@@ -1,0 +1,48 @@
+{
+  "id": "e-2-22",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "d0d37ba34947c4c26ae1efa0a3e0c990bcf183df33d020bcae911b7e994fd16e",
+  "status": "draft",
+  "original": {
+    "number": 22,
+    "title": "每天吃一小把坚果",
+    "fields": {
+      "cost": "每天吃 28 克，一年约两三百元。顺手就吃，不占时间。",
+      "plain": "常吃坚果的人，同期死亡的概率比不吃的人低约两成。一周吃一次就能看出差别，低约一成。吃到每天一把，差别最明显。",
+      "benefit": "两项美国跟踪研究，11.9 万人，300 多万人年。人年就是人数乘以各自跟踪的年数。和不吃坚果的人比：每周吃不到 1 次的人死亡风险低约 7%（风险比 0.93，95% CI 0.90–0.96，这是可信范围）。每周吃 1 次的低约 11%（0.89，0.86–0.93）。每周 2–4 次的低约 13%（0.87，0.83–0.90）。每周 5–6 次的低约 15%（0.85，0.79–0.91）。每周 7 次以上的低约 20%（0.80，0.73–0.86）",
+      "grade": "A",
+      "sources": "Bao Y, Han J, Hu FB, et al. (2013). Association of nut consumption with total and cause-specific mortality. New England Journal of Medicine, 369(21), 2001-2011. <https://doi.org/10.1056/NEJMoa1307352>",
+      "notes": "买原味不加盐的。坚果热量不低，别当零食敞开吃。要注意这类研究只是长期跟踪一群人，吃坚果的人整体生活方式更好，所以数字要打个折"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 22,
+    "title": "Ăn một nắm nhỏ hạt mỗi ngày",
+    "fields": {
+      "cost": "Ăn 28 gram mỗi ngày tốn khoảng hai ba trăm nhân dân tệ mỗi năm. Bạn có thể tiện tay ăn, không mất thời gian riêng.",
+      "plain": "Người thường ăn hạt có xác suất tử vong cùng kỳ thấp hơn khoảng hai phần mười so với người không ăn. Một lần mỗi tuần đã thấy khác biệt, thấp hơn khoảng một phần mười. Ăn đến một nắm mỗi ngày cho khác biệt rõ nhất.",
+      "benefit": "Hai nghiên cứu theo dõi tại Mỹ gồm 11.9 vạn người, hơn 300 vạn người-năm. Người-năm là số người nhân với thời gian theo dõi của từng người. So với không ăn hạt, người ăn dưới 1 lần mỗi tuần có nguy cơ tử vong thấp hơn khoảng 7% (tỷ số nguy cơ 0.93, 95% CI 0.90–0.96 là khoảng tin cậy). Ăn 1 lần mỗi tuần thấp hơn khoảng 11% (0.89, 0.86–0.93); 2–4 lần thấp hơn khoảng 13% (0.87, 0.83–0.90); 5–6 lần thấp hơn khoảng 15% (0.85, 0.79–0.91); từ 7 lần trở lên thấp hơn khoảng 20% (0.80, 0.73–0.86).",
+      "grade": "A",
+      "sources": "Bao Y, Han J, Hu FB, et al. (2013). Association of nut consumption with total and cause-specific mortality. New England Journal of Medicine, 369(21), 2001-2011. <https://doi.org/10.1056/NEJMoa1307352>",
+      "notes": "Mua loại nguyên vị, không thêm muối. Hạt có nhiều năng lượng, đừng coi là đồ ăn vặt để ăn thoải mái không giới hạn. Những nghiên cứu này chỉ theo dõi dài hạn; người ăn hạt vốn có lối sống tổng thể tốt hơn, nên cần dè dặt với mức lợi ích trong con số."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

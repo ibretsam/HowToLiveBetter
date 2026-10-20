@@ -1,0 +1,48 @@
+{
+  "id": "e-29-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "b99ca0a3e44100fbd8f1e26686890ae042523fa26c19f52ec55244136d7c8bd1",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "别拿死当还债的办法：两年内的寿险不赔，工伤不认，债照样先从遗产里扣",
+    "fields": {
+      "cost": "不花钱，只是把这笔账算清。",
+      "plain": "寿险合同两年内自杀的不赔，只退保单里能退的那点钱。工伤也不认，工亡的三笔钱一分没有。欠的债先从你留下的遗产里扣，家里人只拿剩下的。他们还要承受本节第 4 条（因自杀或暴力死亡丧亲）说的那份健康代价。",
+      "benefit": "保险法第四十四条管的是以被保险人死亡为给付保险金条件的合同。从合同成立或者合同效力恢复之日起算，二年内被保险人自杀的，保险人不承担给付保险金的责任。被保险人自杀时为无民事行为能力人的，也就是法律上不能为自己行为负责的人，不在此列。这种情况下保险公司应当按照合同约定退还保险单的现金价值，即只退保单里能退的那点钱，不赔保额。寿险保额通常在数十万元级，收益因此定为大。工伤保险条例第十六条第三项规定：自残或者自杀的，不得认定为工伤或者视同工伤。第三十九条那三笔工亡待遇随之全部落空。一是丧葬补助金，按当地上一年职工月平均工资发 6 个月。二是供养亲属抚恤金。三是一次性工亡补助金，为上一年度全国城镇居民人均可支配收入的 20 倍。民法典第一千一百五十九条规定：分割遗产应当清偿被继承人依法应当缴纳的税款和债务，即先拿遗产还税和债，剩下的才分。第一千一百六十一条规定：继承人以所得遗产实际价值为限清偿，也就是只用继承到的那部分还、不用自己再掏，放弃继承的可以不负清偿责任",
+      "grade": "A",
+      "sources": "全国人大常委会 (2015 修正). 中华人民共和国保险法第四十四条. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7c4060811>；国务院 (2010 修订). 工伤保险条例（国务院令第 586 号）第十六条、第三十九条. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>；全国人大 (2020). 中华人民共和国民法典第一千一百五十九条、第一千一百六十一条. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>",
+      "notes": "这里只算钱这一笔账。本节和第 1 节的其他条目说的是别走到这一步。保险法第四十四条管的只是前两年，写出来是为了把条文说全，不是在给时间表。家人的健康代价见本节第 4 条（配偶死于自杀者 5 年内新发精神障碍风险高七到八成）。念头冒出来时怎么办见第 1 节第 25、32 条，救回来之后的后遗症见第 1 节第 33 条。工亡三笔钱的标准见第 19 节第 15 条。遗产和债务怎么处理见第 25 节第 11 条（继承人只用继承到的遗产去还）。该取的钱见第 25 节第 9 条（逐个去取公积金和社保待遇）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Đừng coi cái chết là cách trả nợ: bảo hiểm nhân thọ trong hai năm không chi trả, không công nhận tai nạn lao động, nợ vẫn trừ di sản trước",
+    "fields": {
+      "cost": "Không tốn tiền, chỉ làm rõ khoản tính này.",
+      "plain": "Tự sát trong hai năm hợp đồng nhân thọ không được chi trả, chỉ hoàn phần giá trị có thể hoàn của hợp đồng. Cũng không được công nhận tai nạn lao động, không có đồng nào trong ba khoản tử vong do công việc. Nợ trừ di sản bạn để lại trước, gia đình chỉ nhận phần còn. Họ còn chịu tổn thất sức khỏe nêu ở mục 4 chương này (mất thân nhân do tự sát hoặc tử vong bạo lực).",
+      "benefit": "Điều bốn mươi bốn Luật bảo hiểm áp dụng hợp đồng chi trả khi người được bảo hiểm chết. Trong hai năm từ ngày hợp đồng lập hoặc khôi phục hiệu lực, người được bảo hiểm tự sát thì doanh nghiệp bảo hiểm không có trách nhiệm trả tiền bảo hiểm. Ngoại lệ là lúc tự sát người đó không có năng lực hành vi dân sự, tức pháp luật coi không thể chịu trách nhiệm hành vi. Trường hợp không chi trả này, công ty phải hoàn giá trị tiền mặt hợp đồng theo thỏa thuận, tức chỉ hoàn phần có thể hoàn, không trả số tiền bảo hiểm. Bảo hiểm nhân thọ thường hàng chục vạn nhân dân tệ nên lợi ích xếp lớn. Khoản ba Điều mười sáu Điều lệ bảo hiểm tai nạn lao động: tự hại hoặc tự sát không được xác định hoặc coi như tai nạn lao động. Vì vậy mất cả ba chế độ Điều ba mươi chín: trợ cấp mai táng bằng 6 tháng lương tháng bình quân lao động địa phương năm trước; trợ cấp cho thân nhân được nuôi dưỡng; trợ cấp tử vong do công việc một lần bằng 20 lần thu nhập khả dụng bình quân đầu người cư dân thành thị cả nước năm trước. Điều một nghìn một trăm năm mươi chín Bộ luật dân sự yêu cầu khi chia di sản thanh toán thuế, nợ người chết phải trả theo luật, tức dùng di sản trả thuế nợ trước rồi mới chia. Điều một nghìn một trăm sáu mươi mốt: người thừa kế thanh toán trong giới hạn giá trị thực tế di sản nhận được, chỉ dùng phần được thừa kế, không phải bỏ thêm tiền riêng; từ bỏ thừa kế có thể không chịu trách nhiệm trả",
+      "grade": "A",
+      "sources": "全国人大常委会 (2015 修正). 中华人民共和国保险法第四十四条. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7c4060811>；国务院 (2010 修订). 工伤保险条例（国务院令第 586 号）第十六条、第三十九条. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>；全国人大 (2020). 中华人民共和国民法典第一千一百五十九条、第一千一百六十一条. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>",
+      "notes": "Ở đây chỉ tính tiền. Những mục khác trong chương này và chương 1 nói cách tránh đi đến bước đó. Điều bốn mươi bốn Luật bảo hiểm chỉ nói hai năm đầu; viết ra để nêu đủ điều luật, không phải đưa lịch trình. Tổn thất sức khỏe gia đình xem mục 4 chương này (người có bạn đời tự sát tăng bảy đến tám phần mười nguy cơ mới mắc rối loạn tâm thần trong 5 năm). Làm gì khi ý nghĩ xuất hiện xem chương 1 mục 25, 32; di chứng sau cứu sống xem chương 1 mục 33. Mức ba khoản tử vong do công việc xem chương 19 mục 15. Thủ tục di sản, nợ xem chương 25 mục 9 (lần lượt nhận quỹ nhà ở, chế độ an sinh)"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

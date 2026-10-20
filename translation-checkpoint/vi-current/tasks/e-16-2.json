@@ -1,0 +1,48 @@
+{
+  "id": "e-16-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "f473a2cd3d4b4a60ecdf05988bcfa1363b17d7264718f295b7e6c4c5aee55524",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "先办门诊慢特病认定再办异地备案，高血压、糖尿病、放化疗、透析、抗排异就能异地直接结算",
+    "fields": {
+      "cost": "不花钱。出发前在医保 App 上办一次异地就医备案，手机上就能办。",
+      "plain": "高血压、糖尿病、恶性肿瘤门诊放化疗、尿毒症透析、器官移植后抗排异，这五种在外地看门诊，基本都能直接刷医保。不用先自己垫钱，再回参保地报销。但要先在参保地办门诊慢特病认定，再办异地就医备案。两件事都办了才管用。",
+      "benefit": "国家医保局的文件说已经做到了这一步。原话是「基本实现高血压、糖尿病、恶性肿瘤门诊放化疗、尿毒症透析、器官移植术后抗排异治疗等 5 种门诊慢特病费用跨省直接结算县域可及」。「县域可及」的意思是在县一级就能办到。文件还在这 5 种的基础上再新增 5 种",
+      "grade": "A",
+      "sources": "国家医保局办公室、财政部办公厅 (2024). 关于稳妥有序扩大跨省直接结算门诊慢特病病种范围的通知（医保办发〔2024〕19 号）. <https://www.gov.cn/zhengce/zhengceku/202409/content_6974467.htm>",
+      "notes": "前提是两件事都要办：先在参保地办门诊慢特病认定，再做异地就医备案。新增的 5 个病种开到了哪一步，各地进度不一样，以当地医保部门公布的为准。医院没有要用的谈判药，见第 24 节第 13 条（双通道定点药店）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Làm thủ tục công nhận bệnh mạn tính/đặc biệt điều trị ngoại trú trước, rồi đăng ký khám chữa bệnh ngoài địa phương; tăng huyết áp, tiểu đường, hóa xạ trị, lọc máu và chống thải ghép có thể thanh toán trực tiếp ngoài địa phương",
+    "fields": {
+      "cost": "Không tốn tiền. Trước khi đi, đăng ký khám chữa bệnh ngoài địa phương một lần trên ứng dụng bảo hiểm y tế, làm được ngay trên điện thoại.",
+      "plain": "Năm loại điều trị ngoại trú gồm tăng huyết áp, tiểu đường, hóa xạ trị ung thư, lọc máu do urê huyết và chống thải ghép sau ghép tạng cũng có thể thanh toán trực tiếp bằng bảo hiểm y tế ở nơi khác. Không phải tự ứng tiền rồi về nơi tham gia bảo hiểm xin hoàn trả. Nhưng phải được công nhận bệnh mạn tính/đặc biệt ngoại trú tại nơi tham gia trước, rồi đăng ký khám chữa bệnh ngoài địa phương. Chỉ khi hoàn tất cả hai việc mới có tác dụng.",
+      "benefit": "Văn bản của Cục Bảo đảm y tế Quốc gia cho biết đã đạt đến bước này. Nguyên văn là “về cơ bản đã thực hiện khả năng tiếp cận ở cấp huyện việc thanh toán trực tiếp liên tỉnh chi phí của 5 loại bệnh mạn tính/đặc biệt ngoại trú, gồm tăng huyết áp, tiểu đường, hóa xạ trị ung thư ngoại trú, lọc máu do urê huyết và điều trị chống thải ghép sau ghép tạng”. “Tiếp cận ở cấp huyện” nghĩa là ngay cấp huyện đã làm được. Văn bản còn bổ sung 5 loại trên cơ sở 5 loại này",
+      "grade": "A",
+      "sources": "国家医保局办公室、财政部办公厅 (2024). 关于稳妥有序扩大跨省直接结算门诊慢特病病种范围的通知（医保办发〔2024〕19 号）. <https://www.gov.cn/zhengce/zhengceku/202409/content_6974467.htm>",
+      "notes": "Điều kiện là phải làm cả hai việc: trước hết xin công nhận bệnh mạn tính/đặc biệt ngoại trú tại nơi tham gia bảo hiểm, rồi đăng ký khám chữa bệnh ngoài địa phương. Việc triển khai 5 loại bệnh bổ sung đến đâu khác nhau theo địa phương, theo thông báo của cơ quan bảo hiểm y tế sở tại"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

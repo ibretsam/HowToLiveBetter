@@ -1,0 +1,48 @@
+{
+  "id": "e-13-36",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "83cfff5fa20c37c944c6f934bd36db92eaac2205b44f693f98cde917cf33fab1",
+  "status": "outdated",
+  "original": {
+    "number": 36,
+    "title": "荒郊野外被陌生人索财，钱给他，不动手，记特征，脱身后报警",
+    "fields": {
+      "cost": "身上的现金。难的是压住火气。",
+      "plain": "钱给他，不动手，不还嘴。对方为几百块冒的是抢劫罪：三年以上十年以下起步，入户、持枪、致人重伤死亡的十年以上，直到死刑。他拿了钱转身走，你追上去打就不再算正当防卫。脱身后立刻记下体貌、口音、车牌和逃跑方向，打 110。",
+      "benefit": "命比钱贵，对方为几百元冒的是重罪。刑法第二百六十三条规定，以暴力、胁迫或者其他方法抢劫公私财物的，处三年以上十年以下有期徒刑并处罚金。持枪、入户、致人重伤死亡等情形，判十年以上直至死刑。刑法第二十条的正当防卫只保护「制止正在进行的不法侵害」。对方拿了钱转身走，你追上去打就不再是防卫。脱身后立刻记下体貌、口音、车牌、逃跑方向，打 110",
+      "grade": "C",
+      "sources": "全国人大 (2020 年修正). 刑法（第二十条、第二百六十三条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>（北京市公安交管局转载整合文本）",
+      "notes": "C 级原因是「给钱不对抗更安全」没有直接文献，法条只说明对方的风险和你的边界。不要跟去偏僻处「取钱」。不要交手机密码。不要上对方的车。先给钱只限当面被堵住、人身安全受威胁的场合，脱身后照样报警。网上被人拿隐私照片、裸聊录像来要钱是反过来的，一分钱都不能给，见第 8 节第 32 条（对方拿把柄来要钱）。别指望随身带的甩棍、电击器、匕首，带着出门本身就会被罚，见第 9 节第 26 条（别为了防身买甩棍、电击器）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 36,
+    "title": "Bị người lạ đòi tiền ở nơi hoang vắng: đưa tiền cho họ, không động tay, ghi nhớ đặc điểm, thoát thân rồi báo công an",
+    "fields": {
+      "cost": "Số tiền mặt mang trên người. Điều khó là nén được cơn giận.",
+      "plain": "Đưa tiền cho họ, không động tay, không cãi lại. Đối phương vì vài trăm nhân dân tệ mà liều phạm tội cướp tài sản: khung khởi điểm là từ ba năm đến mười năm tù; vào nhà cướp, dùng súng, gây thương tích nặng hoặc chết người thì từ mười năm trở lên, cho đến tử hình. Họ lấy tiền rồi quay đi mà bạn đuổi theo đánh thì không còn được tính là phòng vệ chính đáng. Thoát thân rồi lập tức ghi lại ngoại hình, giọng nói, biển số xe và hướng bỏ chạy, rồi gọi 110.",
+      "benefit": "Mạng sống quý hơn tiền, còn đối phương vì vài trăm nhân dân tệ mà liều phạm trọng tội. Điều hai trăm sáu mươi ba Luật Hình sự quy định: dùng bạo lực, cưỡng ép hoặc phương pháp khác để cướp tài sản công hoặc tư thì bị phạt tù có thời hạn từ ba năm đến mười năm, kèm phạt tiền. Các trường hợp như dùng súng, vào nhà cướp, gây thương tích nặng hoặc chết người thì bị phạt từ mười năm trở lên, cho đến tử hình. Phòng vệ chính đáng theo Điều hai mươi Luật Hình sự chỉ bảo vệ hành vi “ngăn chặn hành vi xâm hại trái pháp luật đang diễn ra”. Đối phương lấy tiền rồi quay đi mà bạn đuổi theo đánh thì không còn là phòng vệ. Thoát thân rồi lập tức ghi lại ngoại hình, giọng nói, biển số xe, hướng bỏ chạy, rồi gọi 110.",
+      "grade": "C",
+      "sources": "全国人大 (2020 年修正). 刑法（第二十条、第二百六十三条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>（北京市公安交管局转载整合文本）",
+      "notes": "Mức C vì “đưa tiền, không chống cự thì an toàn hơn” không có tài liệu trực tiếp; điều luật chỉ cho thấy rủi ro của đối phương và giới hạn của bạn. Đừng đi theo họ đến chỗ vắng để “rút tiền”. Đừng đưa mật khẩu điện thoại. Đừng lên xe của họ. Việc đưa tiền trước chỉ áp dụng khi bị chặn trực diện và an toàn thân thể bị đe dọa; thoát thân rồi vẫn phải báo công an. Bị người khác dùng ảnh riêng tư, video trò chuyện khỏa thân để đòi tiền trên mạng thì ngược lại, không được đưa một đồng nào, xem chương 8 mục 32 (đối phương nắm điểm yếu để đòi tiền)."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

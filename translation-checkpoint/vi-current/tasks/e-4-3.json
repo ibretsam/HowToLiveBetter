@@ -1,0 +1,48 @@
+{
+  "id": "e-4-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "9009a9a66ccf6b8b601336dc424ff6a6096cd8d90c3a8eb9e4108603e580e812",
+  "status": "draft",
+  "original": {
+    "number": 3,
+    "title": "决定是否继续时，只看未来投入和未来回报，不看已投入多少",
+    "fields": {
+      "cost": "不花钱。难在要接受一件事：之前投进去的时间已经没了，拿不回来。",
+      "plain": "已经投进去的钱和时间，会让人更想接着干下去。98 组数据合起来算，这个倾向稳定存在。所以判断要不要继续，只算往后还要投多少、还能拿回多少。已经花掉的那些，不要算进去。",
+      "benefit": "已经投入的钱、精力和时间，会让人更想继续做下去。这在心理学里叫沉没成本效应。把 98 组数据合起来算，分析确认这种倾向稳定存在。避开这种倾向，就不会为了「不想浪费」继续往里投时间。",
+      "grade": "B",
+      "sources": "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35, 124–140. <https://doi.org/10.1016/0749-5978(85)90049-4>；Roth, S., Robbert, T., & Straus, L. (2015). On the sunk-cost effect in economic decision-making: A meta-analytic review. Business Research, 8(1), 99–138. <https://doi.org/10.1007/s40685-014-0014-8>",
+      "notes": "Arkes 和 Blumer 那项剧院实验是这样做的。俄亥俄大学剧院卖季票，随机给买票的人原价 15 美元、便宜 2 美元、便宜 7 美元三种价。前半季，原价那组平均看了 4.11 场，另两组是 3.32 和 3.29 场。后半季三组就没有明显差别了。Roth 等人发现，这种影响会随时间变淡，年纪大的人受影响更小。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Khi quyết định có tiếp tục không, chỉ xét đầu tư và lợi ích tương lai, đừng xét đã bỏ ra bao nhiêu",
+    "fields": {
+      "cost": "Không tốn tiền. Khó ở chỗ chấp nhận thời gian đã bỏ ra mất rồi, không lấy lại được.",
+      "plain": "Tiền và thời gian đã bỏ ra khiến người ta muốn tiếp tục hơn. Gộp 98 bộ dữ liệu xác nhận xu hướng này tồn tại ổn định. Vì vậy, khi quyết định có tiếp tục không, chỉ tính từ nay còn phải bỏ bao nhiêu và có thể nhận lại bao nhiêu; đừng cộng những khoản đã chi.",
+      "benefit": "Tiền, sức và thời gian đã đầu tư khiến người ta muốn tiếp tục. Tâm lý học gọi là hiệu ứng chi phí chìm. Phân tích 98 bộ dữ liệu xác nhận xu hướng này ổn định. Tránh được xu hướng đó thì không tiếp tục đổ thời gian chỉ vì “không muốn phí”.",
+      "grade": "B",
+      "sources": "Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35, 124–140. <https://doi.org/10.1016/0749-5978(85)90049-4>；Roth, S., Robbert, T., & Straus, L. (2015). On the sunk-cost effect in economic decision-making: A meta-analytic review. Business Research, 8(1), 99–138. <https://doi.org/10.1007/s40685-014-0014-8>",
+      "notes": "Thí nghiệm nhà hát của Arkes và Blumer: nhà hát Đại học Ohio bán vé mùa, ngẫu nhiên cho người mua ba giá: 15 USD nguyên giá, giảm 2 USD, giảm 7 USD. Nửa đầu mùa, nhóm nguyên giá xem trung bình 4.11 buổi, hai nhóm kia 3.32 và 3.29. Nửa sau mùa không còn khác biệt rõ. Roth và cộng sự thấy ảnh hưởng giảm theo thời gian, người lớn tuổi ít bị ảnh hưởng hơn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

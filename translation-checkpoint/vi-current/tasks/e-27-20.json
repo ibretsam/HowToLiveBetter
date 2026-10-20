@@ -1,0 +1,30 @@
+{
+  "id": "e-27-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "112e4e68b0045d8c39acaaefdfbe36212c2dadd5da08206d90eca9a369dfff46",
+  "status": "pending",
+  "original": {
+    "number": 20,
+    "title": "生完孩子恢复同房就要避孕，喂奶不等于避孕；想要下一胎，至少隔 18 个月再怀",
+    "fields": {
+      "cost": "避孕套一盒几十元。上环、皮下埋植要去医院，价格各地不一样。难在产后忙乱，顾不上这件事",
+      "plain": "生完孩子 3 周就可能再怀上，喂着奶、没来月经也一样。只有纯母乳、没来月经、孩子不满 6 个月三样都占，喂奶才挡得住。生完不到半年就又怀上，下一胎早产的风险高约四成。世界卫生组织建议生完至少隔两年再怀。",
+      "benefit": "英国国家医疗服务体系（NHS）说，生完孩子 3 周就可能再怀孕，在喂奶、月经没来的也一样。除非想马上再要，每次同房都要避孕。靠喂奶避孕叫哺乳期闭经避孕法，要同时满足三样：只喂母乳、月经没来、孩子不满 6 个月。照规矩做，能挡住 99% 以上。做不到那么严格的，6 个月内每 100 人约有 2 人怀上。出现下面任何一样，就要换别的办法：孩子过了 6 个月，开始加奶粉辅食或用安抚奶嘴，来了月经（少量出血也算），夜里不喂了，喂的次数变少。一篇汇总合并了 67 项研究，扣掉了母亲年龄和家境。以上一胎生下到下次怀上隔 18 到 23 个月为准。不到 6 个月的，早产 OR 1.40（95% CI 1.24–1.58，可信范围），高约四成。孩子出生体重低 1.61（1.39–1.86），孩子比同孕周偏小 1.26（1.18–1.33）。隔 6 到 17 个月、超过 59 个月的，这三样也都偏高。加拿大一项研究看了 14.8 万多次怀孕，拿隔 6 个月的和隔 18 个月的比。35 岁以上的母亲死亡或重病 0.62% 对 0.26%，aRR 2.39（2.03–2.80），约是 2.4 倍。20 到 34 岁的母亲没有差别（0.92，0.83–1.02）。20 到 34 岁的孩子死胎、夭折、极小或极早产合计 2.0% 对 1.4%，aRR 1.42（1.36–1.47）。世界卫生组织 2005 年的专家会议建议，生下孩子以后至少隔 24 个月再试着怀下一胎。与会专家一致同意的是，不到 18 个月就怀上要避开。流产或人工流产之后至少隔 6 个月",
+      "grade": "B",
+      "sources": "NHS. Sex and contraception after birth. <https://www.nhs.uk/baby/support-and-services/sex-and-contraception-after-birth/>；NHS. Natural family planning. <https://www.nhs.uk/contraception/methods-of-contraception/natural-family-planning/>；Conde-Agudelo A, Rosas-Bermúdez A, Kafury-Goeta AC (2006). Birth spacing and risk of adverse perinatal outcomes: a meta-analysis. JAMA, 295(15), 1809. <https://doi.org/10.1001/jama.295.15.1809>；Schummers L, Hutcheon JA, Hernandez-Diaz S, et al. (2018). Association of Short Interpregnancy Interval With Pregnancy Outcomes According to Maternal Age. JAMA Internal Medicine, 178(12), 1661. <https://doi.org/10.1001/jamainternmed.2018.4696>；World Health Organization (2007). Report of a WHO Technical Consultation on Birth Spacing, Geneva, 13–15 June 2005（WHO/RHR/07.1）. <https://www.who.int/publications/i/item/WHO-RHR-07.1>；Ball SJ, Pereira G, Jacoby P, de Klerk N, Stanley FJ (2014). Re-evaluation of link between interpregnancy interval and adverse birth outcomes: retrospective cohort study matching two intervals per mother. BMJ, 349, g4333. <https://doi.org/10.1136/bmj.g4333>（备注里的反方研究）",
+      "notes": "争议。隔多久才够，说法不一样。世界卫生组织的专家一派主张 18 个月，一派主张 27 个月，24 个月是两边妥协定的。NHS 说的是至少隔 12 个月。澳大利亚一项研究拿 40441 名母亲自己的两次间隔互相比，结论不一样。隔 0 到 5 个月的早产 OR 1.07（0.86–1.34），出生体重低 1.03（0.79–1.34），都看不出差别。换成不同母亲之间比，早产是 1.41。所以间隔短的风险，可能有一部分来自母亲本身的情况。避孕本身没有争议，争的只是隔多久。按 NHS 的说法，避孕套、皮下埋植生完马上就能用，喂奶的也一样。喂奶的人用复方避孕药，一般要等到产后至少 6 周。用哪种，在产后 42 天复查时和医生谈，见第 16 条（产后 42 天那次复查）。收益定「中」凭判断，理由在核实记录里。好处落在你自己和下一个孩子身上"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

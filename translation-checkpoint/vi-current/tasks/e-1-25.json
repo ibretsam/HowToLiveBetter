@@ -1,0 +1,48 @@
+{
+  "id": "e-1-25",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "f45c6d56120a3d54a66448b35ff1f95c983c3c7f9bcce9d11ba249d8d0b1d1db",
+  "status": "outdated",
+  "original": {
+    "number": 25,
+    "title": "抑郁或有自杀念头时打 12356，家里不囤安眠药和农药",
+    "fields": {
+      "cost": "不花钱。打一个电话。另外把药锁起来，农药不放在家里。",
+      "plain": "把能要命的东西从手边拿走，这类做法的证据一直在变强。管住镇痛药以后，相关自杀降 43%，常有人跳楼的地方装上防护，降 86%。所以家里不囤安眠药和农药。想不开的时候先打 12356，全国通用，每天至少开 18 小时。",
+      "benefit": "一篇把近 10 年的研究系统梳理了一遍的综述：限制人拿到致死手段，这方面的证据一直在增强。管控镇痛药以后，和镇痛药有关的自杀下降 43%。常有人跳楼的地点加了防护之后，下降 86%（79% 到 91%，括号里是这个数的可信范围）。学校里开展的认知类项目，让自杀未遂低约 55%（OR 0.45，95% CI 0.24 到 0.85）。治抑郁的药物和心理治疗，是预防自杀的重要一环。中国从 2025 年 5 月 1 日起，全国拨 12356 都能接通心理援助热线，每天开通不少于 18 小时",
+      "grade": "B",
+      "sources": "Zalsman G 等 (2016). Suicide prevention strategies revisited: 10-year systematic review. Lancet Psychiatry. <https://doi.org/10.1016/S2215-0366(16)30030-X> ; 国家卫生健康委 (2024). 关于应用\"12356\"全国统一心理援助热线电话号码的通知（国卫医政函〔2024〕259 号）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm>",
+      "notes": "给 B 的原因：限制手段那边的证据多数是生态学研究，做法是比较政策出台前后的数字。热线本身没有降低死亡率的证据。自杀的冲动往往只持续几分钟到几小时，把能致死的东西挪远一步，本身就是干预。这个时间尺度的数据，以及未遂之后的长期结局，见本节第 32 条（自杀念头一冒出来先告诉身边的一个人）。被救回来之后会留下什么，见本节第 33 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 25,
+    "title": "Trầm cảm hoặc có ý nghĩ tự sát hãy gọi 12356; không tích thuốc ngủ, thuốc trừ sâu trong nhà",
+    "fields": {
+      "cost": "Không tốn tiền. Gọi một cuộc điện thoại, khóa thuốc lại và không để thuốc trừ sâu trong nhà.",
+      "plain": "Đưa thứ có thể gây chết khỏi tầm tay có bằng chứng ngày càng vững: quản lý thuốc giảm đau giúp tự sát liên quan giảm 43%; lắp bảo vệ nơi thường có người nhảy giảm 86%. Vì vậy đừng tích thuốc ngủ, thuốc trừ sâu ở nhà. Bế tắc thì gọi 12356 trước, dùng toàn quốc, mỗi ngày mở ít nhất 18 giờ.",
+      "benefit": "Tổng quan hệ thống nghiên cứu gần 10 năm cho thấy bằng chứng hạn chế tiếp cận phương tiện gây chết ngày càng mạnh. Sau quản lý thuốc giảm đau, tự sát liên quan giảm 43%. Sau thêm bảo vệ nơi thường xảy ra nhảy lầu, giảm 86% (79% đến 91%, khoảng tin cậy). Chương trình nhận thức tại trường giảm tự sát bất thành khoảng 55% (OR 0.45, 95% CI 0.24 đến 0.85). Thuốc trị trầm cảm và tâm lý trị liệu là phần quan trọng phòng tự sát. Từ ngày 1 tháng 5 năm 2025, cả Trung Quốc gọi 12356 đều đến hotline hỗ trợ tâm lý, mỗi ngày ít nhất 18 giờ",
+      "grade": "B",
+      "sources": "Zalsman G 等 (2016). Suicide prevention strategies revisited: 10-year systematic review. Lancet Psychiatry. <https://doi.org/10.1016/S2215-0366(16)30030-X> ; 国家卫生健康委 (2024). 关于应用\"12356\"全国统一心理援助热线电话号码的通知（国卫医政函〔2024〕259 号）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm>",
+      "notes": "Xếp B vì bằng chứng hạn chế phương tiện đa số là nghiên cứu sinh thái, so số trước sau chính sách; bản thân hotline chưa có bằng chứng giảm tử vong. Xung động tự sát thường chỉ vài phút đến vài giờ; đưa vật gây chết xa hơn đã là can thiệp. Dữ liệu khoảng thời gian và kết cục lâu dài sau tự sát bất thành xem mục 32 chương này (ý nghĩ vừa xuất hiện hãy nói một người bên cạnh). Di chứng sau cứu sống xem mục 33."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-34-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "01404bacc1dabe443881cf4bafa6a0dafd8e78915649984b433361bafecd86fb",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "普通感冒别找医生要抗生素",
+    "fields": {
+      "cost": "不花钱，还能省下药钱。",
+      "plain": "感冒吃抗生素，好得不比不吃快。成年人吃了，副作用的风险是不吃的两倍多。流脓鼻涕不到 10 天的，吃抗生素也没有确定的好处。",
+      "benefit": "一篇 Cochrane 系统综述汇总了 6 项随机试验、1147 人。感冒吃抗生素和吃安慰剂比，没好或症状持续的比例没有明显差别（RR 0.83，95% CI 0.60–1.14，差别不显著）。不良反应的风险是安慰剂组的 1.8 倍（95% CI 1.01–3.21）。其中成人 2.62 倍（1.32–5.18），儿童没有增加（0.91，0.51–1.63）。流脓鼻涕不到 10 天的急性脓性鼻炎，吃抗生素也没有明确好处（RR 0.73，0.47–1.13）。不良反应却多了（RR 1.46，1.10–1.94，高约 46%）。作者结论是：这两种情况都不推荐常规用抗生素。",
+      "grade": "A",
+      "sources": "Kenealy T, Arroll B (2025). Antibiotics for the common cold and acute purulent rhinitis. Cochrane Database of Systematic Reviews, 11:CD000247. <https://doi.org/10.1002/14651858.CD000247.pub4>",
+      "notes": "这一版是 2025 年重新发布的，摘要写明文献检索截至 2013 年。抗生素在国内是处方药，药店要凭处方卖，家里剩的抗生素也别自己拿来吃。收益定「中」是判断：它防的是不良反应，不是死亡。感冒也别要求输液，见第 6 节第 35 条（感冒发烧就要求输液）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Cảm thông thường đừng đòi bác sĩ kê kháng sinh",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm thuốc.",
+      "plain": "Cảm dùng kháng sinh không khỏi nhanh hơn không dùng. Người lớn dùng có nguy cơ tác dụng phụ hơn gấp đôi. Chảy mũi mủ chưa đến 10 ngày cũng chưa có lợi ích chắc chắn từ kháng sinh.",
+      "benefit": "Tổng quan Cochrane gộp 6 thử nghiệm ngẫu nhiên, 1147 người. Cảm dùng kháng sinh so giả dược không khác rõ tỷ lệ chưa khỏi hoặc còn triệu chứng, RR 0.83, 95% CI 0.60–1.14, không có ý nghĩa thống kê. Nguy cơ bất lợi gấp 1.8, 95% CI 1.01–3.21; người lớn 2.62, 1.32–5.18, trẻ không tăng, 0.91, 0.51–1.63. Viêm mũi mủ cấp chảy dưới 10 ngày cũng không có lợi ích rõ, RR 0.73, 0.47–1.13, nhưng bất lợi tăng, RR 1.46, 1.10–1.94, cao khoảng 46%. Tác giả không khuyên dùng kháng sinh thường quy cho cả hai.",
+      "grade": "A",
+      "sources": "Kenealy T, Arroll B (2025). Antibiotics for the common cold and acute purulent rhinitis. Cochrane Database of Systematic Reviews, 11:CD000247. <https://doi.org/10.1002/14651858.CD000247.pub4>",
+      "notes": "Bản này tái công bố năm 2025, tóm tắt ghi tìm tài liệu đến 2013. Kháng sinh ở Trung Quốc là thuốc kê đơn, hiệu thuốc phải bán theo đơn; thuốc còn dư ở nhà cũng đừng tự uống. Lợi ích ‘trung bình’ là nhận định: phòng phản ứng bất lợi, không phải tử vong."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": true
+}

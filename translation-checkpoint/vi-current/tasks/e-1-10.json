@@ -1,0 +1,49 @@
+{
+  "id": "e-1-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "812b2bb249622bb760eb55fa6285d26051997ebd817255a04908df1e803dc815",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "坐车时给 4 岁以下儿童用安全座椅，不要抱在怀里",
+    "fields": {
+      "cost": "一个 300 到 2000 元，能用几年。每次上车多花 1 分钟把孩子绑好。",
+      "plain": "一岁以下的婴儿坐车时用安全座椅，车祸里受致命伤的概率低约七成。1 到 4 岁的孩子低约一半。抱在怀里没有这个效果。",
+      "benefit": "美国交通安全主管部门（NHTSA）估计，用安全座椅能让轿车里 1 岁以下婴儿受致命伤的风险下降 71%。1 到 4 岁的幼儿下降 54%。世界卫生组织（WHO）的口径是婴儿死亡下降 71%",
+      "grade": "A",
+      "sources": "NHTSA (2024). Occupant Protection in Passenger Vehicles: 2022 Data (DOT HS 813 573). <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813573> ; WHO (2025). Road traffic injuries fact sheet. <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>",
+      "notes": "按说明书把座椅固定好，装错等于没装。1 岁以下要反向安装，让孩子面朝车尾。上面的数字是美国官方拿事故数据估出来的。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,孩子,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Cho trẻ dưới 4 tuổi dùng ghế an toàn, đừng ôm trong lòng",
+    "fields": {
+      "cost": "Một ghế giá 300 đến 2000 nhân dân tệ, dùng vài năm. Mỗi lần lên xe thêm 1 phút cài dây cho trẻ.",
+      "plain": "Trẻ dưới một tuổi ngồi ghế an toàn có nguy cơ thương tích tử vong trong tai nạn giảm khoảng bảy phần mười. Trẻ 1 đến 4 tuổi giảm khoảng một nửa. Ôm lòng không có tác dụng này; phanh gấp bạn cũng không giữ nổi.",
+      "benefit": "NHTSA, cơ quan an toàn giao thông Mỹ, ước tính ghế an toàn giảm 71% nguy cơ thương tích tử vong ở trẻ dưới 1 tuổi trong xe con, giảm 54% ở trẻ 1 đến 4 tuổi. WHO đưa mức giảm tử vong trẻ sơ sinh 71%",
+      "grade": "A",
+      "sources": "NHTSA (2024). Occupant Protection in Passenger Vehicles: 2022 Data (DOT HS 813 573). <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813573> ; WHO (2025). Road traffic injuries fact sheet. <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>",
+      "notes": "Cố định ghế đúng hướng dẫn, lắp sai coi như không lắp. Trẻ dưới 1 tuổi phải lắp quay ngược, mặt hướng đuôi xe. Số trên do cơ quan chính thức Mỹ ước tính từ dữ liệu tai nạn."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

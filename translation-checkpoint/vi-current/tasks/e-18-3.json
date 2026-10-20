@@ -1,0 +1,48 @@
+{
+  "id": "e-18-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "18d8fd00ac0bf2e4a46f5f7ca5775d73c8b46a532e25cc48bf3a41074b059b2c",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "知道这条：不得因怀孕、生育、哺乳降工资或者辞退",
+    "fields": {
+      "cost": "不花钱",
+      "plain": "单位因为你怀孕、生孩子、喂奶，给你降工资或者把你辞了，都是违法的。孩子不满一周岁的，你每天有 1 小时喂奶时间，单位也不能安排你加班和上夜班，违反的按每人 1000 到 5000 元罚款。索赔怎么走见第 19 节。",
+      "benefit": "国务院规定：「用人单位不得因女职工怀孕、生育、哺乳降低其工资、予以辞退、与其解除劳动或者聘用合同。」这三段时间里单位不能给你减钱，也不能把你辞退或者解约。哺乳未满 1 周岁婴儿的，每天有 1 小时哺乳时间。单位也不得安排你延长劳动时间，不得安排夜班。哺乳期加班、上夜班这类违规，按每人 1000 元以上 5000 元以下罚款。降工资、辞退这一项，这份规定没有配罚款，被违法辞退的走劳动仲裁要求恢复或者赔偿",
+      "grade": "A",
+      "sources": "国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第五条、第九条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>",
+      "notes": "真的被违法辞退了，索赔路径见第 19 节。取证的重点是调岗、降薪的书面通知和聊天记录，这两样要留好"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Biết quyền này: không được giảm lương hoặc sa thải vì mang thai, sinh con hay cho con bú",
+    "fields": {
+      "cost": "Không tốn tiền",
+      "plain": "Trong thời gian mang thai, sinh con và cho bú, đơn vị giảm lương hoặc sa thải bạn là trái pháp luật, bị phạt từ 1000 đến 5000 nhân dân tệ cho mỗi người. Khi con chưa đủ một tuổi, mỗi ngày bạn có 1 giờ cho bú; đơn vị cũng không được xếp làm thêm hoặc ca đêm. Cách yêu cầu bồi thường xem chương 19.",
+      "benefit": "Quốc vụ viện quy định: “Đơn vị sử dụng lao động không được vì lao động nữ mang thai, sinh con hoặc cho bú mà giảm lương, sa thải, chấm dứt hợp đồng lao động hoặc tuyển dụng.” Trong ba giai đoạn này không được giảm tiền, sa thải hoặc chấm dứt hợp đồng. Người cho trẻ dưới 1 tuổi bú được 1 giờ mỗi ngày. Đơn vị không được kéo dài giờ làm hoặc xếp ca đêm. Vi phạm các quy định trên bị phạt từ 1000 đến 5000 nhân dân tệ cho mỗi người",
+      "grade": "A",
+      "sources": "国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第五条、第九条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>",
+      "notes": "Nếu thực sự bị sa thải trái pháp luật, xem cách yêu cầu bồi thường ở chương 19. Bằng chứng quan trọng là thông báo bằng văn bản về chuyển vị trí, giảm lương và lịch sử trò chuyện; giữ kỹ cả hai"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

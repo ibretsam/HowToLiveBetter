@@ -1,0 +1,48 @@
+{
+  "id": "e-10-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "48b654c1fd03edc50df85e76cacbcfb277dc45dddc0598bea5dd31fe5651a65c",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "领证只要身份证加一份签字声明，不用户口簿，不收钱，当场发证",
+    "fields": {
+      "cost": "不花钱。两个人都要亲自到场。办完通常几十分钟。",
+      "plain": "2025 年 5 月起领证只要两样东西：本人身份证，加一份签字声明。声明里写明本人没有配偶，和对方没有直系血亲、三代以内旁系血亲关系。户口簿不用带，也不用回一方户口所在地办。登记一分钱不收，符合条件当场发证。",
+      "benefit": "2025 年 5 月 10 日起施行的新婚姻登记条例，改了内地居民结婚要交的材料。条文写的是只需出具两样东西：「（一）本人的居民身份证；（二）本人无配偶以及与对方当事人没有直系血亲和三代以内旁系血亲关系的签字声明」。户口簿不再是必需材料。登记机关是「县级人民政府民政部门或者省、自治区、直辖市人民政府按照便民原则确定的乡（镇）人民政府」。旧条例里「到一方当事人常住户口所在地」的限制已经取消。条例还写明「婚姻登记机关办理婚姻登记，不得收取费用」。条例也写明「对当事人符合结婚条件的，应当当场予以登记，发给结婚证」。不予登记的情形，条例列了四项：「（一）未到法定结婚年龄的；（二）非男女双方完全自愿的；（三）一方或者双方已有配偶的；（四）属于直系血亲或者三代以内旁系血亲的」",
+      "grade": "A",
+      "sources": "国务院 (2025). 婚姻登记条例（国令第 804 号，第二、六、八、九、十条）. <https://www.gov.cn/zhengce/zhengceku/202504/content_7017752.htm>",
+      "notes": "登记机关不给办的只有四种情况：没到法定结婚年龄，不是双方完全自愿，一方或双方已经有配偶，两人是直系血亲或三代以内旁系血亲。可能收费的只有照相、复印这类周边服务。登记本身一分钱不收，遇到「工本费」「加急费」直接拒绝并投诉。离婚登记的 30 天冷静期见本节第 15 条（退出成本）。只办婚礼不领证的后果见本节第 21 条（摆了酒席也要去领结婚证）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Đăng ký chỉ cần căn cước và bản cam kết ký tên, không sổ hộ khẩu, miễn phí, cấp giấy tại chỗ",
+    "fields": {
+      "cost": "Không tốn tiền. Cả hai phải trực tiếp có mặt. Thường vài chục phút xong.",
+      "plain": "Từ tháng 5 năm 2025 chỉ cần căn cước cá nhân và bản cam kết ký tên, nói không có vợ chồng, không cùng huyết thống trực hệ hay bàng hệ trong ba đời. Không cần sổ hộ khẩu, không cần về nơi hộ khẩu một bên. Miễn phí đăng ký, đủ điều kiện cấp giấy ngay.",
+      "benefit": "Điều lệ Đăng ký hôn nhân mới hiệu lực ngày 10 tháng 5 năm 2025 đổi giấy tờ cư dân đại lục phải nộp. Chỉ cần: “(một) căn cước cư dân của bản thân; (hai) cam kết ký tên không có vợ chồng, không có quan hệ huyết thống trực hệ hoặc bàng hệ trong ba đời với đối phương”. Sổ hộ khẩu không còn bắt buộc. Cơ quan đăng ký là “dân chính chính quyền cấp huyện hoặc chính quyền hương (trấn) được chính quyền tỉnh, khu tự trị, thành phố trực thuộc xác định theo nguyên tắc thuận dân”. Bỏ giới hạn cũ “nơi hộ khẩu thường trú một bên”. Còn ghi “cơ quan đăng ký không được thu phí” và “đủ điều kiện phải đăng ký, cấp giấy kết hôn tại chỗ”.",
+      "grade": "A",
+      "sources": "国务院 (2025). 婚姻登记条例（国令第 804 号，第二、六、八、十条）. <https://www.gov.cn/zhengce/zhengceku/202504/content_7017752.htm>",
+      "notes": "Chỉ bốn tình huống không được đăng ký: chưa đủ tuổi, không hoàn toàn tự nguyện, một hoặc cả hai đã có vợ chồng, cùng huyết thống trực hệ hoặc bàng hệ trong ba đời. Chỉ dịch vụ bên ngoài như ảnh, sao chép có thể thu phí. Đăng ký không thu đồng nào; gặp “phí in giấy”, “phí khẩn” từ chối và khiếu nại. Thời gian suy nghĩ 30 ngày đăng ký ly hôn xem mục chi phí rút khỏi hôn nhân trong chương."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

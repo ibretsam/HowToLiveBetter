@@ -1,0 +1,49 @@
+{
+  "id": "e-30-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "a7407ad41149ccf09f8f3db0251016a636faa5fdd26087417732df1bf0f48df6",
+  "status": "draft",
+  "original": {
+    "number": 12,
+    "title": "查出视力不良，去医院做散瞳验光，之后按医生给的间隔复查",
+    "fields": {
+      "cost": "几十到几百元的检查费和配镜费。散瞳之后孩子会怕光、看近处模糊，要半天到一两天才缓过来。",
+      "plain": "散瞳验光是先滴一种眼药水，让眼睛里负责调焦的肌肉松下来，再验度数。这是在医院做的，诊断近视最准。卫健委写明这种药水对健康的眼睛不会造成损伤，停药后恢复正常。别拿眼镜店的一次电脑验光当诊断，也别因为「怕度数涨」不给孩子配镜。",
+      "benefit": "《防控儿童青少年近视核心知识十条》写明了散瞳验光是怎么回事。先用睫状肌麻痹剂，再验光。睫状肌麻痹剂是让眼睛里负责调焦的那块肌肉松下来的眼药水。散瞳验光是在医院做的医学验光，为诊断近视的「金标准」（最准的做法）。散瞳药物对健康的眼睛不会产生损伤，用药后可短期出现怕光、看近处不清楚，停药后可恢复正常。一旦确诊近视，应及时科学干预，通过配戴眼镜等矫正。配戴合适的眼镜可以有效矫正视物不清、延缓近视进展。戴镜视力正常者，学龄前儿童及小学生每 3 至 6 个月复查一次，初高中学生每 6 至 12 个月复查一次，根据具体情况决定是否更换眼镜。儿童在 1 至 3 岁、4 至 6 岁、7 岁之后应定期接受屈光筛查（查度数），监测远视储备量（全国，2023 年 7 月印发）",
+      "grade": "B",
+      "sources": "国家卫生健康委办公厅 (2023). 防控儿童青少年近视核心知识十条（国卫办妇幼函〔2023〕278 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6894284.htm>",
+      "notes": "给 B 是因为这是官方科普文件给的做法，不是带具体数字的原始研究。高度近视会引出视网膜脱离一类的毛病，所以复查不只是为了换眼镜。学生体检查出的「视力不良」只是先筛出来的结果，还要拿去医院做一次完整的眼科检查，见第 7 条。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Phát hiện thị lực kém thì đến bệnh viện đo khúc xạ sau liệt điều tiết, rồi tái khám theo khoảng bác sĩ hẹn",
+    "fields": {
+      "cost": "Vài chục đến vài trăm nhân dân tệ phí khám và kính. Sau nhỏ giãn đồng tử trẻ sợ ánh sáng, nhìn gần mờ, cần nửa ngày đến một hai ngày hồi lại.",
+      "plain": "Đo sau liệt điều tiết là nhỏ thuốc để cơ chỉnh nét trong mắt thả lỏng rồi đo độ. Thực hiện tại bệnh viện, đây là cách chẩn đoán cận chính xác nhất. Ủy ban Y tế nêu thuốc không làm tổn thương mắt khỏe, ngừng sẽ bình thường. Đừng coi một lần đo máy ở cửa hàng kính là chẩn đoán, cũng đừng không cho kính vì «sợ tăng độ».",
+      "benefit": "«Mười kiến thức cốt lõi phòng kiểm soát cận thị trẻ, thanh thiếu niên» giải thích: dùng thuốc liệt cơ thể mi rồi đo khúc xạ. Đó là thuốc nhỏ giúp cơ điều chỉnh tiêu cự trong mắt thả lỏng. Đây là đo y khoa ở bệnh viện, «tiêu chuẩn vàng» chẩn đoán cận (chính xác nhất). Thuốc giãn đồng tử không tổn hại mắt khỏe; có thể tạm sợ sáng, nhìn gần mờ, ngừng thuốc hồi bình thường. Xác định cận thì can thiệp khoa học kịp thời, chỉnh bằng kính và cách phù hợp. Kính phù hợp chỉnh nhìn mờ hiệu quả và làm chậm tiến triển. Nếu đeo kính thị lực bình thường, trẻ mầm non, tiểu học tái khám mỗi 3 đến 6 tháng; trung học cơ sở, phổ thông mỗi 6 đến 12 tháng, quyết đổi kính tùy tình hình. Trẻ 1 đến 3, 4 đến 6 và sau 7 tuổi cần sàng lọc khúc xạ định kỳ, theo dõi dự trữ viễn thị (toàn quốc, ban hành tháng 7 năm 2023)",
+      "grade": "B",
+      "sources": "国家卫生健康委办公厅 (2023). 防控儿童青少年近视核心知识十条（国卫办妇幼函〔2023〕278 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6894284.htm>",
+      "notes": "Xếp B vì đây là cách làm trong tài liệu phổ biến chính thức, không phải nghiên cứu gốc có số cụ thể. Cận nặng có thể dẫn đến bong võng mạc và bệnh khác, nên tái khám không chỉ đổi kính. «Thị lực kém» trong khám học sinh mới là sàng lọc, còn cần khám mắt đầy đủ ở bệnh viện, xem mục 7."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

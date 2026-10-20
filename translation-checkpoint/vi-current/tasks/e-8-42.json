@@ -1,0 +1,48 @@
+{
+  "id": "e-8-42",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "6b3d9456538b7d7e4f313838c1dad3c6d7c6be0317d3d9c2fb2a33acc93135ee",
+  "status": "draft",
+  "original": {
+    "number": 42,
+    "title": "现场出了事，先拍全景，再拍位置关系，最后拍损坏和伤情，原图原视频别删",
+    "fields": {
+      "cost": "不花钱。拿手机连续拍几十秒到几分钟。先保证自己安全，不耽误救人和处置。",
+      "plain": "只对着车上一道划痕或者地上一件东西拍特写，过几天没人知道它原来在哪。先拍一段全景，把路口、门牌、车、人和周围都收进去，再拍相互位置，最后拍细节。要挪动东西或者车，能先拍就先拍。原图原视频留在手机里，别只存一份聊天软件里转过的。",
+      "benefit": "民事诉讼法第六十六条把物证、视听资料和电子数据都列为证据。最高人民法院的证据规定第十四条把图片、音频、视频列为电子数据。第十五条要求交电子数据的原件，拿录像当证据要交原始载体。照片和录像能把马上会变的现场状态留下来，再和报警记录、维修记录、病历、证人说法互相对上。「全景、位置、细节」这个顺序是经验做法，法律没有规定（全国）",
+      "grade": "C",
+      "sources": "全国人大常委会 (2023 年修正，2024 年 1 月 1 日施行). 民事诉讼法（第六十六条）. 上海市发展和改革委员会转载全文 <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>；最高人民法院 (2019 年修正). 关于民事诉讼证据的若干规定（第十四、十五条）. <https://www.court.gov.cn/zixun/xiangqing/212721.html>",
+      "notes": "受益人是你自己和家人。给 C 是因为拍摄顺序只是经验，法律条文只管照片录像能当证据、要交原件。有人受伤、起火、漏气或者还有别的危险，先救人、先躲开，别为了拍照耽误。交通事故现场该做的事见本节第 1 条（出了交通事故先停车、救人、报警）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 42,
+    "title": "Hiện trường xảy ra chuyện: chụp toàn cảnh trước, vị trí tương quan sau, cuối cùng hư hỏng và thương tích; đừng xóa ảnh, video gốc",
+    "fields": {
+      "cost": "Không tốn tiền. Dùng điện thoại quay liên tục vài chục giây đến vài phút. Bảo đảm mình an toàn trước, không làm chậm cứu người và xử lý.",
+      "plain": "Chỉ chụp cận một vết xước xe hay vật trên đất thì vài ngày sau chẳng ai biết nó vốn ở đâu. Quay toàn cảnh trước, lấy cả giao lộ, số nhà, xe, người và xung quanh, rồi chụp vị trí tương quan, cuối cùng chi tiết. Cần di chuyển vật hay xe, nếu chụp trước được thì chụp. Giữ ảnh, video gốc trong điện thoại, đừng chỉ giữ bản đã chuyển qua ứng dụng chat.",
+      "benefit": "Điều sáu mươi sáu Luật Tố tụng dân sự liệt kê vật chứng, tài liệu nghe nhìn, dữ liệu điện tử là chứng cứ. Điều mười bốn quy định chứng cứ của Tòa án tối cao xếp ảnh, âm thanh, video vào dữ liệu điện tử. Điều mười lăm yêu cầu nộp bản gốc dữ liệu điện tử; video làm chứng cứ phải nộp vật chứa gốc. Ảnh và video giữ trạng thái hiện trường sắp thay đổi để đối chiếu với hồ sơ báo cảnh sát, sửa chữa, bệnh án và lời nhân chứng. Thứ tự “toàn cảnh, vị trí, chi tiết” là kinh nghiệm, không phải luật quy định (toàn quốc).",
+      "grade": "C",
+      "sources": "全国人大常委会 (2023 年修正，2024 年 1 月 1 日施行). 民事诉讼法（第六十六条）. 上海市发展和改革委员会转载全文 <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>；最高人民法院 (2019 年修正). 关于民事诉讼证据的若干规定（第十四、十五条）. <https://www.court.gov.cn/zixun/xiangqing/212721.html>",
+      "notes": "Người hưởng lợi là bạn và gia đình. Xếp C vì thứ tự chụp chỉ là kinh nghiệm; luật chỉ quy định ảnh, video được dùng làm chứng cứ và cần bản gốc. Có người bị thương, cháy, rò khí hoặc nguy hiểm khác thì cứu người, tránh nguy hiểm trước, đừng chậm vì chụp ảnh. Việc làm tại tai nạn giao thông xem mục 1 chương này (dừng xe, cứu người, báo cảnh sát)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

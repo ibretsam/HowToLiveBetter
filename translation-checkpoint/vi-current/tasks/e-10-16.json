@@ -1,0 +1,48 @@
+{
+  "id": "e-10-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "cc35170cedf57ea887e83fe55af0232de812fee29cb21a5c753dcb2dc7e1faf8",
+  "status": "draft",
+  "original": {
+    "number": 16,
+    "title": "给「为长辈结婚」单独记一笔账，别和自己的账混在一起",
+    "fields": {
+      "cost": "不花钱。在纸上分两栏写。一栏是这段婚姻里哪些收益是你自己的，本节前面几条能算出来。另一栏是哪些收益是长辈的：安心、面子、催婚停止。难在把长辈那一栏单独放着，不往自己这栏里并。",
+      "plain": "长辈那份收益，也就是安心、面子、不再催，是真的。但它不会自动变成你的健康收益或关系质量。而时间账、钱账和退出成本这三笔，全部由你自己承担。在纸上分两栏，把哪些收益归自己、哪些归长辈写开，这笔账划不划算自己一眼就能看出来。",
+      "benefit": "长辈的收益是真实的。但它不会自动转成你的健康收益（第 8 条）或关系质量（第 4 条，关系好不好看自己的感受）。而时间账（第 9 条）、钱账（第 10 到 12 条）和退出成本（第 15 条），全部由当事人承担。分开记账以后，「做任务式结婚」的性价比是高是低，自己就能看出来",
+      "grade": "C",
+      "sources": "作者经验，方法类建议；数据部分见本节前面各条",
+      "notes": "长辈那一栏也可以算成很重的一笔，怎么权衡由你自己定。填空清单见 [docs/结婚划不划算.md](../docs/结婚划不划算.md)"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Ghi riêng khoản “cưới vì người lớn”, đừng trộn với lợi ích mình",
+    "fields": {
+      "cost": "Không tốn tiền. Chia tờ giấy làm hai cột. Một cột ghi những lợi ích nào trong cuộc hôn nhân này là của chính bạn, có thể tính được từ các mục trước trong chương. Cột kia ghi những lợi ích nào là của người lớn: yên tâm, thể diện, không còn bị giục cưới. Cái khó là phải để riêng cột của người lớn, không gộp vào cột của mình.",
+      "plain": "Lợi ích của người lớn, tức là sự yên tâm, thể diện, không còn phải giục cưới, là có thật. Nhưng nó không tự động trở thành lợi ích sức khỏe hay chất lượng quan hệ của bạn. Còn ba khoản thời gian, tiền bạc và chi phí rút lui thì hoàn toàn do bạn tự gánh. Chia trên giấy thành hai cột, ghi riêng lợi ích nào thuộc về mình, lợi ích nào thuộc về người lớn, thì khoản này có đáng hay không, bạn nhìn là thấy ngay.",
+      "benefit": "Lợi ích của người lớn là có thật. Nhưng nó không tự động chuyển thành lợi ích sức khỏe của bạn (mục 8) hay chất lượng quan hệ (mục 4, quan hệ tốt hay không là xét cảm nhận của chính bạn). Còn thời gian (mục 9), tiền bạc (mục 10 đến 12) và chi phí rút lui (mục 15) đều do chính đương sự gánh. Tính riêng ra rồi thì “kết hôn như làm nhiệm vụ” có đáng hay không, bạn tự thấy được.",
+      "grade": "C",
+      "sources": "作者经验，方法类建议；数据部分见本节前面各条",
+      "notes": "Cột người lớn cũng có thể nặng cân, tự bạn quyết cân nhắc. Danh sách điền xem [bài “Kết hôn có đáng không?”](../docs/ket-hon-co-dang-khong.md)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

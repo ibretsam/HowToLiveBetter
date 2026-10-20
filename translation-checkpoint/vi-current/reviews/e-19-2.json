@@ -1,0 +1,15 @@
+{
+  "id": "e-19-2",
+  "source_sha256": "46a364e8984f9f42015d5f0f21b95c368bb2dd639c578a4608b02cade9d3cc65",
+  "draft_sha256": "a61cc5ac1f97d3d82b4624a2201dfa0a6db3089623aa4ebb7eaa6503dcd143f8",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường, phân biệt đủ 12 tháng liên tục với thâm niên cộng dồn, tổng 300% đã gồm lương thường và phần tăng thêm 200%. Giữ ngưỡng 20 ngày trở lên; 超过 trong điều kiện nghỉ bệnh được dịch vượt, không đổi thành từ đủ. Phân nhóm 10 đến 20 năm và 20 năm trở lên giữ như nguồn, không tự sửa điểm ranh giới. Không sửa nghĩa."
+}

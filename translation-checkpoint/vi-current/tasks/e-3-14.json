@@ -1,0 +1,48 @@
+{
+  "id": "e-3-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "6513c93bbf6b7bbb88a72e230e2cc0427d0a2d4d551ace201e72c8072bb17a95",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "发现自己在反复回想同一件糟心事时，换个需要动手的活",
+    "fields": {
+      "cost": "不花钱。难在要先察觉自己正在反复回想（这叫反刍），察觉本身就要练。",
+      "plain": "反复回想同一件糟心事，会加重抑郁，把负面念头钉得更牢，让人更解决不了问题，也更难真动手。它还会把身边愿意听你说的人耗光。察觉到自己在原地绕，就去干点要动手的活。",
+      "benefit": "多项研究的综述说，反复回想同一件糟心事（反刍思维）会加重抑郁。它还会强化负面思考，削弱解决问题的能力。它会妨碍实际行动，还会把身边愿意听你说的人耗光。它与焦虑、暴食、酗酒、自伤相关。",
+      "grade": "B",
+      "sources": "Nolen-Hoeksema, Wisco & Lyubomirsky (2008). Rethinking Rumination. Perspectives on Psychological Science. <https://doi.org/10.1111/j.1745-6924.2008.00088.x>",
+      "notes": "综述只给了方向，没有数字。「换个活」是作者自己的做法。文献能撑住的只有一句：把注意力岔开，好过接着在原地绕。至于换成什么活，没人比较过。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Khi thấy mình nghĩ đi nghĩ lại cùng một chuyện khó chịu, hãy chuyển sang việc cần động tay",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là trước tiên nhận ra mình đang nghĩ lặp lại, gọi là tư duy nghiền ngẫm tiêu cực; riêng việc nhận ra cũng cần luyện.",
+      "plain": "Nghĩ mãi cùng một chuyện khó chịu không giúp tìm đáp án. Nó làm trầm cảm nặng hơn, giữ chặt ý nghĩ tiêu cực, khiến bạn khó giải quyết vấn đề và khó thực sự hành động, còn làm kiệt sức những người sẵn lòng nghe. Khi nhận ra mình cứ nghĩ vòng quanh, hãy đi làm việc cần động tay.",
+      "benefit": "Tổng quan nhiều nghiên cứu cho thấy nghĩ lặp về cùng một chuyện khó chịu (tư duy nghiền ngẫm tiêu cực) làm trầm cảm nặng hơn. Nó củng cố suy nghĩ tiêu cực, giảm khả năng giải quyết vấn đề, cản hành động và làm cạn sức những người sẵn lòng lắng nghe. Nó còn liên quan lo âu, ăn vô độ, lạm dụng rượu và tự gây thương tích.",
+      "grade": "B",
+      "sources": "Nolen-Hoeksema, Wisco & Lyubomirsky (2008). Rethinking Rumination. Perspectives on Psychological Science. <https://doi.org/10.1111/j.1745-6924.2008.00088.x>",
+      "notes": "Tổng quan chỉ đưa hướng tác động, không có con số. “Chuyển việc” là cách tác giả tự dùng. Tài liệu chỉ ủng hộ rằng chuyển sự chú ý tốt hơn tiếp tục nghĩ vòng quanh; chưa ai so sánh nên đổi sang việc nào."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

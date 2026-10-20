@@ -1,0 +1,15 @@
+{
+  "id": "e-13-48",
+  "source_sha256": "0ef1fb081a80d12f1162b777eb3b9b522f5e35cf6da29d32ed520151beb93c61",
+  "draft_sha256": "60bf8ad3aa4714350c6cbd44ebeb9262ae332f98b5b9de62ab5977e66976453a",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed permanent-versus-primary tooth distinction, crown/root handling, milk/saline/saliva options, tap-water restriction, all follow-up intervals, ankylosis versus tooth-loss endpoint and numeric risks. No correction required."
+}

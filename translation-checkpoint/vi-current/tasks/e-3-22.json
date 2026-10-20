@@ -1,0 +1,48 @@
+{
+  "id": "e-3-22",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "ce06ce5ce1ea0514cfff7b3c33cca61e25f01647102de98e4d066651831f8f68",
+  "status": "outdated",
+  "original": {
+    "number": 22,
+    "title": "把「别人要求我做到完美」当症状看，不当事实看",
+    "fields": {
+      "cost": "不花钱。难的是把这种念头当成需要处理的东西，而不是当成对别人真实要求的准确测量。",
+      "plain": "总觉得「周围的人要求我完美，做不到就会被否定」的人，更容易有自杀念头。「我自己要求自己完美」和自杀念头的关系弱得多，只有前一种的三分之一左右。把原本就有的念头扣掉，前一种感觉仍和后来念头变多有关，只是幅度不大。",
+      "benefit": "把多项研究合起来算（荟萃分析）：45 项研究、N = 11,747，人群为本科生、医学生、社区成人与精神科患者，用的是随机效应模型。下面是与自杀念头的加权平均相关。完美主义担忧 r = .28（95% CI .24–.32，可信范围；42 项研究、7,936 人）。完美主义担忧是一个合集，包括社会规定型完美主义、在意犯错、对行动的怀疑、现实与标准的落差等。其中社会规定型完美主义单独算，也是 r = .28（.25–.32，30 项研究、3,640 人）。完美主义追求 r = .10（.07–.13，31 项研究、4,588 人），它是自我导向的完美主义与个人标准的合集。父母批评 r = .20（.11–.29）。再看与自杀未遂的关系。完美主义担忧 r = .12（.07–.17，15 项研究、5,275 人）。社会规定型完美主义 r = .19（.08–.29，8 项研究、689 人）。再看跟踪一段时间的那部分。把一开始就有的自杀念头扣除后，社会规定型完美主义仍与后来随访时的自杀念头同向变化，幅度不大。自我导向与他人导向的完美主义都看不出关联。",
+      "grade": "B",
+      "sources": "Smith MM, Sherry SB, Chen S, Saklofske DH, Mushquash C, Flett GL, Hewitt PL (2018). The perniciousness of perfectionism: A meta-analytic review of the perfectionism-suicide relationship. Journal of Personality, 86(3), 522–542. <https://doi.org/10.1111/jopy.12333>",
+      "notes": "定 B 的理由：纳入的研究多数是一次性问卷，看不出先后。相关强度中等（r 约 .28），大致只解释几个到一成的差异。量的是自杀念头和自杀未遂，不是死亡本身，所以收益量级按「只有替代终点」记小。作者自己也说，完美主义担忧与自杀未遂这一组像是有发表偏倚。发表偏倚指结果不好看的研究没被发出来。把估算的缺失研究补回去后，结论方向不变。高标准本身不是问题，也不必因此降低要求。区别在于标准从哪来，以及达不到时会不会觉得「我这个人就完了」。它和第 15 条（把「事情肯定会更糟」这类念头当症状看）里的悲观预期一样，是可以当症状处理的东西。有自杀念头先打 12356、把致死手段挪远，见第 1 节第 25 条。身边人流露出这种念头时你能做什么，见第 8 节第 15 条。孩子的抑郁筛查见第 30 节第 8 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 22,
+    "title": "Coi ý nghĩ “người khác yêu cầu tôi hoàn hảo” là triệu chứng, đừng coi là sự thật",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là coi ý nghĩ đó như điều cần xử lý, chứ không phải phép đo chính xác yêu cầu thật của người khác.",
+      "plain": "Người luôn thấy “xung quanh đòi mình hoàn hảo, không đạt thì bị phủ nhận” dễ có ý nghĩ tự sát hơn. “Tôi tự yêu cầu mình hoàn hảo” liên quan yếu hơn nhiều, chỉ khoảng một phần ba. Sau khi loại phần ý nghĩ tự sát đã có, cảm giác đầu vẫn liên quan ý nghĩ tăng thêm về sau, dù mức tăng nhỏ.",
+      "benefit": "Phân tích gộp 45 nghiên cứu, N = 11,747, gồm sinh viên đại học, sinh viên y, người lớn trong cộng đồng và bệnh nhân tâm thần, dùng mô hình hiệu ứng ngẫu nhiên. Các số sau là tương quan trung bình có trọng số với ý nghĩ tự sát. Lo ngại về sự hoàn hảo có r = .28 (95% CI .24–.32, khoảng tin cậy; 42 nghiên cứu, 7,936 người). Đây là nhóm gồm cầu toàn do cảm thấy xã hội áp đặt, lo sai, nghi ngờ hành động, chênh lệch giữa thực tế và chuẩn. Riêng cầu toàn do xã hội áp đặt cũng r = .28 (.25–.32, 30 nghiên cứu, 3,640 người). Theo đuổi hoàn hảo có r = .10 (.07–.13, 31 nghiên cứu, 4,588 người), gồm cầu toàn hướng vào bản thân và tiêu chuẩn cá nhân. Cha mẹ chỉ trích có r = .20 (.11–.29). Với toan tự sát, lo ngại về hoàn hảo có r = .12 (.07–.17, 15 nghiên cứu, 5,275 người); cầu toàn do xã hội áp đặt r = .19 (.08–.29, 8 nghiên cứu, 689 người). Trong phần theo dõi, sau khi loại ý nghĩ tự sát ban đầu, cầu toàn do xã hội áp đặt vẫn biến cùng chiều với ý nghĩ tự sát ở lần theo dõi sau, nhưng mức nhỏ. Cầu toàn hướng vào bản thân hoặc người khác đều không thấy liên hệ.",
+      "grade": "B",
+      "sources": "Smith MM, Sherry SB, Chen S, Saklofske DH, Mushquash C, Flett GL, Hewitt PL (2018). The perniciousness of perfectionism: A meta-analytic review of the perfectionism-suicide relationship. Journal of Personality, 86(3), 522–542. <https://doi.org/10.1111/jopy.12333>",
+      "notes": "Xếp B vì đa số nghiên cứu chỉ hỏi một lần, không rõ thứ tự trước sau. Tương quan vừa (r khoảng .28), chỉ giải thích khoảng vài phần trăm đến một phần mười khác biệt. Kết quả là ý nghĩ và toan tự sát, không phải tử vong, nên lợi ích xếp nhỏ theo tiêu chí chỉ có kết quả thay thế. Tác giả cũng nói nhóm lo ngại hoàn hảo và toan tự sát có vẻ có thiên lệch công bố, tức nghiên cứu với kết quả không đẹp không được đăng. Bổ sung các nghiên cứu thiếu theo ước tính không đổi hướng kết luận. Chuẩn cao tự nó không có vấn đề, không cần vì thế giảm yêu cầu. Khác biệt ở nguồn chuẩn và việc khi không đạt bạn có thấy “con người mình coi như xong” không. Giống dự đoán bi quan ở mục 15 (coi ý nghĩ “mọi việc chắc chắn tệ hơn” là triệu chứng), đây là điều có thể xử lý như triệu chứng. Có ý nghĩ tự sát hãy gọi 12356 trước và đưa phương tiện gây chết ra xa, xem chương 1 mục 25. Người bên cạnh bộc lộ ý nghĩ đó, xem chương 8 mục 15 về việc bạn có thể làm. Sàng lọc trầm cảm ở trẻ xem chương 30 mục 8."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

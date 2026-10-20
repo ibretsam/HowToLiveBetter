@@ -1,0 +1,48 @@
+{
+  "id": "e-22-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "4cd2e111ed382a29a037f4ba422724c5e31e37bc742b57be939d1ac558901019",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "选住处时把周边绿地算进去，但别指望「多去公园」就延寿",
+    "fields": {
+      "cost": "不花钱。看房时顺手看一眼周边的绿化。",
+      "plain": "住处周边 500 米内的绿化越好，同期死亡的概率越低，按植被指数每提高 0.1 算，低约 4%。量的是住处周边的绿化，不是你去公园的次数。绿化好的地段，住的人往往更有钱、空气也更好。所以别当成去公园就能延寿，选住处时把周边绿地算进去就行。",
+      "benefit": "这是把 9 项跟踪人群多年的研究合在一起算的结果（队列研究的荟萃分析），涉及 7 个国家、832 万人。看的是住处 500 米以内的周边绿化程度，用归一化植被指数（NDVI，把地面绿化折算成的一个数）衡量。绿化程度每增加 0.1 个指数，总死亡率的合并风险比为 0.96（95% CI 0.94–0.97）。同期死亡的概率低约 4%，真实值大致落在低 3% 到低 6% 这一段。9 项研究中有 7 项发现绿化越好死亡率越低，差别也不像碰巧。另外 2 项没看出关联",
+      "grade": "A",
+      "sources": "Rojas-Rueda D, Nieuwenhuijsen MJ, Gascon M, Perez-Leon D, Mudu P (2019). Green spaces and mortality: a systematic review and meta-analysis of cohort studies. The Lancet Planetary Health, 3(11), e469-e477. <https://doi.org/10.1016/S2542-5196(19)30215-3>",
+      "notes": "争议。各项研究的结果差得很远（I²=95%，这个数越大越是彼此对不上）。而且它测的是居住地周边的绿化程度，不是你去公园的次数。住在绿化好的地方的人往往也更富、空气更好、更爱运动，这几样和绿化分不开谁在起作用。别读成「去公园就能延寿」，可用的部分是选住处时把绿地算进去，成本为零。NDVI 这个数，裸地和水泥接近 0，茂密植被接近 1。所以「0.1」大致是从光秃街区挪到有成排行道树的街区那种差别"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Ở gần cây xanh thì dùng nhiều hơn: đi bộ, dạo, ngồi đều được",
+    "fields": {
+      "cost": "Không tốn tiền. Tiện đường thì làm.",
+      "plain": "Cây xanh trong 500 mét quanh nhà càng tốt, xác suất chết cùng thời gian càng thấp; mỗi 0.1 tăng chỉ số thực vật là giảm khoảng 4%. Đo cây xanh quanh nhà, không phải số lần đi công viên. Khu xanh thường có dân giàu hơn, không khí tốt hơn. Vì vậy đừng hiểu đi công viên kéo dài tuổi thọ; khi chọn nhà tính cả cây xanh quanh đó là được.",
+      "benefit": "Gộp 9 nghiên cứu theo dõi người nhiều năm (phân tích gộp đoàn hệ), 7 quốc gia, 832 vạn người. Đo độ xanh trong 500 mét quanh nơi ở bằng chỉ số thực vật chuẩn hóa NDVI (quy độ xanh mặt đất thành một số). Mỗi tăng 0.1, tỷ số nguy cơ tử vong mọi nguyên nhân gộp là 0.96 (95% CI 0.94–0.97), xác suất tử vong cùng thời gian thấp khoảng 4%, giá trị thật đại khái giảm 3% đến 6%. Trong 9 nghiên cứu, 7 thấy càng xanh tử vong càng thấp, khác biệt khó là tình cờ; 2 nghiên cứu kia không thấy liên hệ",
+      "grade": "A",
+      "sources": "Rojas-Rueda D, Nieuwenhuijsen MJ, Gascon M, Perez-Leon D, Mudu P (2019). Green spaces and mortality: a systematic review and meta-analysis of cohort studies. The Lancet Planetary Health, 3(11), e469-e477. <https://doi.org/10.1016/S2542-5196(19)30215-3>",
+      "notes": "Còn tranh luận. Kết quả khác xa nhau (I²=95%, càng lớn càng không khớp). Nó đo xanh quanh nơi ở, không liên quan số lần đi công viên. Người ở nơi xanh thường giàu, không khí tốt, thích vận động; không tách được yếu tố nào tác động. Đừng đọc thành “đi công viên sẽ sống lâu”; phần dùng được là tính cây xanh khi chọn nhà, chi phí bằng không. NDVI gần 0 với đất trống, bê tông, gần 1 với cây dày. Vì vậy “0.1” đại khái là khác biệt từ khu trơ trụi sang khu có hàng cây ven đường"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

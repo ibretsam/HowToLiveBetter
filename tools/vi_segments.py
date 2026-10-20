@@ -51,7 +51,9 @@ def rewrite_url(url, source):
     except ValueError:
         return url
     destination = ROOT / FILES.get(rel, rel)
-    new = Path(os.path.relpath(destination, (ROOT / FILES[source]).parent)).as_posix()
+    # Current-cycle supplementary articles may not exist in the archived map.
+    target = FILES.get(source, "vi/" + source)
+    new = Path(os.path.relpath(destination, (ROOT / target).parent)).as_posix()
     if path.endswith("/"):
         new += "/"
     return new + (sep + fragment if sep else "")

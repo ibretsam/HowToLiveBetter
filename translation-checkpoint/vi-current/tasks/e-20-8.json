@@ -1,0 +1,49 @@
+{
+  "id": "e-20-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "4312ec5a714a75164da641fb16f502e3678fc55aacf0dbd24c1492b44c209088",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "不满 3 个月的婴儿体温到 38 ℃ 就直接去医院，不在家观察",
+    "fields": {
+      "cost": "挂号加检查几百元",
+      "plain": "孩子不满 3 个月，体温到 38 ℃ 就直接去医院。不要在家观察，也不要先喂退烧药再等等看。美国儿科学会专门给看着状态还可以的发热婴儿定了处理办法，所以「看着精神还行」不能当成在家等的理由。英国的指南也把不满 3 个月、烧到 38 ℃ 的孩子算作重病高危。",
+      "benefit": "美国儿科学会为 8 至 60 日龄、看上去状态还可以的足月婴儿制定了专门指南。这份指南把发热定义为「体温 ≥38.0 ℃」。它按 8 至 21 日龄、22 至 28 日龄、29 至 60 日龄分成三档，各给一条处理路径。不满 8 日龄的婴儿不在这份指南的范围里。英国 NICE 的发热指南管的是 5 岁以下的孩子。它写明，不满 3 个月、体温 38 ℃ 或以上的孩子，属于「严重疾病的高危组」",
+      "grade": "A",
+      "sources": "Pantell RH, Roberts KB, Adams WG, et al. (2021). Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics, 148(2), e2021052228. <https://doi.org/10.1542/peds.2021-052228>；NICE (2019, 2021 更新). Fever in under 5s: assessment and initial management (NG143), 1.2.12. <https://www.nice.org.uk/guidance/ng143/chapter/Recommendations>",
+      "notes": "这个月龄的孩子，得了严重细菌感染也可能只表现为发热。所以看着「精神还行」，不能作为在家观察的理由。也别自己先喂退烧药，再等等看"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Trẻ dưới 3 tháng có nhiệt độ từ 38 ℃ trở lên thì đi bệnh viện ngay, không theo dõi ở nhà",
+    "fields": {
+      "cost": "Đăng ký khám và xét nghiệm vài trăm nhân dân tệ",
+      "plain": "Trẻ dưới 3 tháng đạt 38 ℃ thì đi bệnh viện ngay. Đừng theo dõi ở nhà hay cho hạ sốt trước rồi chờ. Ở tuổi này, nhiễm khuẩn nặng cũng có thể chỉ biểu hiện sốt, nên “trông vẫn tỉnh táo” không phải lý do chờ tại nhà. Trẻ dưới 8 ngày còn ngoài phạm vi hướng dẫn, càng phải đi ngay.",
+      "benefit": "Hội Nhi khoa Hoa Kỳ có hướng dẫn riêng cho trẻ đủ tháng 8 đến 60 ngày trông vẫn khá ổn, định nghĩa sốt là “nhiệt độ ≥38.0 ℃”. Chia ba nhóm 8 đến 21 ngày, 22 đến 28 ngày, 29 đến 60 ngày, mỗi nhóm một quy trình. Trẻ dưới 8 ngày thậm chí không thuộc phạm vi hướng dẫn, nghĩa là giai đoạn này càng phải khám ngay",
+      "grade": "A",
+      "sources": "Pantell RH, Roberts KB, Adams WG, et al. (2021). Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics, 148(2), e2021052228. <https://doi.org/10.1542/peds.2021-052228>",
+      "notes": "Trẻ tuổi này nhiễm khuẩn nặng có thể chỉ sốt. Vì thế trông “vẫn tỉnh” không thể là lý do theo dõi ở nhà. Cũng đừng tự cho hạ sốt rồi chờ"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

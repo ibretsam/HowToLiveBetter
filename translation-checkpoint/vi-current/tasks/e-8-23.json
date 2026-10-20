@@ -1,0 +1,48 @@
+{
+  "id": "e-8-23",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "9527e33f581fb7c070cdcfee903e644915ca54c2c976101179e0fb7e76091259",
+  "status": "outdated",
+  "original": {
+    "number": 23,
+    "title": "恋爱和婚内的大额赠与，交付之前想清楚，交付之后原则上要不回",
+    "fields": {
+      "cost": "不花钱。大额转账之前先想一下：这是借，还是送。是借就写借条，转账备注写「借款」。难在开口把这句话说出来。",
+      "plain": "钱一交出去，原则上就要不回来了。送出去的东西，只有在过到对方名下之前才能随便撤销。过户完成之后，只有对方严重侵害你或者你的近亲属、该扶养你却不扶养、不履行约定义务这三种情形才撤得掉。所以大额转账之前先想清楚，这是借还是送。",
+      "benefit": "送出去的东西，在过到对方名下之前可以撤销，法律把这个时点叫财产权利转移。一旦转账、过户完成，就只剩三种情形能撤销。一是收东西的一方严重侵害你或者你的近亲属。二是该扶养你却不扶养。三是不履行赠与合同里约定的义务。节日、生日这类有纪念意义的时点给的礼物礼金，价值不大的，不属于彩礼。为了表达或者增进感情的日常消费支出，也不属于彩礼。这两类分手时不按彩礼返还（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第六百五十八、六百六十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2024). 关于审理涉彩礼纠纷案件适用法律若干问题的规定（法释〔2024〕1 号，第三条）. <https://www.court.gov.cn/fabu/xiangqing/423442.html>",
+      "notes": "「520、1314 这类特殊数额通常认定为赠与」是实务里常见的说法，本节没有找到最高法的官方原文，不作为结论。去公证处公证过的赠与，就不能说反悔就反悔。一笔转账到底算借还是算送，最后要看证据，聊天记录里的一句「这钱我先借你」比事后争论有用得多。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 23,
+    "title": "Tặng tài sản lớn khi yêu hoặc trong hôn nhân phải nghĩ kỹ trước khi giao; đã giao thì nguyên tắc là không đòi lại được",
+    "fields": {
+      "cost": "Không tốn tiền. Trước chuyển khoản lớn hãy nghĩ: đây là cho vay hay cho tặng. Cho vay thì viết giấy vay, nội dung chuyển khoản ghi “tiền vay”. Khó ở việc mở lời nói rõ điều đó.",
+      "plain": "Tiền đã giao thì nguyên tắc là không đòi lại được. Quà tặng chỉ có thể tùy ý hủy trước khi chuyển sang tên người kia. Sau sang tên, chỉ ba tình huống mới hủy được: họ xâm hại nghiêm trọng bạn hoặc người thân gần; có nghĩa vụ cấp dưỡng mà không làm; không thực hiện nghĩa vụ đã thỏa thuận. Vì vậy trước chuyển khoản lớn hãy nghĩ rõ là cho vay hay cho tặng.",
+      "benefit": "Tài sản tặng có thể hủy trước khi chuyển sang tên người kia; luật gọi thời điểm đó là chuyển quyền tài sản. Đã hoàn thành chuyển khoản, sang tên thì chỉ còn ba tình huống hủy được: người nhận xâm hại nghiêm trọng bạn hoặc người thân gần; có nghĩa vụ cấp dưỡng bạn mà không làm; không thực hiện nghĩa vụ trong hợp đồng tặng cho. Quà và tiền giá trị nhỏ tặng vào dịp kỷ niệm như lễ, sinh nhật, cùng chi tiêu thường ngày để bày tỏ hoặc tăng tình cảm, không phải sính lễ, nên chia tay không được đòi trả theo quy tắc sính lễ (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第六百五十八、六百六十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2024). 关于审理涉彩礼纠纷案件适用法律若干问题的规定（法释〔2024〕1 号，第三条）. <https://www.court.gov.cn/fabu/xiangqing/423442.html>",
+      "notes": "“Những số tiền đặc biệt như 520, 1314 thường được xác định là quà tặng” là nhận định phổ biến trong thực tiễn, nhưng chương này chưa tìm được văn bản chính thức của Tòa án tối cao nên không dùng làm kết luận. Tặng cho đã công chứng tại cơ quan công chứng thì không thể tùy ý đổi ý. Một giao dịch là vay hay tặng cuối cùng tùy chứng cứ; câu “tiền này tôi cho bạn vay trước” trong lịch sử trò chuyện hữu ích hơn nhiều so với tranh cãi sau đó."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

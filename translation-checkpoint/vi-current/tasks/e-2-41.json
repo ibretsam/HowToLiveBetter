@@ -1,0 +1,48 @@
+{
+  "id": "e-2-41",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "7df53ceabc47f6e6d1867e834307264dc6aff0013377beb10b0b237523e975fe",
+  "status": "outdated",
+  "original": {
+    "number": 41,
+    "title": "做饭用植物油代替猪油和黄油，不必为了健康换着买油，也别指望亚麻籽油护心",
+    "fields": {
+      "cost": "不多花钱。植物油本来就是大多数家庭的主力。难在改掉用猪油炒菜、拌饭的口味习惯。",
+      "plain": "少吃猪油黄油这类饱和脂肪、换成植物油，心脏病和中风这类事少约一成七，但总的死亡风险没看出变化。大豆油、玉米油的主要成分多吃一些，没看出好处，也没看出害处。亚麻籽油吃多了，心脏病风险也没看出下降。",
+      "benefit": "Cochrane 汇总了 15 项随机试验、56,675 人，每项至少做两年。少吃饱和脂肪，心血管事件合计低约 17%（RR 0.83，0.70–0.98）。总死亡率几乎不变（RR 0.96，0.90–1.03），心血管死亡也不变（RR 0.95，0.80–1.12）。换成多不饱和脂肪（大豆油、玉米油的主要成分）和换成碳水，效果没看出差别。换成单不饱和脂肪（菜籽油、橄榄油的主要成分）的数据太少，说不清。另一篇 Cochrane 汇总 19 项随机试验、6461 人，多吃 omega-6（亚油酸）对总死亡率 RR 1.00（0.88–1.12），对心血管事件 RR 0.97（0.81–1.15），看不出好处也看不出害处。第三篇汇总 86 项随机试验、162,796 人，多吃植物来源的 omega-3（亚麻籽油、紫苏油的主要成分），总死亡率 RR 1.01（0.84–1.20），冠心病事件 RR 1.00（0.82–1.22），基本没有作用。",
+      "grade": "A",
+      "sources": "Hooper L, Martin N, Jimoh OF, 等 (2020). Reduction in saturated fat for cardiovascular disease. Cochrane Database of Systematic Reviews, (5), CD011737. <https://doi.org/10.1002/14651858.CD011737.pub3>；Hooper L, Al-Khudairy L, Abdelhamid AS, 等 (2018). Omega-6 fats for the primary and secondary prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, (11), CD011094. <https://doi.org/10.1002/14651858.CD011094.pub4>；Abdelhamid AS, Brown TJ, Brainard JS, 等 (2020). Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, (3), CD003177. <https://doi.org/10.1002/14651858.CD003177.pub5>；中国营养学会 (2022). 中国居民膳食指南（2022）. 人民卫生出版社",
+      "notes": "争议：有人主张大豆油、玉米油里的 omega-6 太多会促炎，所以要少吃、换油。上面 omega-6 那篇的随机试验没看出害处，证据质量作者自评为低。收益量级按心血管事件低 17% 定为中，总死亡率没变。哪种油都要控制用量，膳食指南建议每人每天烹调油 25 到 30 克。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 41,
+    "title": "Dùng dầu thực vật thay mỡ lợn, bơ khi nấu; không cần đổi luân phiên các loại dầu vì sức khỏe, cũng đừng trông chờ dầu hạt lanh bảo vệ tim",
+    "fields": {
+      "cost": "Không tốn thêm tiền. Dầu thực vật vốn là loại chính ở đa số gia đình. Điều khó là bỏ thói quen thích dùng mỡ lợn xào thức ăn, trộn cơm.",
+      "plain": "Ăn ít chất béo bão hòa như mỡ lợn, bơ và thay bằng dầu thực vật giúp các biến cố như bệnh tim, đột quỵ ít hơn khoảng mười bảy phần trăm, nhưng không thấy thay đổi nguy cơ tử vong chung. Chưa có bằng chứng rằng đổi qua lại giữa dầu đậu nành, dầu ngô, dầu cải tạo ra khác biệt. Dùng thêm dầu hạt lanh cũng không thấy nguy cơ bệnh tim giảm.",
+      "benefit": "Cochrane gộp 15 thử nghiệm ngẫu nhiên với 56,675 người, mỗi thử nghiệm kéo dài ít nhất hai năm. Giảm chất béo bão hòa làm tổng biến cố tim mạch thấp hơn khoảng 17% (RR 0.83, 0.70–0.98). Tử vong chung gần như không đổi (RR 0.96, 0.90–1.03), tử vong tim mạch cũng không đổi (RR 0.95, 0.80–1.12). Thay bằng chất béo không bão hòa đa, thành phần chính dầu đậu nành, ngô, hoặc bằng carbohydrate không thấy khác biệt hiệu quả. Dữ liệu thay bằng chất béo không bão hòa đơn, thành phần chính dầu cải, ô liu, quá ít để kết luận. Tổng quan Cochrane khác gộp 19 thử nghiệm ngẫu nhiên, 6461 người: tăng omega-6, tức axit linoleic, cho RR tử vong chung 1.00 (0.88–1.12), RR biến cố tim mạch 0.97 (0.81–1.15), không thấy lợi cũng không thấy hại. Tổng quan thứ ba gồm 86 thử nghiệm ngẫu nhiên, 162,796 người: tăng omega-3 thực vật, thành phần chính dầu hạt lanh, tía tô, cho RR tử vong chung 1.01 (0.84–1.20), RR biến cố mạch vành 1.00 (0.82–1.22), cơ bản không tác dụng.",
+      "grade": "A",
+      "sources": "Hooper L, Martin N, Jimoh OF, 等 (2020). Reduction in saturated fat for cardiovascular disease. Cochrane Database of Systematic Reviews, (5), CD011737. <https://doi.org/10.1002/14651858.CD011737.pub3>；Hooper L, Al-Khudairy L, Abdelhamid AS, 等 (2018). Omega-6 fats for the primary and secondary prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, (11), CD011094. <https://doi.org/10.1002/14651858.CD011094.pub4>；Abdelhamid AS, Brown TJ, Brainard JS, 等 (2020). Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease. Cochrane Database of Systematic Reviews, (3), CD003177. <https://doi.org/10.1002/14651858.CD003177.pub5>；中国营养学会 (2022). 中国居民膳食指南（2022）. 人民卫生出版社",
+      "notes": "Tranh luận: có người cho rằng quá nhiều omega-6 trong dầu đậu nành, ngô thúc đẩy viêm, nên cần giảm hoặc đổi dầu. Các thử nghiệm ngẫu nhiên trong tổng quan omega-6 trên không thấy hại; tác giả tự đánh giá chất lượng bằng chứng thấp. Lợi ích được xếp trung bình theo mức giảm 17% biến cố tim mạch, còn tử vong chung không đổi. Loại dầu nào cũng cần kiểm soát lượng; hướng dẫn ăn uống khuyên dầu nấu mỗi người mỗi ngày 25 đến 30 gram."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

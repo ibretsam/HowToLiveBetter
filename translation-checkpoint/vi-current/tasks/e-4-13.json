@@ -1,0 +1,48 @@
+{
+  "id": "e-4-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "3dca8b88b65f799cf69d3ce090b1f41c8a183a0a76f7f79808cc01eb705c47b8",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "拖延已经影响生活的，用有随机试验支持的自助材料，不用非找治疗师",
+    "fields": {
+      "cost": "一本自助书几十元，有的免费。要投入十周左右，每周读一节、做一次练习。",
+      "plain": "拖延严重到让人痛苦，是能改善的。照着认知行为自助材料练十周，有人带着做和完全自己做，都明显比什么都不做好。有人带和没人带看不出差别，所以自己照着做也有效。",
+      "benefit": "150 人随机分成三组：有治疗师指导的自助、无指导的自助、等待名单对照。十周后，纯拖延量表上的组间效应量，有指导组 d = 0.70（95% CI 0.29–1.10，这是可信范围），无指导组 d = 0.50（0.10–0.90）；非理性拖延量表上分别是 0.81（0.40–1.22）和 0.69（0.29–1.09）。达到临床意义改善的比例：有指导组 31.3% 到 40.0%，无指导组 24.0% 到 36.0%。两组在任何一项结果上都没有显著差别。",
+      "grade": "A",
+      "sources": "Rozental A, Forsell E, Svensson A, Andersson G, Carlbring P (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824. <https://doi.org/10.1037/ccp0000023>",
+      "notes": "受试者是瑞典成年人，用的是瑞典语材料，中文里没有现成的同一套，所以收益量级记「中」。材料里的成分就是常见那几样：行为激活、行为实验、刺激控制、关于动机和工作方法的讲解。刺激控制那一样在本节第 10 条（把不想碰的挪远）。拖延同时伴着明显的情绪低落或者焦虑，先按第 3 节第 18 条（动起来、晒太阳、按时睡、找人说、打 12356）来。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Khi trì hoãn đã ảnh hưởng cuộc sống, hãy dùng tài liệu tự trợ giúp có thử nghiệm ngẫu nhiên ủng hộ; không nhất thiết phải tìm nhà trị liệu",
+    "fields": {
+      "cost": "Một cuốn sách tự trợ giúp giá vài chục nhân dân tệ, có loại miễn phí. Bạn cần dành khoảng mười tuần, mỗi tuần đọc một phần và làm một bài tập.",
+      "plain": "Trì hoãn nghiêm trọng gây khổ sở có thể điều trị. Luyện theo tài liệu tự trợ giúp nhận thức-hành vi mười tuần, có người hướng dẫn hay tự làm đều tốt hơn rõ so với không làm. Không thấy khác biệt giữa có và không hướng dẫn, nên tự luyện cũng hiệu quả.",
+      "benefit": "150 người được chia ngẫu nhiên thành ba nhóm: tự trợ giúp có nhà trị liệu hướng dẫn, tự trợ giúp không hướng dẫn và đối chứng chờ điều trị. Sau mười tuần, kích thước hiệu ứng giữa nhóm trên thang trì hoãn thuần túy là d = 0.70 ở nhóm có hướng dẫn (95% CI 0.29–1.10, khoảng tin cậy), d = 0.50 ở nhóm không hướng dẫn (0.10–0.90). Trên thang trì hoãn phi lý, các số tương ứng là 0.81 (0.40–1.22) và 0.69 (0.29–1.09). Tỷ lệ cải thiện có ý nghĩa lâm sàng là 31.3% đến 40.0% ở nhóm có hướng dẫn, 24.0% đến 36.0% ở nhóm không hướng dẫn. Hai nhóm này không khác có ý nghĩa ở bất kỳ kết quả nào.",
+      "grade": "A",
+      "sources": "Rozental A, Forsell E, Svensson A, Andersson G, Carlbring P (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824. <https://doi.org/10.1037/ccp0000023>",
+      "notes": "Người tham gia là người trưởng thành Thụy Điển, dùng tài liệu tiếng Thụy Điển; chưa có sẵn cùng bộ bằng tiếng Trung, nên lợi ích xếp “vừa”. Nội dung gồm các thành phần thường gặp: kích hoạt hành vi, thí nghiệm hành vi, kiểm soát kích thích, giải thích động lực và phương pháp làm việc. Kiểm soát kích thích xem mục 10 chương này (đưa thứ không muốn đụng ra xa). Nếu trì hoãn đi kèm tâm trạng thấp rõ rệt hoặc lo âu, trước hết làm theo chương 3 mục 18 (vận động, ra nắng, ngủ đúng giờ, tìm người trò chuyện, gọi 12356)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

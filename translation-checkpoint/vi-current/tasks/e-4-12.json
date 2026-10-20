@@ -1,0 +1,48 @@
+{
+  "id": "e-4-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "4624695a0858f98f71f51295175369a687a7565c489f067d83a7b974326b3539",
+  "status": "draft",
+  "original": {
+    "number": 12,
+    "title": "新习惯按月算，不要按「21 天」算",
+    "fields": {
+      "cost": "不花钱。要的是在同一个场景下每天重复同一个动作，持续几个月。",
+      "plain": "「21 天养成一个习惯」没有依据。一项跟踪 12 周的研究算下来，一个动作变得不用想就做，快的 18 天，慢的要 254 天。两三周还没变轻松是正常的。中间漏掉一天，也不会把进度清零。",
+      "benefit": "96 名志愿者各挑一个吃、喝或者活动方面的动作，在固定场景下（比如「早饭后」）每天做，持续 12 周，每天给自己的自动化程度打分。82 人的数据够用来分析，模型在 62 人身上拟合成功。达到各自自动化上限 95% 所需的天数，范围是 18 天到 254 天。研究还发现，漏掉一次执行机会对习惯养成过程没有实质影响。",
+      "grade": "B",
+      "sources": "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. <https://doi.org/10.1002/ejsp.674>",
+      "notes": "只有这一项研究，96 人，做的都是简单动作（比如饭后吃一份水果）。复杂的事要多久，比如每周跑三次、每天写作，没人测过。所以两周后还很费劲，不能当成失败的证据。要让重复真的发生，把动作绑在一个固定场景上，见本节第 1 条（写成「几点、在哪、遇到什么就做什么」）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Tính thói quen mới theo tháng, không theo “21 ngày”",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn cần lặp cùng một hành động mỗi ngày trong cùng hoàn cảnh, suốt vài tháng.",
+      "plain": "“21 ngày hình thành một thói quen” không có cơ sở. Nghiên cứu theo dõi 12 tuần tính ra một hành động trở thành việc làm không cần nghĩ mất từ 18 ngày ở người nhanh đến 254 ngày ở người chậm. Hai ba tuần vẫn chưa thấy dễ hơn là bình thường. Bỏ một ngày giữa chừng cũng không xóa hết tiến độ.",
+      "benefit": "96 tình nguyện viên mỗi người chọn một hành động liên quan ăn, uống hoặc vận động, thực hiện hằng ngày trong hoàn cảnh cố định như “sau bữa sáng” suốt 12 tuần và tự chấm mức tự động mỗi ngày. Dữ liệu của 82 người đủ để phân tích, mô hình khớp thành công ở 62 người. Thời gian đạt 95% mức tự động tối đa của từng người dao động từ 18 đến 254 ngày. Nghiên cứu còn thấy bỏ lỡ một lần thực hiện không ảnh hưởng đáng kể quá trình hình thành thói quen.",
+      "grade": "B",
+      "sources": "Lally P, van Jaarsveld CHM, Potts HWW, Wardle J (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. <https://doi.org/10.1002/ejsp.674>",
+      "notes": "Chỉ có một nghiên cứu với 96 người, đều làm hành động đơn giản như ăn một phần trái cây sau bữa. Chưa ai đo việc phức tạp như chạy ba lần mỗi tuần hoặc viết hằng ngày mất bao lâu. Vì vậy sau hai tuần vẫn khó không phải bằng chứng thất bại. Để việc lặp thực sự xảy ra, hãy gắn hành động với hoàn cảnh cố định, xem mục 1 chương này (ghi mấy giờ, ở đâu, gặp gì thì làm gì)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

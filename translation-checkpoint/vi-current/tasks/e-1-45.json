@@ -1,0 +1,29 @@
+{
+  "id": "e-1-45",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "2d19fc5b96369b1a26e0fae1e1ea67bc20886d285af6960a2d8658df0a34e09c",
+  "status": "pending",
+  "original": {
+    "number": 45,
+    "title": "成年人查一次丙肝抗体，阳性就再查核酸，确诊了吃 8 到 12 周口服药，绝大多数能治好",
+    "fields": {
+      "cost": "抽一管血查丙肝抗体，自费一般几十元，各地价格不同。抗体阳性的再抽一次血查核酸，看病毒还在不在。确诊的去当地丙肝定点医院开药，多数方案每天吃 1 片，吃 8 到 12 周，药费走医保报销。难在没有症状时想不起去查。",
+      "plain": "丙肝感染后几十年都可能没有症状，查一次抗体、阳性再查核酸就知道。确诊了吃 8 到 12 周口服药，九成五以上能把病毒清掉。清掉病毒的人，后来死亡风险低约六成，肝癌低约七成。这类药 2019 年进了医保，平均降价八成五以上。",
+      "benefit": "丙肝靠血液传播，没有疫苗。世界卫生组织说，慢性丙肝常常几十年没有症状，等出症状时肝已经伤得很重。抗体阳性只说明感染过，要再查核酸才知道病毒还在不在。约 30% 的人感染后不用治，6 个月内自己就清掉了病毒。世界卫生组织说，口服的直接抗病毒药吃 8 到 12 周，几乎所有病人都能治好。给美国预防服务工作组做的证据综述合并了 49 项治疗研究，各基因型的治愈率都在 95% 以上。治愈指停药 12 周后血里查不到病毒。严重不良反应 1.9%，因副作用停药 0.4%。同一篇综述把跟踪记录类研究合起来算，没有分组对照。治愈的人比没治愈的人，总死亡率低约 60%（HR 0.40，95% CI 0.28–0.56，13 项研究）。肝癌低约 71%（HR 0.29，95% CI 0.23–0.38，20 项研究）。法国跟踪了 9895 名慢性丙肝病人，中位 33.4 个月。扣掉年龄、肝纤维化程度、喝酒等因素后，吃药的人总死亡率低约 52%（HR 0.48，95% CI 0.33–0.70）。肝癌低约 34%（HR 0.66，95% CI 0.46–0.93）。美国退伍军人里有 15059 名肝病已到晚期的丙肝病人吃了这类药。平均跟踪约 1.6 年，治愈的人每 100 人跟踪一年死 2.6 人，没治愈的死 12.3 人。扣掉其他因素后死亡风险低约 74%（HR 0.26，95% CI 0.22–0.31）。美国预防服务工作组 2020 年推荐 18 到 79 岁的成年人都查（B 级推荐）。多数人一辈子查一次就够。中国 2022 年版防治指南建议全体成年人筛查抗体，一直有高危风险的定期查，抗体阳性的都查核酸。2006 年全国调查里，1 到 59 岁人群抗体阳性率 0.43%。把多项研究合起来算，一般人群是 0.60%，吸毒人群 48.67%，血液透析人群 6.59%。国家医保局说，谈判前丙肝药的疗程费用多超过 5 万元。2019 年谈判进医保的三种丙肝药，平均降价 85% 以上（美国、法国 / 中国）",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force, Owens DK, Davidson KW, et al. (2020). Screening for Hepatitis C Virus Infection in Adolescents and Adults: US Preventive Services Task Force Recommendation Statement. JAMA, 323(10), 970-975. <https://doi.org/10.1001/jama.2020.1123>；Chou R, Dana T, Fu R, Zakher B, Wagner J, Ramirez S, Grusing S, Jou JH (2020). Screening for Hepatitis C Virus Infection in Adolescents and Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA. <https://doi.org/10.1001/jama.2019.20788>；Carrat F, Fontaine H, Dorival C, et al. (2019). Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. The Lancet, 393(10179), 1453-1464. <https://doi.org/10.1016/S0140-6736(18)32111-1>；Backus LI, Belperio PS, Shahoumian TA, Mole LA (2019). Impact of Sustained Virologic Response with Direct-Acting Antiviral Treatment on Mortality in Patients with Advanced Liver Disease. Hepatology, 69(2), 487-497. <https://doi.org/10.1002/hep.29408>；Jakobsen JC, Nielsen EE, Feinberg J, et al. (2017). Direct-acting antivirals for chronic hepatitis C. Cochrane Database of Systematic Reviews, CD012143.pub3. <https://doi.org/10.1002/14651858.CD012143.pub3>（反方）；World Health Organization (2026). Hepatitis C（事实清单，2026-07-28）. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-c>；中华医学会肝病学分会, 中华医学会感染病学分会 (2022). 丙型肝炎防治指南（2022 年版）. 中华肝脏病杂志, 30(12), 1332-1348. <https://doi.org/10.3760/cma.j.cn501113-20221220-00605>；国家卫生健康委办公厅等九部门 (2021). 关于印发消除丙型肝炎公共卫生危害行动工作方案（2021-2030 年）的通知（国卫办疾控函〔2021〕492 号）. <https://www.nhc.gov.cn/jkj/c100062/202109/6bf87bfeb2f0424e8d6efc0425b91699.shtml>；国家医疗保障局 (2019). 《关于将 2019 年谈判药品纳入乙类范围的通知》政策解读. <https://www.nhsa.gov.cn/art/2019/11/28/art_53_2057.html>",
+      "notes": "争议：Cochrane 2017 年的综述只认随机分组的试验。它找到的 138 项多是短期试验，判断不了这类药能不能少死人、少得肝病。它认为「治愈」只是血里查不到病毒，和少死人之间的关系还没有随机试验证实。上面死亡和肝癌的数字都来自跟踪记录。也没有研究直接比较过查和不查。国家方案点名要查的人里，有准备做手术、输血、内镜、透析的，有肝功能化验不明原因异常的。有过静脉吸毒、卖过血浆、多个性伴侣、男男性行为的，也在里面。艾滋病感染者、丙肝病人的配偶和性伴侣同样要查。方案还提出动员 40 岁以上的人去查。指南写明，现在的病人大多在 1993 年以前输过血或卖过血浆。纹身、穿耳洞、共用剃须刀和牙刷也可能传播。拥抱、共用碗筷和水杯一般不传播。治好以后抗体照样是阳性，要看核酸才知道有没有再感染。治好了还能再感染，还在共用针具的人每年至少查一次核酸。怀着孕查出来的，生完、停了哺乳再治，治疗期间要避孕。已经肝硬化的，治好了也要按时查肝癌。不共用针具见本节第 30 条（不和别人共用针具）。乙肝要查的是另一套指标，见本节第 14 条（查乙肝两对半）。艾滋病见本节第 31 条（查一次艾滋病）。指南写明，丙肝加上过量饮酒可能发展成肝衰竭，喝酒见第 2 节第 19 条（少喝或不喝酒）。受益人主要是你自己，也护住你的配偶和性伴侣。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

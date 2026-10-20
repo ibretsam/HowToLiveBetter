@@ -1,0 +1,48 @@
+{
+  "id": "e-1-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "b4256d1980ffcfe89033fd6b90fcd2910596ae8a119cfeb3b4176775939faec4",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "儿童近水不离视线，划船、野泳穿救生衣",
+    "fields": {
+      "cost": "救生衣 50 到 200 元。另外要搭上看着孩子的那份注意力。",
+      "plain": "坐船落水的时候穿着救生衣，淹死的概率大约只有不穿的一半。溺水至今是中国 1 到 14 岁孩子的头号死因。农村的溺水死亡率大约是城市的两倍。",
+      "benefit": "用美国海岸警卫队的数据做的研究，把条件相近的人配成对来比。坐休闲船只落水的人，穿着救生衣的溺亡风险低约一半。原值是校正后 RR 0.51，可信范围 95% CI 0.35 到 0.74。中国 20 岁以下的溺水死亡率，从 2013 年的每 10 万人 6.60 人降到 2021 年的每 10 万人 3.28 人。农村约为城市的 2 倍。2021 年农村是每 10 万人 3.84 人，城市 2.01 人。溺水仍然是 1 到 14 岁儿童的头号死因。2021 年 1 到 14 岁的溺水死亡率是每 10 万人 3.23 人，比排第二的道路交通伤害高 0.99 人。2021 年 0 到 19 岁的伤害死亡里，溺水占 31.1%，道路交通占 27.9%。15 到 19 岁这一档溺水死亡率最高，每 10 万人 3.95 人，其中男性 5.99 人",
+      "grade": "A",
+      "sources": "Cummings P 等 (2011). Association between wearing a personal floatation device and death by drowning among recreational boaters. Injury Prevention. <https://doi.org/10.1136/ip.2010.028688> ; Li Z 等 (2023). Unintentional Drowning Mortality Among Individuals Under Age 20 — China, 2013–2021. China CDC Weekly：「in China, it is deemed the primary cause of death for children between the ages of 1 and 14. According to 2021 data, the rate of unintentional drowning in this age group is 3.23 per 100,000, surpassing road traffic injuries, the second leading cause of fatalities, by 0.99 per 100,000.」「rural areas exhibited roughly double the mortality rate found in urban areas」. <https://doi.org/10.46234/ccdcw2023.198> ; Zhou J 等 (2024). Injury Mortality of Children and Adolescents Aged 0–19 Years — China, 2010–2021. China CDC Weekly：「drowning and road traffic crashes were the top two causes of child injury deaths, explaing 31.1% and 27.9% of total injury deaths」. <https://doi.org/10.46234/ccdcw2024.057>",
+      "notes": "A 级只对应救生衣这一半。「不离视线」是大家的共识，单算只有 C 级，没有随机试验，以后也不会有。中国的溺水死亡集中在农村，以及 15 到 19 岁的男性。冬天上冰面玩，见第 41 条（野外冰面先量厚度）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Trẻ gần nước phải luôn trong tầm nhìn; đi thuyền, bơi vùng nước tự nhiên hãy mặc áo phao",
+    "fields": {
+      "cost": "Áo phao giá 50 đến 200 nhân dân tệ. Còn cần dành sự chú ý trông trẻ.",
+      "plain": "Rơi xuống nước khi có áo phao thì nguy cơ chết đuối khoảng một nửa so với không mặc. Đuối nước vẫn là nguyên nhân tử vong đứng đầu trẻ 1 đến 14 tuổi ở Trung Quốc. Tỷ lệ chết đuối nông thôn khoảng gấp đôi thành thị.",
+      "benefit": "Nghiên cứu dữ liệu Tuần duyên Mỹ ghép cặp người tương đồng để so: người rơi từ thuyền giải trí có áo phao giảm khoảng một nửa nguy cơ chết đuối; RR hiệu chỉnh 0.51, khoảng tin cậy 95% CI 0.35 đến 0.74. Tử vong đuối nước dưới 20 tuổi ở Trung Quốc giảm từ 6.60 mỗi 10 vạn người năm 2013 xuống 3.28 mỗi 10 vạn năm 2021. Nông thôn khoảng 2 lần thành thị. Đuối nước vẫn là nguyên nhân tử vong đầu trẻ 1 đến 14 tuổi. Trong tử vong do thương tích tuổi 0 đến 19 năm 2021, đuối nước chiếm 31.1%, giao thông đường bộ 27.9%",
+      "grade": "A",
+      "sources": "Cummings P 等 (2011). Association between wearing a personal floatation device and death by drowning among recreational boaters. Injury Prevention. <https://doi.org/10.1136/ip.2010.028688> ; Li Z 等 (2023). Unintentional Drowning Mortality Among Individuals Under Age 20 — China, 2013–2021. China CDC Weekly. <https://doi.org/10.46234/ccdcw2023.198> ; Zhou J 等 (2024). Injury Mortality of Children and Adolescents Aged 0–19 Years — China, 2010–2021. China CDC Weekly. <https://doi.org/10.46234/ccdcw2024.057>",
+      "notes": "Mức A chỉ áp dụng phần áo phao. «Không rời mắt» là đồng thuận, riêng việc này chỉ mức C, không có và cũng sẽ không có thử nghiệm ngẫu nhiên. Tử vong đuối nước Trung Quốc tập trung ở nông thôn, mùa hè, nam 15 đến 19 tuổi."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

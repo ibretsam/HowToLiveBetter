@@ -1,0 +1,48 @@
+{
+  "id": "e-8-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "73bc03f822b3cf48782b152689feab87192aeb06a536ae643d25461ceaa3aad6",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "起了冲突先报警不动手，先动手的那个容易让对方的还手算成正当防卫",
+    "fields": {
+      "cost": "不花钱。退到人多的地方报警，让对方的动作留在监控里。难在忍住不还嘴、不推搡。",
+      "plain": "打人，拘留 5 到 10 日，罚五百到一千。结伙打、打老人孕妇孩子残疾人、多次打人，拘留 10 到 15 日，罚一两千。打成轻伤就是刑事案件，判 3 年以下，重伤判 3 到 10 年。两个人对着打不算正当防卫，所以先退开报警。",
+      "benefit": "殴打他人或者故意伤害的，拘留 5 到 10 日，并罚 500 到 1000 元。结伙打、打老人孕妇儿童残疾人、多次打人或者一次打多人的，处罚更重。拘留 10 到 15 日，并罚 1000 到 2000 元。结伙斗殴按寻衅滋事处理，最高拘留 15 日并罚 2000 元，寻衅滋事就是无事生非、起哄闹事。故意伤害他人身体、构成犯罪的，判 3 年以下；把人打成重伤的，判 3 到 10 年。两个人对着打，法律上叫相互斗殴，不算正当防卫。但如果对方先动手、手段又明显过激，或者你已经努力躲开、对方还接着打，你还击一般会被认定为防卫。还手过了头才叫防卫过当，要同时满足两条：明显超过必要限度，并且造成重大损害。就算真的过当，也应当减轻或者免除处罚（全国，治安管理处罚法 2026 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第三十、五十一条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第二十、二百三十四条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院、最高人民检察院、公安部 (2020). 关于依法适用正当防卫制度的指导意见（法发〔2020〕31 号，第 6、9、11、14 条）. <https://www.court.gov.cn/zixun/xiangqing/251611.html>",
+      "notes": "治安管理处罚法 2025 年修订之后条款号全变了。殴打他人从旧法第四十三条改成了第五十一条，引用旧条号的资料已经过时。「打成轻伤就要判刑」里的轻伤怎么算，由鉴定标准定，本节没有核实。对方已经倒地，或者已经跑了，侵害就算停了，你再追上去打，就不算防卫。为了防身随身带刀、甩棍、电击器，被查到就要罚，见第 9 节第 26 条（别为了防身买甩棍、电击器）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Xảy ra xung đột hãy báo cảnh sát trước, đừng đánh người; bên ra tay trước gần như chắc chắn chịu thiệt",
+    "fields": {
+      "cost": "Không tốn tiền. Lùi đến nơi đông người rồi báo cảnh sát, để hành động của đối phương được camera ghi lại. Khó nhất là nhịn không cãi trả, không xô đẩy.",
+      "plain": "Đánh người bị tạm giữ 5 đến 10 ngày, phạt năm trăm đến một nghìn nhân dân tệ. Đánh theo nhóm, đánh người già, phụ nữ mang thai, trẻ em, người khuyết tật hoặc đánh nhiều lần bị tạm giữ 10 đến 15 ngày, phạt một hai nghìn. Gây thương tích nhẹ là vụ hình sự, phạt đến 3 năm tù; thương tích nặng phạt 3 đến 10 năm. Hai người đánh nhau không được coi là phòng vệ chính đáng; người ra tay trước gần như chắc chắn chịu thiệt. Lùi về nơi đông người để báo cảnh sát hữu ích hơn đánh trả.",
+      "benefit": "Đánh người hoặc cố ý gây thương tích bị tạm giữ hành chính 5 đến 10 ngày và phạt 500 đến 1000 nhân dân tệ. Đánh theo nhóm, đánh người già, phụ nữ mang thai, trẻ em, người khuyết tật, đánh nhiều lần hoặc cùng lúc đánh nhiều người bị tạm giữ 10 đến 15 ngày và phạt 1000 đến 2000 nhân dân tệ. Đánh nhau theo nhóm bị xử lý theo hành vi gây rối, tối đa tạm giữ 15 ngày và phạt 2000 nhân dân tệ; gây rối là vô cớ sinh sự, kích động làm loạn. Cố ý gây thương tích cấu thành tội phạm bị phạt đến 3 năm tù; gây thương tích nặng bị phạt 3 đến 10 năm. Hai người đánh nhau được pháp luật gọi là ẩu đả lẫn nhau, không phải phòng vệ chính đáng. Nhưng nếu đối phương ra tay trước với cách thức rõ ràng quá mức, hoặc bạn đã cố tránh mà họ vẫn đánh, việc đánh trả thường được công nhận là phòng vệ. Đánh trả quá mức mới là vượt quá giới hạn phòng vệ, và phải đồng thời đáp ứng hai điều: rõ ràng vượt giới hạn cần thiết, đồng thời gây thiệt hại nghiêm trọng. Ngay cả khi thực sự vượt quá giới hạn thì cũng phải được giảm hoặc miễn hình phạt (toàn quốc, Luật Xử phạt quản lý trị an có hiệu lực từ ngày 1 tháng 1 năm 2026).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第三十、五十一条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第二十、二百三十四条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院、最高人民检察院、公安部 (2020). 关于依法适用正当防卫制度的指导意见（法发〔2020〕31 号，第 6、9、11、14 条）. <https://www.court.gov.cn/zixun/xiangqing/251611.html>",
+      "notes": "Sau sửa đổi năm 2025, số điều trong Luật Xử phạt quản lý trị an đều thay đổi. Đánh người chuyển từ Điều bốn mươi ba của luật cũ sang Điều năm mươi mốt; tài liệu dẫn số điều cũ đã lỗi thời. “Thương tích nhẹ” trong câu “đánh gây thương tích nhẹ sẽ bị phạt tù” được xác định theo tiêu chuẩn giám định; chương này chưa kiểm chứng tiêu chuẩn ấy. Khi đối phương đã ngã hoặc đã bỏ chạy, hành vi xâm hại được coi là đã dừng; bạn đuổi theo đánh tiếp không còn là phòng vệ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-3-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "9aaa3f65055b04fd680ba0aa36c1ed2fc17f53421c66b4268f29aa41a92b2da0",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "睡前一小时不看发光屏幕，要看就看纸书或不开屏幕灯的墨水屏",
+    "fields": {
+      "cost": "不花钱。睡前一小时放下手机，要长期对抗惯性，需要毅力。",
+      "plain": "睡前读发光屏幕，比读纸书晚约 10 分钟才睡着。褪黑素被压低 55%。第二天生物钟往后推 1.5 小时以上，早上更困，要更久才清醒。",
+      "benefit": "实验室里让同一批人两种条件轮着做（交叉试验）。一种是睡前在 iPad 上读电子书，亮度调到最高，读约 4 小时，连读 5 晚。另一种是在同样昏暗的屋里读纸书。睡前读发光的电子书，比读纸书入睡慢约 10 分钟（25.7 分钟对 15.8 分钟）。晚间褪黑素被压低 55%。第二天的生物钟（昼夜节律）推迟超过 1.5 小时，褪黑素开始分泌的时刻是 22:31 对 21:01。第二天早上更困，要更长时间才完全清醒。",
+      "grade": "B",
+      "sources": "Chang, Aeschbach, Duffy & Czeisler (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS. <https://doi.org/10.1073/pnas.1418490112>",
+      "notes": "人数少，是实验室里控好条件做的。按日常的手机亮度和使用时长，影响可能没这么大。手机的夜间模式管多大用，这项研究没测。墨水屏它也没测。不开屏幕灯的墨水屏和纸书一样靠反射屋里的光来看，所以归到纸书这边，这是从这项研究推出来的。开着屏幕灯的墨水屏也在发光，没有数据。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Không xem màn hình phát sáng trong một giờ trước ngủ; muốn đọc thì dùng sách giấy hoặc màn hình mực điện tử",
+    "fields": {
+      "cost": "Không tốn tiền. Để điện thoại xuống một giờ trước ngủ đòi hỏi chống thói quen lâu dài, nên cần ý chí.",
+      "plain": "Đọc màn hình phát sáng trước ngủ khiến bạn vào giấc chậm hơn đọc sách giấy khoảng 10 phút. Melatonin bị giảm 55%. Đồng hồ sinh học hôm sau lùi từ 1.5 giờ trở lên, khiến buổi sáng buồn ngủ hơn và mất lâu hơn để tỉnh.",
+      "benefit": "Thí nghiệm trong phòng cho cùng nhóm người lần lượt trải qua hai điều kiện (thử nghiệm chéo). Đọc sách điện tử phát sáng trước ngủ khiến vào giấc chậm hơn sách giấy khoảng 10 phút (25.7 phút so với 15.8 phút). Melatonin buổi tối bị giảm 55%. Đồng hồ sinh học, tức nhịp ngày đêm, hôm sau lùi hơn 1.5 giờ; thời điểm bắt đầu tiết melatonin là 22:31 so với 21:01. Sáng hôm sau họ buồn ngủ hơn và mất lâu hơn để tỉnh hoàn toàn.",
+      "grade": "B",
+      "sources": "Chang, Aeschbach, Duffy & Czeisler (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS. <https://doi.org/10.1073/pnas.1418490112>",
+      "notes": "Nghiên cứu ít người, được làm trong phòng thí nghiệm với điều kiện kiểm soát. Với độ sáng và thời lượng dùng điện thoại thường ngày, ảnh hưởng có thể nhỏ hơn. Nghiên cứu này không đo chế độ ban đêm của điện thoại hữu ích đến đâu."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

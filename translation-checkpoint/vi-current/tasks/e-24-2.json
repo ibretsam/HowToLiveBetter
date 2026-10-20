@@ -1,0 +1,48 @@
+{
+  "id": "e-24-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "2d11058c3e60cd4fb3543c73a8f239a0aaf10c4627aa37ea70f15b8b5a668350",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "同一个统筹地区（医保参保地）里，级别越低报销比例越高，差距约 10 个百分点",
+    "fields": {
+      "cost": "不花钱。难在忍住不往大医院跑。",
+      "plain": "按文件要求，同一笔住院费，医院级别越低，报销比例越高。各地要把档次拉开，每往上一级差十个百分点左右。比如 1 万元住院费，报销从八成降到七成，自己掏的就从 2000 元变成 3000 元。新增的医保基金也往基层倾斜。",
+      "benefit": "文件要求各地拉开不同等级医疗机构的住院报销水平，原则上逐级差 10 个百分点左右。按这个差距，同一笔住院费每往上跑一级医院，自己多掏的大约是这笔可报销费用的 10%。比如 1 万元可报销的住院费，报销比例从 80% 降到 70%，自己掏的从 2000 元变成 3000 元。多掏的 1000 元是总费用的一成，但比原来自己掏的多了一半。各地实际比例不同，起付线和封顶线也会让差额变化，这里只是按文件的 10 个百分点算的示意。年度新增医保基金也向基层倾斜",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「因地制宜适当拉开参保人员在不同等级医疗卫生机构的住院报销水平，原则上统筹地区内医疗卫生机构住院报销比例逐级拉开10个百分点左右的差距。」「具备条件的地方，可按分级诊疗导向酌情拉开参保人员在不同等级医疗卫生机构的门诊报销水平。」",
+      "notes": "同一笔住院费，在基层和在三级医院，自己掏的差额可能是几千元。能在基层办完的病别往上跑，并不是什么病都要在社区看。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Trong cùng khu điều phối (nơi tham gia bảo hiểm), tuyến càng thấp tỷ lệ thanh toán càng cao, chênh khoảng 10 điểm phần trăm",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là không chạy lên bệnh viện lớn.",
+      "plain": "Cùng viện phí, tuyến càng thấp bảo hiểm trả càng nhiều. Địa phương phải phân bậc, lên mỗi cấp chênh khoảng mười điểm phần trăm. Ví dụ viện phí 1 vạn, tỷ lệ từ tám phần mười xuống bảy thì tự trả từ 2000 thành 3000 nhân dân tệ. Quỹ bảo hiểm tăng thêm cũng ưu tiên cơ sở.",
+      "benefit": "Văn bản yêu cầu địa phương giãn tỷ lệ nội trú theo cấp, nguyên tắc chênh khoảng 10 điểm phần trăm mỗi cấp. Cùng viện phí, lên một tuyến tự trả thêm khoảng 10% chi phí đủ điều kiện thanh toán. Ví dụ 1 vạn chi phí được thanh toán, tỷ lệ 80% xuống 70% thì tự trả 2000 lên 3000. Khoản trả thêm 1000 nhân dân tệ chỉ bằng một phần mười tổng chi phí, nhưng làm phần tự trả tăng thêm một nửa so với trước. Tỷ lệ thật khác địa phương, mức tự trả ban đầu và mức trần cũng làm khoản chênh thay đổi; đây chỉ minh họa theo 10 điểm phần trăm. Quỹ tăng thêm hằng năm cũng ưu tiên cơ sở",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「因地制宜适当拉开参保人员在不同等级医疗卫生机构的住院报销水平，原则上统筹地区内医疗卫生机构住院报销比例逐级拉开10个百分点左右的差距。」「具备条件的地方，可按分级诊疗导向酌情拉开参保人员在不同等级医疗卫生机构的门诊报销水平。」",
+      "notes": "Cùng viện phí, tự trả ở cơ sở và bệnh viện hạng ba có thể chênh vài nghìn nhân dân tệ. Bệnh giải quyết được ở cơ sở đừng lên, không có nghĩa bệnh nào cũng phải khám cộng đồng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

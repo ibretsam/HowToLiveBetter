@@ -1,0 +1,48 @@
+{
+  "id": "e-33-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "d5a8f777bfdbf8e955f13a14bab258a124a905b1ef78b6f258ae58e4ce0d781b",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "听力下降就去配助听器，配它的理由是听得见，不是防痴呆",
+    "fields": {
+      "cost": "助听器几千到几万元，多数要自费。要验配，还要来回调试几次。",
+      "plain": "「戴助听器能防痴呆」这个说法目前没有立住。一项近千人的三年试验，总体上没有做出差别。只有在本来认知下降风险就偏高的那部分人里看到了差别。所以配助听器的理由是当下听得见、能和人说话、过马路能听见车，不是为了几十年以后的脑子。",
+      "benefit": "ACHIEVE 试验在美国 4 个社区做，纳入 977 名 70 到 84 岁、有未经治疗的听力损失、没有明显认知障碍的人。随机分成两组，一组接受听力干预（听力咨询和配助听器），一组接受健康教育对照，每 6 个月随访一次。主要终点是 3 年的整体认知评分变化。合并两个来源人群的主要分析里，两组没有显著差别：听力干预组 −0.200（95% CI −0.256 到 −0.144），对照组 −0.202（95% CI −0.258 到 −0.145），差值 0.002（95% CI −0.077 到 0.081），P=0.96。一项预设的敏感性分析显示，干预效果在两个来源人群之间存在差异（交互作用 P=0.010）。来自那项长期心血管健康观察研究的参与者年龄更大、认知下降的危险因素更多、基线认知分更低。在这部分 238 人里，听力干预组 3 年的认知下降少了 48%（差值 0.191，95% CI 0.022–0.360，P=0.027）。另外 739 名新招募的健康志愿者里，两组没有显著差别（差值 −0.061，95% CI −0.151 到 0.028，P=0.18）。研究者的结论是，听力干预可能在认知下降风险较高的人群里减少 3 年的认知变化，在风险较低的人群里则不能。试验没有报告归因于研究的严重不良事件",
+      "grade": "A",
+      "sources": "Lin FR, Pike JR, Albert MS, et al.; ACHIEVE Collaborative Research Group (2023). Hearing intervention versus health education control to reduce cognitive decline in older adults with hearing loss in the USA (ACHIEVE): a multicentre, randomised controlled trial. Lancet, 402(10404):786-797. <https://doi.org/10.1016/S0140-6736(23)01406-X>",
+      "notes": "争议：「助听器让认知下降少了近一半」这个说法，数字来自这项试验里 238 人的一个亚组，不是它的主要结果，主要结果是两组没有差别。「配助听器」和「防痴呆」要分开看：前者该做，后者别当成理由。听力残疾考生高考可以免外语听力，见本节第 13 条（合理便利）。有听力障碍的人开车应当佩戴助听设备，见本节第 15 条（C5）。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Nghe kém hãy đi lắp máy trợ thính; lý do là để nghe được, không phải phòng sa sút trí tuệ",
+    "fields": {
+      "cost": "Máy trợ thính vài nghìn đến vài vạn nhân dân tệ, phần lớn tự trả. Cần đo, chọn phù hợp và chỉnh vài lần.",
+      "plain": "Nói ‘đeo máy trợ thính phòng sa sút trí tuệ’ hiện chưa được xác lập. Thử nghiệm gần nghìn người trong ba năm không thấy khác biệt tổng thể. Chỉ nhóm vốn nguy cơ suy giảm nhận thức cao thấy khác biệt. Vì vậy lắp máy để hiện tại nghe, trò chuyện và nghe xe khi sang đường, không phải vì bộ não vài chục năm sau.",
+      "benefit": "ACHIEVE tại 4 cộng đồng Mỹ gồm 977 người 70 đến 84 tuổi, giảm thính lực chưa điều trị, không suy giảm nhận thức rõ. Chia ngẫu nhiên: một nhóm tư vấn thính lực và lắp máy, nhóm đối chứng giáo dục sức khỏe, theo dõi mỗi 6 tháng. Kết cục chính là thay đổi điểm nhận thức tổng thể trong 3 năm. Phân tích chính gộp hai quần thể nguồn không có khác biệt đáng kể: can thiệp −0.200, 95% CI −0.256 đến −0.144; đối chứng −0.202, 95% CI −0.258 đến −0.145; chênh 0.002, 95% CI −0.077 đến 0.081, P=0.96. Phân tích độ nhạy định trước thấy hiệu quả khác giữa hai quần thể, P tương tác =0.010. Người đến từ nghiên cứu quan sát sức khỏe tim mạch dài hạn lớn tuổi hơn, nhiều yếu tố nguy cơ suy giảm nhận thức hơn, điểm ban đầu thấp hơn. Tác giả kết luận can thiệp thính lực có thể giảm thay đổi nhận thức 3 năm ở nhóm nguy cơ cao, không ở nhóm nguy cơ thấp. Không báo biến cố bất lợi nghiêm trọng do nghiên cứu.",
+      "grade": "A",
+      "sources": "Lin FR, Pike JR, Albert MS, et al.; ACHIEVE Collaborative Research Group (2023). Hearing intervention versus health education control to reduce cognitive decline in older adults with hearing loss in the USA (ACHIEVE): a multicentre, randomised controlled trial. Lancet, 402(10404):786-797. <https://doi.org/10.1016/S0140-6736(23)01406-X>",
+      "notes": "Tranh luận: câu thường thấy trên mạng ‘máy trợ thính giảm gần một nửa suy giảm nhận thức’ đến từ một phân nhóm, không phải kết quả chính; kết quả chính là hai nhóm không khác. Tách ‘lắp máy’ khỏi ‘phòng sa sút trí tuệ’: việc trước nên làm, việc sau đừng lấy làm lý do. Thí sinh khuyết tật thính giác thi đại học được miễn nghe ngoại ngữ, xem mục 13 (điều chỉnh hợp lý). Người giảm thính lực lái xe phải đeo thiết bị hỗ trợ, xem mục 15 (C5)."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-12-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "d23bf10f7aa33ef6bf53e30db6da4ae24ea8af8dbd103af717781e2093a491e7",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "用人第一个月内签书面合同，30 日内办社保登记",
+    "fields": {
+      "cost": "社保里由公司出的那一部分，要一直交下去，各地的比例不一样。签合同本身不花钱，直接用当地人社部门的合同范本就行。",
+      "plain": "人来上班满一个月还没签书面合同，从第二个月起，每个月要按双倍发工资，一直算到满一年。社保要在用工 30 天内登记，不办又逾期不改的，罚该交社保费的 1 到 3 倍。法律上没有「员工自愿放弃社保」这一项。",
+      "benefit": "人来上班满一个月、不满一年还没签书面合同的，每个月要按双倍发工资。从人上班第一天算起，30 日内要给他办社保登记。不办的先勒令改正。过了期限的，按该交的社保费罚 1 到 3 倍，经办这件事的人另罚 500 到 3000 元。社保没按时交、没足额交的，从欠的那天起按每天万分之五加钱（滞纳金）。过了期限还不交的，再按欠款罚 1 到 3 倍。单位要自己申报，按时把钱交足。只有天灾这类没法抗的法定事由，才能晚交或者少交。没有「员工自愿放弃」这一项（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 劳动合同法（第十、八十二条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；全国人大常委会 (2010). 社会保险法（2018 年修正，第五十八、六十、八十四、八十六条）. <https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394629.html>",
+      "notes": "双倍工资从第二个月一直算到满一年，越拖越贵。没签合同、没缴社保的员工，一旦出了工伤，或者离职之后去仲裁，就要补缴、交罚款、再加赔偿。加起来往往比省下的那点钱多得多。员工怎么要双倍工资，见第 19 节第 20 条（双倍工资）。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Ký hợp đồng bằng văn bản trong tháng đầu sử dụng lao động, đăng ký bảo hiểm xã hội trong 30 ngày",
+    "fields": {
+      "cost": "Phần bảo hiểm xã hội công ty chịu phải đóng liên tục, tỷ lệ tùy địa phương. Ký hợp đồng không tốn tiền, có thể dùng mẫu cơ quan nhân lực và an sinh xã hội địa phương.",
+      "plain": "Người lao động làm đủ một tháng chưa có hợp đồng bằng văn bản, từ tháng thứ hai phải trả gấp đôi lương mỗi tháng, tính đến khi đủ một năm. Đăng ký bảo hiểm xã hội trong 30 ngày từ khi sử dụng lao động; không làm bị phạt 1 đến 3 lần số phí phải đóng. Pháp luật không có ngoại lệ “nhân viên tự nguyện bỏ bảo hiểm xã hội”.",
+      "benefit": "Người lao động làm đủ một tháng nhưng chưa đủ một năm mà chưa ký hợp đồng bằng văn bản thì phải trả gấp đôi lương mỗi tháng. Trong 30 ngày từ ngày đầu làm việc phải đăng ký bảo hiểm xã hội cho họ. Không làm thì trước hết bị yêu cầu sửa; quá hạn thì phạt 1 đến 3 lần phí bảo hiểm phải đóng, người thực hiện còn bị phạt 500 đến 3000 nhân dân tệ. Không đóng đúng hạn, đủ mức thì tính tiền chậm nộp năm phần vạn mỗi ngày từ ngày nợ. Quá hạn vẫn không đóng thì phạt thêm 1 đến 3 lần khoản nợ. Đơn vị phải tự khai và đóng đủ đúng hạn. Chỉ lý do luật định không thể chống đỡ như thiên tai mới cho phép đóng chậm hoặc thiếu. Không có trường hợp “nhân viên tự nguyện từ bỏ” (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 劳动合同法（第十、八十二条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；全国人大常委会 (2010). 社会保险法（2018 年修正，第五十八、六十、八十四、八十六条）. <https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394629.html>",
+      "notes": "Lương gấp đôi tính từ tháng thứ hai đến đủ một năm, càng kéo dài càng đắt. Nhân viên chưa có hợp đồng, chưa đóng bảo hiểm mà bị tai nạn lao động hoặc sau khi nghỉ yêu cầu trọng tài, khoản đóng bù, phạt và bồi thường thường lớn hơn nhiều số tiền đã tiết kiệm."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

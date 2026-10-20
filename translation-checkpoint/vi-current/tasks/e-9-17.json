@@ -1,0 +1,48 @@
+{
+  "id": "e-9-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "f46c7372fc5b58acf55fabe185546f95b2c50461d79b0a8e96b106547b4da897",
+  "status": "draft",
+  "original": {
+    "number": 17,
+    "title": "被警察拦下或带走时配合，不推、不打、不抢执法记录仪，喝了酒更要忍",
+    "fields": {
+      "cost": "不花钱。现场不动手。有意见等事后再提：投诉、申请行政复议、去法院起诉。难在被拦下的那几分钟里、尤其喝了酒时忍住脾气。",
+      "plain": "现场阻碍执法，警告或者罚 500 元以下，情节严重的拘留 5 到 10 日。对警察动手是另一档：撕咬、掌掴、踢打、抱摔、扔东西，造成轻微伤以上就算暴力袭警，判 3 年以下。用枪支、管制刀具或者开车撞的，判 3 到 7 年。甩手、挣脱这类一般的抗拒不算。",
+      "benefit": "阻碍国家机关工作人员依法办公务的，警告或者罚 500 元以下。情节严重的拘留 5 到 10 日，还可以再罚 1000 元以下。阻碍的是人民警察，就从重处罚。暴力袭击正在依法执行职务的人民警察，判 3 年以下。用枪支、管制刀具或者开车撞等严重危及警察人身安全的，判 3 到 7 年。撕咬、掌掴、踢打、抱摔、投掷物品造成轻微伤以上的，才算「暴力袭击」。甩手、挣脱、蹬腿这类一般性抗拒不算（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第六十一条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2020). 刑法修正案（十一）（第三十一条，即刑法第二百七十七条第五款）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百七十七条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2025). 关于办理袭警刑事案件适用法律若干问题的解释（高检发释字〔2025〕1 号，第一、八、十二条）. <https://www.spp.gov.cn/xwfbh/wsfbt/202501/t20250116_679579.shtml>；最高人民检察院 (2021). 袭警罪入刑一月 检察机关批捕 405 人. <https://www.spp.gov.cn/xwfbh/wsfbh/202105/t20210517_518308.shtml>",
+      "notes": "最高检 2021 年通报，袭警单独定罪之后的头一个月，就批准逮捕 405 人。江苏的 42 件里，酒后闹事引起的占 47.6%。湖北的 16 件里有 12 件，只是拳打脚踢、撕咬这种程度。对辅警动手，按妨害公务罪办。本条没有找到写明个人案情的官方案例。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Bị cảnh sát chặn hoặc dẫn đi hãy phối hợp; không đẩy, đánh, giật camera chấp pháp, uống rượu càng phải nhịn",
+    "fields": {
+      "cost": "Không tốn tiền. Không ra tay tại chỗ. Có ý kiến để sau khiếu nại, xin xem xét lại hành chính, kiện tòa. Khó nhất là giữ nóng giận trong vài phút bị chặn, nhất là đã uống.",
+      "plain": "Cản trở chấp pháp tại chỗ bị cảnh cáo hoặc phạt đến 500 nhân dân tệ; nghiêm trọng tạm giữ 5 đến 10 ngày. Động tay với cảnh sát là mức khác: cắn, tát, đá đánh, quật ngã, ném vật gây thương tích rất nhẹ trở lên là bạo lực tấn công cảnh sát, phạt đến 3 năm. Dùng súng, dao kiểm soát hoặc lái xe đâm bị 3 đến 7 năm. Vung tay, giằng thoát thông thường không tính.",
+      "benefit": "Cản nhân viên cơ quan nhà nước thực thi công vụ hợp pháp bị cảnh cáo hoặc phạt đến 500 nhân dân tệ. Nghiêm trọng tạm giữ 5 đến 10 ngày, có thể thêm đến 1000 nhân dân tệ. Cản cảnh sát nhân dân thì xử nặng. Bạo lực tấn công cảnh sát đang làm nhiệm vụ hợp pháp phạt đến 3 năm; dùng súng, dao kiểm soát, xe đâm hoặc cách khác nguy hiểm nghiêm trọng thân thể cảnh sát thì 3 đến 7 năm. Cắn, tát, đá đánh, quật ngã, ném vật gây thương tích rất nhẹ trở lên mới là “bạo lực tấn công”. Vung tay, giằng thoát, đạp chân chống cự thông thường không tính (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第六十一条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2020). 刑法修正案（十一）（第三十一条，即刑法第二百七十七条第五款）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百七十七条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2025). 关于办理袭警刑事案件适用法律若干问题的解释（高检发释字〔2025〕1 号，第一、八、十二条）. <https://www.spp.gov.cn/xwfbh/wsfbt/202501/t20250116_679579.shtml>；最高人民检察院 (2021). 袭警罪入刑一月 检察机关批捕 405 人. <https://www.spp.gov.cn/xwfbh/wsfbh/202105/t20210517_518308.shtml>",
+      "notes": "Viện kiểm sát tối cao thông báo năm 2021: tháng đầu tội tấn công cảnh sát được tách riêng đã phê chuẩn bắt 405 người. Trong 42 vụ Giang Tô, 47.6% do gây rối sau uống. Trong 16 vụ Hồ Bắc có 12 vụ chỉ mức đấm đá, cắn. Động tay với cảnh sát hỗ trợ xử tội cản trở công vụ. Chưa tìm được vụ chính thức nêu rõ tình tiết cá nhân cho mục này."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

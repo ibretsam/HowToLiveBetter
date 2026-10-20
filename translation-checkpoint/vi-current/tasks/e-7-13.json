@@ -1,0 +1,48 @@
+{
+  "id": "e-7-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "b2a0fb326a65a2bcbb28847f0adc4819d33e344a6744e003a4a19e8999b98a68",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "失业期间去领职业培训补贴、就业见习补贴和社保补贴，别自费上培训班",
+    "fields": {
+      "cost": "不花钱。培训本身要占掉你不少时间。难在要连着上完课、考出证书，才拿得到补贴。",
+      "plain": "参加培训并拿到规定的证书，就有职业培训补贴，同一个人最多领 3 次。毕业两年内没找到工作的高校毕业生、16 到 24 岁的失业青年，可以参加就业见习，见习期间领基本生活费。先去当地人社局官网查「职业培训补贴目录」，别自费报班。",
+      "benefit": "财政部、人社部的规章里列了一批就业补助资金项目，就是财政专门拿来补贴就业的那笔钱。参加培训并拿到符合规定的证书，给职业培训补贴，同一个人最多领 3 次。就业困难人员自己交社保（灵活就业）的补贴最长 3 年；离法定退休年龄不到 5 年的，可以延到退休。高校毕业生自己交社保的补贴最长 2 年，被企业招走的最长 1 年。毕业 2 年内没找到工作的高校毕业生，还有 16 至 24 岁的失业青年，可以参加就业见习，见习期间领基本生活费",
+      "grade": "A",
+      "sources": "财政部、人力资源社会保障部 (2023). 就业补助资金管理办法（第五条、第七条、第十条）. <https://www.gov.cn/zhengce/zhengceku/202401/content_6926462.htm>",
+      "notes": "具体的补贴目录和金额由各省定，先在当地人社局官网查「职业培训补贴目录」。低保家庭、零就业家庭的毕业年度高校毕业生，还有欠着助学贷款的、残疾的，另有一次性求职创业补贴"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Trong thời gian thất nghiệp hãy xin trợ cấp đào tạo nghề, trợ cấp thực tập việc làm và hỗ trợ bảo hiểm xã hội, đừng tự bỏ tiền đi học lớp đào tạo",
+    "fields": {
+      "cost": "Không tốn tiền. Bản thân việc học sẽ chiếm khá nhiều thời gian của bạn. Cái khó là phải học liên tục cho hết khóa, thi lấy được chứng chỉ thì mới được nhận trợ cấp.",
+      "plain": "Đi học nghề không cần tự bỏ tiền. Tham gia đào tạo và lấy được chứng chỉ theo quy định thì được trợ cấp đào tạo nghề, mỗi người được nhận tối đa 3 lần. Sinh viên tốt nghiệp đại học, cao đẳng trong vòng hai năm mà chưa tìm được việc, và thanh niên thất nghiệp từ 16 đến 24 tuổi, có thể tham gia thực tập việc làm, trong thời gian thực tập được nhận sinh hoạt phí cơ bản. Trước hết hãy lên website của cơ quan nhân lực và an sinh xã hội địa phương tra “danh mục trợ cấp đào tạo nghề”, đừng tự bỏ tiền đăng ký lớp học.",
+      "benefit": "Quy định của Bộ Tài chính và Bộ Nhân lực và An sinh xã hội liệt kê một loạt hạng mục của quỹ hỗ trợ việc làm, tức khoản tiền ngân sách dành riêng để hỗ trợ việc làm. Tham gia đào tạo và lấy được chứng chỉ đúng quy định thì được trợ cấp đào tạo nghề, mỗi người tối đa 3 lần. Người khó tìm việc tự đóng bảo hiểm xã hội (việc làm linh hoạt) được hỗ trợ tối đa 3 năm; ai chỉ còn chưa đầy 5 năm nữa là đến tuổi nghỉ hưu theo luật định thì được kéo dài đến khi nghỉ hưu. Sinh viên tốt nghiệp đại học, cao đẳng tự đóng bảo hiểm xã hội được hỗ trợ tối đa 2 năm, nếu được doanh nghiệp tuyển dụng thì tối đa 1 năm. Sinh viên tốt nghiệp trong vòng 2 năm mà chưa tìm được việc, cùng thanh niên thất nghiệp từ 16 đến 24 tuổi, có thể tham gia thực tập việc làm, trong thời gian thực tập được nhận sinh hoạt phí cơ bản.",
+      "grade": "A",
+      "sources": "财政部、人力资源社会保障部 (2023). 就业补助资金管理办法（第五条、第七条、第十条）. <https://www.gov.cn/zhengce/zhengceku/202401/content_6926462.htm>",
+      "notes": "Danh mục và mức hỗ trợ cụ thể do từng tỉnh định, trước hết hãy tra “danh mục trợ cấp đào tạo nghề” trên website cơ quan nhân lực và an sinh xã hội địa phương. Sinh viên đại học, cao đẳng trong năm tốt nghiệp thuộc hộ trợ cấp tối thiểu hoặc gia đình không có ai có việc làm, cũng như sinh viên còn đang nợ vay hỗ trợ học tập hoặc bị khuyết tật, còn có thêm trợ cấp tìm việc và khởi nghiệp một lần."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

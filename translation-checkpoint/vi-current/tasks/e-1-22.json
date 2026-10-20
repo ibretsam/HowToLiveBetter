@@ -1,0 +1,49 @@
+{
+  "id": "e-1-22",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "82ca2436a1ea4bed5d204b3389f6921351fdb343f1e05ecf315e61fefceb2b02",
+  "status": "outdated",
+  "original": {
+    "number": 22,
+    "title": "65 岁以上打肺炎球菌疫苗",
+    "fields": {
+      "cost": "几百元。部分地区对老年人免费。",
+      "plain": "8.45 万老人的试验里，13 价肺炎球菌疫苗把疫苗管得住的那几型肺炎挡掉约 46%。最凶险的侵袭性感染挡掉 75%。但对「所有原因的肺炎」没看出效果，别指望它管住全部肺炎。",
+      "benefit": "荷兰把 8.45 万名 65 岁以上老人随机分成两组来比。用的是 13 价肺炎球菌结合疫苗。它对疫苗覆盖型肺炎的效力是 45.6%。可信范围是 95.2% CI 21.8–62.5。疫苗覆盖型就是这支疫苗管得住的那几个菌型。对侵袭性肺炎球菌病的效力是 75.0%（95% CI 41.4–90.8），这是最凶险的那一类感染。对全部原因加在一起的肺炎，它没有效果",
+      "grade": "A",
+      "sources": "Bonten MJ, Huijts SM, Bolkenbaas M, et al. (2015). Polysaccharide conjugate vaccine against pneumococcal pneumonia in adults. New England Journal of Medicine, 372(12), 1114-1125. <https://doi.org/10.1056/NEJMoa1408544>",
+      "notes": "它只防疫苗覆盖的那几个型别，不是打了就不得肺炎。中国老年人常打的是 23 价多糖疫苗，和这项试验用的 13 价结合疫苗不是同一种，上面的效力数据不能直接套过去"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 22,
+    "title": "Người từ 65 tuổi trở lên tiêm vắc xin phế cầu",
+    "fields": {
+      "cost": "Vài trăm nhân dân tệ. Một số nơi miễn phí cho người cao tuổi.",
+      "plain": "Trong thử nghiệm 8.45 vạn người già, vắc xin phế cầu 13 giá ngăn khoảng 46% viêm phổi do các type được bao phủ, ngăn 75% nhiễm trùng xâm lấn nguy hiểm nhất. Nhưng không thấy hiệu quả với «viêm phổi mọi nguyên nhân», đừng mong ngăn toàn bộ viêm phổi.",
+      "benefit": "Hà Lan phân ngẫu nhiên 8.45 vạn người từ 65 tuổi trở lên thành hai nhóm, dùng vắc xin phế cầu liên hợp 13 giá. Hiệu lực với viêm phổi thuộc type được bao phủ là 45.6%, khoảng tin cậy 95.2% CI 21.8–62.5. Type được bao phủ là các type vi khuẩn vắc xin này ngăn được. Hiệu lực với bệnh phế cầu xâm lấn, loại nhiễm nguy hiểm nhất, là 75.0% (95% CI 41.4–90.8). Với viêm phổi gộp mọi nguyên nhân, không có hiệu quả",
+      "grade": "A",
+      "sources": "Bonten MJ, Huijts SM, Bolkenbaas M, et al. (2015). Polysaccharide conjugate vaccine against pneumococcal pneumonia in adults. New England Journal of Medicine, 372(12), 1114-1125. <https://doi.org/10.1056/NEJMoa1408544>",
+      "notes": "Vắc xin chỉ phòng các type được bao phủ, không bảo đảm tiêm rồi không viêm phổi. Người già Trung Quốc thường dùng polysaccharide 23 giá, khác loại liên hợp 13 giá trong thử nghiệm, nên không áp trực tiếp số hiệu lực trên"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

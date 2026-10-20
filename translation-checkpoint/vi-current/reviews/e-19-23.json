@@ -1,0 +1,15 @@
+{
+  "id": "e-19-23",
+  "source_sha256": "0494fafaf4d0e0d85904244ef00de2cd6234bb550bea5afb20e2cd2dac8cd578",
+  "draft_sha256": "c7907a900357babec16f7e23c000d834dc74209d9d96aa1cee7030712c780946",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Giữ điều kiện hai bên đồng thuận bằng lời nói và đã thực hiện hơn một tháng ở phần lợi ích; nhận định im lặng coi như đồng ý ở phần nói dễ hiểu được ghi chú rõ là suy ra, như nguồn. Giữ phạm vi riêng Bắc Kinh, yêu cầu có lý do chính đáng, điều kiện tiếp tục đến làm/bảo lưu ý kiến và hai kết quả trái luật/hợp lý. Dẫn mục 6, mục 5 cùng chương và chương 7 mục 2 đúng. Không sửa nghĩa."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-28-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "8d04c52166099efa62072814c623cde9858f923a077e8e2bf3b5e1656db1a51e",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "不要买承诺「快速瘦」的减肥药、减肥咖啡、瘦身糖果和酵素梅（号称泡过酵素的梅子）",
+    "fields": {
+      "cost": "不花钱。反过来还省下买这些产品的钱。难的是要接受没有「一周掉几斤」这回事。",
+      "plain": "这类产品里常查出偷加西布曲明，它原来是减肥药，2010 年在中国被停掉了。55 岁以上、有心脏病或糖尿病的超重的人吃了三年多，没致命的心梗高约三成，中风高约三成六。体重只多减了 1.7 公斤。抽检查出来的时候，你已经吃下去了。",
+      "benefit": "SCOUT 试验招了 9,804 人。他们都是 55 岁以上、超重或肥胖，并且有心血管病或 2 型糖尿病。这些人抽签分成吃药和不吃药两组，平均治疗 3.4 年。主要终点是事先定好要数的几件坏事：非致死性心梗、非致死性卒中（中风）、心脏骤停后被救回来、心血管死亡。这几件事的发生率是 11.4% vs 10.0%。HR 1.16（95% CI 1.03–1.31，P=0.02），吃药的人出事概率高约一成六。真实值大致落在高 3% 到高 31% 之间。非致死性心梗 4.1% vs 3.2%，HR 1.28（1.04–1.57），高约三成。非致死性卒中 2.6% vs 1.9%，HR 1.36（1.04–1.77），高约三成六。心血管死亡与全因死亡未增加，全因就是各种原因加起来。抽签之后，西布曲明组平均多减重 1.7 kg。原国家食品药品监督管理局根据安全性评估认为「减肥治疗的风险大于效益」，2010 年 10 月通知停止西布曲明制剂及原料药的生产、销售、使用。西布曲明与酚酞均禁止添加于食品，保健食品也算在内",
+      "grade": "A",
+      "sources": "James WPT et al. (2010). Effect of sibutramine on cardiovascular outcomes in overweight and obese subjects. NEJM. <https://doi.org/10.1056/NEJMoa1003114>；天津市市场监督管理委员会. 警惕部分食品中违法添加「盐酸西布曲明」和「酚酞」. <https://scjg.tj.gov.cn/tjsscjdglwyh_52651/hdpt/cjwtyxfts/202007/t20200720_2972549.html>",
+      "notes": "SCOUT 招的是本来就有心脏病或者糖尿病的高危人群。这个试验没有证明健康年轻人吃了也一样出事。但正因为分不清谁是高危，监管才干脆让它退市。另一种常被偷加的成分是酚酞，它本来是泻药，长期吃多了会打乱体内电解质、诱发心律失常。怎么判断：正经减肥药是处方药，在药店和医院能查到批准文号。打着「咖啡」「糖果」「梅子」「代餐」旗号卖、又承诺一周掉几斤的，按定义就不该有药效，有药效就说明加了东西。停用西布曲明的原文是国食药监办〔2010〕432 号通知，发在国家药监局网站上。这里引的是天津市市场监管部门的转述页，「风险大于效益」和「2010 年 10 月停止生产销售使用」两句可以在那里逐字核对。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Đừng mua thuốc, cà phê, kẹo giảm cân và mơ enzyme hứa «gầy nhanh»",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm tiền mua chúng. Khó là chấp nhận không có chuyện «một tuần giảm mấy cân».",
+      "plain": "Thành phần thường bị phát hiện lén thêm nhất là sibutramine, vốn là thuốc giảm cân bị ngừng sử dụng tại Trung Quốc năm 2010. Người thừa cân có bệnh tim hoặc tiểu đường dùng hơn ba năm có nguy cơ nhồi máu cơ tim không tử vong cao hơn khoảng ba phần mười, đột quỵ cao hơn khoảng ba mươi sáu phần trăm. Chỉ giảm thêm 1.7 kilogam. Đến lúc kiểm tra phát hiện thì bạn đã uống rồi.",
+      "benefit": "Thử nghiệm SCOUT tuyển 9,804 người từ 55 tuổi trở lên, thừa cân hoặc béo phì, có bệnh tim mạch hoặc tiểu đường loại 2. Họ được phân ngẫu nhiên thành nhóm dùng thuốc và không dùng, điều trị trung bình 3.4 năm. Kết cục chính là các sự kiện xấu định trước: nhồi máu cơ tim không tử vong, đột quỵ không tử vong, ngừng tim được cứu sống và tử vong tim mạch. Tỷ lệ là 11.4% so với 10.0%; HR 1.16 (95% CI 1.03–1.31, P=0.02), nhóm dùng thuốc cao hơn khoảng mười sáu phần trăm. Giá trị thật ước trong khoảng tăng 3% đến tăng 31%. Nhồi máu cơ tim không tử vong 4.1% so với 3.2%, HR 1.28 (1.04–1.57), tăng khoảng ba phần mười. Đột quỵ không tử vong 2.6% so với 1.9%, HR 1.36 (1.04–1.77), tăng khoảng ba mươi sáu phần trăm. Tử vong tim mạch và tử vong mọi nguyên nhân không tăng; mọi nguyên nhân là cộng tất cả nguyên nhân. Sau phân nhóm, nhóm sibutramine giảm thêm trung bình 1.7 kg. Cơ quan quản lý thực phẩm, dược phẩm quốc gia trước đây đánh giá an toàn và nhận định «rủi ro điều trị giảm cân lớn hơn lợi ích», thông báo tháng 10 năm 2010 ngừng sản xuất, bán và sử dụng chế phẩm, nguyên liệu sibutramine. Cấm thêm sibutramine và phenolphthalein vào thực phẩm, gồm cả thực phẩm bảo vệ sức khỏe",
+      "grade": "A",
+      "sources": "James WPT et al. (2010). Effect of sibutramine on cardiovascular outcomes in overweight and obese subjects. NEJM. <https://doi.org/10.1056/NEJMoa1003114>；天津市市场监督管理委员会. 警惕部分食品中违法添加「盐酸西布曲明」和「酚酞」. <https://scjg.tj.gov.cn/tjsscjdglwyh_52651/hdpt/cjwtyxfts/202007/t20200720_2972549.html>",
+      "notes": "SCOUT tuyển nhóm nguy cơ cao vốn có bệnh tim hoặc tiểu đường. Thử nghiệm không chứng minh người trẻ khỏe dùng cũng gặp hậu quả tương tự. Nhưng chính vì khó phân biệt ai nguy cơ cao, cơ quan quản lý đã rút thuốc khỏi thị trường. Thành phần khác hay bị lén thêm là phenolphthalein, vốn là thuốc nhuận tràng; dùng nhiều lâu dài gây rối loạn điện giải và loạn nhịp. Cách nhận biết: thuốc giảm cân chính thống là thuốc kê đơn, có số phê duyệt tra được ở hiệu thuốc và bệnh viện. Bán dưới danh «cà phê», «kẹo», «mơ», «thay bữa» mà hứa một tuần giảm mấy cân thì theo định nghĩa không nên có tác dụng thuốc; có tác dụng tức đã thêm chất. Nguyên văn văn bản Quốc thực dược giám biện〔2010〕432 trên website Cục Dược quốc gia nhưng máy này mở luôn báo lỗi 412, nên dẫn trang thuật lại của cơ quan quản lý cấp tỉnh. Có thể đối chiếu từng chữ hai câu «rủi ro lớn hơn lợi ích» và «tháng 10 năm 2010 ngừng sản xuất, bán, sử dụng» tại đó."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-15-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "31d6ff1101cc339adaf65de3157a8d175e840cbe33b814f47810fc5d944a2a6b",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "中介不得代收代付租金和押金，钱直接给房东",
+    "fields": {
+      "cost": "不花钱。付款前核对收款人，几分钟。难在要顶住中介让你把钱转给它的说法",
+      "plain": "按规定，房租和押金不能由中介代收代付，钱直接付给房东。钱在中介手里过一道，就多一次它卷款跑路的机会。付款前核对收款人是不是产权证上的名字。",
+      "benefit": "行政法规把「代收、代付住房租金、押金」列为房地产经纪机构的禁止行为，中介不能替房东收你的房租和押金。钱在中介手里过一道，就多一次卷款跑路的机会",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第二十五条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "付款前核对收款人是不是产权证上的名字。不是本人的，问清楚，并留一份书面授权。中介只能收牵线撮合的居间服务费"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Môi giới không được thu hộ, trả hộ tiền thuê và tiền cọc; hãy trả thẳng cho chủ nhà",
+    "fields": {
+      "cost": "Không tốn tiền. Dành vài phút xác minh người nhận trước khi trả. Khó ở chỗ phải giữ vững lập trường khi môi giới bảo bạn chuyển tiền cho họ",
+      "plain": "Theo quy định, môi giới không được thu hộ, trả hộ tiền thuê và tiền cọc; bạn trả thẳng cho chủ nhà. Tiền qua tay môi giới là thêm một cơ hội để họ ôm tiền bỏ trốn. Nếu họ bỏ trốn thật, tiền thuê coi như mất mà bạn còn có thể bị chủ nhà đuổi. Trước khi trả, đối chiếu người nhận với tên trên giấy chứng nhận quyền sở hữu.",
+      "benefit": "Quy định hành chính liệt kê “thu hộ, trả hộ tiền thuê nhà, tiền cọc” là hành vi bị cấm đối với tổ chức môi giới bất động sản; môi giới không được thay chủ nhà thu tiền thuê và tiền cọc của bạn. Tiền qua tay môi giới là thêm một cơ hội để họ ôm tiền bỏ trốn",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第二十五条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "Trước khi trả, đối chiếu người nhận với tên trên giấy chứng nhận quyền sở hữu. Nếu không phải chính chủ, hỏi rõ và giữ một bản ủy quyền bằng văn bản. Môi giới chỉ được thu phí dịch vụ kết nối giao dịch"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

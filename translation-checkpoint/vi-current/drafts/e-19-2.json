@@ -1,0 +1,14 @@
+{
+  "id": "e-19-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "46a364e8984f9f42015d5f0f21b95c368bb2dd639c578a4608b02cade9d3cc65",
+  "translator": "pilot_employment",
+  "translation": {
+    "title": "Tính phép năm theo thâm niên cộng dồn thành 5, 10, 15 ngày; những ngày chưa được nghỉ được quy thành tiền bằng 300% lương ngày",
+    "cost": "Không tốn tiền. Cộng tất cả số năm đã làm tại mọi đơn vị; hồ sơ đóng bảo hiểm xã hội là bằng chứng. Khó là phải giữ được quyết định không ký khi công ty đưa mẫu “tự nguyện từ bỏ phép năm”.",
+    "plain": "Tổng thâm niên ở mọi đơn vị từ đủ 1 năm đến dưới 10 năm được 5 ngày phép năm mỗi năm. Đủ 10 năm được 10 ngày, đủ 20 năm được 15 ngày; đổi việc vẫn tiếp tục cộng dồn. Đơn vị không bố trí được và bạn đồng ý không nghỉ thì các ngày đó được trả 3 lần lương ngày. Ký mẫu “tự nguyện từ bỏ phép năm” thì chỉ còn lương bình thường.",
+    "benefit": "Làm việc liên tục đủ 12 tháng thì có phép năm. Số ngày tính theo thời gian làm việc **cộng dồn**, cộng tất cả số năm đã làm tại mọi đơn vị. Từ đủ 1 năm đến dưới 10 năm được 5 ngày; từ đủ 10 năm đến dưới 20 năm được 10 ngày; từ đủ 20 năm được 15 ngày. Ngày nghỉ lễ theo luật và ngày nghỉ thường không tính vào số ngày phép năm. Nếu đơn vị thực sự không bố trí được vì yêu cầu công việc và đã được chính bạn đồng ý không nghỉ, thì những ngày đáng được nghỉ nhưng chưa nghỉ phải được “trả tiền lương phép năm bằng 300% thu nhập lương ngày của người lao động”. Trong 300% này đã có một phần lương ngày bình thường vốn phải trả, nên số thực tế nhận thêm là 200%. Lương ngày = lương tháng của bản thân ÷ 21.75. Lương tháng lấy bình quân tiền lương trong 12 tháng trước khi trả khoản này, sau khi trừ tiền làm thêm. Người mới vào đơn vị trong năm được tính theo tỷ lệ số ngày lịch còn lại tại đơn vị đó. Khi nghỉ việc, tính theo tỷ lệ thời gian đã làm trong năm rồi thanh toán hết; số ngày đã nghỉ vượt mức không bị khấu trừ ngược lại. Đơn vị vừa không bố trí nghỉ vừa không trả tiền sẽ bị buộc khắc phục trong thời hạn. Quá hạn vẫn không khắc phục thì ngoài khoản tiền lương phép năm, đơn vị còn phải trả thêm khoản bồi thường bằng đúng số đó (toàn Trung Quốc, có hiệu lực từ ngày 1 tháng 1 năm 2008).",
+    "notes": "Thâm niên phải cộng qua mọi đơn vị; đã đổi việc thì đừng chỉ tính thời gian ở công ty hiện tại. **Chỉ khi người lao động “vì lý do cá nhân và có văn bản đề nghị không nghỉ” thì đơn vị mới được chỉ trả lương bình thường**, nên đừng ký mẫu “tự nguyện từ bỏ phép năm”. Nghỉ việc riêng cộng dồn từ 20 ngày trở lên và đơn vị không trừ lương thì năm đó không được hưởng phép năm. Nghỉ bệnh vượt số tháng tương ứng cũng không được hưởng: thâm niên dưới 10 năm là 2 tháng, từ 10 đến 20 năm là 3 tháng, từ 20 năm trở lên là 4 tháng. Nghỉ thăm thân, nghỉ cưới hoặc tang, nghỉ thai sản và thời gian ngừng việc vẫn hưởng lương do tai nạn lao động không tính vào phép năm.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-23-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "1811bc4431d11b7f57de69de065f283ed5475190f42c62c5f7121a85f46436a9",
+  "status": "draft",
+  "original": {
+    "number": 13,
+    "title": "同样的钱和时间，优先选能直接上岗的短周期项目",
+    "fields": {
+      "cost": "要交短期课程的学费，钱不多。时间上要占一段。难在学到一半还没见效时，按说好的条件停下来。",
+      "plain": "政策鼓励的是能短期就业的「短平快」培训，还有职业院校的微专业。挑项目只看一条：学完有没有一个具体岗位能投简历。学一年半载、结业还要「再积累经验」的，实际花掉的时间远超标价。开工前就写好退出条件：学到什么程度还没找到活就停。",
+      "benefit": "政策口径与此一致：支持「民办培训机构开展市场化的高质量职业技能培训项目和能短期实现就业的『短平快』式职业技能培训项目」。同时推动职业院校「聚焦就业市场急需知识和技能……开设微专业和职业能力培训课程」",
+      "grade": "C",
+      "sources": "国务院就业促进和劳动保护工作领导小组 (2025). 关于开展大规模职业技能提升培训行动的指导意见. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032222.htm>",
+      "notes": "判断标准就一条：学完之后有没有一个具体的岗位能投简历。学一年半载、结业后还要「再积累经验」的项目，实际成本远高于标价。第 4 节讲的退出条件同样适用：开工前就写清楚「学到什么程度还没找到活就停」"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Cùng tiền, thời gian, ưu tiên chương trình ngắn có thể đi làm ngay",
+    "fields": {
+      "cost": "Đóng học phí khóa ngắn, không nhiều. Tốn một khoảng thời gian. Khó là học nửa chừng chưa hiệu quả vẫn dừng theo điều kiện đã định.",
+      "plain": "Chính sách khuyến khích đào tạo ngắn, gọn, nhanh có việc sớm và chuyên ngành nhỏ tại trường nghề. Chọn chỉ xét một điều: học xong có vị trí cụ thể để nộp hồ sơ không. Học nửa năm, một năm xong còn “tích lũy kinh nghiệm thêm” thì thời gian thật vượt xa giá ghi. Trước bắt đầu viết điều kiện rút: học đến mức nào chưa có việc thì dừng.",
+      "benefit": "Chính sách nhất quán: hỗ trợ “cơ sở tư nhân triển khai đào tạo kỹ năng chất lượng cao theo thị trường và loại ngắn, gọn, nhanh có thể tạo việc ngắn hạn”. Đồng thời thúc trường nghề “tập trung kiến thức, kỹ năng thị trường cần gấp… mở chuyên ngành nhỏ và khóa năng lực nghề”",
+      "grade": "C",
+      "sources": "国务院就业促进和劳动保护工作领导小组 (2025). 关于开展大规模职业技能提升培训行动的指导意见. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032222.htm>",
+      "notes": "Tiêu chuẩn duy nhất: học xong có vị trí cụ thể để nộp hồ sơ không. Học nửa năm, một năm rồi còn “tích lũy kinh nghiệm” có chi phí thật cao hơn giá niêm yết nhiều. Điều kiện rút lui chương 4 vẫn áp dụng: viết trước “học tới mức nào vẫn không tìm được việc thì dừng”"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

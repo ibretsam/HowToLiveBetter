@@ -1,0 +1,15 @@
+{
+  "id": "e-34-3",
+  "source_sha256": "7b005a37ac8ff0f6c8a04e65d5170017ae0ac7f229060764018589d543e4f497",
+  "draft_sha256": "b9b5eeeb47010239a1d40b099df3fa0596b2304ac1239a9135c5228711237ad3",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đủ sáu nhóm có nguy cơ cao, các RR và khoảng tin cậy, ngưỡng từ 60 tuổi và từ 3 ly rượu. Giữ giới hạn bằng chứng chỉ nói về liều cao và chỉ dẫn không tự ngừng aspirin liều thấp được bác sĩ kê."
+}

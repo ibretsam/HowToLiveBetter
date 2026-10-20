@@ -1,0 +1,15 @@
+{
+  "id": "intro-34",
+  "source_sha256": "d9a3a326a9ea7c27caba1e7bfa3d98555e1b0643c9cc706b6cdf9950e2a0246f",
+  "draft_sha256": "cea718f09d8aa2a59211ab77fc9387aa38eaf55ca4b732a12b20ac48dc9b68a7",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu tiêu đề và đủ bốn đoạn giới thiệu. Giữ phạm vi không hướng dẫn điều trị từng bệnh, giới hạn nghiên cứu không định lượng mức giảm nguy cơ, cách xếp mức lợi ích theo hậu quả và hai nhóm người hưởng lợi. Giữ đúng cả ba tham chiếu chương 13 mục 20, chương 16 mục 1 và chương 28 mục 6. Không cần sửa nội dung."
+}

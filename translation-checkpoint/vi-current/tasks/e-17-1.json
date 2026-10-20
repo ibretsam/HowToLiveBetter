@@ -1,0 +1,48 @@
+{
+  "id": "e-17-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "4e3eb9b40aa9f28b01c93b3b4698d0a87744541fcfc68ec38500945b92d4c87f",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "趁老人清醒，书面指定将来的监护人",
+    "fields": {
+      "cost": "去公证处办一份，几百元。和老人谈一次话就能定下来。难在开口：要当面说到将来他自己管不了自己的那一天",
+      "plain": "趁老人头脑还清楚，花几百元去公证处办一份书面文件，写明将来谁当他的监护人。没有这份文件，等老人不能自己做决定了，就按法律定的顺序来：先是配偶，再是父母和子女，再是其他近亲属。家里人为这事争起来，由居委会、村委会、民政部门或者法院来指定。",
+      "benefit": "民法典规定，头脑清醒、能自己做主的成年人（法律叫「具有完全民事行为能力的成年人」），可以提前和人商量好将来谁当自己的监护人。商量的对象可以是近亲属，也可以是其他愿意当监护人的个人或者组织。商量好了要「以书面形式确定自己的监护人」。将来他不能做决定了，或者只能做一部分决定了（法律叫「丧失或者部分丧失民事行为能力」），就由写定的这个人来管。没有这份文件，按民法典第二十八条的顺序当监护人：配偶，父母、子女，其他近亲属，再是经居委会、村委会或民政部门同意的其他愿意的个人或组织。民法典第三十一条规定，对谁当监护人有争议的，由居委会、村委会或者民政部门指定，不服的可以向法院申请指定，也可以直接向法院申请",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第二十八条、第三十一条、第三十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "这份文件叫意定监护，意思是自己提前指定的人。这个人排在法律默认的那套监护顺序前面。老人独居、子女在外地、家里关系复杂的，更需要提前办。建议去公证处做公证"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Khi người cao tuổi còn minh mẫn, chỉ định bằng văn bản người giám hộ tương lai",
+    "fields": {
+      "cost": "Làm tại văn phòng công chứng tốn vài trăm nhân dân tệ. Trao đổi với người cao tuổi một lần là có thể quyết định. Khó là mở lời: phải trực tiếp nói đến ngày họ không còn tự lo được cho mình",
+      "plain": "Khi người cao tuổi còn minh mẫn, dành vài trăm nhân dân tệ làm văn bản công chứng ghi rõ ai sẽ giám hộ họ. Không có giấy này, đến lúc họ không thể tự quyết định, tòa án phải chỉ định ai ký thay, ai quản lý tiền. Gia đình bất đồng thì còn kéo dài hơn.",
+      "benefit": "Bộ luật Dân sự quy định người trưởng thành minh mẫn, tự quyết định được (pháp luật gọi là “người trưởng thành có đầy đủ năng lực hành vi dân sự”) có thể thỏa thuận trước ai sẽ giám hộ mình. Người thỏa thuận có thể là thân nhân gần hoặc cá nhân, tổ chức khác sẵn lòng làm giám hộ. Sau khi thống nhất phải “xác định người giám hộ của mình bằng văn bản”. Về sau khi người đó không thể quyết định hoặc chỉ quyết định được một phần (pháp luật gọi là “mất hoặc mất một phần năng lực hành vi dân sự”), người đã ghi trong văn bản sẽ đảm nhiệm. Không có giấy này, ai ký thay và quản tiền sau này phải qua tòa chỉ định",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第三十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "Văn bản này gọi là giám hộ theo thỏa thuận, nghĩa là người do bản thân chỉ định trước. Người này được ưu tiên hơn thứ tự giám hộ mặc định của luật. Người cao tuổi sống một mình, con cái ở xa hoặc quan hệ gia đình phức tạp càng cần làm sớm. Nên công chứng tại văn phòng công chứng"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

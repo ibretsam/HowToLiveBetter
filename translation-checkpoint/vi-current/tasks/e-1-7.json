@@ -1,0 +1,48 @@
+{
+  "id": "e-1-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "eb0c31935f0e4cea0593c0f322ba0a6a72956b4840709c0f2c5c8af1b4b21202",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "量血压，高了就吃药降到达标",
+    "fields": {
+      "cost": "电子血压计 100 到 200 元。量一次 1 分钟。降压药多数每月几元到几十元。难的地方是没症状也要接着吃。",
+      "plain": "高压每降 10 mmHg，出大的心血管毛病的概率降两成，中风降 27%。心衰降 28%，死亡概率降 13%。中国 35 到 75 岁的人里，44.7% 有高血压，真正控制住的只有 7.2%。",
+      "benefit": "把 123 项试验、61 万余人合起来一起算。收缩压每降 10 mmHg，主要心血管事件低约两成。原值 RR 0.80，可信范围 95% CI 0.77 到 0.83。收缩压就是血压两个数里高的那个。卒中（中风）低约 27%（RR 0.73）。心力衰竭低约 28%（RR 0.72）。总死亡率下降 13%（RR 0.87，95% CI 0.84 到 0.91）。中国给 35 到 75 岁的 170 万人做过筛查：44.7% 有高血压。这些人里，知道自己有的占 44.7%，在治疗的占 30.1%，控制住的只有 7.2%",
+      "grade": "A",
+      "sources": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8> ; Lu J 等 (2017). Prevalence, awareness, treatment, and control of hypertension in China (China PEACE Million Persons Project). Lancet. <https://doi.org/10.1016/S0140-6736(17)32478-9>",
+      "notes": "先去量一次血压。中国 10 个高血压的人里只有不到 1 个控制住了，所以量这一次是本书里性价比最高的动作之一。降到多少算达标（130 还是 140）还有讨论，但「知道自己高血压并把它降下来」这件事本身没有争议。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Đo huyết áp; nếu cao hãy dùng thuốc hạ đến mục tiêu",
+    "fields": {
+      "cost": "Máy điện tử giá 100 đến 200 nhân dân tệ. Mỗi lần đo 1 phút. Đa số thuốc hạ áp vài đến vài chục nhân dân tệ mỗi tháng. Khó là không triệu chứng vẫn phải uống.",
+      "plain": "Mỗi khi huyết áp giảm 10 mmHg, nguy cơ biến cố tim mạch lớn giảm hai phần mười, đột quỵ 27%, suy tim 28%, tử vong 13%. Trong người Trung Quốc tuổi 35 đến 75, 44.7% tăng huyết áp, chỉ 7.2% số người bệnh kiểm soát được.",
+      "benefit": "Gộp 123 thử nghiệm, hơn 61 vạn người: huyết áp tâm thu giảm 10 mmHg thì biến cố tim mạch chính thấp khoảng hai phần mười; RR 0.80, khoảng tin cậy 95% CI 0.77 đến 0.83. Tâm thu là số cao trong hai số huyết áp. Đột quỵ thấp khoảng 27% (RR 0.73), suy tim 28% (RR 0.72), tử vong chung giảm 13% (RR 0.87, 95% CI 0.84 đến 0.91). Trung Quốc sàng lọc 170 vạn người tuổi 35 đến 75: 44.7% tăng huyết áp. Trong số người bệnh, 44.7% biết mình mắc, 30.1% điều trị, chỉ 7.2% kiểm soát được",
+      "grade": "A",
+      "sources": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8> ; Lu J 等 (2017). Prevalence, awareness, treatment, and control of hypertension in China (China PEACE Million Persons Project). Lancet. <https://doi.org/10.1016/S0140-6736(17)32478-9>",
+      "notes": "Trước tiên hãy đo một lần. Trong 10 người tăng huyết áp ở Trung Quốc, chưa đến 1 người kiểm soát được, nên đo là một trong những hành động đáng công nhất sách. Mục tiêu 130 hay 140 còn được bàn, nhưng «biết mình cao và hạ xuống» không có tranh luận."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

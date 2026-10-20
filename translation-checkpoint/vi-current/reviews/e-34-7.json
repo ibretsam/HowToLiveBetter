@@ -1,0 +1,15 @@
+{
+  "id": "e-34-7",
+  "source_sha256": "01404bacc1dabe443881cf4bafa6a0dafd8e78915649984b433361bafecd86fb",
+  "draft_sha256": "567f1f64df29af280640ec9d0b6a513a793d70b9b418c42ce35da8af51215c37",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa phần dễ hiểu thành nguy cơ gấp hơn hai lần để giữ đúng 两倍多. Đã đối chiếu toàn bộ RR, khoảng tin cậy, khác biệt người lớn và trẻ em, phạm vi chảy nước mũi mủ dưới 10 ngày, năm công bố lại 2025 và hạn tìm tài liệu 2013."
+}

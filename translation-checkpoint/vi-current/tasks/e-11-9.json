@@ -1,0 +1,48 @@
+{
+  "id": "e-11-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "de8656baa2e05a8d378e48c7124f887766e4355e5b57fe065b4ed2c357943032",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "没有书面授权不测别人的系统，「出于好意」和「事后上报」在法条里都不是出罪理由",
+    "fields": {
+      "cost": "不花钱。参加厂商 SRC 或者众测之前，先拿到写明授权范围、目标清单和可测时间段的文件。SRC 是厂商自己办的安全应急响应中心，专门接收外部报来的漏洞。验证到漏洞确实存在就停手。难在放弃「顺手试一下」这一下",
+      "plain": "法条定罪看的是有没有授权、拿到了多少，没提你本意是什么。拿到 500 组普通账号密码，或者挣到 5000 元、让对方损失 1 万元，就够判 3 年以下。为了证明漏洞顺手导一张用户表，常常一次就过了 500 组。手里有账号密码，用在授权范围以外也算侵入。",
+      "benefit": "普通公司和个人的系统，属于国家事务、国防建设、尖端科学技术领域以外的计算机信息系统。侵入这类系统，或者采用其他技术手段，拿到里面存储、处理、传输的数据。这样做情节严重的，判 3 年以下有期徒刑或者拘役，并处或单处罚金。特别严重的判 3 到 7 年并处罚金。「情节严重」有几条标准：拿到支付结算、证券交易、期货交易等网络金融服务的身份认证信息（账号密码这类）10 组以上；拿到其他身份认证信息 500 组以上；非法控制计算机信息系统 20 台以上；违法所得 5000 元以上，或者造成经济损失 1 万元以上。上面这些数字的 5 倍以上，就是「情节特别严重」。官方案例：检例第 36 号确立了一句话，「超出授权范围使用账号、密码登录计算机信息系统，属于侵入计算机信息系统的行为」。意思是手里本来就有账号密码，但用在授权范围以外，这个行为本身就算侵入。该案三人用工作中掌握的账号、密码和令牌，异地登录公司内部系统。他们下载了不属于工作范围的数据，拿到网上出售，违法所得 37000 元。三人分别判 4 年、3 年 9 个月、4 年，各罚 4 万元（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十五条第一款、第二款）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2011). 关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释（第一条）. <https://ga.sz.gov.cn/ZWGK/ZCFG/ZCJD/content/post_1304363.html>（深圳市公安局转载）；最高人民检察院 (2017). 第九批指导性案例（检例第 36 号，卫梦龙、龚旭、薛东东非法获取计算机信息系统数据案）. <https://www.spp.gov.cn/spp/jczdal/201710/t20171017_202593.shtml>；央广网 (2016-06-29). 白帽子发布漏洞后被抓 世纪佳缘否认“钓鱼”使其上套（记者赵珂，实习记者刘香玺）. <https://m.cnr.cn/news/yctt/20160629/t20160629_522531823.html>（网页存档 <https://web.archive.org/web/20261005043859/https://m.cnr.cn/news/yctt/20160629/t20160629_522531823.html>）",
+      "notes": "检例第 36 号那个指导性案例，本身是卖数据牟利的案子。引它只是为了「超出授权范围登录也算侵入」这一句，不是说善意测试会判得一样重。刑法第二百八十五条和 2011 年那份解释，都没有把好意和事后上报写成不算犯罪的理由。作者据此推断：你本意想干什么、事后有没有上报，都不能把罪名抵消掉，只可能影响判多重、起不起诉。厂商先道谢、回头再报案，两件事并不矛盾，道谢不等于授权。2016 年，一名俗称「白帽子」的安全研究者，把世纪佳缘网站的漏洞提交到第三方漏洞平台。后来世纪佳缘报了警，他被抓。世纪佳缘对记者说，报警是因为有数据被人拿走，当时不知道拿数据的就是提交漏洞的人。此案只有媒体报道，没有判决，也没有官方通报，最后怎么处理没有官方说法。最高法、最高检官网上也没找到能逐字核对的善意测试类案例，所以本条只按法条和处罚标准定级。要做就走厂商公开的 SRC，或者有书面委托的测评，把范围、目标和时间窗口都写进文件。证明漏洞存在用最少的证据，不批量取数据。够不上犯罪的那一档也要挨治安处罚，还有从业禁止，罚款数额和年限同第 8 条（不在别人的机器上跑自己的程序）。发现漏洞之后怎么处理，见第 10 条（漏洞按规定报送）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Không kiểm thử hệ thống người khác khi chưa có ủy quyền bằng văn bản; “có ý tốt” và “báo cáo sau đó” đều không phải lý do loại trừ tội phạm",
+    "fields": {
+      "cost": "Không tốn tiền. Trước khi tham gia SRC của nhà cung cấp hoặc chương trình kiểm thử cộng đồng, lấy văn bản ghi rõ phạm vi ủy quyền, danh sách mục tiêu và khung thời gian kiểm thử. SRC là trung tâm ứng cứu bảo mật do nhà cung cấp lập, chuyên tiếp nhận lỗ hổng do bên ngoài báo. Chỉ xác nhận lỗ hổng tồn tại rồi dừng. Điều khó là bỏ ý nghĩ “tiện tay thử một chút”.",
+      "plain": "Có phạm tội hay không phụ thuộc vào việc được ủy quyền và lượng dữ liệu lấy được, không phải ý định ban đầu. Lấy 500 bộ tài khoản, mật khẩu thông thường, kiếm 5000 nhân dân tệ hoặc gây thiệt hại 1 vạn nhân dân tệ đã đủ mức phạt tù đến 3 năm. Tiện tay xuất một bảng người dùng để chứng minh lỗ hổng thường chỉ một lần đã vượt 500 bộ. Dù có sẵn tài khoản, mật khẩu, dùng ngoài phạm vi cho phép vẫn là xâm nhập.",
+      "benefit": "Hệ thống của công ty và cá nhân thông thường là hệ thống thông tin máy tính ngoài các lĩnh vực công vụ quốc gia, xây dựng quốc phòng và khoa học công nghệ mũi nhọn. Xâm nhập hoặc dùng biện pháp kỹ thuật khác lấy dữ liệu được lưu trữ, xử lý, truyền trong đó, nếu nghiêm trọng thì bị phạt tù có thời hạn đến 3 năm hoặc giam giữ ngắn hạn, kèm phạt tiền hoặc chỉ phạt tiền. Đặc biệt nghiêm trọng thì 3 đến 7 năm tù kèm phạt tiền. Có nhiều tiêu chí “nghiêm trọng”: lấy từ 10 bộ thông tin xác thực danh tính như tài khoản, mật khẩu cho dịch vụ tài chính trực tuyến gồm thanh toán, quyết toán, chứng khoán, hợp đồng tương lai; từ 500 bộ thông tin xác thực khác; điều khiển trái phép từ 20 hệ thống; thu lợi bất hợp pháp từ 5000 nhân dân tệ hoặc gây thiệt hại kinh tế từ 1 vạn nhân dân tệ trở lên. Đạt từ 5 lần các ngưỡng trên là “đặc biệt nghiêm trọng”. Vụ án chính thức: án hướng dẫn kiểm sát số 36 xác lập rằng “dùng tài khoản, mật khẩu đăng nhập hệ thống thông tin máy tính vượt phạm vi được phép là hành vi xâm nhập hệ thống thông tin máy tính”. Nghĩa là dù có sẵn tài khoản, mật khẩu, dùng ngoài phạm vi cho phép tự nó đã là xâm nhập. Trong vụ này, ba người dùng tài khoản, mật khẩu và token có được khi làm việc để đăng nhập từ xa vào hệ thống nội bộ công ty, tải dữ liệu ngoài phạm vi công việc và bán trên mạng, thu lợi bất hợp pháp 37000 nhân dân tệ. Ba người lần lượt bị phạt 4 năm, 3 năm 9 tháng, 4 năm tù, mỗi người phạt tiền 4 vạn nhân dân tệ (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十五条第一款、第二款）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2011). 关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释（第一条）. <https://ga.sz.gov.cn/ZWGK/ZCFG/ZCJD/content/post_1304363.html>（深圳市公安局转载）；最高人民检察院 (2017). 第九批指导性案例（检例第 36 号，卫梦龙、龚旭、薛东东非法获取计算机信息系统数据案）. <https://www.spp.gov.cn/spp/jczdal/201710/t20171017_202593.shtml>",
+      "notes": "Án hướng dẫn kiểm sát số 36 vốn là vụ bán dữ liệu kiếm lời. Chỉ dẫn vụ này để làm rõ “đăng nhập vượt phạm vi được phép cũng là xâm nhập”, không có nghĩa kiểm thử thiện chí sẽ bị phạt nặng tương tự. Ý định ban đầu và việc có báo cáo sau đó không xóa được tội danh, chỉ có thể ảnh hưởng mức phạt hoặc quyết định truy tố. Nhà cung cấp cảm ơn rồi trình báo không mâu thuẫn; cảm ơn không phải ủy quyền. Khi viết chương này, chưa tìm thấy trên trang chính thức của Tòa án Nhân dân Tối cao, Viện Kiểm sát Nhân dân Tối cao vụ kiểm thử thiện chí có thể đối chiếu từng chữ, nên chỉ viết theo điều luật và tiêu chuẩn xử phạt. Muốn làm, hãy tham gia SRC công khai của nhà cung cấp hoặc kiểm thử có văn bản ủy thác, ghi rõ phạm vi, mục tiêu, khung thời gian. Dùng lượng chứng cứ tối thiểu để chứng minh lỗ hổng, không lấy hàng loạt dữ liệu. Chưa đến mức phạm tội vẫn có thể bị xử phạt trị an và cấm hành nghề; mức tiền và thời hạn như mục 8 (không chạy chương trình của mình trên máy người khác). Cách xử lý sau khi phát hiện lỗ hổng xem mục 10 (báo cáo lỗ hổng đúng quy định)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

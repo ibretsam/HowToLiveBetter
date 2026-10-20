@@ -1,0 +1,48 @@
+{
+  "id": "e-14-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "10de65e10c41700e8b3b6f10a3fa8cf4296e0800d3aca2f3a58061a2059abe06",
+  "status": "draft",
+  "original": {
+    "number": 4,
+    "title": "手机丢了按这个顺序做：挂失 SIM 卡、远程锁定、改密码、报警、冻结银行卡",
+    "fields": {
+      "cost": "不花钱。整套做下来十几分钟。",
+      "plain": "顺序比手快更重要。第一步挂失 SIM 卡，验证码这条命脉就断了。接着远程锁住手机，再用电脑改邮箱和支付密码，然后报警拿回执，最后看情况冻结银行卡。手机不在身上，借别人的手机打运营商客服也能挂失。",
+      "benefit": "顺序比速度更重要。第一步，挂失 SIM 卡，别人就收不到你的验证码了。第二步，远程锁定手机，并清空手机里的内容。第三步，从电脑上改邮箱和支付密码。第四步，报警，拿回执。最后按需要冻结银行卡。美国联邦通信委员会的提示也是：就算觉得只是弄丢了，也要远程锁住。被偷了马上报警，报上型号和 IMEI 串号（手机的身份编号），并马上告诉运营商",
+      "grade": "C",
+      "sources": "US FCC. Protect Your Smart Device. <https://www.fcc.gov/consumers/guides/protect-your-mobile-device>；步骤顺序是作者经验；补办身份证见第 7 节，冒名贷款见第 8 节关于征信的一条",
+      "notes": "提前把三家运营商的客服号记下来：移动 10086，联通 10010，电信 10000。自己的手机号是在哪个城市办的，也记一下，客服会问。用别人的手机一样能打客服挂失"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Khi mất điện thoại, làm theo thứ tự: báo mất SIM, khóa từ xa, đổi mật khẩu, báo công an, phong tỏa thẻ ngân hàng",
+    "fields": {
+      "cost": "Không tốn tiền. Làm cả quy trình mất hơn mười phút.",
+      "plain": "Đúng thứ tự quan trọng hơn nhanh tay. Trước tiên báo mất SIM để cắt đường nhận mã xác minh. Tiếp đó khóa điện thoại từ xa, dùng máy tính đổi mật khẩu email và thanh toán, rồi báo công an lấy giấy tiếp nhận; cuối cùng tùy tình hình mà phong tỏa thẻ ngân hàng. Không có điện thoại bên mình vẫn có thể mượn điện thoại người khác gọi chăm sóc khách hàng của nhà mạng để báo mất.",
+      "benefit": "Thứ tự quan trọng hơn tốc độ. Bước đầu báo mất SIM để người khác không nhận được mã xác minh của bạn. Bước hai khóa điện thoại từ xa và xóa nội dung trong máy. Bước ba dùng máy tính đổi mật khẩu email và thanh toán. Bước bốn báo công an, lấy giấy tiếp nhận. Cuối cùng phong tỏa thẻ ngân hàng nếu cần. Ủy ban Truyền thông Liên bang Hoa Kỳ cũng nhắc: dù nghĩ chỉ là làm thất lạc, vẫn phải khóa từ xa. Nếu bị trộm, báo công an ngay, cung cấp mẫu máy và số IMEI (mã nhận dạng điện thoại), đồng thời báo ngay cho nhà mạng",
+      "grade": "C",
+      "sources": "US FCC. Protect Your Smart Device. <https://www.fcc.gov/consumers/guides/protect-your-mobile-device>；步骤顺序是作者经验；补办身份证见第 7 节，冒名贷款见第 8 节关于征信的一条",
+      "notes": "Ghi sẵn số chăm sóc khách hàng của ba nhà mạng: China Mobile 10086, China Unicom 10010, China Telecom 10000. Cũng ghi lại thành phố nơi bạn đăng ký số điện thoại, vì nhân viên sẽ hỏi. Dùng điện thoại người khác vẫn có thể gọi tổng đài báo mất"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

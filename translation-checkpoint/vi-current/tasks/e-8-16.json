@@ -1,0 +1,48 @@
+{
+  "id": "e-8-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "00b9551e81db60b2f3308c54337d9f0cf7c87b734beaeb3e0253bc26b72aca05",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "网上不骂人、不造谣、不转发没核实的事；被网暴先留证再报警",
+    "fields": {
+      "cost": "不花钱。发之前多想十秒。被攻击时截图、录屏，保存链接和账号 ID，先向平台投诉，再报警。难在被骂的时候忍住不回骂。",
+      "plain": "公开骂人或者造谣诽谤，拘留 5 日以下，或者罚 1000 元以下，情节较重的拘留 5 到 10 日。情节严重就构成侮辱罪、诽谤罪，判 3 年以下。反过来，你被网暴时，侮辱诽谤原则上要你自己去法院告，所以截图、录屏、存链接要靠你自己。",
+      "benefit": "公然侮辱别人，或者捏造事实诽谤别人的，拘留 5 日以下，或者罚 1000 元以下。情节较重的，拘留 5 到 10 日。多次发送侮辱恐吓信息、滋扰纠缠跟踪、偷拍并散布别人隐私的，同样这么罚。故意散布谣言、把公共秩序搅乱了的，拘留 5 到 10 日。情节严重的，构成侮辱罪、诽谤罪，判 3 年以下。在网上被诽谤、取证有困难的，可以请法院要求公安协助（全国，治安管理处罚法 2026 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十九、五十条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第二百四十六条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第十六条，增加刑法第二百四十六条第三款）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第二百四十六条新增第三款）. 国家信访局转载全文 <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm>；最高人民法院、最高人民检察院 (2013). 关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释（法释〔2013〕21 号，第一条）. <https://www.spp.gov.cn/spp/zdgz/201309/t20130910_62417.shtml>",
+      "notes": "侮辱、诽谤这两个罪原则上「告诉的才处理」，就是得你自己去法院告。公安一般不主动立案，证据只能靠自己攒。但有两种例外。一是「严重危害社会秩序和国家利益的除外」，这种公安可以直接办（刑法第二百四十六条第二款）。二是在网上被诽谤、自己取证确实有困难的，法院可以要求公安帮着调查（同一条第三款，刑法修正案九新增）。转发了照样要担责。两高 2013 年的网络诽谤解释写明：明知是捏造的、损害别人名誉的事，还往网上发，情节恶劣的，按「捏造事实诽谤他人」论。自己被网暴之后怎么处置，见本节第 37 条（被网暴了先固证再挑路）。侮辱诽谤的条号由旧法第四十二条改成了新法第五十条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Trên mạng đừng chửi bới, bịa tin hay chia sẻ việc chưa kiểm chứng; bị bạo lực mạng hãy lưu chứng cứ rồi báo cảnh sát",
+    "fields": {
+      "cost": "Không tốn tiền. Nghĩ thêm mười giây trước khi đăng. Khi bị tấn công, chụp ảnh, quay màn hình, giữ liên kết và ID tài khoản; khiếu nại với nền tảng trước rồi báo cảnh sát. Khó nhất là bị chửi mà nhịn không chửi lại.",
+      "plain": "Công khai chửi người hoặc bịa tin phỉ báng bị tạm giữ đến 5 ngày hoặc phạt đến 1000 nhân dân tệ; tình tiết nặng hơn bị tạm giữ 5 đến 10 ngày. Nghiêm trọng thì cấu thành tội làm nhục, phỉ báng, phạt đến 3 năm tù. Chia sẻ lại không được miễn trách nhiệm. Ngược lại, khi bạn bị bạo lực mạng, về nguyên tắc phải tự khởi kiện việc làm nhục, phỉ báng ra tòa, nên việc chụp ảnh, quay màn hình, lưu liên kết phải do bạn tự làm.",
+      "benefit": "Công khai làm nhục hoặc bịa sự thật phỉ báng người khác bị tạm giữ đến 5 ngày hoặc phạt đến 1000 nhân dân tệ; tình tiết nặng hơn bị tạm giữ 5 đến 10 ngày. Nhiều lần gửi tin xúc phạm, đe dọa, quấy rối, đeo bám, theo dõi, quay chụp lén và phát tán chuyện riêng tư của người khác cũng bị phạt như vậy. Cố ý phát tán tin đồn gây rối loạn trật tự công cộng bị tạm giữ 5 đến 10 ngày. Tình tiết nghiêm trọng cấu thành tội làm nhục, phỉ báng, phạt đến 3 năm tù. Nếu bị phỉ báng qua mạng mà khó thu thập chứng cứ, nạn nhân có thể đề nghị tòa yêu cầu công an hỗ trợ (toàn quốc, Luật Xử phạt quản lý trị an có hiệu lực từ ngày 1 tháng 1 năm 2026).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十九、五十条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第二百四十六条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第十六条，增加刑法第二百四十六条第三款）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>；全国人大常委会 (2015). 刑法修正案（九）（第二百四十六条新增第三款）. 国家信访局转载全文 <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm>",
+      "notes": "Hai tội làm nhục và phỉ báng về nguyên tắc “chỉ xử lý khi có người tố cáo”, tức bạn phải tự đến tòa khởi kiện. Công an thường không chủ động khởi tố; bạn phải tự gom chứng cứ. Nhưng có hai ngoại lệ. Thứ nhất, “trừ trường hợp gây nguy hại nghiêm trọng trật tự xã hội và lợi ích quốc gia”; trường hợp này công an có thể trực tiếp xử lý (khoản hai Điều hai trăm bốn mươi sáu Bộ luật Hình sự). Thứ hai, bị phỉ báng trên mạng và thực sự khó tự thu thập chứng cứ thì tòa có thể yêu cầu công an hỗ trợ điều tra (khoản ba cùng điều, bổ sung trong Tu chính án Bộ luật Hình sự lần thứ chín). Chia sẻ lại vẫn phải chịu trách nhiệm; biết là giả mà vẫn phát tán cũng được coi là “bịa sự thật”. Cách xử lý khi bị bạo lực mạng xem mục 37 chương này (bị bạo lực mạng hãy cố định chứng cứ rồi chọn con đường xử lý). Điều về làm nhục, phỉ báng chuyển từ Điều bốn mươi hai luật cũ sang Điều năm mươi luật mới."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

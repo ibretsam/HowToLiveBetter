@@ -1,0 +1,48 @@
+{
+  "id": "e-14-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "df70c9cafef611b9d7d2f41df4047bb4d2e09befeab97ad117cb918de20cbbca",
+  "status": "draft",
+  "original": {
+    "number": 8,
+    "title": "你有权查看、复制、更正和删除自己的个人信息，被拒绝可以起诉",
+    "fields": {
+      "cost": "不花钱。只有对方拖着不办，才需要去投诉或者起诉。真打官司就是几个月起步，律师费还要自己出，所以先投诉更划算。难的是对方拖着的时候得反复去催。",
+      "plain": "你有权要求企业让你查看、复制、更正和删除自己的信息。服务停了、保存期限到了、你撤回同意的，企业本来就该自己删掉。它拒绝你，必须说明理由；不办，你可以直接去法院告它。注销账号和删除信息是两件事，注销之后还要另外提删除。",
+      "benefit": "有几种情形企业应当主动删除：服务停了、约定的保存期限到了、你撤回同意、当初收集的目的已经达到等等。它没删，你可以要求它删。它拒绝你行使这些权利的，必须说明理由。你可以直接向法院起诉",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第四十五条「个人有权向个人信息处理者查阅、复制其个人信息……个人请求查阅、复制其个人信息的，个人信息处理者应当及时提供」；第四十六条更正、补充权；第四十七条列了五种应当主动删除的情形，含「（一）处理目的已实现、无法实现或者为实现处理目的不再必要」「（二）个人信息处理者停止提供产品或者服务，或者保存期限已届满」「（三）个人撤回同意」，「个人信息处理者未删除的，个人有权请求删除」；第五十条「个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。拒绝个人行使权利的请求的，应当说明理由」「个人可以依法向人民法院提起诉讼」",
+      "notes": "注销账号和删除个人信息是两件事，注销之后还要单独提出删除。换手机或者卖旧手机之前，先在旧手机上把所有账号退出、解除绑定，再恢复出厂设置。法律给你的是事后的删除权，它不能替你把已经泄露出去的东西收回来。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; nếu bị từ chối có thể khởi kiện",
+    "fields": {
+      "cost": "Không tốn tiền. Chỉ khi bên kia chây ì mới cần khiếu nại hoặc khởi kiện. Kiện thật thì ít nhất cũng mất vài tháng, phí luật sư bạn còn phải tự trả, nên khiếu nại trước có lợi hơn. Khó ở chỗ khi họ kéo dài, bạn phải liên tục thúc giục.",
+      "plain": "Bạn có quyền yêu cầu doanh nghiệp cho xem, sao chép, sửa và xóa thông tin của mình. Khi dịch vụ dừng, hết thời hạn lưu hoặc bạn rút lại đồng ý, doanh nghiệp vốn phải chủ động xóa. Nếu từ chối, họ phải giải thích lý do; không xử lý thì bạn có thể kiện trực tiếp ra tòa. Hủy tài khoản và xóa thông tin là hai việc, sau khi hủy vẫn phải yêu cầu xóa riêng.",
+      "benefit": "Trong một số trường hợp doanh nghiệp phải chủ động xóa: dịch vụ dừng, hết thời hạn lưu đã thỏa thuận, bạn rút lại đồng ý, mục đích thu thập ban đầu đã đạt được, v.v. Nếu họ chưa xóa, bạn có thể yêu cầu. Nếu từ chối cho bạn thực hiện các quyền này, họ phải nêu lý do. Bạn có thể khởi kiện trực tiếp ra tòa",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第四十五条「个人有权向个人信息处理者查阅、复制其个人信息……个人请求查阅、复制其个人信息的，个人信息处理者应当及时提供」；第四十六条更正、补充权；第四十七条列了五种应当主动删除的情形，含「（一）处理目的已实现、无法实现或者为实现处理目的不再必要」「（二）个人信息处理者停止提供产品或者服务，或者保存期限已届满」「（三）个人撤回同意」，「个人信息处理者未删除的，个人有权请求删除」；第五十条「个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。拒绝个人行使权利的请求的，应当说明理由」「个人可以依法向人民法院提起诉讼」",
+      "notes": "Hủy tài khoản và xóa thông tin cá nhân là hai việc; hủy xong vẫn phải yêu cầu xóa riêng. Trước khi đổi hoặc bán điện thoại cũ, hãy đăng xuất mọi tài khoản trên máy cũ, hủy liên kết rồi mới khôi phục cài đặt gốc. Luật cho bạn quyền yêu cầu xóa sau đó, chứ không thể thu hồi thay bạn những thông tin đã rò rỉ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

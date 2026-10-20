@@ -1,0 +1,48 @@
+{
+  "id": "e-5-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "aa359cb400a7823a6a9b66893defdb1eebac87da5120b1df6c999ea6673eab9a",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "不给主播打赏、不给游戏充值、不冲动下单",
+    "fields": {
+      "cost": "不花钱。花几分钟做三件事：关掉免密支付，设好单笔和每日限额，把平台里绑的支付方式删掉。难的是当场忍住不点那一下。",
+      "plain": "国内玩游戏的人，平均每人一年在游戏上花约 480 元，花出去基本追不回来。法律只让未成年人没经家长同意花的钱退回来，成年人没有这一条。最省力的办法是提前设防：关掉免密支付，设单笔和每日限额，把支付方式解绑。",
+      "benefit": "这是一笔很大的支出。2024 年国内游戏市场实际销售收入 3257.83 亿元，用户 6.74 亿人，人均约 480 元（这是拿前面两个数相除算出来的）。花出去的钱基本追不回来。只有一种情况例外：限制民事行为能力人（这里指未成年人）没经过监护人同意的打赏和充值，监护人要求退钱时「人民法院应予支持」。成年人自己的打赏和充值，没有这样的规定。另外，未成年人玩网络游戏本来就只能在周五、周六、周日和法定节假日玩。能玩的只有每天 20 时至 21 时这 1 小时（中国，2020、2021 年）",
+      "grade": "B",
+      "sources": "国家新闻出版署 (2024). 今年中国游戏市场收入超 3257 亿元创新高（中国音数协游戏工委《2024 年中国游戏产业报告》）. <https://www.nppa.gov.cn/xxfb/ywdt/202412/t20241216_877445.html>；最高人民法院 (2020). 关于依法妥善审理涉新冠肺炎疫情民事案件若干问题的指导意见（二）（法发〔2020〕17 号，第 9 条）. <https://www.court.gov.cn/zixun/xiangqing/230181.html>；国家新闻出版署 (2021). 关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知（国新出发〔2021〕14 号）. <https://www.nppa.gov.cn/xxfb/tzgs/202108/t20210830_666285.html>",
+      "notes": "定成 B 级，是因为没有人直接测过「不打赏能省多少钱」，只有游戏行业的总量数字。关免密、设限额这两招是经验做法，单算是 C 级。民法典第十九条、第一百四十五条的原文，已经在第 9 条（孩子用手机充值打赏）里逐字引出来了。不构成投资建议。配偶背着你拿共同的钱大额打赏，见第 10 节第 22 条（打赏主播）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Không tặng tiền cho người phát trực tiếp, không nạp tiền trò chơi, không đặt hàng bốc đồng",
+    "fields": {
+      "cost": "Không tốn tiền. Dành vài phút làm ba việc: tắt thanh toán không cần mật khẩu, đặt hạn mức mỗi lần và mỗi ngày, xóa phương thức thanh toán đã liên kết trong nền tảng. Khó là kiềm chế không bấm ngay lúc đó.",
+      "plain": "Người chơi trò chơi trong nước trung bình chi khoảng 480 nhân dân tệ mỗi năm, đã chi thì hầu như không đòi lại được. Luật chỉ cho hoàn tiền trẻ vị thành niên chi khi chưa được cha mẹ đồng ý, người lớn không có quy định này. Cách đỡ mất công nhất là phòng trước: tắt thanh toán không mật khẩu, đặt hạn mức mỗi lần và mỗi ngày, gỡ liên kết phương thức thanh toán.",
+      "benefit": "Đây là khoản chi lớn. Năm 2024, doanh thu thực tế của thị trường trò chơi trong nước là 3257.83 trăm triệu nhân dân tệ, có 6.74 trăm triệu người dùng, trung bình khoảng 480 nhân dân tệ mỗi người (lấy hai số trước chia cho nhau). Tiền đã chi hầu như không lấy lại được. Chỉ có một ngoại lệ: khi người bị hạn chế năng lực hành vi dân sự (ở đây là trẻ vị thành niên) tặng tiền, nạp tiền mà chưa được người giám hộ đồng ý, nếu người giám hộ yêu cầu hoàn lại thì “tòa án nhân dân phải chấp nhận”. Người trưởng thành tự tặng tiền, nạp tiền không có quy định như vậy. Ngoài ra, trẻ vị thành niên vốn chỉ được chơi trò chơi trực tuyến vào thứ sáu, thứ bảy, chủ nhật và ngày lễ theo luật, mỗi ngày trong 1 giờ từ 20 giờ đến 21 giờ (Trung Quốc, năm 2020, 2021).",
+      "grade": "B",
+      "sources": "国家新闻出版署 (2024). 今年中国游戏市场收入超 3257 亿元创新高（中国音数协游戏工委《2024 年中国游戏产业报告》）. <https://www.nppa.gov.cn/xxfb/ywdt/202412/t20241216_877445.html>；最高人民法院 (2020). 关于依法妥善审理涉新冠肺炎疫情民事案件若干问题的指导意见（二）（法发〔2020〕17 号，第 9 条）. <https://www.court.gov.cn/zixun/xiangqing/230181.html>；国家新闻出版署 (2021). 关于进一步严格管理 切实防止未成年人沉迷网络游戏的通知（国新出发〔2021〕14 号）. <https://www.nppa.gov.cn/xxfb/tzgs/202108/t20210830_666285.html>",
+      "notes": "Xếp mức B vì chưa ai trực tiếp đo “không tặng tiền tiết kiệm được bao nhiêu”, chỉ có tổng số của ngành trò chơi. Tắt thanh toán không mật khẩu và đặt hạn mức là kinh nghiệm, xét riêng ở mức C. Nguyên văn Điều mười chín và Điều một trăm bốn mươi lăm Bộ luật Dân sự đã được trích đầy đủ ở mục 9 (trẻ dùng điện thoại nạp tiền, tặng tiền). Không phải lời khuyên đầu tư."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

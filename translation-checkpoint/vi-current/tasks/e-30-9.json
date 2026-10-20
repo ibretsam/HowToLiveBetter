@@ -1,0 +1,49 @@
+{
+  "id": "e-30-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "5b484adfcf0340c083dc513245b253c71dc4d618005e476b56f54a7c09dd9d40",
+  "status": "draft",
+  "original": {
+    "number": 9,
+    "title": "不买号称能「治愈近视」「降低度数」的产品和服务",
+    "fields": {
+      "cost": "不花钱，反过来还省下这笔钱。",
+      "plain": "市场监管总局明说「在目前医疗技术条件下，近视不能治愈」。宣传「恢复」「降低度数」「近视治愈」「度数修复」这类说法的，要从严查处。看到这类词直接排除，不用再比价。护眼仪算医疗器械，电商平台有责任查卖家够不够格卖。",
+      "benefit": "市场监管总局办公厅 2021 年 11 月至 2022 年 3 月的专项整治行动通知明确：「在目前医疗技术条件下，近视不能治愈」。通知要求依法从严查处使用「康复」「恢复」「降低度数」「近视治愈」「近视克星」「度数修复」等误导性表述营销儿童青少年近视防控产品的行为。通知要求加大打击力度，管的是冒用中医药名义、或者假借中医药理论技术做营销宣传欺骗消费者的行为。通知还要求严厉打击两类虚假违法广告：使用患者名义或形象作诊疗前后效果对比的，以及对诊疗安全性、功效作保证性承诺的。通知要求电商平台严格落实护眼仪等医疗器械及有关特殊商品的经营资质审查责任（查清卖家够不够格卖）（全国）",
+      "grade": "B",
+      "sources": "市场监管总局办公厅 (2021). 关于开展儿童青少年近视防控产品违法违规商业营销宣传专项整治行动的通知. <https://www.gov.cn/zhengce/zhengceku/2021-11/12/content_5650400.htm>",
+      "notes": "给 B 是因为依据的是监管部门查处时的认定口径，不是拿产品做对照试验测出来的。但「近视不能治愈」这句话，卫生部门和监管部门说法一致：《防控儿童青少年近视核心知识十条》里写的是「近视可防可控不可逆」。真正有证据的两件事在第 4 条（户外）和第 12 条（规范验光配镜与复查）。防蓝光眼镜见第 6 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Không mua sản phẩm, dịch vụ hứa «chữa khỏi cận», «giảm độ»",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm khoản này.",
+      "plain": "Tổng cục Quản lý Thị trường nói rõ «với công nghệ y tế hiện tại, cận thị không thể chữa khỏi». Quảng cáo «hồi phục», «giảm độ», «chữa khỏi cận», «sửa độ» phải bị xử lý nghiêm. Thấy những từ đó thì loại ngay, không cần so giá. Máy chăm sóc mắt thuộc thiết bị y tế; sàn thương mại điện tử phải kiểm tra người bán có đủ điều kiện.",
+      "benefit": "Thông báo chiến dịch chuyên đề từ tháng 11 năm 2021 đến tháng 3 năm 2022 của Văn phòng Tổng cục Quản lý Thị trường ghi rõ: «với công nghệ y tế hiện tại, cận thị không thể chữa khỏi». Yêu cầu xử lý nghiêm theo luật việc dùng «phục hồi chức năng», «hồi phục», «giảm độ», «chữa khỏi cận», «khắc tinh cận thị», «sửa độ» và cách nói gây hiểu lầm để tiếp thị sản phẩm phòng kiểm soát cận ở trẻ. Tăng xử lý việc mạo danh y học cổ truyền hoặc mượn lý thuyết, kỹ thuật cổ truyền để lừa người tiêu dùng. Nghiêm trị hai loại quảng cáo sai trái: dùng tên/hình ảnh bệnh nhân so trước sau điều trị, và bảo đảm tuyệt đối an toàn hoặc hiệu quả. Yêu cầu sàn thương mại điện tử thực hiện nghiêm trách nhiệm thẩm tra điều kiện bán thiết bị y tế như máy chăm sóc mắt và hàng đặc biệt liên quan (kiểm tra người bán đủ điều kiện) (toàn quốc)",
+      "grade": "B",
+      "sources": "市场监管总局办公厅 (2021). 关于开展儿童青少年近视防控产品违法违规商业营销宣传专项整治行动的通知. <https://www.gov.cn/zhengce/zhengceku/2021-11/12/content_5650400.htm>",
+      "notes": "Xếp B vì dựa quan điểm cơ quan quản lý khi xử lý, không phải thử nghiệm đối chứng sản phẩm. Nhưng «cận thị không thể chữa khỏi» được y tế và quản lý thị trường nói nhất quán; «Mười kiến thức cốt lõi» ghi «có thể phòng, kiểm soát, không đảo ngược». Hai việc thật sự có bằng chứng ở mục 4 (ngoài trời), mục 12 (đo khúc xạ, kính, tái khám đúng quy chuẩn). Kính chống ánh sáng xanh xem chương 6."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

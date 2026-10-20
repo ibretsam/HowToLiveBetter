@@ -1,0 +1,48 @@
+{
+  "id": "e-31-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "a819ee9ce15df21858984253b745a763690ad41125baab5c31ca566713541a66",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "在家给境外公司远程干活，这笔钱在税法上算境内所得：个税自己报，收汇走「职工报酬」",
+    "fields": {
+      "cost": "不花钱。每年办一次汇算清缴，时间是次年 3 月 1 日到 6 月 30 日。收汇超过年度总额的时候，还要准备一份雇佣合同和收入证明。难在这笔税得你自己记着去报。",
+      "plain": "这笔钱算境内还是境外，看的是你在哪儿干活，不是钱从哪儿打进来。人在国内远程给境外公司干活，算境内所得，要在境内交个税。境外公司在中国没有机构的，没人替你代扣，这笔税得你自己去报。钱汇进来走「职工报酬」这条路。",
+      "benefit": "这笔钱算不算境内所得，看《个人所得税法实施条例》（国务院令第 707 号，2019 年 1 月 1 日起施行）第三条。它写着：「除国务院财政、税务主管部门另有规定外，下列所得，不论支付地点是否在中国境内，均为来源于中国境内的所得：（一）因任职、受雇、履约等在中国境内提供劳务取得的所得」。同一部条例第六条给两个税目下了定义。一个是工资薪金：「工资、薪金所得，是指个人因任职或者受雇取得的工资、薪金、奖金、年终加薪、劳动分红、津贴、补贴以及与任职或者受雇有关的其他所得」。另一个是劳务报酬：「劳务报酬所得，是指个人从事劳务取得的所得，包括从事设计、装潢、安装、制图、化验、测试、医疗、法律、会计、咨询、讲学、翻译、审稿、书画、雕刻、影视、录音、录像、演出、表演、广告、展览、技术服务、介绍服务、经纪服务、代办服务以及其他劳务取得的所得」。《个人所得税法》第六条写怎么算应纳税所得额：「居民个人的综合所得，以每一纳税年度的收入额减除费用六万元以及专项扣除、专项附加扣除和依法确定的其他扣除后的余额，为应纳税所得额」。同一条还写着「劳务报酬所得、稿酬所得、特许权使用费所得以收入减除百分之二十的费用后的余额为收入额」。减 20% 这一句只列了这三项，工资薪金不在其内。所以工资薪金按全额计入收入额，两个税目算出来的税不同。第九条：「个人所得税以所得人为纳税人，以支付所得的单位或者个人为扣缴义务人」。第十条：「有下列情形之一的，纳税人应当依法办理纳税申报：……（二）取得应税所得没有扣缴义务人；……（四）取得境外所得」。第十一条：「居民个人取得综合所得，按年计算个人所得税……需要办理汇算清缴的，应当在取得所得的次年三月一日至六月三十日内办理汇算清缴」。钱汇进来看《个人外汇管理办法》（中国人民银行令〔2006〕第 3 号，2007 年 2 月 1 日起施行）。第九条：「对个人结汇和境内个人购汇实行年度总额管理。年度总额内的，凭本人有效身份证件在银行办理；超过年度总额的，经常项目项下凭本人有效身份证件和有交易额的相关证明等材料在银行办理」。第七条：「银行和个人在办理个人外汇业务时，应当遵守本办法的相关规定，不得以分拆等方式逃避限额监管，也不得使用虚假商业单据或者凭证逃避真实性管理」。《个人外汇管理办法实施细则》（汇发〔2007〕1 号）第二条：「对个人结汇和境内个人购汇实行年度总额管理。年度总额分别为每人每年等值 5 万美元」。第十条：「境内个人经常项目项下非经营性结汇超过年度总额的，凭本人有效身份证件及以下证明材料在银行办理：……（七）职工报酬：雇佣合同及收入证明」（全国）",
+      "grade": "A",
+      "sources": "国务院 (2018). 中华人民共和国个人所得税法实施条例（国务院令第 707 号，第三、六条）. <https://www.gov.cn/zhengce/zhengceku/2018-12/22/content_5351177.htm>；全国人民代表大会常务委员会 (2018). 中华人民共和国个人所得税法（2018 年第七次修正，第六、九、十、十一条）. <http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-09/05/content_2060671.htm>；国家税务总局政策法规库. 中华人民共和国个人所得税法（第六条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193028/content.html>；中国人民银行 (2006). 个人外汇管理办法（中国人民银行令〔2006〕第 3 号，第七、九条）. <https://www.gov.cn/gongbao/content/2007/content_786257.htm>；国家外汇管理局 (2007). 个人外汇管理办法实施细则（汇发〔2007〕1 号，第二、十条）. <https://www.safe.gov.cn/safe/2007/0105/22509.html>",
+      "notes": "按哪个税目算，看你和对方是什么关系。签的是雇佣合同、活儿听对方安排的，算工资薪金。自己按项目接活、交付成果的，算劳务报酬。两种算出来的税不一样，报之前先弄清自己是哪一种。钱汇进来时，一年等值 5 万美元以内的，凭身份证在银行结汇就行；超过的部分，要把雇佣合同和收入证明交给银行。别为了绕过额度找人分拆收款。以上说的是人在国内、不出境的情形。真的出境到境外给境外雇主干活是另一套，见本节第 14 条（想出国打工，先查这家公司有没有对外劳务合作经营资格）。以下四项本书暂未写。它们都可能有实际成本，但目前找不到可逐字核对的依据。一是这笔收入要不要缴增值税、要不要代开发票。二是长期这样做要不要办营业执照或者登记为个体户。三是能不能按劳动法向境外雇主主张权利，比如年假、加班费、解除补偿。四是数据出境与保密"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Ở nhà làm từ xa cho công ty nước ngoài, khoản tiền này là thu nhập trong nước theo luật thuế: tự khai thuế thu nhập cá nhân, nhận ngoại tệ theo mục «thù lao người lao động»",
+    "fields": {
+      "cost": "Không tốn tiền. Quyết toán thuế một lần mỗi năm, từ ngày 1 tháng 3 đến ngày 30 tháng 6 năm sau. Nếu nhận và đổi ngoại tệ vượt tổng hạn mức năm, còn cần chuẩn bị hợp đồng thuê lao động và chứng nhận thu nhập. Khó ở chỗ phải tự nhớ khai khoản thuế này.",
+      "plain": "Khoản tiền là thu nhập trong hay ngoài nước phụ thuộc nơi bạn làm việc, không phải nơi chuyển tiền tới. Người ở trong nước làm từ xa cho công ty nước ngoài có thu nhập trong nước, phải nộp thuế thu nhập cá nhân trong nước. Công ty nước ngoài không có cơ sở tại Trung Quốc, không ai khấu trừ thay nên bạn phải tự khai. Tiền chuyển vào đi theo mục «thù lao người lao động».",
+      "benefit": "Khoản này có phải thu nhập trong nước không, xem điều ba Điều lệ Thực hiện Luật Thuế thu nhập cá nhân, lệnh Quốc vụ viện số 707, có hiệu lực từ ngày 1 tháng 1 năm 2019: «Trừ khi cơ quan tài chính, thuế thuộc Quốc vụ viện quy định khác, các khoản sau, bất kể nơi thanh toán có ở Trung Quốc hay không, đều là thu nhập có nguồn tại Trung Quốc: một, thu nhập từ cung cấp lao động trong lãnh thổ Trung Quốc do giữ chức vụ, được thuê, thực hiện hợp đồng…». Điều sáu định nghĩa hai loại thu nhập chịu thuế. Một là tiền lương: «Thu nhập tiền lương là lương, tiền công, thưởng, tăng lương cuối năm, chia lợi nhuận lao động, phụ cấp, trợ cấp và khoản khác liên quan đến giữ chức vụ hoặc được thuê». Hai là thù lao dịch vụ: «Thu nhập thù lao dịch vụ là thu nhập cá nhân từ cung cấp dịch vụ, gồm thiết kế, trang trí, lắp đặt, vẽ kỹ thuật, xét nghiệm, kiểm thử, y tế, pháp luật, kế toán, tư vấn, giảng bài, phiên dịch, phản biện bản thảo, thư họa, điêu khắc, điện ảnh truyền hình, thu âm, ghi hình, biểu diễn, diễn xuất, quảng cáo, triển lãm, dịch vụ kỹ thuật, giới thiệu, môi giới, đại diện thực hiện và dịch vụ khác». Điều sáu Luật Thuế thu nhập cá nhân nêu cách tính thu nhập tính thuế: «Thu nhập tổng hợp của cá nhân cư trú, sau khi lấy thu nhập mỗi năm tính thuế trừ chi phí sáu vạn nhân dân tệ, khoản khấu trừ chuyên biệt, khoản khấu trừ bổ sung chuyên biệt và khoản khấu trừ khác theo luật, phần còn lại là thu nhập tính thuế». Cùng điều ghi «thu nhập thù lao dịch vụ, nhuận bút và phí sử dụng quyền được tính bằng số còn lại sau khi trừ hai mươi phần trăm chi phí». Câu giảm 20% chỉ liệt kê ba loại này, không gồm tiền lương. Vì vậy tiền lương tính toàn bộ vào thu nhập, thuế của hai loại khác nhau. Điều chín: «Người có thu nhập là người nộp thuế thu nhập cá nhân; đơn vị hoặc cá nhân chi trả là bên có nghĩa vụ khấu trừ». Điều mười: «Có một trong các tình huống sau, người nộp thuế phải khai theo luật:… hai, có thu nhập chịu thuế mà không có bên khấu trừ;… bốn, có thu nhập ở nước ngoài». Điều mười một: «Cá nhân cư trú có thu nhập tổng hợp tính thuế theo năm… trường hợp cần quyết toán phải làm từ ngày một tháng ba đến ngày ba mươi tháng sáu của năm sau năm có thu nhập». Nhận tiền chuyển vào xem Biện pháp Quản lý ngoại hối cá nhân, lệnh Ngân hàng Nhân dân Trung Quốc số 3 năm 2006, có hiệu lực từ ngày 1 tháng 2 năm 2007. Điều chín: «Áp dụng quản lý tổng hạn mức năm đối với cá nhân bán ngoại tệ và cá nhân trong nước mua ngoại tệ. Trong hạn mức, làm tại ngân hàng bằng giấy tờ tùy thân hợp lệ; vượt hạn mức, giao dịch tài khoản vãng lai làm tại ngân hàng với giấy tờ tùy thân và tài liệu chứng minh liên quan có số tiền giao dịch…». Điều bảy: «Ngân hàng và cá nhân khi làm nghiệp vụ ngoại hối cá nhân phải tuân thủ biện pháp, không được chia nhỏ… để tránh quản lý hạn mức, cũng không được dùng chứng từ thương mại giả để tránh kiểm tra tính xác thực». Điều hai Quy tắc thực hiện Biện pháp Quản lý ngoại hối cá nhân, văn bản ngoại hối số 1 năm 2007: «Áp dụng tổng hạn mức năm cho cá nhân bán ngoại tệ và cá nhân trong nước mua ngoại tệ. Mỗi hạn mức là tương đương 5 vạn USD mỗi người mỗi năm». Điều mười: «Cá nhân trong nước bán ngoại tệ không vì kinh doanh thuộc tài khoản vãng lai vượt hạn mức năm thì làm tại ngân hàng với giấy tờ tùy thân hợp lệ và các giấy chứng minh sau:… bảy, thù lao người lao động: hợp đồng thuê lao động và chứng nhận thu nhập» (toàn quốc).",
+      "grade": "A",
+      "sources": "国务院 (2018). 中华人民共和国个人所得税法实施条例（国务院令第 707 号，第三、六条）. <https://www.gov.cn/zhengce/zhengceku/2018-12/22/content_5351177.htm>；全国人民代表大会常务委员会 (2018). 中华人民共和国个人所得税法（2018 年第七次修正，第六、九、十、十一条）. <http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-09/05/content_2060671.htm>；国家税务总局政策法规库. 中华人民共和国个人所得税法（第六条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193028/content.html>；中国人民银行 (2006). 个人外汇管理办法（中国人民银行令〔2006〕第 3 号，第七、九条）. <https://www.gov.cn/gongbao/content/2007/content_786257.htm>；国家外汇管理局 (2007). 个人外汇管理办法实施细则（汇发〔2007〕1 号，第二、十条）. <https://www.safe.gov.cn/safe/2007/0105/22509.html>",
+      "notes": "Áp dụng loại thuế nào phụ thuộc quan hệ giữa bạn và bên kia. Ký hợp đồng thuê lao động, làm theo sắp xếp của họ thì là tiền lương. Tự nhận dự án, giao kết quả thì là thù lao dịch vụ. Hai loại tính thuế khác nhau, phải xác định trước khi khai. Khi tiền chuyển vào, trong mức tương đương 5 vạn USD một năm thì mang giấy tùy thân đổi tại ngân hàng; phần vượt phải nộp hợp đồng thuê lao động và chứng nhận thu nhập. Đừng nhờ người chia nhỏ nhận tiền để lách hạn mức. Những điều trên nói về người ở trong nước, không xuất cảnh. Thực sự ra nước ngoài làm cho chủ sử dụng nước ngoài là hệ thống khác; xem mục 14 chương này (muốn đi làm ở nước ngoài, kiểm tra công ty có tư cách hợp tác lao động đối ngoại). Sách tạm chưa viết bốn vấn đề sau. Chúng có thể phát sinh chi phí thực tế nhưng hiện chưa tìm được căn cứ có thể đối chiếu từng chữ. Một, thu nhập này có phải nộp thuế giá trị gia tăng, có cần nhờ cơ quan thuế xuất hóa đơn không. Hai, làm lâu dài có cần giấy phép kinh doanh hoặc đăng ký hộ kinh doanh không. Ba, có thể dựa Luật Lao động đòi quyền lợi từ chủ nước ngoài như phép năm, tiền làm thêm, bồi thường chấm dứt không. Bốn, chuyển dữ liệu ra nước ngoài và bảo mật."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

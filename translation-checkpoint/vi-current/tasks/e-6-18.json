@@ -1,0 +1,48 @@
+{
+  "id": "e-6-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "e74fab36f93afe9d0ecb801a29debfd8ce418f6dad4f4832ce1f41dac7d86997",
+  "status": "outdated",
+  "original": {
+    "number": 18,
+    "title": "不要靠通用体检套餐防病，按年龄性别做那几项有证据的筛查",
+    "fields": {
+      "cost": "不花钱，还省下每年几百到几千元的套餐费。换来的义务是自己记住该查哪几项、各隔多久查一次。",
+      "plain": "定期做通用健康检查的人，和不做的人死亡率一样，死于心血管病、癌症的也一样多。按年龄性别做那几项有证据的筛查就够了。35 岁以上每年能免费量一次血压，65 岁以上每年有一次免费体检。",
+      "benefit": "Cochrane 系统综述 2019 年更新版收了 17 项随机分组的对照试验。算总死亡率时，合并了其中 11 项试验、233,298 名参与者、21,535 例死亡。做通用健康检查的那组和对照组一样，RR 1.00。RR 是风险比，1 就是两边一个样。95% CI 0.97–1.03 是可信范围。算因心血管病死亡时，合并 9 项试验、170,227 人、6,237 例死亡，RR 1.05（95% CI 0.94–1.16）。算因癌症死亡时，合并 8 项试验、139,290 人、3,663 例死亡，RR 1.01（95% CI 0.92–1.12）。这两项也都没看出差别。作者的结论是「通用健康检查不大可能有益」。国家基本公共卫生服务项目给 35 岁及以上的常住居民每年免费测量一次血压。它还给 65 岁及以上的老年人每年免费提供一次健康体检。这次免费体检包含体格检查、血常规、尿常规、空腹血糖和心电图。肝功能查谷草转氨酶、谷丙转氨酶、总胆红素。肾功能查血清肌酐、血尿素。血脂查总胆固醇、甘油三酯、低密度脂蛋白胆固醇、高密度脂蛋白胆固醇。最后还有肝胆胰脾的腹部 B 超（全国）",
+      "grade": "A",
+      "sources": "Krogsbøll LT, Jørgensen KJ, Gøtzsche PC (2019). General health checks in adults for reducing morbidity and mortality from disease. Cochrane Database of Systematic Reviews, 1, CD009009. <https://doi.org/10.1002/14651858.CD009009.pub3>；国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）（老年人健康管理服务、高血压患者健康管理服务）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>",
+      "notes": "要否掉的是「拿年度套餐当防病手段」，不是说所有检查都别做。另外，35 岁以上每年免费测一次血压、65 岁以上每年一次免费体检，本来就是国家基本公共卫生服务项目给的，不用自己掏钱。有理由该查的项目照查。血压、血糖、乙肝见第 1 节第 7、8、14 条。乳腺、宫颈、结直肠见第 1 节第 17、18、19 条。幽门螺杆菌和低剂量 CT 见第 1 节第 23、24 条。65 岁以上女性的骨密度检查，见第 1 节第 39 条（骨密度检查）。有过高危行为就去查，见第 1 节第 31 条。从几岁开始查、隔多久查一次都写在那里。单位组织的、别人付钱的体检照去，要拦的是自己花钱买套餐和自己加项目。已经有慢性病的人、有症状的人，或者医生按病情开的检查，不算在内，那是看病不是筛查。套餐里最常见的没有证据的项目是肿瘤标志物和全身影像，见本节第 7 条（全身 PET-CT 和肿瘤标志物套餐）。查出来尿酸高但从没痛过、胆囊结石但从没疼过怎么办，见本节第 19 条（无症状的尿酸高）和第 20 条（无症状的胆囊结石）。另外，Cochrane 收进来的试验多数是在高收入国家做的，那里本来看病就方便，医疗资源紧张的地区不宜直接照搬这个结论。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 18,
+    "title": "Đừng dựa gói khám tổng quát để phòng bệnh, hãy làm các sàng lọc có bằng chứng theo tuổi và giới",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm vài trăm đến vài nghìn nhân dân tệ phí gói mỗi năm. Đổi lại phải nhớ mình cần kiểm tra gì, bao lâu một lần.",
+      "plain": "Người khám tổng quát định kỳ có tử vong như người không khám, số chết do tim mạch, ung thư cũng như nhau. Làm những sàng lọc có bằng chứng theo tuổi giới là đủ. Từ 35 tuổi được đo huyết áp miễn phí mỗi năm, từ 65 tuổi được khám miễn phí hằng năm.",
+      "benefit": "Tổng quan Cochrane cập nhật 2019 gồm 17 thử nghiệm ngẫu nhiên đối chứng. Tính tử vong chung gộp 11 thử nghiệm, 233,298 người, 21,535 tử vong. Nhóm khám tổng quát giống đối chứng, RR 1.00 (RR là tỷ số nguy cơ, 1 nghĩa như nhau), 95% CI 0.97–1.03 là khoảng tin cậy. Tử vong tim mạch gộp 9 thử nghiệm, 170,227 người, 6,237 tử vong, RR 1.05 (95% CI 0.94–1.16). Tử vong ung thư gộp 8 thử nghiệm, 139,290 người, 3,663 tử vong, RR 1.01 (95% CI 0.92–1.12). Cả hai không thấy khác. Tác giả kết luận “khám sức khỏe tổng quát khó có lợi”. Chương trình dịch vụ y tế công cộng cơ bản quốc gia đo huyết áp miễn phí hằng năm cho cư dân thường trú từ 35 tuổi, khám sức khỏe miễn phí hằng năm cho người từ 65 tuổi. Khám gồm khám thực thể, công thức máu, nước tiểu, đường huyết đói, điện tim. Chức năng gan gồm AST, ALT, bilirubin toàn phần; thận gồm creatinine huyết thanh, urê máu; lipid gồm cholesterol toàn phần, triglyceride, LDL, HDL. Cuối cùng siêu âm bụng gan, mật, tụy, lách (toàn quốc).",
+      "grade": "A",
+      "sources": "Krogsbøll LT, Jørgensen KJ, Gøtzsche PC (2019). General health checks in adults for reducing morbidity and mortality from disease. Cochrane Database of Systematic Reviews, 1, CD009009. <https://doi.org/10.1002/14651858.CD009009.pub3>；国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）（老年人健康管理服务、高血压患者健康管理服务）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>",
+      "notes": "Điều bác là “dùng gói hằng năm làm biện pháp phòng bệnh”, không phải bỏ mọi kiểm tra. Đo huyết áp miễn phí hằng năm từ 35 tuổi, khám miễn phí từ 65 tuổi vốn thuộc dịch vụ công cộng cơ bản, không phải tự trả. Có lý do cần xét thì cứ xét. Huyết áp, đường huyết, viêm gan B xem chương 1 mục 7, 8, 14; vú, cổ tử cung, đại trực tràng xem chương 1 mục 17, 18, 19; H. pylori và CT liều thấp xem chương 1 mục 23, 24; mật độ xương phụ nữ từ 65 tuổi xem chương 1 mục 39. Có hành vi nguy cơ cao thì xét, xem chương 1 mục 31. Tuổi bắt đầu và khoảng cách đều ghi đó. Đơn vị tổ chức, người khác trả tiền thì vẫn đi; điều cần tránh là tự mua gói, tự thêm hạng mục. Người đã bệnh mạn, có triệu chứng, kiểm tra bác sĩ chỉ định theo bệnh không thuộc phạm vi; đó là khám chữa bệnh, không sàng lọc. Hạng mục thường gặp thiếu bằng chứng là dấu ấn ung thư, hình ảnh toàn thân, xem mục 7 chương này. Axit uric cao chưa từng đau, sỏi túi mật chưa đau làm gì xem mục 19 và 20 chương này. Ngoài ra đa số thử nghiệm Cochrane ở nước thu nhập cao vốn dễ tiếp cận y tế; vùng thiếu nguồn lực không nên áp dụng nguyên xi."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

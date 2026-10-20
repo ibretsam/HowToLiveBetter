@@ -1,0 +1,48 @@
+{
+  "id": "e-23-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "575107291c9a24682d28ffa79f22c2662017260aa5c41b5131d62ada0cbcf7ef",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "花钱考证之前，先查这张证在不在国家职业资格目录或人社部备案的评价机构名单里",
+    "fields": {
+      "cost": "不花钱。查一次，十几分钟。",
+      "plain": "有些机构打着新职业、技能等级的名义乱办班、乱收费、滥发证，还有假冒权威机构的，人社部专门治理过。报名前按三步查：这个职业在不在国家职业资格目录、发证机构是不是人社部门备案的评价机构、证书编号能不能在官方平台查到。查不到的就别报。",
+      "benefit": "人社部专门为此开展过全国性治理。文件里点名的乱象是「一些机构和单位以新职业职业资格、职业技能等级等名义随意举办培训、评价、发证活动，乱收费、滥发证；一些机构和单位虚假或夸大宣传，甚至假冒权威机构名义组织培训、评价、颁发证书等」。治理措施包括联合网信、公安、市场监管等部门查处，「严厉打击假冒鉴定机构、人社部门备案评价机构的评价发证活动」。网站和新媒体上不合规的宣传，依法关停。文件同时要求「引导公众了解证书查询渠道和方式，判断证书合法合规性和含金量」",
+      "grade": "A",
+      "sources": "人力资源社会保障部 (2022). 关于开展技术技能类「山寨证书」专项治理工作的通知. <https://www.gov.cn/zhengce/zhengceku/2022-03/18/content_5679641.htm>",
+      "notes": "按这个顺序验。先看这个职业在不在《国家职业资格目录》里，不在目录里的就不是国家职业资格。再看发证机构是不是人社部门备案的评价机构。最后到官方的技能人才评价证书查询平台，查证书编号能不能查到。查不到的一律不报。带「国际」「高级」「注册」字样、承诺「包过」「挂靠有收入」的，风险最高。花钱买学历的「学历提升班」见第 31 节第 10 条（学历只认学信网查得到的）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Trước trả tiền thi chứng chỉ, xem có trong danh mục nghề quốc gia hoặc danh sách tổ chức đánh giá đăng ký Bộ Nhân lực và An sinh xã hội không",
+    "fields": {
+      "cost": "Không tốn tiền. Tra một lần hơn mười phút.",
+      "plain": "Có cơ sở mượn danh nghề mới, cấp kỹ năng để mở lớp, thu phí, cấp chứng chỉ bừa bãi, còn giả cơ quan uy tín; Bộ đã chấn chỉnh riêng. Trước đăng ký tra ba bước: nghề có trong danh mục quốc gia; bên cấp có là tổ chức đánh giá đăng ký; số chứng chỉ tra được nền tảng chính thức. Không tra được thì phí đăng ký mất oan.",
+      "benefit": "Bộ Nhân lực và An sinh xã hội từng triển khai chấn chỉnh toàn quốc. Văn bản nêu “một số cơ sở, đơn vị mượn danh tư cách nghề mới, cấp kỹ năng nghề tùy tiện đào tạo, đánh giá, cấp chứng chỉ, thu phí bừa bãi, cấp tràn lan; một số quảng cáo giả/phóng đại, thậm chí mạo danh cơ quan uy tín tổ chức đào tạo, đánh giá, cấp chứng chỉ”. Biện pháp phối hợp cơ quan không gian mạng, công an, quản lý thị trường xử lý, “nghiêm trị hoạt động đánh giá cấp chứng chỉ giả mạo cơ quan giám định, tổ chức đánh giá đăng ký với cơ quan nhân lực”. Quảng bá không đúng trên web, truyền thông mới bị đóng theo luật. Văn bản yêu cầu “hướng dẫn công chúng hiểu kênh, cách tra chứng chỉ để đánh giá hợp pháp, đúng quy định và giá trị”",
+      "grade": "A",
+      "sources": "人力资源社会保障部 (2022). 关于开展技术技能类「山寨证书」专项治理工作的通知. <https://www.gov.cn/zhengce/zhengceku/2022-03/18/content_5679641.htm>",
+      "notes": "Kiểm theo thứ tự: nghề có trong Danh mục tư cách nghề nghiệp quốc gia không; ngoài danh mục thì không phải tư cách nghề quốc gia. Tiếp xem bên cấp có là tổ chức đánh giá đăng ký cơ quan nhân lực. Cuối vào nền tảng tra chứng chỉ đánh giá nhân tài kỹ năng chính thức xem số chứng chỉ. Không tra được thì không đăng ký. Có chữ “quốc tế”, “cao cấp”, “đăng ký”, hứa “bao đậu”, “cho mượn chứng chỉ có thu nhập” rủi ro cao nhất"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

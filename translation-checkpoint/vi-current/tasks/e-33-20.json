@@ -1,0 +1,48 @@
+{
+  "id": "e-33-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "45be2bf3172e75c1538a819eff61fff35d51ebea40e34e5d3cf7899f331f7c3f",
+  "status": "outdated",
+  "original": {
+    "number": 20,
+    "title": "因为残疾被拒招、不转正、少发钱，可以告，但先把过程成本算清",
+    "fields": {
+      "cost": "律师费几千到几万元，自己出。一审普通程序 6 个月起，可以延长。证据要自己保存。",
+      "plain": "法律禁止在招用、转正、晋级、评职称、报酬、社保上歧视残疾人。你可以向主管部门投诉，也可以去法院告。但打赢了官司，对方也不替你出律师费。所以先投诉，同时申请法律援助，再考虑打官司。",
+      "benefit": "《残疾人保障法》第三条：「禁止基于残疾的歧视。禁止侮辱、侵害残疾人。」第三十八条：「在职工的招用、转正、晋级、职称评定、劳动报酬、生活福利、休息休假、社会保险等方面，不得歧视残疾人。」同条还规定，残疾职工所在单位应当根据残疾职工的特点提供适当的劳动条件和劳动保护，并根据实际需要对劳动场所、劳动设备和生活设施进行改造。第六十四条：「违反本法规定，在职工的招用等方面歧视残疾人的，由有关主管部门责令改正；残疾人劳动者可以依法向人民法院提起诉讼。」《残疾人就业条例》第四条：「禁止在就业中歧视残疾人。」第十三条：用人单位不得在晋职、晋级、评定职称、报酬、社会保险、生活福利等方面歧视残疾职工。《法律援助法》第四十二条规定，申请人有材料证明属于「无固定生活来源的未成年人、老年人、残疾人等特定群体」的，免予核查经济困难状况。第四十五条规定，法律援助机构为老年人、残疾人提供法律援助服务的，应当根据实际情况提供无障碍设施设备和服务（全国）",
+      "grade": "A",
+      "sources": "中华人民共和国残疾人保障法（第三条、第三十八条、第六十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d134c88132b>；国务院 (2007). 残疾人就业条例（第四条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6646.htm>；中华人民共和国法律援助法（第四十二条、第四十五条）. <https://flk.npc.gov.cn/detail?id=ff8081817b6472a3017b6577820f0061>",
+      "notes": "过程成本必须先算。一审普通程序 6 个月起，可以延长；简易程序 3 个月。律师费不在《诉讼费用交纳办法》第六条列的诉讼费用里，第二十九条的「败诉方负担」不包括律师费。所以先走两条成本低的路：向人社部门或者残联投诉，由主管部门责令改正；同时申请法律援助，第四十二条对残疾人免予核查经济困难状况。取证是最难的一关。面试被拒时，对方很少留下书面理由，能录音、能留下聊天记录就留。已经入职的按劳动争议走仲裁，留证和时效见第 19 节第 8 条（离职前留证）。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 20,
+    "title": "Bị từ chối tuyển, không cho chính thức, trả thiếu vì khuyết tật có thể kiện, nhưng tính chi phí quá trình trước",
+    "fields": {
+      "cost": "Phí luật sư từ vài nghìn đến vài vạn nhân dân tệ, tự trả. Sơ thẩm theo thủ tục thông thường từ 6 tháng trở lên, có thể gia hạn. Chứng cứ phải tự lưu giữ.",
+      "plain": "Luật cấm phân biệt người khuyết tật trong tuyển dụng, chính thức hóa, thăng bậc, xét chức danh, tiền công, bảo hiểm xã hội. Có thể khiếu nại cơ quan chủ quản hoặc kiện tòa. Nhưng thắng kiện bên kia cũng không trả luật sư giúp. Vì thế khiếu nại trước, đồng thời xin trợ giúp pháp lý, rồi cân nhắc kiện.",
+      "benefit": "Điều ba Luật Bảo đảm người khuyết tật: ‘Cấm phân biệt dựa trên khuyết tật. Cấm sỉ nhục, xâm hại người khuyết tật’. Điều ba mươi tám: ‘Không phân biệt trong tuyển, chuyển chính thức, thăng bậc, xét chức danh, thù lao, phúc lợi, nghỉ ngơi, phép, bảo hiểm xã hội…’. Cùng điều yêu cầu đơn vị cung cấp điều kiện, bảo hộ lao động phù hợp đặc điểm và cải tạo nơi làm, thiết bị, tiện ích theo nhu cầu. Điều sáu mươi bốn: ‘Vi phạm bằng phân biệt trong tuyển dụng… thì cơ quan chủ quản yêu cầu sửa; lao động khuyết tật được kiện tòa nhân dân theo luật’. Điều bốn Điều lệ Việc làm người khuyết tật: ‘Cấm phân biệt trong việc làm’. Điều mười ba cấm phân biệt trong thăng chức, bậc, xét chức danh, thù lao, bảo hiểm xã hội, phúc lợi… Điều bốn mươi hai Luật Trợ giúp pháp lý: người xin có tài liệu chứng minh thuộc ‘nhóm cụ thể như người chưa thành niên, người già, người khuyết tật không có nguồn sống ổn định’ được miễn xác minh khó khăn kinh tế. Điều bốn mươi lăm: tổ chức trợ giúp pháp lý cho người già, người khuyết tật phải cung cấp thiết bị, tiện ích, dịch vụ tiếp cận phù hợp (toàn quốc).",
+      "grade": "A",
+      "sources": "中华人民共和国残疾人保障法（第三条、第三十八条、第六十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d134c88132b>；国务院 (2007). 残疾人就业条例（第四条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6646.htm>；中华人民共和国法律援助法（第四十二条、第四十五条）. <https://flk.npc.gov.cn/detail?id=ff8081817b6472a3017b6577820f0061>",
+      "notes": "Phải tính chi phí của cả quá trình trước. Sơ thẩm theo thủ tục thông thường từ 6 tháng trở lên, có thể gia hạn; thủ tục rút gọn 3 tháng. Phí luật sư không nằm trong các chi phí tố tụng liệt kê tại điều sáu Biện pháp nộp án phí; ‘bên thua kiện chịu’ tại điều hai mươi chín không bao gồm phí luật sư. Vì thế hãy đi hai con đường ít tốn kém trước: khiếu nại với cơ quan nhân lực và an sinh xã hội hoặc Liên hiệp người khuyết tật, để cơ quan chủ quản yêu cầu sửa sai; đồng thời xin trợ giúp pháp lý, điều bốn mươi hai miễn xác minh tình trạng khó khăn kinh tế cho người khuyết tật. Thu thập chứng cứ là cửa khó nhất. Khi bị từ chối ở vòng phỏng vấn, bên kia hiếm khi để lại lý do bằng văn bản; ghi âm được, giữ được tin nhắn thì giữ. Đã vào làm thì đi theo tranh chấp lao động qua trọng tài; lưu chứng cứ và thời hiệu xem chương 19 mục 8 (lưu chứng cứ trước khi nghỉ việc). Người hưởng lợi của mục này là chính bạn."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

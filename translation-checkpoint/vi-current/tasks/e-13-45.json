@@ -1,0 +1,30 @@
+{
+  "id": "e-13-45",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "295cc6608699977ca2b38a2553bb3e3cc5d2a266fda9b324ee8eb501c4bd1589",
+  "status": "pending",
+  "original": {
+    "number": 45,
+    "title": "孩子吞了纽扣电池，或者吞了两颗以上的强磁珠，立刻去有胃镜的医院急诊，别等它自己拉出来、别催吐",
+    "fields": {
+      "cost": "不花钱，急诊拍片和取出的费用另算。平时把遥控器、电子秤、车钥匙的电池仓拧紧。备用电池和磁力珠放到孩子够不着的地方。难的是多数时候没人看见孩子吞，孩子一开始也可能没有任何症状。",
+      "plain": "纽扣电池卡在食道里，最快 2 小时就能烧出重伤，孩子一开始可能看着没事。两颗以上的磁珠会隔着肠壁互相吸住，可能把肠子压穿。怀疑吞了就马上去医院拍片，别催吐，别等它自己拉出来，也别等有了症状再去。",
+      "benefit": "美国中毒数据库 1985 到 2009 年的数字显示，吞纽扣电池落下重伤或死亡的比例涨了 6.7 倍。最危险的是直径 20 毫米的锂电池。4 岁以下的孩子、直径 20 毫米以上的锂电池，结果明显更差。电池卡在食道里，只要 2 到 2.5 小时就能烧出留下后遗症的重伤。死亡病例里有 92%、重伤病例里有 56%，当时没人看见孩子吞下去。至少 54% 的死亡病例和 27% 的重伤病例起初被误诊，因为症状不典型。电池取出来以后，伤还会往深处走。几天后才出现食道穿孔、食道和气管或大血管穿通、大出血的都有。另一份 8648 例的分析里，6 岁以下孩子吞的电池，61.8% 是直接从用电器里拿出来的。美国国家中毒控制中心的处置指南写：怀疑吞了电池，「不要催吐」。电池卡在食道里「最快 2 小时就可能造成严重烧伤」，「不要等出现症状」。12 岁以下的要立即拍片找电池。广东省疾控中心的产品伤害监测显示，近五年与电池误吞有关的伤害近百例，大多数是纽扣电池。受伤的 92.9% 是 0 到 6 岁的孩子。中度或重度伤害占 39.3%，要住院的占 25.0%。它的建议是「立即就医，切勿自行给孩子催吐或喂食」。同一份监测写，巴克球（磁力珠）吞进肚子，相邻肠管里的珠子会「相互吸引挤压肠管，从而造成肠梗阻或肠穿孔」，怀疑误吞「应立即送医处理」。一篇 2025 年的文献汇总收了 130 名孩子，都是吞下 2 颗以上磁铁后肠子之间穿通（肠瘘）。年龄中位数 3.3 岁，95.5% 要开刀，19% 术后出了并发症，其中 1 人死亡",
+      "grade": "B",
+      "sources": "Litovitz T 等 (2010). Emerging battery-ingestion hazard: clinical implications. Pediatrics 125(6):1168-1177. <https://doi.org/10.1542/peds.2009-3037>；Litovitz T, Whitaker N, Clark L (2010). Preventing battery ingestions: an analysis of 8648 cases. Pediatrics 125(6):1178-1183. <https://doi.org/10.1542/peds.2009-3038>；National Capital Poison Center. National Battery Ingestion Hotline Guideline：「If battery ingestion is suspected: Do not induce vomiting」「Batteries lodged in the esophagus may cause serious burns in as little as 2 hours. Do not wait for symptoms to develop」. <https://www.poison.org/battery/guideline>；广东省疾病预防控制中心 (2025). 监测发现：这3种小物件易被孩子误吞，很多人家里都有，赶紧放好！. <https://cdcp.gd.gov.cn/jkjy/jkzt/zlkz/content/post_4686546.html>；Kelaidi N 等 (2025). Entero-Enteric Fistula Following Multiple Magnet Ingestion in Children: A Systematic Review. Journal of Clinical Medicine 14(17):6235. <https://doi.org/10.3390/jcm14176235>；Nugud AA 等 (2023). Pediatric Magnet Ingestion, Diagnosis, Management, and Prevention: A European Society for Paediatric Gastroenterology Hepatology and Nutrition (ESPGHAN) Position Paper. Journal of Pediatric Gastroenterology and Nutrition 76(4):523-532. <https://doi.org/10.1097/MPG.0000000000003702>；Anfang RR 等 (2019). pH-neutralizing esophageal irrigations as a novel mitigation strategy for button battery injury. Laryngoscope 129(1):49-57. <https://doi.org/10.1002/lary.27312>；Schmidt YM, Muensterer O, Wendling-Keim D (2023). The use of honey in button battery ingestions: a systematic review. Frontiers in Pediatrics 11:1259780. <https://doi.org/10.3389/fped.2023.1259780>",
+      "notes": "定 B 是因为数字来自中毒热线和病例登记，没有「照做能少死多少人」的对照。收益定「大」是凭判断：电池在食道里 2 小时就能烧出重伤，死亡病例多是没人看见、被误诊拖过去的。受益的几乎都是自家孩子。把同型号的电池、包装或者用电器一起带去，医生要靠它认出是哪种电池。路上要不要喂蜂蜜，中外说法不一样。美国国家中毒控制中心建议，满 1 岁、吞下不到 12 小时、能吞咽、手边正好有蜂蜜的，可以喂。每 10 分钟喂 10 毫升，最多 6 次。它的依据是活猪身上的实验，2023 年的一篇汇总说人身上的证据还很少。广东省疾控写的是不要喂食。不满 1 岁的绝不能喂蜂蜜。蜂蜜只能拖慢烧伤，不能代替取出来，别为找蜂蜜耽误出门。电池和磁铁一起吞下的，美国国家中毒控制中心要求电池到了胃里也要取出。老人也会吞：8648 例里 15.5% 是把电池当成药片吞了，多是老人。全部病例里 36.3% 吞的是助听器电池。噎在嗓子里喘不上气的，先按本节第 26 条（噎住拍背加腹部冲击）或第 43 条（婴儿噎住）处理。误服清洁剂、药物见本节第 20 条（误服清洁剂）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": true
+}

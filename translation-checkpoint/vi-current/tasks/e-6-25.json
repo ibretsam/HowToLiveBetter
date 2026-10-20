@@ -1,0 +1,48 @@
+{
+  "id": "e-6-25",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "d4e2aa26b8027fa78ccd76eb64d360659a232758963a9c838850b0ecd52eef7b",
+  "status": "outdated",
+  "original": {
+    "number": 25,
+    "title": "不要相信「意志力像肌肉，用一会儿就没了」",
+    "fields": {
+      "cost": "不花钱。要改的只是一个说法。",
+      "plain": "流行的说法是：先做一件费自控的事，接下来就更容易破功，所以要省着用意志力。23 个实验室、2141 人按同一套方案重做了这个实验，结果几乎是零。别再用「今天意志力用完了」解释自己，也别为此花钱买教你攒意志力的课。",
+      "benefit": "一项多实验室预注册重复研究，有 23 个实验室、共 2141 名受试者参加。他们按 Sripada 等人的标准化方案重做了序贯任务范式：先做一件消耗自控的任务，再做第二件需要自控的任务。汇总结果显示自我损耗效应很小，而且 95% 可信区间包含 0（d = 0.04，95% CI −0.07 到 0.15）。作者据此讨论了「自控是有限资源」这一模型还成不成立。另一次同样事先登记方案的重做，36 个实验室、3531 人，效果大小 d = 0.06，同样小到不能算数。",
+      "grade": "A",
+      "sources": "Hagger MS, Chatzisarantis NLD, Alberts H, et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science, 11(4), 546–573. <https://doi.org/10.1177/1745691616652873>；Vohs et al. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science. <https://doi.org/10.1177/0956797621989733>",
+      "notes": "要否掉的是「自控是一种会被消耗完的资源」这个模型，不是否掉「人会累」。睡不够、连着干太久会让人效率下降，那是另一回事，按第 3 节的睡眠和工时几条处理。真正有随机试验支持的做法是改环境和改写法，见第 4 节第 10 条（把不想碰的挪远）和第 4 节第 1 条（写成「几点、在哪、遇到什么就做什么」）。把穿什么、吃什么固定下来仍然值得做，因为几乎不花成本。它省下的是那几分钟和几次纠结，不是意志力，别指望它让你下午判断得更好。本节其他条目算的是钱，这里算的是时间和精力，两者不做换算。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 25,
+    "title": "Đừng tin “ý chí như cơ bắp, dùng một lúc sẽ cạn”",
+    "fields": {
+      "cost": "Không tốn tiền. Chỉ cần sửa một cách nói.",
+      "plain": "Quan niệm phổ biến: làm việc đòi tự chủ trước thì sau dễ mất kiểm soát, nên tiết kiệm ý chí. 23 phòng thí nghiệm, 2141 người lặp cùng quy trình, hiệu ứng gần không. Đừng giải thích mình bằng “hôm nay hết ý chí”, cũng đừng mua khóa dạy tích ý chí.",
+      "benefit": "Nghiên cứu lặp đa phòng thí nghiệm đăng ký trước gồm 23 phòng, 2141 người, theo quy trình chuẩn của Sripada và cộng sự: làm việc tiêu hao tự chủ rồi việc thứ hai cần tự chủ. Gộp cho hiệu ứng suy kiệt cái tôi rất nhỏ, 95% khoảng tin cậy chứa 0 (d = 0.04, 95% CI −0.07 đến 0.15). Tác giả bàn mô hình “tự chủ là nguồn lực hữu hạn” còn đứng vững không. Lần lặp đăng ký trước khác, 36 phòng, 3531 người, d = 0.06, cũng nhỏ đến không đáng kể.",
+      "grade": "A",
+      "sources": "Hagger MS, Chatzisarantis NLD, Alberts H, et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science, 11(4), 546–573. <https://doi.org/10.1177/1745691616652873>；Vohs et al. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science. <https://doi.org/10.1177/0956797621989733>",
+      "notes": "Bác mô hình “tự chủ là nguồn lực cạn được”, không bác con người biết mệt. Thiếu ngủ, làm liên tục quá lâu giảm hiệu suất là chuyện khác, xử lý theo các mục ngủ, giờ làm chương 3. Cách thực sự có thử nghiệm ngẫu nhiên là đổi môi trường và cách viết kế hoạch, xem chương 4 mục 10 (đưa thứ không muốn đụng ra xa), chương 4 mục 1 (ghi giờ, nơi, gặp gì thì làm gì). Cố định mặc gì ăn gì vẫn đáng vì gần như không tốn; tiết kiệm vài phút, vài lần phân vân, không phải ý chí, đừng kỳ vọng chiều phán đoán tốt hơn. Mục khác chương này tính tiền, mục này thời gian và tinh lực, không quy đổi."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

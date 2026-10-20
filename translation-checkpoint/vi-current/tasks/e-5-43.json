@@ -1,0 +1,48 @@
+{
+  "id": "e-5-43",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "837b8731ceb44e18397be972d29eb373e53d66c7b2a1ab7fda85a0823b4b5858",
+  "status": "outdated",
+  "original": {
+    "number": 43,
+    "title": "想退保就自己找保险公司办，别找「代理退保」，觉得被误导了打 12378 投诉",
+    "fields": {
+      "cost": "不花钱。自己打保险公司客服电话或者去柜台，比交给中介多跑一两趟。",
+      "plain": "网上喊「全额退保」的，监管说是不实信息。这类代理退保要拿走退回来的钱的三到五成，还会收集你的银行卡、手机卡和家庭住址。退了保，保障也就没了。觉得被误导了，先找保险公司客服，谈不拢打 12378，全程免费。",
+      "benefit": "2026 年 2 月，金融监管总局、中央网信办、公安部、中国人民银行、中国证监会联合发了风险提示。它说「全额退保」这类说法属于不实信息，和保险法等法律法规不符。「代理维权」的人会收高额服务费，你中途想退出，还可能因为「违约」吃官司。他们还会收集你的手机卡、银行卡、保单、家庭住址、孩子的学校这些信息。这些信息被倒卖，你可能碰上电信诈骗和盗刷。宁夏金融监管局 2026 年 6 月的提示写得更细。这类中介约定退保成功后，收退保金额 30% 到 50% 的代理费，中途不干了要交高额违约金。他们教人编造销售误导、代签名这类理由去投诉。照做的人可能违反治安管理处罚法，严重的可能涉嫌诬告陷害或敲诈勒索的共同犯罪。退保后保险责任马上终止。以后再买同类保险，可能因为年纪大了、身体查出问题，而涨价或者被拒保。真被误导了，先找保险公司官方客服投诉协商，谈不拢打 12378 银行保险消费者投诉维权热线，全程免费。只是一时交不起保费，可以先问保险公司能不能办减额交清、保单贷款这类服务。减额交清就是以后不再交钱，保额按比例降下来（全国，2026 年）",
+      "grade": "B",
+      "sources": "金融监管总局、中央网信办、公安部、中国人民银行、中国证监会 (2026-02-06). 关于警惕不法「代理维权」短视频及直播陷阱的风险提示（中央网信办官网转载）. <https://www.cac.gov.cn/2026-02/06/c_1772110875635198.htm>；宁夏金融监管局 (2026-06-16). 关于防范非法代理退保的风险提示. <https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemDetail.html?docId=1261442&itemId=2188>；湖南金融监管局 (2025-07-23). 关于防范非法「代理退保」黑灰产的风险提示. <https://www.nfra.gov.cn/branch/hunan/view/pages/common/ItemDetail.html?docId=1218753&itemId=1480>",
+      "notes": "湖南金融监管局 2025 年通报过一个案例。一位女士被「朋友」劝去代理退保，交了「咨询费」，最后还是按现金价值退的保。退保 3 个月后，她确诊乳腺癌，那份重疾险已经没了。退不退要自己算：保障还用得上的，交不起就先问减额交清。自己在犹豫期里退，见本节第 41 条（犹豫期）。信用卡、网贷的「停息挂账」「反催收」中介是同一类套路，见第 7 节第 23 条（信用卡、网贷已经还不上）。这条的受益人是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 43,
+    "title": "Muốn hủy hãy tự làm với công ty bảo hiểm, đừng thuê “đại diện hủy”; thấy bị dẫn dắt sai thì gọi 12378 khiếu nại",
+    "fields": {
+      "cost": "Không tốn tiền. Tự gọi công ty hoặc đến quầy, nhiều hơn giao trung gian một hai lần đi.",
+      "plain": "Quảng cáo “hoàn đủ phí, không thành không thu” trên mạng phần lớn là đại diện hủy bảo hiểm bất hợp pháp. Họ lấy ba đến năm phần mười số tiền hoàn, còn đòi căn cước, thẻ ngân hàng, mã xác thực. Hủy thì mất luôn bảo vệ. Thấy bị dẫn dắt sai, trước tiên gặp chăm sóc khách hàng chính thức; không thỏa thuận được gọi 12378, hoàn toàn miễn phí.",
+      "benefit": "Tháng 2 năm 2026, Tổng cục Quản lý tài chính, Cơ quan Không gian mạng trung ương, Bộ Công an, Ngân hàng Nhân dân Trung Quốc và Ủy ban Chứng khoán cùng cảnh báo: “hoàn toàn bộ phí” là thông tin không đúng, trái Luật Bảo hiểm và quy định liên quan. Người “đại diện bảo vệ quyền lợi” thu phí cao; muốn bỏ giữa chừng có thể bị kiện “vi phạm hợp đồng”. Họ còn thu thẻ điện thoại, thẻ ngân hàng, đơn bảo hiểm, địa chỉ nhà, trường con học. Thông tin bị bán lại khiến bạn gặp lừa đảo viễn thông và giao dịch trái phép. Cảnh báo tháng 6 năm 2026 của cơ quan tài chính Ninh Hạ nói rõ hơn: trung gian lấy 30% đến 50% tiền hoàn nếu thành, bỏ giữa chừng phải trả phạt cao. Họ dạy bịa lý do bị dẫn dắt sai khi bán, ký thay để khiếu nại. Làm theo có thể vi phạm Luật Xử phạt quản lý trị an, nặng có thể đồng phạm vu cáo hãm hại hoặc cưỡng đoạt. Hủy xong trách nhiệm bảo hiểm chấm dứt ngay. Mua lại sau có thể đắt hơn hoặc bị từ chối vì lớn tuổi, phát hiện bệnh. Thực sự bị dẫn dắt sai thì trước hết khiếu nại, thương lượng với bộ phận chăm sóc khách hàng chính thức của công ty bảo hiểm; không thỏa thuận được thì gọi 12378, đường dây nóng khiếu nại bảo vệ quyền lợi người tiêu dùng ngân hàng, bảo hiểm, hoàn toàn miễn phí. Chỉ tạm thiếu phí thì hỏi có thể giảm số tiền bảo hiểm để miễn đóng tiếp hoặc vay theo hợp đồng không. Giảm số tiền để miễn đóng là từ nay không đóng thêm, mức bảo vệ giảm theo tỷ lệ (toàn quốc, năm 2026).",
+      "grade": "B",
+      "sources": "金融监管总局、中央网信办、公安部、中国人民银行、中国证监会 (2026-02-06). 关于警惕不法「代理维权」短视频及直播陷阱的风险提示（中央网信办官网转载）. <https://www.cac.gov.cn/2026-02/06/c_1772110875635198.htm>；宁夏金融监管局 (2026-06-16). 关于防范非法代理退保的风险提示. <https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemDetail.html?docId=1261442&itemId=2188>；湖南金融监管局 (2025-07-23). 关于防范非法「代理退保」黑灰产的风险提示. <https://www.nfra.gov.cn/branch/hunan/view/pages/common/ItemDetail.html?docId=1218753&itemId=1480>",
+      "notes": "Cơ quan tài chính Hồ Nam công bố năm 2025 một vụ: một phụ nữ được “bạn” khuyên thuê đại diện hủy, đóng “phí tư vấn”, cuối cùng vẫn chỉ hoàn theo giá trị tiền mặt. Sau hủy 3 tháng bà được chẩn đoán ung thư vú, hợp đồng bệnh hiểm nghèo đã mất. Tự tính có hủy không: còn cần bảo vệ mà thiếu tiền thì hỏi giảm số tiền bảo hiểm để miễn đóng tiếp trước. Tự hủy trong thời gian cân nhắc xem mục 41 chương này. Người hưởng lợi là bạn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,29 @@
+{
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "starting_commit": "19a127a",
+  "started_at": "2026-10-20T08:10:20.826726+00:00",
+  "validated_at": "2026-10-20T08:26:25.739992+00:00",
+  "timing_note": "Elapsed wall time includes tooling, three parallel translators, cross-review and QA; not a serial per-entry benchmark.",
+  "elapsed_minutes": 16.1,
+  "pilot_entries": 30,
+  "new_entries": 11,
+  "updated_entries": 19,
+  "supplementary_reviewed": [
+    "intro-34"
+  ],
+  "validated_drafts": 31,
+  "independent_reviews": 31,
+  "structural_tests": 7,
+  "resume_records_preserved": 62,
+  "current_entry_counts": {
+    "outdated": 535,
+    "pending": 105,
+    "draft": 125
+  },
+  "publication": "Deployment evidence is recorded in the Vietnamese GitHub Pages workflow runs.",
+  "remaining_estimate_hours": [
+    24,
+    36
+  ],
+  "estimate_note": "Retain conservative initial estimate until a further batch covers long articles and non-pilot chapters; pilot wall time is not total agent effort."
+}

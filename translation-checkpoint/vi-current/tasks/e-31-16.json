@@ -1,0 +1,48 @@
+{
+  "id": "e-31-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "21abc9bbb5c180f68cbd58df93d358f713e6f67a40b430404628c9453de70f02",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "不进单位自己干，起步钱先看创业担保贷款：个人最高 30 万、财政贴一半利息",
+    "fields": {
+      "cost": "咨询不花钱。先跑一次人社部门做资格审核，再到担保机构和经办银行（放贷款的银行）各办一次手续。难在借来的钱终究要还。",
+      "plain": "属于高校毕业生、退役军人、失业人员这类重点群体的，借钱起步先看这笔有财政贴息的。个人最高能借 30 万元，最长 3 年，利息由财政替你出一半。申请时你和配偶名下不能有别的贷款，房贷、车贷、助学贷款和 5 万元以下的消费贷等不算。",
+      "benefit": "个人申请条件写在《普惠金融发展专项资金管理办法》（财金〔2023〕75 号）第六条。第一个条件是要属于重点就业群体。文件列的是城镇登记失业人员、就业困难人员（含残疾人）、退役军人、刑满释放人员。还有高校毕业生（含大学生村官和留学回国学生）、化解过剩产能企业职工和失业人员。还有返乡创业农民工、网络商户、脱贫人口、农村自主创业农民等。第二个条件是名下不能有别的贷款：「除助学贷款、脱贫人口小额信贷、住房贷款、购车贷款、5 万元以下小额消费贷款（含信用卡消费）以外，申请人提交创业担保贷款申请时，本人及其配偶无其他贷款」。第九条：「对符合条件的创业担保贷款，财政部门给予贷款实际利率 50% 的财政贴息。对展期、逾期的创业担保贷款，财政部门原则上不予贴息」。贴息就是利息由财政替你出一半。展期是到期后再往后延，逾期是过期没还，这两种情况财政不再替你出。第十条：个人申请的 10 万元以下创业担保贷款原则上取消反担保，不必再另外找人、或者拿财产给担保机构做担保。第十一条：纳入奖补支持范围的个人创业担保贷款「额度不超过 30 万元，贷款期限不超过 3 年」。合伙创业可适当提高，最高不超过个人额度上限之和的 110%。奖补支持的贷款利率上限分三档：东部地区为 LPR+50BPs，中西部地区 LPR+150BPs，脱贫地区 LPR+250BPs。LPR 是银行贷款市场报价利率，BPs 是利率的计量单位，加得越多利息越高。「还款积极、带动就业能力强、创业项目好」的，到期后可继续申请，累计次数不超过 3 次。第八条：申请人先向当地人力资源社会保障部门申请资格审核，再向担保机构和经办银行提交申请。第十二条：经省级人民政府同意，各地可扩大支持范围、提高额度和贴息比例（全国）",
+      "grade": "A",
+      "sources": "财政部 (2023). 关于印发《普惠金融发展专项资金管理办法》的通知（财金〔2023〕75 号，第六、八、九、十、十一、十二条）. <https://www.gov.cn/zhengce/zhengceku/202309/content_6903691.htm>",
+      "notes": "财政替你出一半利息，不改变「借的钱要还」这件事。本书在第 12 节第 1 条的立场没变：创业只拿亏得起的钱，不动家底，不给公司贷款签个人担保，配偶更不要跟着签。如果你已经决定要借，这种政策贷款是利息最低的那一档，别去碰消费贷和民间借贷。额度和适用范围各省可以往上调，实际能批多少，以当地人社部门当年的说法为准。2020 年疫情期间那份「个人最高 20 万」的通知是临时文件，现在看这份办法。开店是办个体户还是开公司、许可证、报税和退场，见第 12 节。失业期间的培训补贴、社保补贴和就业见习，见第 7 节第 13 条（职业培训补贴）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Không vào đơn vị mà tự làm, hãy xem khoản vay bảo lãnh khởi nghiệp trước: cá nhân tối đa 30 vạn, ngân sách hỗ trợ nửa lãi",
+    "fields": {
+      "cost": "Tư vấn miễn phí. Trước hết đến cơ quan nhân lực và an sinh xã hội xét tư cách, sau đó làm thủ tục tại tổ chức bảo lãnh và ngân hàng thực hiện, tức ngân hàng cho vay. Khó ở chỗ tiền vay cuối cùng vẫn phải trả.",
+      "plain": "Nếu nhất định phải vay vốn khởi đầu, hãy xem khoản có trợ cấp lãi ngân sách này trước. Cá nhân vay tối đa 30 vạn nhân dân tệ, lâu nhất 3 năm, ngân sách trả giúp nửa lãi. Một điều kiện bắt buộc hay bị quên: khi nộp đơn, bạn và vợ/chồng không được đứng tên khoản vay khác, trừ vay trợ học, tín dụng nhỏ cho người thoát nghèo, vay nhà, vay xe và vay tiêu dùng nhỏ từ 5 vạn nhân dân tệ trở xuống.",
+      "benefit": "Điều kiện cá nhân ở điều sáu Biện pháp Quản lý kinh phí chuyên biệt phát triển tài chính toàn diện, văn bản tài chính số 75 năm 2023. Điều kiện đầu là thuộc nhóm trọng điểm về việc làm. Văn bản liệt kê người thất nghiệp có đăng ký ở đô thị; người khó tìm việc (gồm cả người khuyết tật); cựu quân nhân; người đã chấp hành xong án tù; người tốt nghiệp đại học (gồm sinh viên làm cán bộ thôn và du học sinh về nước); người lao động và người thất nghiệp của doanh nghiệp giải quyết dư thừa công suất; lao động nông thôn về quê khởi nghiệp, hộ bán hàng trực tuyến, người thoát nghèo, nông dân tự khởi nghiệp… Điều kiện thứ hai là không đứng tên khoản vay khác: «Ngoài vay trợ học, tín dụng nhỏ cho người thoát nghèo, vay nhà, vay xe, vay tiêu dùng nhỏ từ 5 vạn nhân dân tệ trở xuống (gồm tiêu dùng thẻ tín dụng), khi nộp hồ sơ vay bảo lãnh khởi nghiệp, người xin và vợ/chồng không có khoản vay khác». Điều chín: «Với khoản đủ điều kiện, cơ quan tài chính trợ cấp 50% lãi suất vay thực tế. Về nguyên tắc không trợ cấp lãi cho khoản được gia hạn hoặc quá hạn». Trợ cấp lãi là ngân sách trả giúp nửa lãi. Gia hạn là kéo dài sau khi tới hạn; quá hạn là đến hạn chưa trả; hai trường hợp này ngân sách không trả giúp nữa. Điều mười: về nguyên tắc bỏ yêu cầu bảo đảm đối ứng với khoản cá nhân từ 10 vạn nhân dân tệ trở xuống, không cần tìm thêm người hoặc dùng tài sản bảo đảm cho tổ chức bảo lãnh. Điều mười một: khoản cá nhân được hỗ trợ «không quá 30 vạn nhân dân tệ, thời hạn không quá 3 năm». Khởi nghiệp hợp tác có thể tăng thích hợp, tối đa không quá 110% tổng hạn mức cá nhân. Trần lãi suất khoản hỗ trợ chia ba mức: miền Đông LPR+50BPs, miền Trung và Tây LPR+150BPs, vùng thoát nghèo LPR+250BPs. LPR là lãi suất cho vay tham chiếu thị trường của ngân hàng; BPs là đơn vị đo lãi suất, cộng càng nhiều thì lãi càng cao. Người «tích cực trả nợ, tạo việc làm tốt, dự án tốt» có thể tiếp tục xin khi đáo hạn, tổng số lần không quá 3. Điều tám: trước hết xin xét tư cách tại cơ quan nhân lực và an sinh xã hội địa phương, sau đó nộp cho tổ chức bảo lãnh và ngân hàng. Điều mười hai: được chính quyền cấp tỉnh đồng ý, địa phương có thể mở rộng đối tượng, tăng hạn mức và tỷ lệ trợ cấp lãi (toàn quốc).",
+      "grade": "A",
+      "sources": "财政部 (2023). 关于印发《普惠金融发展专项资金管理办法》的通知（财金〔2023〕75 号，第六、八、九、十、十一、十二条）. <https://www.gov.cn/zhengce/zhengceku/202309/content_6903691.htm>",
+      "notes": "Ngân sách trả giúp nửa lãi không thay đổi việc «tiền vay phải trả». Quan điểm chương 12 mục 1 không đổi: khởi nghiệp chỉ dùng tiền chịu mất được, không động vốn sống của gia đình, không ký bảo lãnh cá nhân cho khoản vay công ty, vợ/chồng càng không ký theo. Nếu đã quyết định vay, khoản vay chính sách này thuộc nhóm lãi thấp nhất; đừng đụng vay tiêu dùng và vay dân sự. Tỉnh có thể tăng hạn mức, phạm vi; thực được duyệt bao nhiêu theo thông tin cơ quan nhân lực và an sinh xã hội địa phương năm đó. Thông báo «cá nhân tối đa 20 vạn» thời dịch năm 2020 là văn bản tạm, hiện xem biện pháp này. Mở cửa hàng chọn hộ kinh doanh hay công ty, giấy phép, khai thuế và rút lui xem chương 12. Trợ cấp đào tạo, bảo hiểm xã hội và tập sự việc làm khi thất nghiệp xem chương 7 mục 13 (trợ cấp đào tạo nghề)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

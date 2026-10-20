@@ -1,0 +1,48 @@
+{
+  "id": "e-31-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "f8bc60b952d9278092b21da8f811bcef492ae3d23b547775a6f18d918d2211cd",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "大学生当兵最实的两块：学费每年补最高 20000 元，学籍保留到退役后两年、考研有专项计划",
+    "fields": {
+      "cost": "不花钱。退役以后按学校要求交材料申请，前后跑一两趟。",
+      "plain": "在校生、应届毕业生和新生去当兵，国家替你出读书那几年的学费。本专科生每年最高 20000 元，研究生最高 25000 元，学费本来就低的只补实际交的那么多。服役期间保留学籍，退役后两年内可以复学。考研另有一条只招退役大学生士兵的专项计划。",
+      "benefit": "财政部等四部门 2024 年通知说，去服兵役的高校学生有三样待遇：学费补偿、用于学费的国家助学贷款代偿、学费减免。代偿就是国家替你把这笔助学贷款还掉。这三样的标准「相应调整为本专科学生每人每年最高不超过 20000 元、研究生每人每年最高不超过 25000 元」。新标准自 2024 年秋季学期起执行。到底按多少补，看这一句：「按学生实际缴纳的学费或获得的国家助学贷款（包括本金及其全部偿还之前产生的利息）两者金额较高者执行」。后面还有一句是「超出标准部分不予补偿、代偿或减免」。所以每年拿到的钱，先在实际学费和助学贷款里取较高的那个，再和上限比，取较小的。学费每年 5000 元的就补 5000 元。补几年按读书的年数算，不按服役的年数算。2019 年的学生资助资金管理办法写着：「入伍前已完成规定的修业年限，即为学费补偿或国家助学贷款代偿的年限；退役复学后接续完成规定的剩余修业年限，即为学费减免的年限」。应届毕业生去当兵，补的是整个学制的学费。学籍看《退役军人保障法》。它写着：「现役军人入伍前已被普通高等学校录取或者是正在普通高等学校就学的学生，服现役期间保留入学资格或者学籍，退役后两年内允许入学或者复学，可以按照国家有关规定转入本校其他专业学习」。该法还写着：「高等学校根据国家统筹安排，可以通过单列计划、单独招生等方式招考退役军人」。考研看教育部办公厅 2026 年通知。这个计划叫「退役大学生士兵计划」。通知写着：「在全国硕士研究生招生计划总规模内单列下达、专项使用，不得调整为普通计划或其他专项计划。招生单位自主确定……初试成绩要求（一般不高于本单位相应学科专业普通计划考生初试成绩要求）……同等条件下服役时间长的考生优先录取」。单列、专项使用的意思是，这部分名额单独划出来，只能用来招退役大学生士兵。这个计划 2026 年由 532 所普通高等学校承担（全国）",
+      "grade": "A",
+      "sources": "财政部、教育部、中国人民银行、金融监管总局 (2024). 关于调整完善国家助学贷款有关政策的通知（财教〔2024〕188 号）. <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm>；财政部等五部门 (2019). 学生资助资金管理办法（财科教〔2019〕19 号，第五条；入伍资助年限：「入伍前已完成规定的修业年限，即为学费补偿或国家助学贷款代偿的年限；退役复学后接续完成规定的剩余修业年限，即为学费减免的年限」，毕业生「学费补偿或国家助学贷款代偿的年限，分别按照国家规定的相应学制计算」）. <http://www.gov.cn/gongbao/content/2019/content_5421553.htm>；全国人大常委会 (2020). 退役军人保障法（第三十四、三十五条）. <http://www.mod.gov.cn/gfbw/fgwx/flfg/16048597.html>（国防部刊登）；教育部办公厅 (2025). 关于做好 2026 年退役大学生士兵专项硕士研究生招生计划招生工作的通知（教学厅〔2025〕8 号）. <http://www.moe.gov.cn/srcsite/A15/moe_778/s3261/202512/t20251211_1423174.html>；退役军人事务部 (2022). 退役士兵教育培训政策 23 条：「从2022年招生起，高职（专科）毕业生及在校生（含高校新生）应征入伍，退役后完成高职（专科）学业的，申请专升本，免于参加文化课考试」（依据教学厅〔2021〕8 号）. <https://www.mva.gov.cn/sy/xx/bnxx/202201/t20220107_55052.html>；教育部 (2026). 2027 年全国硕士研究生招生工作管理规定（教学〔2026〕2 号，第二十二、二十四、二十五条），研招网刊登. <https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511.html>；教育部 (2024). 2025 年全国硕士研究生招生工作管理规定（教学〔2024〕4 号，第二十二条）. <https://www.gov.cn/zhengce/zhengceku/202410/content_6978684.htm>",
+      "notes": "还有两条通道。一是专升本免考文化课：专科生去当兵，退役后读完专科，可以申请免试专升本，由学校考职业技能后择优录取。这条从 2022 年招生起执行，具体办法看本省当年的通知。二是考研初试加 10 分：退役大学生士兵退役后 3 年内考研，初试总分加 10 分。报了专项计划就不再加分，两样不能一起享受。立过二等功以上的，可以申请免初试读研。招专项计划的学校名单每年变，2025 年是 523 所。学费标准调过两次：2019 年是 8000/12000，2023 年秋改成 16000/20000，2024 年秋改成 20000/25000。退役军人事务部 2022 年的摘要里还是最早那一版，别照抄。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Hai quyền lợi thiết thực nhất khi sinh viên nhập ngũ: hỗ trợ học phí tối đa 20000 nhân dân tệ mỗi năm, bảo lưu tư cách sinh viên hai năm và có chương trình tuyển sau đại học riêng",
+    "fields": {
+      "cost": "Không tốn tiền. Sau xuất ngũ, nộp hồ sơ đề nghị theo yêu cầu nhà trường, đi lại một hoặc hai lượt.",
+      "plain": "Sinh viên đang học, người mới tốt nghiệp và tân sinh viên nhập ngũ được nhà nước trả giúp học phí những năm học, theo số thực đóng: bậc đại học và cao đẳng tối đa 20000 nhân dân tệ mỗi năm, sau đại học tối đa 25000 nhân dân tệ. Nếu học phí vốn thấp, chỉ hỗ trợ bằng số thực đóng. Tư cách sinh viên được bảo lưu hai năm. Tuyển sau đại học còn có chương trình riêng chỉ dành cho sinh viên đã xuất ngũ.",
+      "benefit": "Thông báo năm 2024 của Bộ Tài chính và ba cơ quan khác nêu ba chế độ cho sinh viên đại học thực hiện nghĩa vụ quân sự: hoàn trả học phí, trả thay khoản vay trợ học nhà nước dùng đóng học phí, và miễn giảm học phí. Trả thay nghĩa là nhà nước trả giúp bạn khoản vay trợ học đó. Mức của ba chế độ «được điều chỉnh tương ứng thành tối đa 20000 nhân dân tệ mỗi người mỗi năm đối với sinh viên đại học, cao đẳng và 25000 nhân dân tệ đối với học viên sau đại học». Mức mới áp dụng từ học kỳ thu năm 2024. Muốn biết được hỗ trợ bao nhiêu, xem câu: «Thực hiện theo số cao hơn giữa học phí sinh viên thực đóng và khoản vay trợ học nhà nước đã nhận, gồm gốc và lãi phát sinh trước khi trả hết». Sau đó còn câu «phần vượt mức không được hoàn trả, trả thay hoặc miễn giảm». Vì vậy, số nhận mỗi năm là số nhỏ hơn giữa mức trần và «số cao hơn của học phí thực tế với khoản vay trợ học». Học phí mỗi năm 5000 nhân dân tệ thì hỗ trợ 5000 nhân dân tệ. Số năm hỗ trợ tính theo số năm học, không theo số năm phục vụ. Biện pháp Quản lý kinh phí hỗ trợ sinh viên năm 2019 ghi: «Số năm học theo quy định đã hoàn thành trước khi nhập ngũ là số năm được hoàn trả học phí hoặc trả thay khoản vay trợ học nhà nước; số năm học còn lại theo quy định được hoàn thành sau xuất ngũ trở lại trường là số năm được miễn giảm học phí». Người mới tốt nghiệp nhập ngũ được hỗ trợ học phí của toàn bộ khóa học. Tư cách sinh viên xem Luật Bảo đảm cựu quân nhân: «Quân nhân trước khi nhập ngũ đã trúng tuyển hoặc đang học tại trường đại học thông thường được bảo lưu quyền nhập học hoặc tư cách sinh viên trong thời gian tại ngũ; được nhập học hoặc trở lại trường trong hai năm sau xuất ngũ, có thể chuyển sang chuyên ngành khác cùng trường theo quy định nhà nước». Luật còn ghi: «Theo bố trí chung của nhà nước, các trường đại học có thể tuyển cựu quân nhân bằng kế hoạch riêng, tuyển sinh riêng…». Tuyển sau đại học xem thông báo năm 2026 của Văn phòng Bộ Giáo dục. Chương trình tên là «Kế hoạch dành cho sinh viên đã xuất ngũ». Thông báo ghi: «Giao riêng trong tổng chỉ tiêu tuyển thạc sĩ toàn quốc, sử dụng đúng mục đích, không được chuyển thành chỉ tiêu thông thường hoặc chương trình riêng khác. Cơ sở tuyển sinh tự xác định… yêu cầu điểm thi đầu vào vòng đầu, nói chung không cao hơn yêu cầu đối với thí sinh diện thông thường cùng ngành của đơn vị… Trong điều kiện ngang nhau, ưu tiên thí sinh phục vụ lâu hơn». Giao riêng và sử dụng đúng mục đích nghĩa là chỉ tiêu này được tách riêng, chỉ tuyển sinh viên đã xuất ngũ. Năm 2026 có 532 trường đại học thông thường triển khai chương trình này (toàn quốc).",
+      "grade": "A",
+      "sources": "财政部、教育部、中国人民银行、金融监管总局 (2024). 关于调整完善国家助学贷款有关政策的通知（财教〔2024〕188 号）. <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm>；财政部等五部门 (2019). 学生资助资金管理办法（财科教〔2019〕19 号，第五条；入伍资助年限：「入伍前已完成规定的修业年限，即为学费补偿或国家助学贷款代偿的年限；退役复学后接续完成规定的剩余修业年限，即为学费减免的年限」，毕业生「学费补偿或国家助学贷款代偿的年限，分别按照国家规定的相应学制计算」）. <http://www.gov.cn/gongbao/content/2019/content_5421553.htm>；全国人大常委会 (2020). 退役军人保障法（第三十四、三十五条）. <http://www.mod.gov.cn/gfbw/fgwx/flfg/16048597.html>（国防部刊登）；教育部办公厅 (2025). 关于做好 2026 年退役大学生士兵专项硕士研究生招生计划招生工作的通知（教学厅〔2025〕8 号）. <http://www.moe.gov.cn/srcsite/A15/moe_778/s3261/202512/t20251211_1423174.html>；退役军人事务部 (2022). 退役士兵教育培训政策 23 条：「从2022年招生起，高职（专科）毕业生及在校生（含高校新生）应征入伍，退役后完成高职（专科）学业的，申请专升本，免于参加文化课考试」（依据教学厅〔2021〕8 号）. <https://www.mva.gov.cn/sy/xx/bnxx/202201/t20220107_55052.html>；教育部 (2026). 2027 年全国硕士研究生招生工作管理规定（教学〔2026〕2 号，第二十二、二十四、二十五条），研招网刊登. <https://yz.chsi.com.cn/kyzx/jybzc/202609/20260924/2293971511.html>；教育部 (2024). 2025 年全国硕士研究生招生工作管理规定（教学〔2024〕4 号，第二十二条）. <https://www.gov.cn/zhengce/zhengceku/202410/content_6978684.htm>",
+      "notes": "Còn hai lối khác. Một là liên thông cao đẳng lên đại học được miễn thi môn văn hóa: sinh viên cao đẳng nhập ngũ, sau xuất ngũ học xong cao đẳng có thể xin liên thông miễn thi; trường kiểm tra kỹ năng nghề rồi chọn người đạt tốt. Chính sách áp dụng từ đợt tuyển năm 2022; cách làm cụ thể xem thông báo năm đó của tỉnh mình. Hai là cộng 10 điểm vòng thi đầu tuyển sau đại học: sinh viên đã xuất ngũ dự thi trong 3 năm sau xuất ngũ được cộng 10 điểm tổng vòng đầu. Đã đăng ký chương trình riêng thì không được cộng điểm nữa, không hưởng cả hai. Người được khen thưởng công trạng hạng hai trở lên có thể xin học sau đại học miễn vòng thi đầu. Danh sách trường tuyển theo chương trình riêng thay đổi từng năm; năm 2025 là 523 trường. Mức hỗ trợ học phí đã đổi hai lần: năm 2019 là 8000/12000, mùa thu 2023 thành 16000/20000, mùa thu 2024 thành 20000/25000. Bản tóm tắt năm 2022 của Bộ Cựu chiến binh vẫn là mức ban đầu, đừng chép theo."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

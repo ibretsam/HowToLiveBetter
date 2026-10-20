@@ -1,0 +1,48 @@
+{
+  "id": "e-2-32",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "f184c4a0b6d1dfd057414424fb60f5eb44aca6b04896d8d23e6838f45929a4e7",
+  "status": "outdated",
+  "original": {
+    "number": 32,
+    "title": "把 BMI 控制在 20–25，超重就减",
+    "fields": {
+      "cost": "不花钱。饮食加运动每天都要占时间。这是全节最费毅力的一条：要长期管住嘴、迈开腿，减下来之后维持比减更难。",
+      "plain": "死亡的概率在 BMI 20–25 这一段最低。BMI 到 27.5–30 高约两成，30–35 高约四成半，35–40 接近翻倍。东亚人 BMI 在 25 以上的，每高 5，风险高约四成。",
+      "benefit": "把 239 项往后跟踪的研究的个人数据合起来算（只记录、不分组）。这份分析只留了三类人：从不吸烟的、入组时没有慢性病的、入组后又活过 5 年的。结果：死亡风险在 BMI 20–25 最低。BMI 25–27.5 高约 7%（HR 1.07）。27.5–30 高约 20%（HR 1.20）。30–35 高约 45%（HR 1.45）。35–40 高约 94%（HR 1.94）。40–60 是 2.76 倍（HR 2.76）。BMI 25 以上的人每高 5 kg/m²，东亚人群的风险高约 39%（HR 1.39）。",
+      "grade": "A",
+      "sources": "Global BMI Mortality Collaboration (2016). Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies in four continents. Lancet. <https://doi.org/10.1016/S0140-6736(16)30175-1>；Flegal KM 等 (2013). Association of all-cause mortality with overweight and obesity using standard body mass index categories: a systematic review and meta-analysis. JAMA. <https://doi.org/10.1001/jama.2012.113905>（争议方）",
+      "notes": "争议。有一方认为「胖一点反而活得久」。他们汇总后得到：超重的人死亡风险低约 6%，轻度肥胖的低约 5%。双方分歧主要在要不要把三类数据剔掉：抽烟的人、已经得病的人、刚入组头几年的数据。之所以要剔，是因为重病的人会先瘦下来。那项汇总 239 项研究的分析把这三类剔掉之后，超重带来的风险又出现了。另外还要注意，没有随机试验证明减重本身能降低总死亡率。上面的收益是拿不同胖瘦的人横着比出来的，不代表减掉就能降这么多。要减重的人不必在吃饭时间上下功夫，早餐和 16:8 轻断食都没有额外好处，见第 6 节第 26 条（不要指望吃早餐或 16:8 帮你控制体重）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 32,
+    "title": "Giữ BMI trong khoảng 20–25; thừa cân thì giảm",
+    "fields": {
+      "cost": "Không tốn tiền. Điều chỉnh ăn uống và vận động đều chiếm thời gian mỗi ngày. Đây là mục đòi hỏi ý chí nhiều nhất chương: phải kiểm soát ăn, vận động lâu dài; giữ cân sau giảm còn khó hơn giảm.",
+      "plain": "Xác suất tử vong thấp nhất ở khoảng BMI 20–25. BMI 27.5–30 liên quan nguy cơ cao hơn khoảng hai phần mười; 30–35 cao hơn khoảng bốn mươi lăm phần trăm; 35–40 gần gấp đôi. Người Đông Á nhạy hơn với thừa cân: BMI mỗi tăng 5, nguy cơ cao hơn khoảng bốn phần mười.",
+      "benefit": "Phân tích gộp dữ liệu cá nhân từ 239 nghiên cứu tiến cứu, chỉ theo dõi và không phân nhóm. Phân tích chỉ giữ người đáp ứng ba điều kiện: chưa từng hút thuốc, chưa có bệnh mạn khi vào nghiên cứu, và sống thêm được 5 năm sau đó. Nguy cơ tử vong thấp nhất ở BMI 20–25. BMI 25–27.5 cao hơn khoảng 7% (HR 1.07); 27.5–30 cao hơn khoảng 20% (HR 1.20); 30–35 cao hơn khoảng 45% (HR 1.45); 35–40 cao hơn khoảng 94% (HR 1.94); 40–60 bằng 2.76 lần (HR 2.76). Với người có BMI từ 25 trở lên, mỗi tăng 5 kg/m², nguy cơ ở người Đông Á cao hơn khoảng 39% (HR 1.39).",
+      "grade": "A",
+      "sources": "Global BMI Mortality Collaboration (2016). Body-mass index and all-cause mortality: individual-participant-data meta-analysis of 239 prospective studies in four continents. Lancet. <https://doi.org/10.1016/S0140-6736(16)30175-1>；Flegal KM 等 (2013). Association of all-cause mortality with overweight and obesity using standard body mass index categories: a systematic review and meta-analysis. JAMA. <https://doi.org/10.1001/jama.2012.113905>（争议方）",
+      "notes": "Tranh luận. Có phía cho rằng “hơi béo lại sống lâu hơn”, với phân tích gộp thấy người thừa cân có nguy cơ tử vong thấp hơn khoảng 6%, béo phì nhẹ thấp hơn khoảng 5%. Bất đồng chính là có nên loại bỏ ba loại dữ liệu hay không: người hút thuốc, người đã bệnh, những năm đầu sau vào nghiên cứu. Lý do loại là bệnh nặng có thể khiến người ta gầy đi trước. Khi phân tích 239 nghiên cứu loại bỏ ba loại này, nguy cơ do thừa cân lại xuất hiện. Cũng cần nhớ chưa có thử nghiệm ngẫu nhiên chứng minh bản thân giảm cân làm giảm tử vong chung. Lợi ích trên được tính bằng so người có mức cân khác nhau, không nghĩa giảm cân sẽ giảm đúng chừng ấy. Người muốn giảm không cần dồn công vào giờ ăn: ăn sáng và nhịn 16:8 không có lợi thêm; xem chương 6 mục 26 (đừng trông chờ ăn sáng hoặc 16:8 giúp kiểm soát cân nặng)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

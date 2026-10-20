@@ -1,0 +1,15 @@
+{
+  "id": "e-13-27",
+  "source_sha256": "d68fb4f1c8947a381a455de0989d543e653a886b0fe4ca4ec13d0dbcec3614bb",
+  "draft_sha256": "ed433550647b5a6244d4c79381d1e88c543e4a7157d9fb3d25316afa904830da",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed water units, US gallons/liters, notification sequence, satellite communication, signals and prohibition on withholding drinking. Preserved source tension between staying beside vehicle and movement after nightfall; did not invent a reconciliation."
+}

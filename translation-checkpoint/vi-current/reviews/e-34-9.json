@@ -1,0 +1,15 @@
+{
+  "id": "e-34-9",
+  "source_sha256": "76519a8718a0556aeb5d9cd9cf96dd5de73254ae320e1abf3732a2f038a77bb0",
+  "draft_sha256": "4ca8df918f292f8dad0cfdd030f4f1fb37aae286c3db4066ae4196aa06ab67f2",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ nguyên bất nhất của nguồn: tiêu đề nói không quá 15/10 ngày nhưng phần chẩn đoán dùng từ 15/10 ngày trở lên. Không tự sửa ngưỡng. Đã đối chiếu điều kiện có bệnh đau đầu từ trước, kéo dài hơn 3 tháng và cộng số ngày khi đổi giữa nhiều thuốc không opioid."
+}

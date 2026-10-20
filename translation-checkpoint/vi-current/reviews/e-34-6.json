@@ -1,0 +1,15 @@
+{
+  "id": "e-34-6",
+  "source_sha256": "8eb22ff811d6d931b16092232f43a5862fd9cc641f5f4fef03aa690eb18e6d0a",
+  "draft_sha256": "9c87c43210ad0a3f0f78a24d193be4835ed814d52ccb4032a6d39c3b6320d587",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu giới hạn tự dùng tối đa 7 ngày, không dùng lại trong hai tháng, các dấu hiệu báo động và ngưỡng từ 55 tuổi. Giữ nguyên câu trích dẫn tiếng Anh cùng CYP2C19, và ý tương tác với clopidogrel vẫn có khi cách nhau 12 giờ."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "e-30-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "f21246c8b1d0bebe7723b92c68549885ddcc4acea7592ef93b1840be91433dec",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "每年那次学生体检的报告单要自己看一遍，异常项当年带去医院查",
+    "fields": {
+      "cost": "不花钱。义务教育阶段的体检费由学校公用经费出，家长不用另掏。",
+      "plain": "中小学校每年组织一次学生体检。报告单上要重点看的是超重、肥胖、营养不良、脊柱弯曲异常、视力不良、龋齿。别只看一眼身高体重就收起单子。这几项有异常，当年就带孩子去专科查清楚。",
+      "benefit": "《中小学生健康体检管理办法（2021 年版）》规定，中小学校每年组织 1 次在校学生健康体检。外科检查包括头部、颈部、胸部、脊柱、四肢、皮肤、淋巴结。眼科检查包括眼外观、远视力、屈光度（近视远视的度数）。发给个人的报告单应包括查出来的结果、总的评价和健康指导建议。其中超重、肥胖、营养不良、脊柱弯曲异常、视力不良、龋齿（蛀牙）须作为指导重点。教育行政部门应当对出现健康问题的学生建立档案并随访（记下来、之后再跟进）。义务教育阶段学生健康体检费用由学校公用经费开支，家长不另掏（全国，2021 年 9 月印发）",
+      "grade": "B",
+      "sources": "国家卫生健康委、教育部 (2021). 中小学生健康体检管理办法（2021 年版）（国卫医发〔2021〕29 号）. <https://www.gov.cn/zhengce/zhengceku/2021-10/21/content_5644100.htm>",
+      "notes": "给 B 是因为这是一份规定学校怎么做的文件，不是效果研究。它保证的是「每年查、查这几项、发现异常要跟进」，不保证查出来就有人管。体检只是先筛一遍，不是确诊。视力不良要去眼科做散瞳验光（第 12 条）。脊柱弯曲异常要去骨科或脊柱外科（第 2 条，别为了等考完推迟治疗）。这两步都得家长自己带孩子去。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Tự đọc báo cáo khám sức khỏe học sinh mỗi năm, đưa trẻ khám bệnh viện trong năm đó nếu có bất thường",
+    "fields": {
+      "cost": "Không tốn tiền. Khám sức khỏe bậc giáo dục bắt buộc do kinh phí công của trường chi, cha mẹ không trả thêm.",
+      "plain": "Trường phổ thông tổ chức khám mỗi năm. Trọng tâm báo cáo là thừa cân, béo phì, suy dinh dưỡng, cong cột sống bất thường, thị lực kém, sâu răng; các mục dễ bị bỏ qua nhất. Đừng chỉ nhìn chiều cao cân nặng rồi cất. Có bất thường thì đưa trẻ đến chuyên khoa làm rõ ngay trong năm.",
+      "benefit": "«Biện pháp quản lý khám sức khỏe học sinh phổ thông (bản 2021)» yêu cầu mỗi năm trường tổ chức 1 lần khám. Ngoại khoa gồm đầu, cổ, ngực, cột sống, tay chân, da, hạch. Mắt gồm hình thái ngoài, thị lực xa, khúc xạ (độ cận, viễn). Báo cáo cá nhân phải có kết quả, đánh giá tổng thể, hướng dẫn sức khỏe; trọng tâm là thừa cân, béo phì, suy dinh dưỡng, cong cột sống bất thường, thị lực kém, sâu răng. Cơ quan giáo dục phải lập hồ sơ và theo dõi học sinh có vấn đề (ghi lại, tiếp tục kiểm tra). Phí khám bậc bắt buộc do kinh phí công trường chi, phụ huynh không trả thêm (toàn quốc, ban hành tháng 9 năm 2021)",
+      "grade": "B",
+      "sources": "国家卫生健康委、教育部 (2021). 中小学生健康体检管理办法（2021 年版）（国卫医发〔2021〕29 号）. <https://www.gov.cn/zhengce/zhengceku/2021-10/21/content_5644100.htm>",
+      "notes": "Xếp B vì đây là văn bản quy định trường làm gì, không phải nghiên cứu hiệu quả. Nó bảo đảm «khám hằng năm, khám các mục, bất thường cần theo dõi», không bảo đảm phát hiện rồi sẽ có người lo. Khám sức khỏe chỉ sàng lọc, không chẩn đoán xác định. Thị lực kém cần khoa mắt đo sau liệt điều tiết (mục 12). Cột sống cong bất thường cần chỉnh hình hoặc ngoại cột sống (mục 2, đừng chờ thi xong mới điều trị). Cả hai bước phụ huynh phải tự đưa con đi."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

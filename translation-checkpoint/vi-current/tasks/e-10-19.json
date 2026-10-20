@@ -1,0 +1,48 @@
+{
+  "id": "e-10-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "f89f796f51d508d67c29c1f661517fe08afcf26973003cfd13abc3711cc9fd6d",
+  "status": "outdated",
+  "original": {
+    "number": 19,
+    "title": "别靠隐瞒性取向结婚，也别把形婚当成省事的办法：法律上它就是一段真婚姻，想退出只能走离婚",
+    "fields": {
+      "cost": "不花钱。难的是顶住家里催婚的压力，这可能要扛很多年。",
+      "plain": "隐瞒性取向结婚，法律上不算无效，也不能撤销，想退出只能离婚。形婚也是真婚姻，婚后挣的钱按夫妻共同财产算，两人一起签的债、为家里日常开销借的债也算两个人的。被瞒的一方离婚时，可以要求多分财产、赔精神损失，但法院支不支持还没有定论。",
+      "benefit": "民法典第一千零五十一条规定，婚姻无效只有三种情形：重婚、有禁止结婚的亲属关系、未到法定婚龄。第一千零五十二、一千零五十三条规定，能撤销的只有两种：被胁迫结婚，婚前隐瞒重大疾病。婚姻家庭编解释（一）第十七条规定，拿这三种以外的理由请求确认婚姻无效，法院判决驳回。所以想退出只能离婚。形婚登记了也是合法婚姻。第一千零六十二条规定，婚后的工资、奖金、劳务报酬等是夫妻共同财产。第一千零六十四条规定，两人共同签字借的债、一方为家庭日常生活借的债，是夫妻共同债务。离婚损害赔偿看第一千零九十一条。能要赔偿的情形限于重婚、与他人同居、家庭暴力、虐待遗弃家庭成员，以及「有其他重大过错」。解释（一）第二条把「与他人同居」限定为和「婚外异性」同居。所以同性关系只能按「其他重大过错」去争。赔偿包括精神损害赔偿，被瞒的一方起诉离婚时要一并提出，判不离就不支持。民法典施行后，没有查到法院公开的这类判决。旧法时期，江苏省高级人民法院网站 2013 年刊登的一篇文章，讨论了妻子因丈夫隐瞒同性恋起诉离婚的案子。文章列了两种看法。一种认为同性恋不在当时法定的过错里，多分财产和精神赔偿都不该支持。作者赞同另一种：把被瞒的一方当作「无过错方」，分财产时照顾她，还应赔精神抚慰金（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第一千零五十一至一千零五十四、一千零六十二、一千零六十四、一千零七十九、一千零八十七、一千零九十一条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>（国家法律法规数据库）；最高人民法院 (2020). 关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（法释〔2020〕22 号，第二、十七、八十六至九十条）. <https://flk.npc.gov.cn/detail?id=ff80808177e75f880178006736f21aaf>；朱来宽、王洪娟 (2013). 因同性恋导致离婚能否主张损害赔偿？江苏法院网. <http://www.jsfy.gov.cn/article/26621.html>",
+      "notes": "多分财产和精神赔偿只有一篇分析文章，没写案子最后怎么判，所以能不能拿到要看具体法院。民法典比旧法多了「其他重大过错」这一项，给了被瞒的一方一个可以争的口子。法律条文本身是 A 级。形婚双方各有同性伴侣的，伴侣之间不受婚姻法保护，财产要另外写清楚，见本节第 18 条（同性伴侣办意定监护和遗嘱）。形婚离婚一样要走 30 天冷静期或者打官司，见本节第 15 条（协议离婚有 30 天冷静期）。协议离婚时写明放弃赔偿的，事后再起诉不会支持。受益人首先是会被瞒的那个配偶，其次是你自己：隐瞒被发现后，离婚、分财产、孩子抚养会一起摊上。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 19,
+    "title": "Đừng giấu xu hướng tính dục để cưới, đừng coi hôn nhân hình thức là dễ: pháp lý là hôn nhân thật, muốn ra chỉ có ly hôn",
+    "fields": {
+      "cost": "Không tốn tiền. Khó ở chịu áp lực gia đình giục cưới, có thể nhiều năm.",
+      "plain": "Giấu xu hướng tính dục để kết hôn thì theo luật không làm hôn nhân vô hiệu, cũng không thể yêu cầu hủy, muốn thoát ra chỉ có cách ly hôn. Hôn nhân hình thức cũng là hôn nhân thật, tiền kiếm được và nợ phát sinh sau khi cưới đều tính là của vợ chồng. Bên bị giấu khi ly hôn có thể yêu cầu được chia nhiều tài sản hơn, bồi thường tổn thất tinh thần, nhưng tòa án có chấp nhận hay không thì hiện vẫn chưa có kết luận.",
+      "benefit": "Điều một nghìn không trăm năm mươi mốt Bộ luật Dân sự chỉ cho ba lý do vô hiệu: trùng hôn, quan hệ họ hàng bị cấm cưới, chưa đủ tuổi. Điều một nghìn không trăm năm mươi hai và năm mươi ba chỉ cho hủy hai trường hợp: bị ép cưới, giấu bệnh nghiêm trọng trước cưới. Điều mười bảy Giải thích (I) phần hôn nhân gia đình yêu cầu bác đề nghị vô hiệu vì lý do ngoài ba nhóm. Vì vậy muốn ra chỉ ly hôn. Hôn nhân hình thức đã đăng ký vẫn hợp pháp. Điều một nghìn không trăm sáu mươi hai: lương, thưởng, thù lao sau cưới là chung. Điều một nghìn không trăm sáu mươi tư: nợ cùng ký, nợ một bên vay cho sinh hoạt thường ngày là chung. Bồi thường ly hôn theo Điều một nghìn không trăm chín mươi mốt, giới hạn trùng hôn, sống chung người khác, bạo lực, ngược đãi bỏ rơi gia đình và “lỗi nghiêm trọng khác”. Điều hai Giải thích (I) giới hạn “sống chung người khác” là “người khác giới ngoài hôn nhân”, nên quan hệ đồng giới chỉ có thể tranh luận theo lỗi nghiêm trọng khác. Bồi thường gồm tinh thần; bên bị giấu phải yêu cầu cùng lúc kiện ly, không cho ly thì không chấp nhận. Sau Bộ luật Dân sự chưa tìm được bản án loại này tòa công khai. Thời luật cũ, bài website Tòa án cấp cao Giang Tô năm 2013 bàn vụ vợ kiện vì chồng giấu đồng tính, nêu hai quan điểm: một cho rằng đồng tính ngoài lỗi luật định khi đó, không nên cho chia thêm tài sản hay tinh thần; tác giả ủng hộ quan điểm còn lại, coi bên bị giấu “không lỗi”, ưu tiên khi chia và trả bù tinh thần (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第一千零五十一至一千零五十四、一千零六十二、一千零六十四、一千零七十九、一千零八十七、一千零九十一条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>（国家法律法规数据库）；最高人民法院 (2020). 关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（法释〔2020〕22 号，第二、十七、八十六至九十条）. <https://flk.npc.gov.cn/detail?id=ff80808177e75f880178006736f21aaf>；朱来宽、王洪娟 (2013). 因同性恋导致离婚能否主张损害赔偿？江苏法院网. <http://www.jsfy.gov.cn/article/26621.html>",
+      "notes": "Chia thêm và bồi thường tinh thần chỉ có một bài phân tích, không ghi án cuối, nên được không tùy tòa. Bộ luật Dân sự thêm “lỗi nghiêm trọng khác” so luật cũ, cho bên bị giấu căn cứ tranh luận. Bản thân điều luật mức A. Hai bên hôn nhân hình thức mỗi người có bạn đời đồng giới thì quan hệ bạn đời không được luật hôn nhân bảo vệ, tài sản phải viết riêng, xem mục 18 (cặp đồng giới làm giám hộ, di chúc). Ly hôn hình thức vẫn 30 ngày suy nghĩ hoặc kiện, xem mục 15 (thuận tình có 30 ngày). Thỏa thuận ly hôn đã ghi bỏ bồi thường thì kiện sau không được ủng hộ. Người hưởng lợi trước là phối ngẫu bị giấu, sau là bạn: bị phát hiện sẽ cùng phải giải quyết ly hôn, chia tài sản, nuôi con."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

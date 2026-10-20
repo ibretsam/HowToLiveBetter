@@ -1,0 +1,49 @@
+{
+  "id": "e-30-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "668b3afe875f3228e83552134392673da8bcbcc8430f86bc196fda9757803812",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "把近视当成会留下的损伤：度数越深，将来视网膜脱离、黄斑病变、青光眼越多",
+    "fields": {
+      "cost": "不花钱。本身不用做什么，要做的事在第 4、5 条（户外 2 小时、分龄管屏幕）。",
+      "plain": "近视不会自己好，度数也降不回去。它也不只是「戴个眼镜」的事。和不近视的人比，得近视性黄斑病变的可能，轻度近视高十几倍，600 度以上高几百倍。视网膜脱离，轻度高约 3 倍，600 度以上高约 13 倍。所以孩子近视度数涨得越深，将来要担的风险越大。",
+      "benefit": "一项系统综述与荟萃分析汇总了 2019 年 6 月之前的研究，按度数分三档：轻度（−0.5 到 −3.00 D）、中度（−3.00 到 −6.00 D）、高度（≤−6.00 D，600 度以上）。和不近视的人相比，近视性黄斑变性的比值比依次是 13.57（95% CI 6.18 到 29.79）、72.74（33.18 到 159.48）、845.08（230.05 到 3104.34）。视网膜脱离依次是 3.15（1.92 到 5.17）、8.74（7.28 到 10.50）、12.62（6.65 到 23.94）。后囊下白内障依次是 1.56（1.32 到 1.84）、2.55（1.98 到 3.28）、4.55（2.66 到 7.75）。开角型青光眼，轻度是 1.59（1.33 到 1.91），中度和高度合起来是 2.92（1.89 到 4.52）。60 岁以上出现视力损害的比值比，三档依次是 1.71（1.07 到 2.74）、5.54（3.12 到 9.85）、87.63（34.50 到 222.58）。《防控儿童青少年近视核心知识十条》的说法一致：600 度以上为高度近视，这类人群里白内障、开角型青光眼、近视性黄斑病变、视网膜脱离、近视性视神经病变等致盲性眼病的发病率明显高于其他人群，而且「近视可防可控不可逆」",
+      "grade": "A",
+      "sources": "Haarman AEG, Enthoven CA, Tideman JWL, Tedja MS, Verhoeven VJM, Klaver CCW (2020). The complications of myopia: a review and meta-analysis. Investigative Ophthalmology & Visual Science, 61(4), 49. <https://doi.org/10.1167/iovs.61.4.49> ; 国家卫生健康委办公厅 (2023). 防控儿童青少年近视核心知识十条（国卫办妇幼函〔2023〕278 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6894284.htm>",
+      "notes": "汇总进去的都是观察性研究，比值比也大得不寻常。高度近视对黄斑变性那一项的可信范围从 230 到 3104，说明底下各项研究差别很大。数字只能看量级，不能当精确值用。收益栏里视力损害那组数字，算的是 60 岁以上的人。作者由此推断，这些后果多半要到中老年才显出来。近视不是配副眼镜就完了，值得花力气推迟它、控制它。确诊之后怎么复查见第 12 条（散瞳验光）。别买号称能治好的产品，见第 9 条（治愈近视）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Coi cận thị là tổn thương còn lại: độ càng cao, về sau càng nhiều bong võng mạc, bệnh hoàng điểm, tăng nhãn áp",
+    "fields": {
+      "cost": "Không tốn tiền. Bản thân mục này không cần hành động riêng; việc làm ở mục 4, 5 (ngoài trời 2 giờ, quản lý màn hình theo tuổi).",
+      "plain": "Cận không tự khỏi, độ cũng không giảm trở lại. Không chỉ là «đeo kính». So với không cận, khả năng bệnh hoàng điểm do cận ở cận nhẹ cao hơn mười mấy lần, từ 600 độ trở lên theo cách ghi của Trung Quốc cao hàng trăm lần. Bong võng mạc: cận nhẹ cao khoảng 3 lần, từ 600 độ trở lên cao khoảng 13 lần. Vì vậy trẻ cận càng sớm, tăng càng nhanh thì nguy cơ về sau càng lớn.",
+      "benefit": "Tổng quan hệ thống và phân tích gộp các nghiên cứu trước tháng 6 năm 2019 chia ba nhóm: nhẹ (−0.5 đến −3.00 D), vừa (−3.00 đến −6.00 D), nặng (≤−6.00 D, từ 600 độ trở lên theo cách ghi Trung Quốc). So với không cận, odds ratio thoái hóa hoàng điểm do cận lần lượt 13.57 (95% CI 6.18 đến 29.79), 72.74 (33.18 đến 159.48), 845.08 (230.05 đến 3104.34). Bong võng mạc: 3.15 (1.92 đến 5.17), 8.74 (7.28 đến 10.50), 12.62 (6.65 đến 23.94). Đục thủy tinh thể dưới bao sau: 1.56 (1.32 đến 1.84), 2.55 (1.98 đến 3.28), 4.55 (2.66 đến 7.75). Tăng nhãn áp góc mở: cận nhẹ 1.59 (1.33 đến 1.91), vừa và nặng gộp 2.92 (1.89 đến 4.52). Odds ratio suy giảm thị lực ở người từ 60 tuổi trở lên: 1.71 (1.07 đến 2.74), 5.54 (3.12 đến 9.85), 87.63 (34.50 đến 222.58). «Mười kiến thức cốt lõi phòng kiểm soát cận thị trẻ, thanh thiếu niên» nói nhất quán: từ 600 độ trở lên là cận nặng, tỷ lệ bệnh gây mù như đục thủy tinh thể, tăng nhãn áp góc mở, bệnh hoàng điểm, bong võng mạc, bệnh thần kinh thị giác do cận cao rõ hơn nhóm khác; «cận thị có thể phòng, kiểm soát, nhưng không đảo ngược»",
+      "grade": "A",
+      "sources": "Haarman AEG, Enthoven CA, Tideman JWL, Tedja MS, Verhoeven VJM, Klaver CCW (2020). The complications of myopia: a review and meta-analysis. Investigative Ophthalmology & Visual Science, 61(4), 49. <https://doi.org/10.1167/iovs.61.4.49> ; 国家卫生健康委办公厅 (2023). 防控儿童青少年近视核心知识十条（国卫办妇幼函〔2023〕278 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6894284.htm>",
+      "notes": "Các nghiên cứu gộp đều quan sát, odds ratio lớn bất thường. Khoảng tin cậy cận nặng với thoái hóa hoàng điểm từ 230 đến 3104 cho thấy nghiên cứu rất khác nhau; chỉ xem độ lớn, không dùng như số chính xác. Đa số biến chứng đến trung niên, cao tuổi mới lộ. Bản thân cận không phải khuyết tật, đại đa số đeo kính chỉnh được thị lực bình thường. Nhưng không phải cắt kính là xong, đáng công trì hoãn và kiểm soát. Tái khám sau chẩn đoán xem mục 12 (đo sau liệt điều tiết). Đừng mua sản phẩm nói chữa khỏi, xem mục 9 (chữa cận thị)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

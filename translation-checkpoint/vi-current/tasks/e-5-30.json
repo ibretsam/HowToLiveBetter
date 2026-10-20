@@ -1,0 +1,48 @@
+{
+  "id": "e-5-30",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "1c929158426f783fd8d041e5fb246482894f78b9f594e66fc53d3d9fc1b08645",
+  "status": "draft",
+  "original": {
+    "number": 30,
+    "title": "直播间买的东西出了问题，先向平台要卖家和带货人的信息，平台必须给",
+    "fields": {
+      "cost": "不花钱。向平台提出要求就行。",
+      "plain": "直播间买东西出了问题，最常见的死结是你找不到该告谁。这时候你可以直接要求平台，提供直播间运营者和带货人的信息，以及相关的经营记录。平台必须给。",
+      "benefit": "发生消费争议的时候，直播营销平台的经营者应当按照消费者的要求，提供直播间运营者、直播营销人员的相关信息，以及相关的经营活动记录。直播维权最常见的难处是找不到该告谁，拿到这些信息就知道该告谁了",
+      "grade": "A",
+      "sources": "国务院 (2024). 中华人民共和国消费者权益保护法实施条例（国务院令第 778 号，2024 年 7 月 1 日施行）. <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>：「经营者通过网络直播等方式提供商品或者服务的，应当依法履行消费者权益保护相关义务。直播营销平台经营者应当建立健全消费者权益保护制度，明确消费争议解决机制。发生消费争议的，直播营销平台经营者应当根据消费者的要求提供直播间运营者、直播营销人员相关信息以及相关经营活动记录等必要信息。」「直播间运营者、直播营销人员发布的直播内容构成商业广告的，应当依照《中华人民共和国广告法》的有关规定履行广告发布者、广告经营者或者广告代言人的义务。」",
+      "notes": "下单之前把直播画面和主播的承诺录屏留下来。出了问题先向平台要卖家和带货人的信息，再决定是投诉还是起诉。同一个条例还规定了三件事。一是商家不得自己扩大「不适用七日无理由退货」的商品范围。二是不得把「不适用无理由退货」设成默认选项。三是没有经过你确认，不得拒绝你退货。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 30,
+    "title": "Hàng mua qua livestream có vấn đề: trước hết yêu cầu nền tảng cung cấp thông tin người bán và người giới thiệu, nền tảng bắt buộc phải cấp",
+    "fields": {
+      "cost": "Không tốn tiền. Chỉ cần đưa yêu cầu cho nền tảng.",
+      "plain": "Hàng mua qua livestream gặp vấn đề, bế tắc thường gặp nhất là không biết phải kiện ai. Khi đó bạn có thể yêu cầu trực tiếp nền tảng cung cấp thông tin người vận hành phòng livestream, người giới thiệu bán hàng và hồ sơ hoạt động kinh doanh liên quan. Nền tảng bắt buộc phải cấp.",
+      "benefit": "Khi có tranh chấp tiêu dùng, đơn vị vận hành nền tảng tiếp thị livestream phải theo yêu cầu người tiêu dùng cung cấp thông tin liên quan về người vận hành phòng livestream, nhân sự tiếp thị và hồ sơ hoạt động kinh doanh. Khó khăn phổ biến nhất là không biết kiện ai; có thông tin này sẽ biết.",
+      "grade": "A",
+      "sources": "国务院 (2024). 中华人民共和国消费者权益保护法实施条例（国务院令第 778 号，2024 年 7 月 1 日施行）. <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>：「经营者通过网络直播等方式提供商品或者服务的，应当依法履行消费者权益保护相关义务。直播营销平台经营者应当建立健全消费者权益保护制度，明确消费争议解决机制。发生消费争议的，直播营销平台经营者应当根据消费者的要求提供直播间运营者、直播营销人员相关信息以及相关经营活动记录等必要信息。」「直播间运营者、直播营销人员发布的直播内容构成商业广告的，应当依照《中华人民共和国广告法》的有关规定履行广告发布者、广告经营者或者广告代言人的义务。」",
+      "notes": "Trước đặt hàng hãy quay màn hình livestream và lời hứa của người bán. Có vấn đề thì trước tiên xin thông tin người bán, người giới thiệu từ nền tảng rồi quyết định khiếu nại hay kiện. Cùng quy định còn nêu ba điều: bên bán không được tự mở rộng danh mục “không áp dụng trả hàng bảy ngày không cần lý do”; không được đặt “không áp dụng trả không cần lý do” làm lựa chọn mặc định; chưa được bạn xác nhận thì không được từ chối trả hàng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "intro-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "ad660744e3218bb82fc82f0b7a6e5604777a3b6a0354c0267201b924f954e51f",
+  "original": {
+    "title": "不要浪费时间",
+    "intro": "本节只算时间账。看的是每天、每周、每年能省回多少小时，或者一件事按时做完的比例能提高多少。这里不把时间换算成寿命，也不换算成钱。涉及钱的地方只给算法，不给结论。本节多数条目的证据是单独一项研究，或者是时间利用调查的总量统计，所以等级以 B、C 为主。"
+  },
+  "previous_translation": {
+    "title": "Đừng lãng phí thời gian",
+    "intro": "Chương này chỉ tính thời gian: mỗi ngày, tuần hay năm tiết kiệm được bao nhiêu giờ, hoặc tỷ lệ hoàn thành đúng hạn tăng bao nhiêu. Không quy đổi thời gian thành tuổi thọ hay tiền. Khi liên quan tiền, sách chỉ đưa cách tính, không đưa kết luận. Phần lớn bằng chứng ở đây là một nghiên cứu riêng lẻ hoặc thống kê tổng thời gian sử dụng, nên chủ yếu thuộc mức B, C."
+  }
+}

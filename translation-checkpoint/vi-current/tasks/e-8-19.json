@@ -1,0 +1,48 @@
+{
+  "id": "e-8-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "a2182c7103eeea2e431b32912cbb3d0151a895ccc8348ceb257c57c27efe8a98",
+  "status": "outdated",
+  "original": {
+    "number": 19,
+    "title": "维权有期限：民事诉讼时效 3 年，劳动仲裁 1 年，过了对方一句「超过时效」就够",
+    "fields": {
+      "cost": "不花钱。催款别只在心里催，用微信、短信、邮件或者挂号信留下痕迹。",
+      "plain": "民事诉讼时效 3 年，从你知道权利受损那天算起。过了期，法院不会主动管，可对方在法庭上说一句「超过时效」就够了，钱还在，只是要不回来。而一条留了痕迹的催款消息，就能让这 3 年从头重算。劳动争议是另一套，仲裁时效 1 年。",
+      "benefit": "民法典规定「向人民法院请求保护民事权利的诉讼时效期间为三年」。起算点是「权利人知道或者应当知道权利受到损害以及义务人之日起计算」，从你知道自己吃了亏、又知道该找谁的那天起算。最长不超过自权利受到损害之日起 20 年。期间届满的，「义务人可以提出不履行义务的抗辩」。法院不会自己去翻时效，但对方在法庭上一提就有效，钱还在，只是要不回来了。有四种事情会让时效中断，一中断就从头重新计算 3 年。一是你向欠你的人提出要他履行。二是对方答应履行。三是你去起诉或者申请仲裁。四是和这些效力相同的其他情形。约定分期还的，从最后一期到期那天起算。有四类要求不受时效限制。一是要求停止侵害、排除妨碍、消除危险。二是要回自己的不动产和已经登记的动产。三是抚养费、赡养费、扶养费。四是法律规定的其他情形。劳动争议是另一套：仲裁时效 1 年，从知道或者应当知道权利被侵害之日起算。但「劳动关系存续期间因拖欠劳动报酬发生争议的，劳动者申请仲裁不受本条第一款规定的仲裁时效期间的限制；但是，劳动关系终止的，应当自劳动关系终止之日起一年内提出」（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第一百八十八、一百八十九、一百九十二、一百九十三、一百九十五、一百九十六、一百九十七条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2007). 劳动争议调解仲裁法（第二十七条）. <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载）",
+      "notes": "这大概是全书最便宜的一件事。一条留了痕迹的催款消息，就能把 3 年重新起算。什么都不做，就可能白白丢掉打赢官司的资格。事先说好「我不拿时效说事」不算数，两边约定把 3 年改长改短也不算数。反过来，过了期限对方仍然答应还的，就不能再拿时效来拒绝还钱。已经自愿还了的，也不能再要回去。借条和担保见第 18 条（借条和担保）。被执行的阶段见第 20 条（被起诉、被执行了如实报财产）。加班费和未休年休假工资走劳动仲裁那一套，见第 19 节第 1、2 条。没签合同的双倍工资时效各地算法不一，见第 19 节第 20 条（双倍工资）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 19,
+    "title": "Bảo vệ quyền lợi có thời hạn: thời hiệu kiện dân sự 3 năm, trọng tài lao động 1 năm; quá hạn, đối phương chỉ cần nói “đã hết thời hiệu”",
+    "fields": {
+      "cost": "Không tốn tiền. Đừng chỉ nghĩ trong đầu về việc đòi tiền; hãy để lại dấu vết qua WeChat, SMS, email hoặc thư bảo đảm.",
+      "plain": "Thời hiệu kiện dân sự là 3 năm, tính từ ngày bạn biết quyền lợi bị xâm hại. Hết hạn, tòa không chủ động xem xét, nhưng đối phương chỉ cần nói “hết thời hiệu” tại tòa là đủ; khoản nợ vẫn còn mà bạn không đòi được. Một tin nhắn đòi tiền có dấu vết có thể khiến 3 năm đó tính lại từ đầu. Tranh chấp lao động có quy tắc riêng: thời hiệu trọng tài là 1 năm.",
+      "benefit": "Bộ luật Dân sự quy định “thời hiệu yêu cầu tòa án nhân dân bảo vệ quyền dân sự là ba năm”. Điểm bắt đầu là “ngày người có quyền biết hoặc phải biết quyền bị xâm hại và người có nghĩa vụ”, tức ngày bạn biết mình chịu thiệt và biết phải đòi ai. Tối đa không quá 20 năm từ ngày quyền bị xâm hại. Khi hết thời hạn, “người có nghĩa vụ có thể viện dẫn căn cứ từ chối thực hiện nghĩa vụ”. Tòa không tự xem thời hiệu, nhưng đối phương nêu tại tòa là có hiệu lực; khoản nợ vẫn còn nhưng không đòi được. Có bốn việc làm gián đoạn thời hiệu; khi gián đoạn, 3 năm được tính lại từ đầu. Một là bạn yêu cầu người nợ thực hiện nghĩa vụ. Hai là họ đồng ý thực hiện. Ba là bạn khởi kiện hoặc yêu cầu trọng tài. Bốn là tình huống khác có hiệu lực tương tự. Nếu thỏa thuận trả nhiều kỳ thì tính từ ngày đến hạn kỳ cuối. Bốn nhóm yêu cầu không bị giới hạn thời hiệu: chấm dứt xâm hại, loại bỏ cản trở, loại trừ nguy hiểm; đòi lại bất động sản và động sản đã đăng ký của mình; tiền nuôi con, phụng dưỡng và cấp dưỡng; trường hợp khác theo luật. Tranh chấp lao động có quy tắc riêng: thời hiệu trọng tài 1 năm từ ngày biết hoặc phải biết quyền bị xâm hại. Nhưng “tranh chấp do nợ thù lao lao động trong thời gian quan hệ lao động còn tồn tại thì người lao động yêu cầu trọng tài không chịu giới hạn thời hiệu tại khoản một điều này; khi quan hệ lao động đã chấm dứt, phải yêu cầu trong vòng một năm từ ngày chấm dứt” (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第一百八十八、一百八十九、一百九十二、一百九十三、一百九十五、一百九十六、一百九十七条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2007). 劳动争议调解仲裁法（第二十七条）. <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载）",
+      "notes": "Đây có lẽ là việc ít tốn kém nhất trong sách: một tin nhắn đòi tiền có dấu vết có thể khiến 3 năm tính lại; không làm gì thì có thể mất oan khả năng thắng kiện. Thỏa thuận trước “tôi sẽ không viện thời hiệu” không có hiệu lực; hai bên thỏa thuận kéo dài hay rút ngắn 3 năm cũng không có hiệu lực. Ngược lại, hết thời hạn mà đối phương vẫn đồng ý trả thì không được viện thời hiệu để từ chối nữa. Đã tự nguyện trả cũng không được đòi lại. Giấy vay và bảo lãnh xem mục 18 (giấy vay và bảo lãnh). Giai đoạn thi hành án xem mục 20 (bị kiện, bị thi hành án phải khai tài sản trung thực). Lương làm thêm và tiền phép năm chưa nghỉ theo quy tắc trọng tài lao động, xem chương 19 mục 1, 2."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

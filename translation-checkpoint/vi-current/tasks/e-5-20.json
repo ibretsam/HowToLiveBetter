@@ -1,0 +1,48 @@
+{
+  "id": "e-5-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "272c24c9f1dda8b68eff74f2a19770a01310f27be775c18625278eed0f713602",
+  "status": "outdated",
+  "original": {
+    "number": 20,
+    "title": "交个税且税率到 10% 及以上的人开个人养老金账户，每年最多 12000 元能在税前扣掉；不交个税或税率只有 3% 的人开了不划算",
+    "fields": {
+      "cost": "开户不花钱。真正的代价是这笔钱会锁到你退休，中途取不出来。",
+      "plain": "你每存进去一元，省下的税是「你那一档税率减 3%」。一年存满 12000 元，税率 10% 的人省 840 元，20% 的省 2040 元，30% 的省 3240 元。税率只有 3% 的人，省下的税领钱时又交回去，钱却白锁到退休。不交个税的人领钱时还要交 3%，是净亏。",
+      "benefit": "交进去的钱，每年最多 12000 元，可以从综合所得或者经营所得里如实扣掉。你存进去多少，就能从要交税的收入里减掉多少。这笔钱在账户里投资赚到的收益，暂时不收个人所得税。将来领出来的时候不并进综合所得，单独按 3% 计税。所以你省下的是「你的边际税率减去 3%」乘以你实际交进去的钱。边际税率就是你每多赚一元要按的那一档税率。算下来：边际税率 10% 的人每年最多省 840 元，20% 的省 2040 元，30% 的省 3240 元。本来就不用交个税的人（年综合所得扣完各项后没到起征点），交钱的时候一分没省，领的时候反而要按 3% 交，是净亏。边际税率只有 3% 的人也不划算。全年综合所得扣完各项后不超过 36000 元，就落在这一档。这些人交钱时省 3%，领钱时再交 3%，正好抵消，钱却白白锁到退休。每月工资被扣了个税，不等于你就在 10% 那一档，要看全年扣完各项后的数。每年的缴费额度按自然年度累计，第二年重新算，当年没交满的不能结转到下一年。这项政策从 2024 年 12 月 15 日起在全国实施（全国）",
+      "grade": "A",
+      "sources": "财政部、税务总局 (2024). 关于在全国范围实施个人养老金个人所得税优惠政策的公告（财政部 税务总局公告 2024 年第 21 号，2024 年 12 月 12 日）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6992498.htm>；人力资源社会保障部等五部门 (2022). 个人养老金实施办法（第七、八、九、十二、十三条）. <https://www.gov.cn/zhengce/zhengceku/2022-11/05/content_5724783.htm>；全国人民代表大会常务委员会 (2018). 中华人民共和国个人所得税法（2018 年第七次修正，个人所得税税率表一）. <http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-09/05/content_2060671.htm>",
+      "notes": "这个账户是「封闭运行」的，钱交进去就取不出来。只有四种情况能领：达到领取基本养老金的年龄、完全丧失劳动能力、出国（境）定居、国家规定的其他情形。所以它不是理财，是一笔要锁很多年的税务安排。省下的税只拿一次，钱却要锁到退休，离退休越远，摊到每年的好处越小。粗算一下：税率 10% 的人每存一元省 7 分钱，离退休还有 30 年，摊到每年才 0.2% 多一点。税率 20% 的人每存一元省 1 角 7 分，离退休还有 10 年，摊到每年约 1.7%。先算清楚自己每多赚一元要交多少税，再决定交多少。别为了「薅羊毛」把应急金锁进去（应急金见第 27 条）。账户里的钱还要你自己选产品去投资，是会亏的。选产品的规则和本节第 17、18 条（宽基指数基金、优先选费率低的）一样。扣除凭证由个人养老金信息管理服务平台出具。抵扣的时机你可以选：一种是当年发工资代扣税的时候就扣，另一种是第二年汇算的时候再扣（汇算见第 2 条）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 20,
+    "title": "Người nộp thuế thu nhập cá nhân mở tài khoản hưu trí cá nhân được khấu trừ 12000 nhân dân tệ mỗi năm trước thuế; người không nộp thuế mở không có lợi",
+    "fields": {
+      "cost": "Mở tài khoản không tốn tiền. Chi phí thực sự là số tiền bị khóa đến khi nghỉ hưu, giữa chừng không rút được.",
+      "plain": "Mỗi đồng gửi vào tiết kiệm số thuế bằng “thuế suất của bạn trừ 3%”. Gửi đủ 12000 nhân dân tệ một năm, người thuế suất 10% tiết kiệm 840 nhân dân tệ, 20% tiết kiệm 2040 nhân dân tệ, 30% tiết kiệm 3240 nhân dân tệ. Người vốn không nộp thuế chẳng tiết kiệm đồng nào, lúc nhận còn nộp 3%, thành lỗ ròng. Tiền bị khóa đến nghỉ hưu mới rút được.",
+      "benefit": "Tiền đóng vào, tối đa 12000 nhân dân tệ mỗi năm, được trừ đúng số thực đóng khỏi thu nhập tổng hợp hoặc kinh doanh: gửi bao nhiêu, giảm thu nhập chịu thuế bấy nhiêu. Lợi nhuận đầu tư trong tài khoản tạm thời không chịu thuế thu nhập cá nhân. Khi lĩnh sau này không gộp vào thu nhập tổng hợp, mà tính riêng 3%. Vì vậy tiền tiết kiệm bằng “thuế suất cận biên trừ 3%” nhân số thực đóng. Thuế suất cận biên là mức áp dụng cho mỗi đồng kiếm thêm. Tính ra người ở mức 10% tiết kiệm tối đa 840 nhân dân tệ mỗi năm, 20% tiết kiệm 2040 nhân dân tệ, 30% tiết kiệm 3240 nhân dân tệ. Người vốn không phải nộp thuế (thu nhập tổng hợp năm sau giảm trừ chưa tới ngưỡng) khi đóng chẳng tiết kiệm gì, khi lĩnh lại nộp 3%, là lỗ ròng. Hạn mức đóng cộng theo năm dương lịch, sang năm tính lại, phần chưa dùng hết không chuyển sang năm sau. Chính sách áp dụng toàn quốc từ ngày 15 tháng 12 năm 2024 (toàn quốc).",
+      "grade": "A",
+      "sources": "财政部、税务总局 (2024). 关于在全国范围实施个人养老金个人所得税优惠政策的公告（财政部 税务总局公告 2024 年第 21 号，2024 年 12 月 12 日）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6992498.htm>；人力资源社会保障部等五部门 (2022). 个人养老金实施办法（第七、八、九、十二、十三条）. <https://www.gov.cn/zhengce/zhengceku/2022-11/05/content_5724783.htm>",
+      "notes": "Tài khoản này “vận hành khép kín”, đóng rồi không rút ra được. Chỉ được lĩnh trong bốn trường hợp: đủ tuổi nhận lương hưu cơ bản, mất hoàn toàn khả năng lao động, định cư nước ngoài hoặc ngoài lãnh thổ, và trường hợp khác nhà nước quy định. Vì vậy đây không phải sản phẩm quản lý tài chính mà là phương án thuế khóa tiền nhiều năm. Tính rõ mỗi đồng kiếm thêm phải nộp bao nhiêu thuế rồi quyết định đóng bao nhiêu. Đừng vì muốn tận dụng ưu đãi mà khóa quỹ khẩn cấp vào đây (quỹ khẩn cấp xem mục 27). Bạn còn phải tự chọn sản phẩm đầu tư trong tài khoản, có thể lỗ. Quy tắc chọn giống mục 17, 18 chương này (quỹ chỉ số thị trường rộng, ưu tiên phí thấp). Chứng từ giảm trừ do nền tảng dịch vụ quản lý thông tin hưu trí cá nhân cấp. Bạn được chọn thời điểm giảm trừ: ngay khi khấu trừ thuế lương năm đó, hoặc lúc quyết toán năm sau (xem mục 2 về quyết toán)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

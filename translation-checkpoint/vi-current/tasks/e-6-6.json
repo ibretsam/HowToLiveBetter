@@ -1,0 +1,48 @@
+{
+  "id": "e-6-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "76f2106d438f2930a7c7c9ddff67e4768050134509e670309db33158fe1e7b0c",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "不要靠维生素 C 预防感冒",
+    "fields": {
+      "cost": "泡腾片一片约 1 到 2 元，一年 300 到 700 元。",
+      "plain": "天天吃维 C 基本不会让你少得感冒，感冒了才开始吃，效果也时有时无。天天吃能把一次感冒缩短约 8%，值不值一年三五百自己算。马拉松选手和在寒冷地区行军的士兵是例外，他们吃了得感冒的人能少一半。",
+      "benefit": "Cochrane 把 29 项对照试验、11,306 人合起来算。普通人天天吃维 C，基本不减少得感冒的次数。得感冒的比例 RR 0.97（RR 是风险比，1 就是两边一个样）。95% CI 0.94–1.00 是可信范围。感冒之后才开始吃的那些试验，原文说「未见一致效应」：有的试验有效，有的没有。同一篇综述里，长期天天吃能把感冒难受的时间缩短约 8%（成人，95% CI 3%–12%），儿童缩短 14%（7%–21%）。马拉松运动员、滑雪的人和在寒冷地区行军的士兵是例外。5 项试验、598 人里，得感冒的人少约一半。发生率 RR 0.48（95% CI 0.35–0.64）。它看起来划算，是因为便宜、酸甜好喝，而且「维 C 防感冒」这个说法已经传了半个世纪",
+      "grade": "A",
+      "sources": "Hemilä H, Chalker E (2013). Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. <https://doi.org/10.1002/14651858.CD000980.pub4>",
+      "notes": "争议：同一篇综述里，天天吃确实能缩短感冒难受的时间。成人缩短约 8%（3%–12%），儿童缩短 14%（7%–21%）。算下来一次感冒少病半天左右。马拉松运动员、滑雪的人、在寒冷地区行军的士兵是例外。5 项试验、598 人里，得感冒的人少了约一半（RR 0.48，0.35–0.64）。绝大多数人不属于这两类"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Đừng dựa vitamin C để ngừa cảm lạnh",
+    "fields": {
+      "cost": "Mỗi viên sủi khoảng 1 đến 2 nhân dân tệ, mỗi năm 300 đến 700 nhân dân tệ.",
+      "plain": "Uống vitamin C mỗi ngày hầu như không giảm mắc cảm; bắt đầu khi đã cảm cũng lúc được lúc không. Uống hằng ngày rút ngắn đợt cảm khoảng 8%, tức bớt khó chịu nửa ngày; có đáng ba đến năm trăm nhân dân tệ mỗi năm thì tự tính. Vận động viên marathon và lính hành quân vùng lạnh là ngoại lệ, số người cảm có thể giảm một nửa.",
+      "benefit": "Cochrane gộp 29 thử nghiệm đối chứng, 11,306 người. Người bình thường dùng vitamin C hằng ngày hầu như không giảm số lần cảm: RR mắc 0.97 (RR là tỷ số nguy cơ, 1 nghĩa hai bên như nhau), 95% CI 0.94–1.00 là khoảng tin cậy. Các thử nghiệm chỉ bắt đầu sau cảm “không thấy hiệu quả nhất quán”: có thử nghiệm hiệu quả, có cái không. Cùng tổng quan, dùng hằng ngày lâu dài rút ngắn thời gian khó chịu khoảng 8% ở người lớn (95% CI 3%–12%), trẻ em 14% (7%–21%). Vận động viên marathon, người trượt tuyết, lính hành quân vùng lạnh là ngoại lệ: 5 thử nghiệm, 598 người, số người mắc giảm khoảng một nửa, RR 0.48 (95% CI 0.35–0.64). Nó có vẻ đáng tiền vì rẻ, chua ngọt dễ uống, và câu “vitamin C ngừa cảm” đã truyền nửa thế kỷ.",
+      "grade": "A",
+      "sources": "Hemilä H, Chalker E (2013). Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. <https://doi.org/10.1002/14651858.CD000980.pub4>",
+      "notes": "Còn tranh luận: cùng tổng quan, uống mỗi ngày thực sự rút ngắn thời gian khó chịu: người lớn khoảng 8% (3%–12%), trẻ 14% (7%–21%), tương đương bớt khoảng nửa ngày một đợt cảm. Vận động viên marathon, người trượt tuyết, lính hành quân vùng lạnh là ngoại lệ. Trong 5 thử nghiệm, 598 người, số mắc giảm khoảng một nửa (RR 0.48, 0.35–0.64). Đại đa số không thuộc hai nhóm này."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

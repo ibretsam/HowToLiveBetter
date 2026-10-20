@@ -1,0 +1,48 @@
+{
+  "id": "e-25-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "bca55e9b48b02e36610422cc1ec08987daa20e63ee560aa9ad6dae5111c1cadd",
+  "status": "outdated",
+  "original": {
+    "number": 3,
+    "title": "遗体接运、存放、火化只能走殡仪馆，医院太平间不办殡仪，存放一般不超过 3 日",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "接运、存放、防腐、整容、火化，只能由殡仪馆来做。医院太平间不办丧事，最多让遗体临时放一放。殡仪馆存放一般不超过 3 日，要多放几天得去办延期。火化要凭死亡证明和火化确认书，火化后给的那张火化证明，办继承、理赔还要用。",
+      "benefit": "殡葬管理条例第二十五条：「遗体接运、存放、防腐、整容、火化服务，由殡仪馆专门负责提供」。这几件事别家做不了。第二十四条：「医疗卫生机构的太平间不得外包，不得开展殡仪服务，可以为遗体暂时停放提供便利服务」。医院太平间只能临时放一放，不能承办丧事。第二十七条：「殡仪馆存放遗体一般不超过 3 日，需要延期存放的，丧属或者遗体移交方应当在殡仪馆办理延期存放手续」。要多放几天，就去殡仪馆办延期。第二十八条：「殡仪馆应当凭死亡证明和火化确认书火化遗体，并出具火化证明」。两样材料缺一不可，火化完会给你一张火化证明。第二十九条：「在实行火葬的地区，遗体应当就地、就近在殡仪馆火化」，要在人去世的地方就近找殡仪馆火化",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，自 2026 年 3 月 30 日起施行，第八、九、二十四、二十五、二十七、二十八、二十九条）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm>",
+      "notes": "在医院去世后凑上来的「一条龙」，多半不是殡仪馆的人。接运本身属于基础项目，有定价，见第 6 条（基础项目清单）。火化证明收好，办继承、保险、迁骨灰都要用。本地实行火葬还是土葬，由省级政府划定。少数民族的丧葬习俗受条例第九条保护。该火化却土葬的，或者在公墓和生态安葬区域外埋葬、修坟的，民政部门会责令限期改正（限期改回来）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 3,
+    "title": "Vận chuyển, lưu giữ và hỏa táng thi hài phải qua nhà tang lễ; nhà xác bệnh viện không tổ chức tang lễ, thời gian lưu giữ thường không quá 3 ngày",
+    "fields": {
+      "cost": "Không tốn tiền.",
+      "plain": "Chỉ nhà tang lễ được vận chuyển, lưu giữ, bảo quản chống phân hủy, chỉnh trang và hỏa táng thi hài. Nhà xác bệnh viện không lo việc tang, tối đa chỉ cho lưu thi hài tạm thời. Nhà tang lễ thường lưu không quá 3 ngày; muốn lâu hơn phải làm thủ tục gia hạn. Hỏa táng cần giấy chứng tử và văn bản xác nhận hỏa táng. Giấy chứng nhận đã hỏa táng được cấp sau đó vẫn cần cho thừa kế và bảo hiểm chi trả.",
+      "benefit": "Điều hai mươi lăm Điều lệ quản lý tang lễ: «Dịch vụ vận chuyển, lưu giữ, bảo quản chống phân hủy, chỉnh trang và hỏa táng thi hài do riêng nhà tang lễ cung cấp». Nơi khác không được làm những việc này. Điều hai mươi bốn: «Nhà xác của cơ sở y tế không được giao khoán ra ngoài, không được cung cấp dịch vụ tang lễ, có thể tạo thuận tiện cho việc tạm lưu thi hài». Nhà xác bệnh viện chỉ cho lưu tạm, không được đứng ra lo tang lễ. Điều hai mươi bảy: «Thời gian lưu thi hài tại nhà tang lễ thông thường không quá 3 ngày; khi cần gia hạn, gia đình hoặc bên bàn giao thi hài phải làm thủ tục gia hạn tại nhà tang lễ». Muốn lưu thêm thì đến nhà tang lễ xin gia hạn. Điều hai mươi tám: «Nhà tang lễ phải dựa vào giấy chứng tử và văn bản xác nhận hỏa táng để hỏa táng thi hài, đồng thời cấp giấy chứng nhận hỏa táng». Phải có đủ cả hai giấy; hỏa táng xong sẽ được cấp giấy chứng nhận. Điều hai mươi chín: «Tại khu vực thực hiện hỏa táng, thi hài phải được hỏa táng tại nhà tang lễ ngay tại địa phương hoặc gần đó»; hãy tìm nhà tang lễ gần nơi người đó qua đời",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，自 2026 年 3 月 30 日起施行，第八、九、二十四、二十五、二十七、二十八、二十九条）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm>",
+      "notes": "Người mời chào dịch vụ «trọn gói» sau khi có người mất trong bệnh viện phần lớn không phải nhân viên nhà tang lễ. Bản thân vận chuyển thi hài là hạng mục cơ bản, có giá quy định, xem mục 6 (danh mục hạng mục cơ bản). Giữ kỹ giấy chứng nhận hỏa táng vì cần cho thừa kế, bảo hiểm và di chuyển tro cốt. Chính quyền cấp tỉnh quy định địa phương hỏa táng hay địa táng. Tập tục tang ma của dân tộc thiểu số được Điều chín của điều lệ bảo vệ. Trường hợp phải hỏa táng mà lại chôn, hoặc chôn cất, xây mộ ngoài nghĩa trang và khu an táng sinh thái, cơ quan dân chính sẽ yêu cầu khắc phục trong thời hạn nhất định."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

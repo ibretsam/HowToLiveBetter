@@ -1,0 +1,48 @@
+{
+  "id": "e-6-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "26b09c0a891b9de9b8a71a8d255eef2a32dd5b9e1f971e2818b5e9d649323998",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "不要花大钱买保健品、膏方、滋补品来「调理身体」",
+    "fields": {
+      "cost": "从几百元到上万元不等。做成礼品装之后，价钱常常翻好几倍。",
+      "plain": "多维、鱼油、维 D 这些常见成分，本节前六条已经一样样查过，都没看出管用。包装上那句「保健食品不是药物，不能代替药物治疗疾病」，是管保健食品的部门规定必须印的。这笔钱要是买给父母、提着上门的，那份心意没有问题，只是东西选错了。",
+      "benefit": "换回的是省下的这笔钱。理由在本节前 6 条。保健品里最常见的几种成分，多维、鱼油、维 D、抗氧化剂、氨糖、维 C，在随机分组对照试验里都没看出预期的好处。各自的数字在那 6 条的收益栏里。监管规定只说明它能宣称什么，不能当成它没用的证据。国家市场监管总局规定，保健食品包装的正面必须用不小于 20% 的面积标上一句话：「保健食品不是药物，不能代替药物治疗疾病」。同一份规定还把保健食品的用途框死在「补充膳食营养物质、维持改善机体健康状态或者降低疾病发生风险因素」这个范围里。它看起来划算，是因为「不治病，只调理」这句话怎么说都不算错，谁也没办法证明它是假的。而且送礼时掏这笔钱，靠的是人情，不是证据",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2019). 市场监管总局就《保健食品标注警示用语指南》和《保健食品原料目录与保健功能目录管理办法》有关情况举办专题新闻发布会. <https://www.samr.gov.cn/tssps/sjdt/tpxw/art/2023/art_4b658b824b1b4b0ba57c09a56cc93aad.html>",
+      "notes": "结论是「没有证据支持」，不是「已经证明无效」，所以只给 C 级。成分写得明确的产品，按前几条去查对应的研究。查出确实缺营养的人、正在治病的人，按医生说的来。要否掉的是产品，不是心意。老人自己买了、已经在吃的，只要没拿它顶替正在吃的药、也没吃出问题，就不必上门去争这一场。把该打的疫苗和该做的筛查安排上更要紧。同样的钱换成下面这些，每一项在书里都能翻到出处。陪老人去打每年的流感疫苗，见第 1 节第 20 条。50 岁以后的带状疱疹疫苗见第 1 节第 21 条。65 岁以上的肺炎球菌疫苗见第 1 节第 22 条。买个血压计，盯着他把降压药按医嘱吃满、把血压降到达标，见第 1 节第 7 条。把家里的浴室和楼梯改一改，陪他练平衡和腿部力量，见第 1 节第 13 条。到了年纪的癌症筛查，陪他去做一次，见第 1 节第 17 到 19 条。老人已经长期卧床的，压疮防护和长期护理保险见第 17 节第 7、8 条。要提东西上门，换成水果、米面、他爱吃的东西，比膏方实在。真正要拦的是两类：一类是先交钱的投资养老，一类是会顶替掉药的，见第 17 节第 5 条"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Đừng chi nhiều tiền mua thực phẩm bổ sung, cao thuốc, đồ bổ để “bồi dưỡng cơ thể”",
+    "fields": {
+      "cost": "Từ vài trăm đến hơn vạn nhân dân tệ. Đóng hộp quà thường khiến giá tăng nhiều lần.",
+      "plain": "Đa vitamin, dầu cá, vitamin D và thành phần phổ biến đã được kiểm tra từng loại trong sáu mục đầu, đều không thấy lợi mong đợi. Câu “Thực phẩm bảo vệ sức khỏe không phải thuốc, không thay thuốc chữa bệnh” trên bao bì là yêu cầu bắt buộc của cơ quan quản lý. Tiền thường để mua cho cha mẹ, mang đến thăm; tấm lòng không sai, chỉ chọn sai món.",
+      "benefit": "Đổi lại là tiền tiết kiệm. Lý do ở 6 mục đầu: đa vitamin, dầu cá, vitamin D, chất chống oxy hóa, glucosamine, vitamin C là các thành phần phổ biến không cho thấy lợi ích kỳ vọng trong thử nghiệm ngẫu nhiên đối chứng; số cụ thể ở phần lợi ích của 6 mục đó. Quy định chỉ nói được phép tuyên bố gì, không phải chứng cứ vô dụng. Tổng cục Quản lý thị trường yêu cầu mặt trước bao bì dành ít nhất 20% diện tích ghi “Thực phẩm bảo vệ sức khỏe không phải thuốc, không thay thuốc chữa bệnh”. Cùng quy định giới hạn công dụng ở “bổ sung dinh dưỡng, duy trì cải thiện tình trạng sức khỏe hoặc giảm yếu tố nguy cơ bệnh”. Có vẻ đáng tiền vì “không chữa bệnh, chỉ điều hòa” nói thế nào cũng khó sai, không ai chứng minh được là giả. Chi tiền biếu quà còn dựa tình cảm chứ không phải bằng chứng.",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2019). 市场监管总局就《保健食品标注警示用语指南》和《保健食品原料目录与保健功能目录管理办法》有关情况举办专题新闻发布会. <https://www.samr.gov.cn/tssps/sjdt/tpxw/art/2023/art_4b658b824b1b4b0ba57c09a56cc93aad.html>",
+      "notes": "Kết luận là “không có bằng chứng ủng hộ”, không phải “đã chứng minh vô hiệu”, nên chỉ C. Sản phẩm ghi rõ thành phần thì đối chiếu nghiên cứu ở các mục trước. Người xác định thiếu chất, đang chữa bệnh làm theo bác sĩ. Cần bác sản phẩm chứ không bác tấm lòng. Người già tự mua đang dùng, miễn không thay thuốc đang uống và chưa gây vấn đề thì không cần đến tranh cãi; thu xếp vaccine, sàng lọc cần thiết quan trọng hơn. Cùng tiền đổi sang những việc sau, mỗi việc đều có nguồn trong sách: đưa đi tiêm cúm hằng năm, chương 1 mục 20; vaccine zona sau 50 tuổi, chương 1 mục 21; phế cầu cho người từ 65 tuổi trở lên, chương 1 mục 22; mua máy đo huyết áp, giúp uống đủ thuốc theo bác sĩ đạt mục tiêu, chương 1 mục 7; sửa phòng tắm, cầu thang, tập thăng bằng và cơ chân, chương 1 mục 13; đến tuổi đưa đi sàng lọc ung thư, chương 1 mục 17 đến 19. Người nằm liệt lâu dài, phòng loét tì đè và bảo hiểm chăm sóc dài hạn xem chương 17 mục 7, 8. Muốn mang quà thì trái cây, gạo bột, món họ thích thiết thực hơn cao thuốc. Thực sự cần ngăn hai loại: đầu tư dưỡng lão nộp tiền trước và sản phẩm thay thế thuốc, xem chương 17 mục 5."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

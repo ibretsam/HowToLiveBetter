@@ -1,0 +1,48 @@
+{
+  "id": "e-25-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "a2de6514c55c395e3e26884685e2c5009e0e03898c4cd57aa65537761b5738a3",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "殡葬代理、用品代购、策划主持这类中介，要在县级民政备案",
+    "fields": {
+      "cost": "不花钱。问一句备没备案。",
+      "plain": "殡葬代理、用品代购、策划主持、信息咨询这类中介，要在县级民政部门备案。没备案的，不进民政部门那套殡葬服务信息系统。能不能自己查各地不一样，最稳的是打电话问县级民政部门。用骗术乱收费、倒卖逝者信息的，会被依法处置。",
+      "benefit": "没备案的中介，不在民政部门管的殡葬服务信息系统里。以欺骗手段违规收费、诱导大操大办、强迫接受服务、倒卖逝者信息的，会被依法处置。还会在系统中标注、向社会公开，谁都能看到",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，2025 年 11 月 14 日国务院第 72 次常务会议修订通过，「自2026年3月30日起施行」）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> 第四十一条：「除殡葬服务机构外，从事殡葬服务代理、用品代购、策划主持、信息咨询等殡葬相关服务活动的组织和个人，应当向县级人民政府民政部门备案。」「对存在以欺骗等手段违规收费、诱导大操大办、强迫接受服务、倒卖逝者信息等损害丧属权益行为的依法处置，并在殡葬服务信息系统中进行标注，向社会公开。」",
+      "notes": "网络祭扫平台也一样受管。条例第四十五条不许它诱导消费，也不许它违法处理逝者的信息。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Trung gian như đại lý tang lễ, mua hộ đồ tang lễ, lên kế hoạch và chủ trì nghi lễ phải đăng ký lưu hồ sơ tại cơ quan dân chính cấp huyện",
+    "fields": {
+      "cost": "Không tốn tiền. Chỉ cần hỏi đã đăng ký lưu hồ sơ chưa.",
+      "plain": "Trung gian như đại lý tang lễ, mua hộ đồ dùng, lên kế hoạch, chủ trì và tư vấn thông tin phải đăng ký lưu hồ sơ với cơ quan dân chính cấp huyện. Chưa đăng ký thì không có trong hệ thống thông tin dịch vụ tang lễ của cơ quan dân chính. Mỗi nơi cho tự tra cứu khác nhau; chắc nhất là gọi hỏi cơ quan dân chính cấp huyện. Dùng thủ đoạn lừa đảo để thu phí trái phép hoặc mua bán thông tin người mất sẽ bị xử lý theo luật.",
+      "benefit": "Trung gian chưa đăng ký không có trong hệ thống thông tin dịch vụ tang lễ do cơ quan dân chính quản lý. Lừa đảo để thu phí sai quy định, dụ tổ chức tang lễ phô trương, ép nhận dịch vụ hoặc mua bán thông tin người mất sẽ bị xử lý theo luật; còn bị đánh dấu trong hệ thống và công khai cho mọi người thấy",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，2025 年 11 月 14 日国务院第 72 次常务会议修订通过，「自2026年3月30日起施行」）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> 第四十一条：「除殡葬服务机构外，从事殡葬服务代理、用品代购、策划主持、信息咨询等殡葬相关服务活动的组织和个人，应当向县级人民政府民政部门备案。」「对存在以欺骗等手段违规收费、诱导大操大办、强迫接受服务、倒卖逝者信息等损害丧属权益行为的依法处置，并在殡葬服务信息系统中进行标注，向社会公开。」",
+      "notes": "«Mua bán thông tin người mất» là một trong những rủi ro thường gặp nhất của nghề này. Vừa làm xong thủ tục đã nhận hàng loạt cuộc gọi chào hàng thì nhiều khả năng thông tin đã bị bán. Nền tảng tưởng niệm trực tuyến cũng chịu quản lý. Điều bốn mươi lăm của điều lệ cấm dụ dỗ tiêu dùng và xử lý trái phép thông tin người mất."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

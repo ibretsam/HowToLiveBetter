@@ -1,0 +1,48 @@
+{
+  "id": "e-8-39",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "74897636546fb464d94d17d5b67ec1917d980f5dd961f12e6673885432e03ba6",
+  "status": "outdated",
+  "original": {
+    "number": 39,
+    "title": "报警当场要受案回执，不立案要书面通知：7 日内可申请复议，再 7 日可申请复核，检察院能通知公安立案",
+    "fields": {
+      "cost": "不花钱。当场多问一句，把受案回执要到手。之后按上面的日期去追问进度。难在一次次开口去问。",
+      "plain": "报了警要当场拿到受案回执，这是你报过案的凭据。公安决定不立案，应当给你书面的不予立案通知书。不服可以 7 日内申请复议，还不服再 7 日内申请复核。你也可以找检察院，请它监督公安立案。",
+      "benefit": "《公安机关办理刑事案件程序规定》（公安部令第 159 号修正后）第一百七十一条管的是受案回执。原文是：「公安机关接受案件时，应当制作受案登记表和受案回执，并将受案回执交扭送人、报案人、控告人、举报人」。第一百七十四条：「对接受的案件，或者发现的犯罪线索，公安机关应当迅速进行审查」。第一百七十八条管的是立不立案。接受案件后经审查，认为有犯罪事实需要追究刑事责任，又属于自己管辖的，就要立案。立案要经县级以上公安机关负责人批准。不立案也要给你一张纸：「对有控告人的案件，决定不予立案的，公安机关应当制作不予立案通知书，并在三日以内送达控告人」。第一百七十九条管的是不服怎么办。原文是：「控告人对不予立案决定不服的，可以在收到不予立案通知书后七日以内向作出决定的公安机关申请复议；公安机关应当在收到复议申请后三十日以内作出决定」。接着写：「控告人对不予立案的复议决定不服的，可以在收到复议决定书后七日以内向上一级公安机关申请复核；上一级公安机关应当在收到复核申请后三十日以内作出决定。对上级公安机关撤销不予立案决定的，下级公安机关应当执行」。案情重大、复杂的可以延长复议复核的时限，但「不得超过三十日，并书面告知申请人」。刑事诉讼法第一百一十二条：认为有犯罪事实需要追究刑事责任的应当立案；不予立案的，「将不立案的原因通知控告人。控告人如果不服，可以申请复议」。第一百一十三条：「被害人认为公安机关对应当立案侦查的案件而不立案侦查，向人民检察院提出的，人民检察院应当要求公安机关说明不立案的理由。人民检察院认为公安机关不立案理由不能成立的，应当通知公安机关立案，公安机关接到通知后应当立案」。《公安机关办理行政案件程序规定》第六十一条也有同样的要求。属于本单位管辖的案件，「应当立即调查处理，制作受案登记表和受案回执，并将受案回执交报案人、控告人、举报人、扭送人」。办理治安案件的期限「自受理之日起不得超过 30 日；案情重大、复杂的，经上一级公安机关批准，可以延长 30 日」，鉴定期间不计入办案期限。《公安机关督察条例》第九条管的是投诉警察。原文是：「督察机构对群众投诉的正在发生的公安机关及其人民警察违法违纪行为，应当及时出警，按照规定给予现场处置，并将处理结果及时反馈投诉人」（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2018). 刑事诉讼法（2018 年修正，第一百一十二、一百一十三条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d1b81b01351>；公安部 (2020). 关于修改《公安机关办理刑事案件程序规定》的决定（公安部令第 159 号）及修正后全文. <http://www.gov.cn/gongbao/content/2020/content_5549884.htm>；公安部 (2013/2019 修正). 公安机关办理行政案件程序规定（公安部令第 125 号，第 149 号修改决定）. <http://www.gov.cn/gongbao/content/2013/content_2321117.htm>、<http://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5428593.htm>；国务院 (2011). 公安机关督察条例（国务院令第 603 号，第九条）. <https://www.gov.cn/zhengce/zhengceku/2011-09/08/content_6138.htm>",
+      "notes": "受益人是你自己。报了警不一定就会处理，但办不办、多久办，都有明文的标准和期限，不是看接警的人当天心情。三个动作按顺序记。① 当场拿受案回执，把案件编号和受理单位记下来。② 到期没结果，就按上面的期限去问进度，问「案子在哪个环节」，别问「为什么不管我」。③ 收到不予立案通知书，先看理由，7 日内复议，再 7 日复核。同时可以向人民检察院提出立案监督，三条路不冲突。治安案件，就是打架、小偷小摸这类。办案期限从受理那天算起，不超过 30 日。案情重大复杂的，经上一级公安机关批准可以再延 30 日。做鉴定的时间不算在内。接待态度差就走督察投诉，案子本身照样按立案流程追。捡到失物、邻里纠纷这类本来就不是刑事案件。公安机关会按行政案件或者调解处理，甚至只是登记备案，别按「报案没人管」来理解。被诈骗之后的止付流程，见本节第 2 条（立刻打 110 要求止付）。被网暴见本节第 37 条（被网暴了先固证再挑路）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 39,
+    "title": "Báo cảnh sát phải lấy biên nhận tiếp nhận ngay, không khởi tố phải có thông báo viết: trong 7 ngày được xin xét lại, thêm 7 ngày xin phúc tra; viện kiểm sát có thể yêu cầu công an khởi tố",
+    "fields": {
+      "cost": "Không tốn tiền. Hỏi thêm ngay tại chỗ để lấy biên nhận tiếp nhận. Sau đó theo mốc ngày trên để hỏi tiến độ. Khó ở việc phải mở lời hỏi nhiều lần.",
+      "plain": "Báo cảnh sát phải lấy biên nhận tiếp nhận ngay; đó là chứng từ duy nhất cho thấy bạn đã báo án. Công an quyết định không khởi tố phải giao thông báo không khởi tố bằng văn bản. Không đồng ý thì trong 7 ngày xin xét lại, vẫn không đồng ý thì trong 7 ngày tiếp xin phúc tra. Bạn cũng có thể tìm viện kiểm sát, đề nghị giám sát việc công an khởi tố.",
+      "benefit": "Điều một trăm bảy mươi mốt “Quy định thủ tục xử lý vụ án hình sự của cơ quan công an” (sau sửa đổi theo Lệnh Bộ Công an số 159) quy định biên nhận tiếp nhận. Nguyên văn: “Khi tiếp nhận vụ việc, công an phải lập phiếu đăng ký và biên nhận tiếp nhận, giao biên nhận cho người áp giải, báo án, tố cáo, tố giác”. Điều một trăm bảy mươi bốn: “Với vụ đã nhận hoặc manh mối tội phạm phát hiện, công an phải nhanh chóng xem xét”. Điều một trăm bảy mươi tám quy định khởi tố hay không: sau xem xét, thấy có sự thật phạm tội cần truy cứu hình sự, thuộc thẩm quyền mình, thì khởi tố sau phê duyệt của người phụ trách công an cấp huyện trở lên. Không khởi tố cũng phải đưa giấy: “Vụ có người tố cáo mà quyết định không khởi tố, công an phải lập thông báo không khởi tố và tống đạt trong ba ngày”. Điều một trăm bảy mươi chín nói cách phản đối: “Người tố cáo không đồng ý quyết định không khởi tố có thể trong bảy ngày từ nhận thông báo xin cơ quan ra quyết định xét lại; công an phải quyết định trong ba mươi ngày từ nhận yêu cầu”. Tiếp đó: “Không đồng ý quyết định xét lại không khởi tố, trong bảy ngày từ nhận quyết định được xin công an cấp trên phúc tra; cấp trên phải quyết định trong ba mươi ngày từ nhận yêu cầu. Cấp trên hủy quyết định không khởi tố thì cấp dưới phải thực hiện”. Vụ nghiêm trọng, phức tạp được kéo dài thời hạn xét lại, phúc tra nhưng “không quá ba mươi ngày và thông báo người yêu cầu bằng văn bản”. Điều một trăm mười hai Luật Tố tụng hình sự: thấy có tội cần truy cứu phải khởi tố; không khởi tố thì “thông báo lý do cho người tố cáo; không đồng ý có thể xin xét lại”. Điều một trăm mười ba: “Nạn nhân cho rằng công an không khởi tố vụ phải điều tra mà đề nghị viện kiểm sát, viện kiểm sát phải yêu cầu công an giải thích lý do. Nếu viện kiểm sát thấy lý do không đứng vững phải thông báo công an khởi tố; nhận thông báo, công an phải khởi tố”. Điều sáu mươi mốt “Quy định thủ tục xử lý vụ việc hành chính của công an” cũng yêu cầu tương tự. Vụ thuộc thẩm quyền “phải lập tức điều tra xử lý, lập phiếu đăng ký và biên nhận, giao biên nhận cho người báo án, tố cáo, tố giác, áp giải”. Thời hạn xử lý vụ trị an “không quá 30 ngày từ tiếp nhận; nghiêm trọng, phức tạp, được công an cấp trên duyệt thì kéo dài 30 ngày”; thời gian giám định không tính. Điều chín “Điều lệ giám sát công an” quy định khiếu nại cảnh sát: “Cơ quan giám sát nhận khiếu nại về hành vi vi phạm pháp luật, kỷ luật đang diễn ra của công an và cảnh sát nhân dân phải kịp thời đến, xử lý tại chỗ theo quy định, thông báo kết quả kịp thời cho người khiếu nại” (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2018). 刑事诉讼法（2018 年修正，第一百一十二、一百一十三条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d1b81b01351>；公安部 (2020). 关于修改《公安机关办理刑事案件程序规定》的决定（公安部令第 159 号）及修正后全文. <http://www.gov.cn/gongbao/content/2020/content_5549884.htm>；公安部 (2013/2019 修正). 公安机关办理行政案件程序规定（公安部令第 125 号，第 149 号修改决定）. <http://www.gov.cn/gongbao/content/2013/content_2321117.htm>、<http://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5428593.htm>；国务院 (2011). 公安机关督察条例（国务院令第 603 号，第九条）. <https://www.gov.cn/zhengce/zhengceku/2011-09/08/content_6138.htm>",
+      "notes": "Người hưởng lợi là bạn. Báo cảnh sát chưa chắc sẽ được xử lý, nhưng có xử lý không và bao lâu đều có tiêu chuẩn, thời hạn rõ. Nhớ ba bước theo thứ tự. ① Lấy biên nhận tại chỗ, ghi số vụ và đơn vị tiếp nhận. ② Hết hạn chưa có kết quả thì theo thời hạn trên hỏi tiến độ, hỏi “vụ đang ở bước nào”, đừng hỏi “sao không quan tâm tôi”. ③ Nhận thông báo không khởi tố thì xem lý do, trong 7 ngày xin xét lại, thêm 7 ngày xin phúc tra; đồng thời có thể yêu cầu viện kiểm sát giám sát khởi tố, ba đường không xung đột. Vụ trị an là đánh nhau, trộm vặt và tương tự. Thời hạn từ ngày tiếp nhận không quá 30 ngày; nghiêm trọng, phức tạp được công an cấp trên duyệt thì thêm 30 ngày. Thời gian giám định không tính. Thái độ tiếp đón kém thì khiếu nại giám sát; vụ việc vẫn theo đường khởi tố. Nhặt đồ thất lạc, tranh chấp hàng xóm vốn không phải án hình sự; công an xử hành chính, hòa giải, thậm chí chỉ đăng ký lưu hồ sơ, đừng hiểu là “báo mà không ai lo”. Quy trình chặn thanh toán khi bị lừa xem mục 2 chương này (gọi 110 ngay yêu cầu chặn thanh toán). Bạo lực mạng xem mục 37 (cố định chứng cứ rồi chọn đường xử lý)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

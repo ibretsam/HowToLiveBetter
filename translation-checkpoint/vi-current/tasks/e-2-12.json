@@ -1,0 +1,48 @@
+{
+  "id": "e-2-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "5048550e168da1da76f713086a972ca86701647ff3eebc7123ed1d9399f4acb1",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "成年后定期查血脂，40 岁前每 2 到 5 年一次、40 岁起每年一次；有高血压、高血脂就按医嘱规律吃药，别自行停",
+    "fields": {
+      "cost": "集采的降压药和他汀每月几元到几十元。每天吃一次，花不了多少时间。难在要一直吃下去，不能觉得没事了就停。查血脂要抽一管血。65 岁以上每年有一次免费体检，里面就有血脂，见第 6 节第 18 条（通用体检套餐）。",
+      "plain": "血压里的高压每降 10 mmHg，死亡的概率降约 13%，中风降约 27%。他汀把低密度胆固醇降 1 个单位，死亡的概率降约一成。按时吃药的人比经常漏吃的人，死亡的概率低三成到四成半。血脂 40 岁前每 2 到 5 年查一次，40 岁起每年查。",
+      "benefit": "把多项随机分组试验合起来算：收缩压每降 10 mmHg，死亡风险低约 13%（RR 0.87）。收缩压就是血压里的高压。主要心血管事件低约 20%（RR 0.80）。卒中低约 27%（RR 0.73）。心衰低约 28%（RR 0.72）。吃他汀让低密度脂蛋白胆固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡风险低约 10%（RR 0.90）。同样这一降，主要血管事件低约 22%（RR 0.78）。另外把多项跟踪研究合起来算，只记录、不分组。按医嘱吃到 ≥80% 的人，死亡风险比经常漏吃的人低。他汀这一项低约 45%（RR 0.55）。降压药这一项低约 29%（RR 0.71）。多久查一次血脂，按健康中国行动的建议：40 岁以下血脂正常的人每 2 到 5 年查一次。40 岁及以上的人至少每年查一次。心脑血管病高危的人每 6 个月查一次。2023 年版中国血脂管理指南对 40 岁前后的写法相同，高危的人改成按个人需要查。",
+      "grade": "A",
+      "sources": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8>；Cholesterol Treatment Trialists' (CTT) Collaboration (2010). Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials. Lancet. <https://doi.org/10.1016/S0140-6736(10)61350-5>；Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal. <https://doi.org/10.1093/eurheartj/eht295>；健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十一）心脑血管疾病防治行动（湖南省卫生健康委员会转载）. <https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html>；Joint Committee on the Chinese Guidelines for Lipid Management (2023). 中国血脂管理指南（2023 年）. 中华心血管病杂志, 51(3), 221-255. <https://doi.org/10.3760/cma.j.cn112148-20230119-00038>；Li JJ 等 (2023). 2023 Chinese guideline for lipid management. Frontiers in Pharmacology, 14, 1190934（上一份指南的英文版，中文原文未取得，相关内容按英文版核对）. <https://doi.org/10.3389/fphar.2023.1190934>",
+      "notes": "只有医生判断该吃药的人才照这个做，健康人不用吃。查血脂多久一次是官方给的建议，没有试验比过几年查一次最好。家里有人得了家族性高胆固醇血症（天生胆固醇特别高的遗传病），他的一级、二级亲属都要去查血脂。父母总胆固醇 ≥6.2 mmol/L 的，孩子也该查。一级、二级亲属里有男性 55 岁前、女性 65 岁前得过心梗、中风或猝死的，孩子也该查。「坚持吃药」那组数字来自跟踪记录，能坚持吃药的人本身也更自律，所以会把好处说大。前面两组随机分组试验的数字更可靠。本节没有单独列控制血糖这一条：把血糖压得更低对总死亡率的好处，证据不像血压、血脂那样一致。有高血压、糖尿病的每年查肾，见第 16 节第 13 条（尿白蛋白肌酐比）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Có tăng huyết áp, mỡ máu cao thì dùng thuốc đều theo bác sĩ, đừng tự ngừng",
+    "fields": {
+      "cost": "Thuốc hạ áp và statin theo chương trình mua sắm tập trung tốn vài đến vài chục nhân dân tệ mỗi tháng. Uống một lần mỗi ngày không mất nhiều thời gian. Điều khó là uống liên tục, không thấy ổn rồi tự dừng.",
+      "plain": "Huyết áp mỗi giảm 10 mmHg, xác suất tử vong giảm khoảng 13%, đột quỵ giảm khoảng 27%. Statin làm cholesterol mật độ thấp giảm 1 đơn vị thì xác suất tử vong giảm khoảng một phần mười. Người uống thuốc đúng giờ có xác suất tử vong thấp hơn khoảng ba phần mười đến bốn mươi lăm phần trăm so với người thường quên.",
+      "benefit": "Gộp nhiều thử nghiệm phân nhóm ngẫu nhiên cho thấy huyết áp tâm thu mỗi giảm 10 mmHg thì nguy cơ tử vong thấp hơn khoảng 13% (RR 0.87). Tâm thu là số cao trong hai số huyết áp. Biến cố tim mạch chính thấp hơn khoảng 20% (RR 0.80), đột quỵ thấp hơn khoảng 27% (RR 0.73), suy tim thấp hơn khoảng 28% (RR 0.72). Statin làm giảm cholesterol lipoprotein mật độ thấp (LDL). LDL mỗi giảm 1.0 mmol/L, nguy cơ tử vong thấp hơn khoảng 10% (RR 0.90), và biến cố mạch máu chính thấp hơn khoảng 22% (RR 0.78). Một phân tích gộp các nghiên cứu chỉ theo dõi, không phân nhóm, cho thấy người dùng đủ ≥80% thuốc theo chỉ định có nguy cơ tử vong thấp hơn người thường bỏ liều: với statin thấp hơn khoảng 45% (RR 0.55), với thuốc hạ áp thấp hơn khoảng 29% (RR 0.71).",
+      "grade": "A",
+      "sources": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8>；Cholesterol Treatment Trialists' (CTT) Collaboration (2010). Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials. Lancet. <https://doi.org/10.1016/S0140-6736(10)61350-5>；Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal. <https://doi.org/10.1093/eurheartj/eht295>",
+      "notes": "Chỉ người được bác sĩ đánh giá cần thuốc mới làm theo, người khỏe không cần uống. Số liệu “duy trì dùng thuốc” đến từ theo dõi; người tuân thủ vốn cũng tự giác hơn, nên lợi ích có thể bị phóng đại. Số liệu từ hai nhóm thử nghiệm ngẫu nhiên phía trước đáng tin hơn. Chương này không tách riêng mục kiểm soát đường máu, vì bằng chứng về lợi ích đối với tử vong chung khi hạ đường máu thấp hơn không nhất quán như với huyết áp, mỡ máu."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

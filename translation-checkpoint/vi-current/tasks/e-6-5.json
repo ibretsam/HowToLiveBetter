@@ -1,0 +1,48 @@
+{
+  "id": "e-6-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "898b90fd85993398552beaa5a810c8b7ef3a62d7f46f2b49cc20394d5769d7b6",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "不要指望氨糖（葡萄糖胺）/软骨素治膝关节炎",
+    "fields": {
+      "cost": "一天约 2 到 5 元，一年 700 到 1800 元。",
+      "plain": "膝盖有骨关节炎的人吃 24 周假药，也有六成说没那么疼了。吃氨糖或软骨素的人只比这多出四五个百分点，小到可能只是碰巧。一年花七百到一千八，买到的效果基本和吃假药一样。",
+      "benefit": "GAIT 试验找了 1,583 名膝骨关节炎患者，吃 24 周。吃安慰剂（假药）的人里，也有 60.1% 说疼痛缓解了。氨糖只比它高 3.9 个百分点（P=0.30）。软骨素高 5.3 个百分点（P=0.17）。两样一起吃高 6.5 个百分点（P=0.09）。这几个差距都太小，不能排除只是碰巧。同一个试验里用来做对照的真药塞来昔布，高 10.0 个百分点（P=0.008）。它看起来划算，是因为「补软骨的原料」听起来正好对症，而且光吃假药就有六成人说有效",
+      "grade": "A",
+      "sources": "Clegg DO et al. (2006). Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis. NEJM. <https://doi.org/10.1056/NEJMoa052771>",
+      "notes": "争议：同一个试验里，一开始就疼得厉害的那批人，两样一起吃的有效比例是 79.2%，对照组 54.3%（P=0.002）。但作者说这是事后从数据里翻出来的，只能当线索，不能当结论。膝关节炎真正有证据的做法是减重和练肌肉，见本节第 33 条（关节镜清理）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Đừng kỳ vọng glucosamine/chondroitin chữa thoái hóa khớp gối",
+    "fields": {
+      "cost": "Khoảng 2 đến 5 nhân dân tệ mỗi ngày, 700 đến 1800 nhân dân tệ mỗi năm.",
+      "plain": "Người thoái hóa khớp gối uống thuốc giả 24 tuần cũng có sáu phần mười nói bớt đau. Uống glucosamine hoặc chondroitin chỉ hơn bốn, năm điểm phần trăm, nhỏ đến mức có thể tình cờ. Chi bảy trăm đến một nghìn tám trăm mỗi năm, thứ mua được chủ yếu là tác dụng tâm lý mà sáu phần mười ấy nhận.",
+      "benefit": "GAIT có 1,583 bệnh nhân thoái hóa khớp gối, dùng 24 tuần. Nhóm giả dược cũng có 60.1% báo giảm đau. Glucosamine chỉ hơn 3.9 điểm phần trăm (P=0.30), chondroitin hơn 5.3 (P=0.17), dùng cả hai hơn 6.5 (P=0.09). Các chênh lệch đều quá nhỏ để loại trừ tình cờ. Thuốc thật celecoxib dùng đối chiếu trong cùng thử nghiệm hơn 10.0 điểm phần trăm (P=0.008). Nó có vẻ hợp lý vì “bổ sung nguyên liệu sụn” nghe đúng bệnh, và chỉ thuốc giả đã có sáu phần mười thấy hiệu quả.",
+      "grade": "A",
+      "sources": "Clegg DO et al. (2006). Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis. NEJM. <https://doi.org/10.1056/NEJMoa052771>",
+      "notes": "Còn tranh luận: trong cùng thử nghiệm, nhóm đau nặng ngay từ đầu dùng kết hợp có tỷ lệ hiệu quả 79.2%, đối chứng 54.3% (P=0.002). Nhưng tác giả nói đây là phân tích tìm sau trong dữ liệu, chỉ là gợi ý, không phải kết luận. Cách thực sự có bằng chứng với thoái hóa gối là giảm cân, tập cơ, xem chương 2."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

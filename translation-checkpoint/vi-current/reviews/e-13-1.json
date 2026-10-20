@@ -1,0 +1,15 @@
+{
+  "id": "e-13-1",
+  "source_sha256": "2e9b3b7e3c289252c73e185a7cdb4c7dbd950ce1c74457711ece3c889706fa62",
+  "draft_sha256": "539c37478719d656730dca6ddb789ad45678e1189589dc7d63d0b06503d2870b",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all fields against source. Preserved CPR sequence, second-person call/AED duties, 79.2% home setting, observed survival comparisons, infant exception and civil-liability scope. No correction required."
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-28-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "6c39ff7d4e5e6fba847c0a4e837e995e09a70fc8ce79c2b0d247ead61eaa62aa",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "如果「觉得自己丑」已经到反复照镜子、反复想改的程度，先做一次体像评估再谈手术",
+    "fields": {
+      "cost": "去精神科或者临床心理科挂一次号，几十元。难的是在约手术之前先去这一趟。",
+      "plain": "去整形外科看的人里约 15% 有躯体变形障碍，就是把别人基本看不出的缺陷放大到影响生活。去皮肤科看的人里约 13%，两边都是七成多为女性。先挂一次号看看自己是不是这种情况，再决定动不动手术。",
+      "benefit": "按规矩把 33 项研究找齐再合起来算。整形外科就诊者中，躯体变形障碍（把别人基本看不出的缺陷放大到影响生活）患病率 15.04%，各项研究在 2.21%–56.67% 之间。换成人数，每 100 个去做整形的人里约 15 个符合，单看各项研究则从 2 个到 57 个不等。这批人平均年龄 34.54±12.41 岁，后一个数是上下浮动的幅度，74.38% 为女性。皮肤科就诊者是 12.65%，各项研究在 4.52%–35.16% 之间，平均年龄 27.79±9.03 岁，76.09% 为女性。作者建议整形外科医师与皮肤科医师主动评估、把高风险的人认出来，并安排几个科室一起管。另一项研究问了 200 名躯体变形障碍患者，71.0% 找过皮肤科、整形这类非精神科的治疗，64.0% 做了。作者的结论是这类治疗「很少改善」躯体变形障碍，看起来对它无效",
+      "grade": "B",
+      "sources": "Ribeiro RVE (2017). Prevalence of Body Dysmorphic Disorder in Plastic Surgery and Dermatology Patients: A Systematic Review with Meta-Analysis. Aesthetic Plast Surg. <https://doi.org/10.1007/s00266-017-0869-0>；Crerand CE, Phillips KA, Menard W, Fay C (2005). Nonpsychiatric medical treatment of body dysmorphic disorder. Psychosomatics, 46(6), 549-555. <https://doi.org/10.1176/appi.psy.46.6.549>；NHS. Body dysmorphic disorder (BDD). <https://www.nhs.uk/mental-health/conditions/body-dysmorphia/>",
+      "notes": "各项研究测出来的比例从 2.21% 一直到 56.67%，差得极大。原因是用的问卷和调查的人群都不一样。所以只能读出「这个比例不低、值得先筛一次」，不能把 15.04% 当准确数字，记 B 级也是因为这个。按这个比例，去整形外科的人里多数并没有躯体变形障碍。本条针对的是「反复、持续、已经影响到工作和社交」这一小部分人，做手术、做皮肤治疗很少能让他们好起来。英国 NHS 列的判断线索有这几条：花很多时间拿自己和别人比长相，老照镜子或者干脆躲着镜子，花很大力气遮盖某个部位，抠皮肤想让它「平滑」。它会影响工作、社交和人际关系。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Nếu «thấy mình xấu» đến mức soi gương và muốn sửa đi sửa lại, hãy đánh giá hình ảnh cơ thể trước khi bàn phẫu thuật",
+    "fields": {
+      "cost": "Khám khoa tâm thần hoặc tâm lý lâm sàng một lần, vài chục nhân dân tệ. Khó là đi khám trước khi đặt lịch mổ.",
+      "plain": "Khoảng 15% người tìm phẫu thuật thẩm mỹ có rối loạn mặc cảm ngoại hình, tức phóng đại khuyết điểm người khác hầu như không thấy đến mức ảnh hưởng cuộc sống. Trong người đến da liễu để làm đẹp là khoảng 13%; cả hai nhóm hơn bảy phần mười là nữ. Người mắc sửa xong chỗ này lại chú ý chỗ khác, phẫu thuật không giải quyết được. Khám một lần xem mình có thuộc nhóm đó không rồi quyết có mổ.",
+      "benefit": "Tìm đủ 33 nghiên cứu theo quy trình rồi tổng hợp. Ở người khám ngoại khoa thẩm mỹ, tỷ lệ rối loạn mặc cảm ngoại hình (phóng đại khuyết điểm người khác gần như không thấy đến mức ảnh hưởng đời sống) là 15.04%; từng nghiên cứu từ 2.21%–56.67%. Trong 100 người tìm chỉnh hình có khoảng 15 người đáp ứng tiêu chí; xét từng nghiên cứu từ 2 đến 57 người. Tuổi trung bình 34.54±12.41, số sau thể hiện độ phân tán; 74.38% là nữ. Người khám da liễu có tỷ lệ 12.65%, từng nghiên cứu 4.52%–35.16%, tuổi trung bình 27.79±9.03, 76.09% là nữ. Tác giả khuyên bác sĩ thẩm mỹ và da liễu chủ động đánh giá, nhận diện người nguy cơ cao, phối hợp nhiều khoa chăm sóc",
+      "grade": "B",
+      "sources": "Ribeiro RVE (2017). Prevalence of Body Dysmorphic Disorder in Plastic Surgery and Dermatology Patients: A Systematic Review with Meta-Analysis. Aesthetic Plast Surg. <https://doi.org/10.1007/s00266-017-0869-0>",
+      "notes": "Tỷ lệ từng nghiên cứu từ 2.21% đến 56.67%, khác biệt cực lớn vì bảng hỏi và quần thể khác nhau. Chỉ có thể hiểu «tỷ lệ không thấp, đáng sàng lọc trước», không coi 15.04% là con số chính xác; đó cũng là lý do xếp B. Đại đa số người muốn thẩm mỹ không có vấn đề tâm lý. Mục này nhắm nhóm nhỏ «lặp đi lặp lại, kéo dài, đã ảnh hưởng công việc và giao tiếp» mà phẫu thuật không giải quyết. Dấu hiệu: dành nhiều thời gian mỗi ngày kiểm tra hoặc che một bộ phận, vì thế tránh giao tiếp hay chụp ảnh, sửa chỗ này xong lại chú ý chỗ khác."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-13-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "85d91eebde18d2e4a2bb753ea239abe510fe6cf34002b0eb167b2c759646ae70",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "糖尿病人突然发抖、出冷汗、说话不清，先给 15 克糖，15 分钟后复测",
+    "fields": {
+      "cost": "不花钱。随身带几块方糖或者一小盒果汁。",
+      "plain": "先吃 15 克糖，方糖、一小盒果汁都行。15 分钟后再测一次，还低就再来一次。血糖低于 3.0 mmol/L 就是医学上要当回事的低血糖，到了要别人帮忙才能处理的程度，可以致命。意识不清的人一口都别喂，会呛进气管，直接打 120。",
+      "benefit": "血糖低于 3.0 mmol/L，属于临床上有意义的低血糖。出现意识或者行动改变、需要别人帮忙处理的，是重度低血糖，可以致命",
+      "grade": "A",
+      "sources": "美国糖尿病学会 (2025). 糖尿病诊疗标准 2025·第 6 章 血糖目标与低血糖. Diabetes Care：分级「Level 1: Glucose <70 mg/dL (<3.9 mmol/L) and ≥54 mg/dL (≥3.0 mmol/L)」「Level 2: Glucose <54 mg/dL (<3.0 mmol/L)」「Level 3: A severe event characterized by altered mental and/or physical status requiring assistance for treatment of hypoglycemia, irrespective of glucose level」；处理「For most individuals, 15 g carbohydrates should be ingested」「Fifteen minutes after initial treatment, repeat the treatment if hypoglycemia persists」. <https://doi.org/10.2337/dc25-S006>",
+      "notes": "意识不清的人不要喂东西，会呛进气管，直接叫 120。同一份标准还建议，打胰岛素的人、容易低血糖的人，都该备一份胰高血糖素。原文是「All individuals treated with insulin or who are at high risk of hypoglycemia...should be prescribed glucagon」。鼻喷的和事先装好药的针剂，比要临时兑药的好用。这些做法默认是给你自己或者家里的糖尿病人准备的，随身带糖也是给他们带的。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Người tiểu đường đột nhiên run, vã mồ hôi lạnh, nói không rõ: cho ăn 15 gram đường trước, 15 phút sau đo lại",
+    "fields": {
+      "cost": "Không tốn tiền. Mang theo người vài viên đường hoặc một hộp nước trái cây nhỏ.",
+      "plain": "Trước hết ăn 15 gram đường; đường viên hay một hộp nước trái cây nhỏ đều được. 15 phút sau đo lại, nếu vẫn thấp thì ăn thêm một lần nữa. Đường huyết dưới 3.0 mmol/L là hạ đường huyết cần coi trọng về mặt y khoa. Khi đã đến mức phải nhờ người khác giúp mới xử lý được thì có thể gây tử vong. Người ý thức không tỉnh táo thì không được cho ăn uống dù chỉ một miếng, vì có thể sặc vào khí quản; hãy gọi 120 ngay.",
+      "benefit": "Đường huyết dưới 3.0 mmol/L được xem là hạ đường huyết có ý nghĩa lâm sàng. Khi đã có thay đổi về ý thức hoặc hành vi, phải nhờ người khác giúp xử lý, thì đó là hạ đường huyết nặng và có thể gây tử vong.",
+      "grade": "A",
+      "sources": "美国糖尿病学会 (2025). 糖尿病诊疗标准 2025·第 6 章 血糖目标与低血糖. Diabetes Care：分级「Level 1: Glucose <70 mg/dL (<3.9 mmol/L) and ≥54 mg/dL (≥3.0 mmol/L)」「Level 2: Glucose <54 mg/dL (<3.0 mmol/L)」「Level 3: A severe event characterized by altered mental and/or physical status requiring assistance for treatment of hypoglycemia, irrespective of glucose level」；处理「For most individuals, 15 g carbohydrates should be ingested」「Fifteen minutes after initial treatment, repeat the treatment if hypoglycemia persists」. <https://doi.org/10.2337/dc25-S006>",
+      "notes": "Không được cho người ý thức không tỉnh táo ăn uống, vì có thể sặc vào khí quản; hãy gọi 120 ngay. Cùng tiêu chuẩn đó còn khuyên người dùng insulin và người dễ bị hạ đường huyết đều nên có sẵn glucagon. Nguyên văn: “All individuals treated with insulin or who are at high risk of hypoglycemia...should be prescribed glucagon”. Dạng xịt mũi và dạng tiêm nạp sẵn thuốc dễ dùng hơn loại phải pha thuốc tại chỗ. Những việc này mặc định là chuẩn bị cho chính bạn hoặc người tiểu đường trong nhà; mang theo đường bên người cũng là mang cho họ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

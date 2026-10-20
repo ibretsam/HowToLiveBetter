@@ -1,0 +1,48 @@
+{
+  "id": "e-28-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "f6b38fbd25f439d5f1dccb78c13036d94c2b7ddd2d18bd01157f0e4fa70f24b8",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "不要用极端节食、断食或催吐来控制体重，要减就从运动那一侧减",
+    "fields": {
+      "cost": "不花钱。反过来还省下买减肥产品的钱。",
+      "plain": "神经性厌食的人，死亡概率大约是同龄人的 5.9 倍。每 1000 个人跟一年死 5.1 个，其中约五分之一是自杀。节食的人更容易得进食障碍：跟踪 44 所中学的学生三年，严重节食的女生得病的概率是不节食的 18 倍。想控制体重就多运动，别少吃到饿。",
+      "benefit": "36 项研究合起来算。神经性厌食这一批人累计被跟踪了 166,642 人年（每人被跟踪的年数加总）。他们的标准化死亡比是 5.86，即死亡概率约为同龄人的 5.9 倍。每 1000 人年死亡 5.1 例，就是 1000 个人跟一年死 5.1 个。死的人里约 1/5 死于自杀。贪食症的标准化死亡比是 1.93，其他进食障碍是 1.92，即各约为同龄人的 1.9 倍。另一项研究在澳大利亚维多利亚州的 44 所中学做，跟踪 14–15 岁学生 3 年，同一批学生前后查了 6 波。女生新发进食障碍 21.8/1000 人年，即 1000 个女生跟一年新出 21.8 例。严重节食的女生发病风险是不节食者的 18 倍，中度节食者是 5 倍。再校正既往节食与精神症状，把「以前就节食过」和「本来就有精神症状」的影响扣掉。扣掉之后，BMI（体重除以身高平方算出的胖瘦指标）、运动量和性别都不再预测新发进食障碍。作者结论是「在青少年中用运动而非限食控制体重，发生进食障碍的风险似乎更低」",
+      "grade": "A",
+      "sources": "Arcelus J et al. (2011). Mortality rates in patients with anorexia nervosa and other eating disorders. A meta-analysis of 36 studies. Arch Gen Psychiatry. <https://doi.org/10.1001/archgenpsychiatry.2011.74>；Patton GC et al. (1999). Onset of adolescent eating disorders: population based cohort study over 3 years. BMJ. <https://doi.org/10.1136/bmj.318.7186.765>",
+      "notes": "这里说的「严重节食」，指的是长期把吃的压到远低于身体需要，不是指少吃一顿或者不吃夜宵。已经出现催吐、暴食之后自责、反复称重停不下来的，去精神科或者综合医院的临床心理科看。这是有规范治疗办法的病，不是意志力的问题。BMI 与死亡率的关系见第 2 节第 32 条，那条讲长期体重区间，不讲减重手段。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Đừng kiểm soát cân nặng bằng ăn kiêng cực đoan, nhịn ăn hoặc gây nôn; muốn giảm hãy tăng vận động",
+    "fields": {
+      "cost": "Không tốn tiền, còn tiết kiệm tiền mua sản phẩm giảm cân.",
+      "plain": "Người chán ăn tâm thần có nguy cơ tử vong khoảng 5.9 lần người cùng tuổi. Theo dõi 1000 người một năm có 5.1 người chết. Trong số người chết, cứ năm người có một người tự sát. Ăn kiêng là lối dẫn vào bệnh: theo dõi học sinh tại 44 trường trung học ba năm thấy nữ sinh ăn kiêng nghiêm ngặt có nguy cơ rối loạn ăn uống gấp 18 lần người không ăn kiêng. Muốn kiểm soát cân nặng hãy vận động nhiều hơn, đừng giảm ăn đến mức đói.",
+      "benefit": "Gộp 36 nghiên cứu. Nhóm chán ăn tâm thần được theo dõi tổng cộng 166,642 người-năm (cộng số năm theo dõi từng người). Tỷ số tử vong chuẩn hóa là 5.86, tức nguy cơ chết khoảng 5.9 lần người cùng tuổi. Mỗi 1000 người-năm có 5.1 ca tử vong, nghĩa là theo 1000 người một năm chết 5.1 người. Khoảng 1/5 số người chết do tự sát. Tỷ số tử vong chuẩn hóa của chứng cuồng ăn là 1.93, rối loạn ăn uống khác là 1.92, đều khoảng 1.9 lần người cùng tuổi. Nghiên cứu khác tại 44 trường trung học bang Victoria, Australia theo học sinh 14–15 tuổi trong 3 năm, khảo sát cùng nhóm qua 6 đợt. Tỷ lệ mới mắc rối loạn ăn uống ở nữ là 21.8/1000 người-năm, tức theo 1000 nữ sinh một năm có 21.8 ca mới. Nữ sinh ăn kiêng nghiêm ngặt có nguy cơ gấp 18 lần người không ăn kiêng; ăn kiêng vừa phải gấp 5 lần. Sau khi hiệu chỉnh tiền sử ăn kiêng và triệu chứng tâm thần, tức loại ảnh hưởng của «trước đó đã ăn kiêng» và «vốn có triệu chứng tâm thần», BMI (cân nặng chia bình phương chiều cao), mức vận động và giới tính không còn dự báo ca mới. Tác giả kết luận «ở thanh thiếu niên, kiểm soát cân nặng bằng vận động thay vì hạn chế ăn có vẻ gắn với nguy cơ rối loạn ăn uống thấp hơn»",
+      "grade": "A",
+      "sources": "Arcelus J et al. (2011). Mortality rates in patients with anorexia nervosa and other eating disorders. A meta-analysis of 36 studies. Arch Gen Psychiatry. <https://doi.org/10.1001/archgenpsychiatry.2011.74>；Patton GC et al. (1999). Onset of adolescent eating disorders: population based cohort study over 3 years. BMJ. <https://doi.org/10.1136/bmj.318.7186.765>",
+      "notes": "«Ăn kiêng nghiêm ngặt» ở đây là lâu dài ăn ít hơn rất nhiều nhu cầu cơ thể, không phải bỏ một bữa hay không ăn khuya. Đã gây nôn, tự trách sau ăn vô độ hoặc cân đi cân lại không dừng được thì đến khoa tâm thần hoặc tâm lý lâm sàng bệnh viện đa khoa. Đây là bệnh có cách điều trị chuẩn, không phải vấn đề ý chí. Quan hệ BMI và tử vong xem chương 2 mục 32; mục đó nói khoảng cân nặng lâu dài, không nói cách giảm cân."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

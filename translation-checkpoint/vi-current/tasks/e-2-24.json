@@ -1,0 +1,48 @@
+{
+  "id": "e-2-24",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "e30e00aa6b639c9b47c9f156ac8f5f74766acad02a593f1240f31f69d44d421b",
+  "status": "draft",
+  "original": {
+    "number": 24,
+    "title": "把一部分精米白面换成全谷物",
+    "fields": {
+      "cost": "糙米、燕麦、全麦面比精米白面贵一点，不占时间。难在口感要慢慢适应。",
+      "plain": "每天多吃 90 g 全谷物的人，同期死亡的概率低约 17%。90 g 大约是三份。吃到每天 200 g 左右，还在继续往下降。",
+      "benefit": "把多项跟踪研究合起来算（只记录、不分组）：全谷物每天多吃 90 g，死亡风险低约 17%（RR 0.83）。90 g 大约是 3 份。这份好处一直持续到每天 210–225 g。另一项汇总里，每天多吃 1 份低约 8%（RR 0.92）。",
+      "grade": "A",
+      "sources": "Aune D 等 (2016). Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. <https://doi.org/10.1136/bmj.i2716>；Schwingshackl L 等 (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>",
+      "notes": "不必全换成全谷物，换一半就已经在好处最明显的那一段了。要注意这类研究只是跟踪记录，吃全谷物的人本来就更健康，数字偏大。各项研究之间的结果差得也远（I² 83%，这个数越大说明各研究结论越不一致）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 24,
+    "title": "Thay một phần gạo trắng, bột mì tinh chế bằng ngũ cốc nguyên hạt",
+    "fields": {
+      "cost": "Gạo lứt, yến mạch, bột mì nguyên cám đắt hơn loại tinh chế một chút, không tốn thêm thời gian. Điều khó là làm quen dần với vị và cảm giác khi ăn.",
+      "plain": "Người ăn thêm 90 g ngũ cốc nguyên hạt mỗi ngày có xác suất tử vong cùng kỳ thấp hơn khoảng 17%. 90 g tương đương khoảng ba khẩu phần. Ăn đến khoảng 200 g mỗi ngày, nguy cơ vẫn tiếp tục giảm.",
+      "benefit": "Gộp nhiều nghiên cứu chỉ theo dõi, không phân nhóm, cho thấy mỗi thêm 90 g ngũ cốc nguyên hạt mỗi ngày liên quan nguy cơ tử vong thấp hơn khoảng 17% (RR 0.83). 90 g tương đương khoảng 3 khẩu phần. Lợi ích tiếp tục đến mức 210–225 g mỗi ngày. Một phân tích gộp khác thấy mỗi thêm 1 khẩu phần hằng ngày liên quan nguy cơ thấp hơn khoảng 8% (RR 0.92).",
+      "grade": "A",
+      "sources": "Aune D 等 (2016). Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. <https://doi.org/10.1136/bmj.i2716>；Schwingshackl L 等 (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>",
+      "notes": "Không cần đổi toàn bộ sang nguyên hạt; đổi một nửa đã nằm trong khoảng lợi ích rõ nhất. Cần nhớ nghiên cứu chỉ theo dõi, người ăn nguyên hạt vốn khỏe hơn nên con số có thể bị phóng đại. Kết quả giữa các nghiên cứu cũng khác nhau nhiều (I² 83%; số này càng cao thì kết luận càng không nhất quán)."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

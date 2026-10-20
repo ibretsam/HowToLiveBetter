@@ -1,0 +1,49 @@
+{
+  "id": "e-20-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "ee4910caa9104c6db25567270db8b7a86d954f6f98e8c9f89154d7d3a2313c5a",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "出生后 24 小时内打上乙肝疫苗第一针",
+    "fields": {
+      "cost": "不花钱。乙肝疫苗属于免疫规划疫苗，本来就免费。孩子出生当天在医院就打了，不用另外跑",
+      "plain": "孩子出生后 24 小时之内要打上第一针乙肝疫苗。在婴儿期和幼儿期感染乙肝的人里，约有 95% 会转成慢性肝炎。成年以后才感染的，绝大多数能自己好，所以这一针越早打越有用。妈妈乙肝表面抗原是阳性的，孩子出生 12 小时内还要同时打乙肝免疫球蛋白。",
+      "benefit": "世界卫生组织的说法是：「所有婴儿都应在出生后尽早（24 小时内）接种乙肝疫苗。」原因是「婴儿期和幼儿期感染约有 95% 会发展为慢性肝炎」。成年后感染的绝大多数能自愈（不用治也会好）。世卫的原话是，成年后感染「不到 5%」转成慢性。国家卫健委的母婴阻断规范要求，乙肝表面抗原阳性的妈妈生的孩子，「出生后12小时内尽早接种首剂乙肝疫苗，同时注射100国际单位乙肝免疫球蛋白」",
+      "grade": "A",
+      "sources": "World Health Organization. Hepatitis B fact sheet. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-b>；国家卫生健康委办公厅 (2020). 预防艾滋病、梅毒和乙肝母婴传播工作规范（2020 年版）. <https://wjw.xinjiang.gov.cn/hfpc/zhgl6/202012/08b7de496f0b40e586d4b99d00cf79c4.shtml>（新疆维吾尔自治区卫生健康委员会转载）",
+      "notes": "妈妈的乙肝表面抗原是阳性的，孩子出生后还要同时打一针乙肝免疫球蛋白。这件事产检的时候就要查清楚，别等生完再问。妈妈自己要做的筛查见第 1 节"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Tiêm mũi viêm gan B đầu tiên trong 24 giờ sau sinh",
+    "fields": {
+      "cost": "Không tốn tiền. Vắc xin viêm gan B thuộc chương trình tiêm chủng nên miễn phí. Tiêm ngay bệnh viện ngày sinh, không phải đi riêng",
+      "plain": "Trong 24 giờ sau sinh phải tiêm mũi viêm gan B đầu tiên. Trong người nhiễm ở tuổi nhũ nhi, trẻ nhỏ, khoảng 95% thành viêm gan mạn. Người nhiễm khi trưởng thành phần lớn tự khỏi. Vì vậy mũi này càng sớm càng có ích. Mẹ dương tính kháng nguyên bề mặt viêm gan B thì trẻ còn phải tiêm đồng thời globulin miễn dịch viêm gan B.",
+      "benefit": "WHO nêu: “Mọi trẻ sơ sinh cần tiêm vắc xin viêm gan B càng sớm càng tốt sau sinh (trong 24 giờ).” Vì “khoảng 95% trường hợp nhiễm ở tuổi nhũ nhi và trẻ nhỏ tiến triển thành viêm gan mạn”. Phần lớn người nhiễm khi trưởng thành tự khỏi (không điều trị vẫn khỏi)",
+      "grade": "A",
+      "sources": "World Health Organization. Hepatitis B fact sheet. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-b>",
+      "notes": "Mẹ dương tính kháng nguyên bề mặt viêm gan B thì sau sinh trẻ còn phải tiêm đồng thời một mũi globulin miễn dịch viêm gan B. Phải làm rõ ngay khi khám thai, đừng đợi sinh xong mới hỏi. Sàng lọc mẹ cần làm xem chương 1"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

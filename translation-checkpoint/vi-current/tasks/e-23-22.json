@@ -1,0 +1,48 @@
+{
+  "id": "e-23-22",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "654706a50e383d9525bb8702802ec20d5077570573b844d5e6f6b0e507d34e01",
+  "status": "outdated",
+  "original": {
+    "number": 22,
+    "title": "别找中介代评、别买论文代写、别在材料上造假：查实就撤销职称，记诚信档案 3 年",
+    "fields": {
+      "cost": "不花钱。难在忍住「花钱包过」的广告。",
+      "plain": "用假材料、代写论文、剽窃成果拿到的职称，查实就撤销。失信记录要记 3 年，还进全国信用平台。申报时签的承诺书不实，3 年内不能再申报。人社部门还专门查处中介的虚假宣传、假冒评审和假证。",
+      "benefit": "人社部令第 40 号规定，提供虚假材料、剽窃他人作品和学术成果，或者用其他不正当手段取得职称的，撤销职称。同时记入职称评审诚信档案库，纳入全国信用信息共享平台，记录期限 3 年。2024 年的监管办法点名了申报人的几类违规：虚假承诺和伪造信息，论文造假代写，业绩造假，说情打招呼。申报时要签个人承诺书，承诺不实的，3 年内不得申报。人社部门会同公安、网信、市场监管查处中介的虚假网站、虚假宣传、合同陷阱、假冒评审和假证。情节严重涉嫌犯罪的，移送有关机关处理（全国）",
+      "grade": "A",
+      "sources": "人力资源和社会保障部令第 40 号 (2019). 职称评审管理暂行规定. <https://www.gov.cn/gongbao/content/2019/content_5437137.htm>：第三十九条；人力资源社会保障部 (2024). 职称评审监管暂行办法. <https://www.gov.cn/zhengce/zhengceku/202408/content_6969436.htm>：第五条、第十五条、第十七条、第二十七条；人力资源社会保障部办公厅 (2022). 关于进一步做好职称评审工作的通知. <https://www.gov.cn/zhengce/zhengceku/2022-12/24/content_5733407.htm>：「未经备案的职称评审委员会，评审结果不纳入全国职称评审信息查询验证系统」；新华社 (2024). 职称评审进入高峰，信息如何查？有何新变化？ <https://www.gov.cn/zhengce/202410/content_6978917.htm>：「大家可通过www.12333.gov.cn网页、手机12333客户端、人力资源社会保障部门户网站、“人力资源和社会保障部”微信公众号等多种渠道进行登录」；最高人民法院、最高人民检察院 (2019). 关于办理组织考试作弊等刑事案件适用法律若干问题的解释（法释〔2019〕13 号，第一条）. <https://www.spp.gov.cn/spp/xwfbh/wsfbh/201909/t20190903_430901.shtml>：「国家统一法律职业资格考试、国家教师资格考试、注册会计师全国统一考试、会计专业技术资格考试……等专业技术资格考试」",
+      "notes": "辨真假有个办法：正规评审出来的职称，能在全国职称评审信息查询平台查到。入口是 12333 网站、12333 手机客户端和人社部官网。没经过备案的评审委员会评出来的，这个系统里查不到。所以承诺「包过」「不用本人参加」「证书查不到也能用」的，基本可以判定有问题。受益人主要是自己，收益量级按「避免撤销职称和 3 年失信记录」判。会计专业技术资格考试在司法解释列的「法律规定的国家考试」名单里，在这类考试里找人替考、卖答案、组织作弊是犯罪。单纯自己买答案偷看，法条没有列为犯罪，按考试的违纪规定处理，见第 9 节第 29 条（不找人替考）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 22,
+    "title": "Đừng nhờ môi giới đánh giá hộ, mua viết thuê bài, làm giả hồ sơ: xác minh được sẽ hủy chức danh, lưu vi phạm tín nhiệm 3 năm",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là cưỡng lời quảng cáo “trả tiền bao đậu”.",
+      "plain": "Chức danh lấy qua hồ sơ giả, thuê viết bài, đạo thành quả sẽ bị hủy khi xác minh. Hồ sơ mất tín nhiệm lưu 3 năm, vào nền tảng tín dụng toàn quốc. Cam kết đăng ký không thật thì 3 năm không được đăng ký lại. Cơ quan nhân lực còn chuyên xử lý quảng cáo giả, đánh giá mạo, chứng chỉ giả của môi giới.",
+      "benefit": "Lệnh số 40 Bộ Nhân lực quy định cung cấp giả, đạo tác phẩm/thành quả học thuật hoặc cách bất chính khác để có chức danh thì hủy; ghi cơ sở hồ sơ tín nhiệm đánh giá chức danh, nhập nền tảng chia sẻ thông tin tín dụng toàn quốc, lưu 3 năm. Biện pháp giám sát 2024 nêu vi phạm: cam kết giả, ngụy tạo thông tin, bài báo giả/thuê viết, thành tích giả, nhờ can thiệp. Phải ký cam kết cá nhân; không thật thì 3 năm không đăng ký. Cơ quan nhân lực phối hợp công an, không gian mạng, quản lý thị trường xử lý web giả, quảng cáo giả, bẫy hợp đồng, đánh giá mạo, giấy giả của môi giới. Nặng nghi tội chuyển cơ quan liên quan (toàn quốc)",
+      "grade": "A",
+      "sources": "人力资源和社会保障部令第 40 号 (2019). 职称评审管理暂行规定. <https://www.gov.cn/gongbao/content/2019/content_5437137.htm>：第三十九条；人力资源社会保障部 (2024). 职称评审监管暂行办法. <https://www.gov.cn/zhengce/zhengceku/202408/content_6969436.htm>：第五条、第十五条、第十七条、第二十七条；人力资源社会保障部办公厅 (2022). 关于进一步做好职称评审工作的通知. <https://www.gov.cn/zhengce/zhengceku/2022-12/24/content_5733407.htm>：「未经备案的职称评审委员会，评审结果不纳入全国职称评审信息查询验证系统」；新华社 (2024). 职称评审进入高峰，信息如何查？有何新变化？ <https://www.gov.cn/zhengce/202410/content_6978917.htm>：「大家可通过www.12333.gov.cn网页、手机12333客户端、人力资源社会保障部门户网站、“人力资源和社会保障部”微信公众号等多种渠道进行登录」",
+      "notes": "Cách phân thật giả: chức danh đánh giá chính quy tra được nền tảng thông tin đánh giá chức danh toàn quốc. Vào qua web 12333, ứng dụng 12333, trang Bộ Nhân lực. Hội đồng chưa đăng ký thì hệ thống không tra được. Hứa “bao đậu”, “không cần đích thân”, “không tra được vẫn dùng” cơ bản có vấn đề. Hưởng lợi chủ yếu bạn; mức lợi ích theo tránh hủy chức danh và hồ sơ mất tín nhiệm 3 năm."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

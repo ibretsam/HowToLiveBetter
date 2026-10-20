@@ -1,0 +1,49 @@
+{
+  "id": "e-33-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "d1c0b37d7e0d3a90cbf1355dd320506e05e226780705744d1f27dbceec95e16f",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "残疾孩子申请入学，学校不得拒收；到不了校的由教育局安排送教上门",
+    "fields": {
+      "cost": "不花钱。要交一次申请，可能要经过一次评估。学校推脱时得往上找教育局。",
+      "plain": "幼儿园和各类学校，对符合条件的残疾孩子申请入学不得拒收，普通职业学校也一样。孩子需要专人护理、到不了学校的，由县教育局安排送教上门或远程上课，照样有学籍。入学和转学先由教育局的专家委员会评估、提建议，不由学校一句话说了算。",
+      "benefit": "《残疾人教育条例》第七条：「学前教育机构、各级各类学校及其他教育机构应当依照本条例以及国家有关法律、法规的规定，实施残疾人教育；对符合法律、法规规定条件的残疾人申请入学，不得拒绝招收。」第二十九条：「普通职业学校不得拒绝招收符合国家规定的录取标准的残疾人入学，普通职业培训机构应当积极招收残疾人入学。」条例还规定，适龄残疾儿童、少年需要专人护理、不能到学校就读的，由县级人民政府教育行政部门统筹安排，通过提供送教上门或者远程教育等方式实施义务教育，并纳入学籍管理。第二十条规定，县级人民政府教育行政部门应当会同卫生行政部门、民政部门、残疾人联合会，建立由教育、心理、康复、社会工作等方面专家组成的残疾人教育专家委员会，由它评估身体状况、接受教育的能力和适应学校学习生活的能力并提出入学、转学建议；评估结果属于孩子的隐私，有关单位和工作人员负有保密义务。第二十三条规定，在普通学校随班就读的残疾学生，可以适用普通义务教育的课程设置方案、课程标准和教材，但是对其学习要求可以有适度弹性。第五十二条规定，残疾人参加国家教育考试需要必要支持条件和合理便利的，可以提出申请（全国，2017 年 5 月 1 日起施行）",
+      "grade": "A",
+      "sources": "国务院 (2017). 残疾人教育条例（第七条、第二十条、第二十三条、第二十九条、第五十二条）. <https://www.gov.cn/zhengce/zhengceku/2017-02/23/content_5170264.htm>",
+      "notes": "学校口头说「我们这儿没条件」不算数。要它出书面答复，拿着书面答复去找县级教育局。评估是教育局委托专家委员会做的。第二十三条那句「学习要求可以有适度弹性」很有用，遇到学校拿成绩当理由劝退时可以引。孩子在校被欺凌怎么留证据、学校必须走哪道程序，见第 30 节第 3 条（校园欺凌）。高考的合理便利见本节第 13 条（合理便利）。受益人是你的孩子。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Trẻ khuyết tật xin học, trường không được từ chối; không đến trường được thì Phòng Giáo dục bố trí dạy tại nhà",
+    "fields": {
+      "cost": "Không tốn tiền. Nộp đơn một lần, có thể qua đánh giá. Trường thoái thác thì tìm lên cơ quan giáo dục.",
+      "plain": "Mẫu giáo và mọi loại trường không được từ chối trẻ khuyết tật đủ điều kiện xin học; trường nghề thông thường cũng vậy. Trẻ cần người chăm riêng, không đến trường được thì cơ quan giáo dục huyện bố trí dạy tại nhà hoặc từ xa, vẫn có hồ sơ học sinh. Nhập học, chuyển trường do cơ quan giáo dục quyết định sau đánh giá của hội đồng chuyên gia, không phải trường tự quyết.",
+      "benefit": "Điều bảy Điều lệ Giáo dục người khuyết tật: ‘Cơ sở mầm non, trường mọi cấp, loại và cơ sở giáo dục khác phải thực hiện giáo dục người khuyết tật theo điều lệ và luật, quy định liên quan; không được từ chối người khuyết tật đủ điều kiện pháp luật xin học’. Điều hai mươi chín: ‘Trường nghề thông thường không được từ chối người khuyết tật đạt chuẩn tuyển sinh nhà nước; cơ sở đào tạo nghề thông thường phải tích cực tuyển người khuyết tật’. Điều lệ còn quy định trẻ khuyết tật đúng tuổi cần chăm riêng, không đến trường được thì cơ quan giáo dục huyện bố trí giáo dục bắt buộc bằng dạy tại nhà hoặc từ xa, đưa vào quản lý hồ sơ học sinh. Điều hai mươi: cơ quan giáo dục huyện phối hợp y tế, dân chính, Liên hiệp lập hội đồng chuyên gia giáo dục người khuyết tật gồm chuyên gia giáo dục, tâm lý, phục hồi, công tác xã hội… Hội đồng đánh giá thể chất, khả năng tiếp nhận giáo dục, thích nghi học và sống tại trường, đề xuất nhập học, chuyển trường. Kết quả là riêng tư của trẻ; đơn vị, nhân viên có nghĩa vụ giữ kín. Điều hai mươi ba: học sinh khuyết tật học hòa nhập có thể dùng chương trình, chuẩn và sách giáo dục bắt buộc thông thường, nhưng yêu cầu học tập có thể linh hoạt thích hợp. Điều năm mươi hai: người khuyết tật thi giáo dục quốc gia cần hỗ trợ, điều chỉnh hợp lý được nộp đề nghị (toàn quốc, hiệu lực ngày 1 tháng 5 năm 2017).",
+      "grade": "A",
+      "sources": "国务院 (2017). 残疾人教育条例（第七条、第二十条、第二十三条、第二十九条、第五十二条）. <https://www.gov.cn/zhengce/zhengceku/2017-02/23/content_5170264.htm>",
+      "notes": "Trường nói miệng ‘chúng tôi không có điều kiện’ không đủ. Yêu cầu trả lời bằng văn bản rồi mang đến cơ quan giáo dục huyện. Đánh giá do cơ quan này ủy thác hội đồng chuyên gia. Câu ‘yêu cầu học tập có thể linh hoạt thích hợp’ ở điều hai mươi ba rất hữu ích khi trường lấy điểm số khuyên nghỉ. Cách lưu chứng cứ bắt nạt ở trường, thủ tục trường phải làm xem chương 30 mục 3 (bắt nạt học đường). Điều chỉnh hợp lý khi thi đại học xem mục 13 chương này. Người hưởng lợi là con bạn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

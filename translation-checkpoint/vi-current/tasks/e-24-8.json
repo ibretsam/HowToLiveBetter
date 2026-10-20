@@ -1,0 +1,48 @@
+{
+  "id": "e-24-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "260ab87722ac7340da253bb86353939439f50aa39c242bd0c524c6a331598f88",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "没带钱、没带证件、说不清自己是谁，急诊也必须先救",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "国家有一笔疾病应急救助基金，专付两种人的急救费：身份查不出来的，和掏不出钱的。医院不能拒绝或拖延抢救，急救中心也不能因为钱的问题不出车。所以别因为没钱在家硬扛，也别怕欠费不叫救护车。这笔钱只管急救，后面住院还是走医保和医疗救助。",
+      "benefit": "疾病应急救助制度的救助对象是「在中国境内发生急重危伤病、需要急救但身份不明确或无力支付相应费用的患者」。基金支付两类费用：「无法查明身份患者所发生的急救费用」，和「身份明确但无力缴费的患者所拖欠的急救费用」。文件还写明「各级各类医疗机构及其工作人员必须及时、有效地对急重危伤患者施救，不得以任何理由拒绝、推诿或拖延救治」。院前急救也有规定：全国院前医疗急救呼叫号码为「120」。急救中心（站）「不得因指挥调度原因拒绝、推诿或者延误院前医疗急救服务」，也「不得因费用问题拒绝或者延误院前医疗急救服务」。转运遵循「就近、就急、满足专业需要、兼顾患者意愿的原则」（全国，2013 年起）",
+      "grade": "A",
+      "sources": "国务院办公厅 (2013). 关于建立疾病应急救助制度的指导意见（国办发〔2013〕15 号）. <https://www.gov.cn/zhengce/zhengceku/2013-03/01/content_6069.htm>；国家卫生和计划生育委员会 (2014). 院前医疗急救管理办法（委令第 3 号，第十三、二十二、二十三、二十五条）. <http://www.gov.cn/gongbao/content/2014/content_2580977.htm>",
+      "notes": "基金只付「急救费用」那一段，而且是先救治，事后由医疗机构向基金申请，不是你去窗口领钱。有医保的照常先走医保。各省的申请流程和限额不同。转运原则里「就近、就急」排在「患者意愿」前面，所以救护车不一定送你指定的那家医院，危重时以最近能处理的为准。后续自己掏的部分仍然过重的，走医疗救助，见第 7 节第 10 条（医疗救助）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Không tiền, không giấy tờ, không nói rõ mình là ai, cấp cứu vẫn phải cứu trước",
+    "fields": {
+      "cost": "Không tốn tiền.",
+      "plain": "Nhà nước có quỹ cứu trợ y tế khẩn cấp, trả phí cấp cứu cho người không xác định danh tính và không đủ tiền. Bệnh viện không được từ chối, trì hoãn cứu, trung tâm cấp cứu không được vì tiền không xuất xe. Đừng vì thiếu tiền cố chịu tại nhà, đừng sợ nợ phí không gọi xe. Quỹ chỉ lo cấp cứu, nội trú sau đó theo bảo hiểm y tế, cứu trợ y tế.",
+      "benefit": "Đối tượng chế độ cứu trợ y tế khẩn cấp là “bệnh nhân tại Trung Quốc bị thương bệnh cấp nặng, nguy kịch, cần cứu nhưng không rõ danh tính hoặc không đủ trả phí tương ứng”. Quỹ trả “chi phí cấp cứu người không xác định được danh tính” và “chi phí cấp cứu còn nợ của người rõ danh tính nhưng không đủ tiền”. Văn bản còn ghi “mọi cơ sở y tế mọi cấp, loại và nhân viên phải cứu kịp thời, hiệu quả bệnh nhân cấp nặng nguy kịch, không được vì bất kỳ lý do từ chối, đùn đẩy, trì hoãn”. Cấp cứu trước viện cũng quy định số toàn quốc “120”. Trung tâm/trạm “không được vì điều phối chỉ huy mà từ chối, đùn đẩy, trì hoãn”, cũng “không được vì chi phí mà từ chối, trì hoãn cấp cứu trước viện”. Chuyển bệnh theo “gần nhất, khẩn cấp nhất, đáp ứng chuyên môn, có xét ý nguyện bệnh nhân” (toàn quốc, từ 2013)",
+      "grade": "A",
+      "sources": "国务院办公厅 (2013). 关于建立疾病应急救助制度的指导意见（国办发〔2013〕15 号）. <https://www.gov.cn/zhengce/zhengceku/2013-03/01/content_6069.htm>；国家卫生和计划生育委员会 (2014). 院前医疗急救管理办法（委令第 3 号，第十三、二十二、二十三、二十五条）. <http://www.gov.cn/gongbao/content/2014/content_2580977.htm>",
+      "notes": "Quỹ chỉ trả phần cấp cứu, cứu trước rồi cơ sở xin quỹ sau, bạn không phải đến cửa nhận tiền. Có bảo hiểm thì theo bảo hiểm trước như thường. Tỉnh khác quy trình, hạn mức. Nguyên tắc gần nhất, khẩn cấp nhất đứng trước ý nguyện nên xe không nhất thiết đưa viện bạn chọn; nguy kịch chọn nơi gần xử lý được. Phần tự trả sau vẫn quá nặng thì cứu trợ y tế, xem chương 7 mục 10."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

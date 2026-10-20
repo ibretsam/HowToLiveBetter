@@ -1,0 +1,48 @@
+{
+  "id": "e-23-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "4e356c696f703efe9c615ad923014b8b7662d8dc4313f5f304aabbc7fdc5ef07",
+  "status": "draft",
+  "original": {
+    "number": 11,
+    "title": "学之前先确认这个技能有没有等级评价，等级能不能换成钱",
+    "fields": {
+      "cost": "不花钱。查一次就行。",
+      "plain": "国家在推「新八级工」，要求企业把岗位工资和技能等级挂钩，表现突出的职工还能不看工龄资历直接认定等级。这是政策方向，各地各企业差别很大。有国家职业标准和等级通道的技能，往后才谈得上按等级涨薪，学之前先查一下有没有。",
+      "benefit": "国家正在推「新八级工」职业技能等级制度。文件明确要求把等级和薪酬挂钩，原话是「强化技能导向的薪酬分配制度……指导企业实行岗位薪酬与岗位价值、技能等级双挂钩的分配办法」。各地要「加大高级工以上评聘力度和批次」。符合条件的企业可以自己给职工做技能等级评价。对表现突出的职工，「可打破工作年限、等级、资历等条件，直接认定相应职业技能等级」",
+      "grade": "B",
+      "sources": "国务院就业促进和劳动保护工作领导小组 (2025). 关于开展大规模职业技能提升培训行动的指导意见. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032222.htm>；人力资源社会保障部 (2021). 「技能中国行动」实施方案. <https://www.gov.cn/zhengce/zhengceku/2021-07/06/content_5622619.htm>",
+      "notes": "这是政策方向，不是已经兑现的工资数，各地各企业的落地程度差别很大。能照着做的部分是：选技能时看它有没有对应的国家职业标准和等级通道，有通道的技能后面才谈得上按等级涨薪。没有等级、也没有行业准入门槛的「技能」，学完只能靠自己找活"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Trước học, xác nhận kỹ năng có đánh giá cấp bậc không, cấp có quy thành tiền không",
+    "fields": {
+      "cost": "Không tốn tiền. Tra một lần.",
+      "plain": "Nhà nước thúc “hệ tám bậc thợ mới”, yêu cầu doanh nghiệp gắn lương vị trí với cấp kỹ năng; nhân viên nổi trội có thể được công nhận trực tiếp không xét thâm niên. Đây là hướng chính sách, khác lớn theo nơi và doanh nghiệp. Kỹ năng có chuẩn nghề quốc gia, lộ trình cấp bậc mới có cơ sở tăng lương theo cấp; tra trước học.",
+      "benefit": "Nhà nước thúc hệ cấp kỹ năng “tám bậc thợ mới”. Văn bản yêu cầu gắn cấp với lương: “tăng cường phân phối lương định hướng kỹ năng… hướng dẫn doanh nghiệp gắn lương vị trí với cả giá trị vị trí và cấp kỹ năng”. Địa phương phải “tăng cường mức độ, số đợt đánh giá/bổ nhiệm thợ bậc cao trở lên”. Doanh nghiệp đủ điều kiện tự đánh giá cấp cho nhân viên. Người nổi trội “có thể vượt điều kiện số năm, cấp, thâm niên… công nhận trực tiếp cấp tương ứng”",
+      "grade": "B",
+      "sources": "国务院就业促进和劳动保护工作领导小组 (2025). 关于开展大规模职业技能提升培训行动的指导意见. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032222.htm>；人力资源社会保障部 (2021). 「技能中国行动」实施方案. <https://www.gov.cn/zhengce/zhengceku/2021-07/06/content_5622619.htm>",
+      "notes": "Đây là hướng chính sách, không phải lương đã nhận; mức thực hiện khác lớn. Việc làm được là chọn kỹ năng có chuẩn nghề quốc gia và đường cấp bậc, có đường mới nói tăng lương theo cấp. “Kỹ năng” không cấp, không ngưỡng vào ngành thì học xong phải tự tìm việc"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

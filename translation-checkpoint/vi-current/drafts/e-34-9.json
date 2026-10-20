@@ -1,0 +1,15 @@
+{
+  "id": "e-34-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "76519a8718a0556aeb5d9cd9cf96dd5de73254ae320e1abf3732a2f038a77bb0",
+  "translator": "pilot_medicine",
+  "retained_terms": {"notes": ["咖"]},
+  "translation": {
+    "title": "Đừng dùng thuốc giảm đau quá 15 ngày mỗi tháng, hoặc thuốc giảm đau phối hợp quá 10 ngày; nếu không, chính thuốc có thể gây đau đầu",
+    "cost": "Không tốn tiền. Cần ghi lại số ngày dùng thuốc và kiềm chế việc tiện tay là uống.",
+    "plain": "Đau đầu tái diễn rồi ngày nào cũng uống thuốc giảm đau có thể khiến càng uống càng đau. Phân loại đau đầu quốc tế gọi đây là đau đầu do lạm dụng thuốc. Đau đầu từ 15 ngày trở lên mỗi tháng, dùng thuốc giảm đau thông thường từ 15 ngày trở lên hoặc thuốc phối hợp từ 10 ngày trở lên, kéo dài hơn 3 tháng liên tục, là đủ ngưỡng chẩn đoán. Phần lớn người bệnh sẽ đỡ sau khi ngừng thuốc đã dùng quá mức.",
+    "benefit": "Ấn bản thứ 3 của Phân loại quốc tế các rối loạn đau đầu, do Hiệp hội Đau đầu Quốc tế ban hành, đưa ra tiêu chuẩn chẩn đoán: người vốn có bệnh đau đầu bị đau từ 15 ngày trở lên mỗi tháng, đồng thời thường xuyên dùng thuốc trị đau đầu quá mức trong hơn 3 tháng. Với thuốc giảm đau không opioid như paracetamol, aspirin và ibuprofen, ngưỡng dùng quá mức là từ 15 ngày trở lên mỗi tháng. Với thuốc giảm đau phối hợp, ngưỡng là từ 10 ngày trở lên mỗi tháng. Thuốc giảm đau phối hợp là thuốc kết hợp từ hai nhóm có tác dụng giảm đau trở lên, hoặc có thêm thành phần hỗ trợ như caffeine; ví dụ paracetamol kết hợp codeine. Nếu luân phiên dùng nhiều thuốc giảm đau không opioid, số ngày dùng phải cộng lại. Phần giải thích của bảng phân loại ghi rằng bằng chứng dịch tễ học từ nhiều nước cho thấy hơn một nửa số người đau đầu từ 15 ngày trở lên mỗi tháng thuộc loại đau đầu này. Phần lớn bệnh nhân đỡ sau khi ngừng thuốc dùng quá mức, và điều trị dự phòng đau đầu cũng hiệu quả hơn.",
+    "notes": "Viên giảm đau có chữ “咖” trong tên tiếng Trung thường có thêm caffeine, nên tính theo thuốc phối hợp với ngưỡng 10 ngày. Nếu số ngày đau đầu trong tháng ngày càng nhiều, hãy khám chuyên khoa thần kinh, đừng chỉ tăng thuốc. Xếp mức B vì tiêu chuẩn phân loại đưa ra ngưỡng chẩn đoán, không phải kết quả thử nghiệm đối chứng. Lợi ích được xếp “trung bình” theo nhận định: điều nhận lại là ít ngày đau đầu hơn, không liên quan đến tử vong.",
+    "extra": ""
+  }
+}

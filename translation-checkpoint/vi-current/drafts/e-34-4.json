@@ -1,0 +1,15 @@
+{
+  "id": "e-34-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d74180464ee67a597f38082c2cb0e6fb42999c0e602a8b35ddce56b2ba31d999",
+  "translator": "pilot_medicine",
+  "retained_terms": {"benefit": ["氨酚麻美", "小儿氨酚黄那敏", "小儿氨酚烷胺"], "notes": ["氨酚"]},
+  "translation": {
+    "title": "Khi trẻ dưới 2 tuổi bị cảm, đừng tự cho trẻ uống thuốc cảm phối hợp hoặc thuốc ho",
+    "cost": "Không tốn tiền, còn tiết kiệm được tiền mua thuốc.",
+    "plain": "Cục Quản lý Dược phẩm Quốc gia Trung Quốc yêu cầu bổ sung cảnh báo cho 14 loại thuốc cảm phối hợp dành cho trẻ em. Cảnh báo không khuyến nghị phụ huynh tự dùng thuốc cho trẻ dưới 2 tuổi; cần dùng dưới sự hướng dẫn của bác sĩ hoặc dược sĩ. Trong các thử nghiệm trên trẻ em, thuốc ho và thuốc chống dị ứng đều không có hiệu quả tốt hơn giả dược.",
+    "benefit": "Thông báo số 57 năm 2021 của Cục Quản lý Dược phẩm Quốc gia Trung Quốc sửa hướng dẫn sử dụng của 14 loại thuốc, gồm dung dịch uống 氨酚麻美, cốm 小儿氨酚黄那敏, cốm 小儿氨酚烷胺 và các loại khác. Cảnh báo mới là: “Không khuyến nghị phụ huynh hoặc người giám hộ tự dùng sản phẩm này cho trẻ dưới 2 tuổi; cần dùng dưới sự hướng dẫn của bác sĩ hoặc dược sĩ”. Phần lưu ý bổ sung: “Phải tuân thủ nghiêm ngặt cách dùng và liều dùng trong hướng dẫn sử dụng để tránh quá liều”. Phần này cũng bổ sung: “Tránh dùng kết hợp với thuốc cảm có hoạt chất giống hoặc tương tự”. Một tổng quan hệ thống Cochrane gồm 29 thử nghiệm ngẫu nhiên có đối chứng, trong đó 10 thử nghiệm thực hiện trên trẻ em. Trong các thử nghiệm trên trẻ em, những nhóm thuốc sau đều không tốt hơn giả dược: thuốc giảm ho; thuốc kháng histamine (thành phần chống dị ứng); thuốc kháng histamine kết hợp thuốc giảm sung huyết (thành phần làm thông mũi); và thuốc giảm ho kết hợp thuốc giãn phế quản. Có 21 nghiên cứu báo cáo phản ứng bất lợi; các chế phẩm chứa thuốc kháng histamine và dextromethorphan có nhiều phản ứng bất lợi hơn.",
+    "notes": "Nhiều thuốc trong 14 loại này có chữ “氨酚” trong tên và cũng chứa paracetamol; dùng thêm thuốc hạ sốt sẽ bị trùng, xem mục 1 của chương này (paracetamol). Trong tổng quan đó, một thử nghiệm thấy mật ong tốt hơn giả dược, nhưng không được cho trẻ chưa đủ 1 tuổi dùng mật ong, xem chương 20 mục 6 (mật ong). Xếp mức B vì số thử nghiệm cho mỗi nhóm thuốc trong tổng quan đều ít, tác giả không gộp thành số liệu chung. Lợi ích được xếp “trung bình” theo nhận định: chưa chứng minh được lợi ích của nhóm thuốc này đối với trẻ nhỏ, trong khi rủi ro chủ yếu là quá liều và trùng thành phần.",
+    "extra": ""
+  }
+}

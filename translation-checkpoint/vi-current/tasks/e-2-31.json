@@ -1,0 +1,48 @@
+{
+  "id": "e-2-31",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "eec223a5f58e9dfd9c77582afac09b91fda2c72fe0e7afb5854a97e263d019d9",
+  "status": "outdated",
+  "original": {
+    "number": 31,
+    "title": "白天出门晒晒太阳，别整天不见光",
+    "fields": {
+      "cost": "不花钱。每天十几分钟，上下班路上和午休就够了。",
+      "plain": "瑞典一项研究里，刻意躲太阳的女性，预期寿命比晒得最多的人少 0.6 到 2.1 年。不吸烟但躲太阳的人，寿命和晒得最多的吸烟者差不多。",
+      "benefit": "瑞典一项研究，2.95 万名女性，跟踪 20 年。和晒太阳最多的那组比，刻意回避晒太阳的人预期寿命少 0.6 到 2.1 年。作者写道「不吸烟但回避晒太阳的人，预期寿命与晒太阳最多组里的吸烟者相当」",
+      "grade": "B",
+      "sources": "Lindqvist PG, Epstein E, Nielsen K, et al. (2016). Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. Journal of Internal Medicine, 280(4), 375-387. <https://doi.org/10.1111/joim.12496>",
+      "notes": "争议在于：瑞典纬度高、日照少，结论不能直接搬到中国。而且回避晒太阳的人，可能本来就体弱、不爱出门，这是作者的推测。论文作者自己也写明，常晒太阳的女性得皮肤癌的风险更高。所以别晒到晒伤，正午强光下还是要遮挡"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 31,
+    "title": "Ra ngoài đón nắng ban ngày, đừng ở nơi không có ánh sáng cả ngày",
+    "fields": {
+      "cost": "Không tốn tiền. Hơn mười phút mỗi ngày, trên đường đi làm và lúc nghỉ trưa là đủ.",
+      "plain": "Phụ nữ cố tránh nắng có tuổi thọ kỳ vọng ngắn hơn 0.6 đến 2.1 năm so với nhóm tiếp xúc nắng nhiều nhất. Người không hút thuốc nhưng tránh nắng có tuổi thọ gần tương đương người hút thuốc trong nhóm đón nắng nhiều nhất.",
+      "benefit": "Một nghiên cứu Thụy Điển theo dõi 2.95 vạn phụ nữ trong 20 năm. So với nhóm tiếp xúc nắng nhiều nhất, người cố tránh nắng có tuổi thọ kỳ vọng ngắn hơn 0.6 đến 2.1 năm. Tác giả viết: “Người không hút thuốc nhưng tránh nắng có tuổi thọ kỳ vọng tương đương người hút thuốc trong nhóm tiếp xúc nắng nhiều nhất”.",
+      "grade": "B",
+      "sources": "Lindqvist PG, Epstein E, Nielsen K, et al. (2016). Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. Journal of Internal Medicine, 280(4), 375-387. <https://doi.org/10.1111/joim.12496>",
+      "notes": "Tranh luận: Thụy Điển ở vĩ độ cao, ít nắng, nên không thể áp thẳng kết luận sang Trung Quốc. Người tránh nắng cũng có thể vốn yếu, ít muốn ra ngoài. Đừng phơi đến cháy nắng; giữa trưa nắng mạnh vẫn cần che chắn, vì tiếp xúc nắng làm tăng nguy cơ ung thư da."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

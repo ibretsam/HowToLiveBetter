@@ -1,0 +1,48 @@
+{
+  "id": "e-7-21",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "f546228106da6f001b023c48216147eddef21598640dc2bf399c6aa41b5afbe7",
+  "status": "outdated",
+  "original": {
+    "number": 21,
+    "title": "实在没地方睡，24 小时营业场所只能应急一晚，优先去救助站",
+    "fields": {
+      "cost": "机场、火车站的候车区通常不花钱。快餐店、网吧得花点钱消费。睡不踏实，财物有被偷的风险。难在一整夜都不敢真睡。",
+      "plain": "机场、火车站的候车区能撑一夜，有厕所也有电源，但没有官方数据说这样安全。救助站有人 24 小时值班，夜里上门也会先救助。冬天有的地方还开临时避寒场所。不想进站的，巡查人员也会给吃的和御寒衣物。",
+      "benefit": "在 24 小时营业场所能撑过一夜，有厕所，也能充电。那里安不安全，没有官方数字。救助站这边，民政部要求救助热线全天畅通，实行 24 小时值班。遇困的人上门求助，按政策先给救助。务工没着落、被偷被抢、一下子没了生活来源的，可以拿到应急的过渡性生活保障。有条件的地方会把社区服务中心这类场所开成临时庇护场所。冬天还会引导遇困的人去救助站或者临时避寒场所。不愿进站的，巡查人员会给吃的、衣物和保暖用品，并留下求助方式。夜里、降温和雨雪冰冻时，巡查会加密。车站码头、地下通道、桥梁涵洞、在建工地是重点巡查的地方（全国，民政部门从 2013 年起连年开展冬季专项救助）",
+      "grade": "B",
+      "sources": "作者经验（24 小时营业场所部分）；民政部办公厅 (2022). 关于扎实做好「寒冬送温暖」专项救助行动的通知（第二、三、四、五部分；第三部分：「保证救助热线全天畅通，及时响应求助线索，对前来求助的遇困人员按政策规定先行实施救助」）. <https://www.gov.cn/zhengce/zhengceku/2022-12/11/content_5731351.htm>；民政部、中央政法委、公安部等 11 部门 (2020). 关于开展生活无着的流浪乞讨人员救助管理服务质量大提升专项行动的通知（民发〔2020〕14 号，第二部分第三项：「要持续做好极端天气下『寒冬送温暖』、『夏季送清凉』等专项救助工作」）. <https://www.gov.cn/zhengce/zhengceku/2020-03/24/content_5494916.htm>；民政部 (2003). 城市生活无着的流浪乞讨人员救助管理办法实施细则（民政部令第 24 号，第二、三、五条）. <https://www.gov.cn/gongbao/content/2003/content_62510.htm>",
+      "notes": "安全风险是真的存在。财物贴身放好，不接陌生人递的饮料和食物，避开偏僻角落。夜间不要露宿在桥洞、河边、工地。极端天气里露宿会出人命。救助站管哪些吃住、发不发车票，见第 4 条（走投无路时去救助站）。救助站只收自己解决不了吃住、又没有亲友可投靠的人。进站要如实说清自己的情况，拒不说的不予救助。上面民政部的要求出自 2022 年冬天那份通知，各地每年另发当年的安排，以当地为准。有些场所半夜会清场，不要和安保起冲突。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 21,
+    "title": "Thực sự không có chỗ ngủ thì nơi mở cửa 24 giờ chỉ dùng tạm được một đêm, ưu tiên đến trạm cứu trợ",
+    "fields": {
+      "cost": "Khu chờ ở sân bay, nhà ga thường không mất tiền. Quán ăn nhanh, quán net thì phải tiêu chút tiền. Ngủ không yên giấc, đồ đạc có nguy cơ bị trộm. Cái khó là cả đêm không dám ngủ thật.",
+      "plain": "Khu chờ ở sân bay, nhà ga có thể giúp bạn qua một đêm, có nhà vệ sinh, có ổ điện. Nhưng không có số liệu chính thức nào nói làm vậy là an toàn. Giữ đồ đạc sát người, không nhận đồ ăn thức uống người lạ đưa, đừng đến những góc vắng vẻ. Ban đêm không được ngủ ở gầm cầu, bờ sông hay công trường. Trạm cứu trợ lo ăn ở miễn phí, hãy ưu tiên đến đó.",
+      "benefit": "Có thể qua được một đêm, có nhà vệ sinh, cũng sạc được điện. Không có số liệu chính thức.",
+      "grade": "C",
+      "sources": "作者经验，无官方文件",
+      "notes": "Rủi ro về an toàn là có thật. Giữ đồ đạc sát người, không nhận đồ uống và thức ăn người lạ đưa, tránh những góc vắng vẻ. Ban đêm đừng ngủ ngoài trời ở gầm cầu, bờ sông, công trường. Ngủ ngoài trời khi thời tiết khắc nghiệt có thể mất mạng. Trạm cứu trợ ở mục 4 lo ăn ở miễn phí, hãy đến đó trước. Có những nơi nửa đêm sẽ dọn người ra ngoài, đừng xung đột với bảo vệ."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

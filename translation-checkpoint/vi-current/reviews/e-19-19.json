@@ -1,0 +1,15 @@
+{
+  "id": "e-19-19",
+  "source_sha256": "605bbb93023b5d9b607db96fa1f83a740a09156af8361688a5921d84dbfef9af",
+  "draft_sha256": "8d8ede4a26d6ee813b67b5c65d1112d59a5689457db3f663f4331e91718eab94",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường, giữ thời hạn chuyển hưu trí 15/15/15 và y tế 10/5 ngày làm việc, ngưỡng gián đoạn không quá 3 tháng so với quá 3 tháng, thời gian chờ tối đa 6 tháng và điều kiện nam đủ 50/nữ đủ 40. Nguồn có câu 都不满10年的，转回上一个交满10年的地方领 không nêu rõ chủ thể của 都; bản dịch giữ đều chưa đủ 10 năm, không tự diễn giải hay sửa quy tắc. Dẫn chương 7 mục 18 và chương 31 mục 11 đúng đích."
+}

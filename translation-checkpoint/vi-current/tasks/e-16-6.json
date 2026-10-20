@@ -1,0 +1,48 @@
+{
+  "id": "e-16-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "d2401535e6368c48c4d8dbbfc4ef0ef9bf97e84d4e92ff05357de85fb003f834",
+  "status": "draft",
+  "original": {
+    "number": 6,
+    "title": "在社区签家庭医生之前，问清楚哪些进医保、哪些自费",
+    "fields": {
+      "cost": "不花钱。签约前多问一句，一分钟的事。",
+      "plain": "签约的基本服务包按规定走医保。个性化服务包的钱要全部自己出。有人推销「升级包」的时候，先问清楚这是基本包还是个性化包、备没备案、一年多少钱。",
+      "benefit": "基本服务包按规定由医保付。个性化服务包的钱全部自己出，这种包还要向县级卫生健康部门备案",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「加强基层门诊付费与签约服务政策联动，基本服务包按规定纳入医保支付；个性化服务包由签约基层医疗卫生机构按程序向县级卫生健康部门备案，费用由个人支付。」",
+      "notes": "签约本身的价值在于有人长期跟着你这个病，不在于打包了多少项目。有人推销「升级包」时，先问三句：这是基本包还是个性化包，备没备案，一年多少钱。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Trước khi ký dịch vụ bác sĩ gia đình tại cộng đồng, hỏi rõ khoản nào được bảo hiểm trả, khoản nào tự trả",
+    "fields": {
+      "cost": "Không tốn tiền. Hỏi thêm một câu trước khi ký, mất một phút.",
+      "plain": "Gói dịch vụ cơ bản trong hợp đồng được thanh toán theo quy định bảo hiểm y tế. Gói cá nhân hóa phải tự trả toàn bộ. Nếu có người chào “gói nâng cấp”, hỏi rõ đó là gói cơ bản hay cá nhân hóa, đã đăng ký với cơ quan quản lý chưa và mỗi năm bao nhiêu tiền.",
+      "benefit": "Gói dịch vụ cơ bản được bảo hiểm y tế chi trả theo quy định. Gói cá nhân hóa phải tự trả toàn bộ; loại gói này còn phải đăng ký với cơ quan y tế cấp huyện",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「加强基层门诊付费与签约服务政策联动，基本服务包按规定纳入医保支付；个性化服务包由签约基层医疗卫生机构按程序向县级卫生健康部门备案，费用由个人支付。」",
+      "notes": "Giá trị của việc ký dịch vụ là có người theo dõi bệnh của bạn lâu dài, không phải gói có bao nhiêu hạng mục. Khi có người chào “gói nâng cấp”, hỏi trước ba câu: đây là gói cơ bản hay cá nhân hóa, đã đăng ký chưa, mỗi năm bao nhiêu tiền."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

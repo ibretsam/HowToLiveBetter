@@ -1,0 +1,48 @@
+{
+  "id": "e-18-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "9e919691c587aa24dffce4d4231d432261d4c3ad85e68126071f9fc001754774",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "先把能领的算进来：国家育儿补贴每孩每年 3600 元，发到 3 岁；个税专项附加扣除每孩每月 2000 元",
+    "fields": {
+      "cost": "不花钱。补贴去孩子户口所在地申请，跑一趟就办完。个税扣除在手机「个人所得税」App 上填，也可以交给单位填",
+      "plain": "不满 3 岁的孩子每年能领 3600 元育儿补贴，不用交税。2025 年以前出生的按剩下的月数折算。另外从孩子出生到全日制上学结束，每个孩子每月能从父母的应税收入里减掉 2000 元。由一方全扣，税率 3% 的一年少交 720 元，10% 的少交 2400 元。",
+      "benefit": "中共中央办公厅、国务院办公厅印发的方案规定：从 2025 年 1 月 1 日起，给 3 周岁以下的婴幼儿发补贴，发到满 3 周岁，标准是「每孩每年 3600 元」。2025 年 1 月 1 日之前出生、还不满 3 周岁的，按应补贴的月数折算。由孩子的父母一方或者其他监护人去申领。这笔补贴「免征个人所得税」。认定低保这类救助的时候，它「不计入家庭或个人收入」。3600 元是「国家基础标准」，「地方提标部分所需资金由地方财政自行承担」。方案还规定「县级以下政府不得自行出台育儿补贴政策或标准」，省级或市级政府要出台其他育儿补贴政策或者提标的，报上一级主管部门备案。个税那边，国务院 2022 年设了 3 岁以下婴幼儿照护扣除。2023 年又把它和子女教育扣除一起提高，从 2023 年 1 月 1 日起都是每个孩子每月 2000 元。子女教育扣除管孩子满 3 岁到上小学前这段，也管全日制学历教育，从小学一直到博士。父母「可以选择由其中一方按扣除标准的100%扣除，也可以选择由双方分别按扣除标准的50%扣除」，选定后一年内不能改。自算例子：一个孩子一年扣 2000 元乘 12 个月，共 24000 元。由一方全扣，这个人税率在 3% 档的少交 720 元，在 10% 档的少交 2400 元。两人各扣一半，每人扣 12000 元，3% 档少交 360 元，10% 档少交 1200 元。税率档按全年应纳税所得额算：不超过 36000 元的是 3%，超过 36000 元到 144000 元的部分是 10%",
+      "grade": "A",
+      "sources": "中共中央办公厅、国务院办公厅 (2025). 育儿补贴制度实施方案. <https://www.gov.cn/gongbao/2025/issue_12206/202508/content_7035435.html>；国务院 (2022). 国务院关于设立3岁以下婴幼儿照护个人所得税专项附加扣除的通知（国发〔2022〕8号，第一条、第二条）. <https://www.gov.cn/zhengce/zhengceku/2022-03/28/content_5682013.htm>；国务院 (2023). 国务院关于提高个人所得税有关专项附加扣除标准的通知（国发〔2023〕13号，第一条、第二条、第五条）. <https://www.gov.cn/zhengce/zhengceku/202308/content_6901207.htm>；国务院 (2018). 个人所得税专项附加扣除暂行办法（国发〔2018〕41号，第五条、第六条）. <https://www.gov.cn/zhengce/zhengceku/2018-12/22/content_5351181.htm>；国家税务总局 (2023). 关于贯彻执行提高个人所得税有关专项附加扣除标准政策的公告（国家税务总局公告2023年第14号，第三条）. <https://www.gov.cn/zhengce/zhengceku/202309/content_6901454.htm>；全国人民代表大会常务委员会 (2018). 中华人民共和国个人所得税法（第六条，个人所得税税率表一）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf724bd0609>",
+      "notes": "这是全国统一的基础标准。方案允许省级、市级政府提高标准或者另出育儿补贴政策，县级以下政府不能自己出。本地有没有加、怎么领，看本省的实施方案。三年加起来 10800 元，在养孩子的开支里只是很小的一块，别把它当成生不生的依据。个税扣除没在平时填上的，年底汇算时还能补，见第 5 节第 2 条（个税汇算）。全年应纳税所得额本来就是零的人，扣了也不会少交。扣完跨了档的，少交的钱落在两档算出的数之间。父母都交税的，让税率档高的那一方全扣，家里少交得更多"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Tính trước các khoản được nhận: trợ cấp nuôi con quốc gia là 3600 nhân dân tệ mỗi trẻ mỗi năm, đến 3 tuổi",
+    "fields": {
+      "cost": "Không tốn tiền. Nộp đơn tại nơi đăng ký hộ khẩu của trẻ, một lần đến là làm xong",
+      "plain": "Trẻ sinh từ ngày 1 tháng 1 năm 2025 và chưa đủ 3 tuổi được nhận khoản này. Một trong hai cha mẹ nộp đơn tại nơi trẻ có hộ khẩu. Mỗi trẻ nhận 3600 nhân dân tệ mỗi năm cho đến 3 tuổi. Khoản này được miễn thuế thu nhập cá nhân. Khi xin cứu trợ như trợ cấp sinh hoạt tối thiểu, tiền này cũng không tính vào thu nhập gia đình.",
+      "benefit": "Phương án do Văn phòng Trung ương Đảng Cộng sản Trung Quốc và Văn phòng Quốc vụ viện ban hành quy định: trẻ sinh từ ngày 1 tháng 1 năm 2025, từ 3 tuổi trở xuống, được cấp “3600 nhân dân tệ mỗi trẻ mỗi năm”. Một trong hai cha mẹ hoặc người giám hộ khác nộp đơn. Khoản trợ cấp này “được miễn thuế thu nhập cá nhân”. Khi xác định điều kiện nhận cứu trợ như trợ cấp sinh hoạt tối thiểu, khoản đó “không tính vào thu nhập gia đình hoặc cá nhân”",
+      "grade": "A",
+      "sources": "中共中央办公厅、国务院办公厅 (2025). 育儿补贴制度实施方案. <https://www.gov.cn/gongbao/2025/issue_12206/202508/content_7035435.html>",
+      "notes": "Đây là mức tối thiểu thống nhất toàn quốc. Một số tỉnh thành có trợ cấp riêng và được nhận cùng khoản này. Tổng ba năm là 10800 nhân dân tệ, chỉ chiếm phần nhỏ trong chi phí nuôi con, đừng lấy nó làm căn cứ quyết định có sinh con không"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

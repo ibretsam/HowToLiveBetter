@@ -1,0 +1,48 @@
+{
+  "id": "e-8-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "16ca175227ef98ee46fa120f882b5a9568efe619d9a9c0e749f22dccf4f1e2c2",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "签字前把纸看完，不替人签字，不在空白纸上签",
+    "fields": {
+      "cost": "不花钱。多花几分钟，把合同、借条、担保书、入职文件从头读到尾。看不懂的当场问，再拍照留底。难在当着对方的面慢慢看完。",
+      "plain": "签了就算数，按手印和签名一样算数。「没看清」「以为是别的」在法庭上很难成立。所以多花几分钟从头读到尾，看不懂的当场问，拍照留底。不替别人签，不在空白纸上签，身份证复印件写清用途。",
+      "benefit": "依法成立的合同受法律保护，对签字的双方都有约束力。签了就要按约定全面履行。民法典第四百九十条写着，用合同书订合同的，双方「签名、盖章或者按指印时合同成立」。按手印和签名、盖章是并列的三种办法，按了手印合同一样成立。「没看清」「以为是别的」在法庭上很难成立。不签，就不会背上不属于自己的债务和责任（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第四百六十五、四百九十、五百零九条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "「不替人签字、不签空白纸、身份证复印件写明用途」是经验做法，没有单独的官方文件。它们的目的是一样的：别让你的签名被拼进一份法律上成立、你又不得不认的合同里。电子签、刷脸确认，法院一般也认作你本人签的。熟人让你帮忙刷脸、签字办贷款的，见第 45 条（帮忙刷个脸）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Đọc hết giấy tờ trước khi ký; đừng ký hộ người khác, đừng ký giấy trắng",
+    "fields": {
+      "cost": "Không tốn tiền. Dành thêm vài phút đọc từ đầu đến cuối hợp đồng, giấy vay nợ, bảo lãnh và hồ sơ nhận việc. Chỗ không hiểu hãy hỏi ngay rồi chụp ảnh lưu. Khó ở việc thong thả đọc hết ngay trước mặt đối phương.",
+      "plain": "Đã ký thì có hiệu lực. “Không đọc kỹ”, “tưởng là giấy khác” gần như không đứng vững ở tòa. Vì vậy hãy dành thêm vài phút đọc từ đầu đến cuối, hỏi ngay chỗ không hiểu và chụp ảnh lưu. Đừng ký thay người khác hay ký giấy trắng; bản sao căn cước phải ghi rõ mục đích sử dụng. Ký điện tử và xác nhận bằng khuôn mặt cũng là ký.",
+      "benefit": "Hợp đồng được xác lập hợp pháp được pháp luật bảo vệ và ràng buộc cả hai bên ký. Đã ký thì phải thực hiện đầy đủ theo thỏa thuận. “Không đọc kỹ”, “tưởng là giấy khác” khó được tòa chấp nhận. Không ký thì không gánh nợ và trách nhiệm vốn không thuộc về mình (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第四百六十五、五百零九条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "“Không ký hộ, không ký giấy trắng, ghi rõ mục đích trên bản sao căn cước” là cách làm theo kinh nghiệm, không có văn bản chính thức riêng. Mục đích đều giống nhau: đừng để chữ ký của bạn bị ghép vào hợp đồng có hiệu lực pháp lý mà bạn buộc phải công nhận. Ký điện tử và xác nhận bằng khuôn mặt cũng được coi là ký."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

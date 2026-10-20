@@ -1,0 +1,15 @@
+{
+  "id": "e-34-1",
+  "source_sha256": "fd34abbed82cdd4df7f15a0e68e3174e6bed98926b2100fdf5255594a75601ec",
+  "draft_sha256": "6bb843dc5ea6d7a53c93ede91273fb0f8507cae239956ef14e680bf85fb0dec7",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ liều 2 gram, ngưỡng rượu từ 3 ly, các mốc 8/10/12/24 giờ và số liệu ca bệnh. Giữ phạm vi cảnh báo của dạng giải phóng kéo dài, tính quan sát của bằng chứng, cùng tên và thành phần Trung văn cần thiết để nhận diện thuốc."
+}

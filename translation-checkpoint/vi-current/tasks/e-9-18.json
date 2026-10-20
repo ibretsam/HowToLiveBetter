@@ -1,0 +1,48 @@
+{
+  "id": "e-9-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "3d27661609e9e4ca8e390034d6a64de3a56d26da3a2220aebe9f9263eac91f0a",
+  "status": "outdated",
+  "original": {
+    "number": 18,
+    "title": "对方不满 14 岁就不能发生关系，「她同意」不是理由",
+    "fields": {
+      "cost": "不花钱。对方的年龄不确定，就不要发生关系。",
+      "plain": "对方不满 14 岁，不管她同不同意，都按强奸罪从重处理，基本刑期是 3 到 10 年。对方不满 12 岁的，一律认定你「应当知道」。12 到 14 岁的，从发育、举止、穿着能看出可能是幼女，你还下手，就认定你「明知」。说自己确实不知道，法院把关很严。",
+      "benefit": "和不满 14 周岁的幼女发生性关系的，按强奸罪处理并从重处罚，基础刑期 3 到 10 年。最高法的口径是这样：用暴力、胁迫等强制手段的，不管知不知道对方是幼女，都定强奸罪。没用强制手段的，对不满 12 周岁的一律认定「应当知道」。12 到 14 周岁的，从身体发育、言谈举止、衣着等能看出可能是幼女，还下手的，认定为「明知」。「确实不知道」这个例外把握得很严（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百三十六条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院 (2015). 关于「与十四周岁以下幼女发生性关系是否要明知才构成犯罪」的答复. <https://www.court.gov.cn/hudong/xiangqing/13363.html>",
+      "notes": "两高两部关于办理性侵害未成年人刑事案件的意见原文，以及最高法 2003 年批复的页面，本节写作时都打不开。所以「明知」的认定标准，引的是最高法官网上的答复。法条里的用语是「幼女」。本条不区分动手的人是男是女。家长怎么教孩子防性侵，见第 30 节第 19 条（认识身体的隐私部位）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 18,
+    "title": "Đối phương chưa đủ 14 tuổi thì không được quan hệ; “cô ấy đồng ý” không phải lý do",
+    "fields": {
+      "cost": "Không tốn tiền. Không chắc tuổi thì đừng quan hệ.",
+      "plain": "Đối phương chưa đủ 14 tuổi thì dù có đồng ý hay không, đều bị xử tội hiếp dâm và xử nặng, khung hình phạt cơ bản là 3 đến 10 năm. Đối phương chưa đủ 12 tuổi thì luôn bị xác định là bạn “phải biết”. Từ 12 đến 14 tuổi, nếu qua sự phát triển cơ thể, cử chỉ, cách ăn mặc có thể thấy đó có thể là trẻ em gái mà bạn vẫn làm, thì bị xác định là “biết rõ”. Nếu nói mình thực sự không biết, tòa án sẽ xem xét rất chặt.",
+      "benefit": "Quan hệ với bé gái chưa đủ 14 tuổi xử tội hiếp dâm và phạt nặng, khung cơ bản 3 đến 10 năm. Cách xác định của Tòa án tối cao: dùng bạo lực, cưỡng ép thì dù biết là bé gái hay không vẫn là hiếp dâm. Không cưỡng ép, với người chưa đủ 12 tuổi luôn xác định “phải biết”. Từ 12 đến 14 tuổi, phát triển cơ thể, lời nói, hành vi, quần áo cho thấy có thể là bé gái mà vẫn làm thì xác định “biết rõ”. Ngoại lệ “thực sự không biết” được áp rất chặt (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百三十六条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院 (2015). 关于「与十四周岁以下幼女发生性关系是否要明知才构成犯罪」的答复. <https://www.court.gov.cn/hudong/xiangqing/13363.html>",
+      "notes": "Khi viết không mở được văn bản ý kiến của hai cơ quan tối cao và hai bộ về xử lý án xâm hại tình dục người chưa thành niên, cũng như phê đáp năm 2003 của Tòa án tối cao. Vì vậy chuẩn “biết rõ” dẫn từ trả lời trên website Tòa án tối cao. Từ trong luật là “bé gái”. Mục này không phân biệt người thực hiện là nam hay nữ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

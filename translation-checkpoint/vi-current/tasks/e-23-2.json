@@ -1,0 +1,48 @@
+{
+  "id": "e-23-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "43c8a7dd06c8f409b632d47b0e3f97525cf4c5be1afb0df1b9d4c4900e6cdc2b",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "把「读书有没有用」也放进死亡率账里：每多受一年教育，成人死亡风险降约 1.9%",
+    "fields": {
+      "cost": "不花钱。花的是多读那几年的时间和精力，学费那部分见本节第 4 条（中职学费和助学金）。难在要一直读下去，中间不放弃。",
+      "plain": "每多读一年书，成年后的死亡风险平均低约 1.9%。18 到 49 岁的人最明显，每多一年低约 2.9%，70 岁以上只低 0.8%。能一直读下去的人往往本来条件就好，这里面有多少是读书本身的作用，分不清。",
+      "benefit": "把此前的研究找齐再合在一起算（系统综述与荟萃分析）。检索范围是 1980 年 1 月到 2023 年 5 月，最终纳入 603 项研究、59 个国家 70 个地点、10355 个观测。教育和成人死亡率（各种原因加起来的死亡）是剂量反应关系（读得越多降得越多）。每多受一年教育，死亡风险平均下降 1.9%（95% 不确定区间 1.8–2.0，真实值大致落在这一段里）。18 至 49 岁的人每多一年下降 2.9%（2.8–3.0）。70 岁以上的人下降 0.8%（0.6–1.0）。男女之间没看出差别。按国家发展水平（社会人口指数）分开看，也没看出差别",
+      "grade": "A（争议）",
+      "sources": "IHME-CHAIN Collaborators (2024). Effects of education on adult mortality: a global systematic review and meta-analysis. The Lancet Public Health, 9(3), e155-e165. <https://doi.org/10.1016/S2468-2667(23)00306-7>",
+      "notes": "争议。作者自己报告了发表偏倚（p<0.0001），意思是结果好看的研究更容易被发出来。各项研究之间的结果也差得很开。纳入的都是跟踪观察，不是把人分组做的试验。读书年数和家庭条件、地区、职业搅在一起。这 1.9% 里有多少是读书本身带来的、有多少是「能一直读下去的人本来条件就好」，这类研究分不开。因果反过来的情况也分不开。小时候就有病、有心理问题的人，更容易辍学，也更容易早死。这会让读书的作用看起来比实际大。所以它能有力说明「多读书和活得久是同向的」，但不等于「你去读书就能延寿 1.9%」。收益量级定为小：读者面对的通常是再多读三四年，按每年 1.9% 算加起来不到一成，按全书的界线只算小。受益人是自己"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Tính cả tử vong khi hỏi “học có ích không”: thêm mỗi năm giáo dục, nguy cơ tử vong người lớn giảm khoảng 1.9%",
+    "fields": {
+      "cost": "Không tốn tiền. Tốn thời gian, công sức học thêm những năm ấy; học phí xem mục 4 (miễn phí, trợ cấp trung cấp nghề). Khó là học liên tục không bỏ dở.",
+      "plain": "Thêm một năm học, nguy cơ chết khi trưởng thành trung bình thấp khoảng 1.9%. Rõ nhất ở 18 đến 49 tuổi, mỗi năm thêm giảm 2.9%; từ 70 tuổi trở lên chỉ 0.8%. Người học liên tục thường vốn có điều kiện tốt, không phân rõ bao nhiêu do chính việc học.",
+      "benefit": "Tìm đủ nghiên cứu trước rồi gộp (tổng quan hệ thống, phân tích gộp), tìm từ tháng 1 năm 1980 đến tháng 5 năm 2023, cuối cùng 603 nghiên cứu, 59 quốc gia, 70 địa điểm, 10355 quan sát. Giáo dục và tử vong người lớn do mọi nguyên nhân có quan hệ liều–đáp ứng: học càng nhiều giảm càng nhiều. Thêm một năm giáo dục, nguy cơ tử vong trung bình giảm 1.9% (khoảng bất định 95% 1.8–2.0, giá trị thật đại khái trong khoảng). Tuổi 18 đến 49 mỗi năm giảm 2.9% (2.8–3.0). Từ 70 tuổi trở lên giảm 0.8% (0.6–1.0). Không thấy khác biệt nam nữ; chia theo mức phát triển quốc gia (chỉ số xã hội nhân khẩu) cũng không thấy khác",
+      "grade": "A (có tranh luận)",
+      "sources": "IHME-CHAIN Collaborators (2024). Effects of education on adult mortality: a global systematic review and meta-analysis. The Lancet Public Health, 9(3), e155-e165. <https://doi.org/10.1016/S2468-2667(23)00306-7>",
+      "notes": "Còn tranh luận. Tác giả báo thiên lệch công bố (p<0.0001), tức nghiên cứu kết quả đẹp dễ được đăng hơn. Kết quả giữa nghiên cứu cũng khác xa. Tất cả theo dõi quan sát, không thử nghiệm chia nhóm. Số năm học lẫn với gia đình, địa phương, nghề; không tách được trong 1.9% bao nhiêu do học, bao nhiêu do người học lâu vốn điều kiện tốt. Chiều ngược cũng không tách được: trẻ vốn có bệnh, vấn đề tâm lý dễ bỏ học và chết sớm hơn, khiến tác dụng học trông lớn hơn thật. Vì vậy bằng chứng mạnh về “học nhiều và sống lâu cùng chiều”, không có nghĩa “bạn học sẽ kéo dài đời 1.9%”. Mức lợi ích xếp nhỏ: người đọc thường cân nhắc thêm ba bốn năm, tính mỗi năm 1.9% cộng chưa một phần mười, theo ngưỡng sách chỉ nhỏ. Người hưởng lợi là bạn"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

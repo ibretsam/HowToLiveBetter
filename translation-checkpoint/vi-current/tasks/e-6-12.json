@@ -1,0 +1,48 @@
+{
+  "id": "e-6-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "20a5da3aab52873397a07c77b781c7ba13dd01aa2db2a2c63b937972aefecbcd",
+  "status": "outdated",
+  "original": {
+    "number": 12,
+    "title": "不要为了「增强免疫力」逼自己洗冷水澡",
+    "fields": {
+      "cost": "不花钱。每天要难受 30 到 90 秒，冬天想坚持得靠毅力。有心血管病的人还要当心，冷刺激对他们有风险。",
+      "plain": "3018 人的试验里，洗冷水澡的人请病假的次数少了 29%。但请假的总天数和别人一样，所以谈不上少生病。2025 年把 11 项试验合起来看，冲完冷水之后，身体发炎的指标反而短暂升高，免疫的指标没变化。爱洗随便洗，只是别把它当成一笔健康投资。",
+      "benefit": "荷兰做过一项随机分组对照试验，3,018 人，洗完热水澡之后再冲 30 秒、60 秒或 90 秒冷水。这些人请病假的次数少了 29%（IRR 0.71，这是次数之比）。但原文写明「病假天数没有显著组间差异」：总共病了多少天，两边一样。生活质量、工作效率、焦虑也都没看出有意义的差别。2025 年一篇系统综述把 11 项随机分组试验、3,177 人合起来算。泡完冷水的当下和 1 小时后，身体发炎的指标反而升高。免疫指标没变化。压力只在 12 小时那个时间点降低。作者自己说证据「受限于 RCT 少、样本小」，意思是这类随机分组试验数量太少、每项人也不多。它看起来划算，是因为不花钱，而且「吃苦就有效」这个直觉太顺",
+      "grade": "B",
+      "sources": "Buijze GA et al. (2016). The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial. PLOS ONE. <https://doi.org/10.1371/journal.pone.0161749>；Cain T et al. (2025). Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis. PLOS ONE. <https://doi.org/10.1371/journal.pone.0317615>",
+      "notes": "争议：请病假的次数确实少了 29%，这个差距不像是碰巧。但生病的总天数并没有少，所以不能说是真的少生病。运动员训练完之后用冷水帮助恢复，那是另一个问题，这里不管。冷水澡对健康人没看到明显害处，只是别把它当成健康投资"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 12,
+    "title": "Đừng ép mình tắm lạnh để “tăng miễn dịch”",
+    "fields": {
+      "cost": "Không tốn tiền. Mỗi ngày khó chịu 30 đến 90 giây, mùa đông cần ý chí mới duy trì. Người bệnh tim mạch cần cẩn thận vì kích thích lạnh có rủi ro.",
+      "plain": "Thử nghiệm 3018 người: người tắm lạnh xin nghỉ ốm ít lần hơn 29% nhưng tổng ngày nghỉ như người khác, nên không thể nói ít bệnh hơn. Gộp 11 thử nghiệm năm 2025: ngay sau tắm lạnh chỉ số viêm còn tăng tạm thời, chỉ số miễn dịch không đổi. Thích thì tắm, chỉ đừng coi là đầu tư sức khỏe.",
+      "benefit": "Thử nghiệm ngẫu nhiên đối chứng Hà Lan có 3,018 người, sau tắm ấm xả lạnh 30, 60 hoặc 90 giây. Số lần xin nghỉ ốm giảm 29% (IRR 0.71, tỷ số số lần), nhưng bản gốc nói “ngày nghỉ ốm không khác có ý nghĩa giữa nhóm”: tổng ngày bệnh như nhau. Chất lượng sống, năng suất, lo âu cũng không khác đáng kể. Tổng quan hệ thống năm 2025 gộp 11 thử nghiệm ngẫu nhiên, 3,177 người. Ngay sau ngâm lạnh và 1 giờ sau chỉ số viêm tăng, chỉ số miễn dịch không đổi; stress chỉ giảm ở mốc 12 giờ. Tác giả nói bằng chứng “bị giới hạn bởi ít RCT, mẫu nhỏ”, tức ít thử nghiệm phân nhóm ngẫu nhiên, mỗi thử nghiệm ít người. Có vẻ đáng tiền vì miễn phí và trực giác “chịu khổ thì hiệu quả” rất thuận tai.",
+      "grade": "B",
+      "sources": "Buijze GA et al. (2016). The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial. PLOS ONE. <https://doi.org/10.1371/journal.pone.0161749>；Cain T et al. (2025). Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis. PLOS ONE. <https://doi.org/10.1371/journal.pone.0317615>",
+      "notes": "Còn tranh luận: số lần nghỉ ốm thực sự ít hơn 29%, chênh lệch không giống tình cờ. Nhưng tổng số ngày bệnh không giảm, nên giống “bệnh vẫn đi làm” hơn là thực sự ít bệnh. Vận động viên dùng nước lạnh hồi phục sau tập là vấn đề khác, không xét ở đây. Tắm lạnh tự nó không hại người khỏe, chỉ đừng coi là đầu tư sức khỏe."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

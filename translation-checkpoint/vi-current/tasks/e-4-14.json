@@ -1,0 +1,48 @@
+{
+  "id": "e-4-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "f72d0468a63a405d7e407f9ef79e759bc1228c9770554a0294f1f963b0ea5a7e",
+  "status": "draft",
+  "original": {
+    "number": 14,
+    "title": "用自己的时薪决定哪些家务外包",
+    "fields": {
+      "cost": "要花一笔外包的钱，多少看你买的是什么服务。另外要先花一次时间，把自己的时薪算清楚。",
+      "plain": "中国人平均每天花 1 小时 17 分做家务。当天真动手做的那部分人，花 1 小时 59 分。花钱买时间的人，生活满意度更高。同样一笔钱，花在买时间上比买东西，当下更让人开心。",
+      "benefit": "中国居民做家务每天平均 1 小时 17 分钟。只算做了家务的人，平均 1 小时 59 分钟。这是 2024 年的调查，覆盖 3.85 万户、10.7 万人。另一项研究取了四个国家 6271 人的样本，花钱买时间的人生活满意度更高。研究者还在真实生活里做了实验：同一笔钱，花在买时间上比买实物带来更高的当下幸福感。",
+      "grade": "B",
+      "sources": "Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., & Norton, M. I. (2017). Buying time promotes happiness. Proceedings of the National Academy of Sciences. <https://doi.org/10.1073/pnas.1706541114>；国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>",
+      "notes": "先算时薪，算法是一个月税后收入 ÷ 一个月实际工作小时。再看这项家务外包要多少钱。外包单价低于你的时薪，而且省下的时间你确实会用在挣钱或者休息上，就外包。每个人的时薪和外包价都不同，结论要自己算。另外，Whillans 测的是花钱买时间之后人开不开心，不是省下了多少小时。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Dùng thu nhập theo giờ để quyết định thuê ngoài việc nhà nào",
+    "fields": {
+      "cost": "Bạn phải trả tiền thuê ngoài, mức bao nhiêu tùy dịch vụ. Ngoài ra, cần dành thời gian tính rõ thu nhập theo giờ của mình một lần.",
+      "plain": "Người Trung Quốc làm việc nhà trung bình 1 giờ 17 phút mỗi ngày; riêng người thực sự làm hôm đó là 1 giờ 59 phút. Người bỏ tiền mua thời gian hài lòng cuộc sống hơn. Cùng khoản tiền, mua thời gian đem lại niềm vui tức thời hơn mua đồ.",
+      "benefit": "Cư dân Trung Quốc dành trung bình 1 giờ 17 phút mỗi ngày làm việc nhà. Chỉ tính người thực sự làm thì trung bình 1 giờ 59 phút. Đây là khảo sát năm 2024, bao phủ 3.85 vạn hộ, 10.7 vạn người. Nghiên cứu khác lấy mẫu 6271 người từ bốn quốc gia, thấy người bỏ tiền mua thời gian hài lòng cuộc sống hơn. Các nhà nghiên cứu còn thí nghiệm trong đời thực: cùng một khoản tiền, mua thời gian tạo hạnh phúc ngay lúc đó cao hơn mua đồ vật.",
+      "grade": "B",
+      "sources": "Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., & Norton, M. I. (2017). Buying time promotes happiness. Proceedings of the National Academy of Sciences. <https://doi.org/10.1073/pnas.1706541114>；国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>",
+      "notes": "Trước hết tính thu nhập theo giờ bằng thu nhập sau thuế một tháng ÷ số giờ thực làm trong tháng. Sau đó xem thuê ngoài việc nhà này tốn bao nhiêu. Nếu đơn giá thuê thấp hơn thu nhập theo giờ và bạn thực sự dùng thời gian tiết kiệm để kiếm tiền hoặc nghỉ thì thuê. Thu nhập theo giờ và giá thuê mỗi người khác nhau, bạn phải tự tính kết luận. Ngoài ra, Whillans đo người ta vui không sau khi mua thời gian, không đo tiết kiệm bao nhiêu giờ."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

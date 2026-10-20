@@ -1,0 +1,48 @@
+{
+  "id": "e-18-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "e7a1fd0a51713988384415d5752fbbbceca92362eaf7f71eb15b6ac02421471a",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "养孩子的时间账按「谁的时间被占掉」算，不按「辛不辛苦」算",
+    "fields": {
+      "cost": "不花钱，花的是时间。孩子 3 岁前基本是全天被占住。难在天天如此，没法咬牙几天就过去",
+      "plain": "把每天看孩子的小时数、夜里被吵醒的次数，都折算成时间。再乘上干这些活的那个人的时薪。算出来的数，一般远远大于奶粉尿布钱。所以分工最好在生之前就谈好。",
+      "benefit": "把每天照看孩子的时间、夜里被吵醒的次数，都折算成小时。再乘以干这些活的那个人的时薪。得到的数字通常远大于奶粉尿布钱。照看、做饭、夜里起夜这些活虽然没人付钱，也照这样记进成本。算法和第 10 节算家务的那套一样。先谈好分工，再决定生不生",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；口径见第 10 节",
+      "notes": "数字不必算得很准。有用的是两个人在生之前对着同一张表谈分工，免得生完再吵。生完孩子回去上班，单位给你调岗、降薪的，怎么表态见第 19 节第 23 条（不同意调岗降薪）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Tính thời gian theo người bị chiếm mất thời gian, không theo cảm giác vất vả",
+    "fields": {
+      "cost": "Không tốn tiền nhưng tốn thời gian. Trước khi trẻ 3 tuổi, gần như cả ngày đều bị chiếm. Khó ở chỗ ngày nào cũng vậy, không thể chỉ cố vài hôm là qua",
+      "plain": "Quy đổi số giờ trông trẻ mỗi ngày và số lần bị đánh thức ban đêm thành thời gian, rồi nhân mức thu nhập theo giờ của người làm những việc đó. Kết quả thường lớn hơn rất nhiều tiền sữa và tã. Vì vậy tốt nhất bàn phân công trước khi sinh.",
+      "benefit": "Quy đổi thời gian trông trẻ mỗi ngày và số lần bị đánh thức ban đêm thành giờ, rồi nhân mức thu nhập theo giờ của người làm. Con số thường lớn hơn rất nhiều tiền sữa và tã. Trông trẻ, nấu ăn và thức đêm tuy không được trả tiền vẫn tính vào chi phí theo cách này. Cách tính giống việc nhà ở chương 10. Bàn phân công trước, rồi quyết định có sinh không",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；口径见第 10 节",
+      "notes": "Không cần tính quá chính xác. Điều có ích là hai người cùng nhìn một bảng trước khi sinh để bàn phân công, tránh sinh xong mới cãi nhau"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

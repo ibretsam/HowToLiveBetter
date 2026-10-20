@@ -1,0 +1,14 @@
+{
+  "id": "e-34-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "01404bacc1dabe443881cf4bafa6a0dafd8e78915649984b433361bafecd86fb",
+  "translator": "pilot_medicine",
+  "translation": {
+    "title": "Đừng yêu cầu bác sĩ kê kháng sinh cho cảm lạnh thông thường",
+    "cost": "Không tốn tiền, còn tiết kiệm được tiền thuốc.",
+    "plain": "Uống kháng sinh khi bị cảm không giúp khỏi nhanh hơn so với không uống. Ở người lớn, nguy cơ tác dụng phụ khi dùng gấp hơn hai lần so với không dùng. Nếu chảy nước mũi mủ chưa đến 10 ngày, uống kháng sinh cũng không có lợi ích chắc chắn.",
+    "benefit": "Một tổng quan hệ thống Cochrane tổng hợp 6 thử nghiệm ngẫu nhiên với 1147 người. So sánh người bị cảm dùng kháng sinh với người dùng giả dược, tỷ lệ chưa khỏi hoặc còn triệu chứng không khác biệt rõ rệt (RR 0.83, 95% CI 0.60–1.14, khác biệt không có ý nghĩa thống kê). Nguy cơ phản ứng bất lợi gấp 1.8 lần nhóm giả dược (95% CI 1.01–3.21). Trong đó, ở người lớn là 2.62 lần (1.32–5.18), còn ở trẻ em không tăng (0.91, 0.51–1.63). Với viêm mũi mủ cấp có thời gian chảy nước mũi mủ dưới 10 ngày, kháng sinh cũng không có lợi ích rõ ràng (RR 0.73, 0.47–1.13). Tuy nhiên, phản ứng bất lợi tăng lên (RR 1.46, 1.10–1.94, cao hơn khoảng 46%). Các tác giả kết luận không khuyến nghị dùng kháng sinh thường quy cho cả hai tình trạng này.",
+    "notes": "Phiên bản này được công bố lại vào năm 2025, nhưng phần tóm tắt ghi rõ việc tìm kiếm tài liệu chỉ đến năm 2013. Ở Trung Quốc, kháng sinh là thuốc kê đơn, hiệu thuốc phải bán theo đơn; cũng đừng tự uống kháng sinh còn thừa ở nhà. Lợi ích được xếp “trung bình” theo nhận định: điều tránh được là phản ứng bất lợi, không phải tử vong. Khi bị cảm cũng đừng yêu cầu truyền dịch, xem chương 6 mục 35 (yêu cầu truyền dịch khi cảm, sốt).",
+    "extra": ""
+  }
+}

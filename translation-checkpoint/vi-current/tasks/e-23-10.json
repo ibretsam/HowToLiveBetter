@@ -1,0 +1,48 @@
+{
+  "id": "e-23-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "07b0cffe8485522060378763d3e5fb3767d1f7a687fb433761c8053f3549d4d3",
+  "status": "draft",
+  "original": {
+    "number": 10,
+    "title": "挑技能时优先看「要不要动手、要不要现场判断」，这类最难被自动化顶掉",
+    "fields": {
+      "cost": "不花钱。选之前先按这个维度把想学的活过一遍。",
+      "plain": "按美国的估算，约 47% 的岗位有较高风险被计算机接手，后来按具体任务估的比例低得多。机器难过的坎有三样：手上的灵巧劲、想出新东西、跟人打交道。所以要到现场、环境不标准、得临场判断的活更难被顶掉，流程固定、主要处理信息的岗位风险最高。",
+      "benefit": "给美国 702 个职业逐个估「这活多大概率能交给计算机做」（可计算化概率评估），结果是约 47% 的就业岗位处于高风险区间。模型里决定风险高低的，是三处机器目前迈不过去的坎，作者叫它「工程瓶颈」。一是感知与操作，包括手指灵巧度、手部灵巧度、在狭窄空间和别扭姿势下作业。二是创造性智能（想出新东西的能力）。三是社会智能（跟人打交道的能力）。所以环境非标准、需要手上功夫和临场判断的活，被替代的概率一贯更低，不是个别职业的偶然。流程固定、以信息处理为主的岗位风险最高",
+      "grade": "B",
+      "sources": "Frey CB, Osborne MA (2017). The future of employment: how susceptible are jobs to computerisation? Technological Forecasting and Social Change, 114, 254-280. <https://doi.org/10.1016/j.techfore.2016.08.019>",
+      "notes": "争议。这项研究是 2013 年一份没正式发表的论文稿，打分打的是「整个职业能不能被机器接手」。后来有研究改成拆到一件件具体任务上去估，算出来的高风险比例低得多。它也不说这事会在哪一年发生。用它时别盯着 47% 这个数，要看它点出的那三处卡住机器的地方。现场安装、检修、护理这类活比纯文书更抗替代，原因就在这里。所以「学个技能」优先该选需要到现场、面对非标准环境的那种"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Chọn kỹ năng, ưu tiên xem có cần thao tác tay, phán đoán tại chỗ; loại này khó bị tự động hóa thay nhất",
+    "fields": {
+      "cost": "Không tốn tiền. Trước chọn xét công việc muốn học theo chiều này.",
+      "plain": "Ước tính Mỹ khoảng 47% việc có nguy cơ cao được máy tính tiếp quản; cách ước theo nhiệm vụ cụ thể sau đó cho tỷ lệ thấp hơn nhiều. Máy khó vượt ba điều: khéo tay, nghĩ cái mới, giao tiếp người. Vì thế việc cần có mặt, môi trường không chuẩn, phán đoán tại chỗ khó thay hơn; quy trình cố định, chủ yếu xử lý thông tin nguy cơ cao nhất.",
+      "benefit": "Ước từng nghề trong 702 nghề Mỹ về khả năng giao máy tính (xác suất tin học hóa), khoảng 47% việc thuộc nhóm nguy cơ cao. Mô hình dựa ba chỗ máy chưa vượt, tác giả gọi “nút thắt kỹ thuật”: cảm nhận và thao tác, gồm khéo ngón, bàn tay, làm không gian hẹp và tư thế khó; trí tuệ sáng tạo (nghĩ điều mới); trí tuệ xã hội (làm việc với người). Do đó môi trường không chuẩn hóa, cần tay nghề và phán đoán tại chỗ luôn có xác suất bị thay thấp hơn, không phải ngẫu nhiên một nghề. Quy trình cố định, thiên xử lý thông tin nguy cơ cao nhất",
+      "grade": "B",
+      "sources": "Frey CB, Osborne MA (2017). The future of employment: how susceptible are jobs to computerisation? Technological Forecasting and Social Change, 114, 254-280. <https://doi.org/10.1016/j.techfore.2016.08.019>",
+      "notes": "Còn tranh luận. Nghiên cứu là bản thảo chưa công bố chính thức năm 2013, chấm cả nghề có bị máy thay không. Sau đó nghiên cứu tách từng nhiệm vụ, ước tỷ lệ nguy cơ cao thấp hơn nhiều. Nó cũng không nói năm nào xảy ra. Đừng bám 47%, hãy nhìn ba chỗ cản máy. Lắp đặt, sửa chữa, chăm sóc tại hiện trường khó thay hơn việc giấy tờ thuần túy vì vậy. Nên học kỹ năng cần đến tận nơi, đối diện môi trường không chuẩn"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

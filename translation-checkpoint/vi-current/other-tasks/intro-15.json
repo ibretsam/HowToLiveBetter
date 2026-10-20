@@ -1,0 +1,14 @@
+{
+  "id": "intro-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "db25637144e7f227213e98ec29084b2e225e2730b2b6a90068d2de3f6c7dbb37",
+  "original": {
+    "title": "租房与买房",
+    "intro": "口径：金钱。租房最容易亏钱的地方是押金和中介。买房最费钱的地方是贷款利息，还有卖方知道、你不知道的那些事。节末几条讲买房：钱该打进哪个账户，定金和房款什么时候能要回来，交房晚了怎么办。还有怎么防卖方一房二卖，房贷利率怎么往下谈。最后两条讲住进去以后：物业不能停水停电催物业费，新房漏水在保修期内找开发商修。"
+  },
+  "previous_translation": {
+    "title": "Thuê và mua nhà",
+    "intro": "Tiêu chí: tiền bạc. Khi thuê nhà, dễ mất tiền nhất ở tiền cọc và môi giới. Khi mua nhà, tốn nhất là lãi vay cùng những điều người bán biết mà bạn không biết."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-23-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "0b19b949c4cd76f309250d0843a8a6422486a1252802e1ed592cad08f1463228",
+  "status": "outdated",
+  "original": {
+    "number": 18,
+    "title": "别按「我是视觉型、他是听觉型」挑学法",
+    "fields": {
+      "cost": "不花钱。只是不再按这个分类挑材料、挑课程，也不再花钱做风格测评。",
+      "plain": "很多人相信每个人有自己的学习风格，比如视觉型、听觉型，按风格教才学得好。认真检验这件事的研究很少，几乎没有一项支持它，有几项的结果还正好相反。人确实各有偏好，但没有证据说按偏好上课就学得更好，不用花钱做风格测评。",
+      "benefit": "一份受托评估学习风格证据的综述指出：要证明「按学习风格施教」有效，必须先按风格给学生分组，再把每组学生随机分配到不同教法。最后要用同一份测验考。有效的判据是出现一种特定的交互作用：对一种风格最有效的教法，对另一种风格不是最有效的。综述的结论是：几乎没有发现这种交互作用。关于学习风格的文献虽然很多，但用了合格实验设计的研究极少，其中几项的结果还直接和「匹配假说」相反。作者据此认为，现有证据不足以支持把学习风格测评用进教育实践。",
+      "grade": "A",
+      "sources": "Pashler H, McDaniel M, Rohrer D, Bjork R (2008). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, 9(3), 105–119. <https://doi.org/10.1111/j.1539-6053.2009.01038.x>",
+      "notes": "综述同时说明，这不等于所有版本的学习风格理论都被测过并被否定，很多根本没被测过。要避免的是花钱做风格测评、按风格挑培训班这两件事。挑培训的标准见第 9 条（培训优先走政府补贴渠道）和第 13 条（优先选能直接上岗的短周期项目）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 18,
+    "title": "Đừng chọn cách học theo “tôi kiểu thị giác, người kia thính giác”",
+    "fields": {
+      "cost": "Không tốn tiền. Chỉ ngừng chọn tài liệu, khóa theo phân loại này và ngừng trả tiền đo phong cách.",
+      "plain": "Nhiều người tin ai cũng có phong cách học riêng như thị giác, thính giác, dạy đúng kiểu mới tốt. Nghiên cứu kiểm tra nghiêm túc rất ít, hầu như không ủng hộ, vài kết quả còn ngược. Mỗi người có sở thích thật nhưng không bằng chứng dạy theo sở thích giúp tốt hơn; không cần trả tiền đo phong cách.",
+      "benefit": "Tổng quan được đặt hàng đánh giá bằng chứng phong cách học nêu muốn chứng minh dạy khớp phong cách hiệu quả phải chia học sinh theo phong cách, rồi ngẫu nhiên mỗi nhóm vào các cách dạy khác nhau, cuối cùng cùng bài kiểm. Tiêu chuẩn là tương tác cụ thể: cách hiệu quả nhất cho một kiểu không phải nhất cho kiểu khác. Kết luận hầu như không thấy tương tác đó; tài liệu nhiều nhưng rất ít thiết kế đạt chuẩn, vài nghiên cứu trực tiếp trái “giả thuyết tương hợp”. Tác giả cho rằng bằng chứng chưa đủ để đưa đánh giá phong cách vào giáo dục.",
+      "grade": "A",
+      "sources": "Pashler H, McDaniel M, Rohrer D, Bjork R (2008). Learning Styles: Concepts and Evidence. Psychological Science in the Public Interest, 9(3), 105–119. <https://doi.org/10.1111/j.1539-6053.2009.01038.x>",
+      "notes": "Tổng quan cũng nói không nghĩa mọi phiên bản lý thuyết phong cách đều đã thử và bác bỏ; nhiều cái chưa thử. Tránh hai việc: trả tiền đo phong cách, chọn khóa theo phong cách. Tiêu chuẩn chọn xem mục 9 (ưu tiên trợ cấp nhà nước), 13 (chương trình ngắn đi làm ngay)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

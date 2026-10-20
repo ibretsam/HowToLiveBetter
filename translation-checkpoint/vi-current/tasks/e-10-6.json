@@ -1,0 +1,48 @@
+{
+  "id": "e-10-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "2dcb3644b428250023598e6ddc2d81596dbedd6a3d60e7e7801b690378d37eaa",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "异地恋不比同城差，真正的坎是搬到一起之后的头三个月",
+    "fields": {
+      "cost": "要花路费，还要花来回路上的时间。见面次数比同城少。难在长期扛住见不着面。",
+      "plain": "异地在分开期间反而更稳，研究认为原因是容易把对方想得比实际好，见得越少想得越美。真正的坎在搬到一起之后。追踪数据里约一半异地伴侣走到了同城这一步，另一半在分开期间就结束了。重聚的这一半里，三分之一在 3 个月内分手。",
+      "benefit": "两项研究的结论一致。异地恋在分开期间反而比同城恋更稳定。原因是异地关系里把对方想得比实际更好的程度明显更高，研究测的是理想化失真、浪漫爱、关系回忆、感知到的一致这几项。而且见面越少，想得越美。但这种稳定只在双方仍然分开时成立，一旦变成同城，异地伴侣更容易分手。追踪异地转同城的那项研究给出的比例是：约一半异地伴侣走到了搬到一起这一步，另一半在分开期间就结束了。在重聚的这一半里，三分之一在重聚后 3 个月内分手。参与者说到的重聚后变化有：自主空间没了，对对方好的坏的都知道得更多，时间难安排，冲突和吃醋变多。分开期间见面间隔越长、理想化越强，重聚后越不稳",
+      "grade": "B",
+      "sources": "Stafford L, Merolla AJ, Castle JD (2006). When long-distance dating partners become geographically close. Journal of Social and Personal Relationships, 23(6), 901-919. <https://doi.org/10.1177/0265407506070472>；Stafford L, Merolla AJ (2007). Idealization, reunions, and stability in long-distance dating relationships. Journal of Social and Personal Relationships, 24(1), 37-54. <https://doi.org/10.1177/0265407507072578>；Dargie E 等 (2015). Journal of Sex & Marital Therapy, 41(2), 181-202. <https://doi.org/10.1080/0092623X.2013.864367>（备注里那项异地研究）",
+      "notes": "对象是美国大学生的恋爱关系，不含婚姻，年代也较早，绝对比例别直接套。另一项研究调查了 717 人异地、425 人同城。两类关系的质量差别很小，关系好不好主要看两个人各自的情况和这段关系本身，不是距离。所以决定要不要异地时，别拿「异地一定散」当理由。要提前准备的是重聚后那几个月，那时自主空间变少，彼此了解变多，冲突和吃醋也变多"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Yêu xa không kém cùng thành phố; cửa ải thật là ba tháng đầu sau chuyển về cùng nhau",
+    "fields": {
+      "cost": "Tốn tiền đi lại, thời gian trên đường. Gặp ít hơn cùng thành phố. Khó ở chịu lâu dài không gặp.",
+      "plain": "Yêu xa trong thời gian xa lại ổn hơn, vì ít gặp dễ tưởng người kia tốt hơn thực tế. Cửa ải thật sau chuyển cùng nhau. Dữ liệu theo dõi có khoảng nửa đôi yêu xa đi đến cùng thành phố, nửa còn lại kết thúc lúc còn xa. Trong nửa tái hợp, một phần ba chia tay trong 3 tháng.",
+      "benefit": "Hai nghiên cứu thống nhất: yêu xa khi còn xa ổn định hơn cùng thành phố. Lý do là mức tưởng đối phương tốt hơn thực rõ rệt hơn; nghiên cứu đo lý tưởng hóa sai lệch, tình yêu lãng mạn, hồi ức quan hệ, cảm nhận tương đồng. Gặp càng ít càng tưởng đẹp. Nhưng ổn định chỉ khi còn xa; về cùng thành phố thì đôi yêu xa dễ chia tay hơn. Nghiên cứu theo dõi chuyển về gần cho tỷ lệ: khoảng nửa đến bước chuyển cùng nhau, nửa kết thúc khi còn xa. Trong nửa tái hợp, một phần ba chia tay trong 3 tháng. Khi xa, khoảng cách giữa các lần gặp càng dài, lý tưởng hóa càng mạnh, sau tái hợp càng kém ổn định.",
+      "grade": "B",
+      "sources": "Stafford L, Merolla AJ, Castle JD (2006). When long-distance dating partners become geographically close. Journal of Social and Personal Relationships, 23(6), 901-919. <https://doi.org/10.1177/0265407506070472>；Stafford L, Merolla AJ (2007). Idealization, reunions, and stability in long-distance dating relationships. Journal of Social and Personal Relationships, 24(1), 37-54. <https://doi.org/10.1177/0265407507072578>；Dargie E 等 (2015). Journal of Sex & Marital Therapy, 41(2), 181-202. <https://doi.org/10.1080/0092623X.2013.864367>（备注里那项异地研究）",
+      "notes": "Đối tượng là quan hệ yêu của sinh viên Mỹ, không gồm hôn nhân, nghiên cứu cũng cũ; đừng áp thẳng tỷ lệ tuyệt đối. Nghiên cứu khác khảo sát 717 người yêu xa, 425 cùng thành phố; chênh chất lượng rất nhỏ, tốt không chủ yếu tùy mỗi người và chính quan hệ. Vì vậy đừng lấy “yêu xa chắc tan” làm lý do. Cần chuẩn bị vài tháng sau tái hợp: không gian tự chủ ít đi, hiểu nhau hơn, xung đột và ghen tăng."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

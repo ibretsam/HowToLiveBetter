@@ -1,0 +1,48 @@
+{
+  "id": "e-34-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "8eb22ff811d6d931b16092232f43a5862fd9cc641f5f4fef03aa690eb18e6d0a",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "反酸烧心自己买奥美拉唑，最多吃 7 天；吞咽困难、呕血、黑便就直接去医院",
+    "fields": {
+      "cost": "不花钱。按说明书的天数吃。",
+      "plain": "奥美拉唑肠溶片从 2022 年起不用处方就能买，但说明书写明自己吃不超过 7 天，两个月内别再吃。吞咽困难或疼痛、呕血、便血或黑便时不要自己吃，这些可能是严重情况的信号。这药还可能盖住胃癌的症状，耽误诊断。",
+      "benefit": "国家药监局 2022 年第 68 号公告把奥美拉唑肠溶片从处方药转成非处方药，同时发布说明书范本。范本写的适应症是「胃酸过多引起的烧心和反酸症状的短期缓解」。注意事项写明：使用不得超过 7 天，症状没缓解要咨询医师或药师。两个月以内不得再次服用，症状反复要立即就医。吞咽困难或疼痛、呕血、便血或黑便时请勿使用，这些可能是严重情况的征兆。出现明显消瘦、反复呕吐、吞咽困难、呕血或黑便这类报警症状时，要先排除恶性肿瘤。原因是治疗可能掩盖症状、延误诊断。55 岁以上出现新的症状或症状有变化，要咨询医生。在吃氯吡格雷的人要避免同时吃奥美拉唑。原因看美国氯吡格雷（Plavix）说明书。奥美拉唑会抑制体内转化氯吡格雷的酶（CYP2C19）。说明书写着「omeprazole was shown to reduce significantly the antiplatelet activity of Plavix when given concomitantly or 12 hours apart」。两药同时吃或隔 12 小时吃，氯吡格雷防血栓的作用都明显变弱。这份说明书写的用途是急性冠脉综合征、近期心梗、近期中风和外周动脉病。",
+      "grade": "B",
+      "sources": "国家药监局关于奥美拉唑肠溶片处方药转换为非处方药的公告（2022年第68号）及附件2《非处方药说明书范本》. <https://www.nmpa.gov.cn/yaopin/ypggtg/20220826171517123.html>；Sanofi-Aventis U.S. (2025). PLAVIX (clopidogrel) tablets, US prescribing information, sections 1, 5 and 7（DailyMed）. <https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227>",
+      "notes": "氯吡格雷是防血栓的药，得过心梗、中风的人常用。奥美拉唑会让它变弱，在吃的人先问医生。定 B 是因为这些是说明书的规定，没有研究算过照着做能少出多少事。收益定「中」是判断：它防的是把胃出血、胃癌拖晚了，但多数反酸烧心并不严重。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Tự mua omeprazole trị trào ngược, ợ nóng chỉ dùng tối đa 7 ngày; khó nuốt, nôn máu, phân đen đi bệnh viện ngay",
+    "fields": {
+      "cost": "Không tốn tiền. Dùng đúng số ngày hướng dẫn.",
+      "plain": "Viên omeprazole bao tan ở ruột từ 2022 mua không cần đơn, nhưng hướng dẫn giới hạn tự dùng 7 ngày, không dùng lại trong hai tháng. Khó hoặc đau khi nuốt, nôn máu, đi máu hoặc phân đen đừng tự dùng, có thể là dấu hiệu nặng. Thuốc còn có thể che triệu chứng ung thư dạ dày, chậm chẩn đoán.",
+      "benefit": "Thông báo số 68 năm 2022 của Cục Quản lý Dược phẩm Quốc gia chuyển viên bao tan trong ruột omeprazole từ thuốc kê đơn sang thuốc không kê đơn, đồng thời công bố hướng dẫn sử dụng mẫu. Chỉ định ghi trong bản mẫu là ‘giảm ngắn hạn triệu chứng ợ nóng và ợ chua do dư acid dạ dày’. Phần lưu ý ghi rõ: không được dùng quá 7 ngày, triệu chứng chưa đỡ thì phải hỏi bác sĩ hoặc dược sĩ. Trong vòng hai tháng không được dùng lại, triệu chứng tái phát thì phải đi khám ngay. Không dùng khi nuốt khó hoặc đau, nôn ra máu, đi ngoài ra máu hoặc phân đen, vì đây có thể là dấu hiệu của tình trạng nghiêm trọng. Khi có các triệu chứng báo động như sụt cân rõ, nôn nhiều lần, nuốt khó, nôn ra máu hoặc phân đen, phải loại trừ ung thư trước, vì điều trị có thể che lấp triệu chứng, làm chậm chẩn đoán. Người từ 55 tuổi trở lên có triệu chứng mới hoặc triệu chứng thay đổi thì phải hỏi bác sĩ. Người đang dùng clopidogrel nên tránh dùng cùng lúc omeprazole.",
+      "grade": "B",
+      "sources": "国家药监局关于奥美拉唑肠溶片处方药转换为非处方药的公告（2022年第68号）及附件2《非处方药说明书范本》. <https://www.nmpa.gov.cn/yaopin/ypggtg/20220826171517123.html>",
+      "notes": "Clopidogrel là thuốc chống huyết khối thường dùng sau đặt stent, nhồi máu tim. Omeprazole làm thuốc yếu đi, người đang dùng hỏi bác sĩ trước. Xếp B vì đây là quy định hướng dẫn, chưa có nghiên cứu tính làm theo tránh bao nhiêu tai nạn. Lợi ích ‘trung bình’: tránh chậm xử trí xuất huyết, ung thư dạ dày, nhưng đa số ợ nóng trào ngược không nặng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": true
+}

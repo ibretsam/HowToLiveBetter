@@ -1,0 +1,15 @@
+{
+  "id": "e-13-3",
+  "source_sha256": "d10e1291b60bc5f34abb9d2b53435316a7d26922e291eef00c12535f98f1f95b",
+  "draft_sha256": "6bce6e299f07b5fc97eb95b5407743f43111218e2038a95832cdca872c3893e4",
+  "reviewer": "pilot_medicine_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all fields, time windows, alteplase dose-free wording and dispatch rationale. Source caveat: benefit first reports odds ratios then calls them likelihood multiples; notes claim beyond4.5hours essentially ineffective whereas benefit reports statistical nonsignificance. These source statements are faithfully retained, not endorsed or silently corrected."
+}

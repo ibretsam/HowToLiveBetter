@@ -1,0 +1,48 @@
+{
+  "id": "e-3-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "906f119dfa8a3e0bb81f5c836b2af3e60b15e60fd6634ab53ae015a91d9669c2",
+  "status": "draft",
+  "original": {
+    "number": 5,
+    "title": "把邮件和消息改成每天固定几次批量处理",
+    "fields": {
+      "cost": "不花钱。要花点时间跟同事说清楚你多久回一次。忍住不随时翻邮件，需要一点毅力。",
+      "plain": "同一批人对比了两周。把邮件限制成每天只查 3 次的那一周，日常压力明显更低，而收发的邮件数量一样多。不加限制的时候，人平均每天要查 15.5 次。",
+      "benefit": "124 名成年人，两周里同一批人前后对比（自身对照）。限制为每天查 3 次邮件的那周，日常压力明显低于不限次数那周（效果大小 Cohen's d = 0.37）。两周收到和回复的邮件数量并没有差别。一开始不加限制时，人们平均每天查邮件 15.5 次。",
+      "grade": "B",
+      "sources": "Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>",
+      "notes": "只有一项研究，效果中等偏小，量的是压力，不是干出来的活。即时消息没人直接研究过，这里只是照着推的。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Xử lý email và tin nhắn theo vài đợt cố định mỗi ngày",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn cần dành chút thời gian nói rõ với đồng nghiệp bao lâu mình trả lời một lần. Kiềm chế không liên tục mở email cần một chút ý chí.",
+      "plain": "Cùng một nhóm người được so sánh trong hai tuần. Vào tuần chỉ kiểm tra email 3 lần mỗi ngày, họ ít căng thẳng hằng ngày hơn rõ rệt, dù số thư gửi nhận vẫn như nhau. Khi không giới hạn, họ kiểm tra trung bình 15.5 lần mỗi ngày.",
+      "benefit": "124 người trưởng thành được so sánh trước sau trong hai tuần, tự làm đối chứng cho mình. Tuần giới hạn kiểm tra email 3 lần mỗi ngày có mức căng thẳng thấp hơn rõ rệt so với tuần không giới hạn (kích thước hiệu ứng Cohen's d = 0.37). Số email nhận và trả lời trong hai tuần không khác nhau. Ban đầu, khi chưa giới hạn, họ kiểm tra trung bình 15.5 lần mỗi ngày.",
+      "grade": "B",
+      "sources": "Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>",
+      "notes": "Chỉ có một nghiên cứu, hiệu ứng từ nhỏ đến vừa, đo căng thẳng chứ không đo lượng việc hoàn thành. Chưa có nghiên cứu trực tiếp về tin nhắn tức thời; việc áp dụng ở đây là suy luận tương tự."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

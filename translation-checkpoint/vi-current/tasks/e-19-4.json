@@ -1,0 +1,48 @@
+{
+  "id": "e-19-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "bf88368d6dc4e765b6bf97a014055e3b2b9c8ae0a3de949a36f8b9d16dc5e3ac",
+  "status": "draft",
+  "original": {
+    "number": 4,
+    "title": "被裁先算清 N：每满一年一个月工资，不满六个月按半个月",
+    "fields": {
+      "cost": "不花钱。拿计算器算一次，十分钟。",
+      "plain": "被裁时公司要给的经济补偿这样算：干满一年给一个月工资，满半年不满一年按一年算，不满半年给半个月。这里的月工资是走人前 12 个月的平均数，奖金、津贴、补贴都要算进去。工资高过当地上年度月平均工资 3 倍的按 3 倍封顶，年限最多算 12 年。",
+      "benefit": "劳动合同法定的经济补偿，就是被裁时单位该给的那笔钱，大家常叫它 N。算法是：「每满一年支付一个月工资……六个月以上不满一年的，按一年计算；不满六个月的，向劳动者支付半个月工资」。月工资高过当地上年度职工月平均工资三倍的，按三倍封顶算，而且工龄最多只算到十二年",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第四十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "月工资指劳动合同解除前十二个月的平均工资。奖金、津贴和补贴都要算进去，不是只算基本工资。这一点最容易被公司做低。这笔钱要不要交个税，见本节第 18 条（补偿的个税）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Bị cắt giảm nhân sự, tính rõ N trước: mỗi năm đủ một tháng lương, dưới sáu tháng tính nửa tháng",
+    "fields": {
+      "cost": "Không tốn tiền. Tính bằng máy tính một lần, mất mười phút.",
+      "plain": "Khoản trợ cấp kinh tế công ty phải trả khi cắt giảm tính như sau: đủ một năm được một tháng lương; đủ nửa năm đến dưới một năm tính một năm; dưới nửa năm được nửa tháng. Lương tháng ở đây là bình quân 12 tháng trước nghỉ, gồm cả thưởng, phụ cấp, trợ cấp. Nếu lương cao hơn 3 lần lương tháng bình quân địa phương năm trước thì chặn ở 3 lần, thâm niên tối đa tính 12 năm.",
+      "benefit": "Trợ cấp kinh tế theo Luật Hợp đồng lao động là khoản đơn vị phải trả khi bạn bị cắt giảm, thường gọi N. Công thức: “mỗi năm đủ trả một tháng lương… từ sáu tháng đến dưới một năm tính một năm; dưới sáu tháng trả nửa tháng lương”. Lương tháng vượt ba lần lương tháng bình quân người lao động địa phương năm trước thì lấy trần ba lần, thâm niên tối đa mười hai năm",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第四十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "Lương tháng là bình quân mười hai tháng trước chấm dứt hợp đồng. Phải tính thưởng, phụ cấp và trợ cấp, không chỉ lương cơ bản. Đây là chỗ công ty dễ tính thấp nhất. Khoản này có phải nộp thuế thu nhập cá nhân không, xem mục 18 chương này (thuế đối với trợ cấp)"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

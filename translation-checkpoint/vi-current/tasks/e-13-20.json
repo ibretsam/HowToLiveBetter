@@ -1,0 +1,48 @@
+{
+  "id": "e-13-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "c6d6b423726ddc6828d4ea31fc891f9632a144680cd72b04101564b59e44e5ae",
+  "status": "outdated",
+  "original": {
+    "number": 20,
+    "title": "误服清洁剂、农药、药物先别催吐，带上瓶子立刻就医；溅到眼睛或皮肤用大量清水至少冲 15 分钟",
+    "fields": {
+      "cost": "不花钱。把清洁剂、消毒液、农药和药品放到孩子够不着的高处，或者带锁的柜子里。绝不分装进饮料瓶。",
+      "plain": "误服清洁剂、农药、药物都不要催吐，吐时可能伤到喉咙，还可能呛着。误服强酸强碱清洁剂的，中国疾控说先喝适量牛奶或蛋清，带上瓶子立刻去医院。溅到皮肤或者眼睛，用大量清水至少冲 15 分钟，眼睛要撑开眼皮冲、不要揉。消毒液和洁厕剂混着用会产生氯气。",
+      "benefit": "中国疾控中心职业卫生与中毒控制所给的处置口径分四种。吃进嘴里（消化道摄入）的，立即饮用适量的牛奶或蛋清，「切记，不要催吐」。尽快就医，同时携带包装或说明书，「以便于医生快速判断成分并制定救治方案」。吸进气里（呼吸道吸入）：立即转移至通风良好的区域，解开衣领保持呼吸通畅。出现剧烈咳嗽、气促或呼吸困难的，立即就医。皮肤接触：立即用大量清水冲洗接触部位至少 15 分钟，注意别让冲洗液溅到眼睛或者其他完好皮肤。眼睛接触的，立即用大量清水或生理盐水冲洗眼睛至少 15 分钟。冲洗时撑开眼睑，让水流充分接触眼球及眼睑内侧，「切勿揉搓眼睛」。冲洗后立即前往眼科。高危产品按酸碱度（pH）认。pH<3 的是洁厕剂、除垢剂、地板清洁剂、不锈钢光亮剂。部分强力管道疏通剂还含稀硫酸。pH>11 的是管道疏通剂、厨房强力除污剂、洗碗粉、爆炸盐、去污粉。还有一个当场出事的组合：消毒液和含盐酸的洁厕剂一起用会产生氯气。氯气刺激呼吸道，引起剧烈咳嗽和气促，甚至危及生命。不催吐不只管清洁剂。NHS 的中毒页把药物、清洁用品、某些植物和蘑菇、农药都列为常见的中毒原因，写明怀疑吞了有害的东西就不要让人吐，「可能呛着、停止呼吸」，也不要给吃的喝的。病人吐了的话，装一点呕吐物给医生看。国际红十字 2025 年急救指南写明，不要让吞了毒物的人吐，「可能伤到喉咙」。把瓶子、包装和标签都交给急救人员",
+      "grade": "B",
+      "sources": "中国疾病预防控制中心职业卫生与中毒控制所 (2025). 暑假安全提示：警惕强酸强碱清洁剂. <https://niohp.chinacdc.cn/kpdw/202507/t20250722_308659.htm>；NHS. Poisoning：「do not try to make someone sick if you think they've swallowed something harmful – they could choke and stop breathing」「do not give the person anything to eat or drink」「if the person vomits, try putting some vomit in a container to give to healthcare professionals」；常见原因列有「medicines」「household cleaning products」「certain plants and mushrooms」「pesticides」. <https://www.nhs.uk/conditions/poisoning/>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 346–347 页：「The person should NOT be encouraged to vomit as this may damage their throat」「First aid providers should not give any diluents such as milk, water or activated charcoal to a person who has swallowed a poisonous substance unless they are instructed to do so by the poison control centre or equivalent poison expert」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>",
+      "notes": "定 B 是因为官方科普只讲了该怎么处理、怎么认出来，没有「照做能少出多少事」的数字。喝不喝牛奶，两边说法不同。中国疾控说误服强酸强碱清洁剂的先喝适量牛奶或蛋清。国际红十字说除非中毒急救专家让喂，不给牛奶、水这类东西，NHS 也说不给吃喝。清洁剂以外的，比如药物、农药，不要自己喂东西。拿不准误服的是什么，就把瓶子、说明书连同呕吐物一起带去医院。预防比急救便宜得多：分类存放，别和食物饮料混放，用完拧紧盖子扔掉空瓶，绝不倒进矿泉水瓶。使用时戴橡胶手套和护目镜，开窗通风，不同类型不混用。一氧化碳见第 19 条，烧烫伤见第 14 条。酸碱这类化学品溅到身上，怎么脱衣服、冲多久，见第 21 条（化学品溅到身上）。孩子吞了纽扣电池或磁珠，见第 45 条（孩子吞了纽扣电池）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 20,
+    "title": "Nuốt nhầm chất tẩy rửa, thuốc trừ sâu hoặc thuốc: trước hết đừng gây nôn, mang theo chai lọ đi viện ngay; bắn vào mắt hoặc da thì rửa bằng thật nhiều nước sạch ít nhất 15 phút",
+    "fields": {
+      "cost": "Không tốn tiền. Cất chất tẩy rửa, dung dịch khử trùng, thuốc trừ sâu và thuốc men ở chỗ cao ngoài tầm với của trẻ, hoặc trong tủ có khóa. Tuyệt đối không chiết sang chai đồ uống.",
+      "plain": "Nuốt nhầm chất tẩy rửa, thuốc trừ sâu hoặc thuốc thì không được gây nôn, vì chất lỏng ăn mòn khi nôn ra sẽ đốt thực quản thêm một lần nữa. Trước hết uống một lượng sữa hoặc lòng trắng trứng vừa phải, mang theo chai lọ và tờ hướng dẫn đến bệnh viện ngay. Bắn vào da hoặc mắt thì rửa bằng thật nhiều nước sạch ít nhất 15 phút; với mắt phải banh mí ra mà rửa, không được dụi. Dùng lẫn dung dịch khử trùng với chất tẩy bồn cầu sẽ sinh ra khí clo.",
+      "benefit": "Viện Sức khỏe nghề nghiệp và Kiểm soát ngộ độc thuộc CDC Trung Quốc đưa ra hướng xử lý chia thành bốn trường hợp. Nuốt vào miệng (qua đường tiêu hóa): uống ngay một lượng sữa hoặc lòng trắng trứng vừa phải, “nhớ kỹ, không được gây nôn”. Đi khám càng sớm càng tốt, đồng thời mang theo bao bì hoặc tờ hướng dẫn “để bác sĩ nhanh chóng xác định thành phần và lập phương án cứu chữa”. Hít vào (qua đường hô hấp): chuyển ngay đến nơi thông gió tốt, nới cổ áo để giữ thông đường thở; nếu ho dữ dội, thở gấp hoặc khó thở thì đi khám ngay. Tiếp xúc qua da: rửa ngay chỗ tiếp xúc bằng thật nhiều nước sạch ít nhất 15 phút, chú ý không để nước rửa bắn vào mắt hoặc vùng da lành khác. Tiếp xúc qua mắt: rửa mắt ngay bằng thật nhiều nước sạch hoặc nước muối sinh lý ít nhất 15 phút. Khi rửa phải banh mí mắt để dòng nước tiếp xúc đầy đủ với nhãn cầu và mặt trong mí mắt, “tuyệt đối không dụi mắt”. Rửa xong đến ngay chuyên khoa mắt. Sản phẩm nguy cơ cao được nhận biết theo độ axit-kiềm (pH). Loại có pH<3 là chất tẩy bồn cầu, tẩy cặn, lau sàn, làm bóng thép không gỉ. Một số chất thông cống mạnh còn chứa axit sulfuric loãng. pH>11 là chất thông tắc đường ống, chất tẩy dầu mỡ nhà bếp cực mạnh, bột rửa bát, bột tẩy oxy, bột tẩy rửa. Còn một tổ hợp gây chuyện ngay tại chỗ: dùng chung dung dịch khử trùng với chất tẩy bồn cầu chứa axit clohydric sẽ sinh ra khí clo, kích thích đường hô hấp, gây ho dữ dội và thở gấp, thậm chí nguy hiểm đến tính mạng.",
+      "grade": "B",
+      "sources": "中国疾病预防控制中心职业卫生与中毒控制所 (2025). 暑假安全提示：警惕强酸强碱清洁剂. <https://niohp.chinacdc.cn/kpdw/202507/t20250722_308659.htm>",
+      "notes": "Mức B vì tài liệu phổ biến kiến thức chính thức chỉ nói cách xử lý và cách nhận biết, không có số liệu “làm theo thì giảm được bao nhiêu sự cố”. Lý do không gây nôn là: chất lỏng ăn mòn khi nôn ra sẽ đốt thực quản (ống nối từ họng xuống dạ dày) thêm một lần nữa. Không chắc đã nuốt phải thứ gì thì mang chai lọ, tờ hướng dẫn cùng chất nôn đến bệnh viện. Phòng ngừa rẻ hơn cấp cứu nhiều: cất riêng từng loại, không để lẫn với đồ ăn thức uống, dùng xong vặn chặt nắp, vứt bỏ chai rỗng, tuyệt đối không đổ sang chai nước khoáng. Khi sử dụng, đeo găng tay cao su và kính bảo hộ, mở cửa sổ cho thoáng, không dùng lẫn các loại khác nhau. Carbon monoxide xem mục 19, bỏng nhiệt xem mục 14. Hóa chất như axit, kiềm bắn lên người thì cởi quần áo thế nào, rửa bao lâu, xem mục 21 (hóa chất bắn lên người)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

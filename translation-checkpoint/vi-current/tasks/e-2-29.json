@@ -1,0 +1,48 @@
+{
+  "id": "e-2-29",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "f47c0a93d40fb34ad2664f0f728eb554103ff9da06706d6c706c241502e79a4f",
+  "status": "draft",
+  "original": {
+    "number": 29,
+    "title": "做饭、取暖不烧煤和柴，换成电或燃气",
+    "fields": {
+      "cost": "农村家庭要换灶具，加上燃料费，一年几百到上千元。换一次就完事，不长期占时间。城里人基本已经是电或燃气了。",
+      "plain": "做饭烧煤或烧柴的人，同期死亡的概率高约一成；取暖烧煤柴的高约 14%。已经改用电或燃气的人，比还在烧煤柴的人死亡概率低 13%–33%。",
+      "benefit": "中国有一项慢性病往后跟踪的研究，只记录、不分组，27.1 万名没有心血管病的成人。做饭用煤柴这类固体燃料的人，死亡风险比用电或燃气的人高约 11%（HR 1.11）。取暖用固体燃料的人高约 14%（HR 1.14）。已经从固体燃料换成清洁燃料的人，和还在烧的人比，做饭这项低约 13%（HR 0.87）。取暖这项低约 33%（HR 0.67）。室外的 PM2.5 另有一笔账。把 104 项跟踪研究合起来算，长期吸到的浓度每高 10 µg/m³，自然原因死亡风险高约 8%（RR 1.08）。自然原因就是非意外的病死。",
+      "grade": "A",
+      "sources": "Yu K 等 (2018). Association of Solid Fuel Use With Risk of Cardiovascular and All-Cause Mortality in Rural China. JAMA. <https://doi.org/10.1001/jama.2018.2151>；Chen J, Hoek G (2020). Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis. Environment International. <https://doi.org/10.1016/j.envint.2020.105974>",
+      "notes": "这类研究只是跟踪记录。换了燃料的家庭往往也更富裕，「风险降到 0.67 倍」这个数里混着家境的影响。至于室外的 PM2.5，个人能做的有限，无非是搬家、戴口罩、用净化器。空气净化器没有以死亡率为终点的研究，所以本节不给数字。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 29,
+    "title": "Không đốt than, củi để nấu hoặc sưởi; đổi sang điện hay khí đốt",
+    "fields": {
+      "cost": "Gia đình nông thôn phải đổi bếp, cộng phí nhiên liệu từ vài trăm đến hơn nghìn nhân dân tệ mỗi năm. Đổi một lần là xong, không chiếm thời gian lâu dài. Người thành thị phần lớn đã dùng điện hoặc khí đốt.",
+      "plain": "Người nấu bằng than, củi có xác suất tử vong cùng kỳ cao hơn khoảng một phần mười; dùng chúng để sưởi cao hơn khoảng 14%. Người đã chuyển sang điện hoặc khí đốt có nguy cơ thấp hơn 13%–33% so với người vẫn đốt than, củi.",
+      "benefit": "Một nghiên cứu tiến cứu bệnh mạn tại Trung Quốc chỉ theo dõi, không phân nhóm, gồm 27.1 vạn người lớn chưa mắc bệnh tim mạch. Người nấu bằng nhiên liệu rắn như than, củi có nguy cơ tử vong cao hơn khoảng 11% so với người dùng điện, khí đốt (HR 1.11); dùng nhiên liệu rắn sưởi thì cao hơn khoảng 14% (HR 1.14). Người đã đổi sang nhiên liệu sạch có nguy cơ thấp hơn người vẫn đốt: với nấu thấp hơn khoảng 13% (HR 0.87), với sưởi thấp hơn khoảng 33% (HR 0.67). PM2.5 ngoài trời là một phần rủi ro riêng. Gộp 104 nghiên cứu theo dõi, nồng độ tiếp xúc dài hạn mỗi tăng 10 µg/m³ liên quan nguy cơ tử vong tự nhiên cao hơn khoảng 8% (RR 1.08). Tự nhiên nghĩa là chết do bệnh, không phải tai nạn.",
+      "grade": "A",
+      "sources": "Yu K 等 (2018). Association of Solid Fuel Use With Risk of Cardiovascular and All-Cause Mortality in Rural China. JAMA. <https://doi.org/10.1001/jama.2018.2151>；Chen J, Hoek G (2020). Long-term exposure to PM and all-cause and cause-specific mortality: A systematic review and meta-analysis. Environment International. <https://doi.org/10.1016/j.envint.2020.105974>",
+      "notes": "Đây chỉ là nghiên cứu theo dõi. Gia đình đổi nhiên liệu thường cũng khá giả hơn, nên con số “nguy cơ còn 0.67 lần” có lẫn ảnh hưởng kinh tế. Với PM2.5 ngoài trời, cá nhân làm được hạn chế, chủ yếu chuyển nhà, đeo khẩu trang, dùng máy lọc. Chưa có nghiên cứu máy lọc không khí lấy tử vong làm kết quả cuối, nên chương không nêu con số cho nó."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

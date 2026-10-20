@@ -1,0 +1,48 @@
+{
+  "id": "e-23-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "b1ec922add5e997f7f1ff535491803b333df721cdee73e248b4bc8aa85cb6870",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "没考上普高不等于路断了：中职有贯通招生和单独考试，事业单位技能岗位招聘还可以降学历要求",
+    "fields": {
+      "cost": "不花钱。填中考志愿之前，查一次本省的职教招生平台。",
+      "plain": "2022 年的职业教育法写明：职业教育和普通教育地位同等重要。中职可以和高职贯通招生，高职还必须留出招生计划或者单独考试，专门招中职毕业生。用人单位也不得因为你是职业学校毕业就设门槛卡你。分数不够上普高，是换一条路，不是停在初中学历。",
+      "benefit": "《职业教育法》（2022 年 5 月 1 日起施行）第三条：「职业教育是与普通教育具有同等重要地位的教育类型」。第三十七条：中等职业学校「可以按照国家有关规定，在有关专业实行与高等职业学校教育的贯通招生和培养」。高等职业学校「可以按照国家有关规定，采取文化素质与职业技能相结合的考核方式招收学生」。省级以上教育行政部门要建立职业教育统一招生平台，汇总发布学校、专业设置和招生情况，并提供查询报考服务。第五十三条：「职业学校学生在升学、就业、职业发展等方面与同层次普通学校学生享有平等机会」。高等职业学校和实施职业教育的普通高等学校「应当在招生计划中确定相应比例或者采取单独考试办法，专门招收职业学校毕业生」。「用人单位不得设置妨碍职业学校毕业生平等就业、公平竞争的报考、录用、聘用条件」。事业单位公开招聘中有职业技能等级要求的岗位「可以适当降低学历要求」（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2022). 职业教育法（2022 年修订，第三、三十七、五十三条）. <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html>（教育部刊登）",
+      "notes": "受益人是自己和子女。这些是法定的通道，不是保证录取。贯通培养有哪些专业、单独招生留多少比例、职教高考考哪些科目，都由各省定。报志愿前必须查本省当年的职教招生平台和招生计划，别按外省的经验推。挑中职专业时，用本节第 10 条（挑抗自动化的技能）的维度过一遍：要到现场、环境不标准的专业更难被顶掉。选学校就看它在不在本省当年的职教招生计划里。它发的证再按第 8 条（查证书在不在目录里）那三步验一遍。招生宣传里承诺「包分配」「保过」的一律不要"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Không đỗ phổ thông trung học không nghĩa hết đường: trung cấp nghề có tuyển liên thông, thi riêng; việc kỹ năng còn có thể hạ yêu cầu bằng cấp",
+    "fields": {
+      "cost": "Không tốn tiền. Trước điền nguyện vọng sau trung học cơ sở, tra nền tảng tuyển giáo dục nghề của tỉnh.",
+      "plain": "Luật Giáo dục nghề nghiệp 2022 ghi nghề và phổ thông có vị trí quan trọng ngang nhau. Trung cấp nghề có thể liên thông cao đẳng nghề; bậc nghề cao hơn còn phải dành chỉ tiêu hoặc thi riêng tuyển học sinh tốt nghiệp nghề. Đơn vị tuyển dụng không được đặt rào cản vì bạn tốt nghiệp trường nghề. Điểm chưa đủ phổ thông là đổi đường, không phải dừng ở bằng trung học cơ sở.",
+      "benefit": "Luật Giáo dục nghề nghiệp (hiệu lực ngày 1 tháng 5 năm 2022), Điều ba: “Giáo dục nghề nghiệp là loại hình có vị trí quan trọng ngang giáo dục phổ thông”. Điều ba mươi bảy: trung cấp nghề “có thể theo quy định quốc gia tuyển sinh và đào tạo liên thông với giáo dục nghề bậc cao ở ngành liên quan”. Trường nghề bậc cao “có thể tuyển bằng đánh giá kết hợp văn hóa và kỹ năng nghề theo quy định”. Cơ quan giáo dục cấp tỉnh trở lên phải có nền tảng tuyển nghề thống nhất, tổng hợp công bố trường, ngành, tuyển sinh, cung cấp tra cứu và đăng ký. Điều năm mươi ba: “Học sinh trường nghề có cơ hội ngang học sinh trường phổ thông cùng cấp trong học tiếp, việc làm, phát triển nghề nghiệp”. Trường nghề bậc cao và trường đại học thực hiện giáo dục nghề “phải xác định tỷ lệ tương ứng trong kế hoạch hoặc dùng thi riêng, chuyên tuyển người tốt nghiệp trường nghề”. “Đơn vị không được đặt điều kiện đăng ký, tuyển, thuê cản trở việc làm bình đẳng, cạnh tranh công bằng của người tốt nghiệp nghề”. Vị trí tuyển công khai đơn vị sự nghiệp có yêu cầu cấp kỹ năng nghề “có thể hạ thích hợp yêu cầu bằng cấp” (toàn quốc)",
+      "grade": "A",
+      "sources": "全国人大常委会 (2022). 职业教育法（2022 年修订，第三、三十七、五十三条）. <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html>（教育部刊登）",
+      "notes": "Hưởng lợi là bạn và con. Đây là đường pháp luật quy định, không bảo đảm trúng tuyển. Ngành liên thông nào, tỷ lệ tuyển riêng, môn thi nghề đều do tỉnh định. Trước điền nguyện vọng phải xem nền tảng và kế hoạch năm đó của tỉnh, đừng suy từ tỉnh khác. Chọn ngành trung cấp nghề thì xét mục 10 (kỹ năng chống tự động hóa): cần có mặt, môi trường không chuẩn hóa khó bị thay hơn. Chọn trường xem có trong kế hoạch tuyển nghề tỉnh năm đó; chứng chỉ kiểm tra ba bước mục 8 (có trong danh mục không). Quảng cáo hứa “bao phân việc”, “bao đậu” đều tránh"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

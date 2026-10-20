@@ -1,0 +1,48 @@
+{
+  "id": "e-8-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "18e94f14d584be462e0c551be1ac791a8dfce814e90cfcae478bdc52ccf25a8a",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "身边人说出「谁也别想好过」「带着孩子一起走」，别当气话：近亲属可以直接送诊，公安接到报警也必须管",
+    "fields": {
+      "cost": "挂号和诊查费几十到几百元。陪着跑一趟医院，要花半天到一天。难在开口劝他跟你去。",
+      "plain": "家里人说出「谁也别想好过」「带着孩子一起走」，近亲属可以把他送去医院，医院不得拒绝诊断。确诊严重精神障碍、又动过手或眼看要出事的，住院不需本人同意。分不清是气话还是真的，先打 12356 问，或者报 110 让警察到场。替他瞒着不算帮他。",
+      "benefit": "精神卫生法第二十八条第二款写着：「疑似精神障碍患者发生伤害自身、危害他人安全的行为，或者有伤害自身、危害他人安全的危险的，其近亲属、所在单位、当地公安机关应当立即采取措施予以制止，并将其送往医疗机构进行精神障碍诊断」。同一条还规定：「医疗机构接到送诊的疑似精神障碍患者，不得拒绝为其作出诊断」。第二十九条要求医院把这类送来的人留在院里，立即指派精神科执业医师诊断，并及时出具结论。第三十条规定，住院治疗以自愿为原则。但有一种例外：诊断结论表明是严重精神障碍患者，而且「已经发生危害他人安全的行为，或者有危害他人安全的危险的」。这一类应当对他实施住院治疗，不以本人同意为前提。扬言伤人本身就可以直接报 110。写恐吓信，或者用其他办法威胁他人人身安全的，拘留 5 日以下或者罚 1000 元以下。扬言要放火、爆炸、投放危险物质，又把公共秩序搅乱了的，拘留 5 到 10 日，并可以罚 1000 元以下（全国，治安管理处罚法 2026 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十九、五十条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2012，2018 修正). 精神卫生法（第二十八、二十九、三十、三十五条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647635.htm>；法国航空事故调查局 BEA (2016). Final Report BEA2015-0125.en: Accident on 24 March 2015 at Prads-Haute-Bléone to the Airbus A320-211 registered D-AIPX operated by Germanwings. <https://bea.aero/uploads/tx_elydbrapports/BEA2015-0125.en-LR.pdf>",
+      "notes": "按受益人口径，这条算的是同住的配偶、父母、子女。「谁也别想好过」里通常就包括你，而且法律把送诊的权利给的正是近亲属，外人想管也管不了，只能报警。送诊只用于真实的危险信号，吵架时的气话不算，也不能拿它把不听话的家人关进医院。同一部法律也写着：再查一次或者做了鉴定，认定人没有严重精神障碍的，医院不得留他住院（第三十五条）。分不清就先打 12356 问，或者报 110 让警察到场。拿不准他是不是想寻死，可以直接问。问了不会让他更想，见第 1 节第 43 条（直接问身边情绪不对的人）。德翼 9525 航班的调查结论是：当局和雇主没办法采取任何措施，阻止副驾驶当天飞行。原因是「无论是他本人，还是任何其他人——医生、同事或者家属——都没有告知他们」。机上 150 人全部遇难，其中 2 名飞行员、4 名乘务员、144 名乘客。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Người bên cạnh nói “đừng ai mong sống yên”, “đưa con đi cùng”, đừng coi chỉ là lời giận: người thân gần có thể trực tiếp đưa đi khám; công an nhận tin báo cũng phải xử lý",
+    "fields": {
+      "cost": "Phí đăng ký và khám vài chục đến vài trăm nhân dân tệ. Đi cùng đến bệnh viện mất nửa ngày đến một ngày. Khó nhất là mở lời khuyên người ấy đi cùng.",
+      "plain": "Người nhà nói “đừng ai mong sống yên”, “đưa con đi cùng”, người thân gần có thể đưa thẳng đến bệnh viện, bệnh viện không được từ chối chẩn đoán. Đã ra tay hoặc nguy hiểm ngay trước mắt thì nhập viện không cần sự đồng ý của người đó. Không phân biệt được lời giận hay thật thì gọi 12356 hỏi trước, hoặc báo 110 để cảnh sát đến. Che giấu giúp họ không phải là giúp họ.",
+      "benefit": "Khoản hai Điều hai mươi tám Luật Sức khỏe tâm thần quy định: “Khi người nghi mắc rối loạn tâm thần có hành vi tự làm hại mình, gây nguy hiểm cho người khác, hoặc có nguy cơ tự làm hại mình, gây nguy hiểm cho người khác, người thân gần, đơn vị công tác và công an địa phương phải lập tức ngăn chặn và đưa đến cơ sở y tế để chẩn đoán rối loạn tâm thần”. Cùng điều quy định: “Cơ sở y tế tiếp nhận người nghi mắc rối loạn tâm thần được đưa đến khám không được từ chối chẩn đoán”. Điều hai mươi chín yêu cầu bệnh viện giữ người thuộc nhóm này tại viện, lập tức chỉ định bác sĩ chuyên khoa tâm thần có giấy phép chẩn đoán và kịp thời đưa ra kết luận. Điều ba mươi quy định nhập viện điều trị dựa trên nguyên tắc tự nguyện. Nhưng có ngoại lệ: kết luận chẩn đoán là rối loạn tâm thần nặng và “đã có hành vi gây nguy hiểm cho người khác, hoặc có nguy cơ gây nguy hiểm cho người khác”. Nhóm này phải được điều trị nội trú, không cần có sự đồng ý của bản thân trước. Chỉ riêng lời đe dọa làm hại người đã có thể báo 110. Viết thư đe dọa hoặc dùng cách khác đe dọa an toàn thân thể người khác bị tạm giữ đến 5 ngày hoặc phạt đến 1000 nhân dân tệ. Đe dọa phạm tội nguy hại an toàn công cộng như phóng hỏa, gây nổ, thả chất nguy hiểm, đồng thời gây rối loạn trật tự công cộng, bị tạm giữ 5 đến 10 ngày, có thể kèm phạt đến 1000 nhân dân tệ (toàn quốc, Luật Xử phạt quản lý trị an có hiệu lực từ ngày 1 tháng 1 năm 2026).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十九、五十条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2012，2018 修正). 精神卫生法（第二十八、二十九、三十、三十五条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647635.htm>；法国航空事故调查局 BEA (2016). Final Report BEA2015-0125.en: Accident on 24 March 2015 at Prads-Haute-Bléone to the Airbus A320-211 registered D-AIPX operated by Germanwings. <https://bea.aero/uploads/tx_elydbrapports/BEA2015-0125.en-LR.pdf>",
+      "notes": "Xét người hưởng lợi, mục này nói về vợ chồng, cha mẹ, con cái sống cùng. “Đừng ai mong sống yên” thường bao gồm cả bạn; pháp luật trao quyền đưa đi khám chính cho người thân gần, người ngoài muốn can thiệp cũng không được, chỉ có thể báo cảnh sát. Việc đưa đi khám chỉ áp dụng khi có dấu hiệu nguy hiểm thật; lời giận lúc cãi nhau không tính, cũng không được dùng cách này để nhốt người nhà không nghe lời vào viện. Cùng luật quy định: nếu chẩn đoán lại hoặc giám định xác định người đó không mắc rối loạn tâm thần nặng, bệnh viện không được giữ họ điều trị nội trú (Điều ba mươi lăm). Không phân biệt được thì gọi 12356 hỏi trước hoặc báo 110 để cảnh sát đến. Kết luận điều tra chuyến bay Germanwings 9525: cơ quan chức năng và đơn vị sử dụng lao động không thể thực hiện biện pháp nào ngăn cơ phó bay hôm đó. Lý do là “bản thân người đó cũng như bất cứ ai khác — bác sĩ, đồng nghiệp hay người nhà — đều không thông báo cho họ”. Toàn bộ 150 người trên máy bay thiệt mạng, gồm 2 phi công, 4 tiếp viên, 144 hành khách."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-11-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "8ba9ec434355858c8d699b9d6c085f50dc8fb7bd8dc25caa0e5d7013d2cf0f21",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "爬虫只爬无需登录的公开页面，不绕反爬、不碰个人信息，爬到的数据不卖",
+    "fields": {
+      "cost": "不花钱。爬虫就是自动翻网页、把上面的数据抓下来的程序。爬之前先看一眼 robots 文件和接口授权说明，robots 是网站放在自己根目录、写明哪些页面不让抓的那份文件。要登录、要 token（一串临时通行凭证）、要破解签名才拿得到的数据，不爬。难在这些数据技术上一抓就到手，忍住全靠自觉",
+      "plain": "绕过登录、token、签名这些防护去拿数据，情节严重的判 3 年以下，特别严重的判 3 到 7 年。爬到个人信息更麻烦。行踪、通信内容、征信、财产类 50 条，就算情节严重。住宿、健康、交易类 500 条，其他类 5000 条，或者挣到 5000 元，也一样。",
+      "benefit": "绕过防护拿系统里的数据，量刑和第 3 条（抢票秒杀刷单脚本）一样，判 3 年以下，或者 3 到 7 年。非法获取、出售或者提供公民个人信息，达到下面任何一条就算「情节严重」：行踪轨迹、通信内容、征信、财产信息 50 条以上；住宿、通信记录、健康、交易信息 500 条以上；其他个人信息 5000 条以上；违法所得 5000 元以上。情节严重的判 3 年以下，并处或单处罚金，特别严重的判 3 到 7 年。官方案例：软件开发人员李某把窃取手机相册的功能伪装成「颜值检测」软件，拿到人脸照片 1751 张。他还倒卖社工库资料，判 3 年缓 3 年。社工库就是把各处泄露的个人信息汇总起来的数据库。某网络科技公司用爬虫拿外卖平台的店铺、订单数据，造成损失 4 万余元，被以非法获取计算机信息系统数据罪追诉（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十五条第二款、第二百五十三条之一）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2017). 关于办理侵犯公民个人信息刑事案件适用法律若干问题的解释（第三、四、五条）. <https://www.spp.gov.cn/xwfbh/wsfbt/201705/t20170509_190088.shtml>；最高人民检察院 (2022). 检察机关依法惩治侵犯公民个人信息犯罪典型案例（案例二）. <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202212/t20221207_594915.shtml>；最高人民检察院 (2025). 检察机关依法惩治侵害企业数据安全犯罪 服务保障企业创新发展（案例一）. <https://www.spp.gov.cn/xwfbh/wsfbh/202501/t20250124_680670.shtml>",
+      "notes": "2017 年那份司法解释规定，「未经本人同意，把合法收集来的信息给别人」也算「提供」。公司里把用户表导给外部合作方，同样落在这句里。5000 条只是一张小表的量。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Chỉ thu thập trang công khai không cần đăng nhập; không vượt cơ chế chống thu thập, không đụng thông tin cá nhân, không bán dữ liệu đã lấy",
+    "fields": {
+      "cost": "Không tốn tiền. Trình thu thập là chương trình tự động duyệt trang web và lấy dữ liệu trên đó. Trước khi chạy, xem tệp robots và hướng dẫn cấp phép giao diện. robots là tệp ở thư mục gốc website, chỉ rõ những trang không được thu thập. Không lấy dữ liệu phải đăng nhập, cần token (chuỗi thông hành tạm thời) hoặc phải phá chữ ký mới lấy được. Điều khó là về kỹ thuật dữ liệu có thể lấy ngay, nên kiềm chế hoàn toàn dựa vào tự giác.",
+      "plain": "Lấy dữ liệu cần đăng nhập, token hoặc phá chữ ký thuộc hành vi vượt biện pháp bảo vệ, có thể bị phạt tù đến 3 năm; nghiêm trọng thì 3 đến 7 năm. Lấy thông tin cá nhân còn rắc rối hơn. Với hành trình di chuyển, nội dung liên lạc, thông tin tín dụng, tài sản, 50 bản ghi đã là nghiêm trọng. Với lưu trú, sức khỏe, giao dịch là 500 bản ghi; loại khác là 5000 bản ghi; hoặc kiếm 5000 nhân dân tệ cũng tương tự.",
+      "benefit": "Vượt biện pháp bảo vệ để lấy dữ liệu hệ thống chịu khung hình phạt như mục 3 (script giành vé, săn hàng chớp nhoáng, tạo đơn giả): đến 3 năm hoặc 3 đến 7 năm tù. Lấy, bán hoặc cung cấp trái phép thông tin cá nhân công dân đạt bất kỳ ngưỡng nào sau đây đều là “nghiêm trọng”: từ 50 bản ghi hành trình di chuyển, nội dung liên lạc, tín dụng, tài sản; từ 500 bản ghi lưu trú, lịch sử liên lạc, sức khỏe, giao dịch; từ 5000 bản ghi thông tin cá nhân khác; thu lợi bất hợp pháp từ 5000 nhân dân tệ. Nghiêm trọng thì phạt tù đến 3 năm, kèm phạt tiền hoặc chỉ phạt tiền; đặc biệt nghiêm trọng thì 3 đến 7 năm. Vụ án chính thức: lập trình viên Lý ngụy trang chức năng đánh cắp album ảnh điện thoại thành phần mềm “đánh giá nhan sắc”, lấy được 1751 ảnh khuôn mặt, còn mua bán dữ liệu từ kho thông tin cá nhân rò rỉ, bị phạt 3 năm tù, án treo thử thách 3 năm. Kho này là cơ sở dữ liệu tập hợp thông tin cá nhân bị rò rỉ từ nhiều nơi. Một công ty công nghệ mạng dùng trình thu thập lấy dữ liệu cửa hàng và đơn hàng của nền tảng giao đồ ăn, gây thiệt hại hơn 4 vạn nhân dân tệ, bị truy cứu tội lấy trái phép dữ liệu hệ thống thông tin máy tính (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十五条第二款、第二百五十三条之一）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2017). 关于办理侵犯公民个人信息刑事案件适用法律若干问题的解释（第三、四、五条）. <https://www.spp.gov.cn/xwfbh/wsfbt/201705/t20170509_190088.shtml>；最高人民检察院 (2022). 检察机关依法惩治侵犯公民个人信息犯罪典型案例（案例二）. <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202212/t20221207_594915.shtml>；最高人民检察院 (2025). 检察机关依法惩治侵害企业数据安全犯罪 服务保障企业创新发展（案例一）. <https://www.spp.gov.cn/xwfbh/wsfbh/202501/t20250124_680670.shtml>",
+      "notes": "Giải thích tư pháp năm 2017 quy định “đưa thông tin được thu thập hợp pháp cho người khác khi chưa có sự đồng ý của chính người đó” cũng là “cung cấp”. Xuất bảng người dùng của công ty cho đối tác bên ngoài cũng thuộc trường hợp này. 5000 bản ghi chỉ tương đương một bảng nhỏ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

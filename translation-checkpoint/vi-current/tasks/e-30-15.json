@@ -1,0 +1,49 @@
+{
+  "id": "e-30-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "cbd5d2f2a1e6ff2dae81c4d646fddf708f237a9eacc5f34da382e8334b3c6511",
+  "status": "outdated",
+  "original": {
+    "number": 15,
+    "title": "孩子说自己喜欢同性，别骂、别赶出家门、别送去「矫正」：家里的态度和他会不会自杀有关",
+    "fields": {
+      "cost": "不花钱。难在家长要先消化自己的情绪，当下不说狠话。",
+      "plain": "国内中学生里，喜欢同性或者两性都喜欢的孩子，一年里试过自杀的约是别人的 3 到 5.5 倍。国外研究看到，青春期被家里强烈排斥的孩子，后来试过自杀的多得多。被父母送去「矫正」的，试过自杀的也多得多。",
+      "benefit": "国内一项调查覆盖 7 个省 506 所中学，共 150822 名初一到高三的学生。过去一年试过自杀的，男生里只喜欢异性的是 2.2%，只喜欢同性的是 6.9%，两性都喜欢的是 12.2%。女生对应是 3.1%、8.9%、10.9%。算下来约是只喜欢异性的同学的 3 到 5.5 倍。研究者扣除了年龄、学业压力、家庭经济、被欺凌这些因素。扣除之后，男生这两组的 OR 是 3.13（95% CI 2.28–4.28）和 3.83（2.85–5.14），高约两到三倍。一篇汇总 35 项研究的荟萃分析算出，性少数青少年试过自杀的 OR 3.50（2.98–4.12）。美国一项研究访问了 224 名 21 到 25 岁的同性恋和双性恋青年，请他们回忆青春期时家里的反应。和家里几乎不排斥的同龄人比，家里排斥程度高的试过自杀的 OR 是 8.4。另一项研究里，父母自己试图改变孩子性取向的，孩子试过自杀的 OR 3.08（1.39–6.83）。父母还把孩子送去找治疗师或宗教人士的，是 5.07（2.38–10.79）（中国 / 多国 / 美国）",
+      "grade": "B",
+      "sources": "Huang Y, Li P, Guo L, et al. (2018). Sexual minority status and suicidal behaviour among Chinese adolescents: a nationally representative cross-sectional study. BMJ Open, 8(8), e020969. <https://doi.org/10.1136/bmjopen-2017-020969>；di Giacomo E, Krausz M, Colmegna F, Aspesi F, Clerici M. (2018). Estimating the Risk of Attempted Suicide Among Sexual Minority Youths: A Systematic Review and Meta-analysis. JAMA Pediatrics, 172(12), 1145–1152. <https://doi.org/10.1001/jamapediatrics.2018.2731>；Ryan C, Huebner D, Diaz RM, Sanchez J. (2009). Family rejection as a predictor of negative health outcomes in white and Latino lesbian, gay, and bisexual young adults. Pediatrics, 123(1), 346–352. <https://doi.org/10.1542/peds.2007-3524>；Ryan C, Toomey RB, Diaz RM, Russell ST. (2020). Parent-Initiated Sexual Orientation Change Efforts With LGBT Adolescents: Implications for Young Adult Mental Health and Adjustment. Journal of Homosexuality, 67(2), 159–173. <https://doi.org/10.1080/00918369.2018.1538407>；全国人大常委会 (2024 年修正). 未成年人保护法（第十七条）. <https://flk.npc.gov.cn/detail?id=ff8081818f197cf001905e567af635a0>；全国人大常委会 (2015). 反家庭暴力法（第二条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7f9d60889>",
+      "notes": "给 B 是因为这些都是一次性的调查，家里排斥的程度靠成年后回忆，只能说明有关联，说明不了谁导致谁。家长不必马上认同，先别做伤害孩子的事。法律上，父母不得虐待、遗弃孩子，也不得对孩子实施家庭暴力。经常性的谩骂、恐吓，也算家庭暴力。孩子情绪低落、说不想活了，先打 12356，见第 1 节第 25 条（有自杀念头时打 12356）。也可以按本节第 8 条（12 到 18 岁做一次抑郁筛查）去精神科。「矫正」为什么别碰，见第 6 节第 28 条（不要做性取向矫正）。受益人是孩子，也是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 15,
+    "title": "Trẻ nói thích người cùng giới thì đừng mắng, đừng đuổi ra khỏi nhà, đừng đưa đi «chuyển đổi»: thái độ gia đình liên quan việc trẻ có tự sát không",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là cha mẹ xử lý cảm xúc của mình trước, đừng nói lời nặng ngay lúc đó.",
+      "plain": "Trong học sinh trung học trong nước, trẻ thích cùng giới hoặc cả hai giới có tỷ lệ từng tự sát bất thành trong một năm khoảng 3 đến 5.5 lần trẻ khác. Nghiên cứu nước ngoài thấy trẻ bị gia đình phản đối mạnh thời thiếu niên về sau tự sát bất thành nhiều hơn. Nhóm bị cha mẹ đưa đi «chuyển đổi» nhiều nhất.",
+      "benefit": "Khảo sát trong nước ở 7 tỉnh, 506 trường trung học, 150822 học sinh từ lớp đầu trung học cơ sở đến cuối phổ thông. Trong năm trước, tỷ lệ từng tự sát bất thành ở nam chỉ thích khác giới 2.2%, chỉ cùng giới 6.9%, cả hai 12.2%; ở nữ tương ứng 3.1%, 8.9%, 10.9%. Khoảng 3 đến 5.5 lần bạn chỉ thích khác giới. Hiệu chỉnh tuổi, áp lực học, kinh tế gia đình, bắt nạt, hai nhóm nam có OR 3.13 (95% CI 2.28–4.28) và 3.83 (2.85–5.14), cao hơn khoảng hai đến ba lần. Phân tích gộp 35 nghiên cứu cho thanh thiếu niên thiểu số tính dục từng tự sát bất thành OR 3.50 (2.98–4.12). Nghiên cứu Mỹ phỏng vấn 224 người đồng tính, song tính tuổi 21 đến 25, nhớ lại phản ứng gia đình thời thiếu niên. So với hầu như không bị phản đối, nhóm phản đối mạnh có OR từng tự sát bất thành 8.4. Nghiên cứu khác: cha mẹ tự tìm cách đổi xu hướng tính dục của con, OR 3.08 (1.39–6.83); còn đưa đến nhà trị liệu hoặc người tôn giáo, OR 5.07 (2.38–10.79) (Trung Quốc/nhiều nước/Mỹ)",
+      "grade": "B",
+      "sources": "Huang Y, Li P, Guo L, et al. (2018). Sexual minority status and suicidal behaviour among Chinese adolescents: a nationally representative cross-sectional study. BMJ Open, 8(8), e020969. <https://doi.org/10.1136/bmjopen-2017-020969>；di Giacomo E, Krausz M, Colmegna F, Aspesi F, Clerici M. (2018). Estimating the Risk of Attempted Suicide Among Sexual Minority Youths: A Systematic Review and Meta-analysis. JAMA Pediatrics, 172(12), 1145–1152. <https://doi.org/10.1001/jamapediatrics.2018.2731>；Ryan C, Huebner D, Diaz RM, Sanchez J. (2009). Family rejection as a predictor of negative health outcomes in white and Latino lesbian, gay, and bisexual young adults. Pediatrics, 123(1), 346–352. <https://doi.org/10.1542/peds.2007-3524>；Ryan C, Toomey RB, Diaz RM, Russell ST. (2020). Parent-Initiated Sexual Orientation Change Efforts With LGBT Adolescents: Implications for Young Adult Mental Health and Adjustment. Journal of Homosexuality, 67(2), 159–173. <https://doi.org/10.1080/00918369.2018.1538407>；全国人大常委会 (2024 年修正). 未成年人保护法（第十七条）. <https://flk.npc.gov.cn/detail?id=ff8081818f197cf001905e567af635a0>；全国人大常委会 (2015). 反家庭暴力法（第二条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7f9d60889>",
+      "notes": "Xếp B vì đều khảo sát một thời điểm, mức phản đối gia đình dựa hồi tưởng khi trưởng thành; chỉ cho thấy liên quan, không chứng minh bên nào gây bên nào. Cha mẹ không phải lập tức đồng tình, trước hết đừng làm tổn thương con. Luật cấm cha mẹ ngược đãi, bỏ rơi, bạo lực gia đình với trẻ; mắng chửi, đe dọa thường xuyên cũng là bạo lực. Trẻ buồn, nói không muốn sống thì gọi 12356 trước, xem chương 1 mục 25 (ý nghĩ tự sát gọi 12356). Có thể khám tâm thần theo mục 8 chương này (sàng lọc trầm cảm tuổi 12 đến 18). Vì sao tránh «chuyển đổi» xem chương 6 mục 28 (không chuyển đổi xu hướng tính dục). Người hưởng lợi là con và chính bạn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

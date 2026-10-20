@@ -1,0 +1,49 @@
+{
+  "id": "e-30-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "1b0c268e4bafec31203122e00c8b5ce405500574e9ea40692a5fb3abd24e3a42",
+  "status": "draft",
+  "original": {
+    "number": 10,
+    "title": "睡眠、作业、体育和排名都有明文规定，学校做不到可以提",
+    "fields": {
+      "cost": "不花钱。知道条文就行，必要时向学校或当地教育行政部门反映。难在要开口去提。",
+      "plain": "文件写明，小学生每天睡 10 小时，初中 9 小时，高中 8 小时。小学上午上课一般不早于 8:20，中学不早于 8:00。2025 年又规定每天体育活动不少于 2 小时，不得按考试成绩排名。孩子长期睡不够，先拿这几条去对，别先怪孩子磨蹭。",
+      "benefit": "《关于进一步加强中小学生睡眠管理工作的通知》规定：小学生每天睡眠应达 10 小时，初中生 9 小时，高中生 8 小时。小学上午上课时间一般不早于 8:20，中学一般不早于 8:00。学校不得要求学生提前到校参加统一的教育教学活动。小学生就寝一般不晚于 21:20，初中生不晚于 22:00，高中生不晚于 23:00。校外培训机构培训结束时间不得晚于 20:30，线上直播类培训结束不得晚于 21:00。每日 22:00 到次日 8:00 不得为未成年人提供游戏服务（全国，2021 年 3 月印发）。《进一步加强中小学生心理健康工作十条措施》另有几条规定：全面推行中小学生每天综合体育活动时间不低于 2 小时，鼓励推行「课间 15 分钟」。它还规定不得以考试成绩对学生进行排名，严禁布置机械重复、惩罚性作业，鼓励每周设置一天「无作业日」（全国，2025 年 10 月印发）",
+      "grade": "B",
+      "sources": "教育部办公厅 (2021). 关于进一步加强中小学生睡眠管理工作的通知（教基厅函〔2021〕11 号）. <https://www.gov.cn/zhengce/zhengceku/2021-04/02/content_5597443.htm>；教育部办公厅 (2025). 进一步加强中小学生心理健康工作十条措施（教基厅〔2025〕2 号）. <https://www.gov.cn/zhengce/zhengceku/202510/content_7045528.htm>",
+      "notes": "这两份都是主管部门发的文件。各地各校执行到什么程度差别很大，所以本条给 B。它们的用处是让你知道哪些事学校本来就该做，去谈的时候手里有依据。成年人的睡眠账见第 2、3 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Giấc ngủ, bài tập, thể dục, xếp hạng đều có quy định rõ; trường không làm được thì có thể phản ánh",
+    "fields": {
+      "cost": "Không tốn tiền. Biết điều khoản, khi cần phản ánh với trường hoặc cơ quan giáo dục địa phương. Khó là mở lời.",
+      "plain": "Văn bản ghi học sinh tiểu học ngủ 10 giờ/ngày, trung học cơ sở 9 giờ, trung học phổ thông 8 giờ. Tiểu học buổi sáng thường không trước 8:20, trung học không trước 8:00. Năm 2025 quy định thêm hoạt động thể chất ít nhất 2 giờ/ngày, không xếp hạng theo điểm thi. Trẻ thiếu ngủ lâu dài hãy đối chiếu các điều này trước, đừng vội trách con chậm chạp.",
+      "benefit": "«Thông báo tăng cường quản lý giấc ngủ học sinh phổ thông» quy định: tiểu học ngủ 10 giờ/ngày, trung học cơ sở 9 giờ, trung học phổ thông 8 giờ. Tiểu học bắt đầu buổi sáng thường không sớm hơn 8:20, trung học 8:00; trường không được yêu cầu đến sớm tham gia hoạt động giáo dục tập trung. Tiểu học thường đi ngủ không muộn hơn 21:20, trung học cơ sở 22:00, trung học phổ thông 23:00. Cơ sở đào tạo ngoài trường kết thúc không sau 20:30, lớp livestream không sau 21:00. Từ 22:00 đến 8:00 hôm sau không được cung cấp game cho người chưa thành niên (toàn quốc, ban hành tháng 3 năm 2021). «Mười biện pháp tăng cường sức khỏe tâm lý học sinh phổ thông» còn yêu cầu tổng hoạt động thể chất mỗi ngày ít nhất 2 giờ, khuyến khích «nghỉ giữa tiết 15 phút»; không xếp hạng học sinh theo điểm thi, nghiêm cấm bài tập máy móc lặp lại hoặc trừng phạt, khuyến khích mỗi tuần một «ngày không bài tập» (toàn quốc, ban hành tháng 10 năm 2025)",
+      "grade": "B",
+      "sources": "教育部办公厅 (2021). 关于进一步加强中小学生睡眠管理工作的通知（教基厅函〔2021〕11 号）. <https://www.gov.cn/zhengce/zhengceku/2021-04/02/content_5597443.htm>；教育部办公厅 (2025). 进一步加强中小学生心理健康工作十条措施（教基厅〔2025〕2 号）. <https://www.gov.cn/zhengce/zhengceku/202510/content_7045528.htm>",
+      "notes": "Cả hai là văn bản cơ quan quản lý, mức thực hiện tùy trường, địa phương khác nhiều nên xếp B. Chúng giúp biết trường vốn phải làm gì, để khi trao đổi có căn cứ. Giấc ngủ người lớn xem chương 2, 3."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

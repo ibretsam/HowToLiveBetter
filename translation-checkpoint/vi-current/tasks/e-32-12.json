@@ -1,0 +1,29 @@
+{
+  "id": "e-32-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "128f7c81f86815a2e3dabdfdd9593196489b81044d19d3df524c7f0e594927e6",
+  "status": "pending",
+  "original": {
+    "number": 12,
+    "title": "加拿大：申请学签之前，先通过学校拿到省级证明信（PAL/TAL），公立大学读硕士、博士的从 2026 年起不用",
+    "fields": {
+      "cost": "不额外花钱，向录取你的学校申请就行。多数情况下，要先接受录取、交一部分或全部学费，学校才给你办",
+      "plain": "去加拿大读书，多数人申请学签时要一起交省级证明信，它证明你占到了那个省的留学名额。这封信不能事后补交。学签被批或被拒以后再申请，或者转学，都要重新拿。公立大学读硕士、博士的不用。",
+      "benefit": "加拿大移民局（IRCC）说，证明信由你要去读书的省或地区签发。它证明你分到了那里的一个留学名额。多数学签申请都要附上它，而且要和申请一起交，不能事后补。读幼儿园到 12 年级的不用。从 2026 年 1 月 1 日起，在公立院校读硕士、博士学位课程的也不用。去魁北克读书的，改交魁北克省发的接收证书（CAQ）。不付学费的交换生、同一所学校同一学习阶段续签的，以及另外几种特殊情形，也不用。不用交的人，申请时要附上符合豁免的证明。证明信一般只在签发那一年有效，2026 年签发的到 2026 年 12 月 31 日。申请学签时有效就行，开学时过期不要紧。学签被批或被拒以后再申请，都要拿新的证明信。从 2025 年 1 月 22 日起，转学也要拿新的",
+      "grade": "A",
+      "sources": "IRCC. Provincial attestation letter or territorial attestation letter（页面 2026-09-02 修改）. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html>；IRCC. Study permit: Get the right documents（页面 2026-10-06 修改）. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html>",
+      "notes": "本条截至 2026 年 10 月 14 日。加拿大的留学名额每年重定，豁免名单也改过几次，申请前照来源栏的页面再查一遍。交学费换证明信之前，先问清学校：学签被拒的话，学费能退多少。在加拿大读书期间的打工时数上限，见第 3 条（打工时数）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-4-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "e1c458911c83c3e016095675d20748972eec355e315a4dce4b584fd8b435c234",
+  "status": "outdated",
+  "original": {
+    "number": 11,
+    "title": "想让自己做到就把钱押上，但先问自己肯不肯押",
+    "fields": {
+      "cost": "押金式的方案要先拿出一笔自己的钱，做不到就没收。试验里押的是 150 美元。",
+      "plain": "想逼自己做到，可以做到了就领奖金，也可以先交押金、做到才退还再加奖。两种都肯参加的人里，交押金的做到的多出 13 个百分点。但肯交押金的只有 13.7%，肯拿奖金的有 90%，所以押金只对肯押的人有用。",
+      "benefit": "美国一项 2538 人的随机试验，把员工和他们的亲友随机分到四种激励方案或常规照护。奖励型（做到给约 800 美元）的接受率 90.0%，押金型（先交 150 美元，另加 650 美元奖励）13.7%。六个月的持续戒烟率：四种激励方案在 9.4% 到 16.0% 之间，常规照护 6.0%。奖励型 15.7%，押金型 10.2%。但在只算「两种都肯参加」的那 13.7% 的人里，押金型的六个月戒烟率比奖励型高 13.2 个百分点（95% CI 3.1 到 22.8，这是可信范围）。",
+      "grade": "A",
+      "sources": "Halpern SD, French B, Small DS, et al. (2015). Randomized trial of four financial-incentive programs for smoking cessation. New England Journal of Medicine, 372(22), 2108–2117. <https://doi.org/10.1056/NEJMoa1414293>",
+      "notes": "这个试验测的是戒烟，搬到写论文、健身这类事上属于顺推，所以收益量级记「中」。选方案时先看自己会不会真的用它，而不是先看哪种更有效。多数人不肯接受的办法，效果再强，对这些人也没有用。所以先挑你肯接受的那种，押小一点也比不押强。戒烟本身怎么戒见第 2 节第 3 条（戒烟药）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Muốn mình thực hiện thì đặt tiền cọc, nhưng trước tiên hỏi mình có sẵn lòng đặt không",
+    "fields": {
+      "cost": "Phương án đặt cọc đòi hỏi bỏ một khoản tiền của mình trước; không làm được thì mất. Trong thử nghiệm, khoản cọc là 150 USD.",
+      "plain": "Muốn buộc mình thực hiện, bạn có thể nhận thưởng sau khi làm được, hoặc đặt cọc trước rồi được hoàn và thưởng thêm nếu thành công. Trong số người sẵn lòng tham gia cả hai cách, nhóm đặt cọc làm được nhiều hơn 13 điểm phần trăm. Nhưng chỉ 13.7% chịu đặt cọc, trong khi 90% chịu nhận thưởng; vì vậy đặt cọc chỉ có ích với người sẵn lòng đặt.",
+      "benefit": "Một thử nghiệm ngẫu nhiên ở Mỹ gồm 2538 người, chia nhân viên cùng người thân, bạn bè vào bốn phương án khuyến khích hoặc chăm sóc thường lệ. Phương án thưởng khoảng 800 USD khi thành công được 90.0% chấp nhận; phương án cọc trước 150 USD, thêm thưởng 650 USD được 13.7% chấp nhận. Tỷ lệ cai thuốc liên tục sáu tháng của bốn phương án là 9.4% đến 16.0%, còn chăm sóc thường lệ 6.0%. Nhóm thưởng đạt 15.7%, nhóm đặt cọc 10.2%. Tuy nhiên, chỉ xét 13.7% người sẵn lòng tham gia cả hai, tỷ lệ cai sáu tháng của đặt cọc cao hơn nhận thưởng 13.2 điểm phần trăm (95% CI 3.1 đến 22.8, khoảng tin cậy).",
+      "grade": "A",
+      "sources": "Halpern SD, French B, Small DS, et al. (2015). Randomized trial of four financial-incentive programs for smoking cessation. New England Journal of Medicine, 372(22), 2108–2117. <https://doi.org/10.1056/NEJMoa1414293>",
+      "notes": "Thử nghiệm đo cai thuốc; áp vào viết luận văn hay tập luyện là suy luận, nên lợi ích xếp “vừa”. Khi chọn phương án, trước hết xem bạn có thực sự dùng không. Cách đa số không chấp nhận dù hiệu quả mạnh cũng vô ích với những người ấy. Vì vậy hãy chọn cách mình sẵn lòng dùng; đặt ít vẫn hơn không đặt. Cách cai thuốc xem chương 2 mục 3 (thuốc cai thuốc lá)."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-4-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "fb6f3791e6397e4dbb0a957ec117c637c57837eb533be402ebdec326d8247900",
+  "status": "draft",
+  "original": {
+    "number": 10,
+    "title": "把要用的东西摆到手边，把不想碰的挪远，别指望当场忍住",
+    "fields": {
+      "cost": "不花钱，一次几分钟。把手机放到另一个房间，把书和电脑摊在桌上。",
+      "plain": "东西离得远一点，人就少拿一点。把同样的零食放远，吃下去的量明显下降，属于中等大小的效果。少摆几个选项，拿的人也明显变少。这类办法不用你当场忍，几分钟就能布置好。",
+      "benefit": "一份纳入 24 项随机试验的 Cochrane 综述。把食物放得更远，吃掉的量下降，标准化均数差 −0.60（95% CI −0.84 到 −0.36，这是可信范围；12 项研究、1098 人，低确定性证据），属于中等效应。把可选项减少，选择该食物的下降更明显，标准化均数差 −1.13（95% CI −1.90 到 −0.37，3 项研究、154 人，低确定性证据）。回归分析显示：放得越远、可选项越单一，效果越强。",
+      "grade": "B",
+      "sources": "Hollands GJ, Carter P, Anwer S, et al. (2019). Altering the availability or proximity of food, alcohol, and tobacco products to change their selection and consumption. Cochrane Database of Systematic Reviews, 9, CD012573. <https://doi.org/10.1002/14651858.CD012573.pub3>",
+      "notes": "定 B 级的理由：这份综述收进来的 24 项研究全部是食物，酒和烟一项都没有；14 项在实验室做，全部来自高收入国家。所以「挪远就少碰」搬到手机和游戏上属于顺推，没有直接试验。把手机放到视线之外这一件事有人直接测过，见第 3 节第 1 条（关掉非必要通知，工作时把手机放到视线之外）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Đặt đồ cần dùng trong tầm tay, đưa thứ không muốn đụng ra xa; đừng trông chờ mình sẽ nhịn được tại chỗ",
+    "fields": {
+      "cost": "Không tốn tiền, mỗi lần mất vài phút. Hãy để điện thoại ở phòng khác, bày sách và máy tính ra bàn.",
+      "plain": "Đồ để xa hơn thì người ta lấy ít hơn. Cùng món ăn vặt nhưng đặt xa khiến lượng ăn giảm rõ rệt, với hiệu ứng vừa. Bớt số lựa chọn cũng khiến số người chọn lấy giảm rõ. Những cách này không cần bạn cố nhịn tại chỗ, chỉ mất vài phút bố trí.",
+      "benefit": "Một tổng quan Cochrane gồm 24 thử nghiệm ngẫu nhiên cho thấy đặt thực phẩm xa hơn làm giảm lượng ăn, với chênh lệch trung bình chuẩn hóa −0.60 (95% CI −0.84 đến −0.36, khoảng tin cậy; 12 nghiên cứu, 1098 người, bằng chứng độ chắc thấp), tương ứng hiệu ứng vừa. Giảm lựa chọn khiến việc chọn thực phẩm đó giảm rõ hơn, với chênh lệch trung bình chuẩn hóa −1.13 (95% CI −1.90 đến −0.37, 3 nghiên cứu, 154 người, bằng chứng độ chắc thấp). Phân tích hồi quy cho thấy càng xa, càng ít loại để chọn thì hiệu quả càng mạnh.",
+      "grade": "B",
+      "sources": "Hollands GJ, Carter P, Anwer S, et al. (2019). Altering the availability or proximity of food, alcohol, and tobacco products to change their selection and consumption. Cochrane Database of Systematic Reviews, 9, CD012573. <https://doi.org/10.1002/14651858.CD012573.pub3>",
+      "notes": "Xếp B vì cả 24 nghiên cứu trong tổng quan đều về thực phẩm, không có nghiên cứu nào về rượu hay thuốc lá. Có 14 nghiên cứu trong phòng thí nghiệm, tất cả đều từ nước thu nhập cao. Vì vậy, áp dụng “đưa xa sẽ ít đụng” cho điện thoại và trò chơi là suy luận, chưa có thử nghiệm trực tiếp. Riêng để điện thoại ngoài tầm nhìn đã có người đo trực tiếp, xem chương 3 mục 1 (tắt thông báo không cần, để điện thoại ngoài tầm nhìn khi làm việc)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

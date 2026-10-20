@@ -1,0 +1,15 @@
+{
+  "id": "e-19-1",
+  "source_sha256": "16e1be52d19dae792ad81c5a0be3789c3ef51f500a455268a1d7321de4c739b4",
+  "draft_sha256": "e9d4717b9e8758cfd9240d992a894796c4cc64c3866cd6d5aad0526350e46e3a",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Giữ ba mức làm thêm, ngưỡng không dưới 150%/200%/300%, điều kiện chỉ trả thêm 50%–100% sau hạn do cơ quan yêu cầu, số ngày lễ và phạm vi Trung Quốc. Điều kiện nghỉ bù chỉ áp dụng ngày nghỉ thường; dẫn chương 8 mục 19 đúng đích. Không sửa nghĩa."
+}

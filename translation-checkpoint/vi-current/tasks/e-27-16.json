@@ -1,0 +1,49 @@
+{
+  "id": "e-27-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "0eafd7feb0073a57427b21e66c2e774cd01ef9060c04a07abe08b740a04f8ead",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "产后 42 天那次复查别跳过，它在一些地方同时是产后抑郁的筛查",
+    "fields": {
+      "cost": "不花钱，属于基本公共卫生服务。占半天时间。难在刚出月子懒得动",
+      "plain": "这次复查不花钱。按地方公开的服务清单，它含血常规、白带常规和一次产后抑郁筛查。产后一年内都可能出大问题，别觉得出了月子就安全了。",
+      "benefit": "《国家基本公共卫生服务规范（第三版）》的孕产妇健康管理里，产后有 1 次产后访视和 1 次产后 42 天健康检查。地方公开的服务清单里，这一次含化验（血常规、白带常规）和 1 次产后抑郁筛查。国家卫生健康委 2020 年的抑郁症防治特色服务工作方案，要求试点地区「将孕产期抑郁症筛查纳入常规孕检和产后访视流程中」。所以产后能不能顺带筛抑郁，要看当地有没有这么做。产后一年内都可能出现严重并发症。第 7 条那张「立刻去医院」的清单里，「有伤害自己或伤害孩子的念头」「产后阴道出血或异常分泌物」「一侧肢体严重肿痛」都属于产后",
+      "grade": "A",
+      "sources": "国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>；靖江市人民政府. 国家基本公共卫生服务项目——孕产妇健康管理服务（地方服务清单公开）. <https://www.jingjiang.gov.cn/xxgk/zdlyxxgk/wsjk/art/2023/art_383017a2e7794892bc772bfbe042f379.html>；国家卫生健康委办公厅 (2020). 关于探索开展抑郁症、老年痴呆防治特色服务工作的通知（国卫办疾控函〔2020〕726 号）. <https://www.gov.cn/zhengce/zhengceku/2020-09/11/content_5542555.htm>",
+      "notes": "产后抑郁不是矫情，靠家里人劝一句「想开点」也解决不了。它有专门的筛查问卷，有治疗，可以恢复。有自杀念头时的处置见第 1 节。孩子生下来确实养不了时的合法出路见第 9 节第 20 条。这次复查还会看伤口长得怎么样、子宫恢复得怎么样、盆底功能好不好。避孕方案也在这次谈：产后不来月经，不等于不会怀孕"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Đừng bỏ tái khám ngày 42 sau sinh, đây cũng là lần sàng lọc trầm cảm sau sinh",
+    "fields": {
+      "cost": "Không tốn tiền, thuộc dịch vụ y tế công cộng cơ bản. Mất nửa ngày. Khó là vừa hết ở cữ nên ngại đi",
+      "plain": "Tái khám này miễn phí, có công thức máu, xét nghiệm dịch âm đạo thông thường và một lần sàng lọc trầm cảm sau sinh. Vấn đề nghiêm trọng có thể xảy ra trong một năm sau sinh; đừng cho rằng hết ở cữ là an toàn.",
+      "benefit": "Quản lý sức khỏe bà mẹ trong «Quy chuẩn dịch vụ y tế công cộng cơ bản quốc gia (bản thứ ba)» có 1 lần thăm sau sinh và 1 lần khám sức khỏe ngày 42. Danh mục dịch vụ địa phương công khai gồm xét nghiệm (công thức máu, dịch âm đạo thông thường) và 1 lần sàng lọc trầm cảm sau sinh. Biến chứng nghiêm trọng có thể xuất hiện trong một năm sau sinh. Trong danh sách «đến bệnh viện ngay» ở mục 7, «ý nghĩ hại mình hoặc con», «ra máu hoặc dịch âm đạo bất thường sau sinh», «một bên tay chân sưng đau nghiêm trọng» đều áp dụng sau sinh",
+      "grade": "A",
+      "sources": "国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>；靖江市人民政府. 国家基本公共卫生服务项目——孕产妇健康管理服务（地方服务清单公开）. <https://www.jingjiang.gov.cn/xxgk/zdlyxxgk/wsjk/art/2023/art_383017a2e7794892bc772bfbe042f379.html>",
+      "notes": "Trầm cảm sau sinh không phải làm quá; người nhà nói «nghĩ thoáng lên» không giải quyết được. Có bảng sàng lọc riêng, có điều trị và có thể hồi phục. Xử trí khi có ý nghĩ tự sát xem chương 1. Lối ra hợp pháp khi sinh con nhưng thật sự không nuôi được xem chương 9 mục 20. Tái khám này còn xem vết thương lành thế nào, tử cung hồi phục và chức năng sàn chậu ra sao. Cũng trao đổi cách tránh thai: chưa có kinh sau sinh không có nghĩa không thể có thai"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

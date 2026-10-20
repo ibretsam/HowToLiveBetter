@@ -1,0 +1,48 @@
+{
+  "id": "e-11-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "245abdd3ed840e2de8a4735940186f81f8d49c236a0de5873e82d6958e796c6a",
+  "status": "draft",
+  "original": {
+    "number": 14,
+    "title": "用 GPL 等开源代码做产品，按许可证要求开源或换许可证，不当「没人管」",
+    "fields": {
+      "cost": "不花钱。用别人的开源代码之前，看一眼它的许可证（作者写明的使用条件）。GPL 这一系要求用了它的产品也得把源码开出来，和闭源卖钱冲突，冲突就换一个。难在舍掉一个已经用顺手的库",
+      "plain": "侵犯著作权，按对方的损失或你挣到的钱赔，故意且情节严重的，能判到 1 到 5 倍。有家公司招了对手的前员工，做出实质相似的软件，辩称对方软件用了 GPLv2、本该开源。最高法认为对方开不开源不影响它的著作权，照样判停止侵害、赔 50 万元。",
+      "benefit": "侵犯著作权，按权利人的实际损失赔，或者按侵权人挣到的钱赔。这两样都算不清的，参照正常买这份授权要付多少钱来定。故意侵权并且情节严重的，可以判 1 到 5 倍赔偿。损害公共利益的，还可以没收违法所得并处罚款。官方案例：（2021）最高法知民终 51 号。被告招聘了原告的前员工，开发出的网关软件与原告软件实质相似。被告抗辩说，原告软件基于 GPLv2、本来就该开源。最高法认定「开发者自身是否违反 GPLv2 协议和是否享有软件著作权是两个独立问题」，判停止侵害、赔偿 50 万元（全国）",
+      "grade": "B",
+      "sources": "全国人大常委会 (2020). 著作权法（2020 年修正，第五十三、五十四条）. <http://www.npc.gov.cn/npc/c2/c30834/202011/t20201119_308796.html>；最高人民法院知识产权法庭 (2022). 涉「开源软件」著作权侵权案（（2021）最高法知民终 51 号）. <https://ipc.court.gov.cn/zh-cn/news/view-3042.html>",
+      "notes": "这个案子说明，「对方用了 GPL 代码」不能当成你抄它的理由。反过来，GPL 作者起诉不开源的商用方，在国内已经有生效判决，本节未在最高法官网找到原文，所以不引。定 B 级是因为守不守开源许可证，只能靠合同和著作权法里的通用规定管，没有一条专门的法条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Dùng mã nguồn mở như GPL để làm sản phẩm thì công khai mã theo giấy phép hoặc đổi giấy phép; đừng nghĩ “chẳng ai quản”",
+    "fields": {
+      "cost": "Không tốn tiền. Trước khi dùng mã nguồn mở của người khác, đọc giấy phép, tức điều kiện sử dụng tác giả ghi rõ. Họ giấy phép GPL yêu cầu sản phẩm sử dụng mã đó cũng công khai mã nguồn, xung đột với việc bán sản phẩm đóng mã; nếu xung đột thì chọn cái khác. Điều khó là bỏ một thư viện đã quen dùng.",
+      "plain": "Xâm phạm quyền tác giả phải bồi thường theo thiệt hại bên kia hoặc tiền bạn kiếm được; cố ý và nghiêm trọng có thể bị buộc bồi thường 1 đến 5 lần. Một công ty tuyển nhân viên cũ của đối thủ, làm phần mềm tương đồng về bản chất, rồi biện hộ phần mềm bên kia dùng GPLv2 nên đáng lẽ phải mở mã. Tòa án Tối cao cho rằng việc họ có mở mã hay không không ảnh hưởng quyền tác giả, vẫn yêu cầu chấm dứt xâm phạm và bồi thường 50 vạn nhân dân tệ.",
+      "benefit": "Xâm phạm quyền tác giả thì bồi thường theo thiệt hại thực tế của chủ thể quyền hoặc khoản người vi phạm kiếm được. Không xác định được cả hai thì tham chiếu phí cấp phép thông thường. Cố ý xâm phạm và nghiêm trọng có thể bị buộc bồi thường 1 đến 5 lần. Gây hại lợi ích công cộng còn có thể bị tịch thu thu nhập bất hợp pháp và phạt tiền. Vụ án chính thức: (2021) Tối cao Pháp Tri Dân Chung số 51. Bị đơn tuyển nhân viên cũ của nguyên đơn, phát triển phần mềm gateway tương đồng về bản chất với phần mềm nguyên đơn. Bị đơn biện hộ rằng phần mềm nguyên đơn dựa trên GPLv2 nên vốn phải mở mã. Tòa án Tối cao xác định “việc nhà phát triển có vi phạm GPLv2 và việc có quyền tác giả phần mềm là hai vấn đề độc lập”, buộc chấm dứt xâm phạm, bồi thường 50 vạn nhân dân tệ (toàn quốc).",
+      "grade": "B",
+      "sources": "全国人大常委会 (2020). 著作权法（2020 年修正，第五十三、五十四条）. <http://www.npc.gov.cn/npc/c2/c30834/202011/t20201119_308796.html>；最高人民法院知识产权法庭 (2022). 涉「开源软件」著作权侵权案（（2021）最高法知民终 51 号）. <https://ipc.court.gov.cn/zh-cn/news/view-3042.html>",
+      "notes": "Vụ này cho thấy “bên kia dùng mã GPL” không phải lý do để bạn sao chép phần mềm của họ. Ở chiều ngược lại, trong nước đã có bản án có hiệu lực về tác giả GPL kiện bên thương mại không mở mã, nhưng chưa tìm được bản gốc trên trang Tòa án Tối cao nên không dẫn ở đây. Xếp mức B vì việc tuân thủ giấy phép nguồn mở chỉ được điều chỉnh qua hợp đồng và quy định chung của luật quyền tác giả, không có điều luật chuyên biệt."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-10-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "3deba82c8cdc444a51313008731176bdada832bc3ed229dca39a87f2d5cb3c02",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "先看登记数据再听长辈：结婚率、离婚率各是什么口径",
+    "fields": {
+      "cost": "不花钱。读一遍民政部年度公报里的婚姻登记那一段，几分钟。",
+      "plain": "2024 年全国结婚登记 610.6 万对，比上一年少了两成，离婚 351.3 万对。网上说离婚率过半，是拿这两个数一除，约 57.5%。可离婚的和结婚的不是同一批人，不能读成一半婚姻会离。公报里的结婚率 4.3‰、离婚率 2.5‰，是除以全国人口算的。",
+      "benefit": "2024 年全国依法办理结婚登记 610.6 万对，比上年下降 20.5%，结婚率 4.3‰。同年依法办理离婚手续 351.3 万对，其中民政部门登记离婚 262.2 万对，法院判决和调解离婚 89.1 万对。离婚率 2.5‰。公报注明，结（离）婚率 = 当年结（离）婚对数 / 当年平均总人口数 × 1000‰。这是「粗率」，分母是全体人口，不是已婚人口",
+      "grade": "A",
+      "sources": "民政部 (2025). 2024 年民政事业发展统计公报（五（二）1 婚姻登记服务、注释 5），网页版与 PDF 版. <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html>、<https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>",
+      "notes": "网上常见的「离婚率 50% 以上」，是拿当年离婚的对数除以当年结婚的对数，351.3 / 610.6 ≈ 57.5%。这叫「离结比」。相除的两个数不是同一批人，公报里也没有这个指标，所以不能读成「一半婚姻会离」。要算「一段婚姻最后离掉的概率」，得盯住同一批结婚的人一路统计下去，这种官方数据本节没找到"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Xem dữ liệu đăng ký trước khi nghe người lớn: tỷ suất kết hôn, ly hôn tính thế nào",
+    "fields": {
+      "cost": "Không tốn tiền. Đọc đoạn đăng ký hôn nhân trong công báo năm Bộ Dân chính, vài phút.",
+      "plain": "Năm 2024 đăng ký kết hôn toàn quốc 610.6 vạn đôi, giảm khoảng hai phần mười so năm trước; ly hôn 351.3 vạn đôi. Mạng nói tỷ lệ ly hôn hơn nửa là chia hai số, khoảng 57.5%. Nhưng người ly hôn, kết hôn không cùng nhóm, không thể hiểu nửa hôn nhân sẽ ly. Công báo ghi kết hôn 4.3‰, ly hôn 2.5‰, mẫu số là dân số toàn quốc.",
+      "benefit": "Năm 2024 toàn quốc đăng ký kết hôn hợp pháp 610.6 vạn đôi, giảm 20.5%, tỷ suất 4.3‰. Cùng năm làm thủ tục ly hôn 351.3 vạn đôi, gồm dân chính đăng ký 262.2 vạn, tòa phán quyết và hòa giải 89.1 vạn, tỷ suất 2.5‰. Công báo chú thích: tỷ suất kết (ly) hôn = số đôi kết (ly) trong năm / dân số trung bình năm × 1000‰. Đây là “tỷ suất thô”, mẫu số toàn dân, không phải người đã kết hôn.",
+      "grade": "A",
+      "sources": "民政部 (2025). 2024 年民政事业发展统计公报（五（二）1 婚姻登记服务、注释 5），网页版与 PDF 版. <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html>、<https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>",
+      "notes": "Câu thường thấy “tỷ lệ ly hôn từ 50% trở lên” lấy đôi ly trong năm chia đôi cưới trong năm, 351.3 / 610.6 ≈ 57.5%. Đó là “tỷ số ly/kết”. Hai số không cùng nhóm người, công báo cũng không có chỉ tiêu này, không thể hiểu “nửa hôn nhân sẽ ly”. Muốn tính xác suất một hôn nhân cuối cùng ly thì phải theo cùng nhóm cưới suốt thời gian; chương này chưa tìm được dữ liệu chính thức như vậy."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

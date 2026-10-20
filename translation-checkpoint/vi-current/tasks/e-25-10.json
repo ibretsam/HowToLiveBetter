@@ -1,0 +1,48 @@
+{
+  "id": "e-25-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "f45c1057228916fcd844a9894c464d042908aea76989c487228c9bd0cceb1ac0",
+  "status": "outdated",
+  "original": {
+    "number": 10,
+    "title": "死者的账号和个人信息，近亲属可以要求查阅、复制、更正、删除",
+    "fields": {
+      "cost": "不花钱。平台不配合，才需要去投诉或者起诉。",
+      "plain": "人走以后，近亲属为了自己的合法正当利益，可以要求平台查阅、复制、更正、删除死者的个人信息。平台要是拒绝，得说明理由。你也可以去法院起诉。有一个例外：他生前另有安排的，比如设过账号继承人、留下过明确意愿，按他的安排来。",
+      "benefit": "法律明写：自然人死亡的，近亲属为了自身合法、正当利益，可以对死者的相关个人信息行使查阅、复制、更正、删除等权利。近亲属可以要求平台把他的信息拿出来看、复制一份、改错、删掉。第五十条要求平台建立便捷的申请受理和处理机制，「拒绝个人行使权利的请求的，应当说明理由」。平台拒绝的，「个人可以依法向人民法院提起诉讼」",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html> 第四十九条：「自然人死亡的，其近亲属为了自身的合法、正当利益，可以对死者的相关个人信息行使本章规定的查阅、复制、更正、删除等权利；死者生前另有安排的除外。」；第五十条「个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。拒绝个人行使权利的请求的，应当说明理由」「个人可以依法向人民法院提起诉讼」",
+      "notes": "法条里有一句「死者生前另有安排的除外」，生前设过账号继承人、或者留过明确意愿的，按他留下的来。所以趁人清醒的时候，值得把账号和密码的去向写下来，见第 17 节。注销账号和删除个人信息是两件事，见第 14 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 10,
+    "title": "Với tài khoản và thông tin cá nhân người mất, thân nhân gần gũi có thể yêu cầu xem, sao chép, sửa và xóa",
+    "fields": {
+      "cost": "Không tốn tiền. Chỉ cần khiếu nại hoặc khởi kiện nếu nền tảng không hợp tác.",
+      "plain": "Sau khi một người mất, thân nhân gần gũi vì lợi ích hợp pháp, chính đáng của mình có thể yêu cầu nền tảng cho xem, sao chép, sửa và xóa thông tin cá nhân của người mất. Nền tảng từ chối phải nêu lý do. Bạn cũng có thể kiện ra tòa. Có một ngoại lệ: nếu người mất đã sắp xếp khác khi còn sống, chẳng hạn đặt người thừa kế tài khoản hoặc để lại ý nguyện rõ ràng, thì làm theo sắp xếp đó.",
+      "benefit": "Luật ghi rõ: khi cá nhân qua đời, thân nhân gần gũi vì lợi ích hợp pháp, chính đáng của mình được thực hiện quyền xem, sao chép, sửa, xóa và các quyền tương tự đối với thông tin cá nhân liên quan của người mất. Thân nhân có thể yêu cầu nền tảng cung cấp thông tin để xem, sao một bản, sửa sai hoặc xóa đi",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html> 第四十九条：「自然人死亡的，其近亲属为了自身的合法、正当利益，可以对死者的相关个人信息行使本章规定的查阅、复制、更正、删除等权利；死者生前另有安排的除外。」；第五十条「个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。拒绝个人行使权利的请求的，应当说明理由」「个人可以依法向人民法院提起诉讼」",
+      "notes": "Điều luật có câu «trừ trường hợp người chết đã có sắp xếp khác khi còn sống». Nếu đã đặt người thừa kế tài khoản hoặc để lại ý nguyện rõ ràng thì làm theo. Vì thế nên ghi lại tài khoản và mật khẩu sẽ giao cho ai khi người đó còn minh mẫn, xem chương 17. Đóng tài khoản và xóa thông tin cá nhân là hai việc khác nhau, xem chương 14."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

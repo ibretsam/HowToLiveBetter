@@ -1,0 +1,29 @@
+{
+  "id": "e-16-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "d467350e311c181f5fe66a8061d43b50809772c25d4765488d87f62b90370e23",
+  "status": "pending",
+  "original": {
+    "number": 10,
+    "title": "得过痛风的，吃烧烤、聚餐时别一顿吃下大量肉和海鲜，酒也要少喝",
+    "fields": {
+      "cost": "不花钱。吃烧烤、聚餐时少点肉串和海鲜，少喝酒。难在饭桌上管住自己。",
+      "plain": "得过痛风的人，前两天吃进的嘌呤最多时，发作的可能是吃得最少时的近 5 倍，吃着降尿酸药也一样。前一天喝了两到四杯酒，发作的可能高约一半，啤酒、白酒、葡萄酒都算。",
+      "benefit": "一项研究在网上跟踪 633 名痛风病人 1 年，拿每个人发作前的两天和他自己没发作的两天比（病例交叉研究）。嘌呤是食物里的一种成分，在体内会变成尿酸。把两天吃进的嘌呤总量从少到多分成五档，和最少那档比，后四档发作的可能分别是 1.17、1.38、2.21、4.76 倍（OR，趋势 P<0.001）。只算动物来源的嘌呤，是 1.42、1.34、1.77、2.41 倍。只算植物来源的，是 1.12、0.99、1.32、1.39 倍。按性别、喝不喝酒、吃不吃利尿药、别嘌醇、消炎止痛药、秋水仙碱分开看，结果都一样。同一批研究者的另一项研究看了 724 名痛风病人发作前 24 小时喝的酒。和没喝的比，喝 1 杯以上到 2 杯的是 1.36 倍（95% CI 1.00–1.88，可信范围），2 杯以上到 4 杯的是 1.51 倍（1.09–2.09）。葡萄酒、啤酒、烈酒各自都和发作有关。没得过痛风的人看另一项跟踪研究：美国 47150 名男性跟踪 12 年，只记录、不分组。肉吃得最多的五分之一，比最少的五分之一得痛风的风险高约 41%（RR 1.41，1.07–1.86）。海鲜高约 51%（1.51，1.17–1.95）。奶制品吃得最多的反而低约 44%（0.56，0.42–0.74）。嘌呤多的蔬菜和蛋白质总量看不出关系。同一批人里，每天多喝一瓶 12 盎司（约 355 毫升）啤酒，风险高约 49%（1.49，1.32–1.70）。烈酒每天一杯高约 15%（1.15，1.04–1.28）。葡萄酒看不出统计上的差别（1.04，0.88–1.22）",
+      "grade": "B",
+      "sources": "Zhang Y, Chen C, Choi H, Chaisson C, Hunter D, Niu J, Neogi T (2012). Purine-rich foods intake and recurrent gout attacks. Annals of the Rheumatic Diseases, 71(9), 1448-1453. <https://doi.org/10.1136/annrheumdis-2011-201215>；Neogi T, Chen C, Niu J, Chaisson C, Hunter DJ, Zhang Y (2014). Alcohol quantity and type on risk of recurrent gout attacks: an internet-based case-crossover study. The American Journal of Medicine, 127(4), 311-318. <https://doi.org/10.1016/j.amjmed.2013.12.019>；Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G (2004). Purine-rich foods, dairy and protein intake, and the risk of gout in men. New England Journal of Medicine, 350(11), 1093-1103. <https://doi.org/10.1056/NEJMoa035700>；Choi HK, Atkinson K, Karlson EW, Willett W, Curhan G (2004). Alcohol intake and risk of incident gout in men: a prospective study. Lancet, 363(9417), 1277-1281. <https://doi.org/10.1016/S0140-6736(04)16000-5>；Major TJ, Topless RK, Dalbeth N, Merriman TR (2018). Evaluation of the diet wide contribution to serum urate levels: meta-analysis of population based cohorts. BMJ, 363, k3951. <https://doi.org/10.1136/bmj.k3951>",
+      "notes": "主要写给已经发作过的人。没得过痛风的人，吃什么对尿酸的影响比一般人想的小。美国 16760 名没有痛风的白人成年人里，饮食习惯能解释的血尿酸差别不超过 0.3%，常见的基因差别能解释 23.9%。所以身边有人吃烧烤喝啤酒吃出了痛风，饮食是诱因之一，体质占得更多。研究看的是吃下去的肉、海鲜和酒的量，不分烤不烤，凉菜海鲜配啤酒一样算。三项研究都只跟踪记录、不分组，发作时吃了什么是病人自己在网上报的，对象都是美国人，中国人的数据没找到。奶制品那个数也只是跟踪记录，没有试验证明多喝奶能防痛风。少吃不能代替降尿酸药，靠忌口降得有限，见第 9 条（确诊痛风就长期吃降尿酸药）。加工肉和酒按死亡率算的账见第 2 节第 18 条（少吃加工肉）和第 2 节第 19 条（少喝或不喝酒）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

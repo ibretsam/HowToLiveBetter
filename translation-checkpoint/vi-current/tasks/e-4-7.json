@@ -1,0 +1,48 @@
+{
+  "id": "e-4-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "321a3af2037a75d787f95bcf70a08bde0e6906111f71e50f3cefcc612bec1b87",
+  "status": "draft",
+  "original": {
+    "number": 7,
+    "title": "把大任务拆成子任务再估时、再开工",
+    "fields": {
+      "cost": "不花钱。拆分本身花 5 到 15 分钟。",
+      "plain": "人估工期的时候，不会自动把任务拆开一件件算。先把子任务列出来再估，就能少估短一截。拆开之后，每一小步都能马上动手，也就不那么容易拖。",
+      "benefit": "人们估工期时，不会自己把一件有好几头的任务拆成几块。比如写文献综述、写讨论、整理参考文献，这本来就是几件事。先把子任务列出来再估，能少犯把工期估短的毛病，这个毛病叫规划谬误。拆开之后，每一小步都成了一个可以立刻开始的动作，拖延也跟着变少。研究里最能预示拖延的因素，包括对这件事的厌恶感，以及任务本身被往后推。",
+      "grade": "B",
+      "sources": "Kruger, J., & Evans, M. (2004). If you don't want to be late, enumerate: Unpacking reduces the planning fallacy. Journal of Experimental Social Psychology, 40(5), 586–598. <https://doi.org/10.1016/j.jesp.2003.11.001>；Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1). <https://doi.org/10.1037/0033-2909.133.1.65>",
+      "notes": "拆到什么程度合适：以「每个子任务能在一次坐下来的时间里做完」为准，拆得过细本身也耗时间。另外，Kruger 和 Evans 那项只从摘要核实到方向，具体百分比没核到原文。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Chia việc lớn thành việc nhỏ rồi mới ước lượng và bắt đầu",
+    "fields": {
+      "cost": "Không tốn tiền. Việc chia nhỏ nhiệm vụ mất 5 đến 15 phút.",
+      "plain": "Khi ước lượng thời gian, người ta không tự động chia nhiệm vụ ra tính từng phần. Liệt kê việc nhỏ trước giúp bớt ước lượng quá ngắn. Sau khi chia, mỗi bước nhỏ đều có thể bắt đầu ngay, nên cũng ít trì hoãn hơn.",
+      "benefit": "Khi ước lượng thời gian, người ta không tự chia nhiệm vụ nhiều phần thành các việc riêng. Chẳng hạn viết tổng quan tài liệu, viết thảo luận và sắp tài liệu tham khảo vốn là ba việc. Liệt kê việc nhỏ trước rồi ước lượng giúp bớt đánh giá thời gian quá ngắn, một lỗi gọi là sai lệch lập kế hoạch. Mỗi bước nhỏ trở thành hành động có thể bắt đầu ngay, nên trì hoãn cũng giảm. Trong nghiên cứu, các yếu tố dự báo trì hoãn mạnh nhất gồm mức chán ghét nhiệm vụ và việc nhiệm vụ bị đẩy lùi về sau.",
+      "grade": "B",
+      "sources": "Kruger, J., & Evans, M. (2004). If you don't want to be late, enumerate: Unpacking reduces the planning fallacy. Journal of Experimental Social Psychology, 40(5), 586–598. <https://doi.org/10.1016/j.jesp.2003.11.001>；Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1). <https://doi.org/10.1037/0033-2909.133.1.65>",
+      "notes": "Hãy chia tới mức mỗi việc nhỏ có thể xong trong một lần ngồi làm; chia quá vụn cũng tốn thời gian. Ngoài ra, với nghiên cứu Kruger và Evans, chỉ kiểm chứng được hướng kết quả từ tóm tắt, chưa đối chiếu được tỷ lệ cụ thể trong toàn văn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

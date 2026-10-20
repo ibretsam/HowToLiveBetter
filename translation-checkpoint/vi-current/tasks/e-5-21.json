@@ -1,0 +1,48 @@
+{
+  "id": "e-5-21",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "2ef6e8fdc5201a288768cdfae9ccfc535353ceac762cb042549e70252c1a99c6",
+  "status": "draft",
+  "original": {
+    "number": 21,
+    "title": "健身房按次付费或短周期付费，除非有一年以上的稳定记录",
+    "fields": {
+      "cost": "按次买，单次价格比年卡摊下来贵一些。你要老实估计自己一个月到底去几次。",
+      "plain": "美国那份三年的数据里，选月费 70 美元以上合同的会员，平均每月只去 4.3 次，折合每次超过 17 美元。而按次买 10 次卡，每次只要 10 美元。这些人在会籍期间平均多付了 600 美元。除非你已经有一年以上稳定去的记录，否则按次买或者买短期的更划算。",
+      "benefit": "这项研究看的是美国 3 家健身俱乐部 7,752 名会员 3 年的数据。选月费超过 70 美元合同的会员，平均每月只去 4.3 次，折合每次超过 17 美元。而 10 次卡只要每次 10 美元。这些人在会籍期间平均多付了 600 美元。另外，月付会员超过一年还没退卡的比例，比年付会员高 17%（美国，三年面板数据）",
+      "grade": "B",
+      "sources": "DellaVigna S, Malmendier U (2006). Paying Not to Go to the Gym. American Economic Review 96(3):694-719. <https://doi.org/10.1257/aer.96.3.694>",
+      "notes": "这只是一项研究，用的是美国数据。但背后的道理很普遍：人会高估自己将来的自控力。如果你已经有连续一年、每周去两次以上的记录，那年卡确实更便宜。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 21,
+    "title": "Trả phòng tập theo lần hoặc kỳ ngắn, trừ khi đã có lịch tập ổn định từ một năm trở lên",
+    "fields": {
+      "cost": "Mua từng lần có giá mỗi lần cao hơn chia từ thẻ năm. Bạn cần ước lượng thật thà mỗi tháng mình đi bao nhiêu lần.",
+      "plain": "Trong dữ liệu ba năm ở Mỹ, thành viên chọn hợp đồng từ 70 USD một tháng trở lên trung bình chỉ đi 4.3 lần mỗi tháng, hơn 17 USD mỗi lần. Trong khi thẻ 10 lần chỉ 10 USD mỗi lần. Họ trả thừa trung bình 600 USD trong thời gian thành viên. Trừ khi đã có lịch đi ổn định từ một năm trở lên, mua từng lần hoặc kỳ ngắn lợi hơn.",
+      "benefit": "Nghiên cứu xem dữ liệu 3 năm của 7,752 thành viên tại 3 câu lạc bộ thể hình Mỹ. Người chọn hợp đồng hơn 70 USD một tháng trung bình chỉ đi 4.3 lần, quy ra hơn 17 USD mỗi lần. Thẻ 10 lần chỉ 10 USD mỗi lần. Những người này trả thừa trung bình 600 USD trong thời gian thành viên. Ngoài ra, tỷ lệ thành viên trả tháng vẫn chưa hủy sau hơn một năm cao hơn thành viên trả năm 17% (Mỹ, dữ liệu bảng ba năm).",
+      "grade": "B",
+      "sources": "DellaVigna S, Malmendier U (2006). Paying Not to Go to the Gym. American Economic Review 96(3):694-719. <https://doi.org/10.1257/aer.96.3.694>",
+      "notes": "Đây chỉ là một nghiên cứu dùng dữ liệu Mỹ. Nhưng nguyên nhân khá phổ biến: người ta đánh giá quá cao khả năng tự kiểm soát tương lai. Nếu đã liên tục một năm đi từ hai lần trở lên mỗi tuần thì thẻ năm thực sự rẻ hơn."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

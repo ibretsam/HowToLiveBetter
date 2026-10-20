@@ -1,0 +1,48 @@
+{
+  "id": "e-5-40",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "81b3c88a8119c1d4ca485c5079d054ab2033fd9b9c654b8c7688b0e88e96bf65",
+  "status": "draft",
+  "original": {
+    "number": 40,
+    "title": "家里有人靠你的收入过日子，先给挣钱的人买定期寿险，别先给孩子买",
+    "fields": {
+      "cost": "一年几百到几千元，看年龄、保额和保多少年（作者粗估，无官方数字）。投保前要如实告知健康状况，一次性花半小时。",
+      "plain": "定期寿险只保固定的年数，这些年里人走了，家里拿到一笔钱。它是给靠你收入过日子的家人留的，比如房贷没还完、孩子还小。没人靠你养，就用不着。孩子不挣钱，给孩子买的死亡保险，法律还限了能赔多少。",
+      "benefit": "监管对寿险的定义是：以人的寿命为保险标的的人身保险，分定期寿险、终身寿险、两全保险等。定期寿险以被保险人死亡为给付保险金的条件，保险期间是固定的年数。终身寿险保到终身。意外伤害保险只在意外事故导致身故、残疾时才赔，生病去世不赔，代替不了寿险。以死亡为给付条件的合同，要经被保险人本人同意并认可保额，否则合同无效。父母给未成年子女投保死亡保险不受这条限制，但因孩子死亡给付的保险金总和，不得超过监管机构规定的限额。寿险保额通常在数十万元级，收益因此定为大。保额买多少没有官方口径。作者的算法是：没还完的房贷，加上孩子长到成年前的开销，再加几年的家用（全国，2015 年修正）",
+      "grade": "C",
+      "sources": "中国保险监督管理委员会 (2011). 人身保险公司保险条款和保险费率管理办法（保监会令 2011 年第 3 号，第八、十二条）. <http://www.gov.cn/gongbao/content/2012/content_2163594.htm>；全国人大常委会 (2015 修正). 中华人民共和国保险法第三十三、三十四条. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7c4060811>",
+      "notes": "定 C 级，是因为官方只有定义和限额，「先保大人」是按「谁的收入断了家里过不下去」推出来的。孩子出事，家里并不会少一份收入。家里挣钱的人走了，房贷和孩子的开销还在。钱有限时，先给挣钱的人买定期寿险和一年期医疗险，再轮到孩子的医疗险。如实告知和保证续保怎么看，见第 7 节第 20 条（一年期医疗险）。这条的受益人落在第 ② 档，是你的配偶和孩子。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 40,
+    "title": "Có người trong nhà sống nhờ thu nhập của bạn thì mua nhân thọ có thời hạn cho người kiếm tiền trước, đừng mua cho trẻ trước",
+    "fields": {
+      "cost": "Mỗi năm vài trăm đến vài nghìn nhân dân tệ tùy tuổi, số tiền bảo hiểm, số năm (ước lượng của tác giả, không có số chính thức). Trước mua khai trung thực sức khỏe, mất nửa giờ một lần.",
+      "plain": "Nhân thọ có thời hạn chỉ bảo vệ số năm cố định; người được bảo hiểm mất trong thời gian ấy thì gia đình nhận tiền. Nó để lại cho người sống nhờ thu nhập bạn, chẳng hạn còn nợ nhà, con còn nhỏ. Không ai cần bạn nuôi thì không cần. Trẻ không kiếm tiền, bảo hiểm tử vong cho trẻ còn bị luật giới hạn mức trả.",
+      "benefit": "Định nghĩa quản lý: bảo hiểm nhân thọ là bảo hiểm con người lấy tuổi thọ làm đối tượng, gồm có thời hạn, trọn đời, hỗn hợp. Loại có thời hạn trả khi người được bảo hiểm tử vong và có thời gian bảo hiểm cố định. Loại trọn đời bảo vệ suốt đời. Bảo hiểm tai nạn chỉ trả khi chết, tàn tật do tai nạn, không trả chết do bệnh, không thay nhân thọ được. Hợp đồng trả theo tử vong phải có chính người được bảo hiểm đồng ý và chấp thuận số tiền, nếu không vô hiệu. Cha mẹ mua cho con chưa thành niên được miễn yêu cầu này, nhưng tổng tiền trả do trẻ chết không vượt hạn mức cơ quan quản lý. Số tiền bảo hiểm nhân thọ thường hàng chục vạn nhân dân tệ nên lợi ích xếp lớn. Không có chuẩn chính thức mua bao nhiêu. Tác giả tính: nợ nhà chưa trả hết cộng chi phí nuôi con đến trưởng thành, cộng vài năm sinh hoạt gia đình (toàn quốc, sửa đổi năm 2015).",
+      "grade": "C",
+      "sources": "中国保险监督管理委员会 (2011). 人身保险公司保险条款和保险费率管理办法（保监会令 2011 年第 3 号，第八、十二条）. <http://www.gov.cn/gongbao/content/2012/content_2163594.htm>；全国人大常委会 (2015 修正). 中华人民共和国保险法第三十三、三十四条. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7c4060811>",
+      "notes": "Xếp C vì chính thức chỉ có định nghĩa và hạn mức; “bảo vệ người lớn trước” suy ra từ “thu nhập ai mất thì gia đình không sống được”. Trẻ gặp chuyện không làm gia đình mất một nguồn thu; người kiếm tiền mất thì nợ nhà và chi cho trẻ vẫn còn. Ít tiền thì mua nhân thọ có thời hạn và y tế một năm cho người kiếm tiền trước rồi tới y tế của trẻ. Khai trung thực và bảo đảm tái tục xem chương 7 mục 20 (y tế một năm). Người hưởng lợi nhóm ② là vợ chồng và con của bạn."
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

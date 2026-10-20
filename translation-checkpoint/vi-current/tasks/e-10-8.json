@@ -1,0 +1,48 @@
+{
+  "id": "e-10-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "6999636dd27ca2fa131452a8109f30d1dcb60c6abfa88c76b087e61e48dd5bf5",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "把结婚的健康收益算进去，但按观察性数据打折",
+    "fields": {
+      "cost": "不花钱，也不花时间。只要记住一点：这些数字说的是已婚的人里死亡率更低，是两件事同时出现，分不清是不是结婚让你活得久。",
+      "plain": "老年人里，已婚的人同期死亡的概率比非婚的人低约 12%，从未结过婚的人比已婚的人高约 24%。但这只是两件事同时出现，分不清是不是结婚起的作用。这些数字基本来自欧美，对国内只能当量级参考。",
+      "benefit": "一项针对老年人的荟萃分析，把多项研究汇总重算，共 53 组比较、25 万余人。汇总的都是队列研究，只是跟踪记录，没有分组对照。已婚相对非婚的全因死亡 RR 0.88，95% CI 0.85–0.91（RR 是风险比，CI 是可信范围），同期死亡的概率低约 12%。同一项里丧偶 1.11、离异或分居 1.16、未婚 1.11，分别高约 11%、16%、11%。男女无差异。最保守的估计是 RR 0.94，只低约 6%。另一项荟萃分析比的是未婚（从未结婚）相对已婚，用了 95 篇文献、5 亿余人。结果 HR 1.24（1.19–1.30），同期死亡的概率高约 24%。而且年纪越大，差距越小。还有一项按性别拆的荟萃分析，21 项研究、789 万余人：不论男女，非婚都与总死亡、癌症死亡、心血管死亡同时出现。男性这边的心血管死亡和总死亡差距更大。未婚男性相对未婚女性，卒中死亡多 31%，全因死亡多 9%",
+      "grade": "A（争议）",
+      "sources": "Manzoli L, et al. (2007). Marital status and mortality in the elderly: a systematic review and meta-analysis. Soc Sci Med 64:77–94. <https://doi.org/10.1016/j.socscimed.2006.08.031>；Roelfs DJ, et al. (2011). The rising relative risk of mortality for singles: meta-analysis and meta-regression. Am J Epidemiol 174(4):379–389. <https://doi.org/10.1093/aje/kwr111>；Wang Y, et al. (2020). Sex differences in the association between marital status and the risk of cardiovascular, cancer, and all-cause mortality: a systematic review and meta-analysis of 7,881,040 individuals. Glob Health Res Policy 5:4. <https://doi.org/10.1186/s41256-020-00133-8>",
+      "notes": "争议在于结婚的人可能本来就是被挑过的，比如本来更健康的人更容易结婚。这是作者按研究设计推出来的，三项荟萃都没有算过挑选占多大份。三项荟萃用的都是现成人群的观察数据，只是跟踪记录，没有分组对照。作者自己也写了有发表偏倚或方法局限。Roelfs 还发现研究做得越严谨，算出的差距越小。这些数字以欧美人群为主，对国内只能当量级参考"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Tính cả lợi ích sức khỏe nhưng giảm kỳ vọng vì dữ liệu quan sát",
+    "fields": {
+      "cost": "Không tốn tiền, cũng không tốn thời gian. Chỉ cần nhớ một điều: những con số này nói rằng trong số người đã kết hôn, tỷ lệ tử vong thấp hơn; đó là hai việc cùng xuất hiện, chứ không phải kết hôn làm bạn sống lâu hơn.",
+      "plain": "Người đã kết hôn có xác suất tử vong trong cùng thời kỳ thấp hơn người không ở trong hôn nhân khoảng 12%; người chưa từng kết hôn cao hơn người đã kết hôn khoảng 24%. Nhưng đây chỉ là hai việc cùng xuất hiện, không phải tác dụng của kết hôn. Người vốn khỏe mạnh, thu nhập cao, giao tiếp rộng thì vừa dễ kết hôn hơn, vừa dễ sống lâu hơn. Những con số này phần lớn đến từ châu Âu và Mỹ, với Trung Quốc chỉ nên dùng để tham khảo về mức độ lớn nhỏ.",
+      "benefit": "Một phân tích gộp người cao tuổi tổng hợp tính lại nhiều nghiên cứu, gồm 53 nhóm so sánh, hơn 25 vạn người. Đã cưới so với không trong hôn nhân có tử vong mọi nguyên nhân RR 0.88, 95% CI 0.85–0.91 (RR là tỷ số nguy cơ, CI là khoảng tin cậy), xác suất chết cùng kỳ thấp khoảng 12%. Cùng nghiên cứu: góa 1.11, ly hôn hoặc ly thân 1.16, chưa cưới 1.11, lần lượt cao khoảng 11%, 16%, 11%. Không khác nam nữ. Ước tính thận trọng nhất RR 0.94, chỉ thấp khoảng 6%. Phân tích khác so chưa từng cưới với đã cưới, dùng 95 tài liệu, hơn 5 trăm triệu người, HR 1.24 (1.19–1.30), xác suất chết cùng kỳ cao khoảng 24%; tuổi càng cao chênh càng nhỏ. Phân tích theo giới khác gồm 21 nghiên cứu, hơn 789 vạn người: cả hai giới, không trong hôn nhân đều đi kèm tử vong tổng, ung thư, tim mạch. Ở nam, chênh tử vong tim mạch và tổng lớn hơn. Nam chưa cưới so nữ chưa cưới có tử vong đột quỵ hơn 31%, mọi nguyên nhân hơn 9%.",
+      "grade": "A (có tranh luận)",
+      "sources": "Manzoli L, et al. (2007). Marital status and mortality in the elderly: a systematic review and meta-analysis. Soc Sci Med 64:77–94. <https://doi.org/10.1016/j.socscimed.2006.08.031>；Roelfs DJ, et al. (2011). The rising relative risk of mortality for singles: meta-analysis and meta-regression. Am J Epidemiol 174(4):379–389. <https://doi.org/10.1093/aje/kwr111>；Wang Y, et al. (2020). Sex differences in the association between marital status and the risk of cardiovascular, cancer, and all-cause mortality: a systematic review and meta-analysis of 7,881,040 individuals. Glob Health Res Policy 5:4. <https://doi.org/10.1186/s41256-020-00133-8>",
+      "notes": "Tranh luận ở chỗ người cưới vốn đã được chọn lọc: khỏe, thu nhập cao, giao tiếp nhiều vừa dễ cưới vừa dễ sống lâu. Ba phân tích đều dùng dữ liệu quan sát quần thể sẵn có, chỉ theo dõi ghi nhận, không chia nhóm đối chứng. Chính tác giả ghi có thiên lệch công bố hoặc hạn chế phương pháp. Roelfs còn thấy nghiên cứu càng chặt, chênh tính được càng nhỏ. Chủ yếu quần thể Âu Mỹ, trong nước chỉ tham khảo độ lớn."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

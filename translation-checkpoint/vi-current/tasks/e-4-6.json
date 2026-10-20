@@ -1,0 +1,48 @@
+{
+  "id": "e-4-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "f683f4cb0854801234224b6f2c4104cbfc0bf4652d17870fb8db128b4faf918c",
+  "status": "draft",
+  "original": {
+    "number": 6,
+    "title": "砍会议数量，能用文字异步解决的不开会",
+    "fields": {
+      "cost": "不花钱。要同事和上级配合。难在写清楚一段文字，比张嘴说一句费精力。",
+      "plain": "当天开的会越多，人越累，自己感觉手上的活也越多。砍掉一个会，省下的时间就是那个会本身的长度，一分不打折。",
+      "benefit": "两项调查找的是每周工作 35 小时以上的员工，分别有 676 人和 304 人。开会占掉多少时间，对工作态度和幸福感的影响不是固定的，要看两件事：会开得好不好，这个岗位干活有多依赖别人。另一项研究让人连记一周日记，结果是当天开会次数越多，疲劳和自己感觉到的工作量越高。省下的时间，等于你砍掉的会议时长本身。",
+      "grade": "B",
+      "sources": "Rogelberg, S. G., Leach, D. J., Warr, P. B., & Burnfield, J. L. (2006). \"Not another meeting!\" Are meeting time demands related to employee well-being? Journal of Applied Psychology, 91(1). <https://doi.org/10.1037/0021-9010.91.1.83>；Luong, A., & Rogelberg, S. G. (2005). Meetings and more meetings: The relationship between meeting load and the daily well-being of employees. Group Dynamics: Theory, Research, and Practice, 9(1). <https://doi.org/10.1037/1089-2699.9.1.58>",
+      "notes": "争议：Rogelberg 2006 发现，会议多少和幸福感之间不是一边倒。工作上高度依赖别人的岗位，会议多反而不算坏事。另外，没有研究把「改用文字异步沟通」和开会直接比过，这条是作者自己的推论。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Giảm số cuộc họp; việc giải quyết được qua văn bản mà không cần trả lời cùng lúc thì đừng họp",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn cần đồng nghiệp và cấp trên phối hợp. Khó là viết rõ một đoạn thường tốn sức hơn mở miệng nói một câu.",
+      "plain": "Một ngày càng họp nhiều, người ta càng mệt và tự thấy khối lượng việc càng lớn. Bỏ một cuộc họp tiết kiệm đúng toàn bộ thời lượng của cuộc họp ấy.",
+      "benefit": "Hai khảo sát dùng nhân viên làm từ 35 giờ trở lên mỗi tuần, gồm 676 và 304 người. Ảnh hưởng của thời gian họp lên thái độ công việc và hạnh phúc tùy chất lượng họp và mức độ công việc phụ thuộc người khác. Một nghiên cứu nhật ký trong một tuần thấy ngày họp nhiều hơn thì mệt hơn và cảm thấy nhiều việc hơn. Thời gian tiết kiệm bằng chính thời lượng cuộc họp bị bỏ.",
+      "grade": "B",
+      "sources": "Rogelberg, S. G., Leach, D. J., Warr, P. B., & Burnfield, J. L. (2006). \"Not another meeting!\" Are meeting time demands related to employee well-being? Journal of Applied Psychology, 91(1). <https://doi.org/10.1037/0021-9010.91.1.83>；Luong, A., & Rogelberg, S. G. (2005). Meetings and more meetings: The relationship between meeting load and the daily well-being of employees. Group Dynamics: Theory, Research, and Practice, 9(1). <https://doi.org/10.1037/1089-2699.9.1.58>",
+      "notes": "Còn tranh luận: Rogelberg 2006 thấy mối liên hệ giữa số cuộc họp và hạnh phúc không nghiêng hẳn một chiều. Với vị trí công việc phụ thuộc nhiều vào người khác, họp nhiều chưa hẳn là điều xấu. Ngoài ra, chưa có nghiên cứu trực tiếp so trao đổi văn bản không cần đồng thời với họp; khuyến nghị này là suy luận của tác giả."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

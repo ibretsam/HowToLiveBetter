@@ -1,0 +1,48 @@
+{
+  "id": "e-24-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "154338e38100c7c793a562dcb5b5d5cd6ff43b96ec6d2c30b550d640117f25cc",
+  "status": "outdated",
+  "original": {
+    "number": 4,
+    "title": "跨省异地就医之前先在本地问一句，必要性原则上要副主任医师以上评估",
+    "fields": {
+      "cost": "不花钱。出发前多问一句。",
+      "plain": "要不要去外地看病，原则上由二、三级医院副主任医师以上的医生评估。临时外出就医报销多少，和在参保地同级别医院会有差别，具体看本地规定。出发前在本地问一句，比人到了外地才发现报不了强。",
+      "benefit": "跨统筹地区、跨省异地就医的必要性，原则上由二、三级医院副主任医师及以上职称人员评估。跨统筹地区就是跨出自己的医保参保地。去外地看有没有必要，原则上要由够级别的医生开口。跨省临时外出就医人员的报销水平，与参保地同级别机构保持合理差异。在外地看同样的病，报回来的钱会比在家少一截",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「原则上由二、三级医院副主任医师及以上职称人员评估患者跨统筹地区、跨省异地就医的必要性。」「进一步强化异地就医直接结算管理服务，跨省临时外出就医人员报销水平与参保地同级别医疗机构报销水平保持合理差异。」",
+      "notes": "「临时外出就医」和「长期异地居住」是两种不同的备案，报销水平不一样。备案怎么办、哪几类病能直接结算，见第 16 节。别先跑到外地，再回头想报销的事。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 4,
+    "title": "Trước khi đi khám ngoài tỉnh, hỏi cơ quan bảo hiểm địa phương; về nguyên tắc, sự cần thiết phải do bác sĩ phó chủ nhiệm trở lên đánh giá",
+    "fields": {
+      "cost": "Không tốn tiền. Hỏi thêm trước đi.",
+      "plain": "Có cần đi nơi khác khám không, về nguyên tắc do bác sĩ phó chủ nhiệm trở lên ở bệnh viện hạng hai, ba đánh giá. Thanh toán khi tạm đi khám ngoài địa phương khác cơ sở cùng hạng tại nơi tham gia, tùy quy định địa phương. Hỏi trước ở nhà tốt hơn đến nơi mới biết không được trả.",
+      "benefit": "Nhu cầu khám ngoài khu điều phối, ngoài tỉnh về nguyên tắc do bác sĩ phó chủ nhiệm trở lên ở bệnh viện hạng hai, ba đánh giá. Ngoài khu điều phối là ra ngoài nơi tham gia bảo hiểm. Có đi không cần bác sĩ đủ cấp quyết. Tỷ lệ thanh toán người tạm đi khám liên tỉnh giữ chênh lệch hợp lý với cơ sở cùng cấp nơi tham gia; cùng bệnh khám nơi khác nhận lại ít hơn ở nhà",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「原则上由二、三级医院副主任医师及以上职称人员评估患者跨统筹地区、跨省异地就医的必要性。」「进一步强化异地就医直接结算管理服务，跨省临时外出就医人员报销水平与参保地同级别医疗机构报销水平保持合理差异。」",
+      "notes": "“Tạm đi khám ngoài địa phương” và “cư trú dài hạn nơi khác” là hai đăng ký khác nhau, tỷ lệ chi khác. Cách đăng ký, bệnh nào thanh toán trực tiếp xem chương 16. Đừng đi rồi mới nghĩ hoàn phí."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "e-13-44",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "2e67925dddb36835047e13a9d4ecb61dac011cc190e3fbe1317e05c87cfbeb8e",
+  "status": "outdated",
+  "original": {
+    "number": 44,
+    "title": "不满 1 岁的婴儿没反应、没正常呼吸，开免提打 120，做婴儿心肺复苏：按 30 下吹 2 口气",
+    "fields": {
+      "cost": "不花钱。婴儿心肺复苏要上课练一次，半天到一天。难的是对着孩子口鼻吹气，还有不敢用力按。",
+      "plain": "拍脚底没反应、没正常呼吸，就开免提打 120，手不停。双手环抱胸口、两个拇指按，抱不住就用一只手的掌根，按约 4 厘米深，每秒约 2 下。每按 30 下，嘴包住孩子口鼻吹 2 口气。婴儿心跳停多半是喘不上气引起的，做了带吹气的心肺复苏，活下来的更多。",
+      "benefit": "美国心脏协会和美国儿科学会出了 2025 年的儿童基础生命支持指南。指南写：婴儿和儿童心跳骤停，主要原因仍是呼吸出了问题。在医院外心跳骤停的婴儿，活着出院的只有 6.6%。普通人遇到没反应、没正常呼吸、没有生命迹象的婴儿或儿童，「应当立即开始心肺复苏」，不要去摸脉搏。按压深度至少是胸廓前后径的三分之一，婴儿「约 1.5 英寸（4 厘米）」。频率每分钟 100 到 120 次。一个人做时，按 30 下吹 2 口气。两个人做时，按 15 下吹 2 口气。婴儿用一只手的掌根按，或者双手环抱、两个拇指按。环抱不住就用掌根。两根手指按的做法已经取消，因为按不够深。指南还写，院外心脏骤停的婴儿和儿童，按压之外再加吹气能提高存活。美国一个登记库统计了 3900 名 18 岁以下院外心脏骤停的孩子，59.4% 是婴儿。在场的人做了心肺复苏的，调整后活着出院的比例是 13.2%，没做的是 9.5%。调整后 OR 1.57（活下来的几率高约 57%），95% CI 1.25–1.96（可信范围）。在婴儿里，带吹气的心肺复苏和更高的存活有关，活下来的孩子脑子也恢复得更好。只按不吹的，结果和没人做差不多。国际红十字与红新月会联合会也出了 2025 年国际急救指南。它写：看婴儿有没有反应，要把孩子抱起来或者拍他的脚底。只有你一个人，就开免提自己打急救电话。手边没有能边按边打的电话，就先做 1 分钟心肺复苏再去打。首都儿科研究所有一篇科普，北京市卫健委转载了。它写：「如果只有1个人在场，先进行2分钟的心肺复苏后呼叫120救护车」。按压幅度「婴儿4cm」。1 岁以内吹气要「口对口鼻」",
+      "grade": "B",
+      "sources": "Joyner BL 等 (2025). Part 6: Pediatric Basic Life Support: 2025 American Heart Association and American Academy of Pediatrics Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 152(suppl 2):S424–S447. <https://doi.org/10.1161/CIR.0000000000001370>，全文见 <https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support>；Naim MY 等 (2017). Association of Bystander Cardiopulmonary Resuscitation With Overall and Neurologically Favorable Survival After Pediatric Out-of-Hospital Cardiac Arrest in the United States: A Report From the Cardiac Arrest Registry to Enhance Survival Surveillance Registry. JAMA Pediatrics 171(2):133–141. <https://doi.org/10.1001/jamapediatrics.2016.3643>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 186–188 页. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>；首都儿科研究所 (2022). 【儿研所儿医说】心肺复苏：爸妈必备的急救知识（北京市卫生健康委员会转载）. <https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202210/t20221017_2837684.html>；European Resuscitation Council (2025). ERC Guidelines 2025 for the lay public（Paediatric Basic Life Support 一章）. <https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf>",
+      "notes": "定 B 是因为存活的数字来自只跟踪记录的登记研究。而且算的是全体孩子，摘要里没给婴儿单独的数字。收益定「大」是按全体孩子的数字算的：活着出院从 9.5% 到 13.2%，相对多了约四成。受益的几乎都是自家孩子。和本节第 1 条（用力按压胸口）比，有三处不同。婴儿要吹气，只按不吹对婴儿效果差。按胸口用两个拇指或一只掌根，按约 4 厘米，不用双手叠着压。一个人又没法边按边打电话时，先按再去打。先按多久各家不一：首都儿科研究所和美国指南的单人流程是 2 分钟，国际红十字是 1 分钟。手机开免提就没有这个问题。欧洲复苏委员会教的是先吹 5 口气再按，美国指南是先按后吹，两种都比不做强。国内老教程教两指按压，2025 年美国指南已经去掉了这种手法。噎住引起的，吹气前看一眼嘴里，看得见的异物才取，见本节第 43 条（婴儿噎住）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 44,
+    "title": "Trẻ chưa đủ 1 tuổi không phản ứng, không thở bình thường: bật loa ngoài gọi 120, làm hồi sinh tim phổi cho trẻ nhũ nhi: ép 30 lần, thổi 2 hơi",
+    "fields": {
+      "cost": "Không tốn tiền. Hồi sinh tim phổi cho trẻ nhũ nhi cần đi học thực hành một lần, mất nửa ngày đến một ngày. Điều khó là thổi ngạt vào miệng mũi trẻ, và không dám ép mạnh tay.",
+      "plain": "Vỗ vào lòng bàn chân mà trẻ không phản ứng, không thở bình thường, thì bật loa ngoài gọi 120, tay không ngừng làm. Hai tay ôm vòng quanh ngực trẻ, dùng hai ngón cái ép; không ôm được thì dùng gót một bàn tay, ép sâu khoảng 4 cm, khoảng 2 lần mỗi giây. Cứ ép 30 lần thì dùng miệng trùm kín miệng và mũi trẻ, thổi 2 hơi. Tim trẻ nhũ nhi ngừng đập phần lớn là do không thở được, nên hồi sinh tim phổi có thổi ngạt thì nhiều trẻ sống sót hơn.",
+      "benefit": "Hiệp hội Tim mạch Mỹ và Viện Hàn lâm Nhi khoa Mỹ đã ban hành hướng dẫn hỗ trợ sự sống cơ bản cho trẻ em năm 2025. Hướng dẫn viết: ngừng tim ở trẻ nhũ nhi và trẻ em, nguyên nhân chính vẫn là do vấn đề hô hấp. Trẻ nhũ nhi ngừng tim ngoài bệnh viện chỉ có 6.6% sống đến lúc ra viện. Người bình thường gặp trẻ nhũ nhi hoặc trẻ em không phản ứng, không thở bình thường, không có dấu hiệu sự sống thì “nên bắt đầu hồi sinh tim phổi ngay”, không cần bắt mạch. Độ sâu khi ép ít nhất bằng một phần ba đường kính trước-sau của lồng ngực, với trẻ nhũ nhi là “khoảng 1.5 inch (4 cm)”. Tần số 100 đến 120 lần mỗi phút. Một người làm thì ép 30 lần, thổi 2 hơi. Hai người làm thì ép 15 lần, thổi 2 hơi. Với trẻ nhũ nhi, ép bằng gót một bàn tay, hoặc hai tay ôm vòng, dùng hai ngón cái ép. Không ôm vòng được thì dùng gót bàn tay. Cách ép bằng hai ngón tay đã bị bỏ, vì không ép đủ sâu. Hướng dẫn còn viết, với trẻ nhũ nhi và trẻ em ngừng tim ngoài bệnh viện, thổi ngạt kết hợp với ép ngực giúp tăng tỷ lệ sống. Một cơ sở dữ liệu đăng ký ở Mỹ thống kê 3900 trẻ dưới 18 tuổi ngừng tim ngoài bệnh viện, 59.4% là trẻ nhũ nhi. Nếu người có mặt tại chỗ làm hồi sinh tim phổi, tỷ lệ sống đến lúc ra viện sau điều chỉnh là 13.2%, không làm là 9.5%. OR sau điều chỉnh là 1.57 (khả năng sống cao hơn khoảng 57%), 95% CI 1.25–1.96 (khoảng tin cậy). Ở trẻ nhũ nhi, hồi sinh tim phổi có thổi ngạt gắn với tỷ lệ sống cao hơn, và não của những trẻ sống sót cũng hồi phục tốt hơn. Chỉ ép mà không thổi thì kết quả gần như không khác gì không ai làm hồi sinh. Hướng dẫn sơ cứu quốc tế năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế viết: muốn xem trẻ nhũ nhi có phản ứng hay không thì bế trẻ lên hoặc vỗ vào lòng bàn chân trẻ. Chỉ có một mình bạn thì bật loa ngoài tự gọi cấp cứu. Không có điện thoại để vừa ép vừa gọi thì làm hồi sinh tim phổi 1 phút trước rồi mới đi gọi. Viện Nghiên cứu Nhi khoa Thủ đô có một bài phổ biến kiến thức, được Ủy ban Y tế thành phố Bắc Kinh đăng lại. Bài viết: “Nếu chỉ có 1 người tại chỗ, hãy hồi sinh tim phổi 2 phút trước rồi mới gọi xe cấp cứu 120”. Biên độ ép “trẻ nhũ nhi 4cm”. Trẻ trong vòng 1 tuổi thì thổi ngạt kiểu “miệng áp miệng và mũi”.",
+      "grade": "B",
+      "sources": "Joyner BL 等 (2025). Part 6: Pediatric Basic Life Support: 2025 American Heart Association and American Academy of Pediatrics Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 152(suppl 2):S424–S447. <https://doi.org/10.1161/CIR.0000000000001370>，全文见 <https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support>；Naim MY 等 (2017). Association of Bystander Cardiopulmonary Resuscitation With Overall and Neurologically Favorable Survival After Pediatric Out-of-Hospital Cardiac Arrest in the United States: A Report From the Cardiac Arrest Registry to Enhance Survival Surveillance Registry. JAMA Pediatrics 171(2):133–141. <https://doi.org/10.1001/jamapediatrics.2016.3643>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 186–188 页. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>；首都儿科研究所 (2022). 【儿研所儿医说】心肺复苏：爸妈必备的急救知识（北京市卫生健康委员会转载）. <https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202210/t20221017_2837684.html>；European Resuscitation Council (2025). ERC Guidelines 2025 for the lay public（Paediatric Basic Life Support 一章）. <https://www.erc.edu/media/p5ymaeej/gl2025_layperson_book_ipdf-v11-e.pdf>",
+      "notes": "Mức B vì số liệu sống sót lấy từ nghiên cứu đăng ký chỉ theo dõi ghi nhận, và tính trên toàn bộ trẻ, phần tóm tắt không đưa số liệu riêng cho trẻ nhũ nhi. Lợi ích được xếp “lớn” là tính theo số liệu của toàn bộ trẻ: tỷ lệ sống đến lúc ra viện từ 9.5% lên 13.2%, tương đối tăng khoảng bốn phần mười. Người hưởng lợi gần như đều là con nhà mình. So với mục 1 chương này (ép mạnh ngực) có ba điểm khác. Một là trẻ nhũ nhi cần thổi ngạt, chỉ ép mà không thổi thì hiệu quả kém với trẻ nhũ nhi. Hai là dùng hai ngón cái hoặc gót một bàn tay, ép sâu khoảng 4 cm, không chồng hai bàn tay lên nhau để ép. Ba là khi chỉ có một mình mà không thể vừa ép vừa gọi điện, thì ép trước rồi mới đi gọi. Ép trước bao lâu thì mỗi nơi nói khác nhau: quy trình một người cứu của Viện Nghiên cứu Nhi khoa Thủ đô và hướng dẫn Mỹ là 2 phút, Chữ thập đỏ quốc tế là 1 phút. Bật loa ngoài điện thoại thì không gặp vấn đề này. Hội đồng Hồi sức châu Âu dạy thổi 5 hơi trước rồi mới ép, hướng dẫn Mỹ thì ép trước thổi sau; cả hai cách đều hơn là không làm. Hướng dẫn cũ trong nước dạy ép bằng hai ngón tay, hướng dẫn Mỹ năm 2025 đã bỏ kỹ thuật này. Nếu do hóc gây ra thì trước khi thổi ngạt hãy nhìn vào miệng trẻ, chỉ lấy dị vật nhìn thấy được, xem mục 43 chương này (trẻ nhũ nhi bị hóc)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

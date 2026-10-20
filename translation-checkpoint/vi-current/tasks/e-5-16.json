@@ -1,0 +1,48 @@
+{
+  "id": "e-5-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "3c3ae6d1ce138c3e8527f7b827d5c9e337ba6deb907e737355f47f3b841d549c",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "不借钱投资、不加杠杆、不买自己看不懂的",
+    "fields": {
+      "cost": "不花钱。难的是行情好的时候，要忍住不去想「借点钱多赚一点」。",
+      "plain": "借钱买股票，一旦跌破线，你又补不上钱，就会被强制卖掉。账面上的亏损当场变成真亏，连「等它涨回来」的机会都没有。监管规定，做证券交易不满半年、最近 20 个交易日日均资产不到 50 万元的人，不能开融资账户。这个门槛本身就说明，它不是给普通人用的。",
+      "benefit": "杠杆就是借钱来买，它会把亏损放大。你用融资买入以后，抵押物的市值可能跌到维持担保比例线以下。这条线是券商划的，管的是你抵押在它那里的东西。跌破了这条线，你又没能追加担保把它补回来，就会被强制平仓，由券商直接替你卖掉。账面上的亏损当场变成真亏，没有「等它涨回来」的机会。监管规定，「从事证券交易时间不足半年、缺乏风险承担能力、最近 20 个交易日日均证券类资产低于 50 万元」的客户，不得开立信用账户。这个门槛本身就说明，它不是给普通人用的工具（中国，2015 年）",
+      "grade": "B",
+      "sources": "中国证监会 (2015). 证券公司融资融券业务管理办法（证监会令第 117 号，第十二条）. <https://www.csrc.gov.cn/csrc/c106256/c1654005/content.shtml>；上海证券交易所. 《上海证券交易所融资融券交易实施细则》解读（投资者教育材料）. <https://www.sse.com.cn/services/tradingservice/margin/edu/c/10074042/files/a1f1c4833302451fb9130dbb94116c56.pdf>",
+      "notes": "「看不懂的不买」这句没有直接的文献支持，属于共识，单算是 C 级。用消费贷或者信用卡套现去投资，也是变相的杠杆，它们的利率见本节第 7 条（不用信用卡最低还款）。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Không vay tiền đầu tư, không dùng đòn bẩy, không mua thứ mình không hiểu",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là khi thị trường thuận lợi phải kiềm chế ý nghĩ “vay thêm chút để kiếm thêm”.",
+      "plain": "Vay tiền mua cổ phiếu, khi giá xuống dưới ngưỡng mà không bổ sung được tiền thì sẽ bị bán bắt buộc. Lỗ trên sổ thành lỗ thật ngay, không còn cơ hội “đợi giá lên lại”. Quy định quản lý không cho người mở tài khoản chưa đủ nửa năm, tài sản bình quân ngày trong 20 phiên gần nhất dưới 50 vạn nhân dân tệ mở tài khoản vay ký quỹ. Chính ngưỡng này cho thấy nó không dành cho người bình thường.",
+      "benefit": "Đòn bẩy là vay tiền để mua, làm phóng đại thua lỗ. Sau khi mua bằng vốn vay, giá trị thị trường tài sản thế chấp có thể xuống dưới tỷ lệ duy trì bảo đảm. Công ty chứng khoán đặt ngưỡng này đối với tài sản bạn thế chấp tại họ. Nếu thủng ngưỡng mà bạn không bổ sung đủ bảo đảm, công ty sẽ cưỡng chế đóng vị thế, trực tiếp bán thay bạn. Lỗ trên sổ thành lỗ thật ngay, không còn cơ hội “đợi giá lên lại”. Theo quy định, khách hàng “giao dịch chứng khoán chưa đủ nửa năm, thiếu khả năng chịu rủi ro, tài sản chứng khoán bình quân ngày trong 20 phiên gần nhất dưới 50 vạn nhân dân tệ” không được mở tài khoản tín dụng. Chính ngưỡng này cho thấy công cụ không dành cho người bình thường (Trung Quốc, năm 2015).",
+      "grade": "B",
+      "sources": "中国证监会 (2015). 证券公司融资融券业务管理办法（证监会令第 117 号，第十二条）. <https://www.csrc.gov.cn/csrc/c106256/c1654005/content.shtml>；上海证券交易所. 《上海证券交易所融资融券交易实施细则》解读（投资者教育材料）. <https://www.sse.com.cn/services/tradingservice/margin/edu/c/10074042/files/a1f1c4833302451fb9130dbb94116c56.pdf>",
+      "notes": "“Không mua thứ không hiểu” không có tài liệu nghiên cứu trực tiếp, là đồng thuận, xét riêng ở mức C. Dùng vay tiêu dùng hoặc rút tiền mặt qua thẻ tín dụng để đầu tư cũng là đòn bẩy trá hình; lãi suất xem mục 7 chương này (không trả mức tối thiểu thẻ tín dụng). Không phải lời khuyên đầu tư."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

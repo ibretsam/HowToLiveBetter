@@ -1,0 +1,48 @@
+{
+  "id": "e-4-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "f91387bbf698b438cff6148c5294f40565b699600d26b0bc71bd27c82b93b446",
+  "status": "outdated",
+  "original": {
+    "number": 16,
+    "title": "不看电视和滚动新闻，需要的信息定时集中看",
+    "fields": {
+      "cost": "不花钱。难在改掉随手打开的习惯，还可能错过一些即时消息。",
+      "plain": "美国 15 岁以上的人每天看 2.6 小时电视，占掉全部闲暇时间的一半。2018 年中国人平均每天看 1 小时 40 分，75 到 84 岁的老人看 3 小时 16 分。把要看的信息改成定时集中看，能省下的就在这一块里。",
+      "benefit": "美国 15 岁以上的人每天看电视 2.6 小时。他们全部休闲时间是 5.2 小时，看电视占掉一半。这是 2025 年的数字。中国居民看电视每天平均 1 小时 40 分钟，75 到 84 岁的人 3 小时 16 分钟。这是 2018 年的数字。",
+      "grade": "C",
+      "sources": "U.S. Bureau of Labor Statistics (2026). American Time Use Survey — 2025 Results. <https://www.bls.gov/news.release/atus.nr0.htm>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>",
+      "notes": "手上只有总量统计。没有研究算过，少看电视和新闻之后，省下的时间被用到了哪里。「集中看」这个做法是作者经验。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 16,
+    "title": "Không xem tivi và tin cập nhật liên tục; tập trung xem thông tin cần thiết vào giờ cố định",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là bỏ thói quen tiện tay mở xem, và bạn có thể bỏ lỡ một số tin tức tức thời.",
+      "plain": "Người Mỹ từ 15 tuổi trở lên xem tivi 2.6 giờ mỗi ngày, chiếm nửa thời gian rảnh. Người Trung Quốc xem trung bình 1 giờ 40 phút, người từ 75 đến 84 tuổi là 3 giờ 16 phút. Chuyển thông tin cần xem thành các đợt cố định giúp lấy lại cả khoảng thời gian này.",
+      "benefit": "Người Mỹ từ 15 tuổi trở lên xem tivi 2.6 giờ mỗi ngày, trong tổng thời gian giải trí 5.2 giờ, tức một nửa. Đây là số năm 2025. Cư dân Trung Quốc xem trung bình 1 giờ 40 phút mỗi ngày; nhóm từ 75 đến 84 tuổi xem 3 giờ 16 phút. Đây là số năm 2018.",
+      "grade": "C",
+      "sources": "U.S. Bureau of Labor Statistics (2026). American Time Use Survey — 2025 Results. <https://www.bls.gov/news.release/atus.nr0.htm>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>",
+      "notes": "Hiện chỉ có thống kê tổng. Chưa có nghiên cứu tính thời gian tiết kiệm khi bớt tivi và tin tức được dùng vào đâu. Cách “xem tập trung” là kinh nghiệm của tác giả."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

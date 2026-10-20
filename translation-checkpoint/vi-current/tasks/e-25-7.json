@@ -1,0 +1,48 @@
+{
+  "id": "e-25-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "f1ddb77ab2bd632738a5f88e9238636c28f5cc4b87f25c0d3d552b6307460a1a",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "遇到强制搭售、标价外加价、把一项拆成几项收费，记下来投诉",
+    "fields": {
+      "cost": "不花钱。难的是在那个当口还愿意较真。",
+      "plain": "条例点名的价格违法行为有：不挂价目表、在标价之外加钱、捆绑强卖丧葬用品、逼你接受别家的收费服务。把一项拆成几项收费，也算变相涨价。当场先要价目表，留好收费凭据和聊天记录，事后再投诉也来得及。查价格找市场监管，管殡葬服务找民政。",
+      "benefit": "条例列了五类价格违法行为，下面说其中四类。不挂价目表、收比标价更多的钱，属于不明码标价或者在标价之外加价。不买这个就不给办那个，属于捆绑或者附加不合理条件强制销售。硬塞给你另一家的收费服务，属于强制或者变相强制接受第三方有偿服务。换个名目多收钱，属于变相提高收费标准。另外还禁止「分解项目、扩大范围收费等形式变相提高收费标准」。把一项服务拆成好几项分别收费，或者把收费范围往外扩，都在禁止之列",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，2025 年 11 月 14 日国务院第 72 次常务会议修订通过，「自2026年3月30日起施行」）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> 第四十二条：「殡葬服务机构不得违反有关规定擅自设立收费项目，或者采取分解项目、扩大范围收费等形式变相提高收费标准。」第四十三条列举的价格违法行为含「（一）不按规定明码标价，或者在标价之外加价或者收取未标明的费用」「（三）采取捆绑、附加不合理条件或者不合理限制等方式，强制或者变相强制销售丧葬用品、提供殡葬相关服务并收取费用」「（四）强制或者变相强制丧属接受第三方的有偿服务，或者利用相关服务网点重复收取费用」；第五十一条要求民政部门与政务服务便民热线建立信息共享监督机制，「对丧属反映的殡葬服务问题，应当会同有关部门及时予以处理并将处理结果告知丧属」",
+      "notes": "查处价格违法归市场监管部门，殡葬服务本身归民政部门。当场先要一张价目表，收费凭据和聊天记录都留好，事后再去投诉也来得及。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Gặp ép mua kèm, thu thêm ngoài giá niêm yết hoặc tách một dịch vụ thành nhiều khoản thu thì ghi lại để khiếu nại",
+    "fields": {
+      "cost": "Không tốn tiền. Khó ở chỗ lúc ấy vẫn muốn hỏi cho ra lẽ.",
+      "plain": "Điều lệ nêu rõ các hành vi vi phạm giá sau: không treo bảng giá, thu thêm ngoài giá niêm yết, ép mua đồ tang lễ kèm dịch vụ, ép dùng dịch vụ có thu phí của bên khác. Tách một hạng mục thành nhiều khoản thu cũng là tăng giá trá hình. Trước hết yêu cầu bảng giá tại chỗ, giữ chứng từ thanh toán và lịch sử trò chuyện. Khiếu nại sau vẫn kịp. Vấn đề giá tìm cơ quan quản lý thị trường; dịch vụ tang lễ tìm cơ quan dân chính.",
+      "benefit": "Điều lệ liệt kê năm loại vi phạm giá; dưới đây nói về bốn loại. Không treo bảng giá hoặc thu cao hơn giá niêm yết là không công khai giá hoặc thu thêm ngoài giá. Không mua món này thì không làm việc kia là ép bán kèm hoặc đặt điều kiện bất hợp lý. Ép dùng dịch vụ có thu phí của cơ sở khác là cưỡng ép trực tiếp hoặc trá hình sử dụng dịch vụ trả phí bên thứ ba. Đổi tên khoản thu để lấy thêm tiền là tăng phí trá hình. Điều lệ còn cấm «tăng mức phí trá hình bằng cách tách hạng mục, mở rộng phạm vi thu phí và các hình thức tương tự». Tách một dịch vụ thành nhiều khoản riêng hoặc mở rộng phạm vi thu tiền đều bị cấm",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，2025 年 11 月 14 日国务院第 72 次常务会议修订通过，「自2026年3月30日起施行」）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> 第四十二条：「殡葬服务机构不得违反有关规定擅自设立收费项目，或者采取分解项目、扩大范围收费等形式变相提高收费标准。」第四十三条列举的价格违法行为含「（一）不按规定明码标价，或者在标价之外加价或者收取未标明的费用」「（三）采取捆绑、附加不合理条件或者不合理限制等方式，强制或者变相强制销售丧葬用品、提供殡葬相关服务并收取费用」「（四）强制或者变相强制丧属接受第三方的有偿服务，或者利用相关服务网点重复收取费用」；第五十一条要求民政部门与政务服务便民热线建立信息共享监督机制，「对丧属反映的殡葬服务问题，应当会同有关部门及时予以处理并将处理结果告知丧属」",
+      "notes": "Cơ quan quản lý thị trường xử lý vi phạm giá; cơ quan dân chính quản lý bản thân dịch vụ tang lễ. Tại chỗ hãy xin bảng giá, giữ kỹ chứng từ thanh toán và lịch sử trò chuyện; sau đó khiếu nại vẫn kịp."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

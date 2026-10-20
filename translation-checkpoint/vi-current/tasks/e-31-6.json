@@ -1,0 +1,48 @@
+{
+  "id": "e-31-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "9bdc699f6a4f31501ffbef1c77caa36bbf5c402dea425daf4eadef9c68fe50e7",
+  "status": "outdated",
+  "original": {
+    "number": 6,
+    "title": "退役后的三笔账：一次性退役金、军龄算工龄、自己干每年扣减 20000 元税",
+    "fields": {
+      "cost": "不花钱。退役时军队把你的社保关系和钱转出来。你再到安置地的社保经办机构（办社保的窗口）办接续。",
+      "plain": "退役之后有三笔账。第一笔是自主就业的一次性退役金，按服现役年限发，立过功的还增发。第二笔是军龄算工龄，缴费年限跟入伍前和退役后合着算。第三笔是税：自己开店做生意的，3 年内每年按 20000 元的限额少交税，限额最高可上浮 20%。",
+      "benefit": "第一笔看《退役军人安置条例》。它写着：「对自主就业的退役军士和义务兵，根据其服现役年限发放一次性退役金」。钱由谁出：「由中央财政专项安排，具体标准由国务院退役军人工作主管部门、中央军事委员会政治工作部门会同国务院财政部门……确定，并适时调整」。增发比例分五档。获得勋章、荣誉称号增发 25%，一等战功或一级表彰 20%。二等战功、一等功或二级表彰 15%。三等战功或二等功 10%，四等战功或三等功 5%。该条例还写着：「退役军人未及时就业的，可以依法向户口所在地人力资源社会保障部门申领失业保险待遇，服现役年限视同参保缴费年限，但是以退休、供养方式安置的退役军人除外」。视同缴费年限的意思是，这几年你没交过钱，也按交过算。第二笔看《退役军人保障法》：「退役军人服现役年限计算为工龄，退役后与所在单位工作年限累计计算」。工龄就是参加工作的年数，服役这几年和退役后的年数接着往上加。该法还写着，服现役年限与入伍前、退役后的养老、医疗、失业缴费年限「依法合并计算」，「退役的军士和义务兵服现役经历视为基层工作经历」。《军人保险法》：「军人服现役年限视同职工基本医疗保险缴费年限，与入伍前和退出现役后参加职工基本医疗保险的缴费年限合并计算」。第三笔看财政部、税务总局、退役军人事务部 2023 年第 14 号公告。公告写的是自主就业退役士兵从事个体经营的情形：「在 3 年（36 个月，下同）内按每户每年 20000 元为限额依次扣减其当年实际应缴纳的增值税、城市维护建设税、教育费附加、地方教育附加和个人所得税。限额标准最高可上浮 20%」。扣减就是从当年该交的这几种税里按顺序往下减，减到限额为止，不是发给你的钱。企业招用的「定额标准为每人每年 6000 元，最高可上浮 50%」。执行期为 2023 年 1 月 1 日至 2027 年 12 月 31 日。到期未满 3 年的可继续享受至期满（全国）",
+      "grade": "A",
+      "sources": "国务院、中央军委 (2024). 退役军人安置条例（国务院、中央军委令第 787 号，第二十一、二十二、七十四、八十一、八十五条）. <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969192.html>；退役军人事务部 (2020). 关于一次性退役金的十个问题（转载《中国退役军人》2020 年第 10 期）：「基本标准。士兵服现役每满一年，发给4500元」「退役金标准适时调整」. <https://www.mva.gov.cn/sy/zzxc/202011/t20201113_43153.html>；贵州省退役军人事务厅 (2024). 一次性退役金增发，重要变化！：「现在执行的标准是：士兵服现役每满一年，发给4500元」. <http://tyjrswt.guizhou.gov.cn/zfxxgk/fdzdgknr/zdlyxx_5621158/tyaz_5621161/202408/t20240809_85367194.html>；烟台市牟平区人民政府 (2025). 答复中引《烟台市退役军人事务局、烟台市财政局关于调整自主就业退役士兵一次性经济补助标准的通知》：「2024年退出现役的每服役一年补助6000元」. <https://www.muping.gov.cn/art/2025/11/10/art_105032_2960250.html>；全国人大常委会 (2020). 退役军人保障法（第四十二、四十四、五十条）. <http://www.mod.gov.cn/gfbw/fgwx/flfg/16048597.html>（国防部刊登）；全国人大常委会 (2012). 军人保险法（第十六、二十三条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf73e160645>（国家法律法规数据库）；财政部、税务总局、退役军人事务部 (2023). 关于进一步扶持自主就业退役士兵创业就业有关税收政策的公告（2023 年第 14 号）. <https://www.gov.cn/zhengce/zhengceku/202308/content_6896456.htm>",
+      "notes": "条例只写了金额由主管部门另定。能查到的官方数字是退役军人事务部官网 2020 年刊文里的「服现役每满一年，发给4500元」，同一篇也写着「适时调整」。那篇文章里的增发比例已经和现行条例对不上，要以条例为准。贵州省退役军人事务厅 2024 年 8 月刊文，在新条例之下仍写「现在执行的标准是：士兵服现役每满一年，发给4500元」。TODO（待核实：没找到正式的标准文件，只能确认到 2024 年 8 月省级部门仍这么写）。另外别把地方的「一次性经济补助」和它混在一起。那是各地自己定、自己发的另一笔钱，比如烟台 2024 年退役的每服役一年补助 6000 元。攻略上的新数字多数没有出处，有的就是把这两笔混在了一起。义务兵服役期间，家里还能另领一笔家庭优待金。兵役法只写「标准由地方人民政府制定，中央财政给予定额补助」，具体多少问批准你入伍的那个县级人民政府。税那一笔是每年最多能少交多少税，不是发到你手里的钱。生意没做起来就用不满，所以整条的收益量级只定「中」。2026 年 8 月 1 日起施行的《退役军人就业创业促进条例》另加了一条：服役期间考到的技能人员职业资格证书，退役后全国通用。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 6,
+    "title": "Ba khoản sau xuất ngũ: tiền xuất ngũ một lần, quân ngũ tính vào thâm niên làm việc, tự kinh doanh được giảm thuế 20000 nhân dân tệ mỗi năm",
+    "fields": {
+      "cost": "Không tốn tiền. Khi bạn xuất ngũ, quân đội chuyển hồ sơ bảo hiểm xã hội và tiền ra. Bạn đến cơ quan thực hiện bảo hiểm xã hội tại nơi tiếp nhận, tức quầy giải quyết bảo hiểm, để làm thủ tục nối tiếp.",
+      "plain": "Sau xuất ngũ có ba khoản cần tính. Thứ nhất là tiền xuất ngũ một lần cho diện tự tìm việc, trả theo số năm tại ngũ; người có công được trả thêm. Thứ hai, những năm đi lính không phải khoảng trống bảo hiểm xã hội: quân ngũ được tính vào thâm niên làm việc, số năm đóng cộng chung với trước nhập ngũ và sau xuất ngũ. Thứ ba là thuế: nếu tự mở cửa hàng kinh doanh, trong 3 năm có thể giảm tối đa 20000 nhân dân tệ tiền thuế mỗi năm.",
+      "benefit": "Khoản thứ nhất xem Điều lệ Bố trí cựu quân nhân: «Đối với quân nhân chuyên nghiệp cấp hạ sĩ quan và lính nghĩa vụ xuất ngũ tự tìm việc, trả tiền xuất ngũ một lần theo số năm phục vụ tại ngũ». Ai trả khoản này: «Ngân sách trung ương bố trí riêng; mức cụ thể do cơ quan phụ trách cựu quân nhân thuộc Quốc vụ viện, cơ quan công tác chính trị thuộc Quân ủy Trung ương cùng cơ quan tài chính thuộc Quốc vụ viện… xác định và điều chỉnh thích hợp». Tỷ lệ trả thêm chia năm bậc: được huân chương hoặc danh hiệu vinh dự tăng 25%; chiến công hạng nhất hoặc tuyên dương cấp một tăng 20%; chiến công hạng hai, công trạng hạng nhất hoặc tuyên dương cấp hai tăng 15%; chiến công hạng ba hoặc công trạng hạng hai tăng 10%; chiến công hạng tư hoặc công trạng hạng ba tăng 5%. Điều lệ còn ghi: «Cựu quân nhân chưa kịp có việc làm có thể xin hưởng chế độ bảo hiểm thất nghiệp tại cơ quan nhân lực và an sinh xã hội nơi có hộ khẩu theo luật; số năm tại ngũ được coi là số năm tham gia đóng bảo hiểm, trừ cựu quân nhân được bố trí theo chế độ nghỉ hưu hoặc nuôi dưỡng». Được coi là số năm đóng nghĩa là dù những năm đó không đóng tiền vẫn tính như đã đóng. Khoản thứ hai xem Luật Bảo đảm cựu quân nhân: «Số năm tại ngũ được tính vào thâm niên làm việc, cộng với số năm làm việc tại đơn vị sau xuất ngũ». Thâm niên là số năm đã đi làm; những năm phục vụ được cộng tiếp với số năm sau xuất ngũ. Luật còn ghi số năm tại ngũ và số năm đóng bảo hiểm hưu trí, y tế, thất nghiệp trước nhập ngũ và sau xuất ngũ «được gộp tính theo luật»; «kinh nghiệm tại ngũ của quân nhân chuyên nghiệp cấp hạ sĩ quan và lính nghĩa vụ đã xuất ngũ được coi là kinh nghiệm công tác cơ sở». Luật Bảo hiểm quân nhân: «Số năm tại ngũ được coi là số năm đóng bảo hiểm y tế cơ bản của người lao động, gộp với số năm tham gia đóng bảo hiểm y tế cơ bản của người lao động trước nhập ngũ và sau xuất ngũ». Khoản thứ ba xem thông báo số 14 năm 2023 của Bộ Tài chính, Tổng cục Thuế và Bộ Cựu chiến binh. Văn bản nói về binh sĩ xuất ngũ tự tìm việc thực hiện kinh doanh cá thể: «Trong 3 năm, tức 36 tháng, dưới đây cũng vậy, với hạn mức 20000 nhân dân tệ mỗi hộ mỗi năm, lần lượt khấu trừ các khoản thực phải nộp trong năm gồm thuế giá trị gia tăng, thuế duy tu xây dựng đô thị, phụ thu giáo dục, phụ thu giáo dục địa phương và thuế thu nhập cá nhân. Hạn mức có thể tăng tối đa 20%». Khấu trừ là trừ lần lượt vào các loại thuế phải nộp trong năm đến hết hạn mức, không phải tiền phát cho bạn. Với doanh nghiệp tuyển dụng, «định mức là 6000 nhân dân tệ mỗi người mỗi năm, có thể tăng tối đa 50%». Thời gian áp dụng từ ngày 1 tháng 1 năm 2023 đến ngày 31 tháng 12 năm 2027. Khi chính sách hết hạn mà chưa hưởng đủ 3 năm thì được hưởng tiếp đến đủ hạn (toàn quốc).",
+      "grade": "A",
+      "sources": "国务院、中央军委 (2024). 退役军人安置条例（国务院、中央军委令第 787 号，第二十一、二十二、七十四、八十一、八十五条）. <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969192.html>；退役军人事务部 (2020). 关于一次性退役金的十个问题（转载《中国退役军人》2020 年第 10 期）：「基本标准。士兵服现役每满一年，发给4500元」「退役金标准适时调整」. <https://www.mva.gov.cn/sy/zzxc/202011/t20201113_43153.html>；贵州省退役军人事务厅 (2024). 一次性退役金增发，重要变化！：「现在执行的标准是：士兵服现役每满一年，发给4500元」. <http://tyjrswt.guizhou.gov.cn/zfxxgk/fdzdgknr/zdlyxx_5621158/tyaz_5621161/202408/t20240809_85367194.html>；烟台市牟平区人民政府 (2025). 答复中引《烟台市退役军人事务局、烟台市财政局关于调整自主就业退役士兵一次性经济补助标准的通知》：「2024年退出现役的每服役一年补助6000元」. <https://www.muping.gov.cn/art/2025/11/10/art_105032_2960250.html>；全国人大常委会 (2020). 退役军人保障法（第四十二、四十四、五十条）. <http://www.mod.gov.cn/gfbw/fgwx/flfg/16048597.html>（国防部刊登）；全国人大常委会 (2012). 军人保险法（第十六、二十三条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf73e160645>（国家法律法规数据库）；财政部、税务总局、退役军人事务部 (2023). 关于进一步扶持自主就业退役士兵创业就业有关税收政策的公告（2023 年第 14 号）. <https://www.gov.cn/zhengce/zhengceku/202308/content_6896456.htm>",
+      "notes": "Điều lệ chỉ ghi mức tiền do cơ quan chủ quản quy định riêng. Số chính thức tra được là bài đăng năm 2020 trên trang Bộ Cựu chiến binh: «Mỗi năm phục vụ tại ngũ đủ một năm, được trả 4500 nhân dân tệ»; cùng bài cũng ghi «điều chỉnh thích hợp». Tỷ lệ trả thêm trong bài đó đã không khớp điều lệ hiện hành, phải theo điều lệ. Bài tháng 8 năm 2024 của Sở Cựu chiến binh tỉnh Quý Châu, theo điều lệ mới, vẫn ghi «mức hiện đang áp dụng: binh sĩ mỗi năm phục vụ tại ngũ đủ một năm được trả 4500 nhân dân tệ». TODO (cần xác minh: chưa tìm được văn bản chính thức quy định mức, chỉ xác nhận được đến tháng 8 năm 2024 cơ quan cấp tỉnh vẫn viết như vậy). Đừng nhầm với «trợ cấp kinh tế một lần» của địa phương. Đó là khoản khác do mỗi nơi tự định, tự chi; ví dụ người xuất ngũ năm 2024 tại Yên Đài được trợ cấp 6000 nhân dân tệ cho mỗi năm phục vụ. Phần lớn số mới trong hướng dẫn không có nguồn, một số gộp nhầm hai khoản này. Trong thời gian lính nghĩa vụ phục vụ, gia đình còn được nhận riêng tiền ưu đãi gia đình. Luật Nghĩa vụ quân sự chỉ ghi «mức do chính quyền địa phương quy định, ngân sách trung ương hỗ trợ theo định mức»; muốn biết cụ thể hãy hỏi chính quyền cấp huyện đã phê duyệt bạn nhập ngũ. Khoản thuế là mức tối đa có thể bớt nộp mỗi năm. Nếu kinh doanh chưa phát triển thì không dùng hết, nên lợi ích toàn mục chỉ xếp «trung bình». Điều lệ Thúc đẩy việc làm và khởi nghiệp của cựu quân nhân có hiệu lực từ ngày 1 tháng 8 năm 2026 bổ sung: chứng chỉ trình độ nghề cho lao động kỹ năng đạt trong thời gian tại ngũ có giá trị toàn quốc sau xuất ngũ."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

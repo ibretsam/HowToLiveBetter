@@ -1,0 +1,30 @@
+{
+  "id": "e-20-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "703653d282cae8c1f357eb05517994f19c7a4d88e66cf2baf141d4d126e919d0",
+  "status": "pending",
+  "original": {
+    "number": 16,
+    "title": "孩子出生后就每天喂 400 国际单位维生素 D，吃母乳的尤其别漏，足月的 6 个月内一般不用另补钙",
+    "fields": {
+      "cost": "维生素 D 滴剂一瓶几十元，每天滴一次。难在要天天记着，至少喂到 1 岁",
+      "plain": "母乳里维生素 D 很少，婴儿又不宜多晒太阳，所以要每天补。土耳其农村没补的孩子一年里有 3.8% 得了佝偻病，补了的一个都没有。量按医生说的给。正常足月的孩子 6 个月以内一般不用另外补钙。",
+      "benefit": "Cochrane 2020 年的综述说，母乳里的维生素 D 含量低，只吃母乳的婴儿容易不够。美国儿科学会说，孩子在外面待久了要防晒，所以所有婴儿都要补维生素 D。国家卫健委 2020 年的喂养核心信息写的是：「婴儿从出生开始，应当在医生指导下每天补充维生素D 400-800国际单位」。同一段还写着：「正常足月婴儿出生后6个月内一般不用补充钙剂」。2016 年的佝偻病全球共识有 11 个国际学术组织参加。共识说，每天 400 IU（10 微克）足以预防佝偻病。所有婴儿从出生到 12 个月都要补，不管吃母乳还是吃配方奶。这是强推荐，证据质量中等。土耳其东北部农村一项研究里，每天补 400 IU 的孩子没有人得佝偻病。没补的孩子，12 个月里新得佝偻病的占 3.8%。共识还说，全世界没有每天按时补 400 IU 的婴儿拍片确诊佝偻病的报告。中国 1992 年在南北四个城市做过一项分组研究，每天补 100、200 或 400 IU。到 6 个月，三组都没有孩子得佝偻病。但北方新生儿脐血里的维生素 D 只有南方的约三分之一（12.5 对 35.0 nmol/L）。补得越多，6 个月时的水平越高，作者建议每天补 400 IU",
+      "grade": "B",
+      "sources": "国家卫生健康委办公厅 (2020). 婴幼儿喂养健康教育核心信息. <https://www.gov.cn/zhengce/zhengceku/2020-08/01/content_5531915.htm>；Munns CF, Shaw N, Kiely M, et al. (2016). Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. Journal of Clinical Endocrinology & Metabolism, 101(2), 394-415. <https://doi.org/10.1210/jc.2015-2175>；Beser E, Cakmakci T (1994). Factors affecting the morbidity of vitamin D deficiency rickets and primary protection. East African Medical Journal, 71(6), 358-362. <https://europepmc.org/article/MED/7835254>；Specker BL, Ho ML, Oestreich A, et al. (1992). Prospective study of vitamin D supplementation and rickets in China. Journal of Pediatrics, 120(5), 733-739. <https://doi.org/10.1016/s0022-3476(05)80236-7>；Tan ML, Abrams SA, Osborn DA (2020). Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health. Cochrane Database of Systematic Reviews, 12, CD013046. <https://doi.org/10.1002/14651858.CD013046.pub2>；American Academy of Pediatrics (2022). Where We Stand: Vitamin D & Iron Supplements for Babies. HealthyChildren.org. <https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx>；Gallo S, Comeau K, Vanstone C, et al. (2013). Effect of different dosages of oral vitamin D supplementation on vitamin D status in healthy, breastfed infants: a randomized trial. JAMA, 309(17), 1785-1792. <https://doi.org/10.1001/jama.2013.3404>",
+      "notes": "定 B 是因为防佝偻病的数字来自没有随机分组的比较。Cochrane 2020 年合并了给婴儿补的试验。每天补 400 IU，维生素 D 不足的孩子少约四成（RR 0.57）。但试验都小，看不出佝偻病少没少。收益定中凭判断，因为国内婴儿佝偻病有多常见没查到。吃配方奶的说法不一。美国儿科学会说，每天喝超过约 800 毫升（27 盎司）加了维生素 D 的配方奶，就不用另补。国内核心信息写的是所有婴儿都补，具体按医生说的来。别自己加量：加拿大一项试验里，每天 1600 IU 那组血里维生素 D 太高，提前停了。400 到 1200 IU 几组的长个和骨头没有差别。不缺维生素 D 的成人别为长寿去补，见第 6 节第 3 条（不缺维生素 D 的人）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

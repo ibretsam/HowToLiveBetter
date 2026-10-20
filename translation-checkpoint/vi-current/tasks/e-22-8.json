@@ -1,0 +1,48 @@
+{
+  "id": "e-22-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "6398cc5e3f4d9caff87074abe7178a3544767735be7187eea20c9bae7b9e0d15",
+  "status": "outdated",
+  "original": {
+    "number": 8,
+    "title": "当场想缓过来，用 5 分钟「循环叹息」：吸气两段，呼气拉长",
+    "fields": {
+      "cost": "不花钱。每天 5 分钟。",
+      "plain": "每天做 5 分钟呼吸练习、坚持一个月，情绪改善和呼吸放慢都比同样时长的正念冥想好。几种呼吸法里，把呼气拉长的「循环叹息」最好。做法是用鼻子吸一口，再补吸一小口把肺撑满，然后用嘴慢慢吐尽。这只是一项试验，好坏靠本人自己报，但不花钱。",
+      "benefit": "这是一项在家做、随机分组的对照试验，比较三种每天 5 分钟的呼吸练习和同样时长的正念冥想，持续 1 个月。三种呼吸法是：循环叹息（强调延长呼气）、箱式呼吸（吸气、屏息、呼气等长）、带屏息的循环过度换气（吸气长、呼气短）。把各人各次的数据放在一起算（混合效应模型），呼吸练习都好过正念冥想，尤其是以呼气为主的循环叹息。它在情绪改善（P<0.05，即这点差别不像是碰巧撞出来的）和呼吸频率下降（P<0.05）上都更好",
+      "grade": "B",
+      "sources": "Balban MY, Neri E, Kogon MM, et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine, 4(1), 100895. <https://doi.org/10.1016/j.xcrm.2022.100895>",
+      "notes": "做法是用鼻子吸一口，短暂再补吸一小口把肺撑满，然后用嘴把气缓慢长长地吐尽，重复 5 分钟。只有这一项试验，在家做，好不好由本人填问卷报，人数也不多。效果只是比冥想略好，算不上解决问题。但它不花钱，只要 5 分钟，随时随地能做，性价比高"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 8,
+    "title": "Muốn dịu lại ngay, dùng 5 phút “thở dài theo chu kỳ”: hít hai nhịp, kéo dài thở ra",
+    "fields": {
+      "cost": "Không tốn tiền. Mỗi ngày 5 phút.",
+      "plain": "Tập thở 5 phút/ngày trong một tháng cải thiện tâm trạng, làm chậm nhịp thở tốt hơn thiền chánh niệm cùng thời lượng. Trong các cách thở, “thở dài theo chu kỳ” kéo dài thở ra tốt nhất. Hít bằng mũi, hít bổ sung một chút cho đầy phổi rồi chậm rãi thở hết bằng miệng. Chỉ một thử nghiệm, tốt xấu tự báo, nhưng không mất tiền.",
+      "benefit": "Thử nghiệm đối chứng ngẫu nhiên tại nhà so ba kiểu tập thở 5 phút/ngày với thiền chánh niệm cùng thời lượng trong 1 tháng. Ba kiểu: thở dài theo chu kỳ (nhấn mạnh kéo dài thở ra), thở hộp (hít, nín, thở ra dài bằng nhau), tăng thông khí theo chu kỳ kèm nín (hít dài, thở ngắn). Gộp dữ liệu các lần, các người (mô hình hiệu ứng hỗn hợp), tập thở đều hơn thiền, nhất là thở dài theo chu kỳ thiên về thở ra. Tốt hơn về tâm trạng (P<0.05, khác biệt có vẻ không tình cờ) và giảm tần số thở (P<0.05)",
+      "grade": "B",
+      "sources": "Balban MY, Neri E, Kogon MM, et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine, 4(1), 100895. <https://doi.org/10.1016/j.xcrm.2022.100895>",
+      "notes": "Hít mũi một hơi, thêm hơi nhỏ ngắn cho đầy phổi, rồi thở miệng chậm, dài đến hết; lặp 5 phút. Chỉ một thử nghiệm, làm tại nhà, tự điền bảng hỏi đánh giá, số người không nhiều. Tác dụng chỉ hơi hơn thiền, không giải quyết vấn đề. Nhưng miễn phí, chỉ 5 phút, làm mọi nơi mọi lúc, hiệu quả so chi phí cao"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

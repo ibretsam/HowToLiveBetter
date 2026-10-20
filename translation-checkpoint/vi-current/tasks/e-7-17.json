@@ -1,0 +1,48 @@
+{
+  "id": "e-7-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "27a3acf3e651810d283db05e7d859804c55431044eea54bf68340ba0628d9429",
+  "status": "draft",
+  "original": {
+    "number": 17,
+    "title": "把住和吃压到最低：合租月租代替日租，自炊和助餐食堂代替外卖",
+    "fields": {
+      "cost": "找房要花 1 到 3 天。押金通常是 1 个月房租（作者粗估）。自己做饭，每天要占 30 到 60 分钟。难在天天自己动手做，忍住不点外卖。",
+      "plain": "2025 年全国人均消费里，吃占 29.3%，住占 21.7%，两项加起来过半，所以压这两项最有效。按作者的经验，日租房、钟点房折算到一个月，比合租贵；自己做饭比点外卖便宜。找工作时问清包不包吃住，包的岗位等于把这两大项抹掉。",
+      "benefit": "2025 年，全国居民平均每人一年花掉 29476 元（这叫人均消费支出）。其中食品烟酒 8631 元，占 29.3%。居住 6397 元，占 21.7%。两项加起来过半，所以压这两项最有效。老年助餐服务面向全体老年人开展，形式有老年食堂、老年餐桌、助餐点，困难老人另有差异化补贴。作个参照：截至 2026 年 1 月 1 日，各省第一档月最低工资最低是青海 2080 元，最高是上海 2740 元（全国，2025 至 2026 年）",
+      "grade": "B",
+      "sources": "国家统计局 (2026). 2025 年居民收入和消费支出情况. <https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962321.html>；民政部等十一部门 (2023). 积极发展老年助餐服务行动方案（民发〔2023〕58 号）. <https://www.gov.cn/govweb/zhengce/zhengceku/202310/content_6911233.htm>；四川省人力资源和社会保障厅 (2026). 全国各省、自治区、直辖市最低工资标准情况（截至 2026 年 1 月 1 日，转载人社部官网表）. <https://rst.sc.gov.cn/rst/ylbxjwjgzxx/2026/7/10/89a8ef06cc264d29b282d7c62f362a6b.shtml>",
+      "notes": "日租房、钟点房按月算比合租贵得多，这是经验判断，没有官方数字。老年助餐点对不对非老年人开放、价格多少，各地不同。找工作时问清是不是包吃住，包吃住的岗位能把这两大项直接抹掉。人社部的原表页面打不开，数字取自四川省人社厅的转载页。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Giảm tiền ăn ở xuống mức thấp nhất: thuê chung theo tháng thay vì thuê theo ngày, tự nấu ăn và ăn ở bếp ăn hỗ trợ thay vì gọi đồ ăn giao tận nơi",
+    "fields": {
+      "cost": "Tìm phòng mất 1 đến 3 ngày. Tiền cọc thường bằng 1 tháng tiền thuê (tác giả ước lượng). Tự nấu ăn mỗi ngày mất 30 đến 60 phút. Cái khó là ngày nào cũng phải tự tay nấu, kìm lòng không gọi đồ ăn giao tận nơi.",
+      "plain": "Trong chi tiêu bình quân đầu người toàn quốc năm 2025, ăn uống chiếm 29.3%, nhà ở chiếm 21.7%, cộng lại hơn một nửa, nên cắt giảm hai khoản này là hiệu quả nhất. Theo kinh nghiệm của tác giả, phòng thuê theo ngày, theo giờ quy ra một tháng thì đắt hơn thuê chung; tự nấu ăn rẻ hơn gọi đồ ăn giao tận nơi. Khi tìm việc hãy hỏi rõ có bao ăn ở không, vị trí có bao ăn ở coi như xóa được hai khoản lớn này.",
+      "benefit": "Năm 2025, cư dân toàn quốc bình quân mỗi người chi tiêu 29476 nhân dân tệ một năm (gọi là chi tiêu tiêu dùng bình quân đầu người). Trong đó thực phẩm, thuốc lá và rượu là 8631 nhân dân tệ, chiếm 29.3%; nhà ở 6397 nhân dân tệ, chiếm 21.7%. Hai khoản cộng lại hơn một nửa, nên cắt giảm hai khoản này là hiệu quả nhất. Dịch vụ hỗ trợ bữa ăn cho người cao tuổi được triển khai cho mọi người cao tuổi, với các hình thức như nhà ăn người cao tuổi, bàn ăn người cao tuổi, điểm hỗ trợ bữa ăn; người cao tuổi khó khăn còn có trợ cấp riêng tùy từng đối tượng. Để tham khảo: tính đến ngày 1 tháng 1 năm 2026, lương tối thiểu tháng bậc một thấp nhất trong các tỉnh là Thanh Hải 2080 nhân dân tệ, cao nhất là Thượng Hải 2740 nhân dân tệ (toàn quốc, 2025 đến 2026).",
+      "grade": "B",
+      "sources": "国家统计局 (2026). 2025 年居民收入和消费支出情况. <https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962321.html>；民政部等十一部门 (2023). 积极发展老年助餐服务行动方案（民发〔2023〕58 号）. <https://www.gov.cn/govweb/zhengce/zhengceku/202310/content_6911233.htm>；四川省人力资源和社会保障厅 (2026). 全国各省、自治区、直辖市最低工资标准情况（截至 2026 年 1 月 1 日，转载人社部官网表）. <https://rst.sc.gov.cn/rst/ylbxjwjgzxx/2026/7/10/89a8ef06cc264d29b282d7c62f362a6b.shtml>",
+      "notes": "Thuê phòng theo ngày, theo giờ mà tính theo tháng thì đắt hơn thuê chung nhiều, đây là nhận định dựa trên kinh nghiệm, không có số liệu chính thức. Điểm hỗ trợ bữa ăn người cao tuổi có mở cửa cho người chưa cao tuổi hay không, giá bao nhiêu, mỗi nơi một khác. Khi tìm việc hãy hỏi rõ có bao ăn ở không, vị trí bao ăn ở có thể xóa thẳng hai khoản lớn này. Trang bảng gốc của Bộ Nhân lực và An sinh xã hội không mở được, số liệu lấy từ trang đăng lại của Sở Nhân lực và An sinh xã hội tỉnh Tứ Xuyên."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

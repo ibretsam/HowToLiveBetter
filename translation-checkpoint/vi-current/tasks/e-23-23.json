@@ -1,0 +1,48 @@
+{
+  "id": "e-23-23",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "d2a170c1f30022216b1c247e760114bf4b664e048b9095d703c2a866d1a8f1a3",
+  "status": "outdated",
+  "original": {
+    "number": 23,
+    "title": "拿到职称不等于涨工资：先问清单位是按岗位比例评聘，还是评了不一定聘",
+    "fields": {
+      "cost": "不花钱。问一次单位人事部门就行。",
+      "plain": "职称是聘用、考核、晋升的依据，但评上和聘上是两回事。实行岗位管理的事业单位，一般在岗位比例内评。不实行岗位管理的单位可以评聘分开，评上了单位不一定给对应的岗位和工资。换单位、换地方后，职称可能要重新评或者确认。",
+      "benefit": "人社部令第 40 号第二条：职称评审结果是专业技术人才聘用、考核、晋升等的重要依据。2016 年的改革意见规定，全面实行岗位管理的事业单位，一般在岗位结构比例内开展职称评审。不实行岗位管理的单位，以及通用性强的系列和新兴职业，可以评聘分开。专业技术人才跨地区、跨单位流动时，职称按管理权限重新评审或者确认，国家另有规定的除外（全国）",
+      "grade": "B",
+      "sources": "人力资源和社会保障部令第 40 号 (2019). 职称评审管理暂行规定. <https://www.gov.cn/gongbao/content/2019/content_5437137.htm>：第二条、第二十九条；中共中央办公厅、国务院办公厅 (2016). 关于深化职称制度改革的意见. <https://www.gov.cn/gongbao/content/2017/content_5163445.htm>：「对于全面实行岗位管理、专业技术人才学术技术水平与岗位职责密切相关的事业单位，一般应在岗位结构比例内开展职称评审。对于不实行岗位管理的单位，以及通用性强、广泛分布在各社会组织的职称系列和新兴职业，可采用评聘分开方式。」",
+      "notes": "证据等级定 B，是因为文件只写了评聘怎么衔接，没有全国统一的「评上涨多少」的数字。能照着做的是：在事业单位和国企，先问人事部门本单位的岗位空缺和聘任规则。在私企，先问老板这张证认不认、加不加钱。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 23,
+    "title": "Có chức danh không đồng nghĩa tăng lương: hỏi đơn vị đánh giá/bổ nhiệm trong tỷ lệ vị trí hay có thể được đánh giá mà không bổ nhiệm",
+    "fields": {
+      "cost": "Không tốn tiền. Hỏi nhân sự một lần.",
+      "plain": "Chức danh là căn cứ tuyển, đánh giá, thăng tiến, nhưng được công nhận và được bổ nhiệm là hai việc. Đơn vị sự nghiệp thường đánh giá trong tỷ lệ vị trí nên được công nhận đa phần được bổ nhiệm. Đơn vị không quản theo vị trí có thể tách; được đánh giá chưa chắc có vị trí/lương tương ứng. Đổi đơn vị, địa phương có thể phải đánh giá hoặc xác nhận lại.",
+      "benefit": "Điều hai Lệnh số 40 Bộ Nhân lực: kết quả chức danh là căn cứ quan trọng tuyển dụng, đánh giá, thăng tiến nhân tài chuyên môn kỹ thuật. Ý kiến cải cách 2016 quy định đơn vị sự nghiệp quản lý toàn diện theo vị trí thường đánh giá trong tỷ lệ cơ cấu vị trí. Đơn vị không theo vị trí, hệ có tính dùng chung cao, nghề mới có thể tách đánh giá và bổ nhiệm. Nhân tài chuyển địa phương/đơn vị thì chức danh được đánh giá hoặc xác nhận lại theo thẩm quyền, trừ quy định quốc gia khác (toàn quốc)",
+      "grade": "B",
+      "sources": "人力资源和社会保障部令第 40 号 (2019). 职称评审管理暂行规定. <https://www.gov.cn/gongbao/content/2019/content_5437137.htm>：第二条、第二十九条；中共中央办公厅、国务院办公厅 (2016). 关于深化职称制度改革的意见. <https://www.gov.cn/gongbao/content/2017/content_5163445.htm>：「对于全面实行岗位管理、专业技术人才学术技术水平与岗位职责密切相关的事业单位，一般应在岗位结构比例内开展职称评审。对于不实行岗位管理的单位，以及通用性强、广泛分布在各社会组织的职称系列和新兴职业，可采用评聘分开方式。」",
+      "notes": "Bằng chứng B vì văn bản chỉ nói liên kết đánh giá, bổ nhiệm, không có số thống nhất “đạt tăng lương bao nhiêu”. Có thể làm: ở đơn vị sự nghiệp, doanh nghiệp nhà nước hỏi nhân sự vị trí trống, quy tắc bổ nhiệm. Ở tư nhân hỏi chủ có nhận chứng này, tăng tiền không."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-33-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "19e487ebc6480a16b2bc5c3653d029ec387775deddee229b4b2841f42ff14a3e",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "残疾人证办下来之后，去县级残联把能申请的东西一次问全",
+    "fields": {
+      "cost": "不花钱。去一趟县级残联，问一上午。后面要跑的部门不止一个。",
+      "plain": "残疾人证本身不发钱，它是一把钥匙。接在它后面的是好几笔各自独立的待遇，每一笔都要自己去申请，不会自动上门。第一次去残联，就把清单上的项目一项项问过来，比来回跑几趟省事。",
+      "benefit": "证接上的待遇至少六项，各有各的出处。困难残疾人生活补贴和重度残疾人护理补贴，见第 7 节第 8 条（两项补贴）。残疾儿童康复救助，见本节第 8 条（康复救助）。基本型辅助器具配置补贴，依据是《残疾预防和残疾人康复条例》第二十六条。家庭无障碍设施改造补贴，见本节第 9 条（坡道扶手和浴室改造）。按比例就业和就业服务，见本节第 10 条（主动说明持证）。个人所得税减征，见本节第 11 条（个税减征）。《残疾预防和残疾人康复条例》第二十六条还写明，国家通过实施重点康复项目为城乡贫困残疾人、重度残疾人提供基本康复服务，「按照国家有关规定对基本型辅助器具配置给予补贴」。第二十条规定，县级以上人民政府有关部门和残联应当利用社区资源，设立康复场所或者购买服务，开展康复指导、日常生活能力训练、康复护理、辅助器具配置、信息咨询和转介等社区康复工作（全国，2017 年 7 月 1 日起施行）。同一条例第二十一条规定，提供康复服务要先做需求评估，再按评估结果定个性化方案。国务院 2016 年的文件写的是，「有条件的地方可以对城乡贫困残疾人、重度残疾人基本型康复辅助器具配置给予补贴」。民政部等部门 2026 年的三年行动方案写明，要「规范和加强残疾人基本型辅助器具适配服务补贴制度」。工伤致残的走另一条路。《工伤保险辅助器具配置管理办法》管的是假肢、矫形器、假眼、假牙和轮椅这类。它规定要先经劳动能力鉴定委员会确认再配。安装、维修、训练的费用按规定由工伤保险基金付。没经确认自己配的、在非协议机构配的，经办机构不付钱",
+      "grade": "A",
+      "sources": "国务院 (2017). 残疾预防和残疾人康复条例（第二十条、第二十一条、第二十六条）. <https://www.gov.cn/zhengce/zhengceku/2017-02/27/content_5171308.htm>；国务院 (2016). 关于加快发展康复辅助器具产业的若干意见（国发〔2016〕60 号）. <https://www.gov.cn/zhengce/zhengceku/2016-10/27/content_5125001.htm>；民政部等 (2026). 康复辅助器具产业扩能提质三年行动方案（2026-2028年）（民函〔2026〕48 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7075249.htm>；人力资源社会保障部、民政部、国家卫生计生委令第 27 号 (2016). 工伤保险辅助器具配置管理办法（第二条、第十五条、第二十四条）. <https://www.gov.cn/gongbao/content/2016/content_5074060.htm>",
+      "notes": "办证本身的流程见第 24 节第 10 条（残疾人证）。轮椅、假肢、助听器这类，先问清楚补贴要走的评估和配置流程，再去买。工伤的那一套明文规定先确认后配置，自己先配的不报。工伤认定和劳动能力鉴定见第 19 节第 14 条（劳动能力鉴定）。辅助器具补贴，国务院文件写的是「有条件的地方可以」给，所以有没有、给多少由地方定。下面几条是作者经验：问的时候把每一项的名字记下来，回家按名字在当地残联官网和政府网站上再查一遍原文件，不要只听柜台上的口头说法。别指望一次问全，隔一年再去问一次，政策会变。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Có giấy chứng nhận khuyết tật rồi, đến Liên hiệp Người khuyết tật cấp huyện hỏi đủ các khoản có thể xin",
+    "fields": {
+      "cost": "Không tốn tiền. Đến Liên hiệp cấp huyện một buổi sáng để hỏi. Sau đó còn phải đi nhiều cơ quan.",
+      "plain": "Giấy chứng nhận tự nó không phát tiền, mà là chìa khóa. Phía sau là nhiều chế độ độc lập, mỗi khoản phải tự xin, không tự đến nhà. Lần đầu đến Liên hiệp, hỏi từng mục trong danh sách sẽ đỡ đi lại nhiều lần.",
+      "benefit": "Giấy chứng nhận mở ra ít nhất sáu chế độ, mỗi chế độ có căn cứ riêng. Một, trợ cấp sinh hoạt cho người khuyết tật khó khăn và trợ cấp chăm sóc người khuyết tật nặng, xem chương 7 mục 8 (hai trợ cấp). Hai, hỗ trợ phục hồi chức năng trẻ khuyết tật, xem mục 8 chương này (hỗ trợ phục hồi). Ba, trợ cấp thiết bị trợ giúp cơ bản, căn cứ điều hai mươi sáu Điều lệ Phòng ngừa khuyết tật và phục hồi chức năng người khuyết tật. Bốn, trợ cấp cải tạo nhà dễ tiếp cận, xem mục 9 (dốc, tay vịn, phòng tắm). Năm, việc làm theo tỷ lệ và dịch vụ việc làm, xem mục 10 (chủ động nói có giấy chứng nhận). Sáu, giảm thuế thu nhập cá nhân, xem mục 11 (giảm thuế cá nhân). Điều hai mươi sáu còn ghi nhà nước thực hiện dự án phục hồi trọng điểm để cung cấp dịch vụ cơ bản cho người khuyết tật nghèo thành thị, nông thôn và người khuyết tật nặng, ‘trợ cấp trang bị thiết bị trợ giúp cơ bản theo quy định nhà nước’. Điều hai mươi quy định cơ quan hữu quan từ cấp huyện và Liên hiệp phải dùng nguồn lực cộng đồng lập nơi phục hồi hoặc mua dịch vụ, triển khai hướng dẫn phục hồi, luyện khả năng sinh hoạt, chăm sóc phục hồi, trang bị thiết bị trợ giúp, tư vấn thông tin, chuyển tuyến… (toàn quốc, hiệu lực từ ngày 1 tháng 7 năm 2017).",
+      "grade": "A",
+      "sources": "国务院 (2017). 残疾预防和残疾人康复条例（第二十条、第二十六条）. <https://www.gov.cn/zhengce/zhengceku/2017-02/27/content_5171308.htm>",
+      "notes": "Thủ tục làm giấy xem chương 24 mục 10 (giấy chứng nhận khuyết tật). Mức trợ cấp và cách làm phần lớn do tỉnh quy định, cùng khoản ở hai tỉnh có thể khác vài lần. Khi hỏi hãy ghi tên từng khoản, về nhà tra nguyên văn theo tên trên trang Liên hiệp và chính quyền địa phương, đừng chỉ nghe quầy nói. Đừng nghĩ một lần là đủ; một năm sau hỏi lại vì chính sách thay đổi."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

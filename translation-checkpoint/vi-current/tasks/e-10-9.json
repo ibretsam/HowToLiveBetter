@@ -1,0 +1,48 @@
+{
+  "id": "e-10-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "40508f645c2dd0cb8f942814953eef67ddeb84a879011a7c8da25b0a54d98ce1",
+  "status": "outdated",
+  "original": {
+    "number": 9,
+    "title": "时间账按「无酬劳动」算，谈清分工再领证",
+    "fields": {
+      "cost": "不花钱。婚前花一两个小时，把家务、照料老小、谁的工作让步这些没报酬的活谈成明确分工，之后按分工执行。难在把话摊开谈，别拖着不说。",
+      "plain": "全国时间利用调查统计了家务和陪伴照料家人这类没报酬的活。当天做了的人里，男性每天平均 1 小时 52 分，女性 3 小时 29 分。调查没按结没结婚分组，所以「结了婚家务会多多少」没有官方数字，这个性别差距只能当上限参考。分工可以在领证前谈成另一个样子。",
+      "benefit": "2024 年全国时间利用调查。无酬劳动就是家务、陪伴照料家人这些没有报酬的活。当天做了这类活的人，每日平均花 2 小时 45 分，其中男性 1 小时 52 分、女性 3 小时 29 分。一天里做过这类活的人占多大比例，男性是 67.5%、女性是 83.9%。居民家务劳动每日平均 1 小时 17 分，只算做了的人是 1 小时 59 分，比 2018 年少 28 分。陪伴照料家人每日平均 30 分，只算做了的人是 1 小时 46 分。2018 年的数字是：家务劳动男性 45 分、女性 2 小时 6 分，陪伴照料孩子男性 17 分、女性 53 分",
+      "grade": "A",
+      "sources": "国家统计局 (2024). 第三次全国时间利用调查公报（第二号、第三号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>；国家统计局 (2019). 2018 年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>",
+      "notes": "两次调查都只按性别、城乡、年龄分组，没有按结没结婚分组。所以「结婚后家务会多多少」没有官方数字，只能用性别差距做上限参考。数字是全国平均，你们两个人的分工完全可以谈成另一个样子"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 9,
+    "title": "Tính thời gian theo “lao động không lương”, thống nhất phân công rồi mới đăng ký kết hôn",
+    "fields": {
+      "cost": "Không tốn tiền. Trước khi cưới dành một hai giờ, bàn rõ phân công những việc không được trả công như việc nhà, chăm sóc người già và trẻ nhỏ, công việc của ai sẽ nhường; sau đó làm theo đúng phân công. Cái khó là phải nói thẳng ra, đừng lần lữa không nói.",
+      "plain": "Khảo sát sử dụng thời gian toàn quốc cho thấy việc không lương như việc nhà, ở bên chăm gia đình: nam trung bình 1 giờ 52 phút/ngày, nữ 3 giờ 29 phút. Không phân nhóm tình trạng hôn nhân nên không có số chính thức “cưới làm tăng bao nhiêu việc nhà”; chênh giới chỉ tham khảo giới hạn trên. Hai người có thể thỏa thuận phân công khác trước đăng ký.",
+      "benefit": "Khảo sát sử dụng thời gian toàn quốc năm 2024: lao động không lương là việc nhà, ở bên chăm gia đình. Người có làm trong ngày trung bình 2 giờ 45 phút, nam 1 giờ 52 phút, nữ 3 giờ 29 phút. Tỷ lệ có làm trong ngày: nam 67.5%, nữ 83.9%. Việc nhà trung bình 1 giờ 17 phút/ngày; chỉ tính người có làm là 1 giờ 59 phút, ít hơn năm 2018 là 28 phút. Ở bên chăm gia đình trung bình 30 phút/ngày; chỉ tính người có làm là 1 giờ 46 phút. Năm 2018: việc nhà nam 45 phút, nữ 2 giờ 6 phút; ở bên chăm con nam 17 phút, nữ 53 phút.",
+      "grade": "A",
+      "sources": "国家统计局 (2024). 第三次全国时间利用调查公报（第二号、第三号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>；国家统计局 (2019). 2018 年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>",
+      "notes": "Cả hai khảo sát chỉ phân theo giới, thành thị/nông thôn, tuổi, không theo hôn nhân. Vì vậy không có số chính thức “cưới tăng bao nhiêu việc nhà”, chỉ dùng chênh giới tham khảo giới hạn trên. Đây là trung bình toàn quốc; hai người hoàn toàn có thể thỏa thuận cách khác."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

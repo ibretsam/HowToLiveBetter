@@ -1,0 +1,48 @@
+{
+  "id": "e-13-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "a84501df29cef32e6b6230d68b0b05f6d71ae7e4aac5bc934a8d2a11d7359dee",
+  "status": "outdated",
+  "original": {
+    "number": 13,
+    "title": "被狗、猫咬伤或抓破皮，先用肥皂水和流水交替冲 15 分钟，当天去打疫苗",
+    "fields": {
+      "cost": "冲洗不花钱。狂犬病疫苗全程几百元。三级暴露还要加打狂犬病被动免疫制剂（直接打进现成的抗体），几百到上千元。最贵的是耽误。",
+      "plain": "狂犬病一旦发病，病死率几乎 100%，所以被咬后冲洗和打疫苗都不能省。先用肥皂水和流动清水交替冲 15 分钟，当天去打疫苗。咬穿了、破皮的地方被舔，属于三级暴露，还要加打被动免疫制剂。「家养的、打过针的」不改变处置，级别按伤口定，不按狗的来历定。",
+      "benefit": "国家疾控局、国家卫健委 2023 年版规范原文：「狂犬病病死率几乎达 100%」。处置是「用肥皂水（或者其他弱碱性清洁剂）和一定压力的流动清水交替彻底冲洗所有咬伤和抓伤处约 15 分钟」。裸露皮肤被轻咬、无出血抓伤，是 II 级暴露，要打疫苗。贯穿性咬伤、破损皮肤被舔，是 III 级暴露，「应处置伤口并注射狂犬病被动免疫制剂和接种狂犬病疫苗」。WHO：全球每年约 5.9 万人死于狂犬病，99% 由狗传播",
+      "grade": "A",
+      "sources": "国家疾控局综合司、国家卫生健康委办公厅 (2023). 关于印发狂犬病暴露预防处置工作规范（2023 年版）的通知. <https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html> ; WHO. 狂犬病 实况报道. <https://www.who.int/zh/news-room/fact-sheets/detail/rabies>",
+      "notes": "不要因为「家养的、打过针的」就不处理。规范看的是伤口到了哪一级（暴露级别），不看狗的来历。不要自己包伤口。十日观察法只能决定要不要停针，不能决定要不要开始打。被野生动物、蝙蝠咬伤，同样这么处理。自己养狗的，按时给狗打狂犬病疫苗、出门系绳，见第 8 节第 30 条（养狗必须牵绳）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 13,
+    "title": "Bị chó, mèo cắn hoặc cào rách da, rửa luân phiên nước xà phòng và nước chảy 15 phút, tiêm vaccine trong ngày",
+    "fields": {
+      "cost": "Rửa miễn phí. Cả liệu trình vaccine dại vài trăm nhân dân tệ. Phơi nhiễm cấp ba còn cần chế phẩm miễn dịch thụ động, tức tiêm sẵn kháng thể, vài trăm đến hơn nghìn nhân dân tệ.",
+      "plain": "Dại đã phát bệnh gần như tử vong 100%; rửa và vaccine là con đường duy nhất. Rửa luân phiên nước xà phòng và nước sạch chảy 15 phút, đi tiêm trong ngày. Cắn xuyên da, da tổn thương bị liếm là phơi nhiễm cấp ba, cần thêm chế phẩm miễn dịch thụ động. “Nuôi trong nhà, đã tiêm” không đổi cách xử lý; cấp độ theo vết thương, không theo nguồn con chó.",
+      "benefit": "Quy chuẩn năm 2023 của Cục Kiểm soát bệnh tật Quốc gia và Ủy ban Y tế Quốc gia ghi: “Tỷ lệ tử vong bệnh dại gần 100%”. Xử lý là “luân phiên nước xà phòng hoặc chất rửa kiềm nhẹ khác với nước sạch chảy có áp lực nhất định, rửa kỹ mọi vết cắn, cào khoảng 15 phút”. Cắn nhẹ da trần, cào không chảy máu là phơi nhiễm II, cần vaccine. Cắn xuyên, liếm da rách là III, “phải xử lý vết thương, tiêm chế phẩm miễn dịch thụ động và vaccine dại”. WHO: toàn cầu khoảng 5.9 vạn người chết vì dại mỗi năm, 99% do chó truyền.",
+      "grade": "A",
+      "sources": "国家疾控局综合司、国家卫生健康委办公厅 (2023). 关于印发狂犬病暴露预防处置工作规范（2023 年版）的通知. <https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html> ; WHO. 狂犬病 实况报道. <https://www.who.int/zh/news-room/fact-sheets/detail/rabies>",
+      "notes": "Đừng bỏ xử lý vì “nuôi nhà, đã tiêm”. Quy chuẩn xét mức vết thương, không xét nguồn chó. Không tự băng vết thương. Theo dõi mười ngày chỉ giúp quyết định có dừng tiêm không, không quyết định có bắt đầu không. Động vật hoang dã, dơi cắn cũng xử lý như vậy."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

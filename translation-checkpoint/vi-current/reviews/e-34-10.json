@@ -1,0 +1,15 @@
+{
+  "id": "e-34-10",
+  "source_sha256": "bf53ccd4c5f5dda2119bc5e3384d4cab5483f5d3c37956455252a7d51c5a7bb2",
+  "draft_sha256": "39abc13b6bf90933ffa13234006a1c0b8800d1717d9c35d4387f57df88334925",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Bỏ từ chính xác khỏi giá trị ước tính 640161 để không tăng mức chắc chắn của nguồn. Đã đối chiếu các tỷ lệ, đơn vị vạn, hướng dẫn Thượng Hải và sự khác biệt với cách bỏ thuốc ở Mỹ. Giữ giới hạn số liệu cấp cứu không chứng minh hiệu quả dọn tủ thuốc."
+}

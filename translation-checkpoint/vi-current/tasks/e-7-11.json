@@ -1,0 +1,48 @@
+{
+  "id": "e-7-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "863b7f7a28e00e8f641bd64316b1c4d09df29e7af125e28293461ab2a87b5f7b",
+  "status": "draft",
+  "original": {
+    "number": 11,
+    "title": "身份证丢了立刻补办，急用先领临时身份证",
+    "fields": {
+      "cost": "要交证件工本费。这是法定收费，收多少由国家定，以当地公示的为准。到常住户口所在地的派出所申请，跑 1 趟。",
+      "plain": "补办的，从交表那天算起 60 天内发证。急用的，当场再申请一张临时身份证，3 天内发，有效期 3 个月。没有身份证，找工作、住宿、开户、领补贴全都办不成，它是所有手续的前提。",
+      "benefit": "从你交上《居民身份证申领登记表》那天算起，公安机关要在 60 日内发证。新办、换证、补办的这段时间里，如果急着用证，可以申请一张临时居民身份证。公安机关收到申请后 3 日内发放，有效期 3 个月（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2003). 居民身份证法（主席令第四号，第十二、二十条）. <https://www.gov.cn/gongbao/content/2003/content_62254.htm>；公安部 (2005). 临时居民身份证管理办法（公安部令第 78 号，第二、七、九、十二、十七条）. <https://www.gov.cn/zhengce/2021-12/25/content_5712922.htm>",
+      "notes": "没有身份证，找工作、住宿、开户、领补贴都办不了，这是所有手续的前置条件。身份证法 2011 年有过修正，本条所引的是 2003 年公布的文本，条款以现行的为准。能不能异地办理，以当地公安的公告为准。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 11,
+    "title": "Mất căn cước thì làm lại ngay, cần dùng gấp thì xin căn cước tạm thời trước",
+    "fields": {
+      "cost": "Phải nộp phí làm giấy tờ. Đây là khoản thu theo luật, mức thu do nhà nước định, lấy theo niêm yết của địa phương. Nộp đơn tại đồn công an nơi đăng ký hộ khẩu thường trú, đi 1 lần.",
+      "plain": "Làm lại căn cước thì được cấp trong 60 ngày kể từ ngày nộp tờ khai. Nếu cần gấp, xin thêm ngay tại chỗ một căn cước tạm thời, được cấp trong 3 ngày, có hiệu lực 3 tháng. Không có căn cước thì tìm việc, thuê chỗ ở, mở tài khoản ngân hàng, nhận trợ cấp đều không làm được; căn cước là điều kiện tiên quyết của mọi thủ tục.",
+      "benefit": "Kể từ ngày bạn nộp “Phiếu đăng ký xin cấp căn cước cư dân”, cơ quan công an phải cấp trong vòng 60 ngày. Trong thời gian làm mới, đổi hoặc cấp lại, nếu cần dùng gấp thì có thể xin một căn cước cư dân tạm thời. Cơ quan công an cấp trong vòng 3 ngày kể từ khi nhận đơn, có hiệu lực 3 tháng (toàn quốc).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2003). 居民身份证法（主席令第四号，第十二、二十条）. <https://www.gov.cn/gongbao/content/2003/content_62254.htm>；公安部 (2005). 临时居民身份证管理办法（公安部令第 78 号，第二、七、九、十二、十七条）. <https://www.gov.cn/zhengce/2021-12/25/content_5712922.htm>",
+      "notes": "Không có căn cước thì tìm việc, thuê chỗ ở, mở tài khoản, nhận trợ cấp đều không làm được; đây là điều kiện tiên quyết của mọi thủ tục. Luật Căn cước cư dân đã được sửa đổi năm 2011, mục này trích văn bản công bố năm 2003, điều khoản cụ thể lấy theo bản hiện hành. Có làm được ở nơi khác hay không, lấy theo thông báo của công an địa phương."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

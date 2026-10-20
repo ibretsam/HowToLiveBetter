@@ -1,0 +1,48 @@
+{
+  "id": "e-19-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "a738e02c308f2c3d4e99bbd239486b145f6ed9279f34d77095a979950ae3819a",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱",
+    "fields": {
+      "cost": "不花钱。走一次劳动能力鉴定的流程，前后要等一段时间。",
+      "plain": "伤情稳定之后去做劳动能力鉴定，等级直接换算成钱。一次性伤残补助金按本人工资算，五级 18 个月、六级 16 个月、七级 13 个月。八级 11 个月、九级 9 个月、十级 7 个月。鉴定结果出来之前，不要签「一次性了结」的协议。",
+      "benefit": "一次性伤残补助金按伤残等级折算成几个月的工资，一次付清。五级 18 个月、六级 16 个月、七级 13 个月的本人工资。八级 11 个月、九级 9 个月、十级 7 个月的本人工资",
+      "grade": "A",
+      "sources": "工伤保险条例第二十一条「经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行劳动能力鉴定」；第二十二条「劳动功能障碍分为十个伤残等级，最重的为一级，最轻的为十级」；第三十六条五、六级待遇（一次性伤残补助金 18/16 个月本人工资，按月伤残津贴为本人工资的 70%/60%）；第三十七条七至十级待遇（13/11/9/7 个月本人工资）. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>",
+      "notes": "五级、六级保留劳动关系，人还算这家单位的员工，按月拿伤残津贴。七到十级的人，合同到期或者自己提出解除时，另有两笔钱。一次性工伤医疗补助金由基金出，一次性伤残就业补助金由单位出，给多少由省里定。鉴定结果出来之前不要签「一次性了结」的协议。工伤配假肢、轮椅这类辅助器具要先经劳动能力鉴定委员会确认，见第 33 节第 7 条（去县级残联问全）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Sau khi thương tích ổn định, giám định khả năng lao động; cấp thương tật quy trực tiếp ra tiền",
+    "fields": {
+      "cost": "Không tốn tiền. Làm quy trình giám định khả năng lao động, phải chờ một thời gian.",
+      "plain": "Thương tích ổn định thì giám định khả năng lao động; cấp trực tiếp quy ra tiền. Trợ cấp thương tật một lần theo lương bản thân: cấp năm 18 tháng, cấp sáu 16 tháng, cấp bảy 13 tháng, cấp tám 11 tháng, cấp chín 9 tháng, cấp mười 7 tháng. Trước khi có kết quả, đừng ký thỏa thuận “giải quyết dứt điểm một lần”.",
+      "benefit": "Trợ cấp thương tật một lần quy cấp thương tật thành số tháng lương, trả một lần. Cấp năm 18 tháng, cấp sáu 16 tháng, cấp bảy 13 tháng lương bản thân; cấp tám 11 tháng, cấp chín 9 tháng, cấp mười 7 tháng",
+      "grade": "A",
+      "sources": "工伤保险条例第二十一条「经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行劳动能力鉴定」；第二十二条「劳动功能障碍分为十个伤残等级，最重的为一级，最轻的为十级」；第三十六条五、六级待遇（一次性伤残补助金 18/16 个月本人工资，按月伤残津贴为本人工资的 70%/60%）；第三十七条七至十级待遇（13/11/9/7 个月本人工资）. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>",
+      "notes": "Cấp năm, sáu giữ quan hệ lao động, vẫn là nhân viên đơn vị và nhận trợ cấp thương tật hằng tháng. Cấp bảy đến mười, khi hợp đồng hết hạn hoặc tự đề nghị chấm dứt còn hai khoản: trợ cấp y tế tai nạn lao động một lần do quỹ trả, trợ cấp việc làm thương tật một lần do đơn vị trả; mức do tỉnh quy định. Trước khi có kết quả giám định đừng ký “giải quyết dứt điểm một lần”."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

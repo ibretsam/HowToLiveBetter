@@ -1,0 +1,48 @@
+{
+  "id": "e-26-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "100c45ff431703084332d840b0f2e116f6425d054c30e1c11053100ff41be4ee",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "提供信息发布、即时通讯服务，必须要求用户提供真实身份信息",
+    "fields": {
+      "cost": "要接一条实名核验通道，这类通道按次收费。产品上按「后台实名、前台自愿」来设计：后台存真名，页面上显示昵称",
+      "plain": "你的网站能发帖，或者能聊天，就要在用户开通服务时要他的真实身份信息。不给的，不能让他用。直播的规定是后台存真名，页面上显示什么昵称由他自己定，可以用手机号核验。不做实名的，先责令改正。不改的罚 5 万到 50 万元，还可能关站。",
+      "benefit": "法律原话是「网络运营者为用户办理网络接入、域名注册服务，办理固定电话、移动电话等入网手续，或者为用户提供信息发布、即时通讯等服务，在与用户签订协议或者确认提供服务时，应当要求用户提供真实身份信息。用户不提供真实身份信息的，网络运营者不得为其提供相关服务」。没要实名的，或者用户没给真实身份、你还照样让他用的，责令改正。拒不改正、或者情节严重的，罚 5 万到 50 万元。还可能被责令暂停相关业务、停业整顿、关闭网站或者应用程序、吊销许可证或者营业执照。直接负责的人另外罚 1 万到 10 万元。直播服务按「后台实名、前台自愿」的原则，做「基于移动电话号码等方式的真实身份信息认证」。意思是平台后台存着用户的真名，页面上显示什么昵称由用户自己定，核验靠手机号一类方式。直播带货要求更严，是「基于身份证件信息、统一社会信用代码等真实身份信息认证」。统一社会信用代码就是营业执照上那串号（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 网络安全法（2025 年修正，2026 年 1 月 1 日施行，第二十六、六十四条；2016 年文本为第二十四、六十一条）. <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm> ; 国家互联网信息办公室 (2016). 互联网直播服务管理规定（第十二、十六条）. <https://www.cac.gov.cn/2016-11/04/c_1119847629.htm> ; 国家网信办等七部门 (2021). 网络直播营销管理办法（试行）（国信办发文〔2021〕5 号，第八条）. <https://www.gov.cn/zhengce/zhengceku/2021-04/23/content_5601682.htm>",
+      "notes": "条号换过位置。网络安全法 2025 年修正，2026 年 1 月 1 日施行。实名这一条从第二十四条移到了第二十六条，罚则从第六十一条移到了第六十四条。条文文字没变。你手上的材料如果还引旧条号，要改过来"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Cung cấp dịch vụ đăng thông tin hoặc nhắn tin tức thời thì phải yêu cầu người dùng cung cấp danh tính thật",
+    "fields": {
+      "cost": "Cần tích hợp một kênh xác thực danh tính, loại kênh này thu phí theo lượt. Thiết kế sản phẩm theo nguyên tắc «danh tính thật ở phía quản trị, phía hiển thị tự nguyện»: hệ thống lưu tên thật, trên trang hiển thị biệt danh",
+      "plain": "Website cho đăng bài hoặc trò chuyện thì phải lấy thông tin danh tính thật khi mở dịch vụ cho người dùng. Không cung cấp thì không được cho dùng. Cách làm là lưu tên thật ở hệ thống quản trị, còn biệt danh hiển thị do họ chọn; dùng số điện thoại để xác thực là được. Không thực hiện danh tính thật thì trước hết bị buộc sửa; không sửa bị phạt từ 5 vạn đến 50 vạn nhân dân tệ, có thể đóng website.",
+      "benefit": "Nguyên văn luật: «Khi làm thủ tục truy cập mạng, đăng ký tên miền, hòa mạng điện thoại cố định, di động hoặc cung cấp dịch vụ đăng thông tin, nhắn tin tức thời, nhà vận hành mạng phải yêu cầu người dùng cung cấp thông tin danh tính thật khi ký thỏa thuận hoặc xác nhận cung cấp dịch vụ. Nếu người dùng không cung cấp thì không được cung cấp dịch vụ liên quan». Không yêu cầu tên thật hoặc người dùng không cung cấp mà vẫn cho dùng thì bị buộc sửa. Từ chối sửa hoặc nghiêm trọng bị phạt từ 5 vạn đến 50 vạn nhân dân tệ, có thể bị buộc tạm dừng dịch vụ, ngừng hoạt động chấn chỉnh, đóng website hoặc ứng dụng, thu hồi giấy phép hoặc giấy đăng ký kinh doanh. Người trực tiếp chịu trách nhiệm bị phạt riêng từ 1 vạn đến 10 vạn. Livestream theo nguyên tắc «danh tính thật ở phía quản trị, phía hiển thị tự nguyện», thực hiện «xác thực thông tin danh tính thật bằng số điện thoại di động và phương thức tương tự». Nghĩa là hệ thống lưu tên thật, biệt danh hiển thị do người dùng chọn; dùng số điện thoại và các cách tương tự để xác thực. Livestream bán hàng nghiêm hơn: «xác thực thông tin danh tính thật dựa vào giấy tờ căn cước, mã tín dụng xã hội thống nhất và thông tin tương tự». Mã này là dãy số trên giấy đăng ký kinh doanh (toàn quốc)",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 网络安全法（2025 年修正，2026 年 1 月 1 日施行，第二十六、六十四条；2016 年文本为第二十四、六十一条）. <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm> ; 国家互联网信息办公室 (2016). 互联网直播服务管理规定（第十二、十六条）. <https://www.cac.gov.cn/2016-11/04/c_1119847629.htm> ; 国家网信办等七部门 (2021). 网络直播营销管理办法（试行）（国信办发文〔2021〕5 号，第八条）. <https://www.gov.cn/zhengce/zhengceku/2021-04/23/content_5601682.htm>",
+      "notes": "Số điều đã thay đổi. Luật an ninh mạng sửa năm 2025, có hiệu lực ngày 1 tháng 1 năm 2026. Điều về danh tính thật chuyển từ Điều hai mươi bốn sang Điều hai mươi sáu; chế tài chuyển từ Điều sáu mươi mốt sang Điều sáu mươi bốn. Nội dung không thay đổi. Tài liệu còn dẫn số điều cũ thì cần sửa"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

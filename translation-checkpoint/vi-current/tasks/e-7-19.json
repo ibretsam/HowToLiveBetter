@@ -1,0 +1,48 @@
+{
+  "id": "e-7-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "eec67a2dd8247fc3994c610ed92fb452321134052287b2c28e3802e5796a9006",
+  "status": "outdated",
+  "original": {
+    "number": 19,
+    "title": "坐过牢、破过产、上过失信名单，法律上都有重来的路，先把手续走完",
+    "fields": {
+      "cost": "不收手续费。刑满释放的，到户籍地或者居住地的司法所、街道报到，申请安置帮教（政府的安置和帮扶）。上了失信被执行人名单的，把该还的还完，再向执行法院申请把名字删掉。在深圳参保满 3 年的个人，可以申请个人破产。每一步都要准备材料、接受面谈，还有 1 到 3 年的考察期。难在要一遍遍跟人讲过去的事，考察期还得熬。",
+      "plain": "刑满释放的人，在就业、就学、社保上不得被歧视，生活困难的由政府帮助安置。犯罪时不满 18 岁、判 5 年以下的，记录封存，当兵找工作不必报告。失信名单的期限是 2 年，钱还清了法院应在 3 个工作日内删名。成年人的前科不封存，当兵、就业时要如实报告。",
+      "benefit": "刑满释放人员依法享有与其他公民平等的权利，在就业、就学和享受社会保障方面不受歧视。生活困难的，由户籍地或者居住地政府帮助安置、依法救助帮扶（监狱法 2026 年修订，11 月 1 日起施行）。中央 2010 年的文件要求对他们强化职业培训，符合条件的纳入低保，还要建立过渡性安置基地。犯罪时不满 18 岁、并且判刑 5 年以下的，犯罪记录封存，当兵、找工作时不必报告；本人申请无犯罪记录证明的，3 个工作日内出具。上失信名单的期限是 2 年。钱还清了，或者和对方达成和解等情形下，法院应在 3 个工作日内把名字删掉。深圳经济特区个人破产条例是目前唯一的个人破产法规，宣告破产后熬满 3 年考察期，没还完的债可以免掉。企业法人还不上到期的债、欠的又比有的多（这叫资不抵债），可以申请重整、和解或者破产清算。破产程序终结后，企业去办注销登记。但给企业做担保的人和其他连带债务人，对没还清的部分「依法继续承担清偿责任」。老板个人替公司签了担保的，还得自己还。成年人的前科不封存：刑法第一百条规定，依法受过刑事处罚的人，入伍、就业时要如实报告，不得隐瞒（全国，个人破产仅深圳）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2026). 监狱法（2026 年修订，第五十九、六十、六十二条）. <https://www.spp.gov.cn/spp/fl/202604/t20260430_726746.shtml>；中共中央办公厅、国务院办公厅 (2010). 转发《中央社会治安综合治理委员会关于进一步加强刑满释放解除劳教人员安置帮教工作的意见》的通知（中办发〔2010〕5 号）. <http://www.hnziyang.gov.cn/jc_zy/63/84/content_19460.html>（益阳市资阳区政府转载）；全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第二百八十六条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>；最高人民法院、最高人民检察院、公安部、司法部 (2022). 关于未成年人犯罪记录封存的实施办法（第九、十五条）. <https://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/zcfgjjd/zcfg/202205/t20220531_24795836.html>（湖南省公安厅转载）；最高人民法院 (2017 修正). 关于公布失信被执行人名单信息的若干规定（第二、十条）. <https://www.court.gov.cn/fabu/xiangqing/37182.html>；深圳市人大常委会 (2020). 深圳经济特区个人破产条例（第二、二十三、九十五、九十七、一百零三条）. <https://sf.sz.gov.cn/xxgk/xxgkml/zcfg/content/post_8586018.html>；全国人大常委会 (2006). 企业破产法（主席令第五十四号，第二、七、一百二十、一百二十一、一百二十四条；第一百二十四条：「破产人的保证人和其他连带债务人，在破产程序终结后，对债权人依照破产清算程序未受清偿的债权，依法继续承担清偿责任。」）. <http://www.gov.cn/gongbao/content/2006/content_413952.htm>；全国人大 (1997). 刑法（第一百条第一款：「依法受过刑事处罚的人，在入伍、就业的时候，应当如实向有关单位报告自己曾受过刑事处罚，不得隐瞒。」该页是 1997 年原文）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2011). 刑法修正案（八）（第十九条：「在刑法第一百条中增加一款作为第二款：“犯罪的时候不满十八周岁被判处五年有期徒刑以下刑罚的人，免除前款规定的报告义务。”」）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf68be604a1>",
+      "notes": "成年人的案底不封存。刑法第一百条要求当兵、找工作时必须如实报告自己受过刑事处罚。公务员、法官、律师、教师这些职业和政审另有法定限制，前面说的不受歧视不改变这一点。监狱法在 2026 年 11 月 1 日之前的现行文本，对应第三十七、三十八条，条号以生效文本为准。中办发〔2010〕5 号在中央政府网没找到原文页，取自区政府的转载。个人破产的考察期内，不能坐飞机头等舱、不能高消费、不能买房。故意侵害别人人身造成的赔偿等 8 类债务不免除。靠欺诈拿到的免责，还可能被撤销。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 19,
+    "title": "Từng ngồi tù, từng phá sản, từng vào danh sách thất tín, luật đều có đường làm lại, trước hết hãy hoàn tất thủ tục",
+    "fields": {
+      "cost": "Không thu phí thủ tục. Người mãn hạn tù đến văn phòng tư pháp hoặc văn phòng khu phố nơi hộ khẩu hoặc nơi cư trú để trình diện, xin bố trí và giúp đỡ giáo dục (chính quyền bố trí và hỗ trợ). Người bị đưa vào danh sách người phải thi hành án thất tín thì trả hết khoản phải trả, rồi đề nghị tòa án thi hành án xóa tên. Cá nhân đã tham gia bảo hiểm xã hội ở Thâm Quyến đủ 3 năm có thể xin phá sản cá nhân. Bước nào cũng phải chuẩn bị giấy tờ, chịu phỏng vấn, còn có thời gian giám sát 1 đến 3 năm. Cái khó là phải kể đi kể lại chuyện cũ với người khác, và phải chịu đựng cho hết thời gian giám sát.",
+      "plain": "Người mãn hạn tù không được bị phân biệt đối xử trong việc làm, học tập và bảo hiểm xã hội; ai gặp khó khăn trong cuộc sống sẽ được chính quyền giúp bố trí. Người phạm tội khi chưa đủ 18 tuổi và bị tuyên án từ 5 năm tù trở xuống thì hồ sơ phạm tội được niêm phong, khi nhập ngũ hay tìm việc không phải khai báo. Thời hạn trong danh sách thất tín là 2 năm; trả hết tiền thì tòa án phải xóa tên trong 3 ngày làm việc. Tiền án của người đã thành niên không được niêm phong, khi nhập ngũ, xin việc phải khai báo trung thực.",
+      "benefit": "Người mãn hạn tù được hưởng các quyền bình đẳng như công dân khác theo pháp luật, không bị phân biệt đối xử trong việc làm, học tập và hưởng bảo đảm xã hội. Ai gặp khó khăn trong cuộc sống thì được chính quyền nơi hộ khẩu hoặc nơi cư trú giúp bố trí, cứu trợ và hỗ trợ theo pháp luật (Luật Nhà tù sửa đổi năm 2026, có hiệu lực từ ngày 1 tháng 11). Văn bản năm 2010 của trung ương yêu cầu tăng cường đào tạo nghề cho họ, người đủ điều kiện được đưa vào diện trợ cấp tối thiểu, đồng thời xây dựng cơ sở bố trí chuyển tiếp. Người phạm tội khi chưa đủ 18 tuổi và bị tuyên án từ 5 năm tù trở xuống thì hồ sơ phạm tội được niêm phong, khi nhập ngũ, tìm việc không phải khai báo; bản thân xin giấy chứng nhận không có tiền án thì được cấp trong 3 ngày làm việc. Thời hạn trong danh sách thất tín là 2 năm. Khi đã trả hết tiền, hoặc đạt được hòa giải với bên kia và các trường hợp tương tự, tòa án phải xóa tên trong 3 ngày làm việc. Quy định về phá sản cá nhân của Đặc khu kinh tế Thâm Quyến hiện là văn bản pháp quy duy nhất về phá sản cá nhân; sau khi bị tuyên bố phá sản, chịu đủ 3 năm thời gian giám sát thì phần nợ chưa trả hết có thể được miễn. Pháp nhân doanh nghiệp không trả được nợ đến hạn, nợ lại nhiều hơn tài sản (gọi là mất khả năng thanh toán) có thể xin tái cơ cấu, hòa giải hoặc thanh lý phá sản, nợ được giải quyết dứt điểm cùng với doanh nghiệp đó (toàn quốc, phá sản cá nhân chỉ có ở Thâm Quyến).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2026). 监狱法（2026 年修订，第五十九、六十、六十二条）. <https://www.spp.gov.cn/spp/fl/202604/t20260430_726746.shtml>；中共中央办公厅、国务院办公厅 (2010). 转发《中央社会治安综合治理委员会关于进一步加强刑满释放解除劳教人员安置帮教工作的意见》的通知（中办发〔2010〕5 号）. <http://www.hnziyang.gov.cn/jc_zy/63/84/content_19460.html>（益阳市资阳区政府转载）；全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第二百八十六条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>；最高人民法院、最高人民检察院、公安部、司法部 (2022). 关于未成年人犯罪记录封存的实施办法（第九、十五条）. <https://gat.hunan.gov.cn/gat/jwgk/zfxxgk/xxgkml/zcfgjjd/zcfg/202205/t20220531_24795836.html>（湖南省公安厅转载）；最高人民法院 (2017 修正). 关于公布失信被执行人名单信息的若干规定（第二、十条）. <https://www.court.gov.cn/fabu/xiangqing/37182.html>；深圳市人大常委会 (2020). 深圳经济特区个人破产条例（第二、二十三、九十五、九十七、一百零三条）. <https://sf.sz.gov.cn/xxgk/xxgkml/zcfg/content/post_8586018.html>；全国人大常委会 (2006). 企业破产法（主席令第五十四号，第二、七条）. <http://www.gov.cn/gongbao/content/2006/content_413952.htm>",
+      "notes": "Tiền án của người đã thành niên không được niêm phong. Điều một trăm Luật Hình sự yêu cầu khi nhập ngũ, tìm việc phải khai báo trung thực việc mình từng chịu hình phạt. Các nghề như công chức, thẩm phán, luật sư, giáo viên và việc thẩm tra chính trị còn có những hạn chế riêng theo luật. Văn bản hiện hành của Luật Nhà tù trước ngày 1 tháng 11 năm 2026 tương ứng với Điều ba mươi bảy và Điều ba mươi tám, số điều lấy theo văn bản đang có hiệu lực. Văn bản〔2010〕5 của Văn phòng Trung ương không tìm thấy trang gốc trên cổng thông tin Chính phủ trung ương, nội dung lấy từ bản đăng lại của chính quyền một quận. Trong thời gian giám sát phá sản cá nhân, không được đi máy bay hạng nhất, không được tiêu dùng cao cấp, không được mua nhà; 8 loại nợ như tiền bồi thường do cố ý xâm hại thân thể người khác không được miễn; việc miễn nợ có được nhờ gian lận còn có thể bị hủy bỏ. Được xóa tên khỏi danh sách thất tín không có nghĩa là hồ sơ tín dụng cũng sạch theo, đó là hai hệ thống riêng."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

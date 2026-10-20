@@ -1,0 +1,48 @@
+{
+  "id": "e-13-39",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "726bf79732e8e4a27514bad8e96bf70df7c75406d1d82aab8ca0fce33249e2e6",
+  "status": "outdated",
+  "original": {
+    "number": 39,
+    "title": "救人受了伤、搭进了钱，先找加害人和医保，再去申报见义勇为确认",
+    "fields": {
+      "cost": "不花钱。申报要交材料、等认定，跑几趟，几周到几个月。",
+      "plain": "救人把自己搭进去，不用自认倒霉。见义勇为负伤的先救治、后收费，医疗费由加害人出，人跑了或者赔不起的走基本医保。没有加害人的，你提出来，被你救下的人依法应当给适当补偿。同时去申报见义勇为确认，受了伤、符合条件的按工伤保险待遇落实。",
+      "benefit": "民法典第一百八十三条：「因保护他人民事权益使自己受到损害的，由侵权人承担民事责任，受益人可以给予适当补偿。没有侵权人、侵权人逃逸或者无力承担民事责任，受害人请求补偿的，受益人应当给予适当补偿」。国办发〔2012〕39 号讲了见义勇为负伤人员怎么办。医疗机构要建立绿色通道，「坚持『先救治、后收费』的原则」。医疗费这一块的原文是「因紧急救治发生的医疗费用，有加害人或责任人的，由加害人或责任人承担；无加害人或责任人以及加害人或责任人逃逸或者无力承担的，按规定通过基本医疗保障制度解决」。死亡的，「符合烈士评定条件的，依法评定为烈士」；「属于视同工伤情形的，享受一次性工亡补助金以及相当于本人 40 个月工资的遗属特别补助金」。伤残的，「符合享受工伤保险待遇条件的，依据《工伤保险条例》落实相应待遇；不符合的，由民政部门评定伤残等级并落实相应待遇」。就业上「优先纳入就业援助，予以重点支持」，公益性岗位「优先安排符合条件的见义勇为人员」。住房上「优先纳入住房保障体系，优先配租、配售保障性住房或发放住房租赁补贴」",
+      "grade": "B",
+      "sources": "全国人大 (2020). 民法典（第一百八十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院办公厅转发民政部等部门 (2012). 关于加强见义勇为人员权益保护的意见（国办发〔2012〕39 号）. <https://www.gov.cn/zwgk/2012-07/26/content_2191928.htm>",
+      "notes": "定 B 是因为能拿什么待遇由全国文件定死。但奖金给多少、怎么走认定，是各省自己的见义勇为条例说了算，数字各地不同，本轮未逐省核实。一般是向出事地方的公安机关或者见义勇为工作机构（基金会）申报。能不能认定靠证据：报警回执、现场监控、目击者的姓名和电话、医院病历，当场就留下来。要打官司，见义勇为的民事权益本来就在免费法律援助的范围内。一次性工亡补助金的全国标准和伤残等级怎么换算成钱，见第 19 节第 14、15 条。法律援助怎么申请见第 7 节第 3 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 39,
+    "title": "Cứu người mà bị thương, tốn tiền: trước hết đòi người gây hại và bảo hiểm y tế chi trả, rồi nộp đơn xin công nhận hành động nghĩa hiệp",
+    "fields": {
+      "cost": "Không tốn tiền. Việc xin công nhận phải nộp hồ sơ, chờ xét, đi lại vài lần, mất vài tuần đến vài tháng.",
+      "plain": "Cứu người mà bản thân bị thiệt thì không cần tự nhận là xui xẻo. Người bị thương khi làm việc nghĩa được cứu chữa trước, thu phí sau. Chi phí y tế do người gây hại trả; người đó bỏ trốn hoặc không đủ khả năng bồi thường thì chi trả qua bảo hiểm y tế cơ bản. Không có người gây hại thì người được bạn cứu theo luật phải bù đắp thỏa đáng. Đồng thời nộp đơn xin công nhận hành động nghĩa hiệp; bị thương thì được hưởng quyền lợi theo chế độ bảo hiểm tai nạn lao động.",
+      "benefit": "Điều một trăm tám mươi ba Bộ luật Dân sự: “Người vì bảo vệ quyền lợi dân sự của người khác mà bản thân bị thiệt hại thì người xâm phạm chịu trách nhiệm dân sự, người được hưởng lợi có thể bù đắp thỏa đáng. Trường hợp không có người xâm phạm, người xâm phạm bỏ trốn hoặc không có khả năng chịu trách nhiệm dân sự, nếu người bị thiệt hại yêu cầu bù đắp thì người được hưởng lợi phải bù đắp thỏa đáng”. Văn bản số 39 năm 2012 của Văn phòng Quốc vụ viện nêu cách giải quyết cho người bị thương khi làm việc nghĩa. Cơ sở y tế phải lập kênh xanh, “kiên trì nguyên tắc ‘cứu chữa trước, thu phí sau’”. Về chi phí y tế, nguyên văn là “chi phí y tế phát sinh do cứu chữa khẩn cấp, nếu có người gây hại hoặc người chịu trách nhiệm thì người gây hại hoặc người chịu trách nhiệm chi trả; nếu không có người gây hại hoặc người chịu trách nhiệm, hoặc người gây hại, người chịu trách nhiệm bỏ trốn hoặc không đủ khả năng chi trả, thì giải quyết qua chế độ bảo đảm y tế cơ bản theo quy định”. Trường hợp tử vong, “đủ điều kiện công nhận liệt sĩ thì công nhận là liệt sĩ theo pháp luật”; “thuộc trường hợp được coi như tai nạn lao động thì được hưởng trợ cấp tử vong do tai nạn lao động một lần và trợ cấp đặc biệt cho thân nhân tương đương 40 tháng lương của bản thân”. Trường hợp thương tật, “đủ điều kiện hưởng chế độ bảo hiểm tai nạn lao động thì thực hiện chế độ tương ứng theo Điều lệ Bảo hiểm tai nạn lao động (《工伤保险条例》); không đủ điều kiện thì cơ quan dân chính xác định mức thương tật và thực hiện chế độ tương ứng”. Về việc làm, “ưu tiên đưa vào diện hỗ trợ việc làm, hỗ trợ trọng điểm”; vị trí việc làm công ích “ưu tiên bố trí cho người làm việc nghĩa đủ điều kiện”. Về nhà ở, “ưu tiên đưa vào hệ thống bảo đảm nhà ở, ưu tiên cho thuê, bán nhà ở bảo đảm hoặc cấp trợ cấp thuê nhà”.",
+      "grade": "B",
+      "sources": "全国人大 (2020). 民法典（第一百八十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院办公厅转发民政部等部门 (2012). 关于加强见义勇为人员权益保护的意见（国办发〔2012〕39 号）. <https://www.gov.cn/zwgk/2012-07/26/content_2191928.htm>",
+      "notes": "Mức B vì được hưởng chế độ gì là do văn bản toàn quốc quy định cứng, nhưng tiền thưởng bao nhiêu, thủ tục công nhận thế nào thì do quy định về hành động nghĩa hiệp của từng tỉnh quyết định; con số mỗi nơi khác nhau, lần này chưa kiểm chứng từng tỉnh. Thông thường nộp đơn cho cơ quan công an hoặc cơ quan (quỹ) phụ trách công tác hành động nghĩa hiệp ở nơi xảy ra sự việc. Có được công nhận hay không là dựa vào chứng cứ: biên nhận báo án, camera tại hiện trường, họ tên và số điện thoại của nhân chứng, bệnh án của bệnh viện; hãy giữ lại ngay tại chỗ. Nếu phải kiện tụng, quyền lợi dân sự của người làm việc nghĩa vốn đã thuộc phạm vi trợ giúp pháp lý miễn phí. Mức chuẩn toàn quốc của trợ cấp tử vong do tai nạn lao động một lần và cách quy đổi mức thương tật thành tiền xem chương 19 mục 14, 15. Cách xin trợ giúp pháp lý xem chương 7 mục 3."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

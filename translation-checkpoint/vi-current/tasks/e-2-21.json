@@ -1,0 +1,48 @@
+{
+  "id": "e-2-21",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "7d0613c1ba94afe6e8b3ed746eb547af6e043c105f8f29e2d405e2a7ba46648c",
+  "status": "draft",
+  "original": {
+    "number": 21,
+    "title": "想少喝酒，先把一周喝了多少数出来，再找医生聊几分钟",
+    "fields": {
+      "cost": "不花钱。数杯数每天记一笔就行。在门诊顺口问一句也不额外花钱。",
+      "plain": "医生花几分钟看你的饮酒量、说清风险、帮你定个目标，一年后平均每周少喝 20 克纯酒精，大约半升啤酒。谈更久并没有更多好处。已经停不下来的，国外有两种药被证明管用，大约每治 12 个人能多 1 个人不再回到一喝就喝多。",
+      "benefit": "34 项随机试验、15197 人合起来算，接受简短干预的人在一年后比只接受最少干预或不干预的人每周少喝 20 克纯酒精（95% CI 少 12 到 28 克，这是可信范围；中等质量证据）。这些研究里受试者的基线饮酒量平均是每周 244 克。简短干预指的是不超过 5 次、总时长不到 60 分钟的建议或生活方式咨询；谈得更久并没有多出好处。药物方面：122 项随机试验、22803 人合起来算，阿坎酸每治疗 12 人（95% CI 8 到 26）可多让 1 人不再回到任何饮酒；口服纳曲酮每天 50 毫克，每治疗 12 人（8 到 26）可多让 1 人不再回到重度饮酒。",
+      "grade": "A",
+      "sources": "Kaner EF, Beyer FR, Muirhead C, et al. (2018). Effectiveness of brief alcohol interventions in primary care populations. Cochrane Database of Systematic Reviews, 2, CD004148. <https://doi.org/10.1002/14651858.CD004148.pub4>；Jonas DE, Amick HR, Feltner C, et al. (2014). Pharmacotherapy for adults with alcohol use disorders in outpatient settings: a systematic review and meta-analysis. JAMA, 311(18), 1889–1900. <https://doi.org/10.1001/jama.2014.3628>",
+      "notes": "收益量级定「小」，是因为这两份证据量到的都是喝了多少，不是死亡率，按本书的规矩只有替代终点就记「小」。药物那部分的试验多在国外做，受试者多数已达到酒精依赖的诊断标准，而且试验里都同时给了心理社会干预，数字是「在这个基础上额外多出来的好处」。这两种药在国内的适应症和能不能开，以医生和药品说明书为准，别自行网购。已经出现戒断反应的见本节第 20 条（别自己硬戒）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 21,
+    "title": "Muốn giảm rượu, trước hết đếm lượng uống trong tuần rồi trao đổi vài phút với bác sĩ",
+    "fields": {
+      "cost": "Không tốn tiền. Bạn chỉ cần ghi số cốc một lần mỗi ngày. Hỏi thêm khi đang khám cũng không phát sinh phí riêng.",
+      "plain": "Bác sĩ dành vài phút xem lượng uống, giải thích nguy cơ, giúp đặt mục tiêu; sau một năm, người được hỗ trợ uống ít hơn trung bình 20 gram cồn nguyên chất mỗi tuần, khoảng nửa lít bia. Trao đổi lâu hơn không tạo thêm lợi ích. Với người đã không dừng được, ở nước ngoài có hai thuốc được chứng minh hiệu quả; khoảng mỗi 12 người điều trị sẽ có thêm 1 người không quay lại kiểu uống nhiều mỗi lần.",
+      "benefit": "Gộp 34 thử nghiệm ngẫu nhiên với 15197 người cho thấy sau một năm, người nhận can thiệp ngắn uống ít hơn 20 gram cồn nguyên chất mỗi tuần so với người chỉ nhận can thiệp tối thiểu hoặc không can thiệp (95% CI giảm 12 đến 28 gram là khoảng tin cậy; bằng chứng chất lượng trung bình). Lượng uống ban đầu trung bình là 244 gram mỗi tuần. Can thiệp ngắn là tư vấn hoặc khuyên về lối sống không quá 5 lần, tổng dưới 60 phút; trao đổi lâu hơn không tạo thêm lợi ích. Về thuốc, gộp 122 thử nghiệm ngẫu nhiên với 22803 người: acamprosate điều trị mỗi 12 người (95% CI 8 đến 26) giúp thêm 1 người không quay lại uống bất kỳ lượng rượu nào. Naltrexone uống 50 mg mỗi ngày, điều trị mỗi 12 người (8 đến 26), giúp thêm 1 người không quay lại uống nặng.",
+      "grade": "A",
+      "sources": "Kaner EF, Beyer FR, Muirhead C, et al. (2018). Effectiveness of brief alcohol interventions in primary care populations. Cochrane Database of Systematic Reviews, 2, CD004148. <https://doi.org/10.1002/14651858.CD004148.pub4>；Jonas DE, Amick HR, Feltner C, et al. (2014). Pharmacotherapy for adults with alcohol use disorders in outpatient settings: a systematic review and meta-analysis. JAMA, 311(18), 1889–1900. <https://doi.org/10.1001/jama.2014.3628>",
+      "notes": "Lợi ích được xếp “nhỏ” vì cả hai nhóm bằng chứng đo lượng rượu uống, không đo tử vong; theo quy tắc sách, chỉ có kết quả trung gian thì xếp nhỏ. Các thử nghiệm thuốc chủ yếu ở nước ngoài, đa số người tham gia đã đạt tiêu chuẩn chẩn đoán lệ thuộc rượu, và đều đồng thời nhận can thiệp tâm lý, xã hội. Con số là lợi ích tăng thêm trên nền hỗ trợ đó. Chỉ định và việc có thể kê hai thuốc này tại Trung Quốc phải theo bác sĩ, hướng dẫn thuốc; đừng tự mua online. Đã có phản ứng cai xem mục 20 (đừng tự cố cai)."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

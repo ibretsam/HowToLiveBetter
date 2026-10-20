@@ -1,0 +1,48 @@
+{
+  "id": "e-2-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "e013cd85f6e98299513951878223bbd71471e7a7d6b1a21a81a3b6ee7bff8219",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "不喝含糖饮料，换成无糖的也不算解决",
+    "fields": {
+      "cost": "不花钱，也不占时间。换成白水或无糖茶还省钱。难在要改掉喝甜饮料的习惯，包括无糖的。",
+      "plain": "美国的研究里，每天喝两份以上甜饮料的人，同期死亡的概率比几乎不喝的人高约两成。每天一到两份的，也高一成多。换成无糖的也没见着好处：每天喝两杯以上代糖饮料的人，反而高约四分之一。",
+      "benefit": "美国有两项跟踪一群人的大型研究。这两项只记录、不分组，约 11.8 万人、3.6 万例死亡。每天喝 2 份以上的人，死亡风险比每月不到 1 份的人高约 21%（HR 1.21）。每天喝 1–2 份的，高约 14%（HR 1.14）。欧洲 EPIC 跟踪研究只记录、不分组，有 45 万人、10 个国家。每天喝 2 杯以上的人和每月不到 1 杯的人比：含糖软饮这项高约 8%（HR 1.08，95% CI 1.01–1.16）。人工甜味剂饮料（无糖版）高约 26%（HR 1.26，1.16–1.35）。所有软饮合起来算，高约 17%（HR 1.17，1.11–1.22）。",
+      "grade": "A",
+      "sources": "Malik VS 等 (2019). Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.118.037401>；Mullee A, Romaguera D, Pearson-Stuttard J, et al. (2019). Association Between Soft Drink Consumption and Mortality in 10 European Countries. JAMA Internal Medicine, 179(11), 1479-1490. <https://doi.org/10.1001/jamainternmed.2019.2478>",
+      "notes": "争议在无糖饮料上。代糖饮料的关联反而比含糖的更强，这很可能是因果反过来了：已经超重或者得了糖尿病的人，才改喝无糖版。所以别据此说代糖更毒。但它至少说明，「换成无糖就没事」这个说法没有证据支持。换成白水或者无糖茶最稳妥。另外，这类研究只是跟踪记录，没做分组试验，喝甜饮料多的人本来生活方式就更差，所以数字可能偏大。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Không uống đồ có đường; đổi sang loại không đường cũng chưa giải quyết được vấn đề",
+    "fields": {
+      "cost": "Không tốn tiền hay thời gian. Đổi sang nước trắng hoặc trà không đường còn tiết kiệm. Điều khó là bỏ thói quen uống đồ ngọt, kể cả loại không đường.",
+      "plain": "Người uống từ hai chai đồ ngọt trở lên mỗi ngày có xác suất tử vong trong cùng thời gian cao hơn khoảng hai phần mười so với người hầu như không uống. Uống một đến hai chai mỗi ngày cũng cao hơn hơn một phần mười. Chuyển sang không đường cũng chưa thấy lợi: người uống từ hai cốc đồ uống dùng chất tạo ngọt thay thế trở lên mỗi ngày lại có nguy cơ cao hơn khoảng một phần tư.",
+      "benefit": "Hai nghiên cứu lớn tại Mỹ chỉ theo dõi, ghi nhận, không phân nhóm, gồm khoảng 11.8 vạn người và 3.6 vạn ca tử vong. Người uống từ 2 khẩu phần trở lên mỗi ngày có nguy cơ tử vong cao hơn khoảng 21% so với người uống dưới 1 khẩu phần mỗi tháng (HR 1.21). Uống 1–2 khẩu phần mỗi ngày thì cao hơn khoảng 14% (HR 1.14). Nghiên cứu EPIC châu Âu cũng chỉ theo dõi, không phân nhóm, gồm 45 vạn người ở 10 quốc gia. So người uống từ 2 cốc trở lên mỗi ngày với dưới 1 cốc mỗi tháng: nước ngọt có đường liên quan nguy cơ cao hơn khoảng 8% (HR 1.08, 95% CI 1.01–1.16); đồ uống dùng chất tạo ngọt nhân tạo, tức bản không đường, cao hơn khoảng 26% (HR 1.26, 1.16–1.35); gộp mọi loại nước ngọt thì cao hơn khoảng 17% (HR 1.17, 1.11–1.22).",
+      "grade": "A",
+      "sources": "Malik VS 等 (2019). Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.118.037401>；Mullee A, Romaguera D, Pearson-Stuttard J, et al. (2019). Association Between Soft Drink Consumption and Mortality in 10 European Countries. JAMA Internal Medicine, 179(11), 1479-1490. <https://doi.org/10.1001/jamainternmed.2019.2478>",
+      "notes": "Tranh luận nằm ở đồ uống không đường. Liên quan của đồ dùng chất tạo ngọt thay thế còn mạnh hơn loại có đường, rất có thể do nhân quả ngược: người đã thừa cân hoặc mắc đái tháo đường mới đổi sang không đường. Vì vậy đừng dựa vào đây để nói chất tạo ngọt thay thế độc hơn. Nhưng ít nhất kết quả cho thấy câu “đổi sang không đường là không sao” chưa có bằng chứng hỗ trợ. Đổi sang nước trắng hoặc trà không đường là lựa chọn chắc chắn nhất. Ngoài ra, đây chỉ là nghiên cứu theo dõi, không phải thử nghiệm phân nhóm; người uống nhiều đồ ngọt vốn thường có lối sống kém lành mạnh hơn, nên con số có thể bị phóng đại."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-33-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "e6dcd9baddbf0afa37d1b4c34bcbb70bd3db39a368d63bf3149a9f9d36930703",
+  "status": "outdated",
+  "original": {
+    "number": 19,
+    "title": "成年人的监护人按法定顺序定；被监护人伤了别人，由监护人赔",
+    "fields": {
+      "cost": "不花钱。有争议时要到居委会、村委会、民政部门或者法院去解决。",
+      "plain": "成年人失去行为能力后，监护人按顺序来：配偶，父母和子女，其他近亲属，最后是经居委会等同意的其他人或组织。有争议由居委会、村委会或民政部门指定，不服找法院。清醒时可以书面指定将来的监护人。被监护人伤了别人，先用他自己的钱赔，不够的监护人补。",
+      "benefit": "《民法典》第二十八条：无民事行为能力或者限制民事行为能力的成年人，由下列有监护能力的人按顺序担任监护人：「（一）配偶；（二）父母、子女；（三）其他近亲属；（四）其他愿意担任监护人的个人或者组织，但是须经被监护人住所地的居民委员会、村民委员会或者民政部门同意。」第三十一条：对监护人的确定有争议的，由被监护人住所地的居民委员会、村民委员会或者民政部门指定，对指定不服的可以向人民法院申请指定，也可以直接向人民法院申请。指定时「应当尊重被监护人的真实意愿，按照最有利于被监护人的原则」。指定之前权益处于无人保护状态的，由居民委员会、村民委员会、法律规定的有关组织或者民政部门担任临时监护人。第三十三条：「具有完全民事行为能力的成年人，可以与其近亲属、其他愿意担任监护人的个人或者组织事先协商，以书面形式确定自己的监护人」。第一千一百八十八条：「无民事行为能力人、限制民事行为能力人造成他人损害的，由监护人承担侵权责任。监护人尽到监护职责的，可以减轻其侵权责任。」有财产的，从本人财产中支付赔偿费用，不足部分由监护人赔偿。第一千一百八十九条：监护人将监护职责委托给他人的，监护人仍应当承担侵权责任，受托人有过错的承担相应的责任（全国，2021 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "中华人民共和国民法典（第二十八条、第三十一条、第三十三条、第一千一百八十八条、第一千一百八十九条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>",
+      "notes": "第三十三条那条就是意定监护。趁人清醒时用书面形式把人选定下来，能省掉后面一大半争议，具体怎么写见第 17 节第 1 条（意定监护）。赔偿那一段要当心：把人交给托养机构或者亲戚照看，责任仍在监护人身上，受托人只在自己有过错时承担相应责任。所以给被监护人买一份监护人责任保险是有意义的。《精神卫生法》第七十八条还规定，监护人遗弃患者或者不履行监护职责造成损害的，依法承担赔偿责任。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 19,
+    "title": "Người giám hộ người trưởng thành theo thứ tự luật định; người được giám hộ gây hại người khác thì người giám hộ bồi thường",
+    "fields": {
+      "cost": "Không tốn tiền. Có tranh chấp phải đến ủy ban cư dân, thôn, dân chính hoặc tòa giải quyết.",
+      "plain": "Khi người trưởng thành mất năng lực, người giám hộ theo thứ tự: vợ/chồng, cha mẹ và con, thân nhân gần khác, cuối cùng cá nhân hoặc tổ chức khác tự nguyện. Tranh chấp thì ủy ban cư dân, thôn hoặc dân chính chỉ định; không phục có thể tìm tòa. Khi còn minh mẫn có thể chỉ định trước bằng văn bản. Người được giám hộ gây hại người khác thì người giám hộ bồi thường.",
+      "benefit": "Điều hai mươi tám Bộ luật Dân sự: người trưởng thành không có hoặc hạn chế năng lực do người có khả năng giám hộ sau theo thứ tự: ‘Một, vợ/chồng; hai, cha mẹ, con; ba, thân nhân gần khác; bốn, cá nhân hoặc tổ chức khác tự nguyện, nhưng phải được ủy ban cư dân, thôn hoặc cơ quan dân chính nơi cư trú đồng ý’. Điều ba mươi mốt: tranh chấp do các cơ quan đó chỉ định, không đồng ý được xin tòa chỉ định, cũng có thể xin thẳng tòa. Khi chỉ định ‘phải tôn trọng nguyện vọng thật và theo nguyên tắc có lợi nhất cho người được giám hộ’. Trước chỉ định mà quyền lợi không ai bảo vệ thì ủy ban cư dân, thôn, tổ chức liên quan theo luật hoặc dân chính làm giám hộ tạm. Điều ba mươi ba: ‘Người trưởng thành đủ năng lực có thể thỏa thuận trước với thân nhân gần, cá nhân hoặc tổ chức tự nguyện để xác định người giám hộ bằng văn bản’. Điều một nghìn một trăm tám mươi tám: ‘Người không có hoặc hạn chế năng lực gây thiệt hại người khác thì giám hộ chịu trách nhiệm xâm phạm quyền. Đã làm đủ trách nhiệm giám hộ có thể được giảm’. Người được giám hộ có tài sản thì dùng tài sản họ bồi thường, thiếu do giám hộ trả. Điều một nghìn một trăm tám mươi chín: giao việc giám hộ cho người khác thì giám hộ vẫn chịu trách nhiệm; người nhận ủy thác có lỗi chịu phần tương ứng (toàn quốc, hiệu lực ngày 1 tháng 1 năm 2021).",
+      "grade": "A",
+      "sources": "中华人民共和国民法典（第二十八条、第三十一条、第三十三条、第一千一百八十八条、第一千一百八十九条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>",
+      "notes": "Điều ba mươi ba chính là giám hộ theo ý định. Chọn bằng văn bản khi còn minh mẫn giúp tránh phần lớn tranh chấp sau; cách viết xem chương 17 mục 1 (giám hộ theo ý định). Cẩn thận phần bồi thường: giao cho cơ sở chăm sóc hoặc họ hàng, trách nhiệm vẫn ở giám hộ; bên nhận chỉ chịu phần lỗi mình. Vì thế mua bảo hiểm trách nhiệm người giám hộ cho người được giám hộ có ý nghĩa. Điều bảy mươi tám Luật Sức khỏe tâm thần còn quy định giám hộ bỏ rơi bệnh nhân hoặc không làm nhiệm vụ gây thiệt hại phải bồi thường theo luật."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-19-20",
+  "source_sha256": "5ad07c382e50c46f3f90fa67b4a2cfb985e94cd2c5431820223f4dee0fa2f8b3",
+  "draft_sha256": "30bda77b3a7cc5ec222443a0f8509ce13d6fc1d14252f939d85bccb190257ae5",
+  "reviewer": "pilot_emergency_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Giữ mốc từ ngày kế tiếp khi đủ một tháng, đến ngày trước ký bổ sung hoặc trước đủ một năm, tối đa 11 tháng. Giữ ngoại lệ bất khả kháng/cố ý/bất cẩn nghiêm trọng, việc không trả trợ cấp kinh tế tháng đầu, sự khác biệt về thời hiệu địa phương và ngoại lệ ký bổ sung không tự nguyện. Dẫn chương 8 mục 19, chương 12 mục 16 đúng. Không sửa nghĩa."
+}

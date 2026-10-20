@@ -1,0 +1,15 @@
+{
+  "id": "e-34-5",
+  "source_sha256": "e76e7780db02df29b43640c5cc5d25f5f28db11f6efec74018a70be918a669c2",
+  "draft_sha256": "70283736d62036f007c7715c7872a9d7804cea577358c846778cd9157aa24224",
+  "reviewer": "pilot_employment_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa sau tuần 20 thành từ tuần 20 trở đi để giữ ngưỡng 20周以后. Đối chiếu 35 ca, 5 tử vong, hồi phục 72 giờ đến 6 ngày; giữ ngoại lệ aspirin 81 miligam do bác sĩ kê và giới hạn của báo cáo biến cố bất lợi."
+}

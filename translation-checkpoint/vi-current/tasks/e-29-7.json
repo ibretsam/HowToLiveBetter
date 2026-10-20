@@ -1,0 +1,48 @@
+{
+  "id": "e-29-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "621d60c892092e446ab04c7a06978b25155661eadb398975be3c19720c21b169",
+  "status": "outdated",
+  "original": {
+    "number": 7,
+    "title": "家长去世后，如实告诉孩子、让他参加告别",
+    "fields": {
+      "cost": "不花钱。难在自己也正难受，还得跟孩子把话说清楚。",
+      "plain": "18 岁前失去父亲或母亲的孩子，之后死亡的概率比没经历过的孩子高约五成。父母死于意外、自杀的高约八成，死于疾病的高约三成。美国儿科学会建议把发生了什么如实讲给孩子听，并支持孩子参加葬礼和告别。",
+      "benefit": "丹麦 1968 至 2008 年、瑞典 1973 至 2006 年出生的全部人口都算进来。再加上芬兰 1987 至 2007 年出生者里抽出的 89.3%。合计逾 730 万人。其中 189,094 人在 18 岁前失去父母。这批孩子各种原因加起来的死亡率，比没丧亲的人高 50%（死亡率比 1.50，95% CI 1.43–1.58，即约 1.5 倍）。父母死于意外、自杀这类非自然原因的是 1.84（1.71–2.00），高约八成。死于疾病等自然原因的是 1.33（1.24–1.41），高约三成。孩子的死因和父母的死因属同一类时最高。美国儿科学会 2016 年给儿科医生的临床报告，要求和失去亲人的孩子谈话时讲清发生了什么、意味着什么，纠正孩子听来的错误信息和误解。报告还给了怎么支持孩子参加葬礼和其他告别仪式的建议",
+      "grade": "B",
+      "sources": "Li J, et al. (2014). Mortality after parental death in childhood: a nationwide cohort study from three Nordic countries. PLoS Medicine. <https://doi.org/10.1371/journal.pmed.1001679>；Schonfeld DJ, Demaria T, Committee on Psychosocial Aspects of Child and Family Health, Disaster Preparedness Advisory Council (2016). Supporting the Grieving Child and Family. Pediatrics, 138(3), e20162147. <https://doi.org/10.1542/peds.2016-2147>",
+      "notes": "跟孩子说的时候别编「出远门了」，监护和抚养的安排要落到书面。要不要转学、送去别处住，没有找到直接的研究或指南原文。作者的看法是，孩子的生活少一些变动为好。给 B 不是因为数字不硬。这是三个国家全体人口的跟踪研究，数字本身够 A 级。给 B 是因为从这个数字到「怎么跟孩子说、要不要参加告别」的具体做法之间，没有直接试验证据。作者也写明，丧亲后亲子关系和孩子生活方式的数据都缺。升高里既有天生体质的成分，也有丧亲留下的长期影响。指定监护人和安排财产见第 17 节。孩子的抚养费和上学见第 18 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 7,
+    "title": "Sau khi cha hoặc mẹ mất, nói thật với con, cho con tham gia tiễn biệt, đừng gửi đi nơi khác để «đổi môi trường»",
+    "fields": {
+      "cost": "Không tốn tiền. Khó là chính bạn đang đau buồn mà vẫn phải nói rõ với con.",
+      "plain": "Trẻ mất cha hoặc mẹ trước 18 tuổi có nguy cơ tử vong đến đầu tuổi trưởng thành cao hơn trẻ không trải qua khoảng năm phần mười. Cha mẹ chết do tai nạn, tự sát thì cao khoảng tám phần mười, do bệnh khoảng ba phần mười. Gia đình có thể nói thật, cho trẻ tiễn biệt, duy trì đi học, đừng gửi nhà họ hàng để đổi môi trường.",
+      "benefit": "Tính toàn bộ người sinh tại Đan Mạch từ 1968 đến 2008, Thụy Điển từ 1973 đến 2006, thêm mẫu 89.3% người sinh tại Phần Lan từ 1987 đến 2007; tổng hơn 730 vạn người. Trong đó 189,094 người mất cha mẹ trước 18 tuổi. Tử vong mọi nguyên nhân của nhóm trẻ này cao hơn nhóm không mất cha mẹ 50% (tỷ số tử vong 1.50, 95% CI 1.43–1.58, khoảng 1.5 lần). Cha mẹ chết do nguyên nhân không tự nhiên như tai nạn, tự sát: 1.84 (1.71–2.00), cao khoảng tám phần mười. Nguyên nhân tự nhiên như bệnh: 1.33 (1.24–1.41), cao khoảng ba phần mười. Cao nhất khi nguyên nhân tử vong của con cùng nhóm với cha mẹ",
+      "grade": "B",
+      "sources": "Li J, et al. (2014). Mortality after parental death in childhood: a nationwide cohort study from three Nordic countries. PLoS Medicine. <https://doi.org/10.1371/journal.pmed.1001679>",
+      "notes": "Đừng bịa với con rằng «đi xa rồi»; sắp xếp giám hộ, nuôi dưỡng phải thành văn bản. Xếp B không phải vì số liệu yếu: đây là nghiên cứu theo dõi toàn dân ba nước, bản thân số liệu đủ A. Xếp B vì từ số liệu đến cách cụ thể «nói với trẻ thế nào, có tham gia tiễn biệt không» chưa có thử nghiệm trực tiếp. Tác giả cũng nêu thiếu dữ liệu quan hệ cha mẹ-con và lối sống trẻ sau tang chế. Mức tăng có cả yếu tố thể chất bẩm sinh và ảnh hưởng dài hạn mất người thân. Chỉ định giám hộ, sắp xếp tài sản xem chương 17; cấp dưỡng, học hành của trẻ xem chương 18."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": "e-12-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "0da6a99f23ccef85a2ff49eec03281827f5787bed18b496788be4900618d67fe",
+  "status": "outdated",
+  "original": {
+    "number": 17,
+    "title": "工资按合同和法律给，加薪、借款、奖金都走书面",
+    "fields": {
+      "cost": "不花钱。合同里把工资写清楚。加薪、奖金、垫付、借款，一律签字留一张纸。不口头承诺。也不从自己口袋里掏钱替公司发工资。难的是熟人开口时也照这个规矩办。",
+      "plain": "工资要按合同和法律按时足额发。欠了，员工可以直接找法院开支付令。加薪、奖金、垫付只是口头说说，真吵起来，拿不出证据的一方吃亏。自己掏钱借给员工，法律不强制写成书面的，但最好写张借条，写清数额、利息和什么时候还。",
+      "benefit": "劳动合同里必须写明的内容，就包括工资怎么给、社保怎么交。单位要按合同和国家规定，及时、足额发工资。拖着不发的，员工可以直接向法院申请支付令（法院开出的催款文书）。老板拿自己的钱借给员工，这就是一份借款合同。民法典的原话是：「借款合同应当采用书面形式，但是自然人之间借款另有约定的除外」。老板个人借给员工，正好是两个自然人之间借钱，法律不强制写成书面的。合同内容「一般包括借款种类、币种、用途、数额、利率、期限和还款方式等条款」。照这几项写一张借条，是作者的建议。口头答应的奖金没有白纸黑字，真吵起来，拿不出证据的一方吃亏（全国）",
+      "grade": "C",
+      "sources": "全国人大常委会 (2007). 劳动合同法（第十七、三十条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；全国人大 (2020). 民法典（第四百六十九、六百六十八条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "不是不帮人，是帮人也要走制度。制度之外的恩惠一旦成了惯例，想停掉就会起纠纷。私人借款和公司账混在一起，公司亏了，坏账就落在你自己头上。法条部分已核实，建议本身是经验，故 C 级。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Trả lương theo hợp đồng và luật; tăng lương, khoản vay, thưởng đều lập văn bản",
+    "fields": {
+      "cost": "Không tốn tiền. Ghi rõ lương trong hợp đồng. Tăng lương, thưởng, ứng hộ, cho vay đều ký giấy lưu lại; không hứa miệng, cũng không lấy tiền túi trả lương thay công ty. Điều khó là người quen nhờ vẫn phải làm đúng quy tắc.",
+      "plain": "Lương phải trả đủ, đúng hạn theo hợp đồng và luật. Nợ lương, nhân viên có thể xin tòa ra lệnh thanh toán. Tăng lương, thưởng, ứng hộ chỉ nói miệng thì lúc tranh chấp, bên không có chứng cứ chịu thiệt. Cho nhân viên vay bằng tiền riêng phải viết giấy vay, ghi rõ số tiền, lãi và khi nào trả.",
+      "benefit": "Nội dung bắt buộc trong hợp đồng lao động gồm cách trả lương, đóng bảo hiểm xã hội. Đơn vị phải trả đủ, đúng hạn theo hợp đồng và quy định nhà nước. Kéo dài không trả, nhân viên có thể trực tiếp xin tòa ra lệnh thanh toán, tức văn bản yêu cầu trả tiền của tòa. Chủ lấy tiền riêng cho nhân viên vay là một hợp đồng vay. Trừ khi hai cá nhân có thỏa thuận khác, phải lập văn bản, ghi số tiền vay, cách tính lãi, thời hạn và cách trả. Tiền thưởng hứa miệng không có giấy trắng mực đen, khi tranh chấp bên không đưa được chứng cứ chịu thiệt (toàn quốc).",
+      "grade": "C",
+      "sources": "全国人大常委会 (2007). 劳动合同法（第十七、三十条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；全国人大 (2020). 民法典（第四百六十九、六百六十八条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "Không phải không giúp người, mà giúp cũng cần theo quy chế. Ưu đãi ngoài quy chế thành thông lệ thì muốn dừng sẽ phát sinh tranh chấp. Trộn khoản vay riêng với sổ công ty, khi công ty lỗ, nợ xấu rơi vào bạn. Phần pháp luật đã kiểm chứng, nhưng lời khuyên là kinh nghiệm nên mức C."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

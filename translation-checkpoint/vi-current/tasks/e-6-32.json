@@ -1,0 +1,29 @@
+{
+  "id": "e-6-32",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "db30830f56b380af17e33fbc2fa24aa1bb0b6de0b250d07e992fb27b7fa7152c",
+  "status": "pending",
+  "original": {
+    "number": 32,
+    "title": "不要因为「人随时会死，早点把钱花完才快乐」就不存钱，三十岁的人约九成能活到六十岁",
+    "fields": {
+      "cost": "不花钱。要做的是在冒出「反正说不定哪天就没了」的念头时，先想一下自己活到六十岁的概率。难在周围人都这么说，想买的东西又就在眼前。",
+      "plain": "按世界卫生组织给中国算的数，三十岁的人约九成二能活到六十岁，一半以上能活到八十岁。年轻人普遍把自己早死的可能估得太高，照这个感觉过日子，存下的钱比该存的少约四分之一。照上面这些数推下来，多数人要为活到老攒钱。",
+      "benefit": "先看能活到多少岁。世界卫生组织的全球卫生观察站给中国算了 2023 年的生命表。生命表是按当年各个年龄的死亡率，推算一群人能活多久的表。按这张表，30 岁的人活到 60 岁的概率是 92.0%（男 89.2%，女 94.9%）。活到 65 岁是 87.4%（男 83.0%，女 92.0%）。活到 80 岁是 55.6%（男 45.8%，女 66.1%）。这三组数是拿表里各年龄还活着的人数相除算出来的。活到 65 岁的人，平均还能再活 17.5 年。再看人们自己怎么估。2019 年《金融学杂志》（The Journal of Finance）上的一项研究做了问卷，请人估自己能活多久。结果是年轻人低估自己活下去的概率，老人高估。论文早先的工作稿举过一个例子：一名 28 岁男性实际活过 5 年的概率是 99.4%，他自己估的是 92.8%。作者把人们自己估的概率放进一个标准的「一辈子怎么存钱花钱」的模型里算。和按实际死亡率算相比，年轻人少存 26%，退休的人花存款慢 27%。问卷里把生死估得越歪的人，存钱的做法也越偏，扣掉风险偏好、认知能力和家庭条件之后仍然如此。作者认为，一个原因是人们把少见、让人印象深的死法看得太重",
+      "grade": "B",
+      "sources": "World Health Organization, Global Health Observatory. Life tables: lx - number of people left alive at age x, China, 2023（指标 LIFE_0000000031）. <https://ghoapi.azureedge.net/api/LIFE_0000000031?$filter=SpatialDim%20eq%20'CHN'%20and%20TimeDim%20eq%202023>；World Health Organization, Global Health Observatory. Life tables: ex - expectation of life at age x, China, 2023（指标 LIFE_0000000035）. <https://ghoapi.azureedge.net/api/LIFE_0000000035?$filter=SpatialDim%20eq%20'CHN'%20and%20TimeDim%20eq%202023>；Heimer RZ, Myrseth KOR, Schoenle RS (2019). YOLO: Mortality Beliefs and Household Finance Puzzles. The Journal of Finance, 74(6), 2957-2996. <https://doi.org/10.1111/jofi.12828>；Heimer RZ, Myrseth KOR, Schoenle RS (2016). YOLO: Mortality Beliefs and Household Finance Puzzles. SSRN 工作稿（28 岁男性那个例子出自这一版）. <https://doi.org/10.2139/ssrn.2749543>",
+      "notes": "定 B 级有几条理由。生命表是世界卫生组织的模型估算，不是国家统计局公布的数。「少存 26%」是模型算出来的，不是跟踪真人数出来的。估生死那项只有一项研究，中国人群没有可以引用的同类数据。「多数人要为活到老攒钱」是作者从活到六十、八十岁的概率推出来的，不是哪项研究的结论。收益量级定中，沿用本节第 23 条（别指望买东西改善心情）的口径。少存的钱可能到万元级，但没有数字说明它换回多少，所以不记成大。同一项研究也发现，老人反过来把自己活多久估得太高，存款花得太慢，所以这条主要写给年轻人和中年人。这里不反对为喜欢的东西和经历花钱，要拦的只是「反正会死」这一个理由。真被意外或重病撞上，用得上的是应急金和保险，见第 5 节第 27 条（应急金）和第 5 节第 39 条（扛不住的损失买保险）。家里有人靠你的收入过日子的，见第 5 节第 40 条（定期寿险）。心情差就下单的，见本节第 23 条（买东西改善心情）。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": null,
+  "pilot": false
+}

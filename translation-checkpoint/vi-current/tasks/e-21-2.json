@@ -1,0 +1,48 @@
+{
+  "id": "e-21-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "6adaaa6ba574a61b73926a5ca4a8b943b51c209e1faa727599918e35cef15450",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "把 12308 和当地使领馆的领保电话存进手机，再抄一份放钱包，别等出事再找",
+    "fields": {
+      "cost": "不花钱。存两个号码，再抄一份，几分钟。",
+      "plain": "出事时先打外交部的全球领保热线。人在国内打 12308，人在国外打 +86-10-12308。这条热线开通以来接了 300 多万通电话。同一时期，外交部和驻外机构办了 50 多万起领事保护案件。",
+      "benefit": "外交部有一条全球领事保护与服务应急热线，24 小时有人接。人在国内拨 12308。人在国外拨 +86-10-12308，或者 +86-10-65612308。这条热线从 2014 年开通到现在，累计接听 300 多万通来电。同一时期，外交部和驻外机构处置各类领事保护案件 50 多万起",
+      "grade": "A",
+      "sources": "外交部、中国驻缅甸使领馆 (2023). 关于当前缅北地区安全局势的领事提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/202311/t20231109_11176682.shtml>；国务院新闻办 (2023). 国务院政策例行吹风会介绍领事保护与协助有关情况. <https://www.gov.cn/xinwen/2023zccfh/11/index.htm>",
+      "notes": "驻当地使领馆自己还有一个领保电话，通常比总台更快。出发前在中国领事服务网上按国家查到，和总台号码一起存进手机。手机丢了或者没电，存的号码就用不上了。所以再手抄一份放在钱包里，或者把号码写一份给家里人"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Lưu 12308 và số bảo hộ lãnh sự của cơ quan đại diện sở tại vào điện thoại, chép thêm vào ví; đừng đợi xảy ra chuyện mới tìm",
+    "fields": {
+      "cost": "Không tốn tiền. Lưu hai số, chép thêm một bản, mất vài phút.",
+      "plain": "Số xin giúp khi có sự cố: trong Trung Quốc gọi 12308, ở nước ngoài gọi +86-10-12308. Từ khi mở, đường dây nhận hơn 300 vạn cuộc gọi. Cùng thời gian, Bộ Ngoại giao và cơ quan đại diện xử lý hơn 50 vạn vụ bảo hộ lãnh sự.",
+      "benefit": "Bộ Ngoại giao có đường dây khẩn cấp bảo hộ và dịch vụ lãnh sự toàn cầu, trực 24 giờ. Trong nước gọi 12308; ngoài nước gọi +86-10-12308 hoặc +86-10-65612308. Từ khi mở năm 2014 đến nay nhận hơn 300 vạn cuộc gọi. Cùng kỳ Bộ Ngoại giao và cơ quan đại diện xử lý hơn 50 vạn vụ bảo hộ lãnh sự",
+      "grade": "A",
+      "sources": "外交部、中国驻缅甸使领馆 (2023). 关于当前缅北地区安全局势的领事提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/202311/t20231109_11176682.shtml>；国务院新闻办 (2023). 国务院政策例行吹风会介绍领事保护与协助有关情况. <https://www.gov.cn/xinwen/2023zccfh/11/index.htm>",
+      "notes": "Cơ quan đại diện sở tại còn có số bảo hộ riêng, thường nhanh hơn tổng đài. Trước đi tra theo quốc gia trên trang Dịch vụ lãnh sự Trung Quốc, lưu cùng số tổng đài. Mất điện thoại hoặc hết pin thì số đã lưu vô dụng, nên chép thêm một bản trong ví hoặc gửi cho gia đình"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

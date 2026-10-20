@@ -1,0 +1,48 @@
+{
+  "id": "e-2-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "913c73fedb9d586e32fd9d31b9fdf243fa808cb52eb11498535314947f5372dc",
+  "status": "outdated",
+  "original": {
+    "number": 14,
+    "title": "常打网球、羽毛球、乒乓球这类球拍类运动",
+    "fields": {
+      "cost": "场地费每次几十元。每周约 2 小时。难在要凑齐人和场地，还得每周都去。",
+      "plain": "常打网球、羽毛球、乒乓球的人，同期死亡的概率比不打的人低约一半，心血管死亡低约 56%。游泳的人低约 28%。跑步和足球在这份数据里没看出差别。",
+      "benefit": "英国一项 8.03 万人的跟踪研究，比的是做某项运动的人和不做这项运动的人。打球拍类运动的人，死亡风险低约 47%（风险比 0.53，95% CI 0.40–0.69，可信范围）。心血管死亡低约 56%（0.44，0.24–0.83）。球拍类指网球、羽毛球、乒乓球。游泳的人这两个数分别是 0.72 和 0.59，有氧操是 0.73 和 0.64，骑车是 0.85。跑步和足球没看出统计上的差别",
+      "grade": "A",
+      "sources": "Oja P, Kelly P, Pedisic Z, et al. (2017). Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. British Journal of Sports Medicine, 51(10), 812-817. <https://doi.org/10.1136/bjsports-2016-096822>",
+      "notes": "争议。这类研究只是跟踪记录。打球的人本身就更健康，社交也更多。跑步那组看不出差别，也说明起作用的可能是「什么样的人挑了什么运动」。别因为这条就认为跑步没用，本节另有按运动总量算的条目"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 14,
+    "title": "Chơi môn dùng vợt ba lần mỗi tuần, mỗi lần 45 phút",
+    "fields": {
+      "cost": "Phí sân mỗi lần vài chục nhân dân tệ, thời gian khoảng 2 giờ mỗi tuần. Điều khó là sắp xếp đủ người, sân và duy trì đi hằng tuần.",
+      "plain": "Người thường chơi tennis, cầu lông, bóng bàn có xác suất tử vong cùng kỳ thấp hơn khoảng một nửa so với người không chơi; tử vong tim mạch thấp hơn khoảng 56%. Người bơi thấp hơn khoảng 28%. Chạy bộ và bóng đá trong bộ dữ liệu này không cho thấy khác biệt.",
+      "benefit": "Một nghiên cứu theo dõi 8.03 vạn người tại Anh so sánh người chơi một môn với người không chơi môn đó. Người chơi môn dùng vợt có nguy cơ tử vong thấp hơn khoảng 47% (tỷ số nguy cơ 0.53, 95% CI 0.40–0.69 là khoảng tin cậy); tử vong tim mạch thấp hơn khoảng 56% (0.44, 0.24–0.83). Các môn dùng vợt gồm tennis, cầu lông, bóng bàn. Với bơi, hai con số tương ứng là 0.72 và 0.59; thể dục nhịp điệu là 0.73 và 0.64; đạp xe là 0.85. Chạy bộ và bóng đá không cho thấy khác biệt có ý nghĩa thống kê.",
+      "grade": "A",
+      "sources": "Oja P, Kelly P, Pedisic Z, et al. (2017). Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. British Journal of Sports Medicine, 51(10), 812-817. <https://doi.org/10.1136/bjsports-2016-096822>",
+      "notes": "Tranh luận. Đây chỉ là nghiên cứu theo dõi, ghi nhận. Người chơi thể thao vốn khỏe hơn và giao tiếp nhiều hơn. Nhóm chạy không cho thấy khác biệt cũng gợi ý tác động có thể nằm ở “người như thế nào chọn môn nào”. Đừng vì mục này mà nghĩ chạy bộ vô ích; chương còn có mục tính theo tổng lượng vận động."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

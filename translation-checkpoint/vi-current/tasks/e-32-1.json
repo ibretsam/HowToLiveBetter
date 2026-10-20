@@ -1,0 +1,48 @@
+{
+  "id": "e-32-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "7f4c3eaabdcdf1a608244cfcfe95e624a0d37a6c777f88c958eacb1df5099e7d",
+  "status": "outdated",
+  "original": {
+    "number": 1,
+    "title": "交学费之前先查学校在不在留服中心的认证院校名单里",
+    "fields": {
+      "cost": "不花钱。在留服中心的「认证院校查询」里输一次学校名，几分钟就查完",
+      "plain": "回国升学、找工作、考试要用这张文凭，可以向教育部留学服务中心申请认证。它公布了近五年通过过认证的学校名单。在名单里不保证能过，不在名单里也不一定不受理。交学费前查一次，不在名单里的多问一句。",
+      "benefit": "中国（教育部）留学服务中心的《国（境）外学历学位认证办法》第一条写明，认证是为了「满足申请人升学、就业、考试等需要」。第二条写明认证是「根据申请人的自主申请」做的。留服中心有一个认证院校查询入口，按学校名字查。它的使用须知写明，名单是近五年通过认证的申请里涉及的国外颁证院校，「仅供留学人员参考，不作为任何通过认证的保证或依据」。须知还写明，受理范围「不限于本查询功能显示的院校」，每份申请都单独评估，学校合不合法、有没有发证资格只是考量之一。名单每年更新一次。2025 年那次更新移除了近 5 年没出过认证书的学校 270 所。另外，教育部教育涉外监管信息网还公布中外合作办学和境外办学的监管信息",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 认证院校查询（含使用须知）. <http://yxcx.cscse.edu.cn/>；中国（教育部）留学服务中心 (2023). 国（境）外学历学位认证办法（第一、二条）. <http://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/409891/rzbf/2026042823373762003/index.html>；教育部教育涉外监管信息网. <https://jsj.moe.gov.cn/>",
+      "notes": "中介嘴上说「教育部认可」不算数，以你自己上网查到的结果为准。名单会变，入学时在名单里，毕业时不一定还在，所以读书期间每年复查一次。中外合作办学的项目另有一套认证注册的制度。2008 年以后入学的，可以凭姓名和身份证号，在涉外监管信息网查自己的注册序号。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 1,
+    "title": "Trước đóng học phí, kiểm tra trường có trong danh sách được Trung tâm Dịch vụ du học công nhận không",
+    "fields": {
+      "cost": "Không tốn tiền. Nhập tên trường vào mục ‘Tra cứu trường được công nhận’ của Trung tâm Dịch vụ du học, vài phút là xong.",
+      "plain": "Sau về nước, muốn dùng bằng thi công chức, vào doanh nghiệp nhà nước, đăng ký hộ khẩu hay xét chức danh thì phải qua công nhận. Trung tâm Dịch vụ du học thuộc Bộ Giáo dục thực hiện việc này. Nếu trường không trong danh sách được công nhận, học phí và thời gian bỏ phí, bằng không dùng được trong nước. Tra miễn phí, hãy tra rồi mới đóng học phí.",
+      "benefit": "Trung tâm Dịch vụ du học Trung Quốc thuộc Bộ Giáo dục có cổng tra cứu trường được công nhận. Có thể tìm theo nước hoặc tên trường, để biết bằng học vấn và học vị do trường cấp có thuộc phạm vi công nhận không. Mạng thông tin giám sát giáo dục có yếu tố nước ngoài của Bộ còn công bố thông tin quản lý chương trình hợp tác Trung Quốc–nước ngoài và cơ sở đào tạo ở nước ngoài.",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 认证院校查询. <http://yxcx.cscse.edu.cn/>；教育部教育涉外监管信息网. <https://jsj.moe.gov.cn/>",
+      "notes": "Môi giới nói miệng ‘Bộ Giáo dục công nhận’ không có giá trị, hãy theo kết quả tự tra. Danh sách có thể đổi; lúc nhập học có tên chưa chắc tốt nghiệp còn, nên kiểm tra lại hằng năm trong khi học. Chương trình hợp tác Trung Quốc–nước ngoài có chế độ đăng ký công nhận riêng. Người nhập học sau năm 2008 có thể dùng họ tên và số căn cước tra số đăng ký trên mạng thông tin giám sát giáo dục có yếu tố nước ngoài."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

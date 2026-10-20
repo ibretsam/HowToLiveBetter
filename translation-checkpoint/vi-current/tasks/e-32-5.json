@@ -1,0 +1,48 @@
+{
+  "id": "e-32-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "4192c96f4b75f3049a8070367aec9361bfd0d7cc83bd66f6ac79a80273c25d40",
+  "status": "outdated",
+  "original": {
+    "number": 5,
+    "title": "美国：搬家后 10 天内必须报新地址",
+    "fields": {
+      "cost": "不花钱。在线提交一次改址，十分钟",
+      "plain": "在美国换了住的地方，法律要求 10 天之内通知移民局。不报不是小事。一来它本身违法，二来移民局寄给你的信可能收不到。",
+      "benefit": "美国联邦移民法规 8 CFR 265.1 规定，按法律要登记的外国人，地址变了以后 10 日内要报告。报给 USCIS（美国移民局），按它要求的办法报，既报地址变了这件事，也报新地址",
+      "grade": "A",
+      "sources": "8 CFR 265.1. <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-265/section-265.1>；USCIS. AR-11, Alien's Change of Address Card. <https://www.uscis.gov/ar-11>；UK Government. Report a change of circumstances if you have a visa or expired BRP. <https://www.gov.uk/change-circumstances-visa-brp>；Australian Government Department of Home Affairs. See your visa conditions（Student visa subclass 500）. <https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/see-your-visa-conditions?product=500>",
+      "notes": "报了移民局，学校那边的 SEVIS 记录（你的留学生身份档案）还要另外更新。英国持签证或居留卡的，情况变了要报告，地址变了在 UKVI 账户里改。澳大利亚学生签证带 8533 号条件，名称是「把地址告知学校」。加拿大这次没查到同样的规定。期限和办法各国不同，按你所在国移民局的网页办。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Mỹ: phải báo địa chỉ mới trong 10 ngày sau chuyển nhà",
+    "fields": {
+      "cost": "Không tốn tiền. Nộp thay đổi địa chỉ trực tuyến một lần, mười phút.",
+      "plain": "Đổi nơi ở tại Mỹ, luật yêu cầu thông báo cơ quan nhập cư trong 10 ngày. Không báo không phải chuyện nhỏ: vừa trái luật, vừa khiến thư cơ quan nhập cư gửi bị thất lạc.",
+      "benefit": "Quy định nhập cư liên bang Mỹ 8 CFR 265.1 yêu cầu người nước ngoài thuộc diện đăng ký theo luật báo thay đổi địa chỉ trong 10 ngày. Báo cho USCIS, cơ quan di trú Mỹ, theo cách họ yêu cầu; vừa báo việc đổi địa chỉ vừa báo địa chỉ mới.",
+      "grade": "A",
+      "sources": "8 CFR 265.1. <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-265/section-265.1>；USCIS. AR-11, Alien's Change of Address Card. <https://www.uscis.gov/ar-11>",
+      "notes": "Báo cơ quan di trú rồi vẫn phải cập nhật riêng hồ sơ SEVIS ở trường, tức hồ sơ tư cách du học sinh của bạn. Ba nước còn lại cũng yêu cầu báo cơ quan nhập cư hoặc trường khi đổi địa chỉ. Hạn và cách làm khác nhau; theo trang cơ quan nhập cư nước bạn ở."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

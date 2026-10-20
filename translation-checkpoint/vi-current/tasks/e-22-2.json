@@ -1,0 +1,48 @@
+{
+  "id": "e-22-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "076a160228af7fff95968b2762f49de188ebb4a9e9c12eaa377211e63f878e56",
+  "status": "outdated",
+  "original": {
+    "number": 2,
+    "title": "点单前要价目表，娱乐场所必须明码标价，不接受「先玩后算」",
+    "fields": {
+      "cost": "不花钱。开口要一次单子。难在当着人开口问价，有点抹不开面子。",
+      "plain": "按规定，娱乐场所卖服务、卖东西都必须明码标价，还要主动把价目表拿给你看。所谓「天价酒水」，常出在没看过价目表、事后按口头报价结账的场合。进包厢先要单子拍照，点完再要一份确认清单。结账有争议就当场打 12315。",
+      "benefit": "条例原文：「娱乐场所提供娱乐服务项目和出售商品，应当明码标价，并向消费者出示价目表；不得强迫、欺骗消费者接受服务、购买商品。」违反价格法律法规的，由有关部门依法处罚。所谓「天价酒水」纠纷，常见的情形是没有出示价目表，事后按口头报价结账。这一句是作者经验，没查到官方统计",
+      "grade": "A",
+      "sources": "国务院 (2006). 娱乐场所管理条例（国令第 458 号，第二十九、五十三条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6297.htm>",
+      "notes": "怎么做：进包厢先要一份价目表，纸质的电子的都行，拿到就拍照。点完单再要一份确认好的清单。服务员推荐的「特调」「果盘」，一律先问价再点。结账有争议时当场打 12315。别先付款再去维权，付了款你要举证就难得多"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 2,
+    "title": "Hỏi bảng giá trước gọi món; nơi giải trí phải niêm yết, không chấp nhận “chơi trước tính sau”",
+    "fields": {
+      "cost": "Không tốn tiền. Mở lời xin bảng một lần. Khó là hỏi giá trước mọi người hơi ngại.",
+      "plain": "Theo quy định, bán dịch vụ hay hàng hóa đều phải niêm yết giá, chủ động đưa bảng giá cho bạn. Tranh chấp “đồ uống giá trên trời” hầu hết xảy ra khi chưa xem bảng rồi cuối buổi tính theo báo miệng. Vào phòng xin bảng chụp trước, gọi xong xin danh sách xác nhận. Tranh chấp lúc trả thì gọi 12315 tại chỗ.",
+      "benefit": "Nguyên văn: “Nơi giải trí cung cấp dịch vụ, bán hàng phải niêm yết rõ và xuất trình bảng giá cho người tiêu dùng; không được cưỡng ép, lừa dối để họ nhận dịch vụ, mua hàng”. Vi phạm luật giá bị cơ quan liên quan xử phạt. Đa số tranh chấp đồ uống giá cao xảy ra khi không xuất trình bảng giá, cuối buổi tính theo báo miệng",
+      "grade": "A",
+      "sources": "国务院 (2006). 娱乐场所管理条例（国令第 458 号，第二十九、五十三条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6297.htm>",
+      "notes": "Cách làm: vào phòng xin bảng giấy hoặc điện tử, có thì chụp. Gọi xong xin danh sách đã xác nhận. “Đồ pha đặc biệt”, “đĩa trái cây” phục vụ giới thiệu đều hỏi giá trước. Tranh chấp thanh toán gọi 12315 tại chỗ. Đừng trả trước rồi đòi quyền lợi sau; trả rồi chứng minh khó hơn nhiều"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

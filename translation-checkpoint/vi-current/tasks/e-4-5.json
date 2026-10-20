@@ -1,0 +1,48 @@
+{
+  "id": "e-4-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "a40b024a93017f9b840dfe3fb94420571876fb7d7f5ec00873125017dec5acd3",
+  "status": "draft",
+  "original": {
+    "number": 5,
+    "title": "会前发议程，没议程的会不开；能站着开就站着开",
+    "fields": {
+      "cost": "不花钱。组织者会前花 5 到 10 分钟写一份议程。站着开会要参会者配合。",
+      "plain": "会前发了议程的会，参会者更容易觉得这个会有用。实验里，坐着开的会比站着开的长 34%，而两种开法做出的决定，好坏没有差别。",
+      "benefit": "两项调查分别有 958 人和 292 人。结果是：会前发了议程的会，参会者更容易觉得这个会有效果，这个关系在统计上站得住。另一项实验里 55 组坐着开会，56 组站着开会，坐着开的时长多 34%。两种开法做出的决定，质量没有差别。",
+      "grade": "B",
+      "sources": "Leach, D. J., Rogelberg, S. G., Warr, P. B., & Burnfield, J. L. (2009). Perceived meeting effectiveness: The role of design characteristics. Journal of Business and Psychology, 24(1), 65–76. <https://doi.org/10.1007/s10869-009-9092-6>；Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2). <https://doi.org/10.1037/0021-9010.84.2.277>",
+      "notes": "站会那项实验做的是 5 人小组在实验室里的任务。长会和大型会议不能照搬这个结论。Leach 测的是参会者自己觉得效果如何，不是实际干出了多少活。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 5,
+    "title": "Gửi chương trình trước cuộc họp; không có chương trình thì không họp, có thể đứng họp thì hãy đứng",
+    "fields": {
+      "cost": "Không tốn tiền. Người tổ chức dành 5 đến 10 phút viết chương trình trước cuộc họp. Đứng họp cần sự phối hợp của người tham dự.",
+      "plain": "Cuộc họp gửi chương trình trước dễ khiến người tham dự cảm thấy hữu ích hơn. Trong thí nghiệm, họp ngồi dài hơn họp đứng 34%, nhưng chất lượng quyết định của hai cách không khác nhau.",
+      "benefit": "Hai khảo sát lần lượt có 958 và 292 người cho thấy cuộc họp gửi chương trình trước dễ được người dự đánh giá hiệu quả hơn; liên hệ này có ý nghĩa thống kê. Thí nghiệm khác gồm 55 nhóm họp ngồi, 56 nhóm họp đứng; họp ngồi dài hơn 34%, nhưng chất lượng quyết định không khác nhau.",
+      "grade": "B",
+      "sources": "Leach, D. J., Rogelberg, S. G., Warr, P. B., & Burnfield, J. L. (2009). Perceived meeting effectiveness: The role of design characteristics. Journal of Business and Psychology, 24(1), 65–76. <https://doi.org/10.1007/s10869-009-9092-6>；Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2). <https://doi.org/10.1037/0021-9010.84.2.277>",
+      "notes": "Thí nghiệm họp đứng dùng nhóm 5 người làm nhiệm vụ trong phòng thí nghiệm. Không áp thẳng cho họp dài hay đông. Leach đo cảm nhận hiệu quả của người tham dự, không đo sản lượng công việc thực tế."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

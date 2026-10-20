@@ -1,0 +1,48 @@
+{
+  "id": "e-19-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "81220e9f33f94c2a2aeedf38bb7431953289b1519b7941da2eba03bb1b4536d8",
+  "status": "draft",
+  "original": {
+    "number": 17,
+    "title": "离职时找单位要一份离职证明，写明合同期限、离职日期、岗位和工作年限",
+    "fields": {
+      "cost": "不花钱。走之前当面要，或者发一条书面消息要，留下要过的记录。难在关系闹僵了还得开这个口。单位拖着不给，就要投诉或者申请仲裁，前后几十天到几个月。",
+      "plain": "不管是被辞退、合同到期还是自己辞职，单位都要在你离职时给一份离职证明，并在 15 天内转走档案和社保。证明上要写合同期限、离职日期、岗位和在这家干了几年。办失业登记要用它。单位不给，劳动部门会责令改正，害你受了损失还要赔。",
+      "benefit": "劳动合同法规定，单位要在解除或者终止劳动合同时出具证明。法条不分是谁提出的，合同到期不续、你自己辞职、被辞退都在内。单位还要在 15 日内为你办好档案和社会保险关系的转移手续。实施条例规定证明上要写四样：劳动合同期限、解除或者终止的日期、工作岗位、在本单位的工作年限。失业保险条例规定，职工失业后要拿着单位出具的这份证明，及时去社保经办机构办失业登记。失业保险金从办失业登记那天起算。单位不出书面证明的，由劳动行政部门责令改正。给你造成损害的，单位要赔。法律另外规定，新单位招了还没和原单位解除合同的人，给原单位造成损失的，要承担连带赔偿责任。离职证明就是你已经和原单位解除合同的书面凭据（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 修正). 劳动合同法（第五十、八十九、九十一条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf74d7106b3>；国务院 (2008). 劳动合同法实施条例（国务院令第 535 号，第二十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40927caf049c>；国务院 (1999). 失业保险条例（国务院令第 258 号，第十六条）. <https://xzfg.moj.gov.cn/front/law/detail?LawID=517>；全国人大常委会 (2007). 劳动争议调解仲裁法（第二、二十七、四十三、五十三条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf64f28039d>；国务院 (2004). 劳动保障监察条例（国务院令第 423 号，第十七条）. <https://www.gov.cn/gongbao/content/2004/content_63042.htm>；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、十三、二十九条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>",
+      "notes": "法条没有把出证明和工作交接挂在一起，交接办完才付的是经济补偿。单位拖着不给，先发书面消息再要一次。再不给，就打 12333 或者去人社局劳动监察投诉。投诉不收费，立案后 60 个工作日内查完，复杂的可以再延 30 个工作日。要单位赔损失的，走劳动仲裁，也不收费，要在 1 年内申请。仲裁受理后 45 日内结案，最多再延 15 日。损失要你自己拿证据证明，比如因为没有证明耽误了失业登记、被新单位拒收。不服裁决再去法院，一审普通程序 6 个月起。法院收的劳动争议受理费每件 10 元，律师费不在诉讼费用里，要自己出。条例要求写的四样里没有离职原因。证明上写了「个人原因主动辞职」而事实不是这样，当场提出来，理由见本节第 7 条（别签主动辞职）。失业保险金怎么领，见第 7 节第 1 条（失业保险金）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 17,
+    "title": "Khi nghỉ, xin đơn vị giấy xác nhận nghỉ việc ghi thời hạn hợp đồng, ngày nghỉ, vị trí và thâm niên",
+    "fields": {
+      "cost": "Không tốn tiền. Yêu cầu trực tiếp trước khi đi hoặc gửi văn bản, giữ dấu vết đã yêu cầu. Khó là quan hệ căng vẫn phải mở lời. Đơn vị chây ì thì khiếu nại hoặc trọng tài, mất vài chục ngày đến vài tháng.",
+      "plain": "Dù bị cho thôi việc, hết hợp đồng hay tự nghỉ, đơn vị đều phải cấp giấy xác nhận khi nghỉ và chuyển hồ sơ, bảo hiểm xã hội trong 15 ngày. Giấy ghi thời hạn hợp đồng, ngày nghỉ, vị trí, số năm ở đây. Đăng ký thất nghiệp cần giấy này. Không cấp thì cơ quan lao động buộc sửa, gây thiệt hại còn phải bồi thường.",
+      "benefit": "Luật Hợp đồng lao động yêu cầu đơn vị cấp giấy khi chấm dứt hoặc kết thúc hợp đồng, không phân ai đề nghị; hết hạn không gia hạn, tự nghỉ, bị cho thôi việc đều gồm. Đơn vị còn phải hoàn tất chuyển hồ sơ và quan hệ bảo hiểm xã hội trong 15 ngày. Quy định thực hiện yêu cầu bốn nội dung: thời hạn hợp đồng, ngày chấm dứt/kết thúc, vị trí, thâm niên tại đơn vị. Quy định bảo hiểm thất nghiệp yêu cầu người mất việc mang giấy này đến đơn vị thực hiện bảo hiểm xã hội đăng ký thất nghiệp kịp thời. Trợ cấp thất nghiệp tính từ ngày đăng ký. Không cấp giấy bằng văn bản thì cơ quan hành chính lao động buộc sửa; gây thiệt hại cho bạn phải bồi thường. Luật còn quy định đơn vị mới tuyển người chưa chấm dứt hợp đồng với đơn vị cũ, gây thiệt hại cho bên cũ thì phải liên đới bồi thường. Giấy nghỉ việc là bằng chứng văn bản bạn đã chấm dứt với đơn vị cũ (toàn quốc)",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 修正). 劳动合同法（第五十、八十九、九十一条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf74d7106b3>；国务院 (2008). 劳动合同法实施条例（国务院令第 535 号，第二十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40927caf049c>；国务院 (1999). 失业保险条例（国务院令第 258 号，第十六条）. <https://xzfg.moj.gov.cn/front/law/detail?LawID=517>；全国人大常委会 (2007). 劳动争议调解仲裁法（第二、二十七、四十三、五十三条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf64f28039d>；国务院 (2004). 劳动保障监察条例（国务院令第 423 号，第十七条）. <https://www.gov.cn/gongbao/content/2004/content_63042.htm>；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、十三、二十九条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>",
+      "notes": "Luật không gắn cấp giấy với bàn giao công việc; khoản chỉ trả sau bàn giao là trợ cấp kinh tế. Nếu đơn vị chây ì, gửi văn bản yêu cầu lại. Vẫn không cấp thì gọi 12333 hoặc khiếu nại thanh tra lao động thuộc cơ quan nhân lực và an sinh xã hội. Khiếu nại miễn phí, điều tra xong trong 60 ngày làm việc từ lập hồ sơ, phức tạp được thêm 30 ngày làm việc. Muốn bồi thường thiệt hại thì trọng tài lao động, cũng miễn phí, phải nộp trong 1 năm. Sau thụ lý giải quyết trong 45 ngày, tối đa thêm 15 ngày. Bạn phải chứng minh thiệt hại, như không có giấy làm chậm đăng ký thất nghiệp hoặc bị đơn vị mới từ chối. Không đồng ý phán quyết thì ra tòa; sơ thẩm thủ tục thường ít nhất 6 tháng. Phí thụ lý tranh chấp lao động 10 nhân dân tệ/vụ; phí luật sư không thuộc chi phí tố tụng, tự trả. Bốn nội dung bắt buộc không có lý do nghỉ. Nếu giấy ghi “tự nguyện nghỉ vì lý do cá nhân” mà không đúng, phản đối ngay; lý do xem mục 7 (đừng ký tự nguyện nghỉ). Cách nhận trợ cấp thất nghiệp xem chương 7 mục 1."
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}

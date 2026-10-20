@@ -1,0 +1,48 @@
+{
+  "id": "e-12-21",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "961c6d9146bd0d1dcf43924a05b059d3c3c3701f10bf3d40e1fd60e5c01601ae",
+  "status": "outdated",
+  "original": {
+    "number": 21,
+    "title": "商品、包装、吊牌和宣传图上的图案要么自己做要么买授权，改个颜色、加个图标不算「改过了」",
+    "fields": {
+      "cost": "正版图库的授权从几十元一张起。找人原创设计，几百到几千元。每一张用在商品上的图，都留一份授权凭证和购买记录。难的是不去用网上随手搜来的图。",
+      "plain": "在别人的图上改个颜色、换个底色、加个自己的图标，还是没经许可用别人的作品。为赚钱复制别人的美术作品，挣到 3 万、做到 5 万，或者印够 500 张，就构成侵犯著作权罪，判 3 年以下。商标那边，「像到容易混淆」本身就算侵权。",
+      "benefit": "著作权法把「未经著作权人许可，以改编、翻译、注释等方式使用作品」和直接复制并列为侵权行为。所以在原图上改颜色、换底色、加个自己的图标，仍然是未经许可使用别人的作品。要判刑的门槛在这里：为了赚钱，没经作品的版权人（著作权人）许可，就把美术作品印出来卖（复制发行）。够上罪的是三个数。挣到的钱（违法所得）够 3 万元。或者这门买卖做到 5 万元（非法经营数额）。或者印出来的件数加起来够 500 份（张）。到了其中任何一个数，就构成侵犯著作权罪。判 3 年以下，同时罚钱，或者只罚钱。达到十倍标准的判 3 到 10 年。只是卖别人印的侵权货，挣到 5 万元以上，或者卖出去 10 万元以上，按销售侵权复制品罪判 5 年以下。商标也一样，下面两种「容易导致混淆的」本身就在侵权范围内。一种是在同一种商品上使用与注册商标近似的商标。另一种是在类似商品上使用相同或者近似的商标。「近似」是法条明写的侵权情形。别人的商标改一改再用，只要容易导致混淆，仍然算侵权（全国，司法解释 2025 年 4 月 26 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020). 著作权法（2020 年修正，第五十二条第六项、第五十三条）. <http://www.npc.gov.cn/npc/c2/c30834/202011/t20201119_308796.html>；全国人大常委会 (2020). 刑法修正案（十一）（第二十、二十一项，即刑法第二百一十七、二百一十八条）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；最高人民法院、最高人民检察院 (2025). 关于办理侵犯知识产权刑事案件适用法律若干问题的解释（法释〔2025〕5 号）. <https://www.spp.gov.cn/xwfbh/wsfbt/202504/t20250424_693977.shtml>；全国人大常委会 (2019). 商标法（2019 年修正，第五十七条第二项；2026 年修订后为第七十二条第二项）. <https://www.cnipa.gov.cn/art/2019/7/30/art_95_28179.html>",
+      "notes": "常踩的有三处。一是把网上搜来的卡通形象和明星图，印在衣服、杯子、手机壳上。二是字体：商用字体多数要单独授权，免费预览不等于免费商用。三是给客户做的设计稿里夹了没授权的素材，责任仍然在卖货的人身上。要省事，就用有商用授权的图库，并且把授权页存下来。或者让设计方在合同里写清素材从哪儿来、授权到什么范围，出了事由设计方负责。判刑之外还有民事赔偿和行政罚款：损害公共利益的，可以没收违法所得，并按违法经营额的 1 到 5 倍罚款。投产前查商标见第 19 条（样品先过一遍量产清单）。反过来，自己的图被别人用了，也按这套规则维权。把别人的漫画、影视剧传到网上，挂广告、收会员费的刑事线，见第 9 节第 24 条（汉化漫画、搬运影视剧）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "previous_translation": {
+    "number": 21,
+    "title": "Hình trên hàng, bao bì, thẻ treo, quảng cáo phải tự làm hoặc mua quyền; đổi màu, thêm biểu tượng không có nghĩa “đã sửa thì được dùng”",
+    "fields": {
+      "cost": "Quyền dùng ảnh từ kho chính thức từ vài chục nhân dân tệ mỗi ảnh. Thuê thiết kế gốc vài trăm đến vài nghìn nhân dân tệ. Mỗi hình dùng trên hàng đều giữ giấy cấp quyền và lịch sử mua. Điều khó là không dùng hình tiện tìm trên mạng.",
+      "plain": "Đổi màu, nền hoặc thêm biểu tượng riêng vào hình người khác vẫn là dùng tác phẩm chưa được phép. Sao chép mỹ thuật để kiếm lời, lãi 3 vạn, doanh số 5 vạn nhân dân tệ hoặc in đủ 500 bản đã cấu thành tội xâm phạm quyền tác giả, phạt tù đến 3 năm. Với nhãn hiệu, “giống đến mức dễ nhầm” tự nó đã là xâm phạm.",
+      "benefit": "Luật Quyền tác giả xếp “sử dụng tác phẩm bằng cách cải biên, dịch, chú giải khi chưa được phép” cùng sao chép trực tiếp là hành vi xâm phạm. Vì vậy đổi màu, nền, thêm biểu tượng vẫn là dùng tác phẩm trái phép. Ngưỡng hình sự: vì lợi nhuận, chưa được chủ quyền cho phép mà in tác phẩm mỹ thuật để bán, tức sao chép, phát hành. Có ba ngưỡng: thu lợi bất hợp pháp đủ 3 vạn nhân dân tệ; giá trị kinh doanh trái phép đủ 5 vạn nhân dân tệ; hoặc tổng số bản in đủ 500. Đạt bất kỳ ngưỡng nào là tội xâm phạm quyền tác giả, phạt tù đến 3 năm kèm phạt tiền hoặc chỉ phạt tiền. Đạt mười lần ngưỡng thì 3 đến 10 năm. Chỉ bán hàng sao chép vi phạm do người khác in, thu lợi từ 5 vạn hoặc doanh số từ 10 vạn nhân dân tệ thì bị xử tội bán bản sao xâm phạm, tù đến 5 năm. Nhãn hiệu cũng vậy: dùng nhãn tương tự nhãn đã đăng ký trên cùng loại hàng, hoặc nhãn giống/tương tự trên hàng tương tự, “dễ gây nhầm lẫn” đã thuộc xâm phạm. “Tương tự” là trường hợp luật ghi rõ; sửa chút ít vẫn xâm phạm (toàn quốc, giải thích tư pháp có hiệu lực ngày 26 tháng 4 năm 2025).",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020). 著作权法（2020 年修正，第五十二条第六项、第五十三条）. <http://www.npc.gov.cn/npc/c2/c30834/202011/t20201119_308796.html>；全国人大常委会 (2020). 刑法修正案（十一）（第二十、二十一项，即刑法第二百一十七、二百一十八条）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；最高人民法院、最高人民检察院 (2025). 关于办理侵犯知识产权刑事案件适用法律若干问题的解释（法释〔2025〕5 号）. <https://www.spp.gov.cn/xwfbh/wsfbt/202504/t20250424_693977.shtml>；全国人大常委会 (2019). 商标法（2019 年修正，第五十七条第二项；2026 年修订后为第七十二条第二项）. <https://www.cnipa.gov.cn/art/2019/7/30/art_95_28179.html>",
+      "notes": "Ba lỗi hay gặp: in nhân vật hoạt hình, ảnh người nổi tiếng tìm trên mạng lên áo, cốc, ốp điện thoại; phông chữ thương mại đa số cần quyền riêng, xem thử miễn phí không phải dùng thương mại miễn phí; thiết kế làm cho khách có nguyên liệu chưa được cấp quyền, người bán hàng vẫn chịu trách nhiệm. Muốn đơn giản, dùng kho hình có quyền thương mại và lưu trang cấp quyền; hoặc yêu cầu nhà thiết kế ghi trong hợp đồng nguồn nguyên liệu, phạm vi quyền và trách nhiệm khi có chuyện. Ngoài án hình sự còn bồi thường dân sự, phạt hành chính: gây hại lợi ích công cộng có thể bị tịch thu thu nhập bất hợp pháp và phạt 1 đến 5 lần doanh số bất hợp pháp. Tra nhãn trước sản xuất xem mục 19 (kiểm tra danh sách sản xuất hàng loạt sau khi làm mẫu). Ngược lại, hình của mình bị người khác dùng cũng bảo vệ theo các quy tắc này."
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "pilot": false
+}
