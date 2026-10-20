@@ -1,0 +1,14 @@
+{
+  "id": "e-16-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f473a2cd3d4b4a60ecdf05988bcfa1363b17d7264718f295b7e6c4c5aee55524",
+  "translator": "pilot_medicine",
+  "translation": {
+    "title": "Làm thủ tục công nhận diện bệnh mạn tính và bệnh đặc biệt điều trị ngoại trú rồi đăng ký khám chữa bệnh ngoài địa phương để được thanh toán trực tiếp cho tăng huyết áp, đái tháo đường, xạ trị, hóa trị, lọc máu và điều trị chống thải ghép",
+    "cost": "Không tốn tiền. Trước khi đi, đăng ký khám chữa bệnh ngoài địa phương một lần trên ứng dụng bảo hiểm y tế; có thể làm bằng điện thoại.",
+    "plain": "Với năm nhóm điều trị ngoại trú gồm tăng huyết áp, đái tháo đường, xạ trị và hóa trị ung thư, lọc máu do hội chứng urê huyết và chống thải ghép sau ghép tạng, về cơ bản có thể dùng bảo hiểm y tế để thanh toán trực tiếp ở địa phương khác. Không cần tự ứng tiền rồi về nơi tham gia bảo hiểm xin hoàn trả. Tuy nhiên, trước hết phải được công nhận thuộc diện bệnh mạn tính và bệnh đặc biệt điều trị ngoại trú tại nơi tham gia bảo hiểm, rồi đăng ký khám chữa bệnh ngoài địa phương. Phải làm cả hai thủ tục mới có tác dụng.",
+    "benefit": "Văn bản của Cục Bảo hiểm Y tế Quốc gia Trung Quốc cho biết đã đạt bước này. Nguyên văn là: “Về cơ bản đã bảo đảm tiếp cận ở cấp huyện việc thanh toán trực tiếp chi phí giữa các tỉnh cho 5 nhóm bệnh mạn tính và bệnh đặc biệt điều trị ngoại trú gồm tăng huyết áp, đái tháo đường, xạ trị và hóa trị ngoại trú cho khối u ác tính, lọc máu do hội chứng urê huyết và điều trị chống thải ghép sau ghép tạng”. “Tiếp cận ở cấp huyện” nghĩa là có thể thực hiện ngay ở cấp huyện. Văn bản còn bổ sung thêm 5 nhóm bệnh ngoài 5 nhóm này.",
+    "notes": "Điều kiện là phải làm cả hai việc: trước hết được công nhận thuộc diện bệnh mạn tính và bệnh đặc biệt điều trị ngoại trú tại nơi tham gia bảo hiểm, rồi đăng ký khám chữa bệnh ngoài địa phương. Tiến độ triển khai 5 nhóm bệnh bổ sung khác nhau giữa các nơi; hãy theo thông báo của cơ quan bảo hiểm y tế địa phương. Nếu bệnh viện không có thuốc thuộc danh mục đàm phán giá mà bạn cần, xem chương 24 mục 13 (nhà thuốc được chỉ định theo cơ chế hai kênh).",
+    "extra": ""
+  }
+}

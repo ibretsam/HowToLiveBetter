@@ -1,0 +1,15 @@
+{
+  "id": "e-13-43",
+  "source_sha256": "839ea6561836aee7d8acce16b6bdac479c1873af7699bee6915b402b6dfd610c",
+  "draft_sha256": "58ac7326ca645f9191d626f7266a4767446ff9576f30878a014ebf99945c8608",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ chuỗi 5 vỗ lưng/5 ép ngực, không ép bụng, chuyển CPR khi mất đáp ứng, chỉ lấy dị vật nhìn thấy. Giữ khác biệt nguồn về thời điểm gọi cấp cứu, gót bàn tay AHA/AAP so với hai ngón cái IFRC và loại bỏ hai ngón tay năm 2025. Giữ bất nhất tuổi của nguồn: tiêu đề 不满1岁 loại trừ 1 tuổi, còn trích dẫn 1岁以下 bao gồm ngưỡng này."
+}

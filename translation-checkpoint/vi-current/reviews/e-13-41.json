@@ -1,0 +1,15 @@
+{
+  "id": "e-13-41",
+  "source_sha256": "466ca9e1d2fd3b364841b61625d47def54d6883ac1d00fdd6e3446bb77b35e89",
+  "draft_sha256": "dfe67289b05f0052de8cf49fbecad3d3b82089ae8a91a18d12d285b5af02b2f7",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ giới hạn chườm lạnh 20 phút, hai nhóm điều kiện nắn tại nơi hẻo lánh, MRI/CT trong 24 giờ và trung vị 20%. Sửa tên cơ quan 美国放射学会 từ Trường môn thành Hội Điện quang Hoa Kỳ. Giữ bất nhất trong nguồn giữa câu X-quang là cách duy nhất và phần sau về gãy kín đáo cần MRI; không tự sửa luận điểm nguồn."
+}

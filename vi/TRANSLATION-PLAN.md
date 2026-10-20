@@ -1,6 +1,6 @@
 # Tiến độ và kế hoạch hoàn thành bản dịch tiếng Việt
 
-Cập nhật: **20/10/2026 (giờ Việt Nam)**. Đã bắt đầu thực hiện: hoàn thành lô thử 30 mục và lời dẫn chương 34, có rà soát song ngữ độc lập. Chưa thiết lập lịch chạy tự động.
+Cập nhật: **20/10/2026 (giờ Việt Nam), sau đợt 2**. Đã dịch và rà soát song ngữ độc lập tổng cộng 99 mục và bốn lời dẫn chương. Chưa thiết lập lịch chạy tự động.
 
 ## Phạm vi và phiên bản đích
 
@@ -12,14 +12,16 @@ Các commit nguồn xuất hiện sau mốc này được ghi thành đợt cậ
 
 | Trạng thái mục | Số lượng | Tỷ lệ trên 765 mục |
 |---|---:|---:|
-| Bản nháp tiếng Việt khớp nguồn hiện tại | 125 | 16,3% |
-| Có bản tiếng Việt cũ, cần cập nhật | 535 | 69,9% |
-| Chưa có bản dịch dùng được cho mục hiện tại | 105 | 13,7% |
-| Tổng có bản tiếng Việt, gồm bản cũ | 660 | 86,3% |
+| Bản nháp tiếng Việt khớp nguồn hiện tại | 191 | 25,0% |
+| Có bản tiếng Việt cũ, cần cập nhật | 478 | 62,5% |
+| Chưa có bản dịch dùng được cho mục hiện tại | 96 | 12,5% |
+| Tổng có bản tiếng Việt, gồm bản cũ | 669 | 87,5% |
 
-**86,3% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 125 mục khớp nguồn gồm 95 mục có nguồn chưa đổi và 30 mục của đợt mới đã qua rà soát độc lập. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
+**87,5% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 191 mục khớp nguồn gồm 92 mục có nguồn chưa đổi chưa qua quy trình rà soát mới và 99 mục đã qua rà soát độc lập trong hai đợt. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
 
 Lô thử đã xử lý **11 mục chưa dịch và 19 mục cần cập nhật**, cộng lời dẫn chương 34. Chương 34 có đủ 12/12 mục và lời dẫn khớp nguồn đích. Trước khi bắt đầu, số liệu là 95/554/116; danh sách công việc trong checkpoint giữ mốc ban đầu để đối chiếu.
+
+**Đợt 2 xử lý 69 mục và ba lời dẫn:** dịch mới 9 mục, cập nhật 57 mục và rà soát lại 3 mục có nguồn chưa đổi. Hoàn thiện chương 13 (48/48 mục), chương 16 (14/14) và chương 20 (17/17), gồm cả lời dẫn. Cùng chương 34, hiện có bốn chương được rà soát đầy đủ theo nguồn đích. Hồ sơ từng mục ghi các lỗi đã sửa và điểm bất nhất của nguồn được giữ nguyên; xem `translation-checkpoint/vi-current/batch-2-report.json`.
 
 Bài viết dài: 1/9 bản nháp còn khớp nguồn, 7/9 cần cập nhật, 1/9 chưa dịch. Phần hướng dẫn đọc và lời dẫn chương cần đối chiếu riêng; không được bỏ qua khi đủ 765 mục.
 
@@ -31,7 +33,7 @@ Kiểm tra hiện tại:
 
 - `python3 tools/check-vi.py`: đạt cho snapshot cũ 01/10/2026 — 137 lô, 4.103 đoạn, 43 tệp, 649 mục. Không dùng kết quả này để tuyên bố đã dịch xong nguồn mới.
 - `python3 tools/check-vi-site.py`: đạt độ phủ 34 chương, 765 mục và 9 bài dài, cùng nhãn trạng thái và liên kết nguồn.
-- `python3 tools/check-vi-updates.py`: 31 bản nháp đạt, 31 bản ghi rà soát độc lập hợp lệ (30 mục và một lời dẫn).
+- `python3 tools/check-vi-updates.py`: 103 bản nháp đạt, 103 bản ghi rà soát độc lập hợp lệ (99 mục và bốn lời dẫn).
 - `python3 tools/test-vi-updates.py`: 7 bài kiểm tra bảo vệ checkpoint đạt, gồm số liệu, URL, thiếu trường, cấu trúc bảng, thuật ngữ giữ nguyên và sửa sau rà soát.
 - Thử tiếp tục: 62 tệp bản nháp/rà soát giữ nguyên dấu kiểm sau khi chạy lại bước chuẩn bị.
 - Trang đọc giữ cảnh báo cho phần chưa xử lý; nhãn lời dẫn lấy theo trạng thái thực tế.
@@ -101,7 +103,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 
 ## Danh sách theo chương
 
-“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau lô thử ngày 20/10/2026.
+“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau đợt 2 ngày 20/10/2026.
 
 | Chương | Tổng mục | Khớp nguồn | Cần cập nhật | Chưa dịch |
 |---|---:|---:|---:|---:|
@@ -117,14 +119,14 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 10. Yêu và kết hôn có đáng không | 23 | 1 | 19 | 3 |
 | 11. Những ranh giới pháp luật mà lập trình viên và người làm kỹ thuật dễ vượt qua | 21 | 2 | 15 | 4 |
 | 12. Khởi nghiệp và kinh doanh: đừng mất cả tài sản gia đình | 28 | 0 | 23 | 5 |
-| 13. Tình huống khẩn cấp: làm gì trước | 48 | 11 | 37 | 0 |
+| 13. Tình huống khẩn cấp: làm gì trước | 48 | 48 | 0 | 0 |
 | 14. An toàn tài khoản và thông tin | 12 | 3 | 6 | 3 |
 | 15. Thuê và mua nhà | 18 | 0 | 9 | 9 |
-| 16. Sống thế nào sau khi mắc bệnh mạn tính | 14 | 1 | 8 | 5 |
+| 16. Sống thế nào sau khi mắc bệnh mạn tính | 14 | 14 | 0 | 0 |
 | 17. Khi gia đình có người cao tuổi | 13 | 1 | 8 | 4 |
 | 18. Nuôi con có đáng không | 7 | 1 | 5 | 1 |
 | 19. Đang làm việc, nghỉ việc và tai nạn lao động | 24 | 13 | 11 | 0 |
-| 20. Chăm trẻ mới sinh thế nào | 17 | 1 | 12 | 4 |
+| 20. Chăm trẻ mới sinh thế nào | 17 | 17 | 0 | 0 |
 | 21. Ra nước ngoài, du lịch và an toàn ở nước ngoài | 13 | 1 | 10 | 2 |
 | 22. Thư giãn thế nào: nơi giải trí và giảm căng thẳng | 12 | 1 | 9 | 2 |
 | 23. Học kỹ năng nào đáng công | 25 | 5 | 18 | 2 |

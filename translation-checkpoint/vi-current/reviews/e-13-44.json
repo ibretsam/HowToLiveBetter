@@ -1,0 +1,15 @@
+{
+  "id": "e-13-44",
+  "source_sha256": "2e67925dddb36835047e13a9d4ecb61dac011cc190e3fbe1317e05c87cfbeb8e",
+  "draft_sha256": "cbb2ead005b75a7f89c50796f5fd4678988e5d29cc47bb49337a7202cd9a36aa",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu độ sâu tối thiểu một phần ba lồng ngực, 1.5 inch/4 cm, 100–120 lần, tỷ lệ 30:2/15:2 và toàn bộ thống kê 3900 trẻ, 59.4%, 13.2%/9.5%, OR/CI. Sửa 1岁以内 thành từ 1 tuổi trở xuống, giữ khác biệt với tiêu đề 不满1岁. Giữ quy trình gọi sau 1 phút IFRC so với 2 phút Trung Quốc/Mỹ và thổi trước/ép trước theo nguồn; không hòa giải các hướng dẫn."
+}

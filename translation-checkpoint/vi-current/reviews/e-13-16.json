@@ -1,0 +1,15 @@
+{
+  "id": "e-13-16",
+  "source_sha256": "f274abe8402bba8e743eaa2db761edce9600cb9bdb1250d45b228b7267336af8",
+  "draft_sha256": "7127f8d0f996cff155880c2234c611563f2ceedf16bea516da659898fe07e614",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu các chỉ định cấp cứu 5 phút, một bên người, trên 1 giờ sau cơn và trong 24 giờ, cùng phạm vi 6–60 tháng của hướng dẫn. Giữ không ghì/không nhét miệng, không cho nước trước tỉnh hoàn toàn, và giới hạn miễn trách nhiệm dân sự. Nguồn có cách diễn đạt thời điểm nằm nghiêng khác nhau giữa tiêu đề và ghi chú; không tự sửa."
+}

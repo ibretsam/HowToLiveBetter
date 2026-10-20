@@ -1,0 +1,15 @@
+{
+  "id": "e-16-9",
+  "source_sha256": "f1b0ac85744561c4114e7b0566071309d32e1e37b0ed3cf087451d291a690652",
+  "draft_sha256": "d97eab793d14afff9b95dfd470fbda5d63ef4cced30e92db4d19fc851192b9a0",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ số liệu, điều kiện chỉ định, khác biệt CARES/FAST, dự phòng chống viêm và xét nghiệm HLA. Giữ bất nhất của nguồn: title/plain viết360trở xuống còn benefit dùng<360; không tự thống nhất ngưỡng."
+}

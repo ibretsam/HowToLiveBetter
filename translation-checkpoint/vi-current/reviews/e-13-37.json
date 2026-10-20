@@ -1,0 +1,15 @@
+{
+  "id": "e-13-37",
+  "source_sha256": "6287f350852c051719f82e15441187a83c88a76bf792cfc2e276493e6a966e71",
+  "draft_sha256": "612f88677c5ce1145ec7c94b5afcbcefff0ef4257d44ceb9cae411c00af6b4b8",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ các trường và các căn cứ pháp luật Trung Quốc; sửa 拘役 thành giam giữ hình sự ngắn hạn, tránh nhầm với tạm giam trước xét xử. Giữ các khung tù, tạm giữ, tiền phạt, điều kiện phòng vệ đang diễn ra, nghĩa vụ làm chứng và hai giới hạn sau khi rời hiện trường; kiểm tra các tham chiếu chương 8, 13."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-16-7",
+  "source_sha256": "dff40d13ca7081c69c6b315b1a842a9efa8de0b03069cd9f0639766a8c769a4a",
+  "draft_sha256": "72f196703d096711dd1d7f373b012a0b13fbda418dfd463650582b386164f9b5",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ thời điểm khám đáy mắt khác nhau giữa típ1/típ2, điều kiện giãn lịch kiểm tra, khám chân hằng năm và tự kiểm tra hằng ngày khi giảm cảm giác; sửa cách diễn đạt khoảng thời gian."
+}

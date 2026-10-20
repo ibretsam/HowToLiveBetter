@@ -1,0 +1,15 @@
+{
+  "id": "e-13-23",
+  "source_sha256": "b66f59bde9e9fefe1520f1ae49d85de5adcbb15aba805a0a48a87567535931a0",
+  "draft_sha256": "670d3392d43abd51c2d5b69a932ccba49bb85016d7ffced6479c81aecc650426",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu điều kiện còn tỉnh, lượng 500–1000 mililít và 2~4 cốc, khoảng 15–20 phút, không dùng viên muối. Ghi chú của nguồn liệt kê chườm đầu/nách/bẹn trong khi mục22 có ý kiến khác; giữ đúng văn bản và không tự sửa. Giữ hạ nhiệt trước bù nước, không cho uống khi nói líu."
+}

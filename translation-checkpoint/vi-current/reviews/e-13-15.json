@@ -1,0 +1,15 @@
+{
+  "id": "e-13-15",
+  "source_sha256": "de2567e40d33fcc90d717963cf46aae96f1134ae3a5025cf19e72999bb99917d",
+  "draft_sha256": "f211a4a8922ea100ceac67a373e527f5ee236efc658cce36e54620e561aa549d",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu sốc phản vệ từ độ hai trở lên, bút xuyên quần áo không dày và điều kiện có đơn/luật cho phép người khác hỗ trợ. Giữ mức bằng chứng rất thấp dù khuyến nghị mạnh và vị trí ngoài hơi trước giữa đùi; không tự thêm cách dùng thuốc."
+}

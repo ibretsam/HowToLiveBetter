@@ -1,0 +1,15 @@
+{
+  "id": "e-13-13",
+  "source_sha256": "a84501df29cef32e6b6230d68b0b05f6d71ae7e4aac5bc934a8d2a11d7359dee",
+  "draft_sha256": "06e0ee1e20158d50e7e6356c3f273ec2c16f0ca7b7aff581692c8e441fdbbe02",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu phơi nhiễm II/III, rửa luân phiên khoảng 15 phút, tiêm miễn dịch thụ động và vaccine, tỷ lệ gần 100%. Giữ ý theo dõi mười ngày chỉ quyết định ngừng chứ không trì hoãn bắt đầu tiêm, cùng tham chiếu chương 8 mục 30."
+}

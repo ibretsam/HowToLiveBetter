@@ -1,0 +1,15 @@
+{
+  "id": "e-13-35",
+  "source_sha256": "b47e65a2ce923b5b804d6e33f82de9fbc15f31a644b609095c33a7211eaa1d23",
+  "draft_sha256": "81f3975069cd4ece39b8cc09ab25796154880a4e6436c7d029466679e85ea584",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mốc sôi một phút và giới hạn độ cao du lịch thường gặp, các hạn chế riêng bộ lọc/hoá chất với virus/Cryptosporidium. Giữ phương án 60 ℃ trong 30 phút và khác biệt mầm bệnh theo mức hoạt động người/động vật. Không mở rộng lời khuyên độ cao ra ngoài nguồn."
+}

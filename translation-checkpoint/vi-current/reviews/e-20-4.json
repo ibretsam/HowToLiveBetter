@@ -1,0 +1,15 @@
+{
+  "id": "e-20-4",
+  "source_sha256": "835afaf28925dddf8d088d3b067c443dbb0f8eadcb82ab179884aacdd1b7baf6",
+  "draft_sha256": "aacc42958f999da51d212b7647f46517fd54ed7f300d7b1ef0e6b4f0b0a7a334",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared exclusive breastfeeding and water exclusion, initiation within one hour, complementary feeding from6 months, continuation to2 years, formula fallback, author risk comparison, food diversity and all references. No corrections needed."
+}

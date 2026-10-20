@@ -1,0 +1,15 @@
+{
+  "id": "e-16-6",
+  "source_sha256": "d2401535e6368c48c4d8dbbfc4ef0ef9bf97e84d4e92ff05357de85fb003f834",
+  "draft_sha256": "680ecc8395c0052184bad3f3b0e7f604a4688cfd3b94af6316e8a45221fb1e7f",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ: gói cơ bản theo quy định bảo hiểm, gói cá nhân hóa tự trả và phải đăng ký cấp huyện; ba câu hỏi trước khi ký giữ đủ."
+}

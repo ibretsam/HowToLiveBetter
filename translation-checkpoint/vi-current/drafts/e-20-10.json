@@ -1,0 +1,14 @@
+{
+  "id": "e-20-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "bde16599933eed5371bd283cf7b7727ce83a0d6bd60f667126425eba8108b11a",
+  "translator": "pilot_employment",
+  "translation": {
+    "title": "Chọn tã theo ba điều thay vì thương hiệu: có vừa không, có thay thường xuyên không và từng bị nêu trong thông báo kiểm tra chất lượng chưa",
+    "cost": "Từ hai ba trăm đến hơn một nghìn nhân dân tệ mỗi tháng, tùy loại bạn dùng.",
+    "plain": "Chưa có cơ quan chính thức nào xếp hạng “thương hiệu nào tốt nhất”. Chỉ có hai loại thông tin tra được: thông báo kiểm tra lấy mẫu chất lượng sản phẩm của Tổng cục Quản lý Thị trường và điều tra của cơ quan quản lý về vụ việc cụ thể. Đắt tiền không có nghĩa an toàn, hàng nhập khẩu không có nghĩa đạt chuẩn. Mua gói nhỏ dùng thử một tuần, xem trẻ có hăm mông hoặc vết hằn do tã siết không, hợp rồi mới mua dự trữ.",
+    "benefit": "Không có cơ quan chính thức nào công bố bảng xếp hạng “thương hiệu nào tốt nhất”, nên sách không đề xuất thương hiệu. Chỉ có hai loại thông tin có thể kiểm chứng. Một là thông báo kiểm tra lấy mẫu chất lượng sản phẩm của Tổng cục Quản lý Thị trường Trung Quốc. Hai là điều tra của cơ quan quản lý về vụ việc cụ thể. Sau khi “vấn đề formamide trong tã giấy cho trẻ nhỏ” được chú ý vào tháng 6 năm 2026, Tổng cục Quản lý Thị trường chủ trì thành lập tổ điều tra liên ngành để xác minh.",
+    "notes": "Khi thành lập, tổ điều tra liên ngành chỉ nói “thông tin liên quan sẽ được công bố kịp thời”. TODO (cần xác minh: kết luận điều tra. Tính đến ngày 30 tháng 9 năm 2026, chưa tìm thấy kết luận về tã giấy trên trang chính thức của Tổng cục Quản lý Thị trường hoặc trong các thông báo kiểm tra giám sát cấp quốc gia những năm gần đây). Cách mua thực tế: đắt tiền không có nghĩa an toàn, hàng nhập khẩu không có nghĩa đạt chuẩn. Mua gói nhỏ dùng thử một tuần, xem trẻ có hăm mông hoặc vết hằn do tã siết không, hợp rồi mới mua dự trữ. Những câu này là kinh nghiệm của tác giả. NHS Anh cho biết nguyên nhân hăm tã thường gặp là nước tiểu và phân tiếp xúc với da quá lâu, thay tã chưa đủ thường xuyên hoặc tã cọ vào da. Một số loại tã không thấm hút, không thoáng khí cũng có thể gây hăm. NHS còn khuyến nghị tã phải vừa, không quấn quá chặt. Cách tra thông báo kiểm tra chất lượng xem chương 5.",
+    "extra": ""
+  }
+}

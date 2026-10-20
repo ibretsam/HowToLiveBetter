@@ -1,0 +1,14 @@
+{
+  "id": "e-20-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ee4910caa9104c6db25567270db8b7a86d954f6f98e8c9f89154d7d3a2313c5a",
+  "translator": "pilot_employment",
+  "translation": {
+    "title": "Tiêm mũi vắc-xin viêm gan B đầu tiên trong vòng 24 giờ sau sinh",
+    "cost": "Không tốn tiền. Vắc-xin viêm gan B thuộc chương trình tiêm chủng quốc gia nên vốn đã miễn phí. Trẻ được tiêm ngay tại bệnh viện trong ngày chào đời, không phải đi thêm chuyến khác.",
+    "plain": "Trẻ cần được tiêm mũi vắc-xin viêm gan B đầu tiên trong vòng 24 giờ sau sinh. Trong những người nhiễm viêm gan B ở tuổi nhũ nhi và trẻ nhỏ, khoảng 95% sẽ chuyển thành viêm gan mạn tính. Người đến tuổi trưởng thành mới nhiễm phần lớn có thể tự khỏi, nên mũi này càng tiêm sớm càng có ích. Nếu mẹ dương tính với kháng nguyên bề mặt viêm gan B, trẻ còn cần được tiêm đồng thời globulin miễn dịch viêm gan B trong vòng 12 giờ sau sinh.",
+    "benefit": "Tổ chức Y tế Thế giới nêu: “Tất cả trẻ nhũ nhi cần được tiêm vắc-xin viêm gan B càng sớm càng tốt sau sinh, trong vòng 24 giờ”. Lý do là “khoảng 95% trường hợp nhiễm ở tuổi nhũ nhi và trẻ nhỏ sẽ phát triển thành viêm gan mạn tính”. Phần lớn người nhiễm khi đã trưởng thành có thể tự khỏi, tức khỏi mà không cần điều trị. Nguyên văn WHO nêu tỷ lệ chuyển thành mạn tính khi nhiễm ở tuổi trưởng thành là “dưới 5%”. Quy chuẩn phòng lây truyền từ mẹ sang con của Ủy ban Y tế Quốc gia Trung Quốc yêu cầu trẻ sinh từ mẹ dương tính với kháng nguyên bề mặt viêm gan B phải “được tiêm mũi vắc-xin viêm gan B đầu tiên càng sớm càng tốt trong vòng 12 giờ sau sinh, đồng thời tiêm 100 đơn vị quốc tế globulin miễn dịch viêm gan B”.",
+    "notes": "Nếu mẹ dương tính với kháng nguyên bề mặt viêm gan B, sau sinh trẻ còn cần được tiêm đồng thời một mũi globulin miễn dịch viêm gan B. Phải làm rõ việc này trong các lần khám thai, đừng đợi sinh xong mới hỏi. Những xét nghiệm sàng lọc mẹ cần làm xem chương 1.",
+    "extra": ""
+  }
+}

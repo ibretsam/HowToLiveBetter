@@ -1,0 +1,15 @@
+{
+  "id": "e-13-25",
+  "source_sha256": "7b73f5e192affc37e3077e2deb068eaa6c2ea0a18ac898c3cad5d34458cf2b9f",
+  "draft_sha256": "b23ba371be8fc7d764a0731c7a1bd99e94cbe37617dcea92ae36a09251227d90",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu số liệu 30 vạn, 92%, thứ hạng nguyên nhân tử vong theo tuổi. Giữ trình tự cứu từ bờ, không chạm người vùng vẫy, điều kiện người đã xuống nước phải hiểu môi trường và có vật nổi, và hồi sinh tim phổi khi không đáp ứng/thở bất thường. Giữ nguồn suy luận của tác giả và hai tham chiếu chương1."
+}

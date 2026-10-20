@@ -1,0 +1,15 @@
+{
+  "id": "e-16-12",
+  "source_sha256": "e8f12c7c01ed7387e6a83deb64a5df4226a5946957dc340be1d173363a21e868",
+  "draft_sha256": "41e19cdb468e1f841b32c8aa0eb5d6f54860f1527d5bbca97f09b20b2f7b70a0",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tất cả số liệu COPD, cách dùng thuốc hít, thời điểm phục hồi phổi và bằng chứng tử vong chưa rõ. Làm rõ tỷ lệ cao gấp khoảng hai lần. Giữ31%/41%/31% của nguồn dù tổng vượt100%, không tự chuẩn hóa."
+}

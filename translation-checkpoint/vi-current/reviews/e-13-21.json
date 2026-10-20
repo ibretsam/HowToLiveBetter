@@ -1,0 +1,15 @@
+{
+  "id": "e-13-21",
+  "source_sha256": "c48d2f121be60ad70355fc0132a97c04271d8826e97536ea68044a79a5382f77",
+  "draft_sha256": "2f7cc0902bfc7c1a1378a78f5bbaa3693c39d84908815b2318a8910f3bed671f",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ba bước, 15 phút so với 20–30 phút, cách rửa mắt và trách nhiệm chi phí của đơn vị. Giữ ngoại lệ bột khô phủi trước, không trung hòa tại chỗ và nguồn không đưa khuyến nghị lau axit sulfuric vì chưa thống nhất. Giữ đủ tham chiếu chương 19 mục 9,10."
+}

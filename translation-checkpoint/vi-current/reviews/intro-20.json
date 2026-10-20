@@ -1,0 +1,15 @@
+{
+  "id": "intro-20",
+  "source_sha256": "17ef74e4fa2e4f2b7b3e079c9f713041aa16d2d412c83abd312b505fd9c39197",
+  "draft_sha256": "831c9214ff508d89456fc5cde9bcee949da3b0080fc8e65a521516409e2a01cb",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared entire title/introduction: infant mortality and money scope, large effects and strong evidence criteria, exclusion of parenting details and chapter27 reference. No corrections needed."
+}

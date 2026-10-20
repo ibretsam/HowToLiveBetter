@@ -1,0 +1,15 @@
+{
+  "id": "e-16-14",
+  "source_sha256": "eb12b089ed6fa23d466464a2b874068fc7d530ee55e65da5b34de38dfd0c8360",
+  "draft_sha256": "dbeafb4b3a4abd027be86d8da4695fa35de5097342eb94f94f371f600f979051",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ tiêu chuẩn CHALLENGE, thời gian hỗ trợ ba năm, MET-giờ, kết cục chính/phụ, chấn thương và chi phí Canada. Sửa cách đọc八成三 thành tám mươi ba phần trăm; giữ giới hạn chỉ ung thư đại tràng đã phẫu thuật/hóa trị, chưa di căn."
+}

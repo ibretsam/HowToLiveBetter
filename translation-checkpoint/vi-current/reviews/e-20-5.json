@@ -1,0 +1,15 @@
+{
+  "id": "e-20-5",
+  "source_sha256": "8a8735d5b279aa142f30770b9e19a3c32b1638243bacaaefb58e56ace2653e00",
+  "draft_sha256": "3afb86dae38db82c81ec6c6af424d5f0d3ce77acd7adf279ba69f09547221ef6",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared temperatures, mortality, log reduction, vitamin C figures, prematurity/weight/age qualifiers and German versus WHO guidance. Changed 十万分之一以下 from strictly below to no more than, following the inclusive convention; ≥5 log and ≤one hundred-thousandth are consistent. Source cooling instruction and limited single-study conclusion are preserved."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-20-9",
+  "source_sha256": "0f3d7eb0768be6fe459404b053909f17038cff71af317696b61641234356317c",
+  "draft_sha256": "49b864797da0e3dca11b348ac94d602a60f041e118f9db418a400da9be80dab8",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared violent versus gentle rocking, mechanisms, death/disability, caregiver stepping away and reference. Made2岁以下 and5岁以下 inclusive per glossary; no other meaning changes."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-20-7",
+  "source_sha256": "fb11be3a00a7223f91ad50ac679ca30d64a4cddd4ff6f863d8eed3cd18b13c82",
+  "draft_sha256": "3bd466a399b442a392613630a6123561938d32cd6f2b96c4702078d736a31939",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared intramuscular1 or2mg, incidence478 per100000, population4.2万, strict78.5% reduction, oral fallback only if injection refused and weekly dosing for breastfed infants for3 months. Routine China practice remains explicitly author experience. No corrections needed."
+}

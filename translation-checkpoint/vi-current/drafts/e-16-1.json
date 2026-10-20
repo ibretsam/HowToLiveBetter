@@ -1,0 +1,14 @@
+{
+  "id": "e-16-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ea103c284e4e3d59992056ce8e34651bc071063632c78ed64882c4501b50bdba",
+  "translator": "pilot_medicine",
+  "translation": {
+    "title": "Uống thuốc đầy đủ theo chỉ định của bác sĩ, đừng ngừng chỉ vì thấy khỏe hơn",
+    "cost": "Không tốn tiền, còn tiết kiệm được tiền điều trị biến chứng về sau. Uống thuốc mỗi ngày chỉ mất vài phút; khó ở chỗ duy trì không bỏ ngày nào.",
+    "plain": "Người uống thuốc đầy đủ theo lời bác sĩ có khả năng tử vong trong cùng khoảng thời gian chỉ bằng khoảng một nửa người uống ngắt quãng. Cần nhìn con số này một cách thận trọng. Ngay cả người uống đầy đủ thuốc giả cũng có tỷ lệ tử vong thấp hơn, cho thấy một phần lợi ích đến từ việc người kiên trì uống thuốc vốn đã chú ý sức khỏe hơn.",
+    "benefit": "Gộp 21 nghiên cứu với 46847 người để tính chung (phân tích gộp): so với người uống thuốc ngắt quãng, người uống đầy đủ theo chỉ định có khả năng tử vong trong cùng khoảng thời gian thấp hơn khoảng 44%. Giá trị gốc là tỷ số odds 0.56, 95% CI 0.50–0.63 (khoảng tin cậy). Nếu chỉ xét các phương pháp điều trị thực sự có hiệu quả, mức giảm là khoảng 45% (0.55, 0.49–0.62).",
+    "notes": "Có tranh luận. Đây cũng là một trong những con số cần nhìn thận trọng nhất trong cuốn sách. Trong cùng phân tích tổng hợp, ngay cả người uống đầy đủ giả dược (thuốc giả) cũng có tỷ lệ tử vong thấp hơn (0.56, 0.43–0.74). Điều này cho thấy phần đáng kể lợi ích đến từ việc người kiên trì uống thuốc vốn đã chú ý sức khỏe hơn. Các tác giả gọi yếu tố xen lẫn này là hiệu ứng người tuân thủ có lối sống lành mạnh.",
+    "extra": ""
+  }
+}

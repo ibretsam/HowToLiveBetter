@@ -1,0 +1,15 @@
+{
+  "id": "e-20-11",
+  "source_sha256": "15fe39637a8bced628a172ff2c5eb5507839c632ec05ae5658acfc8651f76332",
+  "draft_sha256": "0f206a02a38643083a33f4afb6f603873053b31beb5a638693302e705091592c",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all five minor-crash criteria and all five used-seat criteria, recalls, Scotland OR/CI and confounding caveat, crib dates/death counts, drop-side concerns and country boundaries. Cost-saving evidence remains C. No corrections needed."
+}

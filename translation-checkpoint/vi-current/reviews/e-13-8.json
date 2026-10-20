@@ -1,0 +1,15 @@
+{
+  "id": "e-13-8",
+  "source_sha256": "e0603907564c8b3a9851696c85db029780cea9934ac79931a9112e20fcae260f",
+  "draft_sha256": "d7e0e5ed7bf1bf69b63b20bd993632f94b896f5165b95da3dc10f28c65b332e9",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ phân biệt bóc tách động mạch chủ/nhồi máu cơ tim, số liệu nội viện, dấu hiệu nguy cơ. Khẳng định về thuốc làm nặng chảy máu vẫn ghi là suy luận của tác giả."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-13-7",
+  "source_sha256": "0e0ea1d0fa836f77504ce11d84046d0d47252002b79477db9a461f79b4fffec9",
+  "draft_sha256": "6102cee37f5134518a06a58e51e39042ce2c0d4a0df02190e8838ee039d3e4e9",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ phân biệt thời gian cửa viện–nong bóng với thời gian khởi phát; các dấu hiệu nặng không phải chờ15phút. Ngưỡng ≤55 và >55 giữ nguyên."
+}

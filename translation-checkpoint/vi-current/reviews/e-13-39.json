@@ -1,0 +1,15 @@
+{
+  "id": "e-13-39",
+  "source_sha256": "726bf79732e8e4a27514bad8e96bf70df7c75406d1d82aab8ca0fce33249e2e6",
+  "draft_sha256": "9fe96eb6e8bbd7398de9253fee6380cb33705a51f199796896b1e5762e962638",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu riêng trách nhiệm người gây hại và người được cứu theo Điều 183: giữ khác biệt có thể bồi hoàn với phải bồi hoàn khi đủ điều kiện. Các điều kiện công nhận liệt sĩ, tai nạn lao động, thương tật, khoản 40 tháng lương, điều trị trước trả tiền sau và hạn chế xác minh ở địa phương đều còn đủ; giữ các tham chiếu pháp lý và chương."
+}

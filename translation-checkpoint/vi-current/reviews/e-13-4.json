@@ -1,0 +1,15 @@
+{
+  "id": "e-13-4",
+  "source_sha256": "a5b359e4b54409c8edbd5d5f291765c9b7dfb75bb5de166c1c94a124881f3e97",
+  "draft_sha256": "6e26330ed5f10d68176641b9fdc142504919cd20ffe9713280142cd1a7ca638a",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ triệu chứng, độ bỏ sót FAST và giới hạn nghiên cứu hồi cứu; không coi thao tác thử bình thường là loại trừ đột quỵ."
+}

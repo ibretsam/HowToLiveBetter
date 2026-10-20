@@ -1,0 +1,15 @@
+{
+  "id": "e-13-40",
+  "source_sha256": "211fa11549ec7e77cbea802cfc6ba403c3b42a20599956a7726cb10c5c78e57f",
+  "draft_sha256": "a3867e7033adf64a43aff17735e6cf54c9a7d44afc19496f9d2fb404e35680eb",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu điều kiện giữ nguyên dị vật, ép quanh vết thương, cho phép vật chuyển động theo mạch và không nhét tạng trở lại. Giữ điều kiện vết thương ngực không chảy máu ồ ạt có thể để hở, không tự thêm băng kín; các mức phân loại cấp cứu Bắc Kinh và tham chiếu chương 24/mục 12 đúng nguồn."
+}

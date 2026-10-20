@@ -1,0 +1,15 @@
+{
+  "id": "intro-16",
+  "source_sha256": "ce31b12ac48c9e6c041378f7dbbe76f4a989e2c0a2c2f196cc4d2354dea42edb",
+  "draft_sha256": "f265d2e9339fe8d09ce0c9a003700efea11fea687da011b5f9b523648bd026d3",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ tiêu đề và lời dẫn: giữ tiêu chí tử vong do mọi nguyên nhân, tiền bạc và thời gian hàng chục năm sau chẩn đoán."
+}

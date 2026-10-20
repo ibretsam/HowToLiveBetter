@@ -1,0 +1,15 @@
+{
+  "id": "e-13-22",
+  "source_sha256": "86f2dd1f0b63fe018a9f19a514c5754b55560848101089546f353934af0d819c",
+  "draft_sha256": "62e930023aa12b62628f389bc6ce5ba725721aef0d7d8987dc737e6797882fdf",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu phân biệt sốc nhiệt/kiệt sức do nóng, ý thức và cho uống, mốc 10–15 phút, Fahrenheit/Celsius. Giữ nguyên hai hướng dẫn bất đồng về vị trí túi đá và ưu tiên ngâm nước lạnh; không tự giải quyết mâu thuẫn nguồn."
+}

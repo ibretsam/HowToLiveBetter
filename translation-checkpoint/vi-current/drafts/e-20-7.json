@@ -1,0 +1,14 @@
+{
+  "id": "e-20-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "fb11be3a00a7223f91ad50ac679ca30d64a4cddd4ff6f863d8eed3cd18b13c82",
+  "translator": "pilot_employment",
+  "translation": {
+    "title": "Nhất định phải tiêm vitamin K lúc mới sinh",
+    "cost": "Từ 0 đến vài chục nhân dân tệ. Khoản này thường đã nằm trong chi phí sinh con nằm viện, không phải trả riêng.",
+    "plain": "Trẻ sơ sinh dự trữ rất ít vitamin K trong cơ thể; không bổ sung có thể bị chảy máu, dạng xuất hiện muộn thường là chảy máu trong não. Ở Tashkent, việc dự phòng này chưa được thực hiện rộng rãi, cứ 10 vạn trẻ sơ sinh có 478 trẻ bị chảy máu như vậy. Có dự phòng thì ước tính giảm được từ bảy mươi tám phần trăm trở lên. Sinh ở nhà hoặc tại cơ sở không chính quy thì phải chủ động hỏi trẻ đã được tiêm chưa.",
+    "benefit": "Trẻ sơ sinh dự trữ rất ít vitamin K trong cơ thể. Nếu không bổ sung, trẻ có thể bị xuất huyết do thiếu vitamin K; dạng khởi phát muộn thường biểu hiện bằng xuất huyết nội sọ, tức chảy máu trong não. Đồng thuận của Bỉ khuyến nghị “tiêm bắp một lần 1 hoặc 2 miligam vitamin K lúc sinh”. Ở nơi chưa có chương trình dự phòng có hệ thống, tỷ lệ xuất huyết do thiếu vitamin K là 478 ca trên mỗi 10 vạn người. Con số này đến từ 4.2 vạn trẻ sơ sinh ở Tashkent. Các tác giả ước tính dự phòng có thể giảm tỷ lệ mắc “hơn 78.5%”.",
+    "notes": "Sinh tại bệnh viện chính quy ở Trung Quốc thì bệnh viện thường tiêm mũi này theo thường quy. Đây là kinh nghiệm của tác giả; chưa tìm được quy định chính thức thống nhất toàn quốc. Trước khi xuất viện, hãy xem bản tóm tắt ra viện hoặc hỏi nhân viên y tế. Sinh tại nhà hoặc cơ sở không chính quy thì phải chủ động xác nhận. Mũi tiêm nói ở đây là tiêm vào cơ. Đồng thuận của Bỉ gọi đường uống là “phương án thay thế kém hơn một chút”, chỉ dùng khi cha mẹ từ chối tiêm: uống 2 miligam lúc sinh; trẻ bú mẹ sau đó uống thêm 1 đến 2 miligam mỗi tuần, liên tục trong 3 tháng.",
+    "extra": ""
+  }
+}

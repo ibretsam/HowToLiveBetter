@@ -1,0 +1,15 @@
+{
+  "id": "e-13-36",
+  "source_sha256": "83cfff5fa20c37c944c6f934bd36db92eaac2205b44f693f98cde917cf33fab1",
+  "draft_sha256": "a60556b3987c490e65307d2356d224633288ebb10288ae9bf7f25aee7b2ab363",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa câu tự mang vũ khí có thể bị phạt thành sẽ bị phạt để giữ mức khẳng định 就会被罚 của nguồn, không tự điều chỉnh pháp lý. Đối chiếu khung hình phạt bằng chữ, giới hạn phòng vệ đang diễn ra và điều kiện đưa tiền chỉ khi bị chặn trực tiếp đe dọa thân thể; giữ ngoại lệ không trả tiền tống tiền qua mạng và các tham chiếu."
+}

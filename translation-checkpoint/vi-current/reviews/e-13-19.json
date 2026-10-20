@@ -1,0 +1,15 @@
+{
+  "id": "e-13-19",
+  "source_sha256": "16f668984d075428004ae4216d75832d1752b3c2a4758891aa1f3af4eae1f157",
+  "draft_sha256": "510a3293106895e4c43d37dff8b2d1b2dfe6908a0f1d8ce651282365f14c01ad",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu 11523 ca, ba tháng và 66%–73%, phân biệt số báo cáo với ước tính toàn quốc. Giữ nguồn suy luận của tác giả về cả phòng cùng khó chịu, quy tắc ra ngoài rồi gọi và không quay lại khóa van."
+}

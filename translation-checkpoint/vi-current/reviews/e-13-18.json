@@ -1,0 +1,15 @@
+{
+  "id": "e-13-18",
+  "source_sha256": "119ca2e58f46b8527e3fcd2cb0b93c6aaf12e2a159dd8715c2641dd6ba8e615c",
+  "draft_sha256": "ffa2ef10ec86a0a4bd24d6d12fe476c87880a10b73c129592cff3d95c78094b9",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngắt điện, vật cách điện, hồi sinh tim phổi và tránh tự xử trí điện cao thế. Giữ nguyên khác biệt nguồn giữa tiêu đề nêu trình tự và nội dung cho lựa chọn gạt nguồn khi không ngắt được; không bổ sung hướng dẫn điện ngoài nguồn."
+}

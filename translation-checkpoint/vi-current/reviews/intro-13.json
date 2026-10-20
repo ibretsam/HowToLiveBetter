@@ -1,0 +1,15 @@
+{
+  "id": "intro-13",
+  "source_sha256": "8e721467e90d05fcef2d639e0cab8d5f3d20a4656829b12583d4e6432207ccd8",
+  "draft_sha256": "d3e30c9c96f888999946740c6e342568af65f96adec25094afc21196f5e035a7",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ lời dẫn và cả bảy nhóm chủ đề với toàn bộ số mục, 79.2%, 110/96110 và tham chiếu chương 8. Sửa 处置要按天算 thành thời gian xử lý tính bằng ngày, tránh hàm ý phải chờ hay hạn xử lý nhiều ngày. Giữ phạm vi vài phút và thứ tự ưu tiên người hưởng lợi của nguồn; không tái chèn câu xếp hạng từ bản dịch cũ đã bị nguồn bỏ."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-20-17",
+  "source_sha256": "3dad2b907f38273faf78d9d4665f169c0e880d6cc3a9eaed27291e1da130e2b4",
+  "draft_sha256": "e6e3f9805a0f149c19117e80fbf657e0446add90b7630731e00006ccd9dfc0ef",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared every temperature and time, before-after studies, cold-first bathing, instantaneous versus storage heater exception, Legionella mixing valve and burn references. Made3岁以下,1岁以下 and一半以上 inclusive; kept不满1岁 strict. Different heater temperatures remain distinct."
+}

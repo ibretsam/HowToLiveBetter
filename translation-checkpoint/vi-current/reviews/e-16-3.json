@@ -1,0 +1,15 @@
+{
+  "id": "e-16-3",
+  "source_sha256": "f754ea6451ab6c72c823d90c42d4b5b44df386af0669a5030b8d8af8f90e2ccd",
+  "draft_sha256": "55a40fdc652f7f0a7c8315cfe6ce0ddd0c57b66693e6d830105161d42c194758",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ đầy đủ số liệu thử nghiệm, dấu âm, giới hạn kết quả huyết áp và ngoại lệ công nhận xét nghiệm. Sửa cách nói khoảng thời gian tái khám; giữ nhãn 全国HR để nhận diện, giải thích bằng tiếng Việt mà không lặp thêm HR."
+}

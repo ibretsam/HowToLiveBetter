@@ -1,0 +1,15 @@
+{
+  "id": "e-20-15",
+  "source_sha256": "e0080fc7630e880fd62732279d1ea17590dfc4b0e222aa11888a56e4dd0a36f0",
+  "draft_sha256": "2ba58f668ba9f56950dd2007fdc46c068a5c1d5f2d27a8b99edb8e2116baae77",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared injuries, counts/percentages, weak delayed-walking evidence, Canada ban versus China standard, substitute equipment and reference. Made0.9m/3ft以上 inclusive. Source calls230676 precise after calling it an estimate; retained this wording and flagged it."
+}

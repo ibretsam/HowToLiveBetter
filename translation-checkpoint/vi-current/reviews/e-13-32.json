@@ -1,0 +1,15 @@
+{
+  "id": "e-13-32",
+  "source_sha256": "b1f656b94110f1a9ff319b3660a8261f51b51a15763fe769765750c684983564",
+  "draft_sha256": "96bd3be77d610dde059df1d3a987c88fab13e7a6a84492768fbd95445d87a928",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa hơn nửa giờ thành từ nửa giờ trở lên để giữ 半小时以上. Đối chiếu 30 phút sau tiếng sấm cuối, mui cứng, công trình chắc chắn, các nơi trú không an toàn và nguồn suy luận loại trừ xe mui trần/xe máy."
+}

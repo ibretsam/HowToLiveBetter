@@ -1,0 +1,15 @@
+{
+  "id": "e-13-17",
+  "source_sha256": "85d91eebde18d2e4a2bb753ea239abe510fe6cf34002b0eb167b2c759646ae70",
+  "draft_sha256": "dcf7a13b7924e5b572e4d2bd718e5308658732d6dfe3e07aa1a4134cd4a33e52",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu 15 gam, 15 phút, ngưỡng dưới 3.0 mmol/L và điều kiện cần người khác hỗ trợ. Giữ tuyệt đối không cho ăn uống khi ý thức không rõ, nguyên văn tiếng Anh về glucagon và phạm vi chuẩn bị cho bản thân/gia đình."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-16-13",
+  "source_sha256": "8f916da5a83a82c64573139e7631a06e9f7cf3d5859f65713f30ca59dbb76838",
+  "draft_sha256": "4e90e4b116cd2e7e8b2ed5e23e207d5d49c9b50fe6ca6c91e076e384e9b65ba5",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ khác biệt lịch kiểm tra đái tháo đường/tăng huyết áp, tiêu chí dùng thuốc và kết cục tổng hợp thận–tim mạch. Giữ giới hạn chưa có thử nghiệm chứng minh lịch xét nghiệm tự nó giảm tử vong, không tự thêm đơn vị mà nguồn bỏ trống."
+}

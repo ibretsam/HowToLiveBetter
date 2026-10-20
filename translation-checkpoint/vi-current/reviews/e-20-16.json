@@ -1,0 +1,15 @@
+{
+  "id": "e-20-16",
+  "source_sha256": "703653d282cae8c1f357eb05517994f19c7a4d88e66cf2baf141d4d126e919d0",
+  "draft_sha256": "9173e67db710ff13907c5d5b4d018dde05ac80ef0bf92fbfc5029d08cd8971fb",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared400IU title, Chinese400–800IU quote, global400IU/10microgram recommendation, Turkish/Chinese studies, formula800mL/27oz exception and1600IU early stopping. Reworded the term-infant calcium quote to avoid a newborn-only scope. Source differences in doses and countries remain."
+}

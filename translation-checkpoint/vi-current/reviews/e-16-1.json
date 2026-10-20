@@ -1,0 +1,15 @@
+{
+  "id": "e-16-1",
+  "source_sha256": "ea103c284e4e3d59992056ce8e34651bc071063632c78ed64882c4501b50bdba",
+  "draft_sha256": "ded64f07e0dbe131c607462594989f38e574b0170db7422ecb5682c060d15b03",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ các trường; giữ phân biệt tỷ số odds, số liệu và hiệu ứng người tuân thủ có lối sống lành mạnh. Giữ cách diễn đạt khả năng tử vong của nguồn, không diễn giải lại nghiên cứu."
+}

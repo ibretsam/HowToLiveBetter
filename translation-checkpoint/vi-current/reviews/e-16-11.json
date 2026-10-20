@@ -1,0 +1,15 @@
+{
+  "id": "e-16-11",
+  "source_sha256": "e1c41dd74b0754b88eb4071f9849cb45499e66e1438fc38c0bdca3df6aab459b",
+  "draft_sha256": "893e053b5f27094f98bc5a1c35551c735205fc4b50723aa81730bec6c49035b5",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ ba nghiên cứu và phản biện Cochrane, lịch kiểm tra và điều kiện dùng thuốc. Sửa câu có thể bị đọc thành phủ định thành Bác sĩ quyết định có dùng/ngừng thuốc hay không. Giữ mốc trên30tuổi và nguồn thông tin Trung Quốc."
+}

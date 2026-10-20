@@ -1,0 +1,15 @@
+{
+  "id": "e-13-30",
+  "source_sha256": "e3b1102788dc49d44e70637b4112f1f07c390d3d25f90726df30d33046a13113",
+  "draft_sha256": "6d3f4d1f013617358558b0beddee6d537d73121a86b50daff3e5ec807d3412ac",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ điều kiện trú/chạy tùy loại nhà và vị trí cửa, không nhảy/thang máy/cầu thang khi rung. Giữ ba tỷ số và CI, giới hạn nghiên cứu chỉ người sống sót và không rõ hiệu chỉnh tầng nhà. Giữ mốc 2001 là phân loại sơ bộ của tác giả, không biến thành quy định chính thức."
+}

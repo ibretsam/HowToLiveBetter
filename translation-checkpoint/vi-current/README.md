@@ -71,6 +71,11 @@ khi chỉ đủ bản dịch của các mục.
 Lô thử: chương 13 các mục 1, 2, 3, 26, 27, 28, 45–48; chương 34 các mục 1–12;
 chương 19 các mục 1, 2, 19–24. Tổng 30 mục, mỗi chương có tác vụ phụ trách riêng.
 
+Đợt 2: 38 mục còn lại của chương 13, toàn bộ 14 mục chương 16 và 17 mục chương
+20, cộng ba lời dẫn. Tổng 69 mục: 9 mục mới, 57 cập nhật và 3 rà soát lại. Có
+72 hồ sơ rà soát độc lập mới; báo cáo nằm trong `batch-2-report.json`. Không nhận
+lại các ID đã có review hợp lệ khi bắt đầu đợt tiếp theo.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

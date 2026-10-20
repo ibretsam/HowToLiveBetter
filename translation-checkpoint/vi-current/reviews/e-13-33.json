@@ -1,0 +1,15 @@
+{
+  "id": "e-13-33",
+  "source_sha256": "804ecb955b639cbcfbb751ce48b2d3aa2f5b2a869b3e188a3152526e0a89be60",
+  "draft_sha256": "4ec136a7808daba5ff57df8c75515fdb8720e8203241f2a7bf8e0bd857a9c5c8",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu độ cao nơi ngủ, điều kiện không lên khi có triệu chứng và xuống khi nặng hơn, 2450 mét và xuống từ 300 mét. Giữ các số 3000/500/1000 trong phần dễ hiểu dù nguồn không lặp trong lợi ích; không tự bổ sung vào trường khác. Giữ dexamethasone/oxy chỉ khi có sẵn và yêu cầu xuống ngay trong tình huống nặng."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-20-1",
+  "source_sha256": "fc7a5f6efd324ca75e27d8c2f59711fc657f64f4a3a0797eb5fa83698436ab8b",
+  "draft_sha256": "79da82edf995d5b33da44311004191d4e5ad3134395f18599e88f6e8b3445405",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared every field: supine position, hard noninclined surface, separate bed, soft-object exclusions,3500 sleep deaths and other risk modifiers. Removed an added conditional from mattress cost. Chinese says the mattress must be changed while also saying no money; retained that source tension."
+}

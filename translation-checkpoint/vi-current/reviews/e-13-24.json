@@ -1,0 +1,15 @@
+{
+  "id": "e-13-24",
+  "source_sha256": "00ade407a9089697e0e3d6d94daee47fddfe29c9a36e6396e9b20f7463575726",
+  "draft_sha256": "b7f296794a2dba8dcc8a7deff404bd8a320177cc63e2423075d83d2fa1939ef7",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu kiểm tra tay nắm/cánh cửa, mở chậm/đóng khi khói dày, lối thứ hai, bịt khe khi không ra được và dừng–nằm–lăn. Giữ ngoại lệ cửa sân thượng, 3 lần gấp thành 8 lớp và giới hạn khăn không ngăn khói độc quá đậm."
+}

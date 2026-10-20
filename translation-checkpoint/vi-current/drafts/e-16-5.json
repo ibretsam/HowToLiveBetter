@@ -1,0 +1,14 @@
+{
+  "id": "e-16-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e7cf51282b99b7ef647961938eb29ba463576e8aea215538871fa30fbbabb938",
+  "translator": "pilot_medicine",
+  "translation": {
+    "title": "Với bệnh mạn tính đã ổn định, cơ sở y tế cộng đồng có thể kê thuốc cho tối đa 12 tuần trong một lần",
+    "cost": "Không tốn tiền. Đến trung tâm dịch vụ y tế cộng đồng hỏi có thể kê đơn dài hạn hay không; chỉ cần hỏi một câu.",
+    "plain": "Người có bệnh tình ổn định và thuốc đang dùng cũng không thay đổi có thể được trung tâm dịch vụ y tế cộng đồng kê thuốc cho tối đa 12 tuần trong một lần. Nhờ vậy tiết kiệm nửa ngày mỗi tháng đi lại, xếp hàng đăng ký khám ở bệnh viện lớn. Trong cùng một địa phương tham gia bảo hiểm, về nguyên tắc, tỷ lệ bảo hiểm chi trả khi nằm viện tại cơ sở tuyến cơ sở phải cao hơn bệnh viện trên một cấp khoảng mười điểm phần trăm.",
+    "benefit": "Không phải đi lại, xếp hàng lấy thuốc ở bệnh viện lớn mỗi tháng. Trong cùng một địa phương tham gia bảo hiểm, còn gọi là khu vực quản lý quỹ chung, về nguyên tắc tỷ lệ bảo hiểm chi trả khi nằm viện ở tuyến cơ sở cao hơn bệnh viện trên một cấp khoảng 10 điểm phần trăm.",
+    "notes": "Bác sĩ xác định ai “đủ điều kiện”; thường là người đã có chẩn đoán rõ ràng và phác đồ thuốc ổn định. Vẫn là thuốc đó, phần tiết kiệm là nửa ngày đi lại mỗi tháng và phí đăng ký khám. Nếu tuyến cơ sở không có thuốc bạn cần, có thể hỏi có cơ chế đăng ký thuốc thiếu và giao thuốc hay không. Cùng văn bản còn yêu cầu bệnh viện cấp ba từng bước giảm khám ngoại trú thông thường cho nhóm bệnh mạn tính này, đưa hoạt động khám thông thường của nhóm chuyên gia xuống cộng đồng. Vì vậy, nếu vẫn coi bệnh viện lớn là nơi lấy thuốc thì về sau sẽ ngày càng khó đăng ký khám. Nếu cơ sở cộng đồng không có thuốc của bạn, hoặc cần bác sĩ chuyên khoa theo dõi việc chỉnh thuốc, có thể tái khám trực tuyến và lấy đơn tại bệnh viện đã chẩn đoán; xem chương 24 mục 14 (tái khám trực tuyến tại bệnh viện Internet).",
+    "extra": ""
+  }
+}

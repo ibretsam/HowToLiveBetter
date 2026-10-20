@@ -1,0 +1,15 @@
+{
+  "id": "e-20-6",
+  "source_sha256": "66ba023620c5bd6eee4cfa0f56be8595eda616d4e548f096f9ce18b4c6da9e28",
+  "draft_sha256": "241593191a7265b2fe9608b57d0c0209e8f7ebdc8ade9bd842d23e6f169ed826",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared honey exclusions, spores and adult versus infant flora. Made1岁以下 inclusive in benefit per glossary; retained its difference from 不满1岁 in title/plain. No medical advice added or external source verification performed."
+}

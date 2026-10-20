@@ -1,0 +1,15 @@
+{
+  "id": "e-13-20",
+  "source_sha256": "c6d6b423726ddc6828d4ea31fc891f9632a144680cd72b04101564b59e44e5ae",
+  "draft_sha256": "c95deb333f429b57ca5a2e08369bbcd5ad4e6f494cfaa98b8247b64c664ebe62",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ bốn đường tiếp xúc, các ngưỡng pH và ít nhất 15 phút. Giữ nguyên và nêu rõ bất đồng nguồn: CDC Trung Quốc cho sữa/lòng trắng trứng với chất tẩy axit/kiềm mạnh, NHS/Chữ thập đỏ không cho ăn uống nếu chưa được chuyên gia yêu cầu. Không tự hợp nhất các chỉ dẫn; giữ đủ tham chiếu 19/14/21/45."
+}

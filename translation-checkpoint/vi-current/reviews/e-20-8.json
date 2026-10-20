@@ -1,0 +1,15 @@
+{
+  "id": "e-20-8",
+  "source_sha256": "4312ec5a714a75164da641fb16f502e3678fc55aacf0dbd24c1492b44c209088",
+  "draft_sha256": "0cf1dda9109ec28e02835b9892931585c60e596bf52899903056f545a09a9b9f",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared urgent38C/under3-month trigger, well-appearing term infants aged8–60 days, all three age paths and exclusion under8 days. Made5岁以下 inclusive per glossary. No treatment instructions added."
+}

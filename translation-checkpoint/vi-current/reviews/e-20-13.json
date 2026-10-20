@@ -1,0 +1,15 @@
+{
+  "id": "e-20-13",
+  "source_sha256": "be422e58cd33d75af64b69dfe5f4938d9787601f7e3a3eabb78925f08d9025ed",
+  "draft_sha256": "e21ab349cc95165d0abf63bab9bda82beb22162f1cf5bbd343c0edb33826886e",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared urgency tiers, neurological outcomes, Rh and cohort data, Kasai timing within60 days, Taiwan before-after limitation, phototherapy restrictions and follow-up intervals. Made八成以上 inclusive in plain; kept benefit strict超过80%. No advice added."
+}

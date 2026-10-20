@@ -1,0 +1,15 @@
+{
+  "id": "e-20-10",
+  "source_sha256": "bde16599933eed5371bd283cf7b7727ce83a0d6bd60f667126425eba8108b11a",
+  "draft_sha256": "348b5f83e241988c0ecf26293ad9c7edce240ae05d89e3cc6fff6c3dd9a89db0",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared absence of official brand rankings, sampling versus investigation,2026 dates, unresolved TODO, author experience and NHS rash factors. Preserved dated unresolved investigation. No corrections needed."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-16-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d2401535e6368c48c4d8dbbfc4ef0ef9bf97e84d4e92ff05357de85fb003f834",
+  "translator": "pilot_medicine",
+  "translation": {
+    "title": "Trước khi ký dịch vụ bác sĩ gia đình tại cộng đồng, hỏi rõ khoản nào được bảo hiểm y tế chi trả, khoản nào tự trả",
+    "cost": "Không tốn tiền. Hỏi thêm một câu trước khi ký, mất một phút.",
+    "plain": "Gói dịch vụ cơ bản đã ký được bảo hiểm y tế chi trả theo quy định. Gói dịch vụ cá nhân hóa phải tự trả toàn bộ. Khi có người chào bán “gói nâng cấp”, hãy hỏi rõ đó là gói cơ bản hay cá nhân hóa, đã đăng ký với cơ quan quản lý chưa và một năm hết bao nhiêu tiền.",
+    "benefit": "Gói dịch vụ cơ bản do bảo hiểm y tế chi trả theo quy định. Gói dịch vụ cá nhân hóa phải tự trả toàn bộ; loại gói này còn phải đăng ký với cơ quan y tế cấp huyện.",
+    "notes": "Giá trị của việc ký dịch vụ là có người theo dõi bệnh của bạn lâu dài, không nằm ở số dịch vụ được gộp vào gói. Khi có người chào bán “gói nâng cấp”, hãy hỏi ba câu trước: đây là gói cơ bản hay cá nhân hóa, đã đăng ký với cơ quan quản lý chưa, một năm hết bao nhiêu tiền.",
+    "extra": ""
+  }
+}

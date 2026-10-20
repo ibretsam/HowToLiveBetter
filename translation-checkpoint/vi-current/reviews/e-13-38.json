@@ -1,0 +1,15 @@
+{
+  "id": "e-13-38",
+  "source_sha256": "180e5e84662ffa58c113e510198751999f98504f13ee3aeaf80d120c456bfc0a",
+  "draft_sha256": "49f9a04fa600f11375062761297c56527bfef33bbbf2f67b3518f9fc94ff2bfc",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ cửa sổ PEP 72 giờ, ưu tiên 2 và 24 giờ, liệu trình 28 ngày, tái khám tuần 2 và ngày 30/90. Giữ chi phí tự trả, điều kiện phơi nhiễm qua niêm mạc, gọi CDC tìm cơ sở chuyên trách và dữ liệu Trùng Khánh 2024; tham chiếu chương 1 đúng nguồn."
+}

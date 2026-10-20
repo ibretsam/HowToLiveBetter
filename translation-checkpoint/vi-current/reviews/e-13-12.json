@@ -1,0 +1,15 @@
+{
+  "id": "e-13-12",
+  "source_sha256": "5bd9d97c4084b28925ecf805aa7fb1d0ea8f9e433f34221f9965821ebad13611",
+  "draft_sha256": "8197787b2ccf513fd852942817f2d6212085321f4fa5863798e533eae65fe7b5",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu trình tự ép, đặt garô, gọi 120, không nới, cùng các nhóm số liệu và OR. Giữ giới hạn cổ/thân mình, thời gian 2 giờ và ngoại lệ không có cách cầm máu khác. Cụm nguồn 上臂中上三分之一 chưa rõ vị trí giải phẫu chính xác; bản dịch giữ vùng một phần ba giữa–trên, không tự chuẩn hóa lời khuyên."
+}

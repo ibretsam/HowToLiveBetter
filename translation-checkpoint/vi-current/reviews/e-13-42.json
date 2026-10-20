@@ -1,0 +1,15 @@
+{
+  "id": "e-13-42",
+  "source_sha256": "1f6ca642b29206bb81cc57622b3cb5a04920b69bc7b5942f0d0510ac8809e275",
+  "draft_sha256": "a7a3613c4bc9d7750ff00d8872b3605ec7dca06a4809ec49fde5ccb0d5537241",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu việc bảo toàn dấu vết, bằng chứng liên lạc, điều trị dù chưa quyết định báo cảnh sát, PEP 2/72 giờ và tránh thai khẩn cấp. Giữ khác biệt cửa sổ WHO 5 ngày với nhãn thuốc Trung Quốc 72 giờ, tỷ lệ 1.2–2.1% và điều kiện thuốc không hiệu quả khi đã mang thai; tham chiếu các chương đúng nguồn."
+}

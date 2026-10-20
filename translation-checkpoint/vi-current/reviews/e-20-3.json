@@ -1,0 +1,15 @@
+{
+  "id": "e-20-3",
+  "source_sha256": "a03d6679b04b286c9989830d1718fde5ab03ee000c1045626e2325be9176b039",
+  "draft_sha256": "5a0e881e59ecc1ac6bc1720351373c3fdf8edd13cba62672c9b399ffb255237d",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared every field, including the2026 schedule, HPV, regional Japanese encephalitis expansion, all five DTaP ages, injection sites,28-day live-vaccine interval, catch-up under18 and manufacturer changes. Allergy and immune-deficiency qualifiers and paid-vaccine exception remain intact. The source claim of only two contraindications was not medically expanded."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-13-29",
+  "source_sha256": "85dccdc1623228bef512f227bee2ac7dc89bd83bb8d94131540a476675bc2016",
+  "draft_sha256": "cd750e106f91d87ab6797cbf9e103d5caada7ab476810ed676a45d6a514dfda0",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu bất động chi, tháo đồ bó, không garô/rạch/hút/chườm và chỉ chụp ảnh an toàn. Giữ đúng đơn vị vạn, số liệu 11 tỉnh, giới hạn tử vong trong viện không gồm người tự xuất viện chưa xong điều trị. Không tự thêm hướng dẫn kháng nọc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-20-14",
+  "source_sha256": "7b0b007f7cc22ab194459a146203dc37c14b24cdfaeeccba205a51c0c6371790",
+  "draft_sha256": "bcf6509839b2446668019e869acbf250b6151e3b498a01ecf3a93a045398ace2",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared vegetarian versus vegan diets, B12 food and fortified sources, case ages, irreversible injury qualifiers, international disagreement, Chinese food rule and referrals. Clarified that the family eats vegetarian food; previous wording could be read as referring to a family doctor."
+}

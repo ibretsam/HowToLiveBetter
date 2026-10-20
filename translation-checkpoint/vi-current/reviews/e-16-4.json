@@ -1,0 +1,15 @@
+{
+  "id": "e-16-4",
+  "source_sha256": "f61080adbf586243414bc7bf8336a4a29d5f45988293908abb71866b6dedc3a7",
+  "draft_sha256": "4c17f04894d9a2719217b9b032b68edae4ba1a089c2aaf5fe387dd0b69bce35f",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tất cả số liệu ung thư, nhóm so sánh và hạn chế nghiên cứu quan sát. Giữ khác biệt liệu pháp thay thế/bổ sung, kết luận sau hiệu chỉnh và tương tác thảo dược; dẫn chéo đúng."
+}

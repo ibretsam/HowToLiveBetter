@@ -1,0 +1,15 @@
+{
+  "id": "e-13-9",
+  "source_sha256": "ea49e1e493e1a2815aa9ecf02a34bd580b9f87e1ea3cbf76166deb1ecf835073",
+  "draft_sha256": "6eed87d8842fcedd4de74eaa5cd91efff3bf71e8c7ed31526817bc0b7e86cd60",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ sáu tiêu chí Ottawa, độ nhạy và độ đặc hiệu. Nguồn có khác biệt ngưỡng: title/benefit nói đạt đỉnh trong1giờ, notes nói vài giây–1phút; bản dịch giữ nguyên, không tự chỉnh lời khuyên."
+}

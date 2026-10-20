@@ -1,0 +1,15 @@
+{
+  "id": "e-13-5",
+  "source_sha256": "1192baaebe300ecc00b14a75eac757f540d63957e8c68a7e83f2a2a1f2b4028b",
+  "draft_sha256": "7f10261a4417accc3a08308d2a60e0c0865c9b32f91c513d781d03de6ba0943f",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ số liệu EXPRESS trước/sau, không gọi là thử nghiệm ngẫu nhiên. Điểm nguồn cần lưu ý: plain gọi biểu hiện thiếu máu võng mạc là thiếu máu não; bản dịch giữ nguyên, không tự sửa."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-16-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f754ea6451ab6c72c823d90c42d4b5b44df386af0669a5030b8d8af8f90e2ccd",
+  "translator": "pilot_medicine",
+  "retained_terms": {"benefit": ["全国HR"]},
+  "translation": {
+    "title": "Tái kiểm tra theo khoảng thời gian bác sĩ dặn, ghi các chỉ số của mỗi lần vào cùng một cuốn sổ",
+    "cost": "Mỗi lần kiểm tra tốn từ vài chục đến vài trăm nhân dân tệ. Đi bệnh viện và chờ kết quả mất một ít thời gian. Khó ở chỗ cứ cách một thời gian lại phải đi, nên dễ lần lữa mãi.",
+    "plain": "Với bệnh mạn tính, cần xem sự thay đổi qua một khoảng thời gian, không chỉ giá trị của một lần đo. Chỉ tự đo huyết áp tại nhà thì chưa thấy huyết áp nhờ đó giảm xuống. Mang số đo cho bác sĩ và để bác sĩ dựa vào đó điều chỉnh thuốc mới giúp huyết áp giảm nhiều hơn. Khi đổi bệnh viện, nhìn chung bệnh viện không nên yêu cầu làm lại những xét nghiệm, kiểm tra có dấu công nhận kết quả lẫn nhau.",
+    "benefit": "Bệnh mạn tính cần được đánh giá bằng sự thay đổi của các chỉ số theo thời gian; chỉ xem một lần là chưa đủ. Một phân tích tổng hợp về tăng huyết áp gộp dữ liệu gốc của 7138 người từ 15 thử nghiệm ngẫu nhiên. So với người khám chữa bệnh như thường lệ, người tự đo huyết áp ở nhà có mức thay đổi trung bình của huyết áp tâm thu đo tại phòng khám sau 12 tháng là −3.2 mmHg (95% CI từ −4.9 đến −1.6, khoảng tin cậy). Nếu chỉ tự đo mà không có biện pháp đi kèm, chưa thấy hiệu quả: −1.0 mmHg (−3.3 đến 1.2, khác biệt có thể do ngẫu nhiên). Ở nhóm nhận nhiều hỗ trợ đi kèm nhất, huyết áp giảm 6.1 mmHg (3.2 đến 9.0). Hỗ trợ đi kèm là bác sĩ, dược sĩ hoặc chính người bệnh điều chỉnh thuốc theo số đo, cộng với giáo dục sức khỏe và hướng dẫn lối sống. Các tác giả kết luận chỉ tự đo không làm huyết áp thấp hơn; phải kết hợp điều chỉnh thuốc theo số đo mới có ích. Các số liệu này đều là huyết áp, không trực tiếp xem xét tử vong. Khi đổi bệnh viện, quy định của bốn cơ quan, trong đó có Ủy ban Y tế Quốc gia Trung Quốc, nêu rằng bệnh viện và bác sĩ không được yêu cầu làm lại các kiểm tra, xét nghiệm đã có do người bệnh cung cấp nếu chúng đáp ứng điều kiện công nhận lẫn nhau và nhu cầu chẩn đoán, điều trị. Phiếu kết quả có thể được công nhận lẫn nhau mang dấu “HR”, chẳng hạn “全国HR” (công nhận trên toàn quốc).",
+    "notes": "Chỉ xếp mức B vì bằng chứng trực tiếp chỉ có ở bệnh tăng huyết áp, và kết quả đo cũng chỉ là huyết áp, chưa phải tử vong. Chưa tìm thấy nghiên cứu về kết quả sức khỏe chứng minh riêng việc ghi các chỉ số vào một cuốn sổ có lợi ích hay không. Mỗi lần ít nhất ghi bốn thứ: ngày, giá trị chỉ số, thuốc đang dùng và liều thuốc. Chụp phiếu xét nghiệm bằng điện thoại cũng được, nhưng phải để cùng một chỗ, đừng lưu rải rác. Việc công nhận lẫn nhau có ngoại lệ: bệnh tình thay đổi, kết quả biến đổi nhanh, trước phẫu thuật hoặc truyền máu, hay khi cấp cứu, bệnh viện có thể kiểm tra lại. Cách sao chép, lưu bệnh án và hình ảnh, xem chương 24 mục 5 (tự giữ một bản bệnh án, kết quả kiểm tra và hình ảnh).",
+    "extra": ""
+  }
+}

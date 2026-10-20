@@ -1,0 +1,15 @@
+{
+  "id": "e-20-2",
+  "source_sha256": "ee4910caa9104c6db25567270db8b7a86d954f6f98e8c9f89154d7d3a2313c5a",
+  "draft_sha256": "b3b4da96faa4e9976e27c6a20b7d989ffa899af4d29b8edb92fad495aea81ef6",
+  "reviewer": "pilot_medicine_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared every field: universal24-hour vaccine timing,12-hour timing for babies of positive mothers,100 international units of immune globulin,95% versus <5% chronicity, prenatal planning and China context. No corrections needed."
+}

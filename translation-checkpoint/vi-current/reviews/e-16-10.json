@@ -1,0 +1,15 @@
+{
+  "id": "e-16-10",
+  "source_sha256": "d467350e311c181f5fe66a8061d43b50809772c25d4765488d87f62b90370e23",
+  "draft_sha256": "d45d19968e027da9066c92faa239cdcb51cd99199df9e13e1d89a9087a930263",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nghiên cứu bệnh chứng bắt chéo và đoàn hệ, phân biệt người từng/chưa mắc gút. Giữ các ngưỡng 以上 bao gồm mốc theo quy ước; nguyên văn khoảng1đến2 và2đến4 có thể chồng mốc2, không tự suy đoán ngưỡng của nghiên cứu. Giữ caveat ăn ít không thay thuốc."
+}

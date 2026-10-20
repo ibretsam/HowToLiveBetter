@@ -1,0 +1,15 @@
+{
+  "id": "e-16-2",
+  "source_sha256": "f473a2cd3d4b4a60ecdf05988bcfa1363b17d7264718f295b7e6c4c5aee55524",
+  "draft_sha256": "cc081bd3e46acfb1032c17f7a0bd4190b50823d052b42fe34ac5099ee74f35db",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ năm nhóm bệnh, hai thủ tục theo thứ tự và phạm vi tiếp cận cấp huyện. Làm rõ tên diện bệnh mạn tính và bệnh đặc biệt điều trị ngoại trú. Dẫn chéo chương24 mục13 giữ nguyên."
+}

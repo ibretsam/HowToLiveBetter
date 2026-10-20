@@ -1,0 +1,15 @@
+{
+  "id": "e-13-14",
+  "source_sha256": "d6ee76ea7bf4cd6da21ff92b0cd2b7acdcc3b982990621d5f4d5d99ebe3b1821",
+  "draft_sha256": "3ef7018d068167fbf08ed75a1136d9dc422ccd7e2a3f7b2d66e323e5fe528bc2",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ mốc 3 giờ và 20 phút, tỷ số odds 0.6 cùng CI và tổng quan 7 nghiên cứu. Giữ khác biệt nước mát/nước đá, không gỡ quần áo dính và không bôi, cùng tham chiếu chương 20 mục 17. Nguồn tự diễn đạt odds thành khả năng ở câu tiếp theo; giữ nguyên mức diễn đạt đó."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-16-5",
+  "source_sha256": "e7cf51282b99b7ef647961938eb29ba463576e8aea215538871fa30fbbabb938",
+  "draft_sha256": "6b044783153d8d953a8230b9a24333e926aabaf1ad8463a4c96f8044efe89702",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ tối đa12tuần, điều kiện bệnh và phác đồ ổn định, tỷ lệ chi trả nội trú cao hơn khoảng10điểm phần trăm; giữ ngoại lệ thiếu thuốc và khám trực tuyến. Không đổi cơ sở y tế Trung Quốc thành hệ thống Việt Nam."
+}

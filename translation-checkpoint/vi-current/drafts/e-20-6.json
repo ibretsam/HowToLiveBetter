@@ -1,0 +1,14 @@
+{
+  "id": "e-20-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "66ba023620c5bd6eee4cfa0f56be8595eda616d4e548f096f9ce18b4c6da9e28",
+  "translator": "pilot_employment",
+  "translation": {
+    "title": "Không cho trẻ chưa đủ 1 tuổi ăn mật ong",
+    "cost": "Không tốn tiền.",
+    "plain": "Trẻ chưa đủ 1 tuổi không được cho ăn mật ong. Nước pha mật ong, mật ong trộn vào thức ăn dặm và bánh có mật ong đều tính. Mật ong có thể mang vi khuẩn gây ngộ độc botulinum. Hệ vi sinh đường ruột của người lớn có thể kìm hãm chúng, nhưng trẻ nhũ nhi thì không.",
+    "benefit": "Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ nêu “không cho trẻ từ 1 tuổi trở xuống ăn mật ong”, vì “mật ong có thể chứa vi khuẩn gây ngộ độc botulinum”. Hệ vi sinh đường ruột của người trưởng thành có thể kìm hãm bào tử này, tức trạng thái ngủ của vi khuẩn, nhưng trẻ nhũ nhi thì không.",
+    "notes": "Những thứ không được cho ăn bao gồm nước pha mật ong, thức ăn dặm trộn mật ong và bánh có mật ong.",
+    "extra": ""
+  }
+}

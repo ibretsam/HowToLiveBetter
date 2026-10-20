@@ -1,0 +1,15 @@
+{
+  "id": "e-13-34",
+  "source_sha256": "796487f2347e9412ee36a8a88f8c534e59a0706ddad287fc5c068fd429b08d5b",
+  "draft_sha256": "aab242053d25f91433b802c51248ecf54c04eb7335da7e3e6c6a256ff90ec894",
+  "reviewer": "pilot_employment_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nhíp sát da, kéo đều không xoắn, không dầu/lửa và ghi ngày. Giữ đầy đủ số liệu 2024 và 2010–2024, mẫu số tỷ lệ tử vong là người mắc, ngưỡng từ 85 tuổi. Giữ khuyến nghị báo bác sĩ tiền sử ve cắn khi triệu chứng xuất hiện vài tuần sau."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-13-10",
+  "source_sha256": "116996d3c296e9395f2b049549ed8c634fd78190bafd4710fbb86dcf53734dd7",
+  "draft_sha256": "c4bb316708deff59fc694070081d2762151805b96eba22481a71574c36eb1da2",
+  "reviewer": "root_batch2_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ độ trễ sau va đầu, tỷ lệ tái phát/tử vong và giới hạn nhóm tuổi, không gán dấu hiệu cho sa sút trí tuệ. Giữ nguồn số liệu và dẫn chéo phòng té ngã/phòng khám trí nhớ."
+}
