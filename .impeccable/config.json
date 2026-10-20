@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "all-caps-body",
+        "value": "*",
+        "files": [
+          "vi/index.html"
+        ],
+        "createdAt": "2026-10-20T07:55:30.721Z",
+        "reason": "Agent reviewed: uppercase applies only to the short edition label and sidebar heading; recommendation and article body prose retain normal casing."
+      },
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "files": [
+          "vi/index.html"
+        ],
+        "createdAt": "2026-10-20T07:55:30.768Z",
+        "reason": "Agent reviewed: Inter matches the upstream reader font stack in index.html:50 and preserves the user request for a site like the main repository."
+      }
+    ]
+  }
+}
