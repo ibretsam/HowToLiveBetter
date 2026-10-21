@@ -1,0 +1,15 @@
+{
+  "id": "e-4-7",
+  "source_sha256": "321a3af2037a75d787f95bcf70a08bde0e6906111f71e50f3cefcc612bec1b87",
+  "draft_sha256": "ffb76afaace756e75d88eff705581a0646622e791ce8d293652e507b42fecff6",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved5–15minutes,subtask conditions,procrastination link and source note that only abstract direction was verified."
+}

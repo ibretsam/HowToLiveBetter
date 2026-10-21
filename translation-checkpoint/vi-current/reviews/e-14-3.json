@@ -1,0 +1,15 @@
+{
+  "id": "e-14-3",
+  "source_sha256": "e9661de16551456c2420cc40ec4e5776874c6e6e6517f48c5a12c53920c87933",
+  "draft_sha256": "46c579d441e428b76860247081d302e5b20e17f8b9b778a0832db1b16c66dadd",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared. PIN vs screen lock distinction,2020case sequence,1234/0000 and three-attempt PUK condition retained. Default PIN claim and C-level single-case limitation belong to source."
+}

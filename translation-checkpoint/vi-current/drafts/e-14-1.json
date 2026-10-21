@@ -1,0 +1,14 @@
+{
+  "id": "e-14-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "1f9f9bf1553f25c9e5ab3747125052d81e95224574cf621255718e952033f0fd",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Bật xác minh hai bước cho email, tài khoản thanh toán và mạng xã hội; ưu tiên thông báo xác nhận trên điện thoại, sau đó mới đến mã SMS",
+    "cost": "Không tốn tiền. Mỗi tài khoản chỉ cần thiết lập một lần, mất hai ba phút.",
+    "plain": "Xác minh hai bước nghĩa là khi đăng nhập, ngoài mật khẩu còn phải xác nhận thêm một lần rằng đúng là bạn. Cách điện thoại hiện thông báo để bạn bấm xác nhận đã chặn hơn chín phần mười vụ chiếm tài khoản qua lừa đảo; mã SMS dễ bị lừa lấy hơn thông báo xác nhận. Với cách cũ như hỏi lần trước đăng nhập ở đâu hoặc email dự phòng là gì, mức thấp nhất chỉ chặn được một phần mười vụ chiếm tài khoản qua lừa đảo.",
+    "benefit": "Google thống kê 35 vạn lần tìm cách chiếm tài khoản thực tế. Một loại xác minh dựa vào thiết bị, như thông báo trên điện thoại yêu cầu bạn bấm xác nhận hoặc cắm khóa bảo mật. Loại này chặn được “hơn 94% lần chiếm tài khoản qua lừa đảo và 100% lần chiếm tài khoản tự động”. Lừa đảo ở đây là dụ bạn nhập mật khẩu trên website giả; tự động là máy dùng hàng loạt mật khẩu bị lộ để thử đăng nhập. Loại khác xác minh bằng câu trả lời, chẳng hạn lần trước đăng nhập ở đâu hoặc email dự phòng là gì. Loại này “chỉ chặn được ở mức thấp đến 10% vụ chiếm tài khoản qua lừa đảo và 73% vụ tự động”. Cùng là xác minh qua thiết bị, mã SMS yếu hơn thông báo trên điện thoại. Kẻ lừa đảo trả lời đúng 4% thử thách mã SMS, nhưng chỉ lừa qua được 1% thông báo xác nhận. Trong các cuộc tấn công nhắm riêng vào một người, SMS chỉ chặn được 76%, còn thông báo xác nhận chặn được 90%.",
+    "notes": "Cùng nghiên cứu này cũng thấy việc xác minh đôi khi chặn cả chủ tài khoản. Có 52% người dùng thật không đăng nhập được lần đầu, nhưng cuối cùng 97% vẫn vào được. Hãy bật trước cho email vì phần lớn tài khoản khác có thể dùng email để lấy lại mật khẩu. Chỉ tự mình dùng mã xác minh. Về hậu quả khi đọc mã hoặc xác thực khuôn mặt hộ người khác, xem chương 8 mục 45 (đọc mã xác minh).",
+    "extra": ""
+  }
+}

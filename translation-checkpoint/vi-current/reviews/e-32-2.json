@@ -1,0 +1,15 @@
+{
+  "id": "e-32-2",
+  "source_sha256": "b8a359a71cf4dfb892b66e0c488859f7879861bc23aed8dd5003520b1ba29fe1",
+  "draft_sha256": "2ef6d2a03f5069efb3cf621fd078923f2033fa95d452b930050bca733fd4fb86",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison including all dates,90-day reminder,I20,Section705,4year/30day proposedrule,national stay,no vacatur,60day grace and appeal caveats. Explicit as-of25September2026 retained; source blanketF/J/I/D-S/grace-period assertions preserved as archived claims, not externally verified orupdated."
+}

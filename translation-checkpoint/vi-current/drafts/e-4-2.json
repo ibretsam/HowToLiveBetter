@@ -1,0 +1,14 @@
+{
+  "id": "e-4-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f347286881059fb17fd05c666e8e3a039e925cc5ebaa713effe21cfba7af2366",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Viết điều kiện dừng trước khi bắt đầu",
+    "cost": "Không tốn tiền. Khi bắt đầu, dành 5 phút viết rõ “đến ngày tháng nào mà chưa đạt chỉ tiêu nào thì dừng”. Khó nhất là đến ngày đó phải giữ lời; dừng trước mặt người khác có thể hơi mất mặt.",
+    "plain": "Trước khi bắt đầu, viết một câu: đến ngày tháng nào mà chưa đạt chỉ tiêu nào thì dừng. Tổng hợp nhiều nghiên cứu cho thấy cách viết này thực sự giúp người ta rút khỏi việc chắc chắn không thể thành công. Tiết kiệm được toàn bộ thời gian mà lẽ ra bạn còn tiếp tục đổ vào đó.",
+    "benefit": "Tổng hợp nhiều nghiên cứu về ý định thực hiện cho thấy câu “nếu… thì…” đặt trước cũng giúp người ta rút khỏi việc chắc chắn không thể thành công. Tài liệu gốc gọi đó là disengagement from failing courses of action. Thời gian tiết kiệm chính là phần mà lẽ ra bạn vẫn tiếp tục bỏ vào.",
+    "notes": "Điều kiện dừng phải đặt lúc vừa bắt đầu, cảm xúc còn bình tĩnh. Đặt sau sẽ bị chi phí đã bỏ ra làm lệch phán đoán. Khi đánh giá, chỉ nhìn vào đầu tư và lợi ích trong tương lai, xem mục 3. Ngoài ra, “sẵn lòng rút lui” chỉ là một kết luận thành phần trong tổng hợp nhiều nghiên cứu; chưa ai tính riêng nó tiết kiệm được bao nhiêu thời gian.",
+    "extra": ""
+  }
+}

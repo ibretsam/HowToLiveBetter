@@ -1,0 +1,14 @@
+{
+  "id": "e-4-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "fb6f3791e6397e4dbb0a957ec117c637c57837eb533be402ebdec326d8247900",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Đặt thứ cần dùng trong tầm tay, đưa thứ không muốn đụng đến ra xa, đừng trông chờ lúc đó sẽ nhịn được",
+    "cost": "Không tốn tiền, mỗi lần vài phút. Để điện thoại ở phòng khác, bày sách và máy tính trên bàn.",
+    "plain": "Đồ vật xa hơn một chút thì người ta lấy ít hơn một chút. Đặt cùng món ăn vặt xa hơn làm lượng ăn giảm rõ rệt, với hiệu quả mức trung bình. Bớt vài lựa chọn thì số người chọn lấy cũng giảm rõ. Những cách này không cần bạn nhịn ngay lúc đó, chỉ vài phút là bố trí xong.",
+    "benefit": "Một tổng quan Cochrane gồm 24 thử nghiệm ngẫu nhiên. Đặt thức ăn xa hơn làm lượng ăn giảm, chênh lệch trung bình chuẩn hóa −0.60 (95% CI từ −0.84 đến −0.36, đây là khoảng tin cậy; 12 nghiên cứu, 1098 người, bằng chứng có độ chắc chắn thấp), thuộc mức hiệu quả trung bình. Giảm các lựa chọn làm việc chọn thức ăn đó giảm rõ hơn, chênh lệch trung bình chuẩn hóa −1.13 (95% CI từ −1.90 đến −0.37, 3 nghiên cứu, 154 người, bằng chứng có độ chắc chắn thấp). Phân tích hồi quy cho thấy đặt càng xa, lựa chọn càng ít đa dạng thì hiệu quả càng mạnh.",
+    "notes": "Xếp B vì cả 24 nghiên cứu trong tổng quan đều về thức ăn, không có nghiên cứu nào về rượu hoặc thuốc lá; 14 nghiên cứu làm trong phòng thí nghiệm, tất cả ở nước thu nhập cao. Vì thế, áp dụng “đưa xa thì ít đụng đến” cho điện thoại và trò chơi là suy luận, chưa có thử nghiệm trực tiếp. Riêng việc đưa điện thoại ra ngoài tầm nhìn đã được đo trực tiếp; xem chương 3, mục 1 (tắt thông báo không cần thiết, làm việc thì để điện thoại ngoài tầm nhìn).",
+    "extra": ""
+  }
+}

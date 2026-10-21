@@ -1,0 +1,15 @@
+{
+  "id": "e-4-12",
+  "source_sha256": "4624695a0858f98f71f51295175369a687a7565c489f067d83a7b974326b3539",
+  "draft_sha256": "c9647d88ff89ee22277eb60f10effdf1ee5ea7e57c6b46ebfa4fbec12c38e6ea",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved21-day rejection,96/82/62 counts,12weeks,95% asymptote and modeled18–254days. Missed-once and simple-task limitations retained."
+}

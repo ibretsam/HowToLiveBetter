@@ -1,0 +1,15 @@
+{
+  "id": "e-32-12",
+  "source_sha256": "128f7c81f86815a2e3dabdfdd9593196489b81044d19d3df524c7f0e594927e6",
+  "draft_sha256": "36b82b98268cefd45f4ad8efcd84b27b707eaef9092891cb22804b3f8d195f31",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:PAL/TALthroughschool,mostapplicants,mustsubmitwithapplication,noafterward,school12exemption,January1/2026publicinstitutiongraduateexemption,CAQ,exchange/renewalexemptions+proof,calendaryearvalidity,December31/2026,newletterafterdecision/January22/2025transfer,October14snapshot andrefundwarning preserved."
+}

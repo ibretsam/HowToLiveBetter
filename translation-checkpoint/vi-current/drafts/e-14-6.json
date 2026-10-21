@@ -1,0 +1,14 @@
+{
+  "id": "e-14-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "c13b5080fdc355701f2cf34fe77c95a1351cfeeebb831075e7564c2609e1073c",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Thỉnh thoảng kiểm tra thiết bị đăng nhập và ứng dụng được cấp quyền của tài khoản, xóa những thứ không dùng",
+    "cost": "Không tốn tiền. Mỗi lần kiểm tra mất vài phút. Cái khó là không ai nhắc, phải tự nhớ kiểm tra.",
+    "plain": "“Thiết bị đăng nhập” là những điện thoại và máy tính hiện vẫn dùng được tài khoản của bạn. Nếu thấy thiết bị lạ hoặc phần mềm lâu rồi không dùng vẫn kết nối với tài khoản, hãy đổi mật khẩu trước rồi đăng xuất tất cả. Với email, còn cần xem có quy tắc tự động chuyển tiếp nào không do bạn đặt hay không.",
+    "benefit": "Danh sách thiết bị đăng nhập ghi các điện thoại và máy tính hiện vẫn dùng được tài khoản. Danh sách ứng dụng được cấp quyền ghi những phần mềm của bên khác mà bạn cho phép đăng nhập bằng tài khoản này. Thiết bị lạ và phần mềm bên thứ ba đã lâu không dùng trong danh sách là những dấu vết dễ phát hiện nhất. Trung tâm An ninh mạng Quốc gia Anh liệt kê “đăng nhập hoặc thử đăng nhập từ nơi lạ hay vào thời điểm bất thường” là dấu hiệu cần kiểm tra khi tài khoản bị chiếm. Cơ quan này còn cho biết kẻ phạm tội thường đặt quy tắc chuyển tiếp trong email: mỗi thư gửi cho bạn đều tự động gửi thêm một bản cho chúng để chúng đặt lại mật khẩu của bạn. Thứ tự xử lý được đưa ra là kiểm tra và xóa quy tắc chuyển tiếp không rõ nguồn gốc trước, rồi đổi mật khẩu, sau đó đăng xuất mọi thiết bị và ứng dụng khỏi tài khoản. Sau khi đăng xuất, người khác muốn dùng lại tài khoản phải nhập mật khẩu mới. Ủy ban Thương mại Liên bang Mỹ cũng khuyên sau khi lấy lại tài khoản nên đăng xuất mọi thiết bị và xóa quy tắc chuyển tiếp không do bạn đặt.",
+    "notes": "WeChat, Alipay, email, tài khoản Apple và Android đều có mục này. Nếu thấy thiết bị không nhận ra, đổi mật khẩu trước rồi bấm đăng xuất tất cả; đây cũng là thứ tự do Trung tâm An ninh mạng Quốc gia Anh đưa ra. Xếp mức C vì cả hai nguồn đều là hướng dẫn thao tác chính thức, chưa có nghiên cứu tính việc kiểm tra định kỳ giúp giảm mất bao nhiêu.",
+    "extra": ""
+  }
+}

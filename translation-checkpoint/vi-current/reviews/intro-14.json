@@ -1,0 +1,15 @@
+{
+  "id": "intro-14",
+  "source_sha256": "3c6cfb14c74b5986081e11ce680bac14db5865ba640ce1305bb5ea3be54f2120",
+  "draft_sha256": "9e264653b5d25cdbefd0e41a26f2d9ab0df72acdacf991210a2588a0a458a9a5",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full title and introduction independently compared. Money and personal-information scope, impersonation and contact-fraud consequences retained. No added claims."
+}

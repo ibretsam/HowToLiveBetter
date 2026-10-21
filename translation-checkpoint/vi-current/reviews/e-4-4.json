@@ -1,0 +1,15 @@
+{
+  "id": "e-4-4",
+  "source_sha256": "0f57ddfa2e60d10a156091e61534da1fdcd5d0a22c2b075314105496a26134b5",
+  "draft_sha256": "c7af40595322bb9d6631c2016283944aec52ea274c00d1f7bf0af5186adb014a",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved33.9/55.5days,29.7% versus29.3% distinct cohorts,60.0%,37 and roughly40 participants; single Canadian study limits."
+}

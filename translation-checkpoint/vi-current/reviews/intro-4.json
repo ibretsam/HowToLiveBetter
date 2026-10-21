@@ -1,0 +1,15 @@
+{
+  "id": "intro-4",
+  "source_sha256": "ad660744e3218bb82fc82f0b7a6e5604777a3b6a0354c0267201b924f954e51f",
+  "draft_sha256": "6782c69a267a4154cd0475baffe187eb1795d601814da5c43d8aab3f15bf6ccb",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of title and intro. Time-only framework, no lifespan/money conversion, money formula without prescribed conclusion and predominantly B/C evidence preserved. No correction required."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-32-8",
+  "source_sha256": "34e9d1862c9deab9cc6224a4cbdb74f5c4cf673cf7cbe94eb003bf14c5ea41cd",
+  "draft_sha256": "9e938c6ac4216453f6bbc107d6f31df527f5fbee55107dea231934b3cb13dba6",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:558/776/1552/1035GBP,student+dependents,2year example,>6months/<1year whole-yearcharge,18+age,5/2year duration andrecheck caveats preserved. Source simplifiedfee/year/policy statements retained as pinned snapshot."
+}

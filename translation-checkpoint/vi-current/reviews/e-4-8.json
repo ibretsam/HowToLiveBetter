@@ -1,0 +1,15 @@
+{
+  "id": "e-4-8",
+  "source_sha256": "4dba9ba1aa01469753e260be43340f1f50f57da5952e60dd39d97f5543f6859b",
+  "draft_sha256": "a11f70cde1ac3610eacbf9c91b9ea5c0176ecf67ff29330274f54c94f4e2d1ca",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved80.6%/38.7% andr=0.82; source extrapolation from external deadlines to self-imposed dates/Pomodoro remains explicit."
+}

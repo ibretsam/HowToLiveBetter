@@ -1,0 +1,15 @@
+{
+  "id": "e-32-10",
+  "source_sha256": "d1423c001b8dc99b20b9bc5176c6ffba71ab727d780384d40acd4eef7e627b4d",
+  "draft_sha256": "d3401c02ff428fb853e0ed26083003cdb47c0463d01330b45b5a32e95c8ce326",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:2025-10-28ninthnotice4schools,>=60workingdays inclusiveapplicationdate,Article28grounds,May3schools,Augustfraudalert andnotautomaticrejection caveat preserved;ghostwriting/visarisk sourceclaim retained."
+}

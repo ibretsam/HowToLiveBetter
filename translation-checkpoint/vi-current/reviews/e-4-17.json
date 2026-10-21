@@ -1,0 +1,15 @@
+{
+  "id": "e-4-17",
+  "source_sha256": "d65a6022c7da8ae37bf9641c9ecd9d48a82cff52181edf376452f559efddb9de",
+  "draft_sha256": "1e13b9a8fbb252c0b8b01b3a00517af0a4b17a75371362dd9ddc581c4e9d27a9",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved251 Word users,inclusive ten operations daily and6-person experiment,with no seconds-per-operation value claimed."
+}

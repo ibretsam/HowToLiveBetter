@@ -1,0 +1,15 @@
+{
+  "id": "e-4-14",
+  "source_sha256": "f72d0468a63a405d7e407f9ef79e759bc1228c9770554a0294f1f963b0ea5a7e",
+  "draft_sha256": "5033351bc69f709f61a4de9831c4548863c25bd01aced82fdaef515776947a6a",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved2024 Chinese time-use figures,3.85/10.7van,6271 participants,four countries and after-tax hourly formula; evidence concerns happiness rather than hours saved."
+}

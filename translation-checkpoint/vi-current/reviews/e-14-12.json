@@ -1,0 +1,15 @@
+{
+  "id": "e-14-12",
+  "source_sha256": "3cd048279c499790202f125ff33dad045e08d03442f7e8c469a222409b280f0a",
+  "draft_sha256": "1fadc82a5d1c8a19847595b56f75f0248d2e3e8e5ccdc81fa672d15cb0790fef",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared, including new entry minimum90days,258apps,over8.5hundredmillion and2025/2026 dates. One/two-month retention remains explicit author experience; ability of new owner to log in remains media-only claim. All cross-references preserved."
+}

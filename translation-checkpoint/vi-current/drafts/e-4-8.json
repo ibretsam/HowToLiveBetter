@@ -1,0 +1,14 @@
+{
+  "id": "e-4-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "4dba9ba1aa01469753e260be43340f1f50f57da5952e60dd39d97f5543f6859b",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Tự đặt một ngày hoàn thành cho việc không có hạn chót từ bên ngoài",
+    "cost": "Không tốn tiền. Khó nhất là đã đặt thì phải giữ; đến ngày đó mà không coi trọng thì cũng như chưa đặt.",
+    "plain": "Khi có hạn chót do người khác đặt, 80.6% sinh viên hoàn thành trước hạn. Chỉ 38.7% hoàn thành trong thời gian tự dự tính. Thời điểm hoàn thành gần như đi theo hạn chót, ít liên quan đến thời gian tự ước tính. Vì vậy, việc chưa có hạn chót thì tự đặt một ngày và giữ lời.",
+    "benefit": "Trong số sinh viên có hạn chót từ bên ngoài, 80.6% hoàn thành trước hạn. Còn hoàn thành trong thời gian tự dự tính chỉ có 38.7%. Thời điểm hoàn thành gần như đi theo hạn chót, hệ số tương quan r = 0.82; số này càng gần 1 thì mối liên hệ càng chặt. Mối liên hệ với thời gian tự dự tính chỉ rất yếu.",
+    "notes": "Nói ngày tự đặt với người khác sẽ khiến nó gần với hạn do người khác đặt hơn. Nghiên cứu xác nhận hiệu quả của hạn chót do người khác đặt. Loại tự đặt cho mình, như giới hạn một khoảng thời gian làm việc hoặc đồng hồ Pomodoro, chưa được đo trực tiếp; ở đây là suy luận theo đó.",
+    "extra": ""
+  }
+}

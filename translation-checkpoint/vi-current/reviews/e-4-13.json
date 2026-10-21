@@ -1,0 +1,15 @@
+{
+  "id": "e-4-13",
+  "source_sha256": "3dca8b88b65f799cf69d3ce090b1f41c8a183a0a76f7f79808cc01eb705c47b8",
+  "draft_sha256": "5edee4296360563f202d987a85d2333164ef1e28a1561bbbaddd9161a6744fe3",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved150 people,three groups,tenweeks,all effect sizes/intervals and clinical response rates. Swedish materials versus no equivalent Chinese set retained,not localized as Vietnamese; cross-references intact."
+}

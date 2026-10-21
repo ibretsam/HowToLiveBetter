@@ -1,0 +1,15 @@
+{
+  "id": "e-32-6",
+  "source_sha256": "6c5cdf01b33f82df4d34fe63b0344a812ad2b158ad86d0fe3d39ef419c3ce041",
+  "draft_sha256": "cffbc395bad279c7597a78436d210e3c538212a742f96c147af572269cad9aa0",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:allfour2025notices,countries andISOdates,China-directedwarning,notban qualification,needrecheck and21crossref preserved; no assessment of underlyingclaims added."
+}

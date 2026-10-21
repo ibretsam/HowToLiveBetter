@@ -1,0 +1,15 @@
+{
+  "id": "e-4-5",
+  "source_sha256": "a40b024a93017f9b840dfe3fb94420571876fb7d7f5ec00873125017dec5acd3",
+  "draft_sha256": "15c0ad57b5bf8ef54952ae8bacc07af0ef2f783aa65334c3b48d96d528963fa4",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved958/292 respondents,55/56 groups,34% duration difference and5-person lab-task/perceived-effectiveness limits."
+}

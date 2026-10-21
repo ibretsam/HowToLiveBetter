@@ -1,0 +1,15 @@
+{
+  "id": "e-32-4",
+  "source_sha256": "c3173bdb2e84ed335278d5b1454373c681544a4012b6a1204a6bbcb4775c74f6",
+  "draft_sha256": "ec4458989a9d3200f3a752af4b05b1ec788ebcc3e8ef2c2a8476d401f7174e13",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:leave/withdrawal/transfer exclusions,Canadianoffcampus scope,SEVISActive andfullcourse requirement,UKcourse rule,USno-grace termination versusapprovedwithdrawal15days preserved. Source categoricaltitle/plain broader than benefitcontexts retained."
+}

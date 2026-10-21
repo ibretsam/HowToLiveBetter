@@ -1,0 +1,14 @@
+{
+  "id": "e-4-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f72d0468a63a405d7e407f9ef79e759bc1228c9770554a0294f1f963b0ea5a7e",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Dùng thu nhập theo giờ của mình để quyết định việc nhà nào nên thuê ngoài",
+    "cost": "Phải chi tiền thuê ngoài, bao nhiêu tùy dịch vụ mua. Ngoài ra cần dành thời gian một lần để tính rõ thu nhập theo giờ của mình.",
+    "plain": "Người Trung Quốc trung bình dành 1 giờ 17 phút mỗi ngày làm việc nhà. Chỉ tính người thực sự làm hôm đó thì mất 1 giờ 59 phút. Người bỏ tiền mua thời gian hài lòng với cuộc sống hơn. Cùng một khoản tiền, chi để mua thời gian khiến người ta vui hơn ngay lúc đó so với mua đồ vật.",
+    "benefit": "Cư dân Trung Quốc làm việc nhà trung bình 1 giờ 17 phút mỗi ngày. Chỉ tính người có làm việc nhà thì trung bình 1 giờ 59 phút. Đây là khảo sát năm 2024, bao phủ 3.85 vạn hộ và 10.7 vạn người. Một nghiên cứu khác lấy mẫu 6271 người tại bốn nước, thấy người chi tiền mua thời gian hài lòng với cuộc sống hơn. Nhà nghiên cứu còn làm thí nghiệm trong đời sống thực: cùng một khoản tiền, chi để mua thời gian mang lại cảm nhận hạnh phúc ngay lúc đó cao hơn mua đồ vật.",
+    "notes": "Trước hết tính thu nhập theo giờ bằng thu nhập sau thuế một tháng ÷ số giờ thực tế làm việc trong tháng. Rồi xem thuê ngoài việc nhà đó tốn bao nhiêu. Nếu đơn giá thuê ngoài thấp hơn thu nhập theo giờ của bạn, và bạn thực sự dùng thời gian tiết kiệm để kiếm tiền hoặc nghỉ ngơi, thì thuê ngoài. Thu nhập theo giờ và giá thuê của mỗi người khác nhau, phải tự tính kết luận. Ngoài ra, Whillans đo người ta có vui hơn sau khi chi tiền mua thời gian không, không đo tiết kiệm được bao nhiêu giờ.",
+    "extra": ""
+  }
+}

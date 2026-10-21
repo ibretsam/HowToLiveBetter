@@ -1,0 +1,14 @@
+{
+  "id": "e-4-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a40b024a93017f9b840dfe3fb94420571876fb7d7f5ec00873125017dec5acd3",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Gửi chương trình họp trước, không có chương trình thì không họp; đứng họp được thì đứng",
+    "cost": "Không tốn tiền. Người tổ chức dành 5 đến 10 phút viết chương trình trước cuộc họp. Đứng họp cần người tham gia phối hợp.",
+    "plain": "Cuộc họp có gửi chương trình trước khiến người tham gia dễ thấy cuộc họp hữu ích hơn. Trong thí nghiệm, họp ngồi dài hơn họp đứng 34%, trong khi chất lượng quyết định của hai cách họp không khác nhau.",
+    "benefit": "Hai khảo sát lần lượt có 958 và 292 người. Kết quả: cuộc họp gửi chương trình trước khiến người tham gia dễ thấy cuộc họp có hiệu quả hơn; mối liên hệ này có ý nghĩa thống kê. Trong một thí nghiệm khác, 55 nhóm họp ngồi, 56 nhóm họp đứng; họp ngồi dài hơn 34%. Chất lượng quyết định của hai cách họp không khác nhau.",
+    "notes": "Thí nghiệm họp đứng dùng nhiệm vụ trong phòng thí nghiệm với nhóm 5 người. Không thể áp nguyên kết luận này cho cuộc họp dài hoặc đông người. Leach đo cảm nhận của người dự về hiệu quả, không phải lượng công việc thực tế làm được.",
+    "extra": ""
+  }
+}

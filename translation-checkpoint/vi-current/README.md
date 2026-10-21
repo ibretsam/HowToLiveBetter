@@ -137,6 +137,15 @@ rà soát của mười đợt trước. Bài dài được dịch mới đủ 6
 giữ điều kiện và liên kết tham chiếu; các giới hạn của nguồn được ghi trong
 hồ sơ rà soát. Cả chín bài dài đã hoàn tất theo nguồn đích, hướng dẫn đọc còn lại.
 
+Đợt 12: toàn bộ 18 mục chương 4, 12 mục chương 14 và 12 mục chương 32,
+cộng ba lời dẫn và hướng dẫn đọc. Tổng 42 mục: 5 mới, 22 cập nhật, 15 rà soát
+lại; thêm 46 hồ sơ rà soát độc lập, xem `batch-12-report.json`. Giữ nguyên
+763 bản nháp và 763 hồ sơ rà soát của mười một đợt trước. Hướng dẫn đọc được
+đối chiếu đủ 34 câu hỏi, 41 thuật ngữ, 34 phần giới thiệu chương, bảng, ví dụ
+và liên kết. Bộ kiểm tra phân biệt ví dụ Markdown có văn xuôi cần dịch với
+câu lệnh phải giữ nguyên. Tổng 809 đơn vị đã rà soát: 765 mục, 34 lời dẫn,
+chín bài dài và hướng dẫn đọc. Phạm vi nội dung đọc của nguồn đích đã hoàn tất.
+
 Ngày 21/10/2026 đã thấy upstream `d78ca9b`, nhưng checkpoint này vẫn ghim
 `5f210ca`. Các thay đổi upstream mới cần checkpoint và lượt đối chiếu riêng;
 không đổi dấu kiểm của bản cũ hoặc coi tỷ lệ đợt này là tỷ lệ theo nguồn mới nhất.

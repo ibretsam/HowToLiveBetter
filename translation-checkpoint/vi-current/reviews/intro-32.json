@@ -1,0 +1,15 @@
+{
+  "id": "intro-32",
+  "source_sha256": "978e940407b280f7ed01bfb008e5ff1e62f196925752b5f227d1fe35547d1eeb",
+  "draft_sha256": "a62fa8dc870adab4c70e0127f86c003e11842fff77eec2064cf73becb629d2ed",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full introduction comparison:money/freedom,4topics,4countries,officialsources,September2026cutoff/recheckwarning and21/23/14/8+12308 links preserved. Source September cutoff conflicts with entries11/12 October14updates; retained as source inconsistency, no date rewrite."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-14-9",
+  "source_sha256": "2470e881ac14a26dcbe5f041339d4782ee1193a2f4fc25cfc269b47f5a5fae44",
+  "draft_sha256": "96e61016aaaae210a9ee3cdcd35a602502dff0ed25ed8501e53515631014cb5f",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared. Fixed ambiguous comparison to clearly require more care with facial data than passwords. Under14 consent, alternative verification, private-space prohibition, local storage exceptions,2025-06-01,10wan and30workingdays retained. Quoted regulation translated, source citations unmodified."
+}

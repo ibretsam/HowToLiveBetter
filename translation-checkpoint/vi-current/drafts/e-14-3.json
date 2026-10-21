@@ -1,0 +1,14 @@
+{
+  "id": "e-14-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e9661de16551456c2420cc40ec4e5776874c6e6e6517f48c5a12c53920c87933",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Đặt mật khẩu khóa màn hình điện thoại và mã PIN cho SIM",
+    "cost": "Không tốn tiền. Mật khẩu khóa màn hình và mã PIN mỗi thứ chỉ cần đặt một lần.",
+    "plain": "SIM là thẻ nhỏ trong điện thoại, dùng để nhận mã xác minh qua SMS. Nếu mất điện thoại, người nhặt được có thể tháo SIM lắp vào máy khác để nhận mã rồi lần lượt đặt lại các tài khoản của bạn. Đặt mã PIN cho SIM thì khi chuyển thẻ sang điện thoại khác, lúc bật máy phải nhập mã này trước, nên cách đó bị chặn.",
+    "benefit": "Sau khi điện thoại bị mất, một trong những cách nhanh nhất của người nhặt được là lắp SIM vào điện thoại khác để nhận mã xác minh SMS của bạn. Có mã, họ có thể lần lượt đặt lại các tài khoản. Nếu SIM có mã PIN, khi chuyển sang máy khác và bật máy phải nhập mật khẩu trước, người nhặt được không thể dùng nó nhận mã. Tháng 10 năm 2020, Bộ Công nghiệp và Công nghệ thông tin Trung Quốc đã thông báo một vụ có thật. Sau khi bị trộm điện thoại, người dùng không kịp báo mất SIM, tạo thời gian cho kẻ gian lợi dụng. Chúng dùng “số điện thoại cộng mã xác minh” đăng nhập một ứng dụng dịch vụ công, lấy số giấy căn cước và thông tin khác của người dùng, rồi đổi mật khẩu dịch vụ điện thoại. Khi người dùng báo mất SIM, chúng lại dùng lời lẽ đánh lừa nhân viên chăm sóc khách hàng của nhà mạng để mở lại SIM. Cuối cùng, chúng lợi dụng lỗ hổng “lấy lại mật khẩu” của nền tảng cho vay trực tuyến, đặt lại mật khẩu thanh toán và chiếm đoạt tiền vay. Qua vụ này, Bộ nhắc người dùng sớm đặt mật khẩu SIM và báo mất ngay khi mất điện thoại. Về mật khẩu khóa màn hình, Ủy ban Truyền thông Liên bang Mỹ khuyên đặt mật khẩu mạnh để hạn chế người khác sử dụng. Khi điện thoại bị mất hoặc bị trộm, mật khẩu giúp ngăn người khác sử dụng trái phép làm phát sinh phí và ngăn dữ liệu cá nhân bị lấy dùng.",
+    "notes": "Đặt mã PIN tại mục “khóa SIM” trong cài đặt điện thoại. Mã ban đầu thường là 1234 hoặc 0000. Nhập sai ba lần liên tiếp thì phải dùng mã PUK do nhà mạng cung cấp mới mở được. Vì vậy, sau khi đặt hãy ghi mã này ra giấy trước. Xếp mức C vì cả hai nguồn đều là khuyến cáo chính thức, kèm một trường hợp riêng lẻ; chưa có nghiên cứu tính đặt PIN giúp giảm mất bao nhiêu tiền. Về việc cần làm trước tiên khi mất điện thoại, xem mục 4 (làm theo thứ tự này khi mất điện thoại).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-14-8",
+  "source_sha256": "df70c9cafef611b9d7d2f41df4047bb4d2e09befeab97ad117cb918de20cbbca",
+  "draft_sha256": "3477f597e208cab7e1bc05c349507bbc6eaa52355f16224667df3a1270ffa077",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared. Information rights, deletion grounds, reasons for refusal, cancellation vs deletion, costs and post-disclosure limits retained. Source summarizes statutory deletion obligations without all exceptions; not expanded."
+}

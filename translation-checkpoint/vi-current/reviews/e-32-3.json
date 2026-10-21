@@ -1,0 +1,15 @@
+{
+  "id": "e-32-3",
+  "source_sha256": "4ec35f1a1a3ad8d571cb6e1cf0034aca6ffa5bb9bc9e6db839ef268c7d7050fa",
+  "draft_sha256": "fe83b9eff15286039a072416c6c865efdf152a5c7fc4cfc22b386021809f9359",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:US/UK20hours,UKbelowdegree10,Canada24,Australia48perfortnight,fulltime/permission conditions,holidaywork,banonselfemployment,Australian researchdegree/dependent exception,allcode identifiers retained. Source broad population/title and short permit summaries preserved."
+}

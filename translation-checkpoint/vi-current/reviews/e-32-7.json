@@ -1,0 +1,15 @@
+{
+  "id": "e-32-7",
+  "source_sha256": "211534fde11a5a355a9b61f99857d7d4ba42eaa9a4d0e65df130c1ecc0c2c49f",
+  "draft_sha256": "8e27bb6330a9d8bfcc2959758f3c30001d17c4e7017c041af8fbc9ced04ba548",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:mandatoryOSHC/dependents/entirestay/no-gap/recognizedinsurer/exemptions/possibleentryrefusal/actualarrivaldate all retained. Cost上万元 corrected from morethanonevạn to hàngvạn to retain order-of-magnitude wording without inventedstrict threshold. Sourcecost estimate not externally verified."
+}

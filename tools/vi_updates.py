@@ -16,6 +16,8 @@ CP = ROOT / "translation-checkpoint/vi-current"
 FIELDS = ("title", "cost", "plain", "benefit", "notes", "extra")
 HAN = re.compile(r"[\u3400-\u9fff]")
 PLACEHOLDER = re.compile(r"\[CHƯA DỊCH\]|⟦[PL]\d+⟧")
+INLINE_CODE = r"(?<!`)`([^`\n]+)`(?!`)"
+FENCED_CODE = re.compile(r"^```([^`\n]*)\n(.*?)^```[ \t]*(?:\n|$)", re.M | re.S)
 spec = importlib.util.spec_from_file_location("vi_segments", ROOT / "tools/vi_segments.py")
 segments = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(segments)
@@ -33,7 +35,7 @@ def numbers(text):
 
 def urls(text):
     protected = []
-    pattern = r'\]\(([^)]+)\)|`([^`]+)`|<(https?://[^>]+)>|(https?://[^\s<>"）)]+)'
+    pattern = r'\]\(([^)]+)\)|' + INLINE_CODE + r'|<(https?://[^>]+)>|(https?://[^\s<>"）)]+)'
     for match in re.finditer(pattern, text):
         link, code, autolink, bare = match.groups()
         protected.append(("code", code) if code is not None else (
@@ -43,8 +45,27 @@ def urls(text):
 
 def prose(text):
     text = re.sub(r"\]\([^)]+\)", "]", text)
-    text = re.sub(r"https?://[^\s<>]+|`[^`]+`|<!--.*?-->", "", text)
+    text = re.sub(r"https?://[^\s<>]+|" + INLINE_CODE + r"|<!--.*?-->", "", text)
     return text
+
+
+def validate_fences(original, translated, ident):
+    """Translate prose examples and shell comments, but preserve executable code."""
+    before = FENCED_CODE.findall(original)
+    after = FENCED_CODE.findall(translated)
+    assert [lang for lang, _ in before] == [lang for lang, _ in after], f"{ident}: code fence structure"
+    assert len(re.findall(r"^```", original, re.M)) == len(re.findall(r"^```", translated, re.M)) == 2 * len(before), f"{ident}: unbalanced code fences"
+    for (language, source), (_, target) in zip(before, after):
+        if language == "markdown":
+            continue  # Numbers, links, untranslated prose and headings are checked below.
+        if language in ("bash", "sh"):
+            # Only a whitespace-delimited comment suffix is translatable. Keep
+            # the complete command prefix; never execute a source example.
+            commands = lambda body: [re.split(r"\s+#", line, maxsplit=1)[0].rstrip()
+                                     for line in body.splitlines()]
+            assert commands(source) == commands(target), f"{ident}: shell commands changed"
+        else:
+            assert source == target, f"{ident}: code block changed"
 
 
 def source_value(original, field):
@@ -93,6 +114,7 @@ def validate_draft(task, draft):
             assert len(re.findall(pattern, value)) == len(re.findall(pattern, original)), (
                 f"{task['id']} {field}: statistical term {term}")
         if field in ("intro", "markdown"):
+            validate_fences(original, value, task['id'])
             headings = lambda s: re.findall(r"^(#{1,6})\s+", s, re.M)
             tables = lambda s: [line.count("|") for line in s.splitlines() if line.startswith("|")]
             assert headings(value) == headings(original), f"{task['id']}: heading structure"

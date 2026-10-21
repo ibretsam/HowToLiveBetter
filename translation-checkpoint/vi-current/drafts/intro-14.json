@@ -1,0 +1,10 @@
+{
+  "id": "intro-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "3c6cfb14c74b5986081e11ce680bac14db5865ba640ce1305bb5ea3be54f2120",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "An toàn tài khoản và thông tin",
+    "intro": "Tiêu chí: tiền bạc và thông tin cá nhân. Khi người khác vào được tài khoản của bạn, thứ mất đầu tiên là tiền. Họ còn dùng tài khoản đó để lừa những người trong danh bạ của bạn. Danh tính của bạn cũng coi như bị chiếm đoạt."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-14-11",
+  "source_sha256": "e45a002c6466439eb4474f9e254fb2267cd46f7165af01c8331eac270718100d",
+  "draft_sha256": "90189a44f544186e11c2ff4fb9bffa175f3555a7b6dd0427a6b8621142d7e560",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared, including new entry48hours/10699000,24hours/7days and2021/2022 launch dates. Added exact source Chinese UI labels with narrow retained_terms so services can be located. Counts-only output, UnionPay-only scope and missing-results caveat preserved."
+}

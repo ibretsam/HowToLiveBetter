@@ -1,0 +1,15 @@
+{
+  "id": "e-14-4",
+  "source_sha256": "10de65e10c41700e8b3b6f10a3fa8cf4296e0800d3aca2f3a58061a2059abe06",
+  "draft_sha256": "19e38dce16385b699d3e289c5a6013b4dfec4e6e55e9c330bea1db744becd1aa",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared. Exact loss response order, conditional bank freeze, remote wipe, theft report and IMEI,10086/10010/10000 retained. Sources explicitly attribute overall order to author experience; not independently verified advice."
+}

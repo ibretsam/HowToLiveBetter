@@ -1,0 +1,15 @@
+{
+  "id": "e-32-11",
+  "source_sha256": "49a849eabc461f78fac01be549d573637ac04f42fd6ae96b2aa864b0906cd14f",
+  "draft_sha256": "579b49e1720721450075a179666dbe7ff96f5157d1ecd56fdf73c38909f50311",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:90/150unemploymentdays,24monthSTEM,missingemployerrecord,application90before/60after/30recommendationdays,October14snapshot,stayedrule30days,eCFRwarning andOctober8proposal7/3vạnUSD throughNovember9not-effective all preserved. Source boundary differs:plain exceeds90 vsbenefit termination ataccumulated90; explicitly retained. Added missing Vietnamese relative particle mà for readability only."
+}

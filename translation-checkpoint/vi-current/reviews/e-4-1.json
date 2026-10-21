@@ -1,0 +1,15 @@
+{
+  "id": "e-4-1",
+  "source_sha256": "8f242f54e1e167bf20f8cc5309ede28a65e5c514ffaaacf70add86e4988eddc3",
+  "draft_sha256": "95d9575936de5413a5aa318b87d14a8491c85666a29ea2d5c0e022cf9e889dcf",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved94 tests,d=0.65,1–2minutes,8o’clock and student/health-context limitations."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-4-18",
+  "source_sha256": "e1b2b13b900f90ae1ad39db63a6793bb1015db707ce6011309b3280e701045bf",
+  "draft_sha256": "cb0bcea30b82e9dc2f464630b68c11c802528e480b72538ff4d64061ef17d1e8",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved50minutes,1hour2minutes,2024,30minutes and5hours; conflicting German and review findings retained plus all-travel versus commuting distinction."
+}

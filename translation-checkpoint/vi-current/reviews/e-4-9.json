@@ -1,0 +1,15 @@
+{
+  "id": "e-4-9",
+  "source_sha256": "04b05a29f1f5e8af5534bbaee17c4e5a4f908e6674bafc47b219b8bd020ae830",
+  "draft_sha256": "9c15561c6c1c80bfd65951be5a8f6f43d6bbdbe9877eb147288af0ea4023ba91",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved691 correlations and all predictor categories,noncausal interpretation,cross-references1/7/8."
+}

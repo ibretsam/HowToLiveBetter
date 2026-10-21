@@ -1,0 +1,14 @@
+{
+  "id": "e-14-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "df70c9cafef611b9d7d2f41df4047bb4d2e09befeab97ad117cb918de20cbbca",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; bị từ chối thì có thể khởi kiện",
+    "cost": "Không tốn tiền. Chỉ khi bên kia trì hoãn không làm mới cần khiếu nại hoặc khởi kiện. Nếu thực sự kiện, ít nhất cũng mất vài tháng và phải tự trả phí luật sư, nên khiếu nại trước sẽ tiết kiệm hơn. Cái khó là khi họ trì hoãn, bạn phải nhắc đi nhắc lại.",
+    "plain": "Bạn có quyền yêu cầu doanh nghiệp cho xem, sao chép, sửa và xóa thông tin của mình. Khi dịch vụ ngừng, hết thời hạn lưu giữ hoặc bạn rút lại sự đồng ý, doanh nghiệp vốn đã phải tự xóa. Nếu từ chối, họ phải giải thích lý do; không làm thì bạn có thể kiện thẳng ra tòa. Hủy tài khoản và xóa thông tin là hai việc khác nhau, hủy xong vẫn cần yêu cầu xóa riêng.",
+    "benefit": "Doanh nghiệp phải chủ động xóa trong một số trường hợp: dịch vụ đã ngừng, hết thời hạn lưu giữ thỏa thuận, bạn rút lại sự đồng ý, mục đích thu thập ban đầu đã đạt được và những trường hợp khác. Nếu họ chưa xóa, bạn có thể yêu cầu xóa. Nếu từ chối cho bạn thực hiện các quyền này, họ phải giải thích lý do. Bạn có thể khởi kiện trực tiếp ra tòa.",
+    "notes": "Hủy tài khoản và xóa thông tin cá nhân là hai việc khác nhau, hủy tài khoản xong vẫn cần yêu cầu xóa riêng. Trước khi đổi điện thoại hoặc bán máy cũ, hãy đăng xuất mọi tài khoản và hủy liên kết trên máy cũ rồi mới khôi phục cài đặt gốc. Luật cho bạn quyền yêu cầu xóa sau sự việc, nhưng không thể thu hồi giúp những thông tin đã bị lộ.",
+    "extra": ""
+  }
+}

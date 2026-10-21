@@ -1,0 +1,15 @@
+{
+  "id": "e-14-1",
+  "source_sha256": "1f9f9bf1553f25c9e5ab3747125052d81e95224574cf621255718e952033f0fd",
+  "draft_sha256": "801744f714d0db31c4c7d6be883976645137568f92bf90a7511fe99eacd8f8d8",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full source and all six translated fields compared. Device/question challenge scopes, phishing vs automated vs targeted rates, 35wan, 52/97 recovery rates and cross-reference preserved. Source push-vs-SMS preference is pinned study advice, not reverified security guidance."
+}

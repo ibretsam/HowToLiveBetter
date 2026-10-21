@@ -1,0 +1,14 @@
+{
+  "id": "e-4-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e1c458911c83c3e016095675d20748972eec355e315a4dce4b584fd8b435c234",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Muốn buộc mình làm được thì đặt tiền cọc, nhưng trước hết hỏi mình có chịu đặt không",
+    "cost": "Phương án đặt cọc đòi hỏi bỏ tiền của mình trước; không làm được thì mất tiền. Trong thử nghiệm, tiền cọc là 150 USD.",
+    "plain": "Muốn buộc mình làm được, có thể hoàn thành thì nhận thưởng, hoặc nộp cọc trước rồi hoàn thành mới được trả lại kèm thưởng. Trong số người chịu tham gia cả hai kiểu, kiểu đặt cọc có tỷ lệ làm được cao hơn 13 điểm phần trăm. Nhưng chỉ 13.7% chịu đặt cọc, còn 90% chịu nhận thưởng, nên đặt cọc chỉ hữu ích với người chịu đặt.",
+    "benefit": "Một thử nghiệm ngẫu nhiên tại Mỹ với 2538 người chia nhân viên cùng người thân, bạn bè của họ vào bốn phương án khuyến khích hoặc chăm sóc thông thường. Tỷ lệ chấp nhận phương án thưởng (làm được thì nhận khoảng 800 USD) là 90.0%, phương án cọc (nộp trước 150 USD, cộng thêm thưởng 650 USD) là 13.7%. Tỷ lệ duy trì cai thuốc sáu tháng: bốn phương án khuyến khích từ 9.4% đến 16.0%, chăm sóc thông thường 6.0%. Kiểu thưởng 15.7%, kiểu cọc 10.2%. Nhưng nếu chỉ tính 13.7% người “chịu tham gia cả hai kiểu”, tỷ lệ cai thuốc sáu tháng của kiểu cọc cao hơn kiểu thưởng 13.2 điểm phần trăm (95% CI từ 3.1 đến 22.8, đây là khoảng tin cậy).",
+    "notes": "Thử nghiệm đo việc cai thuốc; áp dụng cho viết luận văn, tập thể dục là suy luận nên mức lợi ích ghi “trung bình”. Khi chọn phương án, trước hết xét mình có thực sự dùng không, thay vì xét kiểu nào hiệu quả hơn. Cách mà đa số không chịu nhận thì hiệu quả mạnh mấy cũng không giúp được những người đó. Vì vậy trước hết chọn kiểu bạn chấp nhận; đặt ít vẫn hơn không đặt. Cách cai thuốc xem chương 2, mục 3 (thuốc cai thuốc lá).",
+    "extra": ""
+  }
+}

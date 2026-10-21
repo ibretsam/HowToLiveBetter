@@ -1,0 +1,15 @@
+{
+  "id": "e-32-5",
+  "source_sha256": "4192c96f4b75f3049a8070367aec9361bfd0d7cc83bd66f6ac79a80273c25d40",
+  "draft_sha256": "4d7489f1d5a3206834e5e7712f65a2b2fb9e3a4f55c216a4b58ad21ad8490a30",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:10days,8CFR265.1,registeredforeigners qualification,USCIS+SEVISdistinct,UKVI,Australian8533,Canada no finding andcountryvariation preserved."
+}

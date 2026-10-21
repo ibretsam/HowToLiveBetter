@@ -1,0 +1,14 @@
+{
+  "id": "e-4-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "8f242f54e1e167bf20f8cc5309ede28a65e5c514ffaaacf70add86e4988eddc3",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Viết “định làm” thành “mấy giờ, ở đâu, gặp tình huống nào thì làm gì”",
+    "cost": "Không tốn tiền. Mỗi việc dành 1 đến 2 phút viết một câu “nếu… thì…”. Ví dụ: “Sáng thứ ba lúc 8 giờ, vừa ngồi vào bàn học thì viết phần mở đầu trước”.",
+    "plain": "Đổi “tôi sẽ làm việc này” thành “sáng thứ ba lúc 8 giờ, vừa ngồi vào bàn học thì viết phần mở đầu trước”. Tổng hợp 94 phép kiểm nghiệm cho thấy người viết như vậy có tỷ lệ hoàn thành mục tiêu cao hơn rõ rệt, với hiệu quả từ trung bình đến lớn. Chỉ đổi cách viết một câu, không tốn tiền hay công sức.",
+    "benefit": "Tổng hợp 94 phép kiểm nghiệm độc lập cho thấy người viết dự định thành câu “nếu… thì…” trước có tỷ lệ đạt mục tiêu cao hơn. Trong tâm lý học, cách viết này gọi là ý định thực hiện. Độ lớn hiệu quả d = 0.65, được coi là từ trung bình đến lớn. Nó có tác dụng ở ba khâu: bắt tay vào làm, giữ được việc đang làm khi bị quấy rầy, và rút khỏi việc chắc chắn không thể thành công.",
+    "notes": "Cách này chỉ hiệu quả với việc bạn thực sự muốn làm. Nếu bản thân không muốn mục tiêu đó, viết bao nhiêu câu cũng vô ích. Ngoài ra, những nghiên cứu này chủ yếu tuyển sinh viên và xem xét thói quen sức khỏe; áp dụng vào công việc chưa chắc hiệu quả tương tự.",
+    "extra": ""
+  }
+}

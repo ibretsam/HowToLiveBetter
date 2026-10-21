@@ -1,0 +1,14 @@
+{
+  "id": "e-4-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "4624695a0858f98f71f51295175369a687a7565c489f067d83a7b974326b3539",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Tính thời gian tạo thói quen mới bằng tháng, đừng tính theo “21 ngày”",
+    "cost": "Không tốn tiền. Cần lặp lại cùng một hành động mỗi ngày trong cùng bối cảnh, liên tục vài tháng.",
+    "plain": "“Tạo được thói quen trong 21 ngày” không có căn cứ. Một nghiên cứu theo dõi 12 tuần tính được rằng để một hành động trở nên tự động, không cần nghĩ, người nhanh mất 18 ngày, người chậm cần 254 ngày. Sau hai ba tuần vẫn chưa thấy dễ hơn là bình thường. Bỏ lỡ một ngày giữa chừng cũng không xóa tiến độ về không.",
+    "benefit": "96 tình nguyện viên mỗi người chọn một hành động về ăn, uống hoặc hoạt động, làm mỗi ngày trong bối cảnh cố định (ví dụ “sau bữa sáng”) suốt 12 tuần và tự chấm mức độ tự động hằng ngày. Dữ liệu của 82 người đủ để phân tích; mô hình khớp thành công với 62 người. Số ngày cần để đạt 95% mức tự động tối đa của từng người trải từ 18 đến 254 ngày. Nghiên cứu còn thấy bỏ lỡ một lần thực hiện không ảnh hưởng đáng kể đến quá trình hình thành thói quen.",
+    "notes": "Chỉ có nghiên cứu này với 96 người, đều thực hiện hành động đơn giản (ví dụ ăn một phần trái cây sau bữa ăn). Việc phức tạp như chạy ba lần mỗi tuần, viết mỗi ngày mất bao lâu thì chưa ai đo. Vì vậy sau hai tuần vẫn rất tốn sức không thể coi là bằng chứng thất bại. Để việc lặp lại thực sự diễn ra, gắn hành động với một bối cảnh cố định; xem mục 1 chương này (viết thành “mấy giờ, ở đâu, gặp tình huống nào thì làm gì”).",
+    "extra": ""
+  }
+}

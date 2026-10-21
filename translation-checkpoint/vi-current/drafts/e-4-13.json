@@ -1,0 +1,14 @@
+{
+  "id": "e-4-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "3dca8b88b65f799cf69d3ce090b1f41c8a183a0a76f7f79808cc01eb705c47b8",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Nếu trì hoãn đã ảnh hưởng cuộc sống, dùng tài liệu tự hỗ trợ có thử nghiệm ngẫu nhiên ủng hộ, không nhất thiết phải tìm nhà trị liệu",
+    "cost": "Một cuốn sách tự hỗ trợ giá vài chục nhân dân tệ, có tài liệu miễn phí. Cần dành khoảng mười tuần, mỗi tuần đọc một phần và làm một bài tập.",
+    "plain": "Trì hoãn nặng đến mức gây khổ sở có thể cải thiện. Tập theo tài liệu tự hỗ trợ nhận thức hành vi trong mười tuần, dù có người hướng dẫn hay hoàn toàn tự làm đều tốt hơn rõ rệt so với không làm gì. Không thấy khác biệt giữa có và không có hướng dẫn, nên tự làm theo cũng hiệu quả.",
+    "benefit": "150 người được chia ngẫu nhiên thành ba nhóm: tự hỗ trợ có nhà trị liệu hướng dẫn, tự hỗ trợ không hướng dẫn, và đối chứng trong danh sách chờ. Sau mười tuần, độ lớn hiệu quả giữa các nhóm trên Thang trì hoãn thuần túy ở nhóm có hướng dẫn là d = 0.70 (95% CI 0.29–1.10, đây là khoảng tin cậy), nhóm không hướng dẫn d = 0.50 (0.10–0.90); trên Thang trì hoãn phi lý lần lượt là 0.81 (0.40–1.22) và 0.69 (0.29–1.09). Tỷ lệ cải thiện có ý nghĩa lâm sàng: nhóm có hướng dẫn từ 31.3% đến 40.0%, nhóm không hướng dẫn từ 24.0% đến 36.0%. Hai nhóm không khác biệt có ý nghĩa thống kê ở bất kỳ kết quả nào.",
+    "notes": "Người tham gia là người trưởng thành Thụy Điển, dùng tài liệu tiếng Thụy Điển; chưa có sẵn bộ tương tự bằng tiếng Trung, nên mức lợi ích ghi “trung bình”. Tài liệu gồm các thành phần thường gặp: hoạt hóa hành vi, thí nghiệm hành vi, kiểm soát kích thích, giải thích về động lực và phương pháp làm việc. Kiểm soát kích thích có ở mục 10 chương này (đưa thứ không muốn đụng đến ra xa). Nếu trì hoãn đi kèm tâm trạng sa sút hoặc lo âu rõ rệt, trước hết làm theo chương 3, mục 18 (vận động, ra nắng, ngủ đúng giờ, tìm người nói chuyện, gọi 12356).",
+    "extra": ""
+  }
+}

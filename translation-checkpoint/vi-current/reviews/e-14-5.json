@@ -1,0 +1,15 @@
+{
+  "id": "e-14-5",
+  "source_sha256": "c3ebf4c3c5f090fc0b55689815951079ced52c9130fc808cf65b27c843e63204",
+  "draft_sha256": "5c052913530b88035278f2f17bd823d4af7aa02843320d84480bbf3dbc8bb4ec",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared. Debit/credit differences, proof burden, fault share, notice duties,2021-05-25 and third-party-payment exception retained. Plain source oversimplifies automatic compensation; benefit and notes preserve conditions and source caveat."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-32-9",
+  "source_sha256": "6636a76dc1d31bdc6c4c1ebfc0cd24edfbb4f360db917ffbc99e6b651f84969d",
+  "draft_sha256": "17422d2d98eab8023bd769de8b13a95f55f584a99ed052345f21711e5417f98d",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:10–20workingdays vsdocumentpreparation,foursteps,China deadlines,documentlist,automatictravelrecord retrieval,revoked/suspendedschoolnotices preserved. Source blanket needcertification plain vsvoluntary elsewhere retained, no legalrewrite."
+}

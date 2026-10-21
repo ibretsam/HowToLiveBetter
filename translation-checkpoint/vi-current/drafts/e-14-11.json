@@ -1,0 +1,22 @@
+{
+  "id": "e-14-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e45a002c6466439eb4474f9e254fb2267cd46f7165af01c8331eac270718100d",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Mỗi năm kiểm tra một lần có bao nhiêu SIM và thẻ ngân hàng đứng tên mình; thấy thứ không do mình đăng ký thì đi hủy",
+    "cost": "Không tốn tiền. Tra SIM trong tài khoản công khai “Công tín vi báo” (工信微报) của Bộ Công nghiệp và Công nghệ thông tin hoặc ứng dụng nhỏ “Một giấy tờ tra toàn bộ” (一证通查) trên Alipay; tra thẻ ngân hàng tại “Tra thẻ bằng một lần bấm” (一键查卡) trong ứng dụng UnionPay (云闪付). Mỗi nơi điền vài phút, kết quả được thông báo qua SMS trong một hai ngày. Cái khó là không ai nhắc, phải tự nhớ kiểm tra mỗi năm.",
+    "plain": "Có người mạo danh bằng giấy căn cước của người khác để đăng ký SIM đi lừa đảo, trong khi chính chủ thường không biết. Hiện có dịch vụ tra cứu chính thức miễn phí để xem có bao nhiêu SIM đứng tên bạn, bao nhiêu tài khoản ứng dụng liên kết với số điện thoại và những thẻ UnionPay nào. Thấy thứ không nhận ra thì nhờ nhà mạng hoặc ngân hàng xác minh và hủy.",
+    "benefit": "Luật Chống lừa đảo qua viễn thông và mạng quy định cơ quan quản lý viễn thông phải “cung cấp kênh thuận tiện để người dùng tra thông tin SIM đứng tên mình”. Ngân hàng Nhân dân Trung Quốc cùng các cơ quan liên quan phải “cung cấp kênh thuận tiện để khách hàng tra tài khoản ngân hàng và tài khoản thanh toán đứng tên mình”. Dịch vụ “Một giấy tờ tra toàn bộ” SIM di động toàn quốc do Bộ Công nghiệp và Công nghệ thông tin chỉ đạo ra mắt ngày 14 tháng 9 năm 2021. Dùng giấy căn cước có thể tra số lượng SIM đứng tên mình và nhà mạng tương ứng. Dịch vụ ra đời vì khi chống lừa đảo viễn thông, cơ quan chức năng phát hiện một số SIM liên quan vụ án được đăng ký bằng danh tính người khác. Chính chủ không biết và tín dụng cá nhân còn có thể bị ảnh hưởng. Kết quả được gửi qua SMS từ 10699000 trong 48 giờ. Nếu số lượng không khớp, đến nhà mạng tra chi tiết; khi chính chủ cho phép, có thể xác minh, tách khỏi tên mình, ngừng hoạt động hoặc hủy tài khoản thuê bao. Tháng 7 năm 2022, dịch vụ “Một giấy tờ tra toàn bộ 2.0” ra mắt. Dùng số điện thoại và sáu số cuối của số giấy căn cước có thể tra số tài khoản Internet liên kết với số đó. Khi ấy dịch vụ hỗ trợ Tencent, Alibaba, Baidu, Kuaishou, Douyin, JD.com, Meituan và các doanh nghiệp khác; kết quả chỉ cho biết số lượng. Về thẻ ngân hàng, ngày 29 tháng 6 năm 2022, China UnionPay mở tính năng “Tra thẻ bằng một lần bấm” trong ứng dụng UnionPay cho mọi tỉnh, thành trong nước. Chọn ngân hàng cần tra và xác minh danh tính là có thể gửi yêu cầu. Báo cáo được tạo trong 24 giờ, thông tin thẻ đã được che bớt dữ liệu nhạy cảm và báo cáo tự xóa sau 7 ngày. Dịch vụ áp dụng trên toàn Trung Quốc.",
+    "notes": "“Tra thẻ bằng một lần bấm” chỉ tra thẻ UnionPay. Khi đó UnionPay cho biết chưa tra được thẻ không lưu số điện thoại tại ngân hàng hoặc có giấy căn cước đã hết hạn; lấy hồ sơ ngân hàng phát hành làm chuẩn, nên tra không ra không có nghĩa là không có. Muốn biết khoản vay và thẻ tín dụng bị đăng ký mạo danh phải xem báo cáo tín dụng; xem chương 8 mục 9 (báo cáo tín dụng). Với số điện thoại có nhiều tài khoản liên kết theo dịch vụ Một giấy tờ tra toàn bộ 2.0, hãy hủy liên kết trước khi đổi hoặc ngừng số; xem mục 12 (trước khi đổi số điện thoại hoặc bỏ số cũ). Cho người khác mượn hoặc bán thẻ của mình là chuyện khác; xem chương 8 mục 8 (không giao thẻ ngân hàng, SIM). Xếp mức C vì nguồn đều là hướng dẫn dịch vụ chính thức, chưa có nghiên cứu tính tra cứu giúp giảm mất bao nhiêu. Mức lợi ích được nhận định là “vừa”. Người hưởng lợi là chính bạn.",
+    "extra": ""
+  },
+  "retained_terms": {
+    "cost": [
+      "工信微报",
+      "一证通查",
+      "一键查卡",
+      "云闪付"
+    ]
+  }
+}

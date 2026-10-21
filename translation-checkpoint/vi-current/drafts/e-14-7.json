@@ -1,0 +1,14 @@
+{
+  "id": "e-14-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "76025bbb80d3d48e6f16545da5016ef847a4f8569c286163a317da2d6f296129",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Đừng bấm “đồng ý tất cả” chỉ để dùng ứng dụng: với thông tin không bắt buộc, dù bạn không đồng ý, họ cũng không được từ chối dịch vụ",
+    "cost": "Không tốn tiền. Cái khó là kiềm lại, không bấm “đồng ý tất cả”.",
+    "plain": "Nếu ứng dụng xin thông tin không cần thiết để cung cấp dịch vụ đó, bạn không đồng ý thì họ cũng không được vì vậy mà cấm bạn dùng. Họ chỉ được thu thập những thông tin cần dùng. Bản đồ cần vị trí của bạn, còn đèn pin thì không cần danh bạ.",
+    "benefit": "Luật ghi rõ hai điều. Không được từ chối cung cấp sản phẩm hoặc dịch vụ vì cá nhân không đồng ý hay rút lại sự đồng ý, trừ khi việc xử lý thông tin đó là cần thiết để cung cấp dịch vụ. Việc thu thập phải giới hạn trong phạm vi tối thiểu để đạt mục đích xử lý, chỉ được thu những thông tin cần dùng.",
+    "notes": "Tiêu chí là thông tin đó có cần thiết để cung cấp dịch vụ này hay không. Bản đồ cần vị trí, đèn pin không cần danh bạ. Sau khi cài ứng dụng, hãy vào trang quyền ứng dụng trong cài đặt điện thoại và tắt các quyền không cần thiết. Khi thật sự cần dùng thì chọn chỉ cho phép lần này.",
+    "extra": ""
+  }
+}

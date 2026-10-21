@@ -93,6 +93,27 @@ class CheckpointTests(unittest.TestCase):
         with self.assertRaises(AssertionError):
             validate_draft(self.task, self.draft)
 
+    def test_guide_fences_translate_prose_but_protect_commands_and_links(self):
+        original = ('# 指南\n```markdown\n### 5. 建议\n减少20%，RR 0.80。\n'
+                    'https://example.org/study\n```\n说明 `README.md`。\n'
+                    '```bash\npython -m http.server 8000\nnpm ci # 安装依赖\n```\n')
+        translated = ('# Hướng dẫn\n```markdown\n### 5. Lời khuyên\nGiảm20%, RR 0.80.\n'
+                      'https://example.org/study\n```\nGiải thích `README.md`.\n'
+                      '```bash\npython -m http.server 8000\nnpm ci # Cài phụ thuộc\n```\n')
+        task = {**self.task, 'id': 'guide', 'original': original, 'source_sha256': digest(original)}
+        draft = {**self.draft, 'id': 'guide', 'source_sha256': task['source_sha256'],
+                 'translation': {'markdown': translated}}
+        validate_draft(task, draft)
+        for old, new in [('Lời khuyên', '建议'), ('20%', '21%'), ('RR', 'OR'),
+                         ('example.org', 'changed.org'), ('npm ci', 'npm install'),
+                         ('README.md', 'different.md'), ('```bash', '```markdown'),
+                         ('```\nGiải thích', 'Giải thích')]:
+            with self.subTest(old=old):
+                damaged = copy.deepcopy(draft)
+                damaged['translation']['markdown'] = translated.replace(old, new)
+                with self.assertRaises(AssertionError):
+                    validate_draft(task, damaged)
+
 
 if __name__ == "__main__":
     unittest.main()

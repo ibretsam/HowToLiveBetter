@@ -1,0 +1,15 @@
+{
+  "id": "guide",
+  "source_sha256": "4b8ca0bc618f4413bf33e95119fa6b3736537702e3fa3156b5a8ffcc522676b7",
+  "draft_sha256": "bb3d5827acabce07fb4023f9ed835429a1ca6fa607df5c56779e149e428fe992",
+  "reviewer": "batch12_study_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual review of every paragraph across all 344 source lines: opening/disclaimers, 34 question rows, 14 reading instructions, example, commands, four resources, evidence and value tables, 41 glossary terms, 34 chapter summaries, licensing, donation/ad/footer. Checked all numbers/statistical labels, age conditions, negation, source links, code commands, headings, tables and retained Chinese legal terms. Bounded fixes requested/applied: original news versus investigation; explicit second token-income negation; escape-room game versus emergency exit room; commuting versus working time; retained 定金/订金 for legal distinction. Reviewer also restored source categorical copyright wording and inclusive 1/2-year age boundaries in summaries 13/34, plus missing Vietnamese verb. Source caveats: glossary IRR/CI/OR/CPR/legal descriptions simplified; source guide 1岁以下 and 2岁以下 literally inclusive and may differ from detailed under-age advice, not clinically reconciled here. Source topical TOC end-count descriptions and evidence/benefit claims preserved rather than silently corrected. All upstream hosting, exports, skill, assets, ads and feature claims retained as source descriptions; root adding separate translation context outside this document. Review establishes translation fidelity, not current legal/medical verification."
+}

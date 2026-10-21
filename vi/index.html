@@ -81,6 +81,7 @@ const labels={cost:'Chi phí',plain:'Nói dễ hiểu',benefit:'Lợi ích',grad
 const tagLabels={钱:{'0':'Không tốn tiền','少':'Ít tiền','多':'Nhiều tiền'},时间:{'少':'Ít thời gian','中':'Vài giờ','多':'Hằng ngày'},毅力:{'否':'Làm một lần','些':'Đổi thói quen','是':'Duy trì lâu dài'},口径:{死亡率:'Sức khỏe',金钱:'Tiền bạc',时间:'Thời gian',自由:'Quyền lợi'}};
 const selectTags={money:'钱',time:'时间',will:'毅力',lens:'口径'};
 const ids=['status','grade','money','time','will','lens'];
+const guideAnchors={目录:['toc','Mục lục'],证据分级:['evidence','Mức độ bằng chứng'],许可:['license','Giấy phép'],读懂数字术语表:['glossary','Hiểu các con số (bảng thuật ngữ)']};
 let DATA,items=[],sectionId=0,limit=30,filtered=[],activeDoc=null,returnFocus=null,searchTimer;
 function safeUrl(raw,base){
   try{
@@ -89,11 +90,14 @@ function safeUrl(raw,base){
     if(/^[a-z][a-z\d+.-]*:/i.test(url)||url.startsWith('//')) return '#';
     const resolved=new URL(url,'https://local.invalid/'+base);
     const path=decodeURIComponent(resolved.pathname.slice(1));
-    const doc=DATA?.docs.find(d=>d.sourcePath===path||d.translationPath===path);
+    const doc=DATA?.docs.find(d=>d.sourcePath===path||d.translationPath===path||d.translationPath==='vi/'+path);
     if(doc)return '#doc-'+doc.id;
     const chapter=path.match(/^(?:vi\/)?book\/(\d+)/);
     if(chapter)return '#sec-'+Number(chapter[1]);
-    if(path==='README.md'||path==='vi/README.md')return '#guide';
+    if(path==='README.md'||path==='vi/README.md'){
+      const anchor=guideAnchors[decodeURIComponent(resolved.hash.slice(1))];
+      return '#guide'+(anchor?'-'+anchor[0]:'');
+    }
     if(path==='vi/TRANSLATION.md')return 'vi/TRANSLATION.md';
     return 'https://github.com/'+DATA.meta.repository+'/blob/main/'+path.split('/').map(encodeURIComponent).join('/')+resolved.hash;
   }catch(e){return '#'}
@@ -111,16 +115,28 @@ function inline(text,base='README.md',sec=0){
   text=text.replace(/\bchương (\d+)(?:,?\s+mục (\d+))?/gi,(whole,s,n)=>'<a href="#'+(n?'e-'+s+'-'+n:'sec-'+s)+'">'+whole+'</a>');
   return text.replace(/\u0001(\d+)\u0002/g,(_,n)=>tokens[Number(n)]);
 }
-function markdown(text,base='README.md'){
+function markdown(text,base='README.md',guideHeadings=false){
   if(window.marked){
     const template=document.createElement('template');
     template.innerHTML=marked.parse(String(text));
-    const allowed=new Set('A B STRONG EM I P BR HR H1 H2 H3 H4 H5 H6 UL OL LI TABLE THEAD TBODY TR TH TD BLOCKQUOTE PRE CODE DIV SPAN DETAILS SUMMARY'.split(' '));
+    const allowed=new Set('A B STRONG EM I P BR HR H1 H2 H3 H4 H5 H6 UL OL LI TABLE THEAD TBODY TR TH TD BLOCKQUOTE PRE CODE DIV SPAN SUB DETAILS SUMMARY'.split(' '));
     for(const node of [...template.content.querySelectorAll('*')]){
+      if(node.tagName==='IMG'){
+        const label=node.getAttribute('alt')||'Mở hình ảnh từ bản gốc';
+        if(node.closest('a'))node.replaceWith(document.createTextNode(label));
+        else{const link=document.createElement('a');link.textContent=label;link.href=safeUrl(node.getAttribute('src')||'',base);node.replaceWith(link)}
+        continue;
+      }
       if(!allowed.has(node.tagName)){node.remove();continue}
       const href=node.getAttribute('href');
       for(const attr of [...node.attributes])node.removeAttribute(attr.name);
       if(node.tagName==='A'&&href)node.setAttribute('href',safeUrl(href,base));
+      if(guideHeadings&&node.tagName==='H2'){
+        const title=node.textContent.trim();
+        for(const [source,[key,translated]] of Object.entries(guideAnchors)){
+          if(title===translated||title.replace(/[（）]/g,'')===source)node.id='guide-'+key;
+        }
+      }
       if(node.tagName==='TABLE'){const wrap=document.createElement('div');wrap.className='table-wrap';node.replaceWith(wrap);wrap.appendChild(node)}
     }
     const holder=document.createElement('div');holder.appendChild(template.content);
@@ -132,7 +148,7 @@ function markdown(text,base='README.md'){
     if(!line){i++;continue}
     if(line.startsWith('```')){const code=[];i++;while(i<lines.length&&!lines[i].startsWith('```'))code.push(lines[i++]);i++;out+='<pre><code>'+escapeHtml(code.join('\n'))+'</code></pre>';continue}
     const h=line.match(/^(#{1,6}) (.+)$/);
-    if(h){const level=Math.min(4,h[1].length+1);out+='<h'+level+'>'+inline(h[2],base)+'</h'+level+'>';i++;continue}
+    if(h){const level=Math.min(4,h[1].length+1),anchor=guideHeadings&&h[1]==='##'?Object.entries(guideAnchors).find(([source,[,translated]])=>h[2]===translated||h[2].replace(/[（）]/g,'')===source):null;out+='<h'+level+(anchor?' id="guide-'+anchor[1][0]+'"':'')+'>'+inline(h[2],base)+'</h'+level+'>';i++;continue}
     if(line.startsWith('|')){const rows=[];while(i<lines.length&&lines[i].trim().startsWith('|'))rows.push(lines[i++].trim());
       out+='<div class="table-wrap"><table>';rows.forEach((r,n)=>{if(/^\|[\s:|-]+\|$/.test(r))return;const tag=n===0?'th':'td';out+='<tr>'+r.replace(/^\||\|$/g,'').split('|').map(c=>'<'+tag+'>'+inline(c.trim(),base)+'</'+tag+'>').join('')+'</tr>'});out+='</table></div>';continue}
     if(/^(?:[-*] |\d+\. )/.test(line)){const ordered=/^\d+\./.test(line),tag=ordered?'ol':'ul';out+='<'+tag+'>';while(i<lines.length&&/^(?:[-*] |\d+\. )/.test(lines[i].trim()))out+='<li>'+inline(lines[i++].trim().replace(/^(?:[-*] |\d+\. )/,''),base)+'</li>';out+='</'+tag+'>';continue}
@@ -179,16 +195,26 @@ function render(){
 function closeMenu(){$('sidebar').classList.remove('open');$('menu').setAttribute('aria-expanded','false')}
 function route(){
   if(!DATA)return;
-  const hash=decodeURIComponent(location.hash.slice(1));
-  if(hash==='guide'||hash.startsWith('doc-')){
-    const doc=hash==='guide'?DATA.guide:DATA.docs.find(d=>d.id===hash.slice(4));
+  let hash=location.hash.slice(1);try{hash=decodeURIComponent(hash)}catch(e){}
+  const isGuide=/^guide(?:-(?:toc|evidence|license|glossary))?$/.test(hash);
+  if(isGuide||hash.startsWith('doc-')){
+    const doc=isGuide?DATA.guide:DATA.docs.find(d=>d.id===hash.slice(4));
     if(!doc)return;
-    activeDoc=hash;returnFocus=document.activeElement;
-    $('reader-title').textContent=doc.title;
-    $('reader-body').innerHTML=badge(doc.status)+warning(doc.status)+(doc.translationMarkdown?markdown(doc.translationMarkdown,doc.translationPath):'<div lang="zh-CN">'+markdown(doc.originalMarkdown,doc.sourcePath)+'</div>')+(doc.translationMarkdown?'<details><summary>Đọc bản gốc tiếng Trung mới nhất</summary><div lang="zh-CN">'+markdown(doc.originalMarkdown,doc.sourcePath)+'</div></details>':'')+'<p><a href="'+escapeHtml(doc.sourceUrl)+'">Nguồn hiện tại trên GitHub ↗</a></p>';
-    if(!$('reader').open)$('reader').showModal();$('reader').scrollTop=0;return;
+    const docKey=isGuide?'guide':hash;
+    if(activeDoc!==docKey||!$('reader').open){
+      if(!$('reader').open)returnFocus=document.activeElement;
+      activeDoc=docKey;
+      $('reader-title').textContent=doc.title;
+      const notice=isGuide?'<div class="notice"><p><strong>Lưu ý của bản dịch:</strong> Đây là bản dịch hướng dẫn của kho gốc. Các liên kết tra cứu, tải sách, skill và tự lưu trữ trong hướng dẫn mô tả bản gốc tiếng Trung; chúng không phải các bản tải xuống tiếng Việt.</p></div>':'';
+      $('reader-body').innerHTML=badge(doc.status)+warning(doc.status)+notice+(doc.translationMarkdown?markdown(doc.translationMarkdown,isGuide?doc.sourcePath:doc.translationPath,isGuide):'<div lang="zh-CN">'+markdown(doc.originalMarkdown,doc.sourcePath,isGuide)+'</div>')+(doc.translationMarkdown?'<details><summary>Đọc bản gốc tiếng Trung mới nhất</summary><div lang="zh-CN">'+markdown(doc.originalMarkdown,doc.sourcePath)+'</div></details>':'')+'<p><a href="'+escapeHtml(doc.sourceUrl)+'">Nguồn hiện tại trên GitHub ↗</a></p>';
+    }
+    if(!$('reader').open)$('reader').showModal();
+    requestAnimationFrame(()=>{
+      const target=isGuide&&hash!=='guide'?document.getElementById(hash):null;
+      $('reader').scrollTop=target?$('reader').scrollTop+target.getBoundingClientRect().top-$('reader').getBoundingClientRect().top-$('reader').querySelector('.dialog-top').offsetHeight-16:0;
+    });return;
   }
-  if($('reader').open)$('reader').close();
+  if($('reader').open){activeDoc=null;$('reader').close()}
   const entryMatch=hash.match(/^e-(\d+)-(\d+)$/),secMatch=hash.match(/^sec-(\d+)$/);
   sectionId=entryMatch?Number(entryMatch[1]):secMatch?Number(secMatch[1]):0;
   if(entryMatch){
@@ -219,7 +245,7 @@ $('retry').onclick=init;
 $('menu').onclick=()=>{const open=$('sidebar').classList.toggle('open');$('menu').setAttribute('aria-expanded',String(open))};
 $('theme').onclick=()=>{const dark=document.documentElement.classList.toggle('dark');try{localStorage.setItem('vi-theme',dark?'dark':'light')}catch(e){}};
 $('close-reader').onclick=()=>{$('reader').close()};
-$('reader').addEventListener('close',()=>{if(activeDoc&&location.hash.slice(1)===activeDoc)history.replaceState(null,'',sectionId?'#sec-'+sectionId:'#all');activeDoc=null;returnFocus?.focus()});
+$('reader').addEventListener('close',()=>{if($('reader').open)return;const hash=location.hash.slice(1);if(activeDoc&&(hash===activeDoc||(activeDoc==='guide'&&/^guide-(toc|evidence|license|glossary)$/.test(hash))))history.replaceState(null,'',sectionId?'#sec-'+sectionId:'#all');activeDoc=null;if(returnFocus?.isConnected)returnFocus.focus();returnFocus=null});
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeMenu()});
 document.addEventListener('click',e=>{
   if(e.target.closest('#sidebar a.chapter-link'))closeMenu();

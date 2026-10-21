@@ -1,0 +1,15 @@
+{
+  "id": "e-4-2",
+  "source_sha256": "f347286881059fb17fd05c666e8e3a039e925cc5ebaa713effe21cfba7af2366",
+  "draft_sha256": "543d2880928cc57830292b26862c762b9b27d1e63a205ae27e78fabef56f1c6e",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved precommitment stop conditions,5minutes,prospective costs only and absence of a separately quantified time saving."
+}

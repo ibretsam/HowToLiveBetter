@@ -1,0 +1,14 @@
+{
+  "id": "e-4-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "9009a9a66ccf6b8b601336dc424ff6a6096cd8d90c3a8eb9e4108603e580e812",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Khi quyết định có tiếp tục hay không, chỉ xét đầu tư và lợi ích trong tương lai, đừng xét đã bỏ ra bao nhiêu",
+    "cost": "Không tốn tiền. Khó nhất là chấp nhận một điều: thời gian đã bỏ ra không còn nữa, không lấy lại được.",
+    "plain": "Tiền và thời gian đã bỏ ra khiến người ta muốn tiếp tục hơn. Tổng hợp 98 bộ dữ liệu cho thấy khuynh hướng này tồn tại ổn định. Vì vậy khi quyết định có tiếp tục không, chỉ tính từ nay còn phải bỏ bao nhiêu, còn nhận lại được bao nhiêu. Đừng tính phần đã tiêu vào.",
+    "benefit": "Tiền, công sức và thời gian đã bỏ ra khiến người ta muốn tiếp tục làm hơn. Trong tâm lý học, đây là hiệu ứng chi phí chìm. Tổng hợp 98 bộ dữ liệu, phân tích xác nhận khuynh hướng này tồn tại ổn định. Tránh được khuynh hướng đó thì sẽ không tiếp tục bỏ thời gian chỉ vì “không muốn lãng phí”.",
+    "notes": "Thí nghiệm nhà hát của Arkes và Blumer được thực hiện như sau. Nhà hát Đại học Ohio bán vé cả mùa, ngẫu nhiên cho người mua ba mức: giá gốc 15 USD, giảm 2 USD, giảm 7 USD. Trong nửa đầu mùa, nhóm mua giá gốc xem trung bình 4.11 buổi, hai nhóm còn lại là 3.32 và 3.29 buổi. Nửa sau mùa không còn khác biệt rõ giữa ba nhóm. Roth và cộng sự phát hiện ảnh hưởng này nhạt dần theo thời gian; người lớn tuổi chịu ảnh hưởng ít hơn.",
+    "extra": ""
+  }
+}

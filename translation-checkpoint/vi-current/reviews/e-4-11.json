@@ -1,0 +1,15 @@
+{
+  "id": "e-4-11",
+  "source_sha256": "e1c458911c83c3e016095675d20748972eec355e315a4dce4b584fd8b435c234",
+  "draft_sha256": "4623cb5a21aa2ec9bcbaa513892ff5fce5e9080609bd66b6df79b3270aa1cc85",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved2538 participants,150/650/800USD,all rates,13 versus13.2percentage-point distinction,CI3.1–22.8 and smoking-to-other-tasks extrapolation."
+}

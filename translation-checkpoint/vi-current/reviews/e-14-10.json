@@ -1,0 +1,15 @@
+{
+  "id": "e-14-10",
+  "source_sha256": "f2179793d650f365dc8f838866a311163f47586db769dbb1daf45943f9da83ef",
+  "draft_sha256": "cbef47d0f302c82755000fcec73960246359cf1382fdee47a2aed38ecbba49a4",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared, including new entry key figures28paid/400free,1+8malicious,2timed attacks,17keys,1wallet and under50USD versus erroneous50wanUSD reporting. requests/reqeusts example preserved literally. Preprint and sample limitations retained; no prevalence inference added."
+}

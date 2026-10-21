@@ -1,0 +1,15 @@
+{
+  "id": "e-4-10",
+  "source_sha256": "fb6f3791e6397e4dbb0a957ec117c637c57837eb533be402ebdec326d8247900",
+  "draft_sha256": "d6f25bca6bc68ef9bb843330d069b7da7a68ba027655d2cc659a3291b559e3f3",
+  "reviewer": "batch12_security_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields, source references, conditions and readability. No correction required. Preserved24 trials,12/1098 and3/154,all SMD/CI values and low certainty. Food-only evidence extrapolation to phones/games is explicit;14lab trials and high-income scope retained."
+}

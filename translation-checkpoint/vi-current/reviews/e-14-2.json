@@ -1,0 +1,15 @@
+{
+  "id": "e-14-2",
+  "source_sha256": "26acae814017767989c9d2e1da50c43b5e09e953f2619c776f11337214dedcee",
+  "draft_sha256": "71e6d16eca2cc2250eaa788fd12dcca1ed237098d7ebf5ee033a30615a2c8570",
+  "reviewer": "root_batch12_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "All fields compared. Separate email password, at least16characters and password-manager recommendation preserved. Source universal account-loss phrasing retained without strengthening."
+}

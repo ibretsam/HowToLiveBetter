@@ -1,0 +1,14 @@
+{
+  "id": "e-4-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d65a6022c7da8ae37bf9641c9ecd9d48a82cff52181edf376452f559efddb9de",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Dành thời gian một lần để học phím tắt và tự động hóa trong phần mềm thường dùng",
+    "cost": "Không tốn tiền. Cần bỏ ra từ vài giờ đến vài chục giờ để học một lần. Khó nhất là lúc mới dùng còn chậm hơn chuột.",
+    "plain": "Đa số người đã dùng Word quen vẫn bấm biểu tượng trên thanh công cụ. Trong thí nghiệm so sánh các nhóm, phím tắt nhanh hơn cả menu lẫn biểu tượng. Chỉ mất công học một lần, rồi mỗi thao tác mỗi ngày đều bù lại thời gian ấy. Làm cùng loại công việc càng lâu, thời gian nhận lại càng nhiều.",
+    "benefit": "Nghiên cứu xem xét 251 người dùng Word có kinh nghiệm; đa số hiếm dùng phím tắt vốn nhanh hơn, vẫn chủ yếu bấm biểu tượng trên thanh công cụ. Thí nghiệm so sánh các nhóm xác nhận trong ba cách menu, biểu tượng và phím tắt, phím tắt nhanh nhất. Thời gian tiết kiệm tích lũy dần theo số thao tác mỗi ngày. Người làm cùng loại công việc lâu dài nhận lợi ích lớn nhất.",
+    "notes": "Chỉ học thao tác bạn dùng từ mười lần mỗi ngày trở lên; học quá đầy đủ là một kiểu lãng phí khác. Ngoài ra, thí nghiệm hiệu suất đó chỉ có 6 người tham gia, phần tóm tắt cũng không nêu số giây tiết kiệm cho mỗi thao tác.",
+    "extra": ""
+  }
+}

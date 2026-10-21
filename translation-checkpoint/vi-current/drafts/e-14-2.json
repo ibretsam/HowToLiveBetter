@@ -1,0 +1,14 @@
+{
+  "id": "e-14-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "26acae814017767989c9d2e1da50c43b5e09e953f2619c776f11337214dedcee",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Dùng mật khẩu riêng cho email, không trùng với bất kỳ website nào",
+    "cost": "Không tốn tiền. Lưu trong trình quản lý mật khẩu thì không phải tự nhớ. Cái khó là bỏ thói quen dùng một mật khẩu ở mọi nơi.",
+    "plain": "Mật khẩu bị đánh cắp từ website khác có thể được đem thử đăng nhập thẳng vào email của bạn. Khi có người vào được email, mọi tài khoản có thể dùng email đó để lấy lại mật khẩu cũng mất theo. Vì vậy, mật khẩu email phải dùng riêng, không dùng ở bất kỳ nơi nào khác.",
+    "benefit": "Lấy từng cặp tài khoản và mật khẩu bị lộ ở nơi khác để thử đăng nhập được gọi là tấn công nhồi thông tin đăng nhập; email của bạn cũng sẽ bị thử theo cách này. Khi có người vào được email, mọi tài khoản dùng email đó để lấy lại mật khẩu đều mất theo. Cơ quan An ninh mạng và An ninh cơ sở hạ tầng Mỹ khuyên mỗi tài khoản dùng một mật khẩu mạnh khác nhau, dài ít nhất 16 ký tự và lưu bằng trình quản lý mật khẩu.",
+    "notes": "Không nhớ được thì dùng trình quản lý mật khẩu có sẵn trong trình duyệt. Nó nhớ giúp mật khẩu từng website, tốt hơn nhiều so với dùng cùng một mật khẩu ở mọi nơi. Đừng lưu mật khẩu trong mục yêu thích của WeChat hoặc ứng dụng ghi chú.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-4-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e1b2b13b900f90ae1ad39db63a6793bb1015db707ce6011309b3280e701045bf",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Ưu tiên thời gian đi làm khi chọn chỗ ở, rút ngắn thời gian đi một chiều",
+    "cost": "Chi phí cao. Có thể phải trả tiền thuê cao hơn hoặc chuyển sang nhà nhỏ hơn. Bản thân chuyển nhà cũng mất thời gian.",
+    "plain": "Trong dữ liệu theo dõi tại Đức, người đi làm càng lâu càng cảm thấy cuộc sống kém tốt đẹp. Thiệt hại này không được bù lại bằng lương hoặc nhà ở. Giảm 30 phút đi một chiều thì tiết kiệm 5 giờ mỗi tuần.",
+    "benefit": "Cư dân Trung Quốc dành trung bình 50 phút mỗi ngày cho giao thông. Chỉ tính người có đi lại hôm đó thì là 1 giờ 2 phút. Đây là số liệu năm 2024. Dữ liệu Đức theo dõi cùng nhóm người lâu dài cho thấy người có thời gian đi làm dài hơn có mức hạnh phúc chủ quan (tự thấy cuộc sống có tốt không) thấp hơn một cách ổn định. Thiệt hại này không được bù lại bằng thu nhập hoặc nhà ở. Tổng quan hệ thống lại nhiều nghiên cứu cũng xác nhận thời gian đi làm càng dài, người ta càng không hài lòng với việc đi làm; điều này không phụ thuộc phương tiện giao thông. Giảm 30 phút đi một chiều thì tiết kiệm khoảng 5 giờ mỗi tuần.",
+    "notes": "Tranh luận: Sau khi tổng hợp nhiều nghiên cứu, Chatterjee và cộng sự chỉ ra chưa thấy mối liên hệ ổn định giữa độ dài thời gian đi làm và mức hài lòng với cuộc sống nói chung. Họ cho rằng nhìn chung người ta có thể bù thiệt hại của việc đi làm xa bằng công việc hoặc chỗ ở tốt hơn. Cũng cần chú ý thống kê hoạt động giao thông tính mọi chuyến đi, không chỉ đi làm. Ngoài ra, nếu có thể đi làm và về lệch giờ cao điểm thì cùng quãng đường cũng mất ít thời gian hơn.",
+    "extra": ""
+  }
+}

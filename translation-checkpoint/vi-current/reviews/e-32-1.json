@@ -1,0 +1,15 @@
+{
+  "id": "e-32-1",
+  "source_sha256": "7f4c3eaabdcdf1a608244cfcfe95e624a0d37a6c777f88c958eacb1df5099e7d",
+  "draft_sha256": "aafc9a411eb4e7ae80a11389188dcfbf7948bb022d017d6e07c9b57323fc25f9",
+  "reviewer": "batch12_time_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full six-field original/translation comparison completed:voluntary certification,five-year history,no guarantee/nonlisted not excluded,annual updates,2025 removal270schools,2008registration and China jurisdiction preserved. Source overview not currentverification."
+}

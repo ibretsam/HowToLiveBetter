@@ -1,0 +1,14 @@
+{
+  "id": "e-14-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "10de65e10c41700e8b3b6f10a3fa8cf4296e0800d3aca2f3a58061a2059abe06",
+  "translator": "batch12_security",
+  "translation": {
+    "title": "Khi mất điện thoại, làm theo thứ tự này: báo mất SIM, khóa từ xa, đổi mật khẩu, báo công an, phong tỏa thẻ ngân hàng",
+    "cost": "Không tốn tiền. Làm hết các bước mất hơn mười phút.",
+    "plain": "Thứ tự quan trọng hơn làm thật nhanh. Trước tiên báo mất SIM để chặn việc nhận mã xác minh, rồi khóa điện thoại từ xa, dùng máy tính đổi mật khẩu email và thanh toán, báo công an để lấy giấy tiếp nhận, cuối cùng tùy tình hình mà phong tỏa thẻ ngân hàng. Không có điện thoại bên mình vẫn có thể mượn máy người khác gọi tổng đài nhà mạng để báo mất.",
+    "benefit": "Thứ tự quan trọng hơn tốc độ. Bước đầu tiên là báo mất SIM để người khác không nhận được mã xác minh của bạn. Bước tiếp theo là khóa điện thoại từ xa và xóa nội dung trong máy. Sau đó dùng máy tính đổi mật khẩu email và thanh toán, rồi báo công an và lấy giấy tiếp nhận. Cuối cùng phong tỏa thẻ ngân hàng nếu cần. Ủy ban Truyền thông Liên bang Mỹ cũng khuyến cáo: dù nghĩ chỉ là đánh rơi, vẫn phải khóa từ xa. Nếu bị trộm thì báo cảnh sát ngay, cung cấp kiểu máy và số IMEI, tức mã định danh của điện thoại, đồng thời báo ngay cho nhà mạng.",
+    "notes": "Ghi sẵn số tổng đài ba nhà mạng: China Mobile 10086, China Unicom 10010, China Telecom 10000. Cũng ghi lại số điện thoại của mình được đăng ký ở thành phố nào vì tổng đài sẽ hỏi. Dùng điện thoại của người khác vẫn gọi tổng đài báo mất được.",
+    "extra": ""
+  }
+}

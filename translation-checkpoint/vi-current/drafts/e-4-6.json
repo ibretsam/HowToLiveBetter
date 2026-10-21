@@ -1,0 +1,14 @@
+{
+  "id": "e-4-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f683f4cb0854801234224b6f2c4104cbfc0bf4652d17870fb8db128b4faf918c",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Giảm số cuộc họp; giải quyết được bằng trao đổi văn bản không cần cùng lúc thì đừng họp",
+    "cost": "Không tốn tiền. Cần đồng nghiệp và cấp trên phối hợp. Khó nhất là viết rõ một đoạn tốn công hơn nói một câu.",
+    "plain": "Trong ngày họp càng nhiều thì càng mệt, cũng cảm thấy lượng việc trên tay càng lớn. Bỏ một cuộc họp tiết kiệm đúng bằng thời lượng của cuộc họp ấy, không bớt phút nào.",
+    "benefit": "Hai khảo sát tuyển nhân viên làm việc từ 35 giờ mỗi tuần trở lên, lần lượt có 676 và 304 người. Ảnh hưởng của thời gian họp đến thái độ với công việc và cảm nhận hạnh phúc không cố định, mà tùy hai việc: họp có tốt không và công việc ở vị trí đó phụ thuộc người khác đến mức nào. Một nghiên cứu khác yêu cầu ghi nhật ký liên tục một tuần; kết quả là số cuộc họp trong ngày càng nhiều, mức mệt mỏi và khối lượng công việc tự cảm nhận càng cao. Thời gian tiết kiệm bằng chính thời lượng cuộc họp đã bỏ.",
+    "notes": "Tranh luận: Rogelberg 2006 phát hiện quan hệ giữa số cuộc họp và cảm nhận hạnh phúc không chỉ theo một hướng. Với vị trí phụ thuộc nhiều vào người khác, họp nhiều ngược lại chưa hẳn là chuyện xấu. Ngoài ra, chưa có nghiên cứu so trực tiếp “chuyển sang trao đổi văn bản không cần cùng lúc” với họp; đây là suy luận của chính tác giả.",
+    "extra": ""
+  }
+}

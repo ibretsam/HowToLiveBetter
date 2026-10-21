@@ -1,0 +1,14 @@
+{
+  "id": "e-4-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "0f57ddfa2e60d10a156091e61534da1fdcd5d0a22c2b075314105496a26134b5",
+  "translator": "batch12_time",
+  "translation": {
+    "title": "Ước tính thời gian hoàn thành theo thời gian thực tế của việc tương tự trước đây, đừng suy từ kế hoạch",
+    "cost": "Không tốn tiền. Trước khi ước tính, dành vài phút xem lần trước việc tương tự thực sự mất bao lâu.",
+    "plain": "Sinh viên ước tính viết xong luận văn trong 33.9 ngày, thực tế mất 55.5 ngày; chỉ 29.7% hoàn thành đúng thời gian mình ước tính. Một nhóm khác được yêu cầu nhớ lại lần trước việc tương tự mất bao lâu rồi mới ước tính; tỷ lệ hoàn thành đúng hạn tăng từ 29.3% lên 60.0%.",
+    "benefit": "Sinh viên dự kiến hoàn thành luận văn trong 33.9 ngày, thực tế mất 55.5 ngày. Chỉ 29.7% hoàn thành đúng thời gian tự ước tính. Nhà nghiên cứu yêu cầu một nhóm khác liên hệ trải nghiệm quá khứ với công việc hiện tại trước rồi mới ước tính. Tỷ lệ hoàn thành đúng hạn ở nhóm này tăng từ mức 29.3% của nhóm đối chứng lên 60.0%. Sự lạc quan khiến ước tính thời gian quá ít không còn xuất hiện ở nhóm này.",
+    "notes": "Nghiên cứu của Buehler chỉ tuyển sinh viên Canada, là một nghiên cứu riêng lẻ với ít người: 37 người và khoảng 40 người mỗi nhóm. Ước tính theo dữ liệu lịch sử của dự án tương tự được gọi là dự báo theo nhóm tham chiếu; cách thực hiện trong kỹ thuật xem Flyvbjerg. Sau khi tổng hợp nhiều nghiên cứu, Halkjelsvik chỉ ra rằng ước tính thiếu thường gặp hơn ước tính dư, nhưng chênh lệch thay đổi rất nhiều theo nhiệm vụ và phương pháp nghiên cứu.",
+    "extra": ""
+  }
+}
