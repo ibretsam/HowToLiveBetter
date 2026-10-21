@@ -1,0 +1,15 @@
+{
+  "id": "e-8-44",
+  "source_sha256": "59497ba01b8041dd6a0d335f8b79d43f98703f5f5cb1882195d534fc9e70347e",
+  "draft_sha256": "38c09a5760e989fb03e5c4ddd9c44488325b97389b7728b7c495c58f06e7b136",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed four rules, actual/constructive lender knowledge, personal versus joint marital debt, obligation to respond to suit and evidence requirements. Preserved source 2017 old-marriage-law provenance and current-code cross-reference. Unknown-purpose loan remains repayable by borrower; references 10-12, 9-15 and 1-37 checked."
+}

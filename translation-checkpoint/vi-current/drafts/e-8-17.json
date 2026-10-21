@@ -1,0 +1,11 @@
+{
+  "id":"e-8-17","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"16ca175227ef98ee46fa120f882b5a9568efe619d9a9c0e749f22dccf4f1e2c2","translator":"pilot_emergency_batch5",
+  "translation":{
+    "title":"Đọc hết giấy tờ trước khi ký, không ký thay người khác, không ký giấy trắng",
+    "cost":"Không mất tiền. Dành thêm vài phút đọc từ đầu đến cuối hợp đồng, giấy vay nợ, giấy bảo lãnh và hồ sơ nhận việc. Không hiểu thì hỏi ngay, sau đó chụp ảnh lưu lại. Khó ở chỗ thong thả đọc hết trước mặt đối phương.",
+    "plain":"Ký rồi thì có giá trị; điểm chỉ cũng có giá trị như ký tên. ‘Không đọc kỹ’, ‘tưởng là giấy khác’ rất khó được tòa chấp nhận. Vì vậy, dành thêm vài phút đọc từ đầu đến cuối, không hiểu thì hỏi ngay, chụp ảnh lưu lại. Không ký thay người khác, không ký giấy trắng, ghi rõ mục đích sử dụng trên bản sao căn cước.",
+    "benefit":"Hợp đồng được xác lập hợp pháp được pháp luật bảo vệ và ràng buộc cả hai bên ký kết. Đã ký thì phải thực hiện đầy đủ những gì thỏa thuận. Điều bốn trăm chín mươi Bộ luật Dân sự ghi, khi giao kết hợp đồng bằng văn bản, hợp đồng được xác lập khi hai bên ‘ký tên, đóng dấu hoặc điểm chỉ’. Điểm chỉ, ký tên và đóng dấu là ba cách tương đương; điểm chỉ thì hợp đồng cũng được xác lập. ‘Không đọc kỹ’, ‘tưởng là giấy khác’ rất khó được tòa chấp nhận. Không ký thì không gánh khoản nợ và trách nhiệm không thuộc về mình (toàn Trung Quốc).",
+    "notes":"‘Không ký thay người khác, không ký giấy trắng, ghi rõ mục đích sử dụng trên bản sao căn cước’ là cách làm theo kinh nghiệm, không có văn bản chính thức riêng. Mục đích đều giống nhau: đừng để chữ ký của bạn bị ghép vào một hợp đồng có giá trị pháp lý mà bạn buộc phải thừa nhận. Tòa thường cũng coi chữ ký điện tử và xác nhận bằng quét mặt là do chính bạn ký. Người quen nhờ quét mặt, ký tên giúp để vay tiền, xem mục 45 (quét mặt giúp).",
+    "extra":""
+  }
+}

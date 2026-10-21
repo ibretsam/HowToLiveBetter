@@ -1,0 +1,15 @@
+{
+  "id": "e-7-19",
+  "source_sha256": "eec67a2dd8247fc3994c610ed92fb452321134052287b2c28e3802e5796a9006",
+  "draft_sha256": "c03a987baacde79646eb6cc6640cd8f771ef7904efff945bade005a35c31fec8",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all criminal-record, post-release support, enforcement-list and bankruptcy conditions/figures. Preserved future 1 November 2026 prison-law effective date and prior-law note, 3-year Shenzhen condition/observation versus broad 1–3-year cost wording, eight excluded debts and continuing guarantor liability. Source generalized list-removal rules retained, not independently legally validated."
+}

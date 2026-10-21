@@ -1,0 +1,15 @@
+{
+  "id": "e-33-12",
+  "source_sha256": "d8e4240db07be712efe8e0ddd1dd8f7ad99e9185a44dd65ef81c5896baf1ff21",
+  "draft_sha256": "8cb16eede84c4111dcb28c600843d4e392ac6b9fb94d56c0989d40845c3b8528",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đủ chó dẫn đường, hỗ trợ thính giác và hỗ trợ khác, dấu hiệu nhận diện và biện pháp bảo vệ. Giữ phân biệt nghĩa vụ tạo thuận lợi với bảo đảm được vào ngay; Điều sáu mươi tám nêu khắc phục và xử lý người phụ trách, không thêm tiền phạt. Quyền miễn vé giao thông đô thị dành cho người mù có giấy tờ hợp lệ; thiết bị hỗ trợ thiết yếu miễn phí và các kênh khiếu nại được giữ đủ."
+}

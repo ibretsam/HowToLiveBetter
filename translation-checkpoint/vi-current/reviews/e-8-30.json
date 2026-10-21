@@ -1,0 +1,15 @@
+{
+  "id": "e-8-30",
+  "source_sha256": "c734f73cd7ec9a795fc4083448eedfd2f12b7daf4993f734cdb50ea8276da50f",
+  "draft_sha256": "6ec34e4bf0ff04b7ebb3e3df9fe07ab8fac953751cc793b6c4ecbf332c730033",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ chính xác trách nhiệm không phụ thuộc lỗi, ngoại lệ cố ý/lỗi vô ý nghiêm trọng, ngoại lệ hẹp khi không dây dắt và không miễn với chó cấm nuôi; đủ các mức phạt 1000/5000,5–10 ngày và chi phí xử lý thay. Giữ khác biệt giọng khẳng định title và các ngoại lệ benefit của nguồn."
+}

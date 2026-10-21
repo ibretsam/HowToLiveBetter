@@ -1,0 +1,15 @@
+{
+  "id": "e-8-39",
+  "source_sha256": "74897636546fb464d94d17d5b67ec1917d980f5dd961f12e6673885432e03ba6",
+  "draft_sha256": "38c72ce3cf2eb73a71a2ffe16dc8b770f017c8112a4bd2a3c430fab2d684037d",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Read complete source and draft, distinguishing receipt of report from opening criminal case, reconsideration at same agency from next-level review and procuratorial supervision. Verified each deadline, start event, extension and appraisal-time exclusion in full benefit. Short-form successive seven-day wording follows source; benefit explicitly starts each clock upon receipt of corresponding decision. References 2 and 37 checked."
+}

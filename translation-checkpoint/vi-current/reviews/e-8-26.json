@@ -1,0 +1,15 @@
+{
+  "id": "e-8-26",
+  "source_sha256": "8b88f6e60f9189dba9883cff9e51f8611e16321ebbd85dc7bb70044b7dc22d61",
+  "draft_sha256": "ca2453406bf6e65ce415ba1d19a92549e84383b58e9bd6a090af6848c42d2eb5",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đủ các mức 2,3,10 năm, phạt tiền/tịch thu, yêu cầu ý định chiếm đoạt từ đầu và phạm vi chưa xác minh ngưỡng tiền địa phương. Sửa khởi án thành khởi tố vụ án để điều tra. Giữ nguyên nguồn về căn cước/sổ hộ khẩu và mức án đã rút gọn."
+}

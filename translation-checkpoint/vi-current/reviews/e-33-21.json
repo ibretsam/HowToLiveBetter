@@ -1,0 +1,15 @@
+{
+  "id": "e-33-21",
+  "source_sha256": "eadaec8f41ca3916fb6f251a15cf72a433eeda873bc8f1ca9ddfed33a1c6e68b",
+  "draft_sha256": "18ba7a71370e8438c187b4e50a01b63fcce0bab1b6f2659ea8767b8c8c18f686",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm đầy đủ mẫu 5483, 2322 ca tử vong/2170 nguyên nhân, bốn tỷ lệ tử vong và mẫu hồi cứu 316 người với bốn tỷ lệ biến chứng. Giữ hồi cứu không ngẫu nhiên, hướng dẫn 2026, kiểm tra suốt đời, tần suất theo nguy cơ, 4 lần/năm, 42.1% trong 12 tháng. Không biến ưu tiên tránh ống lưu thành cấm tuyệt đối: giữ cùng quyết định với bác sĩ, chất lượng sống và bất tiện của thông ngắt quãng, silicone/latex, dấu hiệu nhiễm trùng, nguồn Trung Quốc chưa lấy được và dẫn chiếu 33-1."
+}

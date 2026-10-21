@@ -1,0 +1,15 @@
+{
+  "id": "intro-8",
+  "source_sha256": "b09301fc64d450bb9ad3dc25f2772d47fa9a22137a1ea8144de67d5b7846332b",
+  "draft_sha256": "df0c670e86aa7a1c72feec7209df859b27e62f1e4b00929dc4d27509af25e4a4",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared complete title/introduction, eight thematic groups and all 46 numeric entry references. Preserved source scope and author claim about official-text checking as translation, not a new fact-check. Corrected weakening 就是 to chính là and narrowed gây tai nạn to xảy ra tai nạn; all headings/numbers retained."
+}

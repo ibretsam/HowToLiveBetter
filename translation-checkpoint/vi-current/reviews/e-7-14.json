@@ -1,0 +1,15 @@
+{
+  "id": "e-7-14",
+  "source_sha256": "63f7f70f402b3f885509768983a29d0d5535a331e413e089a2770f00238284e5",
+  "draft_sha256": "f1e1fcdeb22d2a10673adc65c6211f865353e79872d1bdb5a148f37726efccf2",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed experimental/quasi-experimental synthesis of 47 studies, all six intervention components and skill-plus-motivation result. OR 2.67 correctly explained as odds ratio, not 2.67 times probability. Western group-course context and extrapolation to China retained, no domestic measured effect asserted."
+}

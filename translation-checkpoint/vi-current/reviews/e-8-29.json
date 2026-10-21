@@ -1,0 +1,15 @@
+{
+  "id": "e-8-29",
+  "source_sha256": "9f576802d71b7fc274ca14aba5e39a209cb2f636750f4d892f497a6328780351",
+  "draft_sha256": "6835c6fadca3e1856a78533390a136c7da4b2586b5578ae86bb61a308461af83",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ cảnh báo xuất nhập cảnh, hàng cấm/không rõ, khai hạn chế và tiền mặt, bưu kiện ứng tiền, phạm vi trang nguồn không mở được và dẫn chiếu thuốc. Giữ 2025 và không bổ sung điều luật nguồn không dẫn."
+}

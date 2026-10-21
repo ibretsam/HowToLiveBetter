@@ -1,0 +1,14 @@
+{
+  "id": "e-7-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "2acb437c5803c0d1bc9aae710d1c5d858b703e67d8cfba5d6fdc4efd0fc89786",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Có giấy chứng nhận khuyết tật thì đi xin hai khoản trợ cấp dành cho người khuyết tật",
+    "cost": "Không tốn tiền. Mang giấy chứng nhận khuyết tật đến khu phố hoặc hương, trấn nộp đơn một lần là được.",
+    "plain": "Người khuyết tật trong hộ hưởng trợ cấp bảo đảm mức sống tối thiểu được nhận trợ cấp sinh hoạt. Được xếp khuyết tật cấp một, cấp hai và cần chăm sóc dài hạn thì được nhận trợ cấp chăm sóc; có thể hưởng cả hai khoản. Mức tiền do từng tỉnh định, chênh lệch lớn, hãy hỏi cụ thể tại khu phố. Mang giấy chứng nhận khuyết tật thế hệ thứ hai đến khu phố hoặc hương, trấn làm thủ tục một lần.",
+    "benefit": "Quốc vụ viện quy định hai khoản trợ cấp. Khoản đầu là trợ cấp sinh hoạt cho người khuyết tật có hoàn cảnh khó khăn. Văn bản ghi đối tượng là “người khuyết tật trong hộ hưởng trợ cấp bảo đảm mức sống tối thiểu; địa phương có điều kiện có thể từng bước mở rộng sang người khuyết tật thu nhập thấp và người khuyết tật khó khăn khác”. Tức trước hết bảo đảm cho người khuyết tật trong hộ thuộc diện trợ cấp tối thiểu; địa phương đủ nguồn tài chính thì có thể mở rộng. Khoản thứ hai là trợ cấp chăm sóc người khuyết tật nặng. Văn bản ghi đối tượng là “người khuyết tật nặng được đánh giá cấp khuyết tật một, hai và cần chăm sóc dài hạn”. Có thể nhận đồng thời hai khoản này.",
+    "notes": "Mức tiền do chính quyền cấp tỉnh quy định, giữa các nơi chênh lệch lớn. Khi xin cần mang giấy chứng nhận khuyết tật thế hệ thứ hai. Bản thân không tiện đi thì có thể ủy quyền người nhà làm thay.",
+    "extra": ""
+  }
+}

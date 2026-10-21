@@ -1,0 +1,15 @@
+{
+  "id": "e-33-16",
+  "source_sha256": "0b9078289353d28cde57b00b24afa71dfbff53603562c84dee399f1e68e0ea67",
+  "draft_sha256": "1b6eae9446e7ec58adb1282496abb01efcb34c108703f4832e6f220fa6363e22",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm đủ 29 nghiên cứu/5902 người, các odds ratio và khoảng tin cậy, lợi ích trên mỗi 100 người, AVERT 2104 người và kết cục Rankin 0–2; giữ tử vong khác biệt không có ý nghĩa thống kê. Nguồn notes nói đại đa số cả hai nhóm ra khỏi giường trong 24 giờ: giữ đúng câu nguồn, không tự đối chiếu rồi sửa nghiên cứu. Không suy rộng hiệu quả phục hồi sau đột quỵ sang mọi khuyết tật; phân biệt suy luận chọn cơ sở của tác giả và dẫn chiếu 24-1/33-7."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-22",
+  "source_sha256": "73cd6a76d2686426d09c88890ef1b8b6095ca8edeaa2910505f0924089046593",
+  "draft_sha256": "554e80517e85efa2a8475fc0311fdd91225aa0d5340f424cc810cb3008fa27b4",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared civil versus criminal routes, provincial fraud threshold selection in 3000–10000 yuan range, all fees and penalty/timeline values, finality of small claims and enforcement-cost calculation. Preserved source unresolved document-number verification and broad procedure eligibility; no promise recovery follows winning."
+}

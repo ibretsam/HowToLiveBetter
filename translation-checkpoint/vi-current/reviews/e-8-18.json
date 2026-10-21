@@ -1,0 +1,15 @@
+{
+  "id": "e-8-18",
+  "source_sha256": "9ae932992430c5c7289a83d612341fbecabf55627d0dc0b74f6c58294048c0e5",
+  "draft_sha256": "1c8f019fdb3a28729d9e2e564a11782386cce0eb8e2d48337da005aa5dd7d5e2",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Verified all loan-record fields, ordinary versus joint liability guarantees, enforcement sequence and 4x LPR portion only. Preserved source broad written-form claim and chapter-7 cross-reference rather than silently changing it. Reference 45 checked."
+}

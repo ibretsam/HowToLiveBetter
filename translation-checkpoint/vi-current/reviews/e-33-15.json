@@ -1,0 +1,15 @@
+{
+  "id": "e-33-15",
+  "source_sha256": "dbfccc6b6ff969b2748f4df30d6cda5c7f34ab50f270da58f2e3b933e5ce96a3",
+  "draft_sha256": "7d216c18f4712cf4649214504659a31928711929533a5a30439a61c0d4bae771",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu riêng các điều kiện chi trên, hai chi dưới, chỉ mất chi dưới trái, một mắt và thính giác có thiết bị hỗ trợ; không nhập các nhóm bằng lái. Giữ thị lực 5.0, góc 150 độ, khám mỗi 3 năm, hạn 30 ngày, ba chu kỳ và thời điểm hủy bằng, ngày hiệu lực 2025. Thủ tục thiết bị hỗ trợ, hồ sơ và xe lăn cơ giới thuộc nhóm phi cơ giới với điều kiện chuẩn quốc gia đều đủ."
+}

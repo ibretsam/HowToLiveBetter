@@ -1,0 +1,15 @@
+{
+  "id": "e-8-37",
+  "source_sha256": "bb68e249cb9fdaf6fccc48ad34fadd311d4f0b26fcc4c36ec4fd1e29ef55332a",
+  "draft_sha256": "a9fbac4cc0db260e0ba99024ba0e18963d583f0e3a517148deacdfa2623c4cb0",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ ba kênh, điều kiện thiệt hại khó khắc phục của lệnh cấm, hỗ trợ chứng cứ, năm tình huống và điều kiện đồng thời ảnh hưởng xã hội xấu, toàn bộ lựa chọn bảo vệ nền tảng. Sửa tự khởi tố thành tư tố, giải thích người bị hại tự khởi kiện vụ án hình sự, tránh nhầm quyền khởi tố của cơ quan. URL docs và số tham chiếu giữ nguyên."
+}

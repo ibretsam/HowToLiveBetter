@@ -1,0 +1,14 @@
+{
+  "id": "e-7-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a542a30ae41b0de7324b84562965f80ddfda600925ab661cac95d3358e254004",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Tìm việc thì dùng dịch vụ việc làm công miễn phí và chợ việc làm thời vụ trước, đừng tìm môi giới thu phí",
+    "cost": "Không tốn tiền. Đăng ký tại cơ sở dịch vụ việc làm công cấp huyện trở lên, như trung tâm dịch vụ việc làm, thị trường nhân lực. Cũng có thể đăng ký tại chợ việc làm thời vụ địa phương. Không biết địa chỉ thì gọi 12333 để hỏi.",
+    "plain": "Các cơ sở công như trung tâm dịch vụ việc làm, thị trường nhân lực đều miễn phí giới thiệu việc làm, hướng nghiệp, tư vấn chính sách, đăng ký việc làm và thất nghiệp. Luật còn cấm rõ việc dùng những dịch vụ này để kiếm tiền. Đăng ký và đăng thông tin tại chợ việc làm thời vụ cũng miễn phí. Tiện thể đăng ký thất nghiệp luôn, vì nhận trợ cấp thất nghiệp và công nhận là người gặp khó khăn tìm việc đều cần thủ tục này.",
+    "benefit": "Luật quy định những dịch vụ sau đều miễn phí: tư vấn chính sách việc làm; thông tin nơi tuyển người, nơi thiếu người; hướng nghiệp và giới thiệu việc làm; đăng ký việc làm, thất nghiệp; hỗ trợ việc làm cho người gặp khó khăn tìm việc. Các cơ sở này không được hoạt động kinh doanh, không được kiếm tiền từ những dịch vụ đó. Đăng ký và đăng thông tin tìm việc, tuyển người làm thời vụ cũng được cung cấp miễn phí cho xã hội, đã thuộc phạm vi dịch vụ thông tin việc làm công. Với người làm thời vụ gặp khó khăn như phải chờ việc lâu, tức lâu không nhận được việc, hoặc thuộc hộ thu nhập thấp, còn phải tăng cường hỗ trợ (toàn Trung Quốc).",
+    "notes": "Đăng ký thất nghiệp là thủ tục phải có trước khi nhận trợ cấp bảo hiểm thất nghiệp hoặc được công nhận là người gặp khó khăn tìm việc, nên tiện thể làm luôn. Làm thời vụ trả tiền theo ngày thì đối chiếu tiền công ngay tại chỗ, lưu thông tin liên hệ của bên kia và bằng chứng làm việc.",
+    "extra": ""
+  }
+}

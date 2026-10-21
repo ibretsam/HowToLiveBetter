@@ -1,0 +1,15 @@
+{
+  "id": "intro-33",
+  "source_sha256": "b502968a7956579888ce143d8ad8b7384ef5cf6f20d76a922a950460c3e76223",
+  "draft_sha256": "773acbe6e38ecaaec4e5ebe0d75670d7a24a68a04a05bf9cea25d943e242e775",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ lời dẫn: bốn thước đo không quy đổi, thống kê WHO tháng 3/2023 gồm 13 trăm triệu, 16%, tối đa 20 năm và nguy cơ gấp đôi, nguyên nhân bất bình đẳng đều đủ. Kiểm đủ năm dẫn chiếu 24-10/24-9/7-8/19-14/17-7 và toàn bộ 21 mục trong sáu nhóm chủ đề. Giữ khẳng định nguồn về bảo hiểm chăm sóc dài hạn không có ngưỡng tuổi; tiêu đề tóm tắt theo nguồn không thay thế điều kiện chi tiết ở từng mục."
+}

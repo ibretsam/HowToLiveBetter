@@ -1,8 +1,8 @@
 # Thông tin về bản dịch tiếng Việt
 
-**Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 20/10/2026](TRANSLATION-PLAN.md).
+**Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 21/10/2026](TRANSLATION-PLAN.md).
 
-**Đã hoàn tất đợt 4 ngày 20/10/2026:** thêm 95 mục, ba lời dẫn và bài hướng dẫn sau thôi việc gồm 34 việc đã được dịch, rà soát song ngữ độc lập và kiểm tra: 12 mục mới, 59 mục cập nhật và 24 mục được kiểm tra lại. Tổng bốn đợt có 242 mục, mười lời dẫn và hai bài hướng dẫn được rà soát theo nguồn đích. Trang dựng hiện có 303 mục khớp nguồn, 387 mục cần cập nhật và 75 mục chưa dịch. Các chương 5, 9, 13, 16, 18, 19, 20, 27, 30 và 34 đã có đủ các mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
+**Đã hoàn tất đợt 5 ngày 21/10/2026:** thêm 90 mục, ba lời dẫn và bài phân tích về việc giúp người lạ gặp nạn đã được dịch, rà soát song ngữ độc lập và kiểm tra: 4 mục mới, 78 mục cập nhật và 8 mục được kiểm tra lại. Tổng năm đợt có 332 mục, 13 lời dẫn và ba bài viết dài được rà soát theo nguồn đích. Trang dựng hiện có 385 mục khớp nguồn, 309 mục cần cập nhật và 71 mục chưa dịch. Các chương 5, 7, 8, 9, 13, 16, 18, 19, 20, 27, 30, 33 và 34 đã có đủ các mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
 
 Các tệp Markdown cũ trong `vi/book/`, `vi/docs/` và `vi/README.md` vẫn là bản lưu theo nguồn 01/10 để kiểm tra hồi quy. Trang đọc áp dụng các bản cập nhật đã rà soát trong checkpoint lên dữ liệu hiển thị, với liên kết phiên bản nguồn riêng cho từng mục; không đổi mốc nguồn chung của phần chưa xử lý.
 
@@ -16,7 +16,7 @@ Trang đọc so sánh từng mục với phiên bản dùng để dịch:
 - **Bản dịch chưa cập nhật:** có bản dịch cũ, nhưng nguồn mới đã thay đổi. Trang ghi rõ bản dịch vẫn chưa hoàn tất theo nguồn mới và cho đối chiếu toàn bộ bản gốc mới.
 - **Chưa hoàn tất bản dịch:** nội dung mới chưa có bản dịch, hoặc chưa thể ghép bản dịch cũ với mục hiện tại một cách chắc chắn. Trang hiển thị đầy đủ tiếng Trung, không bỏ mục.
 
-Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn các chương 5, 9, 13, 16, 18, 19, 20, 27, 30 và 34 cùng bài hướng dẫn trước/sau sinh và sau thôi việc đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
+Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn các chương 5, 7, 8, 9, 13, 16, 18, 19, 20, 27, 30, 33 và 34 cùng các bài trước/sau sinh, sau thôi việc và giúp người lạ đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
 
 Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch](README.md) · [Xem bản gốc](../README.md).
 

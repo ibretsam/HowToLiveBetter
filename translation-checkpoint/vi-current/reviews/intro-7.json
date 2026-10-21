@@ -1,0 +1,15 @@
+{
+  "id": "intro-7",
+  "source_sha256": "cdd31858edb6fabefcc3f9622c3ff674e129a61b3436f1640009f08ebdc038de",
+  "draft_sha256": "abd7ba42320e42c0a0d432710e41f51b99fc7f2b5d3e4cb1c480043f35baf531",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared complete title and introduction, all six thematic groups and all 23 entry references. Preserved money/security scope rather than lifespan, annual/local policy caveat and every referenced item number. No content omissions or added eligibility promises."
+}

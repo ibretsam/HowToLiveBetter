@@ -1,0 +1,15 @@
+{
+  "id": "e-8-35",
+  "source_sha256": "93ca92c7be92a94737e134972fc4950688d86f12abf0f3bac4e42bb72b800d2b",
+  "draft_sha256": "4ffa46e1c5b6adb51e3d702a871e8ae9239bf81c952d4cd80d917a3612728fe5",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã kiểm tra sáu ngoại lệ, tạm giữ trái luật/quá hạn khác bắt giam, xét xử lại, nghĩa vụ chứng minh của cơ quan và thời hạn7ngày; đối chiếu toàn bộ số liệu495.94/475.52,1826ngày,258.89,472733.14,165450 và8888vạn. Sửa 判决确定 thành bản án có hiệu lực. Giữ source plain/notes khái quát hơn điều kiện benefit và ghi rõ phạm vi khoản bị từ chối trong vụ Quách Lợi."
+}

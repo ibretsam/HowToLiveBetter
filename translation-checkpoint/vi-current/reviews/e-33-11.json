@@ -1,0 +1,15 @@
+{
+  "id": "e-33-11",
+  "source_sha256": "ace822a2873bfa953125a9666d5ed16932c5134bd09dcc7670dbff1def22e090",
+  "draft_sha256": "536eef48593b438ebd72b39ec6d404663ab1cc4bdc9044c805d69d3f0e7526e6",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường: giữ quyền giảm thuế theo mức và thời hạn do cấp tỉnh quy định, các nhóm tại Điều năm, miễn phí hành chính cho người khuyết tật tự kinh doanh, mốc 2019 và kênh 12366. Nhận định lợi ích không lớn và thủ tục một lần là lời nguồn; không biến thành mức giảm thuế thống nhất toàn quốc."
+}

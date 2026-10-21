@@ -1,0 +1,15 @@
+{
+  "id": "e-8-12",
+  "source_sha256": "14b157537a9a975459c0959c79d8e2655098c8efc93066095c194b8ddae276ef",
+  "draft_sha256": "7ad9af981e26056cca3bb085ef8a0fe2d58f08e056c60dc07d9097c372792bbe",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all case dates, casualties, statutory penalty ranges and recovered-wage data with correct Chinese monetary/count units. Preserved student-intern and private-household exclusions from labour arbitration and distinction between case closure and cash recovery; references 7-2, 7-22 and 9-15 checked."
+}

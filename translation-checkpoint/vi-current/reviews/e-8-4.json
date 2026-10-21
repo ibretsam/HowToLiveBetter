@@ -1,0 +1,15 @@
+{
+  "id": "e-8-4",
+  "source_sha256": "b6099601a3d6adbbdca9c8672ba718b57063190a283e17b78063db604096389b",
+  "draft_sha256": "d5d99634bf246230775b0aca61b006ce12f1e749dd00cf16326bfca23b79c2e4",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed deepfake verification examples, independent known-number callback, 2025 September 1 rule and every case count. Preserved source hierarchy of methods and reference to account-security chapter; no new claims about current AI capabilities."
+}

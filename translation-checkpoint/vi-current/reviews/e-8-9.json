@@ -1,0 +1,15 @@
+{
+  "id": "e-8-9",
+  "source_sha256": "a7d26d55031d54bd2a415ae5ef6932de69d01d7ab9cde8109221ebc6a3e9b9d4",
+  "draft_sha256": "afdde8197c3625b4298159036821fd6f8b5d37b9d511c314a54d73d45782406b",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full source/draft review: two free reports, five years from termination of adverse event, written response within 20 days, official retrieval routes and separate debit/SIM lookup preserved. References 45, 7-23 and 14-11 checked."
+}

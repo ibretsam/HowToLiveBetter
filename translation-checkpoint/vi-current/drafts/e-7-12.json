@@ -1,0 +1,14 @@
+{
+  "id": "e-7-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "b009a6c761f3ed694c514030d2098d7690f0aa80b8a2133082d0aca2485e02a2",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Đăng ký thất nghiệp xong thì xin công nhận là người gặp khó khăn tìm việc, để nhận hỗ trợ bảo hiểm xã hội hoặc việc làm công ích",
+    "cost": "Không tốn tiền. Xin công nhận tại cơ sở dịch vụ việc làm công của khu phố hoặc cộng đồng dân cư. Điều kiện mỗi nơi khác nhau, thường có các nhóm lớn tuổi, thất nghiệp lâu, hộ hưởng trợ cấp bảo đảm mức sống tối thiểu, người khuyết tật, hộ không ai có việc. Phải đăng ký thất nghiệp xong mới được nộp đơn. Cái khó là phải đối chiếu từng điều kiện và còn phải ứng trước tiền bảo hiểm xã hội.",
+    "plain": "Được công nhận rồi, tự đóng bảo hiểm xã hội thì có thể nhận hỗ trợ, về nguyên tắc không quá hai phần ba số thực đóng, tối đa 3 năm. Được đơn vị tuyển hoặc bố trí vào việc làm công ích thì phần bảo hiểm xã hội do đơn vị đóng cũng được hỗ trợ. Trợ cấp việc làm công ích căn cứ lương tối thiểu địa phương; tiền không nhiều nhưng có bảo hiểm xã hội, phù hợp giai đoạn chuyển tiếp. Hỗ trợ bảo hiểm xã hội phần lớn là đóng trước nhận bù sau, phải ứng tiền trước.",
+    "benefit": "Sau khi được công nhận, không có đơn vị và tự đóng bảo hiểm xã hội, gọi là việc làm linh hoạt, thì có thể nhận hỗ trợ bảo hiểm xã hội. Mức hỗ trợ về nguyên tắc không quá 2/3 số thực đóng, nhận tối đa 3 năm. Được đơn vị tuyển hoặc bố trí vào việc làm công ích thì đơn vị được hỗ trợ theo số thực đóng bảo hiểm hưu trí, y tế, thất nghiệp. Việc làm công ích là vị trí chính quyền chi tiền tạo ra, trợ cấp tham chiếu lương tối thiểu địa phương. Các vị trí công ích do chính quyền tạo được ưu tiên bố trí cho người gặp khó khăn tìm việc. Còn có trợ cấp tìm việc một lần cho sinh viên tốt nghiệp đại học, cao đẳng. Phạm vi gồm người tốt nghiệp thuộc hộ hưởng trợ cấp bảo đảm mức sống tối thiểu, hộ không ai có việc hoặc diện đặc biệt khó khăn. Người tốt nghiệp khuyết tật, từng nhận khoản vay hỗ trợ học tập của nhà nước cũng được tính. Khoản này nhận trong năm học tốt nghiệp (khung toàn Trung Quốc, điều kiện công nhận và mức tiền do địa phương quy định).",
+    "notes": "Lương việc làm công ích không cao nhưng có bảo hiểm xã hội, phù hợp giai đoạn chuyển tiếp. Hỗ trợ bảo hiểm xã hội phần lớn là đóng trước nhận bù sau, cần ứng tiền trước. Điều kiện cụ thể hỏi 12333 hoặc khu phố.",
+    "extra": ""
+  }
+}

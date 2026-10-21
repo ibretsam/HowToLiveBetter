@@ -1,0 +1,15 @@
+{
+  "id": "e-8-32",
+  "source_sha256": "ba59d6dc372ef21e1a2e9e4b666f18e29c42e07a99e0bd5fafdf9f2ac39623ec",
+  "draft_sha256": "c5ef74cf4c5864ac44f1aff67c96301fcfcf11e99eee1cc5a7c40a59a5857b3f",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ các mức tống tiền theo ngưỡng tỉnh và số lần trong hai năm, ba khung hình phạt, quyền riêng tư, chứng cứ, các vụ Diêm Thành/Tượng Sơn và trách nhiệm nền tảng sau thông báo. Giữ 1.45 vạn,10 nạn nhân và các điều khoản. Sửa khởi án thành khởi tố vụ án để điều tra."
+}

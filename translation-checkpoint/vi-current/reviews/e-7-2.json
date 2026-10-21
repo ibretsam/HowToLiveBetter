@@ -1,0 +1,15 @@
+{
+  "id": "e-7-2",
+  "source_sha256": "3ec4893af7c03ab908668aaa3c5db41dfc5ec7eebe7425acc40fde23d70ca2a7",
+  "draft_sha256": "a0201b29211f9f35bf8b5f1a5085649f9079f46982c4d0c55a9fb710cb0aea14",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ cả phần thống kê và chi phí thực hiện. Giữ60 ngày làm việc+30,45 ngày+15,12 lần lương tối thiểu, thời hiệu1 năm và ngoại lệ nợ lương còn làm việc; các ngưỡng người/tháng/tiền đều đúng. Nguồn tự diễn giải tỷ lệ kết thúc ở trọng tài và khái quát điều kiện khởi án, đã giữ nguyên lời hạn định của nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-2",
+  "source_sha256": "9387a514aaa8467a1d6150211749fd6dafaf5d42585c5046a1756d051f3f363a",
+  "draft_sha256": "4481607f37e7fe7b11c99b2f3a868a8f19b943ea908e00897084f51b0cbf2373",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all prose and references: stop payment, freeze and recovery are separate steps, recovery depends on remaining funds. Preserved 110/96110, December 2022 timing and source reprint provenance. No Vietnamese jurisdiction substitution."
+}

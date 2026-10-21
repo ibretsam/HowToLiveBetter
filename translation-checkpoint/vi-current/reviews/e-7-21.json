@@ -1,0 +1,15 @@
+{
+  "id": "e-7-21",
+  "source_sha256": "f546228106da6f001b023c48216147eddef21598640dc2bf399c6aa41b5afbe7",
+  "draft_sha256": "c805f1974ceac8f5507ef6244bdb160db9267cd1d0251e79006c3a9ffb400fbc",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed shelter availability and 24-hour duty separately from unproven safety of public venues, local weather arrangements, voluntary non-entry help and disclosure/eligibility restrictions. Source 2022/2013 dates and reference 4 preserved. No guaranteed access to airport/station overnight added."
+}

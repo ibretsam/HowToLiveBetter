@@ -1,0 +1,15 @@
+{
+  "id": "e-7-18",
+  "source_sha256": "3ade94bea80037219061a3bb17bfcd2937ea914050c01cffb0fed2f311a16961",
+  "draft_sha256": "a2ba75c2bc7811c78bf96c8688d1920a3fafb92765d5e8dacf25be8552f0073f",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Verified cumulative versus continuous contribution years, employee versus resident insurance, waiting period, local housing/residency rules and transfer references. Preserved 15-year threshold in short fields and explicit 2030 six-month annual increase to 20 years in notes. No zero-cost claim about actual premiums added beyond source cost label."
+}

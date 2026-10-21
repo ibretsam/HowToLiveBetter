@@ -1,0 +1,15 @@
+{
+  "id": "e-7-13",
+  "source_sha256": "b2a0fb326a65a2bcbb28847f0adc4819d33e344a6744e003a4a19e8999b98a68",
+  "draft_sha256": "32b944060fbf998a76da7baf21651af9ff114e11889e1689b32fa4009122d278",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all fields, training certificate prerequisite, maximum three subsidies, 3/2/1-year support periods, under-five-years-to-retirement extension and 16–24/two-year graduate eligibility. Provincial catalogue/amount and one-time job-search support preserved. Source does not state annual frequency; no annual qualifier added."
+}

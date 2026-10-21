@@ -1,0 +1,15 @@
+{
+  "id": "e-7-1",
+  "source_sha256": "0bd8fc01dbf8893f4328af45f4340d70a42a6e782ae688ab29ebe332f814b31f",
+  "draft_sha256": "29b75683459f5078acaecb20e90d38433ea16e3bdd0548481da8ef682e87e503",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đủ sáu trường. Giữ ba điều kiện đồng thời; các khoảng đóng 1–dưới5,5–dưới10,≥10 năm và12/18/24 tháng đúng. Mức90% là mục tiêu chứ không chi trả hiện hành. Nguồn khái quát chủ động nghỉ việc là không được nhận và yêu cầu đăng ký trước; không tự sửa quy định nguồn."
+}

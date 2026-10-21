@@ -1,0 +1,15 @@
+{
+  "id": "e-8-20",
+  "source_sha256": "7b6b5d505f4d7726c7a5821d7c5fa7c78c9b78b2e92ca88b1f6bc961f226802f",
+  "draft_sha256": "dd2d7f8e3a6dfdf336c78e782be0f6c97b117335d888f85375d2177e283eb7a0",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared asset-reporting period, intentional obstruction versus genuine inability to pay, accomplice knowledge, recovery, all penalties and mitigation timing. Essential family living expenses are deducted before assessing ability; pre-prosecution non-prosecution also requires minor circumstances. References 21 and 7-19 checked."
+}

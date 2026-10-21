@@ -1,0 +1,15 @@
+{
+  "id": "e-8-11",
+  "source_sha256": "7b81d8592ad12f4150fd6bca1eee8afb6ccfbd9f96fb41bc334682eafcc2e3ac",
+  "draft_sha256": "fc73cd709e1f620b6dca81248da756993722abf4cf4fd61987932fc28ea2b535",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Verified defence of others, ongoing attack requirement, both necessary excessive-defence conditions, serious injury/death versus lesser injury, case histories and detention review timelines. Source notes impose retreat and broadly describe ended attack, while benefit specifies actual loss of ability or abandonment; retained distinction. Compensation remains source-qualified cross-reference, not guaranteed eligibility."
+}

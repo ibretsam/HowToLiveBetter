@@ -1,0 +1,15 @@
+{
+  "id": "e-7-22",
+  "source_sha256": "d08366a2fee6da8ba27f5244da39276777defc662424b143bde8a602236e1f7d",
+  "draft_sha256": "81c007e5c1ecf28118efe99c038cabd9bc3675d77400ddac747521d542f93dea",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared complete title/cost/plain/benefit/notes/extra and citations. Preserved distinction between unlicensed commercial employer and household/private work, plus extra artisan/rural-contractor exclusions in benefit, joint liability and litigation cost/time limits. Source title/plain narrower than full exclusion list retained; references 2/3, 8-22/19 checked and recovery not guaranteed."
+}

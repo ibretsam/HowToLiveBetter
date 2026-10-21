@@ -1,0 +1,15 @@
+{
+  "id": "e-33-3",
+  "source_sha256": "bb2d78ec6dbc2a0d9ad22c970e5a2e05b27d2b235f8bc9fa6d4983f89cd1cb80",
+  "draft_sha256": "d573ed31e988229d839704857ca10475b7261b94e5206989641a25b68f1bb7a8",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ điều kiện chẩn đoán và đánh giá nặng, phân biệt tự gây hại cần giám hộ đồng ý với nguy cơ gây hại người khác được phản đối/chẩn đoán lại trong ba ngày, hai bác sĩ độc lập và quyền giám định. Giữ hai bước đưa đi chẩn đoán/giữ nội trú, điều kiện cấm nhập viện sau đánh giá và trách nhiệm bồi thường."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-13",
+  "source_sha256": "2dc7cf766031ba06959cc497690e574a57e009f7d2472bdcfbb027348068a267",
+  "draft_sha256": "4336413d911e34ddbf116d0d66578716c55a13055612e2c90d0e172a7c5cac25",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Verified every penalty range, incident date, casualty count and public-order threat distinction against source. No added tactical detail or sentencing claims. References and source scope retained; general statements remain attributed to the source."
+}

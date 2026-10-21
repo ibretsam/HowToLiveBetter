@@ -1,0 +1,15 @@
+{
+  "id": "e-33-9",
+  "source_sha256": "172bdf606b8fef89db516d661e756e1e04f70fe05078a08d9a6c92e4d4321809",
+  "draft_sha256": "166f888c107a5787e7f3503dce295d946f8c5361a25fa3ca51087ef432ec6857",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nghĩa vụ hỗ trợ gia đình đủ điều kiện, phạm vi cải tạo nhà/khu dân cư/công trình/giao thông, thang máy, quyền góp ý/khiếu nại và khởi kiện công ích của viện kiểm sát. Giữ trợ cấp thích hợp do địa phương quyết định, không tự hứa mức tiền toàn quốc."
+}

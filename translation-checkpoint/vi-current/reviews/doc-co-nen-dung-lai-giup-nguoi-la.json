@@ -1,0 +1,15 @@
+{
+  "id": "doc-co-nen-dung-lai-giup-nguoi-la",
+  "source_sha256": "c850d97723751ad8d29f56dc84ae01f75ef71a1256f684ea3b19f5c15de5edd2",
+  "draft_sha256": "cede19ed79a7fd3dc72c1bdb45e65f349f7ee73170e169cfb547c54b70c221b1",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ nguồn và bản dịch: bảng ba lựa chọn, bảy lớp chi phí, ba ngoại lệ gồm Đức, năm bước và tám nguồn; đọc đủ các mục 13-2/1/39, 8-37/1, 19-6, 1-25 được dẫn chiếu. Giữ phân biệt nghĩa vụ đưa chứng cứ với nguy cơ bị cuốn vào kiện, chi phí luật sư tự trả, điều kiện giam/phạt và quyền hình ảnh có ngoại lệ đưa tin không tránh được. Không có lỗi dịch cần sửa. Giữ và ghi nhận các khẳng định tuyệt đối vốn có của bài: không di chuyển trong mọi trường hợp và miễn trách nhiệm nói chung, dù 13-2 benefit cho phép một số hỗ trợ/di chuyển và điều184 chỉ miễn dân sự khi tự nguyện cứu trợ khẩn cấp. Câu công ty cho nghỉ thường trái luật và đền2N giữ chữ thường, không biến thành mọi trường hợp; 19-6 yêu cầu xét từng tình huống. Đường dây12356 và sơ cứu giữ đúng bối cảnh Trung Quốc, không bổ sung lời khuyên mới."
+}

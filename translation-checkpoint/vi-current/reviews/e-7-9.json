@@ -1,0 +1,15 @@
+{
+  "id": "e-7-9",
+  "source_sha256": "baa897d80d69a1306410fb8332ca831ad2b0d0e267903329a13108c23f6524ae",
+  "draft_sha256": "4e5d5c3eeee1d8c4585f9f188282ecce5ffff74e746c3a5ed52b39b6d2e68aca",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ.400 là mức cá nhân tối thiểu,700 trợ cấp ngân sách2025,24 tăng2026; giữ khác biệt hỗ trợ toàn bộ/cố định.3 tháng chờ cố định và tăng1 tháng mỗi1 năm gián đoạn được giữ. Nguồn chưa công khai thông báo2025 và đối chiếu qua hai tỉnh, giữ nguyên giới hạn."
+}

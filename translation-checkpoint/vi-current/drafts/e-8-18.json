@@ -1,0 +1,11 @@
+{
+  "id":"e-8-18","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"9ae932992430c5c7289a83d612341fbecabf55627d0dc0b74f6c58294048c0e5","translator":"pilot_emergency_batch5",
+  "translation":{
+    "title":"Cho vay phải ghi rõ giấy vay nợ; trước khi bảo lãnh cho người khác, nghĩ kỹ mình có sẵn lòng trả thay họ không",
+    "cost":"Không mất tiền. Dùng một tờ giấy ghi rõ người cho vay, người vay, số tiền, lãi suất, thời hạn và cách trả nợ, hai bên ký tên. Chuyển khoản để có dấu vết, không đưa tiền mặt.",
+    "plain":"Giấy vay nợ phải ghi đủ người cho vay, người vay, số tiền, lãi suất, thời hạn, cách trả nợ và chữ ký hai bên. Tiền chuyển khoản, không đưa tiền mặt; ghi đủ mới thuận lợi khi khởi kiện. Bảo lãnh cho người khác phải nhìn kỹ có chữ ‘liên đới’ không. Bảo lãnh thông thường phải đợi chủ nợ không thi hành án thu được tiền từ người vay thì mới đến lượt bạn; bảo lãnh liên đới cho phép họ đòi thẳng bạn.",
+    "benefit":"Hợp đồng vay phải lập thành văn bản, nội dung thường gồm loại khoản vay, loại tiền tệ, mục đích, số tiền, lãi suất, thời hạn và cách trả nợ. Ghi đủ mới thuận lợi khi khởi kiện. Hợp đồng bảo lãnh không ghi hoặc ghi không rõ phương thức bảo lãnh thì tính là bảo lãnh thông thường. Người bảo lãnh thông thường có thể chờ trước. Chủ nợ phải khởi kiện hoặc yêu cầu trọng tài trước, rồi yêu cầu cưỡng chế thi hành đối với tài sản của người vay. Thi hành xong vẫn không trả đủ thì mới đến lượt bạn trả thay. Ngược lại, đã ký ‘bảo lãnh trách nhiệm liên đới’ thì không có sự bảo vệ này, chủ nợ có thể đòi thẳng bạn (toàn Trung Quốc).",
+    "notes":"Đối với tiền cho vay, phần lãi vượt 4 lần LPR không được tòa bảo vệ, xem chương 7. Ghi số căn cước và chú thích ‘tiền vay’ trên giấy vay nợ là cách làm theo kinh nghiệm. Có chữ ‘liên đới’ trên giấy bảo lãnh hay không quyết định bạn đứng sau người vay hay bị đòi nợ song song với họ, nên phải đọc kỹ trước khi ký. Nói là để bạn làm người bảo lãnh nhưng thực tế lại ký hợp đồng vay, xem mục 45 (người vay là bạn, không phải người bảo lãnh).",
+    "extra":""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-19",
+  "source_sha256": "a2182c7103eeea2e431b32912cbb3d0151a895ccc8348ceb257c57c27efe8a98",
+  "draft_sha256": "905438ce192bdbf73febeb3d471200793c828b284e94846083ac375b6c19633a",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed 3/1/20-year limits, all four interruption grounds and all four excluded claim categories, instalment start date and ongoing employment wage exception. Preserved fuller knowledge-of-obligor condition in benefit absent from plain, and inability to contractually change statutory time limits. References 18, 20 and 19-1/2/20 checked."
+}

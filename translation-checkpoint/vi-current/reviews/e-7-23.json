@@ -1,0 +1,15 @@
+{
+  "id": "e-7-23",
+  "source_sha256": "4e1c0f42e1ac87bfb03591ab54a167cc7aeedd669a4482e307d2e47859a9535b",
+  "draft_sha256": "ab63d1d22d1555ce4a2bbf3d4a8a21f05919ebe7647002328097ecfb82f88329",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed complete credit-card versus online-loan rules: bank may refuse, maximum five years, written terms, breach exception to collection halt, oral recording retention and no blanket debt exemption. Verified principal threshold, source dates, five-year adverse-record clock from event end and all enforcement/complaint cross-references. Preserved source broad procedure-duration and fee claims without implying recovery is guaranteed."
+}

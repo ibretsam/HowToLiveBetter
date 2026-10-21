@@ -1,0 +1,15 @@
+{
+  "id": "e-8-14",
+  "source_sha256": "21ae30b5c6cdf18357196a0052f81133305b5254120df7fec139ba474291562c",
+  "draft_sha256": "83b531373533acd69a638fe300309be04babc59e829d94fca195b0e58e56ea54",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all study counts, percentages, intervals and service hours. Retained explicit limitation that suicide studies provide no direct research on urges to harm others, including single-hospital sample limitation. Original China hotline is translated source material, not a localized service recommendation. References 1-25 and 3-18 checked."
+}

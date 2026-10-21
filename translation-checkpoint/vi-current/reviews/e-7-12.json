@@ -1,0 +1,15 @@
+{
+  "id": "e-7-12",
+  "source_sha256": "b009a6c761f3ed694c514030d2098d7690f0aa80b8a2133082d0aca2485e02a2",
+  "draft_sha256": "c8d1a08b00a96a54022741b1dc5149fc4972bb4a43930b62056bf5b55684368a",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ đăng ký thất nghiệp trước, điều kiện địa phương, đóng trước nhận bù sau; mức2/3 và tối đa3 năm. Phân biệt hỗ trợ cá nhân linh hoạt với khoản đơn vị đã đóng, phạm vi trợ cấp sinh viên và thời điểm năm học tốt nghiệp đúng."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-33-1",
+  "source_sha256": "04ab1307527e0211093d50143f0ad18e0fc34b4f904a89bdd4708c997f101b3f",
+  "draft_sha256": "4133032bedd11ac51973eda06a4d201fb39707d6cf394812f8c381a3d3ea14a9",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ 31 nghiên cứu/6 thử nghiệm, ba động tác và các mức chứng cứ 5/1/2/4/5, triệu chứng có thể vắng mặt, thuốc chỉ khi huyết áp tiếp tục cao và không tự dùng tại nhà. Sửa đốt tủy ngực thành đoạn tủy ngực cho 节段, tăng cấp thành tăng vọt. Giữ giới hạn chưa nghiên cứu riêng tác dụng ngồi dậy lúc cơn."
+}

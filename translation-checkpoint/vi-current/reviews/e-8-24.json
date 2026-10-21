@@ -1,0 +1,15 @@
+{
+  "id": "e-8-24",
+  "source_sha256": "ceb075de3433fdd66dd8323a933519525d2c5ad43cf6417dc89643e658993b7e",
+  "draft_sha256": "69c7291541d77309755b9dfc9cd26edae9a650991d0ee0c225d4c2c5e969d141",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: giữ ba trường hợp hoàn trả, ngoại lệ chung sống ngắn và sính lễ cao, các yếu tố chia tỷ lệ và nghĩa vụ lưu chứng cứ áp dụng hai giới. Không bổ sung điều kiện ly hôn mà nguồn không nêu; mốc 2024/2 và liên kết mục 10-21 đúng."
+}

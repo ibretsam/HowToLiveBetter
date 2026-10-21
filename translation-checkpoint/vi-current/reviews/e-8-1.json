@@ -1,0 +1,15 @@
+{
+  "id": "e-8-1",
+  "source_sha256": "ce5ee8b916ed1013e3d9c0ac97868b964e4ce23abcf954d8bbd93976cb60557d",
+  "draft_sha256": "27b402068d517128e11063e81758e3ad65500a5160507c82146da02bfcde553d",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all six fields against source, including accident reporting, evidence before leaving minor incidents, fault rebuttal, 3–7/7+ year penalties and insurance policy conditions. Source-wide lifetime driving ban and 1–2 hour waiting claims retained as source claims, not independently fact checked."
+}

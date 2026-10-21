@@ -1,0 +1,15 @@
+{
+  "id": "e-8-16",
+  "source_sha256": "00b9551e81db60b2f3308c54337d9f0cf7c87b734beaeb3e0253bc26b72aca05",
+  "draft_sha256": "7be68f7cb963ee13db2ed42283e94ddc6df9ab0988fa04c6f5016bdbc52156f4",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed administrative thresholds versus serious criminal conduct, private prosecution default and two exceptions, assistance obtaining evidence and knowing repost liability. All dates, numbering and references preserved; cross-reference 37 checked. Plain and benefit do not imply all unpleasant speech automatically constitutes the criminal offence."
+}

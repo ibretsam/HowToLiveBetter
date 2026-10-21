@@ -1,0 +1,15 @@
+{
+  "id": "e-33-4",
+  "source_sha256": "c7edadbcaac452d8e7990dffe246c20b5704898b5870088dccc0fecd1fe98b8e",
+  "draft_sha256": "e8e9ac6ae86287afcff7ba548d458a362c6bba0511882fcd6186cc5ea3befc9c",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu số mẫu, tuổi, năm, 4.5 năm trung bình và bốn năm tử vong theo nguồn, RR/CI của đủ ba nhóm. Giữ tranh luận cận dưới1.00 và ngoại suy từ người cao tuổi Mỹ chăm vợ/chồng sang người chăm thân nhân trẻ; không coi mọi chăm sóc đều tăng tử vong."
+}

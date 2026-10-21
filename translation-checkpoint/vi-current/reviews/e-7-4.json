@@ -1,0 +1,15 @@
+{
+  "id": "e-7-4",
+  "source_sha256": "ed312107f5b81dac466c642754b42f652cee1bebc8e96d26d414c34ed6ff95fa",
+  "draft_sha256": "0a015751073f014401f79408f754faacd12073e4fb604dec91b99ce8337a5101",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ tự nguyện đến/rời, không phát tiền mặt, vé theo hộ khẩu/nơi cư trú, thời hạn10 ngày cùng ngoại lệ kéo dài. Plain nguồn nói mắc bệnh chung, benefit chỉ bệnh cấp tính phát sinh tại trạm; dịch giữ sự khác biệt, không mở rộng benefit."
+}

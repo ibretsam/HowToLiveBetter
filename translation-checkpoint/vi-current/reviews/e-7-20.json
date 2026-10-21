@@ -1,0 +1,15 @@
+{
+  "id": "e-7-20",
+  "source_sha256": "1db7c5670a53449cbad9b501efb6b9f1c6751ce5d171d36078996cc03623f184",
+  "draft_sha256": "716c19d71c5f3950eb92026e260362a5119fbf1018af978cc8214c715a176707",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared expense reimbursement versus fixed disease payout, guaranteed renewal definition, short/long-term distinctions and 28/3 disease categories. Source broad claims about lost earnings, million-yuan products and two-year nondisclosure rule retained with source qualifications, not silently amended. Premiums explicitly author estimates; references 5-39 and 9 checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-33-13",
+  "source_sha256": "176361be8f4aa1d9d5acdd59b25360102459390a49782fc212b2e787f2190eab",
+  "draft_sha256": "2fafef4221c2c7a1a66c8f1f1cd031a9ca7540e6d3dafed79f8f9e5538517890",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm đủ các điều chỉnh thi, điều kiện thiết bị không lưu trữ, phần thi nghe, mức thêm giờ 50% và 30% với từng nhóm, điểm ngoại ngữ theo công thức, yêu cầu giấy chứng nhận từ cấp hai và đánh giá chuyên gia. Giữ thủ tục và hạn nộp do tỉnh công bố, quyền đề nghị xem xét lại, phạm vi các kỳ thi quốc gia khác và dẫn chiếu mục 14."
+}

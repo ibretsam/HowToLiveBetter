@@ -1,0 +1,15 @@
+{
+  "id": "e-8-42",
+  "source_sha256": "6b3d9456538b7d7e4f313838c1dad3c6d7c6be0317d3d9c2fb2a33acc93135ee",
+  "draft_sha256": "cbdbaec243d4b5021c7ac4f660d5f6d3c4941b839cbd08e4ab861a99bb42ab4f",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all fields: panoramic/relative-position/detail sequence is expressly experience, not statute; original media retained and safety/rescue take priority. Evidence types and relationship to other records preserved; cross-reference 1 checked. No added recording or rescue directions."
+}

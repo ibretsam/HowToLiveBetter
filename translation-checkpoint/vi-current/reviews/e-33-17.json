@@ -1,0 +1,15 @@
+{
+  "id": "e-33-17",
+  "source_sha256": "d5a8f777bfdbf8e955f13a14bab258a124a905b1ef78b6f258ae58e4ce0d781b",
+  "draft_sha256": "e5a6cd9b38896aee2ba9e8059179e5c83f76efac0dabdd66e9b636cb005a5f76",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ACHIEVE 977 người 70–84 tuổi, kết cục chính ba năm không có khác biệt và phân nhóm 238/739 người, giữ dấu âm, toàn bộ khoảng tin cậy và giá trị P. Giữ giảm 48% là phân nhóm nguy cơ cao, không biến thành tác dụng phòng sa sút trí tuệ ở tất cả người dùng máy trợ thính. Đủ giới hạn nghiên cứu, biến cố nghiêm trọng và dẫn chiếu thi cử/lái xe."
+}

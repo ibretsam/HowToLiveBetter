@@ -1,0 +1,15 @@
+{
+  "id": "e-8-7",
+  "source_sha256": "b0057bb666076bae2a26dbc5c289638fbe378ce46ff8129488164318540b9945",
+  "draft_sha256": "a5d119f6bc518ef2cb5431e21e3a01471f50fed0455eba60269c1f5cfd71de05",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed drunk versus alcohol-impaired driving, commercial vehicle conditions, licence bans, every fine/detention period, e-bike restriction and owner-fault example. Preserved source distinction between criminal exception and administrative consequences; title/body differences not silently rewritten."
+}

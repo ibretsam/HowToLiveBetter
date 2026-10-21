@@ -1,0 +1,15 @@
+{
+  "id": "e-7-5",
+  "source_sha256": "a542a30ae41b0de7324b84562965f80ddfda600925ab661cac95d3358e254004",
+  "draft_sha256": "b7aac9e1f2a00b27b9a274dceda8751ec3a8d8e77070208fa99c6852e8c17205",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ miễn phí tất cả dịch vụ liệt kê, cấm cơ sở công kinh doanh, hỗ trợ người chờ việc lâu/hộ thu nhập thấp và đăng ký thất nghiệp làm điều kiện trước. Không thêm phí hoặc bảo đảm có việc."
+}

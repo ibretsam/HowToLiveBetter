@@ -1,0 +1,15 @@
+{
+  "id": "e-8-38",
+  "source_sha256": "9f4746217871755a20327cee3f5d7d0a0d8a690685ba6bd2db82bbb9100c1592",
+  "draft_sha256": "6f55f0d4e60ccbbef398501402b88cb090b2fe7e6919dff1ee4e5421352647ce",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đủ điều kiện đồng ý/số tiền bảo hiểm, ngoại lệ cha mẹ-con chưa thành niên, hoàn giá trị cho người có quyền khác sau đủ hai năm, mất quyền thụ hưởng/thừa kế, nhiều tội và mọi mức án/phạt. Giữ án tử hình hoãn thi hành của Trương mỗ Tùng, không thêm thời hạn không có trong nguồn; giữ giới hạn nội dung vụ án và dẫn chiếu khẩn cấp."
+}

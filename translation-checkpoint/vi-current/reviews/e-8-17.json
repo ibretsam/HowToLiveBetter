@@ -1,0 +1,15 @@
+{
+  "id": "e-8-17",
+  "source_sha256": "16ca175227ef98ee46fa120f882b5a9568efe619d9a9c0e749f22dccf4f1e2c2",
+  "draft_sha256": "013b5db1edfb65b9565cb1543174d145077050017936c9d6d499d06e84e725da",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all fields: lawful contract formation, signatures/seals/fingerprints, electronic confirmation and experiential ID-copy safeguards. Preserved source categorical claim that not signing avoids others debts, without adding new legal conclusions. Reference 45 checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-27",
+  "source_sha256": "4f1890d1da4b20c7026420a77160ae6664daf0efe5ac930e023c8c3eb9b563fe",
+  "draft_sha256": "833bb2440f830bc4391ab5da1fdf834bb136c8b179e8d34f7598462e36ffe774",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đủ nghĩa vụ niêm yết, chứng từ, hóa đơn, linh kiện cũ và các hành vi bị cấm; giữ mức 3 vạn tệ, 12315 và phân biệt phạm vi sửa thiết bị gia dụng với quy định giá chung cho kiểm tra xe/cải tạo nhà. Không biến kinh nghiệm theo dõi thành số liệu."
+}

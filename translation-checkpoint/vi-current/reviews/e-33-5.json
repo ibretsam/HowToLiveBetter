@@ -1,0 +1,15 @@
+{
+  "id": "e-33-5",
+  "source_sha256": "cacca55c11965a74391cd5954681b74efc223be32477db473344a1b42334a782",
+  "draft_sha256": "160c916850b02223dd3927ad743dbd02356fa9f3f9fafa15d356b249bfcaa5d5",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngưỡng tuổi65, ngồi6giờ, Braden18 đều bao gồm mốc; đủ loại đệm, độ dày7.6cm, kết quả ụ ngồi khác kết quả gộp cùng cụt và hai P. Giữ xe lăn vừa người là phần đi cùng can thiệp, ngoại suy về người trẻ, dẫn chiếu chống loét/ trợ cấp dụng cụ."
+}

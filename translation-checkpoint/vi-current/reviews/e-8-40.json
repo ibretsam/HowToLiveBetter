@@ -1,0 +1,15 @@
+{
+  "id": "e-8-40",
+  "source_sha256": "104368ba652b017000aab55adfd48aa0df99ab5ea3877fa116e078cd1d714aef",
+  "draft_sha256": "5599145ddd4bf8a58108b010e98d5a3218d121442e0b8cf7214efed978b5334b",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Read all source/draft fields and full amended benefit: seven aggravating circumstances, every sentencing tier, disclosure mitigation and extortion exception requiring both compulsion and no improper gain. Requested correction of 国家工作人员 to broader nhân viên nhà nước instead of restricting to staff in state agencies; translator corrected and reviewer re-read. Reference 39 and 24-11 checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-33-8",
+  "source_sha256": "9df5af06a0a5b62e842003969a40a81eb692b0d3a72b90df77ad3dfaa825f89a",
+  "draft_sha256": "c8f900b05c650357e7ce14e348b37ba659256644ba9a6a55bee1714c5ea88c2f",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu độ tuổi chưa đủ7 với0–6, đầy đủ nhóm khó khăn/trẻ mồ côi/đặc biệt khó khăn, thẩm quyền từ huyện trở lên và quyền địa phương mở rộng. Giữ nơi nộp theo hộ khẩu/nơi cấp cư trú, cơ sở chỉ định và ngoại lệ ngoài danh sách được đồng ý trước, hạn cuối9/2018 và mục tiêu từng bước miễn phí."
+}

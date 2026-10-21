@@ -1,0 +1,14 @@
+{
+  "id": "e-7-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "2220eb02b1323ed37a51b6e74a7702b66359727d0491ad174aa405bcf5a295fb",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Khó khăn về chỗ ở thì trước hết đăng ký chờ nhà ở công cho thuê",
+    "cost": "Nộp đơn không mất phí. Gửi giấy tờ cho cơ quan bảo đảm nhà ở cấp thành phố, huyện, đồng thời đồng ý bằng văn bản cho họ xác minh thông tin đã khai. Thiếu giấy tờ thì họ sẽ báo một lần đầy đủ những gì cần bổ sung. Thời hạn xếp hàng đợi nhà gọi là thời gian chờ, thường không quá 5 năm.",
+    "plain": "Phải đồng thời đủ ba điều kiện: không có nhà tại địa phương hoặc diện tích nhà dưới chuẩn; thu nhập và tài sản dưới chuẩn; người từ nơi khác đến làm còn phải có việc làm ổn định tại địa phương đủ số năm quy định. Thời gian chờ do địa phương công bố. Cách này không giải quyết được nhu cầu trước mắt, nhưng đăng ký chờ không mất tiền, ghi danh sớm thì đến lượt sớm.",
+    "benefit": "Đáp ứng đủ ba điều kiện thì được nộp đơn. Không có nhà tại địa phương hoặc diện tích nhà dưới chuẩn quy định. Thu nhập và tài sản dưới chuẩn quy định. Người lao động từ nơi khác đến phải có việc làm ổn định tại địa phương đủ số năm quy định. Cơ quan bảo đảm nhà ở của thành phố trực thuộc trung ương và các thành phố, huyện quy định, công bố điều kiện cụ thể. Người đã ghi tên vào danh sách xếp hàng gọi là đối tượng chờ; cơ quan bảo đảm nhà ở phải bố trí nguồn nhà cho họ trong thời gian chờ (khung toàn Trung Quốc, ngưỡng điều kiện và tiền thuê do địa phương định, từ năm 2012).",
+    "notes": "Cách này không giải quyết được nhu cầu trước mắt, nhưng đăng ký chờ không mất tiền, ghi danh sớm thì đến lượt sớm. Từng nơi còn có loại khác như nhà ở cho thuê được hỗ trợ, quy tắc khác nhau; hãy tra website cơ quan nhà ở và xây dựng địa phương.",
+    "extra": ""
+  }
+}

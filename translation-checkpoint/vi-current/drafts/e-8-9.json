@@ -1,0 +1,11 @@
+{
+  "id":"e-8-9","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"a7d26d55031d54bd2a415ae5ef6932de69d01d7ab9cde8109221ebc6a3e9b9d4","translator":"pilot_emergency_batch5",
+  "translation":{
+    "title":"Mỗi năm kiểm tra miễn phí báo cáo tín dụng của mình hai lần, xem có khoản vay hay thẻ nào không phải do mình mở không",
+    "cost":"Không mất tiền. Tra cứu trên mạng, mười phút là xong.",
+    "plain":"Mỗi năm bạn có thể tra cứu miễn phí báo cáo tín dụng của mình trên mạng hai lần, mười phút là xong. Dùng website chính thức của Trung tâm Thông tin tín dụng Ngân hàng Nhân dân Trung Quốc hoặc ứng dụng ngân hàng, đừng dùng ứng dụng ‘tra cứu tín dụng’ của bên thứ ba. Thông tin bất lợi được lưu 5 năm kể từ ngày sự việc kết thúc, quá hạn phải xóa. Có ý kiến phản đối thì bạn có thể nêu ra; trong 20 ngày, cơ quan liên quan phải trả lời bạn bằng văn bản.",
+    "benefit":"Văn bản pháp quy hành chính ghi ‘chủ thể thông tin cá nhân có quyền được cung cấp miễn phí báo cáo tín dụng của chính mình hai lần mỗi năm’, nên mỗi năm bạn có thể tự tra cứu miễn phí hai lần. Thời hạn lưu thông tin bất lợi là ‘5 năm kể từ ngày hành vi hoặc sự kiện bất lợi chấm dứt; quá 5 năm phải xóa’. Nếu không đồng ý với nội dung báo cáo, bạn có thể gửi ý kiến phản đối. Tổ chức thông tin tín dụng hoặc tổ chức đã cung cấp thông tin đó phải trả lời bạn bằng văn bản trong 20 ngày kể từ ngày nhận ý kiến.",
+    "notes":"Khi căn cước bị người khác mạo dùng để vay qua mạng hoặc mở thẻ, chủ thẻ thường chỉ phát hiện lúc bị từ chối khoản vay mua nhà; khi đó đã kéo dài mấy năm. Nơi tra cứu là website chính thức của Trung tâm Thông tin tín dụng Ngân hàng Nhân dân Trung Quốc hoặc ứng dụng ngân hàng. Đừng dùng ứng dụng ‘tra cứu tín dụng’ của bên thứ ba vì chính những ứng dụng đó đang thu thập thông tin của bạn. Sau khi ‘quét mặt, làm chứng giúp’ người quen, đặc biệt nên kiểm tra một lần, xem mục 45 (quét mặt giúp). Đã quá hạn trả nợ và có người thu tiền hứa ‘làm sạch hồ sơ tín dụng’ thì xem chương 7 mục 23 (đã không trả nổi nợ thẻ tín dụng, vay qua mạng). Báo cáo tín dụng không cho thấy thẻ ghi nợ và SIM điện thoại đứng tên bạn; phải tra cứu riêng, xem chương 14 mục 11 (có bao nhiêu SIM đứng tên mình).",
+    "extra":""
+  }
+}

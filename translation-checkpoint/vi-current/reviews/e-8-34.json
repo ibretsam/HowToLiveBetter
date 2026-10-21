@@ -1,0 +1,15 @@
+{
+  "id": "e-8-34",
+  "source_sha256": "e275c63e009b5b24d049b27c1eb04b6b8d7b78f28a6e92b8e0b3c1d3b382cb80",
+  "draft_sha256": "84fc6b62f7df4fc37cc25e601b6bcd7a4ce496f9f6dea2cddff9187e23e06344",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu điều kiện chứng cứ qua thủ tục, loại trừ nghi ngờ hợp lý, lời khai bất hợp pháp và cả nhân chứng/người bị hại; đủ các giai đoạn phải loại bỏ, quyền khiếu nại và không dừng thi hành án. Giữ giới hạn không có dữ liệu tỷ lệ và không bảo đảm kết quả."
+}

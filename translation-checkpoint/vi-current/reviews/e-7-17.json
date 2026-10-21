@@ -1,0 +1,15 @@
+{
+  "id": "e-7-17",
+  "source_sha256": "27a3acf3e651810d283db05e7d859804c55431044eea54bf68340ba0628d9429",
+  "draft_sha256": "3c4d2b87c147ee635cf7bf85519b3dee1a9f05645b5cce89da5ea754f7bfffe0",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared every household expenditure amount, percentage, wage floor and date; food/tobacco/alcohol breakdown remains explicit in benefit while plain follows source shorthand. Author-estimated deposit and cost comparisons, elderly meal eligibility/local access and source reprint provenance retained."
+}

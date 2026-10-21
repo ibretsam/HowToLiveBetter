@@ -1,0 +1,15 @@
+{
+  "id": "e-8-31",
+  "source_sha256": "e4ee3c1ec8c42080e326a2ef2dc2c07d6d8bcd7f6151bc3d4b09b491dc600d54",
+  "draft_sha256": "cce4289bb6e9bb8f660ad86ece403dfc8bd4bf64d60e6720cab5a07af979325f",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tuổi chưa đủ 14, không tỉnh táo/đang ngủ, hình phạt và phạm vi phụ nữ của điều hiếp dâm; giữ riêng cưỡng ép sàm sỡ, bài phổ biến pháp luật không phải giải thích tư pháp, hai rủi ro khi mất nhớ và các dẫn chiếu. Không mở rộng khẳng định pháp luật nguồn."
+}

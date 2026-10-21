@@ -1,0 +1,15 @@
+{
+  "id": "e-33-20",
+  "source_sha256": "45be2bf3172e75c1538a819eff61fff35d51ebea40e34e5d3cf7899f331f7c3f",
+  "draft_sha256": "22751b36aa204065689f6ec955e057d0ea3193a7e8e71b23b7ec14cc23ff43ef",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ các khâu cấm phân biệt đối xử, nghĩa vụ điều chỉnh nơi làm việc và hai đường khiếu nại/khởi kiện; đủ mốc 6 tháng và 3 tháng, luật sư tự trả và lưu bằng chứng. Nguồn benefit Điều bốn mươi hai giới hạn nhóm không có nguồn sinh sống cố định nhưng notes rút gọn thành người khuyết tật: bản dịch giữ khác biệt nguồn này, không mở rộng câu benefit theo notes. Dẫn chiếu 19-8 giữ nguyên."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-33-18",
+  "source_sha256": "614c1a2aced7a8d6f31a9db7f8904b1302f413c9a9b761215657a11f57e7bc8b",
+  "draft_sha256": "346ba7a9b1bca89c32e5ac65a3cdfbb0ac73db86b104e8e399f36d072ffddff6",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Phân biệt mất và hạn chế năng lực hành vi dân sự, giao dịch chỉ mang lại lợi ích hoặc phù hợp khả năng, đại diện/đồng ý/chấp nhận sau đó và khôi phục năng lực. Giữ đúng các chủ thể được yêu cầu, tòa nơi cư trú, hai điểm bắt đầu hạn 30 ngày, khả năng kéo dài, miễn phí thụ lý nhưng giám định trả riêng. Nhận định về giao dịch và hoàn trả nhà là suy luận của tác giả; không đổi thành mọi giao dịch của người hạn chế năng lực đều vô hiệu."
+}

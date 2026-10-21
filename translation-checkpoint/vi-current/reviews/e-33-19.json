@@ -1,0 +1,15 @@
+{
+  "id": "e-33-19",
+  "source_sha256": "e6dcd9baddbf0afa37d1b4c34bcbb70bd3db39a368d63bf3149a9f9d36930703",
+  "draft_sha256": "7f24447f1276167dcdfc5570efc1567d4114fdc03c6012e9b2801215d3927eaf",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã sửa plain từ cơ quan nối bằng “và” sang “cơ quan như ủy ban cư dân”, giữ 等 mà không tạo điều kiện đồng ý đồng thời của nhiều cơ quan. Đối chiếu đủ thứ tự giám hộ, người có khả năng giám hộ, nguyện vọng và lợi ích của người được giám hộ, giám hộ tạm thời và thỏa thuận bằng văn bản. Giữ tài sản người được giám hộ trả trước, phần thiếu do người giám hộ trả, khả năng giảm trách nhiệm và người nhận ủy thác chỉ chịu phần lỗi; dẫn chiếu 17-1 đúng."
+}

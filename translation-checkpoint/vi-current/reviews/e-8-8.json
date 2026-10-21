@@ -1,0 +1,15 @@
+{
+  "id": "e-8-8",
+  "source_sha256": "574d5ea630a7fd01b3fd32bee8aff19da785545c68d3e176d81f26b91dacc334",
+  "draft_sha256": "634e816b6c7d5b6c015295b142d52f92a80dd765f88244927cd32f9a578ab39f",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed renting/lending/selling accounts, administrative penalties and separate knowing assistance with serious circumstances for criminal liability. All multiples, caps, detention limits and credit/payment consequences preserved. Source short-form omission of serious-circumstances condition retained alongside fuller benefit field; reference to 45 checked."
+}

@@ -1,0 +1,11 @@
+{
+  "id":"e-8-14","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"21ae30b5c6cdf18357196a0052f81133305b5254120df7fec139ba474291562c","translator":"pilot_emergency_batch5",
+  "translation":{
+    "title":"Có ý nghĩ ‘kéo người khác chết cùng’, ‘cùng chết hết’ thì xử lý như tình trạng cấp cứu: rời hiện trường, giao chìa khóa xe và dao cho người khác, gọi 12356",
+    "cost":"Không mất tiền. Khó ở chỗ thừa nhận mình lúc này không ổn, và cũng khó giao đồ vật vào tay người khác.",
+    "plain":"Từ lúc có ý nghĩ này đến khi hành động, khoảng thời gian rất ngắn. Trong 82 người từng tự sát không thành, 47.6% nói từ ý nghĩ đầu tiên đến hành động không quá 10 phút. Vì vậy, điều cần làm không phải là ‘nghĩ thông suốt’, mà là tạo khoảng cách giữa mình với vô lăng, dao, van gas và dây thừng trước, vượt qua mười phút này. Sau đó gọi 12356.",
+    "benefit":"Khoảng thời gian từ ý nghĩ này đến hành động rất ngắn. Các nhà nghiên cứu phỏng vấn 82 người tự sát không thành trong vòng ba ngày sau nhập viện. Trong đó, 47.6% cho biết từ lần đầu nảy ra ý nghĩ đến thực hiện không quá 10 phút. Một tổng quan hệ thống trong 10 năm (tập hợp và xem xét các nghiên cứu trong mười năm) nhận định bằng chứng về việc hạn chế phương tiện gây chết người ngày càng mạnh. Sau khi kiểm soát thuốc giảm đau, tự sát liên quan đến chúng giảm 43%. Sau khi lắp biện pháp bảo vệ tại các điểm thường có người nhảy từ trên cao, tự sát giảm 86% (từ 79% đến 91%). Tạo khoảng cách với vô lăng, dao, van gas và dây thừng là để chờ mười phút này trôi qua. 12356 là đường dây hỗ trợ tâm lý thống nhất toàn Trung Quốc, tiếp nhận cuộc gọi ít nhất 18 giờ mỗi ngày (toàn Trung Quốc, từ ngày 1 tháng 5 năm 2025).",
+    "notes":"Xếp mức B vì cả hai bằng chứng đều xuất phát từ nghiên cứu về tự sát; chưa có nghiên cứu trực tiếp khi áp dụng cho ‘xung động muốn làm hại người khác’. Nghiên cứu của Deisenhammer cũng chỉ có 82 người và được thực hiện tại một bệnh viện. Khi trạng thái tinh thần không ổn, đừng lái xe hoặc làm ca phải chịu trách nhiệm về an toàn của người khác; trước hết bàn giao ca. Muốn tự làm hại mình, xem chương 1 mục 25 (có ý nghĩ tự sát thì gọi 12356). Khi tinh thần sa sút nên làm gì trước, xem chương 3 mục 18.",
+    "extra":""
+  }
+}

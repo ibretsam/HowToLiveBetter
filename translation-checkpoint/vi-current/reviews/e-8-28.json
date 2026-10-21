@@ -1,0 +1,15 @@
+{
+  "id": "e-8-28",
+  "source_sha256": "380a8ebf7785b62d72cb28a192717994a3f2fb300f423bb728698508c7f35ed8",
+  "draft_sha256": "3309e6322193c06568a8bde569de32c155dc36ce214b24422a70bb40c6ba2027",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Sửa câu không biết về pháp luật thành theo pháp luật, không biết gì về sự việc, để dịch đúng 不知情 thay vì nhầm không biết luật. Đủ trách nhiệm công ty rồi truy đòi, lỗi cố ý/vô ý nghiêm trọng, hạn 30 ngày và giới hạn nguồn chưa xác minh hệ quả thi hành án."
+}

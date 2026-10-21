@@ -1,0 +1,15 @@
+{
+  "id": "e-8-41",
+  "source_sha256": "e06ee3391c835072c99b7211400788b5856a8303e78db064b49e52d43955cce6",
+  "draft_sha256": "9d73f131c373782a40150ec31cc304391e9f327091165abf410074a682d0d81c",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all fields and references: non-notification alone does not exclude evidence, three prohibited acquisition grounds remain, original media and corroboration required, civil-procedure scope explicit. No promise recording guarantees winning or permission to publish recordings. Chinese amount 5 wan and references 16 and 19-8 preserved."
+}

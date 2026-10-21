@@ -1,0 +1,15 @@
+{
+  "id": "e-7-10",
+  "source_sha256": "3ed904c9290822cea3a7f2f615f6adad192374415f15e4f98e8b060e0e678a52",
+  "draft_sha256": "2ceeb42cb4023b03ff600fd9b7ebd7c1a921e244871db88b91292963ec3a66f0",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ đủ sáu bước, ba lớp bảo hiểm/cứu trợ,70%,3–24 tháng/80%,12 tháng,5 năm; không làm mất cảnh báo thủ tục cấp cứu chưa rõ. Nguồn nói thứ tự cố định, không được chấm dứt hợp đồng trong kỳ y tế và LPR4 lần khá khái quát; bản dịch giữ nguyên, không bổ sung ngoại lệ pháp luật ngoài nguồn."
+}

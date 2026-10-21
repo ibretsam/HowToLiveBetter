@@ -1,0 +1,15 @@
+{
+  "id": "e-7-16",
+  "source_sha256": "2220eb02b1323ed37a51b6e74a7702b66359727d0491ad174aa405bcf5a295fb",
+  "draft_sha256": "dafc64c7952d5b8edeafe59fa0f065f1af30306d666003e9e39650df569e8dcc",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed three application conditions, extra stable-employment criterion for migrants, documentary consent and generally no more than five-year waiting period. Local thresholds/rent and distinction between applying and obtaining housing preserved; no immediate-housing guarantee added."
+}

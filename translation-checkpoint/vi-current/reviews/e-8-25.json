@@ -1,0 +1,15 @@
+{
+  "id": "e-8-25",
+  "source_sha256": "01860d73ffa1a5678806addd69a6ca7e3518c2eb97cbc21d2a92cbdaa1afc4ff",
+  "draft_sha256": "ebc0485d37a44e46ed3f84e364d5939358a5c2aa1cf05860d01b74e93799e3ad",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã kiểm tra tài sản riêng/chung, thỏa thuận bằng văn bản, tiền cha mẹ trước/sau cưới, rút lại trước đăng ký và điều kiện chủ nợ biết thỏa thuận. Giữ nguyên cách diễn đạt khái quát của nguồn rằng đăng ký xong là của đối phương, kể cả ngữ cảnh thêm tên; không tự sửa luật nguồn."
+}

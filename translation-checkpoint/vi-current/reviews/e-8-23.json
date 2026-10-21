@@ -1,0 +1,15 @@
+{
+  "id": "e-8-23",
+  "source_sha256": "9527e33f581fb7c070cdcfee903e644915ca54c2c976101179e0fb7e76091259",
+  "draft_sha256": "71fc6bd63ff99789150d28884600835292dd7866ba11670202d0dbb28a2bb628",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed transfer-of-property timing, three revocation grounds, ordinary gifts versus bride-price classification and notarized-gift exception. Preserved explicit lack of official source for 520/1314 shorthand and importance of loan versus gift evidence. No new property or family-law advice added."
+}

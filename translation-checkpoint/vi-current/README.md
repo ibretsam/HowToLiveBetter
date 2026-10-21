@@ -87,6 +87,12 @@ Tổng 95 mục: 12 mục mới, 59 cập nhật và 24 rà soát lại. Có 99 
 độc lập mới; báo cáo nằm trong `batch-4-report.json`. Giữ nguyên 155 bản nháp
 và 155 hồ sơ rà soát của ba đợt trước.
 
+Đợt 5: toàn bộ 23 mục chương 7, 46 mục chương 8 và 21 mục chương 33, cộng
+ba lời dẫn và bài phân tích về việc giúp người lạ gặp nạn. Tổng 90 mục: 4 mục
+mới, 78 cập nhật và 8 rà soát lại. Có 94 hồ sơ rà soát độc lập mới; báo cáo nằm
+trong `batch-5-report.json`. Giữ nguyên 254 bản nháp và 254 hồ sơ rà soát của
+bốn đợt trước.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

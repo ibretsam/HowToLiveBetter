@@ -1,0 +1,15 @@
+{
+  "id": "e-33-6",
+  "source_sha256": "069f9aa18308c5dc3a9a945134e13c88496298f02a175335411a3897baead983",
+  "draft_sha256": "c69bb4e1dfb4cf7632b823b109fc66b3a84e93f07e80559f6e99594623da6acd",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ bốn loại nội dung quảng cáo bị cấm, phạm vi quảng cáo không y tế và trách nhiệm sự thật theo điều4. Giữ cách nguồn khái quát những thứ không phải trang thiết bị y tế ở plain dù benefit liệt kê cả ngoại lệ thuốc/dịch vụ y tế; không tự sửa lời nguồn. Đúng hotline và dẫn chiếu mua trực tuyến."
+}

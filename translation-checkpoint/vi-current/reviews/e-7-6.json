@@ -1,0 +1,15 @@
+{
+  "id": "e-7-6",
+  "source_sha256": "270efc45118510fae6a0a8bfc0b6734fff8698b298d4321322ea351623abbde7",
+  "draft_sha256": "067650eea9e53db6f9df94611b9e959ba37e8707d570a71a660718e167e6bc9d",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ phân biệt cứu trợ nhanh khoản nhỏ và chi phí thiết yếu tăng, không kiểm tra tài chính/không công khai chỉ ở nhánh nhanh;3 ngày,1 tháng,6 lần đều đúng. Nguồn phân biệt quy định2014, luật2026 và văn bản2025, bản dịch giữ diễn biến và quy tắc ưu tiên luật."
+}

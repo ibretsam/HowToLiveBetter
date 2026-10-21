@@ -1,0 +1,15 @@
+{
+  "id": "e-8-15",
+  "source_sha256": "18e94f14d584be462e0c551be1ac791a8dfce814e90cfcae478bdc52ccf25a8a",
+  "draft_sha256": "59173d295907cfcb589dc48c56b25ea130af68a40d0f32058cc5aed75ff76d13",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed legal quotations, suspected versus diagnosed severe disorder, diagnosis versus inpatient treatment, rights on reassessment, dangerousness conditions and accident counts. Source short-form is broader than detailed benefit and notes exclude outsiders while benefit names employer; kept these source distinctions rather than silently altering law. Reference 1-43 checked."
+}

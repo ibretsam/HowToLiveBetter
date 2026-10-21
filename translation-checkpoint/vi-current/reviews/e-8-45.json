@@ -1,0 +1,15 @@
+{
+  "id": "e-8-45",
+  "source_sha256": "28003f728bf4327431b97edbab0ea0f8d27ecb4700741ca5e2a14da5a2e38ade",
+  "draft_sha256": "4b6c4da825d6229d22a0e460fdcbd0c83475de9c64f55e1f48f883c0b17dd2d6",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Reviewed all AB-loan roles, bank knowledge condition, one-year cancellation window, intermediary conviction versus repayment duty, electronic signature and stolen-ID exception. Corrected awkward đồng bên vay to người đồng vay. All case counts, terms and currency retained; source broad real-name-verification prohibition preserved rather than independently generalized. References 18/9/17/28/8, 9-6 and 14-9 checked."
+}

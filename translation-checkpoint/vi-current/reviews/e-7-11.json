@@ -1,0 +1,15 @@
+{
+  "id": "e-7-11",
+  "source_sha256": "863b7f7a28e00e8f641bd64316b1c4d09df29e7af125e28293461ab2a87b5f7b",
+  "draft_sha256": "4ad8c4ea012dbedba517ccbacf36e7c4c44de1debf9d9487b2b8b38981cd6499",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ60 ngày cấp giấy,3 ngày cấp tạm/3 tháng hiệu lực; phí luật định, địa chỉ hộ khẩu, khả năng làm khác địa phương theo công an. Nguồn ghi rõ dẫn văn bản2003 dù sửa2011, giữ ghi chú này và không tự cập nhật luật."
+}

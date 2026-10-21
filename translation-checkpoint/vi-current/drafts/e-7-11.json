@@ -1,0 +1,14 @@
+{
+  "id": "e-7-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "863b7f7a28e00e8f641bd64316b1c4d09df29e7af125e28293461ab2a87b5f7b",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Mất căn cước thì xin cấp lại ngay, cần gấp thì lấy căn cước tạm thời trước",
+    "cost": "Phải trả phí làm giấy tờ. Đây là khoản thu theo luật, mức thu do nhà nước quy định, lấy mức công khai tại địa phương làm chuẩn. Nộp đơn tại đồn công an nơi đăng ký hộ khẩu thường trú, đi 1 lượt.",
+    "plain": "Cấp lại thì được nhận giấy tờ trong 60 ngày tính từ ngày nộp mẫu đơn. Cần gấp thì đồng thời xin thêm căn cước tạm thời, cấp trong 3 ngày, có giá trị 3 tháng. Không có căn cước thì tìm việc, lưu trú, mở tài khoản, nhận trợ cấp đều không làm được; đây là điều kiện trước tiên của mọi thủ tục.",
+    "benefit": "Tính từ ngày bạn nộp “Mẫu đăng ký xin cấp căn cước cư dân”, cơ quan công an phải cấp giấy tờ trong 60 ngày. Trong thời gian cấp mới, đổi hoặc cấp lại, nếu cần dùng gấp thì có thể xin căn cước cư dân tạm thời. Công an cấp trong 3 ngày sau khi nhận đơn, giấy có giá trị 3 tháng (toàn Trung Quốc).",
+    "notes": "Không có căn cước thì tìm việc, lưu trú, mở tài khoản, nhận trợ cấp đều không làm được; đây là điều kiện phải có trước mọi thủ tục. Luật Căn cước được sửa năm 2011, nhưng mục này dẫn văn bản công bố năm 2003; điều khoản lấy bản hiện hành làm chuẩn. Có được làm ở địa phương khác không thì theo thông báo của công an địa phương.",
+    "extra": ""
+  }
+}

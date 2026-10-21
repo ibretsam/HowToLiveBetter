@@ -1,0 +1,15 @@
+{
+  "id": "e-8-10",
+  "source_sha256": "73bc03f822b3cf48782b152689feab87192aeb06a536ae643d25461ceaa3aad6",
+  "draft_sha256": "06b9d7f6cb52af95ed01b5cd3e6553b8ac317cb617fd960718c969cf8c8dc261",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared administrative versus criminal penalties, mutual fighting versus defence, dual requirements for excessive defence and mitigation. New 2026 rule timing and renumbering preserved. Source notes broadly treat falling/running as end of attack; not harmonized with the more precise conditions in 11. Reference 9-26 checked."
+}

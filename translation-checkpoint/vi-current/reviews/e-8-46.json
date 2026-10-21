@@ -1,0 +1,15 @@
+{
+  "id": "e-8-46",
+  "source_sha256": "ef0af96775a4403b66f8ad2caf3c50097ca620c0bedb5004016c368c8c6a04a6",
+  "draft_sha256": "f1bd8ae52fdaf6b9a20f50608f40e2a848ed1958533ccaefdb4e2b2753115cc1",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Read all fields and citations: all UK survey years, counts, protection factors and rates retained; no experimental/causal claim added, contrary older alarm evidence and reverse-causation explanation explicit. Burglary versus robbery distinction, actual locking, tenant consent and standard effective date preserved. References 10 and 11 checked."
+}

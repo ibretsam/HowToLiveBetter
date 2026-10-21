@@ -1,0 +1,15 @@
+{
+  "id": "e-8-43",
+  "source_sha256": "74d6ef0dc329f15aa39183d4e51384d703a327e5e187f4d6fe62f6779f420542",
+  "draft_sha256": "9fa061347a00b78e07ffcddc6afa4ef6673a17fe0a5d6950247c3db7706ffe24",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared complete source/draft, all study sizes, percentages, ORs and confidence intervals, 72/24-hour timelines, six-month term, penalties and proxy-application rules. Retained inclusive one-third-or-more boundary (以上); replaced ambiguous chênh nguy cơ with odds plus explanation; OR is not a risk ratio. Protection order does not guarantee safety, foreign data scope and separate divorce litigation retained. References 41, 13-37 and 10-23 checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-36",
+  "source_sha256": "ffe58be9175d0bcb8901cd9ec6689a7fd16dd55a8760e0c33f1cc2df1c1ddee4",
+  "draft_sha256": "16cdb74e09ecbd62947aa463c5c6b1796e485d854786dc3ee8552e7c4e95c848",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ chuỗi vụ Quách Lợi,40vạn, các mốc2008/2009/2014/2017,1826ngày; giữ quyền đòi bồi thường và phê phán trên truyền thông cùng giới hạn một vụ án. Sửa khởi án thành khởi tố vụ án. Giữ source cost nói không mất tiền dù có phương án thuê luật sư."
+}

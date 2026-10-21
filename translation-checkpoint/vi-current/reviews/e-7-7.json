@@ -1,0 +1,15 @@
+{
+  "id": "e-7-7",
+  "source_sha256": "15ff7e8fa2f57ced95bea7b1b51a28049293a7859d7654b75ab289bb6be36fe2",
+  "draft_sha256": "e8f30167669fa0b1d7b906506f5e82e10b58f6ec61ecf9b533e1006f90018c57",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Giữ điều kiện thu nhập và tài sản đồng thời, toàn bộ số798.1/593.9/625.0/3361.5 và ví dụ500→298.1; không nhầm ngưỡng với tiền thực nhận. Giữ khác biệt văn bản2023 ngưỡng1.5 và luật2026 do tỉnh định; trợ cấp cá nhân chỉ cho nhóm nặng trong hộ cận diện."
+}

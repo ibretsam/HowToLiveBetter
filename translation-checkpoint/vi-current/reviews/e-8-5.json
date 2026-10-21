@@ -1,0 +1,15 @@
+{
+  "id": "e-8-5",
+  "source_sha256": "5862bd3d739ce6795783bf0e122fc7ca1059708248ceaeaf85c9c358a847b5a9",
+  "draft_sha256": "6a971ca9a672165daf1b8f66197f2e8dd09b9604d8a77ca5c98a2dd29951c80e",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared interrogation rights, lawyer access, 48-hour meeting limit, 12/24-hour summons limits, false-accusation penalties and compensation. Corrected 不成立 to lack of basis established by investigation, rather than asserting falsity. Broad source compensation statement retained with its references to 33–35; eligibility not expanded."
+}

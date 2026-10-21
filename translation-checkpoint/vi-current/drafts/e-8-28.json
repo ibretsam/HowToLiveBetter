@@ -1,0 +1,11 @@
+{
+  "id":"e-8-28","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"380a8ebf7785b62d72cb28a192717994a3f2fb300f423bb728698508c7f35ed8","translator":"pilot_emergency_batch5",
+  "translation":{
+    "title":"Đừng làm ‘người đại diện pháp luật đứng tên hộ’, đừng cho người khác mượn căn cước để đăng ký công ty",
+    "cost":"Không mất tiền. Có người nhờ ‘đứng tên thôi, không phải quản lý gì’ thì chỉ cần từ chối.",
+    "plain":"Luật mặc định người đại diện theo pháp luật chính là người quản lý; ‘tôi chỉ đứng tên, không biết gì’ không phải lý do miễn trách nhiệm. Người đại diện theo pháp luật thực hiện nhiệm vụ gây thiệt hại cho người khác thì công ty bồi thường trước, sau đó có thể truy đòi bạn nếu bạn có lỗi. Đã đứng tên thì Luật Công ty cho phép từ nhiệm, công ty phải xác định người đại diện theo pháp luật mới trong 30 ngày.",
+    "benefit":"Người đại diện theo pháp luật do thành viên hội đồng quản trị hoặc giám đốc thực sự điều hành công việc công ty đảm nhiệm; luật mặc định bạn chính là người quản lý. Người đại diện thực hiện nhiệm vụ gây thiệt hại cho người khác thì công ty bồi thường trước. Bồi thường xong có thể truy đòi người đại diện có lỗi (đòi lại khoản tiền đó). Thành viên hội đồng quản trị và người quản lý cấp cao có nghĩa vụ trung thành, cần mẫn với công ty (trung thành và tận tâm làm việc). Thực hiện nhiệm vụ gây thiệt hại cho người khác mà bản thân có lỗi cố ý hoặc lỗi vô ý nghiêm trọng thì cũng phải tự bỏ tiền bồi thường. Theo pháp luật, ‘không biết gì về sự việc’ không phải lý do được miễn trách nhiệm. Điều mười Luật Công ty ghi rõ: ‘Khi người đại diện theo pháp luật từ nhiệm, công ty phải xác định người đại diện theo pháp luật mới trong ba mươi ngày kể từ ngày từ nhiệm’ (toàn Trung Quốc, từ tháng 7 năm 2024).",
+    "notes":"Nguyên văn Luật Công ty chỉ nói trách nhiệm thuộc về ai. Hậu quả thường gặp hơn của đứng tên hộ là khi công ty bị tòa thi hành án, người đại diện theo pháp luật cũng bị hạn chế tiêu dùng cao cấp; vấn đề thuế và xử phạt hành chính có thể liên lụy đến bạn. Các hậu quả này xuất phát từ luật và quy định thi hành án khác; chương này chưa xác minh nguyên văn nên xếp mức B. Đã đứng tên thì Luật Công ty cho phép từ nhiệm, công ty phải xác định người đại diện theo pháp luật mới trong 30 ngày. Mượn tên bạn để vay tiền, xem mục 45 (quét mặt giúp).",
+    "extra":""
+  }
+}

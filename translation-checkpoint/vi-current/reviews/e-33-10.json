@@ -1,0 +1,15 @@
+{
+  "id": "e-33-10",
+  "source_sha256": "6ec4f02cfe3e87761cd4a834da1c521f1c75858ffbd642e7aa92fbd848a987d6",
+  "draft_sha256": "64bad706877be39fbd4812570f54c52bc129f5b9a9a2bf534bc3e836f7c319fd",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu công thức quỹ, tối thiểu1.5%, mức tỉnh, quy định cũ20người/3năm, chính sách2023–2027 miễn30người, tỷ lệ1% với50/90%. Giữ đủ điều kiện hợp đồng từ1năm/lương/BHXH, khuyết tật cấp1–2 một người tính hai và việc lý do tiết kiệm không áp dụng doanh nghiệp được miễn."
+}

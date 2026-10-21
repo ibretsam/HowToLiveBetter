@@ -1,0 +1,14 @@
+{
+  "id": "e-7-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "27a3acf3e651810d283db05e7d859804c55431044eea54bf68340ba0628d9429",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Giảm tiền ở và ăn xuống thấp nhất: ở ghép thuê theo tháng thay thuê theo ngày, tự nấu và ăn tại điểm hỗ trợ bữa ăn thay đặt giao đồ ăn",
+    "cost": "Tìm nhà mất từ 1 đến 3 ngày. Tiền cọc thường bằng 1 tháng thuê, tác giả ước tính sơ bộ. Tự nấu ăn tốn từ 30 đến 60 phút mỗi ngày. Cái khó là ngày nào cũng tự làm, kiềm chế không đặt giao đồ ăn.",
+    "plain": "Trong chi tiêu bình quân đầu người toàn Trung Quốc năm 2025, ăn chiếm 29.3%, ở chiếm 21.7%, cộng lại hơn một nửa, nên giảm hai khoản này hiệu quả nhất. Theo kinh nghiệm tác giả, phòng thuê ngày, thuê giờ quy ra tháng đắt hơn ở ghép; tự nấu rẻ hơn đặt giao đồ ăn. Tìm việc hãy hỏi rõ có bao ăn ở không; vị trí bao ăn ở tương đương bỏ được hai khoản lớn này.",
+    "benefit": "Năm 2025, cư dân toàn Trung Quốc chi bình quân mỗi người 29476 nhân dân tệ một năm, gọi là chi tiêu tiêu dùng bình quân đầu người. Trong đó thực phẩm, thuốc lá, đồ uống có cồn là 8631 nhân dân tệ, chiếm 29.3%; nhà ở là 6397 nhân dân tệ, chiếm 21.7%. Hai khoản cộng lại hơn một nửa, nên giảm chúng hiệu quả nhất. Dịch vụ hỗ trợ bữa ăn người cao tuổi dành cho toàn bộ người cao tuổi, dưới các hình thức nhà ăn, bàn ăn, điểm hỗ trợ bữa ăn; người cao tuổi khó khăn còn có trợ cấp phân theo hoàn cảnh. Để tham khảo: tính đến ngày 1 tháng 1 năm 2026, trong mức lương tối thiểu tháng bậc một của các tỉnh, thấp nhất là Thanh Hải 2080 nhân dân tệ, cao nhất là Thượng Hải 2740 nhân dân tệ (toàn Trung Quốc, năm 2025 đến 2026).",
+    "notes": "Phòng thuê ngày, thuê giờ tính theo tháng đắt hơn ở ghép nhiều là nhận định kinh nghiệm, không có số liệu chính thức. Điểm hỗ trợ bữa ăn người cao tuổi có mở cho người chưa cao tuổi không và giá bao nhiêu tùy nơi. Tìm việc hãy hỏi rõ có bao ăn ở không, vì vị trí bao ăn ở có thể trực tiếp loại bỏ hai khoản lớn này. Không mở được trang bảng gốc của Bộ Nhân lực và An sinh xã hội, số liệu lấy từ trang đăng lại của Sở Nhân lực và An sinh xã hội Tứ Xuyên.",
+    "extra": ""
+  }
+}

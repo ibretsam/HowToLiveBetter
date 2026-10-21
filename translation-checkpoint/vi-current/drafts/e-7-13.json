@@ -1,0 +1,14 @@
+{
+  "id": "e-7-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "b2a0fb326a65a2bcbb28847f0adc4819d33e344a6744e003a4a19e8999b98a68",
+  "translator": "pilot_employment_batch5",
+  "translation": {
+    "title": "Trong thời gian thất nghiệp hãy xin hỗ trợ đào tạo nghề, thực tập việc làm và bảo hiểm xã hội, đừng tự trả tiền học nghề",
+    "cost": "Không tốn tiền. Bản thân việc đào tạo tốn khá nhiều thời gian của bạn. Cái khó là phải theo học đến hết và thi lấy chứng chỉ mới nhận được hỗ trợ.",
+    "plain": "Tham gia đào tạo và lấy được chứng chỉ theo quy định thì có hỗ trợ đào tạo nghề, mỗi người nhận tối đa 3 lần. Người tốt nghiệp đại học, cao đẳng trong vòng hai năm chưa tìm được việc, thanh niên thất nghiệp từ 16 đến 24 tuổi có thể tham gia thực tập việc làm, nhận tiền sinh hoạt cơ bản trong thời gian thực tập. Trước hết tra “danh mục hỗ trợ đào tạo nghề” trên website cơ quan nhân lực và an sinh xã hội địa phương, đừng tự trả tiền đăng ký lớp.",
+    "benefit": "Quy chế của Bộ Tài chính và Bộ Nhân lực và An sinh xã hội liệt kê một loạt chương trình dùng quỹ hỗ trợ việc làm, tức khoản ngân sách dành riêng cho hỗ trợ việc làm. Tham gia đào tạo và lấy chứng chỉ đúng quy định thì được hỗ trợ đào tạo nghề, mỗi người nhận tối đa 3 lần. Người gặp khó khăn tìm việc tự đóng bảo hiểm xã hội theo diện việc làm linh hoạt được hỗ trợ tối đa 3 năm; còn chưa đủ 5 năm đến tuổi nghỉ hưu theo luật thì có thể kéo dài đến khi nghỉ hưu. Người tốt nghiệp đại học, cao đẳng tự đóng bảo hiểm xã hội được hỗ trợ tối đa 2 năm; được doanh nghiệp tuyển thì tối đa 1 năm. Người tốt nghiệp đại học, cao đẳng trong vòng 2 năm chưa tìm được việc và thanh niên thất nghiệp từ 16 đến 24 tuổi có thể tham gia thực tập việc làm, được nhận tiền sinh hoạt cơ bản trong thời gian thực tập.",
+    "notes": "Danh mục hỗ trợ và mức tiền cụ thể do từng tỉnh quyết định; trước hết tra “danh mục hỗ trợ đào tạo nghề” trên website cơ quan nhân lực và an sinh xã hội địa phương. Sinh viên đại học, cao đẳng trong năm tốt nghiệp thuộc hộ hưởng trợ cấp bảo đảm mức sống tối thiểu, hộ không ai có việc, người còn nợ khoản vay học tập hoặc khuyết tật còn có trợ cấp tìm việc, khởi nghiệp một lần.",
+    "extra": ""
+  }
+}

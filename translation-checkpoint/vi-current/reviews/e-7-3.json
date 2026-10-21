@@ -1,0 +1,15 @@
+{
+  "id": "e-7-3",
+  "source_sha256": "3a03943e68daaff14452cb9b7efab24d29a80eebc3d1e53bc521009a32f852a5",
+  "draft_sha256": "27b501d7e0dc4b3ac7eaaa0f89235569952c46d10c0555f9adb96b86e9a680fb",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Sửa cách gọi không tự nhiên trợ cứu thành trợ cấp cứu trợ trong benefit, không đổi phạm vi. Giữ sáu nhóm dân sự, các nhóm bị cáo và miễn xét kinh tế; mốc01/01/2022 đúng. Tiêu đề nguồn có tai nạn lao động nhưng benefit trích danh sách cũ không nêu riêng; giữ nguyên, không thêm diễn giải luật."
+}

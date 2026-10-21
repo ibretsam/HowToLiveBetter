@@ -1,0 +1,15 @@
+{
+  "id": "e-33-7",
+  "source_sha256": "19e487ebc6480a16b2bc5c3653d029ec387775deddee229b4b2841f42ff14a3e",
+  "draft_sha256": "be60a123c4604be1be671400e0f971d3d01b1d4116c6b66dad978eea3b8f77b3",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mọi chế độ, các điều20/21/26, điều kiện địa phương có thể hỗ trợ và kế hoạch2026. Giữ xác nhận trước trang bị, loại dụng cụ, chi phí lắp/sửa/tập, trường hợp quỹ không chi. Giữ khác biệt nguồn giữa tiêu đề hỏi đủ một lượt và ghi chú đừng mong một lần đủ, hỏi lại hằng năm."
+}

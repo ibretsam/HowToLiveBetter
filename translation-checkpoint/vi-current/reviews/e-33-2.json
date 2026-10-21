@@ -1,0 +1,15 @@
+{
+  "id": "e-33-2",
+  "source_sha256": "add352f02587a8d0a777f4970ab60d44a84aa1ed087e54efcabab92c4a980e20",
+  "draft_sha256": "974a2c21ccdfd2166bfe68c0fc29ffd18fb29362ebe83403e7a3e848880492cb",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mẫu 2304 người sống qua năm đầu, mọi mốc 1991–2010/2014, 63/533 và phần trăm, tỷ lệ chuẩn hóa tuổi cùng CI, P và tỷ số chênh; không đổi odds thành xác suất. Giữ giới hạn chỉ tổn thương tủy sống, ngoại suy sang nhóm khác và cửa sổ theo dõi mười năm, các dẫn chiếu đúng."
+}

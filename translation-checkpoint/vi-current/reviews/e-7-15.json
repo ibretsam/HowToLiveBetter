@@ -1,0 +1,15 @@
+{
+  "id": "e-7-15",
+  "source_sha256": "293bd1aa09c42c2acfa9975efcd6bcc487e6bd4f60bc9af37d99f225e313d17a",
+  "draft_sha256": "fb10677b3f56d78dae135fe4b35b2f9356141fd3c023a98575915e2834ea43b8",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Verified employer/intermediary restrictions, refund obligation, all fine values, private-loan interest cap at contract-date one-year LPR and old 24/36 thresholds. Principal remains repayable; effective/revision dates and reference 5-7 preserved. No new fee or loan advice added."
+}

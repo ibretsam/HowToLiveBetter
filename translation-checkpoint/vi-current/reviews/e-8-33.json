@@ -1,0 +1,15 @@
+{
+  "id": "e-8-33",
+  "source_sha256": "c1a4d305a0a657f5f8c0b7237c120efc2fa8a46c6ecf1db8b33d13b8d2775f45",
+  "draft_sha256": "74500ca301ad53c212339f73d89a1988b8bec68cb7301a3c6e4477753ac1a028",
+  "reviewer": "pilot_medicine_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã kiểm tra mức giữ người/phạt tiền, cố ý vu hãm đối lập tố nhầm và nguồn không có thống kê. Giữ bất nhất nguyên văn: title nói từ5ngày, plain/benefit nói tối đa5ngày; không sửa nguồn. Chuẩn hóa thuật ngữ khởi tố vụ án trong notes."
+}

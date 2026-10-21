@@ -1,0 +1,15 @@
+{
+  "id": "e-7-8",
+  "source_sha256": "2acb437c5803c0d1bc9aae710d1c5d858b703e67d8cfba5d6fdc4efd0fc89786",
+  "draft_sha256": "b4123c098afb86c813f7a1a8ddb490a0378003594e29e01e3e5f4994ad0e253e",
+  "reviewer": "pilot_emergency_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ. Hai trợ cấp khác đối tượng; nhóm chăm sóc yêu cầu cấp một/hai đồng thời cần chăm sóc dài hạn; hai khoản được nhận cùng lúc. Giữ mở rộng có điều kiện địa phương, giấy chứng nhận thế hệ hai và quyền ủy quyền gia đình."
+}

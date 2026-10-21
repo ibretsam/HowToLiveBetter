@@ -1,0 +1,15 @@
+{
+  "id": "e-8-6",
+  "source_sha256": "7c7ad8a0f3b903f6ea1e1e9cba3ab825468e397b25e3ed2a2935396527acc15f",
+  "draft_sha256": "133f692424130f13cacb46826ba9ea5ddf1408baac9b30b5266de0ae29eec5a2",
+  "reviewer": "root_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Verified self-surrender versus confession after arrest, all reduction percentages and limitation periods, exceptions and serious-offence qualifications. Source inconsistency between excluded escape time and no limitation after investigation/evasion retained explicitly rather than silently harmonized. Cross-references 1 and 5 checked."
+}

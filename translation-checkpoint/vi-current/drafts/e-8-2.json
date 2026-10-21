@@ -1,0 +1,14 @@
+{
+  "id": "e-8-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "9387a514aaa8467a1d6150211749fd6dafaf5d42585c5046a1756d051f3f363a",
+  "translator": "pilot_emergency_batch5",
+  "translation": {
+    "title": "Phát hiện bị lừa thì lập tức gọi 110 hoặc 96110 yêu cầu chặn thanh toán, đừng tự điều tra trước",
+    "cost": "Không mất tiền. Gọi một cuộc điện thoại, nói rõ thời gian chuyển tiền, số tiền và số tài khoản của đối phương. Giữ lại ảnh chụp giao dịch chuyển tiền và lịch sử trò chuyện.",
+    "plain": "Khoảng thời gian ngắn ngay sau khi chuyển tiền là quan trọng nhất. Cảnh sát có thể khẩn cấp chặn thanh toán, nhanh chóng phong tỏa tài khoản và ngân hàng phải phối hợp. Khi tiền đã bị chuyển đi, chia ra nhiều nơi, cơ hội thu hồi sẽ thấp hơn nhiều. Vì vậy, hãy gọi 110 hoặc 96110 trước, đừng tự điều tra hay hỏi han trước. Nếu 96110 gọi đến thì đó là cảnh sát đang cảnh báo để ngăn bạn bị lừa, hãy nghe máy.",
+    "benefit": "Cơ quan công an có quyền tra cứu tức thời, khẩn cấp chặn thanh toán và nhanh chóng phong tỏa số tiền liên quan đến vụ án. Ngân hàng và tổ chức thanh toán phải phối hợp. Tiền phong tỏa được sẽ hoàn trả cho người bị hại theo thủ tục. Khi tiền đã được chuyển đi và phân tán, khả năng thu hồi giảm mạnh, nên chặn thanh toán càng sớm càng hiệu quả. 96110 là đường dây cảnh báo phòng chống lừa đảo thống nhất trên toàn Trung Quốc; cuộc gọi đến là cảnh sát đang cảnh báo để ngăn bạn bị lừa, nhất định phải nghe máy (toàn Trung Quốc, từ tháng 12 năm 2022).",
+    "notes": "Bất cứ ai tự xưng là công an, viện kiểm sát hay tòa án và yêu cầu chuyển tiền vào ‘tài khoản an toàn’ đều là lừa đảo. Luật chỉ ghi ‘thiết lập chế độ chặn thanh toán và phong tỏa’, tức là để ngân hàng giữ tiền lại. Thu hồi được bao nhiêu phụ thuộc vào việc khi bạn báo cảnh sát, tiền có còn trong tài khoản hay không. Phần giới thiệu ứng dụng ‘Trung tâm Chống lừa đảo quốc gia’ và 96110 trích từ trang của Công an tỉnh Phúc Kiến vì trang nguyên bản trên website Bộ Công an không mở được.",
+    "extra": ""
+  }
+}

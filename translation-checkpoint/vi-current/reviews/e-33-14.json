@@ -1,0 +1,15 @@
+{
+  "id": "e-33-14",
+  "source_sha256": "d1c0b37d7e0d3a90cbf1355dd320506e05e226780705744d1f27dbceec95e16f",
+  "draft_sha256": "0f0a085c3e88d2689afa8790eddc466d8dc22a8d4578353e2d4aa0ea22a8df5d",
+  "reviewer": "pilot_employment_batch5_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ điều kiện đủ tiêu chuẩn tuyển sinh của trường phổ thông và nghề, phương án học tại nhà hoặc từ xa thuộc giáo dục bắt buộc cho trẻ cần chăm sóc chuyên biệt, đăng ký học sinh và trách nhiệm cấp huyện. Thành phần hội đồng, các mặt đánh giá, bảo vệ riêng tư và điều chỉnh chương trình đều đủ. Giữ riêng tiêu đề rộng với điều kiện trong benefit, cùng dẫn chiếu 30-3 và 33-13."
+}
