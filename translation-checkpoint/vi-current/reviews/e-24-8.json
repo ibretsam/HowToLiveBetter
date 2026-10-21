@@ -1,0 +1,15 @@
+{
+  "id": "e-24-8",
+  "source_sha256": "260ab87722ac7340da253bb86353939439f50aa39c242bd0c524c6a331598f88",
+  "draft_sha256": "9700ee7fa9854514561570d4d5cd84dd2a3bc0396ac3d4fe38491ba09ae9e407",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: hai nhóm cần cấp cứu ở Trung Quốc, chỉ chi phí cấp cứu, cứu trước/cơ sở xin quỹ sau, bảo hiểm trước nếu có, khác quy trình/hạn mức tỉnh. Giữ thứ tự chọn nơi gần/cấp cứu/chuyên môn/nguyện vọng, số 120, năm 2013 và dẫn 7-10; không biến hỗ trợ thành miễn toàn bộ viện phí."
+}

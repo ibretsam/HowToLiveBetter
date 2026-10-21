@@ -1,0 +1,15 @@
+{
+  "id": "e-24-14",
+  "source_sha256": "768f7345590b2f193d1d22a4bd799d0d2ca6bb23006e5e88e4c5e883bfd366df",
+  "draft_sha256": "5f8d3d6b2b4f42087fb417d6b0e87aa1957fe0e0eff0817232dff79c16c5536f",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: chỉ tái khám cùng chẩn đoán sau khám thực tế, dừng khi tình trạng đổi, chữ ký/dược sĩ, thuốc cấm và trẻ từ6 tuổi trở xuống có người giám hộ/bác sĩ giữ đúng. Giữ phí khám/giao thuốc dù cost mở đầu không tốn tiền, thanh toán tùy địa phương và khác địa phương mới thăm dò,12 tuần/16-5 và lợi ích là nhận định."
+}

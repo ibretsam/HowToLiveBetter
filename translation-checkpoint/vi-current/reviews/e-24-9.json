@@ -1,0 +1,15 @@
+{
+  "id": "e-24-9",
+  "source_sha256": "ab48270905eefe5a86dc3a7ec7a3acb1fc4528ff16ac0ec9f50b7aab573a9bba",
+  "draft_sha256": "c4f50b740fea0c09bd2ed03cbd57191896d9a21a9fe17a4e5b95e66b7b6cc2e6",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: điều trị kết thúc hoặc ổn định, 10 cấp/100%/10%, đạt 1/3, hai vị trí trở lên, mất từ 25% và ngoại lệ cổ chân chính xác. Giữ ba hệ giám định riêng, không đếm trùng, suy luận về làm quá sớm không được viết trực tiếp trong tiêu chuẩn và tỷ trọng bệnh/chấn thương có trước."
+}

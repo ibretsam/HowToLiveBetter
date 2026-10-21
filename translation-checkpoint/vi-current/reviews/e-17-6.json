@@ -1,0 +1,15 @@
+{
+  "id": "e-17-6",
+  "source_sha256": "7183bbcea7778cc5b009e7ee83d803ae04c95fc092f22e0e5de2ff75349ee98d",
+  "draft_sha256": "842508adb3e0291ef7d8388996d9bfe6d66ed3f84d7967ff702a67226fed919b",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: quyền ở/dùng/cho thuê và cần bên nhận thế chấp đồng ý khi định đoạt; nhận đến qua đời; Ponzi và dư nợ; >6%,>8%,≥10% chính xác. Giữ rõ ngưỡng tham khảo không phải luật, trạng thái thí điểm là khẳng định trong nguồn tháng6/2021, không xác nhận hiện trạng mới."
+}

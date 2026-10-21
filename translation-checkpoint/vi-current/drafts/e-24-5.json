@@ -1,0 +1,14 @@
+{
+  "id":"e-24-5",
+  "source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256":"6a623edcd6d74e5c164f54424fa6cc1ddc70e422a2388e0f0b319dd087d97efb",
+  "translator":"pilot_employment_batch6",
+  "translation":{
+    "title":"Sau mỗi lần khám chữa bệnh, tự giữ một bản hồ sơ bệnh án, kết quả xét nghiệm và hình ảnh y khoa",
+    "cost":"Không tốn tiền. Bệnh viện có thể thu chi phí sao chụp theo quy định và phải công khai mức thu. Khó ở chỗ lần nào khám xong cũng nhớ đi sao chụp một bản.",
+    "plain":"Xem và sao chụp hồ sơ bệnh án của chính mình là quyền pháp luật dành cho bạn. Hồ sơ ngoại trú, bệnh án nội trú, phiếu xét nghiệm, hình ảnh y khoa, hồ sơ phẫu thuật và gây mê, tài liệu giải phẫu bệnh, bảng kê chi phí đều được sao chụp. Bệnh viện phải chỉ định bộ phận hoặc nhân viên chuyên tiếp nhận, chỉ được thu chi phí sao chụp. Đổi bệnh viện, tìm bác sĩ khác khám lại, yêu cầu bảo hiểm thương mại chi trả hoặc thật sự xảy ra tranh chấp đều dựa vào tập tài liệu này.",
+    "benefit":"Quy định pháp luật xác định rõ xem và sao chụp hồ sơ bệnh án là quyền của người bệnh. Phạm vi bao gồm toàn bộ tài liệu như hồ sơ ngoại trú, bệnh án nội trú, phiếu xét nghiệm, hình ảnh y khoa, hồ sơ phẫu thuật và gây mê, tài liệu giải phẫu bệnh, chi phí y tế. Đổi bệnh viện, tìm bác sĩ thứ hai khám lại, yêu cầu bảo hiểm thương mại chi trả hoặc thật sự xảy ra tranh chấp đều dựa vào những tài liệu này.",
+    "notes":"Bộ phận được bệnh viện chỉ định tiếp nhận việc sao chụp, không cần nhờ vả bác sĩ. Danh sách cần sao chụp cứ đọc theo Điều mười sáu Quy định về phòng ngừa và xử lý tranh chấp y tế. Trước hết là hồ sơ ngoại trú, bệnh án nội trú, phiếu theo dõi thân nhiệt, phiếu y lệnh, phiếu xét nghiệm và tài liệu hình ảnh y khoa. Tiếp đó là hồ sơ phẫu thuật và gây mê, tài liệu giải phẫu bệnh, hồ sơ chăm sóc và bảng kê chi phí y tế. Nhận xong thì lưu trong một thư mục theo thứ tự thời gian. Quan trọng nhất là bản tóm tắt ra viện, hồ sơ phẫu thuật, kết quả giải phẫu bệnh và những hình ảnh then chốt. Với bệnh mạn tính, ghi các chỉ số qua từng lần vào cùng một cuốn sổ; xem phần 16.",
+    "extra":""
+  }
+}

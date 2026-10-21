@@ -1,0 +1,15 @@
+{
+  "id": "e-2-17",
+  "source_sha256": "c1d847ad4d4f67c1d8f6950f289356fd8c225c62c19e7aa07be53292f03c08e2",
+  "draft_sha256": "232bab8fa6bac75dd89eae16cd0c8c566a1b6da472253c78aeb0977bb7d7417e",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ sáu trường. Sửa ngữ pháp hơn triệu thành hơn một triệu. Giữ tổng thời gian ngồi và độ dài mỗi đợt ngồi như hai liên hệ riêng, HR 2.63/1.96, hai nhóm so sánh của HR 1.59, mức 60–75 phút và ngưỡng tivi 3/5 giờ. Giữ khả năng nhân quả ngược, kết quả quan sát và HR 1.04 không có ý nghĩa thống kê; không nâng thành bằng chứng can thiệp."
+}

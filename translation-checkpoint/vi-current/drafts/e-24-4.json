@@ -1,0 +1,14 @@
+{
+  "id":"e-24-4",
+  "source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256":"154338e38100c7c793a562dcb5b5d5cd6ff43b96ec6d2c30b550d640117f25cc",
+  "translator":"pilot_employment_batch6",
+  "translation":{
+    "title":"Trước khi khám chữa bệnh ở tỉnh khác, hãy hỏi tại địa phương; về nguyên tắc, sự cần thiết phải được bác sĩ có chức danh chuyên môn từ phó chủ nhiệm trở lên đánh giá",
+    "cost":"Không tốn tiền. Hỏi thêm trước khi đi.",
+    "plain":"Có cần đi nơi khác khám chữa bệnh hay không, về nguyên tắc do bác sĩ có chức danh chuyên môn từ phó chủ nhiệm trở lên tại bệnh viện cấp hai hoặc cấp ba đánh giá. Mức thanh toán khi tạm đi nơi khác khám chữa bệnh sẽ khác mức tại bệnh viện cùng cấp ở nơi tham gia bảo hiểm, cụ thể theo quy định địa phương. Hỏi tại địa phương trước khi đi sẽ tốt hơn đến nơi rồi mới biết không được thanh toán.",
+    "benefit":"Sự cần thiết của việc khám chữa bệnh ngoài khu vực quản lý quỹ hoặc ở tỉnh khác, về nguyên tắc do bác sĩ có chức danh chuyên môn từ phó chủ nhiệm trở lên tại bệnh viện cấp hai hoặc cấp ba đánh giá. Ra ngoài khu vực quản lý quỹ nghĩa là ra ngoài nơi bạn tham gia bảo hiểm y tế. Có cần đi nơi khác khám hay không, về nguyên tắc phải do bác sĩ đủ cấp chuyên môn xác nhận. Mức thanh toán cho người tạm sang tỉnh khác khám chữa bệnh được duy trì ở mức chênh lệch hợp lý so với cơ sở cùng cấp tại nơi tham gia bảo hiểm. Khám cùng một bệnh ở nơi khác thì số tiền được thanh toán sẽ ít hơn một phần so với khám tại nơi mình ở.",
+    "notes":"“Tạm đi nơi khác khám chữa bệnh” và “cư trú lâu dài ở địa phương khác” là hai loại đăng ký khác nhau, có mức thanh toán khác nhau. Cách đăng ký và những nhóm bệnh được quyết toán trực tiếp xem phần 16. Đừng đến nơi khác rồi mới nghĩ lại chuyện thanh toán bảo hiểm.",
+    "extra":""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-24-3",
+  "source_sha256": "451312b10c55463f4402656002b1a0765e2496f5b884b00818f8a491abd3ad9d",
+  "draft_sha256": "e453450e398e9b5dc880c4797e4fcee51347771d08e9995565442c7bea81bc2c",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: giữ liên hiệp liên kết chặt chẽ, dành tỷ lệ suất/giường, tiếp nhận chuyển tuyến, trung tâm hoặc bộ phận cố định và mục tiêu bao phủ 2027. Không đổi mục tiêu chính sách thành khẳng định đã hoàn thành."
+}

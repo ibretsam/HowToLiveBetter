@@ -1,0 +1,15 @@
+{
+  "id": "e-17-7",
+  "source_sha256": "b1d1e44ab791ce7df5be1a54bcd88a02c12019ef6187f72c6f9d132b00095081",
+  "draft_sha256": "61a281019bb54e17f03fc6cdfc30f5aa02a0dadd2abda853751e44606dfad22b",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: ≥6 tháng,70%/50%,trần≤50% thu nhập năm trước,18 tuổi trở xuống chưa đi làm, quỹ trả dịch vụ thay tiền mặt, loại trừ giường/ăn/y tế và trùng chăm sóc tai nạn lao động. Sửa ưu tiên bảo đảm thành bảo đảm trước cho để giữ nghĩa giai đoạn đầu bao phủ nhóm nặng. Giữ thời gian chờ, triển khai từng nơi,12393 và dẫn7-8."
+}

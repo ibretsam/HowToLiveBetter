@@ -1,0 +1,15 @@
+{
+  "id": "e-17-9",
+  "source_sha256": "eef0e28f0ca6164834af474457f63749206950a8b9e8bd8220c3060e9afe7323",
+  "draft_sha256": "7dbe7387ea5d8c9fce66942f9ef9f2adfdb3fac0ca58f657091e5891a109bd1b",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: số lần ngã khác số người ngã; ≥70/≥65,4tuần/12tháng,49/45,18/25,4/12,3/8,34/32/16%,OR vàCI,0.20 điểm phần trăm/2 mỗi1000 giữ đúng. Sửa câu plain thiếu danh từ nguy cơ. Giữ kết quả mắt thứ hai không rõ và nghiên cứu quan sát trái chiều27%,2.14lần,57%; không coi phẫu thuật chứng minh giảm mọi trường hợp ngã."
+}

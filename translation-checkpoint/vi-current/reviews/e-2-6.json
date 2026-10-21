@@ -1,0 +1,15 @@
+{
+  "id": "e-2-6",
+  "source_sha256": "84894fb7a6ef01524f18e59aab40bba0024d6b8e671432700435c907e020007b",
+  "draft_sha256": "27ce3922809f2dcae1858b5be643ff5db10f0d9cd7db1a892048fec58c021cce",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. GiữRR1.61, tăng4/100 tuyệt đối, khoảng1–7 và chênh lệch biến cố0.01 cóCI đi qua0; không coi an toàn lâu dài đã xác lập. Giữ tranh luận WHO/quy mô dân số và thí điểmEngland, quy định bán ởTrungQuốc, chỉ sản phẩm được quản lý trong nghiên cứu."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-23",
+  "source_sha256": "0388ff4765f021d7001560cb255823ed8774afe539f2bdb84599f431d10fde43",
+  "draft_sha256": "c262ce58934082bff601486bc675c7d6cd31dc5473ca5ff4550c72e0f690187b",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ hai khẩu phần mỗi tuần, 6 nghiên cứu và gần 3 vạn người; thịt đỏ chưa chế biến, thịt chế biến, gia cầm và cá được phân biệt. Giữ toàn bộ tỷ số nguy cơ/CI và kết quả không có ý nghĩa thống kê với gia cầm/cá, mức lợi ích nhỏ và giới hạn lời khuyên như nguồn."
+}

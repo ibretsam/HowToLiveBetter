@@ -1,0 +1,15 @@
+{
+  "id": "e-2-19",
+  "source_sha256": "1dfb9b4060699a6621f6cedf3291be257d3ea79e155cc38fd569900b96b6be31",
+  "draft_sha256": "863998d0e7269b98ca359559e623cf327cac8131660095f9ba134d9878f70aaf",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa bốn năm năm thành bốn đến năm năm để đọc rõ khoảng tuổi thọ. Giữ mốc vượt 100 g, không quá 100 g, từ 65 g trở lên, các khoảng tuổi thọ và lượng cồn/bia/rượu. Giữ khác biệt giữa nghiên cứu người đang uống, GBD và phân tích hiệu chỉnh; mức RR 0.93 không có ý nghĩa thống kê. Giữ tranh luận về nhóm tham chiếu và tham chiếu mục 20/21, không cập nhật hay hòa giải các kết luận của nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-24-6",
+  "source_sha256": "2e31da26b811d0f048b0a88ef7905ea76d36fc4084a984b8b328b45d0896cf8a",
+  "draft_sha256": "172e31b3cfb6e92e5dc134f900accf78aec3e6a6355c5f28df8e31b1ce1eedf9",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: niêm phong/mở có hai bên, bản gốc hoặc sao, phần chưa hoàn tất, kiểm nghiệm chung hoặc cơ quan cấp huyện chỉ định, trạm máu, cấm sửa và điều kiện tự mở sau 3 năm giữ đủ. Plain nói ký và đóng dấu, benefit nói ký hoặc đóng dấu đúng khác biệt vốn có của nguồn; không âm thầm hòa lại."
+}

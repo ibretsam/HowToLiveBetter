@@ -1,0 +1,15 @@
+{
+  "id": "intro-17",
+  "source_sha256": "78428ab2813183687a4a8567df28583db14f8b5467ef7db89c6f0a8fb3b031eb",
+  "draft_sha256": "4868e4064a1d77129de1ef565bd2d912a732ce0ae563873244bf01eb0f86d337",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tiêu đề và toàn bộ lời dẫn: giữ tiêu chí tiền và tự do thân thể; đủ bốn mục y tế có thước đo tử vong không so với mục còn lại. Không giữ lời dẫn cũ chỉ có hai mục."
+}

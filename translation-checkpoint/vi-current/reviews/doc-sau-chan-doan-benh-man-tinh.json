@@ -1,0 +1,15 @@
+{
+  "id": "doc-sau-chan-doan-benh-man-tinh",
+  "source_sha256": "77c32a3a542cc69059c3e46e209c8bcfb70b49a155b9001520a50b190eb62855",
+  "draft_sha256": "c09e272f44950b3f4577bb411affd3125599b03f2d1dc79418a98fd910ffe9e8",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đọc đối chiếu toàn bộ nguồn và bản dịch: đủ 37 bước theo 11/15/11, ba đề mục cấp hai, số liệu, ngưỡng, đơn vị, phủ định và liên kết. Sửa 外地 từ tỉnh khác thành địa phương khác ở bước đăng ký để không thu hẹp phạm vi; đổi quê nhà thành nơi mình ở ở bước cuối. Đã đọc plain/benefit/notes của toàn bộ mục được dẫn chiếu: 29-2, 1-7/20, 2-3/4/9/11/12/19/20, 5-12/13, 6-10/19, 16-1 đến 10, 24-1 đến 5, 34-1/3. Giữ bất nhất nguồn: bài khuyên mọi người chẩn đoán gout bắt đầu thuốc trong khi 16-9 giới hạn/điều kiện theo nhóm; bài ghi 360 trở xuống nhưng dữ liệu 16-9 dùng <360 và <6 mg/dL. Dữ liệu 29-2 về chẩn đoán ung thư nhưng bài mở rộng thành bệnh nặng. Gia đình trong bài rộng hơn phạm vi vợ/chồng, cha mẹ, con của 5-13. Mốc 12 tuần và chênh 10 điểm phần trăm trong checklist lược điều kiện tối đa/do bác sĩ và quy định địa phương của các mục chi tiết; không tự sửa nguồn. Giữ nhóm từng bị gout, vẫn dùng thuốc ở bước thịt/hải sản/rượu; không nhầm với khuyến nghị cho người chưa mắc."
+}

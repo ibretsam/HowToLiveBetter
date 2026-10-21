@@ -1,0 +1,15 @@
+{
+  "id": "e-2-33",
+  "source_sha256": "3d8e80967dbd9b009508319fd952cb946f72ce4586a78935f58c8d68a320b5f5",
+  "draft_sha256": "26d49d075e4b810f74821811bfcdaed2ca1981fbbe83563c163eb7dac890cfc7",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ ngưỡng từ bốn lần mỗi tuần bao gồm mốc bốn, 2.28 vạn người, theo dõi 8.2 năm, 1236 tử vong và cả hai tỷ số/CI. Bối cảnh Địa Trung Hải, nhiễu kiểu ăn tổng thể, ngoại lệ trào ngược/trĩ/ruột kích thích và nhận định đó chỉ là kinh nghiệm tác giả được giữ rõ."
+}

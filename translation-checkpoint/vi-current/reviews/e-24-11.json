@@ -1,0 +1,15 @@
+{
+  "id": "e-24-11",
+  "source_sha256": "33852dfa0fa09a96a1d88bb6273fe36b8f3ace12f5cb0e8fe15193b33c7dacb2",
+  "draft_sha256": "c6b746f0a632a0cda3fb6595d6564250e8b57b05416663da494c8ce7bd71d882",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường, trích dẫn dài, số hiệu/năm văn bản, bốn mặt đánh giá, mốc tháng3/2019, nghĩa vụ khiếu nại từ cấp hai đúng. Giữ phân biệt kinh nghiệm thư/cờ vào hồ sơ với căn cứ đánh giá hài lòng; giữ phân biệt ngành với hối lộ theo nguồn, không mở rộng thành kết luận miễn trách nhiệm hình sự. Đủ dẫn8-40/6/5."
+}

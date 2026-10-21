@@ -1,0 +1,15 @@
+{
+  "id": "e-2-20",
+  "source_sha256": "702f70601ec42769a667e76b9297573696bd8dae04bc76e8e35cb8955ac4b004",
+  "draft_sha256": "75ca811ac169584d8955a76e75d67e9577b4d1f2d81aca7a4429d680d0538178",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ đối tượng uống nhiều dài hạn, ngừng đột ngột hoặc giảm mạnh, dấu hiệu tự nhận biết, chi phí Trung Quốc và điều trị tại bệnh viện. Giữ 36287 người, ba tỷ lệ tử vong hằng năm, tỷ số tử vong chuẩn hóa 9.8 với CI và nhóm dân số cùng tuổi. Giữ giới hạn suy luận: đoàn hệ về người từng sảng run không trực tiếp nghiên cứu việc tự cố cai. Các tham chiếu mục 19/21 nguyên vẹn."
+}

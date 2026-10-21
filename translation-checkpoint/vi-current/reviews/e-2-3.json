@@ -1,0 +1,15 @@
+{
+  "id": "e-2-3",
+  "source_sha256": "cbd32b2f84f2f395fb3a7c04076f8d260c49becc7d0774f316976c2d7651b3cf",
+  "draft_sha256": "75872efde83da3ca7bee7ef29d605e6b9a90d373669daf2c8bb3580af2c3e5fd",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Varenicline/bupropion/nicotine phân biệt đúng, OTC/kê đơn và thời gian8–12 tuần đủ. Kiểm toàn bộ mẫu/hiệu quả/tác dụng phụ/CI và liều21→14→7mg,6/2/2tuần. Lời khuyên tiền sử tâm thần được ghi là của tác giả như nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-5",
+  "source_sha256": "d6056941d69452c9c1a26c8db1b01fdc6a32b98a2a05a190e2c403a78a85ab05",
+  "draft_sha256": "3dee20104cd24a5792a26347738e1eef794c65fb6282004db498065258fbbdde",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ phân biệt nhóm tự gọi hotline với nhóm được cung cấp tư vấn,RR1.38/1.25 và chất lượng bằng chứng. 中国戒烟平台 được giữ đúng phạm vi notes để người đọc tìm ứng dụng; mọi hotline, điều kiện Trung Quốc và giới hạn suy rộng nghiên cứu nước ngoài đúng."
+}

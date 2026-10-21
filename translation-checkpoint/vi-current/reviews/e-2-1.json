@@ -1,0 +1,15 @@
+{
+  "id": "e-2-1",
+  "source_sha256": "2611187f49ba422222205fd890c1b0cd491683900146c202fd6c80a315778d90",
+  "draft_sha256": "23ed4b8ef3ed7f94e31bb7580162df75e384b89431dd3c74b8972e43267cc7ae",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa plain 十年以上 từ trên mười năm thành từ mười năm trở lên để giữ ngưỡng bao gồm. Giữ nghiên cứu quan sát, nhóm tuổi, thời gian bỏ thuốc, OR/RR/CI và thử nghiệm105 người không còn ý nghĩa khi tínhOR. Định nghĩa odds ngắn giúp phân biệt với nguy cơ, không thay số liệu. Nguồn khái quát90% nguy cơ hút tiếp, giữ cách nói nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-16",
+  "source_sha256": "31a9a8063feceb62269ac5ee29262e8bf5d0b9b4d929c02e0021c9918c184e48",
+  "draft_sha256": "182236aa9c3acb4201382f605d7a5ab8c0d781d10c419e73d87c0f5d5c995da1",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa so sánh cuối benefit thành người không tập loại nào trong hai loại để rõ cả sức mạnh lẫn aerobic đều không tập. Giữ30–60 phút và10%–17%/10%–20%; nguồn plain nói tập thêm không tốt hơn nhưng notes nói bằng chứng tập quá nhiều gây hại yếu, không nên giới hạn vì vậy, đã giữ cả hai."
+}

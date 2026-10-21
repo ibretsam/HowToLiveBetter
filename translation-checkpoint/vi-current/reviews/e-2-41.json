@@ -1,0 +1,15 @@
+{
+  "id": "e-2-41",
+  "source_sha256": "7df53ceabc47f6e6d1867e834307264dc6aff0013377beb10b0b237523e975fe",
+  "draft_sha256": "81490d2207e2d4cfff3bc0ebd62cd2c500941ee394f01c4a14ed4c5fec421a6c",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:15/19/86 thử nghiệm,56,675/6461/162,796 người,ít nhất hai năm,omega-6/3,17%,mọi RR và khoảng đúng. Giữ thay bão hòa bằng đa không khác carbohydrate, bằng đơn thiếu dữ liệu; tử vong không đổi, bằng chứng omega-6 thấp và25–30gam/ngày."
+}

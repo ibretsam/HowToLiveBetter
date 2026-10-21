@@ -1,0 +1,15 @@
+{
+  "id": "e-2-38",
+  "source_sha256": "a4760da98399ee4c39c308057f25c2e1ea8939ba67a33dc2725dc35dc8613eb0",
+  "draft_sha256": "58c0e62d5987009185502a6a28f3cbccab43a3575d8077dee58ec786916b8028",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:85,618/61.8/8 năm,thiếu≥2.5 giờ khác cộng dồn>3.5 giờ,ngủ bù đêm đầu tiên,năm kiểu,HR/CI và nhóm4,586 đúng. Giữ hai nhóm không có ý nghĩa không đồng nghĩa hết rủi ro, điểmước lượng>1, không gom cuối tuần,phân biệt lên giường sớm với ngủ dậy muộn và dẫn2-13/3-2."
+}

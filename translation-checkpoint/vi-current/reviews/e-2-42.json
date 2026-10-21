@@ -1,0 +1,15 @@
+{
+  "id": "e-2-42",
+  "source_sha256": "4510fcb15d225bbf8906072116a84e27c722f9d0e336ecad0aa0cfab6660d701",
+  "draft_sha256": "d16719c3c129754600098840fb99f601b1fe9739516a990af7ff90aae7726812",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:chỉ phụ nữ không hút thuốc,10/4 nghiên cứu,1302/1302,7.1vạn/429,năm1996–2009,odds/HR/CI đúng. Sửa 十年以上 từ hơn mười năm thành từ mười năm trở lên; giữ≥hai phần ba/≤một phần ba và≥20 năm. Giữ sai lệch nhớ lại và không có ước lượng riêng cho nhà chỉ dùng khí; không hứa hiệu quả can thiệp nhân quả. Dẫn29 đúng."
+}

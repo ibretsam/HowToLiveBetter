@@ -1,0 +1,15 @@
+{
+  "id": "e-2-28",
+  "source_sha256": "fd325adfb67e3f52fbdb5bde7e3e7f75428433d3d44a4d7e5ceef35df4c0f8fd",
+  "draft_sha256": "8f47e67964c2ad820429e2c03fc78ca3aa726a18f41f36dd812e7a2c444614df",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã soát các ví dụ, chi phí thời gian/nỗ lực lâu dài, RR 1.21/1.50. Phân biệt hai mức phân loại bằng chứng “gợi ý rất mạnh/thuyết phục” với GRADE thấp/rất thấp, không xóa sự khác nhau. Giữ ba tranh luận NOVA, chồng lấn đồ uống có đường/thịt chế biến, thiếu nghiên cứu kết luận ngược; dẫn chiếu 7/18 đủ."
+}

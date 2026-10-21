@@ -1,0 +1,15 @@
+{
+  "id": "e-17-12",
+  "source_sha256": "fe538a37d85f847772ddcd2da65f875cb5bc6fe0e64ea13a48538ef9386f2874",
+  "draft_sha256": "2b005976b18f1c1b4ebfb061cb6a1b801e7a3dc8ce231ddf1255d8f3da1deeca",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: điều kiện con một/giấy chứng nhận/hộ khẩu/tuổi60, Hà Nam≥20 ngày,Phúc Kiến≤10,Quảng Đông5 hoặc≤15,45+15 ngày trọng tài,12333 đúng. Giữ nhận định nguồn rằng hai tỉnh sau cho ít hơn không vi phạm; đây là cách diễn giải nguồn, chưa kiểm chứng pháp lý độc lập. Mốc tháng10/2026 giữ nguyên."
+}

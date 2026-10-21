@@ -1,0 +1,14 @@
+{
+  "id": "e-2-32",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f184c4a0b6d1dfd057414424fb60f5eb44aca6b04896d8d23e6838f45929a4e7",
+  "translator": "pilot_medicine_batch6",
+  "translation": {
+    "title": "Giữ BMI trong khoảng 20–25, thừa cân thì giảm",
+    "cost": "Không tốn tiền. Điều chỉnh ăn uống và vận động đều chiếm thời gian mỗi ngày. Đây là mục tốn ý chí nhất phần này: phải kiểm soát ăn uống và vận động lâu dài; giữ cân sau khi giảm còn khó hơn giảm.",
+    "plain": "Khả năng tử vong thấp nhất trong khoảng BMI 20–25. BMI 27.5–30 cao hơn khoảng một phần năm, 30–35 cao hơn khoảng bốn mươi lăm phần trăm, 35–40 gần gấp đôi. Với người Đông Á có BMI từ 25 trở lên, mỗi tăng 5 thì nguy cơ cao hơn khoảng bốn phần mười.",
+    "benefit": "Gộp dữ liệu cá nhân của 239 nghiên cứu theo dõi về sau, chỉ ghi nhận, không phân nhóm. Phân tích chỉ giữ người đáp ứng ba điều kiện: chưa từng hút thuốc, không có bệnh mạn tính khi tham gia và sống qua 5 năm sau khi tham gia. Kết quả: nguy cơ tử vong thấp nhất ở BMI 20–25. BMI 25–27.5 cao hơn khoảng 7% (HR 1.07), 27.5–30 cao hơn khoảng 20% (HR 1.20), 30–35 cao hơn khoảng 45% (HR 1.45), 35–40 cao hơn khoảng 94% (HR 1.94), 40–60 là 2.76 lần (HR 2.76). Ở người có BMI từ 25 trở lên, mỗi tăng 5 kg/m², nguy cơ trong dân số Đông Á cao hơn khoảng 39% (HR 1.39).",
+    "notes": "Điểm còn tranh luận. Có phía cho rằng hơi béo lại sống lâu hơn. Tổng hợp của họ cho thấy người thừa cân có nguy cơ tử vong thấp hơn khoảng 6%, béo phì nhẹ thấp hơn khoảng 5%. Bất đồng chủ yếu nằm ở việc có loại ba nhóm dữ liệu hay không: người hút thuốc, người đã có bệnh và dữ liệu vài năm đầu sau khi tham gia. Lý do cần loại là người bệnh nặng sẽ gầy đi trước. Sau khi loại ba nhóm này, phân tích gộp 239 nghiên cứu lại thấy nguy cơ do thừa cân. Cũng cần nhớ chưa có thử nghiệm ngẫu nhiên chứng minh bản thân giảm cân có thể giảm tỷ lệ tử vong do mọi nguyên nhân. Lợi ích nêu trên được tính bằng so sánh những người béo gầy khác nhau, không có nghĩa giảm cân sẽ giảm nguy cơ được từng ấy. Người muốn giảm cân không cần tập trung vào giờ ăn; ăn sáng và nhịn ăn gián đoạn 16:8 đều không đem lại lợi ích thêm, xem mục 26 phần 6 (đừng mong ăn sáng hay 16:8 giúp kiểm soát cân nặng).",
+    "extra": ""
+  }
+}

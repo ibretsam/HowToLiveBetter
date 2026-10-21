@@ -1,0 +1,15 @@
+{
+  "id": "e-2-35",
+  "source_sha256": "9507d8c657780c5deb22819ea57584c5153c1371b7a1ae82d07a52be6efc36d7",
+  "draft_sha256": "e00709e8f9998d8af49bc151a48e89bd0ecc51a4cb7b07d36590227b85e47399",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: mỗi ngày thêm nửa quả khác tối đa một quả, đối chứng chưa đến một quả mỗi tháng,52.1/12.9/21.6/172 vạn,33 nhóm,32 năm và HR/RR/CI đúng. Giữ hai phía bằng chứng, bỏ trần300mg không có nghĩa bỏ quan tâm cholesterol, nhận định chưa đo lượng hơn một quả là lời nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-17-3",
+  "source_sha256": "65369848236bff5b486c3a98b7ccb71622bd82edcb0b2353c756853fe42a1d4f",
+  "draft_sha256": "aebef9916cb31adcff3e4ae03fab76d0df55bb36465664c3097cb740956ef809",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: 192 vạn tệ, 7 năm 6 tháng, 60 tuổi trở lên, 6 và 24 trăm triệu USD, hơn 10 vạn USD đúng số và đơn vị. Giữ rõ chưa có nghiên cứu đo hiệu quả quy tắc gia đình; cấp B là căn cứ cơ quan, không phải thử nghiệm quy tắc. Dẫn 4,6,8,13 đúng."
+}

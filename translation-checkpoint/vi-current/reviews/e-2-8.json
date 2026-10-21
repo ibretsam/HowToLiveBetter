@@ -1,0 +1,15 @@
+{
+  "id": "e-2-8",
+  "source_sha256": "ac18bacf3744fbb9af6d96c4ffdcad05e9cfa349549907948ad0e6c1d6e53775",
+  "draft_sha256": "6376fa2bc1e029ee9ce470b93279670cb8d54799d5f284be54d751f634e0453d",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ mẫu tổng38.8vạn so với mẫu tửvong17.96vạn, khác biệt nhai cau có/không thuốc lá theoẤnĐộ/ĐàiLoan và thựcquản. Kiểm RR/CI, giai đoạn bỏ≥20năm; không nhập nhóm hoặc bỏ thời gian."
+}

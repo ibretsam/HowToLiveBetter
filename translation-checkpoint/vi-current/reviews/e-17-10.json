@@ -1,0 +1,15 @@
+{
+  "id": "e-17-10",
+  "source_sha256": "c1d207568e1ed44d837690d54d043a401ab40a0a179570d885601dce577716a6",
+  "draft_sha256": "45995f03d5e597ca928c84308b423a3c87311115bac06c96f3f01b9bf3c07b20",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: số ước tính và chính xác, người/lượt, nhóm tuổi/năm, tỷ lệ nữ/nhập viện và vùng háng so với chi trên đúng. Giữ cách cầm dây chỉ bảo vệ tay không ngăn bị kéo ngã, chưa có dữ liệu so sánh loại dây hay lượng ngã giảm, mức lợi ích nhỏ theo nhận định. Dẫn1-39/40/13 và2-44 đúng."
+}

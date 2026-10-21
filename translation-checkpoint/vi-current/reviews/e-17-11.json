@@ -1,0 +1,15 @@
+{
+  "id": "e-17-11",
+  "source_sha256": "2daa5943aed711a5c21c99fb1d80d48d2480bd3f0e7a11447772ffcbc7b7fc87",
+  "draft_sha256": "0979da372781664db00a275cfba9426390d24642727fb2f0b6207ce61460646e",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: đăng ký trong10 ngày sau tiếp nhận, phí giường12 tháng/phí dịch vụ12 tháng, phạt≤3 vạn, cấm tài khoản cá nhân và hóa đơn khác biên nhận, hạn hoàn tiền/ngày hiệu lực đúng. Sửa kịp hoàn thành kịp thời hoàn. Giữ điều kiện cơ sở mới đang đăng ký, địa phương chặt hơn và cách nguồn ghi sơ thẩm từ6 tháng."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-37",
+  "source_sha256": "4d00ee4013a904acb3c2dded01c7e9378405cc8527f77e1e4070cd6a864dedb8",
+  "draft_sha256": "2087ae0f1d318fcc21056899b3b97a22e5af3a2970df2c23043301ad7f8166ee",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:16 tổng hợp/244 kết cục,SMD vàCI,20–30/<60/>60,1338 người≥56 tuổi,19 năm/926 tử vong,13/7/30% và MR45.3+54.1 vạn đúng. Giữ plain không quá một giờ nhưng benefit dưới60 phút như nguồn; tương quan không chứng minh nhân quả, phần đi tìm nguyên nhân mứcC, đủ dẫn3-11/2-13/3-27."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "intro-2",
+  "source_sha256": "a348dd95d9720f52ec1ff58fd7f49d6899b5dfb56abd20677acf87ee77230047",
+  "draft_sha256": "78fa2a771b70683598d4a4c3461d3cd57bf836fbf689eadd7875f036b9a5e9a9",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ tiêu đề và lời dẫn: đủ47 mục mỗi mục một lần trongbảy nhóm, số12320,7000–8000,BMI20–25,5khẩu phần và7giờ giữ nguyên. Giữ HR/RR quan sát có nhiễu/nhân quả ngược, không hứa làmtheo giảm cùngmức. Ngưỡng uốngtrà từba vàănớt từbốn lần baogồm mốc như nguồn; không bỏ chủđề hay đổi chỉdẫn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-15",
+  "source_sha256": "e8e085b68d8ffedf35086a91bfaa3f6ba04806d2b3c014464e1fde87d043828d",
+  "draft_sha256": "8fa31539043b13aef391f63605605d3905511a1e680287d67fc503473e3c4b4d",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ đối tượng không tập chuyên biệt,3 đợt1–2 phút khác tổng4.4 phút với hai bộ mức giảm khác nhau; tử vong chung/ung thư/tim mạch đầy đủ. Giữ tính quan sát, theo dõi6.9 năm, không áp dụng người tập đều."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-40",
+  "source_sha256": "9e933e025dad211bc6c2ffe98daafaba687f8b3d55362bb094642d9932fb2a53",
+  "draft_sha256": "256f204c66ea8b8bcdc08cdd8891f15b7fecfaa0e698f7afec6d924ddf61413a",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:SC,nhóm1,2010–2022,1.29/0.12–6.58/2.865/2.593 μg/kg,PR/CI,1611/81.7%,aOR1.9/1.8 và khoảng đúng. Giữ nguồn gọi nguy cơ dù số là aOR; không đổi số hoặc loại ước lượng. Giữ kết cục xét nghiệm gan không phải ung thư/tử vong, trung vị dưới giới hạn20μg/kg và khác quản lý/xét nghiệm; dẫn46 đúng."
+}

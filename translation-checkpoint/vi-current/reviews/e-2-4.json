@@ -1,0 +1,15 @@
+{
+  "id": "e-2-4",
+  "source_sha256": "68d147334f79b12d8fee10064065f8a0c89e71d938c605efb7c35d25d5a6e9a2",
+  "draft_sha256": "04ef596b31090f5a50cbfb27a82c5f24ded9a4e20257f2eff1841d22c2533667",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ hai nhóm đều dùng nicotine và hỗ trợ, giảm75% trước ngày bỏ, các mốc4tuần/6tháng vàCI đúng. Nguồn nói tổng quan rút năm2019, gọi thử nghiệm là bằng chứng tốt nhất, khuyên dán trước hai tuần; giữ nguyên và không tự cập nhật căn cứ."
+}

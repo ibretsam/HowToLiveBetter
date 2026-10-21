@@ -1,0 +1,15 @@
+{
+  "id": "e-24-15",
+  "source_sha256": "6daf9c3c9ef066d13b4dd8fdbf69506c543526b8acb2f4418150ceec215f65d2",
+  "draft_sha256": "22b554066fed8eb5e56902d6b6e6ce82d6bc5b48964c60bc2f6ae6f343c11f9f",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: đồng ý trước ngoài cấp cứu, thu quá mức/trùng/tách, hoàn quỹ và phạt1–2 lần khác phạt1–5 vạn khi từ chối sửa, danh mục bảng kê và ngoại lệ DRG đủ. Giữ báo ẩn danh/bảo mật/thưởng, phân biệt hoàn quỹ với hoàn tiền người bệnh, số6 tháng và dẫn5; không hứa khiếu nại chắc chắn lấy lại tiền."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-34",
+  "source_sha256": "b7f542c7d335fa71cc77c77e367c0cf152eb05b75a37f3eaf6eb5bb020bc5ccd",
+  "draft_sha256": "233a8061b7736c42c0cd386e17381a38625d80a82f71a26db631702e80a42101",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã soát sáu trường với 21 quốc gia, 13.6 vạn người, 9.1 năm, 6796 tử vong, tỷ số0.83/CI và P xu hướng0.0052. Giữ khác biệt nguồn: tiêu đề một hai khẩu phần nhưng plain/benefit từ hai khẩu phần trở lên. Giữ nhiễu gia cảnh ở nước thu nhập thấp/trung bình và phương án sữa chua hoặc ít lactose, không ép uống sữa bò."
+}

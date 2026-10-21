@@ -1,0 +1,15 @@
+{
+  "id": "e-17-8",
+  "source_sha256": "682401f2eab6612d6be8bad263f2267dc0b6b350288479933467d8c44363c74c",
+  "draft_sha256": "2ffcdadd66f95671613124e991192b86786e3f1553fd195773f2daa8d34509f0",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường và toàn bộ OR/HR/RR/CI/P, mẫu và thời gian. Giữ OR1.2 cùng21% dù không hoàn toàn khớp, không sửa số nguồn. Giữ độc lập dự báo không chứng minh nhân quả, bất định khoảng trở mình2/4giờ, suy rộng đệm viện sang nhà và nguy cơ nằm sấp; không biến bằng chứng ICU thành thử nghiệm tại nhà."
+}

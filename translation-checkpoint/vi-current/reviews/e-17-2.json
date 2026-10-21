@@ -1,0 +1,15 @@
+{
+  "id": "e-17-2",
+  "source_sha256": "5f15991ab20b3ef9f411fd2aa58046f04a77c8b99c51b974f63299256b41093e",
+  "draft_sha256": "d3b57f3cecca187ce0ba8966c11758d50ed62a278f02d8472c30bbf40594570e",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: sáu hình thức, chữ viết/tên/ngày, từ hai nhân chứng, ký từng trang và mốc 2021 giữ nguyên. Giữ phân biệt người liên quan được luật nêu với thân nhân mà tác giả khuyên tránh; tiêu đề khái quát bản sau thay bản trước nhưng plain/benefit giữ điều kiện mâu thuẫn. Dẫn 25-12 đúng."
+}

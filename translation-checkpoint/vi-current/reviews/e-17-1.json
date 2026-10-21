@@ -1,0 +1,15 @@
+{
+  "id": "e-17-1",
+  "source_sha256": "4e3eb9b40aa9f28b01c93b3b4698d0a87744541fcfc68ec38500945b92d4c87f",
+  "draft_sha256": "f43b6475ca71f915f6824623b2f753c8c635200a39a893534d72de474e5953c5",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: giữ thứ tự giám hộ, chấp thuận của cơ quan cho nhóm cuối, quyền xin tòa trực tiếp hoặc sau khi không đồng ý. Công chứng là khuyến nghị của nguồn; điều luật được trích chỉ yêu cầu văn bản. Không biến quy định Trung Quốc thành quy định Việt Nam."
+}

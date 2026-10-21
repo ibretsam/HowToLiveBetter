@@ -1,0 +1,15 @@
+{
+  "id": "e-2-31",
+  "source_sha256": "eec223a5f58e9dfd9c77582afac09b91fda2c72fe0e7afb5854a97e263d019d9",
+  "draft_sha256": "4884ca8be6ff32ddc6da7ac7e88a37155204b0d5c1d5d37f8dde7147b65b4c21",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ: nhóm 2.95 vạn phụ nữ Thụy Điển, 20 năm, chênh 0.6–2.1 năm, so người không hút tránh nắng với người hút ở nhóm nắng cao nhất. Giữ hạn chế vĩ độ, không áp dụng trực tiếp cho Trung Quốc, suy đoán thể trạng yếu của tác giả, nguy cơ ung thư da và che nắng trưa; không biến số liệu thành khuyến nghị phơi đến cháy nắng."
+}

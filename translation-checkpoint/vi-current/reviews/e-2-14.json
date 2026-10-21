@@ -1,0 +1,15 @@
+{
+  "id": "e-2-14",
+  "source_sha256": "913c73fedb9d586e32fd9d31b9fdf243fa808cb52eb11498535314947f5372dc",
+  "draft_sha256": "bc337adeccba74f9c52ad493be3f0047fb65434f45c8d7ee8c377e985532be05",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa notes người chơi thể thao thành người chơi bóng theo打球, tránh mở rộng phạm vi. Giữ so sánh làm/không làm từng môn, tử vong chung/tim mạch riêng, các tỷ số và kết quả không có ý nghĩa của chạy/bóng đá. Không đổi thành kết luận chạy vô ích."
+}

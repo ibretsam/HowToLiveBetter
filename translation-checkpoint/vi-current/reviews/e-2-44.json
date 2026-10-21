@@ -1,0 +1,15 @@
+{
+  "id": "e-2-44",
+  "source_sha256": "bc257fe9ce73626e9dfa011b646701ed2d14f1975b7212c369bd7416ad87f086",
+  "draft_sha256": "1b5ca54ed3445c7c225c386adc68a7d9cbab3422ef8bdf7a77e306a835547e4a",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:10 nghiên cứu/384vạn/10.1năm,343vạn,59352/34202/15735,các nhóm sống một mình/cùng gia đình,tim mạch/nhồi máu/đột quỵ và RR/HR/OR/khoảng giữ đủ. Giữ24% chưa điều chỉnh, bằng chứng Anh/NaUy/sinh đôi không lặp lại, nguồn gọi nguy cơ dù nghiên cứu Úc báo OR. Không chuyển tương quan thành khuyên nuôi để sống lâu; đủ chi phí dài hạn và dẫn2-11/8-30/17-10."
+}

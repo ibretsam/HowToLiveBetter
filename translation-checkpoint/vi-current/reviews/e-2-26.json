@@ -1,0 +1,15 @@
+{
+  "id": "e-2-26",
+  "source_sha256": "2b86a89c9ef8582ad0239aeb873df9d2b09778456f6b91550b767e8266a79526",
+  "draft_sha256": "de1453481eb77beb4af334ee4b21c77da9752cc62844ac99e1ce909914e41c23",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm đủ tổng quan 201, 3–4 và 7 cốc, NHANES 40 725 người, khung 4:00–11:59 và tỷ lệ 36%/16%, kết cục và CI trước/sau điều chỉnh ngủ. Giữ 400 mg là trần mọi nguồn cho người lớn khỏe mạnh, 200 mg mỗi lần, các cỡ cốc và hàm lượng từng cơ quan. Đối chiếu đủ nghiên cứu đái tháo đường trái chiều, ngưỡng thai kỳ EFSA/Canada khác nhau, ngoại lệ lo âu/mất ngủ là nhận định sách, rung nhĩ sau chuyển nhịp và thiếu chứng cứ rối loạn khác. Không biến quan sát thành nhân quả hay thêm đường chắc chắn triệt tiêu lợi ích."
+}

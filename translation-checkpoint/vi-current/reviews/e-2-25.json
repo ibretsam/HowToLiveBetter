@@ -1,0 +1,15 @@
+{
+  "id": "e-2-25",
+  "source_sha256": "27ac5cb07050058fa5e7dfb01a53c4264ad1d0ec29fa4292070ef0fbf41e726f",
+  "draft_sha256": "1d9241f634aa6393b79d5f0f2c19a97fd835b12a4d7a2200cdddd5ecf1154a8f",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đầy đủ sáu trường: từ ba lần mỗi tuần, 10.09 vạn người, theo dõi 7.3 năm và 1.41 năm không bệnh tim mạch do xơ vữa/1.26 năm tuổi thọ đúng phạm vi. Giữ nghiên cứu chỉ theo dõi và nhiễu hút thuốc/rượu, hai khảo sát độc tố 158/2 và 352/16, phân biệt trà lên men hậu kỳ với trà xanh chiết xuất, giữ khẳng định nguồn về trà pha không có vấn đề gây hại gan và dẫn chiếu 2-30."
+}

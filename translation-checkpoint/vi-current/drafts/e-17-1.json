@@ -1,0 +1,11 @@
+{
+  "id":"e-17-1","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"4e3eb9b40aa9f28b01c93b3b4698d0a87744541fcfc68ec38500945b92d4c87f","translator":"pilot_emergency_batch6",
+  "translation":{
+    "title":"Khi người cao tuổi còn minh mẫn, hãy chỉ định người giám hộ tương lai bằng văn bản",
+    "cost":"Đến cơ quan công chứng làm một văn bản, tốn vài trăm tệ. Nói chuyện với người cao tuổi một lần là có thể thống nhất. Khó ở chỗ mở lời: phải trực tiếp nói đến ngày họ không còn tự lo cho mình được.",
+    "plain":"Khi người cao tuổi còn minh mẫn, bỏ vài trăm tệ đến cơ quan công chứng làm văn bản ghi rõ ai sẽ làm người giám hộ cho họ sau này. Không có văn bản này, đến khi họ không còn tự quyết định được thì áp dụng thứ tự luật định: vợ/chồng trước, rồi cha mẹ và con cái, rồi người thân gần khác. Gia đình tranh chấp về việc này thì ủy ban cư dân, ủy ban thôn, cơ quan dân chính hoặc tòa án chỉ định.",
+    "benefit":"Bộ luật Dân sự quy định người trưởng thành minh mẫn, có thể tự quyết định (pháp luật gọi là ‘người trưởng thành có đầy đủ năng lực hành vi dân sự’) có thể thỏa thuận trước với người khác về người giám hộ của mình trong tương lai. Có thể thỏa thuận với người thân gần, hoặc cá nhân, tổ chức khác sẵn lòng làm người giám hộ. Thống nhất xong phải ‘xác định người giám hộ của mình bằng văn bản’. Sau này không thể quyết định, hoặc chỉ quyết định được một phần (pháp luật gọi là ‘mất hoặc mất một phần năng lực hành vi dân sự’), người đã ghi trong văn bản sẽ đảm nhiệm. Không có văn bản này thì theo thứ tự người giám hộ tại Điều hai mươi tám Bộ luật Dân sự: vợ/chồng; cha mẹ, con cái; người thân gần khác; rồi cá nhân, tổ chức khác tự nguyện và được ủy ban cư dân, ủy ban thôn hoặc cơ quan dân chính đồng ý. Điều ba mươi mốt Bộ luật Dân sự quy định, tranh chấp ai làm người giám hộ thì ủy ban cư dân, ủy ban thôn hoặc cơ quan dân chính chỉ định; không đồng ý có thể xin tòa chỉ định, cũng có thể trực tiếp xin tòa.",
+    "notes":"Văn bản này gọi là giám hộ theo thỏa thuận, tức người do mình chỉ định trước. Người này được ưu tiên hơn thứ tự giám hộ mặc định theo luật. Người cao tuổi sống một mình, con cái ở xa hoặc quan hệ gia đình phức tạp càng cần làm trước. Nên đến cơ quan công chứng để công chứng.",
+    "extra":""
+  }
+}

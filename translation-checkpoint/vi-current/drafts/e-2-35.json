@@ -1,0 +1,11 @@
+{
+ "id":"e-2-35","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"9507d8c657780c5deb22819ea57584c5153c1371b7a1ae82d07a52be6efc36d7","translator":"pilot_employment_batch6",
+ "translation":{
+  "title":"Không cần bỏ trứng, mỗi ngày không quá một quả là được",
+  "cost":"Không tốn tiền, cũng không mất thời gian.",
+  "plain":"Mỗi ngày ăn thêm nửa quả trứng nguyên có liên quan đến khả năng tử vong trong cùng thời gian cao hơn khoảng 7%. Thay nửa quả đó bằng lòng trắng, cá, thịt gia cầm hoặc các loại hạt thì nguy cơ tử vong lại thấp hơn. Nhưng một nhóm nghiên cứu khác không thấy mối liên hệ giữa ăn không quá một quả trứng mỗi ngày và bệnh tim mạch, nên không cần bỏ trứng.",
+  "benefit":"Một nghiên cứu theo dõi 52.1 vạn người ở Mỹ ghi nhận 12.9 vạn người tử vong. Mỗi ngày ăn thêm nửa quả trứng nguyên đi kèm nguy cơ tử vong cao hơn khoảng 7% (tỷ số nguy cơ 1.07, 95% CI 1.06–1.08, đây là khoảng tin cậy). Thay nửa quả trứng nguyên đó bằng lượng tương đương lòng trắng, thịt gia cầm, cá, sản phẩm sữa hoặc các loại hạt và đậu thì nguy cơ tử vong thấp hơn; tử vong do tim mạch, ung thư và bệnh hô hấp đều thấp hơn. Bằng chứng phía đối lập: ba nghiên cứu lớn ở Mỹ gồm 21.6 vạn người, theo dõi lâu nhất 32 năm. Người ăn ít nhất một quả trứng mỗi ngày so với người ăn chưa đến một quả mỗi tháng không có khác biệt về nguy cơ bệnh tim mạch (HR 0.93, 95% CI 0.82–1.05). Cùng bài gộp 33 nhóm dữ liệu, 172 vạn người, cho thấy mỗi ngày thêm một quả trứng cũng không làm thay đổi nguy cơ bệnh tim mạch (RR 0.98, 0.93–1.03). Tác giả kết luận ăn tối đa một quả trứng mỗi ngày không liên quan đến bệnh tim mạch.",
+  "notes":"Tranh luận rất lớn: cũng có nghiên cứu theo dõi đông người lâu dài và tổng hợp nhiều nghiên cứu không thấy ăn một quả trứng mỗi ngày liên quan đến bệnh tim mạch. Hướng dẫn ăn uống của Mỹ phiên bản 2015 bỏ trần cholesterol 300 miligam mỗi ngày. Nhưng hướng dẫn đồng thời nói điều đó không có nghĩa cholesterol không quan trọng; trong một chế độ ăn lành mạnh vẫn cần ăn ít nhất có thể. Một quả mỗi ngày hiện không thấy liên quan đến bệnh tim mạch. Cụm “không quá một quả mỗi ngày” trong tiêu đề dựa trên kết quả này; lượng nhiều hơn chưa được nghiên cứu trực tiếp đo lường.",
+  "extra":""
+ }
+}

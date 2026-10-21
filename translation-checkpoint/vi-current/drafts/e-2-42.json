@@ -1,0 +1,14 @@
+{
+  "id": "e-2-42",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "4510fcb15d225bbf8906072116a84e27c722f9d0e336ecad0aa0cfab6660d701",
+  "translator": "pilot_employment_batch6",
+  "translation": {
+    "title": "Xào, chiên, rán thì bật máy hút mùi từ lúc bật bếp đến khi nấu xong",
+    "cost": "Nhà đã có máy hút mùi thì chỉ tốn thêm chút điện. Chưa có thì mua và lắp mất vài trăm đến hơn nghìn nhân dân tệ. Khó ở chỗ lần nào bật bếp cũng nhớ bật máy, đừng ngại ồn rồi tắt.",
+    "plain": "Phụ nữ Trung Quốc không hút thuốc, khi nấu ăn không bật hoặc ít bật máy hút mùi có nguy cơ ung thư phổi khoảng gấp đôi người thường bật. Từng ở nhà có bếp thông gió kém cũng đi kèm nguy cơ cao hơn khoảng một nửa, rõ nhất ở nhà đốt than.",
+    "benefit": "Tổng hợp 10 nghiên cứu bệnh-chứng, đối tượng đều là phụ nữ Trung Quốc không hút thuốc. Bệnh-chứng là so người mắc ung thư phổi với người không mắc rồi hỏi lại thói quen trước đây. Người tiếp xúc khói dầu nấu ăn có odds ung thư phổi khoảng 1.74 lần, tức tỷ lệ giữa khả năng mắc và không mắc (tỷ số chênh, 95% CI 1.57–1.94, khoảng tin cậy). Trong đó 4 nghiên cứu so người tiếp xúc khói dầu mà không dùng máy hút mùi, khoảng 2.11 lần (1.54–2.89). Một nghiên cứu Đài Loan so 1302 phụ nữ không hút thuốc mắc ung thư phổi với 1302 người không mắc. Chỉ xét người nấu ăn từ mười năm trở lên: người dùng máy hút mùi trong ít nhất hai phần ba số năm so với người dùng trong không quá một phần ba số năm có nguy cơ thấp hơn khoảng một nửa (tỷ số chênh 0.49, 0.32–0.76). Một nghiên cứu theo dõi tiến cứu ở Thượng Hải gồm 7.1 vạn phụ nữ không hút thuốc, từ 1996 đến 2009 phát hiện 429 ca ung thư phổi. Người tự báo từng ở nhà có bếp thông gió kém có nguy cơ ung thư phổi cao hơn khoảng 49% (HR 1.49, 1.15–1.95). Đốt than và thông gió kém từ 20 năm trở lên có nguy cơ khoảng 2.03 lần (HR 2.03, 1.35–3.05). Chỉ xét từng đốt than hay chưa thì không thấy khác biệt (HR 1.03, 0.84–1.26). Dùng loại dầu nào khi xào cũng không thấy khác biệt.",
+    "notes": "Điểm còn tranh luận: số liệu ủng hộ bật máy hút mùi chủ yếu từ nghiên cứu bệnh-chứng. Người bệnh nhớ lại quá khứ sau khi được chẩn đoán dễ khai ít số lần bật máy hơn thực tế, nên con số có thể bị phóng đại. Trong nghiên cứu theo dõi tiến cứu ở Thượng Hải, nguy cơ tăng chủ yếu ở gia đình vừa đốt than vừa thông gió kém. Nhà chỉ dùng khí đốt bật hay không bật chênh bao nhiêu, nghiên cứu không đưa được con số riêng. Vì vậy, bằng chứng chỉ xếp mức B, lợi ích xếp lớn theo chênh lệch nguy cơ khoảng gấp đôi. Không đốt than, củi khi nấu ăn xem mục 29 phần này (nấu ăn, sưởi không đốt than và củi). Người hưởng lợi chủ yếu là người thường nấu ăn trong nhà.",
+    "extra": ""
+  }
+}

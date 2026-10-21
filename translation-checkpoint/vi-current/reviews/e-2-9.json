@@ -1,0 +1,15 @@
+{
+  "id": "e-2-9",
+  "source_sha256": "d9dba86d0f78b4cb81b90f97363b886c233000afcdf7888b82657bfb6f08650f",
+  "draft_sha256": "554068e390b54eb56460f1f6552de1545664ea47995887ec85c349b7ba2b984a",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ dân số nông thôn Trung Quốc từng đột quỵ hoặc tuổi≥60 có tăng huyết áp, theo dõi4.74 năm; RR tử vong/đột quỵ/tim mạch và khác biệt kali không có ý nghĩa đúng. Giữ tranh luận PURE, natri thải ra thay vì lượng ăn, <3g và≥7g, ngoại lệ thận/thuốc giữ kali."
+}

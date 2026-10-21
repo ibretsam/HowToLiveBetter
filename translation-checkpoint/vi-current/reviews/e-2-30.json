@@ -1,0 +1,15 @@
+{
+  "id": "e-2-30",
+  "source_sha256": "11565f8af455302e0b8b4438d6bd42064d54dfdad4fbadf7dbc1c14d1d677b05",
+  "draft_sha256": "2ba5c080175006ec7256bb7c79bcd7e15f9ecfd8e705a6f8019e1c3604ace32c",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Kiểm đủ bệnh-chứng 300/571 và các odds ratio/CI, đối chiếu chưa tới 2 phút với từ 4 phút trở lên. Giữ mốc từ 65 ℃, từ 15 gam/ngày và đối chứng dưới 15, 45.6 vạn người/9.2 năm và tương tác hút thuốc/rượu. Nguồn khẳng định cà phê không gây ung thư: giữ nguyên mức chắc chắn nguồn, không cập nhật hay sửa thành đánh giá mới."
+}

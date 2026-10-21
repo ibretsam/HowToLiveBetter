@@ -1,0 +1,15 @@
+{
+  "id": "e-24-13",
+  "source_sha256": "9dce90b7b9c5d2f4935085816a31f5376e834eff20ab56b285086e28d26dfb08",
+  "draft_sha256": "d0543af193955985138d58addb2cc606f5c435ff5af075dc95c0d0710fadec3a",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: thuốc đàm phán giá vào danh mục khác vào viện, hai kênh có điều kiện tỉnh và nhà thuốc chỉ định, đơn điện tử/chính sách thống nhất/không viện hạn mức đúng. Giữ các số hiệu2021/28/182/2025/33, thời hạn một nhà thuốc và1/1/2026; người được kê đơn phải trùng người dùng thuốc đúng ý ngữ cảnh. Giữ hạn chế chưa vào hai kênh chỉ mua tại viện và mức tiết kiệm là ước tính."
+}

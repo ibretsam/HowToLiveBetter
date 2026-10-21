@@ -1,0 +1,15 @@
+{
+  "id": "e-17-5",
+  "source_sha256": "1d7f204702216121515bad1cd806285c76841184d2a373ec071fd00a20b3e1fc",
+  "draft_sha256": "717a209659e4fb34de7d7445c31e40fa777ed657d3f249f7316518cbdc987750",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường, năm nhóm thủ đoạn, các số 1.36/132.07 trăm triệu,2100/11 vạn,15/10 năm3 tháng,40/62/12 vạn và các dẫn chéo. Tiêu đề nguồn khái quát rộng hơn plain có điều kiện hứa lợi ích; khẳng định tiền không lấy lại được cũng mạnh hơn nội dung điều luật được dẫn. Giữ nguyên khác biệt nguồn, không kiểm chứng pháp lý độc lập."
+}

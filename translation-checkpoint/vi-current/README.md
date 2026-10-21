@@ -93,6 +93,12 @@ mới, 78 cập nhật và 8 rà soát lại. Có 94 hồ sơ rà soát độc l
 trong `batch-5-report.json`. Giữ nguyên 254 bản nháp và 254 hồ sơ rà soát của
 bốn đợt trước.
 
+Đợt 6: toàn bộ 47 mục chương 2, 13 mục chương 17 và 15 mục chương 24, cộng
+ba lời dẫn và bài hướng dẫn sau chẩn đoán bệnh mạn tính gồm 37 việc. Tổng 75
+mục: 13 mục mới, 50 cập nhật và 12 rà soát lại. Có 79 hồ sơ rà soát độc lập mới;
+báo cáo nằm trong `batch-6-report.json`. Giữ nguyên 348 bản nháp và 348 hồ sơ
+rà soát của năm đợt trước.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

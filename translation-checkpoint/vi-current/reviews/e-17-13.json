@@ -1,0 +1,15 @@
+{
+  "id": "e-17-13",
+  "source_sha256": "f0a2d5d3ce95d8e7cf30396c7ade9639fe339bc9bf4f032575ebf1932343383b",
+  "draft_sha256": "fd07b8c0e2f6352428fe5986170948562b651a61953b6c5f459e2454cce748c8",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: bốn nhóm nguyên nhân, khám/xét nghiệm/nhận thức,39 nghiên cứu/5620 người,56.3/20.3/9/0.6/0.29/0.31%,mốc2002/2003/2024,15 cơ quan và≥65 tuổi đúng. Giữ không chứng minh sống lâu, không tự ngừng thuốc, lên kế hoạch giám hộ khi còn năng lực và đủ dẫn chéo13-10/33-17/33-18/1/2."
+}

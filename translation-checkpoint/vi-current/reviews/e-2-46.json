@@ -1,0 +1,15 @@
+{
+  "id": "e-2-46",
+  "source_sha256": "1db0fcdbc0cfa81a832f8b3edf7760be421ac739ab6de3667bb8e3560986681b",
+  "draft_sha256": "36b0701b7856f0b2f000ee66c3ce4577204ad8108911ee79f86c5cf466d75daf",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:18244 người/7vạn người-năm/55ca/50so267,các RR vàCI,3.4/7.3/59.4/3.8,19.3pg/mg và<0.5,năm1986/1989/2009,các thập niên và nhóm≤35 tuổi đúng. Giữ65%/83% ước tính,30lần và khoảng5300–14400/1990–4430; chưa nghiên cứu trực tiếp hành động bỏ mốc, suy luận hiện nay ít độc tố, ngoại lệ rau cứng ít nước cắt≥2.5cm và đủ dẫn1-14/2-40/1-48/2-22."
+}

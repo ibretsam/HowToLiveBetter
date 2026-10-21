@@ -1,0 +1,15 @@
+{
+  "id": "e-2-27",
+  "source_sha256": "89053490c62608d32ac8f99adb42c0050f723245e7a4cd2b677c7003561c96aa",
+  "draft_sha256": "a5dd4e4144224b9c310fb4a2e0894282c7280ab7807a6070e0f7cbf46188df4f",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Giữ đầy đủ 5 khẩu phần khoảng 400 g, mức thêm 200 g, RR 0.90 và HR 0.87, 2 trái cây/3 rau; giữ khác biệt nguồn giữa tiếp tục lợi ích đến 800 g và nghiên cứu Mỹ không thêm lợi ích sau 5 phần. Notes giữ nhiễu thu nhập, giáo dục, vận động và đánh giá 10% là giới hạn trên của nguồn."
+}

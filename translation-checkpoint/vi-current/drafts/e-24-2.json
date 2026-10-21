@@ -1,0 +1,14 @@
+{
+  "id":"e-24-2",
+  "source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256":"2d11058c3e60cd4fb3543c73a8f239a0aaf10c4627aa37ea70f15b8b5a668350",
+  "translator":"pilot_employment_batch6",
+  "translation":{
+    "title":"Trong cùng khu vực quản lý quỹ bảo hiểm y tế, tức nơi tham gia bảo hiểm, bệnh viện càng ở tuyến thấp thì tỷ lệ thanh toán càng cao, chênh khoảng 10 điểm phần trăm",
+    "cost":"Không tốn tiền. Khó ở chỗ kiềm chế việc chạy đến bệnh viện lớn.",
+    "plain":"Theo yêu cầu trong văn bản, với cùng một khoản viện phí, bệnh viện càng ở tuyến thấp thì tỷ lệ được bảo hiểm thanh toán càng cao. Các địa phương phải tạo khoảng cách giữa các mức; mỗi tuyến lên cao chênh khoảng mười điểm phần trăm. Ví dụ viện phí 1 vạn nhân dân tệ, tỷ lệ thanh toán giảm từ tám phần mười xuống bảy phần mười thì tiền tự trả tăng từ 2000 lên 3000 nhân dân tệ. Phần quỹ bảo hiểm y tế tăng thêm cũng được ưu tiên cho tuyến cơ sở.",
+    "benefit":"Văn bản yêu cầu các địa phương tạo khoảng cách giữa mức thanh toán viện phí ở các cơ sở y tế khác cấp, về nguyên tắc chênh khoảng 10 điểm phần trăm mỗi cấp. Theo mức chênh này, với cùng một khoản viện phí, mỗi lần lên một tuyến bệnh viện, bạn tự trả thêm khoảng 10% số tiền thuộc phạm vi được thanh toán. Ví dụ viện phí được thanh toán là 1 vạn nhân dân tệ, tỷ lệ thanh toán giảm từ 80% xuống 70% thì tiền tự trả tăng từ 2000 lên 3000 nhân dân tệ. Khoản 1000 nhân dân tệ trả thêm bằng một phần mười tổng chi phí, nhưng nhiều hơn một nửa so với số tiền ban đầu bạn tự trả. Tỷ lệ thực tế khác nhau theo địa phương; ngưỡng tự trả và mức trần thanh toán cũng làm thay đổi khoản chênh lệch. Đây chỉ là minh họa theo mức 10 điểm phần trăm trong văn bản. Phần quỹ bảo hiểm y tế tăng thêm hằng năm cũng được ưu tiên cho tuyến cơ sở.",
+    "notes":"Với cùng một khoản viện phí, phần tự trả ở tuyến cơ sở và ở bệnh viện cấp ba có thể chênh vài nghìn nhân dân tệ. Bệnh có thể xử lý xong tại tuyến cơ sở thì đừng lên tuyến trên; điều này không có nghĩa mọi bệnh đều phải khám ở cơ sở cộng đồng.",
+    "extra":""
+  }
+}

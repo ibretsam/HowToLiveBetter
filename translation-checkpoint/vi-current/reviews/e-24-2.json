@@ -1,0 +1,15 @@
+{
+  "id": "e-24-2",
+  "source_sha256": "2d11058c3e60cd4fb3543c73a8f239a0aaf10c4627aa37ea70f15b8b5a668350",
+  "draft_sha256": "20482cd6449354267d258b198a65d4349ac8e744ec5c7ca2eb2a3750d3e8ca53",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: 10 điểm phần trăm khác 10%; ví dụ 1 vạn,80%/70%,2000/3000,1000 và tăng một nửa đều đúng. Giữ đây là yêu cầu nguyên tắc/minh họa, tỷ lệ thực tế và ngưỡng/trần thay đổi theo địa phương; không nói mọi bệnh phải khám ở cơ sở."
+}

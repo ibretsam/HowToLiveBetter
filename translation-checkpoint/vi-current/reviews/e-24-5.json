@@ -1,0 +1,15 @@
+{
+  "id": "e-24-5",
+  "source_sha256": "6a623edcd6d74e5c164f54424fa6cc1ddc70e422a2388e0f0b319dd087d97efb",
+  "draft_sha256": "c6c7d2d03dc6cffd7b53a25f9f9527ad1a420f27d1ecf81c366de2d8dbb3d298",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: quyền xem/sao chụp, phạm vi hồ sơ đầy đủ, bộ phận tiếp nhận, chỉ thu chi phí sao chụp và công khai phí, danh sách Điều mười sáu, thứ tự thời gian và dẫn chương 16 đúng. Giữ cách nguồn ghi không tốn tiền rồi cho phép phí sao chụp, không xóa ngoại lệ."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-2-22",
+  "source_sha256": "d0d37ba34947c4c26ae1efa0a3e0c990bcf183df33d020bcae911b7e994fd16e",
+  "draft_sha256": "d0cd1afdb920255ba6670b5806b3bd801d362875730a357dd6e8ef4593145c36",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Thêm so với trong plain để so sánh một phần năm rõ nghĩa. Giữ 28 gam, chi phí nhân dân tệ, 11.9 vạn người và hơn 300 vạn người-năm, toàn bộ tần suất/ước lượng/CI; từ 7 lần trở lên bao gồm ngưỡng. Giữ giải thích người-năm của nguồn và giới hạn nhiễu do lối sống, không chuyển quan sát thành thử nghiệm."
+}

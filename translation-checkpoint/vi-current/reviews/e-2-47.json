@@ -1,0 +1,15 @@
+{
+  "id": "e-2-47",
+  "source_sha256": "278c2aa709831ad17c73306677b4f413a93253485d16b33409963070664cbe2d",
+  "draft_sha256": "7c2f709848c1bc726631cfcae2f389e862b7c4ceea5c3831996a76253a3064e0",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: IARC2009/1994 vànhóm1/2A,các OR/RR/CI,mẫu26thử nghiệm/3340người và36nghiên cứu,phân biệt điều tra2014–15/ước2020/mốc2018–22 đúng. Sửa chín phần mười以上 thành từ chín mươi phần trăm trở lên; sửa tổng15 cơ quan gồm Cục thay cách nói dễ thành16. Giữđông≤âm20℃ liên tục≥7ngày,tâm≥70℃ trong≥10phút,25mg/kg/lần×3/ngày×2ngày,98.5% dự đoán, bác sĩ chọnliều/cẩn trọngấu trùngsándây. Giữ chưa đo trực tiếp xét nghiệm rồi trị giảmungthư và đủ dẫn1-14/45,2-46."
+}

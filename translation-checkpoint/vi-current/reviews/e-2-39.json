@@ -1,0 +1,15 @@
+{
+  "id": "e-2-39",
+  "source_sha256": "444d345ecf00e4e5667047346383a3f27aa5cb3638de229ea07a771604da5836",
+  "draft_sha256": "30e85cc43e16da436de878cb09d240a70e7da2c34c366d2c6a9b9fa088f1ba1b",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:23 nghiên cứu, tăng theo mỗi5 năm và từng loại mắc/tử vong giữ HR/RR/CI đầy đủ; nhóm ung thư12,132/8,202,20 năm/11–20 năm,59% và điều chỉnh mất ý nghĩa thống kê đúng. Giữ không khuyên ai cũng đổi việc,7000–12000 lux,sáu ca/bốn ngày,50/67 người,ba biện pháp sáng/tối/kính và chưa chứng minh giảm tim mạch. URL tài liệu và dẫn1/12/38 giữ nguyên."
+}

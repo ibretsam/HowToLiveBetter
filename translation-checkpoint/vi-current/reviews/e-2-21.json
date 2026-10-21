@@ -1,0 +1,15 @@
+{
+  "id": "e-2-21",
+  "source_sha256": "7d0613c1ba94afe6e8b3ed746eb547af6e043c105f8f29e2d405e2a7ba46648c",
+  "draft_sha256": "29a7c4dd069047343afd01262062fa596bdd569dd5d1da082ece02ee0ffb4e73",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa mỗi điều trị thành cứ điều trị cho tự nhiên. Giữ can thiệp không quá 5 lần, tổng dưới 60 phút, số người/thử nghiệm, mức uống ban đầu, đơn vị gam và miligam, CI và lợi ích thêm trên nền can thiệp tâm lý xã hội. Nguồn plain gộp hai thuốc vào ngăn uống quá nhiều, còn benefit phân biệt acamprosate ngăn mọi lần uống và naltrexone ngăn uống nhiều; bản dịch giữ đúng từng trường, không tự hòa giải. Giữ phạm vi kê đơn ở Trung Quốc và tham chiếu mục 20."
+}

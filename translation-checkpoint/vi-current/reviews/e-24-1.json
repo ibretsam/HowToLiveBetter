@@ -1,0 +1,15 @@
+{
+  "id": "e-24-1",
+  "source_sha256": "9b0125206da942a42466e47ec88b5e2a7166431580c1efa9a7a2e253dd4fa0d1",
+  "draft_sha256": "8e5dfb00b7153fc5febf6ee884aef3e60279409c7d0fa277a8fea7dffca9e4c4",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: phân biệt ngưỡng tự trả với tỷ lệ chi trả; quy tắc địa phương, ví dụ Tứ Xuyên 600/800/200, chuyển xuống trong cùng đợt bệnh và 12 tuần giữ đủ. Nguồn pháp lý Trung Quốc được giữ nguyên, không xác nhận đây là quy tắc tại Việt Nam."
+}

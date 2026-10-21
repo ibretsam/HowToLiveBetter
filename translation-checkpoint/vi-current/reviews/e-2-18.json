@@ -1,0 +1,15 @@
+{
+  "id": "e-2-18",
+  "source_sha256": "a89def16cd6930543e202827ba3afd7de5d22685883267d27fe89805c8a97847",
+  "draft_sha256": "4b6e17a0dd3fd2d6694b940cc20379a98e3bc7467692b5675d621c635e341d91",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường, các loại thịt và hai cách phân tích theo nhóm ăn nhiều nhất hoặc mỗi khẩu phần thêm. Giữ RR 1.23/1.29/1.10 và việc thịt đỏ chưa chế biến không đạt ý nghĩa thống kê. Giữ tranh luận GRADE/NutriRECS, khuyến nghị yếu của nguồn và sự phân biệt độ chắc chắn với hướng tác động."
+}

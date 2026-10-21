@@ -1,0 +1,15 @@
+{
+  "id": "e-24-12",
+  "source_sha256": "019449f63ec00730fc80e07d02dee094bb0fce8f9737bd500426f7f27715427b",
+  "draft_sha256": "a128970f6513c2fad2382b4f3610e20202ba60ad2d51d0837e1e66ecdba3f382",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: ba phần giá khác nhau,4500 chỉ dịch vụ công và ngoại lệ tối đa20%,trụ/mão và hạng mục ngoài gói, trung vị khác bình quân, các khoảng548–1855/100–656 và các mốc đúng. Giữ quyền lợi bảo hiểm tùy mục/địa phương và tài khoản cá nhân chưa thống nhất; lợi ích vài nghìn là nhận định nguồn."
+}

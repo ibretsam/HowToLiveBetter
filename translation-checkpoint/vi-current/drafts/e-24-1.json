@@ -1,0 +1,14 @@
+{
+  "id":"e-24-1",
+  "source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256":"9b0125206da942a42466e47ec88b5e2a7166431580c1efa9a7a2e253dd4fa0d1",
+  "translator":"pilot_employment_batch6",
+  "translation":{
+    "title":"Bệnh thường gặp thì khám ở cơ sở cộng đồng trước; chuyển từng tuyến từ cơ sở lên thì ngưỡng tự trả khi nằm viện được tính tiếp",
+    "cost":"Không tốn tiền. Phải đến cơ sở y tế cộng đồng trước một lần. Khó ở chỗ kiềm chế việc đến đăng ký khám chuyên gia ngay.",
+    "plain":"Khám ở cơ sở cộng đồng trước, rồi được chuyển lên bệnh viện lớn để nằm viện thì phần tiền phải tự trả ban đầu có thể được tính tiếp, không phải trả lại từ đầu. Cách tính cụ thể do từng địa phương quy định; Tứ Xuyên chỉ yêu cầu trả thêm phần chênh lệch ngưỡng tự trả giữa hai bệnh viện. Nếu được chuyển từ bệnh viện lớn về cơ sở cộng đồng để tiếp tục nằm viện, trong cùng đợt bệnh cũng không tính lại ngưỡng này.",
+    "benefit":"Người tham gia bảo hiểm được chuyển từng tuyến từ cơ sở lên có thể được tính tiếp ngưỡng tự trả khi nằm viện ở bệnh viện tuyến trên. Ngưỡng tự trả là phần tiền mỗi lần nằm viện bạn phải tự bỏ ra trước; trả đủ mức đó thì bảo hiểm y tế mới bắt đầu thanh toán. Văn bản của Văn phòng Quốc vụ viện không nêu cách tính tiếp cụ thể mà để từng địa phương quy định. Tứ Xuyên chỉ yêu cầu trả phần chênh lệch ngưỡng giữa hai bệnh viện: bệnh viện y học cổ truyền cấp huyện có ngưỡng tự trả 600 nhân dân tệ, chuyển sang bệnh viện nhân dân cấp huyện có ngưỡng 800 nhân dân tệ thì chỉ cần trả thêm 200 nhân dân tệ. Người đang nằm viện được chuyển từ bệnh viện tuyến trên về tuyến cơ sở không bị đặt thêm ngưỡng tự trả trong cùng một đợt bệnh.",
+    "notes":"Quy tắc chuyển tuyến do từng tỉnh, thành phố và liên hiệp y tế quy định riêng; trước khi đi hãy hỏi cơ sở y tế cộng đồng. Bệnh mạn tính ở giai đoạn ổn định thì đừng tiếp tục đến bệnh viện lớn chỉ để lấy đơn thuốc, vì các lượt khám ngoại trú thông thường này ở bệnh viện lớn sẽ dần được cắt giảm. Cơ sở cộng đồng có thể kê thuốc dùng trong 12 tuần một lần; xem mục 5 phần 16 (cơ sở cộng đồng kê một lần đủ thuốc cho 12 tuần).",
+    "extra":""
+  }
+}

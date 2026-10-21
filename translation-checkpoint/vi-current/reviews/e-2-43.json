@@ -1,0 +1,15 @@
+{
+  "id": "e-2-43",
+  "source_sha256": "1b8e0c42aedf81a2ace730df5e6a383320a5e60212b9a74e4466a6431b600091",
+  "draft_sha256": "8ba7ad9757e53f640f5d5d79f81bdacf60a807a7b86e3f8792a3b427d02abde8",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:24/3329,16608 người50–79,5.2 năm; phân biệt hormone uống/phối hợp/cắt tử cung, số tuyệt đối mỗi1vạn mỗi năm7/8/8/8 và giảm6/5; mọi OR/HR/CI giữ đủ. Giữ13/18 năm khác giai đoạn dùng thuốc và phân nhóm tuổi,nguy cơ<1/500,≥65 tuổi,4năm/9→11–30 trên nghìn; khuyến nghịD và kết cục triệu chứng không phải tuổi thọ. Nguồn plain khái quát nguy cơ hơn nhóm/phác đồ cụ thể trong benefit; không tự sửa nguồn."
+}

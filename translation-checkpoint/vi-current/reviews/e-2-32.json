@@ -1,0 +1,15 @@
+{
+  "id": "e-2-32",
+  "source_sha256": "f184c4a0b6d1dfd057414424fb60f5eb44aca6b04896d8d23e6838f45929a4e7",
+  "draft_sha256": "894a768f96f9187d04d94adc04507be34ce622e8a2592ee2028b727fb225fd74",
+  "reviewer": "pilot_employment_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã sửa cách nói bốn phần mười rưỡi thành bốn mươi lăm phần trăm để đọc tự nhiên, không đổi giá trị. Soát đủ các khoảng BMI/HR, mức tăng mỗi 5 kg/m² ở BMI từ 25, và ba điều kiện được giữ đồng thời trong mẫu 239 nghiên cứu. Giữ kết quả phản đối, lý do loại hút thuốc/bệnh sẵn/các năm đầu, và không có thử nghiệm ngẫu nhiên chứng minh giảm cân tự nó giảm tử vong. Dẫn chiếu 6-26 và 16:8 đầy đủ."
+}

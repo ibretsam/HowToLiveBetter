@@ -1,0 +1,15 @@
+{
+  "id": "e-2-24",
+  "source_sha256": "e30e00aa6b639c9b47c9f156ac8f5f74766acad02a593f1240f31f69d44d421b",
+  "draft_sha256": "fb629102aa19c32ff32ea35637a8e18ffdced4c7757e245694a304f287578e4b",
+  "reviewer": "pilot_emergency_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ 90 g/3 khẩu phần, khoảng 200 g ở plain và 210–225 g ở benefit, RR 0.83/0.92, mức tăng một khẩu phần và I² 83%. Giữ nhận xét nguồn về nhiễu, kết quả không đồng nhất và đổi một nửa; không tự sửa hay bổ sung lời khuyên."
+}

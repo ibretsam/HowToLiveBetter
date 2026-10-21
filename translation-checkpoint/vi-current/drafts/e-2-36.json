@@ -1,0 +1,11 @@
+{
+ "id":"e-2-36","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"ddbfbd7bd84db37aeece9b4cbea320e0cd0a3086e5e40082a54d7ff6aa72101d","translator":"pilot_employment_batch6",
+ "translation":{
+  "title":"Có điều kiện thì ngâm bồn, đừng chỉ tắm vòi sen",
+  "cost":"Tốn thêm chút tiền nước và điện. Mỗi lần nửa giờ.",
+  "plain":"Trong một nghiên cứu ở Nhật, người ngâm bồn gần như mỗi ngày có nguy cơ biến cố tim mạch thấp hơn khoảng 28%, xuất huyết não thấp hơn khoảng 46% so với người ngâm chưa đến hai lần mỗi tuần.",
+  "benefit":"Một nghiên cứu tại Nhật gồm 3.0 vạn người từ 40 đến 59 tuổi, theo dõi 19 năm, ghi nhận 2097 biến cố tim mạch. Người ngâm bồn gần như mỗi ngày so với người ngâm không quá hai lần mỗi tuần có nguy cơ biến cố tim mạch thấp hơn khoảng 28% (tỷ số nguy cơ 0.72, 95% CI 0.62–0.84, đây là khoảng tin cậy). Bệnh mạch vành thấp hơn khoảng 35% (0.65, 0.45–0.94), đột quỵ thấp hơn khoảng 26% (0.74, 0.62–0.87), xuất huyết não thấp hơn khoảng 46% (0.54, 0.40–0.73).",
+  "notes":"Điểm còn tranh luận: kết quả này thu được ở dân số Nhật và trong văn hóa tắm bồn của họ; phần lớn gia đình Trung Quốc không có điều kiện ngâm bồn hằng ngày. Nước cũng đừng quá nóng và đừng ngâm quá lâu. Với người cao tuổi và người có bệnh tim mạch, mạch máu não, nước quá nóng hoặc ngâm quá lâu lại nguy hiểm. Năm 2024, Nhật có 7776 người chết đuối trong bồn tắm. Cơ quan Bảo vệ người tiêu dùng Nhật cho biết nguyên nhân thường gặp là chênh lệch nhiệt độ lớn giữa trong nhà và phòng tắm vào mùa đông, hoặc ngâm nước nóng quá lâu. Uống rượu thì đừng ngâm bồn, tắm suối nóng hay xông sauna; xem mục 11 phần 22 (uống rượu thì đừng tắm suối nóng).",
+  "extra":""
+ }
+}

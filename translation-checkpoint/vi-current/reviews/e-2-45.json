@@ -1,0 +1,15 @@
+{
+  "id": "e-2-45",
+  "source_sha256": "3d5c23d4afb919492586c37b2953465c1e55ecbadcca11d02685df767e4c3c3e",
+  "draft_sha256": "8210498398609d3bd60e475b7efc7787b05708e3438a1fe0aaa5f4e1af68da86",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: thử nghiệm theo phòng khám577 người/6 năm, ba nhóm43.8/41.1/46.0 so67.7 và giảm31/46/42%; kết quả23/30năm,3.96 trung vị khác1.44 trung bình, mọi HR/CI đúng. DPP3234/DPS522, lối sống khácmetformin, thời gian và kết quả tử vong âm tính giữ đủ. Ngưỡng6.1≤x<7.0/7.8≤x<11.1,≥7%,≥150phút,400–500,kỳ sáu tháng, BMI≥30 khác>25 đúng; không hứa tuổi thọ đã chắc chắn."
+}

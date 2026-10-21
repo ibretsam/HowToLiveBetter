@@ -1,0 +1,15 @@
+{
+  "id": "intro-24",
+  "source_sha256": "6da25ecf5521b4693052567b5252e70a48b3d86b051edaf0f8dbb4c5cb261b12",
+  "draft_sha256": "967a3ca6a0ef91e1695b6d8ceeabdec2245f4c3c8029f885202b57824c5afd08",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tiêu đề và hai đoạn: tiền/thời gian, khám/chuyển tuyến/cấp cứu/giám định, dẫn7/16/13, văn bản tháng4/2026 và giải thích phân tuyến/khu quản lý quỹ giữ đủ. Giữ rõ triển khai địa phương khác nhau và phải hỏi cơ quan sở tại, không đồng nhất với chính sách Việt Nam."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-17-4",
+  "source_sha256": "67dedf42271f040f1065a6fdb2615c91155f556ac1ad1c3561a5256e5464e389",
+  "draft_sha256": "c7d5a695c92f1fe2dbe74d857150a2927236b60139658aa17d65a1e4cbc2a694",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: 116 người 65–85 tuổi, 115 người 30–40 tuổi, gần nửa và nhắc trước hai–bốn tuần đúng. Giữ giới hạn hai thí nghiệm không kiểm tra chính câu từ chối, không suy ra mức giảm lừa đảo; giữ rút lui không phải kiểm soát người cao tuổi. Dẫn 3 và chương 1 đúng."
+}

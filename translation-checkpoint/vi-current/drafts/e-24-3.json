@@ -1,0 +1,14 @@
+{
+  "id":"e-24-3",
+  "source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256":"451312b10c55463f4402656002b1a0765e2496f5b884b00818f8a491abd3ad9d",
+  "translator":"pilot_employment_batch6",
+  "translation":{
+    "title":"Cần đến bệnh viện lớn thì đi qua chuyển tuyến từ cơ sở hoặc trung tâm chuyển tuyến của bệnh viện; đừng tìm cò bán suất khám",
+    "cost":"Không tốn tiền. Phải làm thêm một thủ tục chuyển tuyến.",
+    "plain":"Bệnh viện lớn đứng đầu liên hiệp y tế phải dành một phần suất khám và giường bệnh riêng cho người được chuyển từ tuyến cơ sở lên. Bệnh viện còn phải lập trung tâm chuyển tuyến hoặc chỉ định một bộ phận cố định chuyên phụ trách việc này, đến năm 2027 phải bao phủ toàn bộ. Không đăng ký được suất khám không có nghĩa hết cách, không cần tìm cò bán suất khám.",
+    "benefit":"Bệnh viện đứng đầu liên hiệp y tế liên kết chặt chẽ phải dành một tỷ lệ suất khám và giường bệnh cho tuyến cơ sở, đồng thời tiếp nhận kịp thời người bệnh được chuyển từ cơ sở lên. Liên hiệp y tế liên kết chặt chẽ là một nhóm gồm nhiều bệnh viện và cơ sở y tế cộng đồng gắn kết để phối hợp làm việc. Vì vậy, người được chuyển từ cơ sở cộng đồng lên có suất khám và giường riêng, không phải chen với những người giành suất ở sảnh. Cơ sở y tế phải lập trung tâm chuyển tuyến hoặc chỉ định một bộ phận cố định, đến năm 2027 phải bao phủ toàn bộ.",
+    "notes":"Suất khám dành sẵn là suất riêng cho người bệnh chuyển tuyến; không giành được suất thì có thể đi theo đường chuyển tuyến. Không tìm thấy trung tâm chuyển tuyến thì gọi số điện thoại dịch vụ của bệnh viện để hỏi.",
+    "extra":""
+  }
+}

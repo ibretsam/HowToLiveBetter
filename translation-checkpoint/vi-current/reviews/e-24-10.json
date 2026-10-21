@@ -1,0 +1,15 @@
+{
+  "id": "e-24-10",
+  "source_sha256": "a8b62f849851cd176cb8c457fdb4cf28c85eb1d0c0121fdc01573b129ca78aae",
+  "draft_sha256": "16ba00a57eb79c10f38f27ab61ab81639da4b2b21f2beb25d458996f96302f15",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: 3 ảnh hai inch, 5/10 ngày làm việc, bảy dạng/bốn cấp, mười năm, miễn phí cấp nhưng phí đánh giá/ảnh có điều kiện, khiếu nại mười ngày và cấp quyết định cuối đúng. Giữ chứng nhận khác hai hệ giám định, hai trợ cấp kèm điều kiện, cấm cho mượn và một năm không xin lại sau hủy."
+}

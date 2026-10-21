@@ -1,0 +1,15 @@
+{
+  "id": "e-24-7",
+  "source_sha256": "309b24777b89e15386013a0f2c0594a39f47b05f112a5de2dc654ca4915d3d81",
+  "draft_sha256": "fcdba73e3ca38a99b4a0d4d6567a434703c671168be6d2ea59275ddabbe9bae6",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường và các ngưỡng: bốn mức toàn quốc khác thời gian Bắc Kinh; 10 phút, phải đánh giá lại sau quá 30 phút và có thể sau quá 4 giờ; đau 7–10, nhịp >180/<40, tâm thu <70, oxy <80 và 120 giữ đúng. Sửa giải thích tâm thu thành số lớn hơn trong hai chỉ số để tránh hiểu nhầm là chỉ số tăng cao. Không cập nhật hướng dẫn lâm sàng ngoài nguồn."
+}

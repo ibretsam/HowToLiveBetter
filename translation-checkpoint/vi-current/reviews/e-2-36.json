@@ -1,0 +1,15 @@
+{
+  "id": "e-2-36",
+  "source_sha256": "ddbfbd7bd84db37aeece9b4cbea320e0cd0a3086e5e40082a54d7ff6aa72101d",
+  "draft_sha256": "fe1168591042350467fb085ee29a04bf5600b7365a2eda3fc3b407b43f89dcd5",
+  "reviewer": "root_batch6_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường:3.0 vạn người40–59 tuổi,19 năm,2097 biến cố,28/35/26/46% và khoảng tin cậy đúng. Giữ bất nhất nguồn plain dưới hai lần/tuần còn benefit không quá hai lần; không tự hòa ngưỡng. Giữ cảnh báo người cao tuổi/tim mạch,nước nóng/ngâm lâu,7776 tử vong2024 và dẫn22-11."
+}
