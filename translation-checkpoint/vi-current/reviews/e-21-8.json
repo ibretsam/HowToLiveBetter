@@ -1,0 +1,15 @@
+{
+  "id": "e-21-8",
+  "source_sha256": "5c4ee19393cbda68e0750ae7efd562cf3b73a4ff44b6665194e43a38f7ca4fe4",
+  "draft_sha256": "1453c7891d5d09baa0ad92b8e286f738cf765b628fbb59b61dc22e756914d282",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.1949Convention/1952date/103parties/MainlandChina distinction and destination-specificrecognition retained. Source frames IDP solely under1949 and makes categorical validityclaims; not independently confirmed or extended. Insuranceexclusion explicitly attributed to authorexperience."
+}

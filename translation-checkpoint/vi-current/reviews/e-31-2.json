@@ -1,0 +1,15 @@
+{
+  "id": "e-31-2",
+  "source_sha256": "6b8135902262b51cc5a1d16e7c830c1b749d5b6ef2cb51eb6c9d146f7ee0eb24",
+  "draft_sha256": "309432ec1a7c0b1741840f260a27f28f5f7b48aa00e9bda444a3230b98a44f21",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Registration vs actual enlistment,specificmale first-registration group,female discretionaryactive/reserve,17under18voluntary,2yearconscription,12yearjob/30yearor55retirement andschool/hukou application place checked. Clarified recruitment of personnel under special conditions,not existing soldiers. October31/December31sourcewording retained."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-26-3",
+  "source_sha256": "b364e90e0b0c7b1a1f4ca2d5c603e6e2dc69b84e91c196ce3b469e54787f34cd",
+  "draft_sha256": "5d688908feabede9cc2f334d6f891ec4715e49af69d4d658069c8b2b0b8387d5",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison:20days,3years,30dayrenewal,60day retention and30000maximum preserved; stateownership eligibility,video/live/news distinctions and superseded2011text caveat retained."
+}

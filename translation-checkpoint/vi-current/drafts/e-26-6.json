@@ -1,0 +1,14 @@
+{
+  "id": "e-26-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f1380fe635364092247f43ba6a6cd633519f716297754e669b5c8db7c7bc7da3",
+  "translator": "batch10_platform",
+  "translation": {
+    "title": "Phải quản lý nội dung người dùng đăng: có cơ chế duyệt, kênh báo cáo, phát hiện vi phạm thì lập tức ngừng truyền và báo cơ quan chức năng",
+    "cost": "Phải chi tiền thuê người duyệt, đây là khoản chi dài hạn lớn nhất của nền tảng. Cần lưu dấu vết ở kênh báo cáo và từng lần xử lý. Điều khó là ngày nào cũng cần người theo dõi, ngừng một ngày có thể xảy ra chuyện.",
+    "plain": "Nền tảng chịu trách nhiệm quản lý nội dung người dùng đăng; phải có quy trình đăng ký, duyệt bài, duyệt bình luận, kiểm tra hằng ngày và xử lý sự cố. Đặt kênh báo cáo ở chỗ dễ thấy trên trang. Thấy thông tin trái luật phải ngừng truyền ngay, lưu hồ sơ và báo cơ quan quản lý. Không làm có thể bị phạt 5 vạn đến 50 vạn nhân dân tệ, nghiêm trọng còn cao hơn.",
+    "benefit": "Quy định nói nền tảng ‘phải thực hiện trách nhiệm chủ thể quản lý nội dung thông tin’, nghĩa là tự chịu trách nhiệm quản lý nội dung người dùng đăng. Cụ thể phải ‘hoàn thiện các chế độ đăng ký người dùng, quản lý tài khoản, duyệt thông tin đăng, duyệt bình luận, quản lý môi trường nội dung của các khu vực và trang, kiểm tra thời gian thực, xử lý khẩn cấp, xử lý tin đồn trên mạng và thông tin về chuỗi hoạt động phi pháp’. Từ đăng ký, đăng bài, bình luận đến kiểm tra hằng ngày và xử lý sự cố, mỗi khâu đều phải có quy tắc bằng văn bản. Còn phải ‘đặt lối vào khiếu nại, báo cáo thuận tiện tại vị trí nổi bật’; nút báo cáo phải ở chỗ người dùng dễ thấy, dễ bấm. Phát hiện thông tin trái luật thì ‘phải lập tức xử lý theo luật, giữ hồ sơ liên quan và báo cơ quan có thẩm quyền’. Luật An ninh mạng nêu cụ thể hơn: ‘Phát hiện thông tin mà luật, quy định hành chính cấm đăng hoặc truyền thì phải lập tức dừng truyền, áp dụng biện pháp như xóa để ngăn lan truyền, lưu hồ sơ liên quan và báo cơ quan có thẩm quyền’. Không làm thì bị yêu cầu sửa, cảnh cáo, thông báo vi phạm và có thể phạt thêm 5 vạn đến 50 vạn nhân dân tệ. Không sửa hoặc nghiêm trọng thì phạt 50 vạn đến 200 vạn. Còn có thể bị yêu cầu ngừng kinh doanh để chấn chỉnh, đóng website, ứng dụng, thu hồi giấy phép chuyên ngành hoặc kinh doanh. Người trực tiếp phụ trách bị phạt riêng 5 vạn đến 20 vạn nhân dân tệ (toàn quốc).",
+    "notes": "Không cần tự nghĩ quy tắc duyệt, có thể chép theo quy định. Chín nhóm nội dung không được đăng được Điều mười lăm Biện pháp quản lý dịch vụ thông tin Internet liệt kê rõ. Làm phát trực tiếp còn thêm ba việc: ‘xây dựng nền tảng duyệt nội dung phát trực tiếp’; phải ngắt được bất kỳ buổi đang phát nào, điều luật gọi là ‘chặn tức thời’; lưu nội dung phát và nhật ký 60 ngày. Tư liệu video biểu diễn trực tuyến cũng phải lưu ít nhất 60 ngày.",
+    "extra": ""
+  }
+}

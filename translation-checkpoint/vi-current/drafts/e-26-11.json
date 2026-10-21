@@ -1,0 +1,14 @@
+{
+  "id": "e-26-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "92d5219728d6154a6d14803630527165d30724000cf5534e7bea63a9b86862cb",
+  "translator": "batch10_platform",
+  "translation": {
+    "title": "Chọn máy chủ trước hết xem chịu được ngừng hoạt động không, rồi có người vận hành không, cuối cùng mới so giá",
+    "cost": "Máy chủ đám mây của nhà cung cấp lớn tốn vài trăm đến vài nghìn nhân dân tệ mỗi tháng. VPS của nhà cung cấp nhỏ từ vài chục mỗi tháng. VPS là máy chủ ảo nhỏ. Thuê chỗ đặt máy chủ riêng từ vài nghìn mỗi năm, còn phải tự mua phần cứng.",
+    "plain": "Khác biệt giữa ba nhóm không ở giá mà ở những gì bạn có khi xảy ra sự cố. Nhà cung cấp lớn có kênh đăng ký, tư cách công khai, có thông báo và điều khoản bồi thường khi hỏng, có người để liên hệ. Nhà cung cấp nhỏ rẻ một nửa nhưng khi bán quá công suất, bỏ trốn hoặc bị bên cung cấp cấp trên chặn, bạn còn không biết tìm ai. Website tĩnh không có dữ liệu người dùng thì VPS vài chục nhân dân tệ đủ dùng.",
+    "benefit": "Khác biệt giữa ba nhóm không ở giá mà ở những gì bạn có khi xảy ra sự cố. Nhà cung cấp đám mây lớn có kênh đăng ký, tư cách công khai, thông báo sự cố, điều khoản bồi thường trong hợp đồng, có người để tìm khi có vấn đề. Nhà cung cấp nhỏ có thể rẻ một nửa, nhưng khi bán quá công suất, bỏ trốn hoặc bị bên cung cấp cấp trên chặn thì không có nơi khiếu nại. Vì vậy trước khi bàn giá, tra hệ thống của Bộ Công nghiệp và Công nghệ thông tin xem họ có giấy phép kinh doanh viễn thông giá trị gia tăng không. Thuê chỗ đặt máy chủ riêng chỉ đáng khi đồng thời có hai điều kiện: băng thông hoặc phần cứng rẻ hơn rõ rệt, và bạn có người tự vận hành. Cách chọn: website tĩnh không có dữ liệu người dùng dùng VPS rẻ nhất là đủ. Có đăng ký người dùng, giao dịch thì chọn máy chủ đám mây mở rộng linh hoạt được, sao lưu bằng ảnh chụp trạng thái được; lưu bản sao ở ít nhất hai nơi.",
+    "notes": "Trên đây là đánh giá theo kinh nghiệm, không có bằng chứng tài liệu. Điều thực sự kiểm tra được chỉ là giấy phép của nhà cung cấp. Muốn tiết kiệm thì giảm cấu hình, băng thông, đừng tiết kiệm bằng cách bỏ qua tư cách cung cấp.",
+    "extra": ""
+  }
+}

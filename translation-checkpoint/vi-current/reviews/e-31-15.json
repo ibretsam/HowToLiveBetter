@@ -1,0 +1,15 @@
+{
+  "id": "e-31-15",
+  "source_sha256": "a819ee9ce15df21858984253b745a763690ad41125baab5c31ca566713541a66",
+  "draft_sha256": "6cfd7e3b3657664285c8c5eba033d18d7c1c42fd57d104cfd74629a5cfac9433",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numbers and units, conditions and negation, references and readability. Full employee salary vs service remuneration taxonomy,all listedservices,6vanstandard deduction/20%threecategoriesnotwages,residentannualsettlementMarch1–June30,707/2019and2006/2007rules,5vanUSDseparateFXlimits,exceedinglimitproofandnosplitting checked. Source employment contract proof vs contractor pathway andfour expressly unresolvedquestions preserved without taxadvice."
+}

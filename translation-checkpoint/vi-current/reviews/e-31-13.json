@@ -1,0 +1,15 @@
+{
+  "id": "e-31-13",
+  "source_sha256": "289ba060f70f9d2be2de641d50bfde8cdd15dd325e3d77d726a0f21f41ef9e2f",
+  "draft_sha256": "34e2556c93c03b79e989e8d63e7dbdcd1129afc41a6b5a655e718ea37c393943",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked six-yearcommitmentsandteacheratleast6/urban1rural,2024replacement2018,specificgeographicexceptions,one-yearunsuitabilityrepayment,masterdegree/certification,establishmenttotalcapandmutualselection,medical3yearresidency/excludedbreachtraining. Changed financial-sounding credit-record to social trustworthiness record. Source categoricallocked-establishmentheadline vs provincialqualification andresidencyperiodassertions retained; no newly inferred service-duration law."
+}

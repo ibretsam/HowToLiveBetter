@@ -1,0 +1,10 @@
+{
+  "id": "intro-26",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ca545e24d910b1b2827408b4280c57985492dd3307d89e8b492ea8340ce56e25",
+  "translator": "batch10_platform",
+  "translation": {
+    "title": "Làm website hoặc nền tảng: giấy phép, đăng ký và máy chủ",
+    "intro": "Bạn muốn làm website hoặc ứng dụng. Chương này trả lời bốn việc: pháp luật coi đó là loại kinh doanh gì, cần giấy phép nào, đặt máy chủ ở đâu, ai chịu trách nhiệm với nội dung người dùng đăng và tiền thu trên đó. Tiêu chí là tự do thân thể và tiền bạc. Nếu là nhân viên kỹ thuật được thuê, xem các giới hạn pháp luật ở chương 11. Đăng ký công ty, khai thuế xem chương 12; chương này không lặp lại. Bảng đối chiếu các giấy phép và bảng quyết định chọn máy chủ xem [Làm nền tảng cần giấy phép nào](../docs/做平台要办哪些证.md)."
+  }
+}

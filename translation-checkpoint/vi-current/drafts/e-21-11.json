@@ -1,0 +1,14 @@
+{
+  "id": "e-21-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "801f8f334e5f39874a05279e03f624e625e8e089fcce7dea3cf401c26b890fbd",
+  "translator": "batch10_travel",
+  "translation": {
+    "title": "Trước khi xuất cảnh, gửi lịch trình, chỗ ở và người đi cùng cho một người nhà, hẹn rõ bao lâu liên lạc một lần",
+    "cost": "Không tốn tiền. Gửi một tin nhắn trước chuyến đi.",
+    "plain": "Nếu mất liên lạc ở nước ngoài, gia đình có thể nhờ cơ quan đại diện lãnh sự giúp; họ sẽ hướng dẫn cách báo cảnh sát địa phương và thúc xử lý sau khi lập án. Điều kiện là có người trong nước biết bạn đáng lẽ đang ở đâu, khi nào phải liên lạc. Gửi số chuyến bay, địa chỉ, số điện thoại người đi cùng và tần suất liên lạc đã hẹn cho một người nhà là đủ.",
+    "benefit": "Khi công dân Trung Quốc mất tích ở nước ngoài, người thân có thể nhờ cơ quan ngoại giao ở nước ngoài giúp đỡ. Nguyên văn quy định: “Cơ quan ngoại giao ở nước ngoài phải cung cấp cách báo cảnh sát địa phương và thông tin khác để nhận cứu trợ”. Sau khi cảnh sát địa phương lập án, cơ quan đại diện sẽ thúc họ xử lý kịp thời. Có khởi động được việc cầu cứu hay không tùy có người trong nước biết bạn đáng lẽ ở đâu và khi nào phải liên lạc hay không.",
+    "notes": "Chỉ cần ghi rõ bốn điều: số chuyến bay, địa chỉ chỗ ở, tên và số điện thoại người đi cùng, tần suất liên lạc đã hẹn. Nếu đến nơi sóng yếu hoặc an ninh kém, nói rõ thêm “bao lâu không có tin thì báo cảnh sát”. Việc này gần như không tốn gì, nhưng các thủ tục trợ giúp trên đều cần có người nhà biết lịch trình của bạn trước mới bắt đầu được.",
+    "extra": ""
+  }
+}

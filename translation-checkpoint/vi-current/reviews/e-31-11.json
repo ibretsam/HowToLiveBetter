@@ -1,0 +1,15 @@
+{
+  "id": "e-31-11",
+  "source_sha256": "97f5433709b7fc3fc7405d0db83aa125f0cfe12f8f3ebc04b5f1869edad919cc",
+  "draft_sha256": "fbb2b6d568d388c1191b8457fcd4558322394f561064a6dce68c16ae0912aca4",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked employeepension/medical vsresidentfallback,hukoulargecityexception,three laborrelationshipclasses,allcrossrefsand2020businesslicenseexception. Restored sourcecertainty removed by draftmodal in discontinuationconsequence; sourcebroadbenefitloss wording not revalidated. Headline nới doesnotclaimnationalabolition."
+}

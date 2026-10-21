@@ -1,0 +1,15 @@
+{
+  "id": "e-21-3",
+  "source_sha256": "b3516f4cae89f1c896385b7b92d78f7e171b08e0626b57c0849b2da086dc7fdf",
+  "draft_sha256": "01ef1a4c37b55be8c63a495d257ae0babb4c53d9f14799b4f2aebe90730e5adb",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Consularvisit/communication/trialobservation and proceduralrights distinguished from changingjudgment or releasingdetainees. Thirdparty expenses remain personalobligations; originalChinese-citizen/organization scope retained."
+}

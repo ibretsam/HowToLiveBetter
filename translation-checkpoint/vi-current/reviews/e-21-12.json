@@ -1,0 +1,15 @@
+{
+  "id": "e-21-12",
+  "source_sha256": "0d3cd5e8f09733de4037d9ac4bc580450542f0140087bfb3c08c0e5bf6e67837",
+  "draft_sha256": "762ad331287a73765473a7971de7b97448dd8da0413a06c67ff85f1e5769db55",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Japanpseudoephedrine>10%/codeine>1%,14daypermit,selfcarryconditions,1/2month amounts;Singapore3months/2weeks,originalpackaging anddirectfamily-onlyprescription limits retained. Source Japan psychotropicone-month shorthand omits injectableexception present in citation; retained as sourcecaveat, not independently certified currentmedical/customsguidance. China selfuse andmaximumsingleprescription conditions retained."
+}

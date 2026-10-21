@@ -1,0 +1,15 @@
+{
+  "id": "e-31-5",
+  "source_sha256": "8f3319a1dc1a8f2c86a77b94822065aff3758c11ad262be03a751f5d7b87981b",
+  "draft_sha256": "159d468c8090494a8afc61abe212bb922cf78a5f0eff9b30da82389f0fea789f",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Allsix jobplacementconditions,12years/medals/honors/merit/disability5–8/martyrchild,6monthplacement,3yearcontract/10yearindefinite,80%livingallowance and30dayregistration checked. Sourceplain deadline vs quotedlate-by30dayformulation retained; obsolete608/2011 vs2024-9-1rule distinguished."
+}

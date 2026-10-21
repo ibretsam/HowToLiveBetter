@@ -1,0 +1,15 @@
+{
+  "id": "e-26-10",
+  "source_sha256": "1f0993ac0a7892ab0fba31654b374db221500fc2056914779b6568b815e0ecbf",
+  "draft_sha256": "d8995f2d878aba0afe0476c79670a163e02e038c85b22238a008eb77f91dd826",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: ordinarydatahandler exception,Jan1 cumulative rather thanrollingyear,strict<100k andinclusive100k/1million/10000sensitive thresholds, separateconsent andcontractnecessity exception retained. Source doesnot detail every route forlower-volumesensitive data; preserved scope without inventing law."
+}

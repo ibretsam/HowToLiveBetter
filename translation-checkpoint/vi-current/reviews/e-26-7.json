@@ -1,0 +1,15 @@
+{
+  "id": "e-26-7",
+  "source_sha256": "100c45ff431703084332d840b0f2e116f6425d054c30e1c11053100ff41be4ee",
+  "draft_sha256": "b24408449f8228b1d402573c1f920fb32e8ba90a0fc4ba2f51ca2020a4a1dde2",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: real identity versus optional public nickname, service refusal, livestream commerce stronger verification, all sanction levels and2025/2026 renumbering retained."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-26-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "100c45ff431703084332d840b0f2e116f6425d054c30e1c11053100ff41be4ee",
+  "translator": "batch10_platform",
+  "translation": {
+    "title": "Cung cấp dịch vụ đăng thông tin hoặc nhắn tin tức thời thì bắt buộc yêu cầu người dùng cung cấp thông tin danh tính thật",
+    "cost": "Phải kết nối một kênh xác minh danh tính thật, loại kênh này thu phí theo lần. Thiết kế theo ‘danh tính thật ở hệ thống phía sau, hiển thị tùy ý ở phía trước’: hệ thống giữ tên thật, trang hiển thị biệt danh.",
+    "plain": "Website cho đăng bài hoặc trò chuyện thì phải yêu cầu danh tính thật khi mở dịch vụ cho người dùng. Không cung cấp thì không được cho dùng. Phát trực tiếp yêu cầu hệ thống giữ tên thật, biệt danh trên trang do người dùng chọn, có thể xác minh bằng số điện thoại. Không xác minh danh tính thì trước hết bị yêu cầu sửa; không sửa phạt 5 vạn đến 50 vạn nhân dân tệ, còn có thể đóng trang.",
+    "benefit": "Luật ghi: ‘Bên vận hành mạng khi làm dịch vụ truy cập mạng, đăng ký tên miền, thủ tục hòa mạng điện thoại cố định, di động cho người dùng, hoặc cung cấp dịch vụ đăng thông tin, nhắn tin tức thời, phải yêu cầu người dùng cung cấp thông tin danh tính thật khi ký thỏa thuận hoặc xác nhận cung cấp dịch vụ. Người dùng không cung cấp thông tin danh tính thật thì không được cung cấp dịch vụ liên quan’. Không yêu cầu xác minh, hoặc người dùng không cung cấp danh tính thật mà vẫn cho dùng thì bị yêu cầu sửa. Không sửa hoặc nghiêm trọng bị phạt 5 vạn đến 50 vạn nhân dân tệ. Còn có thể bị yêu cầu tạm dừng nghiệp vụ, ngừng kinh doanh để chấn chỉnh, đóng website, ứng dụng, thu hồi giấy phép chuyên ngành hoặc kinh doanh. Người trực tiếp phụ trách bị phạt riêng 1 vạn đến 10 vạn. Dịch vụ phát trực tiếp theo nguyên tắc ‘danh tính thật ở hệ thống phía sau, hiển thị tùy ý ở phía trước’, thực hiện ‘xác thực danh tính thật dựa vào số điện thoại di động và phương thức tương tự’. Nghĩa là hệ thống giữ tên thật, người dùng tự chọn biệt danh trên trang, xác minh bằng cách như số điện thoại. Phát trực tiếp bán hàng nghiêm hơn: ‘xác thực danh tính thật dựa trên thông tin giấy tờ tùy thân, mã tín dụng xã hội thống nhất và thông tin tương tự’. Mã tín dụng xã hội thống nhất là chuỗi số trên giấy phép kinh doanh (toàn quốc).",
+    "notes": "Số điều đã đổi vị trí. Luật An ninh mạng sửa đổi năm 2025 có hiệu lực ngày 1 tháng 1 năm 2026. Quy định danh tính thật chuyển từ Điều hai mươi bốn sang Điều hai mươi sáu; chế tài chuyển từ Điều sáu mươi mốt sang Điều sáu mươi bốn. Nội dung điều khoản không thay đổi. Tài liệu đang dùng còn dẫn số cũ thì phải sửa lại.",
+    "extra": ""
+  }
+}

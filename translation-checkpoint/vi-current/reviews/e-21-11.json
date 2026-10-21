@@ -1,0 +1,15 @@
+{
+  "id": "e-21-11",
+  "source_sha256": "801f8f334e5f39874a05279e03f624e625e8e089fcce7dea3cf401c26b890fbd",
+  "draft_sha256": "acf5ff5a9bd4a24994583fd0fefce3383b939fefaace13dc64d13ddf661af048",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. MissingChinese-citizen overseas consularhelp/localpolicefiling steps andfamily itinerary/contactschedule rationale retained. Four requiredtripdetails andpoorcoverage threshold preserved."
+}

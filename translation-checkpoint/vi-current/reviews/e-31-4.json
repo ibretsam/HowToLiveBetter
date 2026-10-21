@@ -1,0 +1,15 @@
+{
+  "id": "e-31-4",
+  "source_sha256": "f8bc60b952d9278092b21da8f811bcef492ae3d23b547775a6f18d918d2211cd",
+  "draft_sha256": "0c9ca0f555be96c371138bc25da7499ce83d915643a776a888fde9caded4944f",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked20000/25000caps,actualtuition/loanincludinginterest maximumthen cap minimum,5000example,studylength notservicelength,2yearstudyreturn,532/523universities,10points3years andspecialplanmutualexclusion,allhistoricalcaps. Sourcebenefit2026notice vs sourcecitation2025andtuition-onlyplain/example vsloanrule retained as source caveats."
+}

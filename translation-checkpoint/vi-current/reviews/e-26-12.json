@@ -1,0 +1,15 @@
+{
+  "id": "e-26-12",
+  "source_sha256": "4007ec4bfdbf27a83c244e443987a8ecfd7b5ac28b8aa26022b5041361e1553b",
+  "draft_sha256": "eec8100453981daee756a739d20c920e9d38b1276afe4ae7d309f18d94913b6d",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: clarified awkward suspected-crime phrasing only. Notification exception plusauthorityoverride,100/5000wan/5% penalties, nofaultproof, inclusive1millionpersons,4hours/12387/30days/6months and mitigation/discretion preserved. Source broadplainnoticemessage remains qualified bybenefit; no claimof independent legalvalidity."
+}

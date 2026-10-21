@@ -1,0 +1,15 @@
+{
+  "id": "e-31-9",
+  "source_sha256": "b7a19c326d696bea79b3ff95f01c7e32b6d8eee13b8b85d5665726fc86ddac94",
+  "draft_sha256": "bd4d0a9e8578e004e0fab2d3ccea9160e77ae436f293eb013cdfedba3d4bc8c2",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked firefighter18–22/24/28and2yearoperationalexperience,province recruitment,allstages,militarycivilian3routes18/35andpositioneducationrequirements,veteranpriority. Sourceplain broadlydeniescollegegateandstatesonly18despitepositionrequirements inbenefit retained,not independent eligibilityassurance."
+}

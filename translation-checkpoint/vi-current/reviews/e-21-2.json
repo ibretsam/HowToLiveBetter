@@ -1,0 +1,15 @@
+{
+  "id": "e-21-2",
+  "source_sha256": "6adaaa6ba574a61b73926a5ca4a8b943b51c209e1faa727599918e35cef15450",
+  "draft_sha256": "d89e8dc45042613ba79acdc66277d3f4a03a8d495c0aa605053ea528e206550b",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. China domestic12308 versus overseas+86-10-12308/+86-10-65612308,24hour service,2014/300van calls/50van cases and backupcontact recommendations retained."
+}

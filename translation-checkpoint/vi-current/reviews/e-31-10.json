@@ -1,0 +1,15 @@
+{
+  "id": "e-31-10",
+  "source_sha256": "c497c44daac42db0f6e5eb449ff157b4dc4cef41045477564283b9b99fed10fa",
+  "draft_sha256": "fb503215d1e02e39e7f189b178db78c2f1535500aa9230f7edebca30dbe85f56",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked selfstudycurrentstudentexclusion/threegraduationconditions,salaryequivalence,adultadmissionand2/2.5/4/5yeardurations,openuniversityregistration/credits,CHSIonlyregistry/noamendment,advertisingprohibitions. Source5%2007vs32.2van2020expansionandunclearcurrentcap,2026nonpublic53notice,2025naming change retained."
+}

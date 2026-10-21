@@ -121,6 +121,18 @@ trong `batch-9-report.json`. Giữ nguyên 597 bản nháp và 597 hồ sơ rà 
 của tám đợt trước. Bài dài giữ đủ chín phần, bốn tiểu mục và năm kết quả
 thí nghiệm; không đổi kết quả chỉ số trung gian thành khẳng định giảm tử vong.
 
+Đợt 10: toàn bộ 17 mục chương 31, 13 mục chương 21 và 13 mục chương 26,
+cộng ba lời dẫn và bài giấy phép nền tảng. Tổng 43 mục: 5 mục mới,
+32 cập nhật và 6 rà soát lại. Có 47 hồ sơ rà soát độc lập mới; báo cáo nằm
+trong `batch-10-report.json`. Giữ nguyên 674 bản nháp và 674 hồ sơ rà soát
+của chín đợt trước. Bài dài giữ ba bảng với 22 dòng nội dung, bốn phần chính,
+một tiểu mục và ba ý về giới hạn của tài liệu. Giữ bối cảnh pháp luật Trung Quốc
+và ghi các bất nhất của nguồn trong hồ sơ rà soát.
+
+Ngày 21/10/2026 đã thấy upstream `d78ca9b`, nhưng checkpoint này vẫn ghim
+`5f210ca`. Các thay đổi upstream mới cần checkpoint và lượt đối chiếu riêng;
+không đổi dấu kiểm của bản cũ hoặc coi tỷ lệ đợt này là tỷ lệ theo nguồn mới nhất.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

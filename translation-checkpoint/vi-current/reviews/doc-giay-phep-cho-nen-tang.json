@@ -1,0 +1,15 @@
+{
+  "id": "doc-giay-phep-cho-nen-tang",
+  "source_sha256": "ff4e4f323b3ca05a2f03c7e9656e15bdf581bd2d39e65f9c32b1bfb8c591c4a7",
+  "draft_sha256": "fefd196e4fbbfcfb4bca105bab8cc967f8fe78516dbcd4d0a80c8b1c1ee5fb41",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all prose, three tables (9 licensing,9 obligations,4 server decision rows),four second-level headings,one third-level heading,three closing bullets and relative reference link. No semantic changes needed. Confirmed China jurisdiction,ICP filing vs operating permit,B21/B11/B14,individual-company distinction,100/1000van capital,60day/5year terms,all retention and reporting periods,private-company audiovisual restriction and alternative registration,explicit EDI uncertainty. Source caveats retained without current-law endorsement: blanket video/news licensing and private-company summaries need their source qualifications; cross-border10–100van interval overlaps100van-or-more boundary and omits exceptions/nuances; do not invent boundaries or legal amendments. ArchivedSeptember2026 verification wording remains source statement,not an assertion of new independent legal checking. Source-hosting guidance and backup experience remain distinct from statutory duties."
+}

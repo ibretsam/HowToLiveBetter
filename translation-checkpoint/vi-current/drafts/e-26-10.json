@@ -1,0 +1,14 @@
+{
+  "id": "e-26-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "1f0993ac0a7892ab0fba31654b374db221500fc2056914779b6568b815e0ecbf",
+  "translator": "batch10_platform",
+  "translation": {
+    "title": "Không tùy tiện đưa thông tin người dùng ra nước ngoài; chuyển ra ngoài có điều kiện luật định và ngưỡng số người",
+    "cost": "Không tốn tiền. Cách ít việc nhất là giữ dữ liệu người dùng trong nước. Thực sự cần chuyển ra nước ngoài thì làm hợp đồng tiêu chuẩn hoặc chứng nhận.",
+    "plain": "Chuyển thông tin người dùng trong nước đến máy ở nước ngoài là đưa dữ liệu ra nước ngoài; đặt máy chủ ở ngoài cũng vậy. Thường phải qua đánh giá an ninh của cơ quan quản lý không gian mạng, làm chứng nhận hoặc ký hợp đồng tiêu chuẩn. Tổng cộng trong năm chưa đủ 10 vạn người, không gồm thông tin nhạy cảm, thì được miễn cả ba. Còn phải báo người dùng ai nhận ở nước ngoài, dùng làm gì và xin riêng sự đồng ý.",
+    "benefit": "Giao thông tin người dùng trong nước cho công ty nước ngoài hoặc lưu ở máy nước ngoài, về pháp luật gọi là cung cấp thông tin cá nhân ra nước ngoài, ‘phải đáp ứng’ một trong bốn điều kiện. Thứ nhất, qua đánh giá an ninh do cơ quan quản lý không gian mạng tổ chức. Thứ hai, được tổ chức chuyên môn chứng nhận bảo vệ thông tin cá nhân. Thứ ba, ký với bên nhận ở nước ngoài theo hợp đồng tiêu chuẩn do cơ quan quản lý không gian mạng ban hành. Thứ tư, điều kiện khác do luật, quy định hành chính quy định. Đồng thời phải cho người dùng biết tên, liên hệ của bên nhận ở nước ngoài, mục đích, cách xử lý, loại thông tin cá nhân và cách họ thực hiện quyền của mình. Còn phải ‘được cá nhân đồng ý riêng’, tức hỏi người dùng riêng về việc này. Ngưỡng cụ thể chia theo tổng số người. Doanh nghiệp thông thường được gọi trong quy định là bên xử lý dữ liệu không thuộc nhóm vận hành hạ tầng thông tin trọng yếu. Nhóm này có ngưỡng miễn: ‘từ ngày 1 tháng 1 năm đó, tổng cộng cung cấp ra nước ngoài thông tin cá nhân của chưa đủ 10 vạn người, không gồm thông tin cá nhân nhạy cảm’. Chưa đạt ngưỡng thì được miễn cả khai báo đánh giá, ký hợp đồng tiêu chuẩn và làm chứng nhận. Từ 10 vạn đến dưới 100 vạn người thì phải ký hợp đồng tiêu chuẩn hoặc được chứng nhận. Từ 100 vạn người trở lên hoặc thông tin nhạy cảm đạt từ 1 vạn người trở lên thì phải khai báo đánh giá an ninh (toàn quốc, từ tháng 3 năm 2024).",
+    "notes": "Máy chủ ở nước ngoài không có nghĩa ‘dữ liệu chưa ra nước ngoài’. Người dùng đăng ký trong nước, bạn truyền thông tin sang máy ở nước ngoài thì đó là chuyển ra ngoài. Một nhóm không cần ba đường đánh giá an ninh, chứng nhận, hợp đồng tiêu chuẩn là mua sắm, gửi hàng xuyên biên giới, đặt vé máy bay, khách sạn, khi thực sự cần truyền ‘để giao kết, thực hiện hợp đồng mà cá nhân là một bên’. Chú ý cách đếm: ‘tổng cộng từ ngày 1 tháng 1 của năm đó’, không phải mười hai tháng tính ngược từ hôm nay.",
+    "extra": ""
+  }
+}

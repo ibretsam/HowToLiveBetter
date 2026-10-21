@@ -1,0 +1,15 @@
+{
+  "id": "e-31-6",
+  "source_sha256": "9bdc699f6a4f31501ffbef1c77caa36bbf5c402dea425daf4eadef9c68fe50e7",
+  "draft_sha256": "2db7b1ae531161916cf957bb46aa3b1a852562e246292de8ee8764458d7e5e8e",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked five merit increments25/20/15/10/5%,tax20000/6000limits vs cash,36months/20%/50%,2023–2027dates,insuranceyears/deemed contributions and exclusions. Preserved sourceTODO formal4500annualstandardunfound,2020vs2024provincialreports,local6000separategrant and2026qualificationvalidity."
+}

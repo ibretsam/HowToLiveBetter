@@ -1,0 +1,15 @@
+{
+  "id": "e-26-9",
+  "source_sha256": "4d4e37c699f70208da9f4ff269f2405e1f5da3d99e121bd1f65b0f30a45371c1",
+  "draft_sha256": "bb0ac0d7ef73ecf02037dcd6a937a491d1852135d32faac74f34c3251f3a5f12",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: full legal quote starts15days upon receipt of forwarded declaration, not sending; notice/evidence, incremental-loss versus knowing-infringement liability, fines/doublebadfaithcompensation and civil reasonable-time distinction retained."
+}

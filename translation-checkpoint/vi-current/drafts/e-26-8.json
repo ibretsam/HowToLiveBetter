@@ -1,0 +1,14 @@
+{
+  "id": "e-26-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "bcac129b2a5e9b523593b9c7748107c8e06728e76889d7f73af5d3b77bae795c",
+  "translator": "batch10_platform",
+  "translation": {
+    "title": "Không cho người chưa đủ 16 tuổi mở phát trực tiếp; xử lý tiền tặng theo từng nhóm tuổi",
+    "cost": "Không tốn tiền. Thêm một bước ở đăng ký và thanh toán: xác định tuổi trước, rồi xác nhận người giám hộ đã đồng ý.",
+    "plain": "Người chưa đủ 16 tuổi không được đăng ký tài khoản phát trực tiếp ở chỗ bạn. Người đủ 16 tuổi phải được xác minh danh tính, còn cần cha mẹ hoặc người giám hộ khác đồng ý. Tặng tiền chia ba nhóm: chưa đủ 8 tuổi không được tặng; 8 đến 16 tuổi cần người giám hộ đồng ý; từ 16 tuổi trở lên cần người giám hộ đồng ý hoặc kiểm tra chứng minh thu nhập. Tiền trẻ tặng khi giấu người giám hộ, người giám hộ đòi thì tòa sẽ buộc hoàn lại.",
+    "benefit": "Luật ghi: ‘Bên cung cấp dịch vụ phát trực tiếp không được cấp dịch vụ đăng ký tài khoản người phát cho người chưa thành niên chưa đủ mười sáu tuổi; khi cấp cho người chưa thành niên đã đủ mười sáu tuổi phải xác thực thông tin danh tính và được cha mẹ hoặc người giám hộ khác đồng ý’. Điều lệ còn yêu cầu ‘xây dựng cơ chế xác minh linh hoạt, liên tục thông tin danh tính thật của người phát trực tiếp’, nghĩa là có thể kiểm tra lại danh tính người phát bất kỳ lúc nào. Còn phải ‘hạn chế hợp lý số tiền mỗi lần và tổng số tiền mỗi ngày của người chưa thành niên ở các nhóm tuổi khác nhau khi sử dụng dịch vụ’; đặt hạn mức từng lần, từng ngày theo tuổi. Hiện tặng tiền chia ba nhóm: ‘Không được cung cấp dịch vụ tặng tiền cho người chưa thành niên từ tám tuổi trở xuống. Cung cấp dịch vụ này cho người chưa thành niên từ tám đến mười sáu tuổi phải được người giám hộ đồng ý. Cung cấp cho người chưa thành niên từ mười sáu tuổi trở lên phải được người giám hộ đồng ý hoặc xác minh giấy tờ chứng minh thu nhập’. Còn một quy định: người có năng lực hành vi dân sự hạn chế tặng tiền khi chưa có người giám hộ đồng ý, người giám hộ đòi lại thì tòa phải chấp nhận, có thể lấy tiền về. Người có năng lực hành vi dân sự hạn chế ở đây là người chưa thành niên theo luật chưa được hoàn toàn tự quyết (toàn quốc).",
+    "notes": "Khi có tranh chấp hoàn tiền, xử lý theo hướng có lợi nhất cho người chưa thành niên. Cách quy định đã thay đổi. Ý kiến của bốn cơ quan năm 2022 và thông báo của Tổng cục Phát thanh, Truyền hình năm 2020 đều nói cấm toàn bộ người chưa thành niên tặng tiền. Thông báo mới tháng 4 năm 2026 đổi sang phân nhóm theo tuổi 8 và 16, nhưng không nói rõ hai văn bản trước hết hiệu lực; cũng chưa có giải thích chính thức về cách áp dụng cùng nhau. Vì vậy câu ‘cấm toàn bộ người chưa thành niên tặng tiền’ hiện không còn chính xác.",
+    "extra": ""
+  }
+}

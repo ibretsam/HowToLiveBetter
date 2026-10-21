@@ -1,0 +1,15 @@
+{
+  "id": "e-26-11",
+  "source_sha256": "92d5219728d6154a6d14803630527165d30724000cf5534e7bea63a9b86862cb",
+  "draft_sha256": "8126fdf857e43bcfbb9c78b58ef09e34cb164a0a4836b66e6491564fe002ca32",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: all author-experience claims, pricingunits, supplierqualification and bothcondition colocation test, snapshot/two-location backups preserved; no independent product recommendation or currentpricing validation."
+}

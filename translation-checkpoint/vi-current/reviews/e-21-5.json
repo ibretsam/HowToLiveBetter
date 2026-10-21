@@ -1,0 +1,15 @@
+{
+  "id": "e-21-5",
+  "source_sha256": "d8084e5258094ece50f9a3a4b9a47aa3c3c2cc8314db249cb1ba2765c793d4dd",
+  "draft_sha256": "9f0210ca7b1e42abf1567487d420281d6e0e153af89770292d25340755a0dfc9",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Fraud signs and lostfreedom/passport risks retained. Falseapplicationdocuments and overseas illegal/criminalconduct harmingnationalinterests distinguish grounds;6months–3years and administrative-detainment condition preserved. Source categorical recruitmenttitle retained."
+}

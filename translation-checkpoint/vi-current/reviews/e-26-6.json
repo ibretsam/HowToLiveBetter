@@ -1,0 +1,15 @@
+{
+  "id": "e-26-6",
+  "source_sha256": "f1380fe635364092247f43ba6a6cd633519f716297754e669b5c8db7c7bc7da3",
+  "draft_sha256": "b09a9ac92744c38532dbd9b4904270087306f6ef3f1c84d9d6a8f68ede4e243c",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: registration/post/comment moderation duties, report button, immediate stop/remove/preserve/report obligations and sanction levels preserved; both60day retention requirements maintained."
+}

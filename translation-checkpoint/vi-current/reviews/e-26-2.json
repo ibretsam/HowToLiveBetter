@@ -1,0 +1,15 @@
+{
+  "id": "e-26-2",
+  "source_sha256": "e981198620227982041c9ce2a11a86c02bd9cc6b70a19c6597c4def3580d6bc6",
+  "draft_sha256": "5add6203173061a2814bd7ed624b945adf5dcc61fda210662b7d133a138dec50",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison:100/1000wan capital,60day/5year,EDI definition and three Guangdong exceptions preserved. Source cost says money required while notes officialfee-free; both retained rather than silently reconciled. License-versusfiling distinction preserved."
+}

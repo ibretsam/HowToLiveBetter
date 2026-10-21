@@ -1,0 +1,15 @@
+{
+  "id": "e-21-4",
+  "source_sha256": "523833455831ac815d56cea772197a1ebb799a1f9b2c0fa73dc1c4e21699fd88",
+  "draft_sha256": "c035a9602ccc21ae8f1b5a9f48ed5291aa164f7cfc54b7857e3ac1b2a3fba5ed",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Overseashealthcare/evacuationcoverage,10vanUSD lower-bound framing versus interval,local-insurance and consularlimits, riskactivity/country/paymentmethod conditions preserved; no newly endorsed policy recommendation."
+}

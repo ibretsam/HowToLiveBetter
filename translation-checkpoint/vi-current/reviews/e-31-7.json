@@ -1,0 +1,15 @@
+{
+  "id": "e-31-7",
+  "source_sha256": "6107f90f7ffaddc30d78605a61c279902ea05a4098ee5e7c4b343f8f5c700843",
+  "draft_sha256": "aafa5b734539bf31c0af39cd62a6bff95b8dff0b82e307a35624e8769a547252",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked2yearserviceassessment,about10%dedicatedcivilservicequota,3year10points,2yearnewgraduateeligibility andpriorworkcondition,3/2.4/1.2vanregionalgrants,1–3yearwesternplan. Preserved2021–2025round,noverified2026notice,34430in2025andmissingwesternpolicy; no modernization."
+}

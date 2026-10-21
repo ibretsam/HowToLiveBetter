@@ -1,0 +1,15 @@
+{
+  "id": "e-31-12",
+  "source_sha256": "9e924c714fee7c26f050b4414b284d2c33256038881b63fbf2dc44ee5072bb4d",
+  "draft_sha256": "1d3b174b6bbdb79b5da22c4c9f72ade8144f6d2109c5ee85fc0763b4616a2019",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked platform-paidnotworkerpaid,eachorder/personcoverage,existinglaborrelationshipworkinjuryexception,0.01/0.07/0.25/0.18rates,7+10provinces/7platforms,31province2026expansionproposal andpilotstatus. Minimumwage/timelypay/publicholiday sourceclaims and insurance21scope maintained."
+}

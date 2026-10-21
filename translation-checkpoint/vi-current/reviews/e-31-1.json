@@ -1,0 +1,15 @@
+{
+  "id": "e-31-1",
+  "source_sha256": "bffb98448ca2d4db8c18eb5271a023361deab4acb87b150e5f0ea142ad0e83b2",
+  "draft_sha256": "3e42a05b41dcddb690b863a3828d1a7ebd4b51898148ae819f1aff7cb757319d",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. All twelve pathways and age/education requirements compared,including18/22/24/26military,civil-service18–35,firefighter18–22/24,militarycivilian18/35,selfstudycurrentstudentexclusion,six fundedteacheruniversities and overseasagencyqualification. Clarified higher-education graduates include college as well as university in plain field."
+}

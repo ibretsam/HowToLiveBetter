@@ -1,0 +1,15 @@
+{
+  "id": "e-31-16",
+  "source_sha256": "21abc9bbb5c180f68cbd58df93d358f713e6f67a40b430404628c9453de70f02",
+  "draft_sha256": "fc0f4783ddb2652464419ade2690cb11364b42d0dd95b7af7bf416ff51888e3f",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numbers and units, conditions and negation, references and readability. Checked targetedeligiblegroups includingcollege/universitygraduates,spousejointdebtcondition/exempt5vaninclusiveconsumerloan,50%actualinterest,extension/overdueprinciple,10vancounterguarantee,30van3year/110%partnershipcaps,LPR+50/150/250BPs,3renewalcap andprovincialdiscretion. Clarifiedhighereducationincludescollegeand民间借贷privateborrowing vs broadcivilborrowing. Source simplified noextension subsidy gloss retained beside in-principle qualification."
+}

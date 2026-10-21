@@ -1,0 +1,15 @@
+{
+  "id": "e-21-7",
+  "source_sha256": "659958e18a83c501efdac8cf6011e971adeb4d53b492d8bd6950c8f21a608e39",
+  "draft_sha256": "7b73ac0f893cd7c18502af0e11b8103c2d05897f00721b77ff02fcf68e029b1d",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Lostpassportidentityproof/localpolicereceipt/consularcontact sequence retained. Two-locationbackup,offlinecopy,otherdevice login withoutphone, encryption/password caveat preserved."
+}

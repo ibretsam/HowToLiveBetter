@@ -1,0 +1,15 @@
+{
+  "id": "e-21-1",
+  "source_sha256": "17693b4753671eaa37a601f21daf07e557e3d06f712b9e55c5dd242ac0a54a5d",
+  "draft_sha256": "b5c0f1cb653ab2683eaab15a15ecb0d962de34c5d01b86c3d097ece7da9b5536",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of six fields. Four alert levels,2026-09-15 effective date,Chinese-citizen scope, all datedcountryexamples and highriskwarning conditions retained. Snapshot alerts not represented as freshly verified current traveladvice."
+}

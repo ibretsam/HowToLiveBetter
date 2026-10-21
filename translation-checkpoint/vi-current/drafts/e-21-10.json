@@ -1,0 +1,14 @@
+{
+  "id": "e-21-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "428a17a70df226d7dbab578ec841efc353e87618eb23052bcff1c154e40e1e9f",
+  "translator": "batch10_travel",
+  "translation": {
+    "title": "Đừng cấp thư mời cho người lạ, cũng đừng để người khác mượn danh bạn làm thủ tục xuất nhập cảnh",
+    "cost": "Không tốn tiền. Khó là trực tiếp từ chối một lời nhờ vả.",
+    "plain": "Cấp thư mời hoặc hồ sơ xin phép cho người khác mà nội dung sai sự thật thì người cấp bị phạt. Cá nhân bị phạt 5000 đến 1 vạn nhân dân tệ, khoản thu lợi trái pháp luật bị tịch thu. Tổ chức bị phạt 1 vạn đến 5 vạn, người xử lý bị phạt thêm 5000 đến 1 vạn. Một lần giúp vì tình nghĩa đổi lấy việc tự trả khoản tiền này.",
+    "benefit": "Người cấp thư mời phải chịu trách nhiệm về tính chân thực của nội dung. Nguyên văn: “Cá nhân cấp thư mời giả hoặc tài liệu xin phép khác cho người khác xin xuất nhập cảnh, lưu trú, cư trú bị cơ quan quản lý di trú phạt từ 5000 nhân dân tệ trở lên đến 1 vạn nhân dân tệ trở xuống; có khoản thu lợi trái pháp luật thì tịch thu”. Tổ chức cấp hồ sơ giả bị phạt từ 1 vạn đến 5 vạn nhân dân tệ. Đồng thời, người quản lý trực tiếp phụ trách và người trực tiếp chịu trách nhiệm khác, tức lãnh đạo phụ trách và người xử lý, bị phạt thêm từ 5000 đến 1 vạn nhân dân tệ.",
+    "notes": "Cùng loại rủi ro với “không mang đồ hộ người lạ” ở chương 8: hồ sơ được cấp dưới tên bạn thì hậu quả thuộc về bạn. Người làm công vụ hoặc quân nhân muốn thông qua trung gian để làm trái quy định về quốc tịch nước ngoài hoặc tư cách cư trú ở nước ngoài thì trung gian không chỉ không được làm, mà còn phải báo cơ quan giám sát.",
+    "extra": ""
+  }
+}

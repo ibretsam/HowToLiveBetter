@@ -1,0 +1,14 @@
+{
+  "id": "e-21-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "659958e18a83c501efdac8cf6011e971adeb4d53b492d8bd6950c8f21a608e39",
+  "translator": "batch10_travel",
+  "translation": {
+    "title": "Chụp hộ chiếu, thị thực, giấy căn cước và lưu một bản trên đám mây; nếu mất, báo cảnh sát trước rồi xin giấy thông hành",
+    "cost": "Không tốn tiền. Chụp vài ảnh trước chuyến đi.",
+    "plain": "Mất hộ chiếu, cơ quan đại diện có thể cấp giấy tờ đi lại để về nước nhưng bạn phải chứng minh mình là ai. Có ảnh trang thông tin, trang thị thực và lịch sử xuất nhập cảnh sẽ giúp cấp lại nhanh hơn nhiều. Bạn còn cần báo cảnh sát địa phương trước để lấy giấy tiếp nhận; kiểm tra xuất cảnh và yêu cầu bảo hiểm ở nhiều nước cần giấy này. Điện thoại thường mất cùng hộ chiếu nên đừng chỉ lưu ảnh trong điện thoại.",
+    "benefit": "Nếu mất hộ chiếu, đại sứ quán hoặc lãnh sự quán có thể cấp giấy tờ đi lại để về nước, nhưng trước hết bạn cần chứng minh danh tính. Có ảnh rõ trang thông tin hộ chiếu, trang thị thực và lịch sử xuất nhập cảnh tạo khác biệt lớn về tốc độ cấp lại. Đồng thời, bạn cần báo cảnh sát địa phương trước và lấy giấy tiếp nhận trình báo. Kiểm tra xuất cảnh và giải quyết bảo hiểm ở nhiều nước đều cần tài liệu này. Để liên hệ cơ quan đại diện, dùng hai số bảo hộ lãnh sự đã lưu ở mục 2.",
+    "notes": "Sau khi chụp, lưu ở hai nơi khác nhau, chẳng hạn một bản trên đám mây, một bản gửi người nhà. In thêm một bản giấy và để riêng với bản gốc. Chụp cả thẻ ngân hàng và đơn thuốc thường dùng. Điện thoại và hộ chiếu thường mất cùng nhau; chỉ lưu trong điện thoại coi như chưa lưu. Nếu đăng nhập đám mây cần mã xác minh gửi điện thoại, mất máy có thể không đăng nhập được. Trước khi đi, thử đăng nhập trên thiết bị khác để bảo đảm không cần chiếc điện thoại này vẫn mở được. Ảnh giấy tờ là thông tin nhạy cảm, chọn cách lưu có mã hóa an toàn hơn. Nhưng nếu quên mật khẩu thì không ai mở được dữ liệu mã hóa, nên không thể bỏ bản gửi người nhà.",
+    "extra": ""
+  }
+}

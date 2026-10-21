@@ -1,0 +1,15 @@
+{
+  "id": "intro-21",
+  "source_sha256": "e0f179e43b8d1f539e8db3f1bc4a689082faeee8f053404b7dc0635eda496496",
+  "draft_sha256": "335a32eb49ca644d7fdf85cf0cdcf886f22d306b31227ce7fc87fb293ba616ea",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of title andintro. Money/liberty/safety framing andconsularassistance limits retained. Source categorical assertion that onlyhost-countrylaw applies is not silently qualified; sourcecaveat recorded, not currentjurisdiction advice."
+}

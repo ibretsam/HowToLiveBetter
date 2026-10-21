@@ -1,0 +1,15 @@
+{
+  "id": "e-31-14",
+  "source_sha256": "c7f28805d1a06f5a24471921cb71cb566ff6714f44ffedc03d96ed0547c89ee8",
+  "draft_sha256": "2ea605591bb03d7bb0f1e17adf10c4587cd741decabf6172163dbb847f31e73e",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numbers and units, conditions and negation, references and readability. All agency qualification rules,5workingday300vanreserve,10workingdaycontracts,training/insurance/depositban,10–20vanagency/2–5vanmanagerfines,over100accompanyingmanagercondition and complaint/compensation process compared. Clarified ten-odd minutes and trustworthiness record rather than financial credit. Source broad assertion law controls agency notworker preserved with later hostcountrypermit qualifications."
+}

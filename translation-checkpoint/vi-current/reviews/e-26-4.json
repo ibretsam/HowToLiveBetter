@@ -1,0 +1,15 @@
+{
+  "id": "e-26-4",
+  "source_sha256": "90045f025673ebc2920f90ca0fc1dd7ca97f37ed081d9ef47f3edd461c6c673a",
+  "draft_sha256": "2c234614a57c8abebc66a6fedd4468260a6517b12e8a9860f28651b275643a5f",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison:20workingdays versus spelled-outdays,10000/5000–50000 sanctions,2023September apps/miniprograms,provider permissions,domains and offshore exceptions preserved."
+}

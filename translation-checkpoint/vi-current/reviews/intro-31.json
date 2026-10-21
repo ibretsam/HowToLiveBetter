@@ -1,0 +1,15 @@
+{
+  "id": "intro-31",
+  "source_sha256": "bb30054e71df65a08fcb1d4d10c827243ff22cfb3f04a0da162aafee91d28fd5",
+  "draft_sha256": "dfa6d1aa8be4165059c353a8d8e310d2049c44b235f78fe668f22b679fce587f",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numbers and units, conditions and negation, references and readability. Full title andthreeparagraphcomparison,route-map scope,money/time/liberty,allpathwaysandnationaldocumentavailabilitylimits,deadline/eligibility distinction andchapter23/19/12/32/7references retained. No additions or omissions found."
+}

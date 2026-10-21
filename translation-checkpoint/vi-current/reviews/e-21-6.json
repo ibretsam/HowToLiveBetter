@@ -1,0 +1,15 @@
+{
+  "id": "e-21-6",
+  "source_sha256": "3c8571fee5413cdf39cf18d15ab13530ce1aa29d755adaf5f45e984be003f8b4",
+  "draft_sha256": "ecf990a0cd2c434696229934acc450179e4a95585801ee28c5d2b31808522aaf",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Allwithdrawal annual/dailylimits,2017/2018dates,17hBeijing cutoff,2016/81%/3van figures and2025customs form retained. Source departurebody says >=5000USD while title/plain/notes say >5000; conflict faithfully preserved. Arrivalstrict>5000,USfamilyaggregation,20%fine andconfiscationconditions retained."
+}

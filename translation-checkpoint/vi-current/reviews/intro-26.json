@@ -1,0 +1,15 @@
+{
+  "id": "intro-26",
+  "source_sha256": "ca545e24d910b1b2827408b4280c57985492dd3307d89e8b492ea8340ce56e25",
+  "draft_sha256": "b22919f74b9e515f4bf53ca20c76802b437dece943fbaa5db17f5f921e725b1b",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: title/introduction, fourquestions, money/freedom scopes,11/12references andexactplatformarticle link preserved."
+}

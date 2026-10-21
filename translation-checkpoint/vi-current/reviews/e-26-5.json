@@ -1,0 +1,15 @@
+{
+  "id": "e-26-5",
+  "source_sha256": "f7072e8cf8d04f594fa0fd2db1ae09baccb098f861db37b0fe2ea8849e0021f1",
+  "draft_sha256": "77ea86f32f1c18352ae949bd5caffa8cfdb1f067bf3fae758fcb7b5679df3c69",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: seller identification/licensing/6month refresh, transaction-completion3year clock, quarterly next-month tax reporting, sanctions and seller exemptions/10wan threshold preserved."
+}

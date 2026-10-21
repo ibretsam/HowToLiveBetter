@@ -1,0 +1,15 @@
+{
+  "id": "e-26-1",
+  "source_sha256": "1e7d6ce465c619b4298896aed61ab5223baf899b71f226ee345dded377bd9842",
+  "draft_sha256": "18fd79a2e1e40bff2fd1537acddba39fee4887846c35a272f7977b4a1756f975",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: money flow versus licensed payments, actual capital1hundredmillion, inclusive monetary and penalty thresholds, criminal5year overlap and enumerated-case limitation preserved. Source categorical safe-design claim retained, not legal advice verification."
+}

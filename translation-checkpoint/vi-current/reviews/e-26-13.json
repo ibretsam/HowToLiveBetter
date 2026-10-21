@@ -1,0 +1,15 @@
+{
+  "id": "e-26-13",
+  "source_sha256": "38e66c52aa8e102d2b98bf1b80f92db274b062477cc38050e66ff61a85e6b4ad",
+  "draft_sha256": "2765874e32af92a9f7d6aa10ff7dfc3c8d5a6dc5249c010b6adb1deaa4fa72ff",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: beforeacceptance andeachrenewalnotice, anytimechange/cancel, unreasonablefees prohibition,1–5x/30wan/3wan sanctions andlicensefooter/URLs preserved. Source saysvisibleformatunspecified; separate message isauthorimplementation advice."
+}

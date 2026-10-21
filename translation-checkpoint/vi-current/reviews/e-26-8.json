@@ -1,0 +1,15 @@
+{
+  "id": "e-26-8",
+  "source_sha256": "bcac129b2a5e9b523593b9c7748107c8e06728e76889d7f73af5d3b77bae795c",
+  "draft_sha256": "6f440788e391fb79c1516d7b7162f1cb89d33e8480aeced02f7300d4380b59fe",
+  "reviewer": "batch10_paths_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison: source plain says under8 while quoted rule says8orbelow; source groups overlap at8and16. Both inclusive/exclusive formulations faithfully retained as SOURCE ambiguity, not silently reconciled. Minor scope in full legal quote, parental consent/income alternative, refund limitations and2020/2022versus2026notice conflict preserved; not independent legal endorsement."
+}

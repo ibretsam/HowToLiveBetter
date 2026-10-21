@@ -1,0 +1,15 @@
+{
+  "id": "e-31-8",
+  "source_sha256": "ac4c088a8a3261be810e798b3df9f5fdfd280f7e9cad67eb1c44cf84e2f1f811",
+  "draft_sha256": "451b953a9b498a1026f820d9a3c13cd1e108c5bf02c1693e01c2d2d7b36bf3c0",
+  "reviewer": "batch10_travel_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of every prose field, numeric/unit/threshold fidelity,conditions,negation,uncertainty and cross-references. Checked bachelorcriterion/primaryschoolcollegeexception,30age,halfyearteachingexperience,veteranageexception,3.52→3.88and3.82→4.18grants,3yearserviceassessmentandwillingnessforestablishment,no newprobation. Sourceonly2024notice and2025/2026unavailable retained."
+}

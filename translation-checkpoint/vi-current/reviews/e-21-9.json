@@ -1,0 +1,15 @@
+{
+  "id": "e-21-9",
+  "source_sha256": "2ec50989563d29854e22ce0f1036298bf15698e581bc4c3b1697fe1d8c153732",
+  "draft_sha256": "4b195ddc2a48d1623466b1d4756eedbc34149289a9c8dec8c9b7157bb494362c",
+  "reviewer": "batch10_platform_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.2018licensingremoval,2026-09-15registrationstart,15daynew/90dayexisting deadlines, prohibitedfalsepapers/privacycrime conduct retained. USfraudcondition andnonprofitinformation exception preserved. Source broad warning about service slogans unchanged."
+}
