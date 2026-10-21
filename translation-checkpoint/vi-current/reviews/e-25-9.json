@@ -1,0 +1,15 @@
+{
+  "id": "e-25-9",
+  "source_sha256": "9e0ca4ebbc1e8ebe917e6b028fee1ece02fa59805e070612927087178c2bb2b7",
+  "draft_sha256": "199d6cfd38c5b2ac01ca6d59190929d2f4ef30658eae75cab895c2b0f367c7f6",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:separate housing-fund/pension/survivor/occupational-death benefits;all2/3/5/6/9/10/15/24 values and caps preserved. Source overlapping5/10/15-year brackets and simplified legatee definition retained without inventing boundary policy."
+}

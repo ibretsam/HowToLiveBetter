@@ -1,0 +1,15 @@
+{
+  "id": "e-29-10",
+  "source_sha256": "d214ed265e4472bf84b367d40c1798a5bf5c26ee5df3da7f2ab0e52502ff661d",
+  "draft_sha256": "8c654c86db749acf65902d53eea735152bdc228a35ca9d9630bd6838bcea6e40",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. All population/death/divorce/country counts, four proposed pathways, selection/causality caveat and no quoted numerical effect retained. References8/10/10.23 checked."
+}

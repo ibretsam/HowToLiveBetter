@@ -1,0 +1,14 @@
+{
+  "id": "e-22-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "4cd2e111ed382a29a037f4ba422724c5e31e37bc742b57be939d1ac558901019",
+  "translator": "batch11_leisure",
+  "translation": {
+    "title": "Khi chọn chỗ ở, hãy tính đến không gian xanh xung quanh, nhưng đừng mong “đi công viên nhiều hơn” sẽ kéo dài tuổi thọ",
+    "cost": "Không tốn tiền. Khi xem nhà, tiện thể xem cây xanh xung quanh.",
+    "plain": "Trong phạm vi 500 mét quanh nơi ở, cây xanh càng tốt thì khả năng tử vong cùng kỳ càng thấp: mỗi khi chỉ số thực vật tăng 0.1, mức này thấp hơn khoảng 4%. Nghiên cứu đo cây xanh quanh nhà, không đo số lần bạn đi công viên. Khu vực nhiều cây xanh thường có cư dân giàu hơn và không khí tốt hơn. Vì vậy, đừng hiểu rằng đi công viên sẽ kéo dài tuổi thọ; chỉ cần tính đến không gian xanh khi chọn chỗ ở.",
+    "benefit": "Kết quả gộp từ 9 nghiên cứu theo dõi quần thể nhiều năm, tức phân tích gộp nghiên cứu đoàn hệ, gồm 832 vạn người tại 7 quốc gia. Nghiên cứu xem mức độ cây xanh trong phạm vi 500 mét quanh nơi ở, đo bằng chỉ số thực vật chuẩn hóa NDVI, một con số quy đổi từ mức phủ xanh trên mặt đất. Mỗi khi chỉ số tăng 0.1, tỷ số nguy cơ gộp của tử vong do mọi nguyên nhân là 0.96 (95% CI 0.94–0.97). Khả năng tử vong cùng kỳ thấp hơn khoảng 4%, giá trị thực ước chừng nằm trong khoảng thấp hơn 3% đến 6%. Trong 9 nghiên cứu, 7 nghiên cứu thấy cây xanh càng tốt thì tỷ lệ tử vong càng thấp, với khác biệt khó coi là tình cờ. Còn 2 nghiên cứu không thấy mối liên hệ.",
+    "notes": "Còn tranh luận. Kết quả giữa các nghiên cứu khác nhau rất nhiều (I²=95%; số càng lớn thì kết quả càng không khớp nhau). Nghiên cứu đo cây xanh quanh nơi ở, không đo số lần đi công viên. Người sống ở nơi nhiều cây xanh thường cũng giàu hơn, được hít không khí tốt hơn và thích vận động hơn; chưa tách được yếu tố nào đang tạo tác dụng. Đừng hiểu thành “đi công viên sẽ kéo dài tuổi thọ”. Phần có thể áp dụng là tính đến không gian xanh khi chọn chỗ ở, với chi phí bằng không. NDVI gần 0 ở đất trống và nền xi măng, gần 1 ở nơi có thực vật rậm rạp. Vì vậy, “0.1” xấp xỉ sự khác biệt giữa khu phố trơ trụi và khu phố có các hàng cây ven đường.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-29-2",
+  "source_sha256": "7164a326b3010a7178ea503cb74c50c3dfc996c25977da1555c22ae41db68f24",
+  "draft_sha256": "2d32d5e533d7ca50b8b24517ca9c56bc0fc02b3cd22d8fd15d4e9ac8fe3194ea",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Cancer-only scope, 607 van and exact population, all periods/RR/CI and person-year rates retained. Source annualizes the first-week rate and glosses it as one-year observation; retained as source wording, not converted into a week probability. Cross-references 16/24/6 checked."
+}

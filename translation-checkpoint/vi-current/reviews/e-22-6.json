@@ -1,0 +1,15 @@
+{
+  "id": "e-22-6",
+  "source_sha256": "a1ebb695a094ec505f1899b93964aad73ce574e47eb072bba7aa237095ed9f0b",
+  "draft_sha256": "ae9aabc743dcd175ab813695b864b6bacdde4b5c9c858d3b170b82b5a5c889ca",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields and every effect size/interval: 218 studies, 495 groups, 14170 participants, low/very-low certainty and treatment limitation preserved. Pinned source labels usual care/placebo active controls and generalizes proportional intensity effects; these are source caveats retained, not independently validated or rewritten."
+}

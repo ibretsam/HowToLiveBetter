@@ -129,6 +129,14 @@ của chín đợt trước. Bài dài giữ ba bảng với 22 dòng nội dung
 một tiểu mục và ba ý về giới hạn của tài liệu. Giữ bối cảnh pháp luật Trung Quốc
 và ghi các bất nhất của nguồn trong hồ sơ rà soát.
 
+Đợt 11: toàn bộ 12 mục chương 25, 14 mục chương 29 và 12 mục chương 22,
+cộng ba lời dẫn và bài “Trước khi đổi việc hoặc chuyển thành phố”. Tổng 38 mục:
+5 mục mới, 30 cập nhật và 3 rà soát lại. Có 42 hồ sơ rà soát độc lập mới;
+báo cáo nằm trong `batch-11-report.json`. Giữ nguyên 721 bản nháp và 721 hồ sơ
+rà soát của mười đợt trước. Bài dài được dịch mới đủ 64 việc trong chín phần,
+giữ điều kiện và liên kết tham chiếu; các giới hạn của nguồn được ghi trong
+hồ sơ rà soát. Cả chín bài dài đã hoàn tất theo nguồn đích, hướng dẫn đọc còn lại.
+
 Ngày 21/10/2026 đã thấy upstream `d78ca9b`, nhưng checkpoint này vẫn ghim
 `5f210ca`. Các thay đổi upstream mới cần checkpoint và lượt đối chiếu riêng;
 không đổi dấu kiểm của bản cũ hoặc coi tỷ lệ đợt này là tỷ lệ theo nguồn mới nhất.

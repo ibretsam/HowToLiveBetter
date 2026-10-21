@@ -1,0 +1,14 @@
+{
+  "id": "e-22-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "9e1c53615a332582dc72c7e00fb3f6f91831805fbb245854ef36c51cd2cf46a9",
+  "translator": "batch11_leisure",
+  "translation": {
+    "title": "Coi việc “gặp gỡ người khác đều đặn” là khoản chi cho sức khỏe, đừng chỉ tìm người khi tâm trạng tệ",
+    "cost": "Tốn một ít tiền và thời gian gặp mặt. Cái khó là ngay cả khi tâm trạng tốt, bạn vẫn phải chủ động hẹn gặp.",
+    "plain": "Người thường ngày ít giao tiếp có khả năng tử vong trong cùng thời gian cao hơn khoảng ba phần mười. Người cảm thấy cô đơn cao hơn khoảng một phần tư, người sống một mình cao hơn khoảng ba phần mười; mức này rõ hơn ở người từ 65 tuổi trở xuống. Đây đều là kết quả theo dõi quan sát, cũng có thể người vốn sức khỏe kém dễ sống một mình hơn.",
+    "benefit": "Kết quả gộp từ 70 nghiên cứu ghi nhận tình trạng ban đầu rồi theo dõi về sau, tức phân tích gộp, với tổng cộng 340 vạn người tham gia, theo dõi trung bình 7 năm. Cách biệt xã hội, cảm giác cô đơn và sống một mình đều liên quan đến tỷ lệ tử vong cao hơn. Sau khi điều chỉnh các yếu tố gây nhiễu như tuổi và tình trạng sức khỏe, tỷ số odds trung bình có trọng số lần lượt là: cách biệt xã hội 1.29, cô đơn 1.26, sống một mình 1.32. Theo cách quy đổi trong nguồn, khả năng tử vong cùng kỳ lần lượt cao hơn khoảng ba phần mười, một phần tư và ba phần mười. Độ lớn tác dụng của ba yếu tố gần nhau và lớn hơn ở người từ 65 tuổi trở xuống so với người cao tuổi.",
+    "notes": "Còn tranh luận. Đây đều là mối liên hệ ghi nhận qua theo dõi quần thể, không phải thử nghiệm chia nhóm đối chứng nên chưa tách được nguyên nhân và kết quả. Người vốn sức khỏe kém dễ sống một mình và ít giao tiếp hơn. Tác giả coi quan hệ xã hội là yếu tố sức khỏe cùng cỡ với hút thuốc và béo phì, nhưng chưa có thử nghiệm ngẫu nhiên chứng minh “tăng giao tiếp xã hội làm giảm tỷ lệ tử vong”. Điều này không mâu thuẫn với lời khuyên “giảm những mối quan hệ làm bạn hao tổn” ở chương 3: mục đó loại bỏ quan hệ khiến bạn kiệt sức, còn ở đây là giữ những quan hệ giúp bạn phục hồi tinh thần và sức lực.",
+    "extra": ""
+  }
+}

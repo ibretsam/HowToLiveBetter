@@ -1,0 +1,15 @@
+{
+  "id": "e-29-5",
+  "source_sha256": "4037cae99fe1da404dc2505136d3732b7b02b02e11bc927a38ef3a3f8990d99e",
+  "draft_sha256": "17637e5d1880ecafbe1c4904017b853a751ab77542f390a24ef0e6d2ec8d1f70",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Exact RR/HR values, both syntheses and follow-up versus time-since-bereavement distinction preserved. Source RR1.14 gloss approximately fifteen percent retained. Under65 versus65+ boundaries, reference17 and6 checked."
+}

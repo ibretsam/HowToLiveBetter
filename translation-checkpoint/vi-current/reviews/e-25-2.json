@@ -1,0 +1,15 @@
+{
+  "id": "e-25-2",
+  "source_sha256": "ca785ba17003643418dd35a1db76bd895bb2b223e5759e1005b055be6c32db17",
+  "draft_sha256": "170f1fcee2b0cefd827bdc5f6b15af68acb9cb0fa3749140a0d2b68b465b2dd7",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison: issuing body,normal-death condition, one-day period, electronic equivalence,one replacement and one correction preserved."
+}

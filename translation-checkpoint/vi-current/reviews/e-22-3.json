@@ -1,0 +1,15 @@
+{
+  "id": "e-22-3",
+  "source_sha256": "6389ceae7a8bef82540a09895757e747c499bfe38e2043323aabde93ea70c09d",
+  "draft_sha256": "a9c62241c09ba93aa7715fdee965493784c712843a701b859b749176451cbe59",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: China jurisdiction, criminal versus administrative penalties, all durations and inclusive upper bounds, juvenile and repeated-hosting conditions preserved. No legal updating performed."
+}

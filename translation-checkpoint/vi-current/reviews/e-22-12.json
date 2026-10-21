@@ -1,0 +1,15 @@
+{
+  "id": "e-22-12",
+  "source_sha256": "1ad2134689d32cf7c45cb82750c9ced456e4c2e6c784c02ef699161dd30b273f",
+  "draft_sha256": "bb234318559df76ffa4816898f7227aa270fe0c59a79816b0efdaeabfdae9875",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields and every OR/interval: 12/40 studies, >6.4 van participants, inclusive age 13, helmet fit, skating extrapolation and chapter-one reference preserved. Source odds/probability shorthand and neck-injury conclusion remain source assertions without new claims."
+}

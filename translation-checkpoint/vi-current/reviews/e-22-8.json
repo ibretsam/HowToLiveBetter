@@ -1,0 +1,15 @@
+{
+  "id": "e-22-8",
+  "source_sha256": "6398cc5e3f4d9caff87074abe7178a3544767735be7187eea20c9bae7b9e0d15",
+  "draft_sha256": "44bce86e1075ae85ff799d94c3f34699f6f2c05d39121260bae67f6bf71ead0d",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: five-minute daily month-long protocol, three breathing methods, two P<0.05 results, small single-trial/self-report limitations and slight effect preserved."
+}

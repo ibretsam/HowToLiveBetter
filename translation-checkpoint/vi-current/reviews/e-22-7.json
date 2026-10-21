@@ -1,0 +1,15 @@
+{
+  "id": "e-22-7",
+  "source_sha256": "93b6ea3caf5ef3e2c73a70665f2dee2d81dc34c55486280d274d47a5af0948eb",
+  "draft_sha256": "a8b95e5f8a2eb020da20693f844bf1e80e3c721cf5d8875cf8b7226edc883640",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: 276/208 participants, 1:1 allocation, eight weeks, 10–20 mg, scores, difference, interval, P value, noninferiority boundary and 78.6%/15.4% adverse-event rates preserved. Requested and reread bounded readability correction from ambiguous one-and-a-half tenths to approximate fifteen percent in plain field; no meaning change."
+}

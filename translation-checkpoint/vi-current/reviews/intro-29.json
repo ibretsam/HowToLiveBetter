@@ -1,0 +1,15 @@
+{
+  "id": "intro-29",
+  "source_sha256": "fb74c710b86d52ad289695d4dc6b79f723f1262527b94e58f0d23ad6d3efdab1",
+  "draft_sha256": "5e2b6e00c67f8bd0f0b6a90f853cf86c3bee0537c7b0f986d84708e370fe1358",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of title and both intro paragraphs. Mortality versus money scope, four named financial entries, all numeric cross-references and China context retained. No new claims or omitted limitations."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-29-14",
+  "source_sha256": "94fb1c9c2f688c86ef1a05b630e18e9640f9fcb6a64846af6ee6d39c8279b69e",
+  "draft_sha256": "c66a0a2b98d0d521279d17e8dad4a0762ca90f7da46390e1d131cc68040ab8d6",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. All SMD/OR/CI estimates,8–12sessions,thresholds,sample sizes,follow-up periods and quality grades preserved. Individual trauma therapy versus immediate one-off debriefing distinction retained. Source China/NICE disagreement explicit, early severe-symptom therapy retained despite source later shorthand about one month. References9/4/13.42/19.10 checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-29-9",
+  "source_sha256": "65c34e3a649798545f19129c99958e3537b71ae92d43e40a3903173aadc109c5",
+  "draft_sha256": "0fa8f4c77402117d81318e211505fb72961aecc572b70cdca24826e0ea310a39",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Universal versus selected intervention distinction,61/14/205 studies/sample and6/18months retained. Not everyone versus nobody distinction preserved. References4/8 and source high-risk exceptions checked."
+}

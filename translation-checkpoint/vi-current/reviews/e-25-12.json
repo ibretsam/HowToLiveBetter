@@ -1,0 +1,15 @@
+{
+  "id": "e-25-12",
+  "source_sha256": "bfe422df57ca175bbdad388c4d8e85bdef9be029f05453d054a95322c0cd4ed0",
+  "draft_sha256": "f4535f907427cdbb48349def2ea5b49b17d50ec66b491e444f02f99df4a55781",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:per-bank inclusive5-vạn cap,2021→2024→2025change,kinship/documents/singlewithdrawal,products/deathbenefit exclusions,property allheirs attendance,fees and exclusions preserved. Source says ordinary procedure6months minimum here versus within6months at25.11; retained without legal rewrite. Source prior/broad process simplifications retained."
+}

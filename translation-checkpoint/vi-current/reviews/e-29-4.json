@@ -1,0 +1,15 @@
+{
+  "id": "e-29-4",
+  "source_sha256": "485f2f2caad71088f36121ab118111048edee179a2d305f5bba7644ce04e949c",
+  "draft_sha256": "aca1733b74a49b5605e5aabf0d15888b591679657a5ea7890c33238292098d55",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Spousal suicide scope, sex-specific IRR/CI, four review outcomes, violent-death distinction and cross-references 14/1.25 preserved. No additional treatment claims or hotline localization."
+}

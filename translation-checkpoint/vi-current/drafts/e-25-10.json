@@ -1,0 +1,14 @@
+{
+  "id": "e-25-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f45c1057228916fcd844a9894c464d042908aea76989c487228c9bd0cceb1ac0",
+  "translator": "batch11_estate",
+  "translation": {
+    "title": "Với tài khoản và thông tin cá nhân người đã mất, người thân gần có thể yêu cầu xem, sao chép, sửa và xóa",
+    "cost": "Không tốn tiền. Chỉ khi nền tảng không hợp tác mới cần khiếu nại hoặc khởi kiện.",
+    "plain": "Sau khi người đó mất, người thân gần vì lợi ích hợp pháp, chính đáng của mình có thể yêu cầu nền tảng cho xem, sao chép, sửa, xóa thông tin cá nhân của người mất. Nền tảng từ chối phải nêu lý do; bạn cũng có thể kiện ra tòa. Có ngoại lệ: người đó đã có sắp xếp khác khi còn sống, như đặt người kế thừa tài khoản hoặc để lại ý nguyện rõ ràng, thì làm theo sắp xếp đó.",
+    "benefit": "Luật ghi rõ: cá nhân đã mất thì người thân gần vì lợi ích hợp pháp, chính đáng của mình có thể thực hiện quyền xem, sao chép, sửa, xóa thông tin cá nhân liên quan của người mất. Người thân gần có thể yêu cầu nền tảng đưa thông tin ra xem, sao một bản, sửa lỗi hoặc xóa. Điều năm mươi yêu cầu nền tảng lập cơ chế thuận tiện để nhận và xử lý yêu cầu; ‘từ chối yêu cầu thực hiện quyền của cá nhân thì phải nói rõ lý do’. Nếu nền tảng từ chối, ‘cá nhân có thể khởi kiện tại tòa án nhân dân theo luật’.",
+    "notes": "Điều luật có câu ‘trừ trường hợp người mất đã có sắp xếp khác khi còn sống’. Nếu đã đặt người kế thừa tài khoản hoặc để lại ý nguyện rõ ràng thì theo ý người đó. Vì vậy khi còn minh mẫn, nên ghi cách xử lý tài khoản và mật khẩu về sau; xem chương 17. Hủy tài khoản và xóa thông tin cá nhân là hai việc khác nhau; xem chương 14.",
+    "extra": ""
+  }
+}

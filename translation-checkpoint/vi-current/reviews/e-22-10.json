@@ -1,0 +1,15 @@
+{
+  "id": "e-22-10",
+  "source_sha256": "4cd2e111ed382a29a037f4ba422724c5e31e37bc742b57be939d1ac558901019",
+  "draft_sha256": "4919189468dbaa529f6f790741afb862718eea24c397c90f5ff802ae8fafa144",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: nine studies, seven countries, 832 van participants, 500 metres, 0.1 NDVI, 0.96 ratio and 0.94–0.97 interval, 7/2 split and I²=95% preserved. Confounding and no causal longevity claim preserved; illustrative NDVI comparison remains a source assertion."
+}

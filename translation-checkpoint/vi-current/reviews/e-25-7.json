@@ -1,0 +1,15 @@
+{
+  "id": "e-25-7",
+  "source_sha256": "f1ddb77ab2bd632738a5f88e9238636c28f5cc4b87f25c0d3d552b6307460a1a",
+  "draft_sha256": "33685f26d0ca8ad496904986cce82f244c712d745a2d966e12d95165f738957a",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:five listed categories/four described,forced bundling,third-party services,split charges,evidence retention and enforcement bodies preserved."
+}

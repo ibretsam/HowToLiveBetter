@@ -1,0 +1,15 @@
+{
+  "id": "e-25-10",
+  "source_sha256": "f45c1057228916fcd844a9894c464d042908aea76989c487228c9bd0cceb1ac0",
+  "draft_sha256": "dd93e9effcb558da9a8c8463b0344fbdd3446c5ddbc316bd75d1f04390c63703",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:close-relative legitimate own interest,view/copy/correct/delete,refusal reasons,litigation and prior arrangements exception preserved."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-22-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a1ebb695a094ec505f1899b93964aad73ce574e47eb072bba7aa237095ed9f0b",
+  "translator": "batch11_leisure",
+  "translation": {
+    "title": "Khi tâm trạng xuống đến mức trầm cảm, hãy đi bộ hoặc chạy; độ lớn tác dụng chống trầm cảm tỷ lệ thuận với cường độ",
+    "cost": "Không tốn tiền. Mỗi lần khoảng nửa giờ. Cái khó là lúc tâm trạng tệ nhất cũng là lúc ít muốn vận động nhất, nên phải tự thúc mình một chút.",
+    "plain": "Ở người trầm cảm nặng, đi bộ nhanh hoặc chạy chậm cải thiện rõ nhất, tiếp theo là yoga, tập sức mạnh và thái cực quyền, khí công; chênh lệch giữa các loại không lớn. Cường độ được chỉ định càng cao thì hiệu quả càng tốt, còn tập sức mạnh và yoga dễ duy trì nhất. Chất lượng bằng chứng còn thấp; điều có thể xác định là vận động tốt hơn không vận động, nên chọn loại mình có thể duy trì.",
+    "benefit": "Kết quả gộp từ 218 thử nghiệm đối chứng phân nhóm ngẫu nhiên thành hai nhóm, gồm 495 nhóm và 14170 người đáp ứng tiêu chuẩn lâm sàng của trầm cảm nặng. Phép phân tích cho phép so sánh các loại vận động với nhau, gọi là phân tích gộp mạng lưới Bayes. Nhóm đối chứng tích cực được chăm sóc thông thường và dùng viên giả dược. Độ lớn tác dụng được thể hiện bằng Hedges' g: số càng âm thì triệu chứng càng cải thiện. Đi bộ nhanh hoặc chạy chậm đạt −0.62, với khoảng tin cậy Bayes 95% từ −0.80 đến −0.45, nghĩa là giá trị thực ước chừng nằm trong khoảng này. Yoga đạt −0.55 (−0.73 đến −0.36). Tập sức mạnh đạt −0.49 (−0.69 đến −0.29). Tập aerobic kết hợp đạt −0.43 (−0.61 đến −0.24). Thái cực quyền hoặc khí công đạt −0.42 (−0.65 đến −0.21). Nguyên văn cho biết “tác dụng của vận động tỷ lệ thuận với cường độ được chỉ định”: cường độ càng cao, hiệu quả càng tốt. Tập sức mạnh và yoga được chấp nhận tốt nhất và dễ duy trì nhất.",
+    "notes": "Còn tranh luận. Chính tác giả cho biết trong 218 nghiên cứu, chỉ 1 nghiên cứu có nguy cơ sai lệch do thiết kế đủ thấp. Theo cách chấm điểm phổ biến, độ tin cậy của đi bộ nhanh, chạy chậm chỉ ở mức “thấp”; các loại khác là “rất thấp”. Cũng không thể giấu người tham gia rằng họ đang tập luyện. Biết mình đang tập khiến họ dễ cảm thấy khá hơn, và không loại bỏ được kỳ vọng này. Vẫn có thể dùng hướng kết luận: vận động tốt hơn không vận động, đừng để cường độ quá thấp và hãy chọn loại mình duy trì được. Đây là phần triển khai chi tiết lời khuyên “khi tâm trạng xuống, trước hết hãy vận động” ở chương 3, không thay thế điều trị đúng chuẩn sau khi được chẩn đoán.",
+    "extra": ""
+  }
+}

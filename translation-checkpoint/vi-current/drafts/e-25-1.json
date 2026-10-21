@@ -1,0 +1,14 @@
+{
+  "id": "e-25-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "7bf921053ccec033f61705a11e37dde8c2033568f72a29472e737f7ea909b47c",
+  "translator": "batch11_estate",
+  "translation": {
+    "title": "Có người mất tại nhà hoặc bên ngoài, trước hết phân biệt tử vong bình thường với bất thường: tai nạn, không rõ nguyên nhân, sống một mình rồi mới được phát hiện thì báo công an ngay, không động vào thi thể và hiện trường",
+    "cost": "Không tốn tiền. Chỉ cần gọi một cuộc điện thoại.",
+    "plain": "Mất do tai nạn, không rõ nguyên nhân hoặc sống một mình lâu rồi mới được phát hiện, chưa được bệnh viện cứu chữa thì công an cấp giấy chứng tử. Hiện trường bị xáo trộn khiến khó làm rõ sự việc, cũng khó cấp giấy. Không có giấy này thì hỏa táng, xóa hộ khẩu, yêu cầu bảo hiểm đều bị vướng. Không phân biệt được loại nào thì gọi 110 trước; cảnh sát điều tra xong vẫn cấp được giấy.",
+    "benefit": "Khoản hai Điều tám Điều lệ đăng ký hộ khẩu: ‘Công dân tử vong do tai nạn hoặc không rõ nguyên nhân thì chủ hộ, người phát hiện phải lập tức báo đồn công an địa phương hoặc ủy ban nhân dân hương, trấn’. Nghĩa là xảy ra tai nạn hoặc không biết người đó mất thế nào, chủ hộ và người phát hiện phải báo ngay đồn công an hoặc chính quyền hương, trấn. Điều hai mươi ba Điều lệ quản lý tang lễ: ‘Cá nhân tử vong bình thường thì cơ sở y tế phải kịp thời cấp giấy chứng tử. Người mất trong vụ việc tử vong bất thường thuộc diện công an xử lý theo luật và chưa được cơ sở y tế cứu chữa thì do công an cấp giấy chứng tử’. Nghĩa là mất do bệnh bình thường thì cơ sở từng chữa bệnh cấp giấy; chưa được bệnh viện cứu chữa và thuộc công an xử lý thì công an cấp. Hiện trường bị động vào khiến vừa khó giải thích vừa khó cấp giấy. Hỏa táng, xóa hộ khẩu, yêu cầu bảo hiểm sau đó đều phụ thuộc tờ giấy này.",
+    "notes": "Nằm bệnh lâu ngày rồi qua đời tại nhà được tính là tử vong bình thường. Có thể xin giấy từ cơ sở chữa bệnh lúc còn sống hoặc trung tâm dịch vụ y tế cộng đồng, trạm y tế hương, trấn nơi cư trú. Cơ sở cứu chữa cấp giấy chứng tử; xem mục 2 về giấy chứng tử. Không phân biệt được thì xử lý như tử vong bất thường, gọi 110 trước; cảnh sát đến điều tra xong vẫn có thể cấp giấy. Nếu dọn sạch hiện trường rồi mới báo thì không ai giúp được. Đừng tự di chuyển, lau rửa, thay quần áo cho thi thể; cũng đừng cất lọ thuốc và giấy nhắn.",
+    "extra": ""
+  }
+}

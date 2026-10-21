@@ -1,0 +1,15 @@
+{
+  "id": "e-29-13",
+  "source_sha256": "b99ca0a3e44100fbd8f1e26686890ae042523fa26c19f52ec55244136d7c8bd1",
+  "draft_sha256": "9e2461505ef238abab5935b1bba4bcc1e2deeeabc4974d097a05f4b16af219e8",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Preserved Chinese insurance two-year start/reinstatement period and civil-incapacity exception, cash surrender value versus insured amount, three occupational death benefits,6months/20times and estate-limited debt. Source title/plain omit detailed insurance exception; detailed benefit retains it, no new eligibility claim. References4/1.25/1.32/1.33/19.15/25.11/25.9 checked."
+}

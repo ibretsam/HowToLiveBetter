@@ -1,0 +1,15 @@
+{
+  "id": "e-29-3",
+  "source_sha256": "417fba48580988b082121a30ac313d68d17a168d9da4fe56d01c29730b95e96b",
+  "draft_sha256": "7eb1b62b79ad03ddee5c83172170732cd92db4094ae611680fdf7d9e5fd30878",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. All 42/235/2000 figures and HR/24% preserved, observational causality caveat and references 7/19 retained. Source gloss equates a lower mean HR with a lower increase; recorded as source simplification and not corrected in translation."
+}

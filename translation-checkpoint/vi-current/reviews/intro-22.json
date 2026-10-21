@@ -1,0 +1,15 @@
+{
+  "id": "intro-22",
+  "source_sha256": "1af5a29fc7340e8665b84fd2893a9ef37b9fbf07ea64b0f8bd5f6b9530d385dd",
+  "draft_sha256": "6b2133cc6f00ad164038954884347d529ae9f1375da582ba3ea3b59ea37551c1",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of title and intro: two distinct outcome frameworks, no conversion between halves, sections 11/12 safety additions and chapter-three reference preserved."
+}

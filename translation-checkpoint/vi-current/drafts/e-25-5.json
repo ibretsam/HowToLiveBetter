@@ -1,0 +1,14 @@
+{
+  "id": "e-25-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a9661c56d469fb9148ed38635494f5b7ecdaeefccafb3851b78992a99d939450",
+  "translator": "batch11_estate",
+  "translation": {
+    "title": "Xóa hộ khẩu người đã mất có thời hạn luật định: thành thị trước khi an táng, nông thôn trong vòng một tháng",
+    "cost": "Không tốn tiền. Mang giấy chứng tử và sổ hộ khẩu đến đồn công an một lần.",
+    "plain": "Thành thị phải xóa hộ khẩu trước khi an táng, nông thôn trong vòng một tháng. Mang giấy chứng tử và sổ hộ khẩu đến đồn công an làm thủ tục. Trì hoãn sẽ khiến sang tên thừa kế, nhận chế độ và hoàn phí bảo hiểm bị vướng vì tình trạng đăng ký hộ khẩu.",
+    "benefit": "Khoản một Điều tám Điều lệ đăng ký hộ khẩu: ‘Công dân tử vong thì ở thành thị trước khi an táng, ở nông thôn trong vòng một tháng, chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm phải khai báo đăng ký tử vong và xóa hộ khẩu tại cơ quan đăng ký hộ khẩu. Nếu tử vong tại nơi tạm trú thì cơ quan đăng ký hộ khẩu nơi tạm trú thông báo cho cơ quan nơi thường trú xóa hộ khẩu’. Nghĩa là thành thị làm trước khi chôn cất, nông thôn trong một tháng. Chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm đều có thể đến cơ quan đăng ký hộ khẩu, tức đồn công an, báo tử và xóa hộ khẩu. Mất khi tạm trú ở địa phương khác thì đồn công an nơi tạm trú báo đồn công an nơi đăng ký hộ khẩu xóa hộ khẩu.",
+    "notes": "Hộ khẩu còn giữ thì sang tên thừa kế, nhận chế độ, hoàn phí bảo hiểm đều vướng, vì những nơi xử lý đều xem tình trạng đăng ký hộ khẩu. Nếu lương hưu vẫn được trả thì đó là nhận trái phép, sớm muộn phải trả lại. Đến đồn công an nên hỏi luôn cách dừng chế độ bảo hiểm xã hội, y tế và xin trợ cấp tang lễ. Các khoản tiền xem mục 9 về số dư quỹ nhà ở và chế độ bảo hiểm xã hội.",
+    "extra": ""
+  }
+}

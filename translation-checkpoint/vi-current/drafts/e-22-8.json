@@ -1,0 +1,14 @@
+{
+  "id": "e-22-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "6398cc5e3f4d9caff87074abe7178a3544767735be7187eea20c9bae7b9e0d15",
+  "translator": "batch11_leisure",
+  "translation": {
+    "title": "Muốn dịu lại ngay lúc đó, thử “thở dài theo chu kỳ” trong 5 phút: hít vào hai nhịp, kéo dài hơi thở ra",
+    "cost": "Không tốn tiền. Mỗi ngày 5 phút.",
+    "plain": "Tập thở 5 phút mỗi ngày trong một tháng giúp tâm trạng cải thiện và nhịp thở chậm lại tốt hơn thiền chánh niệm cùng thời lượng. Trong các cách thở, “thở dài theo chu kỳ” với hơi thở ra kéo dài cho kết quả tốt nhất. Hít một hơi bằng mũi, hít thêm một hơi nhỏ cho đầy phổi rồi từ từ thở hết ra bằng miệng. Đây mới chỉ là một thử nghiệm, hiệu quả do người tham gia tự báo cáo, nhưng không tốn tiền.",
+    "benefit": "Đây là một thử nghiệm đối chứng phân nhóm ngẫu nhiên thực hiện tại nhà, so sánh ba cách tập thở mỗi ngày 5 phút với thiền chánh niệm cùng thời lượng trong 1 tháng. Ba cách gồm: thở dài theo chu kỳ, nhấn mạnh kéo dài hơi thở ra; thở hình hộp, với thời gian hít vào, nín thở và thở ra bằng nhau; và tăng thông khí theo chu kỳ kèm nín thở, hít vào dài và thở ra ngắn. Khi gộp dữ liệu của từng người qua các lần đo bằng mô hình hiệu ứng hỗn hợp, các bài tập thở đều tốt hơn thiền chánh niệm, đặc biệt là thở dài theo chu kỳ tập trung vào thở ra. Cách này tốt hơn cả về cải thiện tâm trạng (P<0.05, nghĩa là chênh lệch này không giống kết quả tình cờ) và giảm tần số thở (P<0.05).",
+    "notes": "Hít một hơi bằng mũi, nhanh chóng hít thêm một hơi nhỏ cho đầy phổi, rồi thở ra bằng miệng thật chậm và dài cho hết hơi; lặp lại trong 5 phút. Chỉ có một thử nghiệm này, thực hiện tại nhà, số người không nhiều và hiệu quả do người tham gia tự điền bảng hỏi. Tác dụng chỉ nhỉnh hơn thiền, chưa thể coi là giải quyết được vấn đề. Nhưng cách này không tốn tiền, chỉ cần 5 phút và làm được mọi lúc mọi nơi, nên lợi ích so với chi phí cao.",
+    "extra": ""
+  }
+}

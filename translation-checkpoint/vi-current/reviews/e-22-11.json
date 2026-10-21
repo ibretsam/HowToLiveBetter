@@ -1,0 +1,15 @@
+{
+  "id": "e-22-11",
+  "source_sha256": "381445fa8bd1dbff44a1092e772339807137bfdc6080849dd120f164c35d44b1",
+  "draft_sha256": "065e0b94c3e0816c3fabcf6699972a5904bb56317ecda97b0c14e6c20d374dc4",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: Finland/Tokyo/Japan/China attribution, every sample/date/death count, >0.5 mg/ml boundary, inclusive age 65, low absolute mortality and case-only evidence limitations preserved. Both chapter-two and chapter-thirteen cross-references preserved."
+}

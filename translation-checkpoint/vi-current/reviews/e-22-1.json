@@ -1,0 +1,15 @@
+{
+  "id": "e-22-1",
+  "source_sha256": "d2844f10efc8d797fa9235fe1f999fad785fa4d5293f1b12f4a1d125823cab21",
+  "draft_sha256": "003e6c87d9a2205cb7189fdfe868d7e30ba74cc824b643d0b7fc51e5a5629051",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields with pinned Chinese source: exit access, locked windows, ten-second check, warning-sign reporting telephone and every condition preserved. No translation correction required."
+}

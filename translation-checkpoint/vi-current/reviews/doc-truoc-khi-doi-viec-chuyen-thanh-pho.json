@@ -1,0 +1,15 @@
+{
+  "id": "doc-truoc-khi-doi-viec-chuyen-thanh-pho",
+  "source_sha256": "616da6e67831da1a4230b721a52e433637f6601d742cdf7269eead445f70d8e7",
+  "draft_sha256": "0d21b6cce0d35b8e8ee943914e369e84a36b17db1dfa9b9d68b58beeb4571c93",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Read and compared the full original and Vietnamese article, all64 numbered items across9sections plus opening/links. All health,relationships,time,money,resignation,exit,new-contract,housing,insurance/medical items compared, including everynumber,crossref,negation,condition,date,age andupper/lowerlimit. Corrected 上千元 from morethanone thousand to thousands, 六成/三成 to natural Vietnamese sixty/thirty percent writtenwords, and绿地 from trees to green space. Source simplifications retained:70vs56-hour workstudy generalization,nightshift/bullying/social/relationship causal/absolute shorthand,overlapping probation1/1to3/3+year ranges andomitted below3month exception,recording/noncompete/employmentinsurance summaries,resident400CNY/3monthwaiting rule andoccupationalcheckgeneralization. Chinese context explicitly in national2025spending andCNY; noVietnamese legal substitution or updated advice. SourceURL to Chinese article retained for existing buildmapping. Not current law or externalstudy verification."
+}

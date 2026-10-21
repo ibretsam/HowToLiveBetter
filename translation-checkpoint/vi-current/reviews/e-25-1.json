@@ -1,0 +1,15 @@
+{
+  "id": "e-25-1",
+  "source_sha256": "7bf921053ccec033f61705a11e37dde8c2033568f72a29472e737f7ea909b47c",
+  "draft_sha256": "dc5c3698277db74a5342b8e9f76e6f48454f0f9ed51f180e734ac61be41bb009",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields against full original. Preserves scene protection, abnormal-death jurisdiction,110, and proof-first procedure; source categorical procedural claims retained, not verified as current law."
+}

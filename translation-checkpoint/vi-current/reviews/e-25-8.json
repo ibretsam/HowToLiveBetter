@@ -1,0 +1,15 @@
+{
+  "id": "e-25-8",
+  "source_sha256": "a2de6514c55c395e3e26884685e2c5009e0e03898c4cd57aa65537761b5738a3",
+  "draft_sha256": "5ff2ceb0127a01e526c4b2eab9aab786f3060ca9dc4fa261266e31a7d7ed9e95",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:county civil-affairs registration,local lookup variability,violations/public marking and online memorial restrictions preserved."
+}

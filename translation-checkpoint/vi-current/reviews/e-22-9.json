@@ -1,0 +1,15 @@
+{
+  "id": "e-22-9",
+  "source_sha256": "9e1c53615a332582dc72c7e00fb3f6f91831805fbb245854ef36c51cd2cf46a9",
+  "draft_sha256": "debd7aaec64475016e1e87f16405d0a6e0b46cac84230f4cdfb402eb8d42c1bf",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: seventy studies, 340 van participants, seven years, OR values, inclusive age 65 boundary, observational uncertainty and chapter-three cross-reference preserved. Source converts odds ratios to probability language; translated as source wording without independently endorsing conversion."
+}

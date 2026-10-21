@@ -1,0 +1,15 @@
+{
+  "id": "e-22-5",
+  "source_sha256": "3e0fc3f68930b6d19065df1a5cb9dd9675d4e6aa05acec2cd41ac849d99b2af7",
+  "draft_sha256": "c68c7269568121893de9385b180c8fb282d25a8cbf22fe371b0533e4937b8de5",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: basement exclusion explicitly preserves first-basement exception; minor-access and holiday conditions, five agencies, 2022/2021 dates and thirteen inspected premises preserved."
+}

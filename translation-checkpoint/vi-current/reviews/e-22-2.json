@@ -1,0 +1,15 @@
+{
+  "id": "e-22-2",
+  "source_sha256": "076a160228af7fff95968b2762f49de188ebb4a9e9c12eaa377211e63f878e56",
+  "draft_sha256": "e2de50c1eedcf04dc881377fc83b88c9e5c99cbae9054565426dda2758299bc6",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: posted prices, confirmation list, 12315, prior-payment evidence difficulty and author-experience qualification preserved."
+}

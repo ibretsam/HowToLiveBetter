@@ -1,0 +1,15 @@
+{
+  "id": "e-29-8",
+  "source_sha256": "0eb5096ce13305f7d027dbbbe8c10e283a369a87003754c6bd2f021734f1b8da",
+  "draft_sha256": "f46b71d1812b7e4be704f7c592a72fb755f7ef7b8a7e719f31d16b53e10a5d2f",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Clarified nonpsychiatric population as not among those currently attending psychiatric care rather than never having attended. All intervals, diagnostic conditions, nine symptoms/five minimum, response rates and NNT preserved. Source6/12month variation and not waiting for a threshold retained."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "intro-25",
+  "source_sha256": "62822e4583f740164da6bdedb912cd63f435ae023c8da415499990802d74f4bd",
+  "draft_sha256": "906f2eace8cb8760bbd525b12557e6469a4f685f6969dbea68a5894ec2c67654",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full original introduction compared:money metric,five ordered procedures,17/19/9 crossrefs and30March2026effective date preserved."
+}

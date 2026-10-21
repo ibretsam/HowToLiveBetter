@@ -1,0 +1,14 @@
+{
+  "id": "e-25-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a2de6514c55c395e3e26884685e2c5009e0e03898c4cd57aa65537761b5738a3",
+  "translator": "batch11_estate",
+  "translation": {
+    "title": "Trung gian như đại diện tang lễ, mua hộ đồ dùng, lập kế hoạch và chủ trì nghi lễ phải đăng ký với cơ quan dân chính cấp huyện",
+    "cost": "Không tốn tiền. Hỏi một câu đã đăng ký chưa.",
+    "plain": "Trung gian đại diện tang lễ, mua hộ đồ dùng, lập kế hoạch, chủ trì nghi lễ, tư vấn thông tin phải đăng ký với cơ quan dân chính cấp huyện. Chưa đăng ký thì không có trong hệ thống thông tin dịch vụ tang lễ của cơ quan dân chính. Có tự tra được hay không tùy địa phương; chắc chắn nhất là gọi cơ quan dân chính cấp huyện. Dùng lừa dối thu phí trái quy định hoặc mua bán thông tin người mất sẽ bị xử lý theo luật.",
+    "benefit": "Trung gian chưa đăng ký không có trong hệ thống thông tin dịch vụ tang lễ do cơ quan dân chính quản lý. Dùng thủ đoạn lừa dối thu phí trái quy định, dụ làm tang lễ phô trương tốn kém, ép nhận dịch vụ hoặc mua bán thông tin người mất sẽ bị xử lý theo luật. Vi phạm còn được đánh dấu trong hệ thống, công khai cho xã hội để mọi người thấy.",
+    "notes": "Nền tảng tưởng niệm, tảo mộ trực tuyến cũng chịu quản lý. Điều bốn mươi lăm của điều lệ không cho phép dụ dỗ chi tiêu hoặc xử lý trái pháp luật thông tin người mất.",
+    "extra": ""
+  }
+}

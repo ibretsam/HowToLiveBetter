@@ -1,0 +1,15 @@
+{
+  "id": "e-25-4",
+  "source_sha256": "1df33be5941d236ae034199d43f6ae3814eaf45d224467ecd5638a396c2cf28f",
+  "draft_sha256": "bc9b5dcc0446a56a4f2bb7907f9864545b29d72b7d0009813088c411d97a3fdb",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:48-hour autopsy,7-day freezing extension,close-relative signature,delay liability and bilateral sealing attendance preserved; source no-cost label retained."
+}

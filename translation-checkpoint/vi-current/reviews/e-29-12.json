@@ -1,0 +1,15 @@
+{
+  "id": "e-29-12",
+  "source_sha256": "bde220c5f2d6c165b1abd21075708fb567b35f3d0c5fa9762177bca2df7fdf72",
+  "draft_sha256": "e7cceca095c5904df36ae7a539f5b133331ba9d862b7e9633a302bfa81b5693e",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Corrected lost schooling wording. Preserved induced sadness versus actual bereavement,13–34%,3months experiment,author-defined thresholds and benefit-claim limitations. All exceptions for benefits that require prompt action and references11/17/6/8/25/19 checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-25-6",
+  "source_sha256": "413f3b0a43be2bc8717aca0dbb047a177c7b6585c9e07b9b4ee10ed1d20c4839",
+  "draft_sha256": "3f39d91129798b75ffa76339715eef1b8e4ced6180b8c2c023ac46cfd9c475e4",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison:basic/nonbasic inventories,government-provider qualification,provincial expansion and choice preserved. Source notes shorthand outside-list optional differs from plain prohibition outside inventories; retained as source caveat."
+}

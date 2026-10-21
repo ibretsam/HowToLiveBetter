@@ -1,0 +1,15 @@
+{
+  "id": "e-29-1",
+  "source_sha256": "a6ffc08facdafb38441e048d369e136ef8d702d2f7ca722a71d3d72467173bf9",
+  "draft_sha256": "de7a0bc66355f1be7655bb827551072c94f797e56c58f54f011ce0cf84a54352",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields. Preserved first-day versus subsequent intervals, 21.1 and all IRR/CI values, absolute excess counts, medication and emergency conditions, and cross-references 2/13/6. Source retrospective causality limitations retained; no independent clinical verification."
+}

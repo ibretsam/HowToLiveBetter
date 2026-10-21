@@ -1,0 +1,15 @@
+{
+  "id": "e-25-3",
+  "source_sha256": "bca55e9b48b02e36610422cc1ec08987daa20e63ee560aa9ad6dae5111c1cadd",
+  "draft_sha256": "081993b6bda921452e629de15ffd4034b1a7b0a1e16e2309b52957c7ae3093b8",
+  "reviewer": "batch11_recovery_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison: exclusive funeral-home services,3-day usual storage limit, extension, both cremation documents, local cremation conditions and minority customs preserved. Source no-cost cost label and title storage shorthand retained."
+}

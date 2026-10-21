@@ -1,0 +1,15 @@
+{
+  "id": "e-22-4",
+  "source_sha256": "ad57aeaa652c99c338df3f4a96f0d75318f00ed5c5783919947349b014b1c640",
+  "draft_sha256": "433f0bb43652d793b8959a49e3452b1802818c365cdd5907029f872c6168d845",
+  "reviewer": "batch11_estate_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields: 2021/2023/2026 dates, approximate juvenile share, criminal and administrative penalties, coercion/deception mitigation, detoxification conditions and cross-references preserved. Source legal assertions retained without independent reassessment."
+}

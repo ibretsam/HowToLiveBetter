@@ -1,0 +1,15 @@
+{
+  "id": "e-29-6",
+  "source_sha256": "54f50acd483c36198ac295b3e939877b9bca617db909796e8ef32fe1cef998b8",
+  "draft_sha256": "667b7930fa2e5edcb6f376917236088af9425aa501fedd40af5c1fd59a590dcb",
+  "reviewer": "batch11_leisure_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Corrected ministry plus ten agencies to ten agencies total; corrected lost schooling to loss of access to schooling rather than voluntary dropping out. All cohort numbers, intervals and service conditions retained. Source age80+ overlaps66–80; original inclusive wording preserved. Source observational association and categorical practical advice remain as source, not independently medically validated. Cross-references 11/13.1/25/22.9 checked."
+}
