@@ -1,0 +1,14 @@
+{
+  "id": "e-10-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "3deba82c8cdc444a51313008731176bdada832bc3ed229dca39a87f2d5cb3c02",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Xem số liệu đăng ký trước khi nghe người lớn: tỷ suất kết hôn và ly hôn được tính theo cách nào",
+    "cost": "Không tốn tiền. Mất vài phút đọc phần đăng ký hôn nhân trong thông cáo hằng năm của Bộ Dân chính.",
+    "plain": "Năm 2024, cả nước có 610.6 vạn cặp đăng ký kết hôn, ít hơn khoảng hai phần mười so với năm trước, và 351.3 vạn cặp ly hôn. Con số tỷ lệ ly hôn quá nửa trên mạng là lấy hai số này chia nhau, khoảng 57.5%. Nhưng người ly hôn và người kết hôn không cùng một nhóm, nên không thể hiểu rằng một nửa số cuộc hôn nhân sẽ kết thúc bằng ly hôn. Tỷ suất kết hôn 4.3‰ và ly hôn 2.5‰ trong thông cáo được tính bằng cách chia cho dân số cả nước.",
+    "benefit": "Năm 2024, cả nước có 610.6 vạn cặp làm thủ tục đăng ký kết hôn theo luật, giảm 20.5% so với năm trước; tỷ suất kết hôn là 4.3‰. Cùng năm, 351.3 vạn cặp làm thủ tục ly hôn theo luật, gồm 262.2 vạn cặp đăng ký ly hôn tại cơ quan dân chính và 89.1 vạn cặp ly hôn theo phán quyết hoặc hòa giải của tòa án. Tỷ suất ly hôn là 2.5‰. Thông cáo ghi rõ: tỷ suất kết hôn (ly hôn) = số cặp kết hôn (ly hôn) trong năm / tổng dân số trung bình năm × 1000‰. Đây là tỷ suất thô, mẫu số là toàn bộ dân số, không phải dân số đã kết hôn.",
+    "notes": "Cách nói phổ biến trên mạng “tỷ lệ ly hôn từ 50% trở lên” lấy số cặp ly hôn trong năm chia cho số cặp kết hôn cùng năm: 351.3 / 610.6 ≈ 57.5%. Đây là tỷ số ly hôn trên kết hôn. Hai con số không thuộc cùng một nhóm người, và thông cáo cũng không có chỉ số này, nên không thể hiểu là “một nửa số cuộc hôn nhân sẽ ly hôn”. Muốn tính xác suất một cuộc hôn nhân cuối cùng kết thúc bằng ly hôn, phải theo dõi cùng một nhóm người kết hôn suốt quá trình sau đó. Chương này chưa tìm được dữ liệu chính thức như vậy.",
+    "extra": ""
+  }
+}

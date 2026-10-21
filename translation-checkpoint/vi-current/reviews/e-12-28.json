@@ -1,0 +1,15 @@
+{
+  "id": "e-12-28",
+  "source_sha256": "d60f7fa1b42a30f672eeac6ab522bc60ba62b6518171f5203f9c3e8dee57cf26",
+  "draft_sha256": "01d0992bca157ec97b98969e7b9e6087e5218ad628843324190dcd76f0a86f11",
+  "reviewer": "root_batch8_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường và nguồn. Giữ phân biệt doanh nghiệp hợp danh với hợp đồng hợp tác, yêu cầu văn bản/toàn bộ thành viên, thứ tự thỏa thuận rồi thương lượng rồi vốn thực góp rồi chia đều, mặc định không thù lao và ngoại lệ. Giữ liên đới/truy hoàn, thời gian báo trước hợp lý khác30 ngày, hạn chế dồn toàn bộ lãi/lỗ, mức C dựa kinh nghiệm. Nguồn tóm lược điều kiện rút khỏi doanh nghiệp hợp danh, không thêm điều kiện ngoài bản gốc. Dẫn12-3/12-26 đúng."
+}

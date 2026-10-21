@@ -1,0 +1,15 @@
+{
+  "id": "e-10-5",
+  "source_sha256": "d8cb0a2f36cc76c422a5b786d1979948901964b6093636d4f02af89ce5fd9cc7",
+  "draft_sha256": "67d2ed6b33062c8603574e5425732eff4467297461f8923041e595eeab257602",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves36questions45minutes, comparison with control and students closest-real-relationship ratings, one experiment, short-term closeness not long-term relationship outcome."
+}

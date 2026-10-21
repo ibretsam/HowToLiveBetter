@@ -1,0 +1,15 @@
+{
+  "id": "e-12-13",
+  "source_sha256": "a472b6b0a7e2899e881bef16046859d0e5bd64defad9b835af4422d825602034",
+  "draft_sha256": "8cb7f95ca939ea1f1a0c380fb4a43309d52a49d30bb2e87a147b915f60ecbdb8",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ ngưỡng chưa đạt10/30vạn và1000theo lần/ngày,1/1/2026–31/12/2027,3%→1% cùng ngoại lệ bất động sản/quyền đất;3/10năm và2–20vạn. Lời diễn giải giao dịch giả được đối chiếu với lợi ích, không coi mọi hóa đơn thật là xuất khống. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-10-23",
+  "source_sha256": "43073cbffd94bcb149e1faf27b9caab0d3eb932616a878e75894b729f590e8ee",
+  "draft_sha256": "124406d604e6cebd044c7ccffa6774533952152d217434a97ad86bee1b3fab30",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves custody age boundaries, best-interests/child-wishes standards,20–30% reference not agreement minimum,50% usual cap for2+ children,8000 example1600–2400,18year endpoint, increased-needs exceptions and enforcement cannot compel child bodily visitation."
+}

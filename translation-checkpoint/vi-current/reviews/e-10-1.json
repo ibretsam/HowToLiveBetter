@@ -1,0 +1,15 @@
+{
+  "id": "e-10-1",
+  "source_sha256": "d72b8df4ba00880246a467e810849a62f3571dab63554681499db79abb0a5fdb",
+  "draft_sha256": "0f27976b24484df506c2564dc108c9da5ea0c7f9574db9c4e5d3ede7dc278299",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Preserves 100+ questionnaire items, variance 4%–18% and7%–27%, no prediction of dyadic chemistry, no claim all effort futile, Western student applicability caveat."
+}

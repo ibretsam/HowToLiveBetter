@@ -1,0 +1,14 @@
+{
+  "id": "e-12-1",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "cd600184a40c67a6afc54fb89164896193f138fc0b6050dd082abac8f5ae75a5",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Chỉ dùng khoản tiền có thể chấp nhận mất để khởi nghiệp; không đụng vào tài sản nền tảng của gia đình, không vay để bắt đầu kinh doanh",
+    "cost": "Không tốn tiền. Trước khi bắt đầu, hãy đặt một giới hạn: dù mất sạch khoản này, bạn vẫn trả được vay nhà, nuôi con và khám chữa bệnh. Không đầu tư quá giới hạn đó. Không tính tiền của người nhà và tiền đi vay vào khoản này. Điều khó là kiềm chế không rót thêm khi việc kinh doanh có vẻ khởi sắc.",
+    "plain": "Hộ kinh doanh cá thể mắc nợ thì phải trả bằng tiền và tài sản đứng tên bạn. Không phân biệt được có phải cả nhà cùng kinh doanh hay không thì phải dùng tài sản cả nhà trả. Mở công ty cũng chưa chắc an toàn: khi công ty không trả được nợ, chủ nợ có thể yêu cầu bạn nộp sớm khoản vốn đã cam kết góp dù chưa đến hạn. Vì vậy, hãy chọn số vốn theo nguyên tắc mất sạch vẫn trả được vay nhà và khám chữa bệnh.",
+    "benefit": "Thua lỗ không chỉ là mất vốn. Hộ kinh doanh cá thể mắc nợ, nếu một mình bạn kinh doanh thì phải trả bằng tiền và tài sản đứng tên mình, tức chịu trách nhiệm bằng tài sản cá nhân. Nếu cả nhà cùng làm hoặc không xác định được ai làm, phải trả bằng tiền và tài sản cả gia đình. Khoản nợ cả vợ và chồng cùng ký là nợ chung, cả hai cùng trả. Một bên đồng ý sau đó cũng vậy. Một bên vay dưới tên riêng, chỉ cần chủ nợ chứng minh tiền dùng cho việc kinh doanh chung của vợ chồng thì cả hai vẫn phải trả. Với công ty cũng có một quy định. Số tiền cổ đông hứa góp trong vốn đăng ký gọi là vốn cam kết góp. Khi công ty không trả được nợ đến hạn, chủ nợ có thể yêu cầu cổ đông nộp sớm phần vốn cam kết chưa đến hạn góp (toàn quốc).",
+    "notes": "“Có thể chấp nhận mất” nghĩa là mất sạch khoản tiền này cũng không phải bán nhà hay vay người thân để bù lỗ. Lần này chưa tìm được bản gốc có thể kiểm chứng trên trang Cục Thống kê Quốc gia và Tổng cục Quản lý thị trường về tỷ lệ doanh nghiệp tồn tại hay số năm tồn tại trung bình. Vì vậy nội dung không nêu số liệu đó, chỉ nêu hậu quả pháp lý, xếp mức B.",
+    "extra": ""
+  }
+}

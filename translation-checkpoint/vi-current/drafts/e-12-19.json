@@ -1,0 +1,14 @@
+{
+  "id": "e-12-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "27212424b2def247f231448083deb5a08cd078e952b9f4c3144eaa5ecc4386d3",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Làm xong mẫu thì kiểm tra danh sách chuẩn bị sản xuất hàng loạt trước khi khởi công",
+    "cost": "Vài trăm nhân dân tệ để sản xuất thử lô nhỏ. Dành thêm vài giờ tính tỷ lệ đạt chuẩn, tức trong 100 sản phẩm có bao nhiêu món bán được. Cũng phải tính từng khoản: số lượng đặt tối thiểu và kỳ hạn thanh toán của nhà cung cấp, tiền bị giữ trong hàng tồn, đóng gói, vận chuyển, chứng nhận, giấy phép và nhãn hiệu. Điều khó là không bỏ qua bước này để làm ngay.",
+    "plain": "Khác biệt giữa một sản phẩm mẫu và một nghìn sản phẩm là tiền bị giữ ở đâu. Tỷ lệ đạt chuẩn quyết định chi phí thật; số lượng đặt tối thiểu và kỳ hạn thanh toán quyết định bạn phải ứng bao nhiêu; hàng tồn quyết định lúc nào tiền về. Nếu sản phẩm trong danh mục chứng nhận bắt buộc, chưa chứng nhận và gắn dấu chứng nhận thì không được xuất xưởng, bán ra.",
+    "benefit": "Khác biệt giữa một mẫu và một nghìn sản phẩm là tiền bị giữ ở đâu. Tỷ lệ đạt chuẩn quyết định chi phí thật: trong lô làm ra có bao nhiêu phần đạt yêu cầu để bán. Số lượng tối thiểu nhà cung cấp bắt đặt một lần và thời gian sau giao hàng mới nhận được tiền quyết định bạn phải ứng trước bao nhiêu. Hàng tồn quyết định lúc nào tiền về. Sản phẩm thuộc danh mục chứng nhận bắt buộc phải được chứng nhận và gắn dấu chứng nhận trước khi xuất xưởng, bán ra. Tự ý xuất xưởng, bán khi chưa chứng nhận bị phạt theo Điều lệ Chứng nhận và công nhận. Phục vụ ăn uống và bán thực phẩm phải có giấy phép kinh doanh thực phẩm (toàn quốc).",
+    "notes": "Bản thân danh sách kiểm tra là phương pháp dựa trên kinh nghiệm; phần điều luật đã kiểm chứng nguyên văn. Trước sản xuất, vào hệ thống tra cứu nhãn hiệu của Cục Sở hữu trí tuệ Quốc gia để xem có đăng ký tương tự không, rồi đăng ký nhãn hiệu của mình. Ranh giới khi dùng nhãn hiệu và hình của người khác xem mục 20, 21 (giữ chứng từ nhập hàng; tự làm hình hoặc mua quyền sử dụng). Danh mục chứng nhận bắt buộc theo công bố mới nhất của Tổng cục Quản lý thị trường.",
+    "extra": ""
+  }
+}

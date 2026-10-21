@@ -1,0 +1,15 @@
+{
+  "id": "e-15-6",
+  "source_sha256": "564dae517aa6382886a759cd273fe34ef68c21e19a01a2dd0831d1f6b7ae19f8",
+  "draft_sha256": "ffe8c00ac8afb375331c4a4672d3b28cc6289999a7f2a27ca9b7038bf47ca7dc",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ ranh giới dữ liệu tra trước/sau ký, ngoại lệ thế chấp/kê biên có trước, thuê và vào ở trước thế chấp thì được bảo vệ, quyền chấm dứt/giảm tiền và chi phí kiện 6 tháng, luật sư tự trả. Dẫn6/14 đúng."
+}

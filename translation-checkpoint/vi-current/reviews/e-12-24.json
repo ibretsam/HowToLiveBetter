@@ -1,0 +1,15 @@
+{
+  "id": "e-12-24",
+  "source_sha256": "19921a24edcc10f4700952c487e1f39521d34a650308be5e5a5eda6a2b238ec6",
+  "draft_sha256": "88804ae5a0c4316f57532e4e4b1db6b45af1b021db2fb78c03427ed15bb44168",
+  "reviewer": "root_batch8_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường,55 người/7711 nạn nhân/5299.4 vạn,14 năm và13 năm6 tháng, bốn bước lừa,90 vạn/3 ngày,10/5/53 vạn và hạn1 năm. Sửa cách gọi mô hình không giữ nguồn hàng thành không có nguồn hàng và làm rõ tiền nộp thêm về sau. Giữ khác biệt lừa đảo với dịch vụ thực hiện kém, các nguồn cùng dẫn8-2/12-5. Cụm nguồn suy rộng mô hình kinh doanh và thời gian sơ thẩm từ6 tháng được giữ, chưa kiểm chứng pháp lý độc lập."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-15-17",
+  "source_sha256": "6897e404f33ff44dbb54179a69e9cf7571b75ccf9c6622ce2a6f3f723419621a",
+  "draft_sha256": "1a687a44c44eb5c406f46b7fe6d86aa3dc20581afe5de9f39d97a145e1b69fee",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; phân biệt cắt dịch vụ ép phí quản lý bị cấm với ngừng điện do nợ chính tiền điện theo thủ tục và báo trước; không được viện không sử dụng để khỏi phí, được phản đối khoản thu sai. Giữ thu hồi, kiện6/3tháng và chi phí luật sư."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-10-17",
+  "source_sha256": "a465da8c380846b682f03710af2f97c4e72b00d8f0d6aab90eb3d4b4753b2c5b",
+  "draft_sha256": "ed80a387e6284561cf1cb7c99f28f447cea972bd380bd4c8356694d38932fce5",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves126studies7.2van, r .07–.21/.11/-.13,42couples two24-hour stays,60% wound-healing speed and IL-6; observational causality, publication bias, sex, no poor-marriage-vs-single mortality comparison, author inference and domestic-abuse cross-reference."
+}

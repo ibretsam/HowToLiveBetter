@@ -1,0 +1,15 @@
+{
+  "id": "e-12-21",
+  "source_sha256": "961c6d9146bd0d1dcf43924a05b059d3c3c3701f10bf3d40e1fd60e5c01601ae",
+  "draft_sha256": "938b666deb76860c8c830c084d267ddd59b6f75cbd779a4f1f23169e3fee208f",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ3vạnlợi/5vạnkinhdoanh/500bản theo OR,10lầnkhungnặng,5/10vạn bán bản sao,3/5/10năm,nhãn hiệu dễ nhầm,1–5lầnphạt,mốc26/4/2025 vàtham chiếu19/9.24;phân biệt phiên dịch sang tiếngTrung của 汉化. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

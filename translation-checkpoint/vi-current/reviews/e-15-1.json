@@ -1,0 +1,15 @@
+{
+  "id": "e-15-1",
+  "source_sha256": "b3d9cfb01c72aaabf989c36336ca1c6e9797f9926ee855f10c078f358032f884",
+  "draft_sha256": "47f27078084ae8b499937ad7ffa0ef880a5c1d6672f2602306ef6af3e2fa80ac",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ nguyên ngoại lệ lý do chính đáng trong câu trích luật; nguồn plain và câu kết benefit nói tuyệt đối hơn trích luật, không âm thầm sửa nguồn. Giữ ba nội dung hợp đồng, chứng cứ đồng hồ và dẫn 8/12.27."
+}

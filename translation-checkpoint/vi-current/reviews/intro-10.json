@@ -1,0 +1,15 @@
+{
+  "id": "intro-10",
+  "source_sha256": "1b7feec782ed11668ee862094a0b2f26221c3a692a189a05b6ffe052cf4d83b1",
+  "draft_sha256": "6d949e945abb9d26ab337a002a7d765be8a5c94d2a4f8b915ec4efad3d0f5589",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared title and complete introduction. Preserves separate money/time/health/legal/relationship accounts, no moral or substituted personal decision, source limitations, nonconvertible metrics, article link and all23 item references exactly once across thematic groups."
+}

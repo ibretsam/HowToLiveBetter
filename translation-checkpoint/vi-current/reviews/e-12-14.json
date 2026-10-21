@@ -1,0 +1,15 @@
+{
+  "id": "e-12-14",
+  "source_sha256": "281e731435f059d0afac964ac1e4e956835e19d2e0df51b09cb7d751e71f141f",
+  "draft_sha256": "8eb7f94b57d29459fa1c1b135308be8fa4367bdb6bdd71002b17bcc61e5fc0fe",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ12366,110,96110,danh sách thông tin ngân hàng không cung cấp,thanh tra cần hai giấy,10–15ngày và1000,quy định nặng hơn khi trùng tội;tham chiếu8.2/12.25. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

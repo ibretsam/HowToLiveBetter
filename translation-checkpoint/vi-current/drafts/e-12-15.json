@@ -1,0 +1,30 @@
+{
+  "id": "e-12-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "081494106d4f73a8bb92b581eea9333d33809a1c13bf594658659ccb6873e3d4",
+  "translator": "batch8_business",
+  "retained_terms": {
+    "title": [
+      "定金",
+      "订金"
+    ],
+    "cost": [
+      "定金"
+    ],
+    "plain": [
+      "定金",
+      "订金"
+    ],
+    "notes": [
+      "订金"
+    ]
+  },
+  "translation": {
+    "title": "Nhận tiền phải ghi “定金” (tiền đặt cọc bảo đảm), không ghi “订金” (tiền trả trước); ghi rõ mức phạt vi phạm và xét kỳ hạn thanh toán như cho vay",
+    "cost": "Không tốn tiền. Trong hợp đồng ghi đúng “定金”, số tiền không quá 20% tổng giá trị hợp đồng. Nhận tiền trước rồi giao hàng. Trước khi đồng ý cho bên kia lấy hàng trước, trả tiền sau, hãy kiểm tra họ.",
+    "plain": "Ghi đúng “定金” mới có quy tắc hoàn gấp đôi: bạn phá hợp đồng thì mất cọc; bên kia phá hợp đồng thì phải trả bạn gấp đôi. Phần vượt 20% giá trị hợp đồng không được tính là tiền đặt cọc này. Ghi “订金” thì pháp luật không có quy tắc đó. Cho trả chậm là cho bên kia vay tiền của mình không lãi; họ sụp đổ thì thành nợ xấu.",
+    "benefit": "Đặt cọc chỉ có hiệu lực khi tiền thực sự được giao cho bên kia. Bên trả cọc vi phạm hợp đồng thì không lấy lại được tiền. Bên nhận cọc vi phạm thì phải trả lại số ban đầu và bồi thêm đúng số đó, tức hoàn gấp đôi. Phần vượt 20% tổng giá trị nghĩa vụ của hợp đồng chính không tính theo quy tắc đặt cọc. Nếu mức phạt vi phạm thỏa thuận cao hoặc thấp quá mức so với thiệt hại thực tế, tòa có thể giảm hoặc tăng theo yêu cầu của một bên. Hợp đồng vừa có phạt vi phạm vừa có đặt cọc, khi vi phạm chỉ được chọn một, không được đòi cả hai (toàn quốc, từ năm 2021).",
+    "notes": "“订金” không có bộ quy tắc đặt cọc của Bộ luật Dân sự, thường chỉ được xem là tiền trả trước. Đây là cách hiểu thông dụng trong thực tiễn; chương này chưa kiểm chứng án cụ thể. Đặt cọc đăng ký mua nhà mới rồi không ký được hợp đồng chính thức có quy tắc riêng, xem chương 15 mục 11 (đặt cọc đăng ký mua). Cho thời hạn thanh toán là cho bên kia vay tiền mình không lãi; họ sụp đổ thì thành nợ xấu. Trước khi cho trả chậm, tra hồ sơ của họ trên Hệ thống công bố thông tin tín dụng doanh nghiệp quốc gia và xem có từng bị kiện không.",
+    "extra": ""
+  }
+}

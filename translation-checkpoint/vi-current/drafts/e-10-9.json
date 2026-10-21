@@ -1,0 +1,14 @@
+{
+  "id": "e-10-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "40508f645c2dd0cb8f942814953eef67ddeb84a879011a7c8da25b0a54d98ce1",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Tính chi phí thời gian theo lao động không được trả công và thỏa thuận rõ phân công trước khi đăng ký kết hôn",
+    "cost": "Không tốn tiền. Trước khi cưới, dành một hai giờ để phân công rõ việc nhà, chăm sóc người già và trẻ nhỏ, cũng như công việc của ai sẽ phải nhường bước. Đây đều là việc không được trả công; sau đó thực hiện theo thỏa thuận. Khó ở việc nói thẳng, đừng trì hoãn không nói.",
+    "plain": "Khảo sát sử dụng thời gian toàn quốc thống kê các việc không được trả công như việc nhà, bầu bạn và chăm sóc gia đình. Trong số người có làm vào ngày khảo sát, nam giới dành trung bình 1 giờ 52 phút mỗi ngày, nữ giới 3 giờ 29 phút. Khảo sát không chia nhóm theo tình trạng hôn nhân, nên không có số liệu chính thức về việc nhà tăng bao nhiêu sau khi cưới; chênh lệch giới này chỉ dùng để tham khảo giới hạn trên. Hai người có thể thỏa thuận cách phân công khác trước khi đăng ký kết hôn.",
+    "benefit": "Khảo sát sử dụng thời gian toàn quốc năm 2024 định nghĩa lao động không được trả công là việc nhà, bầu bạn và chăm sóc thành viên gia đình. Trong số người có làm các việc này vào ngày khảo sát, thời gian trung bình mỗi ngày là 2 giờ 45 phút; nam giới 1 giờ 52 phút, nữ giới 3 giờ 29 phút. Tỷ lệ người có làm những việc này trong ngày là 67.5% ở nam và 83.9% ở nữ. Thời gian làm việc nhà trung bình của người dân là 1 giờ 17 phút mỗi ngày; nếu chỉ tính người có làm thì là 1 giờ 59 phút, ít hơn năm 2018 là 28 phút. Thời gian bầu bạn và chăm sóc gia đình trung bình là 30 phút mỗi ngày; chỉ tính người có làm thì là 1 giờ 46 phút. Số liệu năm 2018: nam làm việc nhà 45 phút, nữ 2 giờ 6 phút; nam bầu bạn và chăm sóc con 17 phút, nữ 53 phút.",
+    "notes": "Cả hai khảo sát chỉ chia theo giới, thành thị/nông thôn và tuổi, không chia theo tình trạng hôn nhân. Vì vậy, không có số liệu chính thức về việc nhà tăng bao nhiêu sau khi cưới, chỉ có thể lấy chênh lệch giới làm giới hạn trên để tham khảo. Đây là số trung bình toàn quốc; hai người hoàn toàn có thể thỏa thuận cách phân công khác.",
+    "extra": ""
+  }
+}

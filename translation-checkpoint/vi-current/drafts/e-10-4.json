@@ -1,0 +1,14 @@
+{
+  "id": "e-10-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "327dab67a6c57f460543870095cb3f2ad4562794e322e8733b6d7957898aea66",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Đánh giá mối quan hệ tốt hay không chủ yếu qua cảm nhận của bạn trong mối quan hệ, thay vì điều kiện của đối phương",
+    "cost": "Không tốn tiền và cũng không mất nhiều thời gian. Khó ở việc đổi góc nhìn: cất danh sách tiêu chuẩn chọn bạn đời và nhìn vào quá trình ở bên nhau.",
+    "plain": "Điều phản ánh rõ nhất mối quan hệ tốt hay không là cảm nhận của chính bạn, chứ không phải điều kiện của đối phương. Chẳng hạn, bạn thấy họ có nghiêm túc, trân trọng mình không và hai người có thường cãi nhau không. Cảm nhận của bạn có sức dự đoán gấp hai đến bốn lần lời kể của bạn đời. Nhưng mối quan hệ sau này tốt lên hay xấu đi thì hầu như không bảng hỏi nào dự đoán được.",
+    "benefit": "Một phân tích bằng học máy dùng 43 bộ dữ liệu theo dõi các cặp đôi theo thời gian từ 29 phòng thí nghiệm. Những yếu tố dự đoán chất lượng mối quan hệ tốt nhất đều là cảm nhận của người trong cuộc về mối quan hệ: cảm nhận được sự cam kết và trân trọng từ đối phương, mức hài lòng về tình dục, cảm nhận đối phương hài lòng và xung đột. Trong các yếu tố cá nhân, mạnh nhất là mức hài lòng với cuộc sống, cảm xúc tiêu cực, trầm cảm, kiểu gắn bó né tránh và kiểu gắn bó lo âu. Các yếu tố về mối quan hệ giải thích được tối đa 45% phương sai khi bắt đầu khảo sát. Phương sai là sự khác biệt về chất lượng mối quan hệ giữa các cặp đôi; 45% là phần các yếu tố này giải thích được. Đến cuối nghiên cứu, chúng giải thích được tối đa 18%. Hơn nữa, các yếu tố do chính người đó báo cáo có sức dự đoán gấp hai đến bốn lần những yếu tố do bạn đời báo cáo. Sau khi đã tính cảm nhận của bản thân về mối quan hệ, thêm khác biệt cá nhân và báo cáo của bạn đời không làm tăng khả năng dự đoán. Hầu như không thể dự đoán mối quan hệ sẽ tốt lên hay xấu đi trong thời gian nghiên cứu bằng bất kỳ tổ hợp chỉ số tự đánh giá nào; nguyên văn là “largely unpredictable from any combination of self-report variables”.",
+    "notes": "Để đánh giá mối quan hệ hiện tại tốt hay không, hỏi cảm nhận của mình chính xác hơn đối chiếu danh sách điều kiện của đối phương, nhưng đừng kỳ vọng dự đoán được tương lai của nó. Mối liên hệ giữa chất lượng mối quan hệ và sức khỏe được trình bày ở mục 17 chương này (tính chất lượng mối quan hệ như một yếu tố ảnh hưởng sức khỏe).",
+    "extra": ""
+  }
+}

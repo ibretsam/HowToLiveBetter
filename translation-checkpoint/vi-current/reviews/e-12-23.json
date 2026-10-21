@@ -1,0 +1,15 @@
+{
+  "id": "e-12-23",
+  "source_sha256": "03e51bffb4b0148ee9b16276373b5f56e7deb9bfdcf1b8777d5fee945aeb1181",
+  "draft_sha256": "adc20b3be7036dbf0b8d6219be346f0fbe40cfdc81120c0232d257ba90c21cef",
+  "reviewer": "root_batch8_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ sáu trường và nguồn. Giữ điều kiện không còn công nợ/lương/thuế/bảo hiểm, cam kết toàn bộ nhà đầu tư,20 ngày công bố và10 ngày cho hộ cá thể. Phân biệt chấm dứt đăng ký, thanh lý, tái cơ cấu và phá sản; giữ đủ điều kiện liên tiếp2 năm/không khắc phục/không liên lạc được, trách nhiệm cá nhân và3 năm kể từ thu hồi. Giữ quy định cũ đã bãi bỏ, thí điểm phá sản cá nhân chưa xác minh và dẫn12-25."
+}

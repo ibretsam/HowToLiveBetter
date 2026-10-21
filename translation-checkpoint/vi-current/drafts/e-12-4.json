@@ -1,0 +1,14 @@
+{
+  "id": "e-12-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "cf3da4928d4381187ac6426841bd90e848df1ba869978d7c44814ea1c5e246b8",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Không đứng tên cổ đông hộ, không giữ phần vốn thay người khác",
+    "cost": "Không tốn tiền. Ai đề nghị “mượn giấy tờ tùy thân để đứng tên cổ đông” hoặc “tạm để cổ phần dưới tên bạn” thì đều từ chối.",
+    "plain": "Có tên trong đăng ký thì về pháp luật bạn là cổ đông. Vốn cam kết góp lúc đăng ký phải nộp đủ đúng hạn; không nộp được thì ngoài góp bù còn phải bồi thường thiệt hại của công ty. Khi thành lập công ty, cổ đông khác chưa thực góp đủ tiền thì bạn cũng phải cùng chịu phần thiếu đó. Người khác kinh doanh nhưng nợ lại đứng tên bạn.",
+    "benefit": "Cổ đông có tên trong đăng ký chính là cổ đông theo pháp luật. Bạn phải góp đủ toàn bộ số vốn cam kết theo thời hạn điều lệ công ty quy định. Không góp đúng hạn thì ngoài góp bù còn phải bồi thường thiệt hại của công ty. Khi thành lập công ty, nếu có cổ đông chưa thực góp tiền, các cổ đông còn lại lúc thành lập phải cùng chịu phần thiếu đó, tức chịu trách nhiệm liên đới. Khi công ty không trả được nợ đến hạn, chủ nợ có thể yêu cầu nộp sớm phần vốn chưa đến hạn góp. Người thực sự kinh doanh không có tên trong đăng ký, nhưng nợ lại đứng tên bạn (toàn quốc, từ tháng 7 năm 2024).",
+    "notes": "Thỏa thuận đứng tên hộ giữa cổ đông danh nghĩa và người thực góp vốn có hiệu lực nếu không thuộc trường hợp vô hiệu. Nhưng người thực góp vốn muốn đổi đăng ký sang tên mình thì phải được từ một nửa số cổ đông khác trở lên đồng ý. Nếu người đứng tên hộ bán hoặc thế chấp phần vốn, tòa xử lý theo quy định về xác lập quyền ngay tình của Bộ luật Dân sự. Nếu người mua không biết sự việc, giá hợp lý và đã đăng ký, người góp tiền không lấy lại được phần vốn, chỉ có thể đòi người đứng tên hộ bồi thường. Tháng 9 năm 2025, Tòa án Nhân dân Tối cao đã công bố dự thảo giải thích mới để lấy ý kiến. Khi bản chính thức có hiệu lực, toàn bộ quy định này sẽ bị bãi bỏ. Đến tháng 9 năm 2026, văn bản có hiệu lực vẫn là bản sửa đổi năm 2020; mục này dựa trên bản đó. Rủi ro khi đứng tên người đại diện theo pháp luật hộ xem chương 8 mục 28.",
+    "extra": ""
+  }
+}

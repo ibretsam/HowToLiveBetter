@@ -1,0 +1,15 @@
+{
+  "id": "e-10-3",
+  "source_sha256": "421b1d25706ddb475bf7742c3ca0ed3cfa8c4d611dbaa8d5cd9b673d4fc6e9b0",
+  "draft_sha256": "eb6dea6f885c9ac6403cac35016b9e8c6831ce7ead8e9dcc0fd100d56eb69795",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Corrected approximate 十来分钟 from more than ten to about ten minutes. Retains52pairs,10–12minutes,26videos261observers,559people6600+dates,weak0.15correlation, and no direct comparison of behavior vs expression accuracy."
+}

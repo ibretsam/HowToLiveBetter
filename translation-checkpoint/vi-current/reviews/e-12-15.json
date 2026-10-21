@@ -1,0 +1,15 @@
+{
+  "id": "e-12-15",
+  "source_sha256": "081494106d4f73a8bb92b581eea9333d33809a1c13bf594658659ccb6873e3d4",
+  "draft_sha256": "dc3445d97106756b5378f2195fbe3f2344d60e7702a7c4ef6fa658d5d9dbda0a",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ trực tiếp 定金/订金 trong retained_terms để phân biệt hai nhãn trên hợp đồng,20%giới hạn,thực giao mới hiệu lực,gấp đôi chỉ bên nhận vi phạm,chỉ chọn phạt hoặc cọc;ngoại lệ nhà mới15.11,ghi nhận nguồn chưa kiểm án. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

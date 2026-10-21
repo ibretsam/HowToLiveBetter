@@ -1,0 +1,15 @@
+{
+  "id": "e-12-10",
+  "source_sha256": "e7157ff8837e23652b18529645b987d0d09e892cfbecc86feb03be80c6fed58c",
+  "draft_sha256": "79e9b92d124ab3d379346c6ec4ed0f703e317ff1cfc15bc1ad87f3a3d61242ac",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ cấm phòng/chữa bệnh cho thực phẩm,ngoại lệ quảng cáo y tế/thuốc/thiết bị,phạt1–3/3–5lần và10–20/20–100vạn,chi phí khai thấp,đính chính/thu hồi; không suy rộng thành tư vấn thực phẩm. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

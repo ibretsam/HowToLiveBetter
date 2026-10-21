@@ -1,0 +1,15 @@
+{
+  "id": "e-12-2",
+  "source_sha256": "84a185ea575d37eb726d695e2682393953638fc054af35fcc1f7344602d8c974",
+  "draft_sha256": "5835e829b2abbe36d1e6ef43f0b8cd657c5089a104ae792fa087cf5c525772a5",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ phân biệt bảo lãnh thông thường/liên đới, điều kiện vợ chồng cùng ký hoặc chấp thuận sau, mốc2021 và tham chiếu1,8.18. Quy tắc bảo lãnh được nguồn tóm lược, không bổ sung ngoại lệ pháp lý. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

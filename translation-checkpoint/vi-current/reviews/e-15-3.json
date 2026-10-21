@@ -1,0 +1,15 @@
+{
+  "id": "e-15-3",
+  "source_sha256": "31d6ff1101cc339adaf65de3157a8d175e840cbe33b814f47810fc5d944a2a6b",
+  "draft_sha256": "761ac6214ee6f148cbc2eb6d3900d595e5199e52c994d6e44d608c0c219d116a",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; phân biệt môi giới thu phí kết nối với việc bị cấm thu hộ tiền thuê/cọc, giữ đối chiếu tên chủ sở hữu và ủy quyền khi khác người."
+}

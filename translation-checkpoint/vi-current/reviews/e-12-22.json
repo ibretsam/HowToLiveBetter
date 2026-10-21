@@ -1,0 +1,15 @@
+{
+  "id": "e-12-22",
+  "source_sha256": "d00d905afd4c37ef7b990692f15580cef21678033d865e8d55de3441164e36d0",
+  "draft_sha256": "d3d80b2e5c3e45ebe98e97d2e0edd6811a0f7f8c9a414898ea4b5a54435d770c",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu đủ sáu trường: điều dưỡng phải báo nguy kịch, được cấp cứu cần thiết trước, y lệnh sai phải phản ánh và khi cần báo khoa. Giữ giới hạn miễn trách nhiệm dân sự cho tự nguyện cứu khẩn cấp; không hiểu thành miễn hình sự/hành chính. Không mang câu bổ sung về thấy chết mà bỏ từ bản cũ vào bản mới. Giữ mốc sửa2020, số726 và Điều mười bảy, nguồn Luật Bác sĩ chưa mở được. Rà soát song ngữ độc lập, giữ bối cảnh Trung Quốc của nguồn; không xác minh lại khẳng định pháp lý bên ngoài."
+}

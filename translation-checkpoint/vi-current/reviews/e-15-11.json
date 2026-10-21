@@ -1,0 +1,15 @@
+{
+  "id": "e-15-11",
+  "source_sha256": "874399ed98a25296e48469426b1767290c01bba5f49484a25076ee9d1eeb3aae",
+  "draft_sha256": "5da9f6f974c38bc976d64a910efe90b14c8e4e56edaf4d4199f6ee3651b41034",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; sửa cụm mơ hồ không thuộc về cả hai bên thành không thuộc về bên nào để giữ đúng điều kiện nguyên nhân không do bên mua cũng không do bên bán. Giữ ví dụ tác giả khác luật, đặt cọc trả gấp đôi khác hoàn tiền và lãi, chỉ áp dụng mua từ chủ đầu tư, thủ tục6/3tháng."
+}

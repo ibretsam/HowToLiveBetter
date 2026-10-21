@@ -1,0 +1,15 @@
+{
+  "id": "e-10-9",
+  "source_sha256": "40508f645c2dd0cb8f942814953eef67ddeb84a879011a7c8da25b0a54d98ce1",
+  "draft_sha256": "bd7f76a7ee258c18653204dad1bbcc7cf61f9b6a6d8c91a5203bb8085ac2510e",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves time-use participant-only vs all-resident denominators, 2024/2018 values and participation percentages; no marriage-stratified official data, source upper-bound interpretation retained."
+}

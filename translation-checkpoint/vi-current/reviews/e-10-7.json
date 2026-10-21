@@ -1,0 +1,15 @@
+{
+  "id": "e-10-7",
+  "source_sha256": "3deba82c8cdc444a51313008731176bdada832bc3ed229dca39a87f2d5cb3c02",
+  "draft_sha256": "a8802cbeae5956b8a2accdb92455108eba905e0ae01f25b4074be5933fc92ba6",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves 2024 marriage/divorce counts, court vs administrative components, crude-rate population denominator and 57.5% ratio not cohort lifetime divorce probability."
+}

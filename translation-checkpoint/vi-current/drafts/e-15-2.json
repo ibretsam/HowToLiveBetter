@@ -1,0 +1,14 @@
+{
+  "id": "e-15-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "28d8405a79e8b14e9537f6dbd49a0f2063ad7217c82f69858a8f3e7c9b3b66d3",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Bị cắt nước, cắt điện, thay khóa hoặc đến tận nơi đe dọa đuổi đi, trước hết báo công an và lưu bằng chứng: quy định cấm dùng các cách này ép bạn trả nhà",
+    "cost": "Không tốn tiền. Gọi điện báo công an, có thể làm ngay tại chỗ",
+    "plain": "Chủ nhà không được cắt nước, cắt điện, thay khóa hay đến tận nơi đe dọa để ép bạn chấm dứt hợp đồng hoặc chuyển đi; quy định cấm rõ những hành vi này. Gặp chuyện đó, trước hết báo công an và giữ bằng chứng. Đừng tự dùng vũ lực đối đầu với họ.",
+    "benefit": "Quy định hành chính ghi rất rõ: “Bên cho thuê không được dùng bạo lực, đe dọa hoặc các phương thức trái pháp luật khác để ép bên thuê chấm dứt hợp đồng thuê nhà hoặc trả lại nhà thuê.” Trả lại nhà nghĩa là buộc bạn chuyển đi. Gặp tình huống này, trước hết báo công an và giữ bằng chứng. Đừng tự dùng vũ lực đối đầu",
+    "notes": "Báo công an để có hồ sơ về việc công an đến xử lý; sau này yêu cầu bồi thường thiệt hại thì đó là bằng chứng. Đồng thời thông báo cho cơ quan quản lý cho thuê nhà",
+    "extra": ""
+  }
+}

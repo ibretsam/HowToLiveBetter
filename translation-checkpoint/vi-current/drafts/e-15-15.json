@@ -1,0 +1,14 @@
+{
+  "id": "e-15-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "01c8b2e4b59235e7851b77cce0a6c0a1d45297221cb5be1634ab9ca60337414e",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Đang vay mua nhà với lãi suất thả nổi mà lãi suất cao hơn đáng kể so với khoản vay mua nhà mới, hãy thương lượng với ngân hàng để giảm lãi hoặc xin vay thay thế",
+    "cost": "Không tốn tiền. Gọi chăm sóc khách hàng của ngân hàng hoặc nộp yêu cầu trên ứng dụng ngân hàng, một lần vài chục phút. Ngân hàng chưa chắc đồng ý",
+    "plain": "Lãi vay mua nhà được tính bằng lãi suất cơ sở cộng thêm một phần; phần cộng thêm vốn được ký cố định, từ năm 2024 bạn được phép thương lượng lại với ngân hàng. Nếu lãi suất của bạn cao hơn đáng kể so với khoản vay mua nhà mới trên toàn quốc, có thể thương lượng giảm hoặc xin khoản vay mới thay khoản cũ. Vay 100 vạn nhân dân tệ trong 30 năm, lãi suất giảm nửa điểm phần trăm thì tiền lãi giảm khoảng 10 vạn nhân dân tệ.",
+    "benefit": "Thông báo năm 2024 của Ngân hàng Nhân dân cho phép bên vay và bên cho vay thương lượng thay đổi phần cộng thêm vào LPR của lãi suất vay mua nhà. LPR là lãi suất cho vay tham chiếu của thị trường; lãi vay mua nhà được tính bằng LPR cộng hoặc trừ một phần. Đại diện Ngân hàng Nhân dân trả lời báo chí rằng trước đây phần cộng thêm trong hợp đồng được cố định suốt thời hạn vay, lần này đã thay đổi. Tháng 8 năm 2026, Ngân hàng Nhân dân và Tổng cục Giám sát quản lý tài chính tiếp tục ghi trong văn bản: với khoản vay mua nhà lãi suất thả nổi đã giải ngân, khi lãi suất lệch đến một mức nhất định so với khoản vay mua nhà mới trên toàn quốc, “người vay có thể thương lượng với tổ chức tài chính ngân hàng để thay đổi mức lãi suất thỏa thuận trong hợp đồng, hoặc xin khoản vay nhà ở cá nhân lãi suất thả nổi mới để thay khoản vay hiện có; phương thức do người vay tự lựa chọn”. Khoản vay mới không được vượt dư nợ gốc của khoản cũ. Tiết kiệm bao nhiêu, dưới đây là ví dụ tác giả tự tính theo công thức trả góp đều tổng gốc và lãi. Vay 100 vạn nhân dân tệ trong 30 năm, lãi năm 4.0% thì mỗi tháng trả khoảng 4774 nhân dân tệ, 3.5% thì khoảng 4490 nhân dân tệ. Mỗi tháng bớt khoảng 284 nhân dân tệ, trong 30 năm bớt khoảng 10 vạn nhân dân tệ tiền lãi",
+    "notes": "Lệch bao nhiêu mới thương lượng được thì văn bản không ghi số cụ thể; theo thông báo của ngân hàng cho bạn vay. Quy định này áp dụng khoản vay mua nhà lãi suất thả nổi do ngân hàng cấp. Ngân hàng không chịu giảm mà bạn có tiền nhàn rỗi thì có thể so sánh theo cách tính ở mục 28 chương 5 (trả khoản vay mua nhà trước hạn). Vay thay thế không được vay thêm: khoản mới không được vượt dư nợ gốc của khoản cũ.",
+    "extra": ""
+  }
+}

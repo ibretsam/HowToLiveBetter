@@ -1,0 +1,15 @@
+{
+  "id": "e-10-15",
+  "source_sha256": "c4d95094a40f6162fcee4b99e0fe0b2d31f27b79c79528470fce5dcc83f215fb",
+  "draft_sha256": "280cee1a210b6f8ff2170efaed8a1aeeec59b3b1a1e1434d7b2f61a488646740",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves separate consecutive30-day windows, written agreement and in-person attendance, judicial mediation and enumerated grounds, one-year renewed separation,2024counts. Source issue: plain lists two-year separation without emotional-discord condition present in benefit; preserved source field distinction and recorded, not a legal endorsement."
+}

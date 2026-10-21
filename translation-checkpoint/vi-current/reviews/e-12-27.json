@@ -1,0 +1,15 @@
+{
+  "id": "e-12-27",
+  "source_sha256": "fb5a046c052b28e05011969c8c578075dc93358acb5e5ccdd60c1027c6875f2d",
+  "draft_sha256": "a9147cfb770ce39d9193c36f9d0cf6c0c1d89d7f235cc02b0957a5db397f1e90",
+  "reviewer": "root_batch8_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Làm rõ tòa nhà ở trong tiêu đề. Giữ mọi chủ sở hữu cùng tòa, chủ tòa khác phải chứng minh ảnh hưởng, không chỉ đa số; cả ba loại địa điểm cấm, xây mới/cải tạo/mở rộng, ngày15/8/2026 và luật cũ bị bãi bỏ. Giữ sửa trước rồi từ chối mới đóng cửa/phạt1–10 vạn, khoảng cách nguồn ô nhiễm và điều kiện không sử dụng được không do bên thuê; dẫn12-7/12-8. Thời hạn tố tụng từ6 tháng là lời nguồn chưa kiểm chứng độc lập."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-12-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ba6affd32df4f01b3541e10327fbe4e59ce3c13e4db809213cb84e2e796862f4",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Bán trước, sản xuất sau: dùng đặt trước và đơn nhỏ xác nhận có người mua rồi mới bỏ tiền sản xuất",
+    "cost": "Vài chục đến vài trăm nhân dân tệ để làm mẫu hoặc trang giới thiệu. Sau đó tìm vài chục khách hàng thật, đề nghị họ trả trước hoặc đặt đơn nhỏ. Cách này chậm hơn bắt tay sản xuất ngay vài tuần. Điều khó là kiềm chế không làm hàng trước.",
+    "plain": "Một nghiên cứu tại Ý thấy người khởi nghiệp đặt giả thuyết rồi kiểm tra bằng phản hồi thị trường kinh doanh tốt hơn. Họ cũng dễ đổi hướng kịp thời hơn và không bỏ cuộc sớm hơn. Vì vậy, không ai chịu trả trước hay đặt đơn nhỏ thì đừng tin “làm ra tự nhiên sẽ có người mua”.",
+    "benefit": "Một thử nghiệm ngẫu nhiên có đối chứng theo dõi 116 doanh nghiệp khởi nghiệp tại Ý khoảng một năm. Thử nghiệm kiểu này chia ngẫu nhiên thành hai nhóm, chỉ đào tạo một nhóm rồi so kết quả. Người được đào tạo và ra quyết định bằng cách đặt giả thuyết trước, kiểm tra nghiêm ngặt qua phản hồi thị trường sau, có kết quả kinh doanh tốt hơn. Họ cũng có khả năng chuyển sang phương án khác kịp thời cao hơn, nhưng tỷ lệ bỏ cuộc sớm không cao hơn. Tác giả nghiên cứu gọi dự án trông có triển vọng nhưng thực ra không thành được là dự án dương tính giả. Tác giả giải thích cách làm này giảm khả năng tiếp tục đổ tiền vào những dự án đó (Ý, công bố năm 2020).",
+    "notes": "Chỉ có nghiên cứu này, mẫu nhỏ và thực hiện tại Ý nên xếp B. Tiêu đề, nguồn và tóm tắt đã đối chiếu qua Crossref và Semantic Scholar; chương này chưa kiểm chứng số liệu hiệu quả trong toàn văn. Khi thực hiện: không ai chịu trả trước hay đặt đơn nhỏ thì đừng tin “làm ra sẽ có người mua”.",
+    "extra": ""
+  }
+}

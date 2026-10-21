@@ -1,0 +1,15 @@
+{
+  "id": "e-10-20",
+  "source_sha256": "b0a04890118b3d71c36d0898e36d62a63aec0a3f90c6bcd459702351f2212c0d",
+  "draft_sha256": "189383783b63243e4f6083c5810ceece2b9fd10f282bed0bf59b9c1aaddb69cb",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves 58 studies/2092 couples, g/d values and intervals,70% any improvement vs40–50% clinical improvement,134 couples8months5years outcomes, no untreated control, heterogeneous decay and China evidence limits. Domestic-abuse safety exclusions and professional setting requirements retained."
+}

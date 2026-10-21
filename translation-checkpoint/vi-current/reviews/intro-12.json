@@ -1,0 +1,15 @@
+{
+  "id": "intro-12",
+  "source_sha256": "a84ab7dfffe589298955f25fb39de7d56f7ad93b1c7fc4122f044cc74e0f83b6",
+  "draft_sha256": "fdc191ec6376dc75ff42d5045567c441043e1616dfb9d6b926eabecd2c0eac95",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu toàn bộ tiêu đề/lời dẫn và bảy nhóm chủ đề; đủ 28 mục, mỗi mục một lần, số mục và tên tương ứng. Sửa mở cửa thành bắt đầu kinh doanh để không thu hẹp phạm vi khởi nghiệp. Giữ chỉ tiền/trách nhiệm pháp lý, không quy đổi tuổi thọ; nội dung kinh nghiệm mứcC, không còn thứ tự xếp hạng của bản cũ. Rà soát song ngữ độc lập, giữ bối cảnh Trung Quốc của nguồn; không xác minh lại khẳng định pháp lý bên ngoài."
+}

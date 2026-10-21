@@ -1,0 +1,15 @@
+{
+  "id": "e-15-7",
+  "source_sha256": "3497cfaee761184e3f6c0b80995597c8edf2f2ac4df147e334cecdac14d6d008",
+  "draft_sha256": "839748302fdab9f2f54de9e403de327edf6256b4fe9df737455f3175c7fdbfd4",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; tài khoản chuyên dùng của tổ chức môi giới phân biệt tài khoản riêng và cá nhân, một giao dịch chỉ một hoa hồng, dịch vụ vay/sang tên phải hợp đồng riêng. Giữ dẫn6/10."
+}

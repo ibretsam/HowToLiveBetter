@@ -1,0 +1,14 @@
+{
+  "id": "e-15-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "47739d2b66d43ada8b81a8b69f0b8dd965622634078d9eb4d3aa27545b184352",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Nhà bị bán trong thời hạn thuê thì hợp đồng thuê vẫn có hiệu lực, bạn không cần chuyển đi",
+    "cost": "Không tốn tiền",
+    "plain": "Nhà bị bán trong thời hạn thuê thì hợp đồng của bạn vẫn có hiệu lực. Chủ mới phải cho bạn ở đến hết hạn theo hợp đồng cũ. Bạn không cần chuyển đi hay thương lượng lại giá. Điều kiện là bạn đã vào ở hợp pháp; hãy giữ hợp đồng, lịch sử chuyển tiền và bằng chứng về ngày vào ở.",
+    "benefit": "Bộ luật Dân sự có quy tắc gọi là “mua bán không làm mất hiệu lực thuê”. Nguyên văn điều luật: việc thay đổi quyền sở hữu tài sản cho thuê trong thời hạn thuê không ảnh hưởng đến hiệu lực của hợp đồng thuê. Nhà đổi chủ trong thời hạn thuê thì hợp đồng đã ký vẫn có hiệu lực. Chủ mới phải cho bạn ở đến hết hạn theo hợp đồng cũ",
+    "notes": "Điều kiện là bạn đã vào ở hợp pháp; cách nói trong điều luật là chiếm hữu, sử dụng hợp pháp. Giữ hợp đồng, lịch sử chuyển tiền và bằng chứng về ngày vào ở",
+    "extra": ""
+  }
+}

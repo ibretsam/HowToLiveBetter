@@ -1,0 +1,15 @@
+{
+  "id": "e-12-9",
+  "source_sha256": "4b3c0cfb3e0f4ce6216a4550ae956931dc9acf035344b2e93b5eb34eefdffe2b",
+  "draft_sha256": "b9603aca7b8a8d3c9dc64d86d1ff4e637845c89fb7fd45689a94ebc7972199c5",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ9mục nhãn,phân biệt bán rời,ngưỡng một vạn,phạt5000–5vạn/5–10lần, lỗi nhỏ2000 so lỗi thiếu bắt buộc;GB7718-2025 ban hành16/3/2025 hiệu lực16/3/2027, bồi thường tối thiểu một nghìn. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

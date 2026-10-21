@@ -1,0 +1,14 @@
+{
+  "id": "e-15-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "3497cfaee761184e3f6c0b80995597c8edf2f2ac4df147e334cecdac14d6d008",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Khi môi giới thu hộ tiền mua nhà đã qua sử dụng, tiền phải đi qua tài khoản tiền gửi chuyên dùng cho giao dịch mà môi giới mở tại ngân hàng",
+    "cost": "Không tốn tiền. Khó ở chỗ phải kiên quyết dùng tài khoản chuyên dụng, có thể phải tranh luận thêm với môi giới",
+    "plain": "Nếu môi giới thu hộ tiền nhà, quy định buộc tiền phải đi qua tài khoản chuyên dụng mà họ mở tại ngân hàng. Tài khoản này chịu giám sát; không chuyển tiền vào tài khoản riêng của công ty môi giới hay của cá nhân nhân viên môi giới.",
+    "benefit": "Quy định ghi rõ: nếu thỏa thuận để tổ chức môi giới bất động sản thu hộ, trả hộ tiền giao dịch thì tiền phải được chuyển qua tài khoản tiền gửi chuyên dùng để thanh toán giao dịch của khách hàng mà tổ chức này mở tại ngân hàng. Tiền nhà vào tài khoản chuyên dụng chịu giám sát, không phải tài khoản riêng của công ty môi giới hay tài khoản cá nhân của nhân viên môi giới",
+    "notes": "Tiền nhà từ vài chục vạn đến vài triệu nhân dân tệ, là khoản giao dịch đơn lẻ lớn nhất trong cuốn sách; đừng chuyển qua WeChat cho nhân viên môi giới. Còn hai kiểu thu thêm tiền thường gặp. Hai công ty môi giới cùng làm một giao dịch thì chỉ được thu một khoản hoa hồng. Làm hộ thủ tục vay hoặc sang tên là dịch vụ khác, phải ký hợp đồng riêng và báo trước phí. Mọi khoản đều chuyển khoản và ghi mục đích, xem mục 6 (kiểm tra giấy chứng nhận quyền sở hữu và tình trạng thế chấp trước khi ký). Tiền mua nhà đang xây phải chuyển đi đâu, xem mục 10 (tài khoản giám sát tiền bán nhà trước khi hoàn thành).",
+    "extra": ""
+  }
+}

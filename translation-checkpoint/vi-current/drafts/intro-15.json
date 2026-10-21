@@ -1,0 +1,10 @@
+{
+  "id": "intro-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "db25637144e7f227213e98ec29084b2e225e2730b2b6a90068d2de3f6c7dbb37",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Thuê và mua nhà",
+    "intro": "Tiêu chí: tiền bạc. Khi thuê nhà, dễ mất tiền nhất ở tiền cọc và môi giới. Khi mua nhà, tốn nhất là lãi vay cùng những điều người bán biết mà bạn không biết. Các mục cuối nói về mua nhà: tiền phải chuyển vào tài khoản nào, khi nào lấy lại được tiền đặt cọc và tiền nhà, giao nhà chậm thì làm gì. Còn có cách ngăn người bán bán cùng một căn cho hai người, cách thương lượng giảm lãi vay mua nhà. Hai mục cuối nói về sau khi vào ở: đơn vị quản lý không được cắt nước, cắt điện để ép nộp phí; nhà mới bị thấm dột trong hạn bảo hành thì yêu cầu chủ đầu tư sửa."
+  }
+}

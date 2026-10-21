@@ -1,0 +1,15 @@
+{
+  "id": "doc-ket-hon-co-dang-khong",
+  "source_sha256": "31d29e979f60e6c6c9f7192ca69675aa1e22d9576aac1951f5961c062c0d2ec0",
+  "draft_sha256": "5ee8a0e02011898b97c2c0584aae4ce67076972973f64e32d743af1df1129c1a",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đọc và đối chiếu song ngữ toàn bộ 50 khối đoạn, năm khoản tính, dữ liệu đăng ký và khảo sát thời gian, các nghiên cứu, điều luật viết bằng chữ, danh sách tự điền, ngộ nhận và toàn bộ nguồn/URL. Sửa câu bác sĩ không thể giải thích cho người hôn mê để rõ chủ thể; đổi sống gần gũi thành tìm hiểu, tiếp xúc để không hàm ý phải sống chung; giữ rõ mức tối đa mà nguồn nêu. Giữ nguyên 610.6/351.3/262.2/89.1 vạn, tỷ suất thô khác tỷ số 57.5%, RR/HR/CI, không biến tương quan thành nhân quả. Ghi nhận vấn đề của nguyên bản chưa kiểm chứng chuyên môn: chênh lệch bình quân 1 giờ 37 phút được gọi là mức trần; cách diễn đạt so nam chưa kết hôn với nữ chưa kết hôn ở Wang có thể lẫn so sánh nguy cơ và tỷ số liên hệ; các tóm lược pháp lý chưa phản ánh đầy đủ điều kiện/ngoại lệ và chi phí kiện. Không tự sửa khẳng định nguồn. Kiểm tra số, đơn vị, điều kiện, phủ định, cấu trúc, URL và tham chiếu mục18 chương10 đạt; rà soát ngôn ngữ không xác nhận y khoa/pháp lý."
+}

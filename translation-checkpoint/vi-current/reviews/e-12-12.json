@@ -1,0 +1,15 @@
+{
+  "id": "e-12-12",
+  "source_sha256": "8a7826a65a3814af19a3f702f7aab6148555feebb82e54ba2cd93a6e5e7704e3",
+  "draft_sha256": "15a74a4d48c6c7a306d79635d9b5a6099d0d9c88fa62815340e20badda6d24e3",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Sửa không khai tất cả thành không khai bất kỳ sắc thuế nào để rõ phủ định toàn bộ ba tháng. Giữ số không ở lời giản lược của nguồn nhưng trích luật là không có thuế phải nộp;50%–5lần,năm phần vạn/ngày,30ngày BHXH,15ngày tháng/quý,31/3 và31/5. Không tự mở rộng tư vấn thuế. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

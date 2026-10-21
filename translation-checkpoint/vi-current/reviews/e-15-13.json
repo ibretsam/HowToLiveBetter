@@ -1,0 +1,15 @@
+{
+  "id": "e-15-13",
+  "source_sha256": "8547381189cbdefae4b61a450df87ef36d9cef88ee070d46bc6a701b88e5f16b",
+  "draft_sha256": "4439a5498ad8ecc88ea646bddcdd86c8818ce02838fa0e4d834a3d504efcec0b",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ3tháng sau催告, quyền chấm dứt3tháng/1năm, các mốc90ngày, thiệt hại30%. Nguồn plain viết一年以上 còn benefit超过一年; bản dịch giữ lần lượt từ một năm trở lên/hơn một năm, ghi bất nhất nguồn thay vì đổi ngưỡng. Giữ ngoại lệ hợp đồng và khoản vay có thể chấm dứt cùng."
+}

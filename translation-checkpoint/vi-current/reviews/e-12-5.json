@@ -1,0 +1,15 @@
+{
+  "id": "e-12-5",
+  "source_sha256": "82c7edbfc74e420dfb656b02d95e22d80bb3f9e052e8816af17e05d1be4ff3c9",
+  "draft_sha256": "c2cbc3040e2da4125bdeaf00d38f248374c3eadf1598ab352121d29a5ae00cd1",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ2cửa hàng/1năm,15ngày tính từ hợp đồng nhượng quyền đầu tiên,12mục công bố,2/5năm kiểm toán/tranh chấp,phạt1–5/5–10vạn, thời gian cân nhắc do hợp đồng định. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

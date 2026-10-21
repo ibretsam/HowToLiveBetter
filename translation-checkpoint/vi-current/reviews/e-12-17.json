@@ -1,0 +1,15 @@
+{
+  "id": "e-12-17",
+  "source_sha256": "0da6a99f23ccef85a2ff49eec03281827f5787bed18b496788be4900618d67fe",
+  "draft_sha256": "01812dd4cbc549e5c9af11e4c1ea1fbbb9ab4f4989207706c7fad04f01492e01",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ nghĩa vụ lương/BHXH,lệnh thanh toán,ngoại lệ hợp đồng vay giữa cá nhân so khuyến nghị viết giấy,không trộn tiền công ty/cá nhân;C do kinh nghiệm. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

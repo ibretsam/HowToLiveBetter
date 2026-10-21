@@ -1,0 +1,14 @@
+{
+  "id": "e-12-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e6017b3ebe411b3fb0ebcaa5f62a8072d51da26ace68112abb48e6995c77e5b2",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Ngành nghề cần giấy phép thì chưa được cấp phép, chưa mở cửa kinh doanh",
+    "cost": "Không tốn tiền. Trước khi mở cửa, kiểm tra việc kinh doanh của bạn có cần giấy phép không. Dịch vụ ăn uống và bán thực phẩm cần giấy phép kinh doanh thực phẩm. Chỉ bán thực phẩm đóng gói nguyên sẵn của người khác thì không cần giấy phép, thay bằng đăng ký hồ sơ. Được cấp phép rồi mới mở cửa.",
+    "plain": "Chưa có giấy phép đã kinh doanh thì cơ quan quản lý loại giấy phép đó xử lý theo quy định của họ. Nếu cả giấy phép đăng ký kinh doanh cũng không có và không có quy định xử phạt riêng, sẽ bị buộc ngừng kinh doanh, tịch thu tiền kiếm được và phạt tối đa 1 vạn nhân dân tệ. Bán hàng thuộc diện chuyên doanh, độc quyền hoặc làm chứng khoán, hợp đồng tương lai, bảo hiểm, thanh toán quyết toán trái phép, nếu nghiêm trọng sẽ cấu thành tội kinh doanh trái phép; khung nhẹ nhất đến 5 năm tù.",
+    "benefit": "Kinh doanh khi chưa được cấp phép do cơ quan mà pháp luật quy định xử lý. Kinh doanh không có giấy phép đăng ký, nếu pháp luật không ghi rõ cách phạt, sẽ bị buộc ngừng, tịch thu thu nhập bất hợp pháp và phạt từ 1 vạn nhân dân tệ trở xuống. Còn có mức nặng hơn: kinh doanh không phép hàng hóa thuộc diện chuyên doanh, độc quyền hoặc hạn chế mua bán theo pháp luật; hoặc làm chứng khoán, hợp đồng tương lai, bảo hiểm, thanh toán quyết toán tiền khi chưa được phê duyệt. Hai trường hợp này, nếu nghiêm trọng, cấu thành tội kinh doanh trái phép. Bị phạt tù có thời hạn từ 5 năm trở xuống hoặc câu dịch, tức giam giữ ngắn hạn, đồng thời phạt tiền từ 1 đến 5 lần thu nhập thu được. Trường hợp đặc biệt nghiêm trọng bị phạt tù từ 5 năm trở lên (toàn quốc).",
+    "notes": "Điều kiện cấp phép trong tài chính, y tế và giáo dục đào tạo có luật riêng; mục này chỉ kiểm chứng quy tắc xử lý chung và điều khoản hình sự. Quán trà sữa, quán ăn vặt thuộc dịch vụ ăn uống, cần giấy phép kinh doanh thực phẩm. Trang trí quán trước rồi mới xin phép, hoặc bán thử trước khi được cấp phép, là những lỗi thường gặp. Các nhóm hoạt động thực phẩm và việc bán thịt rau tươi có cần phép hay không xem mục 8 (trước khi làm thực phẩm, xem mình thuộc nhóm nào).",
+    "extra": ""
+  }
+}

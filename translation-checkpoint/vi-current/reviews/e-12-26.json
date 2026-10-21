@@ -1,0 +1,15 @@
+{
+  "id": "e-12-26",
+  "source_sha256": "de0a2753368d97a65248e18bcdfe68a6da256ab7cd54e102d68e3929bf86049a",
+  "draft_sha256": "bc75c49a0c5ee5efd183e3f5f92443df6ec4e280b1d9476f16e50cb30bf0d525",
+  "reviewer": "root_batch8_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa tiêu đề và diễn giải để rõ người huy động tiền, không nhầm với người đầu tư; giải thích câu dịch là giam giữ ngắn hạn. Giữ bốn điều kiện đồng thời, hai ngoại lệ thân hữu/nhân viên, ba ngưỡng thay thế chứ không cộng dồn,100/150/50 và500/500/250, các mức3/10 năm, điều kiện chủ yếu dùng kinh doanh và trả hết trước truy tố chỉ có thể miễn,20%–1 lần/50–500 vạn. Giữ nguồn rút gọn ở plain và dẫn12-28/5-6/17-5."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-10-2",
+  "source_sha256": "5e4fa7d184943e2f2df7a9a4b5d94bb40224e29406b818589ac97a0f08fe3e56",
+  "draft_sha256": "ed80bce213153167d9842188e3879287730bdbb563720b1cc7bd091f829fce5b",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves January2026 effective date, repeated conduct disrupting normal life, fine/detention inclusive boundaries, approved no-contact order and record-sealing exceptions; author judgment distinguished."
+}

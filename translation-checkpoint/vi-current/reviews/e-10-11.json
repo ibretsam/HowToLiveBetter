@@ -1,0 +1,15 @@
+{
+  "id": "e-10-11",
+  "source_sha256": "30148fae2be176324b569d8fdcb1c80a64ac9ce2b12275437eb7d47822e64e24",
+  "draft_sha256": "36ea6787cc03c5680c2ad4a1c16f6c8972efa3070a68031b99a50fed74ef515d",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves pre/post-marriage default, explicit dual gift exception, February2025 full-vs-partial parental funding rules and discretionary compensation; signature and loan-record requirements retained."
+}

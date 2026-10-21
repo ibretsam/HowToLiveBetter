@@ -1,0 +1,15 @@
+{
+  "id": "e-12-11",
+  "source_sha256": "981f63026902fb75ab6eb425980f092c312544791110823df5db7dae40cdac8f",
+  "draft_sha256": "944aaf2473d0b401070cd73bf0595f1b0152f3f1a8f219ae47a904068eb24afd",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ đủ khung143/144/141,ngưỡng đủ khả năng gây hại thay vì phải có hậu quả thực,3/7/chung thân và5/10/tử hình;10đến dưới20vạn cùng địa điểm/đối tượng,giết mổ10vạn hoặc lợi5vạn. Nguyên bản giản lược ranh giới hình sự/hành chính ở ghi chú, không tự sửa. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

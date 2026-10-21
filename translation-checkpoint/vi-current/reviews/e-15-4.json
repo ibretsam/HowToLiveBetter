@@ -1,0 +1,15 @@
+{
+  "id": "e-15-4",
+  "source_sha256": "827600251b8c71eff72faba4dee907f10c371ce008067eb479b77210ce95cf38",
+  "draft_sha256": "f8be14a19a7763758467544909dfb0b5e8ea5984fadd3594c149fc66466af1f8",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ tài khoản giám sát, khoản vay vẫn phải trả sau khi công ty bỏ trốn. Nguồn vừa nói trả trước một năm vừa nói tiền thuê hơn chục tháng còn lại; giữ nguyên cách nói, không suy ra con số mới."
+}

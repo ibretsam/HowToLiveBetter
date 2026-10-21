@@ -1,0 +1,14 @@
+{
+  "id": "e-12-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "0da6a99f23ccef85a2ff49eec03281827f5787bed18b496788be4900618d67fe",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Trả lương theo hợp đồng và pháp luật; tăng lương, cho vay, thưởng đều lập văn bản",
+    "cost": "Không tốn tiền. Ghi rõ lương trong hợp đồng. Tăng lương, thưởng, chi hộ, cho vay đều ký giấy lưu lại. Không hứa miệng; cũng không lấy tiền túi trả lương thay công ty. Điều khó là người quen nhờ cũng phải theo quy tắc này.",
+    "plain": "Lương phải trả đủ, đúng hạn theo hợp đồng và pháp luật. Nếu nợ, người lao động có thể đề nghị tòa ra lệnh thanh toán. Tăng lương, thưởng hoặc chi hộ chỉ nói miệng, khi tranh chấp bên không đưa được chứng cứ sẽ thiệt. Tự lấy tiền cho nhân viên vay thì luật không bắt buộc lập văn bản, nhưng nên viết giấy vay, ghi số tiền, lãi và thời điểm trả.",
+    "benefit": "Nội dung bắt buộc trong hợp đồng lao động có cách trả lương và đóng bảo hiểm xã hội. Đơn vị phải trả lương đủ, kịp thời theo hợp đồng và quy định nhà nước. Trì hoãn không trả thì người lao động có thể xin tòa ra lệnh thanh toán, tức văn bản yêu cầu trả tiền của tòa. Chủ doanh nghiệp lấy tiền riêng cho nhân viên vay là hợp đồng vay tiền. Bộ luật Dân sự quy định: “Hợp đồng vay phải được lập bằng văn bản, trừ khi việc vay giữa các cá nhân có thỏa thuận khác.” Chủ cho nhân viên vay bằng tiền riêng là khoản vay giữa hai cá nhân, nên pháp luật không bắt buộc văn bản. Nội dung hợp đồng “thường gồm loại khoản vay, loại tiền, mục đích, số tiền, lãi suất, thời hạn và phương thức trả nợ”. Viết giấy vay theo các nội dung này là khuyến nghị của tác giả. Thưởng hứa miệng không có giấy tờ, khi tranh chấp bên không chứng minh được sẽ thiệt (toàn quốc).",
+    "notes": "Không phải không giúp người, mà giúp cũng cần theo quy chế. Ưu đãi ngoài quy chế một khi thành thông lệ thì muốn dừng sẽ phát sinh tranh chấp. Trộn khoản cho vay riêng với sổ công ty, khi công ty thua lỗ thì nợ xấu thuộc về chính bạn. Điều luật đã kiểm chứng, nhưng bản thân lời khuyên dựa trên kinh nghiệm nên xếp C.",
+    "extra": ""
+  }
+}

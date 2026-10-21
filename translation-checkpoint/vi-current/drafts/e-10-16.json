@@ -1,0 +1,14 @@
+{
+  "id": "e-10-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "cc35170cedf57ea887e83fe55af0232de812fee29cb21a5c753dcb2dc7e1faf8",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Tính riêng lợi ích của việc “kết hôn vì người lớn”, đừng gộp với phần của chính mình",
+    "cost": "Không tốn tiền. Chia giấy thành hai cột. Một cột ghi lợi ích của chính bạn trong cuộc hôn nhân này; các mục trước trong chương giúp tính được. Cột kia ghi lợi ích của người lớn: yên lòng, thể diện, hết giục cưới. Khó ở việc giữ riêng cột của người lớn, không nhập vào phần của mình.",
+    "plain": "Lợi ích của người lớn như yên lòng, thể diện và không còn giục cưới là có thật. Nhưng chúng không tự biến thành lợi ích sức khỏe hay chất lượng mối quan hệ của bạn. Trong khi đó, chi phí thời gian, tiền bạc và chấm dứt hôn nhân đều do bạn gánh. Chia giấy thành hai cột, ghi rõ lợi ích nào thuộc mình, lợi ích nào thuộc người lớn, bạn sẽ dễ thấy cuộc hôn nhân này có đáng hay không.",
+    "benefit": "Lợi ích của người lớn là có thật. Nhưng chúng không tự chuyển thành lợi ích sức khỏe của bạn (mục 8) hoặc chất lượng mối quan hệ (mục 4, đánh giá quan hệ qua cảm nhận của mình). Còn chi phí thời gian (mục 9), tiền bạc (mục 10 đến 12) và chấm dứt hôn nhân (mục 15) đều do người kết hôn gánh. Tách riêng các khoản này giúp bạn tự nhìn ra việc kết hôn như hoàn thành một nhiệm vụ có đáng hay không.",
+    "notes": "Bạn vẫn có thể coi phần lợi ích của người lớn là rất quan trọng; cân nhắc thế nào do chính bạn quyết định. Bảng điền thông tin xem [Bảng cân nhắc kết hôn có đáng không](../docs/结婚划不划算.md).",
+    "extra": ""
+  }
+}

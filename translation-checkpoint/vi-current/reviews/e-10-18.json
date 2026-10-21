@@ -1,0 +1,15 @@
+{
+  "id": "e-10-18",
+  "source_sha256": "ecc2dbbc9f404edbccf3a288059604b66f359c61cb05b60f220aae3180706dde",
+  "draft_sha256": "25ef8c0e27d7b7afb0743c2f0b1b656e8516f862ee2b16f56ea08cf1c3610410",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves near-relative/statutory-heir exclusion, advance guardianship, written delegation requirements, legacy beneficiary vs heir,60-day acceptance, witness exclusion, hospital variation, litigation burden and references. Source assertion that delegation ends on principal loss of capacity retained; legal accuracy not independently verified, review is translation fidelity only."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-10-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "30148fae2be176324b569d8fdcb1c80a64ac9ce2b12275437eb7d47822e64e24",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Khi cha mẹ góp tiền mua nhà, hãy ghi rõ là cho vay hay tặng cho ngay lúc chuyển tiền",
+    "cost": "Không tốn tiền. Ngày góp tiền, viết một trang giải thích rõ khoản tiền tặng cho ai hay cho ai vay, có chữ ký của cha mẹ góp tiền và con. Nếu là khoản vay, hãy để cả hai vợ chồng ký và ghi cùng nội dung đó trong lời nhắn chuyển khoản.",
+    "plain": "Cha mẹ góp tiền mua nhà trước hôn nhân thì mặc định chỉ tặng cho con mình. Tiền góp sau khi cưới mà không có thỏa thuận được xử lý như tài sản chung của vợ chồng. Từ tháng 2 năm 2025, nếu cha mẹ một bên chi toàn bộ tiền mua nhà sau hôn nhân mà không ghi rõ chỉ tặng con mình, khi ly hôn tòa có thể giao nhà cho người con của bên góp tiền rồi quyết định có bồi hoàn cho người kia không. Nếu muốn coi là khoản vay, phải ghi rõ và để hai bên ký ngay trong ngày.",
+    "benefit": "Cha mẹ góp tiền mua nhà cho hai người trước khi kết hôn thì được xác định là tặng riêng cho con mình, trừ khi cha mẹ thể hiện rõ là tặng cho cả hai. Tiền góp sau hôn nhân có thỏa thuận thì làm theo thỏa thuận; không có hoặc không rõ thì xử lý theo nguyên tắc tài sản chung của vợ chồng. Từ ngày 1 tháng 2 năm 2025 còn có thêm một quy định. Nếu trong hôn nhân, cha mẹ một bên bỏ toàn bộ tiền mua nhà và hợp đồng tặng cho không ghi rõ chỉ tặng riêng cho con mình, khi chia tài sản ly hôn, tòa có thể giao nhà cho người con của bên góp tiền. Sau đó, tòa xem xét tổng hợp để quyết định có bồi hoàn cho người kia không và bao nhiêu. Các yếu tố gồm tình hình chung sống và sinh con chung, lỗi dẫn đến ly hôn, mức đóng góp cho gia đình và giá thị trường của nhà khi ly hôn. Nếu cha mẹ một bên góp một phần hoặc cha mẹ hai bên đều góp, tòa căn cứ nguồn tiền và tỷ lệ góp để giao nhà cho một bên, đồng thời xác định bồi hoàn hợp lý (toàn quốc).",
+    "notes": "Ghi rõ có ích cho cả hai phía. Cha mẹ bỏ tiền không cần trông chờ bổ sung giấy vay khi con ly hôn để bảo vệ khoản góp. Sau khi Giải thích (II) có hiệu lực, việc ai bỏ tiền tự nó đã là căn cứ phân chia nhà, chứ không chỉ nhìn tên trên giấy chứng nhận. Người nhận tiền cũng không phải đợi đến lúc ly hôn mới biết khoản này được tính là gì. Nếu xác định là cho vay thì phải thực hiện đúng như khoản vay: hai bên thống nhất là vay, thỏa thuận cách trả, ghi rõ khi chuyển tiền và lưu chứng từ trả nợ khi cần. Thiếu yếu tố nào thì ra tòa đều phải giải thích.",
+    "extra": ""
+  }
+}

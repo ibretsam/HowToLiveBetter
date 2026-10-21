@@ -1,0 +1,14 @@
+{
+  "id": "e-15-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "7d5ad9320945f4ab31e4708607ef52708ed74fb978b4205dc4ff7826469c33ec",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Đừng thuê phòng bị ngăn nhỏ: đơn vị cho thuê nhỏ nhất là phòng theo thiết kế ban đầu; bếp, nhà vệ sinh, ban công không được dùng để ở",
+    "cost": "Không tốn tiền. Đổi lại, với cùng ngân sách, bạn phải ở xa hơn hoặc ở chỗ nhỏ hơn",
+    "plain": "Theo quy định, đơn vị cho thuê nhỏ nhất là căn phòng theo thiết kế ban đầu. Bếp, nhà vệ sinh, ban công và kho dưới tầng hầm không được dùng để ở. Trong thời hạn thuê, chủ nhà cũng không được tự ý tăng tiền thuê.",
+    "benefit": "Quy định ghi rõ đơn vị cho thuê nhỏ nhất là phòng theo thiết kế ban đầu; không được chia một phòng thành nhiều phòng nhỏ để cho thuê riêng. Diện tích sàn thuê bình quân đầu người không được thấp hơn mức tối thiểu của địa phương. Bếp, nhà vệ sinh, ban công và kho dưới tầng hầm không được cho thuê để ở. Trong thời hạn thuê, bên cho thuê cũng không được đơn phương tùy tiện tăng tiền thuê. Vi phạm Điều tám thì cơ quan có thẩm quyền yêu cầu bên cho thuê khắc phục trong thời hạn ấn định; quá hạn không sửa có thể bị phạt từ 5000 đến 3 vạn nhân dân tệ",
+    "notes": "Phát hiện việc ngăn phòng trái phép thì người bị phạt là bên cho thuê. Nhưng khắc phục phải tháo vách ngăn, người thuê ở đó chỉ còn cách chuyển đi; đây là suy luận từ quy định. Tiền cọc và tiền thuê đã trả thường khó lấy lại, theo kinh nghiệm tác giả. An toàn cũng kém: vách ngăn thường chặn đường thoát hiểm, nhiều người trong một căn lại dùng chung một đường dây điện. Khi xem nhà, chú ý ba việc: tường có phải xây thêm sau này không, phòng có cửa sổ không, đồng hồ điện có đáp ứng được nhu cầu của nhiều người như vậy không.",
+    "extra": ""
+  }
+}

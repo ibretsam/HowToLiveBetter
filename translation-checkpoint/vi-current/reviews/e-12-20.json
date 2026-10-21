@@ -1,0 +1,15 @@
+{
+  "id": "e-12-20",
+  "source_sha256": "93c96131be558d07eb988da3915cf9fd0b701e7b72d55997365e5861c5878dc8",
+  "draft_sha256": "ec4a258dd4053a7b56a7ca4e4cce97e1ed964a22a73d3292ab86a947ce140530",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ3vạnthu lợi/5vạndoanh số,3lần hàng chưa bán,10lầnkhungnặng,5tìnhhuống biết rõ và ngoại lệ chứng cứ không biết. Sửa chủ có thể bị thành chủ bị theo mức khẳng định nguồn khi công ty đã phạm tội. Giữ phân biệt miễn bồi thường dân sự với hình sự/hành chính,26/4/2025,nhãn hiệu nguồn sửa2026hiệulực2027. Các khẳng định tuyệt đối của nguồn về hàng được tặng là chưa kiểm chứng lại. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

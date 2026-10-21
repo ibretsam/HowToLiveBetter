@@ -1,0 +1,15 @@
+{
+  "id": "e-15-2",
+  "source_sha256": "28d8405a79e8b14e9537f6dbd49a0f2063ad7217c82f69858a8f3e7c9b3b66d3",
+  "draft_sha256": "ed46f9a484c896a392895e5a48bce5cf6f1e87527f609724eec8e4ace145e7d0",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ cấm bạo lực/đe dọa/phương thức trái luật, mục đích báo công an là lưu hồ sơ làm chứng cứ, không tự đối đầu và báo cơ quan quản lý."
+}

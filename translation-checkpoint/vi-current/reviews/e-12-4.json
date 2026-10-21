@@ -1,0 +1,15 @@
+{
+  "id": "e-12-4",
+  "source_sha256": "cf3da4928d4381187ac6426841bd90e848df1ba869978d7c44814ea1c5e246b8",
+  "draft_sha256": "1e8dbd73d5a9cbd79f565217a0483eaac78b8d73a0f20cfe283a75fa04e65e9c",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ nghĩa vụ góp vốn và liên đới lúc thành lập, bảo vệ người mua ngay tình,ngưỡng半数以上 từ một nửa trở lên, tình trạng dự thảo9/2025 so hiệu lực9/2026;tham chiếu8.28. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

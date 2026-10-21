@@ -107,6 +107,13 @@ rà soát của sáu đợt trước. Bài trang bị khẩn cấp giữ hai TOD
 của nguyên bản; bất nhất về gây nôn ở mục 1.48/13.20 được ghi công khai trong
 `vi/TRANSLATION.md`. Kiểm tra bản dịch không phải kiểm chứng độc lập y khoa.
 
+Đợt 8: toàn bộ 28 mục chương 12, 23 mục chương 10 và 18 mục chương 15,
+cộng ba lời dẫn và bài phân tích kết hôn. Tổng 69 mục: 17 mục mới, 51 cập nhật
+và 1 rà soát lại. Có 73 hồ sơ rà soát độc lập mới; báo cáo nằm trong
+`batch-8-report.json`. Giữ nguyên 524 bản nháp và 524 hồ sơ rà soát của bảy
+đợt trước. Bài phân tích giữ đủ năm nhóm cân nhắc, bảy phần dữ liệu và danh
+sách tự điền; các giới hạn và bất nhất của nguồn được ghi ở hồ sơ rà soát.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

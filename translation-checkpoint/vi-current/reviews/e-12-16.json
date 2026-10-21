@@ -1,0 +1,15 @@
+{
+  "id": "e-12-16",
+  "source_sha256": "d23bf10f7aa33ef6bf53e30db6da4ae24ea8af8dbd103af717781e2093a491e7",
+  "draft_sha256": "c990913f164ccbc2f66f3d1c7861c37266bd405c4c8825bae1683dcd2b0ca258",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ đủ một tháng/chưa đủ một năm,30ngày BHXH,1–3lần,500–3000,năm phần vạn/ngày,không có tự nguyện bỏ BHXH và ngoại lệ pháp định;tham chiếu19.20. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

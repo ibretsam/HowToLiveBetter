@@ -1,0 +1,15 @@
+{
+  "id": "e-10-13",
+  "source_sha256": "48b654c1fd03edc50df85e76cacbcfb277dc45dddc0598bea5dd31fe5651a65c",
+  "draft_sha256": "e5fe98c79dd9710e6100895d6fe688c890d2438167f346980d94f2807ca0a1ed",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves mainland-resident scope, May10 2025 effective date, two documents, four refusal conditions, no hukou/locality requirement, no registration fee, same-day eligibility and 30-day divorce cross-reference."
+}

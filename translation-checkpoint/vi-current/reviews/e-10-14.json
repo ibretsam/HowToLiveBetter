@@ -1,0 +1,15 @@
+{
+  "id": "e-10-14",
+  "source_sha256": "ac82b73c27d1f1b5a09dc92260193aa61e80791555e1b27f79b9d939e57cf181",
+  "draft_sha256": "8827d022188908007ecf103718689007ef3a1c6c1e0837594d0d1434fc90c28d",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves disclosure before registration, revocation within one year from knowledge or ought-to-know in benefit, voluntary examination since2003, 70%/80% inclusive targets and no nationally uniform free examination rule. Short source plain/notes omit ought-to-know; translated without silently editing source."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-15-5",
+  "source_sha256": "47739d2b66d43ada8b81a8b69f0b8dd965622634078d9eb4d3aa27545b184352",
+  "draft_sha256": "8b0183f30ef160f1abf59a16c101ac9518d769685351bd5bfff3c4b40b56e2f8",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ hợp đồng còn hiệu lực sau đổi chủ, điều kiện chiếm hữu sử dụng hợp pháp và lưu chứng cứ thời điểm vào ở. Không mở rộng sang ngoại lệ thế chấp tại mục6."
+}

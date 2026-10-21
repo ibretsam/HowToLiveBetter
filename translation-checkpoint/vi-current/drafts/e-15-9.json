@@ -1,0 +1,14 @@
+{
+  "id": "e-15-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a92280d3426dd9952d4ed46a6456fa53f5329759c8b81e6c74d72fcb8188ab4c",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Có hộ khẩu thành thị muốn chuyển về quê ở thì chỉ thuê nhà nông dân; đừng mua đất ở do thôn cấp hay nhà trên đất đó",
+    "cost": "Không tốn tiền. Đổi lại nhà không thuộc về bạn, mỗi hợp đồng thuê dài nhất 20 năm; hết hạn phải thương lượng lại với chủ nhà",
+    "plain": "Người có hộ khẩu thành thị không được về nông thôn mua đất ở do thôn cấp, nhà nông dân hoặc “nhà tiểu sản quyền”; văn bản nhà nước cấm rõ điều này. Người trong thôn bảo “viết hợp đồng là được” cũng không được. Muốn ở quê lâu dài thì ký hợp đồng thuê, mỗi lần tối đa 20 năm, hết hạn gia hạn tiếp.",
+    "benefit": "Văn bản của Văn phòng Quốc vụ viện ghi rõ: “Cư dân thành thị không được về nông thôn mua đất ở do thôn cấp, nhà của nông dân hoặc ‘nhà tiểu sản quyền’.” Cùng văn bản quy định nông dân đã bán hoặc cho thuê nhà thì xin cấp đất ở lần nữa sẽ không được chấp thuận. Văn bản năm 2019 của Văn phòng Công tác nông thôn Trung ương và Bộ Nông nghiệp, Nông thôn nhắc lại: “Nghiêm cấm cư dân thành thị về nông thôn mua đất ở do thôn cấp.” Văn bản cũng nêu cách hợp pháp: cư dân thành thị có thể thuê nhà nông dân để ở hoặc kinh doanh. Thời hạn hợp đồng thuê không được quá hai mươi năm; hết hạn hai bên có thể thỏa thuận lại",
+    "notes": "Đất ở do thôn cấp là đất thôn giao cho người của thôn xây nhà, chỉ có thể giao cho người trong thôn. Thuê nhà nông dân thì ký hợp đồng bằng văn bản với hộ cho thuê, ghi rõ thời hạn, tiền thuê, có được sửa chữa cải tạo không và khi hết hạn xử lý tiền cải tạo thế nào. Văn bản quy định thời hạn thuê không quá 20 năm; đừng ký kiểu “thuê 50 năm”, “thuê 70 năm”, càng đừng trả trước một lần tiền thuê nhiều năm. Văn bản còn cấm về nông thôn dùng đất ở này xây biệt thự có khuôn viên và hội quán tư nhân; đừng bỏ tiền “cùng xây” với dân làng.",
+    "extra": ""
+  }
+}

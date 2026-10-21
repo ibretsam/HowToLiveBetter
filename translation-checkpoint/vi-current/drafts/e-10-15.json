@@ -1,0 +1,14 @@
+{
+  "id": "e-10-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "c4d95094a40f6162fcee4b99e0fe0b2d31f27b79c79528470fce5dcc83f215fb",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Tính chi phí chấm dứt hôn nhân: thuận tình ly hôn có thời gian cân nhắc 30 ngày, ly hôn qua tòa có điều kiện luật định",
+    "cost": "Không tốn tiền. Trước khi cưới, dành thời gian đọc để biết nếu cần chấm dứt hôn nhân thì mất bao lâu và phải làm thủ tục gì. Khó ở việc nghĩ đến chia tay ngay trước khi cưới.",
+    "plain": "Thuận tình ly hôn không phải ký xong là kết thúc: trong 30 ngày sau khi nộp đơn, bất kỳ bên nào cũng có thể rút lại. Hết thời hạn, cả hai phải trực tiếp đến nhận giấy ly hôn trong vòng 30 ngày tiếp theo; không đến thì coi như rút đơn. Nếu đối phương không đồng ý, chỉ còn cách khởi kiện. Tòa hòa giải trước; khi có các tình huống như bạo lực gia đình, song hôn hoặc ly thân đủ hai năm, hòa giải không thành thì phải cho ly hôn.",
+    "benefit": "Thuận tình ly hôn phải có thỏa thuận ly hôn bằng văn bản và trực tiếp nộp đơn tại cơ quan đăng ký hôn nhân (Điều một nghìn không trăm bảy mươi sáu). Trong vòng 30 ngày từ khi cơ quan đăng ký nhận đơn, bất kỳ bên nào cũng có thể rút lại. Trong vòng 30 ngày sau khi hết thời hạn đó, hai bên phải trực tiếp đến nhận giấy chứng nhận ly hôn; không nhận thì coi như rút đơn (Điều một nghìn không trăm bảy mươi bảy). Nếu một bên không đồng ý thì giải quyết bằng tố tụng; tòa phải hòa giải trước. Có các tình huống như song hôn hoặc sống chung với người khác, bạo lực gia đình hoặc ngược đãi, bỏ mặc, đánh bạc hoặc dùng ma túy nhiều lần được khuyên can vẫn không sửa, ly thân đủ hai năm do bất hòa tình cảm thì khi hòa giải không thành, phải cho ly hôn. Sau khi tòa không chấp nhận ly hôn, nếu tiếp tục ly thân đủ một năm rồi khởi kiện lại thì phải cho ly hôn (Điều một nghìn không trăm bảy mươi chín). Năm 2024, cả nước có 351.3 vạn cặp ly hôn, trong đó 89.1 vạn cặp qua phán quyết hoặc hòa giải của tòa.",
+    "notes": "Thời gian chờ cân nhắc chỉ áp dụng với thuận tình ly hôn. Ly hôn qua tố tụng không có thời gian này, nhưng quá trình kéo dài hơn. Án phí và phí luật sư tùy địa phương, nên mục này không nêu số. Chi phí chấm dứt hôn nhân cao không có nghĩa không nên cưới, nhưng nên biết những điều này từ trước. Nếu có con, cách viết điều khoản cấp dưỡng và thăm con xem mục 23 chương này (cấp dưỡng và thăm con).",
+    "extra": ""
+  }
+}

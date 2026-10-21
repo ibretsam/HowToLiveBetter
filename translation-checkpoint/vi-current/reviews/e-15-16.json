@@ -1,0 +1,15 @@
+{
+  "id": "e-15-16",
+  "source_sha256": "5ded699a70879a898e30640fffded06cf7e689f9f92087bc915af6ba402d73e0",
+  "draft_sha256": "90d6e105a3ae8af8f2d4d9dad1e1fcb2433340538c0eba6d1ba92ad9b0606e9a",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; sửa dưới5năm thành5năm trở xuống cho khoản vay căn thứ hai đúng以下. Nhóm trên5năm giữ theo phân nhóm lãi suất đối chiếu nhóm5nămtrởxuống có ghi bao gồm5. Giữ đủ lãi suất,mốcngày,ví dụ100/60/40vạn,30năm,điềukiện6tháng,hạnmứclocalthànhphố và10ngàythụlý."
+}

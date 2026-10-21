@@ -1,0 +1,15 @@
+{
+  "id": "e-15-12",
+  "source_sha256": "e693dcab7acbcff60a367bafab72aca20e8bfc2d0ba4324adef1a2f5fc5759c6",
+  "draft_sha256": "9d393be1e85311e91dc192d3f4fcf6c7e1a0267a5c5926cf431799d3bc58590d",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ 3% bao gồm ngưỡng, >3% quyền trả nhà,30ngày hoàn tiền+lãi, khác biệt diện tích tăng/giảm và hoàn gấp đôi phần vượt. Quảng cáo chỉ trong quy hoạch và ảnh hưởng đáng kể; hợp đồng có thể quy định khác."
+}

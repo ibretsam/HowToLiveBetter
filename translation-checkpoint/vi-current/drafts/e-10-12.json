@@ -1,0 +1,14 @@
+{
+  "id": "e-10-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d9aa8946dda350f471e85ea59e4dad5e11964d05ab7395eed6ef72f6975b16e9",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Khoản vay lớn của vợ hoặc chồng không tự động thành nợ của bạn nếu bạn không ký và cũng không xác nhận sau đó",
+    "cost": "Không tốn tiền. Đừng ký với tư cách “người cùng vay” hoặc “người bảo lãnh” trên giấy vay, giấy bảo lãnh của vợ hoặc chồng. Cũng đừng nhắn “chúng tôi sẽ trả khoản này”, vì có thể bị xem là bạn đã xác nhận khoản nợ sau đó. Khó ở việc kiềm chế không nhận lời khi bị thúc nợ.",
+    "plain": "Khoản tiền vợ hoặc chồng âm thầm vay không tự động thành nợ của bạn nếu nó rõ ràng vượt chi tiêu sinh hoạt thường ngày, bạn không ký và cũng không xác nhận nợ sau đó. Người đòi nợ phải tự chứng minh tiền được dùng cho đời sống chung hoặc hoạt động kinh doanh chung. Tuy nhiên, với tiền mua nhà, nếu khoản tiền thực sự trở thành căn nhà hai người cùng ở hoặc cùng sở hữu thì người đòi nợ thường chứng minh được điều đó.",
+    "benefit": "Nợ chung của vợ chồng gồm các trường hợp sau: cả hai cùng ký; một bên xác nhận sau khi bên kia vay, tức về sau nhận khoản nợ và cả hai cùng thừa nhận; hoặc một bên vay dưới tên riêng trong thời kỳ hôn nhân để đáp ứng nhu cầu sinh hoạt hằng ngày của gia đình. Khoản một bên vay dưới tên riêng mà rõ ràng vượt chi tiêu hằng ngày của gia đình không phải nợ chung. Ngoại lệ là chủ nợ, tức người đòi nợ, chứng minh được khoản tiền dùng cho đời sống chung, sản xuất kinh doanh chung, hoặc được cả hai cùng thừa nhận. Tiền mua nhà rõ ràng vượt nhu cầu sinh hoạt hằng ngày; nghĩa vụ chứng minh thuộc về bên yêu cầu trả nợ, người đòi nợ phải tự đưa ra bằng chứng. Nhưng nếu tiền thực sự trở thành căn nhà vợ chồng cùng ở hoặc cùng sở hữu, chủ nợ thường chứng minh được nó dùng cho đời sống chung. Vì vậy, bước thực sự hữu ích là mục 11 (ghi rõ cho vay hay tặng cho khi cha mẹ góp tiền) (toàn quốc, từ năm 2021).",
+    "notes": "Khi chia tài sản ly hôn, nếu cha mẹ bên kia bất ngờ đưa ra hợp đồng vay chỉ có chữ ký của vợ hoặc chồng bạn, cần xem theo hai bước. Trước hết, xem khoản vay có thực sự phát sinh không. Nếu bạn nói tiền chưa hề được giao và giải thích hợp lý, tòa sẽ xem xét đồng thời số tiền, cách giao tiền, khả năng tài chính của hai bên, cách giao dịch thường lệ, tài sản có thay đổi tương ứng không và lời khai nhân chứng. Nếu bên kia chỉ có chứng từ chuyển khoản thì họ vẫn phải chứng minh quan hệ vay đã được xác lập. Sau khi xác định khoản vay có thật, mới xét đó có phải nợ chung không. Quy định chung về giấy vay và giấy bảo lãnh xem mục 18 chương 8.",
+    "extra": ""
+  }
+}

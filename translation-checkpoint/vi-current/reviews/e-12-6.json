@@ -1,0 +1,15 @@
+{
+  "id": "e-12-6",
+  "source_sha256": "f18fbcc643674054631a872448be4600086061c844548ed856f25369512a17a6",
+  "draft_sha256": "3cd926a4eba90317bc6061c46526bedd1458d0452fc9a347437e41de89e338cc",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ5nhóm hồ sơ,miễn phíđăng ký1/1/2015,3+3ngày làm việc, con dấu tự chọn, mốc3/2022 và5năm góp vốn;tham chiếu3/7. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

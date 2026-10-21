@@ -1,0 +1,15 @@
+{
+  "id": "e-10-12",
+  "source_sha256": "d9aa8946dda350f471e85ea59e4dad5e11964d05ab7395eed6ef72f6975b16e9",
+  "draft_sha256": "661770d88a1fd53faf606f689d69ce5254613bcf361fc8a44507751577ea4f7a",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves joint signature/ratification/daily-needs tests, creditor burden for beyond-daily expense, housing exception and two-step actual-loan then joint-debt examination."
+}

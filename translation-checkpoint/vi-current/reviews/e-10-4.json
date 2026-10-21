@@ -1,0 +1,15 @@
+{
+  "id": "e-10-4",
+  "source_sha256": "327dab67a6c57f460543870095cb3f2ad4562794e322e8733b6d7957898aea66",
+  "draft_sha256": "b9bf029be6fc193a23988f0355a771f974b350c791e58c3ee0b798098fa2c109",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Retains29labs43longitudinaldatasets,45%/18%variance,2–4fold predictive strength, no incremental prediction and inability to predict relationship change; verbatim English quote preserved."
+}

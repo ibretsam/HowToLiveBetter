@@ -1,0 +1,14 @@
+{
+  "id": "e-15-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "31d6ff1101cc339adaf65de3157a8d175e840cbe33b814f47810fc5d944a2a6b",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Môi giới không được thu hộ, trả hộ tiền thuê và tiền cọc; hãy trả tiền trực tiếp cho chủ nhà",
+    "cost": "Không tốn tiền. Kiểm tra người nhận trước khi thanh toán, mất vài phút. Khó ở chỗ phải kiên quyết khi môi giới bảo chuyển tiền cho họ",
+    "plain": "Theo quy định, môi giới không được thu hộ, trả hộ tiền thuê nhà và tiền cọc; hãy trả tiền trực tiếp cho chủ nhà. Tiền qua tay môi giới thêm một lần là thêm một cơ hội để họ ôm tiền bỏ trốn. Trước khi trả, kiểm tra người nhận có đúng tên trên giấy chứng nhận quyền sở hữu hay không.",
+    "benefit": "Quy định hành chính liệt kê “thu hộ, trả hộ tiền thuê nhà, tiền cọc” là hành vi bị cấm đối với tổ chức môi giới bất động sản. Môi giới không được thay chủ nhà thu tiền thuê và tiền cọc của bạn. Tiền qua tay môi giới thêm một lần là thêm một cơ hội để họ ôm tiền bỏ trốn",
+    "notes": "Trước khi trả, kiểm tra người nhận có đúng tên trên giấy chứng nhận quyền sở hữu hay không. Nếu không phải chính người đó thì hỏi rõ và giữ một bản ủy quyền bằng văn bản. Môi giới chỉ được thu phí dịch vụ kết nối, dàn xếp giao dịch",
+    "extra": ""
+  }
+}

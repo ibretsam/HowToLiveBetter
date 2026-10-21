@@ -1,0 +1,15 @@
+{
+  "id": "e-10-8",
+  "source_sha256": "6999636dd27ca2fa131452a8109f30d1dcb60c6abfa88c76b087e61e48dd5bf5",
+  "draft_sha256": "e1aaf4a0ee3e87df9316fcdcb1806645dc7fc615cd99ab6c995bf7e4ef208746",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves observational vs causal uncertainty, 53 comparisons/25+ van, 95 studies/5+ hundred million, RR/HR/CI and all percentages, sex-stratified findings and selection/publication caveats."
+}

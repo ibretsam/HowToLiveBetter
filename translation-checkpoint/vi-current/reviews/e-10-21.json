@@ -1,0 +1,15 @@
+{
+  "id": "e-10-21",
+  "source_sha256": "73189a56a7d0b300db82310204e51e313c142e419e96780846b91c63c517229c",
+  "draft_sha256": "100da63cc3f81531befc1ec10440337bca2dfae9a2ecb839ed6b505a9dbdcad0",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves1994 boundary and historical factual-marriage exception, supplementary registration retroactivity, no automatic spouse inheritance, nonmarital children equality, support-based possible estate share and litigation costs. Plain uses source month shorthand; benefit preserves exact date."
+}

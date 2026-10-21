@@ -1,0 +1,15 @@
+{
+  "id": "e-12-1",
+  "source_sha256": "cd600184a40c67a6afc54fb89164896193f138fc0b6050dd082abac8f5ae75a5",
+  "draft_sha256": "fd5e72e3a284349df0e7976298fad396d9ded7a69d3b18dc4f883af99bcfab87",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Sửa tiêu đề mở cửa hàng thành bắt đầu kinh doanh để không thu hẹp 开张. Giữ trách nhiệm tài sản cá nhân/gia đình, nợ chung và góp vốn trước hạn; không tự bổ sung số doanh nghiệp tồn tại. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

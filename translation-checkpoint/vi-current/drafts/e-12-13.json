@@ -1,0 +1,14 @@
+{
+  "id": "e-12-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "a472b6b0a7e2899e881bef16046859d0e5bd64defad9b835af4422d825602034",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Chỉ xuất hóa đơn theo giao dịch thật; người nộp thuế quy mô nhỏ dùng đầy đủ mức miễn thuế",
+    "cost": "Không tốn tiền. Không mua, bán hóa đơn, không chuyển tiền và xuất hóa đơn hộ giao dịch giả của người khác. Xuất hóa đơn, khai thuế theo việc kinh doanh thực tế.",
+    "plain": "Đến hết năm 2027, người nộp thuế quy mô nhỏ bán chưa đến 10 vạn mỗi tháng hoặc 30 vạn mỗi quý được miễn thuế giá trị gia tăng. Khoản vốn phải nộp 3% cũng được giảm còn 1% trong cùng thời gian. Ngược lại, nhờ người xuất hóa đơn để khấu trừ thuế cho giao dịch giả là xuất khống, khung đầu đến 3 năm tù, còn phạt từ 2 vạn đến 20 vạn.",
+    "benefit": "Nhóm quy mô nhỏ, nộp thuế theo phương pháp giản đơn gọi là người nộp thuế quy mô nhỏ. Luật quy định “doanh số chưa đạt ngưỡng chịu thuế thì được miễn thuế giá trị gia tăng”. Từ ngày 1 tháng 1 năm 2026 đến ngày 31 tháng 12 năm 2027, ngưỡng này là 10 vạn nhân dân tệ nếu tính theo tháng, 30 vạn nếu tính theo quý, 1000 nhân dân tệ nếu tính theo lần hoặc ngày. Doanh số chưa đạt ngưỡng thì không phải nộp. Cùng thời gian đó, khoản vốn nộp theo 3% giảm còn 1%, trừ bán, cho thuê bất động sản và chuyển nhượng quyền sử dụng đất. Ngược lại, xuất hóa đơn chuyên dụng thuế giá trị gia tăng hoặc hóa đơn khác dùng để khấu trừ thuế mà không có mua bán thật là xuất khống. Bị phạt đến 3 năm tù có thời hạn hoặc câu dịch, kèm phạt từ 2 vạn đến 20 vạn nhân dân tệ. Xuất cho người khác, cho mình, nhờ người khác xuất cho mình hay giới thiệu người khác xuất đều tính. Số thuế liên quan tương đối lớn thì phạt từ 3 đến 10 năm tù. Số tiền rất lớn thì phạt từ 10 năm tù trở lên hoặc chung thân (toàn quốc).",
+    "notes": "Luật Thuế giá trị gia tăng có hiệu lực từ ngày 1 tháng 1 năm 2026. Hai thông báo miễn giảm cho người nộp thuế quy mô nhỏ trước đó, số 19 năm 2023 và số 1 năm 2023, theo đó ngừng áp dụng hoặc bị bãi bỏ. Ngưỡng tiền không đổi nhưng căn cứ đã thay; mục này đã cập nhật theo văn bản mới. Trang nguyên văn Bộ luật Hình sự là bản năm 1997; Điều hai trăm linh năm sau đó được sửa các khung hình phạt qua luật sửa đổi. Ở đây chỉ ghi những khung đã kiểm chứng và không bị sửa. Được miễn là thuế giá trị gia tăng; thuế thu nhập tính riêng. “Nhờ người xuất hóa đơn để hạch toán chi phí” cho giao dịch không thật là xuất khống, không phải tiết kiệm thuế.",
+    "extra": ""
+  }
+}

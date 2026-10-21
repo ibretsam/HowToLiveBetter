@@ -1,0 +1,14 @@
+{
+  "id": "e-12-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "84a185ea575d37eb726d695e2682393953638fc054af35fcc1f7344602d8c974",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Không ký bảo lãnh cá nhân cho khoản vay của công ty; vợ hoặc chồng càng không nên ký theo",
+    "cost": "Không tốn tiền. Khi ngân hàng, nhà cung cấp hay chủ nhà yêu cầu ký “bảo lãnh liên đới cá nhân của cổ đông” hoặc yêu cầu “vợ/chồng ký”, hãy dừng lại. Ký trang đó là tự từ bỏ sự bảo vệ vốn ngăn chủ nợ công ty đòi tài sản cá nhân, tức từ bỏ trách nhiệm hữu hạn. Có thể không ký thì đừng ký. Nếu bắt buộc phải ký, chỉ ký “bảo lãnh thông thường” và ghi rõ số tiền bảo lãnh tối đa. Điều khó là đối phương thường nói không ký thì không giải ngân; bạn phải chịu được sức ép này.",
+    "plain": "Nếu ký “bảo lãnh trách nhiệm liên đới”, khi công ty không trả được tiền, chủ nợ có thể bỏ qua công ty và đòi thẳng bạn. Ghi “bảo lãnh thông thường” thì chủ nợ mới phải kiện công ty trước, bán tài sản công ty rồi mới yêu cầu bạn trả phần còn thiếu. Vợ hoặc chồng ký theo thì tài sản gia đình của cả hai cùng bị đưa vào trả nợ; chữ “hữu hạn” của công ty không còn bảo vệ cá nhân bạn.",
+    "benefit": "Câu trong giấy bảo lãnh có nghĩa: người mắc nợ không trả thì bạn phải trả. Nếu ghi “bảo lãnh trách nhiệm liên đới”, chủ nợ có thể không đòi công ty mà tìm thẳng bạn. Nếu ghi “bảo lãnh thông thường”, chủ nợ phải kiện công ty hoặc yêu cầu trọng tài trước, rồi đề nghị tòa cưỡng chế bán tài sản công ty để trả nợ. Bán xong còn thiếu bao nhiêu, bạn mới phải bù. Khoản nợ cả vợ và chồng cùng ký là nợ chung, cả hai cùng trả. Một bên đồng ý sau đó cũng vậy. Vợ hoặc chồng ký thì tài sản gia đình của cả hai cùng bị đưa vào trả nợ (toàn quốc, từ năm 2021).",
+    "notes": "Theo kinh nghiệm của tác giả, khi cho doanh nghiệp nhỏ và siêu nhỏ vay, ngân hàng thường yêu cầu cổ đông ký bảo lãnh liên đới cá nhân; sách chưa tìm được thống kê chính thức. Bạn vẫn có thể vay, nhưng trước khi ký phải hiểu mình từ bỏ điều gì qua trang giấy đó. Giới hạn số tiền bảo lãnh trong mức “có thể chấp nhận mất” ở mục 1 (chỉ dùng khoản tiền có thể chấp nhận mất để khởi nghiệp). Quy tắc chung về giấy vay nợ và giấy bảo lãnh xem chương 8 mục 18.",
+    "extra": ""
+  }
+}

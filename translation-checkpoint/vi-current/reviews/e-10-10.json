@@ -1,0 +1,15 @@
+{
+  "id": "e-10-10",
+  "source_sha256": "6e0908aa39f7ecd0a7ca360069848f41f6eae34bf29d372474255825a038d80a",
+  "draft_sha256": "ba3705473efab75d3c9d39d618aa4120cecbdf94074e6caab0e227382f15e8fe",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves marital vs premarital property, inheritance/gift exception, written agreement options and binding effect, compensation for unpaid work and absence of fixed formula."
+}

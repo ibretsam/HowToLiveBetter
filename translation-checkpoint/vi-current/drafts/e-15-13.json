@@ -1,0 +1,14 @@
+{
+  "id": "e-15-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "8547381189cbdefae4b61a450df87ef36d9cef88ee070d46bc6a701b88e5f16b",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Mua nhà mới gặp chủ đầu tư chậm giao nhà, chậm làm giấy chứng nhận thì gửi yêu cầu bằng văn bản để giữ bằng chứng trước, rồi đòi khoản phạt vi phạm theo hợp đồng",
+    "cost": "Không tốn tiền. Viết yêu cầu, gửi chuyển phát và lưu bản sao. Muốn trả lại nhà hoặc đòi bồi thường thường phải kiện",
+    "plain": "Chủ đầu tư chậm giao nhà thì trước hết gửi yêu cầu bằng văn bản; trong ba tháng vẫn không giao, bạn có thể trả lại nhà. Hợp đồng không ghi khoản phạt vi phạm thì bồi thường theo tiền thuê nhà tương tự cùng khu vực. Không lấy được giấy chứng nhận quyền sở hữu do lỗi chủ đầu tư cũng phải bồi thường; chậm quá thời hạn làm giấy từ một năm trở lên còn có thể trả lại nhà. Quyền trả nhà có thời hạn, đừng mãi kéo dài mà không bày tỏ quyết định.",
+    "benefit": "Giải thích tư pháp của Tòa án Nhân dân Tối cao quy định: chủ đầu tư chậm giao nhà, trong 3 tháng sau khi bạn yêu cầu vẫn không giao thì bạn có thể chấm dứt hợp đồng, trừ khi hợp đồng thỏa thuận khác. Quyền chấm dứt hợp đồng có thời hạn. Chủ đầu tư yêu cầu bạn quyết định thì phải quyết định trong 3 tháng. Nếu họ không yêu cầu, phải thực hiện quyền trong một năm kể từ ngày biết mình có thể chấm dứt; quá hạn thì mất quyền. Nếu hợp đồng không quy định khoản phạt vi phạm cũng như cách tính bồi thường, chậm giao nhà được tính theo tiền thuê nhà tương tự cùng khu vực trong thời gian chậm. Do nguyên nhân của chủ đầu tư mà đến các hạn sau bạn vẫn chưa có giấy chứng nhận quyền sở hữu, chủ đầu tư phải chịu trách nhiệm vi phạm. Có ba mốc: thời hạn làm giấy ghi trong hợp đồng; với nhà bán trước là 90 ngày từ ngày giao nhà; với nhà có sẵn là 90 ngày từ ngày ký hợp đồng. Không thỏa thuận khoản phạt vi phạm thì tính trên tổng tiền nhà bạn đã trả, tham chiếu tiêu chuẩn lãi vay quá hạn do Ngân hàng Nhân dân quy định. Quá thời hạn làm giấy hơn một năm mà vẫn không đăng ký được do nguyên nhân chủ đầu tư, bạn có thể chấm dứt hợp đồng và yêu cầu bồi thường. Nếu khoản phạt đã thỏa thuận quá cao, chủ đầu tư yêu cầu giảm thì tòa điều chỉnh dựa trên tiêu chuẩn vượt thiệt hại thực tế 30%",
+    "notes": "Gửi yêu cầu bằng văn bản, chuyển phát đến địa chỉ chủ đầu tư ghi trong hợp đồng, giữ phiếu gửi và bằng chứng ký nhận. Giải thích tư pháp chỉ nói “sau khi được yêu cầu”, không quy định hình thức; văn bản kèm chuyển phát là kinh nghiệm tác giả. Nếu hợp đồng có khoản phạt chậm giao nhà thì tính theo hợp đồng trước. Sau khi trả lại nhà, hợp đồng vay cũng có thể được chấm dứt cùng lúc. Chủ đầu tư phải trả tiền vay cho ngân hàng, trả tiền nhà bạn đã thanh toán cùng lãi cho bạn. Chủ đầu tư không chấp nhận thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, có thể gia hạn, phí luật sư thường tự trả.",
+    "extra": ""
+  }
+}

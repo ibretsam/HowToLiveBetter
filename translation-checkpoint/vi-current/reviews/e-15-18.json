@@ -1,0 +1,15 @@
+{
+  "id": "e-15-18",
+  "source_sha256": "7c742f19f347c3b2bdb702e589dfc79566eb4bb508646319c3a04b1b34b1655c",
+  "draft_sha256": "150eb33f3781a35ece2e603d71565f30ef9660c7e7a1e22525707b7f128582a5",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; phân biệt bảo hành chủ đầu tư tính từ bàn giao với nhà thầu tính từ nghiệm thu,5năm chống thấm/2mùa sưởi-lạnh/2năm điện nước-hoàn thiện,ngoại lệ bất khả kháng/sai sử dụng, quyền thuê sửa và thiệt hại, điều kiện hủy hợp đồng. Giữ nguồn1998 chưa lấy được và dẫn12/13."
+}

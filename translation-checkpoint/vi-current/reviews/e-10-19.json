@@ -1,0 +1,15 @@
+{
+  "id": "e-10-19",
+  "source_sha256": "f89f796f51d508d67c29c1f661517fe08afcf26973003cfd13abc3711cc9fd6d",
+  "draft_sha256": "f012c4f87801e685f00f51deca4857967b428e2eba7981818871567d70fd07c7",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves invalidity vs revocation vs divorce, marital property/debt defaults, statutory opposite-sex cohabitation scope and other-serious-fault uncertainty, 2013 analysis not final judgment, no post-Code public judgment, settlement waiver and beneficiary priorities. No claim orientation alone establishes fault added."
+}

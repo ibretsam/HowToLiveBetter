@@ -1,0 +1,15 @@
+{
+  "id": "e-15-15",
+  "source_sha256": "01c8b2e4b59235e7851b77cce0a6c0a1d45297221cb5be1634ab9ca60337414e",
+  "draft_sha256": "eb05470cce71e3092364b2f363b86fc13a8a031a9be0c920e13ea6a495933b67",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ LPR+biên độ, khoản vay mới không vượt dư nợ gốc, ngân hàng không chắc đồng ý, ví dụ tự tính100vạn/30năm4.0→3.5,4774→4490,284,10vạn; không trình bày như đảm bảo tiết kiệm mọi trường hợp."
+}

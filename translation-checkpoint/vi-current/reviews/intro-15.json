@@ -1,0 +1,15 @@
+{
+  "id": "intro-15",
+  "source_sha256": "db25637144e7f227213e98ec29084b2e225e2730b2b6a90068d2de3f6c7dbb37",
+  "draft_sha256": "c7d5eb7b098e35da983540067c374c397d44d22776de1a589b625725654189cd",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ lời dẫn và tiêu đề; giữ tiêu chí tiền bạc, tiền cọc/môi giới/lãi vay/thông tin bất cân xứng, nhóm tài khoản-cọc-chậm giao-đăng ký-lãi vay và hai mục cuối về quản lý/bảo hành."
+}

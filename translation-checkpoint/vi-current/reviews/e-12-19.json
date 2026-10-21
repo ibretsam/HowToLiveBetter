@@ -1,0 +1,15 @@
+{
+  "id": "e-12-19",
+  "source_sha256": "27212424b2def247f231448083deb5a08cd078e952b9f4c3144eaa5ecc4386d3",
+  "draft_sha256": "1736681573f0141f423e83070c5875e8582e46b372ca4878c8f0347a465a7d20",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ100sản phẩm,tỷ lệ đạt chuẩn,tiền ứng/hàng tồn,hai yêu cầu chứng nhận+dấu,chứng nhận thực phẩm;phương pháp kinh nghiệm,tham chiếu20/21. Nguồn tổng quát hóa giấy phép thực phẩm ở đây; ngoại lệ nằm mục8. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

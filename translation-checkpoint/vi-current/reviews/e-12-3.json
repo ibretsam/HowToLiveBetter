@@ -1,0 +1,15 @@
+{
+  "id": "e-12-3",
+  "source_sha256": "ed1c8833da15fad361bafaef59816c6324b222051d17bc27f035ac984ed81579",
+  "draft_sha256": "9cccf28a17307ef910b60bf591dfb2d2477b40fdc019977d2d053e90f1c16e17",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ phân biệt hộ cá thể, hợp danh thông thường/hữu hạn, vốn cam kết,5năm,100vạn,ba ngoại lệ và nghĩa vụ chứng minh của công ty một cổ đông; mốc7/2024. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

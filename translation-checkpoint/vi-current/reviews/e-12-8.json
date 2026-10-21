@@ -1,0 +1,15 @@
+{
+  "id": "e-12-8",
+  "source_sha256": "d6561f0bd256034c4044dd9aa3fb13d5989855f4e9024d204098986cc2f681d8",
+  "draft_sha256": "3384584b790aea8f76eb0f89a70b0cdc2f521eb5bdd9a5ef4aab9aa3e4b62142",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ ngoại lệ nông sản và thực phẩm đóng gói,quy định tỉnh với cơ sở nhỏ,ngưỡng một vạn,phạt5–10vạn/10–20lần,hai chứng nhận giết mổ,ngoại lệ tự ăn ở nông thôn, bồi thường mười lần và các tham chiếu. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

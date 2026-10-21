@@ -1,0 +1,15 @@
+{
+  "id": "e-12-18",
+  "source_sha256": "ba6affd32df4f01b3541e10327fbe4e59ce3c13e4db809213cb84e2e796862f4",
+  "draft_sha256": "6846f3d55235862a432b6dcee382e097fcfafd56d8a7e529642ccda7e483fc82",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Sửa lặp từ được trong câu dự án dương tính giả. Giữ116doanh nghiệp Ý/khoảng một năm/2020,ngẫu nhiên đào tạo,không tăng bỏ cuộc sớm,diễn giải của tác giả và chưa xác minh hiệu ứng toàn văn. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

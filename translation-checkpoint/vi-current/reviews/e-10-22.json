@@ -1,0 +1,15 @@
+{
+  "id": "e-10-22",
+  "source_sha256": "e3b3a8dcd80b4cf610c3428b93ea2cb498bd81b64154c5d143700a031235c2e1",
+  "draft_sha256": "145ff8aa0bb6632a001b3fb0ef0418c516a264d9f89a046e844be40b66d231f8",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Compared all six fields. Preserves livestream spending vs extramarital gifts distinction, no unsupported recovery from streamer/platform, serious/common-property threshold, marital partition and reduced share remedies, 73 minus17 equals56 van actual-receipt judgment and litigation costs."
+}

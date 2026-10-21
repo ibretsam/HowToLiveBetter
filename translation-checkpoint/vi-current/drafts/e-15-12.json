@@ -1,0 +1,14 @@
+{
+  "id": "e-15-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e693dcab7acbcff60a367bafab72aca20e8bfc2d0ba4324adef1a2f5fc5759c6",
+  "translator": "batch8_housing",
+  "translation": {
+    "title": "Trước khi ký mua nhà mới, đọc kỹ cách xử lý chênh lệch diện tích; chụp lại và giữ các cam kết trong tài liệu giới thiệu, quảng cáo và mô hình dự án",
+    "cost": "Không tốn tiền. Đọc thêm hai điều khoản trước khi ký, tiện tay chụp ảnh và chụp màn hình",
+    "plain": "Nếu hợp đồng không thỏa thuận khác, diện tích đăng ký sau bàn giao chênh lệch so với hợp đồng trong phạm vi 3% thì quyết toán theo thực tế, thừa trả lại, thiếu nộp thêm. Chênh quá 3%, bạn có thể trả lại nhà, chủ đầu tư hoàn tiền kèm lãi trong 30 ngày. Cam kết quảng cáo về nhà và tiện ích trong khu mà cụ thể, ảnh hưởng đến quyết định mua của bạn thì dù không ghi vào hợp đồng vẫn có giá trị.",
+    "benefit": "Quy định của Bộ Nhà ở và Phát triển đô thị, nông thôn ghi rõ: tính giá theo diện tích thì hợp đồng phải nêu cách xử lý sai lệch diện tích. Nếu không ghi, áp dụng các quy tắc sau. “Trị tuyệt đối của tỷ lệ sai lệch diện tích nằm trong phạm vi 3% (bao gồm 3%) thì quyết toán tiền nhà theo thực tế.” Quá 3%, bạn có quyền trả lại nhà. Nếu trả lại, chủ đầu tư phải hoàn tiền nhà đã trả và trả lãi trong 30 ngày kể từ ngày bạn yêu cầu. Nếu không trả lại mà diện tích đăng ký lớn hơn hợp đồng, phần trong phạm vi 3% bạn trả thêm; phần vượt 3% do chủ đầu tư chịu, quyền sở hữu thuộc về bạn. Nếu diện tích đăng ký nhỏ hơn hợp đồng, phần trong phạm vi 3% chủ đầu tư hoàn lại; phần vượt 3% phải hoàn gấp đôi. Về quảng cáo, giải thích tư pháp của Tòa án Nhân dân Tối cao quy định quảng cáo bán hàng và tài liệu tuyên truyền thông thường chỉ là lời mời thương lượng, không phải hợp đồng. Nhưng nếu chủ đầu tư nêu cụ thể, xác định rõ về nhà và tiện ích trong phạm vi quy hoạch dự án, đồng thời có ảnh hưởng lớn đến việc bạn có ký hay không và giá nhà, thì được coi là nội dung hợp đồng. “Nội dung trình bày và cam kết này dù không ghi trong hợp đồng mua bán nhà ở thương mại vẫn phải được coi là nội dung hợp đồng”; vi phạm phải chịu trách nhiệm vi phạm hợp đồng",
+    "notes": "3% là cách xử lý mặc định khi hợp đồng không thỏa thuận. Nếu hợp đồng ghi khác thì theo hợp đồng, nên khi ký phải xem điều khoản đó có nới phạm vi sai lệch không. Nhà bán trước tính giá theo căn thì hợp đồng phải kèm bản vẽ mặt bằng, ghi phạm vi sai số kích thước. Quy định về quảng cáo chỉ áp dụng nhà và tiện ích trong phạm vi quy hoạch dự án, không bao gồm những thứ ngoài phạm vi đó. Khi sửa giải thích tư pháp năm 2020, quy định cũ về sai lệch diện tích bị xóa; căn cứ hiện nay là quy định của Bộ này. Chủ đầu tư không chấp nhận thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, phí luật sư thường tự trả.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-10-6",
+  "source_sha256": "2dcb3644b428250023598e6ddc2d81596dbedd6a3d60e7e7801b690378d37eaa",
+  "draft_sha256": "354fc39df0fc783d9ec380701830d55806eb944ac555bc94a29b3e52271c4728",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves separated-vs-reunited distinction, approximately half reunite and one-third of that half split in3months;717/425samples and American college dating-only historical limits. Source causal language preserved without new strengthening."
+}

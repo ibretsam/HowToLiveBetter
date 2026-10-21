@@ -1,0 +1,15 @@
+{
+  "id": "e-10-16",
+  "source_sha256": "cc35170cedf57ea887e83fe55af0232de812fee29cb21a5c753dcb2dc7e1faf8",
+  "draft_sha256": "7c8c02ef65c12a2af72495a805c2870763d08cf684c0b2ca53e61b6a3b759237",
+  "reviewer": "batch8_business_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserves separate benefits for elders vs couple, personal time/money/exit costs, reader autonomy to weight elders heavily, all cross-references and article URL."
+}

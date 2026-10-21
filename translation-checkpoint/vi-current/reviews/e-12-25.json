@@ -1,0 +1,15 @@
+{
+  "id": "e-12-25",
+  "source_sha256": "f8e35710be9b8c9b00d17893ba2d7cc4bc59134d287887e89bf64bcfd31442a5",
+  "draft_sha256": "3e944a39ea251d0364fd02862ab141ff74b6fdf96905ff80a5c38d2a09c5a8a7",
+  "reviewer": "root_batch8_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ sáu trường. Giữ các ngày1/1–30/6, hộ mới mở bắt đầu năm sau, quyền hộ không công bố nội dung nhưng vẫn phải báo cáo, doanh nghiệp phải công khai. Giữ điều kiện2 năm thu hồi,98–398/10099/319 vạn/3 người/10 năm6–8 tháng,9 người/8 tháng–4 năm, hai lần sửa2025 và25/12, số110/96110; các dẫn12-14/12-12/12-23 đúng mục."
+}

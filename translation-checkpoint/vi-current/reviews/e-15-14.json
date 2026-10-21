@@ -1,0 +1,15 @@
+{
+  "id": "e-15-14",
+  "source_sha256": "750987b2d826784a57105f9bced74adc8496607c83d154c2bf88a3b3c0539571",
+  "draft_sha256": "972972b2b83f153cf5d7f15b788c8c7761efed4144704785a84264d654191229",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ cơ chế đăng ký bảo đảm quyền mua,90ngày và hiệu lực quyền tài sản, đồng ý bằng văn bản, người mua nhà bán trước có thể tự nộp khi chủ đầu tư không thực hiện; phân biệt lưu hồ sơ hợp đồng và đăng ký bảo đảm. Giữ yêu cầu thỏa thuận trước và kiện6tháng."
+}

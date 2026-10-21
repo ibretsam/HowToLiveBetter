@@ -1,0 +1,15 @@
+{
+  "id": "e-15-10",
+  "source_sha256": "714bb307217b6b3eceece4ca5e0f253d11a3256b2316bf8da7829f4971f6ec64",
+  "draft_sha256": "32e81b07f290b93c0701748f10ae954607b2498cd799b0a5f05e4725663a17ff",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ các mốc2022/2026 và ngoại lệ giấy quy hoạch trước28/8/2026, tài khoản tiền bán trước khác tài khoản cọc nhà bán khi hoàn thành, bổ sung phép trước kiện có thể hợp thức hóa hợp đồng. Rà soát bản dịch không xác minh độc lập văn bản pháp luật."
+}

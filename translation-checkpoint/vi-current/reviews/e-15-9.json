@@ -1,0 +1,15 @@
+{
+  "id": "e-15-9",
+  "source_sha256": "a92280d3426dd9952d4ed46a6456fa53f5329759c8b81e6c74d72fcb8188ab4c",
+  "draft_sha256": "ef5ecc862ea7bdb64da204a4b414700f9b342030592f0311824cdfd8da6c6dd7",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ bối cảnh hộ khẩu thành thị/đất tập thể nông thôn, thuê tối đa20năm mỗi lần, tái thỏa thuận, cấm hợp xây biệt thự/hội quán; không chuyển thành luật Việt Nam."
+}

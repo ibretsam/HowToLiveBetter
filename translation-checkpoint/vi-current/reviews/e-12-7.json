@@ -1,0 +1,15 @@
+{
+  "id": "e-12-7",
+  "source_sha256": "e6017b3ebe411b3fb0ebcaa5f62a8072d51da26ace68112abb48e6995c77e5b2",
+  "draft_sha256": "cf9d64402b9f7f16573ccbcd5c4a6791a7ba949d9598ac9385dfeb7de710527a",
+  "reviewer": "batch8_housing_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đối chiếu độc lập toàn bộ sáu trường với nguồn và kiểm tra nguồn dẫn/tham chiếu. Giữ phân biệt giấy phép ngành và giấy đăng ký kinh doanh, phạt tối đa1vạn, tù5năm trở xuống/trở lên,phạt1–5lần; ngành tài chính/y tế có luật riêng. Không kiểm chứng lại pháp luật bên ngoài; giữ bối cảnh và thời điểm Trung Quốc của nguồn."
+}

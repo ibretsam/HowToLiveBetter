@@ -1,0 +1,14 @@
+{
+  "id": "e-12-22",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d00d905afd4c37ef7b990692f15580cef21678033d865e8d55de3441164e36d0",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Làm việc theo quy trình của vị trí; muốn giúp ngoài quy trình thì nghĩ rõ ai chịu trách nhiệm",
+    "cost": "Không tốn tiền. Làm việc theo quy chế, y lệnh và quy trình. Không quyết định thay người khác ngoài thẩm quyền của mình. Trước khi giúp, tự hỏi nếu có chuyện thì ai chịu trách nhiệm. Điều khó là từ chối ngay lời nhờ “linh động một chút”.",
+    "plain": "Ví dụ với điều dưỡng, quy định nêu phát hiện bệnh nhân nguy kịch phải báo bác sĩ ngay; phát hiện y lệnh trái quy định phải phản ánh với bác sĩ ra y lệnh. Vị trí khác cũng vậy, trước hết xem quy trình của mình đặt ranh giới bắt buộc báo cáo ở đâu. Ngoài ra, tự nguyện cứu giúp khẩn cấp mà làm người được cứu bị thương thì không phải bồi thường.",
+    "benefit": "Ví dụ với điều dưỡng, pháp luật xác định ranh giới nhiệm vụ như sau: phát hiện tình trạng nguy kịch thì báo bác sĩ ngay. Trong trường hợp khẩn cấp để cứu bệnh nhân nguy kịch, có thể thực hiện trước biện pháp cấp cứu cần thiết. Thấy y lệnh trái pháp luật, quy định hoặc quy phạm kỹ thuật khám chữa bệnh thì phải phản ánh với bác sĩ, khi cần báo người phụ trách khoa. Bộ luật Dân sự còn quy định người tự nguyện cứu giúp khẩn cấp mà làm người được cứu bị thương không phải bồi thường, tức không chịu trách nhiệm dân sự (toàn quốc).",
+    "notes": "Trong phạm vi công việc, làm theo quy trình; cứu người khẩn cấp được pháp luật bảo vệ. Với việc khác, phân rõ thẩm quyền và trách nhiệm thuộc ai, đừng dùng lòng tốt cá nhân thay quyết định theo quy chế. Điều lệ Điều dưỡng được sửa năm 2020 theo Lệnh Quốc vụ viện số 726, chỉ sửa các điều về đăng ký, không thay chữ nào của Điều mười bảy. Lần này không mở được nguyên văn chính thức của Luật Bác sĩ về hành nghề theo quy phạm khám chữa bệnh nên không dẫn.",
+    "extra": ""
+  }
+}

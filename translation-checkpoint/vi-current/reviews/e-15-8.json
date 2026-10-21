@@ -1,0 +1,15 @@
+{
+  "id": "e-15-8",
+  "source_sha256": "7d5ad9320945f4ab31e4708607ef52708ed74fb978b4205dc4ff7826469c33ec",
+  "draft_sha256": "9677fe89dafedf40e23bfeef46ee785616c37205789c9ce80d8b873dce9e6a76",
+  "reviewer": "batch8_marriage_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ; giữ diện tích tối thiểu địa phương, phòng theo thiết kế, bếp/vệ sinh/ban công/kho cấm ở, không tăng thuê tùy ý. Phạt5000 đến3vạn chỉ khi quá hạn không khắc phục. Ghi rõ suy luận và kinh nghiệm của tác giả."
+}

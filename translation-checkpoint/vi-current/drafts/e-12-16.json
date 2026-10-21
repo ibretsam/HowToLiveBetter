@@ -1,0 +1,14 @@
+{
+  "id": "e-12-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d23bf10f7aa33ef6bf53e30db6da4ae24ea8af8dbd103af717781e2093a491e7",
+  "translator": "batch8_business",
+  "translation": {
+    "title": "Ký hợp đồng bằng văn bản trong tháng đầu sử dụng lao động, đăng ký bảo hiểm xã hội trong 30 ngày",
+    "cost": "Phần bảo hiểm xã hội do công ty đóng phải được đóng liên tục; tỷ lệ tùy địa phương. Ký hợp đồng không tốn tiền, dùng mẫu của cơ quan nhân lực và an sinh xã hội địa phương là được.",
+    "plain": "Người lao động làm đủ một tháng mà chưa ký hợp đồng bằng văn bản thì từ tháng thứ hai phải trả lương gấp đôi mỗi tháng, tính đến khi đủ một năm. Phải đăng ký bảo hiểm xã hội trong 30 ngày từ khi sử dụng lao động; không làm, quá hạn vẫn không sửa thì phạt từ 1 đến 3 lần số phí phải đóng. Pháp luật không có trường hợp “nhân viên tự nguyện bỏ bảo hiểm xã hội”.",
+    "benefit": "Người lao động đã làm đủ một tháng nhưng chưa đủ một năm mà chưa ký hợp đồng bằng văn bản thì phải trả lương gấp đôi mỗi tháng. Trong 30 ngày từ ngày đầu làm việc phải đăng ký bảo hiểm xã hội cho họ. Không làm thì trước hết bị yêu cầu sửa. Quá hạn thì phạt từ 1 đến 3 lần phí bảo hiểm xã hội phải đóng; người phụ trách còn bị phạt từ 500 đến 3000 nhân dân tệ. Không đóng đúng hạn hoặc không đủ thì từ ngày nợ phải trả thêm tiền chậm nộp mỗi ngày năm phần vạn. Quá hạn vẫn không đóng thì phạt thêm từ 1 đến 3 lần số nợ. Đơn vị phải tự khai và đóng đủ đúng hạn. Chỉ lý do pháp luật quy định như thiên tai không thể chống đỡ mới cho phép chậm hoặc giảm đóng. Không có trường hợp “nhân viên tự nguyện từ bỏ” (toàn quốc).",
+    "notes": "Lương gấp đôi tính từ tháng thứ hai đến khi đủ một năm; càng kéo dài càng tốn. Người chưa ký hợp đồng, chưa được đóng bảo hiểm mà gặp tai nạn lao động hoặc sau nghỉ việc đi trọng tài thì đơn vị phải đóng bù, nộp phạt và bồi thường. Tổng thường cao hơn nhiều so với chút tiền đã tiết kiệm. Cách người lao động đòi lương gấp đôi xem chương 19 mục 20 (lương gấp đôi).",
+    "extra": ""
+  }
+}

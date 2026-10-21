@@ -1,0 +1,14 @@
+{
+  "id": "e-10-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d8cb0a2f36cc76c422a5b786d1979948901964b6093636d4f02af89ce5fd9cc7",
+  "translator": "batch8_marriage",
+  "translation": {
+    "title": "Muốn gần gũi hơn thì luân phiên trả lời một nhóm câu hỏi từ nông đến sâu, đừng học chiêu trò nói chuyện",
+    "cost": "Không tốn tiền. Cần 45 phút.",
+    "plain": "Hai người chưa quen luân phiên trả lời 36 câu hỏi từ nông đến sâu thì sau 45 phút cảm thấy gần gũi hơn những người chỉ trò chuyện thông thường trong cùng khoảng thời gian. Điều có tác dụng là thay phiên nói thật và từng bước chia sẻ sâu hơn, chứ không phải chiêu trò nói chuyện. Kết quả chỉ cho thấy họ gần gũi hơn vào lúc đó, không có nghĩa sẽ phát triển thành mối quan hệ lâu dài.",
+    "benefit": "Nghiên cứu ghép đôi những người chưa quen nhau, cho họ luân phiên trả lời ba nhóm câu hỏi ngày càng sâu, tổng cộng 36 câu. Câu hỏi bắt đầu từ “Bạn muốn mời ai đi ăn nhất?” đến “Lần gần nhất bạn khóc trước mặt người khác là khi nào?”. Sau 45 phút, cảm giác gần gũi cao hơn có ý nghĩa thống kê so với nhóm đối chứng chỉ trò chuyện thông thường trong cùng thời gian. Điểm này cũng cao hơn điểm trung bình mà sinh viên trong nghiên cứu chấm cho mối quan hệ thân thiết nhất ngoài đời của mình.",
+    "notes": "Chỉ có một thí nghiệm, đối tượng là sinh viên. Nghiên cứu chỉ đo cảm giác gần gũi trong thời gian ngắn, không đo khả năng phát triển thành quan hệ lâu dài. Cảm giác gần gũi trong thí nghiệm đến từ việc hai người luân phiên chia sẻ sự thật về bản thân, từng bước sâu hơn, chứ không nhờ chiêu trò, kịch bản hay chỉ một người thể hiện. Vì vậy, cách trò chuyện có tác dụng là “tôi chia sẻ một điều thật lòng, rồi hỏi bạn một câu sâu tương đương”, hai bên thay phiên nhau.",
+    "extra": ""
+  }
+}
