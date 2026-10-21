@@ -1,0 +1,15 @@
+{
+  "id": "e-1-5",
+  "source_sha256": "6574e2f8ebf27fd2b7e4429e3408db8ab5194874d6b1090268ee44fccdd18e36",
+  "draft_sha256": "26ac53fc5e9498f4187c4f8113332ba19cfa3507dd920ae95db567cd3ee4fb27",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ tử vong trong số mắc khác tử vong dân số, số loài mới, lời khuyên không tự xử lý và dẫn mục48. Giữ nguyên khẳng định hóa học về độc tố nấm của nguồn; chưa độc lập thẩm định khẳng định đó."
+}

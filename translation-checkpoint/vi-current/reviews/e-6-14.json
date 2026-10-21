@@ -1,0 +1,15 @@
+{
+  "id": "e-6-14",
+  "source_sha256": "475795244e5662776d7dcade09ec1aa229a8a910ed5fed1a7c1d04d66374ddf6",
+  "draft_sha256": "8bd98ebef5543dcf0b7bf00dacd8c98eb85787709428e3fe718b54535deea50b",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ8×8/ounce, nguồn nước từ thức ăn/đồ uống, phạm vi người khỏe/ít vận động/khí hậu ôn hòa. Giữ ngoại lệ lao động nóng/vận động/bệnh, dẫn16-8 và hai lời nhắc thường thức không nằm trong bài nguồn."
+}

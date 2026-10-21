@@ -1,0 +1,14 @@
+{
+  "id": "e-1-29",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "91cadd3a6e130a5d6adf2ec721d074fcce5344d69dd3f5b5ee1c03ac35e0dca9",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Giảm cân, bỏ thuốc lá, kiểm soát huyết áp và đường huyết có thể giúp khả năng cương cải thiện",
+    "cost": "Không tốn tiền, còn có thể tiết kiệm. Khó ở chỗ kiên trì lâu dài: kiểm soát ăn uống, vận động và bỏ thuốc lá.",
+    "plain": "Kiểm soát các yếu tố nguy cơ tim mạch cũng giúp khả năng cương cải thiện. Đo bằng một bảng hỏi, điểm trung bình tăng 2 đến 3 điểm. Bảng hỏi có tổng điểm 25, từ 22 điểm trở lên được coi là bình thường.",
+    "benefit": "Một phân tích gộp tổng hợp 6 thử nghiệm đối chứng ngẫu nhiên với 740 nam giới. Can thiệp là thay đổi lối sống hoặc dùng thuốc kiểm soát yếu tố nguy cơ tim mạch, theo dõi ít nhất 6 tuần. Kết quả: điểm bảng hỏi chức năng cương IIEF-5 tăng trung bình 2.66 điểm (95% CI 1.86 đến 3.47, đây là khoảng tin cậy). Bỏ 2 thử nghiệm dùng statin với 143 người, 4 thử nghiệm còn lại chỉ thay đổi lối sống với 597 người vẫn tăng 2.40 điểm (1.19 đến 3.61). IIEF-5 gồm 5 câu hỏi, tổng điểm từ 5 đến 25. Bản gốc chia điểm thành năm mức: 22 đến 25 là không rối loạn, 5 đến 7 là nặng.",
+    "notes": "Can thiệp trong 6 thử nghiệm khác nhau: có thử nghiệm giảm cân kết hợp vận động, có thử nghiệm dùng thuốc kiểm soát huyết áp và mỡ máu. Tổng cộng chỉ có 740 người. Vì vậy, hướng tác dụng rõ nhưng cải thiện bao nhiêu tùy từng người. Lợi ích xếp nhỏ vì tiêu chí đánh giá chỉ là điểm bảng hỏi, không có số liệu sau này mắc ít bệnh hơn bao nhiêu. Cũng những hành động này ở phần khác có kết quả sức khỏe thực tế. Bỏ thuốc lá xem phần 2 mục 1 (bỏ thuốc càng sớm càng tốt). Giảm cân xem phần 2 mục 32 (giữ BMI ở mức 20–25). Huyết áp xem mục 7 phần này (đo huyết áp, cao thì dùng thuốc). Không phải không được dùng thuốc, nhưng phải là thuốc kê đơn do bác sĩ kê. Năm 2016, Tổng cục Quản lý thực phẩm và dược phẩm Trung Quốc trước đây cảnh báo rằng nước này chưa từng phê duyệt thực phẩm bảo vệ sức khỏe có tác dụng cải thiện chức năng tình dục nam. Có kẻ trộn sildenafil, thành phần của nhóm thuốc này, vào sản phẩm bất hợp pháp quảng cáo tăng cường sinh lý. Dùng ngoài sự hướng dẫn của bác sĩ gây nguy hiểm cho sức khỏe và tính mạng. Cách phân biệt thực phẩm bảo vệ sức khỏe mua trên mạng xem phần 28 mục 4 (không mua thuốc giảm cân hứa hẹn gầy nhanh).",
+    "extra": ""
+  }
+}

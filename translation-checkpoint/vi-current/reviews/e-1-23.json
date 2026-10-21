@@ -1,0 +1,15 @@
+{
+  "id": "e-1-23",
+  "source_sha256": "45a5353bfd466ead849ca040fda03875c0e16cf9ad8f5e203ede18ade833dcbb",
+  "draft_sha256": "507d09caa1ab8927f940972d35bfa17ad09c4c67b917725e0aed6fd73cf60241",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ 22năm, OR0.48 và HR0.62, nơi nguy cơ nền cao khác thấp, tái nhiễm và không thay nội soi. Nguồn dùng nguy cơ cho OR; giữ nguyên và ghi nhận chưa xác minh y khoa độc lập."
+}

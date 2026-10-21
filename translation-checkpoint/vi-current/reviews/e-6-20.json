@@ -1,0 +1,15 @@
+{
+  "id": "e-6-20",
+  "source_sha256": "6655f3acc23c32c9407a5210c1445ba29608ebe414f64f6cd8e9218ca2449503",
+  "draft_sha256": "4f6335b7f7b0ca42390a309597523526442ee14761c024d20628891a07277c84",
+  "reviewer": "pilot_emergency_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường. Giữ số người có triệu chứng/không triệu chứng, tỷ lệ tích lũy so với hằng năm, mô hình tuổi thọ và không có thử nghiệm ngẫu nhiên. Giữ TODO chưa đối chiếu toàn văn đồng thuận Trung Quốc, ngưỡng sỏi ≤5 mm và polyp ≥1 cm, ngoại lệ sỏi ống mật chủ, triệu chứng cấp cứu và không bác chỉ định bác sĩ."
+}

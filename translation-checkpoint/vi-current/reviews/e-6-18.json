@@ -1,0 +1,15 @@
+{
+  "id": "e-6-18",
+  "source_sha256": "e74fab36f93afe9d0ecb801a29debfd8ce418f6dad4f4832ce1f41dac7d86997",
+  "draft_sha256": "6db8fd2601e7b18c011ee4c7d31117cdc2c1e3e3f20a1acbec6c73e71e964755",
+  "reviewer": "pilot_emergency_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu sáu trường. Giữ tổng 17 thử nghiệm và các tập con 11/9/8, số mẫu/tử vong và RR/CI, đối tượng thường trú từ 35 và 65 tuổi, đủ danh mục xét nghiệm miễn phí. Giữ ngoại lệ người có triệu chứng/bệnh mạn/chỉ định bác sĩ, giới hạn áp dụng từ nước thu nhập cao và tất cả tham chiếu. Không biến phủ định gói khám thành phủ định mọi sàng lọc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-26",
+  "source_sha256": "be34d08fc41dfe607e84ff74b49465e7038027b53d198226bf7cbe9721626879",
+  "draft_sha256": "3b412780dca2639db961cb5b979c6497dd8320840f4f7c624fbda654fa3cc6e4",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa phần diễn giải để rõ giảm hơn hai trăm kilocalo mỗi ngày, không phải tổng lượng ăn dưới hai trăm. Giữ 259.79 kcal/0.44 kg, thời gian ngắn, CI chứa 0, phân biệt liên hệ quan sát với nhân quả, các ngoại lệ dùng thuốc đái tháo đường và thai kỳ cùng dẫn chiếu."
+}

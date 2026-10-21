@@ -1,0 +1,15 @@
+{
+  "id": "e-28-5",
+  "source_sha256": "8624e4353b5bf47f76995a9a14d3a3bc93da2876d4bc059b9687cfd69219cd28",
+  "draft_sha256": "87f91a5d8b33638cb90536d45eb81d0f27fca792c36077916a64ebd865bad2c3",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu nhóm dương tính và nhóm từ chối kiểm tra, HR/CI/P, trung vị số lần khám và tỷ lệ tác dụng phụ. Giữ hạn chế quan sát, mức rủi ro rộng và quy định thuốc kê đơn. Giữ chính xác nhãn 蛋白同化制剂 với retained_terms hẹp; nguồn nói bốn chữ dù nhãn có sáu chữ, không tự sửa bất nhất."
+}

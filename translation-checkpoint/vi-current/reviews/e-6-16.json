@@ -1,0 +1,15 @@
+{
+  "id": "e-6-16",
+  "source_sha256": "1c3b495f3384466e29ab85dc7e450148f48a66116c85cccafbe61d6049d0bcfa",
+  "draft_sha256": "d71d54fa60a9995b2e317d18f455218c253021b27db6a50f8465a12790f7fb25",
+  "reviewer": "pilot_emergency_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ sáu trường. Giữ mức chắc chắn thấp/trung bình/rất thấp, khoảng CI đi qua không, giới hạn thời gian và từng kết cục. Lời khẳng định màn hình không gây tổn thương vĩnh viễn thuộc nguồn AAO chứ không Cochrane; giữ rõ mức C, ngoại lệ glôcôm cấp, bệnh nghề nghiệp và ngưỡng từ 50 tuổi. Không tự sửa lời khuyên nguồn."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-1-43",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "2db94d01ef4d2182af4f6280f717c00c0a74c22586b0130d498e707507a09b1c",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Hỏi thẳng người bên cạnh có tâm trạng bất thường rằng họ đã nghĩ đến tự sát chưa; hỏi không làm họ muốn hơn",
+    "cost": "Không tốn tiền. Hỏi một câu rồi dành chút thời gian nghe. Khó ở việc mở lời, nhiều người sợ hỏi lại khơi ý nghĩ.",
+    "plain": "Lo rằng nhắc đến tự sát sẽ khơi ý nghĩ, nhưng nghiên cứu không thấy điều đó. Thêm câu hỏi về tự sát vào bảng hỏi học sinh trung học không làm người được hỏi khó chịu hơn hay tăng số muốn tự sát. Trẻ vốn có triệu chứng trầm cảm được hỏi lại ít khó chịu hơn; trẻ từng tự sát không thành lại có ý nghĩ tự sát ít hơn.",
+    "benefit": "2342 học sinh tại 6 trường trung học bang New York được phân ngẫu nhiên theo lớp thành hai nhóm. Một nhóm nhận bảng hỏi có câu về tự sát, nhóm kia không. Ngay sau bảng hỏi và 2 ngày sau, mức đau khổ của hai nhóm đều không khác (P = .66 và P = .41; P lớn hơn 0.05 nghĩa là không thấy khác biệt). Sau 2 ngày, tỷ lệ nói từng nghĩ tự sát là 4.7% ở nhóm được hỏi, 3.9% ở nhóm không được hỏi, không thấy khác biệt (P = .49). Học sinh vốn có triệu chứng trầm cảm được hỏi lại ít đau khổ hơn (P = .01). Học sinh từng tự sát không thành được hỏi lại ít muốn tự sát hơn (P = .02). Một phân tích gộp năm 2022 đánh giá 17 nghiên cứu, gộp 8 nghiên cứu so sánh được hỏi với không được hỏi. Sau khi hỏi, ý nghĩ và hành vi tự sát, tự gây thương tích không nhằm chết và đau khổ tâm lý, ngay lúc đó và về sau, đều không tăng có ý nghĩa thống kê. Bằng chứng vững nhất là 8 thử nghiệm đối chứng ngẫu nhiên có nguy cơ sai lệch thấp hoặc chưa rõ. Một tổng quan tài liệu khác năm 2014 cũng ghi không nghiên cứu nào thấy ý nghĩ tự sát tăng có ý nghĩa thống kê sau khi được hỏi.",
+    "notes": "Xếp mức B vì các nghiên cứu chỉ chứng minh hỏi không gây hại, chưa nghiên cứu nào tính hỏi giảm được bao nhiêu ca tử vong do tự sát. Lợi ích xếp nhỏ cũng vì không có số liệu tử vong, chỉ có tiêu chí thay thế là ý nghĩ không tăng. Cách hỏi trong nghiên cứu phần lớn là bảng hỏi và phỏng vấn nghiên cứu, không phải gia đình, bạn bè hỏi trực tiếp; áp dụng sang hỏi trực tiếp là suy luận. Nếu hỏi ra người đó thực sự từng nghĩ, đừng rời đi ngay; cùng họ gọi 12356, đưa thuốc và thuốc trừ sâu ra xa, xem mục 25 phần này (có ý nghĩ tự sát thì gọi 12356). Nếu họ nói muốn kéo theo người khác hoặc đã chuẩn bị phương tiện, người thân gần có thể đưa thẳng đi khám, cũng có thể báo 110. Cách làm xem phần 8 mục 15 (người thân gần có thể đưa thẳng đi khám). Từ lúc nảy ý nghĩ đến hành động, gần một nửa không quá 10 phút, xem mục 32 phần này (vừa xuất hiện ý nghĩ tự sát thì nói ngay với một người bên cạnh). Người hưởng lợi chủ yếu là vợ chồng và thân nhân trực hệ; cũng có thể hỏi bạn bè, đồng nghiệp như vậy.",
+    "extra": ""
+  }
+}

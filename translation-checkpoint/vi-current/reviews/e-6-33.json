@@ -1,0 +1,15 @@
+{
+  "id": "e-6-33",
+  "source_sha256": "8b94c1594c673a98e2506986ff124f41fafd6d5c8420971c12d01185751bd372",
+  "draft_sha256": "b5ff74e9c85a09e2170deaa574af54c6c513a0297f48187f3ff541954f71e9bb",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ đầy đủ số người, thang điểm, CI, thời gian và nguy cơ huyết khối trên 1000 cuộc mổ. Phân biệt mổ giả/nội soi/thay khớp, thoái hóa với chấn thương, các ngoại lệ gối khóa thật hoặc chấn thương cấp. Giữ bất đồng hướng dẫn Trung Quốc 2018, bản 2021 chưa kiểm chứng, lợi ích tập và giảm cân, đủ dẫn 34-3/6-5/2-16/2-32."
+}

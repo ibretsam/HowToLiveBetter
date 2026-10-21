@@ -1,0 +1,15 @@
+{
+  "id": "e-6-29",
+  "source_sha256": "ecc1f16127cf45e9f0e06dc010a324692706889b374e9910c196ca2b18136b1d",
+  "draft_sha256": "2063cf4e5fc2e16b13b70496c6e413badaab74e4a654f5ac5cba81869b08088d",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ 9 thử nghiệm/20101 người, OR 1.17 và CI chứa 1, RR 0.93, thay đổi góc nhỏ và kết quả trái chiều. Phân biệt liên hệ quan sát nâng vật với nhân quả; kỹ thuật HSE vẫn được giữ nhưng không hứa tự nó phòng đau. Giữ 0.55/0.65/1.03/1.01 và dẫn 2-16/2-11."
+}

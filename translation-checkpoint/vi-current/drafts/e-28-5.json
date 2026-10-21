@@ -1,0 +1,15 @@
+{
+  "id": "e-28-5",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "8624e4353b5bf47f76995a9a14d3a3bc93da2876d4bc059b9687cfd69219cd28",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Đừng dùng steroid đồng hóa, như thuốc tiêm tăng cơ hay thuốc uống, để phát triển cơ bắp",
+    "cost": "Không tốn tiền, còn tiết kiệm tiền thuốc. Khó ở việc chấp nhận cơ phát triển chậm.",
+    "plain": "Nam giới dương tính với chất cấm trong kiểm tra ở phòng tập có nguy cơ tử vong gấp 3 lần người cùng tuổi, số lần đến bệnh viện mỗi năm nhiều hơn gấp đôi. Mụn trứng cá, vú to ở nam, rối loạn cương dương: mỗi tác dụng ảnh hưởng ít nhất một trong mười người dùng. Đây là thuốc kê đơn tại Trung Quốc; kênh bán không cần đơn tự nó đã vi phạm pháp luật.",
+    "benefit": "Đan Mạch xem lại hồ sơ, ghép người cùng tuổi làm đối chứng cho từng người dùng thuốc. Nhóm dùng gồm 545 nam giới có kiểm tra chất cấm tại phòng tập dương tính với steroid androgen từ 2006-01-03 đến 2018-03-01, ghép với 5,450 người đối chứng. Nghiên cứu còn kiểm tra lại bằng 644 người từ chối kiểm tra và 6,440 đối chứng. Kết quả: tử vong ở người dùng gấp 3 lần nhóm chứng, HR 3.0 (95% CI 1.3–7.0), tỷ số thật xấp xỉ từ 1.3 đến 7. Trung vị số lần nhập viện hoặc khám mỗi năm là 0.81 so với 0.36 (P<0.0001). Trung vị nghĩa là một nửa nhiều hơn, một nửa ít hơn số đó. Giá trị P này cho thấy khác biệt gần như không thể chỉ là tình cờ. Mụn trứng cá, vú to ở nam và rối loạn cương dương, mỗi loại ảnh hưởng trên 10% người dùng, tức ít nhất một trong mười người, đều cao hơn rõ so với đối chứng (P<0.0001). Nhóm kiểm tra lại cho kết quả nhất quán. Điều bảy Quy định chống doping: nhà nước quản lý chặt chất cấm trong danh mục doping; mọi tổ chức, cá nhân không được sản xuất, bán, xuất nhập khẩu trái phép. Cùng quy định quản lý chế phẩm đồng hóa protein và hormone peptide như thuốc kê đơn, chỉ mua bằng đơn bác sĩ; chế phẩm đồng hóa protein là tên pháp quy của nhóm thuốc này.",
+    "notes": "Điểm còn tranh luận: đây là nghiên cứu theo dõi một nhóm người xem kết quả, không phải thử nghiệm phân nhóm ngẫu nhiên. Người dùng thuốc có thể vốn mạo hiểm hơn ở mặt khác, không thể quy toàn bộ con số 3 lần cho thuốc. Tỷ số thật có thể thấp đến 1.3 hoặc cao đến 7.0, khoảng rất rộng. Nhưng mụn trứng cá, vú to ở nam, rối loạn cương dương, mỗi loại ảnh hưởng từ một phần mười người trở lên, là tác dụng phụ thấy được, ít chịu ảnh hưởng của sai lệch này hơn. Pháp quy gọi nhóm thuốc là 蛋白同化制剂, tức chế phẩm đồng hóa protein; thấy bốn chữ này là đang nói đến nó. Bột protein thông thường và creatine không thuộc mục này. Khó ở chỗ sản phẩm quảng cáo tăng cơ cực nhanh có thể lén thêm thành phần. Cách nhận biết giống sản phẩm giảm cân ở mục 4 (không mua thuốc hứa gầy nhanh): thuốc chính thống là thuốc kê đơn, có số phê duyệt tra được. Bán dưới tên bột tăng cơ, dinh dưỡng, lại hứa hiệu quả trong vài tuần thì nếu thực sự có tác dụng là đã thêm chất.",
+    "extra": ""
+  },
+  "retained_terms": {"notes": ["蛋白同化制剂"]}
+}

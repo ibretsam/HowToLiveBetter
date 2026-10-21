@@ -1,0 +1,15 @@
+{
+  "id": "e-6-28",
+  "source_sha256": "88b984d4ea213d12935e766d23a7445bf31434c074be7fd5b3613e50caa94d41",
+  "draft_sha256": "ffdde2b2998f7654d7b59f9208891799f2b2decca2d6d21739ca75b52836cc76",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ các tỷ lệ khảo sát, OR và giới hạn hồi cứu, phản biện Sullins 2022 cùng thiên lệch tổ chức. Phân biệt xu hướng tính dục với đau khổ cần hỗ trợ, nhập viện tự nguyện với điều kiện ngoại lệ. Giữ vụ kiện chỉ có báo chí, không có bản án chính thức được kiểm chứng, đủ dẫn 30-15."
+}

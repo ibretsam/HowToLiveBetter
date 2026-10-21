@@ -1,0 +1,15 @@
+{
+  "id": "e-28-2",
+  "source_sha256": "1511e46b7cecfe41e8d151af0c79492ebe5a3303eedffa834068818654a2a251",
+  "draft_sha256": "5e3427a5143859f5e7967815fa5b73495be7507cc8a245fc621b61d78bc99e3b",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu các cấp điều pháp luật, cơ sở/đăng ký/chuyên môn và số năm kinh nghiệm bao gồm ngưỡng, phạm vi giấy phép và đồng ý bằng văn bản/người giám hộ. Giữ phân biệt tù có thời hạn, giam giữ hình sự, quản chế, phạt tiền kèm hoặc riêng; không thêm quy định Việt Nam."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-22",
+  "source_sha256": "6d39d0e62f041ae5a8212a2436c2a36154100b6e334f34e6d6c4e95f9928b158",
+  "draft_sha256": "dbda5212957677e7fa4ac56f8d0e857bdc1b635458a28b630a510f42066af58d",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; sửa 水晶 từ pha lê thành thạch anh cho đúng vật liệu trong bối cảnh trang sức. Giữ Barnum, vụ việc Tứ Hội ngày4/6/2026, quy định quảng cáo khác niềm tin đổi vận; không đánh giá tín ngưỡng hay cấm mua đồ trang sức, đủ dẫn5-33/34 và6-15."
+}

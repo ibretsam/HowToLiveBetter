@@ -1,0 +1,15 @@
+{
+  "id": "e-1-6",
+  "source_sha256": "22b1986a61f54a0b8b6db31e0f2f98932aa0a36ffb5981bd79edfd9d8c9c812d",
+  "draft_sha256": "367fb544227e0a41c43fa2f54c4bb2021511a409f4ffeb197a887839f1deab19",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ phạm vi quy định trung ương khác lệnh cấm thang máy Bắc Kinh từ1/5/2025, điều kiện từ chối khắc phục và mức phạt hai nhóm. Giữ giảm thương vong từ90% trở lên (bao gồm), không biến thành lớn hơn90%."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-28-8",
+  "source_sha256": "6c39ff7d4e5e6fba847c0a4e837e995e09a70fc8ce79c2b0d247ead61eaa62aa",
+  "draft_sha256": "309eb5bcbe4eb78cffce6a7b6fc78111a59f36ca6a14fda6c5b241b53d20e493",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ tỷ lệ, khoảng dao động nghiên cứu, tuổi±độ dao động và tỷ lệ nữ, tìm điều trị so với thực hiện. Giữ đa số người khám không mắc rối loạn, bằng chứng dị biệt không dùng15.04% như chính xác và đủ dấu hiệu NHS."
+}

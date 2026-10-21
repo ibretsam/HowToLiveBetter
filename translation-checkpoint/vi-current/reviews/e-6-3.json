@@ -1,0 +1,15 @@
+{
+  "id": "e-6-3",
+  "source_sha256": "a2e6752cd98647687478eff300573e84ea2244dcb23975a2c4e59391ee591392",
+  "draft_sha256": "c53309d628549525ee9bc1ecfd5b97caa841bd59aded0506736ebcfbf9e0c235",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ nội dung dài ở sáu trường. Giữ từng liều IU và microgam theo ngày/tháng/năm, các trần Anh/Trung Quốc, người không thiếu khác điều trị thiếu, tiêm/uống còi xương, kết quả xương/ngã/trầm cảm, và chất lượng bằng chứng. Không biến phòng thiếu thành điều trị mệt mỏi hoặc thay điều trị trầm cảm; đủ dẫn20-16."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-8",
+  "source_sha256": "f01b497a5af6a90af12567cb66d04279c275488429758952c306f578d5c3ac42",
+  "draft_sha256": "37405ea49f14dff80dceb64a74dd19cd19bf16546f99013f1fe4a24f75c8411c",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ tuổi35–70, BMI Mỹ/Á/Trung Quốc, mứcB và mỗi3năm; tiền đái tháo đường không đồng nghĩa dùng thuốc. Giữ cách nguồn ghi khoảng24.0–28.0 và≥28.0, không tự đặt ranh giới khác."
+}

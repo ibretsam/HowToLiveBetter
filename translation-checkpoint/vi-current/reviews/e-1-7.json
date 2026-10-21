@@ -1,0 +1,15 @@
+{
+  "id": "e-1-7",
+  "source_sha256": "eb0c31935f0e4cea0593c0f322ba0a6a72956b4840709c0f2c5c8af1b4b21202",
+  "draft_sha256": "e12578c85e5f5276f5404d1b5590dd3aab5a3a4a3e831b23404ea16df73669b4",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ tâm thu, mỗi10mmHg, cácRR/CI, mẫu170vạn và tỷ lệ kiểm soát7.2% trong người tăng huyết áp, không phải cả dân số. Giữ tranh luận130/140."
+}

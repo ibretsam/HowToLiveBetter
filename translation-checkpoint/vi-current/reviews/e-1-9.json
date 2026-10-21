@@ -1,0 +1,15 @@
+{
+  "id": "e-1-9",
+  "source_sha256": "60dd10881cb2d81c79288bef354ab44613bc4b512425f934f0cf4b7ba80ab819",
+  "draft_sha256": "aca36bfb5f01a88577535555b87dc0a21454f447cf52045d78a418b44b4a51b9",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ tai nạn thương tích/hư hại khác tử vong, nhóm đối chứng lý tưởng, giới hạn mô hình và pháp luật Trung Quốc. Giải thích odds đi kèm OR trong benefit để giữ ý thống kê; plain giữ cách nói xác suất của nguồn."
+}

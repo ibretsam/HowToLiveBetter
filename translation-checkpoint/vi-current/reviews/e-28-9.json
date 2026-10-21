@@ -1,0 +1,15 @@
+{
+  "id": "e-28-9",
+  "source_sha256": "130a0ebfce678f7cbe3ce6a24c60230ab0160fb0c9e76f0ee8f62ccfaa32562f",
+  "draft_sha256": "619ea340a548d0c957380b0bcdbc5cef5758a1646993b1bfc2869a63bedb9a43",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu thiết bị loạiⅡ, yêu cầu bác sĩ chỉnh nha và tái khám, hai phát biểu FDA dịch đủ nghĩa, chưa có tỷ lệ sự cố. Giữ phạm vi giấy phép thẩm mỹ y khoa, xử lý cơ sở/nhân lực không phép và bảo hiểm Trung Quốc, đủ hai liên kết."
+}

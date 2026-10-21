@@ -2,7 +2,9 @@
 
 **Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 21/10/2026](TRANSLATION-PLAN.md).
 
-**Đã hoàn tất đợt 6 ngày 21/10/2026:** thêm 75 mục, ba lời dẫn và bài hướng dẫn sau chẩn đoán bệnh mạn tính đã được dịch, rà soát song ngữ độc lập và kiểm tra: 13 mục mới, 50 mục cập nhật và 12 mục được kiểm tra lại. Tổng sáu đợt có 407 mục, 16 lời dẫn và bốn bài viết dài được rà soát theo nguồn đích. Trang dựng hiện có 448 mục khớp nguồn, 259 mục cần cập nhật và 58 mục chưa dịch. Các chương 2, 5, 7, 8, 9, 13, 16, 17, 18, 19, 20, 24, 27, 30, 33 và 34 đã có đủ các mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
+**Đã hoàn tất đợt 7 ngày 21/10/2026:** thêm 93 mục, ba lời dẫn và bài danh sách trang bị khẩn cấp cho gia đình đã được dịch, rà soát song ngữ độc lập và kiểm tra: 17 mục mới, 73 mục cập nhật và 3 mục được kiểm tra lại. Tổng bảy đợt có 500 mục, 19 lời dẫn và năm bài viết dài được rà soát theo nguồn đích. Trang dựng hiện có 538 mục khớp nguồn, 186 mục cần cập nhật và 41 mục chưa dịch. Các chương 1, 2, 5, 6, 7, 8, 9, 13, 16, 17, 18, 19, 20, 24, 27, 28, 30, 33 và 34 đã có đủ các mục cùng lời dẫn theo nguồn mới. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-current).
+
+**Điểm của nguyên bản cần chuyên gia rà soát:** [mục 1.48](https://ibretsam.github.io/HowToLiveBetter/#e-1-48) có chỉ dẫn gây nôn sau một loại ngộ độc thực phẩm, trong khi [mục 13.20](https://ibretsam.github.io/HowToLiveBetter/#e-13-20) nêu không gây nôn khi nuốt độc chất. Bản dịch giữ hai nội dung theo nguồn, không coi việc rà soát ngôn ngữ là xác nhận an toàn của chỉ dẫn này. Bài trang bị khẩn cấp cũng giữ hai ghi chú TODO của nguyên bản về danh mục vật tư năm 2024 và điều kiện sử dụng mặt nạ thoát hiểm; đây là phần nguồn chưa kiểm chứng, không phải đoạn bị bỏ dịch.
 
 Các tệp Markdown cũ trong `vi/book/`, `vi/docs/` và `vi/README.md` vẫn là bản lưu theo nguồn 01/10 để kiểm tra hồi quy. Trang đọc áp dụng các bản cập nhật đã rà soát trong checkpoint lên dữ liệu hiển thị, với liên kết phiên bản nguồn riêng cho từng mục; không đổi mốc nguồn chung của phần chưa xử lý.
 
@@ -16,7 +18,7 @@ Trang đọc so sánh từng mục với phiên bản dùng để dịch:
 - **Bản dịch chưa cập nhật:** có bản dịch cũ, nhưng nguồn mới đã thay đổi. Trang ghi rõ bản dịch vẫn chưa hoàn tất theo nguồn mới và cho đối chiếu toàn bộ bản gốc mới.
 - **Chưa hoàn tất bản dịch:** nội dung mới chưa có bản dịch, hoặc chưa thể ghép bản dịch cũ với mục hiện tại một cách chắc chắn. Trang hiển thị đầy đủ tiếng Trung, không bỏ mục.
 
-Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn các chương 2, 5, 7, 8, 9, 13, 16, 17, 18, 19, 20, 24, 27, 30, 33 và 34 cùng các bài trước/sau sinh, sau thôi việc, giúp người lạ và sau chẩn đoán bệnh mạn tính đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
+Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy từ phiên bản mới; nội dung tiếng Việt cũ được giữ nguyên và ghi rõ ngày nguồn. Lời dẫn chương và hướng dẫn đọc chưa được cập nhật tiếp tục mang cảnh báo; lời dẫn các chương 1, 2, 5, 6, 7, 8, 9, 13, 16, 17, 18, 19, 20, 24, 27, 28, 30, 33 và 34 cùng các bài trước/sau sinh, sau thôi việc, giúp người lạ, sau chẩn đoán bệnh mạn tính và trang bị khẩn cấp đã qua rà soát được ghi nhận theo nguồn mới. Xem [tổng hợp tình trạng hiện tại](https://ibretsam.github.io/HowToLiveBetter/coverage.json). Những mô tả “đã dịch đủ” bên dưới chỉ áp dụng cho **phiên bản 01/10/2026**, không phải tất cả thay đổi mới.
 
 Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch](README.md) · [Xem bản gốc](../README.md).
 
@@ -40,7 +42,7 @@ Luật, thủ tục, trợ cấp, bảo hiểm y tế, bảo hiểm xã hội v�
 
 Khi nguồn dùng đơn vị số lớn của Trung Quốc, bản dịch giữ nguyên con số để dễ đối chiếu: **vạn** (万) nghĩa là mười nghìn, 亿 được viết là **trăm triệu** và 万亿 là **nghìn tỷ**. Chẳng hạn “5 vạn nhân dân tệ” là năm mươi nghìn nhân dân tệ, “86.5 trăm triệu nhân dân tệ” là 8,65 tỷ nhân dân tệ.
 
-Với đơn vị tiền nhỏ, **hào** (角) bằng một phần mười nhân dân tệ; **phân** (分) bằng một phần trăm nhân dân tệ.
+Với đơn vị tiền nhỏ, **hào** (角) bằng một phần mười nhân dân tệ; **phân** (分) bằng một phần trăm nhân dân tệ. **Cân Trung Quốc** (斤) bằng nửa kilôgam, không phải cách gọi “cân” để chỉ một kilôgam ở Việt Nam. Thước và tấc trong ví dụ mặt băng ở mục 1.41 cũng được ghi rõ thuộc hệ đo Trung Quốc; các ngưỡng an toàn viết bằng centimét được giữ nguyên.
 
 Số thập phân giữ **dấu chấm** như bản gốc, không dùng dấu phẩy kiểu Việt Nam: “0.4 miligam” là không phẩy bốn miligam, không phải bốn trăm miligam. Ngưỡng “từ N trở lên” và “N trở xuống” bao gồm chính số N.
 

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-17",
+  "source_sha256": "783cc4367b3021e8c54a51ffb4f8f63e0d0441ba214a622497e3a52bc7326f4c",
+  "draft_sha256": "4c569ddb38af679a33d8b8bb86c44e719b6870efb5762ea88523ebaa6b845f11",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ khác biệt Mỹ40–74hai năm/Trung Quốc45tuổimỗi1–2năm, nhómcao nguycơ40hằngnăm, thiếu bằng chứng75trởlên và bổ sung siêu âm/MRI mô vú đặc. Giữ ghi chú nhómBRCA/gia đình cần phương án riêng."
+}

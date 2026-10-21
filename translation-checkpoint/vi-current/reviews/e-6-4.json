@@ -1,0 +1,15 @@
+{
+  "id": "e-6-4",
+  "source_sha256": "a5be336b0da117311c02f19a61449cac0ff5cc670ce69fd11a70ed7502d6852c",
+  "draft_sha256": "cb6db7a80f8303eeb03f1e53774dc444508e9337a92e624c8b7b645e069e9d7f",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ tổng thử nghiệm khác nhóm ít sai lệch, ATBC/CARET và hút thuốc/amiăng, đơn vị20mg, cácRR/CI và mứcD. Giữ ngoại lệ chất chống oxy hóa tự nhiên trong rau quả."
+}

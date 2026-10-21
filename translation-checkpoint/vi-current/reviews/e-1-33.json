@@ -1,0 +1,15 @@
+{
+  "id": "e-1-33",
+  "source_sha256": "a3402cb07313c2841f231d12109b08fdde1f8a8d249d7e9d60b2c393f8f58151",
+  "draft_sha256": "8deded4fb9f2aa68516b6e0063bd19da29709226cab396e918d4b78cef293eb0",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tất cả số liệu ngộ độc, tử vong/di chứng, OR và CI, ngày cấm từng chế phẩm tại Trung Quốc. Giữ giới hạn gồm cả tai nạn, không suy ra hậu quả cá nhân, không thêm cách thực hiện và đầy đủ liên kết cấp cứu."
+}

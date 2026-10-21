@@ -1,0 +1,15 @@
+{
+  "id": "e-6-34",
+  "source_sha256": "6bcf46da90381c9e8b85439ef886948e2ab5f20b087faa8b87f3e09961f56e69",
+  "draft_sha256": "32be8a6b4495eb621a088486cb57de4eb75612d4759698c8ebbd0324ee84837e",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ 19/1683, giảm 7.06 phút, thêm 8.25 phút, SMD/CI, 3 thử nghiệm liều 2 miligam giải phóng kéo dài ở người từ 55 tuổi, khuyến nghị yếu và bằng chứng rất thấp. Phân biệt mất ngủ lâu dài với lệch múi giờ từ 5 múi giờ, liều 0.5–5 miligam, nhãn và nhóm không phù hợp ở Trung Quốc, dẫn 3-26/3-27."
+}

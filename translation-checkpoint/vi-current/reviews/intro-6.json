@@ -1,0 +1,15 @@
+{
+  "id": "intro-6",
+  "source_sha256": "c73d3c822d19d594d75c124f2cec5757497d2c28fee80cd9db4ba971fc74c29b",
+  "draft_sha256": "520aee123e0ef7d7c7f04d8869b17c69b2850c50ce412613bf32b5a7a85dc089",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ lời dẫn và 35 số mục theo sáu nhóm, giữ thứ tự và phạm vi. Sửa pha lê thành thạch anh để khớp 水晶 ở mục 22. Loại nội dung xếp thứ tự ưu tiên chỉ có ở bản dịch cũ; bản mới theo đúng lời dẫn nguồn hiện tại."
+}

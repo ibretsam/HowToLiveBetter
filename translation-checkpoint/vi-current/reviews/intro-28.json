@@ -1,0 +1,15 @@
+{
+  "id": "intro-28",
+  "source_sha256": "d25241e30ad3608749a7d468611f15267f6c0c0bb8422cf576692e865a153422",
+  "draft_sha256": "999879ecb48e2d4baf15cbd9e4dc92bb9ae7a6b83761056f69655d507231a60a",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ hai đoạn và tiêu đề: các cách can thiệp ngoại hình, giá phải chịu và phần không đảo ngược; không phán xét mục tiêu cá nhân, so rủi ro quy trình được kê đơn/đủ tư cách/tái khám với tự mua/làm/tăng liều, kết quả cơ thể và trách nhiệm hình sự."
+}

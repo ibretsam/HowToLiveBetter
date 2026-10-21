@@ -1,0 +1,15 @@
+{
+  "id": "e-1-13",
+  "source_sha256": "4809bdfc8d042216ded5e3c471c67f803c935a571b406157bc7d49ed625afa6e",
+  "draft_sha256": "458da529258766393552304a91b04725e41a9ba00de08c5a726c49894539afce",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; phân biệt số lần ngã, số người ngã và tử vong; giữ RaR/RR, mẫu23,407, cư trú tại nhà không viện dưỡng lão và tuổi từ60/65trởlên. Giữ đủ ba dẫn mục17-9/17-10/1-39."
+}

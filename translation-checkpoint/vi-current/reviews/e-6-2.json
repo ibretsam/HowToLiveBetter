@@ -1,0 +1,15 @@
+{
+  "id": "e-6-2",
+  "source_sha256": "0f31e3a0763839ef9baa780a0292e0e7e6bd272a1dc45211d05a9f61efba8e13",
+  "draft_sha256": "546679e879e6890865849a440bb90941f6be6ad4820fdbcb4a10b4bee1a1c804",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ VITAL/ASCEND, liều1gam, trung vị khác trung bình, RR/HR; ngoại lệ REDUCE-IT chỉ EPA tinh khiết kê đơn4g cho nhóm cao nguy cơ dùng statin/triglyceride cao, không suy thành dầu cá thường hoặc ăn cá."
+}

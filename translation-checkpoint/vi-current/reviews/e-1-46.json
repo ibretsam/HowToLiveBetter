@@ -1,0 +1,15 @@
+{
+  "id": "e-1-46",
+  "source_sha256": "26a0f72f8e402b3aeb3ed85733d8e7b47a9d88a1dcf67e476bd9382e6800072a",
+  "draft_sha256": "36ae895f05c7cdab2d45e9c57ad7407f1e757124edf4f8370995a233c2a171e4",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mọi số vụ/người, khí/đơn vị, thời điểm và trình tự thông gió–đo kiểm–làm việc, điều kiện kéo người từ ngoài. Sửa 一半以上 ở plain thành từ một nửa trở lên; giữ 超过50% ở benefit là hơn50% theo nguồn. Không đồng nhất dây ở eo ở hướng dẫn hầm rau với đai toàn thân ở cứu hộ; giữ bối cảnh/điện thoại Trung Quốc và đủ liên kết."
+}

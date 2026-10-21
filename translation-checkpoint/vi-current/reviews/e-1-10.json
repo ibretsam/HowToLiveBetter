@@ -1,0 +1,15 @@
+{
+  "id": "e-1-10",
+  "source_sha256": "812b2bb249622bb760eb55fa6285d26051997ebd817255a04908df1e803dc815",
+  "draft_sha256": "620da121238e75c551d54c025be8246a18f1f80c199b3ef907c9e43e155837de",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; 以下 dịch bao gồm ngưỡng4tuổi/1tuổi như nguồn, giữ ghế quay sau và số71%/54% ước tính tai nạn. Nguồn đồng thời chia nhóm1–4 và1trởxuống; giữ sự giao nhau thay vì tự sửa."
+}

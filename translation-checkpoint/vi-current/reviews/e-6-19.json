@@ -1,0 +1,15 @@
+{
+  "id": "e-6-19",
+  "source_sha256": "ee2935c9e72c538bfc4aad3147f970a20319d09e53eb68f156a0f8b0e46595cf",
+  "draft_sha256": "499bd15945b4f6ac2ea8be125fb55b271812048fc95ecc99888d17ebbedd26f3",
+  "reviewer": "pilot_emergency_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu sáu trường. Sửa plain thiếu phủ định: chưa từng lên cơn gout và chưa có hạt tophi, thay cho hoặc có hạt tophi. Giữ điều kiện >6.8, >9, ngưỡng từ giai đoạn 3 và từ 2 lần/năm, khuyến nghị có điều kiện, số người cần điều trị và toàn bộ eGFR/GFR/CI/biến cố. Nguồn tách ngoại lệ cơn đầu tiên kèm CKD, axit uric cao và sỏi thành các câu; giữ cách trình bày không tự gộp. Giữ cảnh báo HLA-B*5801 và không suy axit uric hoàn toàn vô hại."
+}

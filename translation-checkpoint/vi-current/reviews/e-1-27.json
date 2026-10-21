@@ -1,0 +1,15 @@
+{
+  "id": "e-1-27",
+  "source_sha256": "1f8e8da94fc2a6a7a7a28ea3c3d002f2b401f2a8ce45a88e138f7569e6da1b48",
+  "draft_sha256": "fe3461971eccd84986aa3ef4db6a3da2c356644f8b27b7f3a76f723a681510bc",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ giá trị dự báo dương tính so với tỷ số odds, ngưỡng tuổi bao gồm 60, số mẫu và các CI. Giữ các triệu chứng phân biệt, không tự chẩn đoán, phạm vi lời khuyên tác giả về thuốc chống đông, và giới hạn chưa có hiệu quả tử vong."
+}

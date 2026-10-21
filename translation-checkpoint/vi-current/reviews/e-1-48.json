@@ -1,0 +1,15 @@
+{
+  "id": "e-1-48",
+  "source_sha256": "cc5e4765edc9988fc3404935a8adeb5f9650451244e26d17e7cbf9c72d829f3a",
+  "draft_sha256": "4aa2de291f32e5e3f8748f0cdfa3101e17c4d87195b7b5ff1b28d1de7de409c6",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường, từng số vụ/tử vong, nhiệt độ, thời gian và địa phương. Giữ nguyên nguồn notes 马上催吐 (lập tức gây nôn), có mâu thuẫn với e-13-20 benefit trích NHS/IFRC không gây nôn sau nuốt độc chất; đã báo root để nêu công khai trong hồ sơ tiến độ, không sửa tư vấn nguồn. Giữ thuật ngữ axit bongkrekic và sản phẩm bột gạo tươi."
+}

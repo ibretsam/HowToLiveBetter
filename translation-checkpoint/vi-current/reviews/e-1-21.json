@@ -1,0 +1,15 @@
+{
+  "id": "e-1-21",
+  "source_sha256": "95acb5669136c90d022a9b0af59cf6dfb162cdbf238c6c4616cef0a8ac169cb4",
+  "draft_sha256": "c4b55409cafe55f66717343152de7907a53b18e897e395cb0f9fa30bf09e0ba0",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ 18quốc gia, 1.54vạn, 6/210ca, người-năm và hiệu lực từng nhóm tuổi; phân biệt triệu chứng độba thường gặp hơn với biến cố bất lợi nghiêm trọng/tử vong tương đương. Giữ toàn bộ tự trả và đau sauzona."
+}

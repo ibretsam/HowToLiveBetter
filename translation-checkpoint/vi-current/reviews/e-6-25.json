@@ -1,0 +1,15 @@
+{
+  "id": "e-6-25",
+  "source_sha256": "d4e2aa26b8027fa78ccd76eb64d360659a232758963a9c838850b0ecd52eef7b",
+  "draft_sha256": "0890fe3ac901c15c6144c8e8e282f3a18dc2b6e818de818df864c668e8801dad",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ23/2141 và36/3531, hai hiệu ứng nhỏ, CI chứa0 và mô hình nguồn lực khác mệt thật. Giữ chi phí thấp của cố định lựa chọn nhưng không hứa phán đoán tốt hơn, đủ dẫn4-10/4-1."
+}

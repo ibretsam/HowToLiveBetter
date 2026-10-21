@@ -1,0 +1,15 @@
+{
+  "id": "intro-1",
+  "source_sha256": "97955a928f7a2d68a5a0db6d4709106299f8ee3ca629f47d180cc7b28c0bb561",
+  "draft_sha256": "472ac2b2b232b906666fca2506cd02b0620cb2e98d2fa3d4b984a57a3f19cdbb",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ lời dẫn và bảy nhóm chủ đề; đủ48 số mục, không lặp/thiếu, giữ chi phí chỉ là ước tính so sánh, ba loại nội dung và nguồn số liệu. Mọi dẫn mục giữ nguyên chủ đề và thứ tự."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-28",
+  "source_sha256": "bfe1f3624ac19f3c9b65845164ef3d81365fe051d8cbe4885404cc86dddddbe6",
+  "draft_sha256": "eda63f879d5d2657c72d8c80e907e30a8e082de91904e7b5a1b81bab898af4e9",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ RR/CI, tỷ số theo tuổi/nguy cơ/cách xác định, giới hạn nghiên cứu quan sát và khác biệt với hiệu quả kiểm tra. Giữ chống chỉ định nitrat, điều kiện triệu chứng tái diễn và mọi liên kết chéo."
+}

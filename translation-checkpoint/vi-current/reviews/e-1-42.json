@@ -1,0 +1,15 @@
+{
+  "id": "e-1-42",
+  "source_sha256": "6e78ab8974b187ee9e76b00a030a770f25cc4192d33eba06a75af44d99b97861",
+  "draft_sha256": "7f882db70c4de93e8e621bb1789631164e0324deefbb714161d1814307f60bd9",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ thao tác bảo hộ và điều cấm, kích thước/tốc độ đĩa, số ca và thương tích từng quốc gia. OR được giữ là odds, không biến thành nguy cơ. Giữ phân loại C dựa trên hướng dẫn/ca bệnh chứ chưa có hiệu quả can thiệp; đủ ba liên kết chéo."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-13",
+  "source_sha256": "f2be754cad993f755b691838c73030ff4abdea838dd534e42311cb786b190157",
+  "draft_sha256": "7e735415082d20168c6d112b01f546cb36039f77da50b400b33f81ce25b3fa9f",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ không có thử nghiệm ngẫu nhiên về chế độ ăn thải độc thương mại, 8,278 tài liệu chỉ1 đủ điều kiện; thiếu bằng chứng khác chứng minh vô hiệu. Giữ phạm vi cơ quan gan/thận khỏe và nguy cơ nhịn đói."
+}

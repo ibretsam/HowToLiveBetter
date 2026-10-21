@@ -1,0 +1,15 @@
+{
+  "id": "e-1-14",
+  "source_sha256": "7d1c9359205c601a71b8a4f5dabac6c7d6a4b19f0902adfd46cfaa413989340e",
+  "draft_sha256": "63a35245a8490976c5344a320465487e82d38f9ce9da0d1170954b2e05043033",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ thử nghiệm ngẫu nhiên theo cụm, đối chứng tiêm bù67.8% và hiệu lực21% khác84% tiêm lúc sinh. Giữ người lớn sinh trước1992, xét nghiệm HBsAg dương tính và không áp84% cho người lớn; ngưỡng5岁以下 giữ bao gồm như nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-9",
+  "source_sha256": "b2df33c639d80548aa6021ded52c9b848423be0cb09556e456e50e0b35d9481c",
+  "draft_sha256": "2034bf06f0fe96832c9df0cf9b56846fd958fd3a7927401a58c3cf5926d4d946",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; sửa câu mơ hồ “chưa có bằng chứng tốt hơn” thành chưa có bằng chứng cho thấy thực phẩm hữu cơ tốt hơn. Giữ thiếu bằng chứng khác chứng minh không lợi, 30điểm phầntrăm khác30%, phát hiện dư lượng khác vượt chuẩn, và phạm vi nghiên cứu dị ứng/nhiễm trùng."
+}

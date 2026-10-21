@@ -1,0 +1,15 @@
+{
+  "id": "e-1-18",
+  "source_sha256": "5923bd278e61da928a60ae8fd80231e96e9f367d32de0d2d630e83bce5ba5b35",
+  "draft_sha256": "a58a4571c04ede31e8cace2482b73fc70d04ceabd870cb6de6a9a6a2047702b5",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ thử nghiệm theo cụm phụ nữ30–59 tại Ấn Độ, chỉmộtvòng, tử vong khácgiai đoạnmuộn, HR/CI và lịch Mỹ2018cho30–65xétnghiệmHPVnguycơcaođơnthuần5năm. Giữ tiêmvắcxin vẫn sànglọc."
+}

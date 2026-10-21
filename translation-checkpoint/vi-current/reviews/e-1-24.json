@@ -1,0 +1,15 @@
+{
+  "id": "e-1-24",
+  "source_sha256": "b5aaece8fcd8873f52ae06d74fdd00e1f19c9d2bc3905a4694cdfa6a9e114295",
+  "draft_sha256": "30438dcf6f526db079af7b68aa85d5b99fccd5023ac59588b98d96fb1a1ec652",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ ≥30gói-năm, bỏ≤15năm, tuổi55–74, so sánh X-quang, ba vòng, 24.2% nghi ngờ và96.4% trong số nghi ngờ. Nguồn lược nhóm còn hút khi mô tả điều kiện NLST; không tự bổ sung ngoài văn bản."
+}

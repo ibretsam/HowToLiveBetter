@@ -1,0 +1,15 @@
+{
+  "id": "e-6-17",
+  "source_sha256": "eb8506491eba45d215bd1a5599440768c8716ca6a48eec988b2bf63808dd7ed9",
+  "draft_sha256": "dcbaecc5a07559cc80677b93d3f4070d22b80210251eec292ee61d70a9f75b31",
+  "reviewer": "pilot_emergency_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường và từng số liệu ba nghiên cứu lớn cùng thử nghiệm sinh nhiệt. Giữ hiệu ứng người hiến khỏe mạnh, lợi ích quan sát không phải nhân quả, hai kết quả FeAST không có ý nghĩa thống kê, số đơn vị máu và các nhóm khoảng cách hiến. Tổng 2862 người ở nghiên cứu đầu không bằng cộng hai nhóm 153 và 2529 trong nguồn; giữ nguyên. Giữ quyền lợi, tuổi 18–55, thể tích và khoảng cách tối thiểu 6 tháng theo Trung Quốc, cùng giới hạn chỉ 10 người cho cơ chế sợ lạnh."
+}

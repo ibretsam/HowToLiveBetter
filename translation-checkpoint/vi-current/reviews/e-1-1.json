@@ -1,0 +1,15 @@
+{
+  "id": "e-1-1",
+  "source_sha256": "d9da83a4df51f6a6a04cf1f814886c0a037fdc910186c68a095bcbb8faed40d2",
+  "draft_sha256": "21cb86789556b32e284bbced6b1ba85d6cc37d6ff52e1099dc5c369ffe8a7ad3",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường: giữ phân biệt ghế trước/sau, xe con/xe tải nhẹ, mẫu biết tình trạng dây an toàn và phạm vi thống kê WHO khác niên giám; 45%/60% là ước tính quan sát."
+}

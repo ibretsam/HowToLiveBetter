@@ -1,0 +1,15 @@
+{
+  "id": "e-1-34",
+  "source_sha256": "d99fcad1d1ea1813365d4e0c8a8f1fc59f29cdf785387f4cb4d114507799ebb5",
+  "draft_sha256": "59c5a2a65efd62300ad79ea2102590d18b1ca189430b8f657ae8a52447fdb7a8",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tuổi, độ cao, điểm ISS, thở máy/thời gian ICU, tỷ lệ sống và quay lại công việc, chi phí CNY và câu chuyện tác giả. Giữ bất nhất nguồn dùng chi phí trung bình mọi ca nằm viện làm giới hạn dưới, không tự sửa hay suy ra độ cao–hậu quả."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-29",
+  "source_sha256": "91cadd3a6e130a5d6adf2ec721d074fcce5344d69dd3f5b5ee1c03ac35e0dca9",
+  "draft_sha256": "15118bb592fc2bf231ca3e4a95b0a213d42b184311e293c0ec21ee871bd3f684",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường, điểm IIEF-5 và khoảng tin cậy, số người sau loại thử nghiệm statin, ngưỡng bình thường bao gồm 22. Giữ giới hạn kết quả bảng hỏi và nguy cơ sildenafil pha trái phép, đầy đủ liên kết chéo."
+}

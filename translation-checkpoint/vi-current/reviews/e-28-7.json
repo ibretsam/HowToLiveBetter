@@ -1,0 +1,15 @@
+{
+  "id": "e-28-7",
+  "source_sha256": "2784f750e6bd3b8dfa6efe079079b407b1fb918367ffe97c64cf780add92997c",
+  "draft_sha256": "1700ec5e9454bb0430c79719ec5f96e20540112bb115a12c9909ce316b574234",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu số người và nhóm đối chứng ghép, thời gian, chênh lệch tuyệt đối ca trên1000 người cùng CI, không biến thành nguy cơ tương đối. Giữ không đủ bằng chứng ở nam chuyển giới, hạn chế không biết thuốc ngoài hệ thống và không đánh giá lợi ích/lý do dùng hormone."
+}

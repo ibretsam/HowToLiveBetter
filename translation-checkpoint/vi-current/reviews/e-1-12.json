@@ -1,0 +1,15 @@
+{
+  "id": "e-1-12",
+  "source_sha256": "b4256d1980ffcfe89033fd6b90fcd2910596ae8a119cfeb3b4176775939faec4",
+  "draft_sha256": "9a53511e1f2358b9e278cd6d0b44e246648ca8178f198de849f8a251098cf9c7",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ RRđãhiệuchỉnh, các tỷ lệ trên10vạn, nhómnam15–19 và Aáophao/Cgiámsát. Nguồn ghi20岁以下 đồng thời dùng0–19; dịch đúng ngưỡng bao gồm của cách diễn đạt nguồn, ghi bất nhất chứ không âm thầm sửa."
+}

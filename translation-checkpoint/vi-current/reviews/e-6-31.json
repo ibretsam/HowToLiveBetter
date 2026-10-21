@@ -1,0 +1,15 @@
+{
+  "id": "e-6-31",
+  "source_sha256": "2cf9e5cfe27ce71ea721f49d90e5688f14950a5ac0e32c99f54fa5de34582f8e",
+  "draft_sha256": "0faea5ad8fa82d6c1b71f8d026b73a76e9c92d06ba333b46dca7fd49a99875c1",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ năm và phiên bản mô hình, 1298 người, 94.9/56.3 và các ngưỡng dưới 34.5/44.2, tỷ số cùng CI, 58/88 và 17–33 phần trăm. Không nhầm đánh giá chất lượng câu trả lời với kết quả sử dụng. Giữ giới hạn mô hình cũ, tiền ấn phẩm chưa bình duyệt, số 120 trong bối cảnh Trung Quốc và dẫn 13-3/13-7/7-3."
+}

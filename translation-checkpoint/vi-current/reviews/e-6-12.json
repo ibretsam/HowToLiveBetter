@@ -1,0 +1,15 @@
+{
+  "id": "e-6-12",
+  "source_sha256": "20a5da3aab52873397a07c77b781c7ba13dd01aa2db2a2c63b937972aefecbcd",
+  "draft_sha256": "3373e30d46caee875f6116d9275a1a1a36f27cbd77f96e236f592bf287af6756",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ số lần nghỉ ốm khác tổng số ngày, lạnh30/60/90giây sau tắm nóng, chỉ số viêm tăng ngay/1giờ và căng thẳng giảm riêng12giờ. Nguồn lẫn ngày nghỉ với ngày bệnh được giữ; không tự suy bệnh ít đi hoặc cơ chế miễn dịch."
+}

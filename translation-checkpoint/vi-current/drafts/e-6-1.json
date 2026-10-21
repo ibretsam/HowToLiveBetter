@@ -1,0 +1,11 @@
+{
+ "id":"e-6-1","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"cdf7e532d30332c3901e31894ec317e0bed2d95ce127f27316943624c5875c39","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Đừng uống vitamin tổng hợp để sống lâu hoặc phòng bệnh tim mạch",
+  "cost":"Khoảng 0.5 đến 2 nhân dân tệ mỗi ngày, 200 đến 700 nhân dân tệ mỗi năm. Uống không mất thời gian, chỉ một viên. Dùng lâu dễ thấy lệ thuộc, như hôm nào không uống là thiếu việc gì đó.",
+  "plain":"Có 1.4 vạn nam bác sĩ uống vitamin tổng hợp suốt mười một năm. Số người gặp biến cố tim mạch lớn và tử vong vẫn bằng người không uống. Gộp 9 thử nghiệm với hơn 5 vạn người cũng không thấy ảnh hưởng đến tử vong. Không mua tiết kiệm hai trăm đến bảy trăm nhân dân tệ mỗi năm. Người xét nghiệm thấy thật sự thiếu chất dinh dưỡng, phụ nữ mang thai bổ sung acid folic không thuộc mục này.",
+  "benefit":"Thử nghiệm PHS II gồm 14,641 nam bác sĩ, theo dõi 11.2 năm; đây là trung vị, một nửa lâu hơn và một nửa ngắn hơn. Người uống và không uống có tỷ lệ gặp biến cố tim mạch lớn như nhau. HR biến cố tim mạch chính là 1.01; HR là tỷ số nguy cơ, bằng 1 nghĩa là hai bên như nhau. 95% CI 0.91–1.10 là khoảng tin cậy của con số đó. Tử vong cũng như nhau, HR tử vong do mọi nguyên nhân 0.94 (0.88–1.02). Năm 2022, cơ quan Mỹ đánh giá biện pháp dự phòng USPSTF gộp 9 thử nghiệm ngẫu nhiên có đối chứng, 51,550 người, thấy vitamin tổng hợp không liên quan đến tử vong chung. Xếp mức I, nghĩa là chưa đủ bằng chứng để kết luận. Nó có vẻ đáng tiền vì câu “một viên đủ mọi chất dinh dưỡng” nghe hợp lý, mỗi ngày lại chỉ vài hào.",
+  "notes":"Điểm còn tranh luận: cùng nhóm nam bác sĩ còn được nghiên cứu về ung thư. Người uống có tỷ lệ mắc ung thư thấp hơn khoảng 8% (0.86–0.998, P=0.04, vừa đủ qua ngưỡng cho thấy không giống ngẫu nhiên). Tỷ lệ tử vong do ung thư thấp hơn khoảng 12% (0.77–1.01). Khoảng này đi qua 1 nên có thể chỉ là ngẫu nhiên. Lợi ích rất nhỏ và chỉ thấy ở nam bác sĩ. Người xác định thật sự thiếu dinh dưỡng, phụ nữ mang thai bổ sung acid folic, người thường ăn quá lệch không thuộc phạm vi này; hãy bổ sung theo bác sĩ.",
+  "extra":""
+ }
+}

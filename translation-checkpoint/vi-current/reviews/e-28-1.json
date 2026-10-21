@@ -1,0 +1,15 @@
+{
+  "id": "e-28-1",
+  "source_sha256": "f6b38fbd25f439d5f1dccb78c13036d94c2b7ddd2d18bd01157f0e4fa70f24b8",
+  "draft_sha256": "af8bf116576fe1e373c101b7a909123a5d012a312195a7fdd39e342546964559",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ SMR so với tỷ suất người-năm, 36 nghiên cứu, 44 trường và mọi hệ số. Giữ điều kiện hiệu chỉnh và dường như trong kết luận, không suy thành thử nghiệm hay giới hạn giảm cân mới. Đủ triệu chứng cần khám và liên kết BMI."
+}

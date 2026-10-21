@@ -1,0 +1,15 @@
+{
+  "id": "e-6-23",
+  "source_sha256": "f7047c60fbb9aff0681d322f7ee67f960ca600a8a4b2676540624de10bb0b0f7",
+  "draft_sha256": "5e6a7970956b252ae1273bb4fe27d52fca27ff868939781d28019c80b10f5ec6",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ số mẫu và kích thước hiệu ứng, hệ số r/ρ cùng dấu âm, nghiên cứu cắt ngang không xác lập nhân quả. Giữ dữ liệu nước ngoài và chi trải nghiệm khác mua đồ; đủ chỉ dẫn5/22/29/6-24."
+}

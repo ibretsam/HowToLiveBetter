@@ -1,0 +1,15 @@
+{
+  "id": "e-6-27",
+  "source_sha256": "b41be5bc7a0b323701dfd49169ae02f71714a0ad3ed12b931d93f0b657be5bfd",
+  "draft_sha256": "3dc328c9c10478a92c1c8185fa120aee5e7b5fa3fbd02d0fa0efe69c0255bcd4",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ tần suất và nhóm tuổi, HR 0.81/0.78 chỉ liên hệ ung thư nguy cơ thấp, không suy tử vong; nghiên cứu trái chiều và nhân quả ngược. Giữ toàn bộ số liệu POIS, độ hiếm chưa rõ, thiếu bằng chứng IgE, thời gian và giới hạn điều trị, không biến thành lời khuyên tăng tần suất."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-35",
+  "source_sha256": "1b03841f2ddb1ff663a72af7cf26d13e0ad70684a85618ca81f8c57ac2242d1d",
+  "draft_sha256": "4bcdff1e53b14074b0c00d910daaaddf032479000a2fdfc7acb3a19d13e3c989",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ ba chỉ định truyền, văn bản Quảng Đông 2017 và họp báo 2025, phân biệt 57.2/33.1/91.0 là cơ cấu báo cáo chứ không phải xác suất mỗi lần truyền. Giữ mức C, trường hợp thực sự cần theo bác sĩ, giới hạn chưa tìm được cập nhật và đủ dẫn 34-7/34-8/1-7/2-12."
+}

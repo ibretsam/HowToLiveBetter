@@ -1,0 +1,11 @@
+{
+ "id":"e-6-6","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"76f2106d438f2930a7c7c9ddff67e4768050134509e670309db33158fe1e7b0c","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Đừng dựa vào vitamin C để phòng cảm lạnh",
+  "cost":"Mỗi viên sủi khoảng 1 đến 2 nhân dân tệ, mỗi năm 300 đến 700 nhân dân tệ.",
+  "plain":"Uống vitamin C hằng ngày gần như không giúp ít cảm lạnh hơn; đến khi cảm mới uống thì hiệu quả lúc có lúc không. Uống hằng ngày có thể rút ngắn mỗi đợt khoảng 8%, có đáng ba đến năm trăm nhân dân tệ mỗi năm hay không thì tự tính. Vận động viên marathon và binh sĩ hành quân ở vùng lạnh là ngoại lệ, số người cảm lạnh có thể giảm một nửa.",
+  "benefit":"Cochrane tổng hợp 29 thử nghiệm có đối chứng, 11,306 người. Người bình thường uống vitamin C hằng ngày gần như không giảm số lần cảm lạnh. RR tỷ lệ mắc cảm lạnh 0.97; RR là tỷ số nguy cơ, bằng 1 nghĩa là hai bên như nhau. 95% CI 0.94–1.00 là khoảng tin cậy. Với các thử nghiệm chỉ bắt đầu uống khi đã cảm, nguồn nói “không thấy hiệu quả nhất quán”: có thử nghiệm hiệu quả, có thử nghiệm không. Trong cùng tổng quan, dùng đều hằng ngày lâu dài rút ngắn thời gian khó chịu do cảm khoảng 8% ở người lớn (95% CI 3%–12%), ở trẻ em là 14% (7%–21%). Vận động viên marathon, người trượt tuyết và binh sĩ hành quân vùng lạnh là ngoại lệ. Trong 5 thử nghiệm với 598 người, số người cảm lạnh ít hơn khoảng một nửa, RR mắc bệnh 0.48 (95% CI 0.35–0.64). Nó có vẻ đáng tiền vì rẻ, chua ngọt dễ uống, và câu “vitamin C phòng cảm” đã được truyền suốt nửa thế kỷ.",
+  "notes":"Điểm còn tranh luận: cùng tổng quan thấy uống hằng ngày thực sự rút ngắn thời gian khó chịu vì cảm. Người lớn giảm khoảng 8% (3%–12%), trẻ em giảm 14% (7%–21%). Tính ra mỗi đợt bớt bệnh khoảng nửa ngày. Vận động viên marathon, người trượt tuyết, binh sĩ hành quân vùng lạnh là ngoại lệ. Trong 5 thử nghiệm với 598 người, số mắc cảm ít hơn khoảng một nửa (RR 0.48, 0.35–0.64). Đại đa số không thuộc hai nhóm này.",
+  "extra":""
+ }
+}

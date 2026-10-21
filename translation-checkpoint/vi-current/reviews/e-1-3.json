@@ -1,0 +1,15 @@
+{
+  "id": "e-1-3",
+  "source_sha256": "611a0bf0df7e4978b4bfb6bac14bcff2ea6bb08c3337505206792e7ef8a3dd4a",
+  "draft_sha256": "a7e170c0b971d94c0ea259199d00983e9415d9d50218635e18d252f20c3729a4",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ ba tỷ lệ theo từng tháng, nghiên cứu hồi cứu và thiếu bằng chứng trực tiếp cho báo CO. Nguồn mô tả risk nhưng dùng OR; giữ nguyên bất nhất đó."
+}

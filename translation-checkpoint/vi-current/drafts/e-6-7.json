@@ -1,0 +1,11 @@
+{
+ "id":"e-6-7","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"6cd35790a01f9e4b672b6c78bffdd777e9bfe643aa7a47cecccabbd6ed861475","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Không có triệu chứng thì đừng làm PET-CT toàn thân hoặc gói xét nghiệm dấu ấn khối u cho mình",
+  "cost":"PET-CT toàn thân khoảng 7000 đến 10000 nhân dân tệ một lần, còn phải chịu một lần bức xạ ion hóa. Gói dấu ấn khối u vài trăm nhân dân tệ. Cái giá thật sự ở phía sau: phát hiện một chỗ “bất thường” nhưng thực ra chỉ báo động nhầm, gọi là dương tính giả; tái khám, lấy mô xét nghiệm, phẫu thuật tiếp đó mới là lúc tốn tiền và chịu khổ.",
+  "plain":"Người không triệu chứng đi kiểm tra thì điều tìm thấy nhiều nhất là báo động nhầm. Hơn tám phần mười người chụp CT toàn thân có ít nhất một chỗ “bất thường”, gần bốn phần mười được gọi kiểm tra tiếp, nhưng phần lớn là lành tính. Phụ nữ xét nghiệm dấu ấn ung thư buồng trứng không giảm tử vong vì bệnh này, còn có người phải mổ vô ích do báo động nhầm.",
+  "benefit":"Cơ quan Mỹ đánh giá biện pháp dự phòng USPSTF xếp mức D việc dùng CA-125 và siêu âm sàng lọc ung thư buồng trứng ở phụ nữ không triệu chứng, nghĩa là khuyên không làm. Căn cứ là thử nghiệm PLCO. Tỷ lệ tử vong vì ung thư buồng trứng ở nhóm sàng lọc 0.34%, nhóm chăm sóc thông thường 0.29%; RR 1.18 (95% CI 0.82–1.71). Kiểm tra không có lợi. Tỷ lệ phải mổ vô ích do kết quả sai, tức dương tính giả, là 0.2%–3.25% trong các thử nghiệm; trong những người này, tới 15% gặp biến chứng phẫu thuật nghiêm trọng. Nghiên cứu khác chụp CT toàn thân sàng lọc 1,192 người không triệu chứng: 86% có ít nhất một chỗ “bất thường”, 37% được khuyên kiểm tra thêm. Nguồn nói “phần lớn phát hiện được mô tả là lành tính”. Nó có vẻ đáng tiền vì “một lần kiểm tra toàn thân, phát hiện sớm điều trị sớm” quá hợp trực giác.",
+  "notes":"Phần dấu ấn khối u có thử nghiệm ngẫu nhiên đối chứng hỗ trợ. Phần CT toàn thân và PET-CT chỉ có kiểu theo dõi xem người từng làm sau đó thế nào, không phân nhóm đối chứng, bằng chứng yếu hơn một bậc, tương đương mức B. Các sàng lọc thực sự có bằng chứng như ung thư đại trực tràng, cổ tử cung, vú, CT ngực liều thấp ở người nguy cơ cao là chuyện khác, xem phần 1. Người đã có triệu chứng hoặc đã được chẩn đoán ung thư làm PET-CT là khám chữa bệnh, không phải sàng lọc, phải xét riêng.",
+  "extra":""
+ }
+}

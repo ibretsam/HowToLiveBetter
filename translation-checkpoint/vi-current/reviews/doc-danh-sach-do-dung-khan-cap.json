@@ -1,0 +1,15 @@
+{
+  "id": "doc-danh-sach-do-dung-khan-cap",
+  "source_sha256": "5419ed976f3c9e107d170a1f67425c1f8fd9a1882a4961fa44b3d7f65b41615a",
+  "draft_sha256": "5fdf45785f874800b30ebae85bc858f6104a5cb9503c0bee1235d3c828e8a098",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đã đọc đối chiếu toàn bộ bài nguồn và bản dịch, đủ bảng11mục/7phần/13gạch đầu dòng/2TODO. Giữ toàn bộ URL, số liệu IRR/OR/CI, tiêu chuẩn, mốc bảo dưỡng, tranh luận chăn chữa cháy, nguồn báo chí và bằng chứng mứcC của túi sơ cứu. Sửa 三天以上 từ hơn ba ngày thành từ ba ngày trở lên; giữ bất nhất nguồn mục không cần mua này với bảng dự trữ3ngày. Giữ diễn đạt tỷ lệ theo OR của nguồn và hai TODO về danh mục2024/các điều kiện oxy và thời gian mặt nạ, không thêm lời khuyên hoặc xác minh nguồn mới."
+}

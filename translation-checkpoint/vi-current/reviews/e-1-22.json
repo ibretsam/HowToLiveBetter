@@ -1,0 +1,15 @@
+{
+  "id": "e-1-22",
+  "source_sha256": "82ca2436a1ea4bed5d204b3389f6921351fdb343f1e05ecf315e61fefceb2b02",
+  "draft_sha256": "cd24188d246e2eb5d20231b7c8ca214d3a98b95f21810e4636c8bc9caf4f4efd",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ ngưỡng từ65, 8.45vạn, CI95.2% đặc thù, týp phủ được khác mọi nguyên nhân; không áp hiệu lực PCV13 cho PPSV23 thường dùng ở Trung Quốc."
+}

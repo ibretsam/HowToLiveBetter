@@ -1,0 +1,15 @@
+{
+  "id": "e-6-32",
+  "source_sha256": "db30830f56b380af17e33fbc2fa24aa1bb0b6de0b250d07e992fb27b7fa7152c",
+  "draft_sha256": "5d035dca77686cd2a0dbac83c3fdb9b6044ba943b2e4efd39223b47b7f2f36d0",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Sửa 一半以上 thành ít nhất một nửa để giữ ranh giới bao gồm. Giữ toàn bộ bảng sống Trung Quốc 2023, phân biệt mô hình tiết kiệm 26 phần trăm với quan sát người thật, ví dụ từ bản thảo cũ, suy luận của tác giả và thiếu dữ liệu Trung Quốc. Giữ phạm vi người trẻ/trung niên và các dẫn chương 5/chương 6."
+}

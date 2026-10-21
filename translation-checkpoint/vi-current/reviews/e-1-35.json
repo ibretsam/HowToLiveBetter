@@ -1,0 +1,15 @@
+{
+  "id": "e-1-35",
+  "source_sha256": "903e62a42d17ccdf0cf2db2997d46ce282797bc6d22bde382208690ce8dd3502",
+  "draft_sha256": "c570b5652a591a28702900e01a4dae2e786fead645c6e404f6b7b4dcfd786786",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mọi số mẫu, HR/CI, GFR và đơn vị, nguy cơ tích lũy so với ca trên người-năm. Giữ khác biệt nhóm đối chứng khỏe và dân số chung, hiến hợp pháp so với bán thận, không thêm số nằm liệt và đủ liên kết pháp luật/bệnh mạn."
+}

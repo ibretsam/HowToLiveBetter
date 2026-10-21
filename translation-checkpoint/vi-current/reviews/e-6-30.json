@@ -1,0 +1,15 @@
+{
+  "id": "e-6-30",
+  "source_sha256": "02b2f43b11c2cd959c7daa06b8404aed2b1db4f3683db06db530120487fda562",
+  "draft_sha256": "1a2642bdabc72da73be9fab1193fc4b077280329dbc5734e68931db5ec15f368",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Phân biệt liền xương với chỉ số mật độ xương thay thế; giữ liều vitamin D, nước hầm xương 14–39 mg và tỷ lệ nhu cầu, các nhóm tuổi và mức canxi Trung Quốc. Giữ kết quả sỏi thận HR 1.17, gãy háng 0.88 không có ý nghĩa, phân tích hậu nghiệm và ngoại lệ thiếu chất/điều trị loãng xương."
+}

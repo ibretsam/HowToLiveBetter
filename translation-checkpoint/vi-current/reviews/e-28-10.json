@@ -1,0 +1,15 @@
+{
+  "id": "e-28-10",
+  "source_sha256": "17561c3f3a601d1fa663ee429481cf6263d1baafa1ce8cc59c771d50808229fd",
+  "draft_sha256": "66f255a06c71090823826cc03e73374465d2c05cd6a33aeb82142359b7215585",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu cấp điều/khoản, mã nội địa/nhập khẩu giữ nguyên với retained_terms hẹp, nồng độ mg/kg/ngưỡng và hàng mạo nhãn. Đối chiếu toàn bộ mẫu bệnh/biến chứng/thời gian/chỉ số, giữ không phải mọi ca18 đều do mỹ phẩm và không tính được nguy cơ từ báo cáo ca. Sửa hai cụm Việt lặp/khó hiểu ở title và notes, không đổi nghĩa."
+}

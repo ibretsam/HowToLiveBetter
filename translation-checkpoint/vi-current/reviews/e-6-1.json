@@ -1,0 +1,15 @@
+{
+  "id": "e-6-1",
+  "source_sha256": "cdf7e532d30332c3901e31894ec317e0bed2d95ce127f27316943624c5875c39",
+  "draft_sha256": "cb63427272c9a45e2dffdc1b30fca52fcfc0a4f127debca5f402f07b3028c9e4",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ nam bác sĩ, theo dõi trung vị11.2năm, HR/CI, mứcI thiếu bằng chứng khác khẳng định có hại; giữ phản chứng ung thư nhỏ và ngoại lệ thiếu dinh dưỡng/acid folic thai kỳ/ăn lệch."
+}

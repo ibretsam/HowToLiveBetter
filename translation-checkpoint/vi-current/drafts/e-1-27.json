@@ -1,0 +1,14 @@
+{
+  "id": "e-1-27",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "1f8e8da94fc2a6a7a7a28ea3c3d002f2b401f2a8ce45a88e138f7569e6da1b48",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Có máu nhìn thấy bằng mắt thường trong nước tiểu thì phải đi kiểm tra, dù không đau hay hôm sau đã hết",
+    "cost": "Xét nghiệm nước tiểu vài chục nhân dân tệ, siêu âm hệ tiết niệu một hai trăm. Nếu bác sĩ thấy cần thì thêm nội soi bàng quang, khoảng một nghìn nhân dân tệ.",
+    "plain": "Trong hồ sơ khám ngoại trú ở Anh, người từ 60 tuổi trở lên có máu nhìn thấy bằng mắt thường trong nước tiểu cuối cùng được phát hiện ung thư bàng quang chiếm khoảng 2.8%; ở tuổi 40 đến 59 là khoảng 1.2%. Con số không cao, nhưng đủ cao để phải đi kiểm tra. Dù chỉ xuất hiện một lần, lượng rất ít và không đau, vẫn cần khám.",
+    "benefit": "Một nghiên cứu ở Anh dùng hồ sơ điện tử của phòng khám đa khoa cộng đồng thuộc chăm sóc ban đầu, so sánh 4915 ca ung thư bàng quang với 21718 trường hợp đối chứng. Trong số người tiểu ra máu nhìn thấy bằng mắt thường, tỷ lệ cuối cùng thực sự được phát hiện ung thư bàng quang như sau. Từ 60 tuổi trở lên là 2.8%, khoảng tin cậy 95% CI 2.5 đến 3.1. Tuổi 40 đến 59 là 1.2%, khoảng tin cậy 0.6 đến 2.3. Tên chuyên môn của tỷ lệ này là giá trị dự báo dương tính. Tiểu máu chỉ thấy được dưới kính hiển vi cũng có ý nghĩa. Tỷ số odds là 20, khoảng tin cậy 95% CI 12 đến 33. Ở người từ 60 tuổi trở lên, tỷ lệ này là 1.6%, khoảng tin cậy 1.2 đến 2.1. Dịch vụ Y tế quốc gia Anh (NHS) nói máu trong nước tiểu có thể là dấu hiệu ung thư và phải kiểm tra. Dù không có triệu chứng khác, mới xuất hiện lần đầu hay lượng rất ít, đều cần hẹn bác sĩ sớm nhất có thể.",
+    "notes": "Không đau không phải lý do bỏ qua. Dịch vụ Y tế quốc gia Anh (NHS) nêu rõ có máu trong nước tiểu thì cần hẹn bác sĩ sớm nhất có thể, dù không có triệu chứng khác, mới lần đầu, lượng rất ít hoặc chưa chắc có phải máu không. Tiểu đau, tiểu nhiều lần và sốt có thể là nhiễm trùng đường tiết niệu. Đau dữ dội từng cơn từ hông xuống bẹn, đứng ngồi không yên có thể là sỏi. Nhưng NHS cũng nói đừng tự kết luận, hãy để bác sĩ khám. Màu đỏ thấy trong kỳ kinh, sau khi ăn củ dền hoặc vừa đổi thuốc mới chưa chắc là máu. Người đang dùng thuốc chống đông cũng đừng tự cho rằng do thuốc; đây là lời khuyên của tác giả, nghiên cứu trên không tính riêng nhóm này. Lợi ích xếp nhỏ vì chỉ có tỷ lệ phát hiện, không có mức tác động cho biết khám sớm giảm được bao nhiêu ca tử vong.",
+    "extra": ""
+  }
+}

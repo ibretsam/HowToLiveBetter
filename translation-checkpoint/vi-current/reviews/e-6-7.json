@@ -1,0 +1,15 @@
+{
+  "id": "e-6-7",
+  "source_sha256": "6cd35790a01f9e4b672b6c78bffdd777e9bfe643aa7a47cecccabbd6ed861475",
+  "draft_sha256": "39499e13969f8b3a650a0de26b8c7a97bc9e8def876d320145acbacab9094f51",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ người không triệu chứng khác điều trị ung thư, CA-125+siêu âm mứcD, tử vong0.34/0.29, mẫuCT1,192 và dương tính giả/mổ/biến chứng là mẫu khác nhau. Không gán số liệu CT trực tiếp thành PET-CT."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-5",
+  "source_sha256": "898b90fd85993398552beaa5a810c8b7ef3a62d7f46f2b49cc20394d5769d7b6",
+  "draft_sha256": "86d9b62711981296afc8c06a4a0407e92912a85deae5d540fb5ac5c4f090ba5e",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ điểm phần trăm khác phần trăm, giả dược60.1%, cácP và celecoxib; phản chứng phối hợp ở nhóm đau nặng là phát hiện hậu nghiệm, không kết luận. Dẫn6-33 đúng."
+}

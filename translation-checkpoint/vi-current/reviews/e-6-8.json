@@ -1,0 +1,15 @@
+{
+  "id": "e-6-8",
+  "source_sha256": "23c85c30d7e72c397d9c8e1fa8f38636b52aca9fbfb335e05bb42d1d1af1d18a",
+  "draft_sha256": "17753768890cf59b5e5db507d9086f3680fc78385fff6fd99d24caab0ee0c958",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ24tháng, chênh2.4kg, mẫu thừa cân/béo phì, cùng kế hoạch ăn vận động; ngoại lệ thiết bị trên cánh tay đầu2010 và chỉmộtthửnghiệm, không suy mọi thiết bị vô dụng."
+}

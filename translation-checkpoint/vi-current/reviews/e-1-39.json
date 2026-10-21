@@ -1,0 +1,15 @@
+{
+  "id": "e-1-39",
+  "source_sha256": "08299e2896e799adcb508310862075d6b52ad470d38b5b095c2884d0dbc0c2f5",
+  "draft_sha256": "ac26d2623021cd8dc58b3de740b298ac5e1e871b0636aa93e9f762a8e1178a1b",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ngưỡng tuổi inclusive, nguồn Mỹ/Trung Quốc khác nhau về nam, đủ RR/HR/CI, lợi ích tuyệt đối và chẩn đoán quá mức. Giữ bằng chứng về đánh giá nguy cơ rồi DXA và thuốc, không diễn giải thành hiệu quả đo DXA đơn độc hoặc tử vong."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-38",
+  "source_sha256": "63bbad265663ea277b1519dc3c6ff96721765ea0f34c103e3ef81a57e6617b61",
+  "draft_sha256": "a418dee29c942305c4977307bc3ae1d6d1aa546748ce3b0961874586289c7d00",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tên hoạt chất, nhóm tham gia từng thử nghiệm, 90% so với 95% CI, RR và ngưỡng tuân thủ >bảy mươi/<bốn mươi phần trăm. Giữ phạm vi dùng theo nhu cầu, lịch liều, ≥35 kg, chống áp dụng lịch theo nhu cầu cho nữ/viêm gan B, kiểm tra trước và tái khám, chính sách Trung Quốc cùng liên kết PEP."
+}

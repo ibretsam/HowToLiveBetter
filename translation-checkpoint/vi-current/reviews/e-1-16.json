@@ -1,0 +1,15 @@
+{
+  "id": "e-1-16",
+  "source_sha256": "d684d54d9959ef7f048f7f52086e5e610c4ce61c0c235fce6c5c98f2d0df0325",
+  "draft_sha256": "c7f18a6a3620bb2246bb0b33073b2c979d0ad76292fdafe61d705e0f38e01c7b",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ ưu tiên9–14chưaquan hệ, tiêmtrước17, nhóm17–30, IRR/CI và nghiên cứu không có số sau30. Giữ không thay thế sàng lọc và dẫn1-18; không biến khuyến nghị nguồn thành chính sách Việt Nam."
+}

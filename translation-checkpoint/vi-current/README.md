@@ -99,6 +99,14 @@ mục: 13 mục mới, 50 cập nhật và 12 rà soát lại. Có 79 hồ sơ r
 báo cáo nằm trong `batch-6-report.json`. Giữ nguyên 348 bản nháp và 348 hồ sơ
 rà soát của năm đợt trước.
 
+Đợt 7: toàn bộ 48 mục chương 1, 35 mục chương 6 và 10 mục chương 28, cộng
+ba lời dẫn và bài danh sách trang bị khẩn cấp cho gia đình. Tổng 93 mục:
+17 mục mới, 73 cập nhật và 3 rà soát lại. Có 97 hồ sơ rà soát độc lập mới;
+báo cáo nằm trong `batch-7-report.json`. Giữ nguyên 427 bản nháp và 427 hồ sơ
+rà soát của sáu đợt trước. Bài trang bị khẩn cấp giữ hai TODO cần xác minh
+của nguyên bản; bất nhất về gây nôn ở mục 1.48/13.20 được ghi công khai trong
+`vi/TRANSLATION.md`. Kiểm tra bản dịch không phải kiểm chứng độc lập y khoa.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.

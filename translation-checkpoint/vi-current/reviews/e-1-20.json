@@ -1,0 +1,15 @@
+{
+  "id": "e-1-20",
+  "source_sha256": "ad43da5724a61feb6e7ef7a314abac24c0dd8183d1ffafded42c7884865478ca",
+  "draft_sha256": "a99e5cedf95bd12a523bade62a7fdc77cc73e1487702fb9db614284b9764dbbd",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ thử nghiệm sau nhồi máu cơ tim, mù đôi, tử vong toàn nguyên nhân khác biến cố tim mạch; RR0.74 không ý nghĩa. MứcA chỉ bệnh tim mạch, không suy rộng tử vong cho người cao tuổi khỏe mạnh. Hai dẫn thai kỳ/COPD đúng."
+}

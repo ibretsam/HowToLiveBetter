@@ -1,0 +1,15 @@
+{
+  "id": "e-1-36",
+  "source_sha256": "f85781994a381734e210889e7f5133ea5475410ef63d3ba59128f7b2638a0827",
+  "draft_sha256": "34eb1b4e0fb779badcb9650da3889472ef74318aae976bee8e036422b9467df0",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ nguồn/thiết bị, phân cấp và độ tổn thương La Mã, mốc thời gian, đơn vị hoạt độ và tỷ lệ sự cố. Sửa nhiễm xạ thành nhiễm bẩn phóng xạ ở ca Goiânia để phân biệt ô nhiễm chất phóng xạ với chiếu xạ. Giữ nguồn plain <1 so với benefit ≤1, và phân biệt bằng chứng chính thức, báo chí và suy luận tác giả."
+}

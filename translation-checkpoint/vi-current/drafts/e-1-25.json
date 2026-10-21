@@ -1,0 +1,14 @@
+{
+  "id": "e-1-25",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f45c6d56120a3d54a66448b35ff1f95c983c3c7f9bcce9d11ba249d8d0b1d1db",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Khi trầm cảm hoặc có ý nghĩ tự sát, gọi 12356; không tích trữ thuốc ngủ và thuốc trừ sâu trong nhà",
+    "cost": "Không tốn tiền. Gọi một cuộc điện thoại. Ngoài ra, cất thuốc trong chỗ khóa lại và không để thuốc trừ sâu trong nhà.",
+    "plain": "Bằng chứng cho việc đưa những thứ có thể gây chết người ra khỏi tầm tay ngày càng vững hơn. Sau khi kiểm soát thuốc giảm đau, số vụ tự sát liên quan giảm 43%; lắp rào bảo vệ ở nơi thường có người nhảy lầu giúp giảm 86%. Vì vậy, đừng tích trữ thuốc ngủ và thuốc trừ sâu trong nhà. Khi bế tắc, gọi 12356 trước; số dùng trên toàn Trung Quốc, hoạt động ít nhất 18 giờ mỗi ngày.",
+    "benefit": "Một tổng quan hệ thống xem xét lại các nghiên cứu trong gần 10 năm cho thấy bằng chứng về việc hạn chế tiếp cận phương tiện gây chết người ngày càng tăng. Sau khi kiểm soát thuốc giảm đau, số vụ tự sát liên quan đến thuốc giảm đau giảm 43%. Sau khi bổ sung biện pháp bảo vệ tại nơi thường có người nhảy lầu, số vụ giảm 86% (79% đến 91%, số trong ngoặc là khoảng tin cậy của ước lượng). Các chương trình nhận thức trong trường học giúp tự sát không thành thấp hơn khoảng 55% (OR 0.45, 95% CI 0.24 đến 0.85). Thuốc điều trị trầm cảm và liệu pháp tâm lý là phần quan trọng trong phòng ngừa tự sát. Từ ngày 1 tháng 5 năm 2025, ở bất cứ đâu tại Trung Quốc cũng có thể gọi 12356 để kết nối đường dây hỗ trợ tâm lý, hoạt động không dưới 18 giờ mỗi ngày.",
+    "notes": "Xếp mức B vì phần lớn bằng chứng về hạn chế phương tiện đến từ nghiên cứu sinh thái, so sánh số liệu trước và sau khi chính sách được ban hành. Bản thân đường dây hỗ trợ chưa có bằng chứng làm giảm tử vong. Thôi thúc tự sát thường chỉ kéo dài vài phút đến vài giờ; đưa vật có thể gây chết người ra xa hơn tự nó đã là một biện pháp can thiệp. Dữ liệu về khoảng thời gian này và kết cục lâu dài sau tự sát không thành xem mục 32 phần này (vừa xuất hiện ý nghĩ tự sát thì nói ngay với một người bên cạnh). Những di chứng có thể còn lại sau khi được cứu xem mục 33 phần này.",
+    "extra": ""
+  }
+}

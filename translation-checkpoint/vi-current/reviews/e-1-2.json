@@ -1,0 +1,15 @@
+{
+  "id": "e-1-2",
+  "source_sha256": "a9b9fa81651bea9caeeb735f038dd4051d937b0324e60c0585ccb1eae5a5c6a6",
+  "draft_sha256": "953683bc7d57122069f289efe9a80c81a04fe55e30a45ed81d8f18c9cb9c5758",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ suy rộng xe máy sang xe đạp điện, cài quai và hai dẫn mục. Nguồn gọi giảm nguy cơ nhưng báo OR; giữ nguyên số và cách diễn giải của nguồn, không xem đây là xác minh y khoa độc lập."
+}

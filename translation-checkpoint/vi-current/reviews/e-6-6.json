@@ -1,0 +1,15 @@
+{
+  "id": "e-6-6",
+  "source_sha256": "76f2106d438f2930a7c7c9ddff67e4768050134509e670309db33158fe1e7b0c",
+  "draft_sha256": "ba9408ccca48f97305ceb3c56da39ccf625daeb18aaf5ab1223c1aaaa7f4a95c",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ phòng mắc khác rút ngắn thời gian, uống đều khác bắt đầu khi bệnh, người lớn8%/trẻ14% và nhóm gắng sức/lạnh. Nguồn liệt kê ba nhóm rồi nói hai nhóm; giữ bất nhất đó thay vì tự sửa."
+}

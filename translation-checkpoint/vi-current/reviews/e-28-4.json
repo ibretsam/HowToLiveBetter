@@ -1,0 +1,15 @@
+{
+  "id": "e-28-4",
+  "source_sha256": "8d04c52166099efa62072814c623cde9858f923a077e8e2bf3b5e1656db1a51e",
+  "draft_sha256": "99709b0f28239b56dd75732dfdcc0a5c5f3fea85bbf9236d34e4d7ae9f77f76a",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu số mẫu và tiêu chuẩn nguy cơ SCOUT, HR/CI/P, biến cố không tử vong so với tử vong, mức giảm cân và lệnh cấm Trung Quốc. Làm rõ 几斤 là vài cân Trung Quốc, mỗi cân bằng nửa kilôgam ở lần xuất hiện đầu, để không nhầm kg Việt Nam; không thêm chữ số Ả Rập. Giữ khẳng định suy luận về sản phẩm pha chất của tác giả."
+}

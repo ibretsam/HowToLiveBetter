@@ -1,0 +1,11 @@
+{
+ "id":"e-6-9","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"b2df33c639d80548aa6021ded52c9b848423be0cb09556e456e50e0b35d9481c","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Đừng trả giá cao hơn để mua thực phẩm hữu cơ chỉ vì muốn khỏe hơn",
+  "cost":"Thường bằng 1 đến 3 lần giá thực phẩm thông thường cùng loại.",
+  "plain":"Chưa có bằng chứng mạnh rằng thực phẩm hữu cơ giàu dinh dưỡng hơn. Chỉ có 3 nghiên cứu thực sự xem sức khỏe người ăn ra sao, đều không thấy khác biệt. Tỷ lệ phát hiện dư lượng thuốc trừ sâu trong nông sản hữu cơ đúng là thấp hơn 30 điểm phần trăm, nhưng phát hiện không có nghĩa vượt chuẩn.",
+  "benefit":"Một tổng quan hệ thống xem chung 17 nghiên cứu trên người và 223 nghiên cứu đo thành phần thực phẩm. Kết luận là “thiếu bằng chứng mạnh cho thấy thực phẩm hữu cơ giàu dinh dưỡng hơn rõ rệt so với thực phẩm thông thường”. Trong đó chỉ 3 nghiên cứu xem sức khỏe người ăn, cụ thể là dị ứng và nhiễm trùng có triệu chứng, không thấy khác biệt giữa hai bên. Tỷ lệ phát hiện dư lượng thuốc trừ sâu trong nông sản hữu cơ thấp hơn 30 điểm phần trăm, nhưng phát hiện không có nghĩa vượt chuẩn. Nó có vẻ đáng tiền vì “không thuốc trừ sâu thì an toàn hơn, an toàn hơn thì khỏe hơn”, mỗi bước nghe đều như kiến thức thông thường.",
+  "notes":"Rất ít nghiên cứu trực tiếp xem sức khỏe người ăn. Vì vậy, kết luận là “chưa có bằng chứng cho thấy thực phẩm hữu cơ tốt hơn”, không phải “đã chứng minh không có lợi”. Tác động môi trường, phúc lợi động vật, vị ngon hay không nằm ngoài phạm vi. Ăn thêm rau quả tự nó có hiệu quả; hữu cơ hay không không làm thay đổi điều này.",
+  "extra":""
+ }
+}

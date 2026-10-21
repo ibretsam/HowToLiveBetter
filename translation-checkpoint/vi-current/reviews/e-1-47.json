@@ -1,0 +1,15 @@
+{
+  "id": "e-1-47",
+  "source_sha256": "9e38e76b002792321cbaf5f7e6bee832c565ecca2dc45b44a55ecb7ee8c04acd",
+  "draft_sha256": "38b4edc777431caf3e06b4c7543c20fa4bad0fe2bfbfc64b6a47a50ff59ca67d",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ tiêu chuẩn ≥45 tuổi và ít nhất một điều kiện, tỷ suất chuẩn hóa >20/>15 trên10vạn, các nhóm nghiên cứu và mọi RR/HR/OR/CI. Giữ odds ở nghiên cứu Hàn Quốc, tự chọn đi khám so với được mời, giới hạn và tác hại sàng lọc, triệu chứng phải khám bệnh cùng liên kết."
+}

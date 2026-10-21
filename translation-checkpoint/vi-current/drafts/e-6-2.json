@@ -1,0 +1,11 @@
+{
+ "id":"e-6-2","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"0f31e3a0763839ef9baa780a0292e0e7e6bd272a1dc45211d05a9f61efba8e13","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Đừng uống dầu cá thông thường để phòng bệnh tim mạch",
+  "cost":"Khoảng 1 đến 3 nhân dân tệ mỗi ngày, 400 đến 1000 nhân dân tệ mỗi năm. Uống không mất thời gian.",
+  "plain":"Hai thử nghiệm lớn lần lượt gồm 2.6 vạn người và 1.5 vạn người bệnh đái tháo đường. Người uống 1 gam dầu cá mỗi ngày có số biến cố tim mạch lớn và tử vong bằng người không uống. “Ăn cá có lợi” không có nghĩa “uống viên dầu cá có lợi”. Không mua tiết kiệm bốn trăm đến một nghìn nhân dân tệ mỗi năm.",
+  "benefit":"Thử nghiệm VITAL gồm 25,871 người, uống 1 gam dầu cá mỗi ngày, theo dõi trung vị 5.3 năm. Biến cố tim mạch lớn và tử vong đều không thấy khác biệt giữa hai bên. HR biến cố tim mạch chính 0.92; HR là tỷ số nguy cơ, bằng 1 nghĩa là hai bên như nhau. 95% CI 0.80–1.06 là khoảng tin cậy. Khoảng này đi qua 1, cho thấy chưa thấy khác biệt. HR tử vong do mọi nguyên nhân 1.02 (0.90–1.15). Thử nghiệm ASCEND gồm 15,480 người bệnh đái tháo đường, cũng uống 1 gam mỗi ngày, theo dõi trung bình 7.4 năm, cũng không thấy khác biệt. RR biến cố mạch máu nghiêm trọng 0.97 (0.87–1.08); RR tử vong do mọi nguyên nhân 0.95 (0.86–1.05). Nó có vẻ đáng tiền vì nhiều người coi thẳng “ăn cá có lợi” thành “uống viên dầu cá có lợi”.",
+  "notes":"Điểm còn tranh luận: có một thử nghiệm cho thấy hiệu quả. REDUCE-IT gồm 8,179 người vốn có bệnh tim mạch hoặc đái tháo đường, đều dùng statin mà triglyceride vẫn cao (135–499 mg/dL). Họ uống 4 g EPA tinh khiết dạng thuốc kê đơn mỗi ngày, tỷ lệ gặp biến cố là 17.2% so với 22.0%. Nguy cơ thấp hơn khoảng một phần tư (HR 0.75, 0.68–0.83). Nhưng đó là thuốc kê đơn liều cao dành cho người bệnh nguy cơ cao, không tương đương việc người bình thường uống dầu cá dạng thực phẩm bổ sung. Mục này cũng không bao gồm việc ăn cá.",
+  "extra":""
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-15",
+  "source_sha256": "25852959f34626aa810a7a65fcfd20b96164ad483233c0d37e2f40550c533f4d",
+  "draft_sha256": "04ca81e4ae26ffbcedc0aeb452eb911492acc71015b0c60422ad0ead2275a3e5",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ hai mức nguy cơ, xử lý trong6giờ/vượt6giờ, các loại vết thương, từ3mũitrởlên, chưađủ5năm, khoảng5–10năm và đủ10năm. Nhắc bác sĩ quyết định, miễn dịch thụ động cho vết thương nguy cơ cao khi chưa đủ/không nhớ lịch tiêm."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-11",
+  "source_sha256": "c145e55ceafbcb36e7a0ac6636446feeab2cd25ddfa8b6fb4a7f12109111fb0a",
+  "draft_sha256": "fe638b7c9e4dbf2bfd03de6852c3f2a7c4b8efbd4091f40ab1f53156c1a80bde",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ45 thử nghiệm ở người khỏe mạnh, thay đổi hệ vi khuẩn tạm thời khác lâu dài, không cải thiện mỡ máu; giữ cải thiện nhỏ và ngoại lệ tiêu chảy kháng sinh/chủng cụ thể cho bệnh cụ thể."
+}

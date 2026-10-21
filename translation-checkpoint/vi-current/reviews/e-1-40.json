@@ -1,0 +1,15 @@
+{
+  "id": "e-1-40",
+  "source_sha256": "3c4cc93e5334d4f2279276350e131ccc3fc603fb53648b8c2e74aa6422f9eb51",
+  "draft_sha256": "868a2b0fc0c9d2c6b4a64310166b1a9569d6d734e43a0dfbf112bc22dd60371d",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu ba nhóm chỉ định với T ≤-2.5, loại thuốc/liều lịch theo nguồn, mốc sau mổ, đủ RR/CI và tỷ lệ điều trị Trung Quốc. Giữ bất nhất bằng chứng tử vong thử nghiệm HORIZON so với phân tích gộp, độ tin cậy thấp-trung bình và tác dụng phụ hiếm chưa khảo sát đầy đủ."
+}

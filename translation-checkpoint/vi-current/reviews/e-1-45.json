@@ -1,0 +1,15 @@
+{
+  "id": "e-1-45",
+  "source_sha256": "2d19fc5b96369b1a26e0fae1e1ea67bc20886d285af6960a2d8658df0a34e09c",
+  "draft_sha256": "829dd9b77725db37150c2d7249a5939c201f47c3fe4276767b3d341f37a2b818",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ tất cả HR/CI, hiệu quả trên người-năm so với tỷ lệ, mốc sàng lọc/điều trị/tái nhiễm, mức giảm giá bảo hiểm. Giữ khác biệt bằng chứng khỏi virus và tử vong từ nghiên cứu theo dõi, giới hạn Cochrane2017, nhóm nguy cơ và thai kỳ, mọi liên kết chéo."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-6-15",
+  "source_sha256": "d812465bfaa6b22f6a29f13349a49282d58fb4541192e08eb7a4603c54bb960f",
+  "draft_sha256": "1b96c538913a2b8632071a49850eb1f2f47f7d7cd0108f259733f7284829239a",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ thử nghiệm đơn lẻ, trung bình4.26 tự tính từ bảng1, số lựa chọn chiêm tinh thật/đoán/dự kiến, vụ việc Hà Nam và đơn vị vạn. Giữ không đánh giá tín ngưỡng, giải trí khác quyết định nghỉ việc/kết hôn/đầu tư."
+}

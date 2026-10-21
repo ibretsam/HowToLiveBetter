@@ -1,0 +1,14 @@
+{
+  "id": "e-1-28",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "bfe1f3624ac19f3c9b65845164ef3d81365fe051d8cbe4885404cc86dddddbe6",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Có vấn đề về khả năng cương thì đi kiểm tra tim mạch trước, đừng chỉ coi là chuyện sinh lý",
+    "cost": "Đăng ký khám vài chục nhân dân tệ. Đo huyết áp, lấy máu xét nghiệm đường huyết và mỡ máu một hai trăm. Đi bệnh viện một lần, chờ kết quả vài ngày.",
+    "plain": "Nam giới rối loạn cương dương sau này mắc bệnh tim mạch nhiều hơn người khác khoảng bốn mươi phần trăm, nhồi máu cơ tim nhiều hơn khoảng sáu mươi phần trăm. Càng trẻ, chênh lệch càng lớn. Vì vậy, hãy kiểm tra huyết áp, đường huyết và mỡ máu trước, đừng tự mua thuốc để che lấp vấn đề.",
+    "benefit": "Một phân tích gộp tổng hợp 14 nghiên cứu theo dõi với 92,757 nam giới, thời gian theo dõi trung bình 6.1 năm. So với người không rối loạn cương dương, người có vấn đề này có nguy cơ về sau như sau. Tổng biến cố tim mạch cao hơn khoảng 44% (RR 1.44, 95% CI 1.27 đến 1.63, đây là khoảng tin cậy). Nhồi máu cơ tim cao hơn khoảng 62% (RR 1.62, 1.34 đến 1.96). Biến cố mạch máu não cao hơn khoảng 39% (RR 1.39, 1.23 đến 1.57). Tử vong do mọi nguyên nhân cao hơn khoảng 25% (RR 1.25, 1.12 đến 1.39). Riêng tử vong do tim mạch không cho thấy khác biệt rõ (RR 1.19, 0.97 đến 1.46). Càng trẻ, tỷ số càng cao. Ở người vốn có nguy cơ tim mạch trung bình, tỷ số cao hơn cả nhóm nguy cơ cao lẫn thấp. Nghiên cứu xác định tình trạng bằng bảng hỏi tính được tỷ số 1.61 (1.38 đến 1.86). Nghiên cứu chỉ hỏi một câu cho tỷ số 1.27 (1.18 đến 1.37).",
+    "notes": "Cả 14 nghiên cứu đều theo dõi một nhóm người để xem kết quả, không phải thử nghiệm phân nhóm ngẫu nhiên. Vì vậy, cao hơn bốn mươi phần trăm là mối liên hệ, không thể xem là quan hệ nhân quả. Dịch vụ Y tế quốc gia Anh (NHS) nói đa số đàn ông đôi lúc không cương được, thường do mệt, căng thẳng hoặc uống nhiều rượu bia, không cần lo. Chỉ khi tái diễn mới nên đi khám. Những thứ cần kiểm tra giống mục 7 và 8 phần này: huyết áp, đường huyết lúc đói, thêm mỡ máu, hút thuốc và vòng eo. Đừng mua thực phẩm bổ sung tăng cường sinh lý trên mạng. Thuốc chính thống thuộc nhóm này là thuốc kê đơn; hướng dẫn sử dụng liệt kê nitrat là chống chỉ định. Người đang dùng nitroglycerin hoặc thuốc tương tự không được uống, vì dùng cùng làm huyết áp tụt đột ngột. Cách cải thiện xem mục 29 phần này (giảm cân, bỏ thuốc lá có thể cải thiện khả năng cương). Lợi ích xếp vừa, không xếp lớn: 44% là chênh lệch nguy cơ giữa hai nhóm, không phải mức giảm tử vong nhờ đi kiểm tra một lần. Cũng không xếp nhỏ: dấu hiệu như mục 27 phần này (có máu nhìn thấy bằng mắt thường trong nước tiểu) chỉ có tỷ lệ phát hiện. Còn tăng huyết áp, đái tháo đường và rối loạn mỡ máu được phát hiện ở đây đều đã có cách điều trị.",
+    "extra": ""
+  }
+}

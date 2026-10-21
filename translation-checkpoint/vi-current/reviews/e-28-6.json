@@ -1,0 +1,15 @@
+{
+  "id": "e-28-6",
+  "source_sha256": "c6e2270910c1109c3e7c832db8a6be11b28d1290dfa0ba59db6adf2b9ee4b583",
+  "draft_sha256": "e661c40d4f705c1ec7b50c4ca51427d3faa76d9f54ec720d32bdcaf19114c189",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ quy định đơn thật/danh tính/lưu đơn/dược sĩ/thuốc cấm bán mạng; tên năm thuốc, BMI24≤x<28 và≥28, liều/lịch/ngưỡng giảm cân. Giữ mọi số STEP1/4 và SURMOUNT4, phân biệt điểm phần trăm và phần trăm, hạn chế STEP1 ngừng cả hỗ trợ lối sống và chỉ nhóm nhỏ, chưa có lượng hóa an toàn của kê đơn."
+}

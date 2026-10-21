@@ -1,0 +1,11 @@
+{
+ "id":"e-6-8","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"23c85c30d7e72c397d9c8e1fa8f38636b52aca9fbfb335e05bb42d1d1af1d18a","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Đừng trông cậy việc đo hoạt động bằng vòng tay hoặc đồng hồ giúp giảm cân",
+  "cost":"Thiết bị giá 200 đến 2000 nhân dân tệ. Mỗi ngày còn phải phân tâm xem các số liệu đó.",
+  "plain":"Người thừa cân theo cùng kế hoạch ăn uống, vận động, nhóm đeo vòng theo dõi giảm 3.5 kilôgam sau hai năm, nhóm không đeo lại giảm 5.9 kilôgam. Muốn giảm cân, thiết bị không phải khoản bắt buộc chi.",
+  "benefit":"Thử nghiệm IDEA gồm 471 người trưởng thành thừa cân hoặc béo phì, theo dõi 24 tháng. Mọi người có cùng kế hoạch ăn uống, vận động, chỉ khác có đeo thiết bị hay không. Nhóm đeo giảm 3.5 kilôgam (95% CI 2.6–4.5, đây là khoảng tin cậy), nhóm không đeo giảm 5.9 kilôgam (5.0–6.8), ngược lại nhiều hơn. Chênh lệch 2.4 kilôgam (1.0–3.7, P=0.002). Nó có vẻ đáng tiền vì câu “phải đo lường mới quản lý được” nghe hợp lý, thiết bị lại chỉ mua một lần.",
+  "notes":"Chỉ có một thử nghiệm, dùng thiết bị đeo trên cánh tay từ đầu thập niên 2010, không thể dựa vào đó nói mọi thiết bị đeo đều vô dụng. Vận động bản thân có hiệu quả, xem phần 2. Kết luận chỉ là: muốn giảm cân, thiết bị không phải khoản bắt buộc chi.",
+  "extra":""
+ }
+}

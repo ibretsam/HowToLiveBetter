@@ -1,0 +1,15 @@
+{
+  "id": "e-1-26",
+  "source_sha256": "357ef0a1f899bec21b1af77a6bf5dbf2b0be6a7c4d5ffd580dc93a90138b7892",
+  "draft_sha256": "bfb4f4802db0704884491d505a7f082e568d9bdd2137d8c55e6e07aedbe6adcd",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ danh mục và công dụng, 98 nghiên cứu/2,605,044 người, IRR cùng mọi CI; giữ CI tổng vượt 1 và khác biệt can thiệp tại nhà so với phát thiết bị. Hướng dẫn an toàn, tranh luận chăn chữa cháy và URL nguyên vẹn."
+}

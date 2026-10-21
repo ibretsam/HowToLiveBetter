@@ -1,0 +1,15 @@
+{
+  "id": "e-1-25",
+  "source_sha256": "f45c6d56120a3d54a66448b35ff1f95c983c3c7f9bcce9d11ba249d8d0b1d1db",
+  "draft_sha256": "5c0f46ceaa0aae8dc85cdadfce09846f1b186c1a8ff613564f0ae8047cbb81cd",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường, thời điểm 1/5/2025, phạm vi Trung Quốc và ít nhất 18 giờ, liên kết 32/33, mức B và giới hạn bằng chứng hotline. Giữ cách diễn đạt giảm tự sát không thành của nguồn dù thống kê là OR; không chuyển thành hiệu quả hotline."
+}

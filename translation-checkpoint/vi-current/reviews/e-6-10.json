@@ -1,0 +1,15 @@
+{
+  "id": "e-6-10",
+  "source_sha256": "26b09c0a891b9de9b8a71a8d255eef2a32dd5b9e1f971e2818b5e9d649323998",
+  "draft_sha256": "f12ff3bc038fa16c471972c00649a5ef766e0722857fd1d73f786845e7a01cfb",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ công dụng được phép quảng cáo khác bằng chứng vô hiệu, diện tích bao bì ít nhất20%, cấpC và ngoại lệ điều trị/thiếu chất. Giữ tránh tranh cãi khi không thay thuốc/không gây vấn đề, đủ dẫn vắcxin/huyếtáp/ngã/ungthư/chămsócdàihạn và lừađảo."
+}

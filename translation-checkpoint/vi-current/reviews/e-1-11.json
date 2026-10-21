@@ -1,0 +1,15 @@
+{
+  "id": "e-1-11",
+  "source_sha256": "76e4bbfa73ded08255ad0f52e6a276f59783ada18d4c9baf5c028526613d22cd",
+  "draft_sha256": "99d0c44225e0d5a8a543cfe57f06d761049c840b8c7c40b52afcc09d887cad5c",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ can thiệp song chắn cộng hướng dẫn, báo cáo Bronx1973–1975 không tự gán riêng chốt giới hạn; trẻ10tuổi trở xuống và tầnghaihoặcthấp hơn. Dẫn xe tập đi đúng20-15."
+}

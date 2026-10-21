@@ -1,0 +1,15 @@
+{
+  "id": "e-1-31",
+  "source_sha256": "14a611df8addfddfe2d5322b90e0854916900cd8aab3fe6c94e0c5564f06b625",
+  "draft_sha256": "435336aaff1330253786e7b507c64cab9ccbfb59ade8ea9051f926d2e367003c",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ điều hai mươi ba/ba mươi chín/ba/ba mươi tám, các quyền và nghĩa vụ, nghiên cứu PARTNER không có ca lây trong cặp dù 15 ca mới ngoài cặp. Giữ số cặp-năm, cửa sổ xét nghiệm, ≥99.99%, điều kiện ức chế virus và xác nhận tự xét nghiệm."
+}

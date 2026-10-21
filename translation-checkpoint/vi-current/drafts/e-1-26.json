@@ -1,0 +1,14 @@
+{
+  "id": "e-1-26",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "357ef0a1f899bec21b1af77a6bf5dbf2b0be6a7c4d5ffd580dc93a90138b7892",
+  "translator": "pilot_emergency_batch7",
+  "translation": {
+    "title": "Chuẩn bị đủ bình chữa cháy, chăn chữa cháy, mặt nạ thở thoát hiểm và túi sơ cứu; kiểm tra mỗi năm một lần",
+    "cost": "Bình chữa cháy, chăn chữa cháy, mỗi người một mặt nạ thở, thêm một túi sơ cứu, cả bộ vài trăm nhân dân tệ. Chỉ cần mua một lần, sau đó mỗi năm dành mười phút kiểm tra.",
+    "plain": "Bình chữa cháy, chăn chữa cháy, mặt nạ thoát hiểm và túi sơ cứu đều nằm trong danh mục 11 loại vật dụng khẩn cấp cho gia đình của Bộ Quản lý tình trạng khẩn cấp. Cả bộ vài trăm nhân dân tệ, chỉ cần mua một lần. Trong các nghiên cứu có hướng dẫn an toàn tại nhà, tỷ lệ xảy ra thương tích thấp hơn khoảng một phần tư.",
+    "benefit": "Danh mục khuyến nghị dự trữ vật dụng khẩn cấp cơ bản cho gia đình trên toàn quốc của Bộ Quản lý tình trạng khẩn cấp gồm 11 loại. Trong đó, bình chữa cháy và chăn chữa cháy dùng để dập đám cháy mới phát sinh; danh mục còn ghi có thể choàng chăn chữa cháy lên người để thoát hiểm. Mặt nạ thở là thiết bị tự cứu hô hấp kiểu lọc dùng để thoát hiểm khi cháy. Thuốc dùng ngoài gồm bột cầm máu, băng dán cầm máu, gạc, băng cuộn và những thứ tương tự để xử lý vết thương. Cochrane tổng hợp 98 nghiên cứu với 2,605,044 người. Can thiệp an toàn gia đình làm tỷ lệ xảy ra thương tích giảm xuống IRR 0.89. Khoảng tin cậy là 95% CI 0.78 đến 1.01. Trong đó, can thiệp thực hiện tại nhà có tỷ lệ thương tích thấp hơn khoảng 25% (IRR 0.75, 95% CI 0.62 đến 0.91).",
+    "notes": "Điểm còn tranh luận. Trong cùng tổng hợp Cochrane, loại can thiệp không phát thiết bị có tỷ lệ bị thương thấp hơn khoảng một phần năm. Giá trị gốc IRR 0.78, khoảng tin cậy 95% CI 0.66 đến 0.92. Nhóm được phát thiết bị không đạt kết quả tốt hơn. Phần chủ yếu giúp giảm thương tích là hướng dẫn tại nhà và cải tạo nhà, nên lợi ích của thiết bị xếp mức vừa, không xếp lớn. Khi mua bình chữa cháy, tìm dấu CCC; kim của loại bình tích áp phải nằm trong vùng xanh. Chăn chữa cháy phần lớn làm từ sợi thủy tinh, chỉ nắm hai dây kéo, đừng chạm tay trần lên mặt chăn. Dùng chăn phủ chảo dầu cũng còn tranh luận: năm 2014, cơ quan quản lý Hà Lan kiểm tra 22 nhãn hiệu, không loại nào dập cháy ổn định khi dùng theo cách của người bình thường. Chảo dầu bắt lửa thì trước tiên tắt bếp, đậy nắp. Thiết bị báo khói và báo carbon monoxide xem mục 3 phần này. Cách dùng garô xem phần 13 mục 12. Cách chọn từng món, nơi cất và bao nhiêu năm thay một lần xem [Danh mục thiết bị khẩn cấp cho gia đình](../docs/家庭应急装备清单.md).",
+    "extra": ""
+  }
+}

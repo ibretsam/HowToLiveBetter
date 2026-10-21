@@ -1,0 +1,11 @@
+{
+ "id":"e-6-25","source_commit":"5f210ca953b7b538c042ad8515d5c355b766a194","source_sha256":"d4e2aa26b8027fa78ccd76eb64d360659a232758963a9c838850b0ecd52eef7b","translator":"pilot_employment_batch7",
+ "translation":{
+  "title":"Đừng tin “ý chí giống cơ bắp, dùng một lúc là cạn”",
+  "cost":"Không tốn tiền. Chỉ cần thay đổi một cách nói.",
+  "plain":"Quan niệm phổ biến cho rằng sau khi làm một việc cần tự chủ, ta dễ mất kiểm soát hơn trong việc tiếp theo, nên phải tiết kiệm ý chí. 23 phòng thí nghiệm với 2141 người lặp lại thí nghiệm theo cùng một quy trình, kết quả gần như bằng không. Đừng dùng câu “hôm nay hết ý chí rồi” để giải thích bản thân, cũng đừng trả tiền cho khóa học dạy tích trữ ý chí vì lý do này.",
+  "benefit":"Một nghiên cứu lặp lại đã đăng ký trước, thực hiện ở nhiều phòng thí nghiệm, có 23 phòng và tổng cộng 2141 người tham gia. Họ lặp lại mô hình nhiệm vụ nối tiếp theo quy trình chuẩn hóa của Sripada và cộng sự: làm một nhiệm vụ tiêu hao khả năng tự chủ rồi làm nhiệm vụ thứ hai cũng cần tự chủ. Kết quả tổng hợp cho thấy hiệu ứng suy kiệt khả năng tự chủ rất nhỏ, và khoảng tin cậy 95% chứa 0 (d = 0.04, 95% CI −0.07 đến 0.15). Từ đó tác giả bàn về việc mô hình “khả năng tự chủ là nguồn lực hữu hạn” còn đứng vững không. Một lần lặp lại khác cũng đăng ký trước quy trình, với 36 phòng thí nghiệm và 3531 người, cho kích thước hiệu ứng d = 0.06, cũng nhỏ đến mức không đáng kể.",
+  "notes":"Điều cần bác bỏ là mô hình “tự chủ là nguồn lực có thể dùng cạn”, không phải phủ nhận “con người biết mệt”. Thiếu ngủ hoặc làm liên tục quá lâu khiến hiệu suất giảm là chuyện khác; xử lý theo các mục về ngủ và giờ làm ở chương 3. Những cách thực sự có thử nghiệm ngẫu nhiên ủng hộ là thay đổi môi trường và cách viết kế hoạch, xem mục 10 chương 4 (Để xa những thứ không muốn đụng tới) và mục 1 chương 4 (Viết rõ “mấy giờ, ở đâu, gặp tình huống gì thì làm gì”). Cố định chuyện mặc gì, ăn gì vẫn đáng làm vì gần như không tốn chi phí. Điều tiết kiệm được là vài phút và vài lần đắn đo, không phải ý chí; đừng trông chờ nó giúp bạn phán đoán tốt hơn vào buổi chiều. Các mục khác trong chương tính bằng tiền, mục này tính bằng thời gian và công sức, không quy đổi hai thứ cho nhau.",
+  "extra":""
+ }
+}

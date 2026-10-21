@@ -1,0 +1,15 @@
+{
+  "id": "e-1-19",
+  "source_sha256": "86c4d73b9e65639dd52998402bc128ad6da32cac60d52ec25d98d7927ae6019a",
+  "draft_sha256": "526a8b7b56d7c9424b8e4e1e83c871a3ba846f976982ccebddf064dd9ce83068",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ nhóm được mời nội soi khác nhóm thực sự tham gia, tỷ lệ mắc khác tử vong và CI tử vong không có ý nghĩa thống kê. Giữ tranh luận và cách nguồn suy luận về bằng chứng xét nghiệm phân; dẫn16-14 đúng."
+}

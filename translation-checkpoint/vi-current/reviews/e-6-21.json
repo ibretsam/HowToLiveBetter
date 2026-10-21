@@ -1,0 +1,15 @@
+{
+  "id": "e-6-21",
+  "source_sha256": "fefcefbfa96b79faf3449a6ce0df770381f8722cae4e61635d08a5afeaa70293",
+  "draft_sha256": "44d7868d8a0a3be71e0410e9883f2043f63d8e7fdeb033e8f37548025e5e2c11",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường. Giữ thử nghiệm nam có sỏi canxi oxalat tái phát và tăng canxi niệu vô căn; ba can thiệp đồng thời, mmol khác mg, số tái phát12/60 và23/60. Không suy thành bổ sung canxi cho mọi người; giữ hỏi bác sĩ và dẫn16-8."
+}

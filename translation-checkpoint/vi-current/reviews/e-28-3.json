@@ -1,0 +1,15 @@
+{
+  "id": "e-28-3",
+  "source_sha256": "fc0f3e90e672f18417efe925ee32bce9cb1ebec7c05268eb1f7e06c2e16cf121",
+  "draft_sha256": "d5656e35e66c68cd2c71b42676777e75c5136236d84146cc7a8f5e999c295b2e",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu tất cả vị trí, tỷ lệ tổn thương/hồi phục và khoảng thời gian thu thập ca bệnh. Giữ không có mẫu số tổng người tiêm, không thể tính nguy cơ cá nhân, chưa có cứu chữa ổn định và các biện pháp của cơ sở được đào tạo như nguồn."
+}

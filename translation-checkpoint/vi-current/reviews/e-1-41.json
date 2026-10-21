@@ -1,0 +1,15 @@
+{
+  "id": "e-1-41",
+  "source_sha256": "ba40406d8c7601dfa04ed926fbc970721ade6bf73810b10fa1caf3460e246bd8",
+  "draft_sha256": "cc2e3b21be03a7677bf6730093f4c277ad949b756435f773701f62a4ab636d9e",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu mọi ngưỡng độ dày, nhiệt độ, điều kiện băng mới trong so với băng trắng, địa lý và hướng dẫn cứu hộ nguồn. Giữ đơn vị thước/tấc trong plain so với foot/inch ở benefit, và mức tối thiểu không bảo đảm an toàn; đủ liên kết và số 110. Làm rõ thước/tấc thuộc hệ đo Trung Quốc để tránh nhầm đơn vị Việt Nam; không quy đổi số liệu nguồn."
+}

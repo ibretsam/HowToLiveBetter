@@ -1,0 +1,15 @@
+{
+  "id": "e-1-43",
+  "source_sha256": "2db94d01ef4d2182af4f6280f717c00c0a74c22586b0130d498e707507a09b1c",
+  "draft_sha256": "ba58694f19ed533e04dcf3357dc4b534bdce37572d72e2bb0737723009af4e77",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ thiết kế theo lớp, số mẫu và từng giá trị P, sự khác biệt ý nghĩ/hành vi/tự thương tích không nhằm chết, nguy cơ sai lệch và tổng quan. Giữ giới hạn bằng chứng không tăng ý nghĩ chứ không chứng minh giảm tử vong; áp dụng hỏi trực tiếp là suy luận, đủ liên kết và hành động nguồn."
+}

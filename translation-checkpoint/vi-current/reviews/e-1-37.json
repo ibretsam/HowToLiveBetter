@@ -1,0 +1,15 @@
+{
+  "id": "e-1-37",
+  "source_sha256": "c046df9876c81b8b7c5d65f37058bfaecce90d6d648eec146589ee07425a6b52",
+  "draft_sha256": "3a293978cd5d4d5866d1f1ed7188367b61b1b140cd5ccfc382b5d5a68141d231",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đầy đủ nhóm bệnh chuyên khoa, 2099 người, SMR và đính chính riêng nam/nữ, hotline Trung Quốc theo ngày và số giờ. Giữ khác biệt mức B nghiên cứu với mức C quản lý tiền và không áp nguy cơ cho mọi người chơi bài."
+}

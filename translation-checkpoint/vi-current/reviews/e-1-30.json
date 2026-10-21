@@ -1,0 +1,15 @@
+{
+  "id": "e-1-30",
+  "source_sha256": "bd17ab11fb15a92afeb4d82cbc534dea2c60248e5cf2fde2e91fa0ef6dead6de",
+  "draft_sha256": "852af569213c0fe2d1ab2ed550e0b30df22b9919f89056f160c4669b32d4779b",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu số cặp, RR/CI, dùng mọi lần/toàn bộ quá trình, giới hạn vết loét ngoài vùng che phủ. Giữ khác biệt ≥70% hiệu quả so với >bảy mươi phần trăm tuân thủ, PrEP có kê đơn và nhóm tuân thủ thấp không thấy bảo vệ; không tự sửa khẳng định nguồn."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-1-4",
+  "source_sha256": "d69426f90d24a44aed28261ea0e6ecc261c73fa8268ea47e67fbb96bca651e94",
+  "draft_sha256": "c2d7ccbb8807c5320088e57351a81d084a6f9f1a0282129974dc5b309b6ba663",
+  "reviewer": "root_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu đủ sáu trường; giữ nghĩa vụ thay theo niên hạn, quyền từ chối chào bán khác nghĩa vụ thay, cấp C do thiếu thống kê. Giữ thứ tự đóng van/thông gió/không bật tắt điện/rời nơi rồi gọi và điều khoản viết bằng chữ."
+}

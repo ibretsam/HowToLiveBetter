@@ -1,0 +1,15 @@
+{
+  "id": "e-1-44",
+  "source_sha256": "2ef93b04239106e6649fc0bc88a325c0bfd758ae756910869457cab05bbd7c55",
+  "draft_sha256": "39c658e4e96e8e0f06fc0671bf3b40ac96a0c0f702f7dae9070ad7f2dadf3036",
+  "reviewer": "pilot_medicine_batch7_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Đối chiếu toàn bộ sáu trường, số thử nghiệm/người và RR/HR/OR/CI, ngưỡng thời gian ECG, tuổi, điểm CHA2DS2-VASc-60 của Trung Quốc, chảy máu tuyệt đối so với hiệu quả tương đối. Giữ nguồn OR cho giảm tử vong, khác biệt sàng lọc người không triệu chứng với điều trị, số liệu thành thị/nông thôn và mọi liên kết chéo."
+}
