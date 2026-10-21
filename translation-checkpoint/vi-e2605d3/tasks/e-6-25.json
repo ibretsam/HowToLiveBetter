@@ -1,0 +1,35 @@
+{
+  "id": "e-6-25",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "d4e2aa26b8027fa78ccd76eb64d360659a232758963a9c838850b0ecd52eef7b",
+  "original": {
+    "number": 25,
+    "title": "不要相信「意志力像肌肉，用一会儿就没了」",
+    "fields": {
+      "cost": "不花钱。要改的只是一个说法。",
+      "plain": "流行的说法是：先做一件费自控的事，接下来就更容易破功，所以要省着用意志力。23 个实验室、2141 人按同一套方案重做了这个实验，结果几乎是零。别再用「今天意志力用完了」解释自己，也别为此花钱买教你攒意志力的课。",
+      "benefit": "一项多实验室预注册重复研究，有 23 个实验室、共 2141 名受试者参加。他们按 Sripada 等人的标准化方案重做了序贯任务范式：先做一件消耗自控的任务，再做第二件需要自控的任务。汇总结果显示自我损耗效应很小，而且 95% 可信区间包含 0（d = 0.04，95% CI −0.07 到 0.15）。作者据此讨论了「自控是有限资源」这一模型还成不成立。另一次同样事先登记方案的重做，36 个实验室、3531 人，效果大小 d = 0.06，同样小到不能算数。",
+      "grade": "A",
+      "sources": "Hagger MS, Chatzisarantis NLD, Alberts H, et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science, 11(4), 546–573. <https://doi.org/10.1177/1745691616652873>；Vohs et al. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science. <https://doi.org/10.1177/0956797621989733>",
+      "notes": "要否掉的是「自控是一种会被消耗完的资源」这个模型，不是否掉「人会累」。睡不够、连着干太久会让人效率下降，那是另一回事，按第 3 节的睡眠和工时几条处理。真正有随机试验支持的做法是改环境和改写法，见第 4 节第 10 条（把不想碰的挪远）和第 4 节第 1 条（写成「几点、在哪、遇到什么就做什么」）。把穿什么、吃什么固定下来仍然值得做，因为几乎不花成本。它省下的是那几分钟和几次纠结，不是意志力，别指望它让你下午判断得更好。本节其他条目算的是钱，这里算的是时间和精力，两者不做换算。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng tin “ý chí giống cơ bắp, dùng một lúc là cạn”",
+    "cost": "Không tốn tiền. Chỉ cần thay đổi một cách nói.",
+    "plain": "Quan niệm phổ biến cho rằng sau khi làm một việc cần tự chủ, ta dễ mất kiểm soát hơn trong việc tiếp theo, nên phải tiết kiệm ý chí. 23 phòng thí nghiệm với 2141 người lặp lại thí nghiệm theo cùng một quy trình, kết quả gần như bằng không. Đừng dùng câu “hôm nay hết ý chí rồi” để giải thích bản thân, cũng đừng trả tiền cho khóa học dạy tích trữ ý chí vì lý do này.",
+    "benefit": "Một nghiên cứu lặp lại đã đăng ký trước, thực hiện ở nhiều phòng thí nghiệm, có 23 phòng và tổng cộng 2141 người tham gia. Họ lặp lại mô hình nhiệm vụ nối tiếp theo quy trình chuẩn hóa của Sripada và cộng sự: làm một nhiệm vụ tiêu hao khả năng tự chủ rồi làm nhiệm vụ thứ hai cũng cần tự chủ. Kết quả tổng hợp cho thấy hiệu ứng suy kiệt khả năng tự chủ rất nhỏ, và khoảng tin cậy 95% chứa 0 (d = 0.04, 95% CI −0.07 đến 0.15). Từ đó tác giả bàn về việc mô hình “khả năng tự chủ là nguồn lực hữu hạn” còn đứng vững không. Một lần lặp lại khác cũng đăng ký trước quy trình, với 36 phòng thí nghiệm và 3531 người, cho kích thước hiệu ứng d = 0.06, cũng nhỏ đến mức không đáng kể.",
+    "notes": "Điều cần bác bỏ là mô hình “tự chủ là nguồn lực có thể dùng cạn”, không phải phủ nhận “con người biết mệt”. Thiếu ngủ hoặc làm liên tục quá lâu khiến hiệu suất giảm là chuyện khác; xử lý theo các mục về ngủ và giờ làm ở chương 3. Những cách thực sự có thử nghiệm ngẫu nhiên ủng hộ là thay đổi môi trường và cách viết kế hoạch, xem mục 10 chương 4 (Để xa những thứ không muốn đụng tới) và mục 1 chương 4 (Viết rõ “mấy giờ, ở đâu, gặp tình huống gì thì làm gì”). Cố định chuyện mặc gì, ăn gì vẫn đáng làm vì gần như không tốn chi phí. Điều tiết kiệm được là vài phút và vài lần đắn đo, không phải ý chí; đừng trông chờ nó giúp bạn phán đoán tốt hơn vào buổi chiều. Các mục khác trong chương tính bằng tiền, mục này tính bằng thời gian và công sức, không quy đổi hai thứ cho nhau.",
+    "extra": ""
+  }
+}

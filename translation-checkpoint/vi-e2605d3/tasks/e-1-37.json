@@ -1,0 +1,35 @@
+{
+  "id": "e-1-37",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "c046df9876c81b8b7c5d65f37058bfaecce90d6d648eec146589ee07425a6b52",
+  "original": {
+    "number": 37,
+    "title": "赌到借钱还赌、心情一直低落时，先打 12356，再把银行卡和支付密码交给家人管",
+    "fields": {
+      "cost": "不花钱。打一个电话。把银行卡、支付密码和借贷 App 交给家人管。难在要先承认自己控制不住。",
+      "plain": "瑞典去专科看过赌博问题的人，自杀死亡是同龄人的 15 倍，总死亡是 1.8 倍。能预先看出谁会自杀的信号是抑郁。所以赌到借钱还赌、情绪一直低落，先打 12356。",
+      "benefit": "瑞典一项全国登记研究，找出 2005 到 2016 年在专科被诊断为赌博障碍的 2099 人。赌博障碍就是控制不住地赌、赌到影响生活。和同龄的瑞典人比，20 到 74 岁这些人的总死亡率是 1.8 倍，自杀死亡率是 15 倍（这两个数是标准化死亡比 SMR）。随访期间 67 人死亡，其中 21 人死于自杀。能预测自杀死亡的是抑郁。作者 2023 年发了更正：男性自杀是 12.1 倍，女性是 16.1 倍。中国从 2025 年 5 月 1 日起，全国拨 12356 能接通心理援助热线，每天开通不少于 18 小时（瑞典 / 全国）",
+      "grade": "B",
+      "sources": "Karlsson A, Håkansson A. (2018). Gambling disorder, increased mortality, suicidality, and associated comorbidity: A longitudinal nationwide register study. Journal of Behavioral Addictions, 7(4), 1091–1099. <https://doi.org/10.1556/2006.7.2018.112>；Karlsson A, Håkansson A. (2023). Corrigendum to: Gambling disorder, increased mortality, suicidality, and associated comorbidity. Journal of Behavioral Addictions, 12(1), 302. <https://doi.org/10.1556/2006.2023.10000>；国家卫生健康委 (2024). 关于应用\"12356\"全国统一心理援助热线电话号码的通知（国卫医政函〔2024〕259 号）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm>",
+      "notes": "给 B 是因为只有一项研究，而且只算了去专科看过病的人。这些人病情偏重，所以 15 倍不能套到所有打牌的人身上。把钱交给家人管是经验做法，没有直接研究，单算是 C 级。赌博的法律红线见第 9 节第 13 条（不抽头、不玩网络赌博）。家里人欠了赌债该不该替他还，见第 8 节第 44 条（赌债不算夫妻共同债务）。自杀念头冒出来之后怎么办，见本节第 32 条（先告诉身边的一个人）。受益人主要是你自己，家人发现苗头时也可以拉着他照这条办。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đánh bạc đến mức vay tiền vẫn chơi, tâm trạng liên tục xuống thấp thì gọi 12356 trước, rồi giao thẻ ngân hàng và mật khẩu thanh toán cho người nhà quản lý",
+    "cost": "Không tốn tiền. Gọi một cuộc điện thoại. Giao thẻ ngân hàng, mật khẩu thanh toán và ứng dụng vay tiền cho người nhà quản lý. Khó ở việc trước tiên thừa nhận mình không kiểm soát được.",
+    "plain": "Ở Thụy Điển, người từng khám chuyên khoa vì vấn đề cờ bạc có tử vong do tự sát gấp 15 lần người cùng tuổi, tử vong chung gấp 1.8 lần. Dấu hiệu có thể dự báo ai sẽ tự sát là trầm cảm. Vì vậy, nếu đánh bạc đến mức vay tiền vẫn chơi, tâm trạng liên tục xuống thấp thì gọi 12356 trước.",
+    "benefit": "Một nghiên cứu đăng ký toàn quốc Thụy Điển xác định 2099 người được chẩn đoán rối loạn cờ bạc tại chuyên khoa từ năm 2005 đến 2016. Rối loạn cờ bạc là không kiểm soát được việc đánh bạc, chơi đến mức ảnh hưởng cuộc sống. So với người Thụy Điển cùng tuổi, nhóm này ở độ tuổi 20 đến 74 có tỷ lệ tử vong chung gấp 1.8 lần, tử vong do tự sát gấp 15 lần; đây là hai tỷ số tử vong chuẩn hóa SMR. Trong thời gian theo dõi, 67 người chết, trong đó 21 người do tự sát. Trầm cảm là yếu tố dự báo tử vong do tự sát. Năm 2023, tác giả công bố đính chính: tử vong do tự sát ở nam gấp 12.1 lần, nữ gấp 16.1 lần. Từ ngày 1 tháng 5 năm 2025, trên toàn Trung Quốc có thể gọi 12356 để kết nối đường dây hỗ trợ tâm lý, hoạt động không dưới 18 giờ mỗi ngày (Thụy Điển / toàn Trung Quốc).",
+    "notes": "Xếp mức B vì chỉ có một nghiên cứu và chỉ tính người từng khám chuyên khoa. Bệnh của những người này thiên về mức nặng, nên không thể áp con số 15 lần cho tất cả người chơi bài. Giao tiền cho người nhà quản lý là cách làm theo kinh nghiệm, chưa có nghiên cứu trực tiếp; tính riêng là mức C. Giới hạn pháp luật về cờ bạc xem phần 9 mục 13 (không thu tiền xâu, không đánh bạc trên mạng). Có nên trả nợ cờ bạc thay người nhà xem phần 8 mục 44 (nợ cờ bạc không phải nợ chung vợ chồng). Làm gì sau khi xuất hiện ý nghĩ tự sát xem mục 32 phần này (nói ngay với một người bên cạnh). Người hưởng lợi chủ yếu là bạn; người nhà thấy dấu hiệu cũng có thể cùng người đó làm theo mục này.",
+    "extra": ""
+  }
+}

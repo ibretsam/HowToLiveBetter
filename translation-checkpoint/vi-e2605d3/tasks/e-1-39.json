@@ -1,0 +1,36 @@
+{
+  "id": "e-1-39",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "08299e2896e799adcb508310862075d6b52ad470d38b5b095c2884d0dbc0c2f5",
+  "original": {
+    "number": 39,
+    "title": "65 岁以上的女性去做一次双能 X 线骨密度检查，绝经后有骨质疏松危险因素的不用等到 65 岁",
+    "fields": {
+      "cost": "去医院做一次双能 X 线骨密度检查（简称 DXA），查腰椎和髋部，躺着几分钟就做完。自费一般一两百元，各地价格不同。体检里踩一脚的跟骨超声只能初筛，不能确诊。",
+      "plain": "65 岁以上的女性，以及绝经后有骨质疏松危险因素的女性，该去查一次骨密度。先查风险、再给高风险的人用药，髋部骨折能少约 17%。折算下来，每 1000 个去查的人里，约少 5 人髋部骨折。总死亡率没有看出变化。",
+      "benefit": "美国预防服务工作组 2025 年发的推荐是：65 岁及以上的女性做骨质疏松筛查（B 级推荐）。绝经后、不到 65 岁、但按风险评估骨折风险高的女性，也推荐筛查（B 级）。男性证据不足，没有表态。给这份推荐做的证据综述合并了 3 项随机试验、42009 名欧洲老年女性。筛查的做法是先评估骨折风险，风险高的再查骨密度，查出高风险就用药。筛查组髋部骨折低约 17%。原值 RR 0.83，可信范围 95% CI 0.73 到 0.93。折成绝对数，每 1000 人筛查少 5 例髋部骨折。其中英国 SCOOP 试验找了 12483 名 70 到 85 岁的女性，筛查组髋部骨折低约 28%（HR 0.72，95% CI 0.59 到 0.89），死亡率没有看出差别。中华医学会 2017 年版诊疗指南建议：女性 65 岁以上、男性 70 岁以上做骨密度检查。不到这个年龄、但有一个或多个骨质疏松危险因素的，也建议查。2017 到 2018 年的全国调查里，40 岁以上女性骨质疏松的患病率是 20.6%，男性是 5.0%（中国）",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force, Nicholson WK, Silverstein M, et al. (2025). Screening for Osteoporosis to Prevent Fractures: US Preventive Services Task Force Recommendation Statement. JAMA. <https://doi.org/10.1001/jama.2024.27154> ; Kahwati LC, Kistler CE, Booth G, et al. (2025). Screening for Osteoporosis to Prevent Fractures: A Systematic Evidence Review for the US Preventive Services Task Force. JAMA. <https://doi.org/10.1001/jama.2024.21653> ; Shepstone L, Lenaghan E, Cooper C, et al. (2018). Screening in the community to reduce fractures in older women (SCOOP): a randomised controlled trial. The Lancet. <https://doi.org/10.1016/S0140-6736(17)32640-5> ; 中华医学会骨质疏松和骨矿盐疾病分会 (2017). 原发性骨质疏松症诊疗指南(2017). 中华骨质疏松和骨矿盐疾病杂志, 10(5), 413-443（表 5 骨密度测量的临床指征）. <https://html.rhhz.net/GUSS/html/cc825127-29a3-47c1-9a95-7a212fdcce55.htm> ; Wang L, Yu W, Yin X, et al. (2021). Prevalence of Osteoporosis and Fracture in China: The China Osteoporosis Prevalence Study. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2021.21106>",
+      "notes": "争议：SCOOP 事先定的主要结果是所有骨质疏松性骨折。筛查组并没有明显减少（HR 0.94，95% CI 0.85 到 1.03），少的只是髋部骨折。三项试验都是「先评估风险、再查骨密度」，没有一项单独比较只查骨密度。证据综述还估计，查出来的人里有 11.8% 到 24.1% 属于过度诊断，也就是这辈子本来不会因此骨折的人。男性要不要查，美国说证据不足，中国指南定在 70 岁以上，按医生的建议走。这条管的是骨头经不经得起摔，少摔一跤靠第 13 条（平衡和腿部力量），两条一起做。查出骨质疏松之后怎么办，见第 40 条（查出骨质疏松就用药）。受益人主要是你自己，也包括你的父母。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "女性+35岁,老人"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Phụ nữ từ 65 tuổi trở lên nên đo mật độ xương bằng tia X năng lượng kép; sau mãn kinh có yếu tố nguy cơ loãng xương thì không cần đợi đến 65 tuổi",
+    "cost": "Đến bệnh viện đo mật độ xương bằng tia X năng lượng kép, viết tắt DXA, ở cột sống thắt lưng và vùng háng, nằm vài phút là xong. Tự trả thường một hai trăm nhân dân tệ, giá khác nhau theo nơi. Siêu âm gót chân bằng cách đặt chân lên máy khi khám sức khỏe chỉ để sàng lọc ban đầu, không thể chẩn đoán xác định.",
+    "plain": "Phụ nữ từ 65 tuổi trở lên và phụ nữ sau mãn kinh có yếu tố nguy cơ loãng xương nên đo mật độ xương. Đánh giá nguy cơ trước rồi dùng thuốc cho người nguy cơ cao có thể giảm gãy xương vùng háng khoảng 17%. Quy đổi ra, mỗi 1000 người đi sàng lọc giảm khoảng 5 người gãy xương vùng háng. Không thấy thay đổi tỷ lệ tử vong chung.",
+    "benefit": "Khuyến nghị năm 2025 của Lực lượng Đặc nhiệm Dịch vụ dự phòng Mỹ: phụ nữ từ 65 tuổi trở lên nên sàng lọc loãng xương, khuyến nghị mức B. Phụ nữ sau mãn kinh chưa đến 65 tuổi nhưng được đánh giá có nguy cơ gãy xương cao cũng được khuyến nghị sàng lọc, mức B. Với nam giới, bằng chứng chưa đủ nên không đưa kết luận. Tổng quan bằng chứng phục vụ khuyến nghị này gộp 3 thử nghiệm ngẫu nhiên với 42009 phụ nữ cao tuổi châu Âu. Sàng lọc bằng cách đánh giá nguy cơ gãy xương trước, người nguy cơ cao được đo mật độ xương, xác định nguy cơ cao thì dùng thuốc. Nhóm sàng lọc có gãy xương vùng háng thấp hơn khoảng 17%, giá trị gốc RR 0.83, khoảng tin cậy 95% CI 0.73 đến 0.93. Quy đổi tuyệt đối, mỗi 1000 người sàng lọc giảm 5 ca gãy xương vùng háng. Trong đó, thử nghiệm SCOOP ở Anh tuyển 12483 phụ nữ tuổi 70 đến 85; nhóm sàng lọc có gãy xương vùng háng thấp hơn khoảng 28% (HR 0.72, 95% CI 0.59 đến 0.89), không thấy khác biệt tử vong. Hướng dẫn chẩn đoán điều trị năm 2017 của Hội Y học Trung Hoa khuyến nghị đo mật độ xương cho nữ từ 65 tuổi, nam từ 70 tuổi trở lên. Chưa đến tuổi này nhưng có một hoặc nhiều yếu tố nguy cơ loãng xương cũng được khuyến nghị đo. Khảo sát toàn quốc năm 2017 đến 2018 cho thấy tỷ lệ hiện mắc loãng xương ở phụ nữ từ 40 tuổi trở lên là 20.6%, nam là 5.0% (Trung Quốc).",
+    "notes": "Điểm còn tranh luận: kết quả chính được xác định trước của SCOOP là tất cả gãy xương do loãng xương. Nhóm sàng lọc không giảm rõ rệt kết quả này (HR 0.94, 95% CI 0.85 đến 1.03), chỉ giảm gãy xương vùng háng. Cả ba thử nghiệm đều đánh giá nguy cơ trước rồi đo mật độ xương, không thử nghiệm nào so sánh riêng việc chỉ đo mật độ xương. Tổng quan còn ước tính 11.8% đến 24.1% người được phát hiện thuộc diện chẩn đoán quá mức, tức vốn cả đời sẽ không gãy xương vì tình trạng này. Nam giới có nên kiểm tra không: Mỹ nói bằng chứng chưa đủ, hướng dẫn Trung Quốc đặt mốc từ 70 tuổi trở lên, nên làm theo bác sĩ. Mục này nói xương có chịu được ngã hay không; giảm ngã dựa vào mục 13 (thăng bằng và sức mạnh chân), thực hiện cả hai. Làm gì sau phát hiện loãng xương xem mục 40 (phát hiện loãng xương thì dùng thuốc). Người hưởng lợi chủ yếu là bạn, cũng gồm cha mẹ bạn.",
+    "extra": ""
+  }
+}

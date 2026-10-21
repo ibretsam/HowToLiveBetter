@@ -1,0 +1,36 @@
+{
+  "id": "e-1-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "5923bd278e61da928a60ae8fd80231e96e9f367d32de0d2d630e83bce5ba5b35",
+  "original": {
+    "number": 18,
+    "title": "30 岁以上女性做宫颈癌筛查，优先 HPV 检测",
+    "fields": {
+      "cost": "HPV 检测一次 100 到 300 元。结果阴性的，5 年查一次就行。取样几分钟。",
+      "plain": "印度农村那项试验里，只做过一次 HPV 检测的女性，死于宫颈癌的概率低约一半。查出晚期宫颈癌的概率也低约五成。一次一两百块，按美国的推荐每 5 年查一次。",
+      "benefit": "印度农村那项试验按群体随机分组，不是按个人分组。对象是 30 到 59 岁的女性。只做一次 HPV 检测筛查，死于宫颈癌的风险就低约 48%。原值 HR 0.52，可信范围 95% CI 0.33 到 0.83。查出晚期宫颈癌的风险低约 53%（HR 0.47，95% CI 0.32 到 0.69）。查的间隔看美国预防服务工作组 2018 年的推荐：30 到 65 岁的女性，单做高危型 HPV 检测的，每 5 年查一次",
+      "grade": "A",
+      "sources": "Sankaranarayanan R 等 (2009). HPV screening for cervical cancer in rural India. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa0808516>；US Preventive Services Task Force (2018). Cervical Cancer: Screening：「For women aged 30 to 65 years, the USPSTF recommends screening every 3 years with cervical cytology alone, every 5 years with high-risk human papillomavirus (hrHPV) testing alone, or every 5 years with hrHPV testing in combination with cytology (cotesting).」<https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening>",
+      "notes": "打过 HPV 疫苗的人也要筛查，因为疫苗盖不住全部的病毒型别。这项研究少见的地方是：它是随机分组的筛查试验，直接拿死亡人数当结果，而且只筛了一轮。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "女性"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Phụ nữ từ 30 tuổi trở lên sàng lọc ung thư cổ tử cung, ưu tiên xét nghiệm HPV",
+    "cost": "Xét nghiệm HPV mỗi lần tốn 100 đến 300 nhân dân tệ. Nếu kết quả âm tính thì cứ 5 năm xét nghiệm một lần là được. Lấy mẫu mất vài phút.",
+    "plain": "Trong thử nghiệm ở nông thôn Ấn Độ, phụ nữ chỉ làm xét nghiệm HPV một lần có xác suất tử vong do ung thư cổ tử cung thấp hơn khoảng một nửa. Xác suất được phát hiện mắc ung thư cổ tử cung giai đoạn muộn cũng thấp hơn khoảng năm mươi phần trăm. Mỗi lần tốn một đến hai trăm nhân dân tệ; theo khuyến nghị của Mỹ thì cứ 5 năm xét nghiệm một lần.",
+    "benefit": "Thử nghiệm ở nông thôn Ấn Độ phân nhóm ngẫu nhiên theo cụm, không phải theo từng cá nhân. Đối tượng là phụ nữ từ 30 đến 59 tuổi. Chỉ sàng lọc bằng xét nghiệm HPV một lần, nguy cơ tử vong do ung thư cổ tử cung đã thấp hơn khoảng 48%. Giá trị gốc là HR 0.52, khoảng tin cậy 95% CI 0.33 đến 0.83. Nguy cơ được phát hiện mắc ung thư cổ tử cung giai đoạn muộn thấp hơn khoảng 53% (HR 0.47, 95% CI 0.32 đến 0.69). Về khoảng cách giữa các lần xét nghiệm, theo khuyến nghị năm 2018 của Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ: phụ nữ từ 30 đến 65 tuổi chỉ làm xét nghiệm HPV nguy cơ cao thì xét nghiệm mỗi 5 năm một lần.",
+    "notes": "Người đã tiêm vắc xin HPV cũng phải sàng lọc, vì vắc xin không bao phủ hết các týp virus. Điểm hiếm có của nghiên cứu này là: đây là thử nghiệm sàng lọc phân nhóm ngẫu nhiên, lấy trực tiếp số người tử vong làm kết quả, và chỉ sàng lọc một vòng.",
+    "extra": ""
+  }
+}

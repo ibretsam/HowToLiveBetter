@@ -1,0 +1,35 @@
+{
+  "id": "e-29-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "4037cae99fe1da404dc2505136d3732b7b02b02e11bc927a38ef3a3f8990d99e",
+  "original": {
+    "number": 5,
+    "title": "丧偶后的头半年，把三餐、睡觉、慢性病的药和复查交给一个固定的人盯着",
+    "fields": {
+      "cost": "不花钱。找一个具体的人，子女、兄弟姐妹或者朋友都行，让他定期上门或者打电话。难在要开口把这件事托付出去。",
+      "plain": "丧偶后不到半年，同期死亡的概率比没丧偶的人高约四成。半年以后降到高约一成半。男性高约两成三，女性那一档小到可能只是巧合。该做的是把药、饭和复查落到一个具体的人身上，别指望自己记得住。",
+      "benefit": "15 项先登记再往后跟踪的研究、2,263,888 人合起来算。丧偶不足 6 个月时死亡 RR 1.41（95% CI 1.26–1.57），即同期死亡概率比没丧偶的人高约四成。6 个月以后是 1.14（1.10–1.18），降到高约一成半。男性 RR 1.23（1.18–1.28），高约两成三。女性 1.04（1.00–1.08，无统计学意义，即这点差可能只是巧合）。小于 65 岁与 65 岁以上没看出明显差别。另一项分析合并了 123 篇文献、1377 个风险估计、逾 5 亿人。把条件差异扣平后 HR 1.23（1.19–1.28），即整体高约两成三。男性还高于女性。男性 1.27（1.19–1.35），高两成七。女性 1.15（1.08–1.22），高一成五",
+      "grade": "A",
+      "sources": "Moon JR, et al. (2011). Widowhood and mortality: a meta-analysis. PLoS ONE. <https://doi.org/10.1371/journal.pone.0023465>；Shor E, et al. (2012). Widowhood and mortality: a meta-analysis and meta-regression. Demography. <https://doi.org/10.1007/s13524-012-0096-x>",
+      "notes": "这是回头翻人群数据的研究，别的因素掺进来去不掉。夫妻的生活方式和疾病本来就相似。「头半年比之后高得多」是第一份汇总按丧偶时间分段算出来的。第二份没有按丧偶时间分段，只按研究跟了多久分。只跟 6 个月的研究合起来 HR 1.58（1.32–1.88），跟 16 到 20 年的是 1.22（1.02–1.47）。作者据此认为丧偶后头几年风险最高，但也写明多数研究开始跟踪时并不是刚丧偶。两份的方向一致，所以值得把头半年当成一段照看窗口。男性风险更高，也更少开口求助。家里有丧偶老人的，按第 17 节把账户、监护和遗嘱一并理清。找不到这样一个人的（独居、失独、子女也不在了），把这件事交给社区和手机，见本节第 6 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trong nửa năm đầu sau khi mất bạn đời, nhờ một người cố định theo dõi ba bữa ăn, giấc ngủ, thuốc bệnh mạn tính và lịch tái khám",
+    "cost": "Không tốn tiền. Tìm một người cụ thể, có thể là con, anh chị em hoặc bạn bè, nhờ họ định kỳ đến nhà hay gọi điện. Khó nhất là mở lời nhờ người khác lo việc này.",
+    "plain": "Trong chưa đầy nửa năm sau khi mất bạn đời, xác suất tử vong cùng kỳ cao hơn khoảng bốn mươi phần trăm so với người chưa mất bạn đời. Sau nửa năm giảm còn cao hơn khoảng mười lăm phần trăm. Nam cao hơn khoảng hai mươi ba phần trăm; mức tăng ở nữ nhỏ đến mức có thể chỉ là ngẫu nhiên. Việc cần làm là giao chuyện thuốc, ăn uống và tái khám cho một người cụ thể, đừng trông chờ mình tự nhớ được.",
+    "benefit": "Tổng hợp 15 nghiên cứu ghi nhận người tham gia trước rồi theo dõi về sau, với 2,263,888 người. Khi mất bạn đời chưa đủ 6 tháng, RR tử vong là 1.41 (95% CI 1.26–1.57), tức xác suất tử vong cùng kỳ cao hơn khoảng bốn mươi phần trăm so với người chưa mất bạn đời. Sau 6 tháng là 1.14 (1.10–1.18), giảm còn cao hơn khoảng mười lăm phần trăm. Ở nam, RR 1.23 (1.18–1.28), cao hơn khoảng hai mươi ba phần trăm. Ở nữ là 1.04 (1.00–1.08, không có ý nghĩa thống kê, tức chênh lệch nhỏ này có thể chỉ là ngẫu nhiên). Không thấy khác biệt rõ giữa nhóm dưới 65 tuổi và nhóm từ 65 tuổi trở lên. Một phân tích khác gộp 123 tài liệu, 1377 ước tính nguy cơ và hơn 5 trăm triệu người. Sau khi điều chỉnh chênh lệch về điều kiện, HR là 1.23 (1.19–1.28), tức nhìn chung cao hơn khoảng hai mươi ba phần trăm. Nam vẫn cao hơn nữ. Nam là 1.27 (1.19–1.35), cao hơn hai mươi bảy phần trăm; nữ là 1.15 (1.08–1.22), cao hơn mười lăm phần trăm.",
+    "notes": "Đây là nghiên cứu nhìn lại dữ liệu dân số, không loại hết được ảnh hưởng của các yếu tố khác. Vợ chồng vốn đã có lối sống và bệnh tật tương tự nhau. Kết quả “nửa năm đầu cao hơn nhiều so với sau đó” là do tổng quan thứ nhất chia theo thời gian kể từ khi mất bạn đời để tính. Tổng quan thứ hai không chia theo thời gian mất bạn đời mà chỉ theo thời gian nghiên cứu theo dõi. Gộp các nghiên cứu chỉ theo dõi 6 tháng thì HR là 1.58 (1.32–1.88); theo dõi 16 đến 20 năm thì là 1.22 (1.02–1.47). Từ đó, tác giả cho rằng nguy cơ cao nhất trong vài năm đầu sau khi mất bạn đời, nhưng cũng nói rõ rằng phần lớn nghiên cứu không bắt đầu theo dõi ngay lúc vừa mất bạn đời. Hai tổng quan cùng hướng, nên đáng coi nửa năm đầu là một giai đoạn cần có người chăm nom. Nam giới có nguy cơ cao hơn và cũng ít mở lời nhờ giúp hơn. Nếu trong nhà có người cao tuổi mất bạn đời, hãy theo chương 17 để làm rõ cả tài khoản, giám hộ và di chúc. Nếu không tìm được người như vậy (sống một mình, mất con duy nhất hoặc các con đều đã mất), hãy nhờ cộng đồng và điện thoại hỗ trợ việc này; xem mục 6 của chương này.",
+    "extra": ""
+  }
+}

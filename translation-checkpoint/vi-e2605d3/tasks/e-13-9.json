@@ -1,0 +1,35 @@
+{
+  "id": "e-13-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "ea49e1e493e1a2815aa9ecf02a34bd580b9f87e1ea3cbf76166deb1ecf835073",
+  "original": {
+    "number": 9,
+    "title": "突然一记「这辈子最疼的头痛」，一小时内就到最疼，立刻去急诊做头颅 CT",
+    "fields": {
+      "cost": "看急诊本身不花什么钱。急诊做一次头颅 CT 几百元。",
+      "plain": "要看的是多快疼到最厉害，一小时内疼到顶的剧烈头痛，约 6% 是脑表面的血管破了。40 岁以上、脖子痛或发硬、有人看到你晕过去，中一条就去急诊做头颅 CT。活动中起病、瞬间炸开、脖子往前低不下去，也算。去查的人大多没事，但漏掉的话可能再出血。",
+      "benefit": "加拿大 10 家急诊对 2131 例「一小时内达到最痛的剧烈头痛」做了前瞻队列研究，事先定好标准，再一路跟踪记录。其中 132 例（6.2%）是蛛网膜下腔出血（脑表面的血管破了）。渥太华 SAH 规则有六条：40 岁及以上、脖子痛或者发硬、有人看到晕过去。另外三条是活动中发作、一下子炸开式发作、医生查体时脖子前屈受限。符合任一条就要查。这条规则把出血的人全都挑了出来，敏感性 100%，95% CI 97.2%–100.0%（可信范围）。代价是没出血的人里只有 15.3% 被它排除掉（特异性 15.3%）",
+      "grade": "A",
+      "sources": "Perry JJ, Stiell IG, Sivilotti MLA, et al. (2013). Clinical decision rules to rule out subarachnoid hemorrhage for acute headache. JAMA, 310(12), 1248-1255. <https://doi.org/10.1001/jama.2013.278018>",
+      "notes": "要看的不是「有多疼」，是「多快到最疼」，几秒到一分钟内炸开的头痛才是危险信号，慢慢加重的偏头痛不是。伴呕吐、脖子发硬、怕光、短暂晕厥，更要当回事。特异性只有 15.3%，意思是按这条去查的人绝大多数查完没事。但漏掉了可能再出一次血，值得查。不要吃片止痛药压下去接着睡"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đột ngột bị “cơn đau đầu tệ nhất đời”, đạt mức đau nhất trong vòng một giờ: đi cấp cứu chụp CT đầu ngay",
+    "cost": "Bản thân việc khám cấp cứu không tốn bao nhiêu. Một lần chụp CT đầu tại cấp cứu tốn vài trăm nhân dân tệ.",
+    "plain": "Cần xem cơn đau đạt mức dữ dội nhất nhanh đến đâu; trong các cơn đau đầu dữ dội đạt đỉnh trong vòng một giờ, khoảng 6% là do mạch máu trên bề mặt não vỡ. Từ 40 tuổi trở lên, đau hoặc cứng cổ, có người chứng kiến bạn ngất: chỉ cần một dấu hiệu thì đi cấp cứu chụp CT đầu. Khởi phát khi đang hoạt động, đau bùng lên ngay tức thì hoặc không cúi cổ về trước được cũng tính. Phần lớn người đi kiểm tra không có vấn đề, nhưng nếu bỏ sót thì có thể chảy máu lại.",
+    "benefit": "10 khoa cấp cứu ở Canada thực hiện nghiên cứu đoàn hệ tiến cứu trên 2131 ca “đau đầu dữ dội đạt mức đau nhất trong vòng một giờ”: định trước tiêu chuẩn rồi theo dõi, ghi nhận. Trong đó, 132 ca (6.2%) là xuất huyết dưới nhện, tức mạch máu trên bề mặt não bị vỡ. Quy tắc Ottawa SAH gồm sáu tiêu chí: từ 40 tuổi trở lên, đau hoặc cứng cổ, có người chứng kiến ngất. Ba tiêu chí còn lại là khởi phát khi đang hoạt động, khởi phát đột ngột như bùng nổ và bác sĩ khám thấy hạn chế gập cổ về trước. Đáp ứng bất kỳ tiêu chí nào thì cần kiểm tra. Quy tắc này nhận diện được toàn bộ người bị xuất huyết, độ nhạy 100%, 95% CI 97.2%–100.0% (khoảng tin cậy). Đổi lại, trong những người không xuất huyết, quy tắc chỉ loại trừ được 15.3% (độ đặc hiệu 15.3%).",
+    "notes": "Điều cần xem không phải “đau đến mức nào” mà là “đạt mức đau nhất nhanh đến đâu”. Đau đầu bùng lên trong vài giây đến một phút mới là tín hiệu nguy hiểm; đau nửa đầu tăng dần thì không phải. Kèm nôn, cứng cổ, sợ ánh sáng hoặc ngất thoáng qua thì càng phải coi trọng. Độ đặc hiệu chỉ 15.3% nghĩa là đại đa số người đi kiểm tra theo quy tắc này cuối cùng không có vấn đề. Nhưng bỏ sót có thể dẫn đến một lần chảy máu nữa, nên đáng kiểm tra. Đừng uống một viên giảm đau để đè triệu chứng xuống rồi ngủ tiếp.",
+    "extra": ""
+  }
+}

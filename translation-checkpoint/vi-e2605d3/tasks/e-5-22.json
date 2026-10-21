@@ -1,0 +1,35 @@
+{
+  "id": "e-5-22",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "b511d2f944bd9acf7db2de5c784fafee73e7d507aefa77fe3db02c00564c668a",
+  "original": {
+    "number": 22,
+    "title": "交预付款要签书面合同；商家出风险要停收，跑路前你有权要回未消费的余额",
+    "fields": {
+      "cost": "不花钱。难的是当场坚持要一份书面合同，不接受「先充了再说」。",
+      "plain": "商家收你的预付款，必须和你签书面合同，写清楚怎么退。商家经营出了大问题，就该停止收钱，要停业或搬走也得提前告诉你。这时你可以要它接着提供服务，或者把没花完的余额退给你。商家违反这些规定，可以被罚款。",
+      "benefit": "条例规定，商家收预付款必须订立书面合同，并且在合同里约定退款方式。商家出现重大经营风险的，应当停止收取预付款。商家决定停业或者搬迁的，应当提前告知消费者。消费者有权要求它继续履行，或者退还没消费完的余额。违反的，可以处违法所得 1 到 10 倍的罚款；没有违法所得的，处 50 万元以下罚款",
+      "grade": "A",
+      "sources": "国务院 (2024). 中华人民共和国消费者权益保护法实施条例（国务院令第 778 号，2024 年 7 月 1 日施行）. <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm> 第二十二条：「经营者以收取预付款方式提供商品或者服务的，应当与消费者订立书面合同，约定商品或者服务的具体内容、价款或者费用、预付款退还方式、违约责任等事项。」「经营者未按照约定提供商品或者服务的，应当按照消费者的要求履行约定或者退还预付款。」「经营者出现重大经营风险，有可能影响经营者按照合同约定或者交易习惯正常提供商品或者服务的，应当停止收取预付款。经营者决定停业或者迁移服务场所的，应当提前告知消费者……消费者……有权要求经营者继续履行提供商品或者服务的义务，或者要求退还未消费的预付款余额。」；第五十条第二款：「经营者违反本条例第二十二条规定的，由有关行政部门责令改正，可以根据情节单处或者并处警告、没收违法所得、处以违法所得1倍以上10倍以下的罚款，没有违法所得的，处以50万元以下的罚款」",
+      "notes": "条例给的是事后打官司的依据，事前防不住。商家真跑了，钱多半已经不在账上了。所以先按本节「健身房按次付费或短周期付费」那条少充一点，真出事了再靠这个条例去维权。同一个条例第二十七条还规定，商家收押金必须事先约定好退还的方式、程序和时限，不得对退还设置不合理的条件。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trả trước phải ký hợp đồng bằng văn bản; bên kinh doanh gặp rủi ro phải ngừng thu, trước khi họ bỏ trốn bạn có quyền đòi lại số dư chưa dùng",
+    "cost": "Không tốn tiền. Cái khó là kiên quyết đòi hợp đồng bằng văn bản ngay tại chỗ, không chấp nhận “cứ nạp trước rồi tính”.",
+    "plain": "Bên kinh doanh thu tiền trả trước phải ký hợp đồng bằng văn bản với bạn, ghi rõ cách hoàn tiền. Khi kinh doanh có vấn đề lớn, họ phải ngừng thu; định ngừng hoạt động hoặc chuyển đi cũng phải báo trước. Khi đó, bạn có thể yêu cầu tiếp tục cung cấp dịch vụ hoặc hoàn số dư chưa dùng. Vi phạm các quy định này có thể bị phạt tiền.",
+    "benefit": "Quy định yêu cầu bên kinh doanh thu tiền trả trước phải ký hợp đồng bằng văn bản và thỏa thuận cách hoàn tiền trong hợp đồng. Có rủi ro kinh doanh nghiêm trọng thì phải ngừng thu tiền trả trước. Quyết định ngừng hoạt động hoặc chuyển địa điểm thì phải báo trước cho người tiêu dùng. Người tiêu dùng có quyền yêu cầu tiếp tục thực hiện hợp đồng hoặc hoàn số dư chưa dùng. Vi phạm có thể bị phạt từ 1 đến 10 lần khoản thu trái pháp luật; không có khoản thu trái pháp luật thì phạt không quá 50 vạn nhân dân tệ.",
+    "notes": "Quy định cung cấp căn cứ kiện sau sự việc, không ngăn được từ trước. Khi bên kinh doanh thực sự bỏ trốn, tiền phần lớn đã không còn trong tài khoản. Vì vậy, trước hết nạp ít theo mục “Trả phí phòng gym theo lượt hoặc kỳ ngắn” của chương này; xảy ra chuyện rồi mới dùng quy định để bảo vệ quyền lợi. Điều hai mươi bảy của cùng quy định còn yêu cầu bên kinh doanh nhận tiền đặt cọc bảo đảm phải thỏa thuận trước cách thức, trình tự và thời hạn hoàn, không được đặt điều kiện hoàn bất hợp lý.",
+    "extra": ""
+  }
+}

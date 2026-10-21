@@ -1,0 +1,35 @@
+{
+  "id": "e-2-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "e8e085b68d8ffedf35086a91bfaa3f6ba04806d2b3c014464e1fde87d043828d",
+  "original": {
+    "number": 15,
+    "title": "把爬楼梯、快走赶路这类零碎的用力活动攒到每天四五分钟",
+    "fields": {
+      "cost": "不花钱，也不用额外挤出锻炼时间。难在要记着走楼梯、走快些，别图省事。",
+      "plain": "平时完全不锻炼的人，只要每天有三次一两分钟的用力活动，同期死亡的概率就比一点没有的人低约四成，心血管死亡低近一半。用力活动指爬楼梯、快步赶路这类。",
+      "benefit": "英国生物银行有一项研究，对象是 2.52 万名平时不专门锻炼的人。平均跟踪 6.9 年，其中 852 人去世。有的人每天有 3 次、每次 1–2 分钟的零碎剧烈活动。和完全没有的人比，他们的死亡风险和癌症死亡风险降低 38%–40%。心血管死亡风险降低 48%–49%。每天这类活动累计 4.4 分钟的人，死亡风险和癌症死亡风险降低 26%–30%。心血管死亡风险降低 32%–34%",
+      "grade": "A",
+      "sources": "Stamatakis E, Ahmadi MN, Gill JMR, et al. (2022). Association of wearable device-measured vigorous intermittent lifestyle physical activity with mortality. Nature Medicine, 28, 2521-2529. <https://doi.org/10.1038/s41591-022-02100-x>",
+      "notes": "争议。这项研究用可穿戴设备实测活动量，比让人填问卷回忆可靠。但它仍然只是跟踪记录，没有做分组试验，而且只跟了 6.9 年。研究对象是完全不锻炼的人，已经在规律运动的人不适用这一条"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tích lũy những đợt vận động gắng sức ngắn như leo cầu thang, đi nhanh cho kịp giờ thành bốn năm phút mỗi ngày",
+    "cost": "Không tốn tiền, cũng không cần dành thêm thời gian tập luyện. Khó ở chỗ nhớ đi cầu thang, bước nhanh hơn, đừng chỉ chọn cách đỡ tốn sức.",
+    "plain": "Người bình thường hoàn toàn không tập luyện, chỉ cần mỗi ngày có ba đợt vận động gắng sức dài một hai phút thì khả năng tử vong trong cùng thời gian thấp hơn khoảng bốn phần mười so với người không có đợt nào, tử vong tim mạch thấp hơn gần một nửa. Vận động gắng sức là những việc như leo cầu thang, đi nhanh cho kịp giờ.",
+    "benefit": "Một nghiên cứu của Ngân hàng sinh học Anh gồm 2.52 vạn người bình thường không tập luyện riêng. Theo dõi trung bình 6.9 năm, trong đó 852 người qua đời. Có người mỗi ngày thực hiện 3 đợt hoạt động mạnh ngắn, mỗi đợt 1–2 phút. So với người hoàn toàn không có, nguy cơ tử vong và tử vong do ung thư của họ thấp hơn 38%–40%, nguy cơ tử vong tim mạch thấp hơn 48%–49%. Người tích lũy 4.4 phút hoạt động này mỗi ngày có nguy cơ tử vong và tử vong do ung thư thấp hơn 26%–30%, tử vong tim mạch thấp hơn 32%–34%.",
+    "notes": "Điểm còn tranh luận. Nghiên cứu dùng thiết bị đeo để đo thực tế lượng hoạt động, đáng tin hơn yêu cầu người tham gia nhớ lại rồi điền bảng hỏi. Nhưng đây vẫn chỉ là theo dõi ghi nhận, không làm thử nghiệm phân nhóm, và chỉ theo dõi 6.9 năm. Đối tượng là người hoàn toàn không tập luyện; mục này không áp dụng cho người đã vận động đều đặn.",
+    "extra": ""
+  }
+}

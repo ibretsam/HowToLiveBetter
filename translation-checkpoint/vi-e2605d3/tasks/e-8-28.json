@@ -1,0 +1,35 @@
+{
+  "id": "e-8-28",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "380a8ebf7785b62d72cb28a192717994a3f2fb300f423bb728698508c7f35ed8",
+  "original": {
+    "number": 28,
+    "title": "别当「挂名法人」，别把身份证借给人注册公司",
+    "fields": {
+      "cost": "不花钱。有人请你「挂个名，不用管事」，拒绝就行。",
+      "plain": "法律预设法定代表人就是那个管事的人，「我只是挂个名、什么都不知道」不是免责的理由。法定代表人执行职务给别人造成损害，公司先赔，赔完可以回头找有过错的你追偿。已经挂了名的，公司法允许你辞掉，公司要在 30 日内定出新的法定代表人。",
+      "benefit": "法定代表人由实际执行公司事务的董事或者经理担任，法律预设你就是管事的那个人。法定代表人执行职务给别人造成损害的，公司先赔。赔完可以回头向有过错的法定代表人追偿（把这笔钱要回去）。董事、高管对公司负有忠实义务和勤勉义务（忠于公司、尽心办事）。执行职务给别人造成损害，本人又有故意或者重大过失的，自己也要掏钱赔。「不知情」在法律上不是能免掉责任的理由。公司法第十条写明：「法定代表人辞任的，公司应当在法定代表人辞任之日起三十日内确定新的法定代表人。」（全国，2024 年 7 月起）",
+      "grade": "B",
+      "sources": "全国人大常委会 (2023). 公司法（2023 年修订，第十、十一、一百八十、一百九十一条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>",
+      "notes": "公司法原文只讲了责任归谁。挂名更常见的后果是：公司被法院执行的时候，法定代表人跟着被限制高消费，税务和行政处罚也可能牵连到你。这些后果出自其他法律和执行规定，本节没有核实原文，所以定 B 级。已经挂了名的，公司法允许你辞掉，公司要在 30 日内定出新的法定代表人。借你的名字去贷款，见第 45 条（帮忙刷个脸）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng làm ‘người đại diện pháp luật đứng tên hộ’, đừng cho người khác mượn căn cước để đăng ký công ty",
+    "cost": "Không mất tiền. Có người nhờ ‘đứng tên thôi, không phải quản lý gì’ thì chỉ cần từ chối.",
+    "plain": "Luật mặc định người đại diện theo pháp luật chính là người quản lý; ‘tôi chỉ đứng tên, không biết gì’ không phải lý do miễn trách nhiệm. Người đại diện theo pháp luật thực hiện nhiệm vụ gây thiệt hại cho người khác thì công ty bồi thường trước, sau đó có thể truy đòi bạn nếu bạn có lỗi. Đã đứng tên thì Luật Công ty cho phép từ nhiệm, công ty phải xác định người đại diện theo pháp luật mới trong 30 ngày.",
+    "benefit": "Người đại diện theo pháp luật do thành viên hội đồng quản trị hoặc giám đốc thực sự điều hành công việc công ty đảm nhiệm; luật mặc định bạn chính là người quản lý. Người đại diện thực hiện nhiệm vụ gây thiệt hại cho người khác thì công ty bồi thường trước. Bồi thường xong có thể truy đòi người đại diện có lỗi (đòi lại khoản tiền đó). Thành viên hội đồng quản trị và người quản lý cấp cao có nghĩa vụ trung thành, cần mẫn với công ty (trung thành và tận tâm làm việc). Thực hiện nhiệm vụ gây thiệt hại cho người khác mà bản thân có lỗi cố ý hoặc lỗi vô ý nghiêm trọng thì cũng phải tự bỏ tiền bồi thường. Theo pháp luật, ‘không biết gì về sự việc’ không phải lý do được miễn trách nhiệm. Điều mười Luật Công ty ghi rõ: ‘Khi người đại diện theo pháp luật từ nhiệm, công ty phải xác định người đại diện theo pháp luật mới trong ba mươi ngày kể từ ngày từ nhiệm’ (toàn Trung Quốc, từ tháng 7 năm 2024).",
+    "notes": "Nguyên văn Luật Công ty chỉ nói trách nhiệm thuộc về ai. Hậu quả thường gặp hơn của đứng tên hộ là khi công ty bị tòa thi hành án, người đại diện theo pháp luật cũng bị hạn chế tiêu dùng cao cấp; vấn đề thuế và xử phạt hành chính có thể liên lụy đến bạn. Các hậu quả này xuất phát từ luật và quy định thi hành án khác; chương này chưa xác minh nguyên văn nên xếp mức B. Đã đứng tên thì Luật Công ty cho phép từ nhiệm, công ty phải xác định người đại diện theo pháp luật mới trong 30 ngày. Mượn tên bạn để vay tiền, xem mục 45 (quét mặt giúp).",
+    "extra": ""
+  }
+}

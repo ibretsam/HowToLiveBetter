@@ -1,0 +1,15 @@
+{
+  "id": "e-31-6",
+  "source_sha256": "120512e3e44d76f81a1217b9137244b0b9a804d4506d8b9c7cd43dc4329312ba",
+  "draft_sha256": "badece53dd90841b8338c5647aca975d9fbe58e3f0047b2eb024d35891c4883d",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified conditional discharge payment, five award increments 25/20/15/10/5 percent, deemed insurance contribution and retirement/support exception, 20000 RMB annual tax reduction for three years/36 months with twenty-percent uplift, employer 6000 and fifty-percent uplift, 2023–2027 term, and 2026-08-01 qualification recognition. Explicitly preserves source uncertainty: 4500 RMB is a provincial article standard, no current national formal document found, and separate Yantai 6000 RMB allowance must not be combined; tax reduction is not cash."
+}

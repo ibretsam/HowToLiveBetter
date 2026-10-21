@@ -1,0 +1,35 @@
+{
+  "id": "e-12-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "981f63026902fb75ab6eb425980f092c312544791110823df5db7dae40cdac8f",
+  "original": {
+    "number": 11,
+    "title": "食品这一行有刑事线：卖病死肉、超标货就够罪，掺了有毒有害的不看金额、起刑五年以下",
+    "fields": {
+      "cost": "不花钱。按第 8 条（做食品先看自己落在哪一档）那套做：留好检疫证明和进货凭证，配料表里只放查得到批准文号的东西。",
+      "plain": "前面几条罚的是钱，这条抓的是人。卖病死肉、检验不合格的肉，或者农残兽残重金属严重超标的东西，判 3 年以下。只要「足以」让人吃出严重中毒就够罪，不用真有人吃坏。往食品里掺有毒有害的非食品原料，起步就是 5 年以下，不看你卖了多少钱。",
+      "benefit": "刑法第一百四十三条管的是这一档。你做的、卖的食品不符合食品安全标准。只要「足以造成严重食物中毒事故或者其他严重食源性疾病的」，就够罪。判 3 年以下有期徒刑或者拘役（短期关押），同时罚钱。把人的健康搞出严重损害，或者有其他严重情节的，判 3 年以上 7 年以下并罚钱。后果特别严重的，判 7 年以上有期徒刑直到无期，罚钱或者把名下财产全部没收。第一百四十四条管掺东西。在做的、卖的食品里掺进有毒有害的非食品原料，或者明知掺了还卖的，判 5 年以下有期徒刑并罚钱。把人的健康搞出严重损害，或者有其他严重情节的，判 5 年以上 10 年以下并罚钱。把人吃死了，或者有其他特别严重情节的，按第一百四十一条处罚（10 年以上、无期或者死刑）。最高人民法院和最高人民检察院出过一份解释（两高解释）。它列明了哪几种情形算「足以造成严重食物中毒事故或者其他严重食源性疾病」。一是「含有严重超出标准限量的致病性微生物、农药残留、兽药残留、生物毒素、重金属等污染物质」。二是「属于病死、死因不明或者检验检疫不合格的畜、禽、兽、水产动物肉类及其制品的」。三是「属于国家为防控疾病等特殊需要明令禁止生产、销售的」。四是「特殊医学用途配方食品、专供婴幼儿的主辅食品营养成分严重不符合食品安全标准的」。添加剂用超量、用错地方，到了会造成上述后果的程度，同样按第一百四十三条定罪。什么算「有毒、有害的非食品原料」，不由你说了算。一类是法律法规禁止往食品里加的物质。另一类是国务院有关部门公告的名单上的物质，比如禁用农药、禁止用在食用动物身上的药。还有一种情形也算第一百四十四条里的「其他严重情节」。做了、卖了 10 万元以上不满 20 万元。地点在中小学校园、托幼机构、养老机构及周边。卖的对象是未成年人、老年人。不在指定屠宰厂、自己私设猪的屠宰场干屠宰和销售，情节严重的按非法经营罪判。做到 10 万元以上，或者挣到 5 万元以上，就算「情节严重」（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020 年修正). 刑法（第一百四十一、一百四十三、一百四十四条）. <https://flk.npc.gov.cn/detail?id=ff808181796a636a0179822a19640c92>（国家法律法规数据库）；最高人民法院、最高人民检察院 (2021). 关于办理危害食品安全刑事案件适用法律若干问题的解释（法释〔2021〕24 号，第一、二、五、七、九、十七、十八条，2022 年 1 月 1 日起施行）. <https://scjg.hebei.gov.cn/info/79117>（河北省市场监督管理局转载全文）、<https://sft.ln.gov.cn/sft/ywgz/zfflgw/xzys/2525860BD0F843EFA7A3B7FDC330614E/index.shtml>（辽宁省司法厅转载全文，两份逐字核对一致）",
+      "notes": "和前面三条的分界线是：有没有踩到食品安全本身。没办证、标签漏项、吹疗效，罚的是钱。卖病死肉、超标货、乱加添加剂、掺非食品原料，进的是刑事程序。最省事的防线还是第 8 条（做食品先看自己落在哪一档）里那套动作。肉只从定点屠宰厂进。每批留好检疫证明和肉品品质检验合格证。配料只用查得到批准文号的。所谓「便宜处理的肉」「不知道哪来的边角料」，是食品刑事案子里出事最多的入口。原始来源最高人民法院公报的页面本轮返回 502，所以引了两份省级官方转载，并且互相逐字核对过。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Kinh doanh thực phẩm có ranh giới hình sự: bán thịt động vật chết bệnh, hàng vượt chuẩn có thể đủ cấu thành tội; pha chất độc hại ngoài thực phẩm thì không xét doanh số, khung đầu đến năm năm tù",
+    "cost": "Không tốn tiền. Làm theo mục 8 (trước khi làm thực phẩm, xem mình thuộc nhóm nào): giữ giấy kiểm dịch và chứng từ nhập hàng; chỉ dùng thành phần tra được mã phê duyệt.",
+    "plain": "Các mục trước phạt tiền, mục này có thể bắt người. Bán thịt động vật chết bệnh, thịt không đạt kiểm tra hoặc hàng có dư lượng thuốc bảo vệ thực vật, thuốc thú y, kim loại nặng vượt chuẩn nghiêm trọng thì có thể bị phạt đến 3 năm tù. Chỉ cần “đủ khả năng” gây ngộ độc nghiêm trọng là đủ cấu thành tội, không cần có người thực sự bị hại. Pha nguyên liệu không phải thực phẩm có độc, có hại vào đồ ăn thì khung đầu đã đến 5 năm tù, không xét bán được bao nhiêu tiền.",
+    "benefit": "Điều một trăm bốn mươi ba Bộ luật Hình sự áp dụng khi thực phẩm bạn làm hoặc bán không đạt tiêu chuẩn an toàn. Chỉ cần “đủ khả năng gây sự cố ngộ độc thực phẩm nghiêm trọng hoặc bệnh truyền qua thực phẩm nghiêm trọng khác” là đủ cấu thành tội. Phạt tù có thời hạn từ 3 năm trở xuống hoặc câu dịch, tức giam giữ ngắn hạn, kèm phạt tiền. Gây tổn hại nghiêm trọng đến sức khỏe hoặc có tình tiết nghiêm trọng khác thì phạt từ 3 đến 7 năm tù và phạt tiền. Hậu quả đặc biệt nghiêm trọng thì từ 7 năm tù đến chung thân, kèm phạt tiền hoặc tịch thu toàn bộ tài sản. Điều một trăm bốn mươi bốn xử lý việc pha nguyên liệu: pha nguyên liệu không phải thực phẩm có độc, có hại vào thực phẩm sản xuất, bán ra, hoặc biết đã pha mà vẫn bán, bị phạt từ 5 năm tù trở xuống và phạt tiền. Gây tổn hại sức khỏe nghiêm trọng hoặc có tình tiết nghiêm trọng khác thì phạt từ 5 đến 10 năm tù và phạt tiền. Gây chết người hoặc có tình tiết đặc biệt nghiêm trọng khác thì xử theo Điều một trăm bốn mươi mốt, từ 10 năm tù trở lên, chung thân hoặc tử hình. Tòa án Nhân dân Tối cao và Viện Kiểm sát Nhân dân Tối cao đã ban hành giải thích liệt kê trường hợp “đủ khả năng gây ngộ độc thực phẩm nghiêm trọng hoặc bệnh truyền qua thực phẩm nghiêm trọng khác”. Thứ nhất, “có vi sinh vật gây bệnh, dư lượng thuốc bảo vệ thực vật, dư lượng thuốc thú y, độc tố sinh học, kim loại nặng hoặc chất ô nhiễm khác vượt giới hạn tiêu chuẩn nghiêm trọng”. Thứ hai, “thịt và sản phẩm từ gia súc, gia cầm, thú, động vật thủy sản chết bệnh, chết không rõ nguyên nhân hoặc không đạt kiểm tra, kiểm dịch”. Thứ ba, “thuộc loại nhà nước cấm sản xuất, bán vì nhu cầu đặc biệt như phòng chống bệnh”. Thứ tư, “thành phần dinh dưỡng của thực phẩm công thức dùng cho mục đích y tế đặc biệt hoặc thức ăn chính, thức ăn bổ sung dành riêng cho trẻ nhỏ không đạt tiêu chuẩn an toàn thực phẩm nghiêm trọng”. Dùng phụ gia quá liều hoặc sai phạm vi đến mức có thể gây các hậu quả trên cũng bị định tội theo Điều một trăm bốn mươi ba. Bạn không được tự quyết định thế nào là “nguyên liệu không phải thực phẩm có độc, có hại”. Một nhóm là chất pháp luật cấm thêm vào thực phẩm. Nhóm khác là chất có tên trong danh sách do cơ quan thuộc Quốc vụ viện công bố, như thuốc bảo vệ thực vật bị cấm và thuốc cấm dùng cho động vật làm thực phẩm. Một trường hợp nữa thuộc “tình tiết nghiêm trọng khác” của Điều một trăm bốn mươi bốn: sản xuất, bán trị giá từ 10 vạn đến dưới 20 vạn nhân dân tệ, tại hoặc quanh trường tiểu học, trung học, nhà trẻ, cơ sở dưỡng lão, bán cho người chưa thành niên hoặc người cao tuổi. Tự lập cơ sở giết mổ lợn ngoài hệ thống được chỉ định để giết mổ, bán hàng, nếu nghiêm trọng thì xử về tội kinh doanh trái phép. Kinh doanh từ 10 vạn nhân dân tệ trở lên hoặc thu lợi từ 5 vạn trở lên được coi là “nghiêm trọng” (toàn quốc).",
+    "notes": "Ranh giới với ba mục trước là có xâm phạm bản thân an toàn thực phẩm hay không. Chưa có giấy phép, thiếu thông tin nhãn, thổi phồng tác dụng chữa bệnh thì phạt tiền. Bán thịt chết bệnh, hàng vượt chuẩn, dùng phụ gia bừa bãi hoặc pha nguyên liệu không phải thực phẩm thì đi vào thủ tục hình sự. Cách phòng tránh ít tốn công nhất vẫn là các việc ở mục 8 (trước khi làm thực phẩm, xem mình thuộc nhóm nào). Chỉ nhập thịt từ cơ sở giết mổ được chỉ định; giữ giấy kiểm dịch và chứng nhận chất lượng thịt đạt yêu cầu cho từng lô. Chỉ dùng thành phần tra được mã phê duyệt. “Thịt bán tháo giá rẻ” và “đồ vụn không biết từ đâu” là những đầu vào hay gây chuyện nhất trong án hình sự thực phẩm. Lần này trang nguồn gốc trên Công báo Tòa án Nhân dân Tối cao trả lỗi 502, nên đã dẫn hai bản đăng lại của cơ quan cấp tỉnh và đối chiếu từng chữ giữa hai bản.",
+    "extra": ""
+  }
+}

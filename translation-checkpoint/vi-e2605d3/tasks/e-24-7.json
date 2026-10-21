@@ -1,0 +1,35 @@
+{
+  "id": "e-24-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "309b24777b89e15386013a0f2c0594a39f47b05f112a5de2dc654ca4915d3d81",
+  "original": {
+    "number": 7,
+    "title": "急重的伤病直奔急诊预检分诊台，别去挂号窗口排队",
+    "fields": {
+      "cost": "不花钱。进门多走几步找到预检分诊台。把最要命的那个症状，用一句话说清。",
+      "plain": "急诊不按先来后到，按病情轻重分四级排。定级的地方是急诊入口的预检分诊台，不是挂号窗口。到了先报最危险的那一条：大出血、喘不上气、意识不清、像心脏病那样的胸痛、疼得受不了。",
+      "benefit": "国家卫生健康委 2024 年版急诊医学质控指标规定，急诊预检分诊要「按病情危重程度将患者分为四级」。「I 级为急危患者，需要立即得到救治」。「II 级为急重患者，往往评估与救治同时进行」。「III 级为急症患者，需要短时间内得到诊治」。「IV 级为非急症患者或亚急症患者，在普通诊疗区顺序就诊」。预检分诊就是进急诊先由专人评一遍病情轻重，定下看病顺序。北京市的执行标准给出了各级的响应要求。1 级「立即进行评估和救治，安排患者进入复苏室或抢救室」。2 级「立即监护生命体征，10 分钟内得到救治，安排患者进入抢救室」。3 级「先于 4 级患者优先诊治，安排患者在普通诊疗区候诊；若候诊时间大于 30 分钟，需再次评估」。4 级「顺序就诊，除非病情变化，否则候诊时间较长；若候诊时间大于 4 小时，可再次评估」。北京标准里，1 级的人工评定指标包括「急性意识障碍」。2 级的包括「活动性或严重失血」「严重呼吸困难」「类似心脏因素的胸痛」「所有原因所致严重疼痛（7～10分）」。分诊要「坚持急危重症优先就诊原则」，急诊科入口显著位置应设预检分诊区域（四级标准为全国口径，响应时间为北京市标准）",
+      "grade": "A",
+      "sources": "国家卫生健康委办公厅 (2024). 关于印发急诊医学等 6 个专业医疗质量控制指标（2024 年版）的通知（国卫办医政函〔2024〕150 号）附件 1，指标四「急诊分级分诊执行率」. <https://www.gov.cn/zhengce/zhengceku/202405/content_6951260.htm>；北京市卫生健康委员会 (2019). 北京市加强急诊预检分诊分级工作方案及附件《北京市医院急诊预检分诊分级标准（试行）》：「坚持急危重症优先就诊原则。按照患者病情的严重程度，遵循从重到轻、从病情迅速变化到相对稳定的原则，合理安排患者就诊顺序。」「在急诊科入口的显著位置，设置急诊预检分诊区域」「院前医疗急救医生应按照相关标准对患者进行初步分级，对1、2级患者需及时通知所送医院急诊科做好接诊准备」. <http://wjw.beijing.gov.cn/zwgk_20040/ylws/201912/t20191216_1242338.html>",
+      "notes": "分成四级是全国统一的。每一级多久得到处理，由各省市自己定，北京这份是能逐字核对的一版。定级看的是心跳、血压、血氧这些指标和症状，疼痛程度也是其中一项，疼到 7 到 10 分可以定到 2 级。1 级的硬指标包括这么几条。一是心率大于 180 次/分，或者小于 40 次/分。二是收缩压低于 70 mmHg，收缩压就是血压里的高压。三是血氧低于 80%。四是休克、明确心肌梗死、急性意识障碍。觉得分诊把你定低了，就补充说清最危险的那个症状。候诊中病情有变化，立刻回分诊台重新评一次。真正危重的时候打 120（见第 13 节）。北京的方案要求院前急救医生按标准先给病人初步分级，1、2 级的及时通知要送去的医院急诊科准备接诊。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị bệnh hoặc chấn thương cấp tính nặng thì đến thẳng bàn đánh giá và phân loại cấp cứu, đừng xếp hàng ở quầy đăng ký",
+    "cost": "Không tốn tiền. Vào cửa đi thêm vài bước để tìm bàn đánh giá và phân loại. Dùng một câu nói rõ triệu chứng nguy hiểm nhất.",
+    "plain": "Cấp cứu không theo thứ tự đến trước sau mà chia bốn mức theo độ nặng. Nơi xác định mức là bàn đánh giá và phân loại ở cửa khoa cấp cứu, không phải quầy đăng ký. Đến nơi hãy báo triệu chứng nguy hiểm nhất trước: chảy máu nhiều, khó thở đến mức không lấy được hơi, ý thức không rõ, đau ngực giống do bệnh tim hoặc đau không chịu nổi.",
+    "benefit": "Bộ chỉ số kiểm soát chất lượng cấp cứu phiên bản 2024 của Ủy ban Y tế và Sức khỏe Quốc gia quy định đánh giá và phân loại cấp cứu phải “chia người bệnh thành bốn mức theo độ nguy kịch”. “Mức I là người bệnh cấp cứu nguy kịch, cần được cứu chữa ngay”. “Mức II là người bệnh cấp cứu nặng, thường đánh giá và cứu chữa đồng thời”. “Mức III là người bệnh cấp tính, cần được chẩn đoán và điều trị trong thời gian ngắn”. “Mức IV là người bệnh không cấp tính hoặc bán cấp tính, khám theo thứ tự tại khu khám chữa bệnh thông thường”. Đánh giá và phân loại là khi vào cấp cứu, người phụ trách đánh giá độ nặng trước để xác định thứ tự khám. Tiêu chuẩn thực hiện của Bắc Kinh quy định yêu cầu đáp ứng cho từng mức. Mức 1: “Đánh giá và cứu chữa ngay, đưa người bệnh vào phòng hồi sức hoặc phòng cấp cứu”. Mức 2: “Theo dõi ngay các dấu hiệu sinh tồn, được cứu chữa trong 10 phút, đưa người bệnh vào phòng cấp cứu”. Mức 3: “Ưu tiên chẩn đoán và điều trị trước người bệnh mức 4, bố trí chờ tại khu khám chữa bệnh thông thường; nếu chờ quá 30 phút thì phải đánh giá lại”. Mức 4: “Khám theo thứ tự, thời gian chờ khá lâu trừ khi tình trạng bệnh thay đổi; nếu chờ quá 4 giờ thì có thể đánh giá lại”. Trong tiêu chuẩn Bắc Kinh, tiêu chí do nhân viên đánh giá cho mức 1 gồm “rối loạn ý thức cấp tính”. Mức 2 gồm “đang chảy máu hoặc mất máu nặng”, “khó thở nặng”, “đau ngực giống do nguyên nhân tim”, “đau nặng do mọi nguyên nhân (7–10 điểm)”. Phân loại phải “kiên trì nguyên tắc ưu tiên khám cho người bệnh cấp cứu nguy kịch và nặng”; phải bố trí khu đánh giá và phân loại tại vị trí dễ thấy ở lối vào khoa cấp cứu (bốn mức là tiêu chuẩn toàn quốc; thời gian đáp ứng là tiêu chuẩn Bắc Kinh).",
+    "notes": "Chia bốn mức là thống nhất toàn quốc. Bao lâu mỗi mức được xử lý do từng tỉnh, thành phố quy định; bản Bắc Kinh này là một phiên bản có thể đối chiếu từng chữ. Phân mức dựa vào các chỉ số như nhịp tim, huyết áp, oxy máu và triệu chứng; mức đau cũng là một tiêu chí, đau từ 7 đến 10 điểm có thể được xếp mức 2. Mức 1 có một số tiêu chí cụ thể sau: nhịp tim trên 180 lần/phút hoặc dưới 40 lần/phút; huyết áp tâm thu dưới 70 mmHg, tức số lớn hơn trong hai chỉ số huyết áp; oxy máu dưới 80%; sốc, nhồi máu cơ tim đã xác định hoặc rối loạn ý thức cấp tính. Nếu thấy mình bị xếp mức quá nhẹ, hãy bổ sung và nói rõ triệu chứng nguy hiểm nhất. Tình trạng thay đổi khi chờ thì quay lại bàn phân loại ngay để được đánh giá lại. Thật sự nguy kịch thì gọi 120 (xem phần 13). Phương án Bắc Kinh yêu cầu bác sĩ cấp cứu trước viện phân loại sơ bộ theo tiêu chuẩn; với người bệnh mức 1, 2, phải kịp thời báo khoa cấp cứu của bệnh viện sắp chuyển đến chuẩn bị tiếp nhận.",
+    "extra": ""
+  }
+}

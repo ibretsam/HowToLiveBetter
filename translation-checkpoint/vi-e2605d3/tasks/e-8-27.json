@@ -1,0 +1,35 @@
+{
+  "id": "e-8-27",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "4f1890d1da4b20c7026420a77160ae6664daf0efe5ac930e023c8c3eb9b563fe",
+  "original": {
+    "number": 27,
+    "title": "上门维修、验车、装修，先问价再动手，全程在旁边看着",
+    "fields": {
+      "cost": "不花钱。动手之前问清收费标准和要换哪些件，把报价拍下来，或者让对方发文字。修完要维修凭证和发票，把旧件留下。还要站在旁边看一两个小时。难在全程盯着不走开。",
+      "plain": "家电维修必须明示收费标准，给凭证和发票，不得虚报故障、乱换好零件，情节严重的罚 3 万元以下。所有经营者都必须明码标价，不得在标价之外加价。所以动手前问清价钱和要换的件，修完要凭证和发票，旧件留下。被多收了先打 12315。",
+      "benefit": "家电维修经营者必须明示服务项目和配件的收费标准、质量规范、质保期限和投诉电话。必须给消费者维修服务凭证和收费发票，并如实填写维修的项目和详情。不得虚列、夸大、伪造维修项目，不得虚报故障部件，不得故意替换性能正常的部件。情节严重的，处 3 万元以下罚款。所有经营者都必须明码标价，不得在标价之外加价，不得收取任何没有标明的费用。低价诱骗、高价结算，以及虚假折价，属于价格欺诈。经营者必须用显著的方式标明服务的项目、内容、价格和计价方法，不得作虚假的或者引人误解的宣传（全国）",
+      "grade": "B",
+      "sources": "商务部 (2012). 家电维修服务业管理办法（商务部令 2012 年第 7 号，第五、七、九、十四条）. <http://www.gov.cn/gongbao/content/2012/content_2231695.htm>；市场监管总局 (2022). 明码标价和禁止价格欺诈规定（市场监管总局令第 56 号，第五、八、十九条）. <http://www.gov.cn/gongbao/content/2022/content_5699926.htm>；国务院 (2024). 消费者权益保护法实施条例（国务院令第 778 号，第九、十条）. <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>；全国人大常委会 (2013 修正). 消费者权益保护法（第八、十条）：「消费者有权根据商品或者服务的不同情况，要求经营者提供……服务的内容、规格、费用等有关情况」「有权拒绝经营者的强制交易行为」. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7670606ef>（国家法律法规数据库）",
+      "notes": "被多收了先打 12315，处罚由商务、市场监管部门来做，不用你自己打官司。定 B 级是因为规则虽然是官方的，但「在旁边看着能少花多少」没有数字，主要靠经验。问价、留凭证、留旧件，对谁都一样做，不用以貌取人。家电那个办法只管家电维修，验车、装修参照明码标价规定和实施条例。比这几个规定更高一级的消费者权益保护法，也写了你的两样权利。第八条说你有权要求经营者说明服务的内容、规格、费用。第十条说你有权拒绝强制交易。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sửa chữa tận nhà, kiểm tra xe, sửa sang nhà cửa thì hỏi giá trước khi làm, đứng cạnh theo dõi suốt quá trình",
+    "cost": "Không mất tiền. Trước khi làm, hỏi rõ mức phí và những linh kiện cần thay, chụp lại báo giá hoặc yêu cầu gửi bằng văn bản. Sửa xong lấy chứng từ sửa chữa và hóa đơn, giữ linh kiện cũ. Còn phải đứng cạnh theo dõi một hai giờ. Khó ở chỗ theo dõi suốt, không bỏ đi.",
+    "plain": "Sửa thiết bị gia dụng phải công khai mức phí, cấp chứng từ và hóa đơn, không được khai gian hỏng hóc hay tùy tiện thay linh kiện còn tốt; tình tiết nghiêm trọng bị phạt tối đa 3 vạn tệ. Mọi bên kinh doanh đều phải niêm yết giá, không được tăng thêm ngoài giá đó. Vì vậy, trước khi làm phải hỏi rõ giá và linh kiện cần thay; xong việc lấy chứng từ, hóa đơn, giữ linh kiện cũ. Bị thu quá mức thì gọi 12315 trước.",
+    "benefit": "Bên kinh doanh sửa chữa thiết bị gia dụng phải công khai mức phí dịch vụ và linh kiện, quy chuẩn chất lượng, thời hạn bảo hành và số điện thoại khiếu nại. Phải cấp cho người tiêu dùng chứng từ dịch vụ sửa chữa và hóa đơn thu phí, ghi trung thực hạng mục và chi tiết sửa chữa. Không được kê khống, phóng đại, làm giả hạng mục sửa chữa, khai gian bộ phận hỏng hoặc cố ý thay bộ phận đang hoạt động bình thường. Tình tiết nghiêm trọng bị phạt tối đa 3 vạn tệ. Mọi bên kinh doanh phải niêm yết giá, không được tăng giá ngoài niêm yết, không được thu bất kỳ khoản phí nào chưa ghi rõ. Dùng giá thấp để dụ rồi tính giá cao, cũng như giảm giá giả, đều là gian lận giá. Bên kinh doanh phải ghi rõ bằng cách dễ thấy các hạng mục, nội dung, giá và cách tính giá dịch vụ, không được quảng cáo sai sự thật hoặc gây hiểu nhầm (toàn Trung Quốc).",
+    "notes": "Bị thu quá mức thì gọi 12315 trước; cơ quan thương mại và giám sát thị trường thực hiện xử phạt, không cần bạn tự kiện. Xếp mức B vì dù quy tắc là chính thức, không có số liệu ‘đứng cạnh theo dõi giúp bớt tốn bao nhiêu’, chủ yếu dựa vào kinh nghiệm. Hỏi giá, giữ chứng từ và linh kiện cũ thì làm như nhau với mọi người, không cần đánh giá qua vẻ ngoài. Biện pháp về thiết bị gia dụng chỉ áp dụng cho sửa thiết bị gia dụng; kiểm tra xe, sửa sang nhà thì tham chiếu quy định niêm yết giá và điều lệ thi hành. Luật Bảo vệ quyền lợi người tiêu dùng có hiệu lực pháp lý cao hơn các quy định này cũng nêu hai quyền của bạn. Điều tám ghi bạn có quyền yêu cầu bên kinh doanh giải thích nội dung, quy cách, chi phí dịch vụ. Điều mười ghi bạn có quyền từ chối giao dịch cưỡng ép.",
+    "extra": ""
+  }
+}

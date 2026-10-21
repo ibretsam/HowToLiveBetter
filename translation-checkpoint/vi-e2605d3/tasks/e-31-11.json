@@ -1,0 +1,35 @@
+{
+  "id": "e-31-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "97f5433709b7fc3fc7405d0db83aa125f0cfe12f8f3ebc04b5f1869edad919cc",
+  "original": {
+    "number": 11,
+    "title": "不进单位就是灵活就业：养老和医疗要自己在就业地参保，户籍限制已经放开",
+    "fields": {
+      "cost": "养老和医疗要你全额自己缴，按当地的缴费基数算，每月上千元。缴费基数就是一个用来算保费的基准数。这是灵活就业最容易被漏算的固定支出，难在每个月都得按时交。",
+      "plain": "不进单位，不等于没有社保这回事，只是没人替你交那一半。文件要求各地放开灵活就业人员在就业地参保的户籍限制，个别超大城市可以逐步放开。所以别把「自由」理解成不用管社保。断着不交，退休金和医保报销都要按断缴的规则算。",
+      "benefit": "参保看《关于维护新就业形态劳动者劳动保障权益的指导意见》。它写着：「各地要放开灵活就业人员在就业地参加基本养老、基本医疗保险的户籍限制，个别超大型城市难以一步实现的，要结合本地实际，积极创造条件逐步放开。组织未参加职工基本养老、职工基本医疗保险的灵活就业人员，按规定参加城乡居民基本养老、城乡居民基本医疗保险，做到应保尽保。督促企业依法参加社会保险。企业要引导和支持不完全符合确立劳动关系情形的新就业形态劳动者根据自身情况参加相应的社会保险」。同一份文件把用工分成三类：「符合确立劳动关系情形的，企业应当依法与劳动者订立劳动合同。不完全符合确立劳动关系情形但企业对劳动者进行劳动管理……指导企业与劳动者订立书面协议……个人依托平台自主开展经营活动、从事自由职业等，按照民事法律调整双方的权利义务」（全国，2021 年起）",
+      "grade": "A",
+      "sources": "人力资源社会保障部等八部门 (2021). 关于维护新就业形态劳动者劳动保障权益的指导意见（人社部发〔2021〕56 号，第二、八条）. <https://www.gov.cn/zhengce/zhengceku/2021-07/23/content_5626761.htm>；国务院办公厅 (2020). 关于支持多渠道灵活就业的意见（国办发〔2020〕27 号）. <https://www.gov.cn/zhengce/zhengceku/2020-07/31/content_5531613.htm>",
+      "notes": "原文写的是「放开」户籍限制，还给超大城市留了口子，不是「全国已经取消」。到底放开到什么程度，问你要参保的那个城市。收益量级定「大」，是因为断缴丢的是养老和医疗待遇本身，值的钱远过万元。但成本也实打实，全额自缴每月上千元。社保断缴之后怎么补、年限怎么累计，见第 7 节第 18 条（社保断缴）。换城市以后养老和医保关系怎么转过去，见第 19 节第 19 条（养老和医保关系转到新参保地）。自己交职工养老按哪一档交、要领多少年才回本，见第 5 节第 46 条（自己交职工养老保险）。另外，在政府指定的地点和时间卖农副产品、日用品，或者用自己的手艺做依法不需要许可的便民活儿，不用办营业执照。这一条写在国办发〔2020〕27 号里。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không vào đơn vị là việc làm linh hoạt: phải tự tham gia bảo hiểm hưu trí và y tế nơi làm việc, hạn chế hộ khẩu đã được nới",
+    "cost": "Bạn tự đóng toàn bộ bảo hiểm hưu trí và y tế, tính theo cơ sở đóng của địa phương, mỗi tháng từ hàng nghìn nhân dân tệ. Cơ sở đóng là số chuẩn dùng tính phí. Đây là chi cố định dễ bị bỏ sót nhất khi làm linh hoạt; khó ở chỗ tháng nào cũng phải đóng đúng hạn.",
+    "plain": "Không vào đơn vị không có nghĩa không cần bảo hiểm xã hội, chỉ là không có ai đóng giúp phần kia. Văn bản yêu cầu các nơi nới hạn chế hộ khẩu để người làm linh hoạt tham gia bảo hiểm tại nơi làm việc; một số siêu đô thị có thể nới dần. Vì vậy, đừng hiểu “tự do” là khỏi lo bảo hiểm xã hội. Bỏ đóng thì lương hưu và thanh toán y tế đều theo quy tắc gián đoạn đóng.",
+    "benefit": "Tham gia bảo hiểm xem Ý kiến hướng dẫn bảo vệ quyền lợi bảo đảm lao động của người lao động trong hình thái việc làm mới: “Các nơi phải nới hạn chế hộ khẩu với người làm linh hoạt tham gia bảo hiểm hưu trí cơ bản và y tế cơ bản tại nơi làm việc. Một số siêu đô thị khó thực hiện ngay phải dựa thực tế, tích cực tạo điều kiện nới dần. Tổ chức để người làm linh hoạt chưa tham gia bảo hiểm hưu trí và y tế cơ bản cho người lao động tham gia bảo hiểm hưu trí, y tế cơ bản cho cư dân đô thị, nông thôn theo quy định, bảo đảm mọi người thuộc diện đều được bảo hiểm. Đôn đốc doanh nghiệp tham gia bảo hiểm xã hội theo luật. Doanh nghiệp phải hướng dẫn, hỗ trợ người trong hình thái việc làm mới chưa hoàn toàn đủ điều kiện xác lập quan hệ lao động tham gia loại bảo hiểm tương ứng với tình hình bản thân”. Cùng văn bản chia sử dụng lao động thành ba loại: “Đủ điều kiện xác lập quan hệ lao động thì doanh nghiệp phải ký hợp đồng lao động theo luật. Chưa hoàn toàn đủ điều kiện nhưng doanh nghiệp quản lý lao động… hướng dẫn doanh nghiệp và người lao động ký thỏa thuận bằng văn bản… Cá nhân dựa vào nền tảng tự kinh doanh hoặc làm tự do thì quyền, nghĩa vụ hai bên điều chỉnh theo luật dân sự” (toàn Trung Quốc, từ năm 2021)",
+    "notes": "Nguyên văn yêu cầu “nới” hạn chế hộ khẩu, còn để ngoại lệ cho siêu đô thị, không phải “toàn quốc đã bãi bỏ”. Nới đến đâu phải hỏi thành phố bạn muốn tham gia. Lợi ích xếp “lớn” vì bỏ đóng làm mất chính chế độ hưu trí và y tế, giá trị vượt xa một vạn nhân dân tệ. Nhưng chi phí cũng thật: tự đóng toàn bộ mỗi tháng từ hàng nghìn. Đóng bù sau gián đoạn và cộng dồn số năm xem chương 7 mục 18 (gián đoạn bảo hiểm xã hội). Chuyển quan hệ hưu trí, y tế sang thành phố mới xem chương 19 mục 19 (chuyển đến nơi tham gia mới). Tự đóng bảo hiểm hưu trí người lao động chọn mức nào, nhận bao nhiêu năm mới hoàn vốn xem chương 5 mục 46 (tự đóng bảo hiểm hưu trí người lao động). Ngoài ra, bán nông sản, đồ dùng hằng ngày tại địa điểm, thời gian chính quyền chỉ định hoặc dùng tay nghề làm dịch vụ tiện ích không cần giấy phép theo luật thì không cần giấy phép kinh doanh. Điều này ở văn bản số 27 năm 2020 của Văn phòng Quốc vụ viện.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-19-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "cec48ceb97d0c003f0748da5bba74efbe2eaa613c8a9ff184294110d9cbdf1a4",
+  "original": {
+    "number": 5,
+    "title": "公司以病后干不了、不胜任或情况大变为由辞退你，没提前 30 天通知的，还要多付一个月工资",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "公司因为你病后干不了、干不了工作或者情况大变而辞退你，要提前 30 天书面通知。没通知的，要在 N 之外再多给一个月工资，这就是常说的 N+1。谈的时候把这一个月单独列出来，别让公司把它算进 N 里面。",
+      "benefit": "劳动合同法规定，用人单位按这一条解除劳动合同的，有两种做法。一种是「提前三十日以书面形式通知劳动者本人」。另一种是「额外支付劳动者一个月工资后，可以解除劳动合同」。想让你立刻走，就得多掏一个月工资。这多出来的一个月俗称代通知金，是 N 之外另算的一笔。这一个月按你上一个月的工资算，N 按离职前 12 个月的平均工资算，两笔的基数不一样",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第三十六、三十九、四十、四十一、四十六、四十七、八十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>；国务院 (2008). 劳动合同法实施条例（国务院令第 535 号）第二十条：「用人单位依照劳动合同法第四十条的规定，选择额外支付劳动者一个月工资解除劳动合同的，其额外支付的工资应当按照该劳动者上一个月的工资标准确定」. <http://www.gov.cn/gongbao/content/2008/content_1107604.htm>",
+      "notes": "这一个月只出现在劳动合同法第四十条的三种情形里。生病或非因工负伤的，医疗期满后干不了原来的活，也干不了另安排的活。干不了工作的，培训或调岗后仍干不了。订合同时的客观情况发生重大变化，双方协商不成。别的情形都没有这一个月。经济性裁员（第四十一条）只要求公司提前 30 天向工会或者全体职工说明情况。公司提出、双方协商解除的，给的是 N。你有严重违纪这类过错被辞退，没有补偿。公司违法解除，给的是 2N。属于第四十条那三种的，谈判时把 N 和 1 分开算，别让公司把多的那一个月算进 N 里"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Công ty cho bạn nghỉ vì sau ốm không làm được việc, không đáp ứng công việc hoặc hoàn cảnh thay đổi lớn: nếu không báo trước 30 ngày thì phải trả thêm một tháng lương",
+    "cost": "Không tốn tiền.",
+    "plain": "Công ty cho bạn nghỉ vì sau ốm không làm được việc, không đáp ứng công việc hoặc hoàn cảnh thay đổi lớn thì phải báo trước bằng văn bản 30 ngày. Không báo thì ngoài N phải trả thêm một tháng lương, thường gọi là N+1. Khi thương lượng, liệt kê riêng tháng lương này, đừng để công ty tính gộp vào N.",
+    "benefit": "Luật Hợp đồng lao động quy định đơn vị sử dụng lao động chấm dứt hợp đồng theo điều này có hai cách. Một là “thông báo bằng văn bản cho chính người lao động trước ba mươi ngày”. Hai là “có thể chấm dứt hợp đồng lao động sau khi trả thêm một tháng lương cho người lao động”. Muốn bạn nghỉ ngay thì phải trả thêm một tháng lương. Tháng lương thêm này thường gọi là tiền thay cho báo trước, được tính riêng ngoài N. Tháng này tính theo lương tháng liền trước của bạn; N tính theo lương bình quân 12 tháng trước khi nghỉ, cơ sở tính hai khoản khác nhau",
+    "notes": "Tháng lương này chỉ áp dụng trong ba trường hợp ở Điều bốn mươi Luật Hợp đồng lao động. Người bị bệnh hoặc bị thương không do công việc, sau khi hết thời gian điều trị vẫn không làm được công việc cũ lẫn công việc được bố trí khác. Người không đáp ứng công việc, sau đào tạo hoặc chuyển vị trí vẫn không làm được. Hoàn cảnh khách quan khi giao kết hợp đồng thay đổi lớn và hai bên không thỏa thuận được. Những trường hợp khác đều không có tháng lương này. Cắt giảm nhân sự vì lý do kinh tế (Điều bốn mươi mốt) chỉ yêu cầu công ty giải thích tình hình cho công đoàn hoặc toàn thể người lao động trước 30 ngày. Công ty đề xuất và hai bên thỏa thuận chấm dứt thì trả N. Bạn bị cho nghỉ vì lỗi như vi phạm kỷ luật nghiêm trọng thì không có khoản bù đắp. Công ty chấm dứt trái pháp luật thì trả 2N. Thuộc ba trường hợp Điều bốn mươi thì khi thương lượng phải tính N và 1 riêng, đừng để công ty gộp tháng lương thêm vào N",
+    "extra": ""
+  }
+}

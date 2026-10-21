@@ -1,0 +1,35 @@
+{
+  "id": "e-12-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "e6017b3ebe411b3fb0ebcaa5f62a8072d51da26ace68112abb48e6995c77e5b2",
+  "original": {
+    "number": 7,
+    "title": "要许可证的行当，证没下来不开张",
+    "fields": {
+      "cost": "不花钱。开张前先查清楚，自己要做的这门生意要不要办许可证。做餐饮、卖食品要办食品经营许可。只卖别人做好的整包装食品，不用许可，改成备案。证下来了再开门营业。",
+      "plain": "没证就开张，由管这张证的部门按它的法规查处。连营业执照都没有、又没有专门罚则的，勒令停业、没收挣到的钱，再罚 1 万元以下。卖专营专卖的东西，或者做证券、期货、保险、支付结算，情节严重的构成非法经营罪，最低一档判 5 年以下。",
+      "benefit": "没拿到许可就开门做生意的，由法律法规指定的那个部门来查处。没有执照就经营、法律又没写明怎么罚的，勒令停下来，把挣到的钱（违法所得）收走，再罚 1 万元以下。还有更重的一档。法律法规规定的专营、专卖或者限制买卖的物品，没经许可就去经营。证券、期货、保险、资金支付结算这几类生意，没经批准就去做。这两种情形，情节严重的构成非法经营罪。判 5 年以下有期徒刑或者拘役（短期关押），同时按挣到的钱的 1 到 5 倍罚钱。情节特别严重的判 5 年以上（全国）",
+      "grade": "A",
+      "sources": "国务院 (2017). 无证无照经营查处办法（国务院令第 684 号，第五、六、十三条）. <https://www.gov.cn/zhengce/zhengceku/2017-08/23/content_5219861.htm>；市场监管总局 (2023). 食品经营许可和备案管理办法（市场监管总局令第 78 号，第四条）. <https://www.gov.cn/gongbao/2023/issue_10606/202307/content_6894763.html>；全国人大 (1997). 刑法（第二百二十五条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>",
+      "notes": "金融、医疗、教培这几类的许可条件，各有专门的法律，本条只核实了通用的查处规则和刑法条款。奶茶店、小吃店属于餐饮服务，要办食品经营许可。先装修后办证、证下来之前先试营业，是常见的踩坑点。食品这一行分哪几档、卖生鲜肉菜要不要证，见第 8 条（做食品先看自己落在哪一档）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ngành nghề cần giấy phép thì chưa được cấp phép, chưa mở cửa kinh doanh",
+    "cost": "Không tốn tiền. Trước khi mở cửa, kiểm tra việc kinh doanh của bạn có cần giấy phép không. Dịch vụ ăn uống và bán thực phẩm cần giấy phép kinh doanh thực phẩm. Chỉ bán thực phẩm đóng gói nguyên sẵn của người khác thì không cần giấy phép, thay bằng đăng ký hồ sơ. Được cấp phép rồi mới mở cửa.",
+    "plain": "Chưa có giấy phép đã kinh doanh thì cơ quan quản lý loại giấy phép đó xử lý theo quy định của họ. Nếu cả giấy phép đăng ký kinh doanh cũng không có và không có quy định xử phạt riêng, sẽ bị buộc ngừng kinh doanh, tịch thu tiền kiếm được và phạt tối đa 1 vạn nhân dân tệ. Bán hàng thuộc diện chuyên doanh, độc quyền hoặc làm chứng khoán, hợp đồng tương lai, bảo hiểm, thanh toán quyết toán trái phép, nếu nghiêm trọng sẽ cấu thành tội kinh doanh trái phép; khung nhẹ nhất đến 5 năm tù.",
+    "benefit": "Kinh doanh khi chưa được cấp phép do cơ quan mà pháp luật quy định xử lý. Kinh doanh không có giấy phép đăng ký, nếu pháp luật không ghi rõ cách phạt, sẽ bị buộc ngừng, tịch thu thu nhập bất hợp pháp và phạt từ 1 vạn nhân dân tệ trở xuống. Còn có mức nặng hơn: kinh doanh không phép hàng hóa thuộc diện chuyên doanh, độc quyền hoặc hạn chế mua bán theo pháp luật; hoặc làm chứng khoán, hợp đồng tương lai, bảo hiểm, thanh toán quyết toán tiền khi chưa được phê duyệt. Hai trường hợp này, nếu nghiêm trọng, cấu thành tội kinh doanh trái phép. Bị phạt tù có thời hạn từ 5 năm trở xuống hoặc câu dịch, tức giam giữ ngắn hạn, đồng thời phạt tiền từ 1 đến 5 lần thu nhập thu được. Trường hợp đặc biệt nghiêm trọng bị phạt tù từ 5 năm trở lên (toàn quốc).",
+    "notes": "Điều kiện cấp phép trong tài chính, y tế và giáo dục đào tạo có luật riêng; mục này chỉ kiểm chứng quy tắc xử lý chung và điều khoản hình sự. Quán trà sữa, quán ăn vặt thuộc dịch vụ ăn uống, cần giấy phép kinh doanh thực phẩm. Trang trí quán trước rồi mới xin phép, hoặc bán thử trước khi được cấp phép, là những lỗi thường gặp. Các nhóm hoạt động thực phẩm và việc bán thịt rau tươi có cần phép hay không xem mục 8 (trước khi làm thực phẩm, xem mình thuộc nhóm nào).",
+    "extra": ""
+  }
+}

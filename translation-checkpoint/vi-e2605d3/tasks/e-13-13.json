@@ -1,0 +1,35 @@
+{
+  "id": "e-13-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "a84501df29cef32e6b6230d68b0b05f6d71ae7e4aac5bc934a8d2a11d7359dee",
+  "original": {
+    "number": 13,
+    "title": "被狗、猫咬伤或抓破皮，先用肥皂水和流水交替冲 15 分钟，当天去打疫苗",
+    "fields": {
+      "cost": "冲洗不花钱。狂犬病疫苗全程几百元。三级暴露还要加打狂犬病被动免疫制剂（直接打进现成的抗体），几百到上千元。最贵的是耽误。",
+      "plain": "狂犬病一旦发病，病死率几乎 100%，所以被咬后冲洗和打疫苗都不能省。先用肥皂水和流动清水交替冲 15 分钟，当天去打疫苗。咬穿了、破皮的地方被舔，属于三级暴露，还要加打被动免疫制剂。「家养的、打过针的」不改变处置，级别按伤口定，不按狗的来历定。",
+      "benefit": "国家疾控局、国家卫健委 2023 年版规范原文：「狂犬病病死率几乎达 100%」。处置是「用肥皂水（或者其他弱碱性清洁剂）和一定压力的流动清水交替彻底冲洗所有咬伤和抓伤处约 15 分钟」。裸露皮肤被轻咬、无出血抓伤，是 II 级暴露，要打疫苗。贯穿性咬伤、破损皮肤被舔，是 III 级暴露，「应处置伤口并注射狂犬病被动免疫制剂和接种狂犬病疫苗」。WHO：全球每年约 5.9 万人死于狂犬病，99% 由狗传播",
+      "grade": "A",
+      "sources": "国家疾控局综合司、国家卫生健康委办公厅 (2023). 关于印发狂犬病暴露预防处置工作规范（2023 年版）的通知. <https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html> ; WHO. 狂犬病 实况报道. <https://www.who.int/zh/news-room/fact-sheets/detail/rabies>",
+      "notes": "不要因为「家养的、打过针的」就不处理。规范看的是伤口到了哪一级（暴露级别），不看狗的来历。不要自己包伤口。十日观察法只能决定要不要停针，不能决定要不要开始打。被野生动物、蝙蝠咬伤，同样这么处理。自己养狗的，按时给狗打狂犬病疫苗、出门系绳，见第 8 节第 30 条（养狗必须牵绳）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị chó, mèo cắn hoặc cào rách da: trước hết rửa luân phiên bằng nước xà phòng và nước chảy trong 15 phút, đi tiêm vắc xin ngay trong ngày",
+    "cost": "Rửa không tốn tiền. Cả liệu trình vắc xin dại tốn vài trăm nhân dân tệ. Phơi nhiễm độ ba còn phải tiêm chế phẩm miễn dịch thụ động chống dại, tức tiêm trực tiếp kháng thể có sẵn, tốn vài trăm đến hơn nghìn nhân dân tệ. Trì hoãn là điều phải trả giá đắt nhất.",
+    "plain": "Bệnh dại một khi phát bệnh có tỷ lệ tử vong gần 100%, nên bị cắn thì không thể bỏ cả rửa vết thương lẫn tiêm vắc xin. Trước hết rửa luân phiên bằng nước xà phòng và nước sạch chảy trong 15 phút, đi tiêm vắc xin ngay trong ngày. Bị cắn xuyên da hoặc bị liếm vào chỗ da rách là phơi nhiễm độ ba, còn phải tiêm thêm chế phẩm miễn dịch thụ động. “Nuôi trong nhà, đã tiêm phòng” không thay đổi cách xử trí; mức độ dựa vào vết thương, không dựa vào nguồn gốc con chó.",
+    "benefit": "Nguyên văn hướng dẫn năm 2023 của Cục Kiểm soát và Phòng ngừa Dịch bệnh Quốc gia và Ủy ban Y tế Quốc gia Trung Quốc: “Tỷ lệ tử vong của bệnh dại gần đạt 100%”. Cách xử trí là “dùng nước xà phòng hoặc chất tẩy rửa kiềm nhẹ khác luân phiên với nước sạch chảy có áp lực nhất định, rửa kỹ toàn bộ chỗ bị cắn và cào trong khoảng 15 phút”. Da trần bị gặm nhẹ hoặc bị cào không chảy máu là phơi nhiễm độ II, cần tiêm vắc xin. Bị cắn xuyên da hoặc bị liếm vào da bị tổn thương là phơi nhiễm độ III, “phải xử lý vết thương, tiêm chế phẩm miễn dịch thụ động chống dại và tiêm vắc xin dại”. WHO cho biết toàn cầu mỗi năm khoảng 5.9 vạn người chết vì bệnh dại, 99% do chó lây truyền.",
+    "notes": "Đừng vì “nuôi trong nhà, đã tiêm phòng” mà không xử lý. Hướng dẫn dựa vào mức độ vết thương (mức phơi nhiễm), không dựa vào nguồn gốc con chó. Đừng tự băng vết thương. Phương pháp theo dõi mười ngày chỉ có thể quyết định có dừng tiêm hay không, không thể quyết định có bắt đầu tiêm hay không. Bị động vật hoang dã hoặc dơi cắn cũng xử lý như vậy. Người nuôi chó cần tiêm phòng dại đúng lịch cho chó và dắt dây khi ra ngoài; xem chương 8 mục 30 (nuôi chó phải dắt dây).",
+    "extra": ""
+  }
+}

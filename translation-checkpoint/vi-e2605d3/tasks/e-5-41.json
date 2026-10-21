@@ -1,0 +1,35 @@
+{
+  "id": "e-5-41",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "5c16b4a82f442606b0fa322b4b32897a263a5bfb771715e5284f0c532c948936",
+  "original": {
+    "number": 41,
+    "title": "签了一年以上的人身险又后悔，在犹豫期内退掉，保费基本全退",
+    "fields": {
+      "cost": "不花钱。打保险公司的客服电话或者去柜台办，十几分钟。难的是签完以后，在 15 天里静下心把合同读一遍。",
+      "plain": "一年以上的人身险都有犹豫期。在银行买的，是收到保单后 15 天，这期间退保最多扣 10 元工本费。过了犹豫期再退，只能拿回保单里能退的那部分钱，往往比交的少。保险公司打回访电话问你清不清楚，没弄懂就别说清楚。",
+      "benefit": "保险期间超过一年的人身险，监管要求写明犹豫期从哪天算、有几天。投保人在犹豫期里有什么权利，也要写明。长期健康险的犹豫期不得少于 15 天。在银行买的、保险期间超过一年的保险，合同里一律约定 15 日犹豫期。它从你收到保单并书面签收那天算起，按自然日算。这类保单的封面上要印这句提示：「您在收到保险合同后15日内有全额退保（扣除不超过10元的工本费）的权利。超过15日退保有损失。」过了犹豫期，你仍然可以随时解除合同。保险公司要在 30 日内，按合同约定退还保单的现金价值（保单里能退的那部分钱）。金融监管部门的风险提示说，长期人身险犹豫期后退保，现金价值往往低于已交的总保费。一年以上的人身险新单，保险公司要在犹豫期内回访你。回访要确认你知不知道退保的损失和犹豫期的权利（全国，2010、2019 年起）",
+      "grade": "A",
+      "sources": "中国银保监会办公厅 (2019). 商业银行代理保险业务管理办法（银保监办发〔2019〕179 号，第三十六、六十七、六十八条）. <https://www.gov.cn/zhengce/zhengceku/2019-12/03/content_5457853.htm>；中国银保监会 (2019). 健康保险管理办法（银保监会令 2019 年第 3 号，第十五条）. <https://www.gov.cn/zhengce/zhengceku/2019-12/04/content_5458542.htm>；中国银保监会 (2022). 一年期以上人身保险产品信息披露规则（银保监规〔2022〕24 号，产品说明书要列明犹豫期的起算时间、天数和权利）. <https://www.gov.cn/zhengce/zhengceku/2023-01/04/content_5735014.htm>；中国保险监督管理委员会 (2010). 人身保险业务基本服务规定（保监会令 2010 年第 4 号，第十五条）. <http://www.gov.cn/gongbao/content/2010/content_1702219.htm>；全国人大常委会 (2015 修正). 中华人民共和国保险法第十五、四十七条. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7c4060811>；宁夏金融监管局 (2026-06-16). 关于防范非法代理退保的风险提示. <https://www.nfra.gov.cn/branch/ningxia/view/pages/common/ItemDetail.html?docId=1261442&itemId=2188>",
+      "notes": "犹豫期是给一年以上人身险定的规矩。一年期的医疗险、意外险，规定里没要求，有没有要看条款。不在银行买的，天数以合同写的为准，拿到保单先翻「犹豫期」那一条。储蓄型、分红型保险交的钱多，犹豫期最值得用上，见本节第 25 条（消费型）。收益定「中」，是因为能省下的是交的保费和现金价值之间的差，常见在数百到数千元，没有官方统计。这条的受益人是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ký bảo hiểm con người từ một năm trở lên rồi đổi ý thì hủy trong thời gian cân nhắc, gần như được hoàn toàn bộ phí",
+    "cost": "Không tốn tiền. Gọi chăm sóc khách hàng công ty bảo hiểm hoặc đến quầy làm, hơn mười phút. Cái khó là sau khi ký, dành lúc bình tâm đọc hợp đồng trong 15 ngày.",
+    "plain": "Bảo hiểm con người từ một năm trở lên đều có thời gian cân nhắc. Mua qua ngân hàng thì là 15 ngày từ khi nhận đơn bảo hiểm, hủy trong thời gian này chỉ bị trừ tối đa 10 nhân dân tệ phí hồ sơ. Qua thời gian cân nhắc mới hủy thì chỉ nhận phần được hoàn theo hợp đồng, thường ít hơn tiền đã đóng. Công ty gọi xác nhận hỏi bạn hiểu rõ chưa, chưa hiểu thì đừng nói hiểu.",
+    "benefit": "Với bảo hiểm con người có thời hạn trên một năm, cơ quan quản lý yêu cầu ghi rõ thời gian cân nhắc bắt đầu ngày nào, kéo dài bao nhiêu ngày, người mua có quyền gì trong thời gian này. Bảo hiểm sức khỏe dài hạn có thời gian cân nhắc không dưới 15 ngày. Bảo hiểm mua qua ngân hàng có thời hạn trên một năm đều phải thỏa thuận 15 ngày cân nhắc trong hợp đồng, tính theo ngày lịch từ ngày bạn nhận đơn và ký xác nhận bằng văn bản. Bìa đơn loại này phải in cảnh báo: “Trong 15 ngày sau khi nhận hợp đồng bảo hiểm, quý khách có quyền hủy và hoàn toàn bộ phí (trừ không quá 10 nhân dân tệ phí hồ sơ). Hủy sau 15 ngày sẽ có tổn thất”. Hết thời gian cân nhắc vẫn có thể chấm dứt hợp đồng bất cứ lúc nào; công ty phải hoàn giá trị tiền mặt của hợp đồng (phần có thể hoàn) theo thỏa thuận trong 30 ngày. Cảnh báo rủi ro của cơ quan quản lý tài chính nói hủy bảo hiểm con người dài hạn sau thời gian cân nhắc thì giá trị tiền mặt thường thấp hơn tổng phí đã đóng. Với đơn mới thời hạn từ một năm trở lên, công ty phải gọi lại trong thời gian cân nhắc, xác nhận bạn biết tổn thất khi hủy và quyền trong thời gian này (toàn Trung Quốc, từ năm 2010, 2019).",
+    "notes": "Thời gian cân nhắc là quy tắc dành cho bảo hiểm con người từ một năm trở lên. Bảo hiểm y tế, tai nạn kỳ hạn một năm không bị quy định bắt buộc, có hay không phải xem điều khoản. Không mua qua ngân hàng thì số ngày theo hợp đồng; nhận đơn xong xem ngay mục “thời gian cân nhắc”. Bảo hiểm tích lũy, chia lãi đóng nhiều tiền, càng đáng tận dụng giai đoạn này; xem mục 25 của chương này (bảo hiểm thuần bảo vệ). Lợi ích xếp “trung bình” vì tiết kiệm được chênh lệch giữa phí đóng và giá trị tiền mặt, thường vài trăm đến vài nghìn nhân dân tệ, không có thống kê chính thức. Người hưởng lợi là bạn.",
+    "extra": ""
+  }
+}

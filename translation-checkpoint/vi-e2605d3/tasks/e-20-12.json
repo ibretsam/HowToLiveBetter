@@ -1,0 +1,36 @@
+{
+  "id": "e-20-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "d6eda30d8a2b091677cf98e595bc7580ef1770b97f67d2bd5ad4527a86818d36",
+  "original": {
+    "number": 12,
+    "title": "孩子有严重湿疹或鸡蛋过敏，别躲着花生，按医生指导早点加上，但绝不能喂整粒",
+    "fields": {
+      "cost": "一罐花生酱几十元。每周喂几次，顺手就做。加之前要带孩子看一次医生，做个评估。",
+      "plain": "有重度湿疹或鸡蛋过敏的婴儿，从 4 到 11 个月起定期吃花生。皮试原本没反应的，到 5 岁时吃的只有 1.9% 花生过敏，完全躲开的是 13.7%。皮试已经有点反应的，吃的是 10.6%，躲的是 35.3%。加之前先带孩子看医生，绝不能喂整粒花生，会呛进气管。",
+      "benefit": "英国 LEAP 随机试验。640 名婴儿入组，条件是有重度湿疹、鸡蛋过敏，或者两样都有。入组时 4 到 11 个月大。随机分成两组，一组定期吃花生制品，一组完全回避，到 60 个月大时看花生过敏率。入组时花生皮试阴性的 530 人里，回避组 13.7% 过敏，吃的组 1.9%（P<0.001）。入组时皮试已经弱阳性的 98 人里，回避组 35.3%，吃的组 10.6%（P=0.004）。两组的严重不良事件没有差别。",
+      "grade": "A",
+      "sources": "Du Toit G, Roberts G, Sayre PH, 等 (2015). Randomized trial of peanut consumption in infants at risk for peanut allergy. New England Journal of Medicine, 372(9), 803-813. <https://doi.org/10.1056/NEJMoa1414850>；国家卫生健康委办公厅 (2020). 婴幼儿喂养健康教育核心信息. <https://www.gov.cn/zhengce/zhengceku/2020-08/01/content_5531915.htm>；Perkin MR 等 (2016). Randomized Trial of Introduction of Allergenic Foods in Breast-Fed Infants. New England Journal of Medicine, 374(18), 1733-1743. <https://doi.org/10.1056/NEJMoa1514210>（备注里那项一般婴儿试验 EAT）",
+      "notes": "**形式只能是花生酱调稀或者花生粉拌进辅食，绝不能给整粒花生。**卫健委的喂养核心信息写得很明白：「整粒花生、坚果、果冻等食物易吸入气管，引起窒息，婴幼儿应当避免食用」。噎住了怎么办，不满 1 岁的见第 13 节第 43 条（婴儿噎住哭不出声），1 岁以上的见第 13 节第 26 条（有人噎住说不出话）。适用的只是高危孩子：有重度湿疹，或者已经对鸡蛋过敏的那些。**加之前必须先看医生做评估，不要自己在家试**：LEAP 试验入组前给每个孩子做了皮试。皮试反应大于 4 毫米的孩子被排除在试验之外，没让他们吃。一般孩子的证据弱得多。另一项 1162 名普通母乳喂养婴儿的试验里，按分组算，早引入组食物过敏 5.6%、常规组 7.1%，差别不显著（P=0.32）；只有在真正做到了的那部分孩子里才显著（2.4% 对 7.3%）。这种算法容易把效果说大，作者自己说按分组算没能证出效力，但也说明早引入是安全的。中国的官方喂养文件目前对「该早引入还是该回避易过敏食物」没有说法，所以这条按国际试验证据写。时间点上也要注意：LEAP 从 4 月龄起，而中国是满 6 月龄开始加辅食，见本节第 4 条（前 6 个月只喂母乳）。高危孩子几月龄开始、怎么开始，听医生的。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trẻ bị chàm nặng hoặc dị ứng trứng thì đừng tránh đậu phộng; hãy cho ăn sớm theo hướng dẫn của bác sĩ, nhưng tuyệt đối không cho ăn nguyên hạt",
+    "cost": "Một hũ bơ đậu phộng vài chục nhân dân tệ. Mỗi tuần cho ăn vài lần, có thể làm thuận tiện trong sinh hoạt. Trước khi bắt đầu phải đưa trẻ đi khám một lần để đánh giá.",
+    "plain": "Trẻ nhũ nhi bị chàm nặng hoặc dị ứng trứng bắt đầu ăn đậu phộng đều đặn từ lúc 4 đến 11 tháng tuổi. Với những trẻ ban đầu không phản ứng khi thử trên da, đến 5 tuổi chỉ 1.9% nhóm ăn bị dị ứng đậu phộng, so với 13.7% nhóm tránh hoàn toàn. Với trẻ đã có phản ứng nhẹ trên da, tỷ lệ ở nhóm ăn là 10.6%, nhóm tránh là 35.3%. Trước khi cho ăn phải đưa trẻ đi khám; tuyệt đối không cho ăn nguyên hạt vì có thể lọt vào khí quản.",
+    "benefit": "Thử nghiệm ngẫu nhiên LEAP ở Anh tuyển 640 trẻ nhũ nhi có chàm nặng, dị ứng trứng hoặc cả hai. Khi tham gia, trẻ từ 4 đến 11 tháng tuổi. Trẻ được chia ngẫu nhiên thành hai nhóm: một nhóm ăn sản phẩm đậu phộng đều đặn, một nhóm tránh hoàn toàn, rồi đánh giá tỷ lệ dị ứng đậu phộng lúc 60 tháng tuổi. Trong 530 trẻ có kết quả thử đậu phộng trên da âm tính khi tham gia, tỷ lệ dị ứng là 13.7% ở nhóm tránh và 1.9% ở nhóm ăn (P<0.001). Trong 98 trẻ đã có kết quả thử da dương tính nhẹ khi tham gia, tỷ lệ là 35.3% ở nhóm tránh và 10.6% ở nhóm ăn (P=0.004). Biến cố bất lợi nghiêm trọng không khác nhau giữa hai nhóm.",
+    "notes": "**Chỉ cho ăn bơ đậu phộng pha loãng hoặc bột đậu phộng trộn vào thức ăn dặm, tuyệt đối không cho ăn nguyên hạt.** Thông tin cốt lõi về nuôi dưỡng của Ủy ban Y tế Quốc gia nêu rõ: “Đậu phộng nguyên hạt, các loại hạt, thạch và thực phẩm tương tự dễ lọt vào khí quản gây ngạt; trẻ nhũ nhi và trẻ nhỏ cần tránh ăn”. Cách xử trí hóc nghẹn: trẻ chưa đủ 1 tuổi xem chương 13 mục 43 (trẻ nhũ nhi bị nghẹn không khóc thành tiếng), trẻ từ 1 tuổi trở lên xem chương 13 mục 26 (có người bị nghẹn không nói được). Hướng dẫn chỉ áp dụng cho trẻ nguy cơ cao: chàm nặng hoặc đã dị ứng trứng. **Trước khi bắt đầu phải được bác sĩ khám và đánh giá, đừng tự thử tại nhà**: trước khi tuyển vào thử nghiệm LEAP, mọi trẻ đều được thử trên da. Trẻ có phản ứng trên da lớn hơn 4 milimét bị loại khỏi thử nghiệm, không được cho ăn. Bằng chứng với trẻ nói chung yếu hơn nhiều. Trong một thử nghiệm khác gồm 1162 trẻ bú mẹ thông thường, tính theo nhóm được phân ban đầu, tỷ lệ dị ứng thực phẩm ở nhóm cho ăn sớm là 5.6%, nhóm theo cách thông thường là 7.1%, khác biệt không có ý nghĩa thống kê (P=0.32). Chỉ khi xét phần trẻ thực sự làm đúng mới thấy khác biệt có ý nghĩa (2.4% so với 7.3%). Cách tính này dễ làm hiệu quả có vẻ lớn hơn; chính tác giả nói tính theo nhóm phân ban đầu chưa chứng minh được hiệu quả, nhưng cũng cho thấy cho ăn sớm là an toàn. Các văn bản chính thức về nuôi dưỡng ở Trung Quốc hiện chưa nêu nên cho ăn sớm hay tránh thực phẩm dễ gây dị ứng, nên mục này dựa trên bằng chứng thử nghiệm quốc tế. Cũng phải lưu ý thời điểm: LEAP bắt đầu từ 4 tháng tuổi, trong khi Trung Quốc bắt đầu ăn dặm từ đủ 6 tháng tuổi, xem mục 4 của chương này (bú mẹ hoàn toàn trong 6 tháng đầu). Trẻ nguy cơ cao nên bắt đầu lúc mấy tháng và bắt đầu thế nào, hãy theo bác sĩ.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-12-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "e7157ff8837e23652b18529645b987d0d09e892cfbecc86feb03be80c6fed58c",
+  "original": {
+    "number": 10,
+    "title": "普通食品不许说能治病：标签、说明书、广告和直播话术都算",
+    "fields": {
+      "cost": "不花钱。把宣传语、商品详情页和直播的话术过一遍。难的是忍住不说「降三高」「治便秘」这类话。",
+      "plain": "普通食品的标签、说明书和广告里，都不能说自己能防病治病。除了医疗、药品、医疗器械这三类广告，别的广告都不许说能治病，也不许用听着像药的词。罚的是广告费的 1 到 3 倍，算不出广告费的罚 10 万到 20 万。情节严重的还能吊销营业执照。",
+      "benefit": "食品安全法：「食品和食品添加剂的标签、说明书，不得含有虚假内容，不得涉及疾病预防、治疗功能。生产经营者对其提供的标签、说明书的内容负责」。「食品广告的内容应当真实合法，不得含有虚假内容，不得涉及疾病预防、治疗功能。食品生产经营者对食品广告内容的真实性、合法性负责」。意思是包装、说明书和广告里都不能说自己能防病治病，写了什么由卖家自己担责。在广告里对食品吹牛、骗消费者的，按广告法罚。广告法也有一条禁令。「除医疗、药品、医疗器械广告外，禁止其他任何广告涉及疾病治疗功能，并不得使用医疗用语或者易使推销的商品与药品、医疗器械相混淆的用语」。除了医疗、药品、医疗器械这三类广告，其他广告一律不许说能治病，也不许用听着像药、像医疗器械的词。违反这一条的，勒令停掉广告。还要让出广告的那一方（广告主）在发过的范围里公开澄清、消除影响。再按广告费用的 1 倍以上 3 倍以下罚钱。广告费用算不出来，或者报得明显偏低的，罚 10 万元以上 20 万元以下。情节严重的，按广告费用的 3 倍以上 5 倍以下罚，或者罚 20 万元以上 100 万元以下。还可以把营业执照吊销，生意直接做不成（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025 年第三次修正). 食品安全法（第七十一、七十三、一百二十五、一百四十条）. <https://flk.npc.gov.cn/detail?id=7b5a76d0461745a08d3f964916b87ef3>；全国人大常委会 (2021 年修正). 广告法（第十七、五十八条）. <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd6bd860052d>",
+      "notes": "「保健功能」也不是普通食品能说的。保健食品能声称的保健功能，只能从国家定的目录里来，产品还要经过注册或者备案，普通食品没有这道程序。买家怎么识别这类话术，见第 6 节第 10 条（不要花大钱买保健品调理身体）。除了包装和广告，详情页、直播话术、朋友圈文案同样算广告内容，发出去就留下了痕迹。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thực phẩm thông thường không được tuyên bố chữa bệnh: nhãn, hướng dẫn, quảng cáo và lời nói khi phát trực tiếp đều tính",
+    "cost": "Không tốn tiền. Rà lại khẩu hiệu, trang chi tiết sản phẩm và lời nói khi phát trực tiếp. Điều khó là kiềm chế không nói những câu như “hạ huyết áp, đường huyết, mỡ máu” hay “chữa táo bón”.",
+    "plain": "Nhãn, hướng dẫn và quảng cáo của thực phẩm thông thường đều không được nói sản phẩm phòng hoặc chữa bệnh. Trừ quảng cáo y tế, thuốc và thiết bị y tế, mọi quảng cáo khác đều không được nói chữa bệnh hoặc dùng từ nghe như thuốc. Mức phạt gấp 1 đến 3 lần chi phí quảng cáo; không tính được chi phí thì phạt từ 10 vạn đến 20 vạn. Nghiêm trọng còn có thể bị thu hồi giấy phép đăng ký kinh doanh.",
+    "benefit": "Luật An toàn thực phẩm quy định: “Nhãn, hướng dẫn của thực phẩm và phụ gia thực phẩm không được có nội dung giả, không được đề cập chức năng phòng ngừa, điều trị bệnh. Người sản xuất kinh doanh chịu trách nhiệm về nội dung nhãn và hướng dẫn mình cung cấp.” “Nội dung quảng cáo thực phẩm phải trung thực, hợp pháp, không có nội dung giả, không đề cập chức năng phòng ngừa, điều trị bệnh. Người sản xuất kinh doanh thực phẩm chịu trách nhiệm về tính trung thực, hợp pháp của quảng cáo.” Nghĩa là bao bì, hướng dẫn và quảng cáo đều không được nói thực phẩm phòng, chữa bệnh; người bán chịu trách nhiệm về những gì viết ra. Thổi phồng thực phẩm trong quảng cáo để lừa người tiêu dùng bị phạt theo Luật Quảng cáo. Luật này cũng cấm: “Ngoại trừ quảng cáo y tế, thuốc và thiết bị y tế, mọi quảng cáo khác đều bị cấm đề cập chức năng điều trị bệnh; không được dùng thuật ngữ y tế hoặc từ ngữ dễ làm nhầm hàng được quảng bá với thuốc, thiết bị y tế.” Ngoài ba loại quảng cáo đó, không quảng cáo nào được nói chữa bệnh hay dùng từ nghe như thuốc, thiết bị y tế. Vi phạm bị buộc ngừng quảng cáo; bên đặt quảng cáo còn phải công khai đính chính, khắc phục ảnh hưởng trong phạm vi đã quảng bá. Sau đó bị phạt từ 1 đến 3 lần chi phí quảng cáo. Không tính được chi phí hoặc khai thấp rõ rệt thì phạt từ 10 vạn đến 20 vạn nhân dân tệ. Trường hợp nghiêm trọng phạt từ 3 đến 5 lần chi phí, hoặc từ 20 vạn đến 100 vạn nhân dân tệ. Còn có thể thu hồi giấy phép đăng ký kinh doanh, khiến việc kinh doanh phải dừng hẳn (toàn quốc).",
+    "notes": "Thực phẩm thông thường cũng không được tuyên bố “chức năng bảo vệ sức khỏe”. Chức năng mà thực phẩm bảo vệ sức khỏe được công bố chỉ lấy từ danh mục nhà nước quy định; sản phẩm còn phải đăng ký hoặc lập hồ sơ. Thực phẩm thông thường không qua thủ tục đó. Cách người mua nhận diện lời quảng bá này xem chương 6 mục 10 (đừng tốn nhiều tiền mua thực phẩm bảo vệ sức khỏe để bồi bổ). Ngoài bao bì và quảng cáo, trang chi tiết sản phẩm, lời nói khi phát trực tiếp và bài đăng Moments cũng là nội dung quảng cáo; đăng lên là để lại dấu vết.",
+    "extra": ""
+  }
+}

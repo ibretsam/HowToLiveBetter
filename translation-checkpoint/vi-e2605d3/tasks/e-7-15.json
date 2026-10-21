@@ -1,0 +1,35 @@
+{
+  "id": "e-7-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "293bd1aa09c42c2acfa9975efcd6bcc487e6bd4f60bc9af37d99f225e313d17a",
+  "original": {
+    "number": 15,
+    "title": "不交押金、不押证件、不签「培训贷」、不进传销、不借高利贷",
+    "fields": {
+      "cost": "不花钱。遇到「先交钱再上岗」「先培训再安排工作」「拉人头」这三种说法，当场拒绝。留好聊天记录和转账凭证。难在越缺钱越想赌一把，当场说「不」不容易。",
+      "plain": "用人单位不能扣你的身份证，不能收押金，也不能换个名目收钱。中介没给你介绍成工作，必须退中介费。先交培训费再上岗的培训贷、靠拉人头算钱的传销，都是官方点名的骗局。借钱的利息超过一年期 LPR 四倍的部分，法院不支持，但本金照还。",
+      "benefit": "公司不得扣押你的身份证等证件，不得要你找人担保，也不得换个名目收你的钱和物。违反的责令退还，并按每人 500 元以上 2000 元以下罚款。职业中介同样不得扣证件、收押金，工作没介绍成，必须把中介费退给你。打着招聘的名义，诱导你先交培训费或者先贷款，这是人社部等五部门点名提示的「招转培」「培训贷」骗局。靠拉人头算提成、交了钱才能加入的，属于传销，参加的人可罚 2000 元以下。民间借贷的利息，超过签合同时一年期 LPR 4 倍的那部分，法院不支持。这条新规矩取代了原来按 24%、36% 两条线划三段的老办法（全国，2020 年 8 月起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 劳动合同法（主席令第六十五号，第九、八十四条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；劳动保障部 (2007). 就业服务与就业管理规定（劳动保障部令第 28 号，第十四、五十五、五十八条）. <https://www.gov.cn/zhengce/2022-11/28/content_5711307.htm>；人力资源社会保障部等五部门 (2026). 警惕「招转培」「培训贷」等风险提示. <https://chinajob.mohrss.gov.cn/h5/c/2026-05-18/543038.shtml>；国务院 (2005). 禁止传销条例（国务院令第 444 号，第二、七、二十四条）. <https://www.gov.cn/gongbao/content/2005/content_80604.htm>；最高人民法院 (2020). 关于修改《关于审理民间借贷案件适用法律若干问题的规定》的决定（法释〔2020〕6 号，第二十六条）. <https://www.court.gov.cn/fabu/xiangqing/249031.html>；最高人民法院 (2020). 民间借贷利率司法保护上限调整为「一年期 LPR 的 4 倍」. <https://www.court.gov.cn/zixun/xiangqing/249051.html>",
+      "notes": "4 倍 LPR 是法院愿意保护的利息上限，不是「借了可以不还」，本金照还。这份司法解释 2020 年 12 月又改过一次，条文序号有变，以现行文本为准。分期和网贷的手续费怎么换算成年化利率，见第 5 节第 7 条（把利息换成年化利率）。越急着用钱，越容易被这些套路盯上。先走本节前面那几条正规渠道：失业保险金、劳动监察投诉、法律援助、救助站、临时救助。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không nộp tiền đặt cọc, không để giữ giấy tờ, không ký “khoản vay đào tạo”, không vào đa cấp bất hợp pháp, không vay nặng lãi",
+    "cost": "Không tốn tiền. Gặp ba cách nói “nộp tiền trước rồi nhận việc”, “đào tạo trước rồi bố trí việc”, “tuyển thêm người vào mạng lưới” thì từ chối ngay tại chỗ. Giữ kỹ lịch sử trò chuyện và chứng từ chuyển khoản. Cái khó là càng thiếu tiền càng muốn đánh cược một lần, nói “không” ngay tại chỗ không dễ.",
+    "plain": "Đơn vị sử dụng lao động không được giữ căn cước, thu tiền đặt cọc hay đổi tên khoản thu để lấy tiền bạn. Môi giới không giới thiệu việc thành công thì phải hoàn phí môi giới. Khoản vay đào tạo buộc nộp học phí trước khi nhận việc, đa cấp bất hợp pháp tính tiền theo tuyển thêm người đều là thủ đoạn lừa đảo được cơ quan chức năng chỉ rõ. Phần lãi vay vượt bốn lần LPR kỳ hạn một năm không được tòa bảo vệ, nhưng tiền gốc vẫn phải trả.",
+    "benefit": "Công ty không được giữ căn cước và giấy tờ khác, không được yêu cầu bạn tìm người bảo lãnh hay lấy tiền, tài sản của bạn dưới tên gọi khác. Vi phạm thì bị buộc trả lại và phạt từ 500 đến 2000 nhân dân tệ mỗi người. Môi giới việc làm cũng không được giữ giấy tờ, thu tiền đặt cọc; giới thiệu việc không thành công thì phải hoàn phí môi giới. Lấy danh nghĩa tuyển dụng để dụ bạn nộp học phí trước hoặc vay tiền trước là thủ đoạn “tuyển dụng chuyển thành đào tạo”, “khoản vay đào tạo” được Bộ Nhân lực và An sinh xã hội cùng các cơ quan khác, tổng cộng năm cơ quan, chỉ rõ cảnh báo. Tính hoa hồng theo tuyển thêm người, phải nộp tiền mới được vào là đa cấp bất hợp pháp; người tham gia có thể bị phạt không quá 2000 nhân dân tệ. Phần lãi vay dân sự vượt 4 lần LPR kỳ hạn một năm tại thời điểm ký hợp đồng không được tòa bảo vệ. Quy tắc mới thay cách cũ chia ba vùng theo hai ngưỡng 24%, 36% (toàn Trung Quốc, từ tháng 8 năm 2020).",
+    "notes": "4 lần LPR là trần lãi được tòa bảo vệ, không có nghĩa “vay rồi có thể không trả”; tiền gốc vẫn phải trả. Giải thích tư pháp này được sửa thêm một lần vào tháng 12 năm 2020, số thứ tự điều khoản thay đổi, lấy văn bản hiện hành làm chuẩn. Cách quy đổi phí trả góp và vay trực tuyến thành lãi suất năm xem chương 5 mục 7 (quy đổi lãi sang lãi suất năm). Càng cần tiền gấp càng dễ bị những thủ đoạn này nhắm đến. Hãy dùng các kênh chính thức ở các mục trước của chương này: trợ cấp bảo hiểm thất nghiệp, khiếu nại thanh tra lao động, trợ giúp pháp lý, trạm cứu trợ, cứu trợ tạm thời.",
+    "extra": ""
+  }
+}

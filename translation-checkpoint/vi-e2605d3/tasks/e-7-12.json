@@ -1,0 +1,35 @@
+{
+  "id": "e-7-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "b009a6c761f3ed694c514030d2098d7690f0aa80b8a2133082d0aca2485e02a2",
+  "original": {
+    "number": 12,
+    "title": "办失业登记后争取就业困难人员认定，拿社保补贴或公益性岗位",
+    "fields": {
+      "cost": "不花钱。到街道或者社区的公共就业服务机构申请认定。认定条件各地不同，常见的有大龄、长期失业、低保家庭、残疾、零就业家庭这几类。要先办好失业登记才能申请。难在得一项项核对自己够不够条件，社保还要先垫钱。",
+      "plain": "认定下来之后，自己交社保能拿补贴，原则上不超过你实际交的三分之二，最长 3 年。被单位招用、或者安排到公益性岗位的，单位那部分社保也有补贴。公益性岗位的补贴参照当地最低工资，这类岗位钱不多，但带社保，适合过渡。社保补贴多是先交后补，得先垫钱。",
+      "benefit": "认定下来之后，没有单位、自己交社保的（这叫灵活就业）可以拿社保补贴。补贴标准原则上不超过你实际交的 2/3，最长拿 3 年。被单位招用、或者被安排到公益性岗位的，单位按实际缴纳的养老、医疗、失业保险费拿补贴。公益性岗位就是政府出钱开发的岗位，它的补贴参照当地最低工资。政府开发的公益性岗位，优先安排就业困难人员。另外还有一次性求职补贴，发给高校毕业生。范围是低保家庭、零就业家庭、特困人员里的毕业生。残疾的、拿过国家助学贷款的毕业生也算。这笔钱在毕业那一学年领（全国框架，认定条件与金额地方定）",
+      "grade": "B",
+      "sources": "财政部、人力资源社会保障部 (2023 修订). 就业补助资金管理办法（财社〔2017〕164 号，2023 年 12 月修订印发）. <https://www.gov.cn/zhengce/zhengceku/202401/content_6926462.htm>；全国人大常委会 (2007, 2015 修正). 就业促进法（第五十二、五十三条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647636.htm>",
+      "notes": "公益性岗位工资不高，但有社保，适合过渡。社保补贴多是先交后补，要先垫钱。具体条件问 12333 或者街道。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đăng ký thất nghiệp xong thì xin công nhận là người gặp khó khăn tìm việc, để nhận hỗ trợ bảo hiểm xã hội hoặc việc làm công ích",
+    "cost": "Không tốn tiền. Xin công nhận tại cơ sở dịch vụ việc làm công của khu phố hoặc cộng đồng dân cư. Điều kiện mỗi nơi khác nhau, thường có các nhóm lớn tuổi, thất nghiệp lâu, hộ hưởng trợ cấp bảo đảm mức sống tối thiểu, người khuyết tật, hộ không ai có việc. Phải đăng ký thất nghiệp xong mới được nộp đơn. Cái khó là phải đối chiếu từng điều kiện và còn phải ứng trước tiền bảo hiểm xã hội.",
+    "plain": "Được công nhận rồi, tự đóng bảo hiểm xã hội thì có thể nhận hỗ trợ, về nguyên tắc không quá hai phần ba số thực đóng, tối đa 3 năm. Được đơn vị tuyển hoặc bố trí vào việc làm công ích thì phần bảo hiểm xã hội do đơn vị đóng cũng được hỗ trợ. Trợ cấp việc làm công ích căn cứ lương tối thiểu địa phương; tiền không nhiều nhưng có bảo hiểm xã hội, phù hợp giai đoạn chuyển tiếp. Hỗ trợ bảo hiểm xã hội phần lớn là đóng trước nhận bù sau, phải ứng tiền trước.",
+    "benefit": "Sau khi được công nhận, không có đơn vị và tự đóng bảo hiểm xã hội, gọi là việc làm linh hoạt, thì có thể nhận hỗ trợ bảo hiểm xã hội. Mức hỗ trợ về nguyên tắc không quá 2/3 số thực đóng, nhận tối đa 3 năm. Được đơn vị tuyển hoặc bố trí vào việc làm công ích thì đơn vị được hỗ trợ theo số thực đóng bảo hiểm hưu trí, y tế, thất nghiệp. Việc làm công ích là vị trí chính quyền chi tiền tạo ra, trợ cấp tham chiếu lương tối thiểu địa phương. Các vị trí công ích do chính quyền tạo được ưu tiên bố trí cho người gặp khó khăn tìm việc. Còn có trợ cấp tìm việc một lần cho sinh viên tốt nghiệp đại học, cao đẳng. Phạm vi gồm người tốt nghiệp thuộc hộ hưởng trợ cấp bảo đảm mức sống tối thiểu, hộ không ai có việc hoặc diện đặc biệt khó khăn. Người tốt nghiệp khuyết tật, từng nhận khoản vay hỗ trợ học tập của nhà nước cũng được tính. Khoản này nhận trong năm học tốt nghiệp (khung toàn Trung Quốc, điều kiện công nhận và mức tiền do địa phương quy định).",
+    "notes": "Lương việc làm công ích không cao nhưng có bảo hiểm xã hội, phù hợp giai đoạn chuyển tiếp. Hỗ trợ bảo hiểm xã hội phần lớn là đóng trước nhận bù sau, cần ứng tiền trước. Điều kiện cụ thể hỏi 12333 hoặc khu phố.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-26-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "bcac129b2a5e9b523593b9c7748107c8e06728e76889d7f73af5d3b77bae795c",
+  "original": {
+    "number": 8,
+    "title": "不给未满 16 周岁的人开直播，打赏按年龄分档处理",
+    "fields": {
+      "cost": "不花钱。在注册和付款这两步各加一道流程：先判断年龄，再确认监护人同意过",
+      "plain": "不满 16 周岁的人，不能在你这里注册开播账号。满 16 周岁的要核验身份，还要父母或其他监护人同意。打赏分三档：不满 8 岁不能打赏，8 到 16 岁要监护人同意，16 岁以上要监护人同意或核验收入证明。孩子背着监护人打赏的钱，监护人来要，法院会判退还。",
+      "benefit": "法律原话是「网络直播服务提供者不得为未满十六周岁的未成年人提供网络直播发布者账号注册服务；为年满十六周岁的未成年人提供网络直播发布者账号注册服务时，应当对其身份信息进行认证，并征得其父母或者其他监护人同意」。条例还要求「建立网络直播发布者真实身份信息动态核验机制」，开播的人的身份，你要能随时复核一遍。另外要「合理限制不同年龄阶段未成年人在使用其服务中的单次消费数额和单日累计消费数额」，按年龄给未成年人设单笔和单日的花钱上限。打赏现在分三档：「不得向八周岁以下的未成年人提供打赏服务。向八周岁至十六周岁的未成年人提供打赏服务，应征得其监护人同意。向十六周岁以上的未成年人提供打赏服务，应征得其监护人同意或核验其收入证明材料」。还有一条：限制民事行为能力人没经监护人同意就打赏的，监护人来要钱，法院应予支持，钱能要回去。限制民事行为能力人指法律上还不能完全自己做主的未成年人（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020). 未成年人保护法（第七十四、七十六条）. <https://www.cac.gov.cn/2020-10/22/c_1604928959588622.htm> ; 国务院 (2023). 未成年人网络保护条例（国务院令第 766 号，第三十一、四十四条）. <https://www.gov.cn/gongbao/2023/issue_10806/202311/content_6913813.html> ; 中央网信办秘书局 (2026). 关于加强网络直播打赏规范管理的通知（第 7 项）. <https://www.cac.gov.cn/2026-04/13/c_1777815804150225.htm> ; 最高人民法院 (2020). 关于依法妥善审理涉新冠肺炎疫情民事案件若干问题的指导意见（二）（法发〔2020〕17 号，第九条）. <https://www.court.gov.cn/fabu/xiangqing/230181.html>",
+      "notes": "真起了退款争议，按对未成年人最有利的方向处理。这件事的说法改过。2022 年四部门的意见和广电总局 2020 年的通知，说的都是未成年人一律不得打赏。2026 年 4 月的新通知改成按 8 岁、16 岁分档，却没写明前两份作废，官方也没说两者怎么衔接。所以「未成年人一律禁止打赏」这句话现在不准确"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không cho người chưa đủ 16 tuổi mở phát trực tiếp; xử lý tiền tặng theo từng nhóm tuổi",
+    "cost": "Không tốn tiền. Thêm một bước ở đăng ký và thanh toán: xác định tuổi trước, rồi xác nhận người giám hộ đã đồng ý.",
+    "plain": "Người chưa đủ 16 tuổi không được đăng ký tài khoản phát trực tiếp ở chỗ bạn. Người đủ 16 tuổi phải được xác minh danh tính, còn cần cha mẹ hoặc người giám hộ khác đồng ý. Tặng tiền chia ba nhóm: chưa đủ 8 tuổi không được tặng; 8 đến 16 tuổi cần người giám hộ đồng ý; từ 16 tuổi trở lên cần người giám hộ đồng ý hoặc kiểm tra chứng minh thu nhập. Tiền trẻ tặng khi giấu người giám hộ, người giám hộ đòi thì tòa sẽ buộc hoàn lại.",
+    "benefit": "Luật ghi: ‘Bên cung cấp dịch vụ phát trực tiếp không được cấp dịch vụ đăng ký tài khoản người phát cho người chưa thành niên chưa đủ mười sáu tuổi; khi cấp cho người chưa thành niên đã đủ mười sáu tuổi phải xác thực thông tin danh tính và được cha mẹ hoặc người giám hộ khác đồng ý’. Điều lệ còn yêu cầu ‘xây dựng cơ chế xác minh linh hoạt, liên tục thông tin danh tính thật của người phát trực tiếp’, nghĩa là có thể kiểm tra lại danh tính người phát bất kỳ lúc nào. Còn phải ‘hạn chế hợp lý số tiền mỗi lần và tổng số tiền mỗi ngày của người chưa thành niên ở các nhóm tuổi khác nhau khi sử dụng dịch vụ’; đặt hạn mức từng lần, từng ngày theo tuổi. Hiện tặng tiền chia ba nhóm: ‘Không được cung cấp dịch vụ tặng tiền cho người chưa thành niên từ tám tuổi trở xuống. Cung cấp dịch vụ này cho người chưa thành niên từ tám đến mười sáu tuổi phải được người giám hộ đồng ý. Cung cấp cho người chưa thành niên từ mười sáu tuổi trở lên phải được người giám hộ đồng ý hoặc xác minh giấy tờ chứng minh thu nhập’. Còn một quy định: người có năng lực hành vi dân sự hạn chế tặng tiền khi chưa có người giám hộ đồng ý, người giám hộ đòi lại thì tòa phải chấp nhận, có thể lấy tiền về. Người có năng lực hành vi dân sự hạn chế ở đây là người chưa thành niên theo luật chưa được hoàn toàn tự quyết (toàn quốc).",
+    "notes": "Khi có tranh chấp hoàn tiền, xử lý theo hướng có lợi nhất cho người chưa thành niên. Cách quy định đã thay đổi. Ý kiến của bốn cơ quan năm 2022 và thông báo của Tổng cục Phát thanh, Truyền hình năm 2020 đều nói cấm toàn bộ người chưa thành niên tặng tiền. Thông báo mới tháng 4 năm 2026 đổi sang phân nhóm theo tuổi 8 và 16, nhưng không nói rõ hai văn bản trước hết hiệu lực; cũng chưa có giải thích chính thức về cách áp dụng cùng nhau. Vì vậy câu ‘cấm toàn bộ người chưa thành niên tặng tiền’ hiện không còn chính xác.",
+    "extra": ""
+  }
+}

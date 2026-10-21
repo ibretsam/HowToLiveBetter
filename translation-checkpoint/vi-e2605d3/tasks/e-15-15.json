@@ -1,0 +1,35 @@
+{
+  "id": "e-15-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "01c8b2e4b59235e7851b77cce0a6c0a1d45297221cb5be1634ab9ca60337414e",
+  "original": {
+    "number": 15,
+    "title": "背着浮动利率房贷的，利率比新发放的房贷高出一截时，找银行协商降利率或者申请置换",
+    "fields": {
+      "cost": "不花钱。打银行客服电话或者在手机银行里申请，一次几十分钟。银行不一定同意",
+      "plain": "房贷利率是在一个基准利率上加几个点，加的点原来签死不变，2024 年起允许你和银行商量改。你的利率比全国新发放的房贷高出一截，可以找银行商量降，或者申请新贷款换掉旧的。贷 100 万元、30 年，利率低半个百分点，利息少约 10 万元。",
+      "benefit": "人民银行 2024 年的公告允许借贷双方协商变更房贷利率在 LPR 基础上的加点幅度。LPR 是贷款市场报价利率，房贷利率按它加点或减点。人民银行负责人答记者问说，原来合同里的加点幅度在整个贷款期限内固定不变，这次改了。2026 年 8 月，人民银行和金融监管总局又写进文件：已发放的浮动利率房贷，利率和全国新发放的房贷利率偏离到一定幅度时，「借款人可以与银行业金融机构协商变更合同约定的利率水平，或申请新发放浮动利率个人住房贷款置换存量贷款，方式应由借款人自主选择」。新贷款的金额不得高于原贷款剩下的本金。能省多少，下面是按等额本息公式自己算的例子。贷 100 万元、30 年，年利率 4.0% 时月供约 4774 元，3.5% 时约 4490 元。每月少约 284 元，30 年少付利息约 10 万元",
+      "grade": "A",
+      "sources": "中国人民银行、金融监管总局 (2026). 关于改革完善房地产信贷管理推动加快构建房地产发展新模式的意见（银发〔2026〕171 号，第二十四条）. <https://www.gov.cn/gongbao/2026/issue_13026/202610/content_7082770.html>；中国人民银行 (2024). 中国人民银行有关负责人就完善商业性个人住房贷款利率定价机制有关问题答记者问（介绍中国人民银行公告〔2024〕第 11 号）. <https://www.gov.cn/zhengce/202409/content_6977671.htm>",
+      "notes": "偏离到多大幅度才能谈，文件没写具体数，以你贷款银行的公告为准。这条管的是银行发放的浮动利率房贷。银行不同意降、你手里又有闲钱的，可以按第 5 节第 28 条（提前还房贷）的算法比一比。置换不能多借，新贷款不能超过旧贷款剩下的本金。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đang vay mua nhà với lãi suất thả nổi mà lãi suất cao hơn đáng kể so với khoản vay mua nhà mới, hãy thương lượng với ngân hàng để giảm lãi hoặc xin vay thay thế",
+    "cost": "Không tốn tiền. Gọi chăm sóc khách hàng của ngân hàng hoặc nộp yêu cầu trên ứng dụng ngân hàng, một lần vài chục phút. Ngân hàng chưa chắc đồng ý",
+    "plain": "Lãi vay mua nhà được tính bằng lãi suất cơ sở cộng thêm một phần; phần cộng thêm vốn được ký cố định, từ năm 2024 bạn được phép thương lượng lại với ngân hàng. Nếu lãi suất của bạn cao hơn đáng kể so với khoản vay mua nhà mới trên toàn quốc, có thể thương lượng giảm hoặc xin khoản vay mới thay khoản cũ. Vay 100 vạn nhân dân tệ trong 30 năm, lãi suất giảm nửa điểm phần trăm thì tiền lãi giảm khoảng 10 vạn nhân dân tệ.",
+    "benefit": "Thông báo năm 2024 của Ngân hàng Nhân dân cho phép bên vay và bên cho vay thương lượng thay đổi phần cộng thêm vào LPR của lãi suất vay mua nhà. LPR là lãi suất cho vay tham chiếu của thị trường; lãi vay mua nhà được tính bằng LPR cộng hoặc trừ một phần. Đại diện Ngân hàng Nhân dân trả lời báo chí rằng trước đây phần cộng thêm trong hợp đồng được cố định suốt thời hạn vay, lần này đã thay đổi. Tháng 8 năm 2026, Ngân hàng Nhân dân và Tổng cục Giám sát quản lý tài chính tiếp tục ghi trong văn bản: với khoản vay mua nhà lãi suất thả nổi đã giải ngân, khi lãi suất lệch đến một mức nhất định so với khoản vay mua nhà mới trên toàn quốc, “người vay có thể thương lượng với tổ chức tài chính ngân hàng để thay đổi mức lãi suất thỏa thuận trong hợp đồng, hoặc xin khoản vay nhà ở cá nhân lãi suất thả nổi mới để thay khoản vay hiện có; phương thức do người vay tự lựa chọn”. Khoản vay mới không được vượt dư nợ gốc của khoản cũ. Tiết kiệm bao nhiêu, dưới đây là ví dụ tác giả tự tính theo công thức trả góp đều tổng gốc và lãi. Vay 100 vạn nhân dân tệ trong 30 năm, lãi năm 4.0% thì mỗi tháng trả khoảng 4774 nhân dân tệ, 3.5% thì khoảng 4490 nhân dân tệ. Mỗi tháng bớt khoảng 284 nhân dân tệ, trong 30 năm bớt khoảng 10 vạn nhân dân tệ tiền lãi",
+    "notes": "Lệch bao nhiêu mới thương lượng được thì văn bản không ghi số cụ thể; theo thông báo của ngân hàng cho bạn vay. Quy định này áp dụng khoản vay mua nhà lãi suất thả nổi do ngân hàng cấp. Ngân hàng không chịu giảm mà bạn có tiền nhàn rỗi thì có thể so sánh theo cách tính ở mục 28 chương 5 (trả khoản vay mua nhà trước hạn). Vay thay thế không được vay thêm: khoản mới không được vượt dư nợ gốc của khoản cũ.",
+    "extra": ""
+  }
+}

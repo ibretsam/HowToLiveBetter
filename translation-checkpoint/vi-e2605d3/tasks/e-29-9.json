@@ -1,0 +1,35 @@
+{
+  "id": "e-29-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "65c34e3a649798545f19129c99958e3537b71ae92d43e40a3903173aadc109c5",
+  "original": {
+    "number": 9,
+    "title": "别一上来就花钱做哀伤咨询，先看自己的哀伤是不是真的卡住了（第 8 条那几条症状）",
+    "fields": {
+      "cost": "不花钱，反过来省下一笔咨询费。",
+      "plain": "给所有丧亲的人都安排心理咨询，好处很小，过一阵就看不出来了，因为多数人本来会自己缓过来。但对已经明显适应不了的人，治疗和治别的心理问题一样有效。所以先对照第 8 条（哀伤卡住了去精神科），对上了再花这笔钱。",
+      "benefit": "61 项对照研究合起来算。给丧亲的人普遍做心理干预，在治疗刚结束时好处很小，隔一段时间再看就看不出好处了。只招收「已经明显适应不了」的丧亲者的干预，效果和治疗其他心理问题的心理治疗一样好。事先不做筛查的研究结果不好，原因是没做干预的那一组本来也会随时间自己缓过来。另有 14 项抽签分组试验合起来算：对已经出问题的人做的治疗，在治疗后和之后回访时都明显好于对照，隔一段时间效果还在变大。对还没出问题的人普遍做的预防性干预无效。还有一项研究把 205 人从丧偶前一直跟到丧偶后 6、18 个月。这项研究分出五种走向。分别是普通哀伤、长期哀伤、长期抑郁、丧亲期间反而好转、韧性（扛得住）。其中韧性型最常见，普通哀伤型相对少见",
+      "grade": "A",
+      "sources": "Currier JM, et al. (2008). The effectiveness of psychotherapeutic interventions for bereaved persons: a comprehensive quantitative review. Psychological Bulletin. <https://doi.org/10.1037/0033-2909.134.5.648>；Wittouck C, et al. (2011). The prevention and treatment of complicated grief: a meta-analysis. Clinical Psychology Review. <https://doi.org/10.1016/j.cpr.2010.09.005>；Bonanno GA, et al. (2002). Resilience to loss and chronic grief: a prospective study from preloss to 18-months postloss. Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.83.5.1150>；Stroebe M 等 (2007). Health outcomes of bereavement. Lancet. <https://doi.org/10.1016/S0140-6736(07)61816-9>（备注里那份综述）",
+      "notes": "这里说的是「不必人人做」，不是「都别做」。第 4 条（亲人死于自杀、意外或凶案）那类高危丧亲，正是有证据支持该做的人。第 8 条（哀伤卡住了去精神科）那类已经卡住的人也是。一篇 Lancet 综述的结论也是这样：哀伤不是病，多数人不需要专业干预。该把力气用在高危的人身上。也用在已经出现复杂哀伤、丧亲后抑郁和应激障碍的人身上。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng vội bỏ tiền tham vấn đau buồn ngay từ đầu; trước hết xem mình có thật sự mắc kẹt trong đau buồn không (các triệu chứng ở mục 8)",
+    "cost": "Không tốn tiền, ngược lại còn tiết kiệm một khoản phí tham vấn.",
+    "plain": "Sắp xếp tham vấn tâm lý cho tất cả người mất thân nhân đem lại lợi ích rất nhỏ, sau một thời gian không còn thấy rõ, vì đa số vốn sẽ tự hồi phục dần. Nhưng với người đã rõ ràng không thích nghi được, điều trị hiệu quả như trị những vấn đề tâm lý khác. Vì vậy trước hết đối chiếu mục 8 (mắc kẹt trong đau buồn thì khám tâm thần), nếu phù hợp rồi hãy chi khoản này.",
+    "benefit": "Tổng hợp 61 nghiên cứu có đối chứng. Can thiệp tâm lý đại trà cho người mất thân nhân đem lại lợi ích rất nhỏ ngay khi điều trị kết thúc; một thời gian sau không còn thấy lợi ích. Can thiệp chỉ tuyển những người mất thân nhân “đã rõ ràng không thích nghi được” hiệu quả ngang với trị liệu tâm lý dành cho các vấn đề tâm lý khác. Nghiên cứu không sàng lọc trước cho kết quả kém vì nhóm không được can thiệp vốn cũng dần tự hồi phục theo thời gian. Một tổng hợp khác gồm 14 thử nghiệm bốc thăm chia nhóm: điều trị người đã có vấn đề tốt hơn rõ rệt so với đối chứng cả sau điều trị lẫn khi theo dõi tiếp; sau một thời gian, hiệu quả còn tăng lên. Can thiệp dự phòng đại trà cho người chưa có vấn đề không hiệu quả. Còn có nghiên cứu theo dõi 205 người từ trước khi mất bạn đời đến 6 và 18 tháng sau mất mát. Nghiên cứu chia thành năm hướng diễn biến: đau buồn thông thường, đau buồn kéo dài, trầm cảm kéo dài, ngược lại cải thiện trong giai đoạn mất thân nhân, và khả năng chống chịu (vượt qua được). Trong đó kiểu có khả năng chống chịu thường gặp nhất, kiểu đau buồn thông thường tương đối ít gặp.",
+    "notes": "Ở đây nói “không cần ai cũng làm”, chứ không phải “tất cả đều đừng làm”. Nhóm mất thân nhân có nguy cơ cao ở mục 4 (người thân mất do tự sát, tai nạn hoặc án mạng) chính là nhóm có bằng chứng ủng hộ việc can thiệp. Nhóm đã mắc kẹt ở mục 8 (mắc kẹt trong đau buồn thì khám tâm thần) cũng vậy. Một tổng quan trên Lancet cũng kết luận như thế: đau buồn không phải bệnh, đa số không cần can thiệp chuyên môn. Nên tập trung sức lực vào người có nguy cơ cao, và người đã xuất hiện đau buồn phức tạp, trầm cảm sau mất thân nhân hoặc rối loạn stress.",
+    "extra": ""
+  }
+}

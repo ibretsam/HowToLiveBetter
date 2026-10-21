@@ -1,0 +1,35 @@
+{
+  "id": "e-32-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "211534fde11a5a355a9b61f99857d7d4ba42eaa9a4d0e65df130c1ecc0c2c49f",
+  "original": {
+    "number": 7,
+    "title": "澳大利亚：OSHC 必须覆盖全程且中间不能断，落地拿不出保险可能被拒绝入境",
+    "fields": {
+      "cost": "数千到上万元人民币。按签证时长一次性买，读几年买几年",
+      "plain": "澳大利亚把留学生医疗保险写进了签证条件，不是可买可不买。保险要盖住整个停留期。续签换保单的时候，中间不能有空档。入境时拿不出保险证明，可能当场被拒绝入境。家里人来陪读，也都要有这份保险。",
+      "benefit": "澳大利亚内政部规定，学生签证申请人和他的家属要买海外学生医疗保险（OSHC），而且在澳大利亚停留的全程都要有，不能断。保险要由澳大利亚认可的保险机构提供。符合可以免买的豁免情形的除外。新保险和前一个签证的保险之间不得有空档。入境时拿不出已经投保的证明，可能被拒绝入境。比课程开始时间更早入境的，保险起始日要写实际抵达澳大利亚的那一天",
+      "grade": "A",
+      "sources": "Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>",
+      "notes": "学校代办的，要问清楚保险公司名称、保单起止日期和保单号，签证申请里要填这些。买短了会让续签出问题，宁可买到毕业以后再多留一点。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tại Úc: OSHC phải bao phủ toàn bộ thời gian và không được gián đoạn; không xuất trình được bảo hiểm khi đến có thể bị từ chối nhập cảnh",
+    "cost": "Từ vài nghìn đến hàng vạn nhân dân tệ. Mua một lần theo thời hạn thị thực, học mấy năm thì mua cho từng ấy năm.",
+    "plain": "Úc đưa bảo hiểm y tế du học sinh vào điều kiện thị thực, không phải tùy thích mua hay không. Bảo hiểm phải bao phủ toàn bộ thời gian lưu trú và không có khoảng trống khi gia hạn thị thực, đổi hợp đồng bảo hiểm. Nếu không xuất trình được chứng nhận bảo hiểm lúc nhập cảnh, bạn có thể bị từ chối ngay. Người nhà đi cùng để hỗ trợ việc học cũng đều phải có bảo hiểm này.",
+    "benefit": "Bộ Nội vụ Úc quy định người xin thị thực sinh viên và thân nhân phải mua Bảo hiểm Y tế Du học sinh OSHC, có hiệu lực liên tục trong toàn bộ thời gian ở Úc. Bảo hiểm phải do tổ chức bảo hiểm được Úc công nhận cung cấp. Ngoại lệ là người đáp ứng điều kiện miễn mua. Không được có khoảng trống giữa bảo hiểm mới và bảo hiểm của thị thực trước. Khi nhập cảnh mà không xuất trình được bằng chứng đã mua bảo hiểm thì có thể bị từ chối nhập cảnh. Nếu đến trước ngày khóa học bắt đầu, ngày bắt đầu bảo hiểm phải là ngày thực tế đến Úc.",
+    "notes": "Nếu trường làm hộ, hãy hỏi rõ tên công ty bảo hiểm, ngày bắt đầu, ngày kết thúc và số hợp đồng; đơn xin thị thực phải điền các thông tin này. Mua thời gian quá ngắn sẽ gây rắc rối khi gia hạn thị thực; nên mua đến sau tốt nghiệp thêm một khoảng thời gian.",
+    "extra": ""
+  }
+}

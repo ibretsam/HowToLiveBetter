@@ -1,0 +1,35 @@
+{
+  "id": "e-14-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "c3ebf4c3c5f090fc0b55689815951079ced52c9130fc808cf65b27c843e63204",
+  "original": {
+    "number": 5,
+    "title": "卡被盗刷先挂失冻结再报警，然后要求银行赔：证明「是你自己刷的」是银行的责任",
+    "fields": {
+      "cost": "不花钱。发现卡上有不对劲的动静，立刻挂失或者冻结。把报警记录、挂失记录、银行发来的交易通知都留着。卡还在自己身上的，就近做一笔小额查询或者存取，留下记录证明出事的时候真卡在你手上。难的是要忍住别先跟客服争论，先挂失。",
+      "plain": "卡被人盗刷，你要先拿出报警记录、挂失记录这类证据。银行说这笔是你本人刷的，要由银行拿证据，拿不出就得赔你。前提是你一发现就挂失冻结。拖着不挂失，后面多出来的损失要自己承担。",
+      "benefit": "最高法的规定把「谁来拿证据」分开了。你说这是伪卡盗刷或者网络盗刷，要先拿证据。伪卡盗刷就是卡被人复制了一张去刷。这些都能用来证明：已经生效的法律文书、银行卡交易时真卡在哪里、交易发生在哪里。还有账户交易明细、交易通知、报警记录、挂失记录等等。**反过来，发卡银行、非银行支付机构（第三方支付）说这笔是持卡人本人刷的、或者是经他授权刷的，要由它们拿出证据**。你告知银行之后，银行没及时核实，或者没及时提供、保存交易单据和监控录像，证据因此拿不到的，拿不出证据的后果由银行承担。认定成立以后：借记卡（储蓄卡）持卡人，可以要求发卡银行把被盗刷的存款本息付给你，并赔偿损失。信用卡持卡人，可以要求退回被扣走的透支款本息和违约金，并赔偿损失；银行反过来要你还这笔透支款的，法院不予支持。你还可以要求发卡银行及时撤销相应的不良征信记录（全国，2021 年 5 月 25 日起施行）",
+      "grade": "A",
+      "sources": "最高人民法院 (2021). 关于审理银行卡民事纠纷案件若干问题的规定（第四、五、七、十四、十五条）. <https://www.court.gov.cn/fabu/xiangqing/304771.html>",
+      "notes": "有两种情形要你自己担责。一是银行卡、密码、验证码这些东西你没保管好，自己有过错（原文是「未尽妥善保管义务具有过错」），错多少担多少。所以密码不告诉别人，验证码不转发给别人（见第 1 条，二次验证优先用手机弹窗确认）。二是没及时挂失，让损失接着扩大，多出来那部分自己承担。所以第一步永远是挂失冻结，别先打客服争论。第三方支付机构也适用这套规则。它的宣传资料里写了「先行赔付」，而且承诺得具体明确的，可以照着要求它先赔。钱是你被人骗着自己转出去的，要走另一套办法，见第 8 节第 2 条（发现被骗立刻打 110 或 96110 要求止付）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thẻ bị dùng trái phép thì báo mất, phong tỏa trước rồi báo công an, sau đó yêu cầu ngân hàng bồi thường: ngân hàng phải chứng minh “chính bạn đã dùng thẻ”",
+    "cost": "Không tốn tiền. Thấy giao dịch bất thường trên thẻ thì báo mất hoặc phong tỏa ngay. Giữ lại hồ sơ báo công an, báo mất và thông báo giao dịch của ngân hàng. Nếu thẻ vẫn ở bên mình, hãy thực hiện một lần tra cứu hoặc nộp, rút một khoản nhỏ ở gần đó, lưu dấu vết chứng minh lúc xảy ra sự việc thẻ thật nằm trong tay bạn. Cái khó là kiềm lại, đừng tranh luận với tổng đài trước mà phải báo mất trước.",
+    "plain": "Khi thẻ bị dùng trái phép, trước hết bạn phải đưa ra chứng cứ như hồ sơ báo công an, báo mất. Nếu ngân hàng nói chính bạn thực hiện giao dịch, ngân hàng phải chứng minh; không chứng minh được thì phải bồi thường. Điều kiện là bạn báo mất, phong tỏa ngay khi phát hiện; nếu trì hoãn, phần thiệt hại phát sinh thêm về sau do bạn chịu.",
+    "benefit": "Quy định của Tòa án Nhân dân Tối cao phân biệt trách nhiệm đưa ra chứng cứ. Nếu cho rằng thẻ bị làm giả hoặc bị dùng trái phép qua mạng, trước hết bạn phải cung cấp chứng cứ. Dùng thẻ giả là người khác sao chép thẻ của bạn để giao dịch. Có thể dùng văn bản pháp lý đã có hiệu lực, vị trí của thẻ thật khi giao dịch và nơi giao dịch xảy ra để chứng minh. Ngoài ra còn có chi tiết giao dịch tài khoản, thông báo giao dịch, hồ sơ báo công an, báo mất cùng các chứng cứ khác. **Ngược lại, nếu ngân hàng phát hành thẻ hoặc tổ chức thanh toán phi ngân hàng, tức bên thanh toán thứ ba, nói giao dịch do chủ thẻ thực hiện hoặc cho phép, chính họ phải cung cấp chứng cứ.** Sau khi bạn thông báo, nếu ngân hàng không kịp xác minh, cung cấp hoặc lưu giữ chứng từ giao dịch và video giám sát khiến không lấy được chứng cứ, ngân hàng phải chịu hậu quả của việc thiếu chứng cứ đó. Khi việc dùng thẻ trái phép được xác định: chủ thẻ ghi nợ, tức thẻ tiết kiệm, có thể yêu cầu ngân hàng phát hành trả gốc và lãi của khoản tiền gửi bị lấy, đồng thời bồi thường thiệt hại. Chủ thẻ tín dụng có thể yêu cầu hoàn trả gốc, lãi khoản thấu chi và tiền phạt vi phạm đã bị trừ, đồng thời bồi thường thiệt hại. Nếu ngân hàng quay sang đòi chủ thẻ trả khoản thấu chi này, tòa không chấp nhận. Bạn còn có thể yêu cầu ngân hàng phát hành kịp thời xóa hồ sơ tín dụng xấu tương ứng. Quy định áp dụng trên toàn Trung Quốc từ ngày 25 tháng 5 năm 2021.",
+    "notes": "Có hai trường hợp bạn phải tự chịu trách nhiệm. Trường hợp đầu là bạn có lỗi vì không giữ cẩn thận thẻ ngân hàng, mật khẩu, mã xác minh; nguyên văn là “có lỗi do chưa thực hiện đầy đủ nghĩa vụ bảo quản thích đáng”. Lỗi đến đâu chịu đến đó. Vì vậy, không nói mật khẩu hay chuyển mã xác minh cho người khác; xem mục 1 về ưu tiên thông báo xác nhận trên điện thoại khi xác minh hai bước. Trường hợp thứ hai là không kịp báo mất khiến thiệt hại tiếp tục tăng, phần tăng thêm do bạn chịu. Vì thế, bước đầu tiên luôn là báo mất, phong tỏa, đừng gọi tổng đài tranh luận trước. Tổ chức thanh toán bên thứ ba cũng áp dụng quy tắc này. Nếu tài liệu quảng bá ghi “bồi thường trước” với cam kết cụ thể, rõ ràng, bạn có thể dựa vào đó yêu cầu họ bồi thường trước. Nếu chính bạn bị lừa chuyển tiền, phải dùng cách xử lý khác; xem chương 8 mục 2 (phát hiện bị lừa thì gọi ngay 110 hoặc 96110 để yêu cầu chặn thanh toán).",
+    "extra": ""
+  }
+}

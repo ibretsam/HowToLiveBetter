@@ -1,0 +1,35 @@
+{
+  "id": "e-21-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "2ec50989563d29854e22ce0f1036298bf15698e581bc4c3b1697fe1d8c153732",
+  "original": {
+    "number": 9,
+    "title": "找中介办签证、留学、移民，先问它有没有在移民管理机构备案",
+    "fields": {
+      "cost": "不花钱。多问一句它有没有备案，再把书面材料留好。",
+      "plain": "2026 年 9 月 15 日起，办签证、留学、移民的中介要向移民管理机构备案。夸大宣传招揽客人，提供或者协助提供虚假材料，都是明令禁止的。听到「包过」「保签」「材料我们帮你做」这类话，就要当心。",
+      "benefit": "2018 年取消了因私出入境中介机构的准入许可（开中介不必先拿批文）。此后机构数量快速增长，也出现了「机构底数不清、部分机构违法违规办理业务、损害出境入境人员合法权益」的问题，官方连有多少家都数不清。2026 年 9 月 15 日起，这类中介改成备案管理。机构应当自设立之日起 15 日内，向所在地移民管理机构报备。此前已经在做的，要在施行之日起 90 日内补办。明令禁止的行为有这几类。一是「发布虚假信息，或者通过夸大宣传、误导性宣传等方式招徕服务对象」。二是「提供或者协助提供虚假材料，协助他人违规办理签证、停留居留证件、护照等出境入境证件或者手续」。三是「泄露、出售、非法提供……个人隐私或者个人信息」。四是「组织或者协助他人从事跨境违法犯罪活动」。境外企业、机构不得在中国境内提供这类中介服务",
+      "grade": "A",
+      "sources": "国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第七、八、十、十二、十三条）；United States Code, Title 8, §1182(a)(6)(C)(i) Misrepresentation. <https://www.law.cornell.edu/uscode/text/8/1182>（康奈尔大学法律信息研究所转载）",
+      "notes": "把「包过」「保签」「材料我们帮你做」挂在嘴上的中介，做的本来就是被明令禁止的事。一旦查出来，担后果的是申请人自己。自己填表出了无心的错，一般是这次被拒签，这是作者经验。用了假材料被认定弄虚作假，后果重得多。以美国为例，移民法规定，靠欺诈或故意虚假陈述重要事实申请签证的外国人，「不得入境」。不为赚钱的政策咨询和信息查询，不算中介服务"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tìm trung gian làm thị thực, du học, di trú thì hỏi trước họ đã đăng ký với cơ quan quản lý di trú chưa",
+    "cost": "Không tốn tiền. Hỏi thêm họ đã đăng ký chưa và giữ kỹ tài liệu bằng văn bản.",
+    "plain": "Từ ngày 15 tháng 9 năm 2026, trung gian làm thị thực, du học, di trú phải đăng ký với cơ quan quản lý di trú. Quảng cáo phóng đại để tìm khách, cung cấp hoặc giúp cung cấp hồ sơ giả đều bị cấm rõ ràng. Nghe những lời “bảo đảm đỗ”, “bảo đảm có thị thực”, “hồ sơ chúng tôi làm giúp” thì phải cẩn thận.",
+    "benefit": "Năm 2018 bỏ giấy phép gia nhập thị trường với trung gian xuất nhập cảnh vì mục đích cá nhân, tức mở cơ sở không phải xin phê duyệt trước. Sau đó số cơ sở tăng nhanh, đồng thời có vấn đề “không nắm rõ số cơ sở, một số cơ sở xử lý nghiệp vụ trái pháp luật, quy định, gây hại quyền lợi hợp pháp của người xuất nhập cảnh”; cơ quan chính thức thậm chí không đếm rõ có bao nhiêu. Từ ngày 15 tháng 9 năm 2026, loại trung gian này chuyển sang quản lý đăng ký. Trong 15 ngày kể từ thành lập, cơ sở phải đăng ký với cơ quan quản lý di trú tại địa phương. Cơ sở đã hoạt động phải bổ sung đăng ký trong 90 ngày kể từ khi quy định có hiệu lực. Những hành vi bị cấm rõ gồm: thứ nhất, “công bố thông tin sai hoặc thu hút khách bằng quảng cáo phóng đại, gây hiểu lầm”; thứ hai, “cung cấp hoặc hỗ trợ cung cấp hồ sơ giả, giúp người khác làm trái quy định về thị thực, giấy tờ lưu trú, cư trú, hộ chiếu và các giấy tờ, thủ tục xuất nhập cảnh khác”; thứ ba, “tiết lộ, bán, cung cấp trái phép… bí mật đời tư hoặc thông tin cá nhân”; thứ tư, “tổ chức hoặc giúp người khác thực hiện hoạt động vi phạm pháp luật, phạm tội xuyên biên giới”. Doanh nghiệp, tổ chức ở nước ngoài không được cung cấp loại dịch vụ trung gian này tại Trung Quốc.",
+    "notes": "Trung gian luôn nói “bảo đảm đỗ”, “bảo đảm thị thực”, “hồ sơ chúng tôi làm giúp” vốn đang làm việc bị cấm rõ. Một khi phát hiện, người chịu hậu quả là chính người nộp đơn. Tự điền nhầm vô ý thường chỉ bị từ chối thị thực lần này; đây là kinh nghiệm tác giả. Dùng hồ sơ giả và bị xác định gian dối thì hậu quả nặng hơn nhiều. Ví dụ tại Mỹ, luật di trú quy định người nước ngoài xin thị thực bằng gian lận hoặc cố ý trình bày sai sự thật quan trọng “không được nhập cảnh”. Tư vấn chính sách và tra cứu thông tin không vì kiếm lợi không được tính là dịch vụ trung gian.",
+    "extra": ""
+  }
+}

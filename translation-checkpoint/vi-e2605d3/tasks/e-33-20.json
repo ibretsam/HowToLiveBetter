@@ -1,0 +1,35 @@
+{
+  "id": "e-33-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "c59ee5add1420ecf3c9a5ef48cd9dd1ab586393c0e7e024192e23e898d9aa655",
+  "original": {
+    "number": 20,
+    "title": "因为残疾被拒招、不转正、少发钱，可以告，但先把过程成本算清",
+    "fields": {
+      "cost": "律师费几千到几万元，自己出。一审普通程序按规定 6 个月内审完，可以延长。证据要自己保存。",
+      "plain": "法律禁止在招用、转正、晋级、评职称、报酬、社保上歧视残疾人。你可以向主管部门投诉，也可以去法院告。但打赢了官司，对方也不替你出律师费。所以先投诉，同时申请法律援助，再考虑打官司。",
+      "benefit": "《残疾人保障法》第三条：「禁止基于残疾的歧视。禁止侮辱、侵害残疾人。」第三十八条：「在职工的招用、转正、晋级、职称评定、劳动报酬、生活福利、休息休假、社会保险等方面，不得歧视残疾人。」同条还规定，残疾职工所在单位应当根据残疾职工的特点提供适当的劳动条件和劳动保护，并根据实际需要对劳动场所、劳动设备和生活设施进行改造。第六十四条：「违反本法规定，在职工的招用等方面歧视残疾人的，由有关主管部门责令改正；残疾人劳动者可以依法向人民法院提起诉讼。」《残疾人就业条例》第四条：「禁止在就业中歧视残疾人。」第十三条：用人单位不得在晋职、晋级、评定职称、报酬、社会保险、生活福利等方面歧视残疾职工。《法律援助法》第四十二条规定，申请人有材料证明属于「无固定生活来源的未成年人、老年人、残疾人等特定群体」的，免予核查经济困难状况。第四十五条规定，法律援助机构为老年人、残疾人提供法律援助服务的，应当根据实际情况提供无障碍设施设备和服务（全国）",
+      "grade": "A",
+      "sources": "中华人民共和国残疾人保障法（第三条、第三十八条、第六十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d134c88132b>；国务院 (2007). 残疾人就业条例（第四条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6646.htm>；中华人民共和国法律援助法（第四十二条、第四十五条）. <https://flk.npc.gov.cn/detail?id=ff8081817b6472a3017b6577820f0061>",
+      "notes": "过程成本必须先算。一审普通程序按规定 6 个月内审完，可以延长；简易程序 3 个月。律师费不在《诉讼费用交纳办法》第六条列的诉讼费用里，第二十九条的「败诉方负担」不包括律师费。所以先走两条成本低的路：向人社部门或者残联投诉，由主管部门责令改正；同时申请法律援助，第四十二条对残疾人免予核查经济困难状况。取证是最难的一关。面试被拒时，对方很少留下书面理由，能录音、能留下聊天记录就留。已经入职的按劳动争议走仲裁，留证和时效见第 19 节第 8 条（离职前留证）。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Bị từ chối tuyển dụng, không được nhận chính thức hoặc bị trả ít tiền vì khuyết tật thì có thể kiện, nhưng phải tính rõ chi phí theo đuổi trước",
+    "cost": "Phí luật sư từ vài nghìn đến vài vạn nhân dân tệ, tự chi trả. Sơ thẩm theo thủ tục thông thường từ 6 tháng, có thể kéo dài. Phải tự lưu bằng chứng.",
+    "plain": "Luật cấm phân biệt đối xử với người khuyết tật trong tuyển dụng, nhận làm chính thức, nâng bậc, xét chức danh chuyên môn, trả công và bảo hiểm xã hội. Bạn có thể khiếu nại tới cơ quan có thẩm quyền hoặc kiện ra tòa. Nhưng ngay cả khi thắng kiện, phía bên kia cũng không trả phí luật sư thay bạn. Vì vậy, hãy khiếu nại trước, đồng thời xin trợ giúp pháp lý, rồi mới cân nhắc khởi kiện.",
+    "benefit": "Điều ba Luật Bảo đảm quyền lợi người khuyết tật: “Cấm phân biệt đối xử vì lý do khuyết tật. Cấm xúc phạm, xâm hại người khuyết tật”. Điều ba mươi tám: “Không được phân biệt đối xử với người khuyết tật trong tuyển dụng, nhận làm chính thức, nâng bậc, xét chức danh chuyên môn, trả công lao động, phúc lợi sinh hoạt, nghỉ ngơi, nghỉ phép, bảo hiểm xã hội và các mặt khác”. Cùng điều còn quy định đơn vị có lao động khuyết tật phải cung cấp điều kiện lao động và bảo hộ lao động phù hợp với đặc điểm của họ, đồng thời cải tạo nơi làm việc, thiết bị lao động và cơ sở sinh hoạt theo nhu cầu thực tế. Điều sáu mươi bốn: “Vi phạm quy định của luật này, phân biệt đối xử với người khuyết tật trong tuyển dụng và các mặt khác thì bị cơ quan có thẩm quyền liên quan yêu cầu khắc phục; người lao động khuyết tật có thể khởi kiện tại tòa án nhân dân theo luật”. Điều bốn Quy định về việc làm của người khuyết tật: “Cấm phân biệt đối xử với người khuyết tật trong việc làm”. Điều mười ba: đơn vị sử dụng lao động không được phân biệt đối xử với lao động khuyết tật trong thăng chức, nâng bậc, xét chức danh chuyên môn, trả công, bảo hiểm xã hội, phúc lợi sinh hoạt và các mặt khác. Điều bốn mươi hai Luật Trợ giúp pháp lý quy định người nộp đơn có tài liệu chứng minh thuộc “các nhóm đặc thù như người chưa thành niên, người cao tuổi, người khuyết tật không có nguồn sinh sống cố định” được miễn xác minh tình trạng khó khăn kinh tế. Điều bốn mươi lăm quy định cơ quan trợ giúp pháp lý cung cấp dịch vụ cho người cao tuổi, người khuyết tật phải căn cứ tình hình thực tế để cung cấp cơ sở vật chất, thiết bị và dịch vụ bảo đảm tiếp cận (toàn Trung Quốc).",
+    "notes": "Phải tính trước chi phí theo đuổi vụ việc. Sơ thẩm theo thủ tục thông thường từ 6 tháng, có thể kéo dài; thủ tục đơn giản là 3 tháng. Phí luật sư không nằm trong các chi phí tố tụng liệt kê tại Điều sáu Biện pháp nộp chi phí tố tụng; quy định “bên thua kiện chịu” tại Điều hai mươi chín không bao gồm phí luật sư. Vì vậy, trước hết đi theo hai cách ít tốn kém: khiếu nại tới cơ quan nhân lực và an sinh xã hội hoặc Liên đoàn Người khuyết tật để cơ quan có thẩm quyền yêu cầu khắc phục; đồng thời xin trợ giúp pháp lý, Điều bốn mươi hai miễn xác minh tình trạng khó khăn kinh tế cho người khuyết tật. Thu thập bằng chứng là khâu khó nhất. Khi từ chối tuyển dụng sau phỏng vấn, bên kia hiếm khi để lại lý do bằng văn bản; nếu ghi âm được hoặc lưu được lịch sử trò chuyện thì hãy lưu. Nếu đã vào làm, đi theo thủ tục trọng tài tranh chấp lao động; lưu bằng chứng và thời hiệu xem mục 8 phần 19 (lưu bằng chứng trước khi nghỉ việc). Người hưởng lợi là chính bạn.",
+    "extra": ""
+  }
+}

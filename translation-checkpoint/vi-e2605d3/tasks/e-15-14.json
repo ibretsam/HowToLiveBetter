@@ -1,0 +1,35 @@
+{
+  "id": "e-15-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "258bac8828e3c8c501b2a52d1014b1892d6bed601092198c513a6cc7eeb333f9",
+  "original": {
+    "number": 14,
+    "title": "买房签约前查清有没有查封和抵押，签约后去不动产登记机构办预告登记",
+    "fields": {
+      "cost": "签约前带身份证查一次，半小时。签约后和卖方带材料去登记机构跑一趟，按当地标准交登记费",
+      "plain": "签约前带身份证去不动产登记机构，查这套房有没有抵押、查封，有没有先登记给别人。合同里约好办预告登记，签完就去办。办了以后，卖方不经你同意再卖或者再抵押，登记机构不给办。能正式过户以后 90 天内要去办过户，过了预告登记就失效。",
+      "benefit": "民法典写明：签了买房协议，为保障将来拿到房子，可以按约定向登记机构申请预告登记。「预告登记后，未经预告登记的权利人同意，处分该不动产的，不发生物权效力。」预告登记有期限。合同解除这类情形，或者从能办正式登记那天起 90 日内没去申请的，预告登记失效。自然资源部的实施细则把它落到登记机构：预售商品房、买卖二手房都可以办。预告登记生效期间，没有你的书面同意，卖方拿这套房去申请登记的，登记机构不予办理。买期房的，开发商没按约定和你一起申请，你可以单方申请。签约前能查什么：有买卖意向的，带身份证就能查这套房有没有抵押、预告登记、异议登记，有没有被查封。网签备案管不了合同效力。最高法的司法解释写明，预售合同没办备案，不影响合同有效，双方约定备案才生效的除外",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第二百二十一条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；自然资源部 (2024 修正). 不动产登记暂行条例实施细则（第八十五、八十六条）. <https://www.gov.cn/gongbao/2024/issue_11506/202408/content_6966482.html>；自然资源部 (2024 修正). 不动产登记资料查询暂行办法（第二十一条）. <https://www.gov.cn/gongbao/2024/issue_11506/202408/content_6966482.html>；自然资源部 (2025). 关于修改《不动产登记资料查询暂行办法》的决定（自然资源部令第 18 号）. <https://www.gov.cn/gongbao/2026/issue_12546/202602/content_7057456.html>；最高人民法院 (2020 修正). 关于审理商品房买卖合同纠纷案件适用法律若干问题的解释（第六、七条）. <https://www.court.gov.cn/fabu/xiangqing/282621.html>",
+      "notes": "签约前怎么查、要带什么，见第 6 条（签约前核对产权证和抵押情况）。没签合同时查不到产权人是谁，产权证上的名字要当面和卖方身份证对上。办预告登记要双方事先约定，所以把它写进买卖合同。卖方和别人恶意串通、另签合同并把房子交了出去，你可以请求确认那份合同无效。但这要打官司，一审普通程序按规定 6 个月内审完，可以延长，律师费一般自己出。预告登记是在事前把这条路堵上。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Trước khi ký mua nhà, tra rõ tình trạng kê biên và thế chấp; sau khi ký, đến cơ quan đăng ký bất động sản đăng ký bảo đảm quyền mua trong tương lai",
+    "cost": "Trước khi ký, mang giấy tờ tùy thân đi tra một lần, mất nửa giờ. Sau khi ký, cùng người bán mang hồ sơ đến cơ quan đăng ký một lần, trả phí đăng ký theo mức địa phương",
+    "plain": "Trước khi ký, mang giấy tờ tùy thân đến cơ quan đăng ký bất động sản, tra xem nhà có thế chấp, kê biên hay đã đăng ký trước cho người khác không. Thỏa thuận việc đăng ký bảo đảm quyền mua trong hợp đồng rồi đi làm ngay sau khi ký. Đã đăng ký, người bán muốn bán tiếp hoặc thế chấp mà không được bạn đồng ý thì cơ quan đăng ký không giải quyết. Trong 90 ngày từ khi có thể sang tên chính thức phải đi làm, nếu quá hạn đăng ký bảo đảm mất hiệu lực.",
+    "benefit": "Bộ luật Dân sự quy định: đã ký thỏa thuận mua nhà, để bảo đảm sau này nhận được nhà, có thể theo thỏa thuận xin cơ quan đăng ký thực hiện đăng ký bảo đảm quyền mua trong tương lai. “Sau khi đăng ký bảo đảm trước, việc định đoạt bất động sản mà không có sự đồng ý của người có quyền theo đăng ký đó không phát sinh hiệu lực về quyền đối với tài sản.” Đăng ký này có thời hạn. Hợp đồng chấm dứt hoặc các trường hợp tương tự, hay không xin đăng ký chính thức trong 90 ngày kể từ khi có thể làm, thì đăng ký bảo đảm mất hiệu lực. Quy tắc thi hành của Bộ Tài nguyên thiên nhiên cụ thể hóa cho cơ quan đăng ký: cả nhà ở thương mại bán trước và nhà đã qua sử dụng đều làm được. Khi đăng ký bảo đảm còn hiệu lực, người bán đem nhà xin đăng ký mà không có sự đồng ý bằng văn bản của bạn thì cơ quan không giải quyết. Mua nhà bán trước mà chủ đầu tư không cùng bạn nộp đơn theo thỏa thuận thì bạn có thể tự nộp đơn. Trước khi ký có thể tra gì: có ý định mua bán thì chỉ cần mang giấy tờ tùy thân là tra được nhà có thế chấp, đăng ký bảo đảm trước, đăng ký phản đối hay bị kê biên không. Việc ký hợp đồng trực tuyến và lưu hồ sơ không quyết định hiệu lực hợp đồng. Giải thích tư pháp của Tòa án Nhân dân Tối cao quy định hợp đồng bán trước chưa lưu hồ sơ không ảnh hưởng đến hiệu lực, trừ khi hai bên thỏa thuận chỉ có hiệu lực sau khi lưu hồ sơ",
+    "notes": "Tra thế nào, cần mang gì trước khi ký, xem mục 6 (kiểm tra giấy chứng nhận quyền sở hữu và tình trạng thế chấp trước khi ký). Chưa ký thì không tra được chủ sở hữu là ai; phải trực tiếp đối chiếu tên trên giấy chứng nhận với giấy tờ tùy thân người bán. Đăng ký bảo đảm quyền mua cần hai bên thỏa thuận trước, nên ghi vào hợp đồng mua bán. Người bán thông đồng ác ý với người khác, ký hợp đồng khác và giao nhà cho họ, bạn có thể yêu cầu xác nhận hợp đồng đó vô hiệu. Nhưng phải kiện; sơ thẩm theo thủ tục thông thường từ 6 tháng, phí luật sư thường tự trả. Đăng ký bảo đảm quyền mua ngăn chặn việc đó từ trước.",
+    "extra": ""
+  }
+}

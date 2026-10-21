@@ -1,0 +1,35 @@
+{
+  "id": "e-9-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "0690affaaa2e87468eab4407a4bc1f846892bbc4954dc850bf69f06fb6099aea",
+  "original": {
+    "number": 7,
+    "title": "捡到银行卡不取钱，捡到手机、钱包联系失主或交给警察，不揣走",
+    "fields": {
+      "cost": "不花钱，几分钟的事。打个电话找失主，或者把东西送到派出所。",
+      "plain": "捡到东西留着自己用，金额到了「数额较大」又不肯交出来，判 2 年以下，数额巨大的判 2 到 5 年。拿捡来的银行卡去 ATM 取钱更重，算冒用别人的信用卡，数额较大就判 5 年以下，还要罚 2 万到 20 万元。取钱这一种警察直接立案，不用失主自己去告。",
+      "benefit": "捡到别人丢的东西，要还给失主，及时通知他来领，或者送交公安等部门。把别人落下的东西留着自己用，金额到了「数额较大」又不肯交出来的，构成侵占罪，判 2 年以下。数额巨大的判 2 到 5 年。捡到别人的信用卡拿到 ATM 上用，属于「冒用他人信用卡」。刑法里的「信用卡」，按全国人大常委会 2004 年的解释，指银行等金融机构发的电子支付卡。它有消费支付、信用贷款、转账结算、存取现金等全部功能或者部分功能就算。所以能存取现金的普通银行卡也在内。够得上犯罪的，按信用卡诈骗罪处理：数额较大的判 5 年以下，并罚 2 万到 20 万元。数额巨大或者有其他严重情节的，判 5 到 10 年，并罚 5 万到 50 万元（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第三百一十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第一百九十六、二百七十条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民检察院 (2008). 关于拾得他人信用卡并在自动柜员机（ATM 机）上使用的行为如何定性问题的批复. <https://www.spp.gov.cn/spp/flfg/sfjs/201208/t20120830_47871.shtml>；全国人大常委会 (2004). 关于《中华人民共和国刑法》有关信用卡规定的解释. <http://www.npc.gov.cn/zgrdw/npc/xinwen/lfgz/zxfl/2004-12/30/content_334756.htm>",
+      "notes": "侵占罪是「告诉的才处理」，得失主自己去法院起诉，警察不主动管。但拿捡来的卡取钱不一样，不用失主去告，警察直接立案。「数额较大」具体是多少钱，由司法解释规定，本节没有核实。东西送交有关部门之后，失主来领的时候要付保管费用（民法典第三百一十七条）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nhặt được thẻ ngân hàng thì không rút tiền; nhặt điện thoại, ví thì liên hệ người mất hoặc giao công an, đừng bỏ túi mang đi",
+    "cost": "Không tốn tiền, chỉ mất vài phút. Gọi điện tìm người mất hoặc mang đồ đến đồn công an.",
+    "plain": "Nhặt đồ rồi giữ dùng riêng, giá trị đạt mức “tương đối lớn” mà không chịu giao trả thì bị phạt tù không quá 2 năm; số tiền rất lớn thì từ 2 đến 5 năm. Dùng thẻ ngân hàng nhặt được rút tiền ở ATM còn nặng hơn: tính là mạo danh dùng thẻ tín dụng của người khác, số tiền tương đối lớn thì phạt tù không quá 5 năm, còn phải phạt từ 2 vạn đến 20 vạn nhân dân tệ. Trường hợp rút tiền này công an trực tiếp lập án, không cần người mất tự đi kiện.",
+    "benefit": "Nhặt được đồ người khác đánh mất thì phải trả lại, kịp thời báo họ đến nhận hoặc giao công an và cơ quan tương tự. Giữ đồ người khác để quên để tự dùng, giá trị đạt mức “tương đối lớn” mà không chịu giao trả thì cấu thành tội chiếm giữ trái phép, bị phạt tù không quá 2 năm. Số tiền rất lớn thì phạt tù từ 2 đến 5 năm. Nhặt thẻ tín dụng của người khác rồi dùng tại ATM thuộc hành vi “mạo danh dùng thẻ tín dụng của người khác”. Theo giải thích năm 2004 của Ủy ban Thường vụ Đại hội Đại biểu Nhân dân Toàn quốc, “thẻ tín dụng” trong Bộ luật Hình sự là thẻ thanh toán điện tử do ngân hàng và tổ chức tài chính tương tự phát hành. Có toàn bộ hoặc một phần chức năng thanh toán mua hàng, vay tín dụng, chuyển khoản quyết toán, gửi rút tiền mặt là được tính. Vì vậy, thẻ ngân hàng thông thường có thể gửi rút tiền mặt cũng nằm trong đó. Đủ mức cấu thành tội phạm thì xử lý về tội lừa đảo thẻ tín dụng: số tiền tương đối lớn thì phạt tù không quá 5 năm và phạt từ 2 vạn đến 20 vạn nhân dân tệ. Số tiền rất lớn hoặc có tình tiết nghiêm trọng khác thì phạt tù từ 5 đến 10 năm và phạt từ 5 vạn đến 50 vạn nhân dân tệ (toàn Trung Quốc).",
+    "notes": "Tội chiếm giữ trái phép là loại “có tố cáo mới xử lý”: người mất phải tự kiện ra tòa, công an không chủ động xử lý. Nhưng dùng thẻ nhặt được rút tiền thì khác, không cần người mất đi kiện, công an trực tiếp lập án. “Số tiền tương đối lớn” cụ thể là bao nhiêu do giải thích tư pháp quy định; chương này chưa kiểm chứng. Sau khi đồ được giao cơ quan liên quan, người mất đến nhận phải thanh toán chi phí bảo quản (điều ba trăm mười bảy của Bộ luật Dân sự).",
+    "extra": ""
+  }
+}

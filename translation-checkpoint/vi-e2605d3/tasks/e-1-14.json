@@ -1,0 +1,35 @@
+{
+  "id": "e-1-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "8a3b1f63065ff858cd32a9c34f271360427d1b2030b05d441a69c935e5546076",
+  "original": {
+    "number": 14,
+    "title": "查乙肝两对半，结合接种记录判断要不要补疫苗",
+    "fields": {
+      "cost": "查一次几十元。需要接种的成人，乙肝疫苗 3 针合起来约 100 到 300 元，费用以当地门诊为准。通常按第 0、1、6 个月接种。",
+      "plain": "启东那项研究中，出生时接种乙肝疫苗，后来得肝癌的概率低 84%。成人不能照搬这个降幅，也不能只凭抗体低就补三针。完成全程、曾有保护性抗体且免疫正常的人，通常不用加强。不清楚打过没有的，带化验单去接种门诊评估。",
+      "benefit": "启东那项试验按群体随机分组，不是按个人分组，跟踪了 30 年。新生儿接种乙肝疫苗，原发性肝癌下降 84%。可信范围是 95% CI 23% 到 97%。乙肝表面抗原 HBsAg 阳性率下降 72%（95% CI 68% 到 75%），这个阳性率就是查出身上带着病毒的人所占的比例。对照组里有 67.8% 的人在 10 到 14 岁补打了疫苗。补打对成年早期 HBsAg 阳性率的效力只有 21%（95% CI 10% 到 30%），比出生就打弱得多。中国全人群的 HBsAg 阳性比例，1992 到 2014 年下降 52%，5 岁以下下降 97%。这些数字不能直接套给成人补种。免疫正常、完成全程且曾产生保护性抗体的人，抗体下降后仍有免疫记忆，通常不需要加强。免疫记忆就是身体再次遇到病毒时，能迅速调动防御。是否补种要结合接种记录、表面抗原、表面抗体和核心抗体判断。接种史不清楚的，去接种门诊评估。",
+      "grade": "A",
+      "sources": "Qu C 等 (2014). Efficacy of neonatal HBV vaccination on liver cancer and other liver diseases over 30-year follow-up of the Qidong hepatitis B intervention study. PLoS Medicine：「The estimated efficacy of catch-up vaccination on HBsAg seroprevalence in early adulthood was 21% (95% CI 10%-30%), substantially weaker than that of the neonatal vaccination (72%, 95% CI 68%-75%).」<https://doi.org/10.1371/journal.pmed.1001774> ; Cui F 等 (2017). Prevention of Chronic Hepatitis B after 3 Decades of Escalating Vaccination Policy, China. Emerging Infectious Diseases. <https://doi.org/10.3201/eid2305.161477>；中国疾控中心. 乙型肝炎（疫苗免疫预防、常见问答第 4 问）. <https://www.chinacdc.cn/jkyj/mygh02/ymkyfjb/yxgy/>；CDC. Pink Book, Chapter 10: Hepatitis B（Immunogenicity and Vaccine Efficacy、Serologic Testing of Vaccine Recipients）. <https://www.cdc.gov/pinkbook/hcp/table-of-contents/chapter-10-hepatitis-b.html>；CDC (2023). Screening and Testing for Hepatitis B Virus Infection: CDC Recommendations — United States, 2023（表 1、Persons Who Are Fully Vaccinated Against HBV Infection）. <https://www.cdc.gov/mmwr/volumes/72/rr/rr7201a1.htm>",
+      "notes": "没打过、没打完或接种史不清楚的成人，带接种记录和化验单到接种门诊。医生确认仍可能感染的，按程序接种或补齐。不能只凭多年后一次抗体阴性，就认定当初接种失败。一般人完成全程后，不需要为了决定是否加强而反复查抗体。全程接种后按规定时间查出没有保护性抗体的，要让医生安排补种和复查。透析、免疫功能低下、职业接触血液等人群，也要单独评估。核心抗体阳性可能说明以前感染过，不能直接当成从未感染、需要补种。疫苗不能治疗已经存在的感染。表面抗原 HBsAg 阳性的，去肝病科评估，见第 16 节第 11 条（乙肝表面抗原阳性的，每半年做一次肝脏 B 超）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Xét nghiệm bộ năm dấu ấn viêm gan B; không có kháng thể thì tiêm vắc xin",
+    "cost": "Một lần xét nghiệm tốn vài chục nhân dân tệ. Vắc xin viêm gan B cho người lớn gồm 3 mũi, tổng cộng 100 đến 300 nhân dân tệ. Tiêm đủ trong vòng nửa năm.",
+    "plain": "Xét nghiệm một lần tốn vài chục nhân dân tệ. Trong thử nghiệm tại Khải Đông theo dõi suốt 30 năm, người được tiêm vắc xin viêm gan B ngay khi sinh có xác suất mắc ung thư gan nguyên phát về sau thấp hơn 84%. Tỷ lệ mang virus viêm gan B thấp hơn 72%. Người lớn xét nghiệm thấy không có kháng thể thì tiêm bổ sung ba mũi, hoàn thành trong nửa năm, tốn khoảng một đến hai trăm nhân dân tệ.",
+    "benefit": "Thử nghiệm tại Khải Đông phân nhóm ngẫu nhiên theo cụm, không phải theo từng cá nhân, và theo dõi trong 30 năm. Tiêm vắc xin viêm gan B cho trẻ sơ sinh làm ung thư gan nguyên phát giảm 84%. Khoảng tin cậy là 95% CI 23% đến 97%. Tỷ lệ dương tính với kháng nguyên bề mặt viêm gan B HBsAg giảm 72% (95% CI 68% đến 75%); tỷ lệ dương tính này chính là tỷ lệ người được phát hiện mang virus. Trong nhóm đối chứng, 67.8% được tiêm bù vào tuổi 10 đến 14. Hiệu lực của việc tiêm bù đối với tỷ lệ HBsAg dương tính ở đầu tuổi trưởng thành chỉ là 21% (95% CI 10% đến 30%), thấp hơn nhiều so với tiêm ngay khi sinh. Tỷ lệ HBsAg dương tính trong toàn bộ dân số Trung Quốc giảm 52% từ năm 1992 đến 2014; ở nhóm từ 5 tuổi trở xuống giảm 97%.",
+    "notes": "Mục này áp dụng cho người lớn sinh trước năm 1992, chưa từng tiêm vắc xin hoặc đã mất kháng thể. Con số giảm ung thư gan 84% là kết quả ở người được tiêm ngay khi sinh. Trong cùng thử nghiệm, những người đến 10 đến 14 tuổi mới được tiêm bù chỉ có hiệu lực ngăn tình trạng mang virus là 21%. Người lớn tiêm chủ yếu để tránh nhiễm mới, không thể áp dụng trực tiếp con số 84% đó. Người đã nhiễm thì tiêm vắc xin không có tác dụng, cần đến khoa gan tái khám định kỳ. Thế nào là đã nhiễm: mục kháng nguyên bề mặt viêm gan B HBsAg trên phiếu xét nghiệm cho kết quả dương tính. Về việc người đã nhiễm cần tái khám thế nào và có phải uống thuốc hay không, xem phần 16 mục 11 (người dương tính với kháng nguyên bề mặt viêm gan B siêu âm gan mỗi nửa năm).",
+    "extra": ""
+  }
+}

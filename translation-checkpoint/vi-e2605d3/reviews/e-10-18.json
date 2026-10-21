@@ -1,0 +1,15 @@
+{
+  "id": "e-10-18",
+  "source_sha256": "ea1f138b07b932424318709ac64b40c4185eff12ee152803fd179d63b33aab51",
+  "draft_sha256": "b37fb022395d308c4b6c733ca9a21b8ce86b0c213a3dcc848b3a9b63fdcb62f7",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves separate authority stages, civil-capacity conditions, 60-day acceptance, hospital variation and six-month extendable procedure. Source simplifies termination of authorization; retained as written. Translation review does not independently verify current law or source advice."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-45",
+  "source_sha256": "b5e6e4417f1d4d36593df21d35cfe62c2471c3ac8892b349cc9c62c6559098e6",
+  "draft_sha256": "eb70b3cfc53d2855a809372bba9e762362f57223fbcace2f755ff2812446748b",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison including all cited AB-loan, face-scan and signature cases. Preserved borrower not guarantor, bank knew/ought-to-know standard in detail,1year annulment, >80000fees/eight defendants/10months–4years, >60000remaining principal, reliable electronic signature qualifier, contrary Guangzhou case and no aggregate statistics. Statutory extendable6month procedure retained. No translation change; compressed plain bank-ignorance summary stays as source."
+}

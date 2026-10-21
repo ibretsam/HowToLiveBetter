@@ -1,0 +1,35 @@
+{
+  "id": "e-13-29",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "85dccdc1623228bef512f227bee2ac7dc89bd83bb8d94131540a476675bc2016",
+  "original": {
+    "number": 29,
+    "title": "被蛇咬，坐下别动、摘掉戒指手表、尽快送医院打抗蛇毒血清，不切、不吸、不绑死",
+    "fields": {
+      "cost": "不花钱。提前知道附近哪家医院有抗蛇毒血清。难的是忍住自己动手处理伤口。",
+      "plain": "坐下别动，把被咬的肢体固定住，先摘掉戒指手表，免得肿起来勒住。尽快送到有抗蛇毒血清的医院，血清是防止或逆转大部分毒性最有效的办法。不切开，不用嘴吸，不冰敷，不揉，不用绳子勒，也别走动。能拍张蛇的照片就拍，别去抓。",
+      "benefit": "WHO 原文有三句。一句是「立即完全固定被咬的身体部位，并迅速送到最近的医疗机构就医」。一句是「避免使用止血带，并避免切割伤口」。还有一句是「用针对当地蛇种的适当抗蛇毒血清进行治疗」。「高质量抗蛇毒血清是防止或逆转蛇咬伤的大部分毒性作用的最有效治疗方法」。全球每年约 8.1 万到 13.8 万人死于蛇咬伤，截肢和永久残疾的人数约为死亡数的 3 倍。中国 2024 年的蛇伤救治指南估计，国内每年有 25 万到 28 万例毒蛇咬伤。被咬的多是 50 岁以上的人。长江流域和南方 11 个省的医院，2017 到 2021 年收治了 40817 名蛇伤病人。住院期间死亡 23 人（0.06%）。国际红十字 2025 年急救指南写明：被咬的人尽量少动，咬在腿上就别走路。摘掉首饰、手表和紧身衣物，免得肿起来勒住血流。不要用止血带、不要吸、不要冷敷、不要揉、不要用刀割开，这些做法没用，还可能更伤。能安全拍到蛇的照片就拍，不要去抓或打死它",
+      "grade": "B",
+      "sources": "WHO. 动物咬伤 实况报道. <https://www.who.int/zh/news-room/fact-sheets/detail/animal-bites> ; WHO (2023). 蛇咬伤中毒 实况报道. <https://www.who.int/zh/news-room/fact-sheets/detail/snakebite-envenoming> ; Lai R 等 (2024). The Chinese guideline for management of snakebites. World Journal of Emergency Medicine 15(5):333-355：「An estimated 250,000–280,000 cases of venomous snakebites occur in China each year, affecting mainly patients aged ≥50 years」. <https://doi.org/10.5847/wjem.j.1920-8642.2024.076> ; Yan S 等 (2026). Clinical epidemiology of snakebite envenoming in hospitals 11 provinces of Yangtze River Basin and southern regions of China. PLoS Neglected Tropical Diseases：「withdrawal (4346, 10.65%), and death (23, 0.06%)」. <https://doi.org/10.1371/journal.pntd.0013247> ; International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 339–341 页：「Remove jewellery, watches or tight clothing to prevent blood flow being restricted if there is swelling」「The following actions are not effective and may even cause further harm: applying a tourniquet, sucking out the venom, applying a cold compress, rubbing the bite, cutting the wound with a knife to increase bleeding」「Do not try to catch or kill the snake. Consider taking a photo」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>",
+      "notes": "能拍到蛇的照片就拍，别去抓。不要跑动，不要用嘴吸，不要冰敷，不要用绳子勒。中国的全国蛇伤死亡数没有官方统计。那 11 个省的住院死亡率看着低，但有一成多病人没治完就自己出院了，他们后来怎样不在统计里。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị rắn cắn: ngồi yên, tháo nhẫn và đồng hồ, sớm đến viện dùng huyết thanh kháng nọc; không rạch, không hút, không buộc chặt",
+    "cost": "Không tốn tiền. Biết trước bệnh viện nào gần đó có huyết thanh kháng nọc rắn. Điều khó là kiềm chế ý muốn tự xử lý vết thương.",
+    "plain": "Ngồi yên, cố định chi bị cắn, tháo nhẫn và đồng hồ trước để tránh siết khi sưng. Đưa đến bệnh viện có huyết thanh kháng nọc sớm nhất có thể; huyết thanh là cách hiệu quả nhất để ngăn hoặc đảo ngược phần lớn tác động độc. Không rạch, không hút bằng miệng, không chườm đá, không xoa, không buộc dây siết và cũng đừng đi lại. Chụp được ảnh con rắn thì chụp, đừng bắt.",
+    "benefit": "WHO có ba câu nguyên văn. Một là “ngay lập tức bất động hoàn toàn phần cơ thể bị cắn và nhanh chóng đưa đến cơ sở y tế gần nhất”. Một là “tránh dùng garô và tránh rạch vết thương”. Câu còn lại là “điều trị bằng huyết thanh kháng nọc phù hợp với loài rắn địa phương”. “Huyết thanh kháng nọc chất lượng cao là phương pháp hiệu quả nhất để ngăn hoặc đảo ngược phần lớn tác động độc của rắn cắn”. Toàn cầu mỗi năm khoảng 8.1 vạn đến 13.8 vạn người chết do rắn cắn; số người phải cắt cụt chi hoặc bị khuyết tật vĩnh viễn khoảng 3 lần số tử vong. Hướng dẫn điều trị rắn cắn của Trung Quốc năm 2024 ước tính trong nước mỗi năm có 25 vạn đến 28 vạn ca rắn độc cắn. Người bị cắn phần lớn từ 50 tuổi trở lên. Các bệnh viện thuộc 11 tỉnh ở lưu vực Trường Giang và miền nam tiếp nhận 40817 người bệnh rắn cắn từ năm 2017 đến 2021. Có 23 người tử vong trong viện (0.06%). Hướng dẫn sơ cứu năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế nêu rõ người bị cắn nên cử động ít nhất có thể; bị cắn ở chân thì đừng đi. Tháo trang sức, đồng hồ và quần áo bó để tránh siết cản máu khi sưng. Không dùng garô, không hút, không chườm lạnh, không xoa, không dùng dao rạch; những cách này không có ích, còn có thể gây hại thêm. Có thể chụp ảnh con rắn an toàn thì chụp, đừng bắt hoặc đánh chết nó.",
+    "notes": "Chụp được ảnh con rắn thì chụp, đừng bắt. Đừng chạy, hút bằng miệng, chườm đá hoặc buộc dây siết. Chưa có thống kê chính thức về tổng số tử vong do rắn cắn trên toàn Trung Quốc. Tỷ lệ tử vong trong viện tại 11 tỉnh đó có vẻ thấp, nhưng hơn một phần mười người bệnh tự xuất viện khi chưa điều trị xong; kết cục sau đó của họ không được tính.",
+    "extra": ""
+  }
+}

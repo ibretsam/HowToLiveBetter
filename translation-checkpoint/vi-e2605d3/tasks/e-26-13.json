@@ -1,0 +1,35 @@
+{
+  "id": "e-26-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "38e66c52aa8e102d2b98bf1b80f92db274b062477cc38050e66ff61a85e6b4ad",
+  "original": {
+    "number": 13,
+    "title": "卖自动续费会员的，开通前和每次扣钱前都要显著提醒用户，取消入口要好找",
+    "fields": {
+      "cost": "不花钱。在开通页把自动续费写明白，每次扣钱前单独发一条提醒，个人中心放一个随时能取消的按钮。难在会有一部分用户收到提醒就顺手取消了",
+      "plain": "卖自动续费会员，用户开通前、每次扣钱前，都要用显眼的方式提醒他。会员期间要给一个随时能取消或者变更的入口，好找好点，不许另收不合理的费用。没提醒就扣钱，可以罚违法所得 1 到 5 倍，没有违法所得的罚 30 万元以下。",
+      "benefit": "网络交易监督管理办法原话是，采取自动展期、自动续费等方式提供服务的，「应当在消费者接受服务前和自动展期、自动续费等日期前，以显著方式提请消费者注意，由消费者自主选择」。服务期间还要「为消费者提供显著、简便的随时取消或者变更的选项，并不得收取不合理费用」。消费者权益保护法实施条例也有同样的提醒要求。没做提醒的，按实施条例处罚：责令改正，可以警告、没收违法所得、罚违法所得 1 到 5 倍。没有违法所得的，罚 30 万元以下。情节严重的，责令停业整顿、吊销营业执照。没给方便的取消入口的，责令限期改正，可以罚 3 万元以下（全国）",
+      "grade": "A",
+      "sources": "国家市场监督管理总局 (2021, 2025 修正). 网络交易监督管理办法（总局令第 37 号，第十八、四十一条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html> ; 国务院 (2024). 消费者权益保护法实施条例（国务院令第 778 号，第十条第二款、第五十条）. <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>",
+      "notes": "法规没写「显著方式」具体长什么样。稳妥的做法是每次扣钱前单独发一条提醒，并把发送记录留下来，被投诉时拿得出证据。站在用户这边怎么关自动续费，见第 5 节第 1 条（关掉所有自动续费）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": "## 许可\n\n正文按 [CC BY 4.0](../LICENSE) 发布，转载、改编要写明出处并附原文链接。代码用 [MIT](../LICENSE-CODE)。"
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bán gói thành viên tự gia hạn thì phải nhắc rõ trước khi mở và trước mỗi lần trừ tiền; lối hủy phải dễ tìm",
+    "cost": "Không tốn tiền. Ghi rõ tự gia hạn ở trang đăng ký, gửi nhắc riêng trước mỗi lần trừ tiền, đặt nút hủy bất kỳ lúc nào trong trang cá nhân. Điều khó là một phần người dùng nhận nhắc sẽ tiện tay hủy.",
+    "plain": "Bán gói thành viên tự gia hạn thì phải nhắc người dùng bằng cách dễ thấy trước khi đăng ký và trước mỗi lần trừ tiền. Trong thời gian thành viên phải có lối hủy hoặc thay đổi bất kỳ lúc nào, dễ tìm, dễ bấm, không thu thêm phí bất hợp lý. Không nhắc mà trừ tiền có thể bị phạt 1 đến 5 lần khoản thu lợi trái pháp luật; không có khoản này thì phạt từ 30 vạn nhân dân tệ trở xuống.",
+    "benefit": "Biện pháp giám sát, quản lý giao dịch trực tuyến ghi rằng cung cấp dịch vụ bằng tự gia hạn thời hạn, tự thu phí gia hạn và cách tương tự thì ‘phải nhắc người tiêu dùng bằng cách nổi bật trước khi họ chấp nhận dịch vụ và trước ngày tự gia hạn, tự thu phí gia hạn để họ tự chọn’. Trong thời gian dịch vụ còn phải ‘cung cấp lựa chọn nổi bật, đơn giản để hủy hoặc thay đổi bất kỳ lúc nào và không được thu phí bất hợp lý’. Điều lệ thi hành Luật Bảo vệ quyền lợi người tiêu dùng có cùng yêu cầu nhắc. Không nhắc thì xử theo điều lệ thi hành: yêu cầu sửa, có thể cảnh cáo, tịch thu khoản thu lợi trái pháp luật và phạt 1 đến 5 lần khoản đó. Không có thu lợi trái pháp luật thì phạt từ 30 vạn nhân dân tệ trở xuống. Nghiêm trọng thì yêu cầu ngừng kinh doanh để chấn chỉnh, thu hồi giấy phép kinh doanh. Không cung cấp lối hủy thuận tiện thì yêu cầu sửa trong thời hạn, có thể phạt từ 3 vạn nhân dân tệ trở xuống (toàn quốc).",
+    "notes": "Quy định không nói cụ thể ‘cách nổi bật’ phải trông thế nào. Cách chắc chắn là gửi nhắc riêng trước mỗi lần trừ tiền và giữ lịch sử gửi để có chứng cứ khi bị khiếu nại. Cách tắt tự gia hạn từ phía người dùng xem chương 5 mục 1 về tắt tất cả tự gia hạn.",
+    "extra": "## Giấy phép\n\nNội dung được phát hành theo [CC BY 4.0](../LICENSE); đăng lại, chuyển thể phải ghi nguồn và kèm liên kết nguyên bản. Mã nguồn dùng [MIT](../LICENSE-CODE)."
+  }
+}

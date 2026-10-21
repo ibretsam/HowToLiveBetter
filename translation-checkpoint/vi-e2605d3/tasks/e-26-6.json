@@ -1,0 +1,35 @@
+{
+  "id": "e-26-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "f1380fe635364092247f43ba6a6cd633519f716297754e669b5c8db7c7bc7da3",
+  "original": {
+    "number": 6,
+    "title": "用户发的内容你要管：审核机制、举报入口、发现违法立即停传并报告",
+    "fields": {
+      "cost": "要花钱雇人审核，这是平台最大的一笔长期开支。举报入口和每一次处置的记录都要留痕。难在它天天都得有人盯，停一天就可能出事",
+      "plain": "用户发的东西，平台要负责管，注册、发帖审核、评论审核、每天巡查、出事处置都要有制度。页面显眼的地方放举报入口。看到违法信息，马上停止传播、留好记录、报给主管部门。不做的，可以罚 5 万到 50 万元，严重的更多。",
+      "benefit": "法规说平台「应当履行信息内容管理主体责任」，用户发的东西由平台自己负责管。具体要「健全用户注册、账号管理、信息发布审核、跟帖评论审核、版面页面生态管理、实时巡查、应急处置和网络谣言、黑色产业链信息处置等制度」。从注册、发帖、评论，到日常巡查和出事处置，每一环都要有写下来的规矩。还「应当在显著位置设置便捷的投诉举报入口」，举报按钮要放在用户一眼看得见、点得到的地方。发现违法信息的，「应当依法立即采取处置措施，保存有关记录，并向有关主管部门报告」。网络安全法说得更具体。原话是「发现法律、行政法规禁止发布或者传输的信息的，应当立即停止传输该信息，采取消除等处置措施，防止信息扩散，保存有关记录，并向有关主管部门报告」。没做到的，责令改正、给予警告、予以通报，可以再罚 5 万到 50 万元。拒不改正、或者情节严重的，罚 50 万到 200 万元。还可能被责令停业整顿、关闭网站或者应用程序、吊销许可证或者营业执照。直接负责的人另外罚 5 万到 20 万元（全国）",
+      "grade": "A",
+      "sources": "国家互联网信息办公室 (2019). 网络信息内容生态治理规定（网信办令第 5 号，第八、九、十、十六、三十七条）. <http://www.cac.gov.cn/2019-12/20/c_1578375159509309.htm> ; 全国人大常委会 (2025). 网络安全法（2025 年修正，2026 年 1 月 1 日施行，第四十九、六十九条）. <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm> ; 国务院 (2000). 互联网信息服务管理办法（第十五、十六、二十三条）. <https://www.gov.cn/gongbao/content/2011/content_1860864.htm>",
+      "notes": "审核规则不用自己想，照抄就行。哪九类内容不许发，互联网信息服务管理办法第十五条列得清清楚楚。做直播的还多三件事：要「建立直播内容审核平台」，要能随时掐断一场正在播的直播，法条管这个叫「即时阻断」。还要把直播内容和日志保存 60 日。网络表演的视频资料同样不少于 60 日"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Phải quản lý nội dung người dùng đăng: có cơ chế duyệt, kênh báo cáo, phát hiện vi phạm thì lập tức ngừng truyền và báo cơ quan chức năng",
+    "cost": "Phải chi tiền thuê người duyệt, đây là khoản chi dài hạn lớn nhất của nền tảng. Cần lưu dấu vết ở kênh báo cáo và từng lần xử lý. Điều khó là ngày nào cũng cần người theo dõi, ngừng một ngày có thể xảy ra chuyện.",
+    "plain": "Nền tảng chịu trách nhiệm quản lý nội dung người dùng đăng; phải có quy trình đăng ký, duyệt bài, duyệt bình luận, kiểm tra hằng ngày và xử lý sự cố. Đặt kênh báo cáo ở chỗ dễ thấy trên trang. Thấy thông tin trái luật phải ngừng truyền ngay, lưu hồ sơ và báo cơ quan quản lý. Không làm có thể bị phạt 5 vạn đến 50 vạn nhân dân tệ, nghiêm trọng còn cao hơn.",
+    "benefit": "Quy định nói nền tảng ‘phải thực hiện trách nhiệm chủ thể quản lý nội dung thông tin’, nghĩa là tự chịu trách nhiệm quản lý nội dung người dùng đăng. Cụ thể phải ‘hoàn thiện các chế độ đăng ký người dùng, quản lý tài khoản, duyệt thông tin đăng, duyệt bình luận, quản lý môi trường nội dung của các khu vực và trang, kiểm tra thời gian thực, xử lý khẩn cấp, xử lý tin đồn trên mạng và thông tin về chuỗi hoạt động phi pháp’. Từ đăng ký, đăng bài, bình luận đến kiểm tra hằng ngày và xử lý sự cố, mỗi khâu đều phải có quy tắc bằng văn bản. Còn phải ‘đặt lối vào khiếu nại, báo cáo thuận tiện tại vị trí nổi bật’; nút báo cáo phải ở chỗ người dùng dễ thấy, dễ bấm. Phát hiện thông tin trái luật thì ‘phải lập tức xử lý theo luật, giữ hồ sơ liên quan và báo cơ quan có thẩm quyền’. Luật An ninh mạng nêu cụ thể hơn: ‘Phát hiện thông tin mà luật, quy định hành chính cấm đăng hoặc truyền thì phải lập tức dừng truyền, áp dụng biện pháp như xóa để ngăn lan truyền, lưu hồ sơ liên quan và báo cơ quan có thẩm quyền’. Không làm thì bị yêu cầu sửa, cảnh cáo, thông báo vi phạm và có thể phạt thêm 5 vạn đến 50 vạn nhân dân tệ. Không sửa hoặc nghiêm trọng thì phạt 50 vạn đến 200 vạn. Còn có thể bị yêu cầu ngừng kinh doanh để chấn chỉnh, đóng website, ứng dụng, thu hồi giấy phép chuyên ngành hoặc kinh doanh. Người trực tiếp phụ trách bị phạt riêng 5 vạn đến 20 vạn nhân dân tệ (toàn quốc).",
+    "notes": "Không cần tự nghĩ quy tắc duyệt, có thể chép theo quy định. Chín nhóm nội dung không được đăng được Điều mười lăm Biện pháp quản lý dịch vụ thông tin Internet liệt kê rõ. Làm phát trực tiếp còn thêm ba việc: ‘xây dựng nền tảng duyệt nội dung phát trực tiếp’; phải ngắt được bất kỳ buổi đang phát nào, điều luật gọi là ‘chặn tức thời’; lưu nội dung phát và nhật ký 60 ngày. Tư liệu video biểu diễn trực tuyến cũng phải lưu ít nhất 60 ngày.",
+    "extra": ""
+  }
+}

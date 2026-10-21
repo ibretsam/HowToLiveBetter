@@ -1,0 +1,36 @@
+{
+  "id": "e-30-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "055ac2b70a0ee5cd9929bb25e1ea9aaa76a43ca1e069bac0ae7edecab4586c12",
+  "original": {
+    "number": 13,
+    "title": "恒磨牙长出来以后做窝沟封闭",
+    "fields": {
+      "cost": "每颗几十到一两百元。不打麻药，也不用磨牙，一次几分钟。不少地方对够年龄的孩子有免费项目。",
+      "plain": "窝沟封闭是把大牙咬东西那一面的沟槽用树脂封住，食物残渣就塞不进去。做完两年，长蛀牙的机会约为不封的八分之一。如果不封有 16% 的牙面会蛀，封了只有约 5%。四年后仍然有效。",
+      "benefit": "38 项试验、7924 名 5 至 16 岁儿童，由 Cochrane 按规矩找齐后合起来算。拿树脂类封闭剂和不封闭比。5 至 10 岁儿童的第一恒磨牙，做完 24 个月时长蛀牙 OR 0.12（95% CI 0.08–0.19），长蛀牙的机会约为不封闭的八分之一。这一项来自 7 项试验，1548 名抽签分组、1322 名最后受检，证据质量中等。若对照组 24 个月内 16% 的牙面长蛀牙，封闭后为 5.2%（3.13%–7.37%）。对照组 40% 时为 6.25%（3.84%–9.63%）。对照组 70% 时为 19%（12.3%–27.2%）。做完 48 至 54 个月时 OR 0.21（0.16–0.28），仍是不封闭的约五分之一。作者结论为树脂封闭剂在 24 个月时比不封闭少长 11% 至 51% 的蛀牙。4 项记录了不良反应的试验中，没出现不良反应。玻璃离子这类别的封闭材料之间谁更好，证据不足",
+      "grade": "A",
+      "sources": "Ahovuo-Saloranta A, et al. (2017). Pit and fissure sealants for preventing dental decay in permanent teeth. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD001830.pub5>",
+      "notes": "第一颗恒磨牙（不会再换的那颗大牙）一般 6 岁左右冒头，第二颗 12 岁左右。封闭要趁牙刚长出来、还没坏的时候做，已经蛀了就只能补。不少地区把够年龄孩子的窝沟封闭列成免费项目，问当地疾控中心或社区卫生服务中心。本节没找到能逐字核对的全国性文件，所以不写覆盖范围和年龄段。龋齿也是学生体检重点指导的项目，见第 7 条。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trám bít hố rãnh sau khi răng hàm vĩnh viễn mọc",
+    "cost": "Mỗi răng từ vài chục đến một, hai trăm nhân dân tệ. Không tiêm thuốc tê, cũng không cần mài răng; mỗi lần chỉ vài phút. Nhiều địa phương có chương trình miễn phí cho trẻ đủ độ tuổi.",
+    "plain": "Trám bít hố rãnh là dùng nhựa trám kín các rãnh trên mặt nhai của răng hàm, để vụn thức ăn không mắc vào. Sau hai năm, khả năng bị sâu răng khoảng một phần tám so với không trám bít. Nếu không trám bít có 16% bề mặt răng bị sâu, thì trám bít chỉ còn khoảng 5%. Sau bốn năm vẫn còn hiệu quả.",
+    "benefit": "Cochrane tìm kiếm theo quy trình rồi tổng hợp 38 thử nghiệm với 7924 trẻ từ 5 đến 16 tuổi, so sánh chất trám bít gốc nhựa với không trám bít. Ở răng hàm vĩnh viễn thứ nhất của trẻ từ 5 đến 10 tuổi, sau 24 tháng, OR sâu răng là 0.12 (95% CI 0.08–0.19), tức khả năng sâu răng khoảng một phần tám so với không trám bít. Kết quả này đến từ 7 thử nghiệm, 1548 trẻ được phân nhóm ngẫu nhiên và 1322 trẻ được khám ở lần đánh giá cuối; chất lượng bằng chứng trung bình. Nếu trong 24 tháng nhóm đối chứng có 16% bề mặt răng bị sâu, sau trám bít là 5.2% (3.13%–7.37%). Nếu nhóm đối chứng là 40% thì sau trám bít là 6.25% (3.84%–9.63%). Nếu nhóm đối chứng là 70% thì sau trám bít là 19% (12.3%–27.2%). Sau 48 đến 54 tháng, OR là 0.21 (0.16–0.28), vẫn chỉ khoảng một phần năm so với không trám bít. Các tác giả kết luận chất trám bít gốc nhựa giúp giảm sâu răng từ 11% đến 51% sau 24 tháng so với không trám bít. Trong 4 thử nghiệm có ghi nhận phản ứng bất lợi, không xuất hiện phản ứng bất lợi nào. Chưa đủ bằng chứng để xác định loại nào tốt hơn giữa các vật liệu trám bít khác, chẳng hạn xi măng ionomer thủy tinh.",
+    "notes": "Răng hàm vĩnh viễn thứ nhất (răng hàm sẽ không thay nữa) thường mọc khoảng 6 tuổi, răng thứ hai khoảng 12 tuổi. Nên trám bít khi răng mới mọc, chưa bị sâu; đã sâu thì chỉ còn cách trám chữa sâu răng. Nhiều địa phương đưa trám bít hố rãnh cho trẻ đủ độ tuổi vào chương trình miễn phí; hãy hỏi trung tâm kiểm soát bệnh tật hoặc trung tâm dịch vụ y tế cộng đồng tại địa phương. Chương này chưa tìm được văn bản cấp quốc gia có thể đối chiếu từng chữ, nên không nêu phạm vi bao phủ và nhóm tuổi. Sâu răng cũng là một trọng tâm hướng dẫn trong khám sức khỏe học sinh; xem mục 7.",
+    "extra": ""
+  }
+}

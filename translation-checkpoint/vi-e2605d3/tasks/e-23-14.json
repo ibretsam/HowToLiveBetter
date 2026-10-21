@@ -1,0 +1,35 @@
+{
+  "id": "e-23-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "78bdd6c1a8a513c90c13e307aa0cd5329284d2126b0d8df532d4f5e2daf5fea6",
+  "original": {
+    "number": 14,
+    "title": "学完先合上书自己考一遍，别回头重读",
+    "fields": {
+      "cost": "不花钱，总时间也不用增加。把原来用来重读的那段时间，改成合上书默写或者做题。难在自测当场就把没记住的暴露出来，感觉比重读难受。",
+      "plain": "比起读完再读一遍，合上书考自己一遍效果更好。课堂上加了小测验，成绩提高属于中等幅度。给十种常用学法排名时，自测排在最高一档。读完一节先默写要点，再翻回去对。",
+      "benefit": "222 项独立研究、48478 名学生的荟萃分析：课堂测验让学生的学业成绩提高，效应量属于中等（g = 0.499）。效果大小受几个条件影响：对照组用的是什么学法，测验形式和最终考试是否一致，材料是否匹配，有没有给纠正性反馈。还有测验重复了几次、在哪里什么时候测、干预持续多久、用的是什么实验设计。另一份逐一评估十种常用学习方法的综述，把「练习性测验」和「分散练习」评为最高一档（high utility）。理由是它们对不同年龄、不同能力的学习者都有效，在多种考核形式和真实教育场景里都被验证过。",
+      "grade": "A",
+      "sources": "Yang C, Luo L, Vadillo MA, Yu R, Shanks DR (2021). Testing (quizzing) boosts classroom learning: A systematic and meta-analytic review. Psychological Bulletin, 147(4), 399–435. <https://doi.org/10.1037/bul0000309>；Dunlosky J, Rawson KA, Marsh EJ, Nathan MJ, Willingham DT (2013). Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. <https://doi.org/10.1177/1529100612453266>",
+      "notes": "自测是为了逼着把东西从脑子里调出来，不为打分。做法：读完一节合上书先默写要点，再翻回去对。有纠正性反馈的效果更好，所以对完答案要看清错在哪。收益量级记「大」，是按效应量和评级判的。这两份证据量的是成绩，没有量小时数，所以没按节省时间的阈值套。自测和第 15 条（把同样的时间摊到几天）是同一份综述里评级最高的两样，配合用。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Học xong hãy đóng sách tự kiểm tra, đừng quay lại đọc lần nữa",
+    "cost": "Không tốn tiền, cũng không cần tăng tổng thời gian. Chuyển thời gian vốn dùng đọc lại sang đóng sách viết theo trí nhớ hoặc làm bài. Khó ở chỗ tự kiểm tra lộ ngay điều chưa nhớ, cảm giác khó chịu hơn đọc lại.",
+    "plain": "Đóng sách tự kiểm tra hiệu quả hơn đọc xong rồi đọc lại. Thêm bài kiểm tra ngắn trong lớp giúp thành tích tăng ở mức vừa. Trong đánh giá mười cách học phổ biến, tự kiểm tra thuộc nhóm cao nhất. Đọc xong một phần hãy viết các ý chính theo trí nhớ rồi mở sách đối chiếu.",
+    "benefit": "Phân tích gộp 222 nghiên cứu độc lập với 48478 học sinh, sinh viên: kiểm tra trong lớp cải thiện thành tích học tập với mức tác động vừa (g = 0.499). Hiệu quả phụ thuộc vào cách học của nhóm đối chứng, hình thức kiểm tra có giống kỳ thi cuối không, tài liệu có khớp không và có phản hồi sửa sai không. Các yếu tố khác gồm số lần lặp kiểm tra, địa điểm, thời điểm kiểm tra, thời gian can thiệp và thiết kế thử nghiệm. Một tổng quan khác đánh giá lần lượt mười phương pháp học phổ biến, xếp “kiểm tra để luyện tập” và “luyện tập phân tán” vào nhóm cao nhất (high utility). Lý do là chúng hiệu quả ở người học khác nhau về tuổi, năng lực, đã được kiểm chứng với nhiều hình thức đánh giá và bối cảnh giáo dục thực tế.",
+    "notes": "Tự kiểm tra nhằm buộc bạn lấy thông tin ra từ trí nhớ, không phải để chấm điểm. Đọc xong một phần, đóng sách viết các ý chính rồi mở lại đối chiếu. Có phản hồi sửa sai hiệu quả hơn, nên sau khi đối đáp án cần xem rõ sai ở đâu. Mức lợi ích ghi “lớn” dựa vào độ lớn tác động và xếp hạng. Hai nguồn bằng chứng đo thành tích, không đo số giờ nên không áp ngưỡng tiết kiệm thời gian. Tự kiểm tra và mục 15 (chia cùng thời gian ra nhiều ngày) là hai cách được xếp cao nhất trong cùng tổng quan; hãy kết hợp.",
+    "extra": ""
+  }
+}

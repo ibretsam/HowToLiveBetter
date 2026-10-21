@@ -1,0 +1,35 @@
+{
+  "id": "e-31-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "e66073e8a402d44dcce3ba500ec30c740361974632f03537db17808f6222021c",
+  "original": {
+    "number": 3,
+    "title": "应征之后拒服兵役，两年内不准出境或升学复学，还进不了公务员和国企",
+    "fields": {
+      "cost": "不花钱。代价是在报名之前，就要把去不去想清楚。",
+      "plain": "报了名又拒绝去当兵、责令改正后还不改的，后果是一串。公务员不能录用你，国有企业和事业单位也不能招你。两年内不准出境，不准升学和复学，还会被列进履行国防义务严重失信主体名单。所以「先报上再说，不行就退回来」是个很贵的想法。",
+      "benefit": "兵役法第五十七条第一款第二项是「应征公民拒绝、逃避征集服现役的」。处罚同样是「由县级人民政府责令限期改正；逾期不改正的，由县级人民政府强制其履行兵役义务，并处以罚款」。同一条第二款：「有前款第二项行为，拒不改正的，不得录用为公务员或者参照《中华人民共和国公务员法》管理的工作人员，不得招录、聘用为国有企业和事业单位工作人员，两年内不准出境或者升学复学，纳入履行国防义务严重失信主体名单实施联合惩戒。」联合惩戒就是多个部门照同一份名单，一起执行上面这些限制。第五十八条把同一套惩戒接到已经入伍的人身上。军人以逃避服兵役为目的，拒绝履行职责或者逃离部队，后果要看处理结果。被军队除名、开除军籍或者被依法追究刑事责任的，依照第五十七条第二款处罚。其中被除名的并处罚款（全国，2021 年 10 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 兵役法（2021 年修订，第五十七、五十八条）. <http://www.mod.gov.cn/regulatory/2021-08/20/content_4892491.htm>（国防部刊登）",
+      "notes": "这里算的是人身自由和就业资格，不是钱。这一串惩戒只罚两种人。一种是「应征公民拒绝、逃避征集服现役」的。另一种是入伍以后被除名、开除军籍、被追究刑责的。光是没做兵役登记的不在里面，兵役登记见第 2 条。罚的前提是「拒不改正」，由县级人民政府认定和处罚。罚多少钱各地自己定，本书不写。去不去由你自己定，但要在报名之前定下来。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Dự tuyển rồi từ chối phục vụ quân sự: hai năm không được xuất cảnh, học lên hay trở lại trường, cũng không vào được công chức và doanh nghiệp nhà nước",
+    "cost": "Không tốn tiền. Cái giá là phải nghĩ rõ có đi hay không trước khi đăng ký.",
+    "plain": "Đăng ký rồi từ chối nhập ngũ, đã bị buộc sửa mà vẫn không sửa thì chịu hàng loạt hậu quả. Không được tuyển làm công chức, nhân viên doanh nghiệp nhà nước hoặc đơn vị sự nghiệp. Trong hai năm không được xuất cảnh, học lên hoặc trở lại trường, còn bị đưa vào danh sách mất tín nhiệm nghiêm trọng trong thực hiện nghĩa vụ quốc phòng. Vì vậy, “cứ đăng ký đã, không được thì quay về” là ý nghĩ rất tốn kém.",
+    "benefit": "Điểm hai khoản một điều năm mươi bảy Luật Nghĩa vụ quân sự áp dụng với “công dân dự tuyển từ chối, trốn tránh tuyển phục vụ tại ngũ”. Xử lý cũng là “chính quyền cấp huyện buộc sửa trong thời hạn; quá hạn không sửa thì chính quyền cấp huyện cưỡng chế thực hiện nghĩa vụ quân sự và phạt tiền”. Khoản hai cùng điều: “Người có hành vi ở điểm hai khoản trước và nhất quyết không sửa thì không được tuyển làm công chức hoặc nhân sự quản lý theo Luật Công chức nước Cộng hòa Nhân dân Trung Hoa; không được tuyển, ký hợp đồng làm nhân viên doanh nghiệp nhà nước và đơn vị sự nghiệp; trong hai năm không được xuất cảnh, học lên hoặc trở lại trường; bị đưa vào danh sách chủ thể mất tín nhiệm nghiêm trọng trong thực hiện nghĩa vụ quốc phòng để xử lý liên ngành”. Xử lý liên ngành nghĩa là nhiều cơ quan dùng cùng danh sách để cùng thực thi các hạn chế trên. Điều năm mươi tám áp dụng cùng chế tài cho người đã nhập ngũ. Quân nhân từ chối nhiệm vụ hoặc bỏ đơn vị nhằm trốn nghĩa vụ thì hậu quả tùy kết quả xử lý. Người bị xóa tên khỏi quân đội, khai trừ quân tịch hoặc truy cứu trách nhiệm hình sự chịu xử lý theo khoản hai điều năm mươi bảy; người bị xóa tên còn bị phạt tiền (toàn Trung Quốc, hiệu lực từ ngày 1 tháng 10 năm 2021)",
+    "notes": "Ở đây tính tự do cá nhân và tư cách việc làm, không phải tiền. Chuỗi chế tài này chỉ áp dụng hai nhóm: công dân dự tuyển từ chối, trốn tránh tuyển phục vụ tại ngũ; và người đã nhập ngũ rồi bị xóa tên, khai trừ quân tịch hoặc truy cứu hình sự. Chỉ không đăng ký nghĩa vụ quân sự thì không nằm trong đó; đăng ký xem mục 2. Điều kiện xử phạt là “nhất quyết không sửa”, do chính quyền cấp huyện xác định và xử lý. Mức tiền phạt do địa phương quy định, sách không nêu. Đi hay không do bạn quyết định, nhưng phải quyết định trước khi đăng ký.",
+    "extra": ""
+  }
+}

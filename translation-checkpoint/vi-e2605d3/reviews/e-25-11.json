@@ -1,0 +1,15 @@
+{
+  "id": "e-25-11",
+  "source_sha256": "778bdf5bff75d0ca2a1681bc9d42449d1651a33f8d8ab0536b6c94b8341b9e7d",
+  "draft_sha256": "34d76dcbd2a3540c525e57a64809a217e18dc6500e8c3f1ca41581347c9f071e",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves estate-value liability cap, written renunciation before distribution, joint spousal debt exception and both enforcement cases. Source Chongqing description both says renunciation declared and later no express renunciation; retained without speculative reconciliation. Translation review does not independently verify current law or source advice."
+}

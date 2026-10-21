@@ -1,0 +1,35 @@
+{
+  "id": "e-3-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "1c6669d6f112b2211671580dc790816780d83f2cdb3518260d1c346a2cfe0f4f",
+  "original": {
+    "number": 2,
+    "title": "固定起床时间，周末也一样",
+    "fields": {
+      "cost": "不花钱。周末要少睡懒觉，需要一点毅力。",
+      "plain": "作息最乱的那五分之一人，生物钟比最规律的那五分之一晚了约 2.5 小时。等于长期活在时差里。作息越规律的学生，成绩也越好。",
+      "benefit": "61 名大学生记录了 30 天。作息最不规律的五分之一，生物钟（昼夜节律）比最规律的五分之一晚约 2.5 小时。具体是褪黑素开始分泌的时刻 00:08 对 21:32。最困、最想睡的时段也晚约 1.8 小时。作息越规律，学业成绩越好（相关系数 r = 0.37）。",
+      "grade": "B",
+      "sources": "Phillips et al. (2017). Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing. Scientific Reports. <https://doi.org/10.1038/s41598-017-03171-4>",
+      "notes": "只有这一项研究，人数少，也没有分组对照。研究者用模型推算，生物钟的差别主要来自每天见到的光不一样。他们建议可以试试用光来调，但没有做试验验证。所以固定起床时间之外，白天多出门见光，这是从他们的推算推出来的。偶尔熬夜之后怎么补，见第 2 节第 38 条（熬夜之后第二天晚上就补觉）：办法是当晚早点上床，不是第二天睡到中午。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Giữ giờ thức dậy cố định, kể cả cuối tuần",
+    "cost": "Không tốn tiền. Cuối tuần phải bớt ngủ nướng, cần một chút ý chí.",
+    "plain": "Ở một phần năm số người có giờ giấc thất thường nhất, đồng hồ sinh học chậm hơn khoảng 2.5 giờ so với một phần năm có giờ giấc đều đặn nhất. Giống như thường xuyên sống trong tình trạng lệch múi giờ. Sinh viên có giờ giấc càng đều đặn thì thành tích học tập cũng càng tốt.",
+    "benefit": "61 sinh viên ghi chép trong 30 ngày. Ở một phần năm có giờ giấc thất thường nhất, đồng hồ sinh học (nhịp ngày đêm) chậm hơn khoảng 2.5 giờ so với một phần năm đều đặn nhất. Cụ thể, thời điểm bắt đầu tiết melatonin là 00:08 so với 21:32. Thời điểm buồn ngủ nhất cũng chậm hơn khoảng 1.8 giờ. Giờ giấc càng đều đặn, thành tích học tập càng tốt (hệ số tương quan r = 0.37).",
+    "notes": "Chỉ có một nghiên cứu này, số người ít và không chia nhóm đối chứng. Các nhà nghiên cứu dùng mô hình để tính toán, cho rằng khác biệt về đồng hồ sinh học chủ yếu do lượng ánh sáng tiếp xúc mỗi ngày khác nhau. Họ đề xuất thử điều chỉnh bằng ánh sáng, nhưng chưa làm thử nghiệm xác nhận. Vì thế, ngoài giữ giờ thức dậy cố định, việc ra ngoài tiếp xúc ánh sáng nhiều hơn ban ngày là suy luận từ tính toán của họ. Cách ngủ bù sau một lần thức khuya xem chương 2 mục 38 (ngủ bù ngay đêm hôm sau khi thức khuya): đi ngủ sớm hơn vào đêm đó, không phải ngủ đến trưa hôm sau.",
+    "extra": ""
+  }
+}

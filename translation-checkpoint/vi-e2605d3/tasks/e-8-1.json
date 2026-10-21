@@ -1,0 +1,35 @@
+{
+  "id": "e-8-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "ac860aaf138f42babc4df6248628e6a99c294fd58df6e594b54f3053d929de8c",
+  "original": {
+    "number": 1,
+    "title": "出了交通事故先停车、救人、报警，不要跑",
+    "fields": {
+      "cost": "不花钱。停车、开双闪、救人、打电话报警，等交警最多耗掉一两个小时。小事故要是没人受伤、双方对事实也没争议，就先拍照。再记下对方的姓名、电话、车牌、驾驶证号、保险凭证号和撞到的部位。双方签字后可以先撤离现场，再自己协商。",
+      "plain": "跑了，这起事故就默认算你全责。驾照要吊销，逃逸构成犯罪的这辈子都不能再考。还有更现实的一层：车损险和三者险对逃逸一律不赔，几十万的赔偿全要自己掏。留在现场救人、报警，最多耗掉一两个小时。",
+      "benefit": "跑了的那一方，要承担这次事故的全部责任。只有你能证明对方也有错，责任才可能减轻一点。跑了还要吊销驾驶证。逃逸构成犯罪的，这辈子都不能再申请驾驶证。如果这起事故构成交通肇事罪，跑了判 3 到 7 年。如果因为跑了导致人死亡，判 7 年以上。保险也不管：商业车险里的车损险和三者险，遇上「交通肇事逃逸」「故意破坏、伪造现场、毁灭证据」一律不赔，几十万的赔偿要你自己全掏（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 道路交通安全法（2021 年修订，第七十、一百零一条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/205308/index.html>（北京市公安交通管理局转载）；国务院 (2017). 道路交通安全法实施条例（国务院令第 405 号，2017 年修订，第八十六、九十二条）. <http://xzfg.moj.gov.cn/front/law/detail?LawID=75>；全国人大 (1997). 刑法（第一百三十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；中国保险行业协会 (2020). 机动车商业保险示范条款（2020 版）（第九、二十二条）. <https://www.iachina.cn/art/2020/9/4/art_24_104621.html>；公安部 (2024). 机动车驾驶证申领和使用规定（公安部令第 172 号修改，2025 年 1 月 1 日施行，第十五条第三项「造成交通事故后逃逸构成犯罪的」不得申请机动车驾驶证）. <https://ga.tj.gov.cn/zwgk/zcwj/jg3/202501/t20250103_6824050.html>（天津市公安局转载）",
+      "notes": "有人受伤，先救人，再报警。为了救人必须挪动现场的，先把车和人原来的位置标出来。「撞了一下没感觉就开走」，事后也可能被算成逃逸，拿不准就报警。保险那一条引的是示范条款，它是保险行业的统一模板，你实际能赔到什么，以自己手里的保单为准。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Khi xảy ra tai nạn giao thông, trước hết dừng xe, cứu người, báo cảnh sát, đừng bỏ chạy",
+    "cost": "Không mất tiền. Dừng xe, bật đèn cảnh báo nguy hiểm, cứu người, gọi báo cảnh sát rồi chờ cảnh sát giao thông, nhiều nhất mất một hai giờ. Nếu tai nạn nhỏ không có người bị thương và hai bên không tranh chấp về sự việc, hãy chụp ảnh trước. Sau đó ghi lại tên, số điện thoại, biển số xe, số giấy phép lái xe, số chứng nhận bảo hiểm của bên kia và vị trí va chạm. Hai bên ký tên xong có thể rời hiện trường trước rồi tự thương lượng.",
+    "plain": "Nếu bỏ chạy, mặc định bạn phải chịu toàn bộ trách nhiệm về tai nạn. Giấy phép lái xe bị thu hồi và cả đời không được thi lại. Còn một vấn đề thiết thực hơn: bảo hiểm thiệt hại xe và bảo hiểm trách nhiệm với bên thứ ba đều không bồi thường nếu bỏ trốn; khoản bồi thường vài chục vạn tệ phải tự bỏ tiền trả hết. Ở lại hiện trường cứu người, báo cảnh sát thì nhiều nhất mất một hai giờ.",
+    "benefit": "Bên bỏ chạy phải chịu toàn bộ trách nhiệm về tai nạn này. Chỉ khi chứng minh được bên kia cũng có lỗi thì trách nhiệm mới có thể được giảm phần nào. Bỏ chạy còn bị thu hồi giấy phép lái xe và cả đời không được thi lại. Nếu tai nạn cấu thành tội gây tai nạn giao thông, bỏ chạy sẽ bị phạt tù từ 3 đến 7 năm. Nếu việc bỏ chạy khiến có người chết, mức phạt là từ 7 năm tù trở lên. Bảo hiểm cũng không chi trả: trong bảo hiểm xe thương mại, bảo hiểm thiệt hại xe và bảo hiểm trách nhiệm với bên thứ ba đều không bồi thường khi có hành vi ‘gây tai nạn giao thông rồi bỏ trốn’ hoặc ‘cố ý phá hoại, làm giả hiện trường, tiêu hủy chứng cứ’. Khoản bồi thường vài chục vạn tệ bạn phải tự trả toàn bộ (toàn Trung Quốc).",
+    "notes": "Nếu có người bị thương, cứu người trước rồi báo cảnh sát. Nếu phải di chuyển đồ vật hay người tại hiện trường để cứu người, trước hết đánh dấu vị trí ban đầu của xe và người. ‘Va chạm một cái nhưng không cảm thấy gì nên lái đi’ vẫn có thể bị xác định là bỏ trốn sau đó; nếu không chắc, hãy báo cảnh sát. Phần bảo hiểm trích điều khoản mẫu chung của ngành bảo hiểm. Thực tế được bồi thường những gì phải căn cứ vào hợp đồng bảo hiểm bạn đang có.",
+    "extra": ""
+  }
+}

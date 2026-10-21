@@ -1,0 +1,35 @@
+{
+  "id": "e-25-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "a9661c56d469fb9148ed38635494f5b7ecdaeefccafb3851b78992a99d939450",
+  "original": {
+    "number": 5,
+    "title": "给去世的人注销户口有法定时限：城市在安葬前，农村在一个月以内",
+    "fields": {
+      "cost": "不花钱。带上死亡证明和户口簿，去派出所跑一趟。",
+      "plain": "城市要在安葬前销户，农村要在一个月以内。带死亡证明和户口簿去派出所办。拖着不办，继承过户、领待遇、退保都会卡在户籍状态上。",
+      "benefit": "户口登记条例第八条第一款：「公民死亡，城市在葬前，农村在一个月以内，由户主、亲属、抚养人或者邻居向户口登记机关申报死亡登记，注销户口。公民如果在暂住地死亡，由暂住地户口登记机关通知常住地户口登记机关注销户口」。意思是：城里在下葬前办，农村在一个月内办。户主、亲属、抚养人或者邻居都可以去户口登记机关（派出所）报死亡、销户口。人是在外地暂住时走的，由暂住地派出所通知户籍所在地派出所销户",
+      "grade": "A",
+      "sources": "全国人大常委会 (1958). 中华人民共和国户口登记条例（第八条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/mpost_2531969.html>（广东省人民政府门户网站刊登）",
+      "notes": "户口一直挂着，办继承过户、领待遇、退保都会卡住，这些窗口都看户籍状态。养老金要是还照发，那是冒领，早晚要退回去。去派出所时顺便问清楚：社保、医保待遇怎么停，丧葬补助怎么申领。那几笔钱见第 9 条（公积金余额、社保待遇）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Xóa hộ khẩu người đã mất có thời hạn luật định: thành thị trước khi an táng, nông thôn trong vòng một tháng",
+    "cost": "Không tốn tiền. Mang giấy chứng tử và sổ hộ khẩu đến đồn công an một lần.",
+    "plain": "Thành thị phải xóa hộ khẩu trước khi an táng, nông thôn trong vòng một tháng. Mang giấy chứng tử và sổ hộ khẩu đến đồn công an làm thủ tục. Trì hoãn sẽ khiến sang tên thừa kế, nhận chế độ và hoàn phí bảo hiểm bị vướng vì tình trạng đăng ký hộ khẩu.",
+    "benefit": "Khoản một Điều tám Điều lệ đăng ký hộ khẩu: ‘Công dân tử vong thì ở thành thị trước khi an táng, ở nông thôn trong vòng một tháng, chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm phải khai báo đăng ký tử vong và xóa hộ khẩu tại cơ quan đăng ký hộ khẩu. Nếu tử vong tại nơi tạm trú thì cơ quan đăng ký hộ khẩu nơi tạm trú thông báo cho cơ quan nơi thường trú xóa hộ khẩu’. Nghĩa là thành thị làm trước khi chôn cất, nông thôn trong một tháng. Chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm đều có thể đến cơ quan đăng ký hộ khẩu, tức đồn công an, báo tử và xóa hộ khẩu. Mất khi tạm trú ở địa phương khác thì đồn công an nơi tạm trú báo đồn công an nơi đăng ký hộ khẩu xóa hộ khẩu.",
+    "notes": "Hộ khẩu còn giữ thì sang tên thừa kế, nhận chế độ, hoàn phí bảo hiểm đều vướng, vì những nơi xử lý đều xem tình trạng đăng ký hộ khẩu. Nếu lương hưu vẫn được trả thì đó là nhận trái phép, sớm muộn phải trả lại. Đến đồn công an nên hỏi luôn cách dừng chế độ bảo hiểm xã hội, y tế và xin trợ cấp tang lễ. Các khoản tiền xem mục 9 về số dư quỹ nhà ở và chế độ bảo hiểm xã hội.",
+    "extra": ""
+  }
+}

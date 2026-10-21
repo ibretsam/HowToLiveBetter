@@ -1,0 +1,35 @@
+{
+  "id": "e-13-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "e0603907564c8b3a9851696c85db029780cea9934ac79931a9112e20fcae260f",
+  "original": {
+    "number": 8,
+    "title": "突然像被撕开一样的剧痛，从胸口往后背、往腰一路挪，打 120 并说清「像撕开一样」",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "撕裂一样的剧痛从胸口往后背、往腰一路挪，打 120 时直接说「像撕开一样，疼在往下走」。A 型夹层不手术、光吃药的，住院死亡率 58%。它和心梗的处理不一样，医生先想到它才会去查。两条胳膊血压差很多、一侧摸不到脉，也说出来。",
+      "benefit": "国际急性主动脉夹层登记（IRAD）收了 12 家中心的 464 例。主动脉夹层就是胸背撕裂样剧痛那种病。病人最先说出来的症状里，最常见的是突然发作的剧烈锐痛。但表现五花八门，一侧摸不到脉这类典型体征只在 15.1% 的人身上出现。住院期间总死亡率 27.4%。A 型夹层没做手术、只吃药的，死亡率 58%。美国心脏协会和美国心脏病学会 2022 年的主动脉病指南，用一张评分表判断夹层的可能性。高危情况是马凡综合征这类结缔组织病、家里有人得过主动脉病、已知有胸主动脉瘤等。高危的疼法是胸、背或腹部疼，突然发作、非常剧烈、像撕裂一样。高危的体征是一侧摸不到脉，或者两条胳膊的收缩压（高压）差得多。指南还写明，血压控制不好是主动脉破裂和夹层的已知危险因素",
+      "grade": "B",
+      "sources": "Hagan PG, Nienaber CA, Isselbacher EM, et al. (2000). The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. JAMA, 283(7), 897-903. <https://doi.org/10.1001/jama.283.7.897>；Isselbacher EM, Preventza O, Hamilton Black J, et al. (2022). 2022 ACC/AHA Guideline for the Diagnosis and Management of Aortic Disease. Circulation, 146(24), e334-e482，表 24（ADD-RS）：「Marfan syndrome or other connective tissue disease」「Family history of aortic disease」「Ripping or tearing in quality」「Pulse deficit or systolic blood pressure differential」；「Uncontrolled hypertension is a known risk factor for aortic rupture and dissection」. <https://doi.org/10.1161/CIR.0000000000001106>",
+      "notes": "到医院要主动说「撕裂样，疼在往下走」，让医生想到夹层、去做增强 CT。心梗常用抗凝、溶栓这类让血别凝住的药。作者推断，这类药用在夹层上会加重出血，所以要让医生先把夹层排除掉。两条胳膊血压差很多、一侧摸不到脉搏，是提示。血压控制不好的、有马凡综合征的、家里得过主动脉病的，风险高。同样不要自己开车，不要忍到第二天"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đột ngột đau dữ dội như bị xé, cơn đau di chuyển từ ngực ra lưng rồi xuống thắt lưng: gọi 120 và nói rõ “đau như bị xé”",
+    "cost": "Không tốn tiền.",
+    "plain": "Đau dữ dội như bị xé di chuyển từ ngực ra lưng rồi xuống thắt lưng thì khi gọi 120 hãy nói thẳng “đau như bị xé, cơn đau đang đi xuống”. Bóc tách loại A không phẫu thuật, chỉ dùng thuốc có tỷ lệ tử vong trong viện là 58%. Cách xử trí khác nhồi máu cơ tim; bác sĩ phải nghĩ đến bệnh này trước thì mới kiểm tra. Huyết áp hai tay chênh lệch nhiều hoặc không bắt được mạch một bên thì cũng nói rõ.",
+    "benefit": "Hệ thống đăng ký bóc tách động mạch chủ cấp quốc tế (IRAD) thu nhận 464 ca từ 12 trung tâm. Bóc tách động mạch chủ là bệnh có thể gây đau ngực, lưng dữ dội như bị xé. Trong những triệu chứng người bệnh nói đến đầu tiên, thường gặp nhất là đau nhói dữ dội khởi phát đột ngột. Nhưng biểu hiện rất đa dạng; dấu hiệu điển hình như không bắt được mạch một bên chỉ xuất hiện ở 15.1% người bệnh. Tỷ lệ tử vong chung trong thời gian nằm viện là 27.4%. Bóc tách loại A không phẫu thuật, chỉ dùng thuốc có tỷ lệ tử vong 58%. Hướng dẫn bệnh động mạch chủ năm 2022 của Hiệp hội Tim mạch Mỹ và Trường môn Tim mạch Mỹ dùng một bảng điểm để đánh giá khả năng bóc tách. Những tình trạng nguy cơ cao gồm bệnh mô liên kết như hội chứng Marfan, gia đình từng có người mắc bệnh động mạch chủ và đã biết có phình động mạch chủ ngực. Kiểu đau nguy cơ cao là đau ngực, lưng hoặc bụng, đột ngột, rất dữ dội và như bị xé. Dấu hiệu nguy cơ cao là không bắt được mạch một bên hoặc huyết áp tâm thu (số trên) ở hai tay chênh lệch nhiều. Hướng dẫn cũng nêu rõ huyết áp kiểm soát kém là yếu tố nguy cơ đã biết của vỡ và bóc tách động mạch chủ.",
+    "notes": "Đến bệnh viện hãy chủ động nói “đau như bị xé, cơn đau đang đi xuống” để bác sĩ nghĩ đến bóc tách và chỉ định CT có thuốc cản quang. Nhồi máu cơ tim thường dùng thuốc chống đông, tiêu sợi huyết để ngăn máu đông. Tác giả suy luận rằng dùng những thuốc này trong bóc tách sẽ làm chảy máu nặng hơn, nên cần để bác sĩ loại trừ bóc tách trước. Huyết áp hai tay chênh lệch nhiều, không bắt được mạch một bên là những gợi ý. Người kiểm soát huyết áp kém, có hội chứng Marfan hoặc gia đình từng có bệnh động mạch chủ có nguy cơ cao. Tương tự, đừng tự lái xe, đừng chịu đựng đến hôm sau.",
+    "extra": ""
+  }
+}

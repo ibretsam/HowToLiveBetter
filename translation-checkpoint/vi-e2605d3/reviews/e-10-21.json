@@ -1,0 +1,15 @@
+{
+  "id": "e-10-21",
+  "source_sha256": "ffa00cb2b14bbc8b6ed9e076ec728947433882ee7cd7f022f924efa529815e09",
+  "draft_sha256": "3ccc29290dd01175238087c0ce5ad90174eaa0300f45562a801b37de9d120901",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves February 1994 cutoff versus exact February 1 date in benefit, retrospective registration effect, children and evidence-based discretionary estate share. Translation review does not independently verify current law or source advice."
+}

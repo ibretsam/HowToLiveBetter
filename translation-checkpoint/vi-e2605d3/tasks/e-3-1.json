@@ -1,0 +1,35 @@
+{
+  "id": "e-3-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "59f19fa2be7b33bd13226d595cab60a2f0c62651d20a599de40bca1e75b29c74",
+  "original": {
+    "number": 1,
+    "title": "关掉非必要通知，工作时把手机放到视线之外",
+    "fields": {
+      "cost": "不花钱。花几分钟改一下设置，几乎不需要毅力。",
+      "plain": "手机响一下，哪怕你没看、没碰，注意力任务的成绩也会掉。掉的幅度和你真去接电话、发短信差不多。还有一种情况：手机就搁在桌上，你忍住不看，脑子能用的余量一样会变少。越离不开手机的人，掉得越多。",
+      "benefit": "只是收到一条通知，不看也不碰，注意力任务的成绩就明显变差。变差的幅度和真的接打电话、发短信相当。这是实验室里做的，受试者是大学生。另有两项实验显示：即便成功克制住不去看手机，自己的手机搁在旁边，也会让脑子能用的余量变少。手机依赖强的人下降最多。",
+      "grade": "B",
+      "sources": "Stothart, Mitchum & Yehnert (2015). The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance. <https://doi.org/10.1037/xhp0000100>；Ward, Duke, Gneezy & Bos (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research. <https://doi.org/10.1086/691462>",
+      "notes": "这些都是实验室里的单次任务。天天这样累积下来是什么结果，没人测过。真正需要随叫随到的岗位，可以只留少数几个联系人的通知。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tắt thông báo không cần thiết; khi làm việc hãy để điện thoại ngoài tầm nhìn",
+    "cost": "Không tốn tiền. Bạn chỉ cần vài phút đổi cài đặt, gần như không cần ý chí.",
+    "plain": "Điện thoại reo một tiếng, dù bạn không xem hay chạm, kết quả bài kiểm tra chú ý vẫn giảm gần bằng khi thực sự nghe gọi hoặc nhắn tin. Ngay cả khi điện thoại chỉ nằm trên bàn và bạn nhịn không xem, khả năng suy nghĩ còn dùng được cũng giảm. Càng phụ thuộc điện thoại, mức giảm càng lớn.",
+    "benefit": "Chỉ nhận một thông báo mà không xem hay chạm điện thoại cũng khiến kết quả nhiệm vụ chú ý kém đi rõ rệt, tương đương thực sự gọi điện hoặc nhắn tin. Thí nghiệm này được làm trong phòng thí nghiệm với sinh viên. Hai thí nghiệm khác cho thấy dù người tham gia kiềm chế được không xem, điện thoại của mình để bên cạnh vẫn làm giảm năng lực suy nghĩ còn dùng được. Người phụ thuộc điện thoại nhiều giảm mạnh nhất.",
+    "notes": "Các nghiên cứu đều đo nhiệm vụ một lần trong phòng thí nghiệm. Chưa ai đo kết quả tích lũy khi lặp lại hằng ngày. Nếu công việc thực sự cần luôn liên lạc được, bạn có thể chỉ giữ thông báo của một vài người cần thiết.",
+    "extra": ""
+  }
+}

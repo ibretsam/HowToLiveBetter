@@ -1,0 +1,35 @@
+{
+  "id": "e-12-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "f18fbcc643674054631a872448be4600086061c844548ed856f25369512a17a6",
+  "original": {
+    "number": 6,
+    "title": "注册前把名称、经营场所、经营范围和注册资本定下来，材料齐了当场就能领执照",
+    "fields": {
+      "cost": "登记这一步不花钱。企业和个体工商户的注册登记费，从 2015 年 1 月 1 日起就停收了。自己在当地政务服务网上办，或者去政务大厅办，一次几个小时。刻公章、请人代记账、租一个注册地址（地址托管），是在市场上买服务，不是政府收的费。",
+      "plain": "登记本身不花钱，注册费 2015 年起就停征了，有人收钱，收的也不是登记费。要交的材料只有五项：申请书、身份或资格证明、经营场所文件、章程或合伙协议，加上法规另外点名要的。材料齐了当场发执照，当场发不了的 3 个工作日内办完，复杂的再多 3 个工作日。",
+      "benefit": "条例把要交的材料写死为五项。「（一）申请书」。「（二）申请人资格文件、自然人身份证明」。「（三）住所或者主要经营场所相关文件」。「（四）公司、非公司企业法人、农民专业合作社（联合社）章程或者合伙企业合伙协议」。「（五）法律、行政法规和国务院市场监督管理部门规定提交的其他材料」。翻成大白话：一份申请书，一份证明你是谁、或者你有资格办这件事的材料。再加一份能证明店面或者办公地归你用的材料，以及公司章程或者合伙协议。法规另外点名要的，也要交。公司还要交法定代表人、董事、监事和高管的任职文件和身份证明。个体户不用交章程。名字「由申请人依法自主申报」，自己起、自己报。注册资本「实行认缴登记制」，先写上答应出多少，不用当场掏出来。经营范围从登记机关公布的分类里挑。材料齐全、格式也对的，「予以确认并当场登记」。当场办不完的，「3 个工作日内」办完，情况复杂的再多给 3 个工作日。「营业执照签发日期为市场主体的成立日期」：执照上印的那天，就是公司或者店铺成立的日子（全国，2022 年 3 月起）",
+      "grade": "A",
+      "sources": "国务院 (2021). 市场主体登记管理条例（国务院令第 746 号，第十、十三、十四、十六、十九、二十一条）. <https://www.gov.cn/gongbao/content/2021/content_5636139.htm> ; 市场监管总局 (2022). 市场主体登记管理条例实施细则（市场监管总局令第 52 号，第十二、二十五、二十六条）. <https://www.gov.cn/zhengce/zhengceku/2022-03/02/content_5676403.htm> ; 财政部、国家发展改革委 (2014). 关于取消、停征和免征一批行政事业性收费的通知（财税〔2014〕101 号，附件 1）. <https://www.gov.cn/zhengce/2014-12/23/content_5023513.htm> ; 国务院办公厅 (2018). 关于进一步压缩企业开办时间的意见（国办发〔2018〕32 号，第二部分第三项）. <https://www.gov.cn/zhengce/zhengceku/2018-05/17/content_5291643.htm>",
+      "notes": "登记本身不收费。有人收钱，收的是代办、刻章这类市场服务的钱。刻章的价格由市场定。国务院办公厅 2018 年的文件写明「申请人自主选择公章制作单位」，「严禁指定公章制作单位制作公章」，所以有人说「必须去指定的地方刻章」，你不必接受。注册资本填多少不影响门面，只决定你的责任上限，而且 5 年内要缴足，见本节第 3 条（开张前选对主体）。经营范围里带许可项目的，证没下来不能开张，见本节第 7 条（要许可证的行当）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi đăng ký, chốt tên, địa điểm, ngành nghề và vốn đăng ký; đủ giấy tờ thì có thể nhận giấy phép ngay",
+    "cost": "Bước đăng ký không tốn tiền. Phí đăng ký doanh nghiệp và hộ kinh doanh cá thể đã ngừng thu từ ngày 1 tháng 1 năm 2015. Tự làm trên trang dịch vụ công địa phương hoặc đến trung tâm hành chính, mất vài giờ một lần. Khắc dấu, thuê dịch vụ kế toán hay thuê địa chỉ đăng ký là dịch vụ mua trên thị trường, không phải phí chính phủ thu.",
+    "plain": "Bản thân việc đăng ký không tốn tiền; phí đăng ký đã ngừng thu từ năm 2015. Có người thu tiền thì đó cũng không phải phí đăng ký. Hồ sơ chỉ có năm nhóm: đơn, giấy tờ chứng minh danh tính hoặc tư cách, giấy tờ địa điểm kinh doanh, điều lệ hoặc thỏa thuận hợp danh, và những tài liệu khác pháp luật quy định. Đủ hồ sơ thì cấp phép ngay; nếu chưa thể xử lý tại chỗ thì hoàn tất trong 3 ngày làm việc, vụ phức tạp được thêm 3 ngày làm việc.",
+    "benefit": "Điều lệ quy định cụ thể năm nhóm tài liệu phải nộp. “Một: đơn đăng ký.” “Hai: giấy tờ về tư cách người đăng ký, giấy tờ tùy thân của cá nhân.” “Ba: giấy tờ liên quan đến trụ sở hoặc địa điểm kinh doanh chính.” “Bốn: điều lệ công ty, pháp nhân doanh nghiệp không phải công ty, hợp tác xã nông dân chuyên ngành hoặc liên hiệp hợp tác xã; hoặc thỏa thuận hợp danh của doanh nghiệp hợp danh.” “Năm: tài liệu khác mà luật, quy định hành chính và cơ quan quản lý thị trường thuộc Quốc vụ viện yêu cầu.” Nói dễ hiểu: một đơn đăng ký, giấy tờ chứng minh bạn là ai hoặc có tư cách làm việc này, giấy tờ chứng minh bạn được sử dụng cửa hàng hay văn phòng, và điều lệ công ty hoặc thỏa thuận hợp danh. Tài liệu nào pháp luật quy định riêng cũng phải nộp. Công ty còn phải nộp văn bản bổ nhiệm và giấy tờ tùy thân của người đại diện theo pháp luật, thành viên hội đồng quản trị, kiểm soát viên và quản lý cấp cao. Hộ cá thể không phải nộp điều lệ. Tên “do người đăng ký tự chủ kê khai theo pháp luật”: tự đặt, tự khai. Vốn đăng ký “áp dụng chế độ đăng ký vốn cam kết góp”: ghi trước số tiền hứa góp, không phải nộp ngay tại chỗ. Ngành nghề chọn từ danh mục cơ quan đăng ký công bố. Đủ hồ sơ, đúng hình thức thì “xác nhận và đăng ký tại chỗ”. Không xong ngay thì hoàn tất “trong 3 ngày làm việc”; trường hợp phức tạp được thêm 3 ngày làm việc. “Ngày cấp giấy phép kinh doanh là ngày thành lập chủ thể thị trường”: ngày in trên giấy phép là ngày công ty hoặc cửa hàng thành lập (toàn quốc, từ tháng 3 năm 2022).",
+    "notes": "Bản thân việc đăng ký không thu phí. Người thu tiền là thu cho dịch vụ thị trường như làm thủ tục hộ hoặc khắc dấu. Giá khắc dấu do thị trường quyết định. Văn bản năm 2018 của Văn phòng Quốc vụ viện nêu rõ “người đăng ký tự lựa chọn đơn vị làm con dấu” và “nghiêm cấm chỉ định đơn vị làm con dấu”. Vì vậy, nếu ai nói bắt buộc khắc dấu ở nơi chỉ định, bạn không phải chấp nhận. Số vốn đăng ký không quyết định vẻ bề ngoài của doanh nghiệp, chỉ quyết định giới hạn trách nhiệm; còn phải góp đủ trong 5 năm, xem mục 3 của chương này (chọn đúng loại hình trước khi kinh doanh). Nếu ngành nghề có hoạt động cần giấy phép, chưa được cấp phép thì không được mở cửa, xem mục 7 của chương này (ngành nghề cần giấy phép).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-1-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "25852959f34626aa810a7a65fcfd20b96164ad483233c0d37e2f40550c533f4d",
+  "original": {
+    "number": 15,
+    "title": "被铁钉、木刺扎到或者伤口沾了泥土，当天去处理，顺便问破伤风要不要打",
+    "fields": {
+      "cost": "挂号加处理伤口几十元。医生说要打的话，疫苗或者免疫球蛋白几十到几百元。",
+      "plain": "在美国，破伤风一旦发病，大约每 10 个人里死 1 个。深的伤口、沾了泥土的伤口风险最高。伤口脏、离上一针满 5 年的，要加强 1 针。当天去处理花不了几十块，别拖。",
+      "benefit": "美国的破伤风病例里，大约每 10 例死 1 例。深的伤口、被泥土污染的伤口，风险更高。中国 2024 年的诊疗规范把伤口分成两档。6 小时内处理、没沾泥土粪便和动物口水的浅伤口，算低风险。超过 6 小时才处理、沾了这些东西，或者是扎伤、撕脱伤、挤压伤、烧烫伤、冻伤、伤口里留着异物的，算高风险。打过 3 针以上、最后一针不到 5 年的，什么都不用打。5 到 10 年的，高风险伤口加强 1 针。满 10 年的，不管哪档都加强 1 针。没打全 3 针或者记不清的，要把疫苗补全。高风险伤口还要同时打被动免疫制剂（免疫球蛋白或抗毒素这类直接给抗体的针）",
+      "grade": "B",
+      "sources": "美国疾病控制与预防中心. 破伤风：「Tetanus bacteria can get into someone's body through broken skin, usually through injuries.」「Tetanus can lead to death (1 in 10 cases in the United States are fatal).」「People who didn't complete the primary series or who aren't up to date with their 10-year tetanus booster shots are also at increased risk.」「Vaccination also helps prevent tetanus in people with wounds, depending on their tetanus vaccination history.」<https://www.cdc.gov/tetanus/about/index.html>；国家卫生健康委办公厅 (2024). 关于印发非新生儿破伤风诊疗规范（2024 年版）的通知（国卫办医急函〔2024〕381 号，风险分级见附件第 16 页，表 4 见第 20 页）. <https://www.gov.cn/zhengce/zhengceku/202410/content_6982262.htm>；附件 PDF（扫描件）. <https://www.gov.cn/zhengce/zhengceku/202410/P020241023483425528555.pdf>",
+      "notes": "到了医院让医生判断，别自己拿主意，也别嫌麻烦不问。不是所有伤口都要打。医生会看伤口属于哪一档，再问你上一次打针是什么时候，然后决定。「小时候打过就一辈子有效」是错的。伤口脏的话，离上一针满 5 年就要加强。所以去之前想一想自己最后一次打破伤风针是哪一年。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị đinh sắt, dằm gỗ đâm hoặc vết thương dính đất thì đi xử lý trong ngày, đồng thời hỏi có cần tiêm phòng uốn ván không",
+    "cost": "Đăng ký khám và xử lý vết thương tốn vài chục nhân dân tệ. Nếu bác sĩ nói cần tiêm, vắc xin hoặc globulin miễn dịch tốn vài chục đến vài trăm nhân dân tệ.",
+    "plain": "Tại Mỹ, khi uốn ván đã phát bệnh, cứ khoảng 10 người thì có 1 người tử vong. Vết thương sâu và vết thương dính đất có nguy cơ cao nhất. Nếu vết thương bẩn và đã đủ 5 năm kể từ mũi tiêm gần nhất thì cần tiêm nhắc 1 mũi. Đi xử lý trong ngày không tốn đến vài chục nhân dân tệ, đừng trì hoãn.",
+    "benefit": "Trong các ca uốn ván tại Mỹ, cứ khoảng 10 ca thì có 1 ca tử vong. Vết thương sâu và vết thương nhiễm bẩn bởi đất có nguy cơ cao hơn. Quy chuẩn chẩn đoán và điều trị của Trung Quốc năm 2024 chia vết thương thành hai mức. Vết thương nông được xử lý trong vòng 6 giờ, không dính đất, phân hay nước bọt động vật thuộc nhóm nguy cơ thấp. Vết thương sau hơn 6 giờ mới được xử lý, dính các chất trên, hoặc là vết đâm, vết thương lóc da, dập nát do chèn ép, bỏng, tổn thương do cóng, hay còn dị vật bên trong thuộc nhóm nguy cơ cao. Người đã tiêm từ 3 mũi trở lên, chưa đủ 5 năm kể từ mũi cuối thì không cần tiêm gì. Nếu đã 5 đến 10 năm, vết thương nguy cơ cao cần tiêm nhắc 1 mũi. Khi đã đủ 10 năm, dù thuộc mức nào cũng tiêm nhắc 1 mũi. Người chưa tiêm đủ 3 mũi hoặc không nhớ rõ cần tiêm bổ sung cho đủ. Với vết thương nguy cơ cao, còn phải tiêm đồng thời chế phẩm miễn dịch thụ động (những mũi tiêm cung cấp trực tiếp kháng thể như globulin miễn dịch hoặc kháng độc tố).",
+    "notes": "Đến bệnh viện để bác sĩ đánh giá, đừng tự quyết định, cũng đừng ngại phiền mà không hỏi. Không phải vết thương nào cũng cần tiêm. Bác sĩ sẽ xem vết thương thuộc mức nào, hỏi lần tiêm gần nhất là khi nào, rồi mới quyết định. Quan niệm “đã tiêm hồi nhỏ thì có tác dụng cả đời” là sai. Nếu vết thương bẩn, chỉ cần đủ 5 năm kể từ mũi cuối là phải tiêm nhắc. Vì vậy, trước khi đi hãy nhớ lại lần cuối mình tiêm phòng uốn ván là năm nào.",
+    "extra": ""
+  }
+}

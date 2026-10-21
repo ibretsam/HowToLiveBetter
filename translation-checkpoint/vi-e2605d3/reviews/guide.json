@@ -1,0 +1,15 @@
+{
+  "id": "guide",
+  "source_sha256": "d2aa56e0f4709f63e3699ec71c5cb01e43c173ea319ba894deea83b359a5d42a",
+  "draft_sha256": "183e9520c66762daa95d726d1148a4d9a9bb7b2884db9683a92806bd9a5f2779",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independently compared the complete 345-line source and Vietnamese guide, including all tables, 34 questions and chapter summaries, example/fenced commands, URLs, source diff, updated counters, publisher notice, HR/RR/OR definitions and civil-trial deadline. No translation correction needed. Source caveats retained: the expandable summary still says 41 glossary terms although the added deadline row makes 42; IRR and 95% CI retain simplified upstream explanations; source age wording below uses inclusive literal boundaries. Upstream search, downloads, hosting and AI skill descriptions remain descriptions of the Chinese original, clarified separately by the reader notice. No independent medical or legal verification performed."
+}

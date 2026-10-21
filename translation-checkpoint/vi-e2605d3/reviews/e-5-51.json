@@ -1,0 +1,15 @@
+{
+  "id": "e-5-51",
+  "source_sha256": "3b829ced08947877129a733ecad2b87614ded3fbd083036c56114a7fde450441",
+  "draft_sha256": "50385551e8060f5be91db4d47eaa3dad3316a6958fc6910d6327a3c823438913",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison, including source citations for2025distribution rules and2022/2026case publications. Preserved unauthorized private sales as meaning of飞单, no bank investment/redemption liability,1200000/1000000-CNY cases, half-loss allocation,576716.97 exact/577000 approximate award,2023filing/2024case number/2026publication, fault-dependent compensation and statutory extendable6month trial. No translation change required after author corrected private-sale wording. Cases not generalized into guaranteed recovery."
+}

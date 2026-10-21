@@ -1,0 +1,35 @@
+{
+  "id": "e-22-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "d2844f10efc8d797fa9235fe1f999fad785fa4d5293f1b12f4a1d125823cab21",
+  "original": {
+    "number": 1,
+    "title": "进 KTV、酒吧、密室之前先看一眼安全出口在哪，被锁被堵就换一家",
+    "fields": {
+      "cost": "不花钱。进门时抬头看 10 秒。",
+      "plain": "按规定，娱乐场所营业时，疏散通道和安全出口必须畅通，不许封堵、上锁、摆东西挡路，也不许遮住指示标志。网吧同样不许封门锁窗。做不到就是违法，你可以举报。包厢在地下、只有一个出口、走道堆满杂物的，换一家。",
+      "benefit": "这是经营者的法定义务。做不到就是违法，你可以举报。条例原文：「营业期间，娱乐场所应当保证疏散通道和安全出口畅通，不得封堵、锁闭疏散通道和安全出口，不得在疏散通道和安全出口设置栅栏等影响疏散的障碍物」。条例还要求，「应当在疏散通道和安全出口设置明显指示标志，不得遮挡、覆盖指示标志」。网吧也一样，被要求「营业期间禁止封堵或者锁闭门窗、安全疏散通道和安全出口」，并「禁止明火照明和吸烟」",
+      "grade": "A",
+      "sources": "国务院 (2006). 娱乐场所管理条例（国令第 458 号，第二十、二十一条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6297.htm>；国务院 (2002). 互联网上网服务营业场所管理条例（国令第 363 号，第二十一条）. <http://www.gov.cn/gongbao/content/2002/content_61788.htm>",
+      "notes": "下面几样占了任何一样，就换个地方：包厢在地下、只有一个出口、走道堆满杂物、安全出口的指示灯不亮。这类场所着火时烟大、走道窄、人多，而且多数人喝了酒。留给你逃出去的时间以秒计。举报电话按条例应当写在场所内的警示标志上"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi vào karaoke, quán bar hoặc trò chơi thoát khỏi phòng kín, hãy xem lối thoát hiểm ở đâu; nếu bị khóa hoặc chặn thì đổi chỗ",
+    "cost": "Không tốn tiền. Khi vào cửa, ngẩng đầu nhìn trong 10 giây.",
+    "plain": "Theo quy định, trong giờ kinh doanh, cơ sở giải trí phải giữ thông thoáng đường sơ tán và lối thoát hiểm. Không được bịt, khóa, đặt đồ cản lối hoặc che biển chỉ dẫn. Quán Internet cũng không được bịt cửa ra vào hay khóa cửa sổ; vi phạm thì bạn có thể tố giác. Nếu phòng riêng ở dưới đất, chỉ có một lối ra hoặc hành lang chất đầy đồ đạc, hãy đổi chỗ.",
+    "benefit": "Đây là nghĩa vụ pháp lý của bên kinh doanh. Không làm được là vi phạm pháp luật và bạn có thể tố giác. Quy định nêu: “Trong giờ kinh doanh, cơ sở giải trí phải bảo đảm đường sơ tán và lối thoát hiểm thông thoáng; không được bịt hoặc khóa đường sơ tán, lối thoát hiểm; không được dựng hàng rào hoặc các vật cản khác ảnh hưởng đến việc sơ tán tại đó”. Quy định còn yêu cầu “đặt biển chỉ dẫn rõ ràng tại đường sơ tán và lối thoát hiểm, không được che khuất hoặc phủ lên biển chỉ dẫn”. Quán Internet cũng phải tuân thủ yêu cầu “trong giờ kinh doanh, cấm bịt hoặc khóa cửa ra vào, cửa sổ, đường sơ tán an toàn và lối thoát hiểm”, đồng thời “cấm dùng ngọn lửa trần để chiếu sáng và cấm hút thuốc”.",
+    "notes": "Chỉ cần có một trong các dấu hiệu sau thì hãy đổi chỗ: phòng riêng dưới đất, chỉ có một lối ra, hành lang đầy đồ đạc hoặc đèn chỉ lối thoát hiểm không sáng. Khi cháy, những nơi này có nhiều khói, hành lang hẹp, đông người và đa số đã uống rượu bia. Thời gian còn lại để bạn thoát ra được tính bằng giây. Theo quy định, số điện thoại tố giác phải được ghi trên biển cảnh báo trong cơ sở.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-27-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_sha256": "ef3cec49c8c09d5fcb3fc1ce1c33649e86ae0560eb5ca4e73e72c13b6bd8f837",
+  "translator": "batch13-health",
+  "translation": {
+    "title": "Trong vòng một tháng sau khi con sinh, đến đồn công an khai đăng ký sinh",
+    "cost": "Không tốn tiền. Đến quầy đăng ký hộ khẩu ở đồn công an một lần.",
+    "plain": "Trong vòng một tháng sau sinh phải khai đăng ký hộ khẩu, đồng thời đến bệnh viện nơi sinh hoặc đơn vị tiêm chủng nơi cư trú làm sổ tiêm chủng. Hai việc làm riêng; chưa có hộ khẩu cũng phải tiêm vắc xin đúng lịch, không được đợi làm xong hộ khẩu mới tiêm.",
+    "benefit": "Điều bảy của Điều lệ Đăng ký hộ khẩu: “Trong vòng một tháng sau khi trẻ sinh, chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm phải khai đăng ký sinh với cơ quan đăng ký hộ khẩu nơi trẻ thường trú”. Đây là thời hạn luật định, không phải khuyến nghị. Đăng ký hộ khẩu và tiêm vắc xin làm riêng. Luật Quản lý vắc xin yêu cầu trong vòng một tháng sau khi trẻ sinh phải đến đơn vị tiêm chủng nơi cư trú hoặc bệnh viện nơi sinh làm sổ tiêm chủng. Các đơn vị này không được từ chối làm. Tiêm chủng được quản lý theo nơi cư trú, không cần đăng ký hộ khẩu trước. Trẻ chưa có hộ khẩu cũng phải kịp thời tiêm theo lịch chủng ngừa.",
+    "notes": "Mang đủ Giấy chứng sinh y tế, căn cước và sổ hộ khẩu của cha mẹ, giấy đăng ký kết hôn; danh sách cụ thể theo yêu cầu của đồn công an địa phương. Ý kiến năm 2015 của Văn phòng Quốc vụ viện nêu rõ “tự nguyện đăng ký hộ khẩu theo cha hoặc mẹ”, bạn có thể chọn theo ai. Khu tuyển sinh và nơi tham gia bảo hiểm của hai bên có thể khác nhau, nên nghĩ kỹ trước khi đi vì sửa lại phiền phức. Trẻ sinh ngoài hôn nhân cũng được đăng ký hộ khẩu: cùng văn bản nêu có thể nộp đơn bằng Giấy chứng sinh y tế, sổ hộ khẩu của một bên cha mẹ và bản giải trình sinh ngoài hôn nhân. Đăng ký theo cha thì còn phải nộp chứng nhận giám định quan hệ cha–con do tổ chức đủ tư cách cấp.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-1-41",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "ba40406d8c7601dfa04ed926fbc970721ade6bf73810b10fa1caf3460e246bd8",
+  "original": {
+    "number": 41,
+    "title": "上野外冰面前先打孔量厚度，不到 15 厘米别上，河上的冰和冰钓洞边别去",
+    "fields": {
+      "cost": "最省事的是去有人管的正规冰场，不用多花钱。非要上野外的冰，就带冰钻或冰镩打孔量厚度。再买一对救生冰锥，就是两根带握柄的尖钉，挂在胸前。这些加起来几十到一两百元。每走一段量一次，要多花些时间。",
+      "plain": "国内官方的说法是，冰厚到 15 厘米，成年人才能上去滑冰。美国和加拿大的底线是 10 厘米，而且只算新结的透明冰。发白的冰结实程度只有一半，厚度要翻倍。同一片冰，这里一尺厚，几步外可能只有一两寸，所以要边走边量。",
+      "benefit": "中国气象局的科普说，冰层厚度达到 15 厘米，成年人可以上去滑冰。露天冰场的冰层也要达到 15 厘米才能开放。北京市水务局说，正规天然冰场要冰厚 15 厘米，之后一周气温保持在 -8℃ 到 1℃、没有大风，才能开放。野冰上常有钓鱼的人凿的冰洞，凿开后很难再冻结实。美国明尼苏达州自然资源部的指南只针对新结的透明冰：不到 4 英寸（约 10 厘米）别上，4 英寸可以步行和冰钓。积雪化了又冻上的白冰，结实程度只有透明冰的一半左右，厚度要按两倍算。同一片水面，冰可能这里一英尺厚，几英尺外只有一两英寸。流水上的冰通常危险，溪流、桥和涵洞附近尤其如此。岸边的冰也可能比远处薄。美国国家气象局给的步行、冰钓、滑冰门槛也是 4 英寸。加拿大职业健康与安全中心转述了加拿大红十字会的建议。几个人一起滑冰、步行要 15 厘米，人多的滑冰聚会要 20 厘米。这些都是安全指南，没有研究算过照着做能少死多少人（全国 / 美国、加拿大）",
+      "grade": "C",
+      "sources": "中国气象局 (2019). 想要冰上健步走，多厚的冰才安全？ <https://www.cma.gov.cn/kppd/kppdqxyr/kppdtyqx/201901/t20190124_513302.html>；北京市水务局 (2024). 北京正规河湖冰场还未达开放标准，别冒险滑「野冰」：「立春之后，随着气温回暖，冰面一天比一天薄，有些地方融化、渗水，随时有破裂的危险，所以立春之后不能上冰」「如果冰层的下部分看起来是丝丝的冰柱，就要特别注意，因为这些竖茬的冰说明冰层内部已经变酥」. <https://swj.beijing.gov.cn/swdt/ztzl/fnsbaqztxc/fnszlxx/202412/t20241226_3973959.html>；Minnesota Department of Natural Resources. General ice thickness guidelines. <https://www.dnr.state.mn.us/safety/ice/thickness.html>；Minnesota Department of Natural Resources. Ice safety. <https://www.dnr.state.mn.us/safety/ice/index.html>；Minnesota Department of Natural Resources. Steps for surviving immersion. <https://www.dnr.state.mn.us/safety/ice/survival.html>；National Weather Service. Winter Weather Safety: Ice and Frost. <https://www.weather.gov/safety/winter-ice-frost>；Canadian Centre for Occupational Health and Safety. Working on or near Ice Covered Water - Basic Information. <https://www.ccohs.ca/oshanswers/hsprograms/work_ice.html>",
+      "notes": "官方指南都说没有百分之百安全的冰，量够了厚度只是门槛，不是保证。北京市水务局说，立春以后气温回暖，冰面一天比一天薄，有的地方融化渗水，立春之后就不能上冰了。冰层下半截看着是一丝丝竖着的冰柱，说明冰已经变酥，看着厚也危险。真掉进去了，别脱衣服，厚衣服里存着空气能帮你浮着。转身朝来的方向，那边的冰最结实。手臂搭上冰面，把冰锥扎进冰里，脚往后蹬，把身子拖上来。上来后别站起来，平躺着滚离冰洞，再尽快取暖，冻得厉害的要去医院。看见别人掉进冰窟窿，别跑过去拉，做法见第 13 节第 25 条（看到有人溺水自己不下水）。先叫人、打 110，再递杆子、抛绳子。受益人主要是你自己和带去玩冰的孩子。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi lên băng ngoài tự nhiên, khoan lỗ đo độ dày; chưa đủ 15 cm thì đừng lên, tránh băng trên sông và quanh lỗ câu cá",
+    "cost": "Đơn giản nhất là đến sân băng chính quy có quản lý, không cần tốn thêm tiền. Nhất quyết lên băng tự nhiên thì mang khoan hoặc đục băng để tạo lỗ đo độ dày. Mua thêm một đôi đinh tự cứu trên băng, tức hai mũi nhọn có tay cầm, đeo trước ngực. Tổng cộng vài chục đến một hai trăm nhân dân tệ. Đi một đoạn lại đo, mất thêm chút thời gian.",
+    "plain": "Theo cơ quan chính thức Trung Quốc, băng dày đủ 15 cm thì người lớn mới có thể lên trượt. Mức tối thiểu của Mỹ và Canada là 10 cm, chỉ tính băng trong mới đóng. Băng trắng chỉ chắc bằng một nửa, độ dày phải gấp đôi. Cùng một mặt băng, chỗ này dày một thước theo đơn vị Trung Quốc, cách vài bước có thể chỉ một hai tấc theo cùng hệ đo, nên vừa đi vừa đo.",
+    "benefit": "Thông tin phổ biến kiến thức của Cục Khí tượng Trung Quốc nói băng đạt độ dày 15 cm thì người lớn có thể lên trượt. Sân băng ngoài trời cũng phải dày đủ 15 cm mới được mở. Cục Thủy vụ Bắc Kinh nói sân băng tự nhiên chính quy phải có băng dày 15 cm, nhiệt độ tuần sau đó giữ từ -8℃ đến 1℃, không gió lớn, mới được mở. Băng ngoài tự nhiên thường có lỗ người câu cá đục, đã mở thì khó đông chắc lại. Hướng dẫn của Sở Tài nguyên thiên nhiên Minnesota, Mỹ, chỉ dành cho băng trong mới đóng: chưa đủ 4 inch, khoảng 10 cm, thì đừng lên; 4 inch có thể đi bộ và câu cá trên băng. Băng trắng do tuyết tan rồi đóng lại chỉ chắc khoảng nửa băng trong, cần tính độ dày gấp đôi. Cùng một mặt nước, băng có thể dày một foot ở đây, cách vài foot chỉ một hai inch. Băng trên dòng nước chảy thường nguy hiểm, nhất là gần suối, cầu và cống. Băng ven bờ cũng có thể mỏng hơn phía xa. Cơ quan Khí tượng quốc gia Mỹ cũng đặt ngưỡng 4 inch cho đi bộ, câu cá và trượt băng. Trung tâm An toàn và sức khỏe nghề nghiệp Canada dẫn khuyến nghị của Hội Chữ thập đỏ Canada: vài người cùng trượt hoặc đi bộ cần 15 cm, buổi trượt băng đông người cần 20 cm. Đây đều là hướng dẫn an toàn, chưa có nghiên cứu tính làm theo giảm được bao nhiêu người chết (toàn Trung Quốc / Mỹ, Canada).",
+    "notes": "Các hướng dẫn chính thức đều nói không có băng an toàn tuyệt đối; đo đủ độ dày chỉ là điều kiện tối thiểu, không bảo đảm. Cục Thủy vụ Bắc Kinh nói sau tiết Lập xuân nhiệt độ ấm lên, mặt băng mỗi ngày một mỏng, có chỗ tan và thấm nước, nên sau Lập xuân không được lên băng. Nếu nửa dưới lớp băng trông như các cột nhỏ thẳng đứng, băng đã bở, nhìn dày vẫn nguy hiểm. Nếu thực sự rơi xuống, đừng cởi quần áo; không khí trong quần áo dày có thể giúp nổi. Quay về hướng đã đi tới, băng phía đó chắc nhất. Gác tay lên băng, cắm đinh tự cứu vào băng, đạp chân về sau và kéo người lên. Lên rồi đừng đứng, nằm thẳng lăn ra xa lỗ băng, sau đó làm ấm sớm nhất có thể; bị lạnh nặng cần đến bệnh viện. Thấy người khác rơi xuống lỗ băng, đừng chạy đến kéo; xem phần 13 mục 25 (thấy người đuối nước thì mình không xuống nước). Gọi người và gọi 110 trước, rồi đưa sào, ném dây. Người hưởng lợi chủ yếu là bạn và trẻ được dẫn đi chơi băng.",
+    "extra": ""
+  }
+}

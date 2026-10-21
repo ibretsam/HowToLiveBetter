@@ -1,0 +1,36 @@
+{
+  "id": "e-17-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "67dedf42271f040f1065a6fdb2615c91155f556ac1ad1c3561a5256e5464e389",
+  "original": {
+    "number": 4,
+    "title": "给老人备好一句随时能说出口的推辞：「我要回去和家里人商量」",
+    "fields": {
+      "cost": "不花钱。和老人对一次话，几分钟就行",
+      "plain": "推销和诈骗靠的是现场压力，要你来不及想就掏钱。人情绪一被调动起来，就更想买夸大广告里的东西，老人比年轻人更想买。事先和老人商量好一句「我要回去和家里人商量」。他随时能说出口，当场有台阶下，回家冷静了再定。",
+      "benefit": "推销和诈骗都靠现场施压。美国联邦贸易委员会的防骗指南写着，骗子要你在来得及想之前就行动。打电话时，他们会叫你别挂断，让你没法去核实。指南给的办法是，做任何事之前先告诉一个人，朋友、家人、邻居都行，说出来可能就看出是骗局。原银保监会 2021 年的风险提示，也建议老年人买理财前多和家人商量。一项实验找了 116 名 65 到 85 岁的老人和 115 名 30 到 40 岁的人。研究者先用一个输赢游戏，把一部分人的情绪调动起来，再让他们看夸大不实的广告。情绪真被调动起来的人，更想买广告里的东西。不管情绪激不激动，老人都比年轻人更想买。作者建议，等情绪平静下来再做花钱的决定。另一项实验找的是以前被邮寄诈骗骗过钱的人，多数上了年纪。没提前提醒的人，接到模拟的推销诈骗电话，近一半一口答应。提前两到四周打电话提醒过的，一口答应的明显少了。事先商量好一句「我要回去和家里人商量」，让老人有台阶可下，不用当场做决定",
+      "grade": "B",
+      "sources": "Federal Trade Commission (2023). How To Avoid a Scam. <https://consumer.ftc.gov/articles/how-avoid-scam>；中国银保监会消费者权益保护局 (2021). 关于警惕「投资养老」「以房养老」金融诈骗的风险提示（2021 年第三期）. <https://dfjrjgj.hunan.gov.cn/dfjrjgj/yhlj/202106/t20210608_19450856.html>（湖南省地方金融监督管理局转载）；Kircanski K, Notthoff N, DeLiema M, et al. (2018). Emotional arousal may increase susceptibility to fraud in older and younger adults. Psychology and Aging, 33(2), 325-337. <https://doi.org/10.1037/pag0000228>；Scheibe S, Notthoff N, Menkin J, et al. (2014). Forewarning reduces fraud susceptibility in vulnerable consumers. Basic and Applied Social Psychology, 36(3), 272-279. <https://doi.org/10.1080/01973533.2014.903844>",
+      "notes": "给 B 的原因是两项实验测的都不是这句话本身。一项测的是情绪激动时想不想买，另一项测的是提前提醒管不管用，没有研究比过备了这句话的老人少被骗多少。和第 3 条（老人的钱单独放一个账户）一起用。家里的防跌倒改造也顺手做了，见第 1 节。这句话是给老人留个台阶，让他不用当场硬顶，不是用来防着他的。被推销围住的时候，最难的是当着一屋子人开口拒绝，比判断真假还难"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chuẩn bị cho người cao tuổi một câu từ chối có thể nói bất cứ lúc nào: ‘Tôi cần về bàn với gia đình’",
+    "cost": "Không mất tiền. Tập nói với người cao tuổi một lượt, vài phút là đủ.",
+    "plain": "Bán hàng và lừa đảo dựa vào sức ép tại chỗ, khiến bạn bỏ tiền khi chưa kịp nghĩ. Khi cảm xúc bị khơi lên, người ta muốn mua đồ trong quảng cáo phóng đại hơn, người cao tuổi muốn mua hơn người trẻ. Hãy thống nhất trước với người cao tuổi câu ‘Tôi cần về bàn với gia đình’. Họ có thể nói bất cứ lúc nào, có cách rút lui mà không ngượng, về nhà bình tĩnh rồi quyết.",
+    "benefit": "Bán hàng và lừa đảo đều dựa vào việc gây sức ép tại chỗ. Hướng dẫn phòng lừa đảo của Ủy ban Thương mại Liên bang Mỹ viết rằng kẻ lừa đảo muốn bạn hành động trước khi kịp suy nghĩ. Khi gọi điện, chúng bảo đừng cúp máy để bạn không thể kiểm tra. Cách hướng dẫn đưa ra là trước khi làm bất kỳ việc gì hãy nói với một người, bạn bè, gia đình hay hàng xóm đều được; nói ra có thể nhận ra trò lừa. Cảnh báo rủi ro năm 2021 của cơ quan quản lý ngân hàng và bảo hiểm Trung Quốc trước đây cũng khuyên người cao tuổi bàn thêm với gia đình trước khi mua sản phẩm đầu tư tài chính. Một thí nghiệm tuyển 116 người cao tuổi từ 65 đến 85 tuổi và 115 người từ 30 đến 40 tuổi. Các nhà nghiên cứu dùng trò chơi thắng thua để khơi cảm xúc của một số người trước, sau đó cho họ xem quảng cáo phóng đại, sai sự thật. Những người thực sự bị khơi cảm xúc muốn mua đồ trong quảng cáo hơn. Dù cảm xúc có bị kích động hay không, người cao tuổi đều muốn mua hơn người trẻ. Tác giả khuyên chờ cảm xúc lắng xuống rồi mới quyết định chi tiền. Thí nghiệm khác tuyển người trước đây từng mất tiền vì lừa đảo qua thư, phần lớn đã cao tuổi. Trong nhóm không được nhắc trước, gần một nửa đồng ý ngay khi nhận cuộc gọi mô phỏng lừa đảo bán hàng. Nhóm được gọi điện nhắc trước từ hai đến bốn tuần có số người đồng ý ngay ít hơn rõ rệt. Thống nhất sẵn câu ‘Tôi cần về bàn với gia đình’ giúp người cao tuổi có cách rút lui mà không ngượng, không phải quyết ngay tại chỗ.",
+    "notes": "Xếp mức B vì cả hai thí nghiệm không đo chính câu nói này. Một thí nghiệm đo ý muốn mua khi bị kích động cảm xúc, thí nghiệm kia đo nhắc trước có tác dụng không; không có nghiên cứu so sánh người cao tuổi chuẩn bị câu này giảm bị lừa bao nhiêu. Dùng cùng mục 3 (tiền của người cao tuổi để trong tài khoản riêng). Tiện thể cải tạo nhà để phòng ngã, xem chương 1. Câu này giúp người cao tuổi có cách rút lui, không phải cứng rắn đối đầu ngay tại chỗ, không dùng để đề phòng họ. Khi bị vây quanh mời mua hàng, khó nhất là mở lời từ chối trước cả phòng người, còn khó hơn phân biệt thật giả.",
+    "extra": ""
+  }
+}

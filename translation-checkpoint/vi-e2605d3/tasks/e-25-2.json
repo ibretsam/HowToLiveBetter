@@ -1,0 +1,35 @@
+{
+  "id": "e-25-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "ca785ba17003643418dd35a1db76bd895bb2b223e5759e1005b055be6c32db17",
+  "original": {
+    "number": 2,
+    "title": "死亡证明是后面所有事的钥匙：谁救治谁开，家中正常死亡找社区卫生服务机构，一日内签发",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "在医院走的，找管救治的那一家开死亡证明。在家里正常走的，找住处这一片的社区卫生服务机构、乡镇卫生院开。正常死亡、死因清楚的，一天内就签发。销户、火化、取公积金、领社保待遇、理赔、办继承都要用它，拿到先多复印几份。",
+      "benefit": "《人口死亡信息登记管理规范（试行）》说：在医疗卫生机构内死亡的，由「负责救治的医疗卫生机构签发」，在医院或者卫生院走的，找管救治的那一家开。在家中或其他场所正常死亡的，「由本辖区社区卫生服务机构或乡镇（街道）卫生院签发」，找住处这一片的社区卫生服务中心、乡镇或街道卫生院开。公安司法机构判断为非正常死亡的，由公安司法部门按现行规定及程序办理。2026 年五部门通知说：《死亡证明》「纸质版与电子证照具有同等法律效力」，电子的和纸质的一样管用。死因已明确的正常死亡，要在死亡发生后一日内签发。证明丢了，可以向原签发机构申请补发一次。基本信息有误的，可以凭材料申请重新签发一次",
+      "grade": "A",
+      "sources": "国家卫生计生委办公厅 (2014). 人口死亡信息登记管理规范（试行）（国卫办规划发〔2014〕68 号，第九条）. <https://mzj.sz.gov.cn/szmz/pc/zwgk/jcxxgk/zcfg/byfw/content/post_2952215.html>（深圳市民政局转发）；国家卫生健康委、公安部、民政部、国家中医药局、国家疾控局 (2026). 关于加强居民死亡医学证明信息登记和电子证照管理工作的通知（国卫规划发〔2026〕5 号）. <https://wjw.fujian.gov.cn/xxgk/fgwj/gjwj/202602/t20260228_7102810.htm>（福建省卫生健康委员会转发）",
+      "notes": "销户、火化、取公积金、领社保待遇、保险理赔、办继承，每一件都要用它。拿到手先多复印几份，能开电子证照的一并申请。补发只有一次机会，原件别弄丢。名字、身份证号有错要当场改，因为等到办继承时才发现，每个窗口都要重跑一遍。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Giấy chứng tử cần cho mọi việc sau đó: cơ sở cứu chữa cấp; tử vong bình thường tại nhà thì tìm cơ sở y tế cộng đồng, cấp trong một ngày",
+    "cost": "Không tốn tiền.",
+    "plain": "Mất trong bệnh viện thì xin cơ sở phụ trách cứu chữa cấp giấy chứng tử. Tử vong bình thường tại nhà thì tìm cơ sở dịch vụ y tế cộng đồng, trạm y tế hương, trấn nơi cư trú. Tử vong bình thường, rõ nguyên nhân thì cấp trong một ngày. Xóa hộ khẩu, hỏa táng, rút quỹ nhà ở, nhận chế độ bảo hiểm xã hội, yêu cầu bảo hiểm, làm thừa kế đều cần giấy này; nhận xong nên sao nhiều bản trước.",
+    "benefit": "Quy phạm đăng ký, quản lý thông tin tử vong dân số (thử nghiệm) quy định: mất tại cơ sở y tế thì ‘do cơ sở y tế phụ trách cứu chữa ký cấp’; mất ở bệnh viện hoặc trạm y tế thì tìm cơ sở phụ trách điều trị. Tử vong bình thường tại nhà hoặc nơi khác thì ‘do cơ sở dịch vụ y tế cộng đồng hoặc trạm y tế hương, trấn, nhai đạo trong địa bàn cấp’; tìm trung tâm y tế cộng đồng, trạm y tế hương, trấn hoặc nhai đạo nơi cư trú. Công an, tư pháp xác định tử vong bất thường thì cơ quan công an, tư pháp xử lý theo quy định và thủ tục hiện hành. Thông báo của năm cơ quan năm 2026 nói bản giấy và chứng nhận điện tử của Giấy chứng tử ‘có hiệu lực pháp lý như nhau’, bản điện tử dùng được như bản giấy. Tử vong bình thường đã rõ nguyên nhân phải cấp trong một ngày kể từ khi mất. Mất giấy có thể xin cơ sở cấp ban đầu cấp lại một lần. Thông tin cơ bản sai có thể nộp tài liệu xin ký cấp lại một lần.",
+    "notes": "Xóa hộ khẩu, hỏa táng, rút quỹ nhà ở, nhận chế độ bảo hiểm xã hội, yêu cầu bảo hiểm, làm thừa kế đều cần giấy này. Nhận xong nên sao nhiều bản; nơi cấp được bản điện tử thì xin luôn. Chỉ có một lần cấp lại do mất, đừng làm mất bản gốc. Sai tên, số căn cước thì sửa ngay tại chỗ, vì đợi đến khi làm thừa kế mới phát hiện sẽ phải đi lại từng nơi làm thủ tục.",
+    "extra": ""
+  }
+}

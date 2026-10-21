@@ -1,0 +1,15 @@
+{
+  "id": "e-25-12",
+  "source_sha256": "cc652e3e40320dfc540b39c37b347240f40f1a8caafc3a92f54d6fc2c1804cc5",
+  "draft_sha256": "1fe2da6172240ab814ebf87459762d0e36fc50a0f9ad97bb901370fb9902cbc3",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves historical bank discretion versus uniform 2024 five-wan threshold, exclusions, simultaneous heir attendance, local fee examples and current-source date. Translation review does not independently verify current law or source advice."
+}

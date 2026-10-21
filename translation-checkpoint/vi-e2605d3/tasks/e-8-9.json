@@ -1,0 +1,35 @@
+{
+  "id": "e-8-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "a7d26d55031d54bd2a415ae5ef6932de69d01d7ab9cde8109221ebc6a3e9b9d4",
+  "original": {
+    "number": 9,
+    "title": "每年免费查两次自己的征信报告，看有没有不是自己办的贷款和卡",
+    "fields": {
+      "cost": "不花钱。在网上查，十分钟就能查完。",
+      "plain": "你每年可以在网上免费查两次自己的信用报告，十分钟就能查完。用人民银行征信中心官网或者手机银行查，别用第三方的「查征信」App。不良记录从这件事结束那天起留 5 年，过了就该删。有异议可以提，20 天内必须书面答复你。",
+      "benefit": "行政法规写着「个人信息主体有权每年两次免费获取本人的信用报告」，你每年可以免费查自己两次。不良信息的保存期限是「自不良行为或者事件终止之日起为 5 年；超过 5 年的，应当予以删除」。对报告有异议的，你可以提出来。征信机构或者提供这条信息的机构，要在收到异议之日起 20 日内书面答复你",
+      "grade": "A",
+      "sources": "国务院 (2013). 征信业管理条例（国令第 631 号，第十六条、第十七条、第二十五条）. <https://www.gov.cn/zhengce/zhengceku/2013-01/29/content_2303.htm>",
+      "notes": "身份证被人冒用去网贷、办卡，本人往往要到买房贷款被拒的时候才发现，那时已经拖了好几年。查询的入口是中国人民银行征信中心官网，或者手机银行。别用第三方的「查征信」App，那类 App 本身就在收集你的信息。帮熟人「刷个脸、做个见证」之后，尤其要查一次，见第 45 条（帮忙刷个脸）。已经逾期、有人收钱说能「洗白征信」的，见第 7 节第 23 条（信用卡、网贷已经还不上）。名下的借记卡和电话卡征信里看不到，要另查，见第 14 节第 11 条（名下有几张电话卡）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mỗi năm kiểm tra miễn phí báo cáo tín dụng của mình hai lần, xem có khoản vay hay thẻ nào không phải do mình mở không",
+    "cost": "Không mất tiền. Tra cứu trên mạng, mười phút là xong.",
+    "plain": "Mỗi năm bạn có thể tra cứu miễn phí báo cáo tín dụng của mình trên mạng hai lần, mười phút là xong. Dùng website chính thức của Trung tâm Thông tin tín dụng Ngân hàng Nhân dân Trung Quốc hoặc ứng dụng ngân hàng, đừng dùng ứng dụng ‘tra cứu tín dụng’ của bên thứ ba. Thông tin bất lợi được lưu 5 năm kể từ ngày sự việc kết thúc, quá hạn phải xóa. Có ý kiến phản đối thì bạn có thể nêu ra; trong 20 ngày, cơ quan liên quan phải trả lời bạn bằng văn bản.",
+    "benefit": "Văn bản pháp quy hành chính ghi ‘chủ thể thông tin cá nhân có quyền được cung cấp miễn phí báo cáo tín dụng của chính mình hai lần mỗi năm’, nên mỗi năm bạn có thể tự tra cứu miễn phí hai lần. Thời hạn lưu thông tin bất lợi là ‘5 năm kể từ ngày hành vi hoặc sự kiện bất lợi chấm dứt; quá 5 năm phải xóa’. Nếu không đồng ý với nội dung báo cáo, bạn có thể gửi ý kiến phản đối. Tổ chức thông tin tín dụng hoặc tổ chức đã cung cấp thông tin đó phải trả lời bạn bằng văn bản trong 20 ngày kể từ ngày nhận ý kiến.",
+    "notes": "Khi căn cước bị người khác mạo dùng để vay qua mạng hoặc mở thẻ, chủ thẻ thường chỉ phát hiện lúc bị từ chối khoản vay mua nhà; khi đó đã kéo dài mấy năm. Nơi tra cứu là website chính thức của Trung tâm Thông tin tín dụng Ngân hàng Nhân dân Trung Quốc hoặc ứng dụng ngân hàng. Đừng dùng ứng dụng ‘tra cứu tín dụng’ của bên thứ ba vì chính những ứng dụng đó đang thu thập thông tin của bạn. Sau khi ‘quét mặt, làm chứng giúp’ người quen, đặc biệt nên kiểm tra một lần, xem mục 45 (quét mặt giúp). Đã quá hạn trả nợ và có người thu tiền hứa ‘làm sạch hồ sơ tín dụng’ thì xem chương 7 mục 23 (đã không trả nổi nợ thẻ tín dụng, vay qua mạng). Báo cáo tín dụng không cho thấy thẻ ghi nợ và SIM điện thoại đứng tên bạn; phải tra cứu riêng, xem chương 14 mục 11 (có bao nhiêu SIM đứng tên mình).",
+    "extra": ""
+  }
+}

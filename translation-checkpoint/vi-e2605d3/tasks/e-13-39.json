@@ -1,0 +1,35 @@
+{
+  "id": "e-13-39",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "726bf79732e8e4a27514bad8e96bf70df7c75406d1d82aab8ca0fce33249e2e6",
+  "original": {
+    "number": 39,
+    "title": "救人受了伤、搭进了钱，先找加害人和医保，再去申报见义勇为确认",
+    "fields": {
+      "cost": "不花钱。申报要交材料、等认定，跑几趟，几周到几个月。",
+      "plain": "救人把自己搭进去，不用自认倒霉。见义勇为负伤的先救治、后收费，医疗费由加害人出，人跑了或者赔不起的走基本医保。没有加害人的，你提出来，被你救下的人依法应当给适当补偿。同时去申报见义勇为确认，受了伤、符合条件的按工伤保险待遇落实。",
+      "benefit": "民法典第一百八十三条：「因保护他人民事权益使自己受到损害的，由侵权人承担民事责任，受益人可以给予适当补偿。没有侵权人、侵权人逃逸或者无力承担民事责任，受害人请求补偿的，受益人应当给予适当补偿」。国办发〔2012〕39 号讲了见义勇为负伤人员怎么办。医疗机构要建立绿色通道，「坚持『先救治、后收费』的原则」。医疗费这一块的原文是「因紧急救治发生的医疗费用，有加害人或责任人的，由加害人或责任人承担；无加害人或责任人以及加害人或责任人逃逸或者无力承担的，按规定通过基本医疗保障制度解决」。死亡的，「符合烈士评定条件的，依法评定为烈士」；「属于视同工伤情形的，享受一次性工亡补助金以及相当于本人 40 个月工资的遗属特别补助金」。伤残的，「符合享受工伤保险待遇条件的，依据《工伤保险条例》落实相应待遇；不符合的，由民政部门评定伤残等级并落实相应待遇」。就业上「优先纳入就业援助，予以重点支持」，公益性岗位「优先安排符合条件的见义勇为人员」。住房上「优先纳入住房保障体系，优先配租、配售保障性住房或发放住房租赁补贴」",
+      "grade": "B",
+      "sources": "全国人大 (2020). 民法典（第一百八十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院办公厅转发民政部等部门 (2012). 关于加强见义勇为人员权益保护的意见（国办发〔2012〕39 号）. <https://www.gov.cn/zwgk/2012-07/26/content_2191928.htm>",
+      "notes": "定 B 是因为能拿什么待遇由全国文件定死。但奖金给多少、怎么走认定，是各省自己的见义勇为条例说了算，数字各地不同，本轮未逐省核实。一般是向出事地方的公安机关或者见义勇为工作机构（基金会）申报。能不能认定靠证据：报警回执、现场监控、目击者的姓名和电话、医院病历，当场就留下来。要打官司，见义勇为的民事权益本来就在免费法律援助的范围内。一次性工亡补助金的全国标准和伤残等级怎么换算成钱，见第 19 节第 14、15 条。法律援助怎么申请见第 7 节第 3 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cứu người mà bị thương, tốn tiền: trước hết yêu cầu người gây hại và bảo hiểm y tế chi trả, rồi xin công nhận hành động nghĩa hiệp",
+    "cost": "Không tốn tiền. Nộp hồ sơ, chờ công nhận, đi vài lần, mất vài tuần đến vài tháng.",
+    "plain": "Cứu người rồi chính mình bị thiệt hại thì không cần tự chịu vì cho là xui. Người bị thương do hành động nghĩa hiệp được cứu chữa trước, thu phí sau; người gây hại trả chi phí y tế, nếu họ trốn hoặc không đủ sức trả thì giải quyết qua bảo hiểm y tế cơ bản. Không có người gây hại, nếu bạn yêu cầu thì người được bạn cứu phải bù đắp thích hợp theo luật. Đồng thời xin công nhận hành động nghĩa hiệp; bị thương và đủ điều kiện thì được hưởng chế độ bảo hiểm tai nạn lao động.",
+    "benefit": "Điều một trăm tám mươi ba Bộ luật Dân sự: “Người bị thiệt hại vì bảo vệ quyền, lợi ích dân sự của người khác thì người xâm phạm phải chịu trách nhiệm dân sự, người hưởng lợi có thể bù đắp thích hợp. Nếu không có người xâm phạm, người xâm phạm bỏ trốn hoặc không đủ khả năng chịu trách nhiệm dân sự, khi người bị thiệt hại yêu cầu bù đắp thì người hưởng lợi phải bù đắp thích hợp”. Văn bản Quốc ban phát〔2012〕số 39 quy định cách xử lý người bị thương do hành động nghĩa hiệp. Cơ sở y tế phải lập lối tiếp nhận ưu tiên, “giữ nguyên tắc cứu chữa trước, thu phí sau”. Nguyên văn về chi phí y tế là “chi phí phát sinh do cứu chữa khẩn cấp, nếu có người gây hại hoặc chịu trách nhiệm thì do người đó chịu; nếu không có, hoặc người đó bỏ trốn hay không có khả năng chi trả, thì giải quyết qua hệ thống bảo đảm y tế cơ bản theo quy định”. Người tử vong, “đủ điều kiện xét công nhận liệt sĩ thì được công nhận theo luật”; “thuộc trường hợp được coi như tai nạn lao động thì hưởng trợ cấp tử vong do công việc một lần và trợ cấp đặc biệt cho thân nhân tương đương 40 tháng lương của bản thân”. Người bị thương tật, “đủ điều kiện hưởng bảo hiểm tai nạn lao động thì thực hiện chế độ tương ứng theo Điều lệ Bảo hiểm tai nạn lao động; không đủ thì cơ quan dân chính đánh giá mức thương tật và thực hiện chế độ tương ứng”. Về việc làm, “ưu tiên đưa vào diện hỗ trợ việc làm và hỗ trợ trọng điểm”; với vị trí việc làm phục vụ lợi ích công, “ưu tiên bố trí người có hành động nghĩa hiệp đủ điều kiện”. Về nhà ở, “ưu tiên đưa vào hệ thống bảo đảm nhà ở, ưu tiên phân thuê, bán nhà ở thuộc diện bảo đảm hoặc cấp trợ cấp thuê nhà”.",
+    "notes": "Xếp mức B vì văn bản toàn quốc quy định rõ có thể nhận những chế độ gì. Nhưng mức thưởng và cách công nhận do điều lệ về hành động nghĩa hiệp của từng tỉnh quyết định; số tiền khác nhau theo địa phương, đợt này chưa kiểm chứng từng tỉnh. Thông thường nộp hồ sơ tại cơ quan công an nơi xảy ra sự việc hoặc cơ quan, quỹ phụ trách hành động nghĩa hiệp. Được công nhận hay không phụ thuộc chứng cứ: giấy xác nhận báo cảnh sát, camera hiện trường, tên và số điện thoại nhân chứng, bệnh án; hãy giữ ngay tại chỗ. Nếu phải kiện, quyền lợi dân sự của người có hành động nghĩa hiệp vốn thuộc phạm vi trợ giúp pháp lý miễn phí. Mức trợ cấp tử vong do công việc một lần trên toàn quốc và cách quy đổi mức thương tật thành tiền xem chương 19 mục 14, 15. Cách xin trợ giúp pháp lý xem chương 7 mục 3.",
+    "extra": ""
+  }
+}

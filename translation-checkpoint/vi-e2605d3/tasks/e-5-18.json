@@ -1,0 +1,35 @@
+{
+  "id": "e-5-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "8c2b97cd780a47042645bb4999fc4172657acc1a95183c3809a6a72fc9fff1dd",
+  "original": {
+    "number": 18,
+    "title": "同类基金优先选费率低的",
+    "fields": {
+      "cost": "不花钱。买之前多看一眼「管理费 + 托管费 + 销售服务费」这三项加起来是多少。",
+      "plain": "一年的费率每高 1 个百分点，20 年后到手的钱少约 18%，30 年后少约 26%。在同一类基金里挑费率低的，被这笔费吃掉的就少。",
+      "benefit": "费率的差别会按复利一点点吃掉本金，意思是每年被扣掉的那一点会年年叠加。一年的费率高 1 个百分点，20 年后的终值少约 18.2%（1 − 0.99^20 ≈ 0.182），30 年后少约 26%。终值就是到那时候账户里剩下的钱。中国从 2023 年起推行公募基金费率改革，下调了主动权益类基金（主要买股票、由基金经理挑股的那种）的费率上限。从 2023 年 7 月 7 日起，新注册的这类基金管理费率不超过 1.2%，托管费率不超过 0.2%。136 家基金公司把旗下老产品的这两项也降到了这条线以下",
+      "grade": "C",
+      "sources": "中国证监会 (2023). 证监会有关部门负责人就公募基金费率改革答记者问. <http://www.csrc.gov.cn/csrc/c100028/c7418692/content.shtml>；厦门证监局 (2024). 「新注册的主动权益类基金统一执行\"管理费率不超过1.2%、托管费率不超过0.2%\"的上限标准」. <http://www.csrc.gov.cn/xiamen/c105636/c7511608/content.shtml>；Fama EF, French KR (2010). 见第 17 条（宽基指数基金）. <https://doi.org/10.1111/j.1540-6261.2010.01598.x>",
+      "notes": "这个算式只是照公式算出来的，前提是两只基金扣费之前赚得一样多。实际还要算上申购费、赎回费，以及 C 类份额的销售服务费。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trong cùng loại quỹ, ưu tiên quỹ có tỷ lệ phí thấp",
+    "cost": "Không tốn tiền. Trước khi mua, xem thêm tổng ba khoản “phí quản lý + phí lưu ký + phí dịch vụ bán hàng” là bao nhiêu.",
+    "plain": "Phí hằng năm cứ cao hơn 1 điểm phần trăm thì sau 20 năm tiền nhận ít hơn khoảng 18%, sau 30 năm ít hơn khoảng 26%. Chọn quỹ phí thấp trong cùng loại thì tiền bị khoản phí này ăn mất sẽ ít hơn.",
+    "benefit": "Chênh lệch phí sẽ dần ăn vào vốn theo lãi kép, nghĩa là phần bị trừ mỗi năm cộng dồn qua các năm. Phí hằng năm cao hơn 1 điểm phần trăm thì giá trị cuối sau 20 năm ít hơn khoảng 18.2% (1 − 0.99^20 ≈ 0.182), sau 30 năm ít hơn khoảng 26%. Giá trị cuối là số tiền còn trong tài khoản lúc đó. Từ năm 2023, Trung Quốc cải cách phí quỹ đại chúng, hạ trần phí quỹ cổ phiếu chủ động (loại chủ yếu mua cổ phiếu do nhà quản lý quỹ chọn). Từ ngày 7 tháng 7 năm 2023, quỹ loại này đăng ký mới có phí quản lý không quá 1.2%, phí lưu ký không quá 0.2%. Có 136 công ty quỹ cũng hạ hai khoản phí của sản phẩm cũ xuống bằng hoặc dưới ngưỡng này.",
+    "notes": "Phép tính này chỉ áp dụng công thức với giả định hai quỹ kiếm như nhau trước khi trừ phí. Thực tế còn phải tính phí mua, phí bán lại và phí dịch vụ bán hàng của chứng chỉ quỹ loại C. Nội dung này không cấu thành lời khuyên đầu tư.",
+    "extra": ""
+  }
+}

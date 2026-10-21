@@ -1,0 +1,35 @@
+{
+  "id": "e-13-37",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "6287f350852c051719f82e15441187a83c88a76bf792cfc2e276493e6a966e71",
+  "original": {
+    "number": 37,
+    "title": "撞见一群人打架，退开走人，别上去拉架、别围观、别捡地上的家伙；要报警就退到安全距离打 110",
+    "fields": {
+      "cost": "不花钱。难的是忍住上前拉一把、以及站着看热闹这两种冲动。报警之后可能被回访做一次笔录，最多搭进半天。",
+      "plain": "你一动手，劝架就成了参加打架，该做的是退开走人。积极参加聚众斗殴的判 3 年以下。人多规模大、在马路上闹到秩序严重混乱、拿了家伙的，判 3 到 10 年。愿意报警就退到安全距离打 110，说清地点、几个人、有没有拿刀棍、有没有人躺下不动。",
+      "benefit": "刑法第二百九十二条：「聚众斗殴的，对首要分子和其他积极参加的，处三年以下有期徒刑、拘役或者管制」。多次聚众斗殴的，人数多规模大社会影响恶劣的，在公共场所或者交通要道造成社会秩序严重混乱的，持械的，「处三年以上十年以下有期徒刑」。「聚众斗殴，致人重伤、死亡的」，按故意伤害罪、故意杀人罪定罪处罚。治安管理处罚法也有罚则。殴打他人，拘留 5 到 10 日并罚 500 到 1000 元。结伙斗殴按寻衅滋事处理，最高拘留 15 日并罚 2000 元。《关于依法适用正当防卫制度的指导意见》第 5 条：不法侵害「既包括针对本人的不法侵害，也包括危害国家、公共利益或者针对他人的不法侵害」。该意见第 9 条说，一方先动手且手段明显过激的，还击一方一般应当认定为防卫行为。一方先动手、在对方努力避免冲突的情况下仍继续侵害的，也是这样",
+      "grade": "B",
+      "sources": "全国人大 (1997). 刑法（第二百三十二、二百三十四、二百九十二、三百零五、三百一十条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第三十、五十一条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；最高人民法院、最高人民检察院、公安部 (2020). 关于依法适用正当防卫制度的指导意见（法发〔2020〕31 号，第 5、9 条）. <https://www.court.gov.cn/zixun/xiangqing/251611.html>；全国人大 (2018). 刑事诉讼法（2018 年修订，第六十二、一百一十、一百一十一、一百九十三条）. 宁夏回族自治区人民检察院转载全文 <https://www.nx.jcy.gov.cn/zwsy/qwfb/202011/t20201119_608817.html>",
+      "notes": "定 B 是因为后果那一半有硬条文，但「退开报警、不上手拉架」这一步没有官方原文，是从条文和「互殴怎么认定」推出来的。「我是来劝架的」不是护身符，认定看的是你动没动手、打了谁。对方已经倒地或者跑了，你还追上去打，就不再算防卫。看到有人被围着单方面挨打，法律上你确实可以制止。正当防卫保护的不只是自己，也包括别人。但徒手上去多半只是再添一个伤员。喊人、远远录像、报警更管用。「不上手、不围观」对你只有好处。打 110 的好处主要落在地上那个人身上，属于本书受益人里最低的那一档，愿不愿意花这个时间你自己权衡。权衡之前要知道几件事。作证义务本来就有：刑诉法第六十二条写明，凡是知道案件情况的人都有作证的义务，不打这个电话它也不会消失。出了重伤或者人命，警方调监控照样找到在场的人，站着围观反而最容易被登记。报案人不愿公开姓名的，办案机关「应当为他保守秘密」（第一百一十一条）。说清地点、人数、有没有拿家伙就可以挂，不必留在原地。会走到训诫或者十日以下拘留的，是法院通知你出庭、你又拿不出正当理由还不肯作证（第一百九十三条）。路人极少走到这一步。不报警本身不违法：刑诉法第一百一十条那句「有权利也有义务」没有罚则。刑法里也没有处罚普通人知情不报的罪名，走开是合法选项。走开之后的红线只有两条。一是事后帮着藏人或者作假证明包庇（刑法第三百一十条，3 年以下，情节严重 3 到 10 年）。二是被找去做证时故意作假证（第三百零五条，3 年以下，情节严重 3 到 7 年）。沉默和如实说都没事，编话才有事。自己被卷进冲突见第 8 节第 10 条，被陌生人索财见本节第 36 条，救人受伤之后的钱见本节第 39 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Gặp một nhóm đánh nhau: lùi ra rồi rời đi, đừng lao vào can, đứng xem hay nhặt hung khí dưới đất; muốn báo cảnh sát thì ra khoảng cách an toàn gọi 110",
+    "cost": "Không tốn tiền. Điều khó là kiềm chế cả ý muốn vào can lẫn đứng xem. Sau khi báo cảnh sát có thể được liên hệ lại để lấy lời khai một lần, mất tối đa nửa ngày.",
+    "plain": "Bạn vừa ra tay thì can ngăn biến thành tham gia đánh nhau; việc nên làm là lùi ra và rời đi. Tích cực tham gia tụ tập đánh nhau bị phạt tù từ 3 năm trở xuống. Đông người, quy mô lớn, gây rối trật tự nghiêm trọng trên đường hoặc cầm hung khí thì bị phạt từ 3 đến 10 năm. Muốn báo cảnh sát thì ra khoảng cách an toàn gọi 110, nói rõ địa điểm, mấy người, có dao gậy không, có ai nằm bất động không.",
+    "benefit": "Điều hai trăm chín mươi hai Bộ luật Hình sự: “Tụ tập đánh nhau thì người cầm đầu và những người tích cực tham gia khác bị phạt tù có thời hạn từ ba năm trở xuống, giam giữ hình sự ngắn hạn hoặc quản chế”. Tụ tập đánh nhau nhiều lần; đông người, quy mô lớn, ảnh hưởng xã hội xấu; gây hỗn loạn trật tự xã hội nghiêm trọng ở nơi công cộng hoặc tuyến giao thông chính; hoặc dùng hung khí thì “bị phạt tù có thời hạn từ ba năm đến mười năm”. “Tụ tập đánh nhau gây thương tích nặng hoặc chết người” thì định tội, xử phạt theo tội cố ý gây thương tích hoặc cố ý giết người. Luật Xử phạt quản lý trị an cũng có chế tài. Đánh người khác bị tạm giữ 5 đến 10 ngày và phạt 500 đến 1000 nhân dân tệ. Kết nhóm đánh nhau được xử lý theo hành vi gây rối, cao nhất tạm giữ 15 ngày và phạt 2000 nhân dân tệ. Mục 5 của “Ý kiến hướng dẫn áp dụng chế định phòng vệ chính đáng theo pháp luật” nêu hành vi xâm hại trái pháp luật “gồm cả hành vi nhằm vào bản thân và hành vi gây hại cho nhà nước, lợi ích công cộng hoặc nhằm vào người khác”. Mục 9 của văn bản này nói rằng nếu một bên ra tay trước, cách thức rõ ràng quá mức, thì bên đánh trả nhìn chung cần được xác định là phòng vệ. Nếu một bên ra tay trước và vẫn tiếp tục xâm hại dù bên kia cố tránh xung đột thì cũng vậy.",
+    "notes": "Xếp mức B vì phần hậu quả có điều luật rõ ràng, nhưng bước “lùi ra báo cảnh sát, không dùng tay can ngăn” không có nguyên văn chính thức, mà được suy ra từ điều luật và cách xác định hai bên đánh nhau. “Tôi đến can” không phải lá bùa; việc xác định dựa vào bạn có ra tay không, đánh ai. Đối phương đã ngã hoặc chạy mà bạn vẫn đuổi đánh thì không còn tính là phòng vệ. Thấy người bị vây đánh một chiều, về pháp luật bạn thực sự có thể ngăn chặn. Phòng vệ chính đáng không chỉ bảo vệ bản thân mà cả người khác. Nhưng lao vào tay không phần lớn chỉ thêm một người bị thương. Gọi người, quay phim từ xa, báo cảnh sát có ích hơn. “Không ra tay, không đứng xem” chỉ có lợi cho bạn. Lợi ích của gọi 110 chủ yếu đến với người nằm dưới đất, thuộc nhóm hưởng lợi thấp nhất trong sách; bạn tự cân nhắc có muốn dành thời gian không. Trước khi cân nhắc cần biết vài điều. Nghĩa vụ làm chứng vốn đã tồn tại: Điều sáu mươi hai Luật Tố tụng hình sự nêu rõ bất kỳ ai biết tình tiết vụ án đều có nghĩa vụ làm chứng; không gọi điện cũng không làm nghĩa vụ biến mất. Có thương tích nặng hoặc chết người, cảnh sát vẫn có thể xem camera tìm người tại chỗ; đứng xem lại dễ bị ghi nhận nhất. Người báo án không muốn công khai tên thì cơ quan xử lý “phải giữ bí mật cho họ” (Điều một trăm mười một). Nói rõ địa điểm, số người, có hung khí không là có thể cúp máy, không cần ở lại. Chỉ đến mức bị khiển trách hoặc tạm giữ từ mười ngày trở xuống khi tòa đã yêu cầu ra làm chứng, bạn không có lý do chính đáng mà vẫn từ chối (Điều một trăm chín mươi ba). Người qua đường rất hiếm khi đến bước này. Bản thân không báo cảnh sát không trái luật: câu “có quyền và cũng có nghĩa vụ” ở Điều một trăm mười Luật Tố tụng hình sự không có chế tài. Bộ luật Hình sự cũng không có tội danh phạt người bình thường biết mà không báo; bỏ đi là lựa chọn hợp pháp. Sau khi rời đi chỉ có hai giới hạn. Một là sau đó giúp che giấu người hoặc làm chứng cứ giả để bao che (Điều ba trăm mười Bộ luật Hình sự, từ 3 năm trở xuống, tình tiết nghiêm trọng từ 3 đến 10 năm). Hai là được gọi làm chứng mà cố ý khai gian (Điều ba trăm lẻ năm, từ 3 năm trở xuống, tình tiết nghiêm trọng từ 3 đến 7 năm). Im lặng hoặc nói thật đều không sao, bịa chuyện mới có vấn đề. Bản thân bị cuốn vào xung đột xem chương 8 mục 10; bị người lạ đòi tiền xem mục 36 chương này; các khoản tiền sau khi bị thương lúc cứu người xem mục 39 chương này.",
+    "extra": ""
+  }
+}

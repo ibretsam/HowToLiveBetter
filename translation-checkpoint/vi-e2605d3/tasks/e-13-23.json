@@ -1,0 +1,35 @@
+{
+  "id": "e-13-23",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "b66f59bde9e9fefe1520f1ae49d85de5adcbb15aba805a0a48a87567535931a0",
+  "original": {
+    "number": 23,
+    "title": "中暑的人只要清醒，就少量多次喝凉的淡盐水或运动饮料，别猛灌、别喝酒和高糖饮料",
+    "fields": {
+      "cost": "不花钱。一瓶运动饮料几元。",
+      "plain": "只有清醒的人才喝，凉的淡盐水或运动饮料少量多次喝，一小时 500 到 1000 毫升。不喝酒和高糖饮料，它们会让人丢更多水。先降温再补水，意识不清、说话含糊的，一口都不喂。",
+      "benefit": "中国疾控中心发布过《公众高温中暑预防与紧急处理指南（2014 版）》。里面写着「至少每小时喝 2~4 杯凉水（500~1000ml），水温不宜过高，饮水应少量多次」。还写着「不要饮用含酒精或大量糖分的饮料。这些饮料会导致失去更多的体液。同时，还应避免饮用过凉的冰冻饮料」。对热射病则明确写「不要给病人喝水」。美国 NIOSH：热衰竭要「鼓励小口频繁地喝凉水」；热痉挛每 15 到 20 分钟补一次含糖和电解质的运动饮料，「不要用盐片」",
+      "grade": "B",
+      "sources": "中国疾病预防控制中心职业卫生与中毒控制所 (2014). 公众高温中暑预防与紧急处理指南（2014 版）. <https://niohp.chinacdc.cn/sndt/201405/t20140530_97623.htm> ; US CDC/NIOSH. Heat-Related Illnesses. <https://www.cdc.gov/niosh/heat-stress/about/illnesses.html>",
+      "notes": "中国疾控 2014 年那版指南说，大量出汗会丢盐分和矿物质，要补上，运动饮料能帮着补，所以水里要含一点盐。少量多次喝也是这份指南的要求。「别喝冰镇的」也出自这份指南，理由是怕胃痉挛，没有量化证据。别把它误读成「不能用冷的」。第 22 条（高温下头晕恶心时脱衣泼水降温）里讲了几样降温法。分别是凉水擦洗、冷水浸泡、冰袋敷头部、腋下、大腿根（腹股沟）。这几样是往身上用的，不往嘴里灌。降温永远排在补水前面。意识不清、说话含糊的，一口都不要喂"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người bị bệnh do nóng còn tỉnh thì uống từng ít, nhiều lần nước muối loãng mát hoặc đồ uống thể thao; đừng uống ồ ạt, đừng uống rượu hay đồ nhiều đường",
+    "cost": "Không tốn tiền. Một chai đồ uống thể thao giá vài nhân dân tệ.",
+    "plain": "Chỉ người còn tỉnh mới uống; nước muối loãng mát hoặc đồ uống thể thao uống từng ít, nhiều lần, 500 đến 1000 mililít mỗi giờ. Không uống rượu và đồ nhiều đường vì chúng làm mất thêm nước. Làm mát trước rồi mới bù nước; người không tỉnh táo, nói líu thì đừng cho uống dù chỉ một chút.",
+    "benefit": "Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Trung Quốc từng công bố “Hướng dẫn phòng ngừa và xử trí khẩn cấp bệnh do nóng cho công chúng (bản 2014)”. Hướng dẫn viết “ít nhất mỗi giờ uống 2~4 cốc nước mát (500~1000ml), nước không nên quá nóng, cần uống từng ít, nhiều lần”. Còn có “không uống đồ chứa cồn hoặc nhiều đường. Những đồ uống này làm mất thêm dịch cơ thể. Đồng thời nên tránh đồ uống đông lạnh quá lạnh”. Với sốc nhiệt, hướng dẫn ghi rõ “không cho người bệnh uống nước”. NIOSH của Mỹ khuyên với kiệt sức do nóng thì “khuyến khích uống từng ngụm nhỏ nước mát thường xuyên”; với chuột rút do nóng, cứ 15 đến 20 phút bổ sung một lần đồ uống thể thao có đường và chất điện giải, “không dùng viên muối”.",
+    "notes": "Bản hướng dẫn năm 2014 của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Trung Quốc cho biết ra nhiều mồ hôi làm mất muối và khoáng chất, cần bù lại; đồ uống thể thao có thể hỗ trợ, nên nước cần có một ít muối. Uống từng ít, nhiều lần cũng là yêu cầu của hướng dẫn này. “Đừng uống đồ ướp lạnh” cũng từ hướng dẫn đó, vì lo co thắt dạ dày, chưa có bằng chứng định lượng. Đừng hiểu nhầm thành “không được dùng đồ lạnh”. Mục 22 (chóng mặt, buồn nôn trong trời nóng thì cởi đồ, dội nước làm mát) nêu vài cách hạ nhiệt: lau rửa bằng nước mát, ngâm nước lạnh, chườm túi đá ở đầu, nách và gốc đùi (bẹn). Những cách này dùng bên ngoài cơ thể, không phải đổ vào miệng. Hạ nhiệt luôn đứng trước bù nước. Người không tỉnh táo, nói líu thì đừng cho uống dù chỉ một chút.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-20",
+  "source_sha256": "2cdf4640f8a27508890a78ad383620d48e24513edb39c4e044b66570d80ee0f1",
+  "draft_sha256": "76a7a36af1983dd662ee2fe49404a56bf2f348e987cd4456f7a6c8986af057bf",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields and source citations. Preserved 12000 cap, same-bracket restriction, cross-bracket 40000/1480 to 28000/840 example, 640 current saving minus 360 future tax =280, 840/2040/3240 nominal net differences and explicit non-annualized/non-investment-return caveats. Preserved all six withdrawal conditions, medical expenses strictly exceeding provincial prior-year income, 12-month expense lookback, 2-year unemployment lookback with cumulative12 months, dates and China context. No translation change required; source legal snapshot not externally reverified."
+}

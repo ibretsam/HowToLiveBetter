@@ -1,0 +1,35 @@
+{
+  "id": "e-32-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "047be970da093848e4e944c595337b43fc819a26a230011d00728618813b35f6",
+  "original": {
+    "number": 3,
+    "title": "留学打工先查美加英澳各国的打工时数上限，学期、假期和工作类型要分开算",
+    "fields": {
+      "cost": "不花钱。自己按周把工时记下来。难在雇主会说「多干几个小时没人查」，这话不能信",
+      "plain": "打工时数要按国家、工作类型和学期核对。美国校内打工学期中每周最多 20 小时，英国符合条件的课程每周 20 或 10 小时。加拿大学期中校外每周最多 24 小时，澳大利亚课程期间每两周 48 小时。假期、实习和境外远程工作另有规则，不能套同一个上限。",
+      "benefit": "美国的 F-1 学生，校内打工在学期中每周不得超过 20 小时。按法规第 (f)(9) 项获批的校外兼职，学期内同样每周最多 20 小时。符合条件的假期可以全职。课程实习 CPT 等工作另按实习类别和批准范围执行，不能把上述上限套到所有校外工作。英国的学生签证，工时还取决于学校和课程是否符合规定。由有合规记录的高等教育机构担保，读全日制学位及以上课程的，学期内每周 20 小时。该类机构担保的全日制学位以下课程，每周 10 小时。符合规定的境外高校短期交流项目，学期内也可每周 20 小时。其他课程，包括非全日制课程，不得打工。通常不得自雇（自己给自己干活），也不得做职业运动员或者演艺工作。依据是英国移民规则里管学生的那一部分，附录 Student ST26.1、ST26.5、ST26.8。加拿大符合条件的学生，在正常学期内校外打工每周最多 24 小时，多份校外工作的时数合并算。依据是加拿大移民法实施条例 IRPR 第 186(v) 条。学校安排的正常假期，符合条件可以全职工作。为加拿大境外雇主远程工作，不计入这项 24 小时上限，但仍要符合学签条件。最后一学期和项目衔接期间的资格，见第 4 条（全日制、休学和转学）。澳大利亚的学生签证，课程进行期间每两周最多 48 小时。研究型硕士、博士和他们的家属不受这个限制",
+      "grade": "A",
+      "sources": "8 CFR 214.2(f)(9)、(10). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>；UK Home Office. Immigration Rules Appendix Student（ST26.1、ST26.5、ST26.8）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>；IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；IRCC. Can I continue to work during scheduled school breaks? <https://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=499>；Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>",
+      "notes": "本条的工作条件在 2026 年 10 月 21 日复核过。美国校外工作要按类别事先取得相应许可。需要向移民局申请许可的，I-765 还在审时不能开工。课程实习 CPT 则由学校的指定负责人授权，并在 I-20 上签注，不是所有校外工作都交 I-765。加拿大的旧许可上印的是每周 20 小时，只要还符合条件，实际可以做到 24 小时，以现行规定为准。正常假期指学校安排的假期，不是自己停课。英国限制自雇的范围包括接私活、开网店、做自由职业。转签证期间的特定例外，要按英国官方规则核对。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Giới hạn giờ làm là điều kiện bắt buộc tại Mỹ, Canada, Anh và Úc; vượt một giờ cũng là vi phạm điều kiện thị thực",
+    "cost": "Không tốn tiền. Tự ghi số giờ làm theo từng tuần. Cái khó là chủ có thể bảo “làm thêm vài giờ chẳng ai kiểm tra”; đừng tin lời đó.",
+    "plain": "Cả bốn nước đều giới hạn giờ làm của người có thị thực sinh viên; vượt mức là vi phạm điều kiện thị thực. Trong kỳ học, Mỹ cho làm 20 giờ mỗi tuần; Anh cho học chương trình cấp bằng đại học trở lên làm 20 giờ, dưới bậc đại học là 10 giờ mỗi tuần. Canada cho 24 giờ mỗi tuần, Úc cho 48 giờ mỗi hai tuần. Làm hai việc thì phải cộng giờ với nhau.",
+    "benefit": "Sinh viên F-1 tại Mỹ làm việc trong trường không được vượt 20 giờ mỗi tuần trong học kỳ. Việc làm ngoài trường bán thời gian đã được chấp thuận cũng giới hạn 20 giờ mỗi tuần. Trong kỳ nghỉ có thể làm toàn thời gian. Căn cứ là quy định nhập cư liên bang Mỹ 8 CFR 214.2(f)(9). Với thị thực sinh viên Anh, người học chương trình cấp bằng đại học trở lên được làm 20 giờ mỗi tuần trong học kỳ, dưới bậc đại học được làm 10 giờ mỗi tuần. Chương trình không toàn thời gian không được làm việc. Cũng không được tự doanh, làm vận động viên chuyên nghiệp hoặc công việc biểu diễn. Căn cứ là phần dành cho sinh viên trong quy định nhập cư Anh, Phụ lục Student ST26.1 và ST26.5. Tại Canada, sinh viên toàn thời gian đủ điều kiện được làm ngoài trường tối đa 24 giờ mỗi tuần, theo Điều 186(v) Quy định thực thi Luật Di trú và Bảo vệ người tị nạn IRPR. Thị thực sinh viên Úc cho làm tối đa 48 giờ mỗi hai tuần trong thời gian khóa học đang diễn ra. Người học thạc sĩ nghiên cứu, tiến sĩ và thân nhân của họ không chịu giới hạn này.",
+    "notes": "Ở Mỹ, việc làm ngoài trường phải được chấp thuận trước. Khi đơn I-765 xin phép làm việc còn đang xét thì chưa được bắt đầu làm. Giấy phép cũ của Canada ghi 20 giờ mỗi tuần, nhưng nếu vẫn đủ điều kiện thì thực tế có thể làm 24 giờ, theo quy định hiện hành. Lệnh cấm tự doanh của Anh có phạm vi rộng: nhận việc riêng, mở cửa hàng trực tuyến và làm nghề tự do đều thuộc diện này.",
+    "extra": ""
+  }
+}

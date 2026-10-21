@@ -1,0 +1,35 @@
+{
+  "id": "e-12-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "7615ce340ba355d8f63fea9b4767081a4ff57e063c1c7ed6a21720dfe09396ce",
+  "original": {
+    "number": 9,
+    "title": "卖预包装食品先核对标签：生产日期、保质期、配料表按规定标齐",
+    "fields": {
+      "cost": "印标签几分钱到几毛钱一张。每一批都要把日期和配料填对，要占一些时间。",
+      "plain": "算不算预包装食品，要看是不是预先定量包装、统一标了重量或容量，不能只看有没有袋子。买时才称重装袋、现做现卖、餐饮外带的，不能因为有袋子、餐盒就当预包装食品。预包装食品该标的没标，货值不到一万罚 5000 到 5 万。散装食品也要标名称、日期等信息。",
+      "benefit": "截至 2026 年 10 月，现行 GB 7718-2011 要求预包装食品预先定量包装或制作在包装材料和容器中。包装上要有统一的重量或容量标示。顾客购买时才称重装袋，不能只因装了袋就按预包装食品判断。现制现售食品不适用这份标签通则，餐饮外带也不能只凭有餐盒就套用。食品安全法要求预包装食品包装上有标签。直接卖给消费者的，除标准明确允许省略的情况外，标签要标明名称、规格、净含量、生产日期，成分或者配料表，生产者的名称、地址、联系方式，保质期。还有产品标准代号、贮存条件、所用食品添加剂在国家标准里的通用名称、生产许可证编号。法律法规或者食品安全标准另外要求标的，也要标。卖散装食品，容器和外包装上也要标名称、生产日期或者生产批号、保质期。生产经营者的名称、地址、联系方式等内容也要标。做的、卖的预包装食品没标签，或者标签、说明书不符合本法规定的，挣到的钱和食品一起没收。这批货按售价算的总金额（货值金额）不足一万元的，另罚 5000 元以上 5 万元以下。货值金额一万元以上的，按货值的 5 倍以上 10 倍以下罚。情节严重的勒令停产停业，直到把许可证收回。标签、说明书只是有小毛病（瑕疵），既不影响食品安全也不会让消费者误解的，先勒令改正。拒不改才罚 2000 元以下。新版《预包装食品标签通则》编号 GB 7718-2025，2025 年 3 月 16 日发布。它 2027 年 3 月 16 日起实施，中间有两年过渡期。新版把预先包装后按重量或件数销售的食品也纳入范围，但餐饮食品、现制现售食品等仍不适用。新版要求在包装上设置独立区域，同时展示生产日期和保质期到期日。日期要用高对比度、容易看清的字体和颜色，并且按年-月-日的顺序排列（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025 年第三次修正). 食品安全法（第六十七、六十八、一百二十五条）. <https://flk.npc.gov.cn/detail?id=7b5a76d0461745a08d3f964916b87ef3>；卫生部 (2011). 食品安全国家标准 预包装食品标签通则（GB 7718-2011，第 1、2.1、4.1、4.3 条）. <https://www.nhc.gov.cn/zwgkzt/psp/201106/51950/files/e84256474d1445919246b4a41a87f172.pdf>；国家卫生健康委员会 (2025). 《食品安全国家标准 预包装食品标签通则》（GB 7718-2025）问答（第二、三问，范围变化与不适用情形）. <https://www.nhc.gov.cn/sps/c100087/202509/bc824a504ec34c27883da73f14c20d44.shtml>；国家卫生健康委员会、国家市场监督管理总局 (2025). 关于发布《食品安全国家标准 预包装食品标签通则》（GB 7718-2025）等 50 项食品安全国家标准和 9 项修改单的公告（2025 年第 2 号）. <https://jkw.lasa.gov.cn/wswyh/wjzl/202504/a90766908ef24869a74f7373bf42463f.shtml>（拉萨市卫生健康委员会转载公告全文）；最高人民法院 (2024). 关于审理食品药品惩罚性赔偿纠纷案件适用法律若干问题的解释（法释〔2024〕9 号，第六、八条）. <http://gongbao.court.gov.cn/Details/bf531a70471f10d377788f28d3d8f8.html>（标签瑕疵与必标事项缺失的分档）；北京市市场监督管理局 (2026). 找不到生产日期？食品标签要「变脸」！新规这些重点必看. <https://scjgj.beijing.gov.cn/zwxx/scjgdt/202605/t20260507_4639154.html>（实施日期、过渡期与日期展示新要求）",
+      "notes": "标签的毛病分两种，罚多少、赔多少都跟着这个分法走。一种是小毛病，比如错别字、字号不规范，既不影响食品安全，也不会让人误解。这种市场监管部门只让你改，拒不改才罚 2000 元以下，买家也要不到十倍赔偿。另一种是依法该标的没标，比如漏了不能省略的生产日期、保质期。司法解释明文说这不算小毛病。罚款按货值算，不足一万元的罚 5000 元到 5 万元，一万元以上的罚货值的 5 到 10 倍。而且买家还能另外向你要食品价款的十倍赔偿，不足一千元的按一千元算（见第 5 节第 31 条，食品的十倍赔偿）。现行标准对部分食品、很小的包装有省略项目的规定，要按产品核对。GB 7718-2025 尚未正式实施，不能把新版扩大的范围当成现行定义。具体格式以适用标准原文为准。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Đóng gói để bán là thực phẩm đóng gói sẵn: nhãn không được thiếu ngày sản xuất, hạn sử dụng hay danh sách thành phần",
+    "cost": "In nhãn tốn vài phân đến vài hào mỗi nhãn. Mỗi lô phải ghi đúng ngày và thành phần, mất một ít thời gian.",
+    "plain": "Thực phẩm cho vào bao bì rồi bán được pháp luật gọi là thực phẩm đóng gói sẵn. Bao bì phải có nhãn với chín nội dung bắt buộc, gồm ngày sản xuất và hạn sử dụng. Thực phẩm bán rời cũng phải ghi tên, ngày và tên, địa chỉ người bán. Thiếu nội dung bắt buộc, trị giá hàng dưới một vạn thì phạt từ 5000 đến 5 vạn; từ một vạn thì phạt gấp 5 đến 10 lần trị giá hàng.",
+    "benefit": "Luật An toàn thực phẩm yêu cầu bao bì thực phẩm đóng gói sẵn, tức cho vào bao bì rồi bán, phải có nhãn. Nhãn phải ghi tên, quy cách, khối lượng tịnh, ngày sản xuất, thành phần hoặc danh sách nguyên liệu, tên, địa chỉ, thông tin liên hệ của nhà sản xuất và hạn sử dụng. Còn phải có mã tiêu chuẩn sản phẩm, điều kiện bảo quản, tên thông dụng theo tiêu chuẩn quốc gia của các phụ gia đã dùng, số giấy phép sản xuất. Nội dung khác mà pháp luật hoặc tiêu chuẩn an toàn thực phẩm yêu cầu cũng phải ghi. Thực phẩm bán rời là loại không đóng túi sẵn, cân theo nhu cầu. Khi bán loại này, vật chứa và bao bì ngoài cũng phải ghi tên, ngày sản xuất hoặc mã lô, hạn sử dụng; cùng tên, địa chỉ, thông tin liên hệ của cơ sở sản xuất kinh doanh. Sản xuất hoặc bán thực phẩm đóng gói sẵn không nhãn, hoặc nhãn và hướng dẫn không đúng luật, bị tịch thu thu nhập và thực phẩm. Tổng trị giá hàng tính theo giá bán dưới một vạn nhân dân tệ thì phạt thêm từ 5000 đến 5 vạn nhân dân tệ. Trị giá từ một vạn nhân dân tệ trở lên thì phạt từ 5 đến 10 lần trị giá hàng. Trường hợp nghiêm trọng bị buộc ngừng sản xuất kinh doanh, đến mức thu hồi giấy phép. Nếu nhãn, hướng dẫn chỉ có lỗi nhỏ, không ảnh hưởng an toàn thực phẩm và không khiến người tiêu dùng hiểu nhầm, trước hết bị buộc sửa. Không chịu sửa mới bị phạt từ 2000 nhân dân tệ trở xuống. Bản mới của Quy tắc chung về nhãn thực phẩm đóng gói sẵn mang mã GB 7718-2025, công bố ngày 16 tháng 3 năm 2025, có hiệu lực từ ngày 16 tháng 3 năm 2027, với hai năm chuyển tiếp. Quy tắc yêu cầu dành vùng riêng trên bao bì để đồng thời thể hiện ngày sản xuất và ngày hết hạn. Ngày phải dùng kiểu chữ và màu có độ tương phản cao, dễ đọc, theo thứ tự năm-tháng-ngày (toàn quốc).",
+    "notes": "Lỗi nhãn chia hai loại, mức phạt và bồi thường cũng theo đó. Một loại là lỗi nhỏ như sai chữ, cỡ chữ không chuẩn, không ảnh hưởng an toàn thực phẩm và không gây hiểu nhầm. Cơ quan quản lý thị trường chỉ yêu cầu sửa, không sửa mới phạt tối đa 2000 nhân dân tệ; người mua cũng không đòi được bồi thường gấp mười lần. Loại còn lại là thiếu nội dung bắt buộc như ngày sản xuất hoặc hạn sử dụng. Giải thích tư pháp nêu rõ đây không phải lỗi nhỏ. Phạt theo trị giá hàng: dưới một vạn nhân dân tệ phạt từ 5000 đến 5 vạn; từ một vạn nhân dân tệ trở lên phạt gấp 5 đến 10 lần trị giá hàng. Người mua còn có thể đòi thêm khoản bồi thường gấp mười lần tiền thực phẩm; nếu chưa đến một nghìn nhân dân tệ thì tính một nghìn (xem chương 5 mục 31, bồi thường gấp mười lần với thực phẩm). Với từng yêu cầu của GB 7718-2025, mới kiểm chứng được ngày tháng và cách trình bày trong thông báo cùng phần giải thích chính thức. Định dạng cụ thể theo nguyên văn tiêu chuẩn.",
+    "extra": ""
+  }
+}

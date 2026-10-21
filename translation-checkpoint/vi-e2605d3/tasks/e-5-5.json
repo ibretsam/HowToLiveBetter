@@ -1,0 +1,35 @@
+{
+  "id": "e-5-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "e9bd2e52bdeeba35fbd549f50d8e839df25d0081fbf4d04e8162fb962ea1649f",
+  "original": {
+    "number": 5,
+    "title": "不买彩票",
+    "fields": {
+      "cost": "不花钱。不买就是省钱。",
+      "plain": "按规定，乐透数字型彩票拿出来当奖金的钱，最少是销售额的 50%，双色球是 51%。你每投 1 元，长期平均只能拿回 0.51 元，稳定亏掉 49%。2024 年全国卖了 6234.86 亿元彩票，其中 1610.31 亿元直接进了公益金，这部分不在奖金里。",
+      "benefit": "财政部规定了奖金占销售额的最低比例：乐透型和数字型彩票 50%，即开型 65%，竞猜型 73%。双色球按销售额的 51% 提奖金，每卖 100 元只拿出 51 元当奖金。换算到你身上，每投入 1 元，长期平均只能拿回 0.51 元，亏掉 49%。2024 年全国彩票卖了 6234.86 亿元，其中 1610.31 亿元进了公益金，没有回到买彩票的人手里（中国，2024 年）",
+      "grade": "A",
+      "sources": "财政部 (2015). 关于规范和加强彩票资金构成比例管理的通知（财综〔2015〕94 号）. <http://m.mof.gov.cn/czxw/201511/t20151113_1560814.htm>；财政部 (2025). 财政部公告 2025 年第 8 号（2024 年彩票公益金筹集分配情况）. <http://zhs.mof.gov.cn/zhengcefabu/202508/t20250828_3970977.htm>；中国福利彩票双色球游戏规则（第十四条）. <https://mzj.nc.gov.cn/ncsmzj/flcp/202111/5dccc1a5da89434e94a62f8ea0e5887e.shtml>",
+      "notes": "长期平均下来一定亏，这是制度定死的，和运气无关。要买也行，但只能当成 2 元一次的娱乐花销，不能当成理财。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không mua vé số",
+    "cost": "Không tốn tiền. Không mua là tiết kiệm.",
+    "plain": "Theo quy định, xổ số kiểu lotto, chọn số phải dành ít nhất 50% doanh thu làm tiền thưởng; với Song Sắc Cầu là 51%. Mỗi 1 nhân dân tệ bỏ vào, trung bình dài hạn bạn chỉ nhận lại 0.51 nhân dân tệ, đều đặn mất 49%. Năm 2024, cả Trung Quốc bán 6234.86 trăm triệu nhân dân tệ vé số, trong đó 1610.31 trăm triệu vào thẳng quỹ công ích, không nằm trong tiền thưởng.",
+    "benefit": "Bộ Tài chính Trung Quốc quy định tỷ lệ tiền thưởng tối thiểu trên doanh thu: xổ số kiểu lotto và chọn số 50%, loại biết kết quả ngay 65%, loại dự đoán kết quả 73%. Song Sắc Cầu trích 51% doanh thu làm tiền thưởng, bán được 100 nhân dân tệ thì chỉ dành 51 nhân dân tệ trả thưởng. Quy ra người chơi, mỗi 1 nhân dân tệ bỏ vào, trung bình dài hạn chỉ nhận lại 0.51 nhân dân tệ, mất 49%. Năm 2024, cả Trung Quốc bán 6234.86 trăm triệu nhân dân tệ vé số, trong đó 1610.31 trăm triệu vào quỹ công ích, không trở lại tay người mua vé số (Trung Quốc, năm 2024).",
+    "notes": "Trung bình dài hạn chắc chắn lỗ; cơ chế đã ấn định như vậy, không liên quan đến may mắn. Muốn mua cũng được, nhưng chỉ coi là khoản giải trí 2 nhân dân tệ một lần, không được coi là đầu tư quản lý tài chính.",
+    "extra": ""
+  }
+}

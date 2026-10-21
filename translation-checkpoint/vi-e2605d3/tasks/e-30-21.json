@@ -1,0 +1,36 @@
+{
+  "id": "e-30-21",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "3eee5fe8de39a65c9c9d648f62ec7207a9720d1210ad6eff3b4d26be7611638c",
+  "original": {
+    "number": 21,
+    "title": "孩子运动时撞了头、之后头痛头晕或者发懵，当天别再上场；吐了又吐、越来越困、头痛越来越重，立刻去急诊",
+    "fields": {
+      "cost": "不花钱。让孩子下场，当天不再练也不再比。难在比赛正紧，孩子自己说「没事」，教练和家长都想让他接着上。",
+      "plain": "脑震荡后还接着打的孩子，平均 44 天才恢复，当场下场的约 22 天。撞头后有不对劲，当天就别再上，等医生说行再上。连着吐、越来越困叫不醒、头痛越来越重、说话含糊、抽搐，都是要立刻去急诊的信号。",
+      "benefit": "脑震荡是头部受撞后脑功能一时乱了，片子上通常看不出来。美国一项研究跟踪了 69 名运动中脑震荡的运动员，平均约 15 岁。当场下场的 35 人，平均 22.0 天恢复。带着症状接着打的 34 人，平均 44.4 天（P=0.003，不太可能是碰巧）。接着打的人，恢复拖过 21 天的机会是下场的 8.80 倍。2022 年阿姆斯特丹国际运动脑震荡会议出了一份共识。它说，出现失去意识、抽搐、站不稳、糊涂、行为改变、记不起事的，要立即下场。这些人当天不应再回到比赛或训练。例外是有经验的医务人员当场查过，确认不是脑震荡引起的。美国疾控中心给家长和教练的指南写得更直接：有可疑症状就马上下场，当天不再上，等医生说可以再上。它还说别自己判断轻重，只有医务人员能评估。它列出要立刻去急诊的信号：抽搐，认不出人或地方，反复恶心呕吐，行为反常、越来越糊涂或烦躁。还有昏过去后越来越困、叫不醒，说话含糊、手脚没劲或发麻。再就是头痛越来越重不缓解，两边瞳孔不一样大或者看东西重影（美国 / 多国）",
+      "grade": "B",
+      "sources": "Elbin RJ, Sufrinko A, Schatz P, et al. (2016). Removal From Play After Concussion and Recovery Time. Pediatrics, 138(3), e20160910. <https://doi.org/10.1542/peds.2016-0910>；Patricios JS, Schneider KJ, Dvorak J, et al. (2023). Consensus statement on concussion in sport: the 6th International Conference on Concussion in Sport-Amsterdam, October 2022. British Journal of Sports Medicine, 57(11), 695-711. <https://doi.org/10.1136/bjsports-2023-106898>；CDC (2025). Signs and Symptoms of Concussion. HEADS UP. <https://www.cdc.gov/heads-up/signs-symptoms/index.html>；CDC. How to Respond. HEADS UP. <https://www.cdc.gov/heads-up/response/index.html>",
+      "notes": "给 B 是因为接着打和下场的两拨人不是抽签分的，人数也少。收益定大，是按恢复天数缩短约一半套的。共识还说，头两天少看屏幕，可以散步这类轻活动，24 到 48 小时后按耐受慢慢加。但有碰撞、摔倒风险的运动，要等医生说行。骑车、滑雪戴头盔见第 22 节第 12 条（骑山地车时戴头盔）。老人磕头几周后才出问题的，见第 13 节第 10 条（老人磕过头）。受益人是孩子。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trẻ va đập đầu khi chơi thể thao rồi đau đầu, chóng mặt hoặc lơ mơ thì hôm đó không được trở lại sân; nôn liên tục, buồn ngủ tăng dần, đau đầu nặng dần thì đi cấp cứu ngay",
+    "cost": "Không tốn tiền. Cho trẻ rời sân, hôm đó không tập cũng không thi đấu nữa. Cái khó là trận đấu đang căng, con tự nói “không sao”, huấn luyện viên và cha mẹ đều muốn con tiếp tục.",
+    "plain": "Trẻ tiếp tục chơi sau chấn động não trung bình mất 44 ngày mới hồi phục, trẻ rời sân ngay khoảng 22 ngày. Sau va đập đầu mà có gì bất thường thì hôm đó không trở lại sân, đợi bác sĩ cho phép mới quay lại. Nôn liên tục, ngày càng buồn ngủ không gọi dậy được, đau đầu tăng dần, nói líu, co giật đều là dấu hiệu phải đi cấp cứu ngay.",
+    "benefit": "Chấn động não là chức năng não tạm thời rối loạn sau va đập đầu, thường không thấy được trên hình chụp. Một nghiên cứu tại Mỹ theo dõi 69 vận động viên bị chấn động não khi chơi thể thao, tuổi trung bình khoảng 15. Trong 35 người rời sân ngay, thời gian hồi phục trung bình là 22.0 ngày. Với 34 người vẫn tiếp tục chơi khi có triệu chứng, thời gian là 44.4 ngày (P=0.003, ít có khả năng chỉ do ngẫu nhiên). Ở người tiếp tục chơi, khả năng hồi phục kéo dài quá 21 ngày gấp 8.80 lần người rời sân. Hội nghị quốc tế về chấn động não trong thể thao tại Amsterdam năm 2022 đưa ra một đồng thuận: nếu có mất ý thức, co giật, đứng không vững, lú lẫn, thay đổi hành vi hoặc không nhớ được sự việc thì phải rời sân ngay. Những người này không nên trở lại thi đấu hoặc tập luyện trong ngày đó. Ngoại lệ là nhân viên y tế có kinh nghiệm khám ngay tại chỗ và xác định các dấu hiệu không phải do chấn động não. Hướng dẫn của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ dành cho cha mẹ, huấn luyện viên nói thẳng hơn: có triệu chứng đáng nghi thì rời sân ngay, hôm đó không quay lại, đợi bác sĩ cho phép mới trở lại. Hướng dẫn cũng nói đừng tự đánh giá nặng nhẹ, chỉ nhân viên y tế mới có thể đánh giá. Các dấu hiệu cần đi cấp cứu ngay được liệt kê gồm: co giật; không nhận ra người hoặc địa điểm; buồn nôn, nôn lặp lại; hành vi bất thường, ngày càng lú lẫn hoặc kích động. Ngoài ra còn có sau khi ngất thì ngày càng buồn ngủ, không gọi dậy được; nói líu, tay chân yếu hoặc tê; đau đầu ngày càng nặng không thuyên giảm; hai đồng tử không đều hoặc nhìn đôi (Mỹ / nhiều quốc gia).",
+    "notes": "Xếp B vì hai nhóm tiếp tục chơi và rời sân không được phân ngẫu nhiên, số người cũng ít. Lợi ích xếp lớn dựa trên số ngày hồi phục rút ngắn khoảng một nửa. Đồng thuận còn nói hai ngày đầu nên bớt xem màn hình, có thể hoạt động nhẹ như đi bộ, sau 24 đến 48 giờ tăng dần tùy khả năng chịu đựng. Nhưng môn thể thao có nguy cơ va chạm, té ngã thì phải đợi bác sĩ cho phép. Đội mũ bảo hiểm khi đạp xe, trượt tuyết xem chương 22 mục 12 (đội mũ bảo hiểm khi đi xe đạp địa hình). Người cao tuổi va đầu rồi vài tuần sau mới có vấn đề, xem chương 13 mục 10 (người cao tuổi từng va đầu). Người hưởng lợi là con.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-32-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "7f4c3eaabdcdf1a608244cfcfe95e624a0d37a6c777f88c958eacb1df5099e7d",
+  "original": {
+    "number": 1,
+    "title": "交学费之前先查学校在不在留服中心的认证院校名单里",
+    "fields": {
+      "cost": "不花钱。在留服中心的「认证院校查询」里输一次学校名，几分钟就查完",
+      "plain": "回国升学、找工作、考试要用这张文凭，可以向教育部留学服务中心申请认证。它公布了近五年通过过认证的学校名单。在名单里不保证能过，不在名单里也不一定不受理。交学费前查一次，不在名单里的多问一句。",
+      "benefit": "中国（教育部）留学服务中心的《国（境）外学历学位认证办法》第一条写明，认证是为了「满足申请人升学、就业、考试等需要」。第二条写明认证是「根据申请人的自主申请」做的。留服中心有一个认证院校查询入口，按学校名字查。它的使用须知写明，名单是近五年通过认证的申请里涉及的国外颁证院校，「仅供留学人员参考，不作为任何通过认证的保证或依据」。须知还写明，受理范围「不限于本查询功能显示的院校」，每份申请都单独评估，学校合不合法、有没有发证资格只是考量之一。名单每年更新一次。2025 年那次更新移除了近 5 年没出过认证书的学校 270 所。另外，教育部教育涉外监管信息网还公布中外合作办学和境外办学的监管信息",
+      "grade": "A",
+      "sources": "中国（教育部）留学服务中心. 认证院校查询（含使用须知）. <http://yxcx.cscse.edu.cn/>；中国（教育部）留学服务中心 (2023). 国（境）外学历学位认证办法（第一、二条）. <http://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/409891/rzbf/2026042823373762003/index.html>；教育部教育涉外监管信息网. <https://jsj.moe.gov.cn/>",
+      "notes": "中介嘴上说「教育部认可」不算数，以你自己上网查到的结果为准。名单会变，入学时在名单里，毕业时不一定还在，所以读书期间每年复查一次。中外合作办学的项目另有一套认证注册的制度。2008 年以后入学的，可以凭姓名和身份证号，在涉外监管信息网查自己的注册序号。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi đóng học phí, tra xem trường có trong danh sách cơ sở từng được Trung tâm Dịch vụ Du học công nhận văn bằng hay không",
+    "cost": "Không tốn tiền. Nhập tên trường vào mục tra cứu cơ sở đào tạo được công nhận của Trung tâm Dịch vụ Du học, mất vài phút.",
+    "plain": "Nếu cần dùng văn bằng để học tiếp, tìm việc hoặc dự thi khi về Trung Quốc, bạn có thể xin Trung tâm Dịch vụ Du học thuộc Bộ Giáo dục công nhận. Trung tâm công bố danh sách các trường có hồ sơ được công nhận trong năm năm gần đây. Có tên không bảo đảm hồ sơ được duyệt, không có tên cũng chưa chắc bị từ chối tiếp nhận. Hãy tra trước khi đóng học phí và hỏi kỹ hơn nếu trường không có tên.",
+    "benefit": "Điều thứ nhất của Quy định công nhận bằng cấp, học vị nước ngoài hoặc ngoài lãnh thổ do Trung tâm Dịch vụ Du học thuộc Bộ Giáo dục Trung Quốc ban hành nêu mục đích “đáp ứng nhu cầu học tiếp, việc làm, thi cử và các nhu cầu khác của người đề nghị”. Điều thứ hai quy định việc công nhận được thực hiện “theo đơn tự nguyện của người đề nghị”. Trung tâm có công cụ tra cứu cơ sở đào tạo theo tên trường. Hướng dẫn sử dụng nêu rõ danh sách gồm các cơ sở nước ngoài cấp văn bằng liên quan đến hồ sơ được công nhận trong năm năm gần đây, “chỉ để người du học tham khảo, không phải bất kỳ sự bảo đảm hay căn cứ nào cho việc được công nhận”. Hướng dẫn cũng nêu phạm vi tiếp nhận “không chỉ giới hạn ở các trường hiển thị trong công cụ tra cứu này”. Mỗi hồ sơ được đánh giá riêng; tính hợp pháp và quyền cấp văn bằng của trường chỉ là một trong các yếu tố xem xét. Danh sách cập nhật mỗi năm một lần. Lần cập nhật năm 2025 loại 270 trường không có hồ sơ nào được cấp chứng nhận trong 5 năm gần nhất. Ngoài ra, Mạng thông tin giám sát giáo dục có yếu tố nước ngoài của Bộ Giáo dục còn công bố thông tin quản lý các chương trình hợp tác đào tạo Trung Quốc–nước ngoài và hoạt động đào tạo ở ngoài lãnh thổ.",
+    "notes": "Lời môi giới nói “được Bộ Giáo dục công nhận” không có giá trị thay cho kết quả bạn tự tra trên mạng. Danh sách có thể thay đổi: trường có tên lúc nhập học chưa chắc còn tên khi tốt nghiệp, nên hãy kiểm tra lại mỗi năm trong thời gian học. Chương trình hợp tác đào tạo Trung Quốc–nước ngoài có hệ thống đăng ký công nhận riêng. Người nhập học sau năm 2008 có thể dùng họ tên và số căn cước để tra mã đăng ký của mình trên mạng thông tin giám sát giáo dục có yếu tố nước ngoài.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-8-8",
+  "source_sha256": "7f511a9938f217385272f051f94bae3c377a44586bb36cc8299267d6d3cfaea9",
+  "draft_sha256": "758d65b7f796495c86c6df455d4102533fe2fd3ab12072aea0aa1cead6bc9571",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved1–10times illicit gains, <20000-CNY boundary,200000maximum,<=15days, knowing assistance plus serious circumstances,<=3years and fine; crossref45. No translation change. Source broad statement about lending/renting accounts and inference of knowledge remains a source claim, not updated legal advice."
+}

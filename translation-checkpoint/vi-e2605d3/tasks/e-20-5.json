@@ -1,0 +1,36 @@
+{
+  "id": "e-20-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "8a8735d5b279aa142f30770b9e19a3c32b1638243bacaaefb58e56ace2653e00",
+  "original": {
+    "number": 5,
+    "title": "冲奶粉用 70 ℃ 以上的水，冲好放凉再喂，喝剩的倒掉",
+    "fields": {
+      "cost": "不花钱。每次多等几分钟把奶放凉。难在孩子饿得哭的时候，也要等水温降下来再冲",
+      "plain": "奶粉不是无菌的，可能带一种细菌，新生儿感染后四成到八成会死。先倒热水，等降到约 73.8 ℃ 再放奶粉，多数情况下能把这种菌杀到原来的十万分之一以下。热水会让维生素 C 少一些，但测过的奶粉仍够标准。冲好放凉再喂，喝剩的倒掉。",
+      "benefit": "奶粉不是无菌的，可能带阪崎克罗诺杆菌。新生儿感染后的病死率，报告为 40% 到 80%。实验研究显示：先把热水倒进奶瓶，等水温降到约 73.8 ℃ 再加奶粉，绝大多数情况下奶液温度还在 70 ℃ 以上。这样可以让这种菌减少 5 个对数级以上，降到原来的十万分之一以下。热水的代价在维生素 C 上。世卫和联合国粮农组织 2006 年开过专家会议。会上看到的数据是：用开水冲，只有维生素 C 明显减少，4 种奶粉减少 5.6% 到 65.6%。奶粉出厂时维生素 C 本来就多加了。减得最多的那种，冲好后每 100 千卡仍有 9.0 毫克，高于国际食品法典标准的下限 8 毫克。会议只看到这一项研究，所以没有就此下结论",
+      "grade": "A",
+      "sources": "Beary MA, Daly SE, Baker J, Snyder AB (2025). Assessing Hot Water Reconstitution Instructions and Labeling of Powdered Infant Formula to Ensure Cronobacter spp. Reduction. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.2025.100571>；Sima WG, Legesse T, Girma S, et al. (2025). Emerging microbial risks: Cronobacter sakazakii in powdered infant formula for infants under six months of age in Ethiopia. BMC Microbiology, 26, 307. <https://doi.org/10.1186/s12866-025-04380-y>；World Health Organization & FAO (2007). Safe preparation, storage and handling of powdered infant formula: guidelines. <https://www.who.int/publications/i/item/9789241595414>；Bundesinstitut für Risikobewertung (2022). Recommendations for the hygienic preparation of powdered infant formula. Updated BfR Opinion No. 009/2022. <https://doi.org/10.17590/20220510-104706>；Agostoni C, Axelsson I, Goulet O, et al. (2004). Preparation and handling of powdered infant formula: a commentary by the ESPGHAN Committee on Nutrition. Journal of Pediatric Gastroenterology and Nutrition, 39(4), 320-322. <https://doi.org/10.1097/00005176-200410000-00002>；Silano M, Paganin P, Davanzo R (2016). Time for the 70 °C water precautionary option in the home dilution of powdered infant formula. Italian Journal of Pediatrics, 42, 17. <https://doi.org/10.1186/s13052-016-0228-9>；Losio MN, Pavoni E, Finazzi G, et al. (2018). Preparation of Powdered Infant Formula: Could Product's Safety Be Improved? Journal of Pediatric Gastroenterology and Nutrition, 67(4), 543-546. <https://doi.org/10.1097/MPG.0000000000002100>",
+      "notes": "争议：德国联邦风险评估研究所 2022 年的意见是，足月健康的孩子用 20 到 50 ℃ 的水冲就行。它提到多数厂家罐上写的也是 40 到 50 ℃。它的理由是 70 ℃ 的水倒进奶瓶凉得很快，实际杀的菌没有算出来那么多。热水还会损失一些营养，没放凉就喂会烫着孩子。欧洲儿科胃肠肝病营养学会 2004 年也不赞成用开水冲，担心破坏维生素和奶粉里加的益生菌。世卫和联合国粮农组织仍建议 70 ℃ 以上。早产儿、出生体重不到 2500 克的、不满 2 个月的和免疫力差的孩子风险最高，要按 70 ℃ 冲，或者问医生。足月健康的孩子按罐上的温度冲，德国这份意见认为感染风险极低。70 ℃ 这个门槛来自公共卫生指南。Beary 等人的原话是「针对高危婴儿照护者的公共卫生指南建议用加热到至少 70 ℃（158 ℉）的水冲调配方奶粉以灭活微生物」。别用保温杯里放了一天的水来冲。也别把冲好的奶搁在室温下，等着下一顿再喂"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Pha sữa bột bằng nước từ 70 ℃ trở lên, pha xong để nguội rồi mới cho bú, đổ bỏ phần uống thừa",
+    "cost": "Không tốn tiền. Mỗi lần chờ thêm vài phút cho sữa nguội. Khó là dù trẻ đói khóc vẫn phải đợi nước hạ nhiệt rồi mới pha.",
+    "plain": "Sữa bột không vô trùng, có thể mang một loại vi khuẩn khiến bốn đến tám phần mười trẻ sơ sinh nhiễm bệnh tử vong. Rót nước nóng trước, đợi hạ xuống khoảng 73.8 ℃ rồi thêm sữa bột; trong phần lớn trường hợp có thể giảm vi khuẩn xuống không quá một phần một trăm nghìn lượng ban đầu. Nước nóng làm mất một phần vitamin C, nhưng những loại sữa đã được đo vẫn đạt tiêu chuẩn. Pha xong để nguội rồi mới cho bú, đổ bỏ phần uống thừa.",
+    "benefit": "Sữa bột không vô trùng, có thể mang vi khuẩn Cronobacter sakazakii. Tỷ lệ tử vong ở trẻ sơ sinh sau khi nhiễm được báo cáo là 40% đến 80%. Nghiên cứu trong phòng thí nghiệm cho thấy: rót nước nóng vào bình trước, đợi nước hạ xuống khoảng 73.8 ℃ rồi mới thêm sữa bột thì trong đại đa số trường hợp, nhiệt độ sữa vẫn từ 70 ℃ trở lên. Cách này có thể giảm số vi khuẩn từ 5 bậc logarit trở lên, xuống không quá một phần một trăm nghìn lượng ban đầu. Bất lợi của nước nóng nằm ở vitamin C. WHO và Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc tổ chức một cuộc họp chuyên gia năm 2006. Số liệu được xem tại cuộc họp cho thấy khi pha bằng nước sôi, chỉ vitamin C giảm rõ rệt; mức giảm ở 4 loại sữa là 5.6% đến 65.6%. Khi sản xuất, sữa bột vốn đã được bổ sung vitamin C vượt mức cần thiết. Loại giảm nhiều nhất vẫn còn 9.0 miligam mỗi 100 kilocalo sau khi pha, cao hơn ngưỡng tối thiểu 8 miligam của tiêu chuẩn Codex Alimentarius quốc tế. Cuộc họp chỉ có được một nghiên cứu này nên không đưa ra kết luận về vấn đề đó.",
+    "notes": "Có tranh luận: ý kiến năm 2022 của Viện Đánh giá Rủi ro Liên bang Đức cho rằng trẻ khỏe mạnh sinh đủ tháng có thể dùng nước từ 20 đến 50 ℃ để pha. Cơ quan này nhắc rằng phần lớn nhà sản xuất cũng ghi trên hộp mức 40 đến 50 ℃. Lý do họ đưa ra là nước 70 ℃ nguội rất nhanh sau khi rót vào bình, thực tế diệt được ít vi khuẩn hơn mức tính toán. Nước nóng còn làm mất một phần dinh dưỡng; cho bú khi chưa nguội có thể làm trẻ bị bỏng. Năm 2004, Hiệp hội Tiêu hóa, Gan mật và Dinh dưỡng Nhi khoa châu Âu cũng không tán thành pha bằng nước sôi vì lo phá hủy vitamin và lợi khuẩn được thêm vào sữa. WHO và Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc vẫn khuyến nghị từ 70 ℃ trở lên. Trẻ sinh non, trẻ có cân nặng lúc sinh dưới 2500 gram, trẻ chưa đủ 2 tháng tuổi và trẻ miễn dịch kém có nguy cơ cao nhất; cần pha ở 70 ℃ hoặc hỏi bác sĩ. Với trẻ khỏe mạnh sinh đủ tháng, ý kiến của Đức cho rằng pha theo nhiệt độ trên hộp có nguy cơ nhiễm cực thấp. Ngưỡng 70 ℃ xuất phát từ hướng dẫn y tế công cộng. Nguyên văn Beary và cộng sự nêu: “Hướng dẫn y tế công cộng dành cho người chăm sóc trẻ nhũ nhi nguy cơ cao khuyến nghị pha sữa công thức bột bằng nước được đun đến ít nhất 70 ℃ (158 ℉) để bất hoạt vi sinh vật”. Đừng dùng nước để cả ngày trong bình giữ nhiệt để pha. Cũng đừng để sữa đã pha ở nhiệt độ phòng chờ đến cữ sau mới cho bú.",
+    "extra": ""
+  }
+}

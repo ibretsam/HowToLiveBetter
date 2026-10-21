@@ -1,0 +1,35 @@
+{
+  "id": "e-12-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "cd600184a40c67a6afc54fb89164896193f138fc0b6050dd082abac8f5ae75a5",
+  "original": {
+    "number": 1,
+    "title": "只拿亏得起的钱创业，不动家底、不借钱开张",
+    "fields": {
+      "cost": "不花钱。动手前先给自己定一个数：这笔钱全亏光，也不影响你还房贷、养孩子、看病。超过这个数就不投。家里人的钱和借来的钱，不算在这个数里。难的是生意看着有起色的时候，忍住不再往里追加。",
+      "plain": "个体户欠的钱，要拿你自己名下的钱和东西还。分不清是不是全家一起做的，就拿全家的财产还。开公司也不保险：公司还不上债的时候，你当初答应出、还没到期的那笔出资，债主可以要求你提前掏出来。所以投多少，按「全亏光也照样还房贷、看病」来定。",
+      "benefit": "亏了不只是钱没了。个体工商户欠的债，如果生意是你一个人做的，要拿你自己名下的钱和东西还（以个人财产承担）。如果是全家一起做的，或者分不清是谁做的，要拿全家的钱和东西还（以家庭财产承担）。夫妻两人都签了字的债，算两个人一起还的共同债务。一方事后点了头的，也算。一方用自己名义借的钱，只要债主能证明这笔钱用在了两口子一起做的生意上，照样两个人一起还。公司这边也有一条。股东当初在注册资本里答应出的钱叫认缴出资。公司还不上到期的债时，其中还没到缴纳期限的那笔，债主可以要求他提前交出来（全国）",
+      "grade": "B",
+      "sources": "全国人大 (2020). 民法典（第五十六、一千零六十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2023). 公司法（2023 年修订，第四十七、五十四条）. <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>",
+      "notes": "「亏得起」的意思是：这笔钱全亏掉，你也不用卖房，不用找亲戚借钱补窟窿。有多少企业能活下来、平均活几年，这类官方统计本次在国家统计局和市场监管总局官网都没找到能核实的原文。所以正文不写数字，只写法律后果，定 B 级。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chỉ dùng khoản tiền có thể chấp nhận mất để khởi nghiệp; không đụng vào tài sản nền tảng của gia đình, không vay để bắt đầu kinh doanh",
+    "cost": "Không tốn tiền. Trước khi bắt đầu, hãy đặt một giới hạn: dù mất sạch khoản này, bạn vẫn trả được vay nhà, nuôi con và khám chữa bệnh. Không đầu tư quá giới hạn đó. Không tính tiền của người nhà và tiền đi vay vào khoản này. Điều khó là kiềm chế không rót thêm khi việc kinh doanh có vẻ khởi sắc.",
+    "plain": "Hộ kinh doanh cá thể mắc nợ thì phải trả bằng tiền và tài sản đứng tên bạn. Không phân biệt được có phải cả nhà cùng kinh doanh hay không thì phải dùng tài sản cả nhà trả. Mở công ty cũng chưa chắc an toàn: khi công ty không trả được nợ, chủ nợ có thể yêu cầu bạn nộp sớm khoản vốn đã cam kết góp dù chưa đến hạn. Vì vậy, hãy chọn số vốn theo nguyên tắc mất sạch vẫn trả được vay nhà và khám chữa bệnh.",
+    "benefit": "Thua lỗ không chỉ là mất vốn. Hộ kinh doanh cá thể mắc nợ, nếu một mình bạn kinh doanh thì phải trả bằng tiền và tài sản đứng tên mình, tức chịu trách nhiệm bằng tài sản cá nhân. Nếu cả nhà cùng làm hoặc không xác định được ai làm, phải trả bằng tiền và tài sản cả gia đình. Khoản nợ cả vợ và chồng cùng ký là nợ chung, cả hai cùng trả. Một bên đồng ý sau đó cũng vậy. Một bên vay dưới tên riêng, chỉ cần chủ nợ chứng minh tiền dùng cho việc kinh doanh chung của vợ chồng thì cả hai vẫn phải trả. Với công ty cũng có một quy định. Số tiền cổ đông hứa góp trong vốn đăng ký gọi là vốn cam kết góp. Khi công ty không trả được nợ đến hạn, chủ nợ có thể yêu cầu cổ đông nộp sớm phần vốn cam kết chưa đến hạn góp (toàn quốc).",
+    "notes": "“Có thể chấp nhận mất” nghĩa là mất sạch khoản tiền này cũng không phải bán nhà hay vay người thân để bù lỗ. Lần này chưa tìm được bản gốc có thể kiểm chứng trên trang Cục Thống kê Quốc gia và Tổng cục Quản lý thị trường về tỷ lệ doanh nghiệp tồn tại hay số năm tồn tại trung bình. Vì vậy nội dung không nêu số liệu đó, chỉ nêu hậu quả pháp lý, xếp mức B.",
+    "extra": ""
+  }
+}

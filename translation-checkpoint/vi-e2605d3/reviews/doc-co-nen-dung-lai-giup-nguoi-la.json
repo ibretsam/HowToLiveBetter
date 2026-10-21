@@ -1,0 +1,15 @@
+{
+  "id": "doc-co-nen-dung-lai-giup-nguoi-la",
+  "source_sha256": "5e69438439602920ae982b610213d59b87f93e70c9a8b31070df9e246b08c0f7",
+  "draft_sha256": "6d5a7740b215aaa479e873af1ea86bffef70f3b531b2a15bba2696aad58f22bd",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual article comparison, including complete three-choice table, seven cost sections, three exceptions, five action steps and all eight source references/URLs. Preserved explicit absence of probabilities, China/Germany distinction and323cconditions, ordinary6month plus special6month extension vs3month simplified process,500/1000CNY and5–10/10–15days,2N,2024-08-01/2026-01-01dates,2022/2023/2024citationdates. CPR update requires no response AND no normal breathing. No translation correction needed. Broad source medical/legal assertions (no moving and rescue immunity, journalist exception, callback privacy) remain source caveats, not newly validated guidance."
+}

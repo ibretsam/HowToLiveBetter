@@ -1,0 +1,35 @@
+{
+  "id": "e-2-33",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "3d8e80967dbd9b009508319fd952cb946f72ce4586a78935f58c8d68a320b5f5",
+  "original": {
+    "number": 33,
+    "title": "每周吃四次以上辣椒",
+    "fields": {
+      "cost": "不花钱，也不占时间。",
+      "plain": "意大利一项研究里，每周吃四次以上辣椒的人，同期死亡的概率比很少吃的人低约 23%，心血管死亡低约三分之一。",
+      "benefit": "意大利一项 2.28 万人的研究，其中一半人跟踪满了 8.2 年，共 1236 人去世。每周吃辣椒 4 次以上的人，死亡风险比很少吃的人低约 23%（风险比 0.77，95% CI 0.66–0.90，可信范围）。心血管死亡低约 34%（0.66，0.50–0.86）",
+      "grade": "B",
+      "sources": "Bonaccio M, Di Castelnuovo A, Costanzo S, et al. (2019). Chili Pepper Consumption and Mortality in Italian Adults. Journal of the American College of Cardiology, 74(25), 3139-3149. <https://doi.org/10.1016/j.jacc.2019.09.068>",
+      "notes": "争议在于：这是在地中海饮食的背景下做的跟踪记录，吃辣的人可能整体饮食更接近当地的传统吃法。还要注意，有胃食管反流、痔疮、肠易激的人，吃辣可能加重症状，不必勉强。这是作者经验，没有找到专门的研究"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ăn ớt từ bốn lần trở lên mỗi tuần",
+    "cost": "Không tốn tiền hay thời gian.",
+    "plain": "Trong một nghiên cứu ở Ý, người ăn ớt từ bốn lần trở lên mỗi tuần có khả năng tử vong trong cùng thời gian thấp hơn khoảng 23% so với người hiếm ăn, tử vong tim mạch thấp hơn khoảng một phần ba.",
+    "benefit": "Một nghiên cứu ở Ý gồm 2.28 vạn người, một nửa được theo dõi đủ 8.2 năm, có 1236 người qua đời. Người ăn ớt từ 4 lần trở lên mỗi tuần có nguy cơ tử vong thấp hơn khoảng 23% so với người hiếm ăn (tỷ số nguy cơ 0.77, 95% CI 0.66–0.90, khoảng tin cậy), tử vong tim mạch thấp hơn khoảng 34% (0.66, 0.50–0.86).",
+    "notes": "Điểm còn tranh luận: đây là theo dõi ghi nhận trong bối cảnh chế độ ăn Địa Trung Hải; người ăn cay có thể có chế độ ăn tổng thể gần với cách ăn truyền thống địa phương hơn. Cũng cần lưu ý, người trào ngược dạ dày-thực quản, trĩ, hội chứng ruột kích thích có thể nặng triệu chứng hơn khi ăn cay, không cần ép mình. Đây là kinh nghiệm của tác giả, chưa tìm được nghiên cứu chuyên biệt.",
+    "extra": ""
+  }
+}

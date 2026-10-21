@@ -1,0 +1,35 @@
+{
+  "id": "e-12-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "93c96131be558d07eb988da3915cf9fd0b701e7b72d55997365e5861c5878dc8",
+  "original": {
+    "number": 20,
+    "title": "进货一批留一批票据和上家信息，进货价明显低于市场价的不进：员工替公司进的假货，算公司犯罪时老板也是被判的那个",
+    "fields": {
+      "cost": "不花钱。每批货都留好这几样：采购合同、发票、付款记录、上家的营业执照和授权文件。再定一条内部规矩：谁进的货谁签字，价格明显低于市场价的一律不进。难的是放过那些看着很赚钱的低价货。",
+      "plain": "卖假货，挣到 3 万，或者卖到 5 万，就够判刑，判 3 年以下。没卖出去的货，货值到了销售标准的三倍也算。「我不知道是假的」不由你说了算：进货价明显低于市场价又说不出理由，就可以认定你知情。留住采购合同、发票、付款记录和上家信息，才有免赔那条路。",
+      "benefit": "明知是假冒注册商标的商品还卖，挣到的钱（违法所得）够 3 万元，就到了要判刑的门槛。卖出去的金额够 5 万元，也一样。判 3 年以下，同时罚钱，或者只罚钱。达到这个标准十倍的，判 3 到 10 年并罚钱。货还压在仓库没卖出去也算：货值到了销售金额标准三倍以上的，同样构成犯罪。「明知」不用你自己承认。最高人民法院和最高人民检察院 2025 年的司法解释，列了五种可以直接认定你知情的情形。你拿得出证据证明确实不知道的除外。一是知道商品上的注册商标被涂改、调换或者覆盖。二是伪造、涂改商标注册人授权文件，或者知道该文件被伪造、涂改。三是因销售假冒商品受过刑事或者行政处罚，又销售同一种的。四是无正当理由，以明显低于市场价格进货或者销售的。五是被行政执法机关、司法机关发现后，转移、销毁侵权商品和会计凭证等证据，或者提供虚假证明的。公司犯这一条的，「对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员」按同一条处罚。就是公司罚钱，拍板的负责人和经手的人按同一条判。所以公司犯这一条时，货就算是员工进的，拍板的那个人也要挨判。反过来，商标法留了一条出路：卖的时候确实不知道这货侵犯了别人的注册商标，「能证明该商品是自己合法取得并说明提供者的，不承担赔偿责任」。能不能免赔，全看有没有票据和上家信息，没留就用不上这一条（全国，司法解释 2025 年 4 月 26 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020). 刑法修正案（十一）（第十七、二十四项，即刑法第二百一十四、二百二十条）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；最高人民法院、最高人民检察院 (2025). 关于办理侵犯知识产权刑事案件适用法律若干问题的解释（法释〔2025〕5 号，2025 年 4 月 26 日起施行）. <https://www.spp.gov.cn/xwfbh/wsfbt/202504/t20250424_693977.shtml>；全国人大常委会 (2019). 商标法（2019 年修正，第五十七、六十四条；2026 年 6 月 26 日修订后为第七十二、七十八条，自 2027 年 1 月 1 日起施行）. <https://www.cnipa.gov.cn/art/2019/7/30/art_95_28179.html>、<https://www.cnipa.gov.cn/art/2026/6/26/art_95_206942.html>",
+      "notes": "化妆品、酒水、母婴、数码、服装是这类案子的高发品类。共同点是同一款货有巨大的价差空间。「渠道货」「尾单」「海外免税」这些说法，都不能替代票据。判刑之外还有一道行政处罚。认定侵权成立的，侵权商品和工具要没收，违法经营额 5 万元以上的还可以并处 5 倍以下罚款。已经进了货才发现不对，立刻停售、封存，再联系品牌方或者市场监管部门。别继续卖，更别把货和账销毁。销毁证据正好落进上面「推定你明知是假货」的第五种情形。用别人的图案见第 21 条（图案要么自己做要么买授权）。有一种套路专门打这条：有人主动上门，说这批笔或者别的小商品白送给你，放店里卖了再分钱。过些天就有人来买走、当场取证，再按侵权来索赔。白给的货，免赔要的三个条件恰好全缺：没有采购合同和付款记录，说不出真实的提供者，价格明显不正常。「合法取得并说明提供者」一条都用不上。所以主动送货上门、不给票据、只留一个微信号的，一律不上架。真要做代销，就签书面的代销合同，留下对方的身份证和营业执照复印件，把货归谁、侵权了算谁的写进去。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mỗi lô nhập giữ chứng từ và thông tin nhà cung cấp; không nhập giá thấp bất thường: nhân viên nhập hàng giả, nếu thành tội của công ty thì chủ cũng bị kết án",
+    "cost": "Không tốn tiền. Mỗi lô giữ hợp đồng mua, hóa đơn, lịch sử thanh toán, giấy phép kinh doanh và giấy ủy quyền của nhà cung cấp. Đặt quy định nội bộ: ai nhập thì ký, giá thấp rõ rệt so với thị trường đều không nhập. Điều khó là bỏ qua hàng rẻ trông rất có lãi.",
+    "plain": "Bán hàng giả, thu lợi đủ 3 vạn hoặc bán đủ 5 vạn đã đến ngưỡng hình sự, khung đến 3 năm tù. Hàng chưa bán mà trị giá đủ ba lần ngưỡng doanh số cũng tính. “Tôi không biết là giả” không do bạn tự quyết: nhập giá thấp rõ rệt mà không giải thích được lý do có thể bị xác định là biết. Giữ hợp đồng mua, hóa đơn, lịch sử thanh toán và thông tin nhà cung cấp mới có đường miễn bồi thường.",
+    "benefit": "Biết hàng giả mạo nhãn hiệu đã đăng ký mà vẫn bán, thu nhập bất hợp pháp đủ 3 vạn nhân dân tệ là đến ngưỡng xử lý hình sự. Doanh số đủ 5 vạn nhân dân tệ cũng vậy. Phạt đến 3 năm tù kèm phạt tiền hoặc chỉ phạt tiền. Đạt mười lần ngưỡng này thì phạt từ 3 đến 10 năm tù và phạt tiền. Hàng còn trong kho chưa bán cũng tính: trị giá từ ba lần ngưỡng doanh số trở lên vẫn cấu thành tội. Việc biết rõ không cần bạn tự nhận. Giải thích tư pháp năm 2025 của Tòa án và Viện Kiểm sát Nhân dân Tối cao nêu năm tình huống có thể trực tiếp xác định bạn biết, trừ khi bạn có chứng cứ chứng minh thực sự không biết. Một là biết nhãn hiệu đăng ký trên hàng bị sửa, đổi hoặc che. Hai là làm giả, sửa giấy ủy quyền của chủ nhãn hiệu, hoặc biết giấy đó giả, bị sửa. Ba là từng bị xử lý hình sự hoặc hành chính vì bán hàng giả mạo rồi lại bán cùng loại. Bốn là không có lý do chính đáng mà nhập hoặc bán giá thấp rõ rệt so với thị trường. Năm là sau khi cơ quan hành chính, tư pháp phát hiện, chuyển hoặc hủy hàng vi phạm, chứng từ kế toán và chứng cứ khác, hoặc cung cấp chứng nhận giả. Công ty phạm tội này thì “phạt tiền đơn vị, và xử người quản lý trực tiếp chịu trách nhiệm cùng những người trực tiếp chịu trách nhiệm khác” theo cùng điều. Công ty bị phạt tiền, người quyết định và người trực tiếp làm bị xử theo điều đó. Vì vậy, dù nhân viên nhập hàng, người quyết định vẫn bị kết án khi công ty phạm tội. Ngược lại, Luật Nhãn hiệu cho một lối miễn bồi thường: khi bán thực sự không biết hàng xâm phạm nhãn hiệu đăng ký của người khác, “chứng minh được mình có hàng hợp pháp và nêu rõ người cung cấp thì không chịu trách nhiệm bồi thường”. Có được miễn hay không phụ thuộc chứng từ và thông tin nhà cung cấp; không giữ thì không dùng được quy định này (toàn quốc, giải thích tư pháp có hiệu lực từ ngày 26 tháng 4 năm 2025).",
+    "notes": "Mỹ phẩm, đồ uống có cồn, đồ mẹ và bé, thiết bị số, quần áo là nhóm thường gặp các vụ này. Điểm chung là cùng mẫu hàng nhưng chênh giá rất lớn. Những cách gọi “hàng kênh riêng”, “hàng dư đơn”, “miễn thuế nước ngoài” không thay được chứng từ. Ngoài hình sự còn có xử phạt hành chính. Xác định có xâm phạm thì hàng và dụng cụ bị tịch thu; doanh số bất hợp pháp từ 5 vạn nhân dân tệ trở lên còn có thể bị phạt tối đa 5 lần. Đã nhập rồi mới thấy bất thường thì dừng bán, niêm giữ ngay và liên hệ chủ thương hiệu hoặc cơ quan quản lý thị trường. Đừng bán tiếp, càng không hủy hàng và sổ sách. Hủy chứng cứ chính là tình huống thứ năm để suy đoán bạn biết hàng giả. Dùng hình của người khác xem mục 21 (tự làm hình hoặc mua quyền sử dụng). Có thủ đoạn khai thác quy định này: người chủ động tới tặng lô bút hoặc hàng nhỏ, bảo cứ bán tại cửa hàng rồi chia tiền. Ít hôm sau có người tới mua, thu chứng cứ ngay tại chỗ rồi đòi bồi thường xâm phạm. Với hàng cho không, ba điều kiện cần để miễn bồi thường đều thiếu: không có hợp đồng mua và lịch sử thanh toán, không nêu được nhà cung cấp thật, giá rõ ràng bất thường. Quy định “có được hợp pháp và nêu rõ nhà cung cấp” không áp dụng được. Vì vậy hàng chủ động mang đến, không chứng từ, chỉ để lại tài khoản WeChat thì không bày bán. Nếu thực sự bán ký gửi, ký hợp đồng bằng văn bản, giữ bản sao giấy tờ tùy thân và giấy phép kinh doanh của đối phương, ghi rõ hàng thuộc ai và ai chịu trách nhiệm nếu xâm phạm.",
+    "extra": ""
+  }
+}

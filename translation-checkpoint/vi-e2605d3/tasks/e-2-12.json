@@ -1,0 +1,35 @@
+{
+  "id": "e-2-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "5048550e168da1da76f713086a972ca86701647ff3eebc7123ed1d9399f4acb1",
+  "original": {
+    "number": 12,
+    "title": "成年后定期查血脂，40 岁前每 2 到 5 年一次、40 岁起每年一次；有高血压、高血脂就按医嘱规律吃药，别自行停",
+    "fields": {
+      "cost": "集采的降压药和他汀每月几元到几十元。每天吃一次，花不了多少时间。难在要一直吃下去，不能觉得没事了就停。查血脂要抽一管血。65 岁以上每年有一次免费体检，里面就有血脂，见第 6 节第 18 条（通用体检套餐）。",
+      "plain": "血压里的高压每降 10 mmHg，死亡的概率降约 13%，中风降约 27%。他汀把低密度胆固醇降 1 个单位，死亡的概率降约一成。按时吃药的人比经常漏吃的人，死亡的概率低三成到四成半。血脂 40 岁前每 2 到 5 年查一次，40 岁起每年查。",
+      "benefit": "把多项随机分组试验合起来算：收缩压每降 10 mmHg，死亡风险低约 13%（RR 0.87）。收缩压就是血压里的高压。主要心血管事件低约 20%（RR 0.80）。卒中低约 27%（RR 0.73）。心衰低约 28%（RR 0.72）。吃他汀让低密度脂蛋白胆固醇（LDL）往下降。LDL 每降 1.0 mmol/L，死亡风险低约 10%（RR 0.90）。同样这一降，主要血管事件低约 22%（RR 0.78）。另外把多项跟踪研究合起来算，只记录、不分组。按医嘱吃到 ≥80% 的人，死亡风险比经常漏吃的人低。他汀这一项低约 45%（RR 0.55）。降压药这一项低约 29%（RR 0.71）。多久查一次血脂，按健康中国行动的建议：40 岁以下血脂正常的人每 2 到 5 年查一次。40 岁及以上的人至少每年查一次。心脑血管病高危的人每 6 个月查一次。2023 年版中国血脂管理指南对 40 岁前后的写法相同，高危的人改成按个人需要查。",
+      "grade": "A",
+      "sources": "Ettehad D 等 (2016). Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis. Lancet. <https://doi.org/10.1016/S0140-6736(15)01225-8>；Cholesterol Treatment Trialists' (CTT) Collaboration (2010). Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170 000 participants in 26 randomised trials. Lancet. <https://doi.org/10.1016/S0140-6736(10)61350-5>；Chowdhury R 等 (2013). Adherence to cardiovascular therapy: a meta-analysis of prevalence and clinical consequences. European Heart Journal. <https://doi.org/10.1093/eurheartj/eht295>；健康中国行动推进委员会 (2019). 健康中国行动（2019—2030年），（十一）心脑血管疾病防治行动（湖南省卫生健康委员会转载）. <https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/tzggzcfg/202003/t20200303_11359594.html>；Joint Committee on the Chinese Guidelines for Lipid Management (2023). 中国血脂管理指南（2023 年）. 中华心血管病杂志, 51(3), 221-255. <https://doi.org/10.3760/cma.j.cn112148-20230119-00038>；Li JJ 等 (2023). 2023 Chinese guideline for lipid management. Frontiers in Pharmacology, 14, 1190934（上一份指南的英文版，中文原文未取得，相关内容按英文版核对）. <https://doi.org/10.3389/fphar.2023.1190934>",
+      "notes": "只有医生判断该吃药的人才照这个做，健康人不用吃。查血脂多久一次是官方给的建议，没有试验比过几年查一次最好。家里有人得了家族性高胆固醇血症（天生胆固醇特别高的遗传病），他的一级、二级亲属都要去查血脂。父母总胆固醇 ≥6.2 mmol/L 的，孩子也该查。一级、二级亲属里有男性 55 岁前、女性 65 岁前得过心梗、中风或猝死的，孩子也该查。「坚持吃药」那组数字来自跟踪记录，能坚持吃药的人本身也更自律，所以会把好处说大。前面两组随机分组试验的数字更可靠。本节没有单独列控制血糖这一条：把血糖压得更低对总死亡率的好处，证据不像血压、血脂那样一致。有高血压、糖尿病的每年查肾，见第 16 节第 13 条（尿白蛋白肌酐比）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Từ tuổi trưởng thành, kiểm tra lipid máu định kỳ: trước 40 tuổi mỗi 2 đến 5 năm, từ 40 tuổi mỗi năm; tăng huyết áp, tăng lipid máu thì dùng thuốc đều theo bác sĩ, đừng tự ngừng",
+    "cost": "Thuốc hạ huyết áp và statin qua đấu thầu tập trung tốn vài đến vài chục nhân dân tệ mỗi tháng. Uống mỗi ngày một lần, không mất nhiều thời gian. Khó ở chỗ phải dùng liên tục, không được thấy ổn rồi ngừng. Kiểm tra lipid máu cần lấy một ống máu. Người từ 65 tuổi trở lên được khám sức khỏe miễn phí mỗi năm một lần, gồm lipid máu, xem mục 18 phần 6 (gói khám sức khỏe tổng quát).",
+    "plain": "Mỗi khi huyết áp tâm thu, tức số trên, giảm 10 mmHg, khả năng tử vong giảm khoảng 13%, đột quỵ giảm khoảng 27%. Statin làm cholesterol tỷ trọng thấp giảm 1 đơn vị thì khả năng tử vong giảm khoảng một phần mười. Người uống thuốc đúng giờ có khả năng tử vong thấp hơn từ ba mươi đến bốn mươi lăm phần trăm so với người thường quên. Lipid máu nên kiểm tra mỗi 2 đến 5 năm trước tuổi 40, mỗi năm từ tuổi 40.",
+    "benefit": "Gộp nhiều thử nghiệm phân nhóm ngẫu nhiên: mỗi khi huyết áp tâm thu giảm 10 mmHg, nguy cơ tử vong thấp hơn khoảng 13% (RR 0.87). Tâm thu là số trên của huyết áp. Biến cố tim mạch chính thấp hơn khoảng 20% (RR 0.80), đột quỵ thấp hơn khoảng 27% (RR 0.73), suy tim thấp hơn khoảng 28% (RR 0.72). Statin làm giảm cholesterol lipoprotein tỷ trọng thấp (LDL). Mỗi khi LDL giảm 1.0 mmol/L, nguy cơ tử vong thấp hơn khoảng 10% (RR 0.90), đồng thời biến cố mạch máu chính thấp hơn khoảng 22% (RR 0.78). Một tổng hợp khác gồm nhiều nghiên cứu theo dõi chỉ ghi nhận, không phân nhóm. Người dùng thuốc theo chỉ định đạt ≥80% có nguy cơ tử vong thấp hơn người thường quên liều: với statin thấp hơn khoảng 45% (RR 0.55), với thuốc hạ huyết áp thấp hơn khoảng 29% (RR 0.71). Tần suất xét nghiệm lipid máu theo khuyến nghị của Chương trình Hành động Trung Quốc khỏe mạnh: người từ 40 tuổi trở xuống có lipid máu bình thường kiểm tra mỗi 2 đến 5 năm; người từ 40 tuổi trở lên ít nhất mỗi năm; người nguy cơ cao mắc bệnh tim mạch, mạch máu não mỗi 6 tháng. Hướng dẫn quản lý lipid máu Trung Quốc năm 2023 có cách viết giống nhau về trước và sau tuổi 40, nhưng đổi nhóm nguy cơ cao thành kiểm tra theo nhu cầu cá nhân.",
+    "notes": "Chỉ người được bác sĩ xác định cần dùng thuốc mới làm theo; người khỏe mạnh không cần dùng. Tần suất kiểm tra lipid máu là khuyến nghị chính thức, chưa có thử nghiệm so sánh cách bao nhiêu năm kiểm tra là tốt nhất. Gia đình có người tăng cholesterol máu gia đình, bệnh di truyền khiến cholesterol rất cao từ bẩm sinh, thì người thân bậc một và bậc hai của họ đều cần xét nghiệm lipid máu. Cha mẹ có cholesterol toàn phần ≥6.2 mmol/L thì con cũng nên xét nghiệm. Trong người thân bậc một, bậc hai có nam giới bị nhồi máu cơ tim, đột quỵ hoặc đột tử trước tuổi 55, hoặc nữ giới trước tuổi 65, thì trẻ cũng nên xét nghiệm. Các con số của nhóm kiên trì dùng thuốc đến từ theo dõi ghi nhận; người kiên trì dùng thuốc vốn cũng tự giác hơn, nên lợi ích có thể bị phóng đại. Hai nhóm số liệu từ thử nghiệm phân nhóm ngẫu nhiên ở trên đáng tin hơn. Phần này không có mục riêng về kiểm soát đường huyết: bằng chứng về lợi ích giảm tử vong do mọi nguyên nhân khi hạ đường huyết thấp hơn không nhất quán như với huyết áp, lipid máu. Người tăng huyết áp, đái tháo đường kiểm tra thận hằng năm, xem mục 13 phần 16 (tỷ số albumin/creatinine niệu).",
+    "extra": ""
+  }
+}

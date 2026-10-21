@@ -1,0 +1,35 @@
+{
+  "id": "e-7-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "3a03943e68daaff14452cb9b7efab24d29a80eebc3d1e53bc521009a32f852a5",
+  "original": {
+    "number": 3,
+    "title": "打不起官司就申请法律援助，讨薪、赡养费、工伤这类案子本来就在范围内",
+    "fields": {
+      "cost": "不花钱。法律援助不向被援助的人收一分钱。",
+      "plain": "讨薪、要赡养费、要社保或低保待遇、见义勇为受了损失，都能申请免费法律援助。打 12348，或者去当地的法律援助中心。现在不用回原籍开经济困难证明，本人如实说明就行。可能判死刑的，还有盲、聋、哑和未成年的被告人，一律指派律师。",
+      "benefit": "国务院的条例里写明了民事法律援助管哪六类事。条例的原话是：「依法请求国家赔偿的；请求给予社会保险待遇或者最低生活保障待遇的；请求发给抚恤金、救济金的；请求给付赡养费、抚养费、扶养费的；请求支付劳动报酬的；主张因见义勇为行为产生的民事权益的」。说白了就是：要国家赔偿，要社保或低保待遇，要抚恤金救济金，要赡养费抚养费，讨工资，见义勇为受了损失。刑事案件这边，可能判处死刑的被告人，以及盲、聋、哑和未成年的被告人，不看经济状况一律指派律师",
+      "grade": "A",
+      "sources": "国务院 (2003). 法律援助条例（国令第 385 号，第十条、第十一条、第十二条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6944.htm>；司法部有关负责人 (2021). 就贯彻实施法律援助法答记者问. <http://www.gov.cn/zhengce/2021-12/29/content_5665114.htm>",
+      "notes": "法律援助法从 2022 年 1 月 1 日起施行，有一处变化。原来要「提交经济困难证明」。现在改成本人如实说明自己的经济状况就行，不用再回原籍开证明。入口是各地的法律援助中心、公共法律服务中心，也可以打 12348"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không đủ tiền kiện thì xin trợ giúp pháp lý; đòi lương, tiền phụng dưỡng, tai nạn lao động vốn đã nằm trong phạm vi hỗ trợ",
+    "cost": "Không tốn tiền. Trợ giúp pháp lý không thu của người được hỗ trợ một đồng nào.",
+    "plain": "Đòi lương, tiền phụng dưỡng, quyền lợi bảo hiểm xã hội hoặc trợ cấp bảo đảm mức sống tối thiểu, hay chịu thiệt hại vì ra tay giúp người gặp nạn đều có thể xin trợ giúp pháp lý miễn phí. Gọi 12348 hoặc đến trung tâm trợ giúp pháp lý địa phương. Nay không cần về quê xin giấy chứng nhận khó khăn kinh tế, chỉ cần bản thân khai trung thực. Bị cáo có thể bị tử hình, hoặc bị cáo mù, điếc, không nói được, chưa thành niên đều được chỉ định luật sư.",
+    "benefit": "Quy định của Quốc vụ viện nêu rõ sáu loại việc dân sự thuộc phạm vi trợ giúp pháp lý. Nguyên văn là: “Yêu cầu nhà nước bồi thường theo pháp luật; yêu cầu hưởng quyền lợi bảo hiểm xã hội hoặc bảo đảm mức sống tối thiểu; yêu cầu chi trả tiền trợ tuất, trợ cấp cứu trợ; yêu cầu chi trả tiền phụng dưỡng, nuôi con, cấp dưỡng; yêu cầu trả tiền công lao động; yêu cầu bảo vệ quyền và lợi ích dân sự phát sinh từ hành vi dũng cảm giúp người gặp nạn”. Nói dễ hiểu là đòi nhà nước bồi thường, đòi quyền lợi bảo hiểm xã hội hoặc trợ cấp bảo đảm mức sống tối thiểu, tiền trợ tuất và trợ cấp cứu trợ, tiền phụng dưỡng và nuôi con, tiền lương, hoặc chịu thiệt hại vì dũng cảm giúp người gặp nạn. Trong vụ hình sự, bị cáo có thể bị tử hình và bị cáo mù, điếc, không nói được, chưa thành niên đều được chỉ định luật sư, không xét tình hình kinh tế.",
+    "notes": "Luật Trợ giúp pháp lý có hiệu lực từ ngày 1 tháng 1 năm 2022, với một thay đổi. Trước kia phải “nộp giấy chứng nhận khó khăn kinh tế”. Nay chỉ cần bản thân khai trung thực tình hình kinh tế, không phải về quê xin giấy nữa. Có thể đến trung tâm trợ giúp pháp lý, trung tâm dịch vụ pháp luật công tại địa phương, hoặc gọi 12348.",
+    "extra": ""
+  }
+}

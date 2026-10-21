@@ -1,0 +1,35 @@
+{
+  "id": "e-11-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "198803c3fa0ddfad2ab4e9b8af8f8d4698cf64a672df34fb3f0878bb358af41c",
+  "original": {
+    "number": 19,
+    "title": "不搭「AI 中转站」低价转卖境外大模型接口：上海已有站长被刑事拘留",
+    "fields": {
+      "cost": "不花钱。代价是放掉一门门槛低、流水看着不错的副业。真想做模型聚合就走正路，办经营许可、接有官方授权的模型，钱和时间都要花不少",
+      "plain": "AI 中转站就是低价转卖境外大模型接口的网站。上海有个站长自己说，他因此被刑事拘留 37 天，现在取保候审，肯定会被判刑，已经退赔退赃。国家安全部也发过提示，说部分中转站没有运营资质，有的还私自把用户数据传到境外。",
+      "benefit": "国家安全部 2026 年 6 月发布风险提示。提示说，AI 中转站是夹在用户和模型厂商官方服务之间的代理层。部分中转站缺少运营资质。有的没取得数据出境的合规资质，也没走安全评估的法定流程，就把用户输入的数据传到境外服务器。有的还能让用户绕过网络访问、官方授权和跨境传输的限制。《中国新闻周刊》2026 年 6 月报道了一个案子。2026 年 5 月，一名上海的中转站站长在技术社区发了关停声明。他说自己因为非法获取大模型接口，被上海警方刑事拘留 37 天，现在取保候审。他说「将来肯定会被判刑」，已经退赔退赃，还要交罚金。报道说，这类中转站批量注册或购买境外大模型的订阅账号，在海外架服务器当跳板，再低价转卖给国内用户（全国 / 上海）",
+      "grade": "C",
+      "sources": "国家安全部 (2026). 「AI中转站」，风险要防范. <https://www.szzg.gov.cn/2026/xwzx/szkx/202606/t20260608_5331487.htm>（数字中国建设峰会官网转载国家安全部微信公众号）；中国新闻周刊 (2026-06-22). AI中转站，面临整治「风暴」（记者孟倩）. <https://www.chinanews.com/cj/2026/06-22/10644787.shtml>（网页存档 <https://web.archive.org/web/20261005042903/https://www.chinanews.com/cj/2026/06-22/10644787.shtml>）",
+      "notes": "此案只有媒体报道和当事人自述，没有判决，也没有警方通报，按什么罪名办没有官方说法。网上流传的具体罪名和刑期出自律师文章，本书不引。所以不能说「做中转站一定犯罪」，只能说已经有人因此被刑事拘留。正规做模型聚合，收费要办经营许可，见第 26 节第 2 条（收费的网站要许可证）。对公众提供生成式 AI 服务要备案，见本节第 17 条（生成式 AI 安全评估）。把用户数据传到境外有法定条件，见第 26 节第 10 条（用户信息出境）。用中转站的人另有风险，见第 14 节第 10 条（AI 中转站）。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không dựng ‘trạm trung gian AI’ bán lại giá rẻ API của mô hình lớn ở nước ngoài: Thượng Hải đã có người vận hành bị tạm giữ hình sự",
+    "cost": "Không tốn tiền. Cái giá là bỏ một nghề phụ dễ bước vào và có vẻ có doanh thu khá. Nếu thực sự muốn tổng hợp nhiều mô hình thì làm theo đường chính thức: xin giấy phép kinh doanh, kết nối mô hình được cấp phép chính thức; sẽ tốn không ít tiền và thời gian.",
+    "plain": "Trạm trung gian AI là website bán lại giá rẻ API của mô hình lớn ở nước ngoài. Một người vận hành ở Thượng Hải tự nói đã bị tạm giữ hình sự 37 ngày vì việc này, hiện được bảo lĩnh chờ xét xử, chắc chắn sẽ bị tuyên án và đã hoàn trả, bồi thường tiền thu lợi bất chính. Bộ An ninh quốc gia cũng cảnh báo một số trạm không có tư cách vận hành, có trạm còn tự ý truyền dữ liệu người dùng ra nước ngoài.",
+    "benefit": "Tháng 6 năm 2026, Bộ An ninh quốc gia công bố cảnh báo rủi ro. Cảnh báo nói trạm trung gian AI là lớp đại diện nằm giữa người dùng và dịch vụ chính thức của nhà cung cấp mô hình. Một số trạm thiếu tư cách vận hành. Có trạm chưa có đủ điều kiện tuân thủ về đưa dữ liệu ra nước ngoài, cũng chưa làm quy trình đánh giá an ninh theo luật mà đã truyền dữ liệu người dùng nhập lên máy chủ ở nước ngoài. Có trạm còn cho người dùng vượt hạn chế về truy cập mạng, cấp phép chính thức và truyền dữ liệu xuyên biên giới. Tạp chí China Newsweek đưa tin về một vụ vào tháng 6 năm 2026. Tháng 5 năm 2026, một người vận hành trạm trung gian ở Thượng Hải đăng thông báo đóng cửa trên cộng đồng công nghệ. Người này nói vì lấy trái phép API của mô hình lớn nên bị cảnh sát Thượng Hải tạm giữ hình sự 37 ngày, hiện được bảo lĩnh chờ xét xử. Người này nói ‘sau này chắc chắn sẽ bị tuyên án’, đã hoàn trả, bồi thường tiền thu lợi bất chính và còn phải nộp tiền phạt. Bài báo nói các trạm loại này đăng ký hoặc mua hàng loạt tài khoản thuê bao mô hình lớn ở nước ngoài, dựng máy chủ ở nước ngoài làm trung chuyển rồi bán lại giá rẻ cho người dùng trong nước (toàn quốc / Thượng Hải).",
+    "notes": "Vụ này chỉ có tin báo chí và lời kể của đương sự, không có bản án hay thông báo cảnh sát; chưa có thông tin chính thức về tội danh áp dụng. Tội danh và thời hạn tù cụ thể lan truyền trên mạng xuất phát từ bài của luật sư, sách không viện dẫn. Vì vậy không thể nói ‘làm trạm trung gian chắc chắn phạm tội’, chỉ có thể nói đã có người bị tạm giữ hình sự vì việc này. Muốn tổng hợp mô hình một cách chính thức và thu phí thì phải xin giấy phép kinh doanh; xem chương 26 mục 2 về website thu phí phải có giấy phép. Cung cấp dịch vụ AI tạo sinh cho công chúng phải đăng ký; xem mục 17 chương này về đánh giá an ninh AI tạo sinh. Truyền dữ liệu người dùng ra nước ngoài có điều kiện luật định; xem chương 26 mục 10 về thông tin người dùng ra nước ngoài. Người dùng trạm trung gian có rủi ro khác; xem chương 14 mục 10 về trạm trung gian AI. Người hưởng lợi là chính bạn.",
+    "extra": ""
+  }
+}

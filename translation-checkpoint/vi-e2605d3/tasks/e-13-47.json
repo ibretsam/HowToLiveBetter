@@ -1,0 +1,35 @@
+{
+  "id": "e-13-47",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "dc9edeaa699cf76cb09ef3e9da1e6e16638416452c726037b7fa3f1b5889ce12",
+  "original": {
+    "number": 47,
+    "title": "手指、脚趾被切断，先压住伤口止血，断下来的部分用湿纱布包好装进密封袋，袋子放进冰水里，去有手外科的医院",
+    "fields": {
+      "cost": "不花钱。家里备一包干净纱布和几个能封口的塑料袋。难的是慌乱中先顾人再顾断指，还要忍住把断指直接埋进冰里或泡进水里。",
+      "plain": "先用手压住伤口止血，打 120。断下来的部分用湿的干净纱布包好，装进密封袋，袋子再放进冰水里，别直接碰冰，也别直接泡水。不冷着，断指大约只能等 4 到 6 小时。接回去的手指，八成以上能活。",
+      "benefit": "美国国立医学图书馆的 MedlinePlus 急救页写：用手直接压住伤口止血，把伤处抬高。危及生命的出血可以上止血带。断下来的部分要留好，跟着人一起走。断面脏了先轻轻冲一下。用干净的湿布包好，装进密封塑料袋，袋子放进冰水里。不装袋就别放进水里或冰里，也别直接放在冰上。不能用干冰，会冻伤断指。没有冷水，就尽量别让它受热。冷着能让断指等得更久，不冷着「大约只有 4 到 6 小时」还能接。别觉得断下来的部分太小、不值得留。别把断了的部分或骨头往回塞。美国骨科医师学会的指尖离断页写法一致，还说最好去有手外科医生随时在岗的医院。31 项研究合起来看，断指接回去活下来的占 86.8%（成功 1976 指，失败 300 指）。做了再植的 1087 人里，82.9% 回去上班了。另一份 12 项研究的合并分析，再植手指存活率是 85.3%。还有一份 12 项研究、3645 人的合并分析。手术前断指缺血 8 小时以上的，接回去后更容易坏死。几率是不到 8 小时的约 2.25 倍：OR 2.25，95% CI 1.43 到 3.54（可信范围）",
+      "grade": "B",
+      "sources": "MedlinePlus (2024). Traumatic amputation：「Wrap the severed part in a clean, damp cloth, place it in a sealed plastic bag and place the bag in an ice water bath」「Do not put the body part directly in water or ice without using a plastic bag」「Do not put the severed part directly on ice」「Without cooling, the severed part is only good for reattachment for about 4 to 6 hours」. <https://medlineplus.gov/ency/article/000006.htm>；American Academy of Orthopaedic Surgeons. Fingertip Injuries and Amputations：「Do not allow the amputated part to be in direct contact with ice」「Go immediately to the emergency room, preferably at a hospital that has hand specialists immediately available」. <https://orthoinfo.aaos.org/en/diseases--conditions/fingertip-injuries-and-amputations>；Treger D 等 (2026). Return-to-Work After Attempted Digit Replantation: A Systematic Review of 31 Studies. HAND. <https://doi.org/10.1177/15589447241279445>；Stone N 等 (2021). Comparing digital replantation versus revision amputation patient reported outcomes for traumatic digital amputations of the hand: A systematic review and meta-analysis. Microsurgery. <https://doi.org/10.1002/micr.30738>；Yu F 等 (2026). Risk factors associated with postoperative necrosis after digital replantation: a systematic review and meta-analysis. Frontiers in Surgery. <https://doi.org/10.3389/fsurg.2026.1795247>",
+      "notes": "定 B 是因为保存方法来自指南和教科书的共识，存活率来自只跟踪记录的研究。比较不同保存方法的对照试验没有找到。收益定「中」是凭判断：保的是手指，不是命。能不能接、值不值得接，要由医生看伤情决定，压烂的、撕扯下来的比切得整齐的难接。MedlinePlus 也提醒，救命比保住断指要紧，先止血，再管断指。出血压不住的，止血带怎么上见本节第 12 条（大出血先用手死死压住伤口）。家里切菜、门缝夹手、电动工具都可能切断手指。用角磨机的防护见第 1 节第 42 条（装好护罩再用角磨机）。受益的主要是你自己和家里人，尤其是常用电动工具、干体力活的人。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ngón tay, ngón chân bị đứt rời: trước hết ép chặt vết thương để cầm máu, bọc phần đứt rời bằng gạc ẩm rồi cho vào túi kín, đặt túi trong nước đá, đến bệnh viện có chuyên khoa phẫu thuật bàn tay",
+    "cost": "Không tốn tiền. Chuẩn bị sẵn trong nhà một gói gạc sạch và vài túi nhựa có thể đóng kín. Điều khó là trong lúc hoảng loạn phải lo cứu người trước rồi mới lo phần ngón tay đứt rời, đồng thời kiềm chế ý muốn vùi thẳng ngón tay vào đá hoặc ngâm thẳng trong nước.",
+    "plain": "Trước hết dùng tay ép chặt vết thương để cầm máu, gọi 120. Bọc phần đứt rời bằng gạc sạch ẩm, cho vào túi kín rồi đặt túi trong nước đá; đừng để phần đứt rời chạm đá hoặc ngâm trực tiếp trong nước. Nếu không giữ lạnh, ngón tay đứt rời chỉ có thể chờ khoảng 4 đến 6 giờ. Trong số ngón tay được nối lại, hơn tám phần mười có thể sống.",
+    "benefit": "Trang sơ cứu MedlinePlus của Thư viện Y khoa Quốc gia Mỹ viết: dùng tay ép trực tiếp lên vết thương để cầm máu và nâng cao chỗ bị thương. Có thể dùng garô khi chảy máu đe dọa tính mạng. Giữ lại phần đứt rời và mang theo người bị thương. Nếu bề mặt đứt bị bẩn, trước hết rửa nhẹ. Bọc bằng vải sạch ẩm, cho vào túi nhựa kín rồi đặt túi trong nước đá. Không có túi thì đừng cho vào nước hoặc đá, cũng đừng đặt trực tiếp trên đá. Không dùng đá khô vì sẽ làm phần ngón tay đứt rời bị tổn thương do đông lạnh. Nếu không có nước lạnh, cố gắng tránh để phần đứt rời bị nóng. Giữ lạnh giúp ngón tay đứt rời chờ được lâu hơn; nếu không giữ lạnh thì “chỉ khoảng 4 đến 6 giờ” còn có thể nối lại. Đừng cho rằng phần đứt rời quá nhỏ nên không đáng giữ. Đừng nhét phần đứt rời hoặc xương trở lại chỗ cũ. Trang về đứt rời đầu ngón tay của Học viện Bác sĩ Phẫu thuật Chỉnh hình Mỹ hướng dẫn tương tự, đồng thời cho biết tốt nhất nên đến bệnh viện luôn có bác sĩ phẫu thuật bàn tay trực. Gộp 31 nghiên cứu cho thấy tỷ lệ ngón tay sống sau khi nối lại là 86.8% (thành công 1976 ngón, thất bại 300 ngón). Trong 1087 người đã được phẫu thuật nối lại, 82.9% trở lại làm việc. Một phân tích gộp khác gồm 12 nghiên cứu ghi nhận tỷ lệ sống của ngón tay được nối lại là 85.3%. Còn một phân tích gộp gồm 12 nghiên cứu với 3645 người. Ngón tay đứt rời thiếu máu từ 8 giờ trở lên trước phẫu thuật dễ bị hoại tử hơn sau khi nối lại. Odds cao khoảng 2.25 lần so với thiếu máu dưới 8 giờ: OR 2.25, 95% CI từ 1.43 đến 3.54 (khoảng tin cậy).",
+    "notes": "Xếp mức B vì phương pháp bảo quản đến từ đồng thuận trong hướng dẫn và sách giáo khoa, còn tỷ lệ sống đến từ những nghiên cứu chỉ theo dõi, ghi nhận. Chưa tìm thấy thử nghiệm có đối chứng so sánh các phương pháp bảo quản khác nhau. Mức lợi ích “vừa” là theo nhận định: bảo vệ ngón tay, không phải tính mạng. Có nối được không, có đáng nối không cần bác sĩ đánh giá thương tích để quyết định; bị nghiền nát hoặc giằng đứt khó nối hơn bị cắt gọn. MedlinePlus cũng nhắc rằng cứu mạng quan trọng hơn giữ ngón tay đứt rời: cầm máu trước rồi mới lo ngón tay. Nếu ép không cầm được máu, cách dùng garô xem mục 12 chương này (chảy máu nhiều thì trước hết dùng tay ép thật chặt vết thương). Thái thức ăn trong nhà, kẹp tay ở khe cửa và dùng dụng cụ điện đều có thể làm đứt ngón tay. Bảo hộ khi dùng máy mài góc: xem chương 1 mục 42 (lắp chắn bảo vệ trước khi dùng máy mài góc). Người hưởng lợi chủ yếu là bạn và người nhà, nhất là người thường dùng dụng cụ điện hoặc lao động chân tay.",
+    "extra": ""
+  }
+}

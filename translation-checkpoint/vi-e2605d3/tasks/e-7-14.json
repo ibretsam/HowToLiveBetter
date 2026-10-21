@@ -1,0 +1,35 @@
+{
+  "id": "e-7-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "63f7f70f402b3f885509768983a29d0d5535a331e413e089a2770f00238284e5",
+  "original": {
+    "number": 14,
+    "title": "求职别只投简历，用系统方法：学技巧、定目标、找人帮",
+    "fields": {
+      "cost": "不花钱。每天要花 1 到 2 小时，连着做上几周。付费课程可以不报，用公共就业服务机构的免费职业指导代替。难在没人盯着的时候天天坚持，还要主动开口找人帮忙。",
+      "plain": "参加过求职辅导的人，找到工作的几率是没参加的人的 2.67 倍。管用的是这几样：学具体的求职技巧，把自己讲清楚，定明确目标，主动出击，开口找人帮忙。",
+      "benefit": "把 47 项做过对照的求职辅导研究合并起来算。这些研究是实验或者准实验设计，都分了组做比较。结果是：参加辅导的那组，找到工作的几率是没参加那组的 2.67 倍（OR 2.67，即几率之比）。辅导里管用的成分有这几样。一是教求职技巧。二是改善自我呈现（把自己讲清楚）。三是提升自我效能（相信自己做得到）。四是鼓励主动出击。五是设定目标。六是争取社会支持（开口找人帮忙）。既教技能、又能提起劲头的辅导，效果最大",
+      "grade": "A",
+      "sources": "Liu S, Huang JL, Wang M (2014). Effectiveness of job search interventions: a meta-analytic review. Psychological Bulletin 140(4): 1009–1041. <https://doi.org/10.1037/a0035923>",
+      "notes": "这些研究多数在欧美做，形式是成套的小组课程。搬到中国是拿别处的结果套过来，不是国内测出来的。争取社会支持落到实处，就是让熟人帮着介绍和内推，别不好意思开口。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tìm việc đừng chỉ gửi hồ sơ, hãy làm có hệ thống: học kỹ năng, đặt mục tiêu, nhờ người giúp",
+    "cost": "Không tốn tiền. Mỗi ngày dành từ 1 đến 2 giờ, làm liên tục vài tuần. Có thể không đăng ký khóa trả phí mà dùng hướng nghiệp miễn phí của cơ sở dịch vụ việc làm công. Cái khó là ngày nào cũng kiên trì khi không có ai giám sát, còn phải chủ động mở lời nhờ giúp.",
+    "plain": "Ở người đã được hướng dẫn tìm việc, tỷ lệ giữa tìm được việc và không tìm được việc cao gấp 2.67 lần người chưa tham gia. Những cách có tác dụng gồm học kỹ năng tìm việc cụ thể, trình bày rõ về bản thân, đặt mục tiêu rõ ràng, chủ động tìm cơ hội và mở lời nhờ người giúp.",
+    "benefit": "Tổng hợp 47 nghiên cứu hướng dẫn tìm việc có đối chứng. Các nghiên cứu là thí nghiệm hoặc bán thực nghiệm, đều chia nhóm để so sánh. Kết quả: ở nhóm được hướng dẫn, tỷ lệ giữa tìm được việc và không tìm được việc cao gấp 2.67 lần nhóm không được hướng dẫn (OR 2.67, tức tỷ số chênh). Những thành phần hướng dẫn có tác dụng gồm dạy kỹ năng tìm việc; cải thiện cách thể hiện bản thân, tức trình bày rõ về mình; tăng niềm tin vào khả năng bản thân, tức tin mình làm được; khuyến khích chủ động tìm cơ hội; đặt mục tiêu; tìm sự hỗ trợ xã hội, tức mở lời nhờ người giúp. Hướng dẫn vừa dạy kỹ năng vừa tạo được động lực có hiệu quả lớn nhất.",
+    "notes": "Đa số nghiên cứu thực hiện ở châu Âu, Mỹ, dưới hình thức khóa học theo nhóm trọn gói. Áp dụng vào Trung Quốc là vận dụng kết quả nơi khác, không phải số đo trong nước. Tìm sự hỗ trợ xã hội trên thực tế là nhờ người quen giới thiệu việc và giới thiệu nội bộ, đừng ngại mở lời.",
+    "extra": ""
+  }
+}

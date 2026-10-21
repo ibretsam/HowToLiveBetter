@@ -1,0 +1,36 @@
+{
+  "id": "e-1-24",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "b5aaece8fcd8873f52ae06d74fdd00e1f19c9d2bc3905a4694cdfa6a9e114295",
+  "original": {
+    "number": 24,
+    "title": "重度吸烟者每年做一次低剂量胸部 CT",
+    "fields": {
+      "cost": "一次 200 到 400 元，10 分钟做完。另外要算上虚惊一场之后的复查，和那段时间的提心吊胆。",
+      "plain": "符合条件的重度吸烟者每年做一次低剂量 CT，死于肺癌的概率比只拍胸片低 20%。总的死亡概率低 6.7%。代价是查出可疑结果后的复查，和那一段时间的提心吊胆。",
+      "benefit": "美国 NLST 随机试验收了 53,454 人，都是 55 到 74 岁、吸烟史 30 包年以上、戒烟不超过 15 年的人。包年是算烟量的单位，每天一包抽一年算一包年。结果是这样。做低剂量 CT 的人比只拍胸片的人，肺癌死亡相对下降 20.0%。可信范围 95% CI 6.8 到 26.7。总死亡率相对下降 6.7%，可信范围 95% CI 1.2 到 13.6。每人连查三年，三轮合起来，低剂量 CT 有 24.2% 的检查结果可疑。可疑结果里 96.4% 是虚惊一场（假阳性）",
+      "grade": "A",
+      "sources": "National Lung Screening Trial Research Team (2011). Reduced Lung-Cancer Mortality with Low-Dose Computed Tomographic Screening. New England Journal of Medicine：「The rate of positive screening tests was 24.2% with low-dose CT and 6.9% with radiography over all three rounds. A total of 96.4% of the positive screening results in the low-dose CT group and 94.5% in the radiography group were false positive results.」<https://doi.org/10.1056/NEJMoa1102873>",
+      "notes": "这条只适用于高危吸烟者。同一项试验里，三轮低剂量 CT 有 24.2% 的检查结果可疑，其中 96.4% 是虚惊一场（假阳性）。不吸烟的人不在这项试验里，查了有没有好处，这项试验回答不了。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "35岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người hút thuốc nhiều chụp CT ngực liều thấp mỗi năm một lần",
+    "cost": "Mỗi lần tốn 200 đến 400 nhân dân tệ, hoàn thành trong 10 phút. Còn phải tính cả việc kiểm tra lại sau kết quả báo động nhầm và nỗi lo trong thời gian đó.",
+    "plain": "Người hút thuốc nhiều đủ điều kiện, chụp CT liều thấp mỗi năm một lần có xác suất tử vong do ung thư phổi thấp hơn 20% so với chỉ chụp X-quang ngực. Xác suất tử vong do mọi nguyên nhân thấp hơn 6.7%. Đổi lại là việc kiểm tra lại khi có kết quả nghi ngờ và nỗi lo trong thời gian đó.",
+    "benefit": "Thử nghiệm ngẫu nhiên NLST tại Mỹ tuyển 53,454 người, đều từ 55 đến 74 tuổi, có tiền sử hút thuốc từ 30 gói-năm trở lên và đã bỏ thuốc không quá 15 năm. Gói-năm là đơn vị tính lượng thuốc lá: hút mỗi ngày một gói trong một năm được tính là một gói-năm. Kết quả như sau: so với chỉ chụp X-quang ngực, nhóm chụp CT liều thấp có mức giảm tương đối về tử vong do ung thư phổi là 20.0%. Khoảng tin cậy 95% CI 6.8 đến 26.7. Tỷ lệ tử vong do mọi nguyên nhân giảm tương đối 6.7%, khoảng tin cậy 95% CI 1.2 đến 13.6. Mỗi người được sàng lọc liên tiếp ba năm; tính gộp ba vòng, 24.2% kết quả chụp CT liều thấp là nghi ngờ. Trong số kết quả nghi ngờ, 96.4% là báo động nhầm (dương tính giả).",
+    "notes": "Mục này chỉ áp dụng cho người hút thuốc có nguy cơ cao. Trong cùng thử nghiệm, tính cả ba vòng chụp CT liều thấp có 24.2% kết quả nghi ngờ, trong đó 96.4% là báo động nhầm (dương tính giả). Người không hút thuốc không tham gia thử nghiệm này; thử nghiệm không thể trả lời việc sàng lọc có mang lại lợi ích cho họ hay không.",
+    "extra": ""
+  }
+}

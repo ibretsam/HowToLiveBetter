@@ -1,0 +1,15 @@
+{
+  "id": "e-27-15",
+  "source_sha256": "ef3cec49c8c09d5fcb3fc1ce1c33649e86ae0560eb5ca4e73e72c13b6bd8f837",
+  "draft_sha256": "81a129e753d2d9ffb0aab5607b9c7a0d2f30cc353f668862802270798a03ea1f",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves birth/household registration and vaccination certificate as separate one-month duties, vaccination without household registration and nonmarital-child documentation. Corrected cost 户籍窗口 from civil-status desk to household-registration desk (quầy đăng ký hộ khẩu)."
+}

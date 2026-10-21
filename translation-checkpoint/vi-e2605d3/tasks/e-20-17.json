@@ -1,0 +1,36 @@
+{
+  "id": "e-20-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "3dad2b907f38273faf78d9d4665f169c0e880d6cc3a9eaed27291e1da130e2b4",
+  "original": {
+    "number": 17,
+    "title": "给婴儿洗澡先放冷水再兑热水，用手腕内侧或手肘试过再放孩子；能设出水温度的热水器调到 50 ℃ 以下",
+    "fields": {
+      "cost": "不花钱。每次洗澡多花一两分钟试水温。想更稳可以买个水温计。难在孩子哭闹、大人着急的时候也要试过再放",
+      "plain": "65 ℃ 的热水碰上 2 秒，多数大人就会烫成三度烧伤，婴儿皮肤更薄。盆里先放冷水再兑热水，搅匀了用手腕内侧或手肘试过再放孩子，别在开着的水龙头下洗。美国一个州把热水器出厂温度降到 49 ℃ 后，孩子因热水烫伤住院的少了一半多。",
+      "benefit": "美国消费品安全委员会说，多数成年人碰到 150 ℉（约 65 ℃）的水 2 秒就会三度烧伤。碰到 140 ℉（60 ℃）的水 6 秒，或者 130 ℉（约 54 ℃）的水 30 秒，也会烫伤。就算是 120 ℉（49 ℃），泡上 5 分钟也可能三度烧伤。世卫组织的报告说，婴幼儿皮肤比成年人薄，较低的温度就能烫伤，而且烫得更深。美国儿科学会教家长：盆里的水用手腕内侧或手肘试，要「温而不烫」。「绝不要在流动的水下给宝宝洗澡」，因为水在管道里走，温度会忽高忽低，一点变化就可能烫伤。美国华盛顿州 1983 年立法，新热水器出厂要预设在 49 ℃。到 1988 年，家里热水的平均温度从 1977 年的 61 ℃ 降到 50 ℃。孩子因自来水烫伤住院的，从 70 年代每年 5.5 人降到每年 2.4 人。烫伤面积、植皮、死亡和住院天数也都少了。这是前后对比，不是分组试验。澳大利亚规定浴室热水龙头最高 50 ℃。新南威尔士州 1989 到 1996 年，0 到 4 岁孩子因烫伤住院的比率降了 13%。住院 10 天以上的重度烫伤，第二阶段后两年里降了 30%。国内三项儿童烧伤住院统计里，被热的液体烫伤的占 87.6% 到 90.6%，3 岁以下的孩子最多",
+      "grade": "B",
+      "sources": "US Consumer Product Safety Commission. Avoiding Tap Water Scalds (Document 5098). <https://www.cpsc.gov/s3fs-public/5098.pdf>；American Academy of Pediatrics (2025). Bathing Your Baby. HealthyChildren.org. <https://www.healthychildren.org/English/ages-stages/baby/bathing-skin-care/Pages/Bathing-Your-Newborn.aspx>；NHS. Washing and bathing your baby（2024-07-23 审阅）. <https://www.nhs.uk/baby/caring-for-a-newborn/washing-and-bathing-your-baby/>；World Health Organization, UNICEF (2008). World report on child injury prevention, Chapter 4 Burns（同一页有中文版《世界预防儿童伤害报告》）. <https://iris.who.int/handle/10665/43851>；Erdmann TC, Feldman KW, Rivara FP, Heimbach DM, Wall HA (1991). Tap water burn prevention: the effect of legislation. Pediatrics, 88(3), 572-577. <https://europepmc.org/article/MED/1881739>；Xu JH, Qiu J, Zhou JH, et al. (2014). Pediatric burns in military hospitals of China from 2001 to 2007: a retrospective study. Burns, 40(8), 1780-1788. <https://doi.org/10.1016/j.burns.2014.04.003>；Zhu L, Zhang Y, Liu L, et al. (2013). Hospitalized pediatric burns in North China: a 10-year epidemiologic review. Burns, 39(5), 1004-1011. <https://doi.org/10.1016/j.burns.2012.12.014>；Han D, Wei Y, Li Y, et al. (2022). Epidemiological and Clinical Characteristics of 5,569 Pediatric Burns in Central China From 2013 to 2019. Frontiers in Public Health, 10, 751615. <https://doi.org/10.3389/fpubh.2022.751615>；World Health Organization (2007). Legionella and the prevention of legionellosis. <https://iris.who.int/handle/10665/43233>",
+      "notes": "定 B 是因为数字来自前后对比和病历统计，没有分组试验。收益定中凭判断，因为国内洗澡水烫伤的单独数字没查到。热水器分两种。燃气热水器这类即热式的，直接把出水温度设到 50 ℃ 以下。储水式电热水器另算：世卫组织防军团菌的指南建议，热水器出水保持 60 ℃，水龙头热水不低于 50 ℃。军团菌是一种会引起肺炎的细菌。同一份指南也说，防军团菌不能增加孩子被烫的风险，可以在出水口装恒温混水阀。没装的，就靠先冷后热、试过再放。洗的时候人别走开。美国儿科学会说，在浴缸里淹死的孩子一半以上不满 1 岁，见第 1 节第 12 条（近水不离视线）。抱着孩子时别端热水热汤：世卫组织说，在高收入国家，1 岁以下婴儿最常见的是被杯子里的热饮烫伤。烫着了先冲凉水，见第 13 节第 14 条（烫伤后冲凉水）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tắm cho trẻ nhũ nhi thì cho nước lạnh trước rồi pha nước nóng, thử bằng mặt trong cổ tay hoặc khuỷu tay trước khi đặt trẻ vào; bình nước nóng chỉnh được nhiệt độ đầu ra thì đặt ở 50 ℃ trở xuống",
+    "cost": "Không tốn tiền. Mỗi lần tắm mất thêm một hai phút thử nhiệt độ nước. Muốn chắc chắn hơn có thể mua nhiệt kế đo nước. Khó là dù trẻ quấy khóc, người lớn đang vội vẫn phải thử rồi mới đặt trẻ vào.",
+    "plain": "Nước nóng 65 ℃ tiếp xúc trong 2 giây đã làm phần lớn người lớn bị bỏng độ ba, da trẻ nhũ nhi còn mỏng hơn. Cho nước lạnh vào chậu trước rồi pha nước nóng, khuấy đều và thử bằng mặt trong cổ tay hoặc khuỷu tay trước khi đặt trẻ vào; đừng tắm dưới vòi đang chảy. Sau khi một bang ở Mỹ hạ nhiệt độ cài sẵn của bình nước nóng xuống 49 ℃, số trẻ nhập viện vì bỏng nước nóng giảm hơn một nửa.",
+    "benefit": "Ủy ban An toàn Sản phẩm Tiêu dùng Mỹ nêu phần lớn người trưởng thành tiếp xúc với nước 150 ℉, khoảng 65 ℃, trong 2 giây sẽ bị bỏng độ ba. Tiếp xúc nước 140 ℉ (60 ℃) trong 6 giây, hoặc 130 ℉, khoảng 54 ℃, trong 30 giây cũng gây bỏng. Ngay cả nước 120 ℉ (49 ℃), ngâm trong 5 phút cũng có thể gây bỏng độ ba. Báo cáo của WHO nêu da trẻ nhũ nhi và trẻ nhỏ mỏng hơn người trưởng thành, có thể bị bỏng ở nhiệt độ thấp hơn và bỏng sâu hơn. Viện Hàn lâm Nhi khoa Hoa Kỳ hướng dẫn cha mẹ dùng mặt trong cổ tay hoặc khuỷu tay thử nước trong chậu, nước phải “ấm nhưng không nóng”. “Tuyệt đối không tắm cho bé dưới dòng nước đang chảy”, vì khi nước đi qua đường ống, nhiệt độ có thể lúc nóng lúc lạnh; chỉ thay đổi một chút cũng có thể gây bỏng. Bang Washington của Mỹ ban hành luật năm 1983 yêu cầu bình nước nóng mới phải được cài sẵn ở 49 ℃ khi xuất xưởng. Đến năm 1988, nhiệt độ nước nóng trung bình trong nhà giảm từ 61 ℃ năm 1977 xuống 50 ℃. Số trẻ nhập viện vì bỏng nước vòi giảm từ 5.5 trẻ mỗi năm trong thập niên 70 xuống 2.4 trẻ mỗi năm. Diện tích bỏng, nhu cầu ghép da, tử vong và số ngày nằm viện cũng giảm. Đây là so sánh trước và sau, không phải thử nghiệm chia nhóm. Australia quy định nước nóng tại vòi phòng tắm tối đa 50 ℃. Tại New South Wales từ năm 1989 đến 1996, tỷ lệ nhập viện do bỏng ở trẻ từ 0 đến 4 tuổi giảm 13%. Bỏng nặng cần nằm viện từ 10 ngày trở lên giảm 30% trong hai năm cuối của giai đoạn thứ hai. Trong ba thống kê trẻ nằm viện vì bỏng ở Trung Quốc, bỏng do chất lỏng nóng chiếm 87.6% đến 90.6%, thường gặp nhất ở trẻ từ 3 tuổi trở xuống.",
+    "notes": "Xếp mức B vì số liệu đến từ so sánh trước và sau cùng thống kê hồ sơ bệnh án, không có thử nghiệm chia nhóm. Mức lợi ích trung bình dựa trên nhận định vì chưa tìm được số liệu riêng về bỏng nước tắm tại Trung Quốc. Bình nước nóng có hai loại. Loại làm nóng tức thời như máy dùng gas thì trực tiếp đặt nhiệt độ nước ra ở 50 ℃ trở xuống. Bình điện có bồn chứa cần xét riêng: hướng dẫn phòng Legionella của WHO khuyến nghị giữ nước ra khỏi bình ở 60 ℃ và nước nóng tại vòi không thấp hơn 50 ℃. Legionella là vi khuẩn có thể gây viêm phổi. Cùng hướng dẫn đó cũng nói phòng Legionella không được làm tăng nguy cơ bỏng ở trẻ, có thể lắp van trộn ổn nhiệt tại đầu ra. Nếu chưa lắp, hãy dựa vào cách cho nước lạnh trước, nước nóng sau và thử trước khi đặt trẻ vào. Đang tắm thì người lớn không được bỏ đi. Viện Hàn lâm Nhi khoa Hoa Kỳ nói từ một nửa số trẻ chết đuối trong bồn tắm trở lên chưa đủ 1 tuổi, xem chương 1 mục 12 (gần nước thì không rời mắt). Đang bế trẻ thì đừng cầm nước nóng hay canh nóng: WHO nói ở các nước thu nhập cao, dạng bỏng thường gặp nhất ở trẻ từ 1 tuổi trở xuống là do đồ uống nóng trong cốc. Khi bị bỏng, trước tiên xả nước mát, xem chương 13 mục 14 (xả nước mát sau bỏng).",
+    "extra": ""
+  }
+}

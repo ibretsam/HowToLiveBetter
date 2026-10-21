@@ -1,0 +1,15 @@
+{
+  "id": "e-15-17",
+  "source_sha256": "a455b0049dbd6fa040a66482d0c3307d58d3f927e7b457105b393f0901d04b0c",
+  "draft_sha256": "1806a5586bfa9eb674e5634c08ea8c0e8a90e182d8d12696a67bdefa4864a1dc",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves property-fee versus utility-bill distinction, notice and reasonable-period conditions, unauthorized charges and remedy costs. Translation review does not independently verify current law or source advice."
+}

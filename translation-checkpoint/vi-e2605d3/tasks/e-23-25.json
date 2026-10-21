@@ -1,0 +1,35 @@
+{
+  "id": "e-23-25",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "310de4bd8d33f9a3d4bca28b79ba189a544849a1c523366ad7d5ebb01922c23d",
+  "original": {
+    "number": 25,
+    "title": "硕士毕业要不要接着读博士：目标岗位明确要博士才读，读之前把心理负担也算进去",
+    "fields": {
+      "cost": "不花钱。去目标单位的招聘公告里查一遍学历要求，再找两三个在读博士聊一次。",
+      "plain": "同一项英国研究里，扣掉家庭和本科成绩的差别后，35 岁时博士比只读本科的女性多挣约 8%，男性反而少挣约 9%。读博的心理负担也重，各国博士生里约四分之一有明显的抑郁症状，约六分之一有明显的焦虑症状。所以先看目标工作是否非博士不招，再决定读不读。",
+      "benefit": "本节第 24 条（读硕士）引的英国教育部 2020 年研究，也算了博士。原文是「8% (women) and -9% (men) for PhDs」：扣掉家庭背景和本科成绩的差别后，35 岁时博士比只读本科的女性多挣约 8%，男性少挣约 9%。研究还发现，博士降低了失业和年收入低于 3 万英镑的可能，也降低了年收入超过 4 万英镑的可能。不同学科差别大，数学博士的回报特别低，心理学博士是回报最高的之一。读博期间的心理负担看 2021 年的一篇汇总分析。16 项研究、23469 名博士生里，有明显抑郁症状的合计约 24%（95% CI 18%–31%，可信范围）。9 项研究、15626 名博士生里，有明显焦虑症状的约 17%（12%–23%）。各研究之间差别很大（I² 约 98%）。国内的花费照 2013 年意见：全日制学术学位博士学费原则上每年不超过 1 万元，研究生国家助学金每年不低于 1 万元",
+      "grade": "B",
+      "sources": "Britton J, Buscha F, Dickson M, van der Erve L, Vignoles A, Walker I, Waltmann B, Zhu Y (2020). The earnings returns to postgraduate degrees in the UK. Department for Education. <https://assets.publishing.service.gov.uk/media/5f609e478fa8f5106d1563cc/PG_LEO_report_FINAL.pdf>；Satinsky EN, Kimura T, Kiang MV, et al. (2021). Systematic review and meta-analysis of depression, anxiety, and suicidal ideation among Ph.D. students. Scientific Reports, 11, 14370. <https://doi.org/10.1038/s41598-021-93687-7>；Liu H, Gao Y, Tuerxun N, Cabirou L (2026). More than Depression: Doctoral Students' Mental Health in China: A Systematic Review and Meta-Analysis. Behavioral Sciences, 16, 1355. <https://doi.org/10.3390/bs16081355>；财政部、国家发展改革委、教育部 (2013). 关于完善研究生教育投入机制的意见（财教〔2013〕19号）. <https://www.gov.cn/gongbao/content/2013/content_2404719.htm>",
+      "notes": "争议。抑郁焦虑那组数字只是把各国调查的比例合起来，没有和同龄人对比，用的量表也不一样。所以它说明博士生里这类症状常见，说明不了是读博造成的。国内中文研究的汇总发现，博士生和硕士生的心理症状差别不大，但都比全国常模和青年常模高。收入数字的局限和本节第 24 条（读硕士）一样，只能当方向参考。高校教职、科研院所和部分研发岗的招聘公告常写明要博士，想走这条路的，先把目标单位近几年的公告翻一遍。读的过程中情绪低落持续两周以上，先做第 3 节第 18 条（情绪低落时先做的几件事）那几件事。有自杀念头打 12356，见第 1 节第 25 条（抑郁或有自杀念头时打 12356）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tốt nghiệp thạc sĩ có nên học tiếp tiến sĩ: chỉ học khi vị trí mục tiêu yêu cầu rõ bằng tiến sĩ, và tính cả gánh nặng tâm lý trước khi học",
+    "cost": "Không tốn tiền. Tra yêu cầu học vấn trong thông báo tuyển dụng của đơn vị mục tiêu, rồi trò chuyện với hai, ba người đang học tiến sĩ.",
+    "plain": "Trong cùng nghiên cứu Anh, sau khi loại khác biệt về gia đình và kết quả đại học, ở tuổi 35 phụ nữ có tiến sĩ kiếm nhiều hơn người chỉ tốt nghiệp đại học khoảng 8%, nam giới lại ít hơn khoảng 9%. Gánh nặng tâm lý khi học tiến sĩ cũng lớn: ở các nước, khoảng một phần tư nghiên cứu sinh có triệu chứng trầm cảm rõ, khoảng một phần sáu có triệu chứng lo âu rõ. Vì vậy, trước tiên xem công việc mục tiêu có chỉ nhận tiến sĩ không rồi mới quyết định.",
+    "benefit": "Nghiên cứu Bộ Giáo dục Anh năm 2020 dẫn ở mục 24 của chương này (học thạc sĩ) cũng tính cho tiến sĩ. Nguyên văn “8% (women) and -9% (men) for PhDs”: sau khi loại khác biệt về gia đình và kết quả đại học, ở tuổi 35 phụ nữ có tiến sĩ kiếm nhiều hơn người chỉ học đại học khoảng 8%, nam giới ít hơn khoảng 9%. Nghiên cứu còn thấy bằng tiến sĩ giảm khả năng thất nghiệp và thu nhập năm dưới 3 vạn bảng Anh, đồng thời giảm cả khả năng thu nhập năm trên 4 vạn bảng. Các ngành khác biệt lớn; lợi ích của tiến sĩ toán đặc biệt thấp, tiến sĩ tâm lý thuộc nhóm cao nhất. Gánh nặng tâm lý khi học xem phân tích tổng hợp năm 2021. Trong 16 nghiên cứu với 23469 nghiên cứu sinh, tỷ lệ có triệu chứng trầm cảm rõ gộp lại khoảng 24% (95% CI 18%–31%, khoảng tin cậy). Trong 9 nghiên cứu với 15626 nghiên cứu sinh, tỷ lệ có triệu chứng lo âu rõ khoảng 17% (12%–23%). Khác biệt giữa các nghiên cứu rất lớn (I² khoảng 98%). Chi phí tại Trung Quốc theo ý kiến năm 2013: học phí tiến sĩ học thuật toàn thời gian về nguyên tắc không quá 1 vạn nhân dân tệ mỗi năm, trợ cấp học tập quốc gia cho học viên sau đại học ít nhất 1 vạn mỗi năm",
+    "notes": "Có tranh luận. Các tỷ lệ trầm cảm, lo âu chỉ gộp khảo sát ở các nước, không so với người cùng tuổi và dùng thang đo khác nhau. Vì vậy, chúng cho thấy các triệu chứng này phổ biến trong nghiên cứu sinh, không chứng minh do học tiến sĩ gây ra. Tổng hợp nghiên cứu tiếng Trung trong nước thấy triệu chứng tâm lý của nghiên cứu sinh và học viên thạc sĩ không khác nhiều, nhưng cả hai cao hơn chuẩn dân số toàn quốc và chuẩn thanh niên. Hạn chế của số thu nhập giống mục 24 của chương này (học thạc sĩ), chỉ tham khảo hướng chung. Thông báo tuyển giảng viên đại học, viện nghiên cứu và một số vị trí nghiên cứu phát triển thường yêu cầu rõ tiến sĩ; muốn theo đường này, hãy xem thông báo vài năm gần đây của đơn vị mục tiêu. Trong khi học, nếu tâm trạng xuống kéo dài từ hai tuần trở lên, trước hết làm những việc ở chương 3 mục 18 (những việc đầu tiên khi tâm trạng xuống). Có ý nghĩ tự sát thì gọi 12356, xem chương 1 mục 25 (trầm cảm hoặc có ý nghĩ tự sát thì gọi 12356).",
+    "extra": ""
+  }
+}

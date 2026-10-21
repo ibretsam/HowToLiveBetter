@@ -1,0 +1,35 @@
+{
+  "id": "e-24-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "ab48270905eefe5a86dc3a7ec7a3acb1fc4528ff16ac0ec9f50b7aab573a9bba",
+  "original": {
+    "number": 9,
+    "title": "伤残鉴定要等治疗终结或者临床治疗效果稳定之后再做",
+    "fields": {
+      "cost": "鉴定费几百到两千元不等，一般由提出申请的一方先垫。要等治疗终结，或者临床效果稳定，等多久看伤情，医生说了算。难在伤还没好利索就想赶紧定下来，得忍住。",
+      "plain": "赔多少钱主要看评几级，评几级看的是治完之后还剩多少功能障碍。标准写明要在治疗终结、或者临床治疗效果稳定之后再做。骨头还没长好就去评，不合这条要求。长好了、不影响功能的普通骨折，一般评不上。",
+      "benefit": "《人体损伤致残程度分级》的鉴定原则是「应以损伤治疗后果或者结局为依据，客观评价组织器官缺失和/或功能障碍程度」。标准规定鉴定时机「应在原发性损伤及其与之确有关联的并发症治疗终结或者临床治疗效果稳定后进行鉴定」。标准「将人体损伤致残程度划分为 10 个等级，从一级（人体致残率 100%）到十级（人体致残率 10%），每级致残率相差 10%」。判断依据是「人体组织器官结构破坏、功能障碍及其对医疗、护理的依赖程度，适当考虑由于残疾引起的社会交往和心理因素影响」。十级里与骨折有关的条款包括这么几条。一是「一椎体压缩性骨折（压缩程度达 1/3）或者粉碎性骨折」。二是「骨盆两处以上骨折或者粉碎性骨折，畸形愈合」。三是「四肢任一大关节（踝关节除外）功能丧失 25% 以上」。同一部位和性质的残疾不得重复计算。两处以上致残的，应分别写明等级（全国，2017 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "最高人民法院、最高人民检察院、公安部、国家安全部、司法部 (2016). 关于发布《人体损伤致残程度分级》的公告（2016 年 4 月 18 日发布，2017 年 1 月 1 日施行），标准第 4.1、4.2、4.3、4.4、4.5、5.10.6、6.2 条. <https://www.moj.gov.cn/pub/sfbgw/zwxxgk/fdzdgknr/fdzdgknrtzwj/201908/P020210316701681025917.pdf>",
+      "notes": "三套评残不通用，别搞混。被人打伤、交通事故和其他人身损害，走司法鉴定的《人体损伤致残程度分级》，用来算残疾赔偿金（见第 9 节）。工伤走劳动能力鉴定，用的是另一套十个伤残等级，管的是工伤待遇（见第 19 节）。想享受残疾人的政策待遇，要另外办残疾人证（见第 10 条，残疾人证）。鉴定前把病历、手术记录、复查影像备齐（见第 5 条，病历和影像自己存一份）。做早了等级是偏低还是偏高，标准没有写，是从「以损伤治疗后果或者结局为依据」这条原则推出来的：做早了评的是当时的样子，还没恢复的功能后来可能变好，也可能变差。这次受伤和本来就有的老毛病混在一起时，鉴定意见还要写明这次受伤在残疾后果里占多大分量。这一栏直接影响赔多少钱。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Giám định thương tật phải chờ kết thúc điều trị hoặc hiệu quả điều trị lâm sàng đã ổn định rồi mới làm",
+    "cost": "Phí giám định từ vài trăm đến hai nghìn nhân dân tệ, thông thường bên yêu cầu ứng trước. Phải chờ kết thúc điều trị hoặc hiệu quả lâm sàng ổn định; chờ bao lâu tùy tình trạng thương tích, do bác sĩ quyết định. Khó ở chỗ chưa hồi phục hẳn đã muốn chốt nhanh, cần kiềm chế.",
+    "plain": "Bồi thường bao nhiêu chủ yếu tùy mức thương tật được đánh giá; mức đó dựa vào phần suy giảm chức năng còn lại sau điều trị. Tiêu chuẩn ghi rõ phải đợi kết thúc điều trị hoặc hiệu quả điều trị lâm sàng ổn định mới giám định. Xương chưa liền đã đi giám định thì không phù hợp yêu cầu này. Gãy xương thông thường đã liền và không ảnh hưởng chức năng thì thường không đủ để xếp mức thương tật.",
+    "benefit": "Nguyên tắc giám định trong Phân cấp mức độ thương tật do tổn thương cơ thể là “dựa vào hậu quả hoặc kết quả điều trị tổn thương, đánh giá khách quan mức độ mất mô, cơ quan và/hoặc suy giảm chức năng”. Tiêu chuẩn quy định thời điểm giám định: “Phải giám định sau khi kết thúc điều trị tổn thương ban đầu và các biến chứng chắc chắn có liên quan, hoặc khi hiệu quả điều trị lâm sàng đã ổn định”. Tiêu chuẩn “chia mức độ thương tật do tổn thương cơ thể thành 10 cấp, từ cấp một (tỷ lệ thương tật 100%) đến cấp mười (tỷ lệ thương tật 10%), mỗi cấp chênh 10%”. Căn cứ đánh giá là “tổn hại cấu trúc mô và cơ quan, suy giảm chức năng và mức độ phụ thuộc vào y tế, chăm sóc; cân nhắc phù hợp ảnh hưởng của khuyết tật đến giao tiếp xã hội và yếu tố tâm lý”. Trong cấp mười có một số điều khoản liên quan đến gãy xương: “Gãy lún một thân đốt sống, mức lún đạt 1/3, hoặc gãy vụn”; “Gãy xương chậu từ hai vị trí trở lên hoặc gãy vụn, liền lệch”; “Mất từ 25% chức năng trở lên của bất kỳ khớp lớn nào ở tay chân, trừ khớp cổ chân”. Không được tính trùng khuyết tật cùng vị trí và tính chất. Nếu có thương tật ở từ hai vị trí trở lên, phải ghi riêng cấp của từng vị trí (toàn Trung Quốc, có hiệu lực từ ngày 1 tháng 1 năm 2017).",
+    "notes": "Ba hệ thống đánh giá thương tật không dùng thay nhau, đừng nhầm lẫn. Bị đánh, tai nạn giao thông và các tổn hại thân thể khác dùng Phân cấp mức độ thương tật do tổn thương cơ thể trong giám định tư pháp để tính tiền bồi thường thương tật (xem phần 9). Tai nạn lao động dùng giám định khả năng lao động với một hệ thống mười cấp thương tật khác, quyết định chế độ tai nạn lao động (xem phần 19). Muốn hưởng chính sách dành cho người khuyết tật thì phải xin riêng giấy chứng nhận khuyết tật (xem mục 10, giấy chứng nhận khuyết tật). Trước khi giám định, chuẩn bị đủ bệnh án, hồ sơ phẫu thuật và hình ảnh tái khám (xem mục 5, tự giữ một bản hồ sơ bệnh án và hình ảnh y khoa). Giám định sớm sẽ cho mức quá thấp hay quá cao không được ghi trong tiêu chuẩn. Điều này được suy ra từ nguyên tắc “dựa vào hậu quả hoặc kết quả điều trị tổn thương”: làm sớm thì đánh giá tình trạng ngay lúc đó, chức năng chưa phục hồi sau này có thể tốt lên hoặc xấu đi. Khi chấn thương lần này lẫn với bệnh có từ trước, ý kiến giám định còn phải ghi rõ chấn thương lần này góp phần bao nhiêu vào hậu quả thương tật. Phần này trực tiếp ảnh hưởng số tiền bồi thường.",
+    "extra": ""
+  }
+}

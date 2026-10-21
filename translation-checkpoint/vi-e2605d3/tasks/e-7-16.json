@@ -1,0 +1,35 @@
+{
+  "id": "e-7-16",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "2220eb02b1323ed37a51b6e74a7702b66359727d0491ad174aa405bcf5a295fb",
+  "original": {
+    "number": 16,
+    "title": "住房困难先排公租房",
+    "fields": {
+      "cost": "申请不收费。向市、县的住房保障部门交材料，还要书面同意他们去核实你报的情况。材料不齐的，他们会一次性告诉你要补哪些。排队等房的期限叫轮候期，一般不超过 5 年。",
+      "plain": "要同时占上三条：在本地没房，或者住房面积低于标准；收入和财产低于标准；外来务工的还要在本地稳定就业满规定年限。轮候期由当地公布。这是远水，解不了近渴，但排队不花钱，早报名早轮到。",
+      "benefit": "三项条件都占上就能申请。一是在本地没有住房，或者住房面积低于规定标准。二是收入和财产低于规定标准。三是外来务工人员要在本地稳定就业满规定年限。具体条件由直辖市和市、县的住房保障部门定了公布。登记上排队名单的人叫轮候对象，住房保障部门应当在轮候期内给他安排房源（全国框架，门槛和租金地方定，2012 年起）",
+      "grade": "B",
+      "sources": "住房和城乡建设部 (2012). 公共租赁住房管理办法（住房和城乡建设部令第 11 号，第七、八、十条）. <https://www.gov.cn/gongbao/content/2012/content_2226147.htm>",
+      "notes": "这是远水，解不了近渴，但排队不花钱，早报名早轮到。各地另有保障性租赁住房等别的类型，规则不一样，去当地住建部门的网站查。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khó khăn về chỗ ở thì trước hết đăng ký chờ nhà ở công cho thuê",
+    "cost": "Nộp đơn không mất phí. Gửi giấy tờ cho cơ quan bảo đảm nhà ở cấp thành phố, huyện, đồng thời đồng ý bằng văn bản cho họ xác minh thông tin đã khai. Thiếu giấy tờ thì họ sẽ báo một lần đầy đủ những gì cần bổ sung. Thời hạn xếp hàng đợi nhà gọi là thời gian chờ, thường không quá 5 năm.",
+    "plain": "Phải đồng thời đủ ba điều kiện: không có nhà tại địa phương hoặc diện tích nhà dưới chuẩn; thu nhập và tài sản dưới chuẩn; người từ nơi khác đến làm còn phải có việc làm ổn định tại địa phương đủ số năm quy định. Thời gian chờ do địa phương công bố. Cách này không giải quyết được nhu cầu trước mắt, nhưng đăng ký chờ không mất tiền, ghi danh sớm thì đến lượt sớm.",
+    "benefit": "Đáp ứng đủ ba điều kiện thì được nộp đơn. Không có nhà tại địa phương hoặc diện tích nhà dưới chuẩn quy định. Thu nhập và tài sản dưới chuẩn quy định. Người lao động từ nơi khác đến phải có việc làm ổn định tại địa phương đủ số năm quy định. Cơ quan bảo đảm nhà ở của thành phố trực thuộc trung ương và các thành phố, huyện quy định, công bố điều kiện cụ thể. Người đã ghi tên vào danh sách xếp hàng gọi là đối tượng chờ; cơ quan bảo đảm nhà ở phải bố trí nguồn nhà cho họ trong thời gian chờ (khung toàn Trung Quốc, ngưỡng điều kiện và tiền thuê do địa phương định, từ năm 2012).",
+    "notes": "Cách này không giải quyết được nhu cầu trước mắt, nhưng đăng ký chờ không mất tiền, ghi danh sớm thì đến lượt sớm. Từng nơi còn có loại khác như nhà ở cho thuê được hỗ trợ, quy tắc khác nhau; hãy tra website cơ quan nhà ở và xây dựng địa phương.",
+    "extra": ""
+  }
+}

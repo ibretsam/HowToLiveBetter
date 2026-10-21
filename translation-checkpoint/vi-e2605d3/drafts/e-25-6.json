@@ -1,0 +1,14 @@
+{
+  "id": "e-25-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_sha256": "931bf1961d3ce1b85a6c6c3ccd40679cf51be093982041f45ba2ebf3edf96361",
+  "translator": "batch13-money",
+  "translation": {
+    "title": "Dịch vụ tang lễ chia thành cơ bản và ngoài cơ bản; dịch vụ cơ bản có danh mục, mức phí được quy định theo luật",
+    "cost": "Không tốn tiền. Trước khi đi, dành vài phút xem danh mục.",
+    "plain": "Tiếp nhận, vận chuyển, lưu giữ, lễ tiễn biệt, hỏa táng thi thể, lưu tro cốt và an táng sinh thái đều trong danh mục dịch vụ cơ bản của nhà nước. An táng tro cốt tại ô lưu giữ do cơ sở công lập cung cấp cũng thuộc danh mục. Giá những dịch vụ này được định theo quy định; các dịch vụ khác cũng phải có trong danh mục, không được tự lập khoản để thu tiền. Trước khi đi, hỏi rõ dịch vụ nào là cơ bản và mức phí địa phương, rồi mới bàn việc khác.",
+    "benefit": "Tiếp nhận, vận chuyển, lưu giữ, lễ tiễn biệt và hỏa táng thi thể, lưu tro cốt, an táng sinh thái đều trong danh mục dịch vụ cơ bản của nhà nước. An táng tro cốt tại ô lưu giữ do cơ sở dịch vụ tang lễ nhà nước tổ chức cung cấp cũng trong danh mục. Mức phí các dịch vụ này được lập theo luật, giá theo quy định, không do nhà tang lễ tự quyết. Danh mục dịch vụ ngoài cơ bản do cơ quan dân chính cấp thành phố có quận trở lên, tức cấp địa khu trở lên, xác định.",
+    "notes": "Tỉnh, khu tự trị và thành phố trực thuộc trung ương có thể bổ sung dịch vụ vào danh mục nhà nước. Hỏi rõ dịch vụ nào thuộc nhóm cơ bản, mức phí địa phương bao nhiêu rồi mới bàn phần còn lại. Giá dịch vụ cơ bản được định theo quy định; ngoài nhóm cơ bản là tự chọn nhưng cũng phải đối chiếu danh mục và mức phí. Phân biệt hai nhóm mới có căn cứ nói về khoản bị thu thêm. Muốn lo hậu sự cho người thân tươm tất hơn không có gì sai; không khuyên bạn phải làm đơn giản, tiền chi vào đâu do bạn quyết định.",
+    "extra": ""
+  }
+}

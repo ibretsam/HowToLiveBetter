@@ -1,0 +1,35 @@
+{
+  "id": "e-15-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "1f4fc829fc6372e169ab031b311a6656490cb9ff49abb6b6e76ffb2e587b55a4",
+  "original": {
+    "number": 12,
+    "title": "买新房签合同前看清面积误差怎么处理，楼书、广告和沙盘上的承诺拍照留好",
+    "fields": {
+      "cost": "不花钱。签约前多看两条条款，顺手拍照截图",
+      "plain": "合同没另外约定的，交房后登记的面积和合同差 3% 以内，按实际多退少补。差超过 3%，你可以退房，开发商 30 天内退钱加利息。广告里对小区的房子和配套说得很具体、又影响你买不买的承诺，没写进合同也算数。",
+      "benefit": "住建部规章写明，按面积计价的，合同里要写清面积有误差时怎么处理。合同没写的，按下面几条办。「面积误差比绝对值在3%以内(含3%)的，据实结算房价款」。超过 3% 的，你有权退房。你退房的，开发商要从你提出那天起 30 日内退还已付房款，同时付利息。你不退房、登记面积比合同大的，3% 以内的部分你补钱，超出 3% 的部分由开发商承担，产权归你。登记面积比合同小的，3% 以内的部分开发商退你，超出 3% 的部分开发商双倍退你。广告这边，最高法的司法解释写明：销售广告和宣传资料一般只是邀请你来谈，不算合同。但开发商对开发规划范围内的房子和配套设施说得具体确定，又对你签不签、房价多少有重大影响的，就算合同内容。「该说明和允诺即使未载入商品房买卖合同，亦应当为合同内容」，违反了要承担违约责任",
+      "grade": "A",
+      "sources": "建设部 (2001). 商品房销售管理办法（建设部令第 88 号，第十八、十九、二十条）. <http://www.gov.cn/gongbao/content/2002/content_70143.htm>；最高人民法院 (2020 修正). 关于审理商品房买卖合同纠纷案件适用法律若干问题的解释（第三条）. <https://www.court.gov.cn/fabu/xiangqing/282621.html>",
+      "notes": "3% 是合同没约定时的默认办法。合同里另外写了的按合同办，所以签约时看清那一条有没有把范围放宽。按套计价的期房，合同要附平面图，写明尺寸的误差范围。广告这条只管开发规划范围内的房子和设施，规划范围以外的东西不在这条里。2020 年修改司法解释时，删掉了原来那条面积误差的规定，现在的依据是这份住建部规章。开发商不认，要去法院起诉。一审普通程序按规定 6 个月内审完，可以延长，律师费一般自己出。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Trước khi ký mua nhà mới, đọc kỹ cách xử lý chênh lệch diện tích; chụp lại và giữ các cam kết trong tài liệu giới thiệu, quảng cáo và mô hình dự án",
+    "cost": "Không tốn tiền. Đọc thêm hai điều khoản trước khi ký, tiện tay chụp ảnh và chụp màn hình",
+    "plain": "Nếu hợp đồng không thỏa thuận khác, diện tích đăng ký sau bàn giao chênh lệch so với hợp đồng trong phạm vi 3% thì quyết toán theo thực tế, thừa trả lại, thiếu nộp thêm. Chênh quá 3%, bạn có thể trả lại nhà, chủ đầu tư hoàn tiền kèm lãi trong 30 ngày. Cam kết quảng cáo về nhà và tiện ích trong khu mà cụ thể, ảnh hưởng đến quyết định mua của bạn thì dù không ghi vào hợp đồng vẫn có giá trị.",
+    "benefit": "Quy định của Bộ Nhà ở và Phát triển đô thị, nông thôn ghi rõ: tính giá theo diện tích thì hợp đồng phải nêu cách xử lý sai lệch diện tích. Nếu không ghi, áp dụng các quy tắc sau. “Trị tuyệt đối của tỷ lệ sai lệch diện tích nằm trong phạm vi 3% (bao gồm 3%) thì quyết toán tiền nhà theo thực tế.” Quá 3%, bạn có quyền trả lại nhà. Nếu trả lại, chủ đầu tư phải hoàn tiền nhà đã trả và trả lãi trong 30 ngày kể từ ngày bạn yêu cầu. Nếu không trả lại mà diện tích đăng ký lớn hơn hợp đồng, phần trong phạm vi 3% bạn trả thêm; phần vượt 3% do chủ đầu tư chịu, quyền sở hữu thuộc về bạn. Nếu diện tích đăng ký nhỏ hơn hợp đồng, phần trong phạm vi 3% chủ đầu tư hoàn lại; phần vượt 3% phải hoàn gấp đôi. Về quảng cáo, giải thích tư pháp của Tòa án Nhân dân Tối cao quy định quảng cáo bán hàng và tài liệu tuyên truyền thông thường chỉ là lời mời thương lượng, không phải hợp đồng. Nhưng nếu chủ đầu tư nêu cụ thể, xác định rõ về nhà và tiện ích trong phạm vi quy hoạch dự án, đồng thời có ảnh hưởng lớn đến việc bạn có ký hay không và giá nhà, thì được coi là nội dung hợp đồng. “Nội dung trình bày và cam kết này dù không ghi trong hợp đồng mua bán nhà ở thương mại vẫn phải được coi là nội dung hợp đồng”; vi phạm phải chịu trách nhiệm vi phạm hợp đồng",
+    "notes": "3% là cách xử lý mặc định khi hợp đồng không thỏa thuận. Nếu hợp đồng ghi khác thì theo hợp đồng, nên khi ký phải xem điều khoản đó có nới phạm vi sai lệch không. Nhà bán trước tính giá theo căn thì hợp đồng phải kèm bản vẽ mặt bằng, ghi phạm vi sai số kích thước. Quy định về quảng cáo chỉ áp dụng nhà và tiện ích trong phạm vi quy hoạch dự án, không bao gồm những thứ ngoài phạm vi đó. Khi sửa giải thích tư pháp năm 2020, quy định cũ về sai lệch diện tích bị xóa; căn cứ hiện nay là quy định của Bộ này. Chủ đầu tư không chấp nhận thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, phí luật sư thường tự trả.",
+    "extra": ""
+  }
+}

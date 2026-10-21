@@ -1,0 +1,35 @@
+{
+  "id": "e-8-34",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "e275c63e009b5b24d049b27c1eb04b6b8d7b78f28a6e92b8e0b3c1d3b382cb80",
+  "original": {
+    "number": 34,
+    "title": "证据不足本来就应当判无罪，逼出来的口供应当排除；判了还有申诉和再审",
+    "fields": {
+      "cost": "走程序本身不花钱，但申诉和再审都很耗时间。通常要请律师，律师费几千元起。经济困难的可以申请法律援助，见本节第 5 条（被指控先请律师）。难在一轮轮等下去不放弃。",
+      "plain": "定罪的门槛写在刑事诉讼法里：定案的证据要经过法定程序查证属实，还要综合全案证据排除合理怀疑。做不到，就应当判无罪。刑讯逼供得来的口供、暴力威胁得来的证言，都应当排除，不能作为判决的依据。判决生效之后，你和你的法定代理人、近亲属还可以申诉。",
+      "benefit": "《刑事诉讼法》第五十五条：证据确实、充分，要符合这些条件——定案的证据都经过法定程序查证属实，综合全案证据对认定的事实已经排除合理怀疑。排除合理怀疑，就是把全案证据合起来看，认定的事实不能还留着说得通的另一种可能。第五十六条：采用刑讯逼供等非法方法收集的犯罪嫌疑人、被告人供述，以及采用暴力、威胁等非法方法收集的证人证言、被害人陈述，应当予以排除。在侦查、审查起诉、审判时发现有应当排除的证据的，应当依法予以排除，不得作为起诉意见、起诉决定和判决的依据。第二百条第（三）项：证据不足，不能认定被告人有罪的，应当作出证据不足、指控的犯罪不能成立的无罪判决。第二百五十二条给了申诉的路。当事人及其法定代理人、近亲属，对已经发生法律效力的判决、裁定，可以向人民法院或者人民检察院提出申诉。但申诉不能停止判决、裁定的执行。第二百五十三条列举了人民法院应当重新审判的情形（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2018). 刑事诉讼法（2018 年修正，第五十五、五十六、二百、二百五十二、二百五十三条）. <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>",
+      "notes": "这些是制度写明的底线，结果并没有保证。本书没有中国刑事案件无罪率、申诉改判率的可核对官方数据，所以不写比例，也不评价个案。自己能做的有三件事。第一，第一次讯问之后就委托律师，见本节第 5 条（被指控先请律师）。第二，笔录逐字看完再签。第三，别为了「早点出去」认下没做过的事，认罪认罚只能从宽，免不了责。符合法定情形的，法院应当重新审判。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chứng cứ không đủ thì vốn phải tuyên vô tội, lời thú nhận bị ép phải loại bỏ; đã tuyên án vẫn còn khiếu nại và xét xử lại",
+    "cost": "Bản thân thủ tục không mất tiền, nhưng khiếu nại và xét xử lại đều rất tốn thời gian. Thường cần mời luật sư, phí từ vài nghìn tệ. Khó khăn kinh tế có thể xin trợ giúp pháp lý, xem mục 5 chương này (bị cáo buộc thì mời luật sư trước). Khó ở chỗ tiếp tục chờ qua từng vòng mà không bỏ cuộc.",
+    "plain": "Ngưỡng kết tội được ghi trong Luật Tố tụng hình sự: chứng cứ dùng định án phải được kiểm tra xác thực theo thủ tục luật định, tổng hợp chứng cứ toàn vụ phải loại trừ nghi ngờ hợp lý. Không làm được thì phải tuyên vô tội. Lời thú nhận do tra tấn ép cung, lời chứng do bạo lực, đe dọa đều phải loại bỏ, không được làm căn cứ phán quyết. Sau khi bản án có hiệu lực, bạn, người đại diện theo pháp luật và người thân gần vẫn có thể khiếu nại.",
+    "benefit": "Điều năm mươi lăm Luật Tố tụng hình sự: chứng cứ xác thực, đầy đủ phải đáp ứng các điều kiện sau: chứng cứ định án đều được kiểm tra xác thực theo thủ tục luật định; tổng hợp chứng cứ toàn vụ đã loại trừ nghi ngờ hợp lý đối với sự việc được xác định. Loại trừ nghi ngờ hợp lý nghĩa là khi xem toàn bộ chứng cứ cùng nhau, sự việc được xác định không còn một khả năng khác có thể giải thích hợp lý. Điều năm mươi sáu: phải loại bỏ lời khai của người bị tình nghi, bị cáo thu thập bằng tra tấn ép cung hoặc phương pháp bất hợp pháp khác, cùng lời chứng của nhân chứng, lời trình bày của người bị hại thu thập bằng bạo lực, đe dọa hoặc phương pháp bất hợp pháp khác. Khi điều tra, thẩm tra truy tố hay xét xử mà phát hiện chứng cứ phải loại bỏ thì phải loại bỏ theo luật, không được dùng làm căn cứ đề nghị truy tố, quyết định truy tố hay phán quyết. Điểm (ba) Điều hai trăm: chứng cứ không đủ để xác định bị cáo có tội thì phải tuyên vô tội do chứng cứ không đủ, tội bị cáo buộc không được xác lập. Điều hai trăm năm mươi hai mở con đường khiếu nại. Đương sự, người đại diện theo pháp luật và người thân gần có thể khiếu nại đến tòa án nhân dân hoặc viện kiểm sát nhân dân về bản án, quyết định đã có hiệu lực. Nhưng khiếu nại không làm dừng thi hành bản án, quyết định. Điều hai trăm năm mươi ba liệt kê các trường hợp tòa án nhân dân phải xét xử lại (toàn Trung Quốc).",
+    "notes": "Đây là giới hạn tối thiểu được thể chế quy định rõ, không bảo đảm kết quả. Sách không có dữ liệu chính thức có thể kiểm chứng về tỷ lệ vô tội, tỷ lệ sửa án qua khiếu nại trong án hình sự Trung Quốc nên không nêu tỷ lệ hay đánh giá vụ riêng lẻ. Có ba việc bạn tự làm được. Thứ nhất, sau lần thẩm vấn đầu tiên thì ủy thác luật sư, xem mục 5 chương này (bị cáo buộc thì mời luật sư trước). Thứ hai, đọc từng chữ trong biên bản rồi mới ký. Thứ ba, đừng vì ‘sớm được ra ngoài’ mà nhận việc mình chưa làm; nhận tội, chấp nhận hình phạt chỉ được khoan hồng, không miễn trách nhiệm. Đủ trường hợp luật định thì tòa phải xét xử lại.",
+    "extra": ""
+  }
+}

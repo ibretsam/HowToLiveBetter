@@ -1,0 +1,15 @@
+{
+  "id": "e-11-20",
+  "source_sha256": "33f7381e000cb4167a035f9febfc9a03f8a84aa33f03db0516a9ff7698b0c0e3",
+  "draft_sha256": "46b4927ffec46a992f4bc6f04403c7d2311ce03ae751142f405da00ede042865",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves civil versus profit-purpose criminal thresholds, technical-measure exceptions and distribution limits, all three case figures. Source categorical free-patch summary retained without adding legal advice. Translation review does not independently verify current law or source advice."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-36",
+  "source_sha256": "3b82ae3d486eee3425b26747f39a5990c7b868199893c02ce9e2da397ef39bba",
+  "draft_sha256": "289557a433ced6e6467dd68f7d4f66b340cad3b6a44fb2ef1ba36f6945520424",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved statutory label distinction, nine label items/second/seventh,5.0g/kg phosphate basis, net weight excluding ice,2025third amendment/effective date and12315/crossref. No translation change. Source broad statement that in-limit water-retention additives are not a safety issue and excess addition/ice are monetary issues retained, not independently endorsed."
+}

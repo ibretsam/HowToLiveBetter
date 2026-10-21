@@ -1,0 +1,15 @@
+{
+  "id": "e-19-22",
+  "source_sha256": "5acea688e34ff61dc8e44a4a61bfeac2eac5f727db3ae07fd6726f3644d5e834",
+  "draft_sha256": "f3aef18bc6fbf31e7258e84bc8e71620c0112807b3a03bc4de188f57b5ac5cf7",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified the two permitted contractual-penalty categories, training-cost cap and proportional remaining service, 3/3/2/1 example in ten-thousand RMB units, thirty-day notice, damages versus penalty distinction, Beijing household-registration exception, and arbitration 45 plus 15 days with ordinary trial within six months extendable. No correction needed."
+}

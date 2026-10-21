@@ -1,0 +1,35 @@
+{
+  "id": "e-34-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "ec8dba378c6665f30ef8d65171f5b5d9c06a90e12ec057c38b4e9b9e0893425b",
+  "original": {
+    "number": 11,
+    "title": "用头孢、甲硝唑这类抗菌药期间和停药后 7 天内不喝酒，藿香正气水、止咳糖浆这类含酒精的药也不碰",
+    "fields": {
+      "cost": "不花钱。一周多不喝酒，吃别的药前看一眼成分里有没有乙醇。",
+      "plain": "部分头孢、甲硝唑这类药碰上酒精，会让人脸红、出汗、心慌，重的呼吸困难、血压往下掉。不光是白酒啤酒，藿香正气水、止咳糖浆这类含酒精的药也会引起。吃药期间到停药后 7 天都别碰。",
+      "benefit": "这叫双硫仑样反应。福建省药监局 2023 年的安全用药科普说，吃部分头孢类药物前后喝酒，可能引发这种反应。科普说这「会严重损害健康甚至导致生命危险」。症状有面部潮红、出汗、心悸，甚至呼吸困难、血压下降、过敏性休克。科普按《中华人民共和国药典临床用药须知》列出的药，有头孢唑林、头孢曲松、头孢哌酮、甲硝唑、替硝唑、呋喃唑酮等。科普写明「用药后 7 天内禁止饮酒和食用含酒精的药物、食物等」，例子有酒心巧克力和藿香正气水。理由是被药抑制的那种酶，常要 4 到 5 天才能恢复。广州一家医院整理了 2 年里的 82 例病例。由头孢类引起的 57 例（69.51%），硝基咪唑类（甲硝唑、替硝唑这类）10 例（12.20%）。酒精来自酒类饮料的 40 例（48.78%），来自含乙醇药物的 31 例（37.80%）。口服的有藿香正气水、止咳糖浆、益母草流浸膏等。82 例里轻度 68 例、中度 9 例、重度 5 例，1 到 3 小时内缓解，没有死亡。美国甲硝唑说明书要求，用药期间和停药后至少 3 天不喝酒，也不用含丙二醇的产品。",
+      "grade": "B",
+      "sources": "福建省药品监督管理局（福建省药品科普与监管数据中心）(2023). 2023年“全国安全用药月”原创科普小知识——为什么吃头孢不能喝酒. <https://yjj.scjgj.fujian.gov.cn/ztzl/kpzl/qgaqyyy/202312/t20231215_6334595.htm>；房财富, 涂星, 刘韬, 黄红兵, 邱孟, 梁蔚婷 (2015). 我院双硫仑样反应82例分析. 中国药房, 26(29):4089-4091. <https://doi.org/10.6039/j.issn.1001-0408.2015.29.19>；Pfizer (2026). FLAGYL 375 (metronidazole) capsules, prescribing information: Contraindications, Interaction with Alcohol. DailyMed. <https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2883ca1-5a9a-4259-9d80-46ab67274384>",
+      "notes": "不是每一种头孢都会这样，但普通人分不清，吃哪种都照这样做最省事。医生开头孢或甲硝唑时，主动说一句最近几天喝没喝过酒。那篇科普建议用药前 3 天也别喝，同时承认这个间隔目前没有权威说法。一旦脸红心慌，马上停掉含酒精的东西。科普说轻的能自己缓过来，重的要送医院。吃对乙酰氨基酚期间也别喝酒，见本节第 1 条（对乙酰氨基酚）。定 B 是因为证据是病例整理和说明书，没有对照。收益定「小」：那 82 例都在几小时内缓过来，没有死亡，重度的只有 5 例。有人喝醉了怎么照看，见第 13 节第 46 条（有人喝醉了）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không uống rượu trong khi dùng các thuốc kháng khuẩn như cephalosporin, metronidazole và trong 7 ngày sau khi ngừng; cũng tránh thuốc chứa cồn như Hoắc hương chính khí thủy hoặc siro ho",
+    "cost": "Không tốn tiền. Kiêng rượu hơn một tuần; trước khi dùng thuốc khác, xem thành phần có ethanol hay không.",
+    "plain": "Một số thuốc như cephalosporin và metronidazole khi gặp cồn có thể gây đỏ mặt, vã mồ hôi, hồi hộp; nặng hơn thì khó thở và tụt huyết áp. Không chỉ rượu trắng hay bia, các thuốc chứa cồn như Hoắc hương chính khí thủy và siro ho cũng có thể gây phản ứng này. Hãy tránh từ lúc dùng thuốc đến hết 7 ngày sau khi ngừng.",
+    "benefit": "Đây gọi là phản ứng giống disulfiram. Bài phổ biến kiến thức dùng thuốc an toàn năm 2023 của Cục Quản lý Dược phẩm tỉnh Phúc Kiến nói uống rượu trước hoặc sau khi dùng một số cephalosporin có thể gây phản ứng này. Bài viết nêu phản ứng “có thể gây hại nghiêm trọng cho sức khỏe, thậm chí đe dọa tính mạng”. Triệu chứng gồm đỏ bừng mặt, vã mồ hôi, hồi hộp, thậm chí khó thở, tụt huyết áp và sốc phản vệ. Những thuốc được bài viết liệt kê theo Hướng dẫn dùng thuốc lâm sàng của Dược điển Cộng hòa Nhân dân Trung Hoa gồm cefazolin, ceftriaxone, cefoperazone, metronidazole, tinidazole, furazolidone và các thuốc khác. Bài viết ghi rõ “cấm uống rượu và dùng thuốc, thực phẩm có chứa cồn trong vòng 7 ngày sau khi dùng thuốc”, ví dụ chocolate nhân rượu và Hoắc hương chính khí thủy. Lý do là enzyme bị thuốc ức chế thường cần 4 đến 5 ngày để hồi phục. Một bệnh viện ở Quảng Châu tổng hợp 82 ca trong 2 năm. Có 57 ca do cephalosporin (69.51%) và 10 ca do nitroimidazole, nhóm gồm metronidazole và tinidazole (12.20%). Cồn đến từ đồ uống có cồn trong 40 ca (48.78%), và từ thuốc chứa ethanol trong 31 ca (37.80%). Các thuốc uống gồm Hoắc hương chính khí thủy, siro ho, cao lỏng ích mẫu và các loại khác. Trong 82 ca, có 68 ca nhẹ, 9 ca trung bình và 5 ca nặng; tất cả giảm triệu chứng trong vòng 1 đến 3 giờ, không có tử vong. Hướng dẫn sử dụng metronidazole của Mỹ yêu cầu không uống rượu trong khi dùng thuốc và ít nhất 3 ngày sau khi ngừng, đồng thời không dùng sản phẩm chứa propylene glycol.",
+    "notes": "Không phải cephalosporin nào cũng gây phản ứng này, nhưng người không có chuyên môn khó phân biệt, nên dùng loại nào cũng làm như vậy là dễ nhất. Khi bác sĩ kê cephalosporin hoặc metronidazole, hãy chủ động nói mình có uống rượu trong mấy ngày gần đây hay không. Bài phổ biến kiến thức đó khuyên không uống rượu cả trong 3 ngày trước khi dùng thuốc, đồng thời thừa nhận hiện chưa có kết luận có thẩm quyền về khoảng cách này. Nếu đỏ mặt, hồi hộp, hãy ngừng ngay các thứ chứa cồn. Bài viết nói trường hợp nhẹ có thể tự hồi phục, trường hợp nặng phải đưa đến bệnh viện. Trong thời gian dùng paracetamol cũng đừng uống rượu, xem mục 1 của chương này (paracetamol). Xếp mức B vì bằng chứng là tổng hợp ca bệnh và hướng dẫn sử dụng, không có đối chứng. Lợi ích được xếp “nhỏ”: cả 82 ca đều hồi phục trong vài giờ, không có tử vong và chỉ có 5 ca nặng. Về cách chăm sóc người say rượu, xem chương 13 mục 46 (có người say rượu).",
+    "extra": ""
+  }
+}

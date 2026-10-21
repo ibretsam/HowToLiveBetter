@@ -1,0 +1,35 @@
+{
+  "id": "e-4-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "04b05a29f1f5e8af5534bbaee17c4e5a4f908e6674bafc47b219b8bd020ae830",
+  "original": {
+    "number": 9,
+    "title": "把拖延当成在躲开难受，不要当成不够努力",
+    "fields": {
+      "cost": "不花钱。改的只是判断方向：先问这件事哪里让你难受，再想办法。",
+      "plain": "这件事让人多难受、觉不觉得自己做得成、容不容易被眼前的东西带走、自控强不强，和拖延关系最强。神经质、爱寻求刺激这类性格，和拖延只有很弱的关联。所以可以先把任务改得没那么难受、把第一步改小，别光靠骂自己一顿再硬上。",
+      "benefit": "一份汇总了 691 个相关系数的荟萃分析发现，和拖延关系强而稳定的有几样：任务让人厌恶的程度、离截止还有多远、自我效能感（觉得自己做得成）、冲动性，以及尽责性和它下面的自控、易分心、条理性、成就动机。而神经质、叛逆、寻求刺激和拖延只有很弱的关联。作者用时间动机理论来解释这组结果：一件事现在的吸引力，随着回报变远而快速变小。",
+      "grade": "A",
+      "sources": "Steel P (2007). The nature of procrastination: a meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94. <https://doi.org/10.1037/0033-2909.133.1.65>",
+      "notes": "收益量级记「中」，因为这些研究只指出方向，没有量过能省下多少小时。具体动作在本节第 1 条（写成「几点、在哪、遇到什么就做什么」）、第 7 条（把大任务拆成子任务）、第 8 条（给没有外部截止的事定一个日期）。这些是相关研究的汇总，看不出谁导致谁。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Coi trì hoãn là né tránh cảm giác khó chịu, đừng coi là chưa đủ cố gắng",
+    "cost": "Không tốn tiền. Chỉ đổi hướng đánh giá: trước hết hỏi việc này khiến bạn khó chịu ở đâu, rồi tìm cách.",
+    "plain": "Việc khiến bạn khó chịu đến đâu, có thấy mình làm được không, có dễ bị thứ trước mắt cuốn đi không, tự chủ có mạnh không là những yếu tố liên quan mạnh nhất đến trì hoãn. Tính dễ bất an, thích tìm kích thích chỉ liên quan rất yếu. Vì vậy có thể làm nhiệm vụ bớt khó chịu, thu nhỏ bước đầu tiên, đừng chỉ mắng mình rồi cố lao vào.",
+    "benefit": "Một phân tích tổng hợp 691 hệ số tương quan phát hiện những yếu tố liên quan mạnh và ổn định với trì hoãn: mức ác cảm với nhiệm vụ, còn bao lâu đến hạn chót, niềm tin vào khả năng làm được của bản thân, tính bốc đồng, cùng tính tận tâm và các mặt thành phần gồm tự chủ, dễ xao nhãng, ngăn nắp, động lực thành tích. Còn tính dễ bất an, chống đối và tìm kích thích chỉ liên quan rất yếu với trì hoãn. Tác giả dùng lý thuyết động lực theo thời gian để giải thích: sức hấp dẫn hiện tại của một việc giảm nhanh khi phần thưởng càng xa.",
+    "notes": "Mức lợi ích ghi “trung bình” vì những nghiên cứu này chỉ chỉ ra hướng, chưa đo tiết kiệm được bao nhiêu giờ. Hành động cụ thể ở mục 1 chương này (viết thành “mấy giờ, ở đâu, gặp tình huống nào thì làm gì”), mục 7 (chia việc lớn thành việc nhỏ), mục 8 (đặt ngày cho việc không có hạn chót từ bên ngoài). Đây là tổng hợp nghiên cứu tương quan, không cho thấy yếu tố nào gây ra yếu tố nào.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-42",
+  "source_sha256": "29a65fbe40da8947be2906254bd910feab58c2eb9a11a7b1ebd61b2935de0da9",
+  "draft_sha256": "162008a50e5604f6bf610497c9a0c963a2119c1ae20532a4557ba72b4d2a9bcc",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved72 and Chinese font-size-two minimums, three risk groups, manual underwriting,15-day cooling-off and new51 crossref. Source plain says65-and-over while detailed benefit says over65/over60; that source boundary difference preserved. No translation change or legal updating."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-5-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "2f55276573fc38854767c16416484d666ff7738662c0b38cf5a7cbf4eab8ab92",
+  "original": {
+    "number": 15,
+    "title": "不频繁交易股票，行情暴涨暴跌的时候更要少动手",
+    "fields": {
+      "cost": "不花钱。难的是看到消息就想动手，别人都在赚钱时想跟着加码，要忍住。",
+      "plain": "1990 年代买卖最频繁的美国家庭，每年只赚 11.4%，同期整个市场是 17.9%，差距主要是买卖的成本。国内 2014 到 2015 年那轮暴涨暴跌里，账户最小的 85% 家庭买卖太勤。他们比一直拿着不动少赚 2500 亿元，约是本金的三成。",
+      "benefit": "这项研究看的是 66,465 个美国折扣券商的家庭账户，时间是 1991 到 1996 年。交易最频繁的那一组，年化收益 11.4%，也就是平均每年赚 11.4%。同期整个市场是 17.9%，平均一个家庭是 16.4%。平均一个家庭一年的换手率是 75%，一年里把手上的股票换掉了四分之三。频繁交易的那组和不频繁的那组，毛收益（扣手续费前赚的钱）差别很小。所以差距主要来自买卖时付掉的交易成本（美国，1991 到 1996 年）。国内的数据：研究用的是上海证券交易所的逐日账户数据，覆盖全部约 4000 万个账户。样本期是 2014 年 7 月到 2015 年 12 月，共 18 个月。这 18 个月里上证综指先涨了 150% 以上。它在 2015 年 6 月 12 日见顶 5166.35 点，到 12 月底又跌了 40%。家庭账户按期初市值分成四档。最小的一档占全部家庭账户的 85%，最大的一档占 0.5%。两档期初的股票总市值差不多，分别是 8800 亿元和 8080 亿元。结果是最小的那 85% 因为主动交易损失 2500 亿元，最大的那 0.5% 赚到 2540 亿元。这里的「损失」是和同一段行情里一直持有不动、什么都不做相比。两个数各约相当于本组期初股票市值的三成，前者 28%，后者 31%。作为对照，2014 年 6 月之前的两年半市场较平静。那段时间任取 18 个月，同类差额只有期初市值的 1% 到 3%。这轮行情里，家庭账户平均约三周就把手上的股票换一遍，一年近 18 次（中国上海，2014 到 2015 年；对照期 2012 到 2014 年）",
+      "grade": "A",
+      "sources": "Barber BM, Odean T (2000). Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors. The Journal of Finance 55(2):773-806. <https://doi.org/10.1111/0022-1082.00226>；An L, Lou D, Shi D (2022). Wealth redistribution in bubbles and crashes. Journal of Monetary Economics 126:134-153. <https://doi.org/10.1016/j.jmoneco.2022.01.001>；同文作者公开的工作论文稿（2021 年 10 月，国内数字按它逐字核对）. <https://personal.lse.ac.uk/loud/AnLouShi.pdf>",
+      "notes": "美国那份数据是 1990 年代的，A 股的佣金和印花税结构和它不一样，但「换手越高、到手收益越低」这个道理是一样的。这里不是劝你别买股票，国内那项研究也没有这么说。它算的是同一段行情里，账户小的家庭越主动交易，钱越多流到跟他们买卖的另一方手里。赚走这笔钱的也不是机构，是账户最大的那一批个人：这段时间上交所约九成成交量来自散户账户，论文的表 1 是每日成交量的 87%。网上流传的「九成散户亏钱」找不到可核对的官方统计，本条不用这个数字。换手率可以对照着看：这轮行情里国内家庭账户一年换近 18 次，美国那批家庭一年只换掉四分之三。平静的年份里国内这个差距只有百分之一到三，所以最该忍住的是行情最热的时候。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không giao dịch cổ phiếu thường xuyên; thị trường tăng giảm dữ dội càng nên ít giao dịch",
+    "cost": "Không tốn tiền. Cái khó là thấy tin thì muốn giao dịch, thấy người khác kiếm tiền thì muốn tăng vốn theo; phải kiềm chế.",
+    "plain": "Những hộ gia đình Mỹ giao dịch thường xuyên nhất trong thập niên 1990 chỉ kiếm 11.4% mỗi năm, trong khi toàn thị trường cùng kỳ là 17.9%; chênh lệch chủ yếu do chi phí mua bán. Trong đợt tăng giảm mạnh năm 2014 đến 2015 ở Trung Quốc, nhóm 85% hộ có tài khoản nhỏ nhất mua bán quá nhiều. Họ kiếm ít hơn 2500 trăm triệu nhân dân tệ so với giữ nguyên, khoảng ba phần mười vốn gốc.",
+    "benefit": "Nghiên cứu xem xét 66,465 tài khoản hộ gia đình tại một công ty môi giới chiết khấu của Mỹ trong giai đoạn 1991 đến 1996. Nhóm giao dịch nhiều nhất có lợi suất quy năm 11.4%, tức trung bình kiếm 11.4% mỗi năm. Toàn thị trường cùng kỳ là 17.9%, bình quân mỗi hộ là 16.4%. Tỷ lệ quay vòng hằng năm trung bình của một hộ là 75%, tức trong năm thay ba phần tư số cổ phiếu đang giữ. Lợi suất gộp (tiền kiếm trước khi trừ phí) giữa nhóm giao dịch thường xuyên và nhóm ít giao dịch khác nhau rất ít. Vì vậy, chênh lệch chủ yếu đến từ chi phí giao dịch phải trả khi mua bán (Mỹ, năm 1991 đến 1996). Dữ liệu Trung Quốc: nghiên cứu dùng dữ liệu tài khoản từng ngày của Sở Giao dịch chứng khoán Thượng Hải, bao phủ toàn bộ khoảng 4000 vạn tài khoản. Kỳ mẫu từ tháng 7 năm 2014 đến tháng 12 năm 2015, tổng cộng 18 tháng. Trong 18 tháng này, chỉ số tổng hợp Thượng Hải trước tiên tăng từ 150% trở lên, đạt đỉnh 5166.35 điểm ngày 12 tháng 6 năm 2015, rồi đến cuối tháng 12 giảm 40%. Tài khoản hộ gia đình được chia bốn nhóm theo giá trị thị trường đầu kỳ. Nhóm nhỏ nhất chiếm 85% tổng số tài khoản hộ, nhóm lớn nhất chiếm 0.5%. Tổng giá trị thị trường cổ phiếu đầu kỳ của hai nhóm gần tương đương, lần lượt 8800 trăm triệu và 8080 trăm triệu nhân dân tệ. Kết quả, nhóm 85% nhỏ nhất mất 2500 trăm triệu nhân dân tệ vì chủ động giao dịch, còn nhóm 0.5% lớn nhất kiếm 2540 trăm triệu nhân dân tệ. “Mất” ở đây là so với giữ nguyên trong cùng giai đoạn thị trường, không làm gì. Hai số đều khoảng ba phần mười giá trị cổ phiếu đầu kỳ của nhóm, lần lượt 28% và 31%. Để đối chiếu, hai năm rưỡi trước tháng 6 năm 2014 thị trường khá yên ắng. Lấy bất kỳ 18 tháng nào trong giai đoạn đó, chênh lệch tương tự chỉ bằng 1% đến 3% giá trị đầu kỳ. Trong đợt biến động này, tài khoản hộ gia đình trung bình khoảng ba tuần lại thay hết số cổ phiếu đang giữ, gần 18 lần một năm (Thượng Hải, Trung Quốc, năm 2014 đến 2015; kỳ đối chiếu năm 2012 đến 2014).",
+    "notes": "Dữ liệu Mỹ thuộc thập niên 1990, cơ cấu phí môi giới và thuế tem của thị trường cổ phiếu A khác, nhưng nguyên tắc “quay vòng càng cao, lợi suất thực nhận càng thấp” giống nhau. Mục này không khuyên bạn đừng mua cổ phiếu, nghiên cứu Trung Quốc cũng không nói vậy. Nghiên cứu tính rằng trong cùng một giai đoạn thị trường, hộ có tài khoản nhỏ càng chủ động giao dịch thì càng nhiều tiền chảy sang bên mua bán đối ứng. Người kiếm khoản tiền này cũng không phải tổ chức, mà là nhóm cá nhân có tài khoản lớn nhất: trong giai đoạn đó khoảng chín phần mười khối lượng giao dịch tại Thượng Hải đến từ tài khoản nhỏ lẻ; bảng 1 của bài nghiên cứu ghi 87% khối lượng giao dịch mỗi ngày. Không tìm được thống kê chính thức có thể đối chiếu cho câu “chín phần mười nhà đầu tư nhỏ lẻ thua lỗ” lan trên mạng, nên mục này không dùng số đó. Có thể đối chiếu tỷ lệ quay vòng: trong đợt này hộ gia đình Trung Quốc thay cổ phiếu gần 18 lần một năm, còn nhóm hộ Mỹ chỉ thay ba phần tư. Trong những năm yên ắng, chênh lệch ở Trung Quốc chỉ từ một đến ba phần trăm, nên lúc cần kiềm chế nhất chính là khi thị trường nóng nhất. Nội dung này không cấu thành lời khuyên đầu tư.",
+    "extra": ""
+  }
+}

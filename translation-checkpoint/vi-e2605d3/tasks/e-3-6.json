@@ -1,0 +1,35 @@
+{
+  "id": "e-3-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "25acf0ea1dad3a56f5cb5eceee2b4b7eb2ce71ba67b4f0709e14cca541cd2763",
+  "original": {
+    "number": 6,
+    "title": "做需要连续思考的工作时，把哪怕几秒钟的打断也挡在外面",
+    "fields": {
+      "cost": "不花钱。关上门，戴上耳机，或者挂一个「勿扰」牌。",
+      "plain": "一次平均 2.8 秒的打断，就让接下来的操作出错概率翻倍。4.4 秒的打断翻三倍。现场跟踪还发现，被打断的那件事平均要 25 分钟才回得来，中间还插进两件别的事。被打断的人干得更快，但压力、挫败感和费劲程度全都更高。",
+      "benefit": "平均 2.8 秒的打断，会让按顺序一步步做的任务（序列任务）步骤出错率翻倍。4.4 秒的打断让它翻三倍。这是实验室里做的。另一项是对 24 名办公室白领（信息工作者）的现场观察。他们平均每 11 分钟切换一次工作主题。57% 的工作主题被打断。当天回到被打断的那件事上，平均要 25 分 26 秒。中间还插了 2.26 件别的事。还有一项 48 人的实验：被打断的人做得更快，但报告的压力、挫败感、时间压力和费劲程度都更高。",
+      "grade": "B",
+      "sources": "Altmann, Trafton & Hambrick (2014). Momentary interruptions can derail the train of thought. Journal of Experimental Psychology: General. <https://doi.org/10.1037/a0030986>；Mark, Gonzalez & Harris (2005). No task left behind? Examining the nature of fragmented work. CHI 2005. <https://doi.org/10.1145/1054972.1055017>；Mark, Gudith & Klocke (2008). The cost of interrupted work: More speed and stress. CHI 2008. <https://doi.org/10.1145/1357054.1357072>",
+      "notes": "那项现场研究把打断分成两类：一类是别人来找你的，一类是自己点开的。关门只挡得住前一类。后一类要配合第 1 条（关掉非必要通知）和第 5 条（批量处理消息）一起用。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi làm việc cần suy nghĩ liên tục, hãy ngăn cả những gián đoạn chỉ kéo dài vài giây",
+    "cost": "Không tốn tiền. Đóng cửa, đeo tai nghe hoặc treo biển “Xin đừng làm phiền”.",
+    "plain": "Một lần gián đoạn trung bình 2.8 giây khiến khả năng làm sai thao tác tiếp theo tăng gấp đôi; gián đoạn 4.4 giây làm tăng gấp ba. Theo dõi tại nơi làm việc còn thấy phải mất trung bình 25 phút mới quay lại việc bị gián đoạn, xen giữa là hai việc khác. Người bị gián đoạn làm nhanh hơn, nhưng căng thẳng, bực bội và mức gắng sức đều cao hơn.",
+    "benefit": "Gián đoạn trung bình 2.8 giây làm tỷ lệ sai bước trong nhiệm vụ thực hiện lần lượt từng bước (nhiệm vụ tuần tự) tăng gấp đôi. Gián đoạn 4.4 giây làm tăng gấp ba. Đây là thí nghiệm trong phòng thí nghiệm. Một nghiên cứu khác quan sát tại chỗ 24 nhân viên văn phòng làm công việc xử lý thông tin. Trung bình cứ 11 phút họ đổi một chủ đề công việc. 57% chủ đề công việc bị gián đoạn. Để quay lại công việc bị gián đoạn trong cùng ngày, trung bình cần 25 phút 26 giây, xen giữa là 2.26 việc khác. Một thí nghiệm với 48 người còn cho thấy người bị gián đoạn làm nhanh hơn nhưng tự báo cáo căng thẳng, bực bội, áp lực thời gian và mức gắng sức cao hơn.",
+    "notes": "Nghiên cứu tại nơi làm việc chia gián đoạn thành hai loại: người khác tìm đến và bản thân tự mở thứ khác. Đóng cửa chỉ ngăn được loại đầu. Loại sau cần kết hợp mục 1 (tắt thông báo không cần thiết) và mục 5 (gom tin nhắn để xử lý theo đợt).",
+    "extra": ""
+  }
+}

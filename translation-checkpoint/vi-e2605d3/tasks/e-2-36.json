@@ -1,0 +1,35 @@
+{
+  "id": "e-2-36",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "ddbfbd7bd84db37aeece9b4cbea320e0cd0a3086e5e40082a54d7ff6aa72101d",
+  "original": {
+    "number": 36,
+    "title": "有条件就泡澡，别只冲淋浴",
+    "fields": {
+      "cost": "多花些水费电费。每次半小时。",
+      "plain": "日本一项研究里，几乎每天泡澡的人，心血管事件的风险比每周泡不到两次的人低约 28%，脑出血低约 46%。",
+      "benefit": "日本一项 3.0 万人的研究，参加者 40 到 59 岁，跟踪 19 年，共 2097 例心血管事件。几乎每天泡澡的人，比每周泡不超过两次的人心血管事件风险低约 28%（风险比 0.72，95% CI 0.62–0.84，这是可信范围）。冠心病低约 35%（0.65，0.45–0.94）。脑卒中低约 26%（0.74，0.62–0.87）。脑出血低约 46%（0.54，0.40–0.73）",
+      "grade": "B",
+      "sources": "Ukai T, Iso H, Yamagishi K, et al. (2020). Habitual tub bathing and risks of incident coronary heart disease and stroke. Heart, 106(10), 732-737. <https://doi.org/10.1136/heartjnl-2019-315752>；消費者庁. 年末年始、高齢者の事故に注意しましょう（页面没写发布日期，数字引自日本厚生劳动省 2024 年人口动态统计）：「「浴槽内での及び浴槽への転落による溺死及び溺水」による死亡者数は、令和6年に7,776人となっています」「暖かい室内と寒い脱衣所や浴室との温度差などによる急激な血圧の変動や、熱いお湯をはった浴槽内に長くつかることによる体温上昇での意識障害などが挙げられています」. <https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_084/>",
+      "notes": "争议在于：这是在日本人群和浴缸文化下做出的结果，中国多数家庭没有条件天天泡。另外水别太烫，也别泡太久。对老年人和有心脑血管病的人，水温过高、泡得太久反而危险。日本 2024 年在浴缸里溺死的有 7776 人。日本消费者厅说，常见原因是冬天屋里和浴室温差大、在热水里泡太久。喝了酒别泡澡、别泡温泉蒸桑拿，见第 22 节第 11 条（喝了酒别泡温泉）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có điều kiện thì ngâm bồn, đừng chỉ tắm vòi sen",
+    "cost": "Tốn thêm chút tiền nước và điện. Mỗi lần nửa giờ.",
+    "plain": "Trong một nghiên cứu ở Nhật, người ngâm bồn gần như mỗi ngày có nguy cơ biến cố tim mạch thấp hơn khoảng 28%, xuất huyết não thấp hơn khoảng 46% so với người ngâm chưa đến hai lần mỗi tuần.",
+    "benefit": "Một nghiên cứu tại Nhật gồm 3.0 vạn người từ 40 đến 59 tuổi, theo dõi 19 năm, ghi nhận 2097 biến cố tim mạch. Người ngâm bồn gần như mỗi ngày so với người ngâm không quá hai lần mỗi tuần có nguy cơ biến cố tim mạch thấp hơn khoảng 28% (tỷ số nguy cơ 0.72, 95% CI 0.62–0.84, đây là khoảng tin cậy). Bệnh mạch vành thấp hơn khoảng 35% (0.65, 0.45–0.94), đột quỵ thấp hơn khoảng 26% (0.74, 0.62–0.87), xuất huyết não thấp hơn khoảng 46% (0.54, 0.40–0.73).",
+    "notes": "Điểm còn tranh luận: kết quả này thu được ở dân số Nhật và trong văn hóa tắm bồn của họ; phần lớn gia đình Trung Quốc không có điều kiện ngâm bồn hằng ngày. Nước cũng đừng quá nóng và đừng ngâm quá lâu. Với người cao tuổi và người có bệnh tim mạch, mạch máu não, nước quá nóng hoặc ngâm quá lâu lại nguy hiểm. Năm 2024, Nhật có 7776 người chết đuối trong bồn tắm. Cơ quan Bảo vệ người tiêu dùng Nhật cho biết nguyên nhân thường gặp là chênh lệch nhiệt độ lớn giữa trong nhà và phòng tắm vào mùa đông, hoặc ngâm nước nóng quá lâu. Uống rượu thì đừng ngâm bồn, tắm suối nóng hay xông sauna; xem mục 11 phần 22 (uống rượu thì đừng tắm suối nóng).",
+    "extra": ""
+  }
+}

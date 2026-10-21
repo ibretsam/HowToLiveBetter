@@ -1,0 +1,14 @@
+{
+  "id": "e-13-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_sha256": "072d21e150fc27966a96c204d4ce53914de7740e88d13fc8196441180a436568",
+  "translator": "batch13-health",
+  "translation": {
+    "title": "Bị bỏng thì xả ngay dưới nước mát chảy trong 20 phút, đừng bôi kem đánh răng hay nước tương",
+    "cost": "Không tốn tiền. Mất 20 phút.",
+    "plain": "Trẻ được xả đủ 20 phút bằng nước mát chảy trong 3 giờ sau khi bị thương có khả năng cần ghép da về sau thấp hơn. Phải là nước mát, không phải nước đá; chườm đá sẽ làm tổn thương nặng thêm. Đừng giật quần áo dính vào vết thương; xả xong dùng vải sạch che lại rồi đến viện, không bôi kem đánh răng, nước tương, dầu mè hay bột mì. Một lúc sau mới nhớ thì xả bù trong vòng ba giờ vẫn có ích.",
+    "benefit": "Australia theo dõi 2495 trẻ bị bỏng. Trẻ được xả 20 phút bằng nước mát chảy trong 3 giờ sau khi bị thương có tỷ số odds về sau cần ghép da là 0.6, 95% CI 0.4–0.8 (khoảng tin cậy). Điều này cho thấy odds ghép da thấp hơn, nhưng không thể nói trực tiếp xác suất ghép da chỉ bằng sáu phần mười. Kết quả gộp 7 nghiên cứu cũng cho thấy “xả bằng nước mát chảy trong 20 phút trong vòng ba giờ sau bỏng làm giảm rõ rệt khả năng phải ghép da và phẫu thuật xử lý vết thương”. Hướng dẫn sơ cứu năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế nêu rõ không dùng nước đá để xả hoặc chườm đá vì sẽ làm tổn thương nặng thêm. NHS nêu rõ cần tháo quần áo, trang sức gần chỗ bỏng, nhưng không động vào thứ dính trên vết thương, cũng không bôi bất kỳ thuốc mỡ, dầu hay bơ nào lên chỗ bỏng.",
+    "notes": "Phải là nước mát, không phải nước đá; chườm đá sẽ làm tổn thương nặng thêm. Quần áo dính vào vết thương thì đừng giật ra; xả xong dùng vải sạch che lại rồi đến viện. Không bôi kem đánh răng, nước tương, dầu mè hoặc bột mì; NHS nêu rõ không bôi bất kỳ loại kem mỡ hay dầu nào lên chỗ bỏng. Xả bù trong vòng ba giờ vẫn có ích. Phòng bỏng khi tắm cho trẻ nhũ nhi: xem chương 20 mục 17 (cho nước lạnh trước rồi pha nước nóng).",
+    "extra": ""
+  }
+}

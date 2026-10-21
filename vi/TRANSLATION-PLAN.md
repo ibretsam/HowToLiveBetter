@@ -1,23 +1,25 @@
 # Tiến độ và kế hoạch hoàn thành bản dịch tiếng Việt
 
-Cập nhật: **21/10/2026 (giờ Việt Nam), sau đợt 12**. Đã hoàn tất bản dịch AI và rà soát song ngữ độc lập toàn bộ 765 mục, 34 lời dẫn chương, chín bài viết dài và hướng dẫn đọc của nguồn `5f210ca`. Chưa thiết lập lịch chạy tự động.
+Cập nhật: **21/10/2026 (giờ Việt Nam), đợt 13**. Phạm vi nguồn mới `e2605d3` gồm 767 mục, 34 lời dẫn chương, chín bài viết dài và hướng dẫn đọc. Tiến độ được xác nhận bằng hồ sơ rà soát, báo cáo kiểm tra và workflow xuất bản. Chưa thiết lập lịch chạy tự động.
 
 ## Phạm vi và phiên bản đích
 
-Hoàn thành nội dung dành cho người đọc tại commit nguồn [`5f210ca953b7b538c042ad8515d5c355b766a194`](https://github.com/eternity4719/HowToLiveBetter/commit/5f210ca953b7b538c042ad8515d5c355b766a194): **34 chương, 765 mục, 9 bài viết dài và README/hướng dẫn đọc**, gồm tiêu đề, lời dẫn chương, bảng và liên kết. Tổng cộng 44 tệp nội dung.
+Nội dung dành cho người đọc tại commit nguồn [`e2605d3e2242bd6216c9255192b8a8957a08c55a`](https://github.com/eternity4719/HowToLiveBetter/commit/e2605d3e2242bd6216c9255192b8a8957a08c55a): **34 chương, 767 mục, 9 bài viết dài và README/hướng dẫn đọc**, gồm tiêu đề, lời dẫn chương, bảng và liên kết. Tổng cộng 44 tệp nội dung.
 
-Các commit nguồn xuất hiện sau mốc này được ghi thành đợt cập nhật riêng, để có tiêu chí hoàn thành rõ ràng. Khi bắt đầu đợt 10 ngày 21/10/2026, upstream đã tới [`d78ca9b`](https://github.com/eternity4719/HowToLiveBetter/commit/d78ca9b2cb5720de835135a59a36a2e6af174538), có thêm nội dung và sửa cách diễn đạt về pháp luật, sơ cứu; kiểm tra lại đầu đợt 12 vẫn là mốc này. Những thay đổi này chưa được nhập vào đợt dịch hiện tại; tỷ lệ bên dưới chỉ tính theo `5f210ca`, không phải tỷ lệ hoàn thành bản upstream mới nhất. Cần lập checkpoint cập nhật riêng và rà soát lại các mục bị ảnh hưởng. Mã nguồn, hướng dẫn đóng góp và nhật ký kiểm chứng không thuộc phạm vi dịch sách.
+Đợt 13 nhập 17 commit upstream sau `5f210ca`, bao gồm mốc `d78ca9b` đã ghi nhận ở các đợt trước, và tạo checkpoint riêng `translation-checkpoint/vi-e2605d3`. Toàn bộ checkpoint cũ giữ nguyên. Chỉ kế thừa bản dịch khi nội dung nguồn và đường dẫn khớp hoàn toàn, đồng thời kiểm tra dấu kiểm của bản nháp và hồ sơ duyệt cũ. Mã nguồn, hướng dẫn đóng góp và nhật ký kiểm chứng không thuộc phạm vi dịch sách.
 
 ## Tiến độ đã kiểm chứng
 
-| Trạng thái mục | Số lượng | Tỷ lệ trên 765 mục |
+| Trạng thái mục | Số lượng | Tỷ lệ trên 767 mục |
 |---|---:|---:|
-| Bản nháp tiếng Việt khớp nguồn đích | 765 | 100% |
+| Bản nháp tiếng Việt khớp nguồn đích | 767 | 100% |
 | Có bản tiếng Việt cũ, cần cập nhật | 0 | 0% |
 | Chưa có bản dịch dùng được cho mục hiện tại | 0 | 0% |
-| Tổng có bản tiếng Việt | 765 | 100% |
+| Tổng có bản tiếng Việt | 767 | 100% |
 
-**100% áp dụng cho phạm vi nguồn `5f210ca`.** Cả 765 mục đã qua rà soát độc lập trong mười hai đợt; không còn mục có nguồn chưa đổi nhưng chưa qua quy trình rà soát mới. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt. Các thay đổi upstream mới hơn vẫn cần xử lý riêng.
+**100% áp dụng cho phạm vi nguồn `e2605d3`.** Có 76 hồ sơ rà soát mới trong đợt 13 và 735 hồ sơ được kế thừa cho nguồn không đổi, tổng cộng 811 phần nội dung. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt. Commit upstream xuất hiện sau mốc này cần một lượt cập nhật riêng.
+
+**Đợt 13:** hai mục mới 5.51 (sản phẩm tài chính do nhân viên ngân hàng tự bán) và 34.13 (tương tác bưởi với thuốc); cập nhật 65 mục cũ. Tổng cộng 67 mục bị ảnh hưởng thuộc 20 chương. Đối chiếu lại năm lời dẫn, ba bài dài và hướng dẫn đọc. Nội dung sửa gồm thời hạn tố tụng, cấp cứu, vaccine, không gian hạn chế, lương hưu cá nhân, thuế, nhãn thực phẩm và điều kiện làm thêm khi du học. Xem [báo cáo đợt 13](../translation-checkpoint/vi-e2605d3/batch-13-report.json). Các đoạn kể lại đợt 1–12 bên dưới giữ số liệu lịch sử theo nguồn `5f210ca`.
 
 Lô thử đã xử lý **11 mục chưa dịch và 19 mục cần cập nhật**, cộng lời dẫn chương 34. Chương 34 có đủ 12/12 mục và lời dẫn khớp nguồn đích. Trước khi bắt đầu, số liệu là 95/554/116; danh sách công việc trong checkpoint giữ mốc ban đầu để đối chiếu.
 
@@ -52,11 +54,12 @@ Bài viết dài: 9/9 bản nháp khớp nguồn và đã qua rà soát mới (h
 Kiểm tra hiện tại:
 
 - `python3 tools/check-vi.py`: đạt cho snapshot cũ 01/10/2026 — 137 lô, 4.103 đoạn, 43 tệp, 649 mục. Không dùng kết quả này để tuyên bố đã dịch xong nguồn mới.
-- `python3 tools/check-vi-site.py`: đạt độ phủ 34 chương, 765 mục và 9 bài dài, cùng nhãn trạng thái và liên kết nguồn.
-- `python3 tools/check-vi-updates.py`: 809 bản nháp đạt, 809 bản ghi rà soát độc lập hợp lệ (765 mục, 34 lời dẫn, chín bài viết dài và hướng dẫn đọc).
-- `python3 tools/test-vi-updates.py`: 8 bài kiểm tra bảo vệ checkpoint đạt, gồm số liệu, URL, thiếu trường, cấu trúc bảng, thuật ngữ giữ nguyên, sửa sau rà soát và dịch ví dụ Markdown mà vẫn bảo toàn câu lệnh.
-- Thử tiếp tục: 62 tệp bản nháp/rà soát giữ nguyên dấu kiểm sau khi chạy lại bước chuẩn bị.
-- Đợt 12 giữ nguyên từng byte của 1526 tệp bản nháp/rà soát đã có từ mười một đợt trước.
+- `python3 tools/check-vi-site.py`: đạt độ phủ 34 chương, 767 mục và 9 bài dài, cùng nhãn trạng thái và liên kết nguồn.
+- `python3 tools/check-vi-updates.py`: 76 bản nháp mới đạt, 735 hồ sơ kế thừa được kiểm tra, tổng 811 phần có rà soát hợp lệ (767 mục, 34 lời dẫn, chín bài viết dài và hướng dẫn đọc).
+- `python3 tools/test-vi-updates.py`: 9 bài kiểm tra bảo vệ checkpoint đạt, gồm số liệu, URL, thiếu trường, cấu trúc bảng, thuật ngữ giữ nguyên, sửa sau rà soát, bảo toàn câu lệnh và từ chối kế thừa khi nguồn/dấu kiểm thay đổi, trùng bản mới hoặc có vòng lặp.
+- Kiểm tra lịch sử ở lô thử: 62 tệp bản nháp/rà soát giữ nguyên dấu kiểm sau khi chạy lại bước chuẩn bị.
+- Đợt 13 chạy lại bước chuẩn bị, giữ nguyên dấu kiểm toàn bộ 966 tệp checkpoint trước khi ghi báo cáo tổng kết.
+- Đợt 13 giữ nguyên toàn bộ checkpoint cũ, gồm 1618 tệp bản nháp/rà soát của mười hai đợt trước.
 - Nhãn trạng thái lấy theo dữ liệu thực tế. Nguồn đích hiện không còn phần thiếu hoặc cũ; bộ lọc và cơ chế cảnh báo vẫn được giữ để dùng cho những đợt cập nhật nguồn sau.
 
 ## Kế hoạch và thời gian dự kiến
@@ -100,10 +103,10 @@ Chỉ bắt đầu dịch toàn bộ khi các mục trong hai nhóm “Cần ho�
 | Giai đoạn | Kết quả | Trạng thái |
 |---|---|---|
 | Chuẩn bị và lô thử | Checkpoint, bộ kiểm tra và cơ chế tiếp tục | Đã hoàn tất |
-| Bổ sung và cập nhật các mục | 765/765 mục có bản dịch đã rà soát | Đã hoàn tất |
+| Bổ sung và cập nhật các mục | 767/767 mục có bản dịch đã rà soát | Đã hoàn tất theo e2605d3 |
 | Phần ngoài mục | 34 lời dẫn, 9 bài dài và hướng dẫn đọc | Đã hoàn tất |
-| Rà soát và phát hành | Kiểm tra toàn bộ checkpoint, dữ liệu và trang đọc; xuất bản đợt 12 | Theo báo cáo và workflow đợt 12 |
-| Theo kịp upstream mới | Kiểm kê thay đổi sau `5f210ca`, lập checkpoint riêng rồi dịch và rà soát các phần bị ảnh hưởng | Chưa bắt đầu; chưa ước lượng thời gian |
+| Rà soát và phát hành | Kiểm tra checkpoint, dữ liệu và trang đọc; xuất bản đợt 13 | Theo báo cáo và workflow đợt 13 |
+| Theo kịp upstream mới | Cập nhật từ `5f210ca` đến `e2605d3`, giữ hồ sơ cũ và rà soát riêng 76 phần thay đổi | Hoàn tất phạm vi đợt 13; commit sau mốc này xử lý riêng |
 
 Lô thử thuộc khối lượng 765 mục, không cộng thêm mục ngoài phạm vi. Ưu tiên trong từng giai đoạn: cấp cứu, thuốc, sức khỏe, thai sản và trẻ nhỏ; tiếp theo pháp luật, lao động, tiền bạc; sau đó các chủ đề còn lại.
 
@@ -111,7 +114,7 @@ Thực hiện trực tiếp bằng AI trong phiên làm việc; kế hoạch kh�
 
 ## Tiêu chí hoàn thành
 
-- Có đủ bản tiếng Việt cho 765/765 mục và toàn bộ nội dung đọc trong 44 tệp của phiên bản đích.
+- Có đủ bản tiếng Việt cho 767/767 mục và toàn bộ nội dung đọc trong 44 tệp của phiên bản đích.
 - Mỗi mục, lời dẫn và bài dài có nguồn đối chiếu và bản ghi rà soát tương ứng; không đổi mốc nguồn chung để làm biến mất cảnh báo của phần chưa xử lý.
 - Không còn mục/bài mang trạng thái thiếu hoặc cũ so với phiên bản đích; không còn placeholder trong nội dung đọc. Nguồn dẫn, trích dẫn nguyên văn và tên tài liệu có thể giữ tiếng Trung/Anh để tra cứu.
 - Bảo toàn số liệu, đơn vị, điều kiện, phủ định, mức bằng chứng, trích dẫn và bối cảnh Trung Quốc; kiểm tra liên kết và thứ tự mục. Mọi lỗi kiểm tra nội dung phải được giải quyết trước khi ghi hoàn thành.
@@ -122,7 +125,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 
 ## Danh sách theo chương
 
-“Khớp nguồn” ở bảng này là bản nháp đã được rà soát theo nguồn đích `5f210ca`. Các số được lấy từ dữ liệu trang dựng sau đợt 12 ngày 21/10/2026; chưa tính các thay đổi mới của upstream.
+“Khớp nguồn” ở bảng này là bản nháp đã được rà soát mới hoặc kế thừa có kiểm tra nguồn khớp hoàn toàn theo `e2605d3`. Các số được đối chiếu với dữ liệu trang dựng của đợt 13 ngày 21/10/2026.
 
 | Chương | Tổng mục | Khớp nguồn | Cần cập nhật | Chưa dịch |
 |---|---:|---:|---:|---:|
@@ -130,7 +133,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 2. Đừng để mình chết dần | 47 | 47 | 0 | 0 |
 | 3. Đừng lãng phí sức lực | 27 | 27 | 0 | 0 |
 | 4. Đừng lãng phí thời gian | 18 | 18 | 0 | 0 |
-| 5. Đừng lãng phí tiền | 50 | 50 | 0 | 0 |
+| 5. Đừng lãng phí tiền | 51 | 51 | 0 | 0 |
 | 6. Danh sách những việc tưởng lợi mà không lợi | 35 | 35 | 0 | 0 |
 | 7. Sống thế nào khi không có tiền | 23 | 23 | 0 | 0 |
 | 8. Đừng tự vướng vào rắc rối: pháp luật và an toàn tài sản | 46 | 46 | 0 | 0 |
@@ -159,6 +162,6 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 31. Sau mười tám tuổi có những con đường nào | 17 | 17 | 0 | 0 |
 | 32. Du học: tư cách cư trú, làm thêm, bảo hiểm và công nhận văn bằng khi về Trung Quốc | 12 | 12 | 0 | 0 |
 | 33. Sống thế nào sau khi bị khuyết tật | 21 | 21 | 0 | 0 |
-| 34. Đừng để thuốc dự trữ trong nhà gây hại | 12 | 12 | 0 | 0 |
+| 34. Đừng để thuốc dự trữ trong nhà gây hại | 13 | 13 | 0 | 0 |
 
 Xem [thông tin và quy ước bản dịch](TRANSLATION.md) · [trang đọc](https://ibretsam.github.io/HowToLiveBetter/) · [thống kê máy đọc](https://ibretsam.github.io/HowToLiveBetter/coverage.json).

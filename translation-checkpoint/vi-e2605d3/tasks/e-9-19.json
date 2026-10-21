@@ -1,0 +1,35 @@
+{
+  "id": "e-9-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "b48b16e2d35b24268066e72f3348a92dfb22db926ff303ad8c1a230af5090008",
+  "original": {
+    "number": 19,
+    "title": "动手打人前算清这笔账：拘留、赔钱、判刑",
+    "fields": {
+      "cost": "不花钱，也不花时间。难的就是动手前的那几秒钟。",
+      "plain": "动手一次的账：拘留 5 到 10 日，加罚 500 到 1000 元。打成轻伤就是刑事案件，判 3 年以下，打成重伤判 3 到 10 年。钱另算：有人打断对方三根肋骨，赔了 11.3 万元和解，才没被起诉。另一人打断对方桡骨，没赔，判了 10 个月。",
+      "benefit": "打人或者故意伤害的，拘留 5 到 10 日，并罚 500 到 1000 元。结伙打、打残疾人孕妇老人小孩、多次打或者一次打好几个人的，拘留 10 到 15 日，并罚 1000 到 2000 元。打成轻伤就是故意伤害罪，判 3 年以下有期徒刑、拘役（短期关押）或者管制（不关押但行动受限）。打成重伤的判 3 到 10 年。民事上还要赔医疗费、误工费（耽误上班少挣的钱）、护理费、交通费、住院伙食补助费、营养费。把人打残的，另外赔残疾赔偿金。残疾赔偿金的算法，是审案法院所在地上年度城镇居民人均可支配收入乘 20 年。伤者 60 岁以上的，每多一岁减一年，75 岁以上按 5 年算。2022 年全国检察机关受理轻伤害案件 7 万余件，多数是婚姻家庭邻里纠纷或者偶然事件引起的。最高检典型案例：卢某打断对方三根肋骨（轻伤二级），赔了 11.3 万元达成和解，才获不起诉。石某打断对方桡骨（轻伤二级），没有赔，判有期徒刑十个月（全国，治安管理处罚法 2026 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第九、五十一条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第二百三十四条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；最高人民法院 (2022 修正). 关于审理人身损害赔偿案件适用法律若干问题的解释（法释〔2022〕14 号，第六至十二、十五条）. <https://www.court.gov.cn/zixun/xiangqing/357071.html>；最高人民检察院、公安部 (2023). 关于依法妥善办理轻伤害案件的指导意见. <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202303/t20230302_604352.shtml>；最高人民检察院 (2023). 检察机关依法妥善办理轻伤害案件典型案例. <https://www.spp.gov.cn/xwfbh/dxal/202303/t20230302_605116.shtml>",
+      "notes": "怎么避免冲突、先动手为什么吃亏、正当防卫的边界在哪，见第 8 节第 10 条（冲突和正当防卫）。为了泄愤对人下手的账，见第 8 节第 12 到 14 条。因民间纠纷引起、情节较轻的打架，公安可以调解。打成轻伤的，跟对方谈妥赔偿并且真赔了，可以从轻，甚至不起诉，但赔的钱一分都少不了。伤到什么程度算轻伤，由鉴定标准定，本节没有核实。误工费、护理费按实际收入和耽误的天数算，没有统一数字。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi đánh người, hãy tính rõ cái giá: tạm giữ hành chính, bồi thường, án hình sự",
+    "cost": "Không tốn tiền, cũng không mất thời gian. Cái khó chính là mấy giây trước khi ra tay.",
+    "plain": "Cái giá của một lần đánh người: tạm giữ hành chính từ 5 đến 10 ngày, phạt thêm từ 500 đến 1000 nhân dân tệ. Gây thương tích nhẹ đã là vụ án hình sự, phạt tù không quá 3 năm; gây thương tích nặng thì từ 3 đến 10 năm. Tiền tính riêng: có người đánh gãy ba xương sườn của đối phương, bồi thường 11.3 vạn nhân dân tệ để hòa giải mới không bị truy tố. Một người khác đánh gãy xương quay của đối phương, không bồi thường, bị phạt tù 10 tháng.",
+    "benefit": "Đánh người hoặc cố ý gây thương tích thì bị tạm giữ hành chính từ 5 đến 10 ngày và phạt từ 500 đến 1000 nhân dân tệ. Đánh theo nhóm, đánh người khuyết tật, phụ nữ mang thai, người già, trẻ em; đánh nhiều lần hoặc một lần đánh nhiều người thì bị tạm giữ hành chính từ 10 đến 15 ngày và phạt từ 1000 đến 2000 nhân dân tệ. Gây thương tích nhẹ là tội cố ý gây thương tích, bị phạt tù có thời hạn không quá 3 năm, giam giữ hình sự ngắn hạn hoặc quản chế (không giam nhưng hạn chế hoạt động). Gây thương tích nặng thì phạt tù từ 3 đến 10 năm. Về dân sự, còn phải bồi thường chi phí y tế, thu nhập mất do nghỉ làm, chi phí chăm sóc, đi lại, trợ cấp tiền ăn khi nằm viện và chi phí dinh dưỡng. Gây khuyết tật thì phải bồi thường thêm khoản dành cho tình trạng khuyết tật. Khoản này được tính bằng thu nhập khả dụng bình quân đầu người của cư dân đô thị năm trước tại địa phương nơi tòa xét xử, nhân 20 năm. Người bị thương từ 60 tuổi trở lên thì mỗi thêm một tuổi giảm một năm; từ 75 tuổi trở lên tính 5 năm. Năm 2022, cơ quan kiểm sát toàn quốc tiếp nhận hơn 7 vạn vụ gây thương tích nhẹ, phần lớn do tranh chấp hôn nhân, gia đình, hàng xóm hoặc sự việc ngẫu nhiên. Vụ việc điển hình của Viện Kiểm sát Nhân dân Tối cao: một người họ Lư đánh gãy ba xương sườn của đối phương (thương tích nhẹ cấp hai), bồi thường 11.3 vạn nhân dân tệ để đạt hòa giải mới được không truy tố. Một người họ Thạch đánh gãy xương quay của đối phương (thương tích nhẹ cấp hai), không bồi thường, bị phạt tù có thời hạn mười tháng (toàn Trung Quốc, Luật Xử phạt quản lý trị an có hiệu lực từ ngày 1 tháng 1 năm 2026).",
+    "notes": "Cách tránh xung đột, vì sao ra tay trước chịu thiệt và ranh giới phòng vệ chính đáng ở đâu, xem chương 8 mục 10 (xung đột và phòng vệ chính đáng). Cái giá của việc ra tay với người khác để trút giận xem chương 8 mục 12 đến 14. Đánh nhau do tranh chấp dân sự, tình tiết nhẹ hơn thì công an có thể hòa giải. Nếu gây thương tích nhẹ, thỏa thuận được bồi thường với đối phương và thực sự trả thì có thể được xử nhẹ, thậm chí không truy tố, nhưng tiền bồi thường không thể thiếu một đồng. Thương tích đến mức nào được tính là nhẹ do tiêu chuẩn giám định quy định; chương này chưa kiểm chứng. Thu nhập mất do nghỉ làm và chi phí chăm sóc tính theo thu nhập thực tế và số ngày bị ảnh hưởng, không có con số thống nhất.",
+    "extra": ""
+  }
+}

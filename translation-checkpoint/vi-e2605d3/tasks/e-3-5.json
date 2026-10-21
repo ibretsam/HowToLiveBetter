@@ -1,0 +1,35 @@
+{
+  "id": "e-3-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "906f119dfa8a3e0bb81f5c836b2af3e60b15e60fd6634ab53ae015a91d9669c2",
+  "original": {
+    "number": 5,
+    "title": "把邮件和消息改成每天固定几次批量处理",
+    "fields": {
+      "cost": "不花钱。要花点时间跟同事说清楚你多久回一次。忍住不随时翻邮件，需要一点毅力。",
+      "plain": "同一批人对比了两周。把邮件限制成每天只查 3 次的那一周，日常压力明显更低，而收发的邮件数量一样多。不加限制的时候，人平均每天要查 15.5 次。",
+      "benefit": "124 名成年人，两周里同一批人前后对比（自身对照）。限制为每天查 3 次邮件的那周，日常压力明显低于不限次数那周（效果大小 Cohen's d = 0.37）。两周收到和回复的邮件数量并没有差别。一开始不加限制时，人们平均每天查邮件 15.5 次。",
+      "grade": "B",
+      "sources": "Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>",
+      "notes": "只有一项研究，效果中等偏小，量的是压力，不是干出来的活。即时消息没人直接研究过，这里只是照着推的。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Gom email và tin nhắn để xử lý vào vài thời điểm cố định mỗi ngày",
+    "cost": "Không tốn tiền. Cần dành chút thời gian giải thích với đồng nghiệp bao lâu bạn trả lời một lần. Nhịn kiểm tra email liên tục cần một chút ý chí.",
+    "plain": "Cùng một nhóm người được so sánh qua hai tuần. Trong tuần chỉ kiểm tra email 3 lần mỗi ngày, căng thẳng hằng ngày thấp hơn rõ rệt, dù lượng email nhận và gửi vẫn như nhau. Khi không hạn chế, trung bình mỗi người kiểm tra 15.5 lần mỗi ngày.",
+    "benefit": "124 người trưởng thành được so sánh trước và sau trong hai tuần (mỗi người làm đối chứng cho chính mình). Ở tuần giới hạn kiểm tra email 3 lần mỗi ngày, căng thẳng hằng ngày thấp hơn rõ rệt so với tuần không giới hạn (cỡ hiệu ứng Cohen's d = 0.37). Số email nhận và trả lời không khác nhau giữa hai tuần. Ban đầu, khi không giới hạn, trung bình họ kiểm tra email 15.5 lần mỗi ngày.",
+    "notes": "Chỉ có một nghiên cứu, hiệu quả từ nhỏ đến trung bình, và thứ được đo là căng thẳng chứ không phải lượng công việc làm được. Chưa ai nghiên cứu trực tiếp tin nhắn tức thời; áp dụng ở đây chỉ là suy luận tương tự.",
+    "extra": ""
+  }
+}

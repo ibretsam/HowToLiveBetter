@@ -1,0 +1,35 @@
+{
+  "id": "e-29-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "485f2f2caad71088f36121ab118111048edee179a2d305f5bba7644ce04e949c",
+  "original": {
+    "number": 4,
+    "title": "亲人死于自杀、意外或凶案的，别指望硬扛，主动去找专业帮助",
+    "fields": {
+      "cost": "打 12356 不花钱。要看医生，挂心理门诊是普通门诊的钱。难在自己开口找人。",
+      "plain": "配偶死于自杀的人，五年内被查出精神障碍的概率比一般人高约八成（男性）、七成（女性）。和配偶死于其他原因的人比，也高七成到一倍。这类丧亲的人更容易觉得被人疏远、觉得羞耻。这正是要主动去找人的理由，别等自己好起来。",
+      "benefit": "丹麦全国档案跟踪 670 万成年人，时间是 1980 至 2014 年，合计逾 1.36 亿人年（所有人被跟踪的年数加总）。因配偶自杀而丧偶的人，5 年内新查出精神障碍的风险和一般人比，IRR 男性 1.8（95% CI 1.6–2.0），即高约八成。女性 1.7（1.6–1.8），即高约七成。和因其他死因丧偶的人相比，IRR 男性 1.7（1.5–1.9）、女性 2.0（1.9–2.2），即高七成到一倍。这批人里，自杀行为、死亡率与需要市政救助的比例也更高。肝硬化、睡眠障碍等身体上的病，风险同样升高。另有 57 项研究逐项归纳，不合并算数。因自杀丧亲，和下面四件事相关。一是伴侣自杀风险升高。二是子女自杀后父母住进精神科的风险升高。三是成年子女自杀后母亲自杀风险升高。四是父母自杀后子女抑郁风险升高。和因其他暴力死亡丧亲的人相比，因自杀丧亲的人更常说自己被人疏远、觉得羞耻",
+      "grade": "A",
+      "sources": "Erlangsen A, et al. (2017). Association Between Spousal Suicide and Mental, Physical, and Social Health Outcomes: A Longitudinal and Nationwide Register-Based Study. JAMA Psychiatry. <https://doi.org/10.1001/jamapsychiatry.2017.0226>；Pitman A, et al. (2014). Effects of suicide bereavement on mental health and suicide risk. The Lancet Psychiatry. <https://doi.org/10.1016/S2215-0366(14)70224-X>；Kristensen P 等 (2012). Bereavement and mental health after sudden and violent losses: a review. Psychiatry. <https://doi.org/10.1521/psyc.2012.75.1.76>（备注里那份综述）",
+      "notes": "突然的、暴力性的死亡，指的是事故、凶案、灾害。这类死亡之后，创伤后应激障碍、抑郁和哀伤卡住的比例都比病亡后高。恢复也更慢。过了一个月还在做噩梦、闪回、躲着不敢碰的，见本节第 14 条（创伤聚焦的心理治疗）。自己有自杀念头时的处置见第 1 节第 25 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nếu người thân mất do tự sát, tai nạn hoặc bị sát hại, đừng trông chờ vào việc gắng chịu đựng; hãy chủ động tìm hỗ trợ chuyên môn",
+    "cost": "Gọi 12356 ở Trung Quốc không tốn tiền. Nếu cần gặp bác sĩ, đăng ký khám tâm lý với chi phí như khám ngoại trú thông thường. Khó nhất là tự mở lời tìm người giúp.",
+    "plain": "Người có vợ hoặc chồng mất do tự sát có xác suất được phát hiện rối loạn tâm thần trong năm năm cao hơn khoảng tám mươi phần trăm ở nam và bảy mươi phần trăm ở nữ so với dân số chung. So với người mất bạn đời vì nguyên nhân khác, cũng cao hơn từ bảy mươi phần trăm đến gấp đôi. Người mất thân nhân theo cách này dễ cảm thấy bị xa lánh và hổ thẹn hơn. Chính vì vậy cần chủ động tìm người giúp, đừng chờ mình tự khá lên.",
+    "benefit": "Hồ sơ toàn quốc của Đan Mạch theo dõi 670 vạn người trưởng thành từ năm 1980 đến 2014, tổng cộng hơn 1.36 trăm triệu người-năm (cộng số năm theo dõi của tất cả mọi người). Ở người mất vợ hoặc chồng do tự sát, so với dân số chung, nguy cơ mới được phát hiện rối loạn tâm thần trong 5 năm có IRR ở nam là 1.8 (95% CI 1.6–2.0), tức cao hơn khoảng tám mươi phần trăm; ở nữ là 1.7 (1.6–1.8), tức cao hơn khoảng bảy mươi phần trăm. So với người mất bạn đời do nguyên nhân khác, IRR ở nam là 1.7 (1.5–1.9), ở nữ là 2.0 (1.9–2.2), tức cao hơn từ bảy mươi phần trăm đến gấp đôi. Trong nhóm này, hành vi tự sát, tỷ lệ tử vong và tỷ lệ cần trợ giúp của chính quyền đô thị cũng cao hơn. Nguy cơ mắc bệnh thể chất như xơ gan, rối loạn giấc ngủ cũng tăng. Một tổng quan khác tổng hợp lần lượt 57 nghiên cứu, không gộp tính toán. Mất thân nhân do tự sát có liên quan đến bốn việc sau. Một là nguy cơ tự sát của bạn đời tăng. Hai là nguy cơ cha mẹ phải nhập khoa tâm thần tăng sau khi con tự sát. Ba là nguy cơ người mẹ tự sát tăng sau khi con trưởng thành tự sát. Bốn là nguy cơ trầm cảm của con tăng sau khi cha hoặc mẹ tự sát. So với người mất thân nhân do những nguyên nhân tử vong bạo lực khác, người mất thân nhân do tự sát thường nói rằng mình bị xa lánh và cảm thấy hổ thẹn hơn.",
+    "notes": "Tử vong đột ngột, do bạo lực ở đây chỉ tai nạn, án mạng và thảm họa. Sau những cái chết này, tỷ lệ rối loạn stress sau sang chấn, trầm cảm và mắc kẹt trong đau buồn đều cao hơn sau tử vong do bệnh. Hồi phục cũng chậm hơn. Nếu sau một tháng vẫn gặp ác mộng, hồi tưởng sống động hoặc né tránh vì không dám đối diện, xem mục 14 của chương này (trị liệu tâm lý tập trung vào sang chấn). Cách xử trí khi bản thân có ý nghĩ tự sát xem chương 1, mục 25.",
+    "extra": ""
+  }
+}

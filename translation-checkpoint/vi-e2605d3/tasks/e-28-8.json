@@ -1,0 +1,35 @@
+{
+  "id": "e-28-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "6c39ff7d4e5e6fba847c0a4e837e995e09a70fc8ce79c2b0d247ead61eaa62aa",
+  "original": {
+    "number": 8,
+    "title": "如果「觉得自己丑」已经到反复照镜子、反复想改的程度，先做一次体像评估再谈手术",
+    "fields": {
+      "cost": "去精神科或者临床心理科挂一次号，几十元。难的是在约手术之前先去这一趟。",
+      "plain": "去整形外科看的人里约 15% 有躯体变形障碍，就是把别人基本看不出的缺陷放大到影响生活。去皮肤科看的人里约 13%，两边都是七成多为女性。先挂一次号看看自己是不是这种情况，再决定动不动手术。",
+      "benefit": "按规矩把 33 项研究找齐再合起来算。整形外科就诊者中，躯体变形障碍（把别人基本看不出的缺陷放大到影响生活）患病率 15.04%，各项研究在 2.21%–56.67% 之间。换成人数，每 100 个去做整形的人里约 15 个符合，单看各项研究则从 2 个到 57 个不等。这批人平均年龄 34.54±12.41 岁，后一个数是上下浮动的幅度，74.38% 为女性。皮肤科就诊者是 12.65%，各项研究在 4.52%–35.16% 之间，平均年龄 27.79±9.03 岁，76.09% 为女性。作者建议整形外科医师与皮肤科医师主动评估、把高风险的人认出来，并安排几个科室一起管。另一项研究问了 200 名躯体变形障碍患者，71.0% 找过皮肤科、整形这类非精神科的治疗，64.0% 做了。作者的结论是这类治疗「很少改善」躯体变形障碍，看起来对它无效",
+      "grade": "B",
+      "sources": "Ribeiro RVE (2017). Prevalence of Body Dysmorphic Disorder in Plastic Surgery and Dermatology Patients: A Systematic Review with Meta-Analysis. Aesthetic Plast Surg. <https://doi.org/10.1007/s00266-017-0869-0>；Crerand CE, Phillips KA, Menard W, Fay C (2005). Nonpsychiatric medical treatment of body dysmorphic disorder. Psychosomatics, 46(6), 549-555. <https://doi.org/10.1176/appi.psy.46.6.549>；NHS. Body dysmorphic disorder (BDD). <https://www.nhs.uk/mental-health/conditions/body-dysmorphia/>",
+      "notes": "各项研究测出来的比例从 2.21% 一直到 56.67%，差得极大。原因是用的问卷和调查的人群都不一样。所以只能读出「这个比例不低、值得先筛一次」，不能把 15.04% 当准确数字，记 B 级也是因为这个。按这个比例，去整形外科的人里多数并没有躯体变形障碍。本条针对的是「反复、持续、已经影响到工作和社交」这一小部分人，做手术、做皮肤治疗很少能让他们好起来。英国 NHS 列的判断线索有这几条：花很多时间拿自己和别人比长相，老照镜子或者干脆躲着镜子，花很大力气遮盖某个部位，抠皮肤想让它「平滑」。它会影响工作、社交和人际关系。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nếu thấy mình xấu đến mức liên tục soi gương, liên tục muốn sửa, hãy đánh giá hình ảnh cơ thể trước khi bàn phẫu thuật",
+    "cost": "Khám khoa tâm thần hoặc tâm lý lâm sàng một lần, vài chục nhân dân tệ. Khó ở việc đi lần này trước đặt lịch mổ.",
+    "plain": "Khoảng 15% người đến khoa phẫu thuật tạo hình có rối loạn ám ảnh khiếm khuyết cơ thể: phóng đại khuyết điểm người khác hầu như không thấy đến mức ảnh hưởng cuộc sống. Người khám da liễu khoảng 13%; cả hai nhóm đều hơn bảy mươi phần trăm là nữ. Khám một lần để xem mình có tình trạng này không rồi mới quyết định phẫu thuật.",
+    "benefit": "Tìm đủ 33 nghiên cứu theo quy trình rồi tổng hợp. Trong người khám phẫu thuật tạo hình, tỷ lệ rối loạn ám ảnh khiếm khuyết cơ thể, tức phóng đại khuyết điểm người khác hầu như không thấy đến mức ảnh hưởng cuộc sống, là 15.04%; từng nghiên cứu dao động 2.21%–56.67%. Quy ra mỗi 100 người đi làm thẩm mỹ có khoảng 15 người đáp ứng tiêu chí; xét từng nghiên cứu từ 2 đến 57 người. Tuổi trung bình 34.54±12.41, số sau biểu thị mức dao động quanh trung bình; 74.38% là nữ. Người khám da liễu có tỷ lệ 12.65%, từng nghiên cứu 4.52%–35.16%, tuổi trung bình 27.79±9.03, nữ 76.09%. Tác giả đề nghị bác sĩ tạo hình và da liễu chủ động đánh giá, nhận ra người nguy cơ cao và phối hợp nhiều khoa chăm sóc. Nghiên cứu khác hỏi 200 bệnh nhân có rối loạn này: 71.0% từng tìm điều trị ngoài tâm thần như da liễu, phẫu thuật tạo hình; 64.0% đã thực hiện. Tác giả kết luận điều trị này hiếm khi cải thiện rối loạn ám ảnh khiếm khuyết cơ thể, dường như không hiệu quả với nó.",
+    "notes": "Tỷ lệ giữa các nghiên cứu từ 2.21% đến 56.67%, khác nhau rất lớn vì dùng bảng hỏi và khảo sát nhóm người khác nhau. Vì vậy chỉ có thể hiểu tỷ lệ không thấp, đáng sàng lọc trước; không thể coi 15.04% là con số chính xác, cũng là lý do xếp B. Theo tỷ lệ này, đa số người khám tạo hình không có rối loạn ám ảnh khiếm khuyết cơ thể. Mục nhắm tới phần nhỏ người lặp đi lặp lại, kéo dài, đã ảnh hưởng công việc và giao tiếp; phẫu thuật hoặc điều trị da hiếm khi giúp họ khá lên. NHS Anh liệt kê dấu hiệu: dành nhiều thời gian so ngoại hình với người khác, liên tục soi hoặc tránh hẳn gương, cố che một bộ phận, cạy da để làm nó nhẵn. Tình trạng có thể ảnh hưởng việc làm, giao tiếp và các mối quan hệ.",
+    "extra": ""
+  }
+}

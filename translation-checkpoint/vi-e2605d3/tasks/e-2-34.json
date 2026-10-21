@@ -1,0 +1,35 @@
+{
+  "id": "e-2-34",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "b7f542c7d335fa71cc77c77e367c0cf152eb05b75a37f3eaf6eb5bb020bc5ccd",
+  "original": {
+    "number": 34,
+    "title": "每天喝一两份奶或酸奶",
+    "fields": {
+      "cost": "每天几元，不占时间。",
+      "plain": "每天喝两份以上奶或者酸奶的人，同期死亡的概率比不喝的人低约 17%。",
+      "benefit": "PURE 跟踪研究覆盖 21 个国家、13.6 万人，平均跟踪 9.1 年，共 6796 人去世。每天吃两份以上奶制品的人，死亡风险比不吃的人低约 17%（风险比 0.83，95% CI 0.72–0.96，可信范围），趋势 P=0.0052",
+      "grade": "B",
+      "sources": "Dehghan M, Mente A, Rangarajan S, et al. (2018). Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study. Lancet, 392(10161), 2288-2297. <https://doi.org/10.1016/S0140-6736(18)31812-9>",
+      "notes": "争议在于：PURE 纳入了大量中低收入国家，在那里能天天喝奶本身就说明家境不错，这层干扰很难排干净。另外乳糖不耐受的人改喝酸奶或者低乳糖奶，不必硬喝牛奶"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mỗi ngày dùng một hai khẩu phần sữa hoặc sữa chua",
+    "cost": "Mỗi ngày vài nhân dân tệ, không mất thời gian.",
+    "plain": "Người dùng từ hai khẩu phần sữa hoặc sữa chua trở lên mỗi ngày có khả năng tử vong trong cùng thời gian thấp hơn khoảng 17% so với người không dùng.",
+    "benefit": "Nghiên cứu theo dõi PURE bao phủ 21 quốc gia với 13.6 vạn người, theo dõi trung bình 9.1 năm, có 6796 người qua đời. Người ăn từ hai khẩu phần sản phẩm sữa trở lên mỗi ngày có nguy cơ tử vong thấp hơn khoảng 17% so với người không ăn (tỷ số nguy cơ 0.83, 95% CI 0.72–0.96, khoảng tin cậy), P xu hướng=0.0052.",
+    "notes": "Điểm còn tranh luận: PURE gồm nhiều quốc gia thu nhập thấp và trung bình, nơi có điều kiện uống sữa mỗi ngày tự nó đã cho thấy gia cảnh khá; yếu tố gây nhiễu này khó loại hết. Ngoài ra, người không dung nạp lactose nên đổi sang sữa chua hoặc sữa ít lactose, không cần cố uống sữa bò.",
+    "extra": ""
+  }
+}

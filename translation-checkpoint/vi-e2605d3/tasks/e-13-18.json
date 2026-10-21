@@ -1,0 +1,35 @@
+{
+  "id": "e-13-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "7616defe41b1e7f10388c19e2e7945d507ebc903536b666a3665d6c2bbec586a",
+  "original": {
+    "number": 18,
+    "title": "有人触电，先断电，再用干燥的木棍之类挑开电源，不要直接上手拉",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "先断电，或者用干燥的木棍之类把电源挑开，再碰人。直接上手拉，一个伤者就变成两个。脱离电源后没有正常呼吸的，立刻按第 1 条（用力按压胸口）按压，别因为是电伤就不敢碰。高压线落地、变电设备附近不自己处置，退远等电力部门断电。",
+      "benefit": "避免施救的人一起被电住，把一个伤者变成两个。脱离电源后没有正常呼吸的，按本节第 1 条（用力按压胸口）做心肺复苏。美国疾控中心的急救步骤是：先看，别碰，人可能还连着电。能断电先断电，断不了就用纸板、塑料或木头这类不导电的东西把电源拨开。脱离电源后，呼吸或脉搏停了的，立刻做心肺复苏。一篇综述说，触电后心跳骤停、被救回来的人，预后往往不错",
+      "grade": "B",
+      "sources": "US CDC. What to Do to Protect Yourself From Electrical Hazards（First aid 一节）. <https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html>；Spies C, Trohman RG (2006). Narrative review: Electrocution and life-threatening electrical injuries. Annals of Internal Medicine 145(7):531-537. <https://doi.org/10.7326/0003-4819-145-7-200610030-00011>",
+      "notes": "「先断电再碰人」是纯自利规则：直接上手拉，倒下的第二个就是你。高压线落地、变电设备附近不要自己处置，退远等电力部门断电。触电引起的心脏骤停，照常规按压、照常规除颤就行，别因为是「电伤」就不敢上手。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Có người bị điện giật: ngắt điện trước, rồi dùng vật như gậy gỗ khô gạt nguồn điện ra, đừng đưa tay kéo trực tiếp",
+    "cost": "Không tốn tiền.",
+    "plain": "Ngắt điện hoặc dùng vật như gậy gỗ khô gạt nguồn điện ra rồi mới chạm vào người. Kéo trực tiếp bằng tay sẽ biến một người bị nạn thành hai. Tách khỏi nguồn điện rồi mà không thở thì ép ngực ngay theo mục 1 (ép mạnh ngực), đừng vì là tai nạn điện mà không dám chạm. Dây điện cao thế rơi xuống đất hoặc khu vực gần thiết bị trạm điện thì đừng tự xử lý; lùi ra xa, đợi ngành điện cắt điện.",
+    "benefit": "Tránh người cứu cũng bị điện giật, biến một người bị nạn thành hai. Sau khi tách khỏi nguồn điện, nếu người đó không thở thì hồi sinh tim phổi theo mục 1 chương này (ép mạnh ngực). Các bước sơ cứu của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ là: trước hết quan sát, đừng chạm, người đó có thể vẫn tiếp xúc với điện. Nếu có thể thì ngắt điện trước; không ngắt được thì dùng vật không dẫn điện như bìa cứng, nhựa hoặc gỗ gạt nguồn điện ra. Sau khi tách khỏi nguồn điện, nếu ngừng thở hoặc không còn mạch thì hồi sinh tim phổi ngay. Một bài tổng quan cho biết người ngừng tim sau điện giật và được cứu sống thường có tiên lượng khá tốt.",
+    "notes": "“Ngắt điện trước rồi mới chạm người” là nguyên tắc hoàn toàn vì chính bạn: đưa tay kéo trực tiếp thì người thứ hai ngã xuống là bạn. Dây điện cao thế rơi xuống đất hoặc gần thiết bị trạm điện thì đừng tự xử lý; lùi xa, đợi ngành điện cắt điện. Ngừng tim do điện giật thì ép ngực và khử rung theo cách thông thường, đừng vì là “thương tích do điện” mà không dám làm.",
+    "extra": ""
+  }
+}

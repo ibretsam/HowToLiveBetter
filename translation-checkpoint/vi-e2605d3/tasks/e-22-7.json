@@ -1,0 +1,35 @@
+{
+  "id": "e-22-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "93b6ea3caf5ef3e2c73a70665f2dee2d81dc34c55486280d274d47a5af0948eb",
+  "original": {
+    "number": 7,
+    "title": "焦虑到影响生活时，正念减压课的效果不劣于常用的抗焦虑药",
+    "fields": {
+      "cost": "报课要花一点钱。课程 8 周，每周上一次课，还要每天在家练。难在连着 8 周每天都练。",
+      "plain": "确诊焦虑障碍的人上 8 周正念减压课，症状改善和吃抗焦虑药艾司西酞普兰几乎一样。吃药的人近八成出过不良反应，有人因此退出。上课的人约一成半出过，没人退出。课得是标准化的 8 周课程，随便一个冥想 App 不算。",
+      "benefit": "这是美国 3 家城市学术医疗中心做的试验，目的是看上课会不会比吃药差（非劣效随机对照试验）。276 名确诊焦虑障碍的成年人按 1:1 随机对半分组。一组上 8 周正念减压课程。一组吃艾司西酞普兰（10 至 20 mg 弹性剂量）。208 人做完全程。结束时按医生打的焦虑严重程度分（临床总体印象严重度量表）算，正念组下降 1.35，药物组下降 1.43。两组差 −0.07（95% CI −0.38 至 0.23，即真实差距大致落在这一段里；P=0.65，即这点差距和没差别看不出区别）。这一段的下限没有越过事先划好的「算不上更差」的线（非劣效界值 −0.495）。副作用差别很大：药物组 78.6% 至少出现一次和试验有关的不良反应，10 人因此退出。正念组 15.4%，无人因此退出",
+      "grade": "A",
+      "sources": "Hoge EA, Bui E, Mete M, Dutton MA, Baker AW, Simon NM (2023). Mindfulness-based stress reduction vs escitalopram for the treatment of adults with anxiety disorders: a randomized clinical trial. JAMA Psychiatry, 80(1), 13-21. <https://doi.org/10.1001/jamapsychiatry.2022.3679>",
+      "notes": "试验用的是标准化的 8 周正念减压课程（MBSR），随便一个冥想 App 不能和它划等号。它适用于已经达到焦虑障碍诊断标准的人，该看医生还是要看。如果你因为顾虑药物副作用一直拖着不治疗，还有一个证据强度相当的选项"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi lo âu ảnh hưởng đến cuộc sống, khóa giảm căng thẳng dựa trên chánh niệm có hiệu quả không kém thuốc chống lo âu thường dùng",
+    "cost": "Đăng ký học tốn một ít tiền. Khóa kéo dài 8 tuần, học mỗi tuần một buổi và còn phải tập tại nhà mỗi ngày. Cái khó là tập hằng ngày liên tục suốt 8 tuần.",
+    "plain": "Ở người đã được chẩn đoán rối loạn lo âu, học khóa giảm căng thẳng dựa trên chánh niệm trong 8 tuần giúp cải thiện triệu chứng gần như tương đương dùng escitalopram. Gần tám phần mười người dùng thuốc gặp phản ứng bất lợi và có người bỏ cuộc vì vậy. Khoảng mười lăm phần trăm người đi học gặp phản ứng bất lợi, không ai bỏ cuộc. Phải là khóa chuẩn hóa kéo dài 8 tuần, không phải ứng dụng thiền bất kỳ.",
+    "benefit": "Thử nghiệm tại 3 trung tâm y khoa học thuật ở các thành phố của Mỹ nhằm xem đi học có kém hơn uống thuốc hay không, theo thiết kế thử nghiệm đối chứng ngẫu nhiên về tính không kém hơn. Có 276 người lớn đã được chẩn đoán rối loạn lo âu, chia ngẫu nhiên theo tỷ lệ 1:1. Một nhóm học giảm căng thẳng dựa trên chánh niệm trong 8 tuần. Nhóm còn lại dùng escitalopram với liều linh hoạt từ 10 đến 20 mg. Có 208 người hoàn thành toàn bộ thử nghiệm. Cuối kỳ, theo điểm mức độ lo âu do bác sĩ đánh giá bằng thang mức độ nghiêm trọng ấn tượng lâm sàng tổng thể, nhóm chánh niệm giảm 1.35 điểm, nhóm thuốc giảm 1.43 điểm. Chênh lệch giữa hai nhóm là −0.07, với 95% CI từ −0.38 đến 0.23, tức chênh lệch thực ước chừng nằm trong khoảng này; P=0.65, tức chưa phân biệt được mức chênh lệch này với không có chênh lệch. Cận dưới của khoảng không vượt qua ngưỡng “chưa đến mức kém hơn” định trước, tức biên không kém hơn −0.495. Khác biệt về tác dụng phụ rất lớn: 78.6% nhóm thuốc gặp ít nhất một phản ứng bất lợi liên quan đến thử nghiệm, 10 người bỏ cuộc vì vậy. Ở nhóm chánh niệm, tỷ lệ là 15.4% và không ai bỏ cuộc vì lý do này.",
+    "notes": "Thử nghiệm dùng khóa giảm căng thẳng dựa trên chánh niệm chuẩn hóa trong 8 tuần (MBSR); không thể coi ứng dụng thiền bất kỳ là tương đương. Phương pháp này áp dụng cho người đã đạt tiêu chuẩn chẩn đoán rối loạn lo âu; cần đi khám thì vẫn phải đi khám. Nếu bạn mãi trì hoãn điều trị vì lo tác dụng phụ của thuốc, đây là một lựa chọn khác có độ mạnh bằng chứng tương đương.",
+    "extra": ""
+  }
+}

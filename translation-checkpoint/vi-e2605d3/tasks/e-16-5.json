@@ -1,0 +1,35 @@
+{
+  "id": "e-16-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "e7cf51282b99b7ef647961938eb29ba463576e8aea215538871fa30fbbabb938",
+  "original": {
+    "number": 5,
+    "title": "病情稳定的慢性病，在社区医院一次可以开到 12 周的药",
+    "fields": {
+      "cost": "不花钱。去社区卫生服务中心问一句能不能开长期处方，一句话的事。",
+      "plain": "病情稳定、吃的药也没换的人，在社区卫生服务中心一次最多能开 12 周的药。省掉每月往返大医院排队挂号的半天。在同一个参保地里，住基层医院的报销比例原则上要比上一级医院高十个百分点左右。",
+      "benefit": "不用每月往返大医院排队开药。在同一个参保地（也叫统筹地区）里，住基层医院的报销比例原则上比上一级医院高约 10 个百分点",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「对于符合条件的慢性病患者，基层医疗卫生机构单次可开具不超过12周用药的长期处方。」；同文「原则上统筹地区内医疗卫生机构住院报销比例逐级拉开10个百分点左右的差距」，并要求上级医院在基层开设高血压、糖尿病、慢性阻塞性肺疾病等常见病慢性病门诊；同文「三级医院要聚焦急危重症和疑难复杂疾病，加强转诊会诊和住院服务，逐步酌减常见病复诊和诊断明确、病情稳定的慢性病等普通门诊」，「并将专家团队普通门诊向基层医疗卫生机构延伸」",
+      "notes": "「符合条件」由医生判断，一般是诊断已经明确、用药方案也稳定的人。药还是那个药，省下的是每月跑一趟的半天和挂号费。基层没有你要的那种药，可以问问有没有缺药登记和配送。同一份文件还要求三级医院逐步减掉这类慢病的普通门诊，专家团队的普通门诊往社区延伸。所以还把大医院当开药点的，以后会越来越难挂号。社区没有你那种药，或者要专科医生看着调药的，可以在确诊的医院线上复诊开药，见第 24 节第 14 条（互联网医院线上复诊）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Với bệnh mạn tính đã ổn định, cơ sở y tế cộng đồng có thể kê thuốc cho tối đa 12 tuần trong một lần",
+    "cost": "Không tốn tiền. Đến trung tâm dịch vụ y tế cộng đồng hỏi có thể kê đơn dài hạn hay không; chỉ cần hỏi một câu.",
+    "plain": "Người có bệnh tình ổn định và thuốc đang dùng cũng không thay đổi có thể được trung tâm dịch vụ y tế cộng đồng kê thuốc cho tối đa 12 tuần trong một lần. Nhờ vậy tiết kiệm nửa ngày mỗi tháng đi lại, xếp hàng đăng ký khám ở bệnh viện lớn. Trong cùng một địa phương tham gia bảo hiểm, về nguyên tắc, tỷ lệ bảo hiểm chi trả khi nằm viện tại cơ sở tuyến cơ sở phải cao hơn bệnh viện trên một cấp khoảng mười điểm phần trăm.",
+    "benefit": "Không phải đi lại, xếp hàng lấy thuốc ở bệnh viện lớn mỗi tháng. Trong cùng một địa phương tham gia bảo hiểm, còn gọi là khu vực quản lý quỹ chung, về nguyên tắc tỷ lệ bảo hiểm chi trả khi nằm viện ở tuyến cơ sở cao hơn bệnh viện trên một cấp khoảng 10 điểm phần trăm.",
+    "notes": "Bác sĩ xác định ai “đủ điều kiện”; thường là người đã có chẩn đoán rõ ràng và phác đồ thuốc ổn định. Vẫn là thuốc đó, phần tiết kiệm là nửa ngày đi lại mỗi tháng và phí đăng ký khám. Nếu tuyến cơ sở không có thuốc bạn cần, có thể hỏi có cơ chế đăng ký thuốc thiếu và giao thuốc hay không. Cùng văn bản còn yêu cầu bệnh viện cấp ba từng bước giảm khám ngoại trú thông thường cho nhóm bệnh mạn tính này, đưa hoạt động khám thông thường của nhóm chuyên gia xuống cộng đồng. Vì vậy, nếu vẫn coi bệnh viện lớn là nơi lấy thuốc thì về sau sẽ ngày càng khó đăng ký khám. Nếu cơ sở cộng đồng không có thuốc của bạn, hoặc cần bác sĩ chuyên khoa theo dõi việc chỉnh thuốc, có thể tái khám trực tuyến và lấy đơn tại bệnh viện đã chẩn đoán; xem chương 24 mục 14 (tái khám trực tuyến tại bệnh viện Internet).",
+    "extra": ""
+  }
+}

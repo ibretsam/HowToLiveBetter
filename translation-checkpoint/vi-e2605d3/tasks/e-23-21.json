@@ -1,0 +1,35 @@
+{
+  "id": "e-23-21",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "d21118d2227989cdb2ffea95ad6cab9e39b8d87e19ff2f65ebfa1693e6cf07fb",
+  "original": {
+    "number": 21,
+    "title": "会计这类初级、中级职称靠全国统考拿，先对照学历和工作年限去报名",
+    "fields": {
+      "cost": "报名费按各省标准交。备考要占几个月的业余时间。",
+      "plain": "有些系列的初级、中级职称是考出来的，考过就算，不再另外评审。会计就是这样：助理会计师要高中以上学历，会计师要本科干满 4 年会计、大专满 5 年。已经拿到某些职业资格的，也可能直接算作有相应职称。",
+      "benefit": "2016 年的改革意见规定，初级、中级职称实行全国统一考试的专业，不再进行相应的评审或认定。在职称和职业资格密切相关的领域，取得职业资格就可以认定具备相应职称，还可以作为申报高一级的条件。以会计为例。助理会计师和会计师实行全国统一考试。高级会计师考试和评审结合，正高级一般只评审。报考条件如下。助理会计师：高中毕业以上学历，含中专、职高、技校。会计师：博士学位；或硕士学位、干会计满 1 年；或第二学士学位、研究生班毕业、干满 2 年；或本科、干满 4 年；或大专、干满 5 年。有会计硕士、会计博士专业学位的，考会计师可以免考《财务管理》（全国）",
+      "grade": "A",
+      "sources": "中共中央办公厅、国务院办公厅 (2016). 关于深化职称制度改革的意见. <https://www.gov.cn/gongbao/content/2017/content_5163445.htm>：「专业技术人才取得职业资格即可认定其具备相应系列和层级的职称，并可作为申报高一级职称的条件。初级、中级职称实行全国统一考试的专业不再进行相应的职称评审或认定。」；人力资源社会保障部、财政部 (2019). 关于深化会计人员职称制度改革的指导意见. <https://www.gov.cn/zhengce/zhengceku/2019-09/27/content_5433803.htm>：「助理会计师、会计师实行全国统一的会计专业技术资格考试」「高级会计师采取考试与评审相结合方式，正高级会计师一般采取评审方式」「公务员符合条件的可以参加会计专业技术资格考试，但不得参加会计人员职称评审」；财政部等 (2024). 关于做好会计专业学位与会计专业技术资格衔接有关工作的通知. <https://www.gov.cn/zhengce/zhengceku/202405/content_6952602.htm>",
+      "notes": "你的系列是考、是评，还是考评结合，看该系列那份「深化××职称制度改革的指导意见」。人社部和各行业主管部门分系列发过，在中国政府网政策文件库能搜到。考试的报名时间和科目，以当年的考试公告为准。公务员可以参加会计考试，但不能参加会计职称评审。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chức danh sơ cấp, trung cấp trong ngành như kế toán được cấp qua kỳ thi thống nhất toàn quốc; đối chiếu bằng cấp và số năm làm việc trước khi đăng ký",
+    "cost": "Lệ phí thi theo quy định của tỉnh. Ôn thi mất vài tháng thời gian ngoài giờ.",
+    "plain": "Chức danh sơ cấp, trung cấp ở một số nhóm được lấy qua thi; thi đỗ là được, không xét thêm. Kế toán là ví dụ: trợ lý kế toán viên cần trình độ trung học phổ thông trở lên; kế toán viên cần tốt nghiệp đại học và làm kế toán đủ 4 năm, hoặc cao đẳng và đủ 5 năm. Người có một số chứng nhận trình độ nghề cũng có thể được công nhận trực tiếp chức danh tương ứng.",
+    "benefit": "Ý kiến cải cách năm 2016 quy định chuyên ngành có kỳ thi thống nhất toàn quốc cho chức danh sơ cấp, trung cấp thì không tổ chức xét hoặc công nhận tương ứng nữa. Ở lĩnh vực mà chức danh gắn chặt với trình độ nghề, có chứng nhận trình độ nghề có thể được công nhận chức danh tương ứng và dùng làm điều kiện đăng ký cấp cao hơn. Ví dụ trong kế toán, trợ lý kế toán viên và kế toán viên thi thống nhất toàn quốc. Kế toán viên cao cấp kết hợp thi và xét; cấp cao nhất thường chỉ xét. Điều kiện dự thi như sau. Trợ lý kế toán viên: tốt nghiệp trung học phổ thông trở lên, gồm trung cấp chuyên nghiệp, trung học nghề và trường kỹ thuật. Kế toán viên: có bằng tiến sĩ; hoặc bằng thạc sĩ và làm kế toán đủ 1 năm; hoặc có bằng cử nhân thứ hai hoặc tốt nghiệp lớp sau đại học, đồng thời làm kế toán đủ 2 năm; hoặc đại học và đủ 4 năm; hoặc cao đẳng và đủ 5 năm. Người có bằng thạc sĩ, tiến sĩ chuyên nghiệp về kế toán được miễn môn Quản lý tài chính khi thi kế toán viên (toàn Trung Quốc)",
+    "notes": "Muốn biết nhóm chức danh của bạn thi, xét hay kết hợp cả hai, xem văn bản “Ý kiến hướng dẫn về đẩy mạnh cải cách chế độ chức danh…” của nhóm đó. Bộ Nhân lực và An sinh xã hội cùng cơ quan quản lý từng ngành đã ban hành theo nhóm; tìm được trong kho văn bản chính sách trên Cổng Chính phủ Trung Quốc. Thời gian đăng ký và môn thi theo thông báo năm đó. Công chức có thể dự thi kế toán nhưng không được tham gia xét chức danh kế toán.",
+    "extra": ""
+  }
+}

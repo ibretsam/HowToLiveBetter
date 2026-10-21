@@ -1,0 +1,15 @@
+{
+  "id": "e-5-27",
+  "source_sha256": "23d47622ab912c317de7dc071c0f4ff79cd1011e122896715691b76c3b5aa207",
+  "draft_sha256": "db031bf367b95b8d2834cb1c5238858e5935106fc2840b06bb9fb9a6e8ac6e84",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved3–6 months as undocumented gradeC rule of thumb based on expenses not income,500000-CNY same-bank deposit insurance limit,2026-01-01 AML change and high-risk source/use checks, essential services, no investment advice. No translation change. Source distinctions between deposit and money-market holdings remain as written, no policy expansion."
+}

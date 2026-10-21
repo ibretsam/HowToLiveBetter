@@ -1,0 +1,35 @@
+{
+  "id": "e-22-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "ad57aeaa652c99c338df3f4a96f0d75318f00ed5c5783919947349b014b1c640",
+  "original": {
+    "number": 4,
+    "title": "不吃陌生人给的糖和零食，不喝离开过视线的饮料，不接别人递的烟弹",
+    "fields": {
+      "cost": "不花钱。别人递过来的一律不接。自己的杯子离开过视线，就换一杯。",
+      "plain": "现在的毒品不长毒品的样子。掺了合成大麻素的「上头」电子烟，看着和普通电子烟差不多，有人专在酒吧、KTV、宾馆里递给人试。骗人吸的拘留 10 到 15 日并罚款，自己吸的也要拘留，被骗吸的可以从轻或者不罚。饮料离开过视线就换一杯。",
+      "benefit": "现在的毒品不长毒品的样子。合成大麻素类物质自 2021 年 7 月 1 日起被整类列管，这一大类整体按毒品管。有人把它掺进烟油，做成「上头」电子烟。最高检报道的案子里，办案人员的描述是：这种烟油「可以通过添加食用颜料变成各种颜色、各种口味」，「在外观上和普通电子烟基本一致」。卖家在酒吧、KTV、宾馆呼朋引伴推销，诱导他人吸食。报道里，当地当年办理的吸食案件中，未成年吸食者占比近四成。依托咪酯自 2023 年 10 月 1 日起列入第二类精神药品目录。骗人吸食本身就是一档违法。引诱、教唆、欺骗或者强迫他人吸食、注射毒品的，拘留 10 到 15 日并罚 1000 到 5000 元。构成犯罪的判 3 年以下，情节严重的判 3 到 7 年，强迫的判 3 到 10 年，对未成年人下手的从重。自己吸食、注射毒品的，处 10 到 15 日拘留并可罚 3000 元以下。情节较轻的处 5 日以下拘留或者 1000 元以下罚款。被人胁迫或者诱骗才吸的，同一部法律规定「从轻、减轻或者不予处罚」。还可能被同时责令 6 个月到 1 年内不得进入娱乐场所。成瘾的责令社区戒毒 3 年。拒绝社区戒毒、或者戒毒期间再吸的，强制隔离戒毒 2 年，最长可再延长 1 年（全国，治安管理处罚法 2026 年 1 月起）",
+      "grade": "A",
+      "sources": "最高人民检察院 (2021). 江苏苏州吴江区：办案检察官揭秘披着潮流外衣的新型毒品. <https://www.spp.gov.cn/spp/zdgz/202110/t20211011_531831.shtml>；国家药监局、公安部、国家卫生健康委 (2023). 关于调整麻醉药品和精神药品目录的公告（2023 年第 120 号）. <https://yjj.sh.gov.cn/qtgzwj/20230911/3b612c94e35b4b63abba314c972a2593.html>（上海市药监局转载，原文页 nmpa.gov.cn 在本机返回 412）；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第二十、八十四、八十五条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第三百五十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2007). 禁毒法（第三十三、三十八、四十七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2520706.html>（广东省人民政府转载）",
+      "notes": "不只是娱乐场所，学校门口、朋友聚会、长途车上同理。给的是糖果、饮料还是烟弹，也都一样。被下药之后常跟着抢劫、性侵和敲诈，这部分没有公开的官方统计，属于经验判断。饮料只要离开过视线就换一杯，比事后追究省事得多。场子里有人拿出不明粉末、片剂、烟弹时怎么办，见本节第 3 条。替人带东西见第 8 节第 29 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng ăn kẹo, đồ ăn vặt người lạ đưa, đừng uống đồ uống từng khuất tầm mắt và đừng nhận đầu thuốc lá điện tử từ người khác",
+    "cost": "Không tốn tiền. Người khác đưa gì thì không nhận. Nếu cốc của mình từng khuất tầm mắt, hãy đổi cốc khác.",
+    "plain": "Ma túy hiện nay có thể không trông giống ma túy. Thuốc lá điện tử gây “phê” có pha cannabinoid tổng hợp trông gần giống loại thường, và có người chuyên mời dùng thử tại quán bar, karaoke, khách sạn. Người lừa người khác hút bị tạm giữ từ 10 đến 15 ngày và phạt tiền; người tự hút cũng bị tạm giữ, còn người bị lừa hút có thể được xử nhẹ hoặc không bị phạt. Đồ uống từng khuất tầm mắt thì hãy đổi cốc khác.",
+    "benefit": "Ma túy hiện nay có thể không trông giống ma túy. Từ ngày 1 tháng 7 năm 2021, toàn bộ nhóm cannabinoid tổng hợp được đưa vào diện kiểm soát như ma túy. Có người pha chúng vào tinh dầu để làm thuốc lá điện tử gây “phê”. Trong vụ án được Viện Kiểm sát Nhân dân Tối cao đưa tin, người xử lý vụ án mô tả rằng tinh dầu này “có thể được thêm phẩm màu thực phẩm để tạo ra nhiều màu sắc, nhiều hương vị”, và “về hình thức gần như giống hệt thuốc lá điện tử thông thường”. Người bán rủ rê, chào hàng ở quán bar, karaoke, khách sạn và dụ người khác hút. Bản tin cho biết trong những vụ sử dụng được địa phương xử lý năm đó, người chưa thành niên chiếm gần bốn phần mười số người sử dụng. Từ ngày 1 tháng 10 năm 2023, etomidate được đưa vào danh mục thuốc hướng thần loại hai. Bản thân việc lừa người khác sử dụng đã là một hành vi vi phạm. Người dụ dỗ, xúi giục, lừa gạt hoặc ép buộc người khác hút, tiêm chích ma túy bị tạm giữ từ 10 đến 15 ngày và phạt từ 1000 đến 5000 nhân dân tệ. Nếu cấu thành tội phạm, mức phạt tù là không quá 3 năm; trường hợp nghiêm trọng từ 3 đến 7 năm; ép buộc thì từ 3 đến 10 năm. Nhắm vào người chưa thành niên sẽ bị xử nặng hơn. Người tự hút, tiêm chích ma túy bị tạm giữ từ 10 đến 15 ngày và có thể bị phạt không quá 3000 nhân dân tệ. Trường hợp nhẹ hơn bị tạm giữ không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Với người sử dụng do bị ép buộc hoặc dụ lừa, cùng luật này quy định “xử nhẹ, giảm nhẹ hoặc không xử phạt”. Người vi phạm còn có thể đồng thời bị cấm vào cơ sở giải trí trong 6 tháng đến 1 năm. Người nghiện bị yêu cầu cai nghiện tại cộng đồng trong 3 năm. Nếu từ chối cai nghiện tại cộng đồng hoặc tái sử dụng trong thời gian cai, họ bị cách ly cai nghiện bắt buộc trong 2 năm, có thể gia hạn thêm tối đa 1 năm. Quy định áp dụng trên toàn Trung Quốc theo Luật Xử phạt quản lý trị an từ tháng 1 năm 2026.",
+    "notes": "Không chỉ ở cơ sở giải trí, nguyên tắc này cũng áp dụng trước cổng trường, trong buổi tụ họp bạn bè hoặc trên xe đường dài. Kẹo, đồ uống hay đầu thuốc lá điện tử đều như nhau. Bị bỏ thuốc thường kéo theo cướp, xâm hại tình dục và tống tiền; phần này chưa có thống kê chính thức công khai, chỉ là nhận định từ kinh nghiệm. Đổi cốc mới khi đồ uống từng khuất tầm mắt đỡ phiền hơn nhiều so với truy cứu sau đó. Nếu có người lấy ra bột, viên hoặc đầu thuốc lá điện tử không rõ là gì tại cơ sở giải trí, xem mục 3 của chương này. Về việc mang hộ đồ cho người khác, xem chương 8 mục 29.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-25-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "931bf1961d3ce1b85a6c6c3ccd40679cf51be093982041f45ba2ebf3edf96361",
+  "original": {
+    "number": 6,
+    "title": "殡葬服务分基础项目和非基础项目，基础项目有清单、收费依法制定",
+    "fields": {
+      "cost": "不花钱。出发前花几分钟看一眼清单。",
+      "plain": "遗体接运、存放、告别、火化、骨灰寄存、生态安葬，都在国家的基础项目清单里。公办机构提供的骨灰格位安葬也在里面。这些项目的价钱按规定来定，其余服务也要列进清单，不许另立项目收钱。出发前先问清楚哪几项算基础项目、当地标准是多少，再谈别的。",
+      "benefit": "遗体接运、遗体存放、遗体告别、遗体火化、骨灰寄存、生态安葬，都在国家的基础项目清单里。政府举办的殡葬服务机构提供的骨灰格位安葬，也在清单里。这些项目的收费标准依法制定，价钱按规定来定，不由殡仪馆自己说了算。非基础项目清单由设区的市级以上民政部门（地级市及以上的民政部门）确定",
+      "grade": "A",
+      "sources": "国务院 (2026). 殡葬管理条例（国务院令第 824 号，2025 年 11 月 14 日国务院第 72 次常务会议修订通过，「自2026年3月30日起施行」）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> 第五条：「殡葬服务分为基础项目和非基础项目，收费政策由国务院发展改革部门、财政部门会同国务院民政等部门制定。」「国家制定殡葬服务基础项目清单，将遗体接运、遗体存放、遗体告别、遗体火化、骨灰寄存、生态安葬以及政府举办的殡葬服务机构提供的骨灰格位安葬等纳入清单范围」；第五十条「殡葬服务实行清单化管理并动态调整，禁止在清单之外设立项目、收取费用。」",
+      "notes": "省、自治区、直辖市可以在国家清单的基础上再加项目。先问清楚哪几项属于基础项目、当地的收费标准是多少，再谈其余的。基础项目的价钱按规定来定，基础项目以外的自己选，也要对着清单和收费标准看。分清这两类，被多收的那部分才有得说。想把亲人的后事办得体面一点没有错，不劝你从简，钱花在哪儿由你自己定。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Dịch vụ tang lễ chia thành cơ bản và ngoài cơ bản; dịch vụ cơ bản có danh mục, mức phí được quy định theo luật",
+    "cost": "Không tốn tiền. Trước khi đi, dành vài phút xem danh mục.",
+    "plain": "Tiếp nhận, vận chuyển, lưu giữ, lễ tiễn biệt, hỏa táng thi thể, lưu tro cốt và an táng sinh thái đều trong danh mục dịch vụ cơ bản của nhà nước. An táng tro cốt tại ô lưu giữ do cơ sở công lập cung cấp cũng thuộc danh mục. Giá những dịch vụ này được định theo quy định, không được tự lập khoản ngoài danh mục để thu tiền. Trước khi đi, hỏi rõ dịch vụ nào là cơ bản và mức phí địa phương, rồi mới bàn việc khác.",
+    "benefit": "Tiếp nhận, vận chuyển, lưu giữ, lễ tiễn biệt và hỏa táng thi thể, lưu tro cốt, an táng sinh thái đều trong danh mục dịch vụ cơ bản của nhà nước. An táng tro cốt tại ô lưu giữ do cơ sở dịch vụ tang lễ nhà nước tổ chức cung cấp cũng trong danh mục. Mức phí các dịch vụ này được lập theo luật, giá theo quy định, không do nhà tang lễ tự quyết. Danh mục dịch vụ ngoài cơ bản do cơ quan dân chính cấp thành phố có quận trở lên, tức cấp địa khu trở lên, xác định.",
+    "notes": "Tỉnh, khu tự trị và thành phố trực thuộc trung ương có thể bổ sung dịch vụ vào danh mục nhà nước. Hỏi rõ dịch vụ nào thuộc nhóm cơ bản, mức phí địa phương bao nhiêu rồi mới bàn phần còn lại. Giá dịch vụ trong danh mục được ấn định theo quy định; ngoài danh mục là tự chọn. Phân biệt hai nhóm mới có căn cứ nói về khoản bị thu thêm. Muốn lo hậu sự cho người thân tươm tất hơn không có gì sai; không khuyên bạn phải làm đơn giản, tiền chi vào đâu do bạn quyết định.",
+    "extra": ""
+  }
+}

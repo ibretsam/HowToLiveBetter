@@ -1,0 +1,15 @@
+{
+  "id": "e-7-23",
+  "source_sha256": "61e30832ab2e24b874b8e420e2c6c25df79d46aa1dc0340b9eb76614361b40dd",
+  "draft_sha256": "ce23637e6ea217af3bcb3825f324ac3b7b6e9e894a26294b80286e642ee3fade",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison and all source citations. Preserved bank MAY negotiate/refuse,5year maximum, collection resumes on breach, oral-record retention to repayment, installment exception, online-loan contractual uncertainty, totalfive agencies, credit-negative5years from ending event, >=50000-CNY malicious principal threshold, statutory extendable6month vs3month procedures. No translation change. Source categorical anti-intermediary warnings remain attributed; not reverified or expanded."
+}

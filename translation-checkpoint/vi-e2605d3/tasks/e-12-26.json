@@ -1,0 +1,35 @@
+{
+  "id": "e-12-26",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "de0a2753368d97a65248e18bcdfe68a6da256ab7cd54e102d68e3929bf86049a",
+  "original": {
+    "number": 26,
+    "title": "找人凑钱做生意，只找亲友和员工当面谈，不在朋友圈、群里公开招人投钱，也别让亲友替你再去拉人",
+    "fields": {
+      "cost": "不花钱。借钱、拉人入股，只找自己认识的亲戚朋友和员工，一个一个当面谈。不发朋友圈，不在群里发，不印传单，不开推介会。亲友说「我帮你再问问别人」，要当场拦住。难的是缺钱时，「多拉几个人」看着来钱最快。",
+      "plain": "找亲友和员工借钱、凑股，本身不犯法。犯法的是公开宣传、向不认识的人收钱，又答应还本付息或者给回报。收到 100 万元，或者收了 150 个人的钱，就够判刑，起步 3 年以下。钱用在正经生意上、起诉前全退还的，可以免予刑事处罚。",
+      "benefit": "刑法第一百七十六条管的是「非法吸收公众存款或者变相吸收公众存款，扰乱金融秩序的」。判 3 年以下有期徒刑或者拘役，同时罚钱，或者只罚钱。数额巨大或者有其他严重情节的，判 3 到 10 年。数额特别巨大或者有其他特别严重情节的，判 10 年以上。最高人民法院的司法解释写明，四个条件同时具备才算。一是没经有关部门依法许可，或者借合法经营的外壳收钱。二是通过网络、媒体、推介会、传单、手机信息等途径向社会公开宣传。三是答应在一定期限内用钱、实物、股权等方式还本付息或者给回报。四是向社会上不特定的人收钱。同一条接着写：「未向社会公开宣传，在亲友或者单位内部针对特定对象吸收资金的，不属于非法吸收或者变相吸收公众存款。」但两高一部的意见又划出两种例外，照样算向社会公众收钱。一是向亲友或者员工收钱时，明知他们在替你向不认识的人收钱，却放任不管。二是为了收钱，先把外人招进来当员工，再向他们收钱。够判刑的线有三条，到一条就算：收了 100 万元以上，收了 150 人以上，或者让人直接亏了 50 万元以上。收了 500 万元以上、500 人以上，或者让人亏了 250 万元以上的，进 3 到 10 年那一档。数额按收进来的钱全额算。钱主要用在正常的生产经营上，起诉前能把收的钱全部退还的，可以免予刑事处罚。情节显著轻微、危害不大的，不当犯罪处理。没到判刑的程度，还有行政处罚。当地处置非法集资的牵头部门，按集资金额罚 20% 到 1 倍。单位集资的，对法定代表人和直接负责的人「给予警告，处50万元以上500万元以下的罚款」（全国，司法解释 2022 年 3 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020). 刑法修正案（十一）（第十二项，即刑法第一百七十六条）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；最高人民法院 (2022 修正). 关于审理非法集资刑事案件具体应用法律若干问题的解释（法释〔2022〕5 号修正，第一、三、四、六条）. <https://www.court.gov.cn/fabu/xiangqing/346901.html>；最高人民法院、最高人民检察院、公安部 (2014). 关于办理非法集资刑事案件适用法律若干问题的意见（第二、三点）. <https://www.spp.gov.cn/zdgz/201404/t20140401_70180.shtml>；国务院 (2021). 防范和处置非法集资条例（国务院令第 737 号，第二、十九、二十五、三十条）. <https://www.gov.cn/zhengce/zhengceku/2021-02/10/content_5586632.htm>",
+      "notes": "一旦被认定为非法集资，借钱给你的亲友也要吃亏。条例第二十五条写明，参与非法集资受到的损失，由出钱的人自己承担。条例第十九条还点名了一种做生意时常见的形式：卖东西、做服务、投项目时，答应给钱、股权、实物回报来收钱。店里卖储值卡、会员卡顺带许诺返利分红，向不认识的顾客收，就落在这一条里。缺钱时更稳的路是找银行贷款，或者把钱换成股份、写进合伙协议，见第 28 条（合伙协议）。出钱的人怎么防，见第 5 节第 6 条（「高收益」「保本」「稳赚」）。老人怎么防，见第 17 节第 5 条（「投资养老」都别碰）。受益人主要是你自己，其次是借钱给你的亲友。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Huy động tiền kinh doanh thì chỉ bàn trực tiếp với người thân, bạn bè và nhân viên; không công khai gọi vốn trên Moments, nhóm chat, cũng không để họ kéo thêm người",
+    "cost": "Không tốn tiền. Vay hoặc mời góp vốn chỉ tìm người thân, bạn bè, nhân viên mình biết và gặp riêng từng người. Không đăng Moments, trong nhóm chat, không in tờ rơi hay tổ chức giới thiệu. Người thân, bạn bè nói sẽ hỏi thêm người khác thì ngăn ngay. Điều khó là khi thiếu tiền, kéo thêm vài người trông như cách có tiền nhanh nhất.",
+    "plain": "Vay hoặc huy động vốn từ người thân, bạn bè, nhân viên tự nó không phạm pháp. Điều phạm pháp là công khai quảng bá, nhận tiền của người không quen và hứa trả gốc lãi hoặc lợi ích. Nhận đủ 100 vạn nhân dân tệ hoặc tiền của 150 người là đến ngưỡng hình sự, khung đầu đến 3 năm tù. Tiền dùng kinh doanh hợp pháp và hoàn trả hết trước khi truy tố thì có thể được miễn hình phạt hình sự.",
+    "benefit": "Điều một trăm bảy mươi sáu Bộ luật Hình sự xử “huy động tiền gửi công chúng trái phép hoặc dưới hình thức biến tướng, gây rối trật tự tài chính”, phạt đến 3 năm tù hoặc câu dịch (giam giữ ngắn hạn), kèm phạt tiền hoặc chỉ phạt tiền. Số tiền rất lớn hoặc tình tiết nghiêm trọng khác thì từ 3 đến 10 năm tù; số tiền đặc biệt lớn hoặc tình tiết đặc biệt nghiêm trọng khác thì từ 10 năm tù trở lên. Giải thích của Tòa án Nhân dân Tối cao yêu cầu đồng thời đủ bốn điều kiện: không được cơ quan liên quan cấp phép theo luật, hoặc dùng kinh doanh hợp pháp làm vỏ bọc nhận tiền; công khai quảng bá qua mạng, truyền thông, buổi giới thiệu, tờ rơi, tin nhắn; hứa trong một thời hạn sẽ hoàn gốc lãi hoặc lợi ích bằng tiền, hiện vật, cổ phần; nhận tiền từ những người không xác định trong xã hội. Cùng điều quy định: “Không công khai quảng bá ra xã hội, huy động tiền từ đối tượng xác định trong người thân, bạn bè hoặc nội bộ đơn vị thì không thuộc huy động tiền gửi công chúng trái phép hoặc biến tướng.” Nhưng ý kiến liên ngành của tòa tối cao, viện kiểm sát tối cao và Bộ Công an nêu hai ngoại lệ vẫn tính nhận tiền từ công chúng: biết người thân, bạn bè, nhân viên đang huy động từ người không quen hộ mình mà vẫn để mặc; hoặc vì huy động tiền mà tuyển người ngoài vào làm nhân viên trước rồi thu tiền. Có ba ngưỡng hình sự, chỉ cần đạt một: nhận từ 100 vạn nhân dân tệ, từ 150 người, hoặc gây thiệt hại trực tiếp từ 50 vạn nhân dân tệ trở lên. Nhận từ 500 vạn, từ 500 người, hoặc gây thiệt hại từ 250 vạn trở lên thì vào khung 3 đến 10 năm. Số tiền tính toàn bộ đã nhận. Nếu tiền chủ yếu dùng sản xuất kinh doanh bình thường và hoàn trả toàn bộ trước truy tố thì có thể miễn hình phạt hình sự. Tình tiết rõ ràng rất nhẹ, tác hại không lớn thì không xử lý như tội phạm. Chưa đến hình sự vẫn có xử phạt hành chính: cơ quan đầu mối xử lý huy động vốn trái phép địa phương phạt từ 20% đến 1 lần số vốn. Đơn vị huy động vốn thì người đại diện theo pháp luật và người trực tiếp chịu trách nhiệm bị “cảnh cáo, phạt từ 50 vạn đến 500 vạn nhân dân tệ” (toàn quốc, giải thích tư pháp có hiệu lực từ ngày 1 tháng 3 năm 2022).",
+    "notes": "Khi bị xác định huy động vốn trái phép, người thân, bạn bè cho bạn vay cũng thiệt. Điều hai mươi lăm của điều lệ quy định người góp tiền tự chịu thiệt hại do tham gia huy động vốn trái phép. Điều mười chín còn nêu kiểu thường gặp khi kinh doanh: bán hàng, cung cấp dịch vụ, đầu tư dự án rồi hứa trả tiền, cổ phần, hiện vật để thu tiền. Cửa hàng bán thẻ nạp trước, thẻ thành viên kèm hứa hoàn lợi, chia lãi để thu tiền khách không quen thuộc nhóm này. Khi thiếu tiền, đường vững hơn là vay ngân hàng hoặc đổi tiền góp thành phần vốn và ghi vào thỏa thuận hợp danh, xem mục 28 (thỏa thuận hợp danh). Người góp tiền tự phòng tránh thế nào xem chương 5 mục 6 (“lợi nhuận cao”, “bảo toàn vốn”, “chắc lãi”). Người cao tuổi phòng tránh xem chương 17 mục 5 (tránh mọi lời mời “đầu tư dưỡng lão”). Người hưởng lợi chính là bạn, tiếp đến là người thân, bạn bè cho vay.",
+    "extra": ""
+  }
+}

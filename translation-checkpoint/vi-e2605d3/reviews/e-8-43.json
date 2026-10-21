@@ -1,0 +1,15 @@
+{
+  "id": "e-8-43",
+  "source_sha256": "1669f60ba75cbf136e25ec9b96b1b98672fb1e361e48812c01a9c57ba7a4382e",
+  "draft_sha256": "2ea61ba9e3bd37d436b2cd65d5557749e47e91ddd74430f0c0d3b1be0fa6e1ec",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Bounded correction: attempted homicide now giết người chưa đạt, replacing ambiguous mưu sát. Preserved66countries,38.6%/6.3%,506/427population counts, OR6.70(3.91–11.49) and7.48(4.53–12.35); odds explained as odds rather than probability ratio.72/24hours,6months,<=1000CNY/<=15days, protection not safety guarantee, independent divorce action/statutory extendable6month trial intact. Foreign data limitation remains explicit; no external medical/legal verification."
+}

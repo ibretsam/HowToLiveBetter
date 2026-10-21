@@ -1,0 +1,35 @@
+{
+  "id": "e-3-21",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "aed625c9181b3397630ea84feab487060b6c22d89ea7b3799635c71184bab8fa",
+  "original": {
+    "number": 21,
+    "title": "觉得「所有人都看见我出丑了」的时候，把这个估计除以二",
+    "fields": {
+      "cost": "不花钱。只是在紧张的时候多问自己一句：他们真的看见了吗。",
+      "plain": "穿尴尬的 T 恤进屋，以为将近一半人认得出衣服上印的是谁，实际不到四分之一。换成体面的 T 恤也一样高估。小组讨论完，人也以为自己说错的话在别人眼里更显眼，聊天后还常低估对方有多喜欢自己。所以觉得「所有人都看见我出丑了」时，实际往往只有一半或更少。",
+      "benefit": "实验一：让参与者穿上印有 Barry Manilow 头像的 T 恤，走进有其他参与者的房间。穿的人平均估计 46% 的旁观者能正确指出衣服上的人是谁。旁观者实际正确率 23%，估计值恰为实际值的两倍。逐场把估计值减去实际值，平均高估 23 个百分点（95% CI 9–38，可信范围）。剔除只有两名和三名旁观者的那两场之后，为 27 个百分点（11–43）。实验二：改穿参与者自选的、自认为正面的 T 恤。平均估计 48%，旁观者实际正确率 8%，为六倍。作者在脚注里说，两次实验穿的人估计得几乎一样（48% 和 46%），差在旁观者的正确率（8% 和 23%）。作者怀疑主要原因是实验二给旁观者的问卷更费神，不是体面的衣服更容易被高估。实验三：本科生分成 3 到 7 人的小组，讨论一个指定话题 20 分钟，再一起写一份政策建议。讨论刚结束，每人分开估计组里其他人会怎么给大家排名，名次数字越小越靠前。在「说错话的多少」上，自己估计的名次平均 2.30，别人实际给的名次 2.96，差 −0.66（p < .01）。所以人们以为自己说错的话在别人眼里更显眼。「可能冒犯人的话」一项也一样（2.35 对 2.90，p < .01），「会被别人挑剔的话」差得小一些（2.61 对 2.82，p < .05）。另一系列研究有三种场景：陌生人配对交谈、大学新生室友、成人工作坊。结果是人们系统性低估交谈对象对自己的喜欢程度，也低估对方对这次交谈的享受程度。作者称之为「喜欢差」。不同长度的交谈中都存在，在新生室友之间持续数月。",
+      "grade": "B",
+      "sources": "Gilovich T, Medvec VH, Savitsky K (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211–222. <https://doi.org/10.1037/0022-3514.78.2.211>；Boothby EJ, Cooney G, Sandstrom GM, Clark MS (2018). The Liking Gap in Conversations: Do People Like Us More Than We Think? Psychological Science, 29(11), 1742–1756. <https://doi.org/10.1177/0956797618783714>",
+      "notes": "定 B 的理由：都是人数不多的实验室与校园研究。场景是穿衣服、跟陌生人或室友聊天，以及学生小组讨论，讨论刚结束时就问。搬到「被同事议论」「开会说错话过几天还有没有人记得」上，没有直接证据。这些数字只说明高估的方向和大致倍数，没法当系数套。别人的看法也不是都不重要。真正在评价你的场合，比如面试、答辩、考核、体检报告，评价是实打实的，该准备就准备。要打折的只是日常里那种「所有人都在看我」的感觉，那部分要对付的是你自己的估计偏差。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi nghĩ “ai cũng thấy mình bẽ mặt”, hãy chia đôi ước tính đó",
+    "cost": "Không tốn tiền. Chỉ cần lúc căng thẳng tự hỏi thêm: họ thật sự thấy sao?",
+    "plain": "Mặc chiếc áo phông gây ngượng vào phòng, người mặc tưởng gần một nửa số người nhận ra hình ai trên áo, nhưng thực tế chưa đến một phần tư. Đổi sang áo phông thể diện hơn vẫn ước tính quá cao. Sau thảo luận nhóm, người ta cũng nghĩ người khác chú ý đến lời nói sai của mình hơn thực tế, và sau trò chuyện thường đánh giá thấp mức đối phương thích mình. Vì vậy, khi nghĩ “ai cũng thấy mình bẽ mặt”, thực tế thường chỉ bằng một nửa hoặc ít hơn.",
+    "benefit": "Thí nghiệm thứ nhất: người tham gia mặc áo phông in hình Barry Manilow, đi vào phòng có những người tham gia khác. Người mặc ước tính trung bình 46% người quan sát có thể chỉ đúng người trên áo. Tỷ lệ trả lời đúng thực tế của người quan sát là 23%, nghĩa là ước tính đúng bằng gấp đôi thực tế. Lấy ước tính trừ thực tế trong từng buổi, trung bình ước tính cao hơn 23 điểm phần trăm (95% CI 9–38, khoảng tin cậy). Sau khi bỏ hai buổi chỉ có hai và ba người quan sát, mức chênh là 27 điểm phần trăm (11–43). Thí nghiệm thứ hai: đổi sang áo phông người tham gia tự chọn và cho là tích cực. Ước tính trung bình 48%, tỷ lệ đúng thực tế của người quan sát 8%, chênh sáu lần. Trong chú thích, tác giả nói người mặc ước tính gần như nhau ở hai thí nghiệm (48% và 46%); khác biệt nằm ở tỷ lệ đúng của người quan sát (8% và 23%). Tác giả nghi nguyên nhân chính là bảng hỏi cho người quan sát trong thí nghiệm thứ hai đòi hỏi suy nghĩ hơn, không phải áo thể diện dễ bị ước tính quá cao hơn. Thí nghiệm thứ ba: sinh viên đại học chia nhóm 3 đến 7 người, thảo luận chủ đề cho sẵn 20 phút rồi cùng viết đề xuất chính sách. Ngay sau thảo luận, từng người ước tính riêng những người còn lại sẽ xếp hạng mọi người ra sao; số thứ hạng càng nhỏ càng đứng trước. Ở tiêu chí “số lời nói sai”, thứ hạng tự ước tính trung bình là 2.30, trong khi người khác thực sự xếp là 2.96, chênh −0.66 (p < .01). Vì vậy, người ta tưởng lời nói sai của mình nổi bật hơn trong mắt người khác. Tiêu chí “lời có thể xúc phạm” cũng vậy (2.35 so với 2.90, p < .01); tiêu chí “lời có thể bị người khác bắt bẻ” chênh ít hơn (2.61 so với 2.82, p < .05). Một loạt nghiên cứu khác có ba bối cảnh: người lạ trò chuyện theo cặp, sinh viên mới ở chung phòng và hội thảo thực hành cho người lớn. Kết quả là người ta có xu hướng đánh giá thấp mức đối phương thích mình và mức họ thích cuộc trò chuyện. Tác giả gọi là “khoảng cách thiện cảm”. Hiện tượng tồn tại ở cuộc trò chuyện dài ngắn khác nhau và kéo dài nhiều tháng giữa sinh viên mới ở chung phòng.",
+    "notes": "Lý do xếp mức B: đều là nghiên cứu trong phòng thí nghiệm và trường học với số người không nhiều. Bối cảnh là mặc áo, trò chuyện với người lạ hoặc bạn cùng phòng, thảo luận nhóm sinh viên, và hỏi ngay sau thảo luận. Không có bằng chứng trực tiếp cho “bị đồng nghiệp bàn tán” hoặc “nói sai trong cuộc họp thì vài ngày sau còn ai nhớ không”. Các số chỉ cho thấy chiều hướng ước tính quá cao và số lần chênh lệch tương đối, không thể áp dụng như hệ số. Cũng không phải mọi nhận xét của người khác đều không quan trọng. Ở nơi thực sự đánh giá bạn như phỏng vấn, bảo vệ luận văn, sát hạch hay báo cáo khám sức khỏe, đánh giá là thật và cần chuẩn bị thì hãy chuẩn bị. Chỉ nên giảm trọng lượng của cảm giác thường ngày “mọi người đều đang nhìn mình”; điều cần xử lý ở đó là thiên lệch trong ước tính của chính bạn.",
+    "extra": ""
+  }
+}

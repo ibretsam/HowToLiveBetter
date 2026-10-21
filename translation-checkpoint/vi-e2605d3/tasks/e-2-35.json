@@ -1,0 +1,35 @@
+{
+  "id": "e-2-35",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "9507d8c657780c5deb22819ea57584c5153c1371b7a1ae82d07a52be6efc36d7",
+  "original": {
+    "number": 35,
+    "title": "鸡蛋不用戒，一天一个以内就行",
+    "fields": {
+      "cost": "不花钱，也不占时间。",
+      "plain": "每天多吃半个全蛋，同期死亡的概率高约 7%。把这半个换成蛋清、鱼、禽肉或者坚果，死亡风险反而更低。但另一批研究发现，每天一个鸡蛋以内，和心血管病没看出关联，所以不用戒鸡蛋。",
+      "benefit": "美国一项 52.1 万人的跟踪研究，共 12.9 万人去世。每天多吃半个全蛋，死亡风险高约 7%（风险比 1.07，95% CI 1.06–1.08，这是可信范围）。把这半个全蛋换成等量的蛋清、禽肉、鱼、奶制品或者坚果豆类，死亡风险会更低，心血管、癌症、呼吸系统这三项的死亡风险也都更低。反方：美国三项大研究共 21.6 万人，最长跟了 32 年。每天至少一个鸡蛋的人，和一个月不到一个的人比，心血管病风险没有差别（HR 0.93，95% CI 0.82–1.05）。同一篇把 33 组数据、172 万人合起来算，每天多吃一个鸡蛋，心血管病风险也没变（RR 0.98，0.93–1.03）。论文作者的结论是，每天最多一个鸡蛋和心血管病没有关联。",
+      "grade": "B",
+      "sources": "Zhuang P, Wu F, Mao L, et al. (2021). Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study. PLoS Medicine, 18(2), e1003508. <https://doi.org/10.1371/journal.pmed.1003508>；Drouin-Chartier JP, Chen S, Li Y, et al. (2020). Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis. BMJ, 368, m513. <https://doi.org/10.1136/bmj.m513>；U.S. Department of Health and Human Services, U.S. Department of Agriculture (2015). 2015–2020 Dietary Guidelines for Americans, Chapter 1：「The Key Recommendation from the 2010 Dietary Guidelines to limit consumption of dietary cholesterol to 300 mg per day is not included in the 2015 edition, but this change does not suggest that dietary cholesterol is no longer important to consider」「individuals should eat as little dietary cholesterol as possible while consuming a healthy eating pattern」. <https://www.dietaryguidelines.gov/sites/default/files/2019-05/2015-2020_Dietary_Guidelines.pdf>",
+      "notes": "争议很大：也有长期跟踪大批人的研究，以及多项研究的汇总，没发现每天一个鸡蛋和心血管病有关。美国膳食指南 2015 版取消了胆固醇每天 300 毫克的上限。但它同时说，这不等于胆固醇不重要，吃得健康的前提下要尽量少吃。一天一个，目前看和心血管病没有关联。标题里「一天一个以内」按的就是这个结果，更多的没有研究直接测过"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không cần bỏ trứng, mỗi ngày không quá một quả là được",
+    "cost": "Không tốn tiền, cũng không mất thời gian.",
+    "plain": "Mỗi ngày ăn thêm nửa quả trứng nguyên có liên quan đến khả năng tử vong trong cùng thời gian cao hơn khoảng 7%. Thay nửa quả đó bằng lòng trắng, cá, thịt gia cầm hoặc các loại hạt thì nguy cơ tử vong lại thấp hơn. Nhưng một nhóm nghiên cứu khác không thấy mối liên hệ giữa ăn không quá một quả trứng mỗi ngày và bệnh tim mạch, nên không cần bỏ trứng.",
+    "benefit": "Một nghiên cứu theo dõi 52.1 vạn người ở Mỹ ghi nhận 12.9 vạn người tử vong. Mỗi ngày ăn thêm nửa quả trứng nguyên đi kèm nguy cơ tử vong cao hơn khoảng 7% (tỷ số nguy cơ 1.07, 95% CI 1.06–1.08, đây là khoảng tin cậy). Thay nửa quả trứng nguyên đó bằng lượng tương đương lòng trắng, thịt gia cầm, cá, sản phẩm sữa hoặc các loại hạt và đậu thì nguy cơ tử vong thấp hơn; tử vong do tim mạch, ung thư và bệnh hô hấp đều thấp hơn. Bằng chứng phía đối lập: ba nghiên cứu lớn ở Mỹ gồm 21.6 vạn người, theo dõi lâu nhất 32 năm. Người ăn ít nhất một quả trứng mỗi ngày so với người ăn chưa đến một quả mỗi tháng không có khác biệt về nguy cơ bệnh tim mạch (HR 0.93, 95% CI 0.82–1.05). Cùng bài gộp 33 nhóm dữ liệu, 172 vạn người, cho thấy mỗi ngày thêm một quả trứng cũng không làm thay đổi nguy cơ bệnh tim mạch (RR 0.98, 0.93–1.03). Tác giả kết luận ăn tối đa một quả trứng mỗi ngày không liên quan đến bệnh tim mạch.",
+    "notes": "Tranh luận rất lớn: cũng có nghiên cứu theo dõi đông người lâu dài và tổng hợp nhiều nghiên cứu không thấy ăn một quả trứng mỗi ngày liên quan đến bệnh tim mạch. Hướng dẫn ăn uống của Mỹ phiên bản 2015 bỏ trần cholesterol 300 miligam mỗi ngày. Nhưng hướng dẫn đồng thời nói điều đó không có nghĩa cholesterol không quan trọng; trong một chế độ ăn lành mạnh vẫn cần ăn ít nhất có thể. Một quả mỗi ngày hiện không thấy liên quan đến bệnh tim mạch. Cụm “không quá một quả mỗi ngày” trong tiêu đề dựa trên kết quả này; lượng nhiều hơn chưa được nghiên cứu trực tiếp đo lường.",
+    "extra": ""
+  }
+}

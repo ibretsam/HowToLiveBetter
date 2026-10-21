@@ -1,0 +1,15 @@
+{
+  "id": "intro-26",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "ca545e24d910b1b2827408b4280c57985492dd3307d89e8b492ea8340ce56e25",
+  "original": {
+    "title": "做一个网站或平台：资质、备案和服务器",
+    "intro": "你想做一个网站或者 App。本节回答四件事：它在法律上算哪种生意，要办哪张证，服务器放在哪里，用户在上面发的东西和收的钱谁来负责。口径是人身自由与金钱。你是受雇的技术人员，红线见第 11 节。公司怎么注册、怎么报税，见第 12 节，本节不重复。各类证的对照表和选服务器的决策表，见 [docs/做平台要办哪些证.md](../docs/做平台要办哪些证.md)。"
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Làm website hoặc nền tảng: giấy phép, đăng ký và máy chủ",
+    "intro": "Bạn muốn làm website hoặc ứng dụng. Chương này trả lời bốn việc: pháp luật coi đó là loại kinh doanh gì, cần giấy phép nào, đặt máy chủ ở đâu, ai chịu trách nhiệm với nội dung người dùng đăng và tiền thu trên đó. Tiêu chí là tự do thân thể và tiền bạc. Nếu là nhân viên kỹ thuật được thuê, xem các giới hạn pháp luật ở chương 11. Đăng ký công ty, khai thuế xem chương 12; chương này không lặp lại. Bảng đối chiếu các giấy phép và bảng quyết định chọn máy chủ xem [Làm nền tảng cần giấy phép nào](../docs/做平台要办哪些证.md)."
+  }
+}

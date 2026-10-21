@@ -1,0 +1,15 @@
+{
+  "id": "e-19-24",
+  "source_sha256": "4f6694a229cd56fc988def6acccf5589c2c48a8a5e851dabf23530408ca1d06a",
+  "draft_sha256": "b44f5c6f77bdfc4a09e85633269db65033fcadfdff73c91293bea696e0bc686a",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified at-least-two-year contract, no-more-than-six-month temporary position, ten-percent workforce cap, equal remuneration method rather than identical take-home pay, joint liability and injury-reporting roles, lower-condition reassignment refusal, effective date, and updated six-month extendable trial deadline. Preserved source title/plain shorthand about injury at the host unit; detailed benefit retains causation condition."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-19-23",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "7205375033a1378e206e5606e4eebc4afb02099c1b5f7ab2fdeb2651ab1ab64b",
+  "original": {
+    "number": 23,
+    "title": "单位要给你调岗、降薪，你不同意就当场书面提出来，别默不作声按新安排干上一个多月",
+    "fields": {
+      "cost": "不花钱。收到调岗、降薪的通知后，发一条书面消息说明不同意，截图存好，几分钟。难在人还在这家干，要顶住当面翻脸的压力。单位因此辞退你或者扣钱，要走劳动仲裁。仲裁不收费，受理后 45 天内结案，最多再延 15 天。不服的再去法院，一审普通程序按规定 6 个月内审完，可以延长，律师费自己出。",
+      "plain": "改岗位、改工资是改合同，要双方商量一致，还要写成书面。但你一声不吭、按新岗位新工资干了一个多月，法院一般不会再因为没签书面就判变更无效。不同意就当场书面说，微信和邮件都算。",
+      "benefit": "劳动合同法规定，单位和劳动者协商一致，才可以变更劳动合同约定的内容。变更要用书面形式。最高法的司法解释另有一条。双方协商一致口头变更了合同，又按新内容实际干了超过一个月的，变更照样有效。这时再拿「没用书面形式」说变更无效，法院不支持。前提是变更后的内容不违法，也不违背公序良俗。北京高院和北京仲裁委的口径是这样的。合同里没写岗位或者写得不明确的，单位有正当理由、按经营需要合理调岗，算单位自主用工。合不合理看四样：经营上有没有必要、目的正不正当、新岗位你能不能胜任、工资待遇有没有变差。合同写明了岗位、又没约定怎么调的，单位自己调岗属于违约，要参照原岗位的工资补发差额。合同把工作地点写成「全国」「北京」这种大范围的，算约定不明，以你实际上班的地点为准。单位没有正当理由，不得变更这个地点。单位没有及时足额付工资的，你可以解除劳动合同，单位要付经济补偿（全国；北京口径只在北京适用）",
+      "grade": "B",
+      "sources": "全国人大常委会 (2012 修正). 劳动合同法（第三十五条，第三十八条第一款第二项，第四十条第三项，第四十六条第一项）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193025/content.html>（国家税务总局政策法规库转载）；最高人民法院 (2020). 关于审理劳动争议案件适用法律问题的解释（一）（法释〔2020〕26 号，第四十三条）. <https://www.court.gov.cn/fabu/xiangqing/282121.html>；北京市高级人民法院、北京市劳动人事争议仲裁委员会 (2024). 关于审理劳动争议案件解答（一）（京高法发〔2024〕534 号，第 59 问、第 60 问、第 61 问）. <https://www.beijing.gov.cn/zhengce/fygfxwj/202405/t20240530_3699652.html>；全国人大常委会 (2007). 劳动争议调解仲裁法（第四十三条）. <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载）；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、十三条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>",
+      "notes": "定 B 的理由：「不吭声照干就算同意」法条没有直接写。它是从司法解释第四十三条和各地裁判口径推出来的。全国没有统一的「合理调岗」标准，上面列的是北京的口径。书面提出异议以后，最好照常到岗、写明保留意见，因为拒不到岗可能被单位按旷工辞退。调岗后来被认定不合理，这次辞退就是违法解除，按本节第 6 条（违法解除的赔偿金）算。被认定合理，就拿不到这笔钱。订合同时的客观情况发生重大变化、和你协商变更不成的，单位可以解除合同。这时要按本节第 5 条（没提前 30 天通知）给钱。降薪以后被少发的工资怎么要，见第 7 节第 2 条（被欠薪先投诉劳动监察）。收益定中是凭判断：降薪幅度各家不同，没有统一的数。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Đơn vị muốn chuyển vị trí công việc hoặc giảm lương mà bạn không đồng ý thì hãy phản đối ngay bằng văn bản; đừng im lặng làm theo bố trí mới suốt hơn một tháng",
+    "cost": "Không tốn tiền. Sau khi nhận thông báo chuyển vị trí hoặc giảm lương, gửi một tin nhắn bằng văn bản nêu rõ không đồng ý rồi chụp màn hình lưu lại, mất vài phút. Khó là vẫn làm ở đó và phải chịu áp lực đối đầu trực tiếp. Nếu đơn vị vì thế cho bạn nghỉ việc hoặc khấu trừ tiền, phải yêu cầu trọng tài lao động giải quyết. Trọng tài không thu phí, giải quyết trong 45 ngày sau khi thụ lý, có thể gia hạn thêm tối đa 15 ngày. Không đồng ý với kết quả thì ra tòa; sơ thẩm theo thủ tục thông thường từ 6 tháng trở lên, bạn tự trả phí luật sư.",
+    "plain": "Đổi vị trí công việc hoặc đổi lương là thay đổi hợp đồng, cần hai bên thỏa thuận thống nhất và lập thành văn bản. Nhưng nếu bạn im lặng làm theo vị trí và mức lương mới hơn một tháng, tòa án nhìn chung sẽ không tuyên việc thay đổi vô hiệu chỉ vì chưa ký văn bản. Không đồng ý thì hãy nói ngay bằng văn bản; WeChat và email đều được tính.",
+    "benefit": "Luật Hợp đồng lao động quy định chỉ khi đơn vị và người lao động thỏa thuận thống nhất thì mới được thay đổi nội dung đã thỏa thuận trong hợp đồng. Việc thay đổi phải lập thành văn bản. Giải thích tư pháp của Tòa án Nhân dân Tối cao còn có một quy định khác. Nếu hai bên đã thống nhất bằng lời nói để thay đổi hợp đồng và thực tế đã làm theo nội dung mới hơn một tháng thì thay đổi đó vẫn có hiệu lực. Khi ấy, tòa án không chấp nhận yêu cầu coi thay đổi là vô hiệu chỉ vì “không dùng hình thức văn bản”. Điều kiện là nội dung sau thay đổi không trái pháp luật, trật tự công cộng hay đạo đức xã hội. Cách áp dụng của Tòa án Nhân dân cấp cao Bắc Kinh và ủy ban trọng tài Bắc Kinh như sau. Nếu hợp đồng không ghi vị trí công việc hoặc ghi không rõ, việc đơn vị có lý do chính đáng và chuyển vị trí hợp lý theo nhu cầu kinh doanh thuộc quyền tự chủ sử dụng lao động của đơn vị. Tính hợp lý được xét theo bốn điểm: có cần thiết cho hoạt động kinh doanh hay không, mục đích có chính đáng không, bạn có đủ khả năng làm vị trí mới không và tiền lương, chế độ có bị giảm không. Nếu hợp đồng đã ghi rõ vị trí mà không thỏa thuận cách điều chuyển, đơn vị tự chuyển vị trí là vi phạm hợp đồng, phải trả bù chênh lệch theo mức lương của vị trí cũ. Nếu hợp đồng ghi nơi làm việc trong phạm vi rộng như “toàn quốc” hoặc “Bắc Kinh”, thì được xem là thỏa thuận không rõ, lấy nơi bạn thực tế làm việc làm căn cứ. Không có lý do chính đáng, đơn vị không được thay đổi nơi này. Nếu đơn vị không trả lương đủ và đúng hạn, bạn có thể chấm dứt hợp đồng lao động và đơn vị phải trả trợ cấp kinh tế khi chấm dứt hợp đồng (toàn Trung Quốc; cách áp dụng của Bắc Kinh chỉ áp dụng tại Bắc Kinh).",
+    "notes": "Lý do xếp mức B: điều luật không trực tiếp ghi “im lặng làm tiếp thì được coi là đồng ý”. Đây là cách suy ra từ điều bốn mươi ba của giải thích tư pháp và cách xét xử ở các địa phương. Không có tiêu chuẩn thống nhất toàn quốc về “điều chuyển vị trí hợp lý”; những điểm liệt kê ở trên là cách áp dụng của Bắc Kinh. Sau khi phản đối bằng văn bản, tốt nhất vẫn đến làm bình thường và ghi rõ bảo lưu ý kiến, vì từ chối đến làm có thể khiến đơn vị cho bạn nghỉ vì tự ý vắng mặt. Nếu sau đó việc chuyển vị trí bị xác định là không hợp lý, lần cho nghỉ này là chấm dứt hợp đồng trái luật, tính theo mục 6 của chương này (bồi thường khi chấm dứt hợp đồng trái luật). Nếu việc điều chuyển được xác định là hợp lý, bạn không nhận được khoản tiền ấy. Khi hoàn cảnh khách quan lúc ký hợp đồng đã thay đổi lớn và việc thương lượng sửa đổi với bạn không thành, đơn vị có thể chấm dứt hợp đồng. Khi đó phải trả tiền theo mục 5 của chương này (không báo trước 30 ngày). Cách đòi phần lương bị trả thiếu sau khi giảm lương xem chương 7 mục 2 (bị nợ lương thì trước tiên khiếu nại với thanh tra lao động). Mức lợi ích được xếp trung bình theo nhận định: mức giảm lương mỗi nơi khác nhau, không có con số thống nhất.",
+    "extra": ""
+  }
+}

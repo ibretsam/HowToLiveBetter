@@ -1,0 +1,35 @@
+{
+  "id": "e-4-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "8f242f54e1e167bf20f8cc5309ede28a65e5c514ffaaacf70add86e4988eddc3",
+  "original": {
+    "number": 1,
+    "title": "把「打算做」写成「几点、在哪、遇到什么就做什么」",
+    "fields": {
+      "cost": "不花钱。每件事花 1 到 2 分钟，写一句「如果……就……」。比如「周二早 8 点坐到书桌前就先写引言」。",
+      "plain": "把「我要做这件事」改写成「周二早 8 点坐到书桌前就先写引言」。94 项检验合起来算，这么写的人把目标做成的比例明显更高，属于中到大的效果。改的只是一句话的写法，不花钱，也不费力气。",
+      "benefit": "把 94 项独立检验合起来算，先把打算写成「如果……就……」的人，目标达成率更高。这种写法在心理学里叫实施意图。效果大小 d = 0.65，算中到大。管用的环节有三个：开始动手、被打扰的时候顶住、从注定做不成的事上撤出来。",
+      "grade": "A",
+      "sources": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119. <https://doi.org/10.1016/S0065-2601(06)38002-1>",
+      "notes": "这招只对你自己真想做的事有效。目标本身你就不想要，写再多句也没用。另外，这些研究找的多是学生，看的多是健康方面的习惯，搬到工作场景不一定同样管用。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Viết “định làm” thành “mấy giờ, ở đâu, gặp tình huống nào thì làm gì”",
+    "cost": "Không tốn tiền. Mỗi việc dành 1 đến 2 phút viết một câu “nếu… thì…”. Ví dụ: “Sáng thứ ba lúc 8 giờ, vừa ngồi vào bàn học thì viết phần mở đầu trước”.",
+    "plain": "Đổi “tôi sẽ làm việc này” thành “sáng thứ ba lúc 8 giờ, vừa ngồi vào bàn học thì viết phần mở đầu trước”. Tổng hợp 94 phép kiểm nghiệm cho thấy người viết như vậy có tỷ lệ hoàn thành mục tiêu cao hơn rõ rệt, với hiệu quả từ trung bình đến lớn. Chỉ đổi cách viết một câu, không tốn tiền hay công sức.",
+    "benefit": "Tổng hợp 94 phép kiểm nghiệm độc lập cho thấy người viết dự định thành câu “nếu… thì…” trước có tỷ lệ đạt mục tiêu cao hơn. Trong tâm lý học, cách viết này gọi là ý định thực hiện. Độ lớn hiệu quả d = 0.65, được coi là từ trung bình đến lớn. Nó có tác dụng ở ba khâu: bắt tay vào làm, giữ được việc đang làm khi bị quấy rầy, và rút khỏi việc chắc chắn không thể thành công.",
+    "notes": "Cách này chỉ hiệu quả với việc bạn thực sự muốn làm. Nếu bản thân không muốn mục tiêu đó, viết bao nhiêu câu cũng vô ích. Ngoài ra, những nghiên cứu này chủ yếu tuyển sinh viên và xem xét thói quen sức khỏe; áp dụng vào công việc chưa chắc hiệu quả tương tự.",
+    "extra": ""
+  }
+}

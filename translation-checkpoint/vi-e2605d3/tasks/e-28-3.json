@@ -1,0 +1,35 @@
+{
+  "id": "e-28-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "fc0f3e90e672f18417efe925ee32bce9cb1ebec7c05268eb1f7e06c2e16cf121",
+  "original": {
+    "number": 3,
+    "title": "面部填充避开鼻背、眉间、额头这几个部位，更别为省钱找非正规注射",
+    "fields": {
+      "cost": "不花钱。只是换个部位打，或者不做。",
+      "plain": "打填充针后失明的人里，一半多打的是鼻部，其次是眉间、额头和法令纹，八成多用的是玻尿酸。失明的人只有两成视力完全恢复，一成多部分恢复，将近两成还伤到了脑。目前没有一种抢救办法稳定管用，所以要事先避开这些部位。",
+      "benefit": "把全世界期刊报过的病例汇总起来算。2015 年 1 月到 2018 年 9 月新增 48 例注射填充后部分或完全视力丧失。出事最多的部位是鼻部，占 56.3%。接下来是眉间 27.1%、前额 18.8%、鼻唇沟（法令纹那道沟）14.6%。81.3% 的病例填充物为透明质酸，就是玻尿酸。43.8% 出现皮肤改变。18.8% 出现中枢神经系统并发症（脑出了问题）。10 例（20.8%）视力完全恢复，8 例（16.7%）部分恢复，剩下的没恢复。作者结论为各家的处理方式差得很远，没有一种治疗被证明能持续奏效",
+      "grade": "B",
+      "sources": "Beleznay K et al. (2019). Update on Avoiding and Treating Blindness From Fillers: A Recent Review of the World Literature. Aesthet Surg J. <https://doi.org/10.1093/asj/sjz053>",
+      "notes": "这些数字是把期刊报过的病例一例一例数出来的。里面只有出事的人数，没有打针的总人数。所以算不出「打一针有多大概率失明」，只看得出哪些部位出事多、事后基本救不回来。证据记 B 级也是因为这个。正规机构降低风险的做法本来就是常规。先查清要打的地方底下血管怎么走，用钝头针不用尖针。边退针边少量推，事先备好透明质酸酶。每一样都要求动手的是受过训练的医生，这也是别找非正规渠道的理由。做之前先按本节第 2 条（查机构许可证和主诊医师）核一遍。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tiêm chất làm đầy mặt thì tránh sống mũi, giữa hai mày và trán; càng đừng tiết kiệm bằng cách tìm nơi tiêm không chính quy",
+    "cost": "Không tốn tiền. Chỉ đổi vị trí tiêm hoặc không làm.",
+    "plain": "Trong người mất thị lực sau tiêm chất làm đầy, hơn nửa tiêm ở mũi, tiếp theo là giữa hai mày, trán và rãnh mũi má; hơn tám mươi phần trăm dùng axit hyaluronic. Chỉ hai mươi phần trăm hồi phục thị lực hoàn toàn, hơn mười phần trăm hồi phục một phần, gần hai mươi phần trăm còn tổn thương não. Hiện chưa có cách cấp cứu nào hiệu quả ổn định, nên cần tránh trước những vị trí này.",
+    "benefit": "Tổng hợp các ca được tạp chí toàn thế giới báo cáo: từ tháng 1 năm 2015 đến tháng 9 năm 2018 có thêm 48 ca mất một phần hoặc toàn bộ thị lực sau tiêm chất làm đầy. Vị trí xảy ra nhiều nhất là mũi, 56.3%; tiếp theo giữa hai mày 27.1%, trán 18.8%, rãnh mũi má 14.6%. 81.3% ca dùng chất làm đầy axit hyaluronic. 43.8% có biến đổi da, 18.8% có biến chứng hệ thần kinh trung ương, tức não gặp vấn đề. 10 ca, tương đương 20.8%, hồi phục thị lực hoàn toàn; 8 ca, tương đương 16.7%, hồi phục một phần; số còn lại không hồi phục. Tác giả kết luận cách xử trí giữa các nơi khác nhau rất nhiều, chưa có điều trị nào được chứng minh hiệu quả ổn định.",
+    "notes": "Các con số được đếm từng ca đã xuất hiện trên tạp chí. Chỉ có số người gặp sự cố, không có tổng số người tiêm, nên không tính được xác suất mù sau một lần tiêm. Chỉ thấy vị trí nào gặp nhiều sự cố và phần lớn không cứu vãn được sau đó. Cũng vì vậy bằng chứng xếp B. Cơ sở chính quy vốn thường dùng các biện pháp giảm nguy cơ: xác định đường đi mạch máu dưới vị trí dự định tiêm, dùng kim đầu tù thay kim nhọn, vừa rút kim vừa đẩy lượng nhỏ, chuẩn bị trước hyaluronidase. Mỗi việc đều đòi hỏi người thực hiện là bác sĩ được đào tạo, cũng là lý do không tìm kênh không chính quy. Trước làm, kiểm tra theo mục 2 phần này (giấy phép cơ sở và bác sĩ phụ trách chuyên môn).",
+    "extra": ""
+  }
+}

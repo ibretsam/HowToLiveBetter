@@ -1,0 +1,35 @@
+{
+  "id": "e-2-28",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "fd325adfb67e3f52fbdb5bde7e3e7f75428433d3d44a4d7e5ceef35df4c0f8fd",
+  "original": {
+    "number": 28,
+    "title": "少吃超加工食品（薯片、方便面、糕点、速食）",
+    "fields": {
+      "cost": "不花钱，换着买而已。要自己做饭，或者花时间挑没怎么加工过的食材，每天都得占些时间。难在要长期对抗「方便就好」的惯性。",
+      "plain": "超加工食品吃得最多的人，同期死亡的概率比吃得最少的人高约两成，心血管死亡高五成。不过这类证据被评为不太确定，数字要往回打折看。",
+      "benefit": "一篇综述把多项汇总研究又合到一起算，这些汇总底下的原始研究都只记录、不分组。结果：超加工食品吃得多的人比吃得少的人，死亡风险高约 21%（RR 1.21），心血管病死亡高约 50%（RR 1.50）。这两项的证据分级分别是「高度提示」和「令人信服」。但按通行的证据打分法（GRADE）评，确定性是低或极低。",
+      "grade": "A",
+      "sources": "Lane MM 等 (2024). Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. <https://doi.org/10.1136/bmj-2023-077310>",
+      "notes": "争议在三点。这套分类（NOVA）把营养差别很大的食物划成了一类。它和含糖饮料、加工肉（第 7、18 条）大量重叠，分不清到底是哪一项在起作用。按通行的证据打分法（GRADE）评，等级也低。所以做到那两条之后，这一条还能多带来多少好处，说不准。反方的证据就是同一篇综述给出的低评级本身，目前没有得出相反结论的原始研究。所以先把第 7、18 条（不喝含糖饮料、少吃加工肉）做到，再看这一条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ăn ít thực phẩm siêu chế biến như khoai tây chiên lát, mì ăn liền, bánh ngọt, đồ ăn liền",
+    "cost": "Không tốn tiền, chỉ đổi thứ mua. Cần tự nấu hoặc dành thời gian chọn nguyên liệu ít chế biến, mỗi ngày đều mất chút thời gian. Khó ở chỗ lâu dài phải chống lại thói quen chỉ cần tiện là được.",
+    "plain": "Người ăn thực phẩm siêu chế biến nhiều nhất có khả năng tử vong trong cùng thời gian cao hơn khoảng một phần năm so với người ít nhất, tử vong tim mạch cao hơn một nửa. Tuy nhiên, bằng chứng này được đánh giá không mấy chắc chắn, nên cần giảm bớt mức tin vào độ lớn của các con số.",
+    "benefit": "Một tổng quan gộp nhiều nghiên cứu tổng hợp, các nghiên cứu gốc bên dưới đều chỉ ghi nhận, không phân nhóm. Kết quả: người ăn nhiều thực phẩm siêu chế biến có nguy cơ tử vong cao hơn khoảng 21% so với người ăn ít (RR 1.21), tử vong do bệnh tim mạch cao hơn khoảng 50% (RR 1.50). Mức bằng chứng của hai kết quả lần lượt là “gợi ý rất mạnh” và “thuyết phục”. Nhưng theo hệ thống đánh giá bằng chứng phổ biến GRADE, độ chắc chắn thấp hoặc rất thấp.",
+    "notes": "Điểm còn tranh luận có ba mặt. Hệ thống phân loại NOVA gộp thực phẩm khác nhau rất nhiều về dinh dưỡng vào một nhóm. Nhóm này chồng lấn nhiều với đồ uống có đường, thịt chế biến sẵn ở mục 7, 18, nên khó biết yếu tố nào đang có tác dụng. Đánh giá theo hệ thống GRADE thì mức bằng chứng cũng thấp. Vì vậy, sau khi làm được hai mục đó, mục này mang lại thêm bao nhiêu lợi ích là chưa rõ. Bằng chứng phản đối chính là mức đánh giá thấp trong cùng tổng quan; hiện chưa có nghiên cứu gốc đưa ra kết luận ngược lại. Vì vậy, làm mục 7, 18 trước (không uống đồ uống có đường, ăn ít thịt chế biến sẵn), rồi mới xét mục này.",
+    "extra": ""
+  }
+}

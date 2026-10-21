@@ -1,0 +1,35 @@
+{
+  "id": "e-2-24",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "e30e00aa6b639c9b47c9f156ac8f5f74766acad02a593f1240f31f69d44d421b",
+  "original": {
+    "number": 24,
+    "title": "把一部分精米白面换成全谷物",
+    "fields": {
+      "cost": "糙米、燕麦、全麦面比精米白面贵一点，不占时间。难在口感要慢慢适应。",
+      "plain": "每天多吃 90 g 全谷物的人，同期死亡的概率低约 17%。90 g 大约是三份。吃到每天 200 g 左右，还在继续往下降。",
+      "benefit": "把多项跟踪研究合起来算（只记录、不分组）：全谷物每天多吃 90 g，死亡风险低约 17%（RR 0.83）。90 g 大约是 3 份。这份好处一直持续到每天 210–225 g。另一项汇总里，每天多吃 1 份低约 8%（RR 0.92）。",
+      "grade": "A",
+      "sources": "Aune D 等 (2016). Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. <https://doi.org/10.1136/bmj.i2716>；Schwingshackl L 等 (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>",
+      "notes": "不必全换成全谷物，换一半就已经在好处最明显的那一段了。要注意这类研究只是跟踪记录，吃全谷物的人本来就更健康，数字偏大。各项研究之间的结果差得也远（I² 83%，这个数越大说明各研究结论越不一致）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thay một phần gạo xát trắng, bột mì trắng bằng ngũ cốc nguyên hạt",
+    "cost": "Gạo lứt, yến mạch, bột mì nguyên cám đắt hơn gạo xát trắng, bột mì trắng một chút, không tốn thời gian. Khó ở chỗ phải thích nghi dần với cảm giác khi ăn.",
+    "plain": "Người ăn thêm 90 g ngũ cốc nguyên hạt mỗi ngày có khả năng tử vong trong cùng thời gian thấp hơn khoảng 17%. 90 g tương đương khoảng ba khẩu phần. Đến khoảng 200 g mỗi ngày, nguy cơ vẫn tiếp tục giảm.",
+    "benefit": "Gộp nhiều nghiên cứu theo dõi chỉ ghi nhận, không phân nhóm: mỗi ngày ăn thêm 90 g ngũ cốc nguyên hạt thì nguy cơ tử vong thấp hơn khoảng 17% (RR 0.83). 90 g tương đương khoảng 3 khẩu phần. Lợi ích tiếp tục đến mức 210–225 g mỗi ngày. Trong một tổng hợp khác, mỗi ngày thêm 1 khẩu phần thì thấp hơn khoảng 8% (RR 0.92).",
+    "notes": "Không cần đổi toàn bộ sang ngũ cốc nguyên hạt; đổi một nửa đã nằm trong đoạn lợi ích rõ nhất. Cần nhớ loại nghiên cứu này chỉ theo dõi ghi nhận, người ăn ngũ cốc nguyên hạt vốn đã khỏe hơn, nên con số bị phóng đại. Kết quả giữa các nghiên cứu cũng khác nhau nhiều (I² 83%, số càng lớn nghĩa là kết luận giữa các nghiên cứu càng thiếu nhất quán).",
+    "extra": ""
+  }
+}

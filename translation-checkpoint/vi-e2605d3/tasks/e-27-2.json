@@ -1,0 +1,36 @@
+{
+  "id": "e-27-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "e38d873a7ebde8347ff6c6c889e12fe289965032412fbc8f079f65cb492435e2",
+  "original": {
+    "number": 2,
+    "title": "孕 13 周前去社区卫生服务中心建《母子健康手册》，把免费产检额度用掉",
+    "fields": {
+      "cost": "不花钱，这属于国家基本公共卫生服务项目。要按孕周跑几趟",
+      "plain": "孕期至少五次产检，加上产后上门访视和产后 42 天检查，这些钱国家出。领的办法是怀孕 13 周以前去社区建一本《母子健康手册》。不去建，这几次免费的就白白错过。",
+      "benefit": "《国家基本公共卫生服务规范（第三版）》里有孕产妇健康管理服务。辖区内的常住孕产妇可以做这些。孕早期健康检查 1 次，孕中期 2 次，孕晚期 2 次，产后访视 1 次，产后 42 天健康检查 1 次。孕 13 周前要去建册，同时做第 1 次产前检查。孕中期那两次分别在孕 16 至 20 周、孕 21 至 24 周。孕晚期那两次分别在孕 28 至 36 周、孕 37 至 40 周。地方公开的服务清单里，还包含第一次的一整套化验和产后抑郁筛查",
+      "grade": "A",
+      "sources": "国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>；靖江市人民政府. 国家基本公共卫生服务项目——孕产妇健康管理服务（地方服务清单公开）. <https://www.jingjiang.gov.cn/xxgk/zdlyxxgk/wsjk/art/2023/art_383017a2e7794892bc772bfbe042f379.html>",
+      "notes": "这 5 次是免费的下限，不是产检的全部。医院会按情况加做超声、血糖、胎心监护，这些要自己掏钱。建册越早，妊娠风险分级越早做出来。妊娠风险分级就是按风险高低给孕妇分档，查出是高危的，才能早点转到接得住的医院。人住在外区的，按现在住的地方建册，不用回户籍地"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước tuần thai 13, đến trung tâm dịch vụ y tế cộng đồng lập Sổ sức khỏe mẹ và con để sử dụng các lần khám thai miễn phí",
+    "cost": "Không tốn tiền, đây là chương trình dịch vụ y tế công cộng cơ bản quốc gia. Cần đi vài lần theo tuần thai.",
+    "plain": "Ít nhất năm lần khám trong thai kỳ, cộng thăm tại nhà sau sinh và khám ngày 42 sau sinh đều do nhà nước chi trả. Cách nhận là đến cơ sở cộng đồng lập Sổ sức khỏe mẹ và con trước tuần thai 13. Không lập thì bỏ lỡ các lần khám miễn phí này.",
+    "benefit": "“Quy chuẩn dịch vụ y tế công cộng cơ bản quốc gia (bản thứ ba)” có dịch vụ quản lý sức khỏe thai phụ và sản phụ. Người thường trú trong địa bàn có thể sử dụng các dịch vụ sau: 1 lần kiểm tra sức khỏe đầu thai kỳ, 2 lần giữa thai kỳ, 2 lần cuối thai kỳ, 1 lần thăm sau sinh và 1 lần kiểm tra sức khỏe ngày 42 sau sinh. Cần lập sổ trước tuần thai 13, đồng thời khám thai lần 1. Hai lần giữa thai kỳ lần lượt ở tuần 16 đến 20 và tuần 21 đến 24. Hai lần cuối thai kỳ lần lượt ở tuần 28 đến 36 và tuần 37 đến 40. Danh mục dịch vụ công khai của địa phương còn gồm trọn bộ xét nghiệm lần đầu và sàng lọc trầm cảm sau sinh.",
+    "notes": "5 lần này là mức tối thiểu miễn phí, không phải toàn bộ việc khám thai. Bệnh viện sẽ làm thêm siêu âm, đường huyết, theo dõi tim thai tùy tình hình; những khoản này phải tự trả. Lập sổ càng sớm thì phân loại nguy cơ thai kỳ càng sớm. Đây là việc xếp thai phụ theo mức nguy cơ; phát hiện nguy cơ cao mới có thể chuyển sớm đến bệnh viện đủ khả năng tiếp nhận. Sống ở quận khác thì lập sổ theo nơi đang ở, không cần về nơi đăng ký hộ khẩu.",
+    "extra": ""
+  }
+}

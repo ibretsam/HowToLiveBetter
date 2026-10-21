@@ -1,0 +1,35 @@
+{
+  "id": "e-21-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "523833455831ac815d56cea772197a1ebb799a1f9b2c0fa73dc1c4e21699fd88",
+  "original": {
+    "number": 4,
+    "title": "买一份含境外医疗和医疗转运的保险，别只买航班延误险",
+    "fields": {
+      "cost": "一份短期的境外旅行险，几十到几百元。",
+      "plain": "在国外看病的钱要自己掏。国内医保基本不报，使领馆也不垫。真正能拖垮一个家的不是门诊费，是重伤以后的住院，还有把人运回国，那得靠专机或者医疗护送。买旅行险主要看两个额度：境外医疗费用，紧急医疗转运与送返。",
+      "benefit": "在境外看病的钱要自己出。国内医保在境外基本不报销。领事保护也不垫付这笔钱，见第 3 条（领事保护能做什么、不能做什么）。依据是条例第二十六条。真正会把一个家拖垮的不是门诊费，是重伤以后的住院和医疗转运。把人从境外医院转回国，要用专机或者医疗护送，属于自费项目里最贵的一类。美国疾控中心的说法是，把病人从偏远地方紧急转运到好医院，自己付的话可能要花 10 万美元以上。买保险时优先看两项额度。一是境外医疗费用额度。二是紧急医疗转运与送返额度，管的是出事后转院、把人送回国最多能赔多少",
+      "grade": "C",
+      "sources": "国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第二十六条）；美国疾病控制与预防中心. Travelers' Health: Travel Insurance：「Medical evacuation insurance covers emergency transportation from a remote area to a high-quality hospital, which could otherwise cost more than $100,000.」. <https://wwwnc.cdc.gov/travel/page/insurance>；其余为作者经验，无直接文献",
+      "notes": "10 万美元是一个下限说法，不是费用区间。官方或行业公开的费用区间统计没有找到，所以本书不写具体区间。买之前确认三件事。第一，你要去的国家在不在承保范围里。第二，潜水、滑雪、骑摩托这类高风险活动是不是被排除在外。第三，理赔是保险公司直接和医院结账，还是你先垫钱回来再报销。去免签的国家也一样要买"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mua bảo hiểm có chi phí y tế ở nước ngoài và vận chuyển y tế, đừng chỉ mua bảo hiểm chậm chuyến bay",
+    "cost": "Một gói bảo hiểm du lịch nước ngoài ngắn hạn giá vài chục đến vài trăm nhân dân tệ.",
+    "plain": "Tiền khám chữa bệnh ở nước ngoài phải tự trả; bảo hiểm y tế trong nước về cơ bản không hoàn trả, cơ quan lãnh sự cũng không ứng tiền. Điều có thể khiến cả gia đình kiệt quệ không phải phí khám ngoại trú mà là nằm viện sau chấn thương nặng và đưa người bệnh về nước bằng máy bay riêng hoặc người hộ tống y tế. Khi mua bảo hiểm du lịch, chủ yếu xem hai hạn mức: chi phí y tế ở nước ngoài, vận chuyển y tế khẩn cấp và đưa về nước.",
+    "benefit": "Khám chữa bệnh ở nước ngoài phải tự trả tiền. Bảo hiểm y tế trong nước về cơ bản không hoàn trả chi phí ở nước ngoài. Bảo hộ lãnh sự cũng không ứng khoản này, xem mục 3 (bảo hộ lãnh sự làm được và không làm được gì); căn cứ là Điều hai mươi sáu của quy định. Điều có thể khiến gia đình kiệt quệ không phải phí khám ngoại trú mà là nằm viện sau chấn thương nặng và vận chuyển y tế. Chuyển người bệnh từ bệnh viện nước ngoài về nước cần máy bay riêng hoặc hộ tống y tế, thuộc nhóm hạng mục tự trả đắt nhất. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ cho biết đưa bệnh nhân khẩn cấp từ vùng xa đến bệnh viện tốt, nếu tự trả, có thể tốn từ 10 vạn đô la Mỹ trở lên. Khi mua bảo hiểm, ưu tiên xem hai hạn mức: chi phí y tế ở nước ngoài và vận chuyển y tế khẩn cấp cùng đưa về nước. Hạn mức thứ hai là số tiền tối đa được chi trả để chuyển viện hoặc đưa về nước sau sự cố.",
+    "notes": "10 vạn đô la Mỹ là cách nói về một ngưỡng dưới, không phải khoảng chi phí. Chưa tìm thấy thống kê khoảng chi phí công khai của cơ quan chính thức hoặc ngành nên sách không ghi khoảng cụ thể. Trước khi mua, kiểm tra ba việc: quốc gia định đến có nằm trong phạm vi bảo hiểm không; hoạt động rủi ro cao như lặn, trượt tuyết, đi xe máy có bị loại trừ không; công ty bảo hiểm thanh toán trực tiếp với bệnh viện hay bạn phải ứng tiền rồi về yêu cầu hoàn trả. Đi nước miễn thị thực cũng vẫn cần mua.",
+    "extra": ""
+  }
+}

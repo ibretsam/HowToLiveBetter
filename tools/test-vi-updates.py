@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """Corruption and review-invalidation checks for the translation checkpoint."""
 import copy
+import json
+from pathlib import Path
+import tempfile
 import unittest
+from unittest.mock import patch
+import vi_updates
 from vi_updates import digest, validate_draft, validate_review
 
 
@@ -113,6 +118,53 @@ class CheckpointTests(unittest.TestCase):
                 damaged['translation']['markdown'] = translated.replace(old, new)
                 with self.assertRaises(AssertionError):
                     validate_draft(task, damaged)
+
+    def test_checkpoint_inheritance_preserves_review_and_rejects_corruption(self):
+        with tempfile.TemporaryDirectory() as temp, patch.object(vi_updates, 'ROOT', Path(temp)):
+            old = Path(temp) / 'translation-checkpoint/old'
+            new = Path(temp) / 'translation-checkpoint/new'
+            for cp in (old, new):
+                for folder in ('tasks', 'drafts', 'reviews'):
+                    (cp / folder).mkdir(parents=True)
+            self.task['source_path'] = 'book/test.md'
+            current_task = {**self.task, 'source_commit': 'new-revision'}
+            def save(path, value):
+                path.write_text(json.dumps(value))
+            save(old / 'tasks/e-1-1.json', self.task)
+            save(old / 'drafts/e-1-1.json', self.draft)
+            save(old / 'reviews/e-1-1.json', self.review)
+            save(new / 'tasks/e-1-1.json', current_task)
+            inheritance = {'checkpoint': 'translation-checkpoint/old', 'units': {
+                'e-1-1': {'source_sha256': self.task['source_sha256'],
+                          'draft_sha256': digest(self.draft), 'review_sha256': digest(self.review)}}}
+            save(new / 'inheritance.json', inheritance)
+            task, draft, review = vi_updates.load_reviewed(new)['e-1-1']
+            self.assertEqual(task['source_commit'], 'new-revision')
+            self.assertEqual(draft, self.draft)
+            self.assertEqual(review, self.review)
+            for field, bad in [('source_path', 'book/other.md'), ('id', 'e-1-2'),
+                               ('source_sha256', 'changed'), ('original', {})]:
+                with self.subTest(field=field):
+                    save(new / 'tasks/e-1-1.json', {**current_task, field: bad})
+                    with self.assertRaises(AssertionError):
+                        vi_updates.load_reviewed(new)
+            save(new / 'tasks/e-1-1.json', current_task)
+            for field in ('source_sha256', 'draft_sha256', 'review_sha256'):
+                damaged = copy.deepcopy(inheritance)
+                damaged['units']['e-1-1'][field] = 'changed'
+                save(new / 'inheritance.json', damaged)
+                with self.assertRaises(AssertionError):
+                    vi_updates.load_reviewed(new)
+            save(new / 'inheritance.json', inheritance)
+            save(new / 'drafts/e-1-1.json', self.draft)
+            with self.assertRaisesRegex(AssertionError, 'overlap'):
+                vi_updates.load_reviewed(new)
+            (new / 'drafts/e-1-1.json').unlink()
+            save(old / 'inheritance.json', {'checkpoint': 'translation-checkpoint/new', 'units': {}})
+            with self.assertRaisesRegex(AssertionError, 'cycle'):
+                vi_updates.load_reviewed(new)
+            with self.assertRaisesRegex(AssertionError, 'outside'):
+                vi_updates.checkpoint_path('../outside')
 
 
 if __name__ == "__main__":

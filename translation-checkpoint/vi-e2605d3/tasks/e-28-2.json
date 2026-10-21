@@ -1,0 +1,35 @@
+{
+  "id": "e-28-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "1511e46b7cecfe41e8d151af0c79492ebe5a3303eedffa834068818654a2a251",
+  "original": {
+    "number": 2,
+    "title": "打针、埋线、开刀之前查两样：机构许可证上有没有「医疗美容」，动手的人是不是主诊医师",
+    "fields": {
+      "cost": "不花钱。查这两张证只要几分钟。机构应该把《医疗机构执业许可证》挂在大厅里。医生的资质可以在卫健部门的执业医师查询里核对。",
+      "plain": "动针、动刀、用医疗器械，会破皮或进到身体里的，就算看病。只能在许可证上写了「医疗美容」的机构做，动手的必须是注册过的执业医师。美容院、工作室、酒店房间都不行。没有医生资格的人动手是非法行医，严重伤了人判 3 到 10 年，致人死亡判 10 年以上。",
+      "benefit": "《医疗美容服务管理办法》第二条给医疗美容下了定义。原文是「运用手术、药物、医疗器械以及其他具有创伤性或者侵入性的医学技术方法对人的容貌和人体各部位形态进行的修复与再塑」。说白了，只要破皮、进针、进到身体里，就按看病算。第八条和第二十四条要求先取得《医疗机构执业许可证》，并经登记机关核准医疗美容诊疗科目，才能开展。许可证上没写「医疗美容」这一项，就不能做。第十一条要求主诊医师（动手的那位医生）具有执业医师资格并且注册过。做美容外科的还要有 6 年以上相关专业临床工作经历，美容牙科 5 年以上，美容中医科与美容皮肤科各 3 年以上。第二十条要求动手之前书面告知适应症、禁忌症（什么情况适合做、什么情况不能做）、医疗风险和注意事项，并取得签字同意。《刑法》第三百三十六条管的是非法行医。非法行医就是没有医生执业资格的人给人打针、动刀、看病。情节严重的，处 3 年以下有期徒刑、拘役或者管制，并处或者单处罚金。严重损害就诊人身体健康的，处 3 年以上 10 年以下有期徒刑并处罚金。造成就诊人死亡的，处 10 年以上有期徒刑并处罚金",
+      "grade": "A",
+      "sources": "卫生部 (2002). 医疗美容服务管理办法（卫生部令第 19 号，第二条、第八条、第十一条、第十六条、第二十条、第二十四条）. <http://www.gov.cn/gongbao/content/2003/content_62198.htm>；全国人大 (1997). 刑法（第三百三十六条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>",
+      "notes": "同一份办法第十六条还规定，医美项目只能在美容医疗机构里做，或者在设了医疗美容科室的医院、诊所里做。所以上门打针、在工作室里私下操作，光看地点就已经不合规。第二十条写明，未成年人这类还不能自己作主的人要做医美，必须经监护人同意，要家长签字。做脸、按摩、美甲属于生活美容，不归这套规矩管。但只要动到针和刀，就算医疗美容。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước tiêm, cấy chỉ hay phẫu thuật, kiểm tra giấy phép cơ sở có thẩm mỹ y khoa không và người thực hiện có phải bác sĩ phụ trách chuyên môn không",
+    "cost": "Không tốn tiền. Kiểm tra hai giấy tờ chỉ vài phút. Cơ sở phải treo giấy phép hành nghề cơ sở y tế ở sảnh. Có thể đối chiếu tư cách bác sĩ trong công cụ tra cứu bác sĩ hành nghề của cơ quan y tế.",
+    "plain": "Dùng kim, dao, thiết bị y tế làm rách da hoặc đi vào cơ thể là hoạt động khám chữa bệnh. Chỉ được làm ở cơ sở có giấy phép ghi thẩm mỹ y khoa; người thực hiện phải là bác sĩ có chứng chỉ hành nghề đã đăng ký. Thẩm mỹ viện thông thường, studio và phòng khách sạn đều không được. Người không có tư cách bác sĩ thực hiện là hành nghề y trái phép; làm tổn hại sức khỏe nghiêm trọng bị tù 3 đến 10 năm, gây chết người từ 10 năm trở lên.",
+    "benefit": "Điều hai của Quy định quản lý dịch vụ thẩm mỹ y khoa định nghĩa việc dùng phẫu thuật, thuốc, thiết bị y tế và kỹ thuật y khoa gây tổn thương hoặc xâm lấn khác để sửa chữa, tái tạo diện mạo và hình dạng các bộ phận cơ thể. Nói đơn giản, hễ làm rách da, đưa kim hoặc thứ khác vào cơ thể thì tính là khám chữa bệnh. Điều tám và hai mươi bốn yêu cầu có giấy phép hành nghề cơ sở y tế, được cơ quan đăng ký phê chuẩn hạng mục thẩm mỹ y khoa trước khi triển khai. Không ghi thẩm mỹ y khoa trên giấy phép thì không được làm. Điều mười một yêu cầu bác sĩ phụ trách chuyên môn, tức người thực hiện, có tư cách bác sĩ hành nghề và đã đăng ký. Ngoại khoa thẩm mỹ cần kinh nghiệm lâm sàng chuyên môn liên quan từ 6 năm trở lên; nha khoa thẩm mỹ từ 5 năm, y học cổ truyền thẩm mỹ và da liễu thẩm mỹ mỗi ngành từ 3 năm. Điều hai mươi yêu cầu trước thực hiện phải thông báo bằng văn bản chỉ định, chống chỉ định, tức khi nào phù hợp hoặc không được làm, rủi ro y khoa và điều cần chú ý, đồng thời lấy chữ ký đồng ý. Điều ba trăm ba mươi sáu Bộ luật Hình sự xử lý hành nghề y trái phép, tức người không có tư cách hành nghề bác sĩ tiêm, phẫu thuật hoặc khám bệnh cho người khác. Tình tiết nghiêm trọng bị tù có thời hạn không quá 3 năm, giam giữ hình sự ngắn hạn hoặc quản chế, kèm phạt tiền hoặc chỉ phạt tiền. Làm tổn hại sức khỏe nghiêm trọng bị tù có thời hạn từ 3 đến 10 năm kèm phạt tiền. Gây chết người bị tù có thời hạn từ 10 năm trở lên kèm phạt tiền.",
+    "notes": "Điều mười sáu cùng quy định còn yêu cầu thủ thuật thẩm mỹ y khoa chỉ thực hiện ở cơ sở y tế thẩm mỹ hoặc bệnh viện, phòng khám có khoa thẩm mỹ y khoa. Vì vậy, tiêm tại nhà hoặc làm riêng trong studio chỉ xét địa điểm đã không đúng quy định. Điều hai mươi ghi người chưa tự quyết định được như người chưa thành niên muốn làm phải được người giám hộ đồng ý, cần chữ ký phụ huynh. Chăm sóc da mặt, massage, làm móng thuộc làm đẹp thông thường, không do bộ quy tắc này quản lý. Nhưng hễ dùng kim và dao thì thuộc thẩm mỹ y khoa.",
+    "extra": ""
+  }
+}

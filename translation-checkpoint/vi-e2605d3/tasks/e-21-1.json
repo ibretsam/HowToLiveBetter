@@ -1,0 +1,35 @@
+{
+  "id": "e-21-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "17693b4753671eaa37a601f21daf07e557e3d06f712b9e55c5dd242ac0a54a5d",
+  "original": {
+    "number": 1,
+    "title": "出发前查一次外交部安全提醒，标了「暂勿前往」的地方就别去",
+    "fields": {
+      "cost": "不花钱。打开中国领事服务网翻一遍，几分钟就看完。",
+      "plain": "外交部把国外的安全风险分成四档，最高的一档叫「暂勿前往」。2026 年 9 月 15 日起，避开高风险的国家和地区写进了行政法规。办证件和出境过关的时候，工作人员还会提醒你，必要时会劝你别去。出发前翻一遍那一页，几分钟的事。",
+      "benefit": "外交部按风险高低公开发布国外安全提醒。从低到高大致是四档：「注意安全」「加强安全防范」「谨慎前往」「暂勿前往」。2026 年 9 月 15 日起施行的新规，把个人的义务也写进了行政法规。原文是：「中国公民应当关注国外安全提醒和旅游目的地安全风险提示，避免前往及驻留高风险国家或者地区」。新规同时要求移民管理机构（办出入境证件和管边检的部门），在办证和出境边检时提醒要去高风险地区的人。这一条的原文是：「对准备前往风险等级为最高级别或者严重危及人身安全案件突发高发的国家或者地区的中国公民，必要时应当劝阻其前往」",
+      "grade": "A",
+      "sources": "国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第二条）；国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十九、二十一条）；外交部领事司. 安全提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/>；全国人大常委会 (2018). 旅游法（2018 年修正，第五十八、六十二条）. <https://zwgk.mct.gov.cn/zfxxgkml/zcfg/fl/202105/t20210526_924763.html>（文化和旅游部政府信息公开转载）",
+      "notes": "提醒会随局势变动，本书不抄名单，出行前自己查一次那一页。截至 2026 年 9 月 7 日，该栏目里还挂着这几条「暂勿前往」类提醒：斯威士兰（2026-08-25）、巴勒斯坦（2023-10-10）、苏丹（2023-04-17）。另外四条是阿富汗（2023-02-17）、叙利亚（2023-01-04）、秘鲁（2022-12-29）、索马里（2022-11-24）。另外还有针对缅北地区、刚果（金）部分省份的专门提醒。旅行社也有告知义务。旅游法规定，签包价旅游合同时，旅行社要告诉你安全注意事项，以及目的地的法律、风俗和宗教禁忌。包价旅游合同要签书面的。跟团之前，可以请对方把目的地的风险写下来，这是作者建议"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi đi, kiểm tra cảnh báo an toàn của Bộ Ngoại giao; nơi ghi “tạm thời không đến” thì đừng đến",
+    "cost": "Không tốn tiền. Mở trang dịch vụ lãnh sự Trung Quốc và đọc một lượt, chỉ mất vài phút.",
+    "plain": "Bộ Ngoại giao chia rủi ro an toàn ở nước ngoài thành bốn mức, cao nhất là “tạm thời không đến”. Từ ngày 15 tháng 9 năm 2026, tránh quốc gia và khu vực rủi ro cao được ghi vào quy định hành chính. Khi làm giấy tờ và qua cửa khẩu xuất cảnh, nhân viên cũng sẽ nhắc nhở, khi cần sẽ khuyên bạn đừng đi. Đọc trang đó một lần trước chuyến đi chỉ mất vài phút.",
+    "benefit": "Bộ Ngoại giao công bố cảnh báo an toàn ở nước ngoài theo mức rủi ro. Từ thấp đến cao, về cơ bản có bốn mức: “chú ý an toàn”, “tăng cường phòng ngừa an toàn”, “cân nhắc thận trọng trước khi đến”, “tạm thời không đến”. Quy định mới có hiệu lực ngày 15 tháng 9 năm 2026 đưa cả nghĩa vụ cá nhân vào quy định hành chính. Nguyên văn: “Công dân Trung Quốc phải theo dõi cảnh báo an toàn ở nước ngoài và cảnh báo rủi ro an toàn tại điểm du lịch, tránh đến và lưu lại quốc gia hoặc khu vực rủi ro cao”. Quy định mới cũng yêu cầu cơ quan quản lý di trú, tức nơi làm giấy tờ xuất nhập cảnh và quản lý kiểm soát biên giới, nhắc người định đến vùng rủi ro cao khi cấp giấy tờ và kiểm tra xuất cảnh. Nguyên văn điều này: “Đối với công dân Trung Quốc chuẩn bị đến quốc gia hoặc khu vực có mức rủi ro cao nhất, hoặc nơi đột ngột xảy ra nhiều vụ nghiêm trọng đe dọa an toàn thân thể, khi cần phải khuyên ngăn họ đến”.",
+    "notes": "Cảnh báo thay đổi theo tình hình nên sách không chép danh sách; trước chuyến đi hãy tự kiểm tra trang đó. Tính đến ngày 7 tháng 9 năm 2026, chuyên mục còn đăng các cảnh báo loại “tạm thời không đến” sau: Eswatini (2026-08-25), Palestine (2023-10-10), Sudan (2023-04-17). Bốn cảnh báo khác là Afghanistan (2023-02-17), Syria (2023-01-04), Peru (2022-12-29), Somalia (2022-11-24). Ngoài ra có cảnh báo riêng cho miền bắc Myanmar và một số tỉnh của Cộng hòa Dân chủ Congo. Công ty lữ hành cũng có nghĩa vụ thông báo. Luật Du lịch quy định khi ký hợp đồng du lịch trọn gói, công ty phải cho bạn biết lưu ý an toàn, pháp luật, phong tục và điều cấm kỵ tôn giáo tại điểm đến. Hợp đồng du lịch trọn gói phải bằng văn bản. Trước khi đi theo đoàn, có thể đề nghị bên kia ghi rõ rủi ro tại điểm đến; đây là khuyến nghị của tác giả.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-23-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "abab79873e5a8d5fc4d91e71b7cf4e2c81a5e59a9838d48867810563fb6ffb59",
+  "original": {
+    "number": 20,
+    "title": "评职称先弄清自己在哪个系列、哪一级，再按单位性质找申报渠道",
+    "fields": {
+      "cost": "不花钱。查一次本省当年的申报通知，半小时左右。",
+      "plain": "职称全国分 27 个系列，每个系列分初级、中级、高级。一般要一级一级往上报。在单位上班的，由单位审核、公示后往上报。在民营企业的，可以去职称申报受理服务点，或者找人才中介服务机构、行业协会申报。自由职业者报当地人社部门组织的评审。",
+      "benefit": "全国共设 27 个职称系列，比如经济、工程、卫生、出版。职称分高级、中级、初级三层。人社部令第 40 号适用于企业、事业单位、社会团体、个体经济组织，也适用于自由职业者。申报人一般要逐级申报。你所在单位要审核材料，并在单位内公示，公示期不少于 5 个工作日。民营企业和自由职业者，可以由人事代理机构等替你审核、公示、推荐。各地要在科技园区、高新区等地设职称申报受理服务点，也可以通过人才中介服务机构、行业协会商会、学会受理申报。符合条件的自由职业者，按属地参加当地人社部门组织的评审。能在网上核验的材料，不得要求你另外开证明。材料不齐的，评审方要一次性告诉你缺哪些。民营企业的人一般在劳动关系所在地申报。被派到外地连续干满一年的，可以在派驻地申报。离退休人员不能申报。事业单位工作人员受记过以上处分的，处分期间不能申报（全国）",
+      "grade": "A",
+      "sources": "人力资源和社会保障部令第 40 号 (2019). 职称评审管理暂行规定. <https://www.gov.cn/gongbao/content/2019/content_5437137.htm>：第二条、第十三条、第十四条、第十五条、第十六条、第十七条、第十八条；人力资源社会保障部办公厅 (2020). 关于进一步做好民营企业职称工作的通知. <https://www.gov.cn/zhengce/zhengceku/2020-03/03/content_5486340.htm>：「在专业技术人才密集的创业孵化基地、高新技术开发区、科技园区等地设立职称申报受理服务点，或通过人才中介服务机构、工商联、行业协会商会、学会等社会组织受理民营企业专业技术人才职称申报」「民营企业专业技术人才被派驻外地连续工作一年以上的，可按有关规定在派驻地申报职称评审」；新华社 (2024). 职称评审进入高峰，信息如何查？有何新变化？ <https://www.gov.cn/zhengce/202410/content_6978917.htm>：「我国共设有经济、工程、卫生、出版等27个职称系列」「符合条件的自由职业者，可根据属地原则申报参加当地人社部门组织的职称评审」；中共中央办公厅、国务院办公厅 (2016). 关于深化职称制度改革的意见. <https://www.gov.cn/gongbao/content/2017/content_5163445.htm>：「不将论文作为评价应用型人才的限制性条件」「对职称外语和计算机应用能力考试不作统一要求」「符合条件的高技能人才，可参加工程系列专业技术人才职称评审」「公务员不得参加专业技术人才职称评审」",
+      "notes": "要准备哪些材料，全国没有统一清单。各系列、各省每年发申报通知，材料清单、申报时间和业绩条件都写在里面。所以第一步是在本省人社厅官网找当年的通知。论文不再是一律要有：2016 年的改革意见要求，不把论文当应用型人才的硬门槛，职称外语和计算机考试也不作统一要求。技术工人也有路：符合条件的高技能人才，可以参加工程系列的职称评审。公务员不能参加职称评审。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Muốn xét chức danh chuyên môn, xác định nhóm và cấp của mình trước rồi tìm kênh nộp theo loại đơn vị",
+    "cost": "Không tốn tiền. Tra thông báo đăng ký năm nay của tỉnh, khoảng nửa giờ.",
+    "plain": "Chức danh chuyên môn toàn quốc có 27 nhóm, mỗi nhóm chia sơ cấp, trung cấp và cao cấp. Thường phải đăng ký nâng từng cấp. Người làm trong đơn vị được đơn vị kiểm tra, công khai rồi gửi lên. Người làm doanh nghiệp tư nhân có thể đến điểm tiếp nhận hồ sơ chức danh, hoặc nộp qua tổ chức dịch vụ trung gian nhân lực, hiệp hội ngành. Người làm tự do tham gia xét do cơ quan nhân lực và an sinh xã hội địa phương tổ chức.",
+    "benefit": "Toàn quốc có 27 nhóm chức danh chuyên môn, như kinh tế, kỹ thuật, y tế, xuất bản. Chức danh chia ba cấp cao, trung và sơ. Lệnh số 40 của Bộ Nhân lực và An sinh xã hội áp dụng với doanh nghiệp, đơn vị sự nghiệp, tổ chức xã hội, tổ chức kinh tế cá thể và người làm tự do. Người đăng ký thường phải nộp từng cấp. Đơn vị nơi làm việc phải kiểm tra hồ sơ và công khai nội bộ ít nhất 5 ngày làm việc. Với doanh nghiệp tư nhân và người làm tự do, cơ quan đại diện nhân sự có thể thay mặt kiểm tra, công khai và giới thiệu. Địa phương phải đặt điểm tiếp nhận hồ sơ ở khu công nghệ, khu công nghệ cao và nơi tương tự; cũng có thể tiếp nhận qua tổ chức dịch vụ trung gian nhân lực, hiệp hội ngành, thương hội và hội chuyên môn. Người làm tự do đủ điều kiện tham gia xét theo địa bàn do cơ quan nhân lực và an sinh xã hội địa phương tổ chức. Tài liệu có thể kiểm chứng trực tuyến thì không được yêu cầu xin thêm giấy xác nhận. Nếu hồ sơ thiếu, bên xét phải thông báo đầy đủ một lần những gì còn thiếu. Người làm doanh nghiệp tư nhân thường nộp tại nơi có quan hệ lao động. Người được cử đi địa phương khác làm liên tục đủ một năm có thể nộp tại nơi được cử đến. Người đã nghỉ hưu không được đăng ký. Nhân sự đơn vị sự nghiệp bị kỷ luật từ mức ghi lỗi trở lên không được đăng ký trong thời gian chịu kỷ luật (toàn Trung Quốc)",
+    "notes": "Không có danh mục hồ sơ thống nhất toàn quốc. Mỗi nhóm chức danh và tỉnh ra thông báo hằng năm, nêu danh mục hồ sơ, thời gian nộp và điều kiện thành tích. Bước đầu là tìm thông báo năm đó trên website cơ quan nhân lực và an sinh xã hội tỉnh. Không còn bắt buộc mọi người phải có bài báo: ý kiến cải cách năm 2016 yêu cầu không dùng bài báo làm rào cản cứng với nhân lực thiên về ứng dụng, cũng không đặt yêu cầu thống nhất cho thi ngoại ngữ và tin học phục vụ chức danh. Công nhân kỹ thuật cũng có đường: nhân lực kỹ năng cao đủ điều kiện được xét chức danh nhóm kỹ thuật. Công chức không được tham gia xét chức danh chuyên môn.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-12-27",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "e486c2ac38ee277ed65c88b21529e6f49cd105338a0d3f1b4b9b437365f1d0f7",
+  "original": {
+    "number": 27,
+    "title": "租铺面开店，签约前先查这间房能不能开你的店：住宅改成店要同一栋楼的业主全都同意，住宅楼里不能新开有油烟的餐馆",
+    "fields": {
+      "cost": "不花钱。签租约、交押金和装修之前，花几个小时问清三件事。一是房产证上的用途，是住宅还是商业。二是这栋楼是纯住宅、商住楼，还是独立的商铺，楼上有没有人住。三是开餐饮的，看有没有专用烟道，再去当地市场监管部门问能不能办下食品经营许可。难的是房东、中介说「没问题，上一家就开过」时，还要自己去核。",
+      "plain": "把住宅改成店，要同一栋楼的其他业主全都同意，一户反对就不行。邻居告你恢复原状、赔钱，法院会支持。住宅楼和没专用烟道的商住楼，都不许新开有油烟的餐馆，查到了先叫你改。不改就关店，罚 1 万到 10 万元，装修钱和押金可能就这么搭进去。",
+      "benefit": "民法典第二百七十九条：「业主将住宅改变为经营性用房的，除遵守法律、法规以及管理规约外，应当经有利害关系的业主一致同意。」最高人民法院的司法解释说得更细。同一栋楼里的其他业主，都算「有利害关系的业主」。同一小区别的楼的业主，要证明自己的房子价值或者生活质量受到影响，才算。没经他们一致同意就改了的，他们请求停下来、恢复原状或者赔偿损失，法院应当支持。拿「多数业主同意了」来辩解，法院不支持。生态环境法典 2026 年 8 月 15 日起施行，大气污染防治法同时废止。法典第二百五十条禁止在三类地方新建、改建、扩建产生油烟、异味、废气的餐饮服务项目。一是居民住宅楼。二是没配专用烟道的商住综合楼。三是商住综合楼里和住户楼层相邻的商业楼层。违反的，先责令改正。拒不改正的，责令关闭，并罚 1 万元到 10 万元。法典还要求地方政府在登记注册环节，提示餐饮选址的禁止性要求。申请食品经营许可，场所要和经营的食品品种、数量相适应，还要和有毒有害场所、其他污染源保持规定的距离。反过来，房子本身不符合法律、行政法规对使用条件的强制性规定，你可以解除租赁合同。前提是没法用不是你造成的（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第二百七十九、七百二十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2020 修正). 关于审理建筑物区分所有权纠纷案件适用法律若干问题的解释（第十、十一条）. <https://flk.npc.gov.cn/detail?id=ff808181799df6140179b092ef2d2af9>（国家法律法规数据库）；全国人大 (2026). 生态环境法典（第二百五十、一千一百三十二、一千二百四十二条，2026 年 8 月 15 日起施行）. <https://flk.npc.gov.cn/detail?id=96630961659b4d87a65b7b1c595097fa>（国家法律法规数据库）；市场监管总局 (2023). 食品经营许可和备案管理办法（市场监管总局令第 78 号，第十二条）. <https://www.gov.cn/gongbao/2023/issue_10606/202307/content_6894763.html>",
+      "notes": "「上一家开过」不说明能开，可能是一直没人告，或者是法典施行前就开着的。管理规约也可能另有限制，签约前向物业要一份看。房子不让这么用、要解除租约拿回押金和装修损失的，房东不肯就得打官司。一审普通程序按规定 6 个月内审完，可以延长，律师费自己出。所以把「办不下证、被责令关闭可以解约退押金」写进租约更省事。要办哪些许可证，见第 7 条（要许可证的行当）和第 8 条（做食品先看自己落在哪一档）。受益人主要是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Thuê mặt bằng phải kiểm tra trước khi ký có mở được cửa hàng đó không: đổi nhà ở thành cửa hàng cần mọi chủ sở hữu cùng tòa đồng ý; không mở mới quán có khói dầu trong tòa nhà ở",
+    "cost": "Không tốn tiền. Trước khi ký thuê, đặt cọc và sửa sang, dành vài giờ hỏi ba việc: mục đích trên giấy sở hữu là nhà ở hay thương mại; tòa nhà thuần nhà ở, hỗn hợp hay cửa hàng riêng, phía trên có người ở không; nếu mở quán ăn, có ống thoát khói riêng không, rồi hỏi cơ quan quản lý thị trường địa phương có cấp được phép kinh doanh thực phẩm không. Điều khó là chủ nhà, môi giới nói “không sao, người trước từng mở rồi” mà bạn vẫn tự kiểm tra.",
+    "plain": "Đổi nhà ở thành cửa hàng phải được tất cả chủ sở hữu khác cùng tòa đồng ý, một hộ phản đối cũng không được. Hàng xóm kiện đòi khôi phục nguyên trạng, bồi thường thì tòa sẽ ủng hộ. Tòa nhà ở và tòa hỗn hợp không có ống thoát khói riêng đều cấm mở mới quán có khói dầu; phát hiện sẽ yêu cầu sửa trước. Không sửa thì đóng cửa, phạt từ 1 vạn đến 10 vạn nhân dân tệ; tiền sửa sang, đặt cọc có thể mất theo.",
+    "benefit": "Điều hai trăm bảy mươi chín Bộ luật Dân sự: “Chủ sở hữu đổi nhà ở thành nơi kinh doanh, ngoài tuân thủ pháp luật và quy ước quản lý, phải được toàn bộ chủ sở hữu có quyền lợi liên quan đồng ý.” Giải thích của Tòa án Nhân dân Tối cao cụ thể hơn: mọi chủ sở hữu khác cùng tòa đều là người có quyền lợi liên quan. Chủ sở hữu ở tòa khác cùng khu phải chứng minh giá trị nhà hoặc chất lượng sống bị ảnh hưởng mới tính. Chưa được họ đồng thuận mà đã đổi, nếu họ yêu cầu dừng, khôi phục hoặc bồi thường, tòa phải chấp nhận. Viện cớ đa số đồng ý thì tòa không chấp nhận. Bộ luật Sinh thái và môi trường có hiệu lực từ ngày 15 tháng 8 năm 2026, đồng thời bãi bỏ Luật Phòng chống ô nhiễm không khí. Điều hai trăm năm mươi cấm xây mới, cải tạo, mở rộng dịch vụ ăn uống tạo khói dầu, mùi lạ, khí thải tại ba loại nơi: tòa nhà dân cư; tòa hỗn hợp thương mại, nhà ở không có ống thoát khói riêng; tầng thương mại giáp tầng có cư dân trong tòa hỗn hợp. Vi phạm trước hết bị yêu cầu sửa. Không sửa thì buộc đóng cửa và phạt từ 1 vạn đến 10 vạn nhân dân tệ. Bộ luật còn yêu cầu chính quyền địa phương nhắc các điều cấm về chọn địa điểm ăn uống trong khâu đăng ký. Xin phép kinh doanh thực phẩm thì địa điểm phải phù hợp loại, lượng thực phẩm kinh doanh và cách nơi độc hại, nguồn ô nhiễm khác theo khoảng cách quy định. Ngược lại, nếu bản thân căn nhà không đáp ứng quy định bắt buộc về điều kiện sử dụng của luật, quy định hành chính, bạn có thể chấm dứt hợp đồng thuê, với điều kiện việc không dùng được không do bạn gây ra (toàn quốc).",
+    "notes": "“Người trước từng mở” không chứng minh được phép mở; có thể chưa ai kiện hoặc đã mở từ trước khi bộ luật có hiệu lực. Quy ước quản lý cũng có thể có hạn chế riêng; xin đơn vị quản lý tòa nhà một bản xem trước khi ký. Nhà không được dùng theo cách đó, muốn chấm dứt thuê, lấy lại cọc và thiệt hại sửa sang mà chủ nhà không chịu thì phải kiện. Sơ thẩm thông thường từ 6 tháng, tự trả phí luật sư. Vì vậy ghi vào hợp đồng “không xin được phép, bị buộc đóng cửa thì được chấm dứt thuê và hoàn cọc” sẽ ít tốn công hơn. Các giấy phép cần xin xem mục 7 (ngành nghề cần giấy phép) và mục 8 (trước khi làm thực phẩm, xem mình thuộc nhóm nào). Người hưởng lợi chính là bạn.",
+    "extra": ""
+  }
+}

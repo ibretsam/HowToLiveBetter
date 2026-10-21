@@ -1,0 +1,35 @@
+{
+  "id": "e-8-40",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "104368ba652b017000aab55adfd48aa0df99ab5ea3877fa116e078cd1d714aef",
+  "original": {
+    "number": 40,
+    "title": "别给办案、执法的人送钱送卡：行贿自己也判，对监察、执法、司法人员行贿还要从重",
+    "fields": {
+      "cost": "不花钱。只是不去做。",
+      "plain": "「花点钱把事摆平」在刑法里是独立的罪，送钱的也要判。行贿判 3 年以下，情节严重的判 3 到 10 年，特别严重的判 10 年以上或者无期。对监察、行政执法、司法人员行贿，还是明文从重的那一档。被勒索给了钱、又没拿到不正当利益的，不算行贿。",
+      "benefit": "刑法第三百八十九条给行贿下了定义：「为谋取不正当利益，给予国家工作人员以财物的，是行贿罪」。同一条还写着：「在经济往来中，违反国家规定，给予国家工作人员以财物，数额较大的，或者违反国家规定，给予国家工作人员以各种名义的回扣、手续费的，以行贿论处」。也留了一种例外：「因被勒索给予国家工作人员以财物，没有获得不正当利益的，不是行贿」。量刑写在刑法第三百九十条（刑法修正案十二修改，2024 年 3 月 1 日起施行）。原文是：「对犯行贿罪的，处三年以下有期徒刑或者拘役，并处罚金；因行贿谋取不正当利益，情节严重的，或者使国家利益遭受重大损失的，处三年以上十年以下有期徒刑，并处罚金；情节特别严重的，或者使国家利益遭受特别重大损失的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产」。有七种要往重里判的从重情形：「（一）多次行贿或者向多人行贿的；（二）国家工作人员行贿的；（三）在国家重点工程、重大项目中行贿的；（四）为谋取职务、职级晋升、调整行贿的；（五）对监察、行政执法、司法工作人员行贿的；（六）在生态环境、财政金融、安全生产、食品药品、防灾救灾、社会保障、教育、医疗等领域行贿，实施违法犯罪活动的；（七）将违法所得用于行贿的」。末款留了主动交待可以减免的口子：「行贿人在被追诉前主动交待行贿行为的，可以从轻或者减轻处罚。其中，犯罪较轻的，对调查突破、侦破重大案件起关键作用的，或者有重大立功表现的，可以减轻或者免除处罚」（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会. 中华人民共和国刑法（经刑法修正案十一修正的整合文本）第三百八十九条. <https://flk.npc.gov.cn/detail?id=ff808181796a636a0179822a19640c92>；全国人大常委会 (2023). 中华人民共和国刑法修正案（十二）（第五项，修改刑法第三百九十条；自 2024 年 3 月 1 日起施行）. <https://flk.npc.gov.cn/detail?id=ff8081818c3ce31f018cb6a6bc412f55>",
+      "notes": "受益人是你自己。别指望贿赂一下就能免除惩罚。对方有同事、有台账、有监控和督察。你送出去的东西是他被查时的证据，也是你自己的罪证，而且这一类行贿是明文从重的那一档。真遇到对方索要好处，就按第 39 条（报警当场要受案回执）的渠道走。留下受案回执和文书，向督察机构或者纪检监察机关反映。刑法第三百八十九条第三款给的免责条件是「被勒索且没有获得不正当利益」。一旦你借这个机会拿到了本来拿不到的东西，这个条件就不成立。医院里的红包属于另一套规则，见第 24 节第 11 条"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng đưa tiền, thẻ quà tặng cho người giải quyết vụ việc hay thực thi pháp luật: người đưa hối lộ cũng bị kết án; hối lộ người làm công tác giám sát, thực thi pháp luật, tư pháp còn bị xử nặng hơn",
+    "cost": "Không tốn tiền. Chỉ cần không làm.",
+    "plain": "“Bỏ chút tiền để dàn xếp” là một tội riêng trong luật hình sự, người đưa tiền cũng bị kết án. Hối lộ bị phạt tù đến 3 năm, tình tiết nghiêm trọng từ 3 đến 10 năm, đặc biệt nghiêm trọng từ 10 năm trở lên hoặc tù chung thân. Hối lộ người làm công tác giám sát, thực thi pháp luật hành chính, tư pháp còn thuộc trường hợp luật quy định rõ phải xử nặng hơn. Nếu bị tống tiền nên phải đưa và không thu được lợi ích bất chính thì không tính là hối lộ.",
+    "benefit": "Điều ba trăm tám mươi chín Bộ luật Hình sự định nghĩa hối lộ: “Đưa tài sản cho nhân viên nhà nước nhằm mưu cầu lợi ích bất chính là tội đưa hối lộ”. Cùng điều còn quy định: “Trong giao dịch kinh tế, vi phạm quy định nhà nước mà đưa tài sản với giá trị tương đối lớn cho nhân viên nhà nước, hoặc vi phạm quy định nhà nước mà đưa cho họ khoản hoàn lại, phí hoa hồng dưới các danh nghĩa khác nhau, thì xử lý theo tội đưa hối lộ”. Đồng thời có ngoại lệ: “Do bị tống tiền mà đưa tài sản cho nhân viên nhà nước, nhưng không thu được lợi ích bất chính, thì không phải hối lộ”. Mức hình phạt được quy định tại Điều ba trăm chín mươi Bộ luật Hình sự (sửa đổi theo Tu chính án thứ mười hai, có hiệu lực từ ngày 1 tháng 3 năm 2024). Nguyên văn: “Người phạm tội đưa hối lộ bị phạt tù đến ba năm hoặc giam ngắn hạn, đồng thời phạt tiền; đưa hối lộ nhằm mưu cầu lợi ích bất chính, có tình tiết nghiêm trọng, hoặc gây tổn thất lớn cho lợi ích nhà nước, thì bị phạt tù từ ba năm đến mười năm, đồng thời phạt tiền; tình tiết đặc biệt nghiêm trọng hoặc gây tổn thất đặc biệt lớn cho lợi ích nhà nước thì bị phạt tù từ mười năm trở lên hoặc tù chung thân, đồng thời phạt tiền hoặc tịch thu tài sản”. Có bảy tình tiết phải xử nặng hơn trong khung hình phạt: “(một) Đưa hối lộ nhiều lần hoặc cho nhiều người; (hai) Nhân viên nhà nước đưa hối lộ; (ba) Đưa hối lộ trong công trình trọng điểm, dự án lớn của nhà nước; (bốn) Đưa hối lộ để mưu cầu thăng tiến, điều chỉnh chức vụ, cấp bậc; (năm) Đưa hối lộ cho người làm công tác giám sát, thực thi pháp luật hành chính, tư pháp; (sáu) Đưa hối lộ trong các lĩnh vực môi trường sinh thái, tài chính công và tài chính, an toàn sản xuất, thực phẩm và thuốc, phòng chống và cứu trợ thiên tai, an sinh xã hội, giáo dục, y tế cùng các lĩnh vực khác để thực hiện hoạt động vi phạm pháp luật, phạm tội; (bảy) Dùng thu nhập bất hợp pháp để đưa hối lộ”. Khoản cuối cho phép giảm, miễn khi chủ động khai báo: “Người đưa hối lộ chủ động khai báo hành vi trước khi bị truy cứu có thể được xử nhẹ trong khung hoặc giảm hình phạt xuống dưới khung. Trong đó, nếu hành vi phạm tội nhẹ, đóng vai trò then chốt giúp điều tra đột phá hoặc phá vụ án lớn, hoặc lập công lớn, thì có thể được giảm hình phạt xuống dưới khung hoặc miễn hình phạt” (toàn Trung Quốc).",
+    "notes": "Người hưởng lợi là chính bạn. Đừng mong đưa hối lộ một chút sẽ tránh được trừng phạt. Bên kia có đồng nghiệp, sổ theo dõi, camera và cơ quan thanh tra, giám sát. Thứ bạn đưa là bằng chứng khi họ bị điều tra, đồng thời cũng là chứng cứ phạm tội của chính bạn; hơn nữa, loại hối lộ này thuộc trường hợp luật quy định rõ phải xử nặng hơn. Nếu thực sự gặp người đòi lợi ích, đi theo các kênh ở mục 39 (lấy giấy biên nhận ngay khi báo công an). Giữ giấy biên nhận và các văn bản, phản ánh với cơ quan thanh tra, giám sát công an hoặc cơ quan kiểm tra kỷ luật, giám sát. Điều kiện miễn trách nhiệm tại khoản ba Điều ba trăm tám mươi chín Bộ luật Hình sự là “bị tống tiền và không thu được lợi ích bất chính”. Một khi bạn nhân cơ hội đó lấy được thứ vốn không thể có, điều kiện này không còn đáp ứng. Phong bì trong bệnh viện thuộc nhóm quy định khác, xem mục 11 phần 24.",
+    "extra": ""
+  }
+}

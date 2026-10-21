@@ -1,0 +1,35 @@
+{
+  "id": "e-33-21",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "eadaec8f41ca3916fb6f251a15cf72a433eeda873bc8f1ca9ddfed33a1c6e68b",
+  "original": {
+    "number": 21,
+    "title": "脊髓损伤后尿不出来的，排尿方式和医生一起定，别长期插着尿管不管，终身定期查肾和膀胱",
+    "fields": {
+      "cost": "自己定时导尿，一天要做四到六次，每次几分钟，导尿管要一直买。复查每一到两年一次，要挂泌尿科或者康复科。难在天天做、几十年不能断。",
+      "plain": "脊髓损伤后尿不出来，就要靠导尿这类办法排空膀胱。英国跟了七十年的数据里，一成多的死因在泌尿生殖系统。长期插着尿管的人，出并发症的比例比定时自己导尿的高约一倍。不管用哪种办法，肾和膀胱都要终身定期查。",
+      "benefit": "英国两家脊髓损伤中心查了 5483 名外伤性脊髓损伤患者。他们在 1943 到 2010 年受伤，都熬过了伤后第一年，随访到 2014 年底。共 2322 人死亡，其中 2170 人有可靠死因。死因前几位是呼吸系统 29.3%、循环系统 26.7%、肿瘤 13.9%、泌尿生殖系统 11.5%。扣掉年龄差别后，泌尿生殖系统的死亡率比普通人群高，这些年在下降，但仍偏高。另一项美国研究翻看了 316 名外伤性脊髓损伤患者的病历，伤后平均随访 18.3 年，按排尿方式分组。出过并发症的人，长期经尿道留置尿管组 53.5%，清洁间歇导尿组 27.2%，自主排尿组 32.4%，耻骨上造瘘组 44.4%。并发症包括感染、结石、尿道损伤和影像异常。这只是翻病历对比，没有随机分组。欧洲泌尿外科学会 2026 版指南写明，经尿道留置尿管并发症多、尿路感染风险高，能避免就避免。耻骨上造瘘也一样，只是程度轻一些。指南还写明，长期随访要终身做，用来查上尿路损害和肾衰竭的风险。复查间隔多数情况下不超过一到两年。高风险的人大约每半年做一次 B 超，每年做体检和尿液化验。指南第 3.4.2.e 节写明，间歇导尿和留置尿管都是排不空膀胱的人的标准做法，建议医生和本人共同决定。在脊髓损伤的人里，间歇导尿的生活质量评分比留置尿管差，一年尿路感染超过 4 次的尤其如此。一项观察研究里，用间歇导尿的人 12 个月内有 42.1% 停用，主要原因是不方便、漏尿和感染增多。指南写明硅胶导尿管更好，因为不容易结垢，神经系统疾病的病人里乳胶过敏又多。第 3.5.1 节列了这类病人尿路感染最常见的信号：发烧、新出现或加重的漏尿、痉挛加重、乏力、尿浑浊气味变重、肾区或膀胱疼痛，以及自主神经反射异常",
+      "grade": "B",
+      "sources": "Savic G, DeVivo MJ, Frankel HL, Jamous MA, Soni BM, Charlifue S (2017). Causes of death after traumatic spinal cord injury - a 70-year British study. Spinal Cord, 55(10):891-897. <https://doi.org/10.1038/sc.2017.64>；Weld KJ, Dmochowski RR (2000). Effect of bladder management on urological complications in spinal cord injured patients. Journal of Urology, 163(3):768-772. <https://doi.org/10.1016/s0022-5347(05)67800-7>；European Association of Urology (2026). EAU Guidelines on Neuro-Urology（第 3.3.8、3.4.2.e、3.5.1、3.7 节）. <https://uroweb.org/guidelines/neuro-urology/chapter/the-guideline>",
+      "notes": "争议：同一份指南把间歇导尿和留置尿管都列为标准做法，要求医生和本人一起定。在脊髓损伤的人里，间歇导尿的生活质量评分反而更差，一年尿路感染超过 4 次的尤其明显。用间歇导尿的人，一年内四成多停用了。所以手不方便、家里没人帮的，留置尿管可以是合理选择，这是作者从上面几点推出来的。用留置尿管的，指南建议用硅胶管。别自己拍板，也别插上就几年不复查。新出现漏尿、尿浑浊发臭、痉挛加重、发烧，可能是尿路感染，要去看。膀胱憋得太满会诱发自主神经反射异常，见本节第 1 条（突然剧烈头痛）。国内的神经源性膀胱指南原文没取到，没引。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không tiểu được sau chấn thương tủy sống thì cùng bác sĩ chọn cách dẫn lưu nước tiểu; đừng để ống thông lâu dài rồi bỏ mặc, phải kiểm tra thận và bàng quang định kỳ suốt đời",
+    "cost": "Tự thông tiểu theo giờ cần thực hiện bốn đến sáu lần mỗi ngày, mỗi lần vài phút, và phải mua ống thông liên tục. Tái khám mỗi một đến hai năm tại khoa tiết niệu hoặc phục hồi chức năng. Khó ở chỗ phải làm hằng ngày, không được ngừng suốt vài chục năm.",
+    "plain": "Sau chấn thương tủy sống, nếu không tiểu được thì phải dùng cách như thông tiểu để làm rỗng bàng quang. Trong dữ liệu theo dõi bảy mươi năm ở Anh, hơn một phần mười nguyên nhân tử vong thuộc hệ tiết niệu và sinh dục. Tỷ lệ gặp biến chứng ở người đặt ống thông tiểu lâu dài cao khoảng gấp đôi người tự thông tiểu theo giờ. Dù dùng cách nào, vẫn phải kiểm tra thận và bàng quang định kỳ suốt đời.",
+    "benefit": "Hai trung tâm chấn thương tủy sống ở Anh khảo sát 5483 bệnh nhân chấn thương tủy sống do ngoại lực. Họ bị thương từ năm 1943 đến 2010, đều sống qua năm đầu sau chấn thương và được theo dõi đến cuối năm 2014. Có 2322 người tử vong, trong đó 2170 người có nguyên nhân tử vong đáng tin cậy. Những nguyên nhân hàng đầu là bệnh hệ hô hấp 29.3%, hệ tuần hoàn 26.7%, ung thư 13.9%, hệ tiết niệu và sinh dục 11.5%. Sau khi điều chỉnh khác biệt tuổi tác, tỷ lệ tử vong do hệ tiết niệu và sinh dục cao hơn dân số chung; tỷ lệ này đã giảm qua các năm nhưng vẫn cao. Một nghiên cứu khác ở Mỹ xem lại hồ sơ của 316 bệnh nhân chấn thương tủy sống do ngoại lực, theo dõi trung bình 18.3 năm sau chấn thương và chia nhóm theo cách dẫn lưu nước tiểu. Tỷ lệ từng gặp biến chứng là 53.5% ở nhóm lưu ống thông qua niệu đạo lâu dài, 27.2% ở nhóm thông tiểu ngắt quãng sạch, 32.4% ở nhóm tự tiểu và 44.4% ở nhóm mở thông bàng quang trên xương mu. Biến chứng gồm nhiễm trùng, sỏi, tổn thương niệu đạo và bất thường trên hình ảnh. Đây chỉ là so sánh hồi cứu hồ sơ, không phân nhóm ngẫu nhiên. Hướng dẫn năm 2026 của Hội Tiết niệu châu Âu nêu rõ lưu ống thông qua niệu đạo gây nhiều biến chứng và nguy cơ nhiễm trùng đường tiết niệu cao, nên tránh nếu có thể. Mở thông bàng quang trên xương mu cũng vậy, nhưng mức độ nhẹ hơn. Hướng dẫn còn nêu phải theo dõi dài hạn suốt đời để kiểm tra nguy cơ tổn thương đường tiết niệu trên và suy thận. Khoảng cách tái khám trong phần lớn trường hợp không quá một đến hai năm. Người nguy cơ cao siêu âm B khoảng mỗi nửa năm, khám sức khỏe và xét nghiệm nước tiểu hằng năm. Mục 3.4.2.e của hướng dẫn nêu rõ thông tiểu ngắt quãng và lưu ống thông đều là cách tiêu chuẩn cho người không làm rỗng bàng quang được, khuyến nghị bác sĩ và chính người bệnh cùng quyết định. Ở người chấn thương tủy sống, điểm chất lượng cuộc sống khi thông tiểu ngắt quãng kém hơn lưu ống thông, đặc biệt ở người nhiễm trùng đường tiết niệu hơn 4 lần mỗi năm. Trong một nghiên cứu quan sát, 42.1% người dùng cách thông tiểu ngắt quãng ngừng sử dụng trong 12 tháng, chủ yếu vì bất tiện, rò tiểu và nhiễm trùng nhiều hơn. Hướng dẫn nêu ống thông silicone tốt hơn vì ít đóng cặn, trong khi dị ứng latex lại phổ biến ở người mắc bệnh thần kinh. Mục 3.5.1 liệt kê các dấu hiệu nhiễm trùng đường tiết niệu thường gặp nhất ở nhóm bệnh nhân này: sốt, rò tiểu mới xuất hiện hoặc nặng lên, co cứng tăng lên, mệt mỏi, nước tiểu đục và nặng mùi hơn, đau vùng thận hoặc bàng quang, cùng rối loạn phản xạ tự chủ.",
+    "notes": "Điểm còn tranh luận: cùng hướng dẫn này liệt kê cả thông tiểu ngắt quãng và lưu ống thông là cách tiêu chuẩn, yêu cầu bác sĩ và chính người bệnh cùng quyết định. Ở người chấn thương tủy sống, điểm chất lượng cuộc sống khi thông tiểu ngắt quãng lại kém hơn, đặc biệt rõ ở người nhiễm trùng đường tiết niệu hơn 4 lần mỗi năm. Hơn bốn phần mười người thông tiểu ngắt quãng ngừng dùng trong một năm. Vì vậy, nếu tay khó thao tác, ở nhà không có người giúp, lưu ống thông có thể là lựa chọn hợp lý; đây là suy luận của tác giả từ các điểm trên. Với người lưu ống thông, hướng dẫn khuyến nghị dùng ống silicone. Đừng tự quyết, cũng đừng đặt ống rồi nhiều năm không tái khám. Rò tiểu mới xuất hiện, nước tiểu đục và hôi, co cứng tăng lên, sốt có thể là nhiễm trùng đường tiết niệu, cần đi khám. Bàng quang căng quá đầy có thể gây rối loạn phản xạ tự chủ, xem mục 1 phần này (đột ngột đau đầu dữ dội). Chưa lấy được nguyên văn hướng dẫn về bàng quang thần kinh của Trung Quốc nên không trích dẫn. Người hưởng lợi là chính bạn.",
+    "extra": ""
+  }
+}

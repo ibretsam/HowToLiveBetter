@@ -1,0 +1,35 @@
+{
+  "id": "e-15-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "47739d2b66d43ada8b81a8b69f0b8dd965622634078d9eb4d3aa27545b184352",
+  "original": {
+    "number": 5,
+    "title": "房子租期内被卖掉，租约继续有效，不用搬",
+    "fields": {
+      "cost": "不花钱",
+      "plain": "租期内房子被卖掉，你的租约照样有效。新房东要按原来的合同让你住到期满。不用搬，也不用重新谈价钱。前提是你已经合法住在里面，合同、转账记录、入住时间的证据都留好。",
+      "benefit": "民法典里有一条叫「买卖不破租赁」。法条原话是：租赁物在租赁期限内发生所有权变动的，不影响租赁合同的效力。租期里房子换了主人，已经签好的租约照样有效。新房东要按原合同让你住到期满",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第七百二十五条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "前提是你已经合法住进去了，法条里的说法是合法占有使用。合同、转账记录、入住时间的证据要留好"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nhà bị bán trong thời hạn thuê thì hợp đồng thuê vẫn có hiệu lực, bạn không cần chuyển đi",
+    "cost": "Không tốn tiền",
+    "plain": "Nhà bị bán trong thời hạn thuê thì hợp đồng của bạn vẫn có hiệu lực. Chủ mới phải cho bạn ở đến hết hạn theo hợp đồng cũ. Bạn không cần chuyển đi hay thương lượng lại giá. Điều kiện là bạn đã vào ở hợp pháp; hãy giữ hợp đồng, lịch sử chuyển tiền và bằng chứng về ngày vào ở.",
+    "benefit": "Bộ luật Dân sự có quy tắc gọi là “mua bán không làm mất hiệu lực thuê”. Nguyên văn điều luật: việc thay đổi quyền sở hữu tài sản cho thuê trong thời hạn thuê không ảnh hưởng đến hiệu lực của hợp đồng thuê. Nhà đổi chủ trong thời hạn thuê thì hợp đồng đã ký vẫn có hiệu lực. Chủ mới phải cho bạn ở đến hết hạn theo hợp đồng cũ",
+    "notes": "Điều kiện là bạn đã vào ở hợp pháp; cách nói trong điều luật là chiếm hữu, sử dụng hợp pháp. Giữ hợp đồng, lịch sử chuyển tiền và bằng chứng về ngày vào ở",
+    "extra": ""
+  }
+}

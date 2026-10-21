@@ -1,0 +1,35 @@
+{
+  "id": "e-21-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "6adaaa6ba574a61b73926a5ca4a8b943b51c209e1faa727599918e35cef15450",
+  "original": {
+    "number": 2,
+    "title": "把 12308 和当地使领馆的领保电话存进手机，再抄一份放钱包，别等出事再找",
+    "fields": {
+      "cost": "不花钱。存两个号码，再抄一份，几分钟。",
+      "plain": "出事时先打外交部的全球领保热线。人在国内打 12308，人在国外打 +86-10-12308。这条热线开通以来接了 300 多万通电话。同一时期，外交部和驻外机构办了 50 多万起领事保护案件。",
+      "benefit": "外交部有一条全球领事保护与服务应急热线，24 小时有人接。人在国内拨 12308。人在国外拨 +86-10-12308，或者 +86-10-65612308。这条热线从 2014 年开通到现在，累计接听 300 多万通来电。同一时期，外交部和驻外机构处置各类领事保护案件 50 多万起",
+      "grade": "A",
+      "sources": "外交部、中国驻缅甸使领馆 (2023). 关于当前缅北地区安全局势的领事提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/202311/t20231109_11176682.shtml>；国务院新闻办 (2023). 国务院政策例行吹风会介绍领事保护与协助有关情况. <https://www.gov.cn/xinwen/2023zccfh/11/index.htm>",
+      "notes": "驻当地使领馆自己还有一个领保电话，通常比总台更快。出发前在中国领事服务网上按国家查到，和总台号码一起存进手机。手机丢了或者没电，存的号码就用不上了。所以再手抄一份放在钱包里，或者把号码写一份给家里人"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Lưu 12308 và số bảo hộ lãnh sự của cơ quan đại diện tại địa phương vào điện thoại, chép thêm một bản để trong ví, đừng đợi có chuyện mới tìm",
+    "cost": "Không tốn tiền. Lưu hai số và chép thêm một bản, mất vài phút.",
+    "plain": "Khi có chuyện, trước hết gọi đường dây bảo hộ lãnh sự toàn cầu của Bộ Ngoại giao Trung Quốc. Trong nước gọi 12308, ở nước ngoài gọi +86-10-12308. Từ khi hoạt động, đường dây đã nhận hơn 300 vạn cuộc gọi. Trong cùng thời gian, Bộ Ngoại giao và các cơ quan ở nước ngoài xử lý hơn 50 vạn vụ bảo hộ lãnh sự.",
+    "benefit": "Bộ Ngoại giao có đường dây khẩn cấp bảo hộ và dịch vụ lãnh sự toàn cầu, có người nhận cuộc gọi 24 giờ. Ở Trung Quốc gọi 12308; ở nước ngoài gọi +86-10-12308 hoặc +86-10-65612308. Từ khi mở năm 2014 đến nay, đường dây nhận tổng cộng hơn 300 vạn cuộc gọi. Trong cùng thời gian, Bộ Ngoại giao và cơ quan đại diện ở nước ngoài xử lý hơn 50 vạn vụ bảo hộ lãnh sự các loại.",
+    "notes": "Đại sứ quán hoặc lãnh sự quán tại địa phương còn có số bảo hộ lãnh sự riêng, thường nhanh hơn tổng đài. Trước khi đi, tra theo quốc gia trên trang dịch vụ lãnh sự Trung Quốc rồi lưu cùng số tổng đài. Nếu điện thoại mất hoặc hết pin thì số lưu trong máy không dùng được. Vì vậy, chép tay thêm một bản bỏ ví hoặc ghi số cho người nhà.",
+    "extra": ""
+  }
+}

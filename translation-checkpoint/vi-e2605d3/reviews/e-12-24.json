@@ -1,0 +1,15 @@
+{
+  "id": "e-12-24",
+  "source_sha256": "531498b49d1471792cf13f62de21dab07b4218af79811df8a8a96dd48ca2a956",
+  "draft_sha256": "bfd59d38ebd4f69eba66c49b538506fb1262b9725a4940659118a00af11d445b",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves case counts and amounts, fictitious orders, contract rescission period and uncertainty about recovery after judgment. Broad source wording about no-inventory businesses retained as source wording. Translation review does not independently verify current law or source advice."
+}

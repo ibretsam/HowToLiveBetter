@@ -1,0 +1,15 @@
+{
+  "id": "intro-34",
+  "source_sha256": "baac840ab6f5445a86855ca03c21397b1f554d1808fdcf2d9278b29b1a5e7380",
+  "draft_sha256": "3c49be90f03e66f68fafc0b1a2e2fcc67a24d0da38eb121b81c75f29332e34e3",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison preserves OTC limits, endpoint/evidence uncertainty, all three cross-references and beneficiary groups. No new drug recommendation added."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-15-18",
+  "source_sha256": "c8d644411fc19ef1f2520ed83aaa2e5a1074704a850ba145ec7e3eeed4e8b75a",
+  "draft_sha256": "5cafca00b08784e65e23a5f5ff570267dd59bf9128d2e940f63c86afa9152875",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves developer delivery-date warranty versus construction acceptance-date minimums, all periods and exceptions. Source unavailable 1998 minimum text explicitly retained. Translation review does not independently verify current law or source advice."
+}

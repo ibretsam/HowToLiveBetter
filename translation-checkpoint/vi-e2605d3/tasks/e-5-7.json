@@ -1,0 +1,35 @@
+{
+  "id": "e-5-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "df14367190b1dc1c244d6a528e46b0374041ccc7706f18466983ef3ba6c916b9",
+  "original": {
+    "number": 7,
+    "title": "不用信用卡最低还款，不为消费开分期或消费贷；非借不可，先把利息换成年化利率再比",
+    "fields": {
+      "cost": "不花钱。要在账单日之前留够全额还款的现金。难的是忍住不用分期把大额开销摊薄。非借不可时，花几分钟问清每笔贷款的年化利率。",
+      "plain": "最低还款是按天算利息的贷款，按 2020 年以前的上限折合一年约 18%，用了它，免息期作废。分期写「每月手续费 0.6%」，按年算约 13.8%，不是 7.2%。因为本金每月在还，手续费却一直按最初的数收。比哪笔贷款贵，只看年化利率，别看日息月费率。",
+      "benefit": "信用卡透支利率在 2020 年以前有上下限：上限是「日利率万分之五」，下限是上限的 0.7 倍。万分之五折合成一年是 18.25%，这是单利：按一年 18.25% 算，利息不再滚进本金里。2021 年起改成由发卡机构和持卡人自己商量定价。用了最低还款以后，没还的那部分本金每天全额算利息，免息期同时作废。央行已经要求发卡机构用明显的方式展示年化利率（按整年折算的利率），「不得仅展示日利率、日还款额」。2021 年起，所有放贷的机构做广告、签合同，都要明显写出年化利率。日利率、月利率可以一起写，但不能比年化利率更显眼。年化利率要把利息和跟贷款直接有关的各种费用都算进去。分期还本的，按每期还完后剩下的本金算你实际用了多少钱。人民银行给过一个算例：借 10 万元，分 12 个月还，每月交最初本金的 0.5% 作分期费。借款当时还要交 1000 元服务费。按单利算，年化约 12.80%。按复利算（内部收益率法），年化约 13.58%。光看费率，会以为一年只花 0.5% × 12 + 1% = 7%。实际差不多是它的两倍，因为本金每月在减少，分期费却一直按 10 万元收。照同样的算法，信用卡分 12 期、每期手续费 0.6%、没有别的费用，名义上是一年 7.2%。按复利算，年化约 13.8%，是名义数字的 1.9 倍左右。分 6 到 36 期，都在 1.8 到 2 倍之间。借给你钱的是个人或普通公司，就是民间借贷。约定的利率超过签合同时一年期 LPR 4 倍，法院不支持超出的部分。2026 年 8 月 20 日的一年期 LPR 是 3.0%，4 倍就是 12%。先从借款里扣掉的利息，法院按实际到手的钱算本金。这条线管不到银行、消费金融公司这些持牌金融机构。小额贷款公司、典当行、融资租赁公司等七类地方金融组织也不适用。所以不能拿 12% 去套它们的贷款，要看合同上写的年化利率（中国，2020、2021 年）",
+      "grade": "C",
+      "sources": "中国人民银行 (2020). 关于推进信用卡透支利率市场化改革的通知（银发〔2020〕327 号）. <https://xining.pbc.gov.cn/zhengwugongkai/4081330/4406346/4693549/4159909/index.html>；中国人民银行 (2021). 中国人民银行公告〔2021〕第 3 号（第一、三、四条，附件《采用内部收益率法计算贷款年化利率示例》第三例）. <https://www.gov.cn/zhengce/zhengceku/2021-03/31/content_5597156.htm>；最高人民法院 (2020 年第二次修正). 关于审理民间借贷案件适用法律若干问题的规定（第一、二十五、二十六条）. <http://gongbao.court.gov.cn/Details/94b6623974526df7d2430a3c73f050.html>（最高人民法院公报）；最高人民法院 (2020). 关于新民间借贷司法解释适用范围问题的批复（法释〔2020〕27 号）. <https://www.court.gov.cn/fabu/xiangqing/285171.html>；全国银行间同业拆借中心受中国人民银行授权 (2026). 2026 年 8 月 20 日贷款市场报价利率（LPR）公告. <https://www.chinamoney.com.cn/chinese/rdgz/20260820/3399885.html>",
+      "notes": "18.25% 是拿「万分之五 × 365」直接乘出来的，没有算利滚利。真按月滚起来还要更高。个别银行有折扣，以你自己账单上写明的年化利率为准。真周转不开的时候，优先去找利率更低的正规渠道借，不要拖着最低还款滚利息。比两笔贷款时，让对方给按复利算的年化利率。对方给的是单利，按规定要写明「单利」，单利会比复利低一些。13.8% 和 1.8 到 2 倍是本书照人民银行的算法自己算的，算法写在核实记录里。民间借贷别碰高利贷，另见第 7 节第 15 条（不借高利贷）。买车办贷款时店家另收的钱，见本节第 49 条（4S 店的金融服务费）。已经还不上的，见第 7 节第 23 条（信用卡、网贷已经还不上）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không trả mức tối thiểu thẻ tín dụng, không trả góp hoặc vay để tiêu dùng; nếu buộc phải vay, hãy quy lãi suất ra năm rồi so sánh",
+    "cost": "Không tốn tiền. Trước ngày chốt sao kê phải dành đủ tiền mặt trả toàn bộ. Cái khó là kiềm chế việc dùng trả góp để chia nhỏ khoản chi lớn. Khi buộc phải vay, dành vài phút hỏi rõ lãi suất quy năm của từng khoản.",
+    "plain": "Trả mức tối thiểu là vay tính lãi theo ngày; theo mức trần trước năm 2020 thì tương đương khoảng 18% một năm, và khi dùng thì thời gian miễn lãi mất hiệu lực. Trả góp ghi “phí hằng tháng 0.6%” thì quy năm khoảng 13.8%, không phải 7.2%. Vì gốc được trả dần mỗi tháng nhưng phí vẫn tính trên số tiền ban đầu. So sánh khoản vay nào đắt hơn thì chỉ nhìn lãi suất quy năm, đừng nhìn lãi ngày hay tỷ lệ phí tháng.",
+    "benefit": "Trước năm 2020, lãi suất thấu chi thẻ tín dụng có trần và sàn: trần là “lãi suất ngày năm phần vạn”, sàn bằng 0.7 lần trần. Năm phần vạn quy ra năm là 18.25%; đây là lãi đơn, tức tính 18.25% một năm, không nhập lãi vào gốc để tính tiếp. Từ năm 2021, giá được chuyển sang do tổ chức phát hành thẻ và chủ thẻ thỏa thuận. Sau khi dùng mức thanh toán tối thiểu, toàn bộ phần gốc chưa trả bị tính lãi mỗi ngày, đồng thời thời gian miễn lãi mất hiệu lực. Ngân hàng trung ương đã yêu cầu tổ chức phát hành thẻ thể hiện rõ lãi suất quy năm (lãi suất quy đổi theo cả năm), “không được chỉ hiển thị lãi suất ngày, số tiền trả hằng ngày”. Từ năm 2021, tất cả tổ chức cho vay phải ghi rõ lãi suất quy năm trong quảng cáo và hợp đồng. Có thể ghi cùng lãi suất ngày, tháng, nhưng không được nổi bật hơn lãi suất quy năm. Lãi suất quy năm phải tính cả lãi và mọi khoản phí liên quan trực tiếp đến khoản vay. Nếu trả gốc từng kỳ thì tính số tiền thực tế sử dụng theo phần gốc còn lại sau mỗi kỳ trả. Ngân hàng Nhân dân Trung Quốc từng đưa ví dụ: vay 10 vạn nhân dân tệ, trả trong 12 tháng, mỗi tháng nộp phí trả góp bằng 0.5% gốc ban đầu; lúc vay còn phải nộp 1000 nhân dân tệ phí dịch vụ. Tính theo lãi đơn, lãi suất quy năm khoảng 12.80%. Tính theo lãi kép (phương pháp tỷ suất hoàn vốn nội bộ), khoảng 13.58%. Chỉ nhìn tỷ lệ phí sẽ tưởng một năm chỉ tốn 0.5% × 12 + 1% = 7%. Thực tế gần gấp đôi vì gốc giảm mỗi tháng nhưng phí trả góp vẫn tính trên 10 vạn nhân dân tệ. Theo cùng cách tính, thẻ tín dụng trả góp 12 kỳ, phí mỗi kỳ 0.6%, không có phí khác, danh nghĩa là 7.2% một năm. Tính theo lãi kép, lãi suất quy năm khoảng 13.8%, bằng khoảng 1.9 lần con số danh nghĩa. Trả từ 6 đến 36 kỳ thì đều trong khoảng 1.8 đến 2 lần. Nếu bên cho vay là cá nhân hoặc công ty thông thường, đó là cho vay dân sự. Phần lãi suất thỏa thuận vượt 4 lần LPR kỳ hạn một năm tại thời điểm ký hợp đồng không được tòa bảo vệ. LPR kỳ hạn một năm ngày 20 tháng 8 năm 2026 là 3.0%, gấp 4 lần là 12%. Nếu lãi bị trừ trước khỏi tiền vay, tòa tính gốc theo số tiền thực nhận. Giới hạn này không áp dụng cho tổ chức tài chính có giấy phép như ngân hàng, công ty tài chính tiêu dùng. Bảy loại tổ chức tài chính địa phương, gồm công ty cho vay nhỏ, hiệu cầm đồ, công ty cho thuê tài chính, cũng không áp dụng. Vì vậy, không thể lấy 12% áp cho khoản vay của họ; phải xem lãi suất quy năm ghi trong hợp đồng (Trung Quốc, năm 2020, 2021).",
+    "notes": "18.25% được tính bằng phép nhân trực tiếp “năm phần vạn × 365”, chưa tính lãi chồng lãi. Nếu thực sự nhập lãi hằng tháng thì còn cao hơn. Một số ngân hàng có ưu đãi; lấy lãi suất quy năm ghi trên sao kê của bạn làm chuẩn. Khi thực sự không xoay xở được, ưu tiên tìm kênh chính quy có lãi suất thấp hơn, đừng kéo dài trả tối thiểu để lãi chồng lên. Khi so hai khoản vay, yêu cầu bên cho vay cung cấp lãi suất quy năm tính theo lãi kép. Nếu họ đưa lãi đơn thì theo quy định phải ghi rõ “lãi đơn”; lãi đơn sẽ thấp hơn lãi kép một chút. Các số 13.8% và 1.8 đến 2 lần do sách tự tính theo phương pháp của Ngân hàng Nhân dân Trung Quốc; phương pháp được ghi trong hồ sơ xác minh. Với vay dân sự, đừng vay nặng lãi; xem thêm chương 7 mục 15 (không vay nặng lãi). Khoản cửa hàng thu thêm khi vay mua xe xem mục 49 của chương này (phí dịch vụ tài chính của đại lý 4S). Nếu đã không trả nổi, xem chương 7 mục 23 (đã không trả nổi thẻ tín dụng, vay trực tuyến).",
+    "extra": ""
+  }
+}

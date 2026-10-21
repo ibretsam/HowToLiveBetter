@@ -1,0 +1,35 @@
+{
+  "id": "e-1-28",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "bfe1f3624ac19f3c9b65845164ef3d81365fe051d8cbe4885404cc86dddddbe6",
+  "original": {
+    "number": 28,
+    "title": "勃起功能出了问题，先去查心血管，别当成单纯的「那方面的事」",
+    "fields": {
+      "cost": "挂号几十元。量血压、抽血查血糖和血脂，一两百元。跑一趟医院，等几天结果。",
+      "plain": "有勃起功能障碍的男性，后来得心血管病的比别人多约四成，心梗多约六成。越年轻的人差得越多。所以先去查血压、血糖、血脂，别自己买药压过去。",
+      "benefit": "一篇荟萃分析把 14 项跟踪研究合起来算，共 92,757 名男性，平均跟踪 6.1 年。和没有勃起功能障碍的人相比，有这个问题的人后来的风险是这样。总的心血管事件高约 44%（RR 1.44，95% CI 1.27 到 1.63，这是可信范围）。心梗高约 62%（RR 1.62，1.34 到 1.96）。脑血管事件高约 39%（RR 1.39，1.23 到 1.57）。全因死亡高约 25%（RR 1.25，1.12 到 1.39）。心血管死亡那一项没有拉开差距（RR 1.19，0.97 到 1.46）。年龄越轻，倍数越高。本来心血管风险属于中等的那批人，倍数比高风险和低风险的人都高。用问卷判定的研究，算出来的倍数是 1.61（1.38 到 1.86）。只问一句话的研究是 1.27（1.18 到 1.37）",
+      "grade": "A",
+      "sources": "Vlachopoulos CV, Terentes-Printzios DG, Ioakeimidis NK, Aznaouridis KA, Stefanadis CI (2013). Prediction of cardiovascular events and all-cause mortality with erectile dysfunction: a systematic review and meta-analysis of cohort studies. Circulation: Cardiovascular Quality and Outcomes, 6(1), 99-109. <https://doi.org/10.1161/CIRCOUTCOMES.112.966903>；DailyMed（美国国立医学图书馆的药品说明书库）. VIAGRA (sildenafil citrate) tablet, CONTRAINDICATIONS. <https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d905dc8d-917f-4ea3-a4ee-a1ecf6967d4e>；NHS. Erectile dysfunction (impotence)：「Most men occasionally fail to get or keep an erection. This is usually caused by stress, tiredness or drinking too much alcohol, and it's nothing to worry about.」「See a GP or go to a sexual health clinic if: erection problems keep happening」. <https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/>",
+      "notes": "这 14 项都是跟踪一群人看结果的研究，不是随机分组试验。所以「多四成」是关联，不能当成因果。英国国民医疗服务体系（NHS）说，多数男人偶尔会硬不起来，常是累、压力大、喝多了，不用担心。反复出现才该去看医生。要查的东西和本节第 7、8 条是同一批：量血压、查空腹血糖，再加血脂、吸烟和腰围。别在网上买「壮阳」保健品。正规的那类药是处方药，说明书把硝酸酯类列为禁忌，正在用硝酸甘油这类药的人不能吃，一起用会让血压骤降。怎么改善见本节第 29 条（减重、戒烟能让勃起功能好转）。收益记「中」不记「大」：44% 是两群人的风险差距，不是「去查一次能降多少死亡」。也不记「小」：本节第 27 条（尿里出现肉眼看得见的血）那种信号只有检出率。这里查出来的高血压、糖尿病、血脂异常都有现成的治疗办法。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có vấn đề về khả năng cương thì đi kiểm tra tim mạch trước, đừng chỉ coi là chuyện sinh lý",
+    "cost": "Đăng ký khám vài chục nhân dân tệ. Đo huyết áp, lấy máu xét nghiệm đường huyết và mỡ máu một hai trăm. Đi bệnh viện một lần, chờ kết quả vài ngày.",
+    "plain": "Nam giới rối loạn cương dương sau này mắc bệnh tim mạch nhiều hơn người khác khoảng bốn mươi phần trăm, nhồi máu cơ tim nhiều hơn khoảng sáu mươi phần trăm. Càng trẻ, chênh lệch càng lớn. Vì vậy, hãy kiểm tra huyết áp, đường huyết và mỡ máu trước, đừng tự mua thuốc để che lấp vấn đề.",
+    "benefit": "Một phân tích gộp tổng hợp 14 nghiên cứu theo dõi với 92,757 nam giới, thời gian theo dõi trung bình 6.1 năm. So với người không rối loạn cương dương, người có vấn đề này có nguy cơ về sau như sau. Tổng biến cố tim mạch cao hơn khoảng 44% (RR 1.44, 95% CI 1.27 đến 1.63, đây là khoảng tin cậy). Nhồi máu cơ tim cao hơn khoảng 62% (RR 1.62, 1.34 đến 1.96). Biến cố mạch máu não cao hơn khoảng 39% (RR 1.39, 1.23 đến 1.57). Tử vong do mọi nguyên nhân cao hơn khoảng 25% (RR 1.25, 1.12 đến 1.39). Riêng tử vong do tim mạch không cho thấy khác biệt rõ (RR 1.19, 0.97 đến 1.46). Càng trẻ, tỷ số càng cao. Ở người vốn có nguy cơ tim mạch trung bình, tỷ số cao hơn cả nhóm nguy cơ cao lẫn thấp. Nghiên cứu xác định tình trạng bằng bảng hỏi tính được tỷ số 1.61 (1.38 đến 1.86). Nghiên cứu chỉ hỏi một câu cho tỷ số 1.27 (1.18 đến 1.37).",
+    "notes": "Cả 14 nghiên cứu đều theo dõi một nhóm người để xem kết quả, không phải thử nghiệm phân nhóm ngẫu nhiên. Vì vậy, cao hơn bốn mươi phần trăm là mối liên hệ, không thể xem là quan hệ nhân quả. Dịch vụ Y tế quốc gia Anh (NHS) nói đa số đàn ông đôi lúc không cương được, thường do mệt, căng thẳng hoặc uống nhiều rượu bia, không cần lo. Chỉ khi tái diễn mới nên đi khám. Những thứ cần kiểm tra giống mục 7 và 8 phần này: huyết áp, đường huyết lúc đói, thêm mỡ máu, hút thuốc và vòng eo. Đừng mua thực phẩm bổ sung tăng cường sinh lý trên mạng. Thuốc chính thống thuộc nhóm này là thuốc kê đơn; hướng dẫn sử dụng liệt kê nitrat là chống chỉ định. Người đang dùng nitroglycerin hoặc thuốc tương tự không được uống, vì dùng cùng làm huyết áp tụt đột ngột. Cách cải thiện xem mục 29 phần này (giảm cân, bỏ thuốc lá có thể cải thiện khả năng cương). Lợi ích xếp vừa, không xếp lớn: 44% là chênh lệch nguy cơ giữa hai nhóm, không phải mức giảm tử vong nhờ đi kiểm tra một lần. Cũng không xếp nhỏ: dấu hiệu như mục 27 phần này (có máu nhìn thấy bằng mắt thường trong nước tiểu) chỉ có tỷ lệ phát hiện. Còn tăng huyết áp, đái tháo đường và rối loạn mỡ máu được phát hiện ở đây đều đã có cách điều trị.",
+    "extra": ""
+  }
+}

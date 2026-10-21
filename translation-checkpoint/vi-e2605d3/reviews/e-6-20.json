@@ -1,0 +1,15 @@
+{
+  "id": "e-6-20",
+  "source_sha256": "a4e3e952d80eb5de5d1f69782f70e4f312269aefe55ca19dbd6e63430e705dce",
+  "draft_sha256": "503cdff8e46cf2621fdc52401353b455a801c4ec859a57bfa9575033379b0d7c",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves asymptomatic gallbladder-only scope, common-bile-duct exception regardless of symptoms, same-day warning signs, subscription limitation and conflicting evidence. Source reference to the same guideline after European exceptions can be ambiguous; retained rather than reassigned. All cohort/model figures and 5-mm/1-cm inclusive source boundaries retained."
+}

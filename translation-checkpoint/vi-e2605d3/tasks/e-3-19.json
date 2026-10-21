@@ -1,0 +1,35 @@
+{
+  "id": "e-3-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "de638704c84b79dd30ff8b142f5532235dad2e8b93179e4157f0e199ee050f9f",
+  "original": {
+    "number": 19,
+    "title": "把警察、医生、柜员当成按规则上班的人，别当成角色：能推动事情的是文书和期限，不是情绪",
+    "fields": {
+      "cost": "不花钱。改的是你的预期和动作顺序。第一次要忍住「把道理讲到对方认同」的冲动。",
+      "plain": "警察、医生、柜员都是按岗位规则上班的人，被文书、期限和监督管着。事情该在几天内办完、办不了要给什么文书，规章里都写着。所以要拿回执、记期限、按渠道申诉，别想着把道理讲到对方认同。",
+      "benefit": "把和机构打交道的动作换一换：从「求人、生气、反复复述委屈」，换成「拿文书、记期限、按渠道申诉」。省下的是重复沟通和反复回想的时间。这属于一次性的观念调整，不是每天都省时间。能拿来核对的是这些期限本身，它们都写在文件里。治安案件从受理那天算起，办案期限不超过 30 日；案情重大复杂的，经上一级公安机关批准可以延长 30 日。有控告人的案件决定不予立案的，不予立案通知书要在 3 日以内送达。控告人 7 日以内可以申请复议，公安机关 30 日以内作出决定。不服的，再 7 日以内向上一级申请复核。",
+      "grade": "C",
+      "sources": "公安部 (2020). 公安机关办理刑事案件程序规定（公安部令第 159 号修正后，第一百七十一、一百七十八、一百七十九条）. <http://www.gov.cn/gongbao/content/2020/content_5549884.htm>；公安部 (2013/2019 修正). 公安机关办理行政案件程序规定（公安部令第 125 号、第 149 号）. <http://www.gov.cn/gongbao/content/2013/content_2321117.htm>",
+      "notes": "定 C 的理由：「很多人把窗口后面的人当成一个角色、不当成上班的人」这个判断本身没有文献可引。能引的只有规则那一半：期限、文书和救济渠道都是明文的。本条引的数字全部来自第 8 节第 39 条（报警之后的流程）那两份公安部规章。按流程走管不了「对方态度差」，也不保证一定办成，改的只是你的预期和第一步动作。银行柜员、政务窗口也一样：他们操作留痕、要复核、出错要追责。所以该做的是留凭条、要回单、按渠道投诉，别凭「他会不会坑我」瞎猜。合法的优先级都写在明处，比如急诊按病情分级，不按先来后到（第 24 节第 7 条，急诊预检分诊）。想谢救过你的医生，就走感谢信和满意度评价，见第 24 节第 11 条。想「送点东西让人家多上点心」，对办案执法的人就是行贿罪，而且是明文从重的，见第 8 节第 40 条。遇到明显的区别对待，那是投诉和监督的对象，不是要去模仿的潜规则。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Coi cảnh sát, bác sĩ, giao dịch viên là người làm việc theo quy định, đừng gán cho họ một vai diễn: giấy tờ và thời hạn mới thúc đẩy công việc, không phải cảm xúc",
+    "cost": "Không tốn tiền. Thay đổi kỳ vọng và thứ tự hành động của bạn. Lần đầu cần nhịn ý muốn “giải thích lý lẽ đến khi đối phương đồng ý”.",
+    "plain": "Cảnh sát, bác sĩ và giao dịch viên đều làm việc theo quy định vị trí, chịu ràng buộc bởi giấy tờ, thời hạn và giám sát. Quy định nêu rõ công việc phải xong trong bao nhiêu ngày, nếu không làm được phải đưa giấy tờ gì. Vì vậy, hãy lấy giấy biên nhận, ghi thời hạn và khiếu nại đúng kênh, đừng cố nói lý lẽ đến khi đối phương đồng ý.",
+    "benefit": "Đổi cách làm việc với cơ quan: từ “cầu cạnh, tức giận, kể đi kể lại nỗi ấm ức” sang “lấy văn bản, ghi thời hạn, khiếu nại đúng kênh”. Thời gian tiết kiệm là thời gian trao đổi lặp lại và suy nghĩ đi nghĩ lại. Đây là điều chỉnh quan niệm một lần, không phải tiết kiệm thời gian mỗi ngày. Những gì có thể đối chiếu là chính các thời hạn, đều được ghi trong văn bản. Thời hạn xử lý vụ việc trị an không quá 30 ngày kể từ ngày tiếp nhận; vụ nghiêm trọng, phức tạp có thể gia hạn 30 ngày nếu được cơ quan công an cấp trên trực tiếp phê duyệt. Với vụ có người tố cáo nhưng quyết định không khởi tố, phải giao thông báo không khởi tố trong 3 ngày. Người tố cáo có thể đề nghị xem xét lại trong 7 ngày, cơ quan công an ra quyết định trong 30 ngày. Nếu không đồng ý, có thêm 7 ngày để đề nghị cấp trên trực tiếp kiểm tra lại.",
+    "notes": "Lý do xếp mức C: bản thân nhận định “nhiều người coi người sau quầy là một vai diễn, không phải người đi làm” không có tài liệu để dẫn. Chỉ phần quy định có nguồn: thời hạn, văn bản và kênh yêu cầu xem xét đều được quy định rõ. Toàn bộ số liệu ở đây đến từ hai quy định của Bộ Công an được dẫn ở chương 8 mục 39 (quy trình sau khi báo cảnh sát). Làm theo quy trình không giải quyết được “đối phương có thái độ tệ”, cũng không bảo đảm việc sẽ thành; chỉ thay đổi kỳ vọng và bước đầu của bạn. Giao dịch viên ngân hàng và quầy thủ tục công cũng vậy: thao tác có ghi nhận, phải kiểm tra lại, sai thì bị truy trách nhiệm. Vì vậy, hãy giữ chứng từ, yêu cầu biên nhận và phản ánh đúng kênh, đừng đoán mò “người này có lừa mình không”. Những ưu tiên hợp pháp đều công khai, chẳng hạn cấp cứu phân loại theo mức bệnh, không theo thứ tự đến trước sau (chương 24 mục 7, sàng lọc và phân loại cấp cứu). Muốn cảm ơn bác sĩ đã cứu mình thì gửi thư cảm ơn và đánh giá mức hài lòng, xem chương 24 mục 11. Muốn “tặng chút gì để họ chú tâm hơn” cho người điều tra, thực thi pháp luật là phạm tội đưa hối lộ, còn được quy định rõ là xử nặng hơn, xem chương 8 mục 40. Khi gặp đối xử khác biệt rõ ràng, đó là đối tượng cần phản ánh và giám sát, không phải luật ngầm để bắt chước.",
+    "extra": ""
+  }
+}

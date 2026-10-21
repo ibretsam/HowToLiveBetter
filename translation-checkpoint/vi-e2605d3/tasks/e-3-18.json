@@ -1,0 +1,35 @@
+{
+  "id": "e-3-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "70b7722bf1f6b015e6fcdc36770bc7a81a6769b3341d958d0f5e2344f57229a9",
+  "original": {
+    "number": 18,
+    "title": "情绪低落时先做性价比最高的几件事：动起来、多见光、按时睡、找人说、打 12356",
+    "fields": {
+      "cost": "不花钱，或者花很少。每周几次快走、慢跑或者力量训练。白天出门晒太阳。作息固定下来。想不开时打一个电话。",
+      "plain": "快走、慢跑、瑜伽和力量训练都能减轻抑郁，强度越大越有效，细节见第 22 节第 6 条（心情差就去走或者跑）。光照治疗对季节性抑郁效果很强，对不分季节的抑郁也有效。网上的自助认知行为课程管用，症状偏重时有人带着做更好。想不开先打 12356。",
+      "benefit": "把 218 项随机分组的对照试验、14170 人合起来算（网络荟萃分析）。对照组是同样在做别的活动的人。和他们相比，步行或慢跑对抑郁的效果大小 g = -0.62（95% 可信区间 -0.80 到 -0.45）。瑜伽 -0.55，力量训练 -0.49。强度越大效果越好。把多项光照治疗研究合起来算：季节性抑郁效果大小 0.84（0.60 到 1.08），非季节性抑郁 0.53（0.18 到 0.89）。还有一项分析，把各项研究逐个病人的数据合起来算。它看的是互联网认知行为疗法（网上自助课程）。有人指导和无人指导，都比对照组好。中重度（PHQ-9 大于 9 分）的时候，有人指导的更好。12356 是全国心理援助热线，每日开通不少于 18 小时。",
+      "grade": "A",
+      "sources": "Noetel M 等 (2024). Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. <https://doi.org/10.1136/bmj-2023-075847>；Golden RN 等 (2005). The efficacy of light therapy in the treatment of mood disorders: a review and meta-analysis of the evidence. American Journal of Psychiatry. <https://doi.org/10.1176/appi.ajp.162.4.656>；Karyotaki E 等 (2021). Internet-Based Cognitive Behavioral Therapy for Depression: A Systematic Review and Individual Patient Data Network Meta-analysis. JAMA Psychiatry. <https://doi.org/10.1001/jamapsychiatry.2020.4364>；国家卫生健康委 (2024). 关于应用\"12356\"全国统一心理援助热线电话号码的通知（国卫医政函〔2024〕259 号）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm>",
+      "notes": "这些都是轻中度抑郁的辅助手段。中重度、有自杀念头的要去就医，先打 12356（见第 1 节第 25 条）。运动试验大多人数少，又没法像试药那样瞒住谁在运动。光照研究只到 2003 年，人数也少。那些研究用的是专门的光照灯，不是晒太阳。把它换成白天出门晒太阳，是从光照治疗推出来的。「按时睡」「找人说」是作者经验，没有单列文献。别把「动起来」当成对抑郁者的要求，能走十分钟就算数。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi tâm trạng sa sút, trước hết làm vài việc đáng công nhất: vận động, tiếp xúc ánh sáng nhiều hơn, ngủ đúng giờ, tìm người trò chuyện, gọi 12356",
+    "cost": "Không tốn tiền hoặc rất ít. Đi bộ nhanh, chạy chậm hoặc tập sức mạnh vài lần mỗi tuần. Ban ngày ra ngoài đón nắng. Giữ giờ giấc đều đặn. Khi bế tắc, hãy gọi một cuộc điện thoại.",
+    "plain": "Đi bộ nhanh, chạy chậm, yoga và tập sức mạnh đều giúp giảm trầm cảm; cường độ càng cao càng hiệu quả, xem chương 22 mục 6 (buồn thì đi bộ hoặc chạy). Liệu pháp ánh sáng có hiệu quả mạnh với trầm cảm theo mùa, và cũng hiệu quả với trầm cảm không theo mùa. Khóa tự trợ giúp bằng liệu pháp nhận thức hành vi trên mạng có tác dụng; khi triệu chứng tương đối nặng, có người hướng dẫn sẽ tốt hơn. Khi bế tắc, trước hết gọi 12356.",
+    "benefit": "Gộp 218 thử nghiệm đối chứng phân nhóm ngẫu nhiên với 14170 người để tính (phân tích gộp mạng lưới). Nhóm đối chứng cũng đang tham gia hoạt động khác. So với họ, đi bộ hoặc chạy chậm có cỡ hiệu ứng với trầm cảm g = -0.62 (khoảng khả tín 95% từ -0.80 đến -0.45). Yoga là -0.55, tập sức mạnh là -0.49. Cường độ càng cao, hiệu quả càng tốt. Gộp nhiều nghiên cứu liệu pháp ánh sáng cho thấy cỡ hiệu ứng với trầm cảm theo mùa là 0.84 (0.60 đến 1.08), với trầm cảm không theo mùa là 0.53 (0.18 đến 0.89). Một phân tích khác gộp dữ liệu từng bệnh nhân từ các nghiên cứu về liệu pháp nhận thức hành vi qua internet (khóa tự trợ giúp trên mạng). Cả có người hướng dẫn lẫn không có đều tốt hơn nhóm đối chứng. Ở mức vừa đến nặng (PHQ-9 lớn hơn 9 điểm), có người hướng dẫn tốt hơn. 12356 là đường dây hỗ trợ tâm lý toàn quốc của Trung Quốc, hoạt động ít nhất 18 giờ mỗi ngày.",
+    "notes": "Đây đều là biện pháp hỗ trợ cho trầm cảm nhẹ đến vừa. Người ở mức vừa đến nặng hoặc có ý nghĩ tự sát cần đi khám, trước hết gọi 12356 (xem chương 1 mục 25). Phần lớn thử nghiệm vận động có ít người, và không thể che giấu ai đang vận động như khi thử thuốc. Các nghiên cứu ánh sáng chỉ đến năm 2003 và cũng có ít người. Chúng dùng đèn chuyên dụng cho liệu pháp ánh sáng, không phải phơi nắng. Thay bằng ra ngoài đón nắng ban ngày là suy luận từ liệu pháp ánh sáng. “Ngủ đúng giờ” và “tìm người trò chuyện” là kinh nghiệm của tác giả, không liệt kê tài liệu riêng. Đừng biến “hãy vận động” thành yêu cầu đối với người trầm cảm; đi được mười phút cũng tính.",
+    "extra": ""
+  }
+}

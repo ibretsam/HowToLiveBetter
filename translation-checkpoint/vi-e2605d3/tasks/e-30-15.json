@@ -1,0 +1,36 @@
+{
+  "id": "e-30-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "cbd5d2f2a1e6ff2dae81c4d646fddf708f237a9eacc5f34da382e8334b3c6511",
+  "original": {
+    "number": 15,
+    "title": "孩子说自己喜欢同性，别骂、别赶出家门、别送去「矫正」：家里的态度和他会不会自杀有关",
+    "fields": {
+      "cost": "不花钱。难在家长要先消化自己的情绪，当下不说狠话。",
+      "plain": "国内中学生里，喜欢同性或者两性都喜欢的孩子，一年里试过自杀的约是别人的 3 到 5.5 倍。国外研究看到，青春期被家里强烈排斥的孩子，后来试过自杀的多得多。被父母送去「矫正」的，试过自杀的也多得多。",
+      "benefit": "国内一项调查覆盖 7 个省 506 所中学，共 150822 名初一到高三的学生。过去一年试过自杀的，男生里只喜欢异性的是 2.2%，只喜欢同性的是 6.9%，两性都喜欢的是 12.2%。女生对应是 3.1%、8.9%、10.9%。算下来约是只喜欢异性的同学的 3 到 5.5 倍。研究者扣除了年龄、学业压力、家庭经济、被欺凌这些因素。扣除之后，男生这两组的 OR 是 3.13（95% CI 2.28–4.28）和 3.83（2.85–5.14），高约两到三倍。一篇汇总 35 项研究的荟萃分析算出，性少数青少年试过自杀的 OR 3.50（2.98–4.12）。美国一项研究访问了 224 名 21 到 25 岁的同性恋和双性恋青年，请他们回忆青春期时家里的反应。和家里几乎不排斥的同龄人比，家里排斥程度高的试过自杀的 OR 是 8.4。另一项研究里，父母自己试图改变孩子性取向的，孩子试过自杀的 OR 3.08（1.39–6.83）。父母还把孩子送去找治疗师或宗教人士的，是 5.07（2.38–10.79）（中国 / 多国 / 美国）",
+      "grade": "B",
+      "sources": "Huang Y, Li P, Guo L, et al. (2018). Sexual minority status and suicidal behaviour among Chinese adolescents: a nationally representative cross-sectional study. BMJ Open, 8(8), e020969. <https://doi.org/10.1136/bmjopen-2017-020969>；di Giacomo E, Krausz M, Colmegna F, Aspesi F, Clerici M. (2018). Estimating the Risk of Attempted Suicide Among Sexual Minority Youths: A Systematic Review and Meta-analysis. JAMA Pediatrics, 172(12), 1145–1152. <https://doi.org/10.1001/jamapediatrics.2018.2731>；Ryan C, Huebner D, Diaz RM, Sanchez J. (2009). Family rejection as a predictor of negative health outcomes in white and Latino lesbian, gay, and bisexual young adults. Pediatrics, 123(1), 346–352. <https://doi.org/10.1542/peds.2007-3524>；Ryan C, Toomey RB, Diaz RM, Russell ST. (2020). Parent-Initiated Sexual Orientation Change Efforts With LGBT Adolescents: Implications for Young Adult Mental Health and Adjustment. Journal of Homosexuality, 67(2), 159–173. <https://doi.org/10.1080/00918369.2018.1538407>；全国人大常委会 (2024 年修正). 未成年人保护法（第十七条）. <https://flk.npc.gov.cn/detail?id=ff8081818f197cf001905e567af635a0>；全国人大常委会 (2015). 反家庭暴力法（第二条）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7f9d60889>",
+      "notes": "给 B 是因为这些都是一次性的调查，家里排斥的程度靠成年后回忆，只能说明有关联，说明不了谁导致谁。家长不必马上认同，先别做伤害孩子的事。法律上，父母不得虐待、遗弃孩子，也不得对孩子实施家庭暴力。经常性的谩骂、恐吓，也算家庭暴力。孩子情绪低落、说不想活了，先打 12356，见第 1 节第 25 条（有自杀念头时打 12356）。也可以按本节第 8 条（12 到 18 岁做一次抑郁筛查）去精神科。「矫正」为什么别碰，见第 6 节第 28 条（不要做性取向矫正）。受益人是孩子，也是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Con nói mình thích người cùng giới thì đừng mắng, đuổi khỏi nhà hay đưa đi “chỉnh sửa”: thái độ của gia đình có liên quan đến việc con có tự sát hay không",
+    "cost": "Không tốn tiền. Cái khó là cha mẹ phải xử lý cảm xúc của mình trước, không buông lời cay nghiệt ngay lúc đó.",
+    "plain": "Trong học sinh trung học Trung Quốc, tỷ lệ từng toan tự sát trong một năm ở trẻ thích người cùng giới hoặc thích cả hai giới khoảng 3 đến 5.5 lần so với những trẻ khác. Nghiên cứu ở nước ngoài cho thấy trẻ bị gia đình phản đối, xa lánh mạnh trong tuổi thiếu niên về sau có tỷ lệ từng toan tự sát cao hơn nhiều. Những trẻ bị cha mẹ đưa đi “chỉnh sửa” cũng có tỷ lệ từng toan tự sát cao hơn nhiều.",
+    "benefit": "Một khảo sát tại Trung Quốc bao phủ 506 trường trung học ở 7 tỉnh, gồm 150822 học sinh từ năm đầu trung học cơ sở đến năm cuối trung học phổ thông. Ở nam sinh, tỷ lệ từng toan tự sát trong năm qua là 2.2% trong nhóm chỉ thích người khác giới, 6.9% trong nhóm chỉ thích người cùng giới, 12.2% trong nhóm thích cả hai giới. Ở nữ sinh, các tỷ lệ tương ứng là 3.1%, 8.9%, 10.9%. Tính ra khoảng 3 đến 5.5 lần so với học sinh chỉ thích người khác giới. Các nhà nghiên cứu đã điều chỉnh các yếu tố tuổi, áp lực học tập, kinh tế gia đình và bị bắt nạt. Sau điều chỉnh, OR của hai nhóm nam sinh này là 3.13 (95% CI 2.28–4.28) và 3.83 (2.85–5.14), tức cao hơn khoảng hai đến ba lần. Một phân tích gộp tổng hợp 35 nghiên cứu tính được OR từng toan tự sát ở thanh thiếu niên thuộc nhóm thiểu số tính dục là 3.50 (2.98–4.12). Một nghiên cứu tại Mỹ phỏng vấn 224 người trẻ đồng tính và song tính từ 21 đến 25 tuổi, yêu cầu họ nhớ lại phản ứng của gia đình trong tuổi thiếu niên. So với người cùng tuổi hầu như không bị gia đình phản đối, xa lánh, nhóm bị gia đình phản đối, xa lánh mạnh có OR từng toan tự sát là 8.4. Trong một nghiên cứu khác, nếu cha mẹ tự tìm cách thay đổi xu hướng tính dục của con, OR từng toan tự sát ở con là 3.08 (1.39–6.83). Nếu cha mẹ còn đưa con đến nhà trị liệu hoặc người hoạt động tôn giáo, con số là 5.07 (2.38–10.79) (Trung Quốc / nhiều quốc gia / Mỹ).",
+    "notes": "Xếp B vì đây đều là khảo sát tại một thời điểm, mức độ bị gia đình phản đối, xa lánh dựa vào hồi tưởng khi đã trưởng thành; chúng chỉ cho thấy mối liên quan, không cho biết điều gì gây ra điều gì. Cha mẹ không nhất thiết phải đồng tình ngay, nhưng trước hết đừng làm điều gây hại cho con. Về pháp luật, cha mẹ không được ngược đãi, bỏ rơi con, cũng không được bạo lực gia đình với con. Thường xuyên chửi mắng, đe dọa cũng là bạo lực gia đình. Nếu con suy sụp, nói không muốn sống nữa, trước hết gọi 12356; xem chương 1 mục 25 (có ý nghĩ tự sát thì gọi 12356). Cũng có thể đưa con đi khám tâm thần theo mục 8 của chương này (sàng lọc trầm cảm một lần ở tuổi từ 12 đến 18). Vì sao không nên làm “chỉnh sửa”, xem chương 6 mục 28 (không làm liệu pháp chuyển đổi xu hướng tính dục). Người hưởng lợi là con, và cả chính bạn.",
+    "extra": ""
+  }
+}

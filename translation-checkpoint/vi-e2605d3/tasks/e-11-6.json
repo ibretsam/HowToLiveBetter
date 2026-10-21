@@ -1,0 +1,35 @@
+{
+  "id": "e-11-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "1386ff9bba521fa74bbf708933d5aec898de6d92fcca36044ae27a77887ce269",
+  "original": {
+    "number": 6,
+    "title": "离职时交清账号权限，不删库、不留后门、不改密码锁系统，哪怕公司欠你钱",
+    "fields": {
+      "cost": "不花钱。公司欠你工资，走劳动仲裁要回来，别自己动手（劳动仲裁见第 7 节）。难在气头上要忍住不去碰系统",
+      "plain": "账号密码是公司给的，不等于离职后还能用。非法控制系统，情节严重的判 3 年以下。删数据让系统跑不起来、后果严重的，判 5 年以下，特别严重的判 5 年以上。有个被辞退的工程师，用原管理员账号删了数据和日志，损失 12 万多元，判 3 年缓 5 年、罚 3 万元。",
+      "benefit": "非法控制计算机信息系统，情节严重的判 3 年以下，并处或单处罚金，特别严重的判 3 到 7 年。删除、修改系统功能或者数据，造成系统不能正常运行，后果严重的判 5 年以下，特别严重的判 5 年以上。官方案例：IT 高级工程师吕某某被辞退后，用原管理员账号登录公司共享服务器。他改了密码，删了数据和日志，造成损失 12 万余元。判 3 年缓 5 年、罚 3 万元。软件公司员工白某某写升级程序时故意加进错误代码，导致客户系统无法登录，损失 4 万余元。他被以破坏计算机信息系统罪追诉（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十五条第二款、第二百八十六条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2011). 关于办理危害计算机信息系统安全刑事案件应用法律若干问题的解释（第一、十一条）. <https://ga.sz.gov.cn/ZWGK/ZCFG/ZCJD/content/post_1304363.html>（深圳市公安局转载）；最高人民检察院 (2024). 检察机关「依法惩治网络犯罪 助力网络空间综合治理」典型案例（案例六）. <https://www.spp.gov.cn/xwfbh/wsfbh/202402/t20240223_644505.shtml>；最高人民检察院 (2025). 检察机关依法惩治侵害企业数据安全犯罪 服务保障企业创新发展（案例七）. <https://www.spp.gov.cn/xwfbh/wsfbh/202501/t20250124_680670.shtml>",
+      "notes": "账号密码是公司给的，不等于离职后还能用。超出授权范围用账号登录，按检例第 36 号的说法就算侵入，见第 9 条（没有书面授权不测别人的系统）。吕某某案里，他登进去以后又改了管理员密码、删了数据。检察院查明系统没有因此停摆，所以没按破坏计算机信息系统罪起诉，改按非法控制计算机信息系统罪起诉。损失连恢复数据花的必要费用一起算。按 2011 年两高的解释，造成损失 1 万元以上就够「情节严重」，到 5 万元算特别严重。吕某某案损失 12 万多元，被认定为情节特别严重。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi nghỉ việc, bàn giao hết tài khoản và quyền truy cập; không xóa cơ sở dữ liệu, để cửa hậu hay đổi mật khẩu khóa hệ thống, dù công ty nợ tiền bạn",
+    "cost": "Không tốn tiền. Nếu công ty nợ lương, đòi lại qua trọng tài lao động, đừng tự ra tay (trọng tài lao động xem chương 7). Điều khó là lúc nóng giận vẫn phải kiềm chế, không đụng vào hệ thống.",
+    "plain": "Tài khoản và mật khẩu do công ty cấp không có nghĩa là nghỉ việc rồi vẫn được dùng. Kiểm soát hệ thống trái phép, nếu nghiêm trọng, bị phạt tù từ 3 năm trở xuống. Xóa dữ liệu khiến hệ thống không chạy được, hậu quả nghiêm trọng, bị phạt tù từ 5 năm trở xuống; đặc biệt nghiêm trọng là từ 5 năm trở lên. Một kỹ sư bị sa thải đã dùng tài khoản quản trị cũ xóa dữ liệu và nhật ký, gây thiệt hại hơn 12 vạn nhân dân tệ, bị phạt tù 3 năm, cho hưởng án treo với thời gian thử thách 5 năm và phạt tiền 3 vạn nhân dân tệ.",
+    "benefit": "Kiểm soát trái phép hệ thống thông tin máy tính, nếu nghiêm trọng, bị phạt tù từ 3 năm trở xuống, kèm hoặc chỉ phạt tiền; đặc biệt nghiêm trọng là 3 đến 7 năm. Xóa, sửa chức năng hệ thống hoặc dữ liệu khiến hệ thống không hoạt động bình thường, nếu hậu quả nghiêm trọng, bị phạt tù từ 5 năm trở xuống; đặc biệt nghiêm trọng là từ 5 năm trở lên. Vụ án chính thức: kỹ sư IT cao cấp Lữ sau khi bị sa thải đã dùng tài khoản quản trị cũ đăng nhập máy chủ dùng chung của công ty. Người này đổi mật khẩu, xóa dữ liệu và nhật ký, gây thiệt hại hơn 12 vạn nhân dân tệ; bị phạt tù 3 năm, cho hưởng án treo với thời gian thử thách 5 năm và phạt tiền 3 vạn nhân dân tệ. Nhân viên công ty phần mềm Bạch cố ý đưa mã lỗi vào chương trình nâng cấp, khiến hệ thống của khách hàng không đăng nhập được, thiệt hại hơn 4 vạn nhân dân tệ. Người này bị truy cứu về tội phá hoại hệ thống thông tin máy tính (toàn quốc).",
+    "notes": "Tài khoản và mật khẩu do công ty cấp không có nghĩa là nghỉ việc rồi vẫn được dùng. Theo án lệ kiểm sát số 36, dùng tài khoản đăng nhập vượt phạm vi được phép được tính là xâm nhập; xem mục 9 về không kiểm thử hệ thống của người khác khi chưa có văn bản cho phép. Trong vụ Lữ, sau khi đăng nhập, người này còn đổi mật khẩu quản trị và xóa dữ liệu. Viện kiểm sát xác định hệ thống không vì thế mà ngừng hoạt động, nên không truy tố tội phá hoại hệ thống thông tin máy tính mà chuyển sang tội kiểm soát trái phép hệ thống thông tin máy tính. Thiệt hại bao gồm cả chi phí cần thiết để khôi phục dữ liệu. Theo giải thích năm 2011 của Tòa án Nhân dân Tối cao và Viện Kiểm sát Nhân dân Tối cao, gây thiệt hại từ 1 vạn nhân dân tệ trở lên đã đủ mức ‘nghiêm trọng’, đạt 5 vạn là đặc biệt nghiêm trọng. Vụ Lữ gây thiệt hại hơn 12 vạn nhân dân tệ và được xác định là đặc biệt nghiêm trọng.",
+    "extra": ""
+  }
+}

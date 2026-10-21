@@ -1,0 +1,35 @@
+{
+  "id": "e-1-35",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "903e62a42d17ccdf0cf2db2997d46ce282797bc6d22bde382208690ce8dd3502",
+  "original": {
+    "number": 35,
+    "title": "别拿「少一个肾没什么」换钱：剩下那个要替两个干活，卖过肾的人事后 86% 说身体变差",
+    "fields": {
+      "cost": "不花钱。只是先把这笔账看清。",
+      "plain": "美国捐肾前层层筛查过的正规捐献者，15 年后走到尿毒症的是每万人 31 人。同样健康但没捐的人是每万人 4 人。印度一批卖肾的人，6 年后 86% 说身体变差，四分之三还欠着债。",
+      "benefit": "美国把 96,217 名活体捐肾者和 20,024 名条件相当的健康未捐者作了比较。后者来自美国全国健康与营养调查（NHANES III）。再看捐后 15 年走到尿毒症的估计风险。捐献者为每万人 30.8 人，可信范围 95% CI 24.3–38.5。健康未捐者为每万人 3.9 人，可信范围 95% CI 0.8–8.9，P<0.001。尿毒症的学名是终末期肾病 ESRD，到了这一步得靠透析或移植维持。估计一辈子走到 ESRD 的风险：捐献者每万人 90 人，未经筛查的一般人群每万人 326 人，健康未捐者每万人 14 人。挪威也做过一次比较。一边是 1901 名捐肾者，中位随访 15.1 年。另一边是 32,621 名符合捐献条件的对照，中位随访 24.9 年。捐肾者的全因死亡高约三成（HR 1.30，95% CI 1.11–1.52）。心血管死亡高约四成（HR 1.40，1.03–1.91）。走到 ESRD 高十倍上下（HR 11.38，4.37–29.6）。这批捐献者的 ESRD 总发生率为每百万人 302 例。美国另有 3698 名捐肾者，其中 11 人发生 ESRD，相当于每百万人观察一年里 180 例，同期一般人群是 268 例。这批人里有 255 人在捐后平均 12.2±9.2 年回来复查。其中 85.5% 的肾滤过功能 GFR ≥ 60 ml/min/1.73 m²。60 是临床正常下限。32.1% 有高血压。12.7% 有蛋白尿（尿里漏出蛋白）。印度金奈调查了 305 名卖肾者，平均在卖肾 6 年后接受调查：96% 为还债而卖，平均拿到 1070 美元。切肾后家庭平均收入下降三分之一（P<0.001），生活在贫困线以下的人数增加，四分之三在调查时仍负债。86% 报告健康状况较切肾前变差，79% 不建议他人卖肾",
+      "grade": "A",
+      "sources": "Muzaale AD, Massie AB, Wang MC, Montgomery RA, McBride MA, Wainright JL, Segev DL (2014). Risk of end-stage renal disease following live kidney donation. JAMA, 311(6), 579-586. <https://doi.org/10.1001/jama.2013.285141>；Mjøen G, Hallan S, Hartmann A, et al. (2014). Long-term risks for kidney donors. Kidney International, 86(1), 162-167. <https://doi.org/10.1038/ki.2013.460>；Ibrahim HN, Foley R, Tan L, et al. (2009). Long-term consequences of kidney donation. New England Journal of Medicine, 360(5), 459-469. <https://doi.org/10.1056/NEJMoa0804883>；Goyal M, Mehta RL, Schneiderman LJ, Sehgal AR (2002). Economic and health consequences of selling a kidney in India. JAMA, 288(13), 1589-1593. <https://doi.org/10.1001/jama.288.13.1589>",
+      "notes": "争议：Ibrahim 那项拿普通人当比较对象。它的结论是，捐肾者的存活、以及走到尿毒症（ESRD）的风险，都和普通人相仿。Muzaale 和 Mjøen 把比较对象换成「同样健康、同样够格捐肾」的人之后，风险就明显高出来。分歧在拿谁来比，不在捐献者身上。三项研究都同意绝对风险不大（15 年 30.8/万，即一万人里 30.8 个）。所以重点不在「捐肾很危险」，要看的是另外两件事。剩下那个肾确实在付代价，高血压和蛋白尿的比例摆在那里。这些数字全都出自术前经过筛查、术后有人复查、出事能回医院的人群。黑市卖肾这三样一样都没有，印度那份回访给出的是另一种结局。原始研究只给到自述健康变差、蛋白尿、高血压和尿毒症发生率，没有「多少人卧床」这类数字，这里不替它补。合法捐献的亲属限制、罚款与刑责见第 9 节第 22 条（不卖自己的器官）。已经要透析的，跨省直接结算和长期用药见第 16 节第 1、2 条（药按医嘱吃满、门诊慢特病异地备案）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng đổi lấy tiền vì nghĩ thiếu một quả thận chẳng sao: quả còn lại phải làm việc cho cả hai, 86% người từng bán thận nói sức khỏe về sau kém đi",
+    "cost": "Không tốn tiền. Chỉ cần nhìn rõ cái giá này trước.",
+    "plain": "Ở người hiến thận chính quy tại Mỹ đã qua nhiều vòng sàng lọc, sau 15 năm có 31 người trên mỗi vạn tiến triển đến suy thận giai đoạn cuối. Người khỏe tương đương nhưng không hiến là 4 người trên mỗi vạn. Trong một nhóm người bán thận ở Ấn Độ, sau 6 năm, 86% nói sức khỏe kém đi, ba phần tư vẫn mắc nợ.",
+    "benefit": "Mỹ so sánh 96,217 người hiến thận sống với 20,024 người khỏe có điều kiện tương đương nhưng không hiến. Nhóm sau lấy từ Khảo sát Sức khỏe và dinh dưỡng quốc gia Mỹ NHANES III. Nguy cơ ước tính tiến triển đến suy thận giai đoạn cuối trong 15 năm sau hiến như sau. Người hiến có 30.8 người trên mỗi vạn, khoảng tin cậy 95% CI 24.3–38.5. Người khỏe không hiến có 3.9 người trên mỗi vạn, khoảng tin cậy 95% CI 0.8–8.9, P<0.001. Tên chuyên môn là bệnh thận giai đoạn cuối ESRD; đến mức này phải dựa vào lọc máu hoặc ghép thận để duy trì. Nguy cơ ESRD cả đời ước tính: người hiến 90 người trên mỗi vạn, dân số chung chưa sàng lọc 326 trên mỗi vạn, người khỏe không hiến 14 trên mỗi vạn. Na Uy cũng so sánh 1901 người hiến thận, trung vị theo dõi 15.1 năm, với 32,621 người đối chứng đủ điều kiện hiến, trung vị theo dõi 24.9 năm. Người hiến có tử vong do mọi nguyên nhân cao hơn khoảng ba mươi phần trăm (HR 1.30, 95% CI 1.11–1.52), tử vong tim mạch cao hơn khoảng bốn mươi phần trăm (HR 1.40, 1.03–1.91), nguy cơ tiến triển ESRD cao hơn khoảng mười lần (HR 11.38, 4.37–29.6). Tỷ lệ phát sinh ESRD chung trong nhóm người hiến này là 302 ca trên mỗi triệu người. Một nhóm khác ở Mỹ có 3698 người hiến, trong đó 11 người phát sinh ESRD, tương đương 180 ca trên mỗi triệu người theo dõi một năm; dân số chung cùng thời gian là 268 ca. Trong nhóm này, 255 người trở lại kiểm tra sau hiến trung bình 12.2±9.2 năm. Trong đó 85.5% có chức năng lọc thận GFR ≥ 60 ml/min/1.73 m²; 60 là giới hạn dưới bình thường trên lâm sàng. 32.1% có tăng huyết áp, 12.7% có protein niệu, tức protein lọt vào nước tiểu. Khảo sát 305 người bán thận tại Chennai, Ấn Độ, trung bình 6 năm sau bán: 96% bán để trả nợ, nhận trung bình 1070 đô la Mỹ. Sau cắt thận, thu nhập trung bình gia đình giảm một phần ba (P<0.001), số người sống dưới chuẩn nghèo tăng, ba phần tư vẫn mắc nợ lúc khảo sát. 86% báo cáo sức khỏe kém hơn trước cắt thận, 79% không khuyên người khác bán thận.",
+    "notes": "Điểm còn tranh luận: nghiên cứu Ibrahim dùng người bình thường làm đối tượng so sánh và kết luận khả năng sống sót cũng như nguy cơ suy thận giai đoạn cuối ESRD ở người hiến tương tự người bình thường. Muzaale và Mjøen đổi nhóm so sánh sang người khỏe tương đương, cũng đủ điều kiện hiến thận, thì nguy cơ cao hơn rõ rệt. Khác biệt nằm ở người được chọn để so, không nằm ở người hiến. Cả ba nghiên cứu đều đồng ý nguy cơ tuyệt đối không lớn: 30.8 trên mỗi vạn trong 15 năm, tức 30.8 người trong mười nghìn. Vì vậy, trọng tâm không phải hiến thận rất nguy hiểm, mà là hai điều khác. Quả thận còn lại thực sự phải trả giá; tỷ lệ tăng huyết áp và protein niệu cho thấy điều đó. Tất cả số liệu này đến từ người được sàng lọc trước mổ, có người khám lại sau mổ và có thể trở lại bệnh viện khi gặp vấn đề. Bán thận chợ đen không có cả ba điều đó; khảo sát lại ở Ấn Độ cho thấy một kết cục khác. Nghiên cứu gốc chỉ cho sức khỏe kém đi tự báo cáo, protein niệu, tăng huyết áp và tỷ lệ phát sinh suy thận giai đoạn cuối; không có số người phải nằm liệt giường hay số tương tự, nên ở đây không tự thêm. Giới hạn quan hệ thân thuộc khi hiến hợp pháp, tiền phạt và trách nhiệm hình sự xem phần 9 mục 22 (không bán nội tạng của mình). Người đã cần lọc máu xem thanh toán trực tiếp liên tỉnh và dùng thuốc dài hạn ở phần 16 mục 1, 2 (dùng thuốc đủ theo chỉ định, đăng ký khám bệnh mạn tính và bệnh đặc biệt ngoại trú ở nơi khác).",
+    "extra": ""
+  }
+}

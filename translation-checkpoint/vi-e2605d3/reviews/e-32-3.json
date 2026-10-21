@@ -1,0 +1,15 @@
+{
+  "id": "e-32-3",
+  "source_sha256": "047be970da093848e4e944c595337b43fc819a26a230011d00728618813b35f6",
+  "draft_sha256": "d8befa660a47d3310da6ef561bc32e121f13d2f707b0ef5a834bddcca056333a",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified distinct US F-1 campus / (f)(9) off-campus / CPT categories; UK 20/10-hour and sponsor/course qualifications and prohibited work; Canada aggregate 24-hour off-campus limit, scheduled breaks and foreign-employer remote-work exception; Australia 48-hour fortnight and research-degree/family exception. Preserved 2026-10-21 source review date, pending I-765 restriction versus school-authorized I-20 CPT, and conditional old-permit 20-to-24-hour treatment. No independent legal update added."
+}

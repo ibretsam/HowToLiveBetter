@@ -1,0 +1,36 @@
+{
+  "id": "e-13-43",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "839ea6561836aee7d8acce16b6bdac479c1873af7699bee6915b402b6dfd610c",
+  "original": {
+    "number": 43,
+    "title": "不满 1 岁的婴儿噎住哭不出声，趴着拍背 5 下、翻过来按胸口 5 下，轮着做，别按肚子",
+    "fields": {
+      "cost": "不花钱。看一遍动作或者上一次婴儿急救课，几分钟到半天。难的是慌乱中先把孩子翻过来趴好。",
+      "plain": "孩子还能咳、能哭出声，就让他自己咳，你在旁边盯着。哭不出声、脸发紫，就让人打 120。你把孩子脸朝下趴在前臂上，用掌根在两块肩胛骨中间拍 5 下，没出来就翻过来在胸口正中快速按 5 下。两样轮着做，别按肚子，孩子没反应了就改做心肺复苏。",
+      "benefit": "美国心脏协会和美国儿科学会出了 2025 年的儿童基础生命支持指南。指南写：窒息（比如异物堵住气道）「是婴儿和儿童的主要死因之一」。婴儿最常呛进去的是液体。还在咳、还能出声的是轻度，让孩子自己咳，同时盯着有没有变重。咳得很弱或者咳不出、哭不出、脸色发紫的是重度。重度要先叫急救，再「反复做 5 次拍背、接 5 次胸部冲击，直到异物出来或者婴儿失去反应」。指南不建议给婴儿做腹部冲击，因为可能伤到肚子里的脏器。胸部冲击现在推荐用一只手的掌根，因为它比原来的两指法按得更深。婴儿失去反应就开始心肺复苏，先按压，不摸脉搏。吹气前看得见的异物要取出来。指南明写「不要用手指盲目去掏」。国际红十字与红新月会联合会的 2025 年国际急救指南也是这一套。先在两肩胛骨之间用力拍最多 5 下，不行就把孩子翻过来按胸口最多 5 下，再不行马上叫急救。它按胸口用的是双手环抱、两个拇指按。福建省红十字应急救护培训中心说，1 岁以下婴儿要做「5 次背部拍击 + 5 次胸部冲击」。拍背时让婴儿俯卧在前臂上，头低于躯干",
+      "grade": "B",
+      "sources": "Joyner BL 等 (2025). Part 6: Pediatric Basic Life Support: 2025 American Heart Association and American Academy of Pediatrics Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation 152(suppl 2):S424–S447. <https://doi.org/10.1161/CIR.0000000000001370>，全文见 <https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 238–240 页. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>；福州市卫生健康委员会 (2026). 海姆立克急救法更新了. <https://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/jkkp/202601/t20260108_5268351.htm>",
+      "notes": "定 B 是因为支撑这套手法的主要是病例报告，没有「照做能少死多少人」的数字。收益定「大」是凭判断：完全堵住的气道几分钟内就会让孩子心跳停下。受益的几乎都是自家孩子。1 岁以上的孩子和成人改按肚子，见本节第 26 条（噎住拍背加腹部冲击）。按胸口用什么手法，各家写法不同。美国指南用一只手的掌根，国际红十字用两个拇指，老教程用两根手指。2025 年美国指南因为两指按不够深，已经不再推荐它。硬币、小玩具这类小东西放到孩子够不着的地方。孩子没反应之后怎么做，见本节第 44 条（婴儿心肺复苏）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trẻ chưa đủ 1 tuổi bị hóc, không khóc thành tiếng: cho nằm sấp vỗ lưng 5 lần, lật lại ép ngực 5 lần, luân phiên, đừng ép bụng",
+    "cost": "Không tốn tiền. Xem động tác một lần hoặc học một buổi sơ cứu trẻ nhũ nhi, mất vài phút đến nửa ngày. Điều khó là giữa lúc hoảng loạn vẫn lật trẻ nằm sấp đúng cách trước.",
+    "plain": "Trẻ còn ho và khóc thành tiếng thì để trẻ tự ho, bạn theo dõi bên cạnh. Không khóc thành tiếng, mặt tím thì nhờ người gọi 120. Đặt trẻ úp mặt nằm sấp trên cẳng tay, dùng gót bàn tay vỗ 5 lần giữa hai xương bả vai; chưa ra thì lật lại, ép nhanh 5 lần ở giữa ngực. Luân phiên hai động tác, đừng ép bụng; trẻ không còn đáp ứng thì chuyển sang hồi sinh tim phổi.",
+    "benefit": "Hiệp hội Tim mạch Mỹ và Học viện Nhi khoa Mỹ ban hành hướng dẫn hỗ trợ sự sống cơ bản cho trẻ em năm 2025. Hướng dẫn viết ngạt, chẳng hạn dị vật tắc đường thở, “là một trong những nguyên nhân tử vong chính ở trẻ nhũ nhi và trẻ em”. Thứ trẻ nhũ nhi thường sặc vào nhất là chất lỏng. Còn ho và phát tiếng được là mức nhẹ: để trẻ tự ho, đồng thời theo dõi có nặng lên không. Ho rất yếu hoặc không ho được, không khóc được, mặt tím là mức nặng. Mức nặng phải gọi cấp cứu trước, rồi “lặp lại 5 lần vỗ lưng tiếp 5 lần ép ngực cho đến khi dị vật ra hoặc trẻ mất đáp ứng”. Hướng dẫn không khuyên ép bụng trẻ nhũ nhi vì có thể làm tổn thương nội tạng. Động tác ép ngực nay khuyến nghị dùng gót một bàn tay vì ép sâu hơn cách hai ngón tay trước đây. Trẻ mất đáp ứng thì bắt đầu hồi sinh tim phổi, ép ngực trước, không bắt mạch. Trước thổi ngạt, lấy dị vật nhìn thấy ra. Hướng dẫn ghi rõ “không dùng ngón tay móc mò”. Hướng dẫn sơ cứu quốc tế năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế cũng dùng cách này. Trước hết vỗ mạnh giữa hai xương bả vai tối đa 5 lần; không được thì lật trẻ lại ép ngực tối đa 5 lần, vẫn không được thì gọi cấp cứu ngay. Cách ép ngực của hướng dẫn này là hai tay ôm vòng, hai ngón cái ép. Trung tâm đào tạo sơ cứu khẩn cấp Chữ thập đỏ Phúc Kiến cho biết trẻ từ 1 tuổi trở xuống cần “5 lần vỗ lưng + 5 lần ép ngực”. Khi vỗ lưng, cho trẻ nằm sấp trên cẳng tay, đầu thấp hơn thân.",
+    "notes": "Xếp mức B vì căn cứ cho kỹ thuật này chủ yếu là báo cáo ca bệnh, không có số liệu “làm theo giảm được bao nhiêu ca tử vong”. Mức lợi ích “lớn” là theo nhận định: đường thở tắc hoàn toàn có thể làm tim trẻ ngừng trong vài phút. Người hưởng lợi gần như đều là con mình. Trẻ từ 1 tuổi trở lên và người lớn đổi sang ép bụng; xem mục 26 chương này (vỗ lưng và ép bụng khi bị hóc). Các nơi hướng dẫn khác nhau về kỹ thuật ép ngực. Hướng dẫn Mỹ dùng gót một bàn tay, Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế dùng hai ngón cái, hướng dẫn cũ dùng hai ngón tay. Hướng dẫn Mỹ năm 2025 không còn khuyến nghị hai ngón tay vì ép không đủ sâu. Tiền xu, đồ chơi nhỏ và những vật nhỏ tương tự cần để ngoài tầm với của trẻ. Cách làm khi trẻ không còn đáp ứng xem mục 44 chương này (hồi sinh tim phổi cho trẻ nhũ nhi).",
+    "extra": ""
+  }
+}

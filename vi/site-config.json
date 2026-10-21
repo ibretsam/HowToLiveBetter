@@ -1,7 +1,8 @@
 {
   "repository": "ibretsam/HowToLiveBetter",
   "upstream": "eternity4719/HowToLiveBetter",
-  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
-  "synced_at": "2026-10-20",
-  "translation_base_commit": "6f6d969abe19fd4aa8b30979d634f2a187be0a55"
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "synced_at": "2026-10-21",
+  "translation_base_commit": "6f6d969abe19fd4aa8b30979d634f2a187be0a55",
+  "checkpoint": "translation-checkpoint/vi-e2605d3"
 }

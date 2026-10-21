@@ -1,0 +1,36 @@
+{
+  "id": "e-17-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "7183bbcea7778cc5b009e7ee83d803ae04c95fc092f22e0e5de2ff75349ee98d",
+  "original": {
+    "number": 6,
+    "title": "除了保险公司的住房反向抵押养老保险，其他「以房养老」都别碰，绝不抵押房子去买理财",
+    "fields": {
+      "cost": "不花钱。家里的房产证，不交给任何以「以房养老」名义上门的人。抵押、担保、借贷这些协议，签字前先给子女看一遍。难在上门的人往往很热情、跑了很多趟，老人不好意思回绝",
+      "plain": "正规的以房养老只有一种，就是保险公司的住房反向抵押养老保险，还在试点。骗子说的「以房养老」和它完全无关，是骗老人抵押房子，再拿借来的钱买它推荐的理财。有人连房子被抵押了都不知道，最后房子没了，还背着贷款。",
+      "benefit": "银保监会消保局把真假两种说清楚了。正规的以房养老只有一种，叫「老年人住房反向抵押养老保险」。拥有房屋完全合法产权的老年人，把房产抵押给保险公司。房子照样归自己住、自己用、自己收租。要卖、要处置，得经抵押权人（保险公司）同意。老人按约定条件领取养老金，一直领到去世。这项业务目前仍处于试点阶段，做的人比较少。不法分子说的「以房养老」，与国家试行的住房反向抵押养老保险「完全无关」，是「假借国家政策、为非法集资活动造势宣传的手段」。它的操作是诱骗老人办房产抵押，再把借来的钱去买它推荐的理财产品，「往往是『以新还旧』的庞氏骗局」。后果原文写的是「有的参与人甚至都不知道自己的房产被抵押，最终失去了房子，还背负贷款」。提示里还给了一条看收益率的线。原话是「理财产品如果承诺收益率超过 6% 就要打问号，超过 8% 就很危险，10% 以上就要准备损失全部本金，『保本高收益』就是金融诈骗」。同一份提示还要求「慎重对待合同签署环节，不在空白合同签字」（全国，2021 年 6 月）",
+      "grade": "B",
+      "sources": "中国银保监会消费者权益保护局 (2021). 关于警惕「投资养老」「以房养老」金融诈骗的风险提示（2021 年第三期）. <https://dfjrjgj.hunan.gov.cn/dfjrjgj/yhlj/202106/t20210608_19450856.html>（湖南省地方金融监督管理局转载）；民政部、中国银保监会 (2021). 关于养老领域非法集资的风险提示（第四种表现形式：以宣称「以房养老」为名非法集资）. <https://www.mca.gov.cn/n152/n164/c36171/content.html>",
+      "notes": "给 B 级是因为这些说法出自监管部门的风险提示和经验判断，不是研究数据。6%、8%、10% 这三条线是监管给消费者的参考线，不是法律定的标准。银保监会已经并入国家金融监督管理总局，原发布页打不开，这里引的是省级金融监管局的转载页。理财亏钱还在其次，房子被抵押出去以后老人还欠着一笔贷款，损失远大于本金。签字和空白合同的一般规则见第 8 节第 17 条，被骗之后怎么止付见第 8 节第 2 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ngoài bảo hiểm hưu trí thế chấp ngược nhà ở của công ty bảo hiểm, tránh mọi kiểu ‘dùng nhà dưỡng già’ khác; tuyệt đối không thế chấp nhà để mua sản phẩm đầu tư tài chính",
+    "cost": "Không mất tiền. Không giao giấy chứng nhận quyền sở hữu nhà cho bất kỳ ai đến nhà dưới danh nghĩa ‘dùng nhà dưỡng già’. Các thỏa thuận thế chấp, bảo lãnh, vay mượn phải đưa con cái xem trước khi ký. Khó ở chỗ người đến thường rất nhiệt tình, đi lại nhiều lần khiến người cao tuổi ngại từ chối.",
+    "plain": "Dùng nhà để dưỡng già hợp pháp chỉ có một hình thức: bảo hiểm hưu trí thế chấp ngược nhà ở của công ty bảo hiểm, hiện vẫn đang thí điểm. ‘Dùng nhà dưỡng già’ mà kẻ lừa đảo nói hoàn toàn không liên quan; chúng lừa người cao tuổi thế chấp nhà rồi dùng tiền vay mua sản phẩm đầu tư chúng giới thiệu. Có người thậm chí không biết nhà mình đã bị thế chấp, cuối cùng mất nhà mà vẫn gánh nợ vay.",
+    "benefit": "Cục Bảo vệ người tiêu dùng thuộc cơ quan quản lý ngân hàng và bảo hiểm Trung Quốc phân biệt rõ hai hình thức thật, giả. Dùng nhà dưỡng già hợp pháp chỉ có một hình thức, gọi là ‘bảo hiểm hưu trí thế chấp ngược nhà ở của người cao tuổi’. Người cao tuổi có quyền sở hữu hợp pháp đầy đủ đối với nhà dùng nhà thế chấp cho công ty bảo hiểm. Họ vẫn được ở, sử dụng và thu tiền cho thuê nhà. Muốn bán hoặc định đoạt phải được bên nhận thế chấp (công ty bảo hiểm) đồng ý. Người cao tuổi nhận tiền hưu trí theo điều kiện thỏa thuận đến khi qua đời. Nghiệp vụ này hiện vẫn ở giai đoạn thí điểm, số người tham gia tương đối ít. ‘Dùng nhà dưỡng già’ do đối tượng vi phạm pháp luật quảng bá ‘hoàn toàn không liên quan’ đến bảo hiểm hưu trí thế chấp ngược nhà ở mà Nhà nước thí điểm; đó là ‘mượn chính sách quốc gia để tuyên truyền, tạo uy thế cho hoạt động huy động vốn trái phép’. Cách làm là dụ người cao tuổi thế chấp bất động sản, rồi lấy tiền vay mua sản phẩm đầu tư được giới thiệu, ‘thường là mô hình lừa đảo Ponzi lấy tiền mới trả tiền cũ’. Nguyên văn nêu hậu quả: ‘Có người tham gia thậm chí không biết bất động sản của mình đã bị thế chấp, cuối cùng mất nhà mà vẫn gánh khoản vay’. Cảnh báo còn đưa ra ngưỡng tham khảo về tỷ suất lợi nhuận. Nguyên văn: ‘Sản phẩm đầu tư tài chính hứa lợi nhuận trên 6% thì phải đặt dấu hỏi; trên 8% rất nguy hiểm; từ 10% trở lên phải chuẩn bị mất toàn bộ vốn gốc; bảo toàn vốn, lợi nhuận cao là lừa đảo tài chính’. Cùng cảnh báo yêu cầu ‘thận trọng ở khâu ký hợp đồng, không ký hợp đồng để trống’ (toàn Trung Quốc, tháng 6 năm 2021).",
+    "notes": "Xếp mức B vì các nhận định này xuất phát từ cảnh báo rủi ro và đánh giá theo kinh nghiệm của cơ quan quản lý, không phải dữ liệu nghiên cứu. Ba ngưỡng 6%, 8%, 10% là mức cơ quan quản lý đưa cho người tiêu dùng tham khảo, không phải tiêu chuẩn do luật định. Cơ quan quản lý ngân hàng và bảo hiểm đã được sáp nhập vào Tổng cục Giám sát quản lý tài chính quốc gia. Trang công bố gốc không mở được, ở đây dẫn trang đăng lại của cơ quan quản lý tài chính cấp tỉnh. Lỗ đầu tư còn là chuyện phụ; sau khi thế chấp nhà, người cao tuổi vẫn nợ khoản vay, thiệt hại lớn hơn vốn gốc nhiều. Nguyên tắc chung về ký tên và hợp đồng để trống xem chương 8 mục 17; cách chặn thanh toán sau khi bị lừa xem chương 8 mục 2.",
+    "extra": ""
+  }
+}

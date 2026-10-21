@@ -1,0 +1,35 @@
+{
+  "id": "e-33-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "069f9aa18308c5dc3a9a945134e13c88496298f02a175335411a3897baead983",
+  "original": {
+    "number": 6,
+    "title": "别买「能治好瘫痪、失明、耳聋」的疗法和器械",
+    "fields": {
+      "cost": "不花钱，是省钱。难在家里人抱着希望，劝不住。",
+      "plain": "广告法把话说死了。医疗、药品、医疗器械的广告，不许保证疗效，不许说治愈率和有效率，不许找代言人推荐、证明。所以「三个疗程站起来」「多少人已经康复」这类话本身就是违法广告，不用再研究它讲的原理。不是医疗器械的东西，连提治病都不允许。",
+      "benefit": "《广告法》第十六条规定，医疗、药品、医疗器械广告不得含有下列内容：「（一）表示功效、安全性的断言或者保证；（二）说明治愈率或者有效率；（三）与其他药品、医疗器械的功效和安全性或者其他医疗机构比较；（四）利用广告代言人作推荐、证明」。第十七条规定，除医疗、药品、医疗器械广告外，「禁止其他任何广告涉及疾病治疗功能，并不得使用医疗用语或者易使推销的商品与药品、医疗器械相混淆的用语」。第四条规定，广告不得含有虚假或者引人误解的内容，不得欺骗、误导消费者，广告主应当对广告内容的真实性负责（全国，2021 年修正）",
+      "grade": "A",
+      "sources": "中华人民共和国广告法（2021 年修正，第四条、第十六条、第十七条）. <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd6bd860052d>",
+      "notes": "判断方法只有一条：看它敢不敢把话说满。正规医院的康复科不会承诺你几个疗程能站起来。碰到这类宣传，向 12315 或者当地市场监管部门举报。保健品那一套话术是同一个路子，见第 6 节第 10 条（保健品）。已经买了想退钱，按网购和预付式消费的办法走，见第 5 节第 29 条（网购认平台规则）。受益人是你自己和家人。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng mua liệu pháp và thiết bị quảng cáo rằng có thể chữa khỏi liệt, mù hay điếc",
+    "cost": "Không tốn tiền, còn tiết kiệm được tiền. Khó ở chỗ người nhà đang nuôi hy vọng nên khuyên không được.",
+    "plain": "Luật Quảng cáo quy định rất rõ. Quảng cáo dịch vụ y tế, thuốc và trang thiết bị y tế không được bảo đảm hiệu quả, nêu tỷ lệ chữa khỏi hay tỷ lệ có hiệu quả, hoặc dùng người đại diện quảng cáo để giới thiệu, làm chứng. Vì vậy, những lời như “đứng dậy được sau ba liệu trình” hay “đã có bao nhiêu người hồi phục” tự chúng đã là quảng cáo trái luật, không cần tìm hiểu thêm nguyên lý mà họ giải thích. Những thứ không phải trang thiết bị y tế thậm chí còn không được nói đến tác dụng chữa bệnh.",
+    "benefit": "Điều mười sáu Luật Quảng cáo quy định quảng cáo dịch vụ y tế, thuốc và trang thiết bị y tế không được có các nội dung sau: “(một) Khẳng định hoặc bảo đảm về công dụng, tính an toàn; (hai) Nêu tỷ lệ chữa khỏi hoặc tỷ lệ có hiệu quả; (ba) So sánh công dụng, tính an toàn với thuốc, trang thiết bị y tế khác hoặc so sánh với cơ sở y tế khác; (bốn) Dùng người đại diện quảng cáo để giới thiệu, làm chứng”. Điều mười bảy quy định ngoài quảng cáo dịch vụ y tế, thuốc và trang thiết bị y tế, “cấm mọi quảng cáo khác đề cập đến chức năng điều trị bệnh, đồng thời không được dùng thuật ngữ y tế hoặc những từ ngữ dễ khiến người ta nhầm hàng hóa được chào bán với thuốc, trang thiết bị y tế”. Điều bốn quy định quảng cáo không được chứa nội dung giả dối hoặc gây hiểu lầm, không được lừa dối hay gây nhầm lẫn cho người tiêu dùng; bên quảng cáo phải chịu trách nhiệm về tính xác thực của nội dung quảng cáo (toàn Trung Quốc, sửa đổi năm 2021).",
+    "notes": "Chỉ có một cách nhận biết: xem họ có dám cam kết chắc chắn hay không. Khoa phục hồi chức năng của bệnh viện chính quy sẽ không hứa bạn có thể đứng dậy sau vài liệu trình. Gặp kiểu quảng cáo này, hãy tố cáo tới 12315 hoặc cơ quan quản lý thị trường địa phương. Những lời chào mời thực phẩm bảo vệ sức khỏe cũng đi theo cách đó, xem mục 10 phần 6 (thực phẩm bảo vệ sức khỏe). Nếu đã mua và muốn lấy lại tiền, làm theo cách xử lý mua hàng trực tuyến và tiêu dùng trả trước, xem mục 29 phần 5 (mua trực tuyến theo quy tắc của nền tảng). Người hưởng lợi là bạn và gia đình.",
+    "extra": ""
+  }
+}

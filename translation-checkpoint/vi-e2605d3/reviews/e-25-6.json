@@ -1,0 +1,15 @@
+{
+  "id": "e-25-6",
+  "source_sha256": "931bf1961d3ce1b85a6c6c3ccd40679cf51be093982041f45ba2ebf3edf96361",
+  "draft_sha256": "8d232455e50c69ad67d34474540bbcea7f9d3e0dc927fcd1c7dae7a5515ce723",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves basic-service list, government-provided niche burial condition, lawful tariff and non-basic-list authority; no invented nationwide fee. Translation review does not independently verify current law or source advice."
+}

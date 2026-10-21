@@ -1,0 +1,35 @@
+{
+  "id": "e-6-35",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "1b03841f2ddb1ff663a72af7cf26d13e0ad70684a85618ca81f8c57ac2242d1d",
+  "original": {
+    "number": 35,
+    "title": "不要因为感冒、普通发烧就要求输液，也不要在换季时去输液「冲血管」「通血管」",
+    "fields": {
+      "cost": "不花钱，还省下输液的钱，和在诊所坐几个小时的时间。难在很多人觉得吊一瓶好得快，有些老人还养成了换季输液的习惯，医生不给开反而像没认真看。",
+      "plain": "普通感冒、病毒引起的嗓子疼，广东省卫生部门列为原则上不用输液的病。国家卫健委的发布会上有专家澄清过，换季输液冲不走血管里的斑块，还可能加重心脏和肾脏负担。全国报上来的药品不良反应，一半多出在注射给药上，其中九成是静脉注射。",
+      "benefit": "没有研究专门比过感冒时输液和不输液，所以这条只能靠官方文件和监测数据。先看感冒。广东省卫生计生委 2017 年发文，要求基层医疗机构减少不必要的输液。文件写明要按世界卫生组织提倡的原则用药：「能口服就不注射，能肌肉注射的就不静脉注射」。只有三种情况才用静脉输液。一是吞咽困难。二是吸收严重有障碍，比如呕吐、严重腹泻。三是病情危重、发展快，要让药很快在身体里达到高浓度。文件附了一张门诊、急诊原则上不需要输液的常见病清单。内科第一项是「上呼吸道感染：普通感冒、病毒性咽喉炎」。再看「冲血管」。国家卫健委 2025 年 8 月 6 日开了发布会。会上，北京中医药大学东方医院的一位主任医师澄清了这个谣言。原话是「在换季时输液能够疏通血管、预防脑梗塞，这是一个错误的言论」。输液不能「冲走」或者「疏通」动脉硬化斑块。盲目输液可能加重心脏或肾脏的负担，甚至诱发心力衰竭。最后看风险。国家药品不良反应监测年度报告（2024 年）按给药途径做了统计。报上来的不良反应里，注射给药占 57.2%，口服给药占 33.1%。注射给药里，静脉注射占 91.0%。这是报告数的构成，不是每输一次出事的概率。它看起来划算，是因为吊瓶看得见，躺着就打完了，让人觉得药来得更快更足",
+      "grade": "C",
+      "sources": "广东省卫生计生委办公室 (2017). 关于加强基层医疗卫生机构静脉输液管理的通知（粤卫办函〔2017〕332 号）及附件「门、急诊原则上不需要输液治疗的常见病多发病」，广州市从化区人民政府网站转载. <https://www.conghua.gov.cn/attachment/7/7361/7361750/7215543.pdf>；国家卫生健康委员会 (2025). 国家卫生健康委员会 2025 年 8 月 6 日新闻发布会文字实录. <https://www.nhc.gov.cn/xcs/c100122/202508/8458a47948274283ab01c6cc672d8015.shtml>；国家药品不良反应监测中心 (2025). 国家药品不良反应监测年度报告（2024 年）. <https://www.cdr-adr.org.cn/center_news/202504/t20250407_51076.html>",
+      "notes": "定 C 级，是因为只有官方文件和专家澄清，没有试验算过不输液能少出多少事。真需要输液的照常输，比如严重脱水、吐得吃不进药、病情危重，听医生的。感冒找医生要抗生素同样没用，见第 34 节第 7 条（感冒不要抗生素）。拉肚子先喝口服补液盐，见第 34 节第 8 条（口服补液盐）。防中风真正管用的，是把血压、血脂控住，按医嘱长期吃药。见第 1 节第 7 条（量血压）和第 2 节第 12 条（定期查血脂）。不需要输液的病种清单由各省自己定，广东这份是 2017 年的，后来有没有更新没查到。收益定小是凭判断：省下的是一次输液的钱和几个小时，不良反应没法按每次输液算概率。受益人是你自己和家里的老人。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng đòi truyền dịch chỉ vì cảm lạnh, sốt thông thường, cũng đừng truyền lúc giao mùa để “rửa mạch”, “thông mạch”",
+    "cost": "Không tốn tiền, còn tiết kiệm tiền truyền dịch và vài giờ ngồi tại phòng khám. Điều khó là nhiều người nghĩ treo một chai sẽ nhanh khỏi; một số người lớn tuổi còn có thói quen truyền lúc giao mùa, bác sĩ không chỉ định lại có vẻ như khám chưa tận tình.",
+    "plain": "Cơ quan y tế Quảng Đông liệt kê cảm lạnh thông thường và đau họng do virus vào những bệnh về nguyên tắc không cần truyền dịch. Tại họp báo của Ủy ban Y tế Quốc gia Trung Quốc, chuyên gia từng làm rõ: truyền lúc giao mùa không rửa được mảng xơ vữa trong mạch, còn có thể tăng gánh nặng tim và thận. Hơn một nửa báo cáo phản ứng có hại của thuốc trên toàn quốc liên quan đường tiêm; trong đó chín phần mười là tiêm tĩnh mạch.",
+    "benefit": "Chưa có nghiên cứu chuyên so sánh truyền và không truyền khi cảm lạnh, nên mục này chỉ dựa vào văn bản chính thức và dữ liệu giám sát. Trước hết xét cảm lạnh. Năm 2017, Ủy ban Y tế và Kế hoạch hóa gia đình Quảng Đông ban hành văn bản yêu cầu cơ sở y tế tuyến cơ sở giảm truyền dịch không cần thiết. Văn bản ghi rõ dùng thuốc theo nguyên tắc Tổ chức Y tế Thế giới đề xướng: “Uống được thì không tiêm; tiêm bắp được thì không tiêm tĩnh mạch”. Chỉ truyền tĩnh mạch trong ba tình huống: thứ nhất, khó nuốt; thứ hai, rối loạn hấp thu nghiêm trọng như nôn, tiêu chảy nặng; thứ ba, bệnh nguy kịch, diễn biến nhanh, cần thuốc nhanh đạt nồng độ cao trong cơ thể. Văn bản kèm danh sách bệnh thường gặp ở ngoại trú, cấp cứu về nguyên tắc không cần truyền. Mục nội khoa đầu tiên là “nhiễm trùng đường hô hấp trên: cảm lạnh thông thường, viêm họng do virus”. Tiếp theo xét “rửa mạch”. Ngày 6 tháng 8 năm 2025, Ủy ban Y tế Quốc gia tổ chức họp báo. Một bác sĩ trưởng cấp cao của Bệnh viện Đông Phương, Đại học Trung y dược Bắc Kinh bác bỏ tin này. Nguyên văn: “Nói truyền dịch lúc giao mùa có thể thông mạch, phòng nhồi máu não là sai”. Truyền dịch không thể “rửa trôi” hay “thông” mảng xơ vữa động mạch. Truyền tùy tiện có thể tăng gánh nặng tim hoặc thận, thậm chí gây suy tim. Cuối cùng xét rủi ro. Báo cáo giám sát phản ứng có hại của thuốc quốc gia (năm 2024) thống kê theo đường dùng: trong các phản ứng được báo cáo, đường tiêm chiếm 57.2%, đường uống 33.1%. Trong đường tiêm, tiêm tĩnh mạch chiếm 91.0%. Đây là cơ cấu số báo cáo, không phải xác suất gặp sự cố mỗi lần truyền. Nó có vẻ đáng làm vì nhìn thấy chai truyền, chỉ nằm là truyền xong, khiến người ta cảm giác thuốc đến nhanh và đầy đủ hơn.",
+    "notes": "Xếp mức C vì chỉ có văn bản chính thức và lời giải thích chuyên gia, không có thử nghiệm tính được không truyền sẽ giảm bao nhiêu sự cố. Thực sự cần thì vẫn truyền, chẳng hạn mất nước nặng, nôn đến mức không uống được thuốc, bệnh nguy kịch; làm theo bác sĩ. Cảm lạnh mà đòi kháng sinh cũng không có ích, xem mục 7 chương 34 (Cảm lạnh đừng đòi kháng sinh). Tiêu chảy thì uống dung dịch muối bù nước trước, xem mục 8 chương 34 (Muối bù nước đường uống). Cách thực sự hữu ích để phòng đột quỵ là kiểm soát huyết áp, mỡ máu và uống thuốc lâu dài theo chỉ dẫn. Xem mục 7 chương 1 (Đo huyết áp) và mục 12 chương 2 (Kiểm tra mỡ máu định kỳ). Danh sách bệnh không cần truyền do từng tỉnh quy định; bản Quảng Đông là năm 2017, chưa tìm được thông tin có cập nhật sau đó hay không. Xếp lợi ích nhỏ là theo nhận định: tiết kiệm một lần truyền và vài giờ; không thể tính xác suất phản ứng có hại trên mỗi lần truyền. Người hưởng lợi là bạn và người lớn tuổi trong nhà.",
+    "extra": ""
+  }
+}

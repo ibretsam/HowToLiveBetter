@@ -1,0 +1,35 @@
+{
+  "id": "e-2-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "d9dba86d0f78b4cb81b90f97363b886c233000afcdf7888b82657bfb6f08650f",
+  "original": {
+    "number": 9,
+    "title": "把家里的食盐换成低钠盐（钾盐）",
+    "fields": {
+      "cost": "一袋比普通盐贵几元。买的时候顺手换，不额外占时间。口味几乎不变。",
+      "plain": "中国农村得过中风或 60 岁以上有高血压的人，把家里的盐换成低钠盐，跟了近五年，死亡的概率低约 12%，中风低约 14%。",
+      "benefit": "一项把人随机分成两组的试验，在中国农村做的，20995 人，都是得过卒中的人或者 60 岁以上的高血压病人，跟踪了 4.74 年。结果：用低钠盐的那组比用普通盐的那组，死亡风险低约 12%（RR 0.88）。卒中低约 14%（RR 0.86）。主要心血管事件低约 13%（RR 0.87）。血钾过高的事件，两组没看出统计上的差别。",
+      "grade": "A",
+      "sources": "Neal B 等 (2021). Effect of Salt Substitution on Cardiovascular Events and Death. NEJM. <https://doi.org/10.1056/NEJMoa2105675>；O'Donnell M 等 (2014). Urinary sodium and potassium excretion, mortality, and cardiovascular events. NEJM. <https://doi.org/10.1056/NEJMoa1311889>（争议方 PURE）",
+      "notes": "争议。PURE 这项研究只长期跟踪记录，不分组。它报告：一天排钠不到 3 g 的人，死亡加心血管事件的风险高约 27%。一天排钠 7 g 以上的人，高约 15%。按它的结果，吃太少和吃太多都不好，中间最好。但本条引的那项中国农村随机试验里，低钠盐只是替换掉一部分，不会把钠压得那么低。另外要注意，试验对象是高危老人。健康年轻人换盐得到的好处要小得多。肾功能不全的人，或者正在吃保钾类药物的人，换盐前先问医生。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đổi muối ăn trong nhà sang muối ít natri (muối kali)",
+    "cost": "Mỗi túi đắt hơn muối thường vài nhân dân tệ. Khi mua thì đổi luôn, không tốn thêm thời gian. Vị gần như không thay đổi.",
+    "plain": "Ở nông thôn Trung Quốc, người từng đột quỵ hoặc từ 60 tuổi trở lên có tăng huyết áp đổi muối trong nhà sang loại ít natri, được theo dõi gần năm năm, có khả năng tử vong thấp hơn khoảng 12%, đột quỵ thấp hơn khoảng 14%.",
+    "benefit": "Một thử nghiệm phân người tham gia ngẫu nhiên thành hai nhóm tại nông thôn Trung Quốc gồm 20995 người, đều từng đột quỵ hoặc là người tăng huyết áp từ 60 tuổi trở lên, theo dõi 4.74 năm. Kết quả: so với nhóm muối thường, nhóm muối ít natri có nguy cơ tử vong thấp hơn khoảng 12% (RR 0.88), đột quỵ thấp hơn khoảng 14% (RR 0.86), biến cố tim mạch chính thấp hơn khoảng 13% (RR 0.87). Biến cố tăng kali máu không cho thấy khác biệt có ý nghĩa thống kê giữa hai nhóm.",
+    "notes": "Điểm còn tranh luận. Nghiên cứu PURE chỉ theo dõi ghi nhận lâu dài, không phân nhóm. Nghiên cứu báo cáo người thải natri dưới 3 g mỗi ngày có nguy cơ tử vong kết hợp biến cố tim mạch cao hơn khoảng 27%. Người thải từ 7 g natri trở lên mỗi ngày cao hơn khoảng 15%. Theo kết quả đó, ăn quá ít hay quá nhiều đều không tốt, ở giữa là tốt nhất. Nhưng trong thử nghiệm ngẫu nhiên tại nông thôn Trung Quốc được dẫn ở đây, muối ít natri chỉ thay một phần, không hạ natri xuống thấp như vậy. Cũng cần lưu ý đối tượng thử nghiệm là người cao tuổi nguy cơ cao. Người trẻ khỏe mạnh đổi muối được lợi ít hơn nhiều. Người suy chức năng thận hoặc đang dùng thuốc giữ kali phải hỏi bác sĩ trước khi đổi muối.",
+    "extra": ""
+  }
+}

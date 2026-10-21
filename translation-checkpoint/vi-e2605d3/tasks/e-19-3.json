@@ -1,0 +1,35 @@
+{
+  "id": "e-19-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "c51b0ebeb3c450c3ea4269eb697b46fc5b4600e405b76344758e15a9f0b0f181",
+  "original": {
+    "number": 3,
+    "title": "试用期有法定上限、工资不得低于 80%，而且只能约定一次",
+    "fields": {
+      "cost": "不花钱。签字前花几分钟，把合同写的期限和试用期长度对一遍。",
+      "plain": "合同签 3 个月到 1 年的，试用期最多 1 个月，签 1 到 3 年的最多 2 个月，签 3 年以上的最多 6 个月。同一家公司只能试用你一次，转正后调个岗再来一次是违法的。试用期工资不能低于同岗位最低档或者合同约定工资的 80%，也不能低于当地最低工资。",
+      "benefit": "合同签 3 个月以上不满 1 年的，试用期不得超过 1 个月。签 1 年以上不满 3 年的，不得超过 2 个月。签 3 年以上的，以及不写到期日的无固定期限合同，不得超过 6 个月。以干完一件活为期限的合同，或者总共不到 3 个月的合同，不许约定试用期。「同一用人单位与同一劳动者只能约定一次试用期」，同一家公司对同一个人只能试用一回。合同里只写了试用期的，这段试用期不成立，这个期限就是劳动合同期限。试用期工资「不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分之八十，并不得低于用人单位所在地的最低工资标准」。试用期约得超过法定长度、人又实际干了的，单位要另付一笔赔偿金。按你试用期满后的月工资标准，算超出去的那段时间。试用期内单位想解除合同，只能按法律列明的那几种情形，而且要向劳动者说明理由（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 劳动合同法（第十九、二十、二十一、八十三条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "最常见的三种违法做法。一是合同只签 1 年，却约定 3 个月试用期。二是转正之后调岗，再来一次试用期。三是「试用期不交社保」，社保义务从上班第一天起算，和试不试用无关，用人单位的义务见第 12 节第 16 条。试用期被辞退不等于一分钱没有，要看单位给的理由是不是法律允许辞退的那几种。被违法解除的按第 6 条算 2N。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thời gian thử việc có giới hạn luật định, lương không được thấp hơn 80% và chỉ được thỏa thuận thử việc một lần",
+    "cost": "Không tốn tiền. Trước khi ký, dành vài phút đối chiếu thời hạn hợp đồng với độ dài thời gian thử việc.",
+    "plain": "Hợp đồng từ 3 tháng đến 1 năm thì thử việc tối đa 1 tháng, từ 1 đến 3 năm thì tối đa 2 tháng, từ 3 năm trở lên thì tối đa 6 tháng. Cùng một công ty chỉ được thử việc bạn một lần; sau khi nhận chính thức mà chuyển vị trí rồi thử việc lại là trái pháp luật. Lương thử việc không được thấp hơn mức lương thấp nhất của cùng vị trí hoặc 80% mức lương thỏa thuận trong hợp đồng, đồng thời không được thấp hơn lương tối thiểu địa phương.",
+    "benefit": "Hợp đồng từ đủ 3 tháng đến chưa đủ 1 năm không được thử việc quá 1 tháng. Từ đủ 1 năm đến chưa đủ 3 năm không được quá 2 tháng. Từ 3 năm trở lên, hoặc hợp đồng không xác định thời hạn không ghi ngày hết hạn, không được quá 6 tháng. Hợp đồng có thời hạn đến khi hoàn thành một công việc, hoặc tổng thời hạn chưa đến 3 tháng, không được thỏa thuận thử việc. “Cùng một đơn vị sử dụng lao động và cùng một người lao động chỉ được thỏa thuận thử việc một lần”, nghĩa là một công ty chỉ được thử việc cùng một người một lần. Nếu hợp đồng chỉ ghi thời gian thử việc thì thời gian thử việc đó không được công nhận; thời hạn ghi đó chính là thời hạn hợp đồng lao động. Lương thử việc “không được thấp hơn mức lương thấp nhất của cùng vị trí tại đơn vị hoặc tám mươi phần trăm mức lương thỏa thuận trong hợp đồng lao động, đồng thời không được thấp hơn mức lương tối thiểu tại nơi đơn vị sử dụng lao động đặt trụ sở”. Nếu thỏa thuận thử việc dài hơn mức luật cho phép và người lao động đã thực sự làm trong thời gian đó, đơn vị phải trả thêm một khoản bồi thường. Khoản này tính cho thời gian vượt quá, theo mức lương tháng sau khi hết thử việc của bạn. Trong thời gian thử việc, đơn vị muốn chấm dứt hợp đồng chỉ được căn cứ vào những trường hợp luật liệt kê, đồng thời phải giải thích lý do cho người lao động (toàn quốc)",
+    "notes": "Ba cách làm trái pháp luật thường gặp nhất: một là chỉ ký hợp đồng 1 năm nhưng thỏa thuận thử việc 3 tháng; hai là sau khi nhận chính thức, chuyển vị trí rồi lại thử việc; ba là “thử việc không đóng bảo hiểm xã hội”. Nghĩa vụ bảo hiểm xã hội tính từ ngày đầu đi làm, không phụ thuộc có đang thử việc hay không; nghĩa vụ của đơn vị xem chương 12 mục 16. Bị cho nghỉ trong thời gian thử việc không đồng nghĩa không được đồng nào; phải xem lý do đơn vị đưa ra có thuộc những trường hợp luật cho phép hay không. Nếu bị chấm dứt trái pháp luật thì tính 2N theo mục 6.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-15-10",
+  "source_sha256": "6eed8ba68c5b67e0e8425c887ac57c02565048e42e68c5038817e40848ea014f",
+  "draft_sha256": "0868ebf1d6f4b644c372069a2e8754b464a3dcefb5eac02a2dabd74b5d640625",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves presale versus completed-sale deposit accounts, regulatory dates, contract conditions and late-permit validity exception. Translation review does not independently verify current law or source advice."
+}

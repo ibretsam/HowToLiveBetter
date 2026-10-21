@@ -1,0 +1,35 @@
+{
+  "id": "e-7-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "baa897d80d69a1306410fb8332ca831ad2b0d0e267903329a13108c23f6524ae",
+  "original": {
+    "number": 9,
+    "title": "居民医保每年 400 元不要断，困难户可减免",
+    "fields": {
+      "cost": "自己交的那部分，每人每年不低于 400 元。这是 2024、2025 年的国家标准，各地可以比这个高。要在每年固定的那段集中缴费期里交。特困人员是全额资助，这笔钱全由政府出。低保对象是定额资助，政府出固定的一部分。",
+      "plain": "个人一年交 400 元起，2025 年财政再按人头补不低于 700 元。特困人员全额资助，低保对象定额资助。断缴是有代价的：没在集中期参保、或者没连着交的，交完之后有 3 个月看病不给报，每多断 1 年原则上再多加 1 个月。",
+      "benefit": "除了自己交的那部分，财政再按人头补一笔。2024 年不低于 670 元。2025 年比上年提高 30 元，不低于 700 元，个人缴费仍是不低于 400 元（医保发〔2025〕22 号，按省级文件转述）。2026 年的政府工作报告里说再提高 24 元。低保对象和特困人员，符合规定的医疗费，医保报完之后剩下的部分，还能按不低于 70% 的比例走医疗救助再报一次。断缴的代价是等待期。没在集中缴费期参保、或者没连着交的，交完之后有 3 个月固定待遇等待期，这段时间看病不给报。每多断 1 年，原则上再加 1 个月（2025 年起，全国）",
+      "grade": "A",
+      "sources": "国家医保局 (2024). 《关于做好 2024 年城乡居民基本医疗保障有关工作的通知》政策解读（医保发〔2024〕19 号）. <https://www.nhsa.gov.cn/art/2024/8/26/art_105_13634.html>；河北省医疗保障局等 (2025). 关于做好 2025 年城乡居民基本医疗保障有关工作的通知（冀医保发〔2025〕6 号，地方文件）. <https://www.renqiu.gov.cn/renqiu/ybjbmwj/202510/6d90754638a248cba655e94ea518a3bb.shtml>；安徽省医疗保障局等 (2025). 关于做好 2025 年城乡居民基本医疗保障有关工作的通知（淮北市医保局转载）：「按照国家医保局、财政部、国家税务总局《关于做好2025年城乡居民基本医疗保障有关工作的通知》（医保发〔2025〕22号）要求」「居民医保人均财政补助标准较上年提高30元，达到每人每年不低于700元」. <https://ybj.huaibei.gov.cn/zcwj/zcwj/58004084.html>；国务院办公厅 (2021). 关于健全重特大疾病医疗保险和救助制度的意见（国办发〔2021〕42 号）. <https://www.gov.cn/gongbao/content/2021/content_5659514.htm>；国务院办公厅 (2024). 关于健全基本医疗保险参保长效机制的指导意见（国办发〔2024〕38 号）. <https://www.gov.cn/zhengce/content/202408/content_6965741.htm>；国家医保局 (2026). 2026 年政府工作报告提到这些医保工作. <https://www.nhsa.gov.cn/art/2026/3/5/art_14_19809.html>",
+      "notes": "国家医保局 2025 年那份通知（医保发〔2025〕22 号）没有在医保局官网和中国政府网公开挂出。700 元和 400 元两个数在河北、安徽两省的文件里一致，安徽那份写明是按这份通知定的。领失业保险金那段时间，职工医保由失业保险替你交，不必重复参保。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng để gián đoạn bảo hiểm y tế cư dân 400 nhân dân tệ mỗi năm; hộ khó khăn có thể được miễn giảm",
+    "cost": "Phần tự đóng mỗi người mỗi năm không dưới 400 nhân dân tệ. Đây là chuẩn quốc gia năm 2024, 2025, địa phương có thể quy định cao hơn. Phải đóng trong đợt đóng tập trung cố định hằng năm. Người đặc biệt khó khăn được hỗ trợ toàn bộ, chính quyền trả hết khoản này. Người thuộc diện trợ cấp bảo đảm mức sống tối thiểu được hỗ trợ khoản cố định, chính quyền trả một phần cố định.",
+    "plain": "Cá nhân đóng từ 400 nhân dân tệ mỗi năm; năm 2025 ngân sách hỗ trợ thêm không dưới 700 nhân dân tệ mỗi người. Người đặc biệt khó khăn được hỗ trợ toàn bộ, người thuộc diện trợ cấp bảo đảm mức sống tối thiểu được hỗ trợ khoản cố định. Ngừng đóng có cái giá: không tham gia trong đợt tập trung hoặc không đóng liên tục thì sau khi đóng có 3 tháng khám chữa bệnh không được thanh toán, mỗi ngừng thêm 1 năm về nguyên tắc phải chờ thêm 1 tháng.",
+    "benefit": "Ngoài phần tự đóng, ngân sách còn hỗ trợ một khoản theo đầu người. Năm 2024 không dưới 670 nhân dân tệ. Năm 2025 tăng 30 nhân dân tệ so với năm trước, không dưới 700 nhân dân tệ; phần cá nhân đóng vẫn không dưới 400 nhân dân tệ, theo văn bản bảo hiểm y tế số 22 năm 2025, được văn bản cấp tỉnh thuật lại. Báo cáo công tác chính phủ năm 2026 nói tăng thêm 24 nhân dân tệ. Với người thuộc diện trợ cấp bảo đảm mức sống tối thiểu và người đặc biệt khó khăn, chi phí y tế phù hợp quy định còn lại sau khi bảo hiểm thanh toán có thể tiếp tục được thanh toán qua cứu trợ y tế với tỷ lệ không dưới 70%. Cái giá của việc ngừng đóng là thời gian chờ. Không tham gia trong đợt đóng tập trung hoặc không đóng liên tục thì sau khi đóng có thời gian chờ hưởng quyền lợi cố định 3 tháng, khám chữa bệnh trong thời gian này không được thanh toán. Mỗi ngừng thêm 1 năm, về nguyên tắc phải chờ thêm 1 tháng (từ năm 2025, toàn Trung Quốc).",
+    "notes": "Thông báo năm 2025 đó của Cục Bảo hiểm y tế quốc gia, văn bản số 22 năm 2025, chưa được đăng công khai trên website của cục hoặc website Chính phủ Trung Quốc. Hai số 700 nhân dân tệ và 400 nhân dân tệ thống nhất trong văn bản của Hà Bắc và An Huy; văn bản An Huy nói rõ xác định theo thông báo này. Trong thời gian nhận trợ cấp bảo hiểm thất nghiệp, bảo hiểm thất nghiệp đóng bảo hiểm y tế người lao động thay bạn, không cần tham gia trùng.",
+    "extra": ""
+  }
+}

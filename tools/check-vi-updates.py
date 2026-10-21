@@ -56,11 +56,14 @@ def main():
         validate_draft(tasks[path.stem], draft)
         drafted.append(path.stem)
     reviewed = load_reviewed()
+    inherited = {ident for ident, (task, draft, _) in reviewed.items()
+                 if draft["source_commit"] != source_commit}
     print(json.dumps({
         "status": "passed", "source_commit": source_commit,
         "inventoried_entries": len(source_entries), "other_units": len(inventory["other_content"]),
         "pilot_entries": sum(t.get("pilot", False) for t in tasks.values()),
         "validated_drafts": len(drafted), "independently_reviewed": len(reviewed),
+        "inherited_reviews_for_identical_source": len(inherited),
         "reviewed_previous_status": dict(Counter(tasks[k].get("status", "supplementary") for k in reviewed)),
         "unreviewed_drafts": sorted(set(drafted) - set(reviewed)),
     }, ensure_ascii=False, indent=2))

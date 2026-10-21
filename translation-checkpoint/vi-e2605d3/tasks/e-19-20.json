@@ -1,0 +1,35 @@
+{
+  "id": "e-19-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "c6f5caf8aa2ce90710f57968125999f3594f82181f2049888abbeb40a1023161",
+  "original": {
+    "number": 20,
+    "title": "入职满一个月单位还没和你签书面劳动合同，从第二个月起可以要双倍工资，最多 11 个月；满一年还不签，就算签了无固定期限合同",
+    "fields": {
+      "cost": "不花钱。平时留好上班的证据：工资流水、考勤、工牌、工作群聊天记录。单位不认就要申请劳动仲裁。仲裁不收费，受理后 45 天内结案，最多再延 15 天。不服的还能去法院，一审普通程序按规定 6 个月内审完，可以延长，律师费自己出。难在人还在这家干，开口要钱要顶住压力。",
+      "plain": "上班满一个月单位还没跟你签书面合同，从第二个月起每月多给一份工资，最多多给 11 个月。满一年还不签，就当已经签了没有到期日的合同。单位把合同递给你就签，自己故意拖着不签的拿不到这笔钱。",
+      "benefit": "劳动合同法规定，建立劳动关系要签书面劳动合同。上班当天没签的，要从上班那天起一个月内签。上班超过一个月、不满一年还没签的，单位要每月付你两倍的工资。实施条例写明了起止时间：从上班满一个月的第二天算起，到补签合同的前一天为止。上班满一年还没签的，双倍工资算到满一年的前一天，最多 11 个月。从满一年那天起，就当双方已经签了无固定期限劳动合同，单位要马上补签。无固定期限合同就是没有约定到期日的合同。2025 年 9 月起施行的最高法司法解释规定，双倍工资按月算，不满一个月的按实际工作日算。单位能证明没签是因为不可抗力，或者是你本人故意、重大过失不签的，不用付。上班第一个月内，单位书面通知你签、你不签的，单位可以书面通知终止劳动关系。这时单位不给经济补偿，只付你干了的那些天的工资。已经算作无固定期限合同的那段时间，再要双倍工资，法院不支持（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 修正). 劳动合同法（第十、十四、八十二条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193025/content.html>（国家税务总局政策法规库转载）；国务院 (2008). 劳动合同法实施条例（国务院令第 535 号，第五、六、七条）. <https://www.gov.cn/gongbao/content/2008/content_1107604.htm>；最高人民法院 (2025). 关于审理劳动争议案件适用法律问题的解释（二）（法释〔2025〕12 号，第六、七、九条）. <https://www.court.gov.cn/zixun/xiangqing/472691.html>；最高人民法院 (2023). 关于审理劳动争议案件适用法律问题的解释（二）（征求意见稿，第四条）. <https://www.court.gov.cn/zixun/xiangqing/420002.html>；北京市高级人民法院、北京市劳动人事争议仲裁委员会 (2024). 关于审理劳动争议案件解答（一）（京高法发〔2024〕534 号，第 41 问、第 42 问）. <https://www.beijing.gov.cn/zhengce/fygfxwj/202405/t20240530_3699652.html>；全国人大常委会 (2007). 劳动争议调解仲裁法（第二十七、四十三、五十三条）. <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载）；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、十三条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>",
+      "notes": "多拿的那一份工资要在多久内去要，最高法没有定全国口径。2023 年的征求意见稿写过一条时效规则，2025 年正式公布的解释里没有保留。北京的口径是，多出来的那一份适用 1 年的仲裁时效。从你提出要求那天往前倒推一年，按日算。各地算法不完全一样，但拖得越久，能要回的月数越少。所以在职时或者离职后，尽快申请仲裁。仲裁时效的一般规则见第 8 节第 19 条（维权有期限）。补签合同时把日期倒签到上班第一天的，北京的口径是一般不再支持双倍工资。除非你能证明，补签不是你自愿的。从单位一侧看这件事，见第 12 节第 16 条（用人第一个月内签书面合同）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Làm đủ một tháng mà đơn vị chưa ký hợp đồng lao động bằng văn bản thì từ tháng thứ hai có thể yêu cầu lương gấp đôi, tối đa 11 tháng; đủ một năm vẫn chưa ký thì được coi là đã ký hợp đồng không xác định thời hạn",
+    "cost": "Không tốn tiền. Thường ngày giữ bằng chứng đi làm: sao kê nhận lương, chấm công, thẻ nhân viên và lịch sử trò chuyện trong nhóm công việc. Đơn vị không thừa nhận thì phải yêu cầu trọng tài lao động giải quyết. Trọng tài không thu phí, giải quyết trong 45 ngày sau khi thụ lý, có thể gia hạn thêm tối đa 15 ngày. Không đồng ý với kết quả thì còn có thể ra tòa; sơ thẩm theo thủ tục thông thường từ 6 tháng trở lên, bạn tự trả phí luật sư. Khó là vẫn làm ở đó mà phải chịu áp lực khi đòi tiền.",
+    "plain": "Làm đủ một tháng mà đơn vị chưa ký hợp đồng bằng văn bản thì từ tháng thứ hai, mỗi tháng phải trả thêm một phần lương bằng lương tháng, tối đa 11 tháng. Đủ một năm vẫn chưa ký thì coi như đã ký hợp đồng không có ngày hết hạn. Đơn vị đưa hợp đồng thì hãy ký; nếu chính bạn cố tình trì hoãn không ký thì không được nhận khoản này.",
+    "benefit": "Luật Hợp đồng lao động quy định phải ký hợp đồng lao động bằng văn bản khi xác lập quan hệ lao động. Nếu chưa ký ngay ngày bắt đầu đi làm thì phải ký trong vòng một tháng tính từ ngày đó. Đi làm quá một tháng nhưng chưa đủ một năm mà vẫn chưa ký thì đơn vị phải trả lương gấp đôi mỗi tháng. Quy định thi hành nêu rõ thời điểm bắt đầu và kết thúc: tính từ ngày kế tiếp sau khi đi làm đủ một tháng đến hết ngày trước ngày ký bổ sung hợp đồng. Đi làm đủ một năm vẫn chưa ký thì lương gấp đôi được tính đến hết ngày trước khi đủ một năm, tối đa 11 tháng. Từ ngày đủ một năm, coi như hai bên đã ký hợp đồng lao động không xác định thời hạn, đơn vị phải ký bổ sung ngay. Hợp đồng không xác định thời hạn là hợp đồng không thỏa thuận ngày hết hạn. Giải thích tư pháp của Tòa án Nhân dân Tối cao có hiệu lực từ tháng 9 năm 2025 quy định lương gấp đôi được tính theo tháng; chưa đủ một tháng thì tính theo số ngày làm việc thực tế. Nếu đơn vị chứng minh được việc không ký là do sự kiện bất khả kháng, hoặc do chính bạn cố ý hay có lỗi bất cẩn nghiêm trọng, thì không phải trả khoản này. Trong tháng đi làm đầu tiên, nếu đơn vị thông báo bằng văn bản yêu cầu ký mà bạn không ký, đơn vị có thể thông báo bằng văn bản chấm dứt quan hệ lao động. Khi đó, đơn vị không trả trợ cấp kinh tế khi chấm dứt hợp đồng mà chỉ trả lương cho những ngày bạn đã làm. Đối với khoảng thời gian đã được coi là có hợp đồng không xác định thời hạn, tòa án không chấp nhận yêu cầu trả lương gấp đôi thêm nữa (toàn Trung Quốc).",
+    "notes": "Tòa án Nhân dân Tối cao chưa quy định cách áp dụng thống nhất toàn quốc về thời hạn đòi phần lương nhận thêm. Dự thảo lấy ý kiến năm 2023 từng có một quy tắc về thời hiệu, nhưng giải thích chính thức công bố năm 2025 không giữ lại quy tắc đó. Cách áp dụng ở Bắc Kinh là phần lương nhận thêm có thời hiệu yêu cầu trọng tài giải quyết 1 năm. Tính lùi một năm từ ngày bạn đưa ra yêu cầu, theo từng ngày. Cách tính giữa các địa phương không hoàn toàn giống nhau, nhưng càng để lâu thì số tháng có thể đòi lại càng ít. Vì vậy, hãy yêu cầu trọng tài giải quyết càng sớm càng tốt, dù còn làm việc hay đã nghỉ. Quy tắc chung về thời hiệu trọng tài xem chương 8 mục 19 (bảo vệ quyền lợi có thời hạn). Nếu khi ký bổ sung hợp đồng, ngày ký được ghi lùi về ngày đầu đi làm, theo cách áp dụng ở Bắc Kinh, yêu cầu lương gấp đôi nhìn chung không còn được chấp nhận. Ngoại lệ là bạn chứng minh được việc ký bổ sung không xuất phát từ ý nguyện tự nguyện của mình. Góc nhìn của đơn vị về việc này xem chương 12 mục 16 (ký hợp đồng bằng văn bản trong tháng đầu sử dụng lao động).",
+    "extra": ""
+  }
+}

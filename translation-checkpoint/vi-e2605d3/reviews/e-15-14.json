@@ -1,0 +1,15 @@
+{
+  "id": "e-15-14",
+  "source_sha256": "258bac8828e3c8c501b2a52d1014b1892d6bed601092198c513a6cc7eeb333f9",
+  "draft_sha256": "952b958537e9d426cd03b89204f17ad9af2741dada1a55ab765a82bc20fa2882",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves advance registration, written consent and 90-day expiry, unilateral application condition and filing-effect exception. Translation review does not independently verify current law or source advice."
+}

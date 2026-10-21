@@ -1,0 +1,35 @@
+{
+  "id": "e-12-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "27212424b2def247f231448083deb5a08cd078e952b9f4c3144eaa5ecc4386d3",
+  "original": {
+    "number": 19,
+    "title": "样品做出来先过一遍量产清单，再谈开工",
+    "fields": {
+      "cost": "几百元做一次小批量试产。再花几个小时，把良率算清楚，就是 100 件里有几件能卖。供应商的起订量和账期、库存要占多少钱、包装和物流、认证和许可、商标，也要一项项算清。难的是忍住不跳过这一步直接开工。",
+      "plain": "一件样品和一千件的差别，在于钱压在哪里。良率决定真实成本，起订量和账期决定你要先垫多少钱，库存决定钱什么时候能回来。产品要是在强制性认证目录里，没认证、没标认证标志就不能出厂和销售。",
+      "benefit": "一件样品和一千件的差别，在于钱压在哪里。良率决定真实成本，良率就是做出来的一批里有几成合格能卖。供应商一次最少要你订多少（起订量），发货之后多久才收得到钱（账期），这两项决定你要先垫多少钱。库存决定钱什么时候回来。列入强制性产品认证目录的产品，必须先通过认证，并且在产品上标出认证标志，才能出厂和销售。没认证就擅自出厂销售的，按认证认可条例处罚。做餐饮和卖食品要办食品经营许可（全国）",
+      "grade": "C",
+      "sources": "质检总局 (2009). 强制性产品认证管理规定（质检总局令第 117 号，第二、四十九条）. <http://www.gov.cn/gongbao/content/2010/content_1533513.htm>；市场监管总局 (2023). 食品经营许可和备案管理办法（市场监管总局令第 78 号，第四条）. <https://www.gov.cn/gongbao/2023/issue_10606/202307/content_6894763.html>",
+      "notes": "清单本身是经验方法，法条部分已核实原文。投产之前，先到国家知识产权局的商标查询系统查一下有没有近似的注册，再去申请自己的商标。用别人的商标和图案的红线，见第 20、21 条（进货留票据、图案要自己做或买授权）。强制认证目录以市场监管总局最新公布的为准。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Làm xong mẫu thì kiểm tra danh sách chuẩn bị sản xuất hàng loạt trước khi khởi công",
+    "cost": "Vài trăm nhân dân tệ để sản xuất thử lô nhỏ. Dành thêm vài giờ tính tỷ lệ đạt chuẩn, tức trong 100 sản phẩm có bao nhiêu món bán được. Cũng phải tính từng khoản: số lượng đặt tối thiểu và kỳ hạn thanh toán của nhà cung cấp, tiền bị giữ trong hàng tồn, đóng gói, vận chuyển, chứng nhận, giấy phép và nhãn hiệu. Điều khó là không bỏ qua bước này để làm ngay.",
+    "plain": "Khác biệt giữa một sản phẩm mẫu và một nghìn sản phẩm là tiền bị giữ ở đâu. Tỷ lệ đạt chuẩn quyết định chi phí thật; số lượng đặt tối thiểu và kỳ hạn thanh toán quyết định bạn phải ứng bao nhiêu; hàng tồn quyết định lúc nào tiền về. Nếu sản phẩm trong danh mục chứng nhận bắt buộc, chưa chứng nhận và gắn dấu chứng nhận thì không được xuất xưởng, bán ra.",
+    "benefit": "Khác biệt giữa một mẫu và một nghìn sản phẩm là tiền bị giữ ở đâu. Tỷ lệ đạt chuẩn quyết định chi phí thật: trong lô làm ra có bao nhiêu phần đạt yêu cầu để bán. Số lượng tối thiểu nhà cung cấp bắt đặt một lần và thời gian sau giao hàng mới nhận được tiền quyết định bạn phải ứng trước bao nhiêu. Hàng tồn quyết định lúc nào tiền về. Sản phẩm thuộc danh mục chứng nhận bắt buộc phải được chứng nhận và gắn dấu chứng nhận trước khi xuất xưởng, bán ra. Tự ý xuất xưởng, bán khi chưa chứng nhận bị phạt theo Điều lệ Chứng nhận và công nhận. Phục vụ ăn uống và bán thực phẩm phải có giấy phép kinh doanh thực phẩm (toàn quốc).",
+    "notes": "Bản thân danh sách kiểm tra là phương pháp dựa trên kinh nghiệm; phần điều luật đã kiểm chứng nguyên văn. Trước sản xuất, vào hệ thống tra cứu nhãn hiệu của Cục Sở hữu trí tuệ Quốc gia để xem có đăng ký tương tự không, rồi đăng ký nhãn hiệu của mình. Ranh giới khi dùng nhãn hiệu và hình của người khác xem mục 20, 21 (giữ chứng từ nhập hàng; tự làm hình hoặc mua quyền sử dụng). Danh mục chứng nhận bắt buộc theo công bố mới nhất của Tổng cục Quản lý thị trường.",
+    "extra": ""
+  }
+}

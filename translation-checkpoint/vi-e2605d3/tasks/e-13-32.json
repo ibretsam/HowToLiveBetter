@@ -1,0 +1,35 @@
+{
+  "id": "e-13-32",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "b1f656b94110f1a9ff319b3660a8261f51b51a15763fe769765750c684983564",
+  "original": {
+    "number": 32,
+    "title": "野外遇上雷雨，钻进有硬顶的车或建筑，避开山脊、孤树、水面和金属",
+    "fields": {
+      "cost": "不花钱。代价是行程被打断半小时以上。难的是雷声还远的时候就肯往回走。",
+      "plain": "雷暴范围内的户外没有安全的地方。钻进硬顶的车或者建筑，敞篷车、摩托、帐篷、凉亭、树下、突出的岩石下面都不算。避开开阔地、山脊山顶、孤立的大树、水面和铁栏杆，一群人走不了就散开站。听见雷就撤，最后一声雷过去 30 分钟才算安全。",
+      "benefit": "雷暴范围内的户外没有安全的地方。最后一声雷响过 30 分钟，才算安全。美国国家气象局写明：要跑进结实的建筑或者硬顶的车里。帐篷完全挡不住雷击，四面敞开的野餐棚也不安全。山洞口和小的岩石突出部也危险，电弧能跳过缝隙。躲到树下，是雷击伤亡的第二大原因。听见雷声，你多半已经在雷击范围内，「雷声响，进屋去」",
+      "grade": "B",
+      "sources": "美国国家气象局. 户外雷电安全：「There is no safe place outside when thunderstorms are in the area」「Avoid open fields, the top of a hill or a ridge top. Stay away from tall, isolated trees or other tall objects」「Stay away from water, wet items, such as ropes, and metal objects, such as fences and poles」；实在走不了时「If you are in a group, spread out to avoid the current traveling between group members」；恢复活动「Wait 30 minutes until after the last rumble of thunder」；「Remember, a tent offers NO protection from lighting」「Do NOT seek shelter under the beach picnic shelters」「Cave entrances are dangerous during thunderstorms. Small overhangs can allow arcs to cross the gap」. <https://www.weather.gov/safety/lightning-outdoors>；美国国家气象局. 雷电安全：「If you hear thunder, you are likely within striking distance of the storm」「When Thunder Roars, Go Indoors」. <https://www.weather.gov/safety/lightning-safety>；美国国家气象局. 雷电误区：「Run to a substantial building or hard topped vehicle」「Being underneath a tree is the second leading cause of lightning casualties」. <https://www.weather.gov/safety/lightning-myths>",
+      "notes": "帐篷、凉亭、树下、岩石突出部都不算掩体。硬顶汽车算。敞篷车和摩托不算，这是作者从「硬顶」这个条件推出来的。听见雷就开始撤，不要等雨下下来。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Gặp dông ngoài thiên nhiên: vào xe có mui cứng hoặc công trình, tránh sống núi, cây đơn độc, mặt nước và kim loại",
+    "cost": "Không tốn tiền. Đổi lại hành trình bị gián đoạn từ nửa giờ trở lên. Điều khó là chịu quay về khi tiếng sấm còn xa.",
+    "plain": "Ngoài trời trong vùng dông không có chỗ nào an toàn. Vào xe mui cứng hoặc công trình; xe mui trần, xe máy, lều, chòi, dưới cây, dưới mỏm đá nhô ra đều không tính. Tránh nơi trống trải, sống núi, đỉnh núi, cây lớn đứng riêng, mặt nước và lan can sắt; cả nhóm không rời đi được thì đứng tản ra. Nghe sấm thì rút, phải qua 30 phút từ tiếng sấm cuối mới tính là an toàn.",
+    "benefit": "Ngoài trời trong vùng dông không có chỗ nào an toàn. Phải qua 30 phút từ tiếng sấm cuối mới tính là an toàn. Cơ quan Thời tiết Quốc gia Mỹ nêu rõ cần chạy vào công trình chắc chắn hoặc xe mui cứng. Lều hoàn toàn không chống được sét, mái che dã ngoại hở bốn phía cũng không an toàn. Cửa hang và mỏm đá nhỏ nhô ra cũng nguy hiểm vì hồ quang điện có thể phóng qua khe. Trú dưới cây là nguyên nhân đứng thứ hai gây thương vong do sét. Khi nghe sấm, phần lớn bạn đã ở trong tầm sét đánh: “sấm vang thì vào nhà”.",
+    "notes": "Lều, chòi, dưới cây hoặc mỏm đá nhô ra đều không được tính là nơi trú. Ô tô mui cứng thì có. Xe mui trần và xe máy không tính; đây là suy luận của tác giả từ điều kiện “mui cứng”. Nghe sấm thì bắt đầu rút, đừng đợi mưa xuống.",
+    "extra": ""
+  }
+}

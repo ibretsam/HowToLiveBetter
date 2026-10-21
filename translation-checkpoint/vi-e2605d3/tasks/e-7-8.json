@@ -1,0 +1,35 @@
+{
+  "id": "e-7-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "2acb437c5803c0d1bc9aae710d1c5d858b703e67d8cfba5d6fdc4efd0fc89786",
+  "original": {
+    "number": 8,
+    "title": "持残疾人证的去申请残疾人两项补贴",
+    "fields": {
+      "cost": "不花钱。带上残疾人证，到街道或者乡镇提交一次申请就行。",
+      "plain": "低保家庭里的残疾人，可以领生活补贴。残疾等级是一级、二级，又需要长期照护的，可以领护理补贴，两项能同时领。标准各省自己定，差别很大，具体问街道。带上第二代残疾人证，去街道或者乡镇办一次。",
+      "benefit": "国务院定下了两项补贴。第一项是困难残疾人生活补贴，文件写的对象是「低保家庭中的残疾人，有条件的地方可逐步扩大到低收入残疾人及其他困难残疾人」。意思是先保低保家庭里的残疾人，地方财力允许的可以往外扩。第二项是重度残疾人护理补贴，文件写的对象是「残疾等级被评定为一级、二级且需要长期照护的重度残疾人」。这两项可以同时领",
+      "grade": "A",
+      "sources": "国务院 (2015). 关于全面建立困难残疾人生活补贴和重度残疾人护理补贴制度的意见（国发〔2015〕52 号）. <https://www.gov.cn/zhengce/zhengceku/2015-09/25/content_10181.htm>",
+      "notes": "标准由省级政府定，各地差别很大。申请要带第二代残疾人证。本人不方便的，可以委托家属代办"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có giấy chứng nhận khuyết tật thì đi xin hai khoản trợ cấp dành cho người khuyết tật",
+    "cost": "Không tốn tiền. Mang giấy chứng nhận khuyết tật đến khu phố hoặc hương, trấn nộp đơn một lần là được.",
+    "plain": "Người khuyết tật trong hộ hưởng trợ cấp bảo đảm mức sống tối thiểu được nhận trợ cấp sinh hoạt. Được xếp khuyết tật cấp một, cấp hai và cần chăm sóc dài hạn thì được nhận trợ cấp chăm sóc; có thể hưởng cả hai khoản. Mức tiền do từng tỉnh định, chênh lệch lớn, hãy hỏi cụ thể tại khu phố. Mang giấy chứng nhận khuyết tật thế hệ thứ hai đến khu phố hoặc hương, trấn làm thủ tục một lần.",
+    "benefit": "Quốc vụ viện quy định hai khoản trợ cấp. Khoản đầu là trợ cấp sinh hoạt cho người khuyết tật có hoàn cảnh khó khăn. Văn bản ghi đối tượng là “người khuyết tật trong hộ hưởng trợ cấp bảo đảm mức sống tối thiểu; địa phương có điều kiện có thể từng bước mở rộng sang người khuyết tật thu nhập thấp và người khuyết tật khó khăn khác”. Tức trước hết bảo đảm cho người khuyết tật trong hộ thuộc diện trợ cấp tối thiểu; địa phương đủ nguồn tài chính thì có thể mở rộng. Khoản thứ hai là trợ cấp chăm sóc người khuyết tật nặng. Văn bản ghi đối tượng là “người khuyết tật nặng được đánh giá cấp khuyết tật một, hai và cần chăm sóc dài hạn”. Có thể nhận đồng thời hai khoản này.",
+    "notes": "Mức tiền do chính quyền cấp tỉnh quy định, giữa các nơi chênh lệch lớn. Khi xin cần mang giấy chứng nhận khuyết tật thế hệ thứ hai. Bản thân không tiện đi thì có thể ủy quyền người nhà làm thay.",
+    "extra": ""
+  }
+}

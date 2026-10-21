@@ -1,0 +1,15 @@
+{
+  "id": "e-13-27",
+  "source_sha256": "8eea4f9a18b24cab189417a5e418ad9ea243c9cea74e2cdac4a05aea00ca248d",
+  "draft_sha256": "43516b7ac5299a5aed89ad9b00767b626c3bc51ac6862b5cee4ae6c59673486a",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves send-location-first only when signal exists, staying with vehicle, water amounts, avoiding walking or withholding drinking, and official signal sequence. Source smoke instruction and signal shorthand retained."
+}

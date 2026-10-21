@@ -1,0 +1,35 @@
+{
+  "id": "e-19-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "605bbb93023b5d9b607db96fa1f83a740a09156af8361688a5921d84dbfef9af",
+  "original": {
+    "number": 19,
+    "title": "换城市工作时，把养老和医保关系转到新参保地，缴费年限接着累计，别办退保",
+    "fields": {
+      "cost": "不花钱。在新地方参保缴费以后，由新单位或你自己提出转移申请，跑一趟窗口或者网上办。养老这边前后要等几十个工作日，医保要等 15 个工作日左右。",
+      "plain": "换城市工作，养老和医保关系都能跟着你走，以前交的年限接着往上加。没到领养老金的年龄，不能办退保把钱取出来。医保断交超过 3 个月，到新地方可能要等最多 6 个月才能报销，所以中间别空太久。",
+      "benefit": "社会保险法规定，换个地方就业的（正式说法是跨统筹地区），养老关系随本人转移，缴费年限累计计算。职工医保也一样，关系跟着人走，年限累计计算。退休时养老金分段计算、统一支付。跨省转养老关系按国务院办公厅转发的转移接续办法办。没到领取待遇的年龄，不得终止养老关系、办理退保。社会保险法也写明个人账户不得提前支取。个人账户里的钱连本带息全部转走。单位交的那部分叫统筹基金，按你 1998 年以后各年实际缴费工资的 12% 转过去。领养老金时，按你各年的缴费工资、缴费年限和领取地各年的平均工资算。手续是在新地方参保缴费以后，由单位或你自己向新参保地书面申请。新参保地 15 个工作日内审核，原参保地接到同意接收函后 15 个工作日内办好转出。新参保地收到关系和资金后，再 15 个工作日内办结。按 2020 年的跨省通办清单，这件事要在当年底前实现跨省通办。你向转入地申请就行，不用再回转出地办。职工医保要原参保地先停保、新地方已经参保，才能申请转移。可以在国家医保服务平台网上申请，也可以去窗口。原参保地 10 个工作日内转出，新参保地 5 个工作日内转入，个人账户余额一起划过去。转之前断缴 3 个月以内的，按新地方规定补缴后不设等待期，缴费当月就能报销，中间那段也能追溯报。断缴超过 3 个月的，等待期按各地规定，原则上不超过 6 个月（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2010, 2018 修正). 社会保险法（第十四、十九、三十二条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647616.htm>；人力资源社会保障部、财政部 (2009). 城镇企业职工基本养老保险关系转移接续暂行办法（国办发〔2009〕66 号转发，第二、三、四、五、六、七、八、十一条）. <https://www.gov.cn/zhengce/zhengceku/2009-12/29/content_8104.htm>；国务院办公厅 (2020). 关于加快推进政务服务「跨省通办」的指导意见（国办发〔2020〕35 号，附件第 7 项）. <https://www.gov.cn/zhengce/zhengceku/2020-09/29/content_5548125.htm>；国家医保局办公室、财政部办公厅 (2021). 基本医疗保险关系转移接续暂行办法（医保办发〔2021〕43 号，第五、六、八、九、十一、十二、十三条）. <https://www.gov.cn/zhengce/zhengceku/2021-11/28/content_5653856.htm>；国家医保局 (2021). 《基本医疗保险关系转移接续暂行办法》政策解读（国家医保服务平台网址 fuwu.nhsa.gov.cn）. <http://www.gov.cn/zhengce/2021-11/28/content_5653855.htm>",
+      "notes": "跨省去的不是户口所在省，而且男的满 50 岁、女的满 40 岁，养老关系会留在原参保地。新地方只开一个临时账户，记下单位和个人的全部缴费。退休时在哪领养老金，规则是这样的。关系在户籍所在省的，在户籍地领。不在户籍地、但在关系所在地累计交满 10 年的，在当地领。都不满 10 年的，转回上一个交满 10 年的地方领。每个地方都不满 10 年的，归集到户籍地领。领取地不同，算养老金用的平均工资也不同。省内跨市怎么转，由各省自己定办法，问当地社保经办机构。已经在领养老金的人，不再转移关系。断缴之后年限怎么算、哪些资格要连续缴费，见第 7 节第 18 条（社保断缴）。不进单位、自己交社保的，见第 31 节第 11 条（灵活就业）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi đổi thành phố làm việc, chuyển hồ sơ tham gia bảo hiểm hưu trí và bảo hiểm y tế sang nơi tham gia mới để tiếp tục cộng dồn thời gian đóng; đừng làm thủ tục rút khỏi bảo hiểm",
+    "cost": "Không tốn tiền. Sau khi tham gia và đóng bảo hiểm ở nơi mới, đơn vị mới hoặc chính bạn nộp đơn xin chuyển, đến quầy làm một lần hoặc làm trực tuyến. Bảo hiểm hưu trí phải chờ tổng cộng vài chục ngày làm việc; bảo hiểm y tế cần khoảng 15 ngày làm việc.",
+    "plain": "Khi đổi thành phố làm việc, hồ sơ bảo hiểm hưu trí và bảo hiểm y tế đều có thể chuyển theo bạn, thời gian đã đóng trước đây tiếp tục được cộng dồn. Chưa đến tuổi nhận lương hưu thì không được làm thủ tục rút khỏi bảo hiểm để lấy tiền ra. Nếu gián đoạn đóng bảo hiểm y tế quá 3 tháng, đến nơi mới có thể phải chờ tối đa 6 tháng mới được thanh toán chi phí khám chữa bệnh, nên đừng để trống quá lâu.",
+    "benefit": "Luật Bảo hiểm xã hội quy định rằng khi đi làm ở địa phương khác, thuật ngữ chính thức là chuyển sang khu vực quản lý quỹ bảo hiểm khác, hồ sơ bảo hiểm hưu trí được chuyển theo người và thời gian đóng được cộng dồn. Bảo hiểm y tế cho người lao động cũng vậy: hồ sơ chuyển theo người, thời gian đóng được cộng dồn. Khi nghỉ hưu, lương hưu được tính theo từng giai đoạn rồi chi trả thống nhất. Chuyển bảo hiểm hưu trí qua tỉnh khác thực hiện theo biện pháp chuyển tiếp do Văn phòng Quốc vụ viện chuyển ban hành. Chưa đến tuổi nhận chế độ thì không được chấm dứt quan hệ bảo hiểm hưu trí hoặc làm thủ tục rút khỏi bảo hiểm. Luật Bảo hiểm xã hội cũng nêu rõ không được rút sớm tiền trong tài khoản cá nhân. Toàn bộ tiền gốc và lãi trong tài khoản cá nhân được chuyển đi. Phần đơn vị đóng gọi là quỹ chung; số chuyển đi bằng 12% tiền lương thực tế dùng làm căn cứ đóng bảo hiểm của từng năm kể từ năm 1998. Khi nhận lương hưu, mức hưởng được tính theo tiền lương dùng làm căn cứ đóng của từng năm, thời gian đóng và tiền lương bình quân từng năm tại nơi nhận. Về thủ tục, sau khi tham gia và đóng bảo hiểm ở nơi mới, đơn vị hoặc chính bạn nộp đơn bằng văn bản cho nơi tham gia mới. Nơi mới xét duyệt trong 15 ngày làm việc; nơi cũ chuyển đi trong 15 ngày làm việc sau khi nhận thư đồng ý tiếp nhận. Sau khi nhận hồ sơ và tiền, nơi mới hoàn tất trong thêm 15 ngày làm việc. Theo danh sách thủ tục liên tỉnh năm 2020, thủ tục này phải thực hiện được liên tỉnh trước cuối năm đó. Bạn chỉ cần nộp đơn ở nơi chuyển đến, không phải về nơi chuyển đi làm nữa. Với bảo hiểm y tế cho người lao động, phải ngừng tham gia ở nơi cũ và đã tham gia ở nơi mới thì mới được xin chuyển. Có thể nộp trực tuyến trên Nền tảng dịch vụ bảo hiểm y tế quốc gia hoặc đến quầy. Nơi cũ chuyển đi trong 10 ngày làm việc, nơi mới tiếp nhận trong 5 ngày làm việc; số dư tài khoản cá nhân cũng được chuyển theo. Nếu trước khi chuyển, thời gian gián đoạn đóng không quá 3 tháng, sau khi đóng bù theo quy định nơi mới thì không có thời gian chờ. Ngay tháng đóng tiền đã được thanh toán chi phí khám chữa bệnh, chi phí trong khoảng gián đoạn cũng được thanh toán hồi tố. Nếu gián đoạn quá 3 tháng, thời gian chờ theo quy định từng địa phương, về nguyên tắc không quá 6 tháng (toàn Trung Quốc).",
+    "notes": "Nếu chuyển sang tỉnh khác không phải tỉnh đăng ký hộ khẩu, đồng thời nam đã đủ 50 tuổi hoặc nữ đã đủ 40 tuổi, hồ sơ bảo hiểm hưu trí sẽ được giữ ở nơi tham gia cũ. Nơi mới chỉ mở tài khoản tạm thời, ghi toàn bộ khoản đóng của đơn vị và cá nhân. Nơi nhận lương hưu khi nghỉ hưu được xác định như sau. Nếu hồ sơ ở tỉnh đăng ký hộ khẩu thì nhận tại nơi đăng ký hộ khẩu. Nếu hồ sơ không ở nơi đăng ký hộ khẩu nhưng đã đóng cộng dồn đủ 10 năm tại nơi đang giữ hồ sơ thì nhận tại đó. Nếu đều chưa đủ 10 năm thì chuyển về nơi trước đó đã đóng đủ 10 năm để nhận. Nếu không nơi nào đủ 10 năm thì gom về nơi đăng ký hộ khẩu để nhận. Nơi nhận khác nhau thì tiền lương bình quân dùng để tính lương hưu cũng khác nhau. Cách chuyển giữa các thành phố trong cùng tỉnh do từng tỉnh quy định; hãy hỏi cơ quan bảo hiểm xã hội địa phương. Người đã nhận lương hưu không chuyển hồ sơ nữa. Cách tính thời gian sau khi gián đoạn đóng và những điều kiện cần đóng liên tục xem chương 7 mục 18 (gián đoạn đóng bảo hiểm xã hội). Không làm cho đơn vị nào mà tự đóng bảo hiểm xã hội thì xem chương 31 mục 11 (việc làm linh hoạt).",
+    "extra": ""
+  }
+}

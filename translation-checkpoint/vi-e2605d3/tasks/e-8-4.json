@@ -1,0 +1,35 @@
+{
+  "id": "e-8-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "b6099601a3d6adbbdca9c8672ba718b57063190a283e17b78063db604096389b",
+  "original": {
+    "number": 4,
+    "title": "视频里看见脸、电话里听见声音都不算核实，涉及转账先挂断，用自己通讯录里的旧号码打回去",
+    "fields": {
+      "cost": "不花钱。多打一个电话，多等几分钟。平时少在公开账号上发正脸视频和大段语音。难在对方常常催得很急，你要忍住不当场转账。",
+      "plain": "看见脸、听见声音，都不算核实。只要涉及转账就先挂断，再用自己通讯录里存的旧号码打回去，或者找共同认识的人问一句。对方说「信号不好」「在开会」，不肯当面视频，直接当骗局处理。",
+      "benefit": "公安部网安局给了三条办法。第一条是动作验证：请对方做一个连贯的转头动作，或者用手掌完全遮住脸再快速移开。原文说「目前的 AI 技术在模拟这些复杂的面部遮挡和光影变化时，容易出现卡顿、模糊或扭曲」。第二条是听声音细节：「AI 生成的语音有时会缺乏自然的呼吸停顿、情感起伏，或者带有轻微的机械感、背景杂音异常」。第三条是多渠道核实。原文说这是「最核心的一招」：「挂断后直接拨打对方常用且你熟悉的电话号码（不要回拨可疑来电号码），或者通过你们共同认识的第三人进行侧面核实」。口诀是「视频语音莫轻信，动作验证多核实」。法律上，换脸换声早就被禁止用于诈骗。人脸生成、人脸替换、合成人声、仿声这几类服务，平台必须打上显著标识。任何组织和个人不得恶意删除、篡改、伪造、隐匿这个标识。但守规矩的是平台，骗子不会加，所以「没看到 AI 标识」不能反过来当成对方是真人的证据。公安部刑侦局公布过一起案件。14 人团伙被查获合成动态人脸视频 5 万多条，公民个人信息 50 多万条。警方还扣押了云服务器 60 台（全国，标识义务自 2025 年 9 月 1 日起）",
+      "grade": "B",
+      "sources": "公安部网安局 (2025). 眼见≠为实，警惕 AI 新型诈骗！<http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202509/t20250922_7013008.htm>（福建省公安厅转载）；国家互联网信息办公室、工业和信息化部、公安部 (2022). 互联网信息服务深度合成管理规定（第六、十六、十七条，2023 年 1 月 10 日施行）. <https://www.gov.cn/zhengce/zhengceku/2022-12/12/content_5731431.htm>；国家互联网信息办公室、工业和信息化部、公安部、国家广播电视总局 (2025). 人工智能生成合成内容标识办法（第十条，2025 年 9 月 1 日施行）. <https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm>；公安部刑侦局、央视新闻 (2026). 警方查获 5 万多条合成动态人脸视频 谁在「复制」你的脸？<http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202603/t20260330_7117146.htm>（福建省公安厅转载）",
+      "notes": "回拨要用自己通讯录里存的旧号码。不要回拨来电显示的那个号码，也不要用对方在聊天里发来的新号码。对方以「信号不好」「在开会」为由不肯当面视频、不肯做指定动作的，直接当骗局处理。动作验证法只是辅助，AI 一直在变好，唯一稳的是第三条核实。已经转了钱，见本节第 2 条（立刻打 110 要求止付）。防止自己的人脸和声音被采集见第 14 节。定 B 级是因为官方给的是识别办法和案例，没有「按这个方法核实后被骗率下降多少」的数字。公安部官网（mps.gov.cn）这次仍然全站 521 打不开。公安部网安局和刑侦局的原文取自福建省公安厅的转载页。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thấy mặt trong video, nghe giọng qua điện thoại chưa phải đã xác minh; có yêu cầu chuyển tiền thì cúp máy trước rồi gọi lại số cũ trong danh bạ của mình",
+    "cost": "Không mất tiền. Gọi thêm một cuộc, chờ thêm vài phút. Bình thường hạn chế đăng video rõ mặt và đoạn ghi âm dài trên tài khoản công khai. Khó ở chỗ đối phương thường thúc giục rất gấp; bạn phải kiềm chế, không chuyển tiền ngay.",
+    "plain": "Thấy mặt, nghe giọng đều chưa phải đã xác minh. Hễ liên quan đến chuyển tiền, hãy cúp máy trước rồi gọi lại số cũ lưu trong danh bạ của mình, hoặc hỏi người quen chung. Nếu đối phương viện cớ ‘sóng yếu’, ‘đang họp’ và không chịu gọi video trực tiếp, hãy coi ngay là lừa đảo.",
+    "benefit": "Cục An ninh mạng Bộ Công an đưa ra ba cách. Thứ nhất là kiểm tra bằng động tác: yêu cầu đối phương quay đầu liên tục hoặc dùng lòng bàn tay che kín mặt rồi nhanh chóng đưa tay ra. Nguyên văn nói ‘Công nghệ AI hiện nay dễ bị giật, mờ hoặc méo khi mô phỏng những thay đổi phức tạp về che khuất khuôn mặt và ánh sáng này’. Thứ hai là nghe chi tiết trong giọng nói: ‘Giọng do AI tạo ra đôi khi thiếu khoảng nghỉ lấy hơi tự nhiên, biến đổi cảm xúc, hoặc có chút cảm giác máy móc, tiếng nền bất thường’. Thứ ba là kiểm tra qua nhiều kênh. Nguyên văn gọi đây là ‘cách cốt lõi nhất’: ‘Cúp máy rồi gọi thẳng số điện thoại đối phương thường dùng mà bạn biết rõ (không gọi lại số của cuộc gọi đáng ngờ), hoặc kiểm tra gián tiếp qua người thứ ba mà cả hai cùng quen’. Khẩu quyết là ‘Đừng dễ tin video và giọng nói, dùng động tác và nhiều cách để xác minh’. Về pháp luật, dùng thay mặt, thay giọng để lừa đảo đã bị cấm từ lâu. Với các dịch vụ tạo khuôn mặt, thay khuôn mặt, tổng hợp giọng nói và mô phỏng giọng, nền tảng phải gắn nhãn nổi bật. Mọi tổ chức, cá nhân đều không được cố ý xóa, sửa, làm giả hoặc che giấu nhãn này với mục đích xấu. Nhưng nền tảng mới tuân thủ quy định, còn kẻ lừa đảo không gắn nhãn, nên không thể ngược lại coi ‘không thấy nhãn AI’ là bằng chứng đối phương là người thật. Cục Điều tra hình sự Bộ Công an từng công bố một vụ án. Một nhóm 14 người bị phát hiện có hơn 5 vạn video khuôn mặt chuyển động được tổng hợp và hơn 50 vạn bản thông tin cá nhân của công dân. Cảnh sát còn thu giữ 60 máy chủ đám mây (toàn Trung Quốc; nghĩa vụ gắn nhãn áp dụng từ ngày 1 tháng 9 năm 2025).",
+    "notes": "Gọi lại phải dùng số cũ lưu trong danh bạ của mình. Không gọi lại số hiển thị trên cuộc gọi đến, cũng không dùng số mới đối phương gửi qua trò chuyện. Nếu đối phương viện cớ ‘sóng yếu’, ‘đang họp’ để không gọi video trực tiếp hoặc không thực hiện động tác được yêu cầu, hãy coi ngay là lừa đảo. Kiểm tra bằng động tác chỉ là hỗ trợ. AI liên tục tiến bộ, cách chắc chắn duy nhất là cách xác minh thứ ba. Nếu đã chuyển tiền, xem mục 2 chương này (lập tức gọi 110 yêu cầu chặn thanh toán). Ngăn việc thu thập khuôn mặt và giọng nói của mình xem chương 14. Xếp mức B vì cơ quan chính thức chỉ đưa ra cách nhận diện và vụ việc, không có số liệu ‘xác minh theo cách này giảm tỷ lệ bị lừa bao nhiêu’. Lần này toàn bộ website Bộ Công an (mps.gov.cn) vẫn báo lỗi 521, không mở được. Nội dung gốc của Cục An ninh mạng và Cục Điều tra hình sự Bộ Công an lấy từ trang đăng lại của Công an tỉnh Phúc Kiến.",
+    "extra": ""
+  }
+}

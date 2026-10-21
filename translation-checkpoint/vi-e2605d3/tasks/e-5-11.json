@@ -1,0 +1,35 @@
+{
+  "id": "e-5-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "00cfcde887db8e7cc69db86faa579995a16484fdb34035f91e5d4228bb4207a3",
+  "original": {
+    "number": 11,
+    "title": "拒绝电子产品的延长保修（延保）",
+    "fields": {
+      "cost": "不花钱。代价是保修期过了以后，万一要修，得自己掏钱，不过这种事概率不大。",
+      "plain": "延保一般卖到原价的 10% 到 50%，卖延保的赚头是普通商品的十几倍，这差价就是你多付的钱。洗衣机的电机、冰箱的压缩机这类主要部件，国家本来就规定保修 3 年。碰上很便宜的延保，拿延保价除以修一次的钱，得数就是这几年里至少坏一次的可能要多大才回本。",
+      "benefit": "延保的定价通常是商品原价的 10% 到 50%。研究里引用的行业估计说，延保的平均毛利率是 50% 到 60%：卖出去 100 元，有 50 到 60 元是赚的。这大约是普通商品毛利率的 18 倍。2003 年，延保只占百思买营收的 3% 到 4%，却贡献了超过 50% 的利润（美国，2000 年代零售数据）。碰上价格远低于这个区间的延保，可以自己算一笔：延保价 ÷ 修一次要花的钱 = 回本需要的故障概率。你估计延保那几年里至少坏一次的可能比这个数大，才值得买。比如 25 元的延保，假设修一次 300 元，至少坏一次的可能要超过约 8% 才回本。这里的 300 元只是举例，不是统计数字。算之前先扣掉国家规定已经保了的部分。国家规定的三包期从开发票那天算：洗衣机和电冰箱整机 1 年，主要部件 3 年。洗衣机的主要部件是电机、定时器、程控器和电容器，电冰箱是压缩机、温控器等。延保和三包重叠的那段，等于花钱买了本来就有的东西（全国，1995 年起）",
+      "grade": "B",
+      "sources": "Chen T, Kalra A, Sun B (2009). Why Do Consumers Buy Extended Service Contracts? Journal of Consumer Research 36(4):611-623. <https://doi.org/10.1086/605298>；国家经贸委等 (1995). 部分商品修理更换退货责任规定（国经贸〔1995〕458 号，第八条三包有效期自开具发票之日起计算；附件《实施三包的部分商品目录（第一批）》洗衣机、家用电冰箱整机 1 年、主要部件 3 年）. 国家市场监督管理总局行政规范性文件. <https://www.samr.gov.cn/zw/zfxxgk/zc/xzgfxwj/art/2019/art_f943e66de125437d92df701e1654c47c.html>",
+      "notes": "毛利率那个数字是论文引用别人的行业估算（Business Week 2004），不是论文自己测出来的。上面的算法适用于自己掏得起一次维修费的普通人。靠一台设备吃饭、又没有备用机的人，要另外算。手机碎屏险这一类也要单独算：先估自己多久摔一次，再看保费划不划算。很便宜的延保买了也亏不了几十元。买之前先看清从哪天开始算：从买的那天算的，头几年和三包重叠。再看是商家、品牌还是第三方公司在保，上门费和换件费另不另收。说明书和保修卡也翻一下，品牌自己承诺的保修期可能比三包长。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Từ chối bảo hành mở rộng cho thiết bị điện tử",
+    "cost": "Không tốn tiền. Đổi lại, sau khi hết bảo hành, nếu cần sửa thì phải tự trả, nhưng khả năng này không lớn.",
+    "plain": "Bảo hành mở rộng thường có giá bằng 10% đến 50% giá gốc; lợi nhuận của bên bán bảo hành cao gấp mười mấy lần hàng thông thường, phần chênh đó chính là tiền bạn trả thêm. Các bộ phận chính như động cơ máy giặt, máy nén tủ lạnh vốn đã được nhà nước quy định bảo hành 3 năm. Gặp gói bảo hành mở rộng rất rẻ, lấy giá gói chia chi phí một lần sửa; kết quả cho biết xác suất hỏng ít nhất một lần trong những năm đó phải lớn đến đâu mới hòa vốn.",
+    "benefit": "Bảo hành mở rộng thường được định giá bằng 10% đến 50% giá gốc sản phẩm. Ước tính ngành được nghiên cứu dẫn lại cho biết biên lợi nhuận gộp trung bình của bảo hành mở rộng là 50% đến 60%: bán được 100 nhân dân tệ thì 50 đến 60 nhân dân tệ là lãi gộp. Con số này khoảng 18 lần biên lợi nhuận gộp hàng thông thường. Năm 2003, bảo hành mở rộng chỉ chiếm 3% đến 4% doanh thu Best Buy nhưng đóng góp hơn 50% lợi nhuận (Mỹ, dữ liệu bán lẻ thập niên 2000). Nếu gặp gói giá thấp hơn nhiều khoảng này, có thể tự tính: giá bảo hành mở rộng ÷ chi phí một lần sửa = xác suất hỏng cần để hòa vốn. Chỉ đáng mua nếu bạn ước tính xác suất hỏng ít nhất một lần trong thời hạn bảo hành lớn hơn số này. Ví dụ, gói 25 nhân dân tệ, giả sử một lần sửa 300 nhân dân tệ, thì xác suất hỏng ít nhất một lần phải vượt khoảng 8% mới hòa vốn. 300 nhân dân tệ ở đây chỉ là ví dụ, không phải số liệu thống kê. Trước khi tính, loại phần đã được bảo đảm theo quy định nhà nước. Thời hạn “ba bảo đảm” do nhà nước quy định tính từ ngày xuất hóa đơn: máy giặt và tủ lạnh bảo hành toàn bộ máy 1 năm, bộ phận chính 3 năm. Bộ phận chính của máy giặt gồm động cơ, bộ hẹn giờ, bộ điều khiển chương trình, tụ điện; của tủ lạnh gồm máy nén, bộ điều nhiệt và các bộ phận tương tự. Phần thời gian bảo hành mở rộng trùng với chế độ ba bảo đảm tương đương trả tiền mua thứ vốn đã có (toàn Trung Quốc, từ năm 1995).",
+    "notes": "Số liệu biên lợi nhuận gộp là ước tính ngành của người khác được bài nghiên cứu trích dẫn (Business Week 2004), không phải do bài đó tự đo. Cách tính trên áp dụng cho người bình thường có khả năng tự trả một lần sửa. Người kiếm sống nhờ một thiết bị và không có máy dự phòng cần tính riêng. Bảo hiểm vỡ màn hình điện thoại cũng cần tính riêng: trước tiên ước lượng bao lâu mình làm rơi một lần, rồi xem phí bảo hiểm có đáng không. Gói bảo hành mở rộng rất rẻ thì mua cũng không lỗ quá vài chục nhân dân tệ. Trước khi mua, xem bắt đầu tính từ ngày nào: nếu từ ngày mua, những năm đầu trùng với chế độ ba bảo đảm. Xem thêm bên bảo hành là cửa hàng, thương hiệu hay công ty thứ ba, phí đến nhà và thay linh kiện có thu riêng không. Cũng đọc hướng dẫn và phiếu bảo hành; thương hiệu có thể cam kết thời hạn dài hơn chế độ ba bảo đảm.",
+    "extra": ""
+  }
+}

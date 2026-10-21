@@ -1,0 +1,15 @@
+{
+  "id": "intro-13",
+  "source_sha256": "1a9f0996479ec0a96de47ecba31a82772bb5e228405fe215854eb8ef01e18c94",
+  "draft_sha256": "2a7213c28a52d57b6dbd9f93dd2589701082eba8335a89d69b26e5313819baba",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison preserves beneficiary framing, distinct benefit categories, all emergency thematic groups and entry links, and revised normal-breathing reference. Source 79.2% shorthand broader than registry scope retained."
+}

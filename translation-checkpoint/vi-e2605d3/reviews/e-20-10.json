@@ -1,0 +1,15 @@
+{
+  "id": "e-20-10",
+  "source_sha256": "bb61f1b043373c89251488d62ce5efa182aaa886cb1866849b6145c6cc05ffe2",
+  "draft_sha256": "31c1ddbe6f6f0d21a2c0cf510690271f99f118f6af0c9d872b22b5c907338c82",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves investigation uncertainty as of 2026-09-30, no invented conclusion, author-experience purchasing advice and NHS source status. No brand recommendation added."
+}

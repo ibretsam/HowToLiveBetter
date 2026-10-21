@@ -1,0 +1,35 @@
+{
+  "id": "e-29-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "a6ffc08facdafb38441e048d369e136ef8d702d2f7ca722a71d3d72467173bf9",
+  "original": {
+    "number": 1,
+    "title": "亲人刚走的那几天别一个人待着，有心脏病、高血压、糖尿病的照常吃药，胸口压着疼就叫 120",
+    "fields": {
+      "cost": "不花钱。这几天别一个人待着，药照常吃。",
+      "plain": "亲人去世后头一天，心梗发作的概率是平时的 21.1 倍，之后一天比一天低。60 到 89 岁的人在伴侣去世后 30 天内，心梗或中风的比例大约翻倍，一个月后回落。本来就有心血管病的人，这几天别停药。胸口压着疼、喘不上气、一侧手脚没力，立刻打 120。",
+      "benefit": "1985 名急性心梗患者，拿同一个人发病前后的不同时间段自己跟自己比。其中 270 人（13.6%）在发病前 6 个月内失去过重要的人，19 人是在心梗前 1 天内失去的。重要的人去世后 24 小时内，急性心梗发作率升高 21.1 倍（95% CI 13.1–34.1，真实倍数大致在 13 到 34 之间）。此后逐日下降。换成实际人数：十年心梗风险 5% 的人里，每 1394 个刚失去亲人的多出 1 例。风险 20% 的人里，每 320 个多出 1 例。英国另一项研究，比了 30447 名 60 至 89 岁丧偶者和 83588 名条件相当的对照。丧偶后 30 天内发生心梗或中风的，丧偶的一边 50 人（0.16%）。对照的一边 67 人（0.08%）。IRR 2.20（1.52–3.15），即出事的概率约为对照的 2.2 倍。其中心梗 2.14（1.20–3.81），约 2.1 倍。中风 2.40（1.22–4.71），约 2.4 倍。30 天以后减弱。90 天内还看了两类病。一类是非心梗急性冠脉综合征（心脏供血急性出问题、但还够不上心梗的那类），IRR 2.20（1.12–4.29）。一类是肺栓塞（血块堵在肺的血管里），IRR 2.37（1.18–4.75）。怎么认这几种病，英国国家医疗服务体系（NHS）列了要马上打急救电话的信号。心梗是胸口像被压住、挤住一样疼，疼可能窜到胳膊、脖子、下巴，还有喘不上气。中风是一侧脸往下耷拉，一条胳膊或一侧身体没劲、发麻，说话含糊",
+      "grade": "A",
+      "sources": "Mostofsky E, et al. (2012). Risk of acute myocardial infarction after the death of a significant person in one's life: the Determinants of Myocardial Infarction Onset Study. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.111.061770>；Carey IM, et al. (2014). Increased risk of acute cardiovascular events after partner bereavement: a matched cohort study. JAMA Internal Medicine. <https://doi.org/10.1001/jamainternmed.2013.14558>；NHS. Heart attack: symptoms. <https://www.nhs.uk/conditions/heart-attack/symptoms/>；NHS. Symptoms of a stroke. <https://www.nhs.uk/conditions/stroke/symptoms/>",
+      "notes": "药盒交给别人管，别靠自己记。这几天别开长途。别靠喝酒扛过去，酒的账见第 2 节。心梗、中风怎么认、怎么叫车见第 13 节。两项都是回头翻人群数据的研究，分不清里面有多少人本来就要发病。但两项指的方向和时间段一致。没有人可以把药盒交出去、这几天注定一个人在屋里的，见本节第 6 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Những ngày đầu sau khi người thân qua đời, đừng ở một mình; nếu có bệnh tim, tăng huyết áp hoặc đái tháo đường thì vẫn uống thuốc như thường, đau ngực như bị đè ép thì gọi 120",
+    "cost": "Không tốn tiền. Những ngày này đừng ở một mình, vẫn uống thuốc như thường.",
+    "plain": "Trong ngày đầu sau khi người thân qua đời, xác suất lên cơn nhồi máu cơ tim gấp 21.1 lần bình thường, rồi giảm dần từng ngày. Ở người từ 60 đến 89 tuổi, tỷ lệ nhồi máu cơ tim hoặc đột quỵ trong 30 ngày sau khi bạn đời qua đời tăng khoảng gấp đôi, rồi giảm trở lại sau một tháng. Người vốn có bệnh tim mạch đừng ngừng thuốc trong những ngày này. Đau ngực như bị đè ép, khó thở hoặc yếu tay chân một bên thì gọi ngay 120.",
+    "benefit": "Nghiên cứu trên 1985 bệnh nhân nhồi máu cơ tim cấp, so sánh các khoảng thời gian khác nhau trước và sau khi phát bệnh của chính từng người. Trong đó, 270 người (13.6%) mất một người quan trọng trong 6 tháng trước khi phát bệnh, 19 người mất người đó trong 1 ngày trước cơn nhồi máu cơ tim. Trong 24 giờ sau khi người quan trọng qua đời, tỷ lệ nhồi máu cơ tim cấp tăng 21.1 lần (95% CI 13.1–34.1, tức số lần thực tế vào khoảng từ 13 đến 34). Sau đó giảm dần từng ngày. Quy ra số người thực tế: trong nhóm có nguy cơ nhồi máu cơ tim trong mười năm là 5%, cứ 1394 người vừa mất người thân có thêm 1 ca. Trong nhóm có nguy cơ 20%, cứ 320 người có thêm 1 ca. Một nghiên cứu khác tại Anh so sánh 30447 người từ 60 đến 89 tuổi vừa mất vợ hoặc chồng với 83588 người đối chứng có điều kiện tương đương. Trong 30 ngày sau khi mất bạn đời, phía mất bạn đời có 50 người (0.16%) bị nhồi máu cơ tim hoặc đột quỵ; phía đối chứng có 67 người (0.08%). IRR 2.20 (1.52–3.15), tức xác suất xảy ra biến cố khoảng gấp 2.2 lần nhóm đối chứng. Riêng nhồi máu cơ tim là 2.14 (1.20–3.81), khoảng gấp 2.1 lần; đột quỵ là 2.40 (1.22–4.71), khoảng gấp 2.4 lần. Sau 30 ngày, mức tăng giảm đi. Trong 90 ngày còn xem xét hai loại bệnh. Một loại là hội chứng vành cấp không phải nhồi máu cơ tim (tình trạng cấp tính về cấp máu cho tim nhưng chưa đủ tiêu chuẩn nhồi máu cơ tim), IRR 2.20 (1.12–4.29). Loại còn lại là thuyên tắc phổi (cục máu đông làm tắc mạch máu ở phổi), IRR 2.37 (1.18–4.75). Để nhận biết những bệnh này, Dịch vụ Y tế Quốc gia Anh (NHS) liệt kê các dấu hiệu cần gọi cấp cứu ngay. Với nhồi máu cơ tim: đau ngực như bị đè hoặc bóp chặt, đau có thể lan ra cánh tay, cổ, hàm, kèm khó thở. Với đột quỵ: một bên mặt xệ xuống, một cánh tay hoặc một bên cơ thể yếu, tê, nói không rõ lời.",
+    "notes": "Giao hộp thuốc cho người khác quản lý, đừng dựa vào trí nhớ của mình. Những ngày này đừng lái xe đường dài. Đừng dùng rượu để chịu đựng cho qua; tác hại của rượu xem chương 2. Cách nhận biết nhồi máu cơ tim, đột quỵ và gọi xe cấp cứu xem chương 13. Cả hai nghiên cứu đều nhìn lại dữ liệu dân số, không tách được bao nhiêu người trong đó vốn đã sắp phát bệnh. Nhưng hai nghiên cứu cho thấy cùng một hướng và cùng khoảng thời gian. Nếu không có ai để giao hộp thuốc và những ngày này chắc chắn phải ở nhà một mình, xem mục 6 của chương này.",
+    "extra": ""
+  }
+}

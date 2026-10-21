@@ -1,0 +1,35 @@
+{
+  "id": "e-21-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "0d3cd5e8f09733de4037d9ac4bc580450542f0140087bfb3c08c0e5bf6e67837",
+  "original": {
+    "number": 12,
+    "title": "出国带药先查目的地规定：含伪麻黄碱、可待因的感冒药和止咳药，安眠药、精神类药和强效止痛药，带原包装、处方或医生证明，只带自用量",
+    "fields": {
+      "cost": "不花钱。出发前查一次目的地官网，几分钟。要带管制药的，还得多跑一趟医院开证明，并提前两周左右申请。",
+      "plain": "伪麻黄碱超过 10%、可待因超过 1% 的感冒药和止咳药，在日本按兴奋剂原料或麻醉药品管，要提前申请许可。安眠药带超过一个月的量，日本也要事先办证，新加坡带管制成分的药要提前申请。带原包装和医生证明、只带自用量，才能避开药被没收、罚款甚至判刑。",
+      "benefit": "日本把药按成分分几类管。含伪麻黄碱超过 10% 的药，算「兴奋剂原料」。含可待因超过 1% 的，算麻醉药品。这两类要在入境前向厚生劳动省的麻药取缔部申请许可，至少提前 14 天。药必须本人随身带，不能邮寄，也不能让家人代带。地西泮、三唑仑这类精神类药，带一个月用量以内不用申请。普通药也有限量：处方药一个月用量以内，其他药两个月用量以内。超出就要先办「输入确认证」。中国驻日本大使馆的提醒原文是：违法违规携带药品等入境日本，「违者将被罚款、拘留甚至判刑，违禁品将被没收」。新加坡卫生科学局（HSA）的规定是：不含管制成分的药，最多带 3 个月用量。要随身带处方或医生信的复印件。药要放在原包装里，贴着药房的标签。含管制成分的药，至少提前 2 周申请批准。超过 3 个月用量的一律不许带入，口香糖形式的药也不行。替别人带药，只限直系亲属自己的处方药。不合规的药会被没收，还可能被执法。中国这头，海关法要求个人携带进出境的物品「以自用、合理数量为限」。麻醉药品和第一类精神药品，凭医院的诊断书和身份证明，可以带单张处方最大用量以内。海关按自用、合理的原则放行",
+      "grade": "A",
+      "sources": "日本厚生劳动省麻药取缔部. Application Guidance（携带含管制成分的药品出入境）：「When you enter/leave Japan carrying your medicine containing controlled substances in Japan for your own medical use, you need to get a permission in advance.」「You should apply at least 14 days prior to your travel.」「you can't send your medicine to/from Japan and you can't also entrust carrying it to other people, such as your family.」. <https://www.ncd.mhlw.go.jp/en/application2.html>；日本厚生劳动省麻药取缔部 (2024). Controlled Substances List（2024 年 12 月 12 日版）：「Ephedrine, Pseudoephedrine (*Any substances containing 10% or less of ephedrine or pseudoephedrine are excluded.)」「Codeine … (*Any substances containing 1% or less of codeine or its salt are excluded.)」. <https://www.ncd.mhlw.go.jp/dl_data/keitai/cotrolled_substances_list20241212%20.pdf>；日本厚生劳动省. Information for those who are bringing medicines for personal use into Japan：「Poison, Deadly poison, Prescription drug : Up to 1 month supply」「Other Drugs, Quasi drugs : Up to 2 month supply」. <https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1_00001.html>；日本厚生劳动省. 医薬品等の個人輸入について：「医療用向精神薬(ジアゼパム、トリアゾラム等)の携帯輸入: 1ヶ月分を超える分量又は注射剤を携帯輸入する場合は、事前に輸入確認証を取得する必要があります」. <https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1.html>；中国驻日本大使馆 (2018). 来日本旅行请勿携带违禁品. <https://jp.china-embassy.gov.cn/jbwzlmnew/lszcnew/LSBHYXZ/LSBHLBZN/201811/t20181113_9475556.htm>；Health Sciences Authority, Singapore. Bringing in personal medications：「You may bring up to 3 months' supply if no approval is needed and the medication is not prohibited.」「Please note that imports of quantities exceeding 3 months' supply are not allowed.」「Failure to comply will result in your medication being confiscated or enforcement action may be taken.」. <https://www.hsa.gov.sg/travelling-with-medication-and-medical-devices/personal-medications/>；全国人大常委会 (2021 年修正). 海关法（第四十六条）. <https://flk.npc.gov.cn/detail?id=ff8081817ab22b8a017abd719e0f05c0>；国务院 (2024 年第三次修订). 麻醉药品和精神药品管理条例（第四十四条）. <https://flk.npc.gov.cn/detail?id=ff8081819c230ff2019c2d0fcaed641d>",
+      "notes": "规定会变，各国也不一样，本书只写查法。出发前看目的地卫生部门或海关的官网，或者中国驻当地使馆的领事提醒。上面日本、新加坡的规定，按 2026 年 10 月 14 日的官网核对。药里有没有这些成分，看说明书上的成分表，拿不准就问开药的医生。带药的最好是吃药的人自己，新加坡只许替直系亲属带他们自己的处方药。这和第 8 节第 29 条（不帮陌生人带东西）是一个道理。处方和药盒拍照存一份，存法见本节第 7 条（拍照存一份在云端）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mang thuốc ra nước ngoài phải kiểm tra quy định điểm đến trước: thuốc cảm, thuốc ho chứa pseudoephedrine hoặc codeine, thuốc ngủ, thuốc hướng thần và thuốc giảm đau mạnh cần giữ bao bì gốc, đơn thuốc hoặc giấy bác sĩ, chỉ mang lượng tự dùng",
+    "cost": "Không tốn tiền. Trước chuyến đi, dành vài phút xem trang chính thức của điểm đến. Mang thuốc bị kiểm soát thì cần đến bệnh viện thêm một lần xin giấy và nộp hồ sơ trước khoảng hai tuần.",
+    "plain": "Thuốc cảm, thuốc ho chứa pseudoephedrine quá 10% hoặc codeine quá 1% ở Nhật được quản lý như nguyên liệu chất kích thích hoặc thuốc gây nghiện, phải xin phép trước. Mang thuốc ngủ quá lượng một tháng cũng cần xin giấy trước tại Nhật; Singapore yêu cầu xin phép trước khi mang thuốc chứa thành phần bị kiểm soát. Giữ bao bì gốc, giấy bác sĩ và chỉ mang lượng tự dùng mới tránh được tịch thu thuốc, phạt tiền hoặc thậm chí kết án.",
+    "benefit": "Nhật quản lý thuốc theo nhóm thành phần. Thuốc chứa pseudoephedrine quá 10% được coi là “nguyên liệu chất kích thích”, chứa codeine quá 1% được coi là thuốc gây nghiện. Hai nhóm này phải xin phép Cục Kiểm soát Ma túy thuộc Bộ Y tế, Lao động và Phúc lợi trước nhập cảnh ít nhất 14 ngày. Người dùng phải tự mang thuốc theo, không gửi bưu điện hay nhờ gia đình mang hộ. Thuốc hướng thần như diazepam, triazolam trong lượng dùng một tháng không cần xin phép. Thuốc thông thường cũng có giới hạn: thuốc kê đơn không quá lượng một tháng, thuốc khác không quá hai tháng. Vượt thì phải xin “giấy xác nhận nhập khẩu” trước. Cảnh báo của Đại sứ quán Trung Quốc tại Nhật ghi: mang thuốc và các vật phẩm khác trái pháp luật, quy định vào Nhật thì “người vi phạm sẽ bị phạt tiền, tạm giữ hoặc thậm chí kết án; vật cấm sẽ bị tịch thu”. Cơ quan Khoa học Y tế Singapore (HSA) quy định thuốc không có thành phần bị kiểm soát được mang tối đa lượng dùng 3 tháng. Phải mang bản sao đơn thuốc hoặc thư bác sĩ. Thuốc phải ở bao bì gốc, có nhãn nhà thuốc. Thuốc chứa thành phần bị kiểm soát phải xin phê duyệt trước ít nhất 2 tuần. Không được mang vào lượng quá 3 tháng trong mọi trường hợp; thuốc dạng kẹo cao su cũng không được. Mang thuốc hộ người khác chỉ giới hạn ở thuốc kê đơn riêng của người thân trực hệ. Thuốc không phù hợp quy định sẽ bị tịch thu, còn có thể bị xử lý theo pháp luật. Về phía Trung Quốc, Luật Hải quan yêu cầu vật phẩm cá nhân mang xuất nhập cảnh “giới hạn ở tự dùng và số lượng hợp lý”. Với thuốc gây nghiện và thuốc hướng thần nhóm một, có giấy chẩn đoán của bệnh viện cùng giấy tờ định danh thì được mang không quá lượng tối đa của một đơn thuốc. Hải quan cho qua theo nguyên tắc tự dùng, hợp lý.",
+    "notes": "Quy định thay đổi và mỗi nước khác nhau, sách chỉ nêu cách tra cứu. Trước khi đi, xem trang chính thức của cơ quan y tế hoặc hải quan điểm đến, hoặc cảnh báo lãnh sự của đại sứ quán Trung Quốc tại đó. Quy định Nhật và Singapore ở trên được đối chiếu theo trang chính thức ngày 14 tháng 10 năm 2026. Muốn biết thuốc có các thành phần đó không, xem bảng thành phần trong tờ hướng dẫn; không chắc thì hỏi bác sĩ kê thuốc. Tốt nhất người dùng thuốc tự mang; Singapore chỉ cho mang hộ thuốc kê đơn riêng của người thân trực hệ. Cùng nguyên tắc với chương 8 mục 29 (không mang đồ hộ người lạ). Chụp đơn thuốc và hộp thuốc lưu một bản, cách lưu xem mục 7 chương này (chụp và lưu một bản trên đám mây).",
+    "extra": ""
+  }
+}

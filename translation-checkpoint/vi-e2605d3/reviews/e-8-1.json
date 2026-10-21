@@ -1,0 +1,15 @@
+{
+  "id": "e-8-1",
+  "source_sha256": "ac860aaf138f42babc4df6248628e6a99c294fd58df6e594b54f3053d929de8c",
+  "draft_sha256": "ce7f82d76b150eaef3c85631cf851b8ff1f5061e148c2e762f09a478472510a4",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Bounded correction in benefit:不得再申请驾驶证 is lifetime prohibition on applying for a driving licence, not only retaking an exam. Plain source itself says no retaking and remains faithfully phrased. Preserved criminality condition,3–7/7+years, comparative-fault relief and actual-policy-versus-model-terms caveat. Source blanket licence-revocation and1–2hour claims retained without independent legal endorsement."
+}

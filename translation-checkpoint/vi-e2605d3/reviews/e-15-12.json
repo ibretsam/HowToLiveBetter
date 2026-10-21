@@ -1,0 +1,15 @@
+{
+  "id": "e-15-12",
+  "source_sha256": "1f4fc829fc6372e169ab031b311a6656490cb9ff49abb6b6e76ffb2e587b55a4",
+  "draft_sha256": "23772049f04587ac9fe26d103f73030ee242119a0f821363c6fa3e88b1c90dac",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves inclusive 3% boundary, 30-day refund, excess-area ownership/refund rules, contract override and geographic limits of advertising promises. Translation review does not independently verify current law or source advice."
+}

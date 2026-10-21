@@ -1,0 +1,35 @@
+{
+  "id": "e-13-22",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "86f2dd1f0b63fe018a9f19a514c5754b55560848101089546f353934af0d819c",
+  "original": {
+    "number": 22,
+    "title": "高温下头晕、恶心、不出汗或意识不清，立刻挪到阴凉处脱衣泼水降温，意识不清的不喂水、打 120",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "皮肤烫红、说话含糊、意识混乱是热射病。体温能在 10 到 15 分钟里升到 41 ℃以上，重症的病死率极高。立刻挪到阴凉通风处、脱掉衣服、用凉水和湿毛巾降温，同时打 120。意识不清的一口水都不要喂。",
+      "benefit": "美国国家气象局：热射病是「严重的医疗急症」。它的表现是体温高于 103°F（39.4°C）、意识混乱、说话含糊、皮肤发烫发红。处理是立刻叫急救、移到凉处、用凉水和湿布降温、「不要给液体」。热衰竭的表现是大汗、乏力、皮肤湿冷、脉快而弱，处理是移到凉处、松开衣服、小口喝水。呕吐、恶化或者超过 1 小时不缓解就就医。云南省疾控局提示：立即转移到阴凉通风处，用冷湿毛巾降温，意识清醒的补含盐饮料，症状严重的立即拨打急救电话。它还说重症热射病「病死率极高」。中国疾控中心提示：先降温，后转运，在病人失去意识后的「黄金半小时」内降温。有条件的，无基础疾病的青壮年可以用冷水浸泡快速降温，老人和有基础病的往皮肤上喷水、靠蒸发降温。荒野医学会 2024 年更新的热病指南说，冷水浸泡是治重症中暑最重要的办法，降温最快。没有冰水就用手边最凉的水，泡不了就喷水加扇风，速度大约是浸泡的一半。美国职业安全卫生研究所（NIOSH）说，热射病发作时体温能在 10 到 15 分钟内升到 106°F（约 41 ℃）以上。它列的症状里有「皮肤又热又干，或者大量出汗」。中国疾控 2014 年版中暑指南列的热射病表现有「皮肤红、热、且干燥无汗」，处理要求「不要给病人喝水」，病人呕吐就翻成侧躺，保持呼吸道通畅",
+      "grade": "B",
+      "sources": "US National Weather Service. Heat Related Illnesses. <https://www.weather.gov/safety/heat-illness> ; 云南省疾控局 (2026). 出现这些症状，你可能是中暑了. <https://ynsjkj.yn.gov.cn/html/2026/jikongkepu_0719/2606.html> ; 中国疾病预防控制中心. 高温天气，中国疾控中心提醒您谨防中暑：「如有条件可用冷水浸泡的方法对无基础疾病的青壮年快速降温。老人和有基础疾病的患者可向皮肤喷水通过蒸发降温。降温应遵循\"先降温，后转运\" 的原则」. <https://www.chinacdc.cn/jkkp/ggws/hjyssj/202409/t20240906_296985.html> ; 国家卫生健康委 (2010). 高温中暑预防知识要点. <https://www.nhc.gov.cn/wjw/jbyfykz/201007/1edb19b7dd4e4bdf8da5ea45f4a64e23.shtml> ; Eifling KP 等 (2024). Wilderness Medical Society Clinical Practice Guidelines for the Prevention and Treatment of Heat Illness: 2024 Update. Wilderness & Environmental Medicine 35(1_suppl):112S-127S. <https://doi.org/10.1177/10806032241227924>（正文站点拒绝自动抓取，具体推荐按荒野医学会官网的更新摘要核对：「cold water immersion … is the most important method of treating severe heat illness」「If CWI is unavailable, evaporative cooling is the recommended second-line treatment. … generally half as fast as CWI」<https://wms.org/magazine/magazine/1540/Heat-Illness-CPG/default.aspx>）；Lipman GS 等 (2019). 同指南 2019 版. <https://doi.org/10.1016/j.wem.2018.10.004>；US CDC/NIOSH. Heat-related Illnesses：「When heat stroke occurs, the body temperature can rise to 106°F or higher within 10 to 15 minutes」「Hot, dry skin or profuse sweating」. <https://www.cdc.gov/niosh/heat-stress/about/illnesses.html>；中国疾病预防控制中心职业卫生与中毒控制所 (2014). 公众高温中暑预防与紧急处理指南（2014 版）. <https://niohp.chinacdc.cn/sndt/201405/t20140530_97623.htm>",
+      "notes": "不要等「缓一缓」，热射病时体温能在十几分钟里升到 41 ℃以上。热射病可能不出汗，也可能满身大汗，NIOSH 两种都列了，别因为还在出汗就放过。不要给意识不清的人灌水，吐了就让他侧躺。冰袋放哪里，两边说法不同。中国疾控说敷在脖子、腋窝和大腿根，荒野医学会说研究看不出敷这几处有降温效果。荒野医学会的建议是，只有冰袋可用时就把全身盖满，冰袋不够再放脸颊、手心和脚底。两边都说有条件就用冷水浸泡。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trong trời nóng bị chóng mặt, buồn nôn, không ra mồ hôi hoặc không tỉnh táo: đưa ngay vào chỗ mát, cởi đồ, dội nước làm mát; không tỉnh táo thì đừng cho nước, gọi 120",
+    "cost": "Không tốn tiền.",
+    "plain": "Da nóng đỏ, nói líu, lú lẫn là sốc nhiệt. Thân nhiệt có thể tăng đến từ 41 ℃ trở lên trong 10 đến 15 phút, ca nặng có tỷ lệ tử vong rất cao. Đưa ngay vào nơi râm mát, thông thoáng, cởi quần áo, dùng nước mát và khăn ướt hạ nhiệt, đồng thời gọi 120. Người không tỉnh táo thì đừng cho uống dù chỉ một ngụm.",
+    "benefit": "Cơ quan Thời tiết Quốc gia Mỹ cho biết sốc nhiệt là “tình trạng cấp cứu y khoa nghiêm trọng”. Biểu hiện là thân nhiệt trên 103°F (39.4°C), lú lẫn, nói líu, da nóng đỏ. Cách xử trí là gọi cấp cứu ngay, chuyển vào chỗ mát, làm mát bằng nước mát và vải ướt, “không cho chất lỏng”. Kiệt sức do nóng biểu hiện bằng vã mồ hôi, yếu sức, da ẩm lạnh, mạch nhanh và yếu; xử trí bằng chuyển vào chỗ mát, nới quần áo, uống từng ngụm nước nhỏ. Nôn, nặng thêm hoặc quá 1 giờ không giảm thì đi khám. Cục Kiểm soát và Phòng ngừa Dịch bệnh tỉnh Vân Nam hướng dẫn: chuyển ngay đến nơi râm mát, thông thoáng, dùng khăn ướt lạnh làm mát; người còn tỉnh thì bổ sung đồ uống có muối, triệu chứng nặng thì gọi cấp cứu ngay. Cơ quan này còn nói sốc nhiệt nặng có “tỷ lệ tử vong rất cao”. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Trung Quốc nhắc làm mát trước, vận chuyển sau, hạ nhiệt trong “nửa giờ vàng” sau khi người bệnh mất ý thức. Nếu có điều kiện, người trẻ và trung niên không có bệnh nền có thể ngâm nước lạnh để làm mát nhanh; người cao tuổi và người có bệnh nền thì phun nước lên da, làm mát nhờ bay hơi. Hướng dẫn bệnh do nóng cập nhật năm 2024 của Hội Y học Hoang dã cho biết ngâm nước lạnh là biện pháp quan trọng nhất để điều trị sốc nhiệt nặng, hạ nhiệt nhanh nhất. Không có nước đá thì dùng nước mát nhất sẵn có; không ngâm được thì phun nước kết hợp quạt, tốc độ khoảng bằng một nửa ngâm nước. Viện An toàn và Sức khỏe nghề nghiệp Mỹ (NIOSH) cho biết khi sốc nhiệt, thân nhiệt có thể tăng đến từ 106°F (khoảng 41 ℃) trở lên trong 10 đến 15 phút. Triệu chứng cơ quan này liệt kê có “da nóng và khô, hoặc ra nhiều mồ hôi”. Hướng dẫn chống nóng năm 2014 của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Trung Quốc liệt kê biểu hiện sốc nhiệt là “da đỏ, nóng, khô, không mồ hôi”, yêu cầu xử trí “không cho người bệnh uống nước”; nếu nôn thì xoay nằm nghiêng, giữ đường thở thông thoáng.",
+    "notes": "Đừng chờ “nghỉ một chút”; sốc nhiệt có thể làm thân nhiệt tăng đến từ 41 ℃ trở lên trong khoảng mười mấy phút. Sốc nhiệt có thể không ra mồ hôi, cũng có thể vã mồ hôi toàn thân; NIOSH liệt kê cả hai, đừng bỏ qua chỉ vì người đó vẫn đổ mồ hôi. Đừng ép người không tỉnh táo uống nước; nôn thì cho nằm nghiêng. Hai bên hướng dẫn khác nhau về vị trí đặt túi đá. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Trung Quốc nói chườm ở cổ, nách và bẹn, còn Hội Y học Hoang dã cho biết nghiên cứu không thấy tác dụng hạ nhiệt khi chườm các vùng này. Hội Y học Hoang dã khuyên nếu chỉ có túi đá thì phủ khắp người; không đủ túi thì mới đặt ở má, lòng bàn tay và lòng bàn chân. Cả hai đều khuyên ngâm nước lạnh nếu có điều kiện.",
+    "extra": ""
+  }
+}

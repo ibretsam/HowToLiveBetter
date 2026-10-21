@@ -1,0 +1,15 @@
+{
+  "id": "e-17-11",
+  "source_sha256": "71e97e43548c4ded938857817d55d5b03092173303d444cb5020740a01315e97",
+  "draft_sha256": "d6e58e61a30358e0a7fc69560196a14a6111b2c83c55ce3ccba9e2db3f531667",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves post-admission 10 working days, 12-month payment/deposit ceilings, dedicated accounts, exemptions, refund timing, provincial restrictions and revised extendable six-month trial deadline."
+}

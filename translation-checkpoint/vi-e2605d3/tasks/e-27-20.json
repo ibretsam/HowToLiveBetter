@@ -1,0 +1,36 @@
+{
+  "id": "e-27-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "112e4e68b0045d8c39acaaefdfbe36212c2dadd5da08206d90eca9a369dfff46",
+  "original": {
+    "number": 20,
+    "title": "生完孩子恢复同房就要避孕，喂奶不等于避孕；想要下一胎，至少隔 18 个月再怀",
+    "fields": {
+      "cost": "避孕套一盒几十元。上环、皮下埋植要去医院，价格各地不一样。难在产后忙乱，顾不上这件事",
+      "plain": "生完孩子 3 周就可能再怀上，喂着奶、没来月经也一样。只有纯母乳、没来月经、孩子不满 6 个月三样都占，喂奶才挡得住。生完不到半年就又怀上，下一胎早产的风险高约四成。世界卫生组织建议生完至少隔两年再怀。",
+      "benefit": "英国国家医疗服务体系（NHS）说，生完孩子 3 周就可能再怀孕，在喂奶、月经没来的也一样。除非想马上再要，每次同房都要避孕。靠喂奶避孕叫哺乳期闭经避孕法，要同时满足三样：只喂母乳、月经没来、孩子不满 6 个月。照规矩做，能挡住 99% 以上。做不到那么严格的，6 个月内每 100 人约有 2 人怀上。出现下面任何一样，就要换别的办法：孩子过了 6 个月，开始加奶粉辅食或用安抚奶嘴，来了月经（少量出血也算），夜里不喂了，喂的次数变少。一篇汇总合并了 67 项研究，扣掉了母亲年龄和家境。以上一胎生下到下次怀上隔 18 到 23 个月为准。不到 6 个月的，早产 OR 1.40（95% CI 1.24–1.58，可信范围），高约四成。孩子出生体重低 1.61（1.39–1.86），孩子比同孕周偏小 1.26（1.18–1.33）。隔 6 到 17 个月、超过 59 个月的，这三样也都偏高。加拿大一项研究看了 14.8 万多次怀孕，拿隔 6 个月的和隔 18 个月的比。35 岁以上的母亲死亡或重病 0.62% 对 0.26%，aRR 2.39（2.03–2.80），约是 2.4 倍。20 到 34 岁的母亲没有差别（0.92，0.83–1.02）。20 到 34 岁的孩子死胎、夭折、极小或极早产合计 2.0% 对 1.4%，aRR 1.42（1.36–1.47）。世界卫生组织 2005 年的专家会议建议，生下孩子以后至少隔 24 个月再试着怀下一胎。与会专家一致同意的是，不到 18 个月就怀上要避开。流产或人工流产之后至少隔 6 个月",
+      "grade": "B",
+      "sources": "NHS. Sex and contraception after birth. <https://www.nhs.uk/baby/support-and-services/sex-and-contraception-after-birth/>；NHS. Natural family planning. <https://www.nhs.uk/contraception/methods-of-contraception/natural-family-planning/>；Conde-Agudelo A, Rosas-Bermúdez A, Kafury-Goeta AC (2006). Birth spacing and risk of adverse perinatal outcomes: a meta-analysis. JAMA, 295(15), 1809. <https://doi.org/10.1001/jama.295.15.1809>；Schummers L, Hutcheon JA, Hernandez-Diaz S, et al. (2018). Association of Short Interpregnancy Interval With Pregnancy Outcomes According to Maternal Age. JAMA Internal Medicine, 178(12), 1661. <https://doi.org/10.1001/jamainternmed.2018.4696>；World Health Organization (2007). Report of a WHO Technical Consultation on Birth Spacing, Geneva, 13–15 June 2005（WHO/RHR/07.1）. <https://www.who.int/publications/i/item/WHO-RHR-07.1>；Ball SJ, Pereira G, Jacoby P, de Klerk N, Stanley FJ (2014). Re-evaluation of link between interpregnancy interval and adverse birth outcomes: retrospective cohort study matching two intervals per mother. BMJ, 349, g4333. <https://doi.org/10.1136/bmj.g4333>（备注里的反方研究）",
+      "notes": "争议。隔多久才够，说法不一样。世界卫生组织的专家一派主张 18 个月，一派主张 27 个月，24 个月是两边妥协定的。NHS 说的是至少隔 12 个月。澳大利亚一项研究拿 40441 名母亲自己的两次间隔互相比，结论不一样。隔 0 到 5 个月的早产 OR 1.07（0.86–1.34），出生体重低 1.03（0.79–1.34），都看不出差别。换成不同母亲之间比，早产是 1.41。所以间隔短的风险，可能有一部分来自母亲本身的情况。避孕本身没有争议，争的只是隔多久。按 NHS 的说法，避孕套、皮下埋植生完马上就能用，喂奶的也一样。喂奶的人用复方避孕药，一般要等到产后至少 6 周。用哪种，在产后 42 天复查时和医生谈，见第 16 条（产后 42 天那次复查）。收益定「中」凭判断，理由在核实记录里。好处落在你自己和下一个孩子身上"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Quan hệ trở lại sau sinh thì phải tránh thai, cho bú không đồng nghĩa tránh thai; muốn con tiếp theo thì đợi ít nhất 18 tháng mới mang thai lại",
+    "cost": "Một hộp bao cao su vài chục nhân dân tệ. Đặt vòng hoặc cấy que tránh thai cần đến viện, giá tùy nơi. Điều khó là sau sinh bận rộn nên không để tâm.",
+    "plain": "Sau sinh 3 tuần đã có thể mang thai lại, kể cả đang cho bú và chưa có kinh. Chỉ khi đồng thời cho bú hoàn toàn, chưa có kinh và trẻ chưa đủ 6 tháng thì cho bú mới ngăn được mang thai. Sinh chưa đến nửa năm đã có thai tiếp thì nguy cơ sinh non ở thai sau cao hơn khoảng bốn phần mười. Tổ chức Y tế Thế giới khuyên đợi ít nhất hai năm sau sinh mới có thai lại.",
+    "benefit": "Dịch vụ Y tế Quốc gia Anh (NHS) cho biết sau sinh 3 tuần đã có thể mang thai lại, kể cả đang cho bú và chưa có kinh. Trừ khi muốn có con ngay, mỗi lần quan hệ đều cần tránh thai. Dựa vào cho bú để tránh thai gọi là phương pháp vô kinh khi cho con bú, cần đồng thời ba điều kiện: chỉ cho bú mẹ, chưa có kinh, trẻ chưa đủ 6 tháng. Làm đúng quy tắc ngăn được từ 99% trở lên. Không thực hiện nghiêm ngặt được thì trong 6 tháng khoảng 2 trên 100 người có thai. Có bất kỳ thay đổi nào sau đây phải dùng cách khác: trẻ qua 6 tháng, bắt đầu thêm sữa công thức, ăn dặm hoặc dùng núm vú giả, có kinh lại (ra ít máu cũng tính), ngừng cho bú đêm hoặc giảm số lần bú. Một tổng hợp gộp 67 nghiên cứu, đã hiệu chỉnh tuổi mẹ và điều kiện gia đình. Mốc đối chiếu là từ lần sinh trước đến lần thụ thai tiếp theo cách 18 đến 23 tháng. Dưới 6 tháng thì sinh non OR 1.40 (95% CI 1.24–1.58, khoảng tin cậy), cao hơn khoảng bốn phần mười. Trẻ nhẹ cân lúc sinh 1.61 (1.39–1.86), trẻ nhỏ so với cùng tuần thai 1.26 (1.18–1.33). Cách 6 đến 17 tháng hoặc hơn 59 tháng thì cả ba cũng tăng. Một nghiên cứu Canada xem hơn 14.8 vạn lần mang thai, so sánh khoảng cách 6 tháng với 18 tháng. Mẹ từ 35 tuổi trở lên tử vong hoặc bệnh nặng 0.62% so với 0.26%, aRR 2.39 (2.03–2.80), khoảng 2.4 lần. Mẹ từ 20 đến 34 tuổi không khác biệt (0.92, 0.83–1.02). Ở trẻ của mẹ từ 20 đến 34 tuổi, tổng các kết cục thai chết lưu, tử vong khi còn nhỏ, cực nhỏ hoặc cực non là 2.0% so với 1.4%, aRR 1.42 (1.36–1.47). Hội nghị chuyên gia năm 2005 của Tổ chức Y tế Thế giới khuyên sau sinh đợi ít nhất 24 tháng mới thử mang thai tiếp. Điều các chuyên gia nhất trí là tránh mang thai khi chưa đủ 18 tháng. Sau sẩy thai hoặc phá thai thì cách ít nhất 6 tháng.",
+    "notes": "Có tranh luận. Khoảng cách bao lâu là đủ có nhiều ý kiến. Một nhóm chuyên gia Tổ chức Y tế Thế giới đề nghị 18 tháng, nhóm khác 27 tháng; 24 tháng là mức thỏa hiệp. NHS nói ít nhất 12 tháng. Một nghiên cứu Australia so sánh hai khoảng cách thai kỳ của chính 40441 người mẹ, cho kết luận khác. Cách 0 đến 5 tháng có sinh non OR 1.07 (0.86–1.34), nhẹ cân lúc sinh 1.03 (0.79–1.34), đều không thấy khác biệt. Đổi sang so sánh giữa các bà mẹ khác nhau thì sinh non là 1.41. Vì vậy một phần nguy cơ của khoảng cách ngắn có thể đến từ tình trạng của chính người mẹ. Bản thân tránh thai không có tranh luận, chỉ tranh luận về khoảng cách. Theo NHS, bao cao su và que cấy dưới da có thể dùng ngay sau sinh, người cho bú cũng vậy. Người cho bú dùng thuốc tránh thai phối hợp thường cần đợi ít nhất 6 tuần sau sinh. Chọn cách nào thì trao đổi với bác sĩ ở lần khám ngày 42 sau sinh; xem mục 16 (lần khám ngày 42 sau sinh). Mức lợi ích “vừa” theo nhận định, lý do trong ghi chép kiểm chứng. Lợi ích đến với bạn và đứa con tiếp theo.",
+    "extra": ""
+  }
+}

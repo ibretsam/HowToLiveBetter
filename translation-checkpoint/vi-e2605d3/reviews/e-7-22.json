@@ -1,0 +1,15 @@
+{
+  "id": "e-7-22",
+  "source_sha256": "8883a2f2cc491898d5bfcd5b766a4f68e274be5e06525f7b677cd90346206310",
+  "draft_sha256": "afb14072fb48a0b20a45d2dd66809056cae3064304af8a931ed0f8df7fe453e4",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison; reread complete source after initial output truncation. Preserved unlicensed/revoked/expired business coverage, family/artisan/rural-household exceptions, unit OR investor parties in detailed benefit, joint liability, construction-wage conditions,3year limitation, statutory extendable6month trial, legal aid and no-asset/no-recovery limitation. No translation change. Source compressed plain routing and notes recommendation to list boss alongside entity retained without new legal advice."
+}

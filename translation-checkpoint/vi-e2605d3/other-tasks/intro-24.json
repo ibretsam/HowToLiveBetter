@@ -1,0 +1,15 @@
+{
+  "id": "intro-24",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "6da25ecf5521b4693052567b5252e70a48b3d86b051edaf0f8dbb4c5cb261b12",
+  "original": {
+    "title": "看病：怎么少花钱少走弯路",
+    "intro": "口径：金钱与时间。这一节讲看病本身怎么走：先去哪家医院，怎么往上转，钱能少花在哪。另外讲急诊怎么排队，重伤治完之后要做哪些鉴定、办哪些证。能领什么待遇见第 7 节。慢性病长期怎么管见第 16 节。急症现场先做什么见第 13 节。\n\n本节主要依据国务院办公厅 2026 年 4 月印发的《关于加快建设分级诊疗体系的若干措施》。分级诊疗就是按病情轻重决定先去哪一级医院。这份文件把「去基层」和「省钱」直接挂上了钩。但各地落地进度不同，正文写的是国家层面的规则。具体到你所在的统筹地区，要以当地医保和卫健部门的说法为准。统筹地区就是你的医保参保地，通常是一个市。"
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khám chữa bệnh: bớt tốn tiền, bớt đi đường vòng",
+    "intro": "Thước đo: tiền và thời gian. Phần này nói về cách đi khám chữa bệnh: đến bệnh viện nào trước, chuyển lên tuyến trên ra sao, có thể tiết kiệm tiền ở đâu. Còn có thứ tự khám cấp cứu, những giám định và giấy tờ cần làm sau khi điều trị xong chấn thương nặng. Các chế độ có thể nhận xem phần 7. Quản lý bệnh mạn tính lâu dài xem phần 16. Việc cần làm trước tại hiện trường cấp cứu xem phần 13.\n\nPhần này chủ yếu dựa trên Một số biện pháp đẩy nhanh xây dựng hệ thống khám chữa bệnh phân tuyến do Văn phòng Quốc vụ viện ban hành tháng 4 năm 2026. Khám chữa bệnh phân tuyến là quyết định đến bệnh viện cấp nào trước tùy độ nặng của bệnh. Văn bản này gắn trực tiếp việc đến tuyến cơ sở với tiết kiệm tiền. Nhưng tiến độ triển khai khác nhau theo địa phương; nội dung sách nêu quy tắc cấp quốc gia. Cụ thể tại khu vực quản lý quỹ của bạn phải theo hướng dẫn của cơ quan bảo hiểm y tế và cơ quan y tế địa phương. Khu vực quản lý quỹ là nơi bạn tham gia bảo hiểm y tế, thường là một thành phố."
+  }
+}

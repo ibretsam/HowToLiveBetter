@@ -1,0 +1,35 @@
+{
+  "id": "e-21-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "d8084e5258094ece50f9a3a4b9a47aa3c3c2cc8314db249cb1ba2765c793d4dd",
+  "original": {
+    "number": 5,
+    "title": "「境外高薪招聘」一律当诈骗看，被骗去做电诈回来还可能要被限制出境",
+    "fields": {
+      "cost": "不花钱。难的是亲手推掉一份看起来很好的工作。",
+      "plain": "月薪高得离谱、不问学历经验、不签正规合同、让你先到边境城市集合、还替你保管护照。这种活去了，人和护照都不在自己手上。出境时材料造假，边检会把你拦下不放行。在境外违法犯罪、危害国家安全和利益的，回国之后还可能 6 个月到 3 年不准出境。",
+      "benefit": "官方对这类案件的定性很直接。近年出现「上当受骗出境或者虚构事由非法出境从事跨境赌博、电信网络诈骗等违法活动，严重危害人民群众生命和财产安全」。说的是被人骗出去，或者编个理由偷着出去，到那边干赌博和电信诈骗。新规针对这一点两头收紧。出境这头：「申请出境入境、停留居留的事由应当真实、合法」。交假材料或者说假话的，移民管理机构有权不给你发证件、不放你出境。回国这头：「中国公民在境外从事违法犯罪活动，危害国家安全和利益的，可以……决定自回国之日起 6 个月至 3 年以内不准其出境」。因为骗取证件、非法出境入境被行政拘留的，同样是 6 个月至 3 年不准出境",
+      "grade": "A",
+      "sources": "国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第三、四条）；司法部、公安部、国家移民局 (2026). 就《国务院关于出境入境管理的规定》答记者问. <https://www.gov.cn/zhengce/202608/content_7077270.htm>",
+      "notes": "识别特征基本固定：月薪远高于同岗位、不要求学历经验、不签正规合同、让你先到边境城市集合、代办签证并保管你的护照。缅北地区已经有专门的领事提醒。真去了，人身自由和护照都不在自己手上，别以为想走就能走"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Coi mọi lời “tuyển việc lương cao ở nước ngoài” là lừa đảo; bị lừa sang làm lừa đảo viễn thông rồi trở về vẫn có thể bị hạn chế xuất cảnh",
+    "cost": "Không tốn tiền. Khó ở việc tự tay từ chối một công việc trông rất tốt.",
+    "plain": "Lương tháng cao vô lý, không hỏi bằng cấp hay kinh nghiệm, không ký hợp đồng chính thức, yêu cầu tập trung ở thành phố biên giới và giữ hộ hộ chiếu. Đi làm kiểu này thì cả con người lẫn hộ chiếu đều không còn do bạn kiểm soát. Làm giả hồ sơ xuất cảnh sẽ bị kiểm soát biên giới chặn, không cho qua. Vi phạm pháp luật, phạm tội ở nước ngoài làm hại an ninh và lợi ích quốc gia thì sau khi về có thể bị cấm xuất cảnh từ 6 tháng đến 3 năm.",
+    "benefit": "Cơ quan chính thức mô tả loại vụ này rất trực tiếp: những năm gần đây xuất hiện việc “bị lừa ra nước ngoài hoặc bịa lý do để xuất cảnh trái phép tham gia cờ bạc xuyên biên giới, lừa đảo viễn thông qua mạng và hoạt động vi phạm pháp luật khác, gây hại nghiêm trọng đến tính mạng, tài sản của người dân”. Tức bị lừa đi hoặc bịa lý do lén ra nước ngoài để làm cờ bạc, lừa đảo viễn thông. Quy định mới siết cả hai đầu. Khi xuất cảnh: “Lý do xin xuất nhập cảnh, lưu trú, cư trú phải chân thực, hợp pháp”. Nộp hồ sơ giả hoặc nói dối thì cơ quan quản lý di trú có quyền không cấp giấy tờ, không cho xuất cảnh. Khi trở về: “Công dân Trung Quốc thực hiện hoạt động vi phạm pháp luật, phạm tội ở nước ngoài, gây hại an ninh và lợi ích quốc gia, có thể… bị quyết định cấm xuất cảnh trong thời gian từ 6 tháng đến 3 năm kể từ ngày về nước”. Người bị tạm giữ hành chính vì lừa lấy giấy tờ hoặc xuất nhập cảnh trái phép cũng bị cấm xuất cảnh từ 6 tháng đến 3 năm.",
+    "notes": "Dấu hiệu nhận diện khá cố định: lương cao hơn nhiều so với cùng vị trí, không yêu cầu bằng cấp hoặc kinh nghiệm, không ký hợp đồng chính thức, yêu cầu tập trung ở thành phố biên giới, làm hộ thị thực và giữ hộ chiếu của bạn. Miền bắc Myanmar đã có cảnh báo lãnh sự riêng. Nếu thực sự đến đó, tự do thân thể và hộ chiếu đều không còn do bạn kiểm soát; đừng nghĩ muốn đi là đi được.",
+    "extra": ""
+  }
+}

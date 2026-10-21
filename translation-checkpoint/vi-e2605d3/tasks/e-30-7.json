@@ -1,0 +1,36 @@
+{
+  "id": "e-30-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "f21246c8b1d0bebe7723b92c68549885ddcc4acea7592ef93b1840be91433dec",
+  "original": {
+    "number": 7,
+    "title": "每年那次学生体检的报告单要自己看一遍，异常项当年带去医院查",
+    "fields": {
+      "cost": "不花钱。义务教育阶段的体检费由学校公用经费出，家长不用另掏。",
+      "plain": "中小学校每年组织一次学生体检。报告单上要重点看的是超重、肥胖、营养不良、脊柱弯曲异常、视力不良、龋齿。别只看一眼身高体重就收起单子。这几项有异常，当年就带孩子去专科查清楚。",
+      "benefit": "《中小学生健康体检管理办法（2021 年版）》规定，中小学校每年组织 1 次在校学生健康体检。外科检查包括头部、颈部、胸部、脊柱、四肢、皮肤、淋巴结。眼科检查包括眼外观、远视力、屈光度（近视远视的度数）。发给个人的报告单应包括查出来的结果、总的评价和健康指导建议。其中超重、肥胖、营养不良、脊柱弯曲异常、视力不良、龋齿（蛀牙）须作为指导重点。教育行政部门应当对出现健康问题的学生建立档案并随访（记下来、之后再跟进）。义务教育阶段学生健康体检费用由学校公用经费开支，家长不另掏（全国，2021 年 9 月印发）",
+      "grade": "B",
+      "sources": "国家卫生健康委、教育部 (2021). 中小学生健康体检管理办法（2021 年版）（国卫医发〔2021〕29 号）. <https://www.gov.cn/zhengce/zhengceku/2021-10/21/content_5644100.htm>",
+      "notes": "给 B 是因为这是一份规定学校怎么做的文件，不是效果研究。它保证的是「每年查、查这几项、发现异常要跟进」，不保证查出来就有人管。体检只是先筛一遍，不是确诊。视力不良要去眼科做散瞳验光（第 12 条）。脊柱弯曲异常要去骨科或脊柱外科（第 2 条，别为了等考完推迟治疗）。这两步都得家长自己带孩子去。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tự đọc phiếu khám sức khỏe học sinh hằng năm; có mục bất thường thì đưa con đến bệnh viện kiểm tra ngay trong năm đó",
+    "cost": "Không tốn tiền. Chi phí khám sức khỏe trong giai đoạn giáo dục bắt buộc lấy từ kinh phí hoạt động chung của trường, phụ huynh không phải trả thêm.",
+    "plain": "Trường tiểu học và trung học tổ chức khám sức khỏe học sinh mỗi năm một lần. Những mục cần chú ý trên phiếu là thừa cân, béo phì, suy dinh dưỡng, độ cong cột sống bất thường, thị lực kém và sâu răng. Đừng chỉ liếc chiều cao, cân nặng rồi cất phiếu đi. Nếu các mục này có bất thường, hãy đưa con đi khám chuyên khoa để làm rõ ngay trong năm đó.",
+    "benefit": "“Biện pháp quản lý khám sức khỏe học sinh tiểu học và trung học (bản năm 2021)” quy định các trường tổ chức khám sức khỏe cho học sinh đang theo học 1 lần mỗi năm. Khám ngoại khoa gồm đầu, cổ, ngực, cột sống, tay chân, da và hạch bạch huyết. Khám mắt gồm quan sát bên ngoài mắt, thị lực nhìn xa và độ khúc xạ (độ cận, viễn). Phiếu kết quả gửi cho từng học sinh phải có kết quả khám, đánh giá tổng quát và hướng dẫn chăm sóc sức khỏe. Trong đó, thừa cân, béo phì, suy dinh dưỡng, độ cong cột sống bất thường, thị lực kém và sâu răng phải là trọng tâm hướng dẫn. Cơ quan quản lý giáo dục phải lập hồ sơ và theo dõi học sinh có vấn đề sức khỏe (ghi nhận lại rồi tiếp tục theo dõi). Chi phí khám sức khỏe học sinh trong giai đoạn giáo dục bắt buộc lấy từ kinh phí hoạt động chung của trường, phụ huynh không trả thêm (toàn Trung Quốc, ban hành tháng 9 năm 2021).",
+    "notes": "Xếp B vì đây là văn bản quy định trường phải làm gì, không phải nghiên cứu về hiệu quả. Điều văn bản bảo đảm là “khám hằng năm, khám những mục này, phát hiện bất thường phải theo dõi”, chứ không bảo đảm cứ phát hiện là có người lo xử lý. Khám sức khỏe chỉ là sàng lọc ban đầu, không phải chẩn đoán xác định. Thị lực kém thì cần đến chuyên khoa mắt đo khúc xạ sau nhỏ thuốc giãn đồng tử (mục 12). Độ cong cột sống bất thường thì cần đến khoa chỉnh hình hoặc ngoại cột sống (mục 2, đừng trì hoãn điều trị để đợi thi xong). Cả hai việc này đều cần phụ huynh tự đưa con đi.",
+    "extra": ""
+  }
+}

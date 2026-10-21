@@ -1,0 +1,35 @@
+{
+  "id": "e-34-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "1f5c846bb806cfd2285f62132a71eafcb37c9da19effdd46a2a895d82f04a8fc",
+  "original": {
+    "number": 12,
+    "title": "吃了含氯苯那敏（扑尔敏）、苯海拉明的感冒药或抗过敏药，吃药期间别开车，也别登高干活、别操作机器",
+    "fields": {
+      "cost": "不花钱。买药时看一眼成分表。吃药那几天改坐车、打车，或者请医生、药师换一种不犯困的药。",
+      "plain": "很多复方感冒药里掺了氯苯那敏、苯海拉明这类抗过敏成分，吃了会犯困。国家药监局提示，吃这类药期间别开车，也别登高干活、操作机器。在开车模拟器上，吃了苯海拉明的人开得比喝了酒还差。自己觉得不困，不等于开得没问题。",
+      "benefit": "国家药监局 2010 年的药品不良反应信息通报说，维C银翘片含马来酸氯苯那敏，也叫扑尔敏。它的不良反应主要是困倦、虚弱感、嗜睡、口干。通报建议医生和药店提示患者：服药期间不得驾驶机、车、船，不得从事高空作业、机械作业及操作精密仪器。国家药监局 2020 年的公众用药提示说，复方感冒药里多含氯苯那敏、苯海拉明这类抗过敏成分，吃了会困倦。从事驾驶、机械操作、高空作业的人要慎用。美国一项开车模拟器试验找了 40 名有季节性过敏性鼻炎的司机，年龄 25 到 44 岁。每人隔一周换一种处理，各开 1 小时：苯海拉明 50 毫克，非索非那定 60 毫克，喝酒到血液酒精浓度约 0.1%，安慰剂。非索非那定是一种不犯困的抗过敏药。跟住前车车速的能力，吃苯海拉明后最差，喝酒和吃非索非那定后都明显好一些。保持车道的能力，喝酒和吃苯海拉明后都变差。前车突然挡道时，喝酒后反应最慢，平均 2.21 秒，吃非索非那定后是 1.95 秒。吃非索非那定和吃安慰剂开得差不多。作者的结论是，苯海拉明对开车的影响比酒精还大。司机自己报的困倦程度，看不出他开得好不好，所以不能靠「困不困」来决定能不能开。",
+      "grade": "B",
+      "sources": "国家食品药品监督管理局 (2010). 药品不良反应信息通报（第32期）关注中西药复方制剂维C银翘片的安全性问题. <https://www.nmpa.gov.cn/xxgk/yjjsh/ypblfytb/20100919162601498.html>；国家药品监督管理局 (2020). 2020年公众十大用药提示丨（三）感冒用药须谨慎，安全合理是关键. <https://www.nmpa.gov.cn/xxgk/kpzhsh/kpzhshyp/20201111095256170.html>；Weiler JM, Bloomfield JR, Woodworth GG, et al. (2000). Effects of fexofenadine, diphenhydramine, and alcohol on driving performance. A randomized, placebo-controlled trial in the Iowa driving simulator. Annals of Internal Medicine, 132(5):354-363. <https://doi.org/10.7326/0003-4819-132-5-200003070-00004>；中华人民共和国道路交通安全法（2021 年修正）第二十二条第二款. <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd617ef70519>",
+      "notes": "药监局点名的酚麻美敏、复方氨酚烷胺、氨咖黄敏都含氯苯那敏，买之前看成分表。道路交通安全法明文禁止的，是服用国家管制的精神药品或者麻醉药品后开车。普通感冒药、抗过敏药不在里面，开车的禁令写在说明书和药监局的提示里。非吃不可又要开车的，请医生或药师换一种不犯困的药。这些感冒药很多也含对乙酰氨基酚，见本节第 1 条（对乙酰氨基酚）。开车犯困的其他风险见第 1 节第 9 条（困了就停车歇）。定 B 是因为只有一项 40 人的模拟器试验，没有真实路上的事故数字。收益定「小」：终点是模拟器里的开车表现，不是事故和死亡。受益人除了你自己，还有同车的家人和路上的其他人。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nếu dùng thuốc cảm hoặc thuốc chống dị ứng chứa chlorpheniramine (扑尔敏) hay diphenhydramine, đừng lái xe, làm việc trên cao hoặc vận hành máy móc trong thời gian dùng thuốc",
+    "cost": "Không tốn tiền. Xem bảng thành phần khi mua thuốc. Trong những ngày dùng thuốc, chuyển sang đi phương tiện có người khác lái, đi taxi, hoặc nhờ bác sĩ, dược sĩ đổi sang thuốc không gây buồn ngủ.",
+    "plain": "Nhiều thuốc cảm phối hợp có thành phần chống dị ứng như chlorpheniramine và diphenhydramine, uống vào sẽ buồn ngủ. Cục Quản lý Dược phẩm Quốc gia Trung Quốc nhắc không lái xe, làm việc trên cao hoặc vận hành máy móc trong thời gian dùng nhóm thuốc này. Trên thiết bị mô phỏng lái xe, người dùng diphenhydramine lái kém hơn cả người uống rượu. Tự thấy không buồn ngủ không có nghĩa là lái xe sẽ ổn.",
+    "benefit": "Thông báo về phản ứng có hại của thuốc năm 2010 của Cục Quản lý Dược phẩm Quốc gia Trung Quốc cho biết viên 维C银翘 có chứa chlorpheniramine maleate, còn gọi là 扑尔敏. Phản ứng bất lợi chủ yếu là buồn ngủ, cảm giác yếu sức, ngủ gà và khô miệng. Thông báo khuyến nghị bác sĩ và hiệu thuốc nhắc người bệnh: trong thời gian dùng thuốc không được điều khiển máy bay, xe hoặc tàu thuyền; không làm việc trên cao, làm việc với máy móc hay vận hành thiết bị chính xác. Hướng dẫn dùng thuốc cho công chúng năm 2020 của cơ quan này nói thuốc cảm phối hợp thường chứa thành phần chống dị ứng như chlorpheniramine và diphenhydramine, gây buồn ngủ khi uống. Người làm công việc lái xe, vận hành máy móc hoặc làm việc trên cao cần thận trọng khi dùng. Một thử nghiệm mô phỏng lái xe ở Mỹ tuyển 40 tài xế bị viêm mũi dị ứng theo mùa, từ 25 đến 44 tuổi. Mỗi người đổi sang một cách xử trí sau mỗi tuần và lái xe 1 giờ mỗi lần: diphenhydramine 50 miligam; fexofenadine 60 miligam; uống rượu đến khi nồng độ cồn trong máu khoảng 0.1%; hoặc giả dược. Fexofenadine là thuốc chống dị ứng không gây buồn ngủ. Khả năng chạy theo tốc độ của xe phía trước kém nhất sau khi dùng diphenhydramine; sau khi uống rượu hoặc dùng fexofenadine đều tốt hơn rõ rệt. Khả năng giữ làn đường giảm sau khi uống rượu và sau khi dùng diphenhydramine. Khi xe phía trước đột ngột chắn đường, phản ứng sau uống rượu chậm nhất, trung bình 2.21 giây, còn sau dùng fexofenadine là 1.95 giây. Khả năng lái xe sau dùng fexofenadine tương đương sau dùng giả dược. Các tác giả kết luận diphenhydramine ảnh hưởng đến lái xe nhiều hơn cả cồn. Mức độ buồn ngủ do tài xế tự báo cáo không cho biết họ lái tốt hay kém, nên không thể dựa vào cảm giác “có buồn ngủ hay không” để quyết định có thể lái xe hay không.",
+    "notes": "Các thuốc được cơ quan quản lý dược nêu tên là 酚麻美敏, 复方氨酚烷胺 và 氨咖黄敏 đều chứa chlorpheniramine; hãy xem bảng thành phần trước khi mua. Luật An toàn giao thông đường bộ quy định rõ việc cấm lái xe sau khi dùng thuốc hướng thần hoặc thuốc gây nghiện thuộc diện Nhà nước kiểm soát. Thuốc cảm và thuốc chống dị ứng thông thường không thuộc nhóm này; yêu cầu không lái xe được ghi trong hướng dẫn sử dụng và khuyến cáo của cơ quan quản lý dược. Nếu bắt buộc phải dùng thuốc mà vẫn cần lái xe, hãy nhờ bác sĩ hoặc dược sĩ đổi sang thuốc không gây buồn ngủ. Nhiều thuốc cảm này cũng chứa paracetamol, xem mục 1 của chương này (paracetamol). Các nguy cơ khác của buồn ngủ khi lái xe được nêu ở chương 1 mục 9 (buồn ngủ thì dừng xe nghỉ). Xếp mức B vì chỉ có một thử nghiệm mô phỏng với 40 người, không có số liệu tai nạn trên đường thực tế. Lợi ích được xếp “nhỏ”: kết quả đo là khả năng lái xe trên thiết bị mô phỏng, không phải tai nạn hoặc tử vong. Người hưởng lợi không chỉ có bạn mà còn có gia đình ngồi cùng xe và những người khác trên đường.",
+    "extra": ""
+  }
+}

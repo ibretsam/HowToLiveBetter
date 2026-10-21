@@ -1,0 +1,15 @@
+{
+  "id": "e-10-23",
+  "source_sha256": "1cb669576c462beae4f0c329f575060da1ab31405ac9f3df6d32452cf6bd1023",
+  "draft_sha256": "8fb877d7846d7dac1ef08c4a91af85f3414d2f74981ab3a22a1459d545dd708a",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves child ages and inclusivity, support percentages and exception conditions, enforcement limits and six-month extendable procedure. Translation review does not independently verify current law or source advice."
+}

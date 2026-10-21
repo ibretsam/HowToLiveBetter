@@ -1,0 +1,36 @@
+{
+  "id": "e-27-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "41f2c9f3a6b3c8ede5debcef6ac784778165858cd010731ab1ddc4bae56b8af3",
+  "original": {
+    "number": 13,
+    "title": "新生儿足跟血筛查和听力筛查都别拒绝",
+    "fields": {
+      "cost": "多数地区免费，或者几十元。有些扩展项目要自己掏钱。孩子出生后扎一次足跟",
+      "plain": "扎一次足跟血、做一次听力测试，能在孩子看起来完全正常的时候，查出甲减、苯丙酮尿症和听力障碍。等症状显出来，智力上的损害已经补不回来了。",
+      "benefit": "《新生儿疾病筛查管理办法》第三条：「全国新生儿疾病筛查病种包括先天性甲状腺功能减低症、苯丙酮尿症等新生儿遗传代谢病和听力障碍。」这两类病有个共同点：早期完全看不出异常，等到症状明显的时候，智力损害已经不可逆了。而早发现早干预效果很好，办法是补充甲状腺素、喝特殊配方奶、戴助听器或者装人工耳蜗。第十条规定，筛查结果是阳性的，机构应当及时通知监护人去确诊",
+      "grade": "A",
+      "sources": "卫生部 (2009). 新生儿疾病筛查管理办法（卫生部令第 64 号，第三、十、十一条）. <http://www.gov.cn/gongbao/content/2009/content_1371363.htm>",
+      "notes": "办法第十一条要求，筛查前要把项目、条件、方式、灵敏度（能查出多少）和费用如实告诉监护人，并签字同意。所以你会拿到一张知情同意书。签之前看清楚：哪些是国家规定的病种，哪些是自费的加项。初筛阳性不等于确诊，按办法第十条，机构会通知你带孩子去确诊，别在这一步先崩溃。听力初筛没过的要按通知去复筛，别自己判断「孩子听得见就算了」"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "怀孕,婴幼儿"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng từ chối cả sàng lọc máu gót chân lẫn sàng lọc thính lực cho trẻ sơ sinh",
+    "cost": "Phần lớn địa phương miễn phí hoặc vài chục nhân dân tệ. Một số hạng mục mở rộng phải tự trả. Sau sinh lấy máu gót chân trẻ một lần.",
+    "plain": "Lấy máu gót chân và kiểm tra thính lực một lần có thể phát hiện suy giáp, phenylketon niệu và suy giảm thính lực khi trẻ trông hoàn toàn bình thường. Đợi có triệu chứng rõ thì tổn hại trí tuệ đã không thể khắc phục.",
+    "benefit": "Điều ba của Biện pháp Quản lý sàng lọc bệnh sơ sinh: “Các bệnh thuộc sàng lọc sơ sinh trên toàn quốc gồm bệnh di truyền, chuyển hóa như suy chức năng tuyến giáp bẩm sinh, phenylketon niệu và suy giảm thính lực”. Hai nhóm bệnh này có điểm chung: giai đoạn đầu hoàn toàn không thấy bất thường, đến khi triệu chứng rõ thì tổn hại trí tuệ đã không thể đảo ngược. Phát hiện và can thiệp sớm lại có hiệu quả rất tốt; biện pháp gồm bổ sung hormone tuyến giáp, uống sữa công thức đặc biệt, dùng máy trợ thính hoặc cấy ốc tai điện tử. Điều mười quy định nếu sàng lọc dương tính, cơ sở phải kịp thời thông báo người giám hộ đưa trẻ đi chẩn đoán xác định.",
+    "notes": "Điều mười một yêu cầu trước sàng lọc phải thông báo trung thực cho người giám hộ về hạng mục, điều kiện, cách làm, độ nhạy (phát hiện được bao nhiêu) và chi phí, đồng thời có chữ ký đồng ý. Vì vậy bạn sẽ nhận một phiếu đồng ý sau khi được cung cấp thông tin. Trước khi ký xem rõ đâu là bệnh do nhà nước quy định, đâu là phần thêm tự trả. Sàng lọc ban đầu dương tính không đồng nghĩa chẩn đoán xác định; theo Điều mười, cơ sở sẽ báo bạn đưa trẻ đi xác định, đừng suy sụp ngay ở bước này. Sàng lọc thính lực ban đầu chưa đạt thì đi sàng lọc lại theo thông báo, đừng tự nghĩ “trẻ nghe được là thôi”.",
+    "extra": ""
+  }
+}

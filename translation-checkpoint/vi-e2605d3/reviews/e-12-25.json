@@ -1,0 +1,15 @@
+{
+  "id": "e-12-25",
+  "source_sha256": "7b06ecc7b08c32846505e2e8b0e84f03f06af2b6f4d05c0965f5365069c62bb8",
+  "draft_sha256": "0771327e16b6af8c970b9c0d72152dfb5b685987792cf770f70095afefb47764",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves enterprise versus individual-business filing/disclosure requirements, cumulative revocation conditions, scam facts and official fee-free filing. Translation review does not independently verify current law or source advice."
+}

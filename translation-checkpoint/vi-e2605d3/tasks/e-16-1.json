@@ -1,0 +1,35 @@
+{
+  "id": "e-16-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "ea103c284e4e3d59992056ce8e34651bc071063632c78ed64882c4501b50bdba",
+  "original": {
+    "number": 1,
+    "title": "药按医嘱吃满，别感觉好了就停",
+    "fields": {
+      "cost": "不花钱，反而省下以后治并发症的钱。每天吃药占不了几分钟，难在一天不落地吃下去。",
+      "plain": "按医生说的把药吃满的人，同期死亡的可能性大约只有断断续续吃药的人的一半。这个数要打折看。连假药都吃满的人死亡率也低，说明有一部分好处来自「能坚持吃药的人本来就更注意健康」。",
+      "benefit": "21 项研究、46847 人合起来算（荟萃分析）：和吃药断断续续的人相比，按医嘱吃满的人同期死亡的可能性约低 44%。原值是比值比 0.56，95% CI 0.50–0.63（可信范围）。只看确有疗效的治疗，约低 45%（0.55，0.49–0.62）",
+      "grade": "A",
+      "sources": "Simpson SH, Eurich DT, Majumdar SR, et al. (2006). A meta-analysis of the association between adherence to drug therapy and mortality. BMJ, 333(7557), 15. <https://doi.org/10.1136/bmj.38875.675486.55>",
+      "notes": "争议。这也是这本书里最需要打折看的一个数字。同一项汇总分析里，连安慰剂（假药）都吃满的人死亡率也低（0.56，0.43–0.74）。这说明相当一部分好处来自「能坚持吃药的人本来就更注意健康」。作者把这层混进来的因素叫健康依从者效应"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Uống thuốc đầy đủ theo chỉ định của bác sĩ, đừng ngừng chỉ vì thấy khỏe hơn",
+    "cost": "Không tốn tiền, còn tiết kiệm được tiền điều trị biến chứng về sau. Uống thuốc mỗi ngày chỉ mất vài phút; khó ở chỗ duy trì không bỏ ngày nào.",
+    "plain": "Người uống thuốc đầy đủ theo lời bác sĩ có khả năng tử vong trong cùng khoảng thời gian chỉ bằng khoảng một nửa người uống ngắt quãng. Cần nhìn con số này một cách thận trọng. Ngay cả người uống đầy đủ thuốc giả cũng có tỷ lệ tử vong thấp hơn, cho thấy một phần lợi ích đến từ việc người kiên trì uống thuốc vốn đã chú ý sức khỏe hơn.",
+    "benefit": "Gộp 21 nghiên cứu với 46847 người để tính chung (phân tích gộp): so với người uống thuốc ngắt quãng, người uống đầy đủ theo chỉ định có khả năng tử vong trong cùng khoảng thời gian thấp hơn khoảng 44%. Giá trị gốc là tỷ số odds 0.56, 95% CI 0.50–0.63 (khoảng tin cậy). Nếu chỉ xét các phương pháp điều trị thực sự có hiệu quả, mức giảm là khoảng 45% (0.55, 0.49–0.62).",
+    "notes": "Có tranh luận. Đây cũng là một trong những con số cần nhìn thận trọng nhất trong cuốn sách. Trong cùng phân tích tổng hợp, ngay cả người uống đầy đủ giả dược (thuốc giả) cũng có tỷ lệ tử vong thấp hơn (0.56, 0.43–0.74). Điều này cho thấy phần đáng kể lợi ích đến từ việc người kiên trì uống thuốc vốn đã chú ý sức khỏe hơn. Các tác giả gọi yếu tố xen lẫn này là hiệu ứng người tuân thủ có lối sống lành mạnh.",
+    "extra": ""
+  }
+}

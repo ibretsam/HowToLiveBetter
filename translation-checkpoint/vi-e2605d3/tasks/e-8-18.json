@@ -1,0 +1,35 @@
+{
+  "id": "e-8-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "9ae932992430c5c7289a83d612341fbecabf55627d0dc0b74f6c58294048c0e5",
+  "original": {
+    "number": 18,
+    "title": "借钱写清借条，替人担保前先想清楚自己愿不愿意替他还",
+    "fields": {
+      "cost": "不花钱。用一张纸写清出借人、借款人、金额、利率、期限和还款方式，双方签名。钱走转账，留下痕迹，不给现金。",
+      "plain": "借条要写全：出借人、借款人、金额、利率、期限、还款方式，双方签名。钱走转账，不给现金，写全了才好起诉。替人担保时看清有没有「连带」两个字。一般保证要等债主执行不到借款人的钱才轮到你，连带的可以直接找你要。",
+      "benefit": "借款合同应当采用书面形式，内容一般包括借款的种类、币种、用途、数额、利率、期限和还款方式。写全了才好起诉。担保合同没写清按哪种方式保证，或者写得不清楚的，按一般保证算。一般保证的担保人可以先等着。要债的人得先去起诉或者仲裁，再申请强制执行借款人的财产。执行完还是还不上，才轮到你替他还。反过来，签了「连带责任保证」就没有这层保护，要债的人可以直接找你要（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第六百六十八、六百八十一、六百八十六、六百八十七条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "借出去的钱，利息超过 4 倍 LPR 的那一部分法院不保护，见第 7 节。借条上写身份证号、注明「借款」是经验做法。担保书上有没有「连带」两个字，决定你是排在借款人后面，还是和他并排被要债，签之前看清楚。说好让你当担保人，实际签的却是借款合同，见第 45 条（借款人是你，不是担保人）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cho vay phải ghi rõ giấy vay nợ; trước khi bảo lãnh cho người khác, nghĩ kỹ mình có sẵn lòng trả thay họ không",
+    "cost": "Không mất tiền. Dùng một tờ giấy ghi rõ người cho vay, người vay, số tiền, lãi suất, thời hạn và cách trả nợ, hai bên ký tên. Chuyển khoản để có dấu vết, không đưa tiền mặt.",
+    "plain": "Giấy vay nợ phải ghi đủ người cho vay, người vay, số tiền, lãi suất, thời hạn, cách trả nợ và chữ ký hai bên. Tiền chuyển khoản, không đưa tiền mặt; ghi đủ mới thuận lợi khi khởi kiện. Bảo lãnh cho người khác phải nhìn kỹ có chữ ‘liên đới’ không. Bảo lãnh thông thường phải đợi chủ nợ không thi hành án thu được tiền từ người vay thì mới đến lượt bạn; bảo lãnh liên đới cho phép họ đòi thẳng bạn.",
+    "benefit": "Hợp đồng vay phải lập thành văn bản, nội dung thường gồm loại khoản vay, loại tiền tệ, mục đích, số tiền, lãi suất, thời hạn và cách trả nợ. Ghi đủ mới thuận lợi khi khởi kiện. Hợp đồng bảo lãnh không ghi hoặc ghi không rõ phương thức bảo lãnh thì tính là bảo lãnh thông thường. Người bảo lãnh thông thường có thể chờ trước. Chủ nợ phải khởi kiện hoặc yêu cầu trọng tài trước, rồi yêu cầu cưỡng chế thi hành đối với tài sản của người vay. Thi hành xong vẫn không trả đủ thì mới đến lượt bạn trả thay. Ngược lại, đã ký ‘bảo lãnh trách nhiệm liên đới’ thì không có sự bảo vệ này, chủ nợ có thể đòi thẳng bạn (toàn Trung Quốc).",
+    "notes": "Đối với tiền cho vay, phần lãi vượt 4 lần LPR không được tòa bảo vệ, xem chương 7. Ghi số căn cước và chú thích ‘tiền vay’ trên giấy vay nợ là cách làm theo kinh nghiệm. Có chữ ‘liên đới’ trên giấy bảo lãnh hay không quyết định bạn đứng sau người vay hay bị đòi nợ song song với họ, nên phải đọc kỹ trước khi ký. Nói là để bạn làm người bảo lãnh nhưng thực tế lại ký hợp đồng vay, xem mục 45 (người vay là bạn, không phải người bảo lãnh).",
+    "extra": ""
+  }
+}

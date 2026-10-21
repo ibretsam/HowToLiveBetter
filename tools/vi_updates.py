@@ -12,7 +12,14 @@ from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
-CP = ROOT / "translation-checkpoint/vi-current"
+def checkpoint_path(value):
+    path = (ROOT / value).resolve()
+    assert path.is_relative_to((ROOT / "translation-checkpoint").resolve()), "Checkpoint outside archive"
+    return path
+
+
+CP = checkpoint_path(json.loads((ROOT / "vi/site-config.json").read_text()).get(
+    "checkpoint", "translation-checkpoint/vi-current"))
 FIELDS = ("title", "cost", "plain", "benefit", "notes", "extra")
 HAN = re.compile(r"[\u3400-\u9fff]")
 PLACEHOLDER = re.compile(r"\[CHƯA DỊCH\]|⟦[PL]\d+⟧")
@@ -134,16 +141,34 @@ def validate_review(draft, review):
     assert isinstance(review.get("notes"), str), "Review notes missing"
 
 
-def load_reviewed():
+def load_reviewed(checkpoint=None, _seen=None):
+    checkpoint = CP if checkpoint is None else checkpoint_path(checkpoint)
+    seen = set() if _seen is None else set(_seen)
+    assert checkpoint not in seen, "Checkpoint inheritance cycle"
+    seen.add(checkpoint)
     results = {}
-    if not (CP / "reviews").exists():
-        return results
-    for path in sorted((CP / "reviews").glob("*.json")):
+    inheritance = checkpoint / "inheritance.json"
+    if inheritance.exists():
+        inherited = json.loads(inheritance.read_text())
+        previous = load_reviewed(inherited["checkpoint"], seen)
+        for ident, hashes in inherited["units"].items():
+            old_task, draft, review = previous[ident]
+            directory = "tasks" if ident.startswith("e-") else "other-tasks"
+            task = json.loads((checkpoint / directory / (ident + ".json")).read_text())
+            assert task["id"] == ident, "Inherited task ID mismatch"
+            assert task["source_path"] == old_task["source_path"], f"{ident}: inherited path changed"
+            assert digest(task["original"]) == task["source_sha256"] == old_task["source_sha256"] == hashes["source_sha256"], f"{ident}: inherited source changed"
+            assert digest(draft) == hashes["draft_sha256"], f"{ident}: inherited draft changed"
+            assert digest(review) == hashes["review_sha256"], f"{ident}: inherited review changed"
+            assert not (checkpoint / "drafts" / (ident + ".json")).exists(), f"{ident}: inherited/local overlap"
+            results[ident] = (task, draft, review)
+    for path in sorted((checkpoint / "reviews").glob("*.json")):
         review = json.loads(path.read_text())
-        draft = json.loads((CP / "drafts" / path.name).read_text())
+        draft = json.loads((checkpoint / "drafts" / path.name).read_text())
         directory = "tasks" if path.stem.startswith("e-") else "other-tasks"
-        task = json.loads((CP / directory / path.name).read_text())
+        task = json.loads((checkpoint / directory / path.name).read_text())
         assert path.stem == task["id"], f"Wrong filename: {path}"
+        assert task["id"] not in results, "Inherited/local review overlap"
         validate_draft(task, draft)
         validate_review(draft, review)
         results[task["id"]] = (task, draft, review)

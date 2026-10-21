@@ -1,0 +1,35 @@
+{
+  "id": "e-2-27",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "89053490c62608d32ac8f99adb42c0050f723245e7a4cd2b677c7003561c96aa",
+  "original": {
+    "number": 27,
+    "title": "每天吃够 5 份（约 400 g）水果蔬菜",
+    "fields": {
+      "cost": "每天几元到十几元。每天要花点时间洗和切。难在要天天买、天天吃够量。",
+      "plain": "每天多吃 200 g 蔬菜水果，同期死亡的概率低约一成。每天吃够 5 份的人，比只吃 2 份的人低约 13%。美国的研究里，再往上吃不会更低。",
+      "benefit": "把多项跟踪研究合起来算（只记录、不分组）：每天多吃 200 g 果蔬，死亡风险低约 10%（RR 0.90）。这份好处一直持续到每天 800 g。美国两项大型跟踪研究加上 26 项研究的汇总：每天吃够 5 份的人，比只吃 2 份的人死亡风险低约 13%（HR 0.87）。最好的搭配是 2 份水果加 3 份蔬菜，再多不再降。",
+      "grade": "A",
+      "sources": "Aune D 等 (2017). Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. International Journal of Epidemiology. <https://doi.org/10.1093/ije/dyw319>；Wang DD 等 (2021). Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.120.048996>",
+      "notes": "两项研究在吃多少最好这一点上说法不同，美国那项到 5 份就不再往下降。要注意这类研究只是跟踪记录，干扰明显：吃菜多的人，收入、教育、运动都和别人不一样。所以「风险低约 10%」已经是上限了。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mỗi ngày ăn đủ 5 khẩu phần (khoảng 400 g) trái cây, rau củ",
+    "cost": "Mỗi ngày từ vài đến hơn chục nhân dân tệ. Cần chút thời gian rửa và cắt. Khó ở chỗ ngày nào cũng mua và ăn đủ lượng.",
+    "plain": "Mỗi ngày ăn thêm 200 g rau quả, khả năng tử vong trong cùng thời gian thấp hơn khoảng một phần mười. Người ăn đủ 5 khẩu phần mỗi ngày thấp hơn khoảng 13% so với người chỉ ăn 2 khẩu phần. Trong nghiên cứu Mỹ, ăn thêm nữa không giảm hơn.",
+    "benefit": "Gộp nhiều nghiên cứu theo dõi chỉ ghi nhận, không phân nhóm: mỗi ngày thêm 200 g rau quả thì nguy cơ tử vong thấp hơn khoảng 10% (RR 0.90). Lợi ích tiếp tục đến mức 800 g mỗi ngày. Hai nghiên cứu theo dõi lớn ở Mỹ cùng tổng hợp 26 nghiên cứu: người ăn đủ 5 khẩu phần mỗi ngày có nguy cơ tử vong thấp hơn khoảng 13% so với người chỉ ăn 2 khẩu phần (HR 0.87). Cách phối hợp tốt nhất là 2 khẩu phần trái cây và 3 khẩu phần rau, thêm nữa không giảm hơn.",
+    "notes": "Hai nghiên cứu khác nhau về lượng ăn tốt nhất; nghiên cứu Mỹ đến 5 khẩu phần thì không giảm thêm. Cần nhớ loại nghiên cứu này chỉ theo dõi ghi nhận, yếu tố gây nhiễu rõ rệt: người ăn nhiều rau khác người khác về thu nhập, giáo dục và vận động. Vì vậy, “nguy cơ thấp hơn khoảng 10%” đã là giới hạn trên.",
+    "extra": ""
+  }
+}

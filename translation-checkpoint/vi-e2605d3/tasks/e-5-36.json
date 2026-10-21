@@ -1,0 +1,35 @@
+{
+  "id": "e-5-36",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "3b82ae3d486eee3425b26747f39a5990c7b868199893c02ce9e2da397ef39bba",
+  "original": {
+    "number": 36,
+    "title": "在意食品里加了什么，就买预包装的：散装柜台法律上不要求标配料表",
+    "fields": {
+      "cost": "不花钱。同样的东西，预包装的通常比散装贵一点。看一眼配料表，几秒钟。",
+      "plain": "法律只要求预包装食品标配料表，散装的不要求。散装柜台只要标名称、生产日期、保质期和谁生产的。所以「没写添加剂」不等于「没加」，只等于法律没要求写。在意就买预包装的那一版，配料表和添加剂名称都印在上面。",
+      "benefit": "食品安全法第六十七条规定，预包装食品的包装上应当有标签。标签必须标明九项内容。其中第二项是「成分或者配料表」，第七项是「所使用的食品添加剂在国家标准中的通用名称」。第六十八条对散装食品的要求少得多。原文是：食品经营者销售散装食品，应当在散装食品的容器、外包装上标明「食品的名称、生产日期或者生产批号、保质期以及生产经营者名称、地址、联系方式等内容」。这一条没有提配料表，也没有提添加剂。冷冻水产品是这个差别最明显的地方。GB 2760—2024 允许在冷冻水产品里用磷酸及磷酸盐做水分保持剂，俗称保水剂。最大使用量是 5.0 g/kg，以磷酸根计。在这个量以内用是合法的。出问题的是超量用和包冰增重。2025 年央视 3·15 晚会曝光虾仁「违规超量添加保水剂（复合磷酸盐）及包冰增重」之后，市场监管部门要求企业「产品标签应明确标注保水剂（如磷酸盐）成分、净含量（扣除冰衣重量）、配料表」（全国，食品安全法 2025 年第三次修正，2025 年 12 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025 年第三次修正). 中华人民共和国食品安全法（第六十七、六十八条，2025 年 9 月 12 日公布，2025 年 12 月 1 日施行）. <https://flk.npc.gov.cn/detail?id=7b5a76d0461745a08d3f964916b87ef3>；国家卫生健康委员会、国家市场监督管理总局 (2024). 食品安全国家标准 食品添加剂使用标准（GB 2760—2024，附录 A 表 A.1「磷酸及磷酸盐」项下食品分类号 09.02.01 冷冻水产品；A.3 规定表 A.1 列出的食品添加剂按照规定的使用范围和最大使用量使用）. <https://www.gov.cn/zhengce/zhengceku/202403/content_7001729.htm>；六安市市场监督管理局 (2025). 关于水产制品及使用保水剂的相关企业提醒告诫函（2025 年 3 月 24 日）. <https://scjgj.luan.gov.cn/zwzx/tzgg/5414606.html>",
+      "notes": "「没标」不等于「没加」，只等于法律没要求标。想知道成分，就买预包装的那一版。冻虾仁、冻鱼块这类，预包装上的净含量是扣掉冰衣之后的重量。按它算单价才是真实价格。散装的按标价算，解冻后可能缩掉一大截。保水剂在限量内是合法的，也不是安全问题，别把它当毒。超量添加和包冰增重是钱的问题：你按水产品的价钱买了水。反过来，散装柜台该标的那四样也可能没标。名称、生产日期、保质期、生产经营者的名称地址电话，少一样就违反第六十八条。可以不买，也可以打 12315。你自己开店卖预包装食品时该怎么标，见第 12 节第 9 条（预包装食品标签）。这条的受益人是你自己和家人，属于最高的两档。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Quan tâm thực phẩm thêm gì thì mua loại đóng gói sẵn: luật không yêu cầu quầy bán rời ghi bảng thành phần",
+    "cost": "Không tốn tiền. Cùng một món, loại đóng gói sẵn thường đắt hơn bán rời một chút. Nhìn bảng thành phần mất vài giây.",
+    "plain": "Luật chỉ yêu cầu thực phẩm đóng gói sẵn ghi bảng thành phần, bán rời không bắt buộc. Quầy bán rời chỉ cần ghi tên, ngày sản xuất, hạn dùng và ai sản xuất. Vì vậy “không ghi phụ gia” không có nghĩa “không thêm”, chỉ có nghĩa luật không bắt ghi. Quan tâm thì mua phiên bản đóng gói sẵn, bảng thành phần và tên phụ gia đều in trên đó.",
+    "benefit": "Điều sáu mươi bảy của Luật An toàn thực phẩm yêu cầu bao bì thực phẩm đóng gói sẵn có nhãn, phải ghi chín nội dung. Mục thứ hai là “thành phần hoặc bảng nguyên liệu”, thứ bảy là “tên thông dụng theo tiêu chuẩn quốc gia của phụ gia thực phẩm được dùng”. Điều sáu mươi tám yêu cầu ít hơn nhiều với thực phẩm bán rời. Nguyên văn: người kinh doanh bán thực phẩm rời phải ghi trên vật chứa, bao bì ngoài “tên thực phẩm, ngày sản xuất hoặc số lô, hạn dùng, tên, địa chỉ, thông tin liên hệ của bên sản xuất, kinh doanh và nội dung tương tự”. Điều này không nhắc bảng thành phần hay phụ gia. Thủy sản đông lạnh thể hiện khác biệt rõ nhất. GB 2760—2024 cho phép dùng axit phosphoric và phosphate làm chất giữ ẩm, thường gọi chất giữ nước, trong thủy sản đông lạnh. Lượng dùng tối đa 5.0 g/kg tính theo ion phosphate. Dùng trong mức đó là hợp pháp. Vấn đề là dùng quá mức và phủ băng tăng trọng lượng. Sau khi chương trình 3·15 của CCTV năm 2025 phanh phui tôm bóc vỏ “thêm chất giữ nước (phosphate hỗn hợp) quá mức trái quy định và phủ băng tăng trọng lượng”, cơ quan giám sát thị trường yêu cầu doanh nghiệp “nhãn phải ghi rõ thành phần chất giữ nước (như phosphate), khối lượng tịnh (trừ trọng lượng lớp băng), bảng thành phần” (toàn Trung Quốc, Luật An toàn thực phẩm sửa đổi lần ba năm 2025, có hiệu lực ngày 1 tháng 12 năm 2025).",
+    "notes": "“Không ghi” không bằng “không thêm”, chỉ có nghĩa luật không yêu cầu ghi. Muốn biết thành phần thì mua phiên bản đóng gói sẵn. Với tôm bóc vỏ, miếng cá đông lạnh, khối lượng tịnh trên bao bì là trọng lượng sau trừ lớp băng; tính đơn giá theo đó mới ra giá thật. Hàng bán rời tính theo giá niêm yết có thể hao đi đáng kể sau rã đông. Chất giữ nước trong giới hạn là hợp pháp, không phải vấn đề an toàn, đừng coi là chất độc. Thêm quá mức và phủ băng tăng trọng lượng là vấn đề tiền bạc: bạn mua nước theo giá thủy sản. Ngược lại, quầy bán rời cũng có thể thiếu bốn thông tin bắt buộc. Tên, ngày sản xuất, hạn dùng, tên địa chỉ điện thoại bên sản xuất kinh doanh, thiếu một là vi phạm điều sáu mươi tám. Có thể không mua hoặc gọi 12315. Tự mở cửa hàng bán thực phẩm đóng túi phải ghi nhãn thế nào, xem chương 12 mục 9 (nhãn thực phẩm đóng gói sẵn). Người hưởng lợi là bạn và gia đình, thuộc hai nhóm cao nhất.",
+    "extra": ""
+  }
+}

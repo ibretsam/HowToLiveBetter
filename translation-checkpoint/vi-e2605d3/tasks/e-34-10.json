@@ -1,0 +1,35 @@
+{
+  "id": "e-34-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "bf53ccd4c5f5dda2119bc5e3384d4cab5483f5d3c37956455252a7d51c5a7bb2",
+  "original": {
+    "number": 10,
+    "title": "过期药和用不上的剩药定期清出来，连包装投进有害垃圾桶，别留在家里",
+    "fields": {
+      "cost": "不花钱。每年翻一次药箱，十几分钟。",
+      "plain": "在美国，小孩背着大人误吃的药，近一半是处方药片。误吃的处方药里，约三成是爷爷奶奶的。用不上的药清出来，就少一样能被孩子翻到的东西。清出来的药连包装投进有害垃圾桶，或者交给收旧药的药店。",
+      "benefit": "美国急诊监测数据估计，2004 到 2013 年，不满 6 岁的孩子背着大人误吃药品，看了约 64 万次急诊（估计值 640161 次）。2013 年一年约 5.9 万次（59092 次）。2010 到 2013 年，最常见的是口服处方药片剂，占 45.9%。处方药里最常见的是阿片类止痛药（13.8%）和苯二氮䓬类安眠镇静药（12.7%）。美国 5 家中毒控制中心 2017 年问了打电话求助的家长。孩子误吃处方药的，30.7% 吃的是祖父母的药。一半以上（51.5%）的处方药，在孩子拿到之前已经被大人从原包装里取了出来。国内的《国家危险废物名录（2025 年版）》把家庭日常生活中产生的废药品及其包装物，列为生活垃圾中的危险废物。上海的分类投放指引把废药品归入有害垃圾。指引写明，废药品包括过期药物、药物胶囊、药片、药品内包装，「废弃药品宜连带包装一并投放」。上海还规定，药店收集的市民家庭过期废弃药品，由各区市场监管部门设临时中转点。美国 FDA 说，处理过期和用不上的药，最好的办法是交给回收点。",
+      "grade": "B",
+      "sources": "Lovegrove MC, Weidle NJ, Budnitz DS (2015). Trends in Emergency Department Visits for Unsupervised Pediatric Medication Exposures, 2004-2013. Pediatrics, 136(4):e821-e829. <https://doi.org/10.1542/peds.2015-2092>；Agarwal M, Lovegrove MC, Geller RJ, et al. (2020). Circumstances Involved in Unsupervised Solid Dose Medication Exposures among Young Children. Journal of Pediatrics, 219:188-195.e6. <https://doi.org/10.1016/j.jpeds.2019.12.027>；生态环境部等 (2024). 国家危险废物名录（2025年版），附录《危险废物豁免管理清单》第 1 项. <https://www.gov.cn/gongbao/2025/issue_11906/202503/content_7011162.html>；上海市绿化和市容管理局 (2024). 上海市生活垃圾分类投放指引（2024版）（沪绿容〔2024〕278号）. <https://www.shanghai.gov.cn/gwk/search/content/40b9feaa-53db-472f-8a6b-2c3cf0465def>；上海市绿化和市容管理局、上海市环境保护局、上海市食品药品监督管理局 (2018). 关于规范生活垃圾分类有害垃圾全程管理的通知. <https://www.shanghai.gov.cn/nw12344/20200813/0001-12344_57440.html>；U.S. Food and Drug Administration (2025). Where and How to Dispose of Unused Medicines. <https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines>",
+      "notes": "各地的垃圾分类目录不完全一样，以小区垃圾房贴的目录为准。上海把中药药渣归入湿垃圾，不算有害垃圾。留下来的药放在原盒里，别倒进分药盒或别的瓶子，放到孩子够不着的地方，见第 13 节第 20 条（误服）。家里剩的抗生素也别自己拿来吃，见本节第 7 条（抗生素）。美国在没有回收点时，让人把药混进咖啡渣、猫砂再封袋扔进普通垃圾，少数强效止痛药允许冲马桶。这是美国的做法，国内按当地分类投放。定 B 是因为美国那几组数字只是登记，没有研究算过清理药箱能少多少次误吃。收益定「小」：手里的数字是急诊次数，不是死亡，也算不出清理这个动作的效果。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Định kỳ loại bỏ thuốc hết hạn và thuốc thừa không còn cần dùng, bỏ cả bao bì vào thùng rác nguy hại, đừng giữ trong nhà",
+    "cost": "Không tốn tiền. Mỗi năm kiểm tra tủ thuốc một lần, mất hơn mười phút.",
+    "plain": "Ở Mỹ, gần một nửa số thuốc trẻ vô tình uống khi người lớn không để ý là thuốc kê đơn dạng viên. Trong các thuốc kê đơn trẻ uống nhầm, khoảng ba phần mười là thuốc của ông bà. Dọn thuốc không còn dùng đến sẽ bớt được một thứ trẻ có thể lục ra. Bỏ cả thuốc và bao bì vào thùng rác nguy hại, hoặc giao cho hiệu thuốc có thu hồi thuốc cũ.",
+    "benefit": "Dữ liệu giám sát cấp cứu ở Mỹ ước tính rằng từ năm 2004 đến 2013, trẻ chưa đủ 6 tuổi vô tình uống thuốc khi người lớn không để ý đã phải đến cấp cứu khoảng 64 vạn lần (giá trị ước tính là 640161 lần). Riêng năm 2013 có khoảng 5.9 vạn lần (59092 lần). Từ năm 2010 đến 2013, loại thường gặp nhất là thuốc kê đơn đường uống dạng viên, chiếm 45.9%. Trong các thuốc kê đơn, thường gặp nhất là thuốc giảm đau opioid (13.8%) và thuốc ngủ, an thần benzodiazepine (12.7%). Năm 2017, 5 trung tâm kiểm soát ngộ độc ở Mỹ hỏi các phụ huynh gọi điện cầu cứu. Trong những trẻ uống nhầm thuốc kê đơn, 30.7% uống thuốc của ông bà. Hơn một nửa số thuốc kê đơn (51.5%) đã được người lớn lấy khỏi bao bì ban đầu trước khi trẻ lấy được. Danh mục chất thải nguy hại quốc gia của Trung Quốc, phiên bản năm 2025, xếp thuốc thải bỏ và bao bì phát sinh trong sinh hoạt gia đình là chất thải nguy hại trong rác sinh hoạt. Hướng dẫn phân loại rác của Thượng Hải xếp thuốc thải bỏ vào rác nguy hại. Hướng dẫn ghi thuốc thải bỏ gồm thuốc hết hạn, viên nang, viên nén và bao bì bên trong của thuốc; “nên bỏ thuốc thải bỏ cùng với bao bì”. Thượng Hải còn quy định cơ quan quản lý thị trường các quận lập điểm trung chuyển tạm thời cho thuốc gia đình hết hạn, thải bỏ do các hiệu thuốc thu gom. FDA Mỹ cho biết cách tốt nhất để xử lý thuốc hết hạn và thuốc không còn cần dùng là giao cho điểm thu hồi.",
+    "notes": "Danh mục phân loại rác ở mỗi nơi không hoàn toàn giống nhau; hãy theo danh mục dán tại nơi tập kết rác của khu dân cư. Thượng Hải xếp bã thuốc Bắc vào rác ướt, không phải rác nguy hại. Giữ thuốc còn dùng trong hộp ban đầu, đừng đổ vào hộp chia thuốc hoặc chai khác; để ngoài tầm với của trẻ, xem chương 13 mục 20 (uống nhầm). Cũng đừng tự uống kháng sinh còn thừa ở nhà, xem mục 7 của chương này (kháng sinh). Khi không có điểm thu hồi, Mỹ hướng dẫn trộn thuốc với bã cà phê hoặc cát vệ sinh cho mèo rồi đóng kín trong túi và bỏ vào rác thông thường; một số ít thuốc giảm đau mạnh được phép xả xuống bồn cầu. Đây là cách làm của Mỹ; ở Trung Quốc phải phân loại và bỏ rác theo quy định địa phương. Xếp mức B vì các nhóm số liệu của Mỹ chỉ là dữ liệu ghi nhận, chưa có nghiên cứu tính được dọn tủ thuốc giúp giảm bao nhiêu lần uống nhầm. Lợi ích được xếp “nhỏ”: các số liệu hiện có là số lần đến cấp cứu, không phải số ca tử vong, và cũng không tính được hiệu quả của riêng việc dọn thuốc.",
+    "extra": ""
+  }
+}

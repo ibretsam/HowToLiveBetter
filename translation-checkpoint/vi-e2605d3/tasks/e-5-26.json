@@ -1,0 +1,35 @@
+{
+  "id": "e-5-26",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "5cccc8e375960dd70d42f8b808d42090a8151824e9c4ea3f5436754774cbc1ce",
+  "original": {
+    "number": 26,
+    "title": "三者险买够：交强险限额全国统一且不高，超出的部分从你自己家里出",
+    "fields": {
+      "cost": "商业第三者责任险一年几百到上千元。保额买得越高，平摊到每一元保额上的保费反而越便宜。",
+      "plain": "你有责任时，交强险最多赔三项：死亡伤残 18 万元，医疗费用 1.8 万元，财产损失 2000 元。三项分开算，不能互相挪用。撞伤人的赔偿可能超过这些限额，超出的钱要你自己家掏，所以商业三者险要买够。",
+      "benefit": "交强险在全国范围内实行统一的责任限额。限额分成四项分别计算：死亡伤残、医疗费用、财产损失，以及你没有责任时的赔偿。2020 年车险综合改革以后，现行的总责任限额是 20 万元。这 20 万元里，死亡伤残 18 万元、医疗费用 1.8 万元、财产损失 0.2 万元。你没有责任的时候，死亡伤残 1.8 万元、医疗费用 1800 元、财产损失 100 元。超出限额的部分由侵权人自己承担，撞了人的一方要自己掏钱。没投交强险的，车辆会被扣留，还要罚应缴保险费的 2 倍",
+      "grade": "A",
+      "sources": "国务院 (2006, 2012 修订). 机动车交通事故责任强制保险条例（国务院令第 462 号，第 618 号令修改）第二十三条：「机动车交通事故责任强制保险在全国范围内实行统一的责任限额。责任限额分为死亡伤残赔偿限额、医疗费用赔偿限额、财产损失赔偿限额以及被保险人在道路交通事故中无责任的赔偿限额。」「责任限额由保监会会同国务院公安部门、国务院卫生主管部门、国务院农业主管部门规定。」第二十一条限额内赔偿；第三十九条未投保的「由公安机关交通管理部门扣留机动车……处依照规定投保最低责任限额应缴纳的保险费的2倍罚款」. <http://www.gov.cn/gongbao/content/2012/content_2131962.htm>；中国银行保险监督管理委员会 (2020). 关于实施车险综合改革的指导意见（银保监发〔2020〕41 号，四（四）：「将交强险总责任限额从12.2万元提高到20万元，其中死亡伤残赔偿限额从11万元提高到18万元，医疗费用赔偿限额从1万元提高到1.8万元，财产损失赔偿限额维持0.2万元不变」）. <https://www.gov.cn/gongbao/content/2020/content_5567758.htm>（国务院公报）",
+      "notes": "限额由金融监管部门定，会调整。这组数字是 2020 年 9 月车险综合改革以后的现行值，买保险前可以再核一次。关键是它的结构：交强险按项目分开赔，一项没赔完，剩下的额度不能挪去补另一项。撞伤人的赔偿总额可以远远超过它，超出的差额没有任何保险替你出。三者险保额到底买多少，本书不给数字。但它是这本书里少数几处「多花几百元，换掉一件概率很小、真摊上能压垮一个家的事」。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mua đủ bảo hiểm trách nhiệm với bên thứ ba: hạn mức bảo hiểm giao thông bắt buộc thống nhất toàn quốc và không cao, phần vượt do gia đình bạn trả",
+    "cost": "Bảo hiểm trách nhiệm dân sự thương mại với bên thứ ba mỗi năm từ vài trăm đến hơn nghìn nhân dân tệ. Mua hạn mức càng cao, phí tính trên mỗi nhân dân tệ được bảo hiểm lại càng rẻ.",
+    "plain": "Khi bạn có trách nhiệm, bảo hiểm giao thông bắt buộc bồi thường tối đa ba khoản: tử vong, thương tật 18 vạn nhân dân tệ; y tế 1.8 vạn; tài sản 2000 nhân dân tệ. Ba khoản tính riêng, không chuyển hạn mức qua lại. Bồi thường khi đâm người bị thương có thể vượt các hạn mức, phần vượt gia đình bạn tự trả, nên phải mua đủ bảo hiểm thương mại trách nhiệm với bên thứ ba.",
+    "benefit": "Bảo hiểm giao thông bắt buộc áp dụng hạn mức trách nhiệm thống nhất toàn Trung Quốc. Hạn mức chia thành bốn phần tính riêng: tử vong, thương tật; chi phí y tế; thiệt hại tài sản; và bồi thường khi bạn không có trách nhiệm. Sau cải cách toàn diện bảo hiểm xe năm 2020, tổng hạn mức trách nhiệm hiện hành là 20 vạn nhân dân tệ. Trong 20 vạn này, tử vong, thương tật là 18 vạn; y tế 1.8 vạn; tài sản 0.2 vạn. Khi bạn không có trách nhiệm, hạn mức tử vong, thương tật là 1.8 vạn nhân dân tệ; y tế 1800; tài sản 100. Phần vượt hạn mức do người gây thiệt hại tự chịu, tức bên đâm người phải tự trả. Không mua bảo hiểm bắt buộc thì xe bị tạm giữ, còn bị phạt gấp 2 lần phí bảo hiểm phải đóng.",
+    "notes": "Hạn mức do cơ quan quản lý tài chính đặt ra và có thể điều chỉnh. Bộ số này là mức hiện hành sau cải cách bảo hiểm xe tháng 9 năm 2020; trước khi mua có thể kiểm tra lại. Mấu chốt là cơ cấu: bảo hiểm bắt buộc chi riêng từng hạng mục, một mục chưa dùng hết thì phần còn lại không chuyển bù mục khác. Tổng bồi thường khi đâm người bị thương có thể cao hơn rất nhiều, không có bảo hiểm nào tự trả phần chênh đó cho bạn. Sách không đưa con số phải mua hạn mức bảo hiểm bên thứ ba bao nhiêu. Nhưng đây là một trong số ít nơi sách nói “bỏ thêm vài trăm nhân dân tệ để chuyển đi một rủi ro xác suất rất nhỏ nhưng nếu gặp có thể làm cả gia đình sụp đổ”.",
+    "extra": ""
+  }
+}

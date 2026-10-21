@@ -1,0 +1,35 @@
+{
+  "id": "e-1-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "d9da83a4df51f6a6a04cf1f814886c0a037fdc910186c68a095bcbb8faed40d2",
+  "original": {
+    "number": 1,
+    "title": "系安全带，前排后排都系",
+    "fields": {
+      "cost": "不花钱。每次上车多花 2 秒。",
+      "plain": "坐轿车前排系上安全带，出车祸时被撞死的概率降四成多。坐轻型卡车前排的降六成。美国 2022 年死在车里的人，能查到系没系带的，有一半没系。",
+      "benefit": "美国交通安全主管部门（NHTSA）估计，系安全带能让轿车前排乘员受致命伤的风险下降 45%。轻型卡车前排下降 60%。2022 年美国死在乘用车（载人的小汽车）里的人当中，能查到系没系带的，有 50% 没系。世界卫生组织（WHO）的口径是，安全带让车内人员的死亡风险最多降低 50%。WHO 估计中国 2021 年死于道路交通事故的有 248,099 人，相当于每 10 万人里死 17.4 人。国家统计局的年鉴里，2021 年道路交通事故死亡 62218 人",
+      "grade": "A",
+      "sources": "NHTSA (2024). Occupant Protection in Passenger Vehicles: 2022 Data (DOT HS 813 573)：「Among killed passenger vehicle occupants with known restraint use, 48 percent of those in the front row and 60 percent of those in the second row were unrestrained.」<https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813573> ; WHO (2025). Road traffic injuries fact sheet. <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries> ; WHO GHO RS_196/RS_198 (China, 2021). <https://ghoapi.azureedge.net/api/RS_196?$filter=SpatialDim%20eq%20%27CHN%27> ; 国家统计局 (2022). 中国统计年鉴 2022，表 24-5 道路交通事故情况（2021 年）：死亡人数 62218 人. <https://www.stats.gov.cn/sj/ndsj/2022/html/C24-05.jpg>",
+      "notes": "后排也要系。同一份报告里，能查到系没系带的第二排死者，有 60% 没系。45%、60% 这两个数，是美国交通安全主管部门（NHTSA）拿事故数据库算出来的估计（引 Kahane 2015）。它们不是随机分组的试验。WHO 那个中国死亡人数是推算出来的，约是统计年鉴里 62218 人的 4 倍。两边统计的范围不一样，这里只用 WHO 的口径。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thắt dây an toàn ở cả ghế trước lẫn ghế sau",
+    "cost": "Không tốn tiền. Mỗi lần lên xe thêm 2 giây.",
+    "plain": "Ngồi ghế trước ô tô con và thắt dây an toàn giúp khả năng chết khi tai nạn giảm hơn bốn phần mười. Ngồi ghế trước xe tải nhẹ giảm sáu phần mười. Trong số người chết trong xe ở Mỹ năm 2022 mà xác định được có thắt dây hay không, một nửa không thắt.",
+    "benefit": "Cơ quan An toàn giao thông đường bộ Mỹ (NHTSA) ước tính thắt dây an toàn giúp nguy cơ chấn thương gây tử vong của người ngồi ghế trước ô tô con giảm 45%, ghế trước xe tải nhẹ giảm 60%. Trong số người chết trong xe chở khách, tức ô tô nhỏ chở người, ở Mỹ năm 2022 mà xác định được tình trạng thắt dây, 50% không thắt. Theo cách tính của Tổ chức Y tế Thế giới (WHO), dây an toàn giúp nguy cơ tử vong của người trong xe giảm tối đa 50%. WHO ước tính năm 2021 Trung Quốc có 248,099 người chết vì tai nạn giao thông đường bộ, tương đương 17.4 người trên mỗi 10 vạn dân. Niên giám của Cục Thống kê quốc gia ghi nhận 62218 người chết vì tai nạn giao thông đường bộ năm 2021.",
+    "notes": "Ghế sau cũng phải thắt. Trong cùng báo cáo, số người chết ở hàng ghế thứ hai mà xác định được tình trạng thắt dây có 60% không thắt. Hai con số 45%, 60% là ước tính NHTSA tính từ cơ sở dữ liệu tai nạn, dẫn Kahane 2015, không phải thử nghiệm phân nhóm ngẫu nhiên. Số tử vong ở Trung Quốc của WHO là ước tính, khoảng gấp 4 lần con số 62218 trong niên giám. Phạm vi thống kê của hai bên khác nhau; ở đây chỉ dùng cách tính của WHO.",
+    "extra": ""
+  }
+}

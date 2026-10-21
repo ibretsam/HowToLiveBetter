@@ -1,0 +1,35 @@
+{
+  "id": "e-5-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "b74f277e5ef2159889ffb5e518fbd526ec3a73d4e2f27b108b59dfbd02e481fe",
+  "original": {
+    "number": 3,
+    "title": "公积金不只用来买房：租房、装修、物业费都能提，2026 年 9 月 20 日起按新条例办",
+    "fields": {
+      "cost": "不花钱。去办一次提取手续就行。",
+      "plain": "公积金不是只有买房才能动。新条例把能提取的情况列了九项，租房、装修自己住的房子、交物业费都算在里面。你交了申请，公积金中心要在 3 天内答复你准不准提。",
+      "benefit": "修改后的条例把可以提取的情况列到九项。其中包括：支付房租，装修自己住的房子，支付自己住的房子的物业费。公积金管理中心要从受理你申请那天算起，3 日内作出准予提取或者不准提取的决定",
+      "grade": "A",
+      "sources": "国务院 (2026). 国务院关于修改《住房公积金管理条例》的决定（国务院令第 844 号，2026 年 7 月 31 日国务院第 93 次常务会议通过，「自2026年9月20日起施行」）：修改后第二十四条「职工有下列情形之一的，可以提取职工住房公积金账户内的存储余额：（一）支付房租的；（二）购买、建造、翻建、大修自住住房的；（三）偿还购房贷款本息的；（四）装修自住住房的；（五）支付自住住房物业费的；（六）离休、退休的；（七）完全丧失劳动能力，并与单位终止劳动关系的；（八）出境定居的；（九）国务院批准的其他住房消费情形。」；第二十五条「住房公积金管理中心应当自受理申请之日起3日内作出准予提取或者不准提取的决定」；第十八条缴存比例「均不得低于职工上一年度月平均工资的5％」. <https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079363.html>",
+      "notes": "账户里的钱是你自己的工资，加上单位给你配的那一部分。这笔钱放着不动，只按很低的利率算利息。条例还写明：职工死亡，或者被宣告死亡的，继承人和受遗赠人可以提取账户余额。办理要交哪些材料、具体怎么办，各地由当地公积金管理中心定。跑之前先查一下本地中心的办事指南。公积金还能用来贷款买房，利率比商业贷款低，见第 15 节第 16 条（先用住房公积金贷款）。物业靠停水停电催物业费的，见第 15 节第 17 条（物业停水停电）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Quỹ tích lũy nhà ở không chỉ dùng mua nhà: có thể rút để thuê nhà, sửa sang nhà, trả phí quản lý; từ ngày 20 tháng 9 năm 2026 thực hiện theo quy định mới",
+    "cost": "Không tốn tiền. Chỉ cần làm thủ tục rút một lần.",
+    "plain": "Quỹ tích lũy nhà ở không phải chỉ mua nhà mới được dùng. Quy định mới liệt kê chín trường hợp được rút, gồm thuê nhà, sửa sang căn nhà mình ở và trả phí quản lý tòa nhà. Khi bạn nộp đơn, trung tâm quỹ tích lũy phải trả lời trong 3 ngày có cho rút hay không.",
+    "benefit": "Quy định sửa đổi mở rộng các trường hợp được rút lên chín trường hợp, trong đó có trả tiền thuê nhà, sửa sang căn nhà mình ở và trả phí quản lý căn nhà mình ở. Trung tâm quản lý quỹ tích lũy nhà ở phải quyết định cho phép hoặc không cho phép rút trong 3 ngày kể từ ngày tiếp nhận đơn.",
+    "notes": "Tiền trong tài khoản là tiền lương của bạn cộng với phần đơn vị sử dụng lao động đóng tương ứng cho bạn. Để yên khoản tiền này thì chỉ được tính lãi rất thấp. Quy định còn nêu rõ: khi người lao động chết hoặc bị tuyên bố là đã chết, người thừa kế và người được di tặng có thể rút số dư tài khoản. Giấy tờ phải nộp và thủ tục cụ thể do trung tâm quản lý quỹ tích lũy nhà ở từng địa phương quy định. Trước khi đến, hãy xem hướng dẫn giải quyết thủ tục của trung tâm địa phương. Quỹ này còn có thể dùng vay mua nhà với lãi suất thấp hơn vay thương mại; xem chương 15 mục 16 (ưu tiên vay từ quỹ tích lũy nhà ở). Nếu đơn vị quản lý tòa nhà cắt nước, điện để đòi phí, xem chương 15 mục 17 (đơn vị quản lý cắt nước, điện).",
+    "extra": ""
+  }
+}

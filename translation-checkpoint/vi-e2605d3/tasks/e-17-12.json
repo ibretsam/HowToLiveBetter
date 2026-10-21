@@ -1,0 +1,36 @@
+{
+  "id": "e-17-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "fe538a37d85f847772ddcd2da65f875cb5bc6fe0e64ea13a48538ef9386f2874",
+  "original": {
+    "number": 12,
+    "title": "独生子女的父母住院，查本省条例有没有给子女的护理假，有就带着住院证明向单位书面申请",
+    "fields": {
+      "cost": "不花钱。上国家法律法规数据库搜本省的两部条例，十几分钟。再拿住院证明向单位交一份书面申请。难在单位不想给，开口要假怕得罪领导。",
+      "plain": "有些省给独生子女定了照顾住院父母的护理假，天数各省不一样。河南每年不少于 20 天，福建不超过 10 天，广东住院的不超过 15 天。河南写明算出勤，福建写明工资福利不变。单位不给或者扣钱，福建、广东写明可以找人社部门。",
+      "benefit": "各省把护理假写在不同的地方性法规里。河南省老年人权益保障条例规定，领了独生子女父母光荣证的老人住院治疗期间，子女所在单位要给护理假。护理假每年累计不少于 20 日，期间视为出勤。福建省老年人权益保障条例规定，独生子女的父母年满 60 岁、患病住院治疗期间，用人单位要给子女护理时间。护理时间每年累计不超过 10 天，工资福利待遇不变。单位不付护理期间工资福利的，由人社部门或者有关部门责令限期给付。广东省人口与计划生育条例管的是国家提倡一对夫妻一个孩子那些年里，自愿只生一个孩子的本省户籍夫妻。他们年满 60 岁的，用人单位每年给子女 5 日护理假。患病住院的，每年累计不超过 15 日。单位不落实条例规定的假期，由县级以上人社部门责令改正。河南这部条例的法律责任一章，没写单位不给护理假怎么办",
+      "grade": "B",
+      "sources": "河南省人大常委会 (2018). 河南省老年人权益保障条例（第二十九条）. <https://flk.npc.gov.cn/detail?id=2c90e5ba65c68cf70165d0eed8020053>；福建省人大 (2017). 福建省老年人权益保障条例（第二十七条、第七十条）. <https://flk.npc.gov.cn/detail?id=4028abcc61277793016128072d0848f4>；广东省人大常委会 (2021). 广东省人口与计划生育条例（2021 年第九次修正，第三十六条第五项、第四十五条）. <https://flk.npc.gov.cn/detail?id=ff8081817fb1209d017fb5c92e623844>",
+      "notes": "查本省规定的办法：在国家法律法规数据库（flk.npc.gov.cn）搜「省名 + 老年人权益保障条例」和「省名 + 人口与计划生育条例」。两部都看，只看标着「有效」的那一版。省里没写的，再搜本市的条例。各省只给独生子女，有兄弟姐妹的多数不在条文里。单位不给假或者扣了工资，先打 12333 或者去人社局劳动监察投诉，不收费。要把扣的钱要回来，也可以申请劳动仲裁，不收费，受理后 45 天内结案，最多再延 15 天。河南条文写的是「不少于」20 日，福建、广东写的是「不超过」，后两省单位给得少也不算违规。给 B 是因为天数和条件各省自己定。受益人是你的父母，钱落在你自己身上。三省的天数按截至 2026 年 10 月的条例写，以后可能修订。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱",
+      "人群": "老人"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Là con một, khi cha mẹ nằm viện hãy tra điều lệ tỉnh mình có nghỉ phép chăm sóc cho con không; có thì mang giấy xác nhận nằm viện xin đơn vị bằng văn bản",
+    "cost": "Không mất tiền. Vào cơ sở dữ liệu pháp luật quốc gia tìm hai điều lệ của tỉnh mình, mất hơn chục phút. Sau đó mang giấy xác nhận nằm viện nộp đơn bằng văn bản cho đơn vị. Khó ở chỗ đơn vị không muốn cho, xin nghỉ sợ mất lòng lãnh đạo.",
+    "plain": "Một số tỉnh quy định phép cho con một chăm sóc cha mẹ nằm viện, số ngày mỗi tỉnh khác nhau. Hà Nam ít nhất 20 ngày mỗi năm, Phúc Kiến không quá 10 ngày, Quảng Đông trường hợp nằm viện không quá 15 ngày. Hà Nam ghi tính là có mặt làm việc, Phúc Kiến ghi lương và phúc lợi giữ nguyên. Đơn vị không cho hoặc trừ tiền thì Phúc Kiến, Quảng Đông ghi rõ có thể tìm cơ quan nhân lực và an sinh xã hội.",
+    "benefit": "Các tỉnh ghi phép chăm sóc trong những văn bản địa phương khác nhau. Điều lệ Bảo đảm quyền lợi người cao tuổi tỉnh Hà Nam quy định, trong thời gian người cao tuổi có Giấy chứng nhận vinh dự cha mẹ sinh con một nằm viện điều trị, đơn vị của con phải cho phép chăm sóc. Tổng thời gian mỗi năm ít nhất 20 ngày, trong thời gian đó được tính là có mặt làm việc. Điều lệ Bảo đảm quyền lợi người cao tuổi tỉnh Phúc Kiến quy định, cha mẹ của con một từ đủ 60 tuổi nằm viện vì bệnh thì người sử dụng lao động phải dành thời gian chăm sóc cho con. Tổng mỗi năm không quá 10 ngày, lương và phúc lợi giữ nguyên. Đơn vị không trả lương, phúc lợi trong thời gian chăm sóc thì cơ quan nhân lực và an sinh xã hội hoặc cơ quan liên quan yêu cầu trả trong thời hạn nhất định. Điều lệ Dân số và kế hoạch hóa gia đình tỉnh Quảng Đông áp dụng cho vợ chồng có hộ khẩu tỉnh này, tự nguyện chỉ sinh một con trong những năm Nhà nước chủ trương mỗi cặp vợ chồng một con. Khi họ đủ 60 tuổi, đơn vị cho con 5 ngày phép chăm sóc mỗi năm. Nằm viện vì bệnh thì tổng mỗi năm không quá 15 ngày. Đơn vị không thực hiện chế độ phép theo điều lệ thì cơ quan nhân lực và an sinh xã hội từ cấp huyện trở lên yêu cầu sửa. Chương trách nhiệm pháp lý của điều lệ Hà Nam không ghi phải làm gì khi đơn vị không cho nghỉ chăm sóc.",
+    "notes": "Cách tra quy định tỉnh mình: vào cơ sở dữ liệu pháp luật quốc gia (flk.npc.gov.cn), tìm ‘tên tỉnh + Điều lệ Bảo đảm quyền lợi người cao tuổi’ và ‘tên tỉnh + Điều lệ Dân số và kế hoạch hóa gia đình’. Xem cả hai, chỉ đọc bản ghi ‘còn hiệu lực’. Tỉnh không quy định thì tìm tiếp điều lệ thành phố. Các tỉnh chỉ dành cho con một, người có anh chị em đa số không nằm trong điều khoản. Đơn vị không cho nghỉ hoặc trừ lương thì gọi 12333 trước hoặc khiếu nại thanh tra lao động thuộc cơ quan nhân lực và an sinh xã hội, không thu phí. Muốn đòi lại tiền bị trừ cũng có thể yêu cầu trọng tài lao động, miễn phí, giải quyết xong trong 45 ngày từ khi thụ lý, tối đa gia hạn thêm 15 ngày. Điều khoản Hà Nam ghi ‘ít nhất’ 20 ngày, Phúc Kiến và Quảng Đông ghi ‘không quá’, nên hai tỉnh sau đơn vị cho ít hơn cũng không tính là vi phạm. Xếp mức B vì số ngày và điều kiện do từng tỉnh định. Người hưởng lợi là cha mẹ bạn, tiền thuộc về chính bạn. Số ngày của ba tỉnh theo điều lệ tính đến tháng 10 năm 2026, sau này có thể sửa đổi.",
+    "extra": ""
+  }
+}

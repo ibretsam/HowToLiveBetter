@@ -1,0 +1,35 @@
+{
+  "id": "e-18-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "5fbd529ac16bbae79f749a8a0ef6786e26ed5c60827cf2c64dd0c5b88ba7737a",
+  "original": {
+    "number": 6,
+    "title": "为长辈生、为婚姻生、为养老生，各记一笔账",
+    "fields": {
+      "cost": "不花钱，花的是一次认真的谈话。难在要把话说开，不绕过去",
+      "plain": "别人希望你生，这可以算你的一个考虑因素。但时间和钱是记在你自己账上的。「养儿防老」要单独算一笔，因为它赌的是二十年后另一个人的经济能力和意愿。把不生的后果也写下来，两边对照。",
+      "benefit": "思路和第 10 节一样。别人的期待可以算你的一个考虑因素。但成本要记在你自己的账上，不记在他们账上。「养儿防老」尤其要单独算一笔，因为它假定的是二十年后另一个人的经济能力和意愿",
+      "grade": "C",
+      "sources": "作者经验，无直接文献；同类分析见第 10 节",
+      "notes": "把「不生的后果」也写下来，和「生的后果」放在一起对照着看。只写一边的账，不叫算账"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sinh con vì các bậc lớn tuổi trong gia đình, vì hôn nhân hay để có người chăm lúc già: tính riêng từng lý do",
+    "cost": "Không tốn tiền, cần một cuộc nói chuyện nghiêm túc. Khó ở chỗ phải nói thẳng, không né tránh",
+    "plain": "Người khác mong bạn sinh con có thể là một yếu tố để bạn cân nhắc. Nhưng thời gian và tiền bạc đều được tính vào phần chi phí của chính bạn. “Nuôi con để được chăm lúc già” phải tính riêng, vì đó là đặt cược vào khả năng tài chính và ý muốn của một người khác sau hai mươi năm. Ghi cả hậu quả không sinh con để đối chiếu hai bên.",
+    "benefit": "Cách nghĩ giống chương 10. Mong đợi của người khác có thể là một yếu tố để bạn cân nhắc. Nhưng chi phí phải tính vào phần của bạn, không phải phần của họ. Đặc biệt phải tính riêng “nuôi con để được chăm lúc già”, vì điều đó giả định khả năng tài chính và ý muốn của một người khác sau hai mươi năm",
+    "notes": "Ghi cả “hậu quả không sinh con”, đặt cạnh “hậu quả sinh con” để đối chiếu. Chỉ ghi một bên thì không gọi là tính toán",
+    "extra": ""
+  }
+}

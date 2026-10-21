@@ -1,0 +1,35 @@
+{
+  "id": "e-8-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "7b6b5d505f4d7726c7a5821d7c5fa7c78c9b78b2e92ca88b1f6bc961f226802f",
+  "original": {
+    "number": 20,
+    "title": "被起诉、被执行了，如实报财产、能还多少还多少，别把房和钱转给亲友或公司",
+    "fields": {
+      "cost": "不花钱。按法院的要求报告财产：现在有什么，收到执行通知那天之前一年里有什么。能还的先还。还不上，就和申请执行人谈和解、谈分期，申请执行人就是要债的那一方。",
+      "plain": "把房子白送或假转让给公司、把钱转给亲友，让判决没法执行，就是拒执罪。拒执罪判 3 年以下，情节特别严重的判 3 到 7 年。明知还帮着藏钱过户的亲友按同伙算，钱照样追回。拒绝报告或者虚报财产，个人可罚 10 万元以下、拘留 15 日以下。",
+      "benefit": "转移财产本身就是入罪的情形。全国人大常委会对刑法第三百一十三条作过解释。解释把「被执行人隐藏、转移、故意毁损财产或者无偿转让财产、以明显不合理的低价转让财产，致使判决、裁定无法执行」直接列为「有能力执行而拒不执行，情节严重」。藏钱、转钱、故意砸了自己的东西、白送出去、贱卖出去，让判决没法执行，都算。两高（最高人民法院和最高人民检察院）2024 年的解释又补了十项。其中包括用假和解、假转让的方式处置自己的财产权益。也包括用明显不合理的高价买下别人的财产，替别人的债务做担保。这些都是故意把自己可以用来还债的财产掏空。拒执罪判 3 年以下。情节特别严重的，判 3 到 7 年并处罚金。特别严重指这几种情形：用虚假诉讼、虚假仲裁、虚假公证妨害执行。聚众冲击执行现场。围攻、扣押、殴打执行人员。因为拒不执行导致申请执行人自杀自残。不是案件当事人的外人，明知情况还和他串通、帮着藏钱过户的，按拒执罪的共犯（同伙）论处。被违法处置的财产应当依法追缴（追回）或者责令退赔。在被告收到应诉通知之后、判决生效之前就动手转移的，同样算。民事上，白送和明显不合理的低价转让，要债的人可以请法院把这笔转让撤销。拒绝报告或者虚假报告财产的，法院可以罚款，对个人 10 万元以下。也可以拘留 15 日以下（全国，两高解释 2024 年 12 月起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2002). 关于《中华人民共和国刑法》第三百一十三条的解释. <https://www.gov.cn/gongbao/content/2002/content_61738.htm>；最高人民法院、最高人民检察院 (2024). 关于办理拒不执行判决、裁定刑事案件适用法律若干问题的解释（法释〔2024〕13 号，第三、四、五、六、八、十一、十二条）. 最高法发布页，全文核对自广东省广州监狱转载. <https://www.court.gov.cn/fabu/xiangqing/447931.html>、<http://gzjy.gd.gov.cn/zxxx/content/post_4608108.html>；全国人大常委会 (2015). 刑法修正案（九）（第三十九条，修改刑法第三百一十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>；全国人大 (2020). 民法典（第五百三十八、五百三十九、五百四十条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2023 修正). 民事诉讼法（第一百一十四、一百一十八、二百五十二条）. 贵州省市场监管局转载：<https://amr.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/zcfg/fl/202401/t20240129_83645867.html>",
+      "notes": "网上流传的「把房子挂到公司名下当员工宿舍、钱全转给亲属」不是漏洞，正好是司法解释点名的白送和假转让。帮你操作的亲友和公司按同伙算，该追回的财产照样追回。反过来，真没钱不构成这个罪。判断你是不是「有钱不还」，要先扣掉你自己和你要养的家人过日子必需的开销。在检察院起诉之前把钱还上一部分或者全部、情节又轻的，可以不起诉。一审判决之前还上的，可以从轻甚至免罚。被列入名单、被限制消费之后怎么办，见第 21 条（被限制消费或者被列入失信名单）。履行完之后怎么恢复，见第 7 节第 19 条（上过失信名单之后怎么重来）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị kiện, bị thi hành án thì khai tài sản trung thực, trả được bao nhiêu trả bấy nhiêu; đừng chuyển nhà và tiền cho người thân, bạn bè hay công ty",
+    "cost": "Không mất tiền. Khai tài sản theo yêu cầu của tòa: hiện có gì, trong một năm trước ngày nhận thông báo thi hành án đã có gì. Trả được thì trả trước. Không trả nổi thì thương lượng hòa giải, trả góp với người yêu cầu thi hành án, tức bên đòi nợ.",
+    "plain": "Tặng không hoặc giả chuyển nhượng nhà cho công ty, chuyển tiền cho người thân, bạn bè khiến bản án không thể thi hành là tội từ chối thi hành bản án, quyết định. Tội này bị phạt tù đến 3 năm; tình tiết đặc biệt nghiêm trọng thì từ 3 đến 7 năm. Người thân, bạn bè biết rõ mà vẫn giúp giấu tiền, sang tên được tính là đồng phạm, tiền vẫn bị thu hồi. Từ chối khai hoặc khai tài sản gian dối, cá nhân có thể bị phạt tối đa 10 vạn tệ, tạm giữ tối đa 15 ngày.",
+    "benefit": "Chuyển dịch tài sản tự nó là một trường hợp có thể cấu thành tội. Ủy ban Thường vụ Nhân đại toàn quốc đã giải thích Điều ba trăm mười ba Bộ luật Hình sự. Giải thích này trực tiếp liệt kê ‘người phải thi hành án che giấu, chuyển dịch, cố ý hủy hoại tài sản hoặc chuyển tài sản không có đối giá, chuyển nhượng tài sản với giá thấp rõ ràng bất hợp lý, khiến bản án, quyết định không thể thi hành’ là ‘có khả năng thi hành nhưng từ chối, tình tiết nghiêm trọng’. Giấu tiền, chuyển tiền, cố ý phá đồ của mình, cho không, bán rẻ khiến bản án không thể thi hành đều tính. Giải thích năm 2024 của hai cơ quan tư pháp tối cao (Tòa án nhân dân tối cao và Viện kiểm sát nhân dân tối cao) bổ sung thêm mười trường hợp. Trong đó có định đoạt quyền lợi tài sản của mình bằng hòa giải giả, chuyển nhượng giả. Cũng có mua tài sản của người khác với giá cao rõ ràng bất hợp lý, bảo lãnh nợ cho người khác. Tất cả đều là cố ý làm cạn tài sản có thể dùng trả nợ. Tội từ chối thi hành bản án, quyết định bị phạt tù đến 3 năm. Tình tiết đặc biệt nghiêm trọng thì từ 3 đến 7 năm tù và phạt tiền. Đặc biệt nghiêm trọng gồm các trường hợp: dùng vụ kiện giả, trọng tài giả, công chứng giả để cản trở thi hành; tụ tập đám đông xông vào nơi thi hành; bao vây, giữ, đánh người thi hành; do từ chối thi hành khiến người yêu cầu thi hành án tự sát hoặc tự gây thương tích. Người ngoài không phải đương sự, biết rõ tình hình mà vẫn thông đồng, giúp giấu tiền, sang tên thì bị xử lý là đồng phạm của tội từ chối thi hành bản án, quyết định. Tài sản bị định đoạt trái pháp luật phải được truy thu (thu hồi) hoặc buộc hoàn trả, bồi hoàn theo luật. Chuyển tài sản sau khi bị đơn nhận thông báo tham gia tố tụng nhưng trước khi bản án có hiệu lực cũng tính. Về dân sự, cho không hoặc chuyển nhượng với giá thấp rõ ràng bất hợp lý thì chủ nợ có thể yêu cầu tòa hủy giao dịch đó. Từ chối khai hoặc khai tài sản gian dối thì tòa có thể phạt tiền, với cá nhân là tối đa 10 vạn tệ; cũng có thể tạm giữ tối đa 15 ngày (toàn Trung Quốc; giải thích của hai cơ quan tư pháp tối cao áp dụng từ tháng 12 năm 2024).",
+    "notes": "Cách lan truyền trên mạng ‘chuyển nhà sang tên công ty làm ký túc xá nhân viên, chuyển hết tiền cho người thân’ không phải kẽ hở, mà chính là cho không và chuyển nhượng giả được giải thích tư pháp nêu tên. Người thân, bạn bè và công ty giúp bạn làm được tính là đồng phạm; tài sản phải thu hồi vẫn bị thu hồi. Ngược lại, thực sự không có tiền thì không cấu thành tội này. Để xác định bạn có ‘có tiền mà không trả’ hay không, trước hết phải trừ chi phí sinh hoạt thiết yếu cho bản thân và những người trong gia đình bạn phải nuôi. Trước khi viện kiểm sát truy tố, trả một phần hoặc toàn bộ tiền, đồng thời tình tiết nhẹ thì có thể không bị truy tố. Trả trước bản án sơ thẩm thì có thể được xử nhẹ hơn, thậm chí miễn phạt. Sau khi bị đưa vào danh sách hoặc hạn chế tiêu dùng nên làm gì, xem mục 21 (bị hạn chế tiêu dùng hoặc đưa vào danh sách thất tín). Cách khôi phục sau khi đã thực hiện xong nghĩa vụ xem chương 7 mục 19 (bắt đầu lại sau khi từng vào danh sách thất tín).",
+    "extra": ""
+  }
+}

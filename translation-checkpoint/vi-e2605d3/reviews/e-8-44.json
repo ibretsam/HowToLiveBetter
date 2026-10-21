@@ -1,0 +1,15 @@
+{
+  "id": "e-8-44",
+  "source_sha256": "fc9cda5dff1223cd7e413359f75de5b161c0bdfab4ddfd77eb757c845f43315b",
+  "draft_sha256": "53797d1cf02993d40b1174045c5ba8a52dcb7286d840239c44d4362de0e75774",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved creditor knew/ought-to-know distinction in detail, unlawful-use debt vs innocent-creditor loan repayment, nonborrower trial protection,2017notice/historical-law caveat, evidence requirements, statutory extendable6month vs3month procedures, lawyer fees and crossrefs. No translation change. Source broad legal summary retained rather than supplemented."
+}

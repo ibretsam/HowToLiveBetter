@@ -1,0 +1,35 @@
+{
+  "id": "e-1-31",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "14a611df8addfddfe2d5322b90e0854916900cd8aab3fe6c94e0c5564f06b625",
+  "original": {
+    "number": 31,
+    "title": "有过高危行为就去查一次艾滋病，疾控中心免费、结果保密",
+    "fields": {
+      "cost": "不花钱。跑一趟疾控或者指定的医疗机构，抽一管血。难的地方是开口去查这一步。",
+      "plain": "去疾控查艾滋病不花钱。没有你本人同意，任何单位和个人都不得公开你的姓名、住址、工作单位和病史。查出来也不是判死刑：坚持吃药把病毒压到测不出来的人，不会再传给性伴侣。研究里这样的伴侣之间，一例都没有传上。",
+      "benefit": "《艾滋病防治条例》第二十三条写明。县级以上地方人民政府卫生主管部门会指定一些医疗卫生机构。这些机构「应当为自愿接受艾滋病咨询、检测的人员免费提供咨询和初筛检测」。查得早的意义不是心理安慰：现在的抗病毒治疗能把病毒压到检测不到。世界卫生组织的口径是「接受抗病毒治疗且病毒载量检测不到的感染者不会把 HIV 传染给性伴侣」。PARTNER 研究跟踪了 782 对同性伴侣，每对都是一方感染、一方没感染，学名叫血清不一致。合计 1593 对年（每对跟踪年数相加）。期间共 76088 次无套性行为，出现 15 例新感染。比对病毒基因做系统发育分析之后，这 15 例全部不来自伴侣，伴侣间传播为零。《艾滋病防治条例》第三十九条规定：「未经本人或者其监护人同意，任何单位或者个人不得公开艾滋病病毒感染者、艾滋病病人及其家属的姓名、住址、工作单位、肖像、病史资料以及其他可能推断出其具体身份的信息。」",
+      "grade": "A",
+      "sources": "国务院 (2006). 艾滋病防治条例（第三、二十三、三十八、三十九条）. <https://wjw.beijing.gov.cn/zwgk_20040/zcwj2022/flfg/202304/t20230408_2992986.html>（北京市卫生健康委员会转载）；Rodger AJ, Cambiano V, Bruun T, et al. (2019). Risk of HIV transmission through condomless sex in serodifferent gay couples with the HIV-positive partner taking suppressive antiretroviral therapy (PARTNER): final results of a multicentre, prospective, observational study. The Lancet, 393(10189), 2428-2438. <https://doi.org/10.1016/S0140-6736(19)30418-0>；广东省疾病预防控制中心. 艾滋病检测窗口期科普. <https://web.archive.org/web/20260915151957/https://cdcp.gd.gov.cn/jkjy/kpydjwjxz/content/post_3441820.html>（窗口期那个数字；原页面已下线，链接为 2026-09-15 的网页存档）",
+      "notes": "窗口期决定什么时候查才算数。广东省疾控中心的口径是：核酸检测约 1 周、第四代抗原抗体联合检测约 2 周、第三代抗体检测约 3 周可以检出。建议至少 2 周后再查，间隔 2 至 4 周复查一次。最后一次高危行为满 3 个月后，99.99% 以上可以排除感染。自测试剂显示阳性不等于确诊，必须去疾控或者正规机构复核。条例第三条写明，任何单位和个人不得歧视感染者及其家属，婚姻、就业、就医、入学等权益受法律保护。第三十八条同时规定，感染者有义务「将感染或者发病的事实及时告知与其有性关系者」。孕期的三病筛查和母婴阻断见第 27 节"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đã có hành vi nguy cơ cao thì đi xét nghiệm HIV; trung tâm kiểm soát bệnh tật xét nghiệm miễn phí và bảo mật kết quả",
+    "cost": "Không tốn tiền. Đến trung tâm kiểm soát bệnh tật hoặc cơ sở y tế được chỉ định, lấy một ống máu. Khó ở bước mở lời đi xét nghiệm.",
+    "plain": "Xét nghiệm HIV tại trung tâm kiểm soát bệnh tật không tốn tiền. Không được bạn đồng ý, không tổ chức hay cá nhân nào được công khai tên, địa chỉ, nơi làm việc và bệnh sử của bạn. Phát hiện nhiễm cũng không phải án tử: người kiên trì uống thuốc để virus xuống dưới mức phát hiện sẽ không truyền cho bạn tình. Trong nghiên cứu, không có trường hợp lây giữa những cặp như vậy.",
+    "benefit": "Điều hai mươi ba của Quy định phòng chống AIDS nêu rõ cơ quan y tế thuộc chính quyền địa phương từ cấp huyện trở lên chỉ định một số cơ sở y tế. Những cơ sở này phải cung cấp tư vấn và xét nghiệm sàng lọc ban đầu miễn phí cho người tự nguyện nhận tư vấn và xét nghiệm HIV. Phát hiện sớm có ý nghĩa vượt ngoài an ủi tâm lý: điều trị kháng virus hiện nay có thể hạ virus xuống mức không phát hiện được. Theo Tổ chức Y tế thế giới, người nhiễm đang điều trị kháng virus và có tải lượng virus không phát hiện được sẽ không truyền HIV cho bạn tình. Nghiên cứu PARTNER theo dõi 782 cặp bạn tình đồng giới, mỗi cặp một người nhiễm và một người không nhiễm, chuyên môn gọi là khác biệt tình trạng huyết thanh. Tổng cộng 1593 cặp-năm, tức cộng số năm theo dõi từng cặp. Trong thời gian đó có 76088 lần quan hệ không bao cao su và 15 ca nhiễm mới. Phân tích phát sinh chủng loại bằng so sánh gene virus cho thấy cả 15 ca đều không bắt nguồn từ bạn tình trong cặp; số lây giữa hai người trong cặp bằng không. Điều ba mươi chín của Quy định phòng chống AIDS quy định: không được chính người đó hoặc người giám hộ đồng ý thì mọi tổ chức và cá nhân đều không được công khai tên, địa chỉ, nơi làm việc, hình ảnh, thông tin bệnh sử và thông tin khác có thể suy ra danh tính cụ thể của người nhiễm HIV, người bệnh AIDS và người nhà họ.",
+    "notes": "Giai đoạn cửa sổ quyết định xét nghiệm lúc nào mới có giá trị. Theo Trung tâm Kiểm soát bệnh tật Quảng Đông, xét nghiệm axit nucleic có thể phát hiện sau khoảng 1 tuần, xét nghiệm kết hợp kháng nguyên và kháng thể thế hệ thứ tư khoảng 2 tuần, xét nghiệm kháng thể thế hệ thứ ba khoảng 3 tuần. Khuyến nghị đợi ít nhất 2 tuần rồi xét nghiệm, xét nghiệm lại sau khoảng 2 đến 4 tuần. Khi đủ 3 tháng từ hành vi nguy cơ cao cuối cùng, có thể loại trừ nhiễm từ 99.99% trở lên. Bộ tự xét nghiệm báo dương tính không đồng nghĩa chẩn đoán xác định; phải đến trung tâm kiểm soát bệnh tật hoặc cơ sở chính quy để xác nhận. Điều ba của quy định nêu rõ tổ chức và cá nhân không được kỳ thị người nhiễm và người nhà; quyền về hôn nhân, việc làm, khám chữa bệnh, nhập học và các mặt khác được pháp luật bảo vệ. Điều ba mươi tám đồng thời quy định người nhiễm có nghĩa vụ kịp thời cho người có quan hệ tình dục với mình biết việc mình nhiễm hoặc phát bệnh. Sàng lọc ba bệnh trong thai kỳ và ngăn lây mẹ con xem phần 27.",
+    "extra": ""
+  }
+}

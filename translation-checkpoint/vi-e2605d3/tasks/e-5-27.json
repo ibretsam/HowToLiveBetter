@@ -1,0 +1,35 @@
+{
+  "id": "e-5-27",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "23d47622ab912c317de7dc071c0f4ff79cd1011e122896715691b76c3b5aa207",
+  "original": {
+    "number": 27,
+    "title": "先存出 3 到 6 个月生活费的应急金，放在随时能取的地方",
+    "fields": {
+      "cost": "不花钱。代价是这笔钱要放弃更高的收益，只能放在活期、货币基金，或者随时能取的存款里。难的是攒的过程中忍住不动它。",
+      "plain": "把 3 到 6 个月的生活费放在随时能取出来的地方。这样失业或者生病的时候，你就不用去借信用卡最低还款这类高息的钱，也不用亏着把手里的投资卖掉。存在银行里的钱有存款保险，同一家银行最高赔 50 万元。",
+      "benefit": "有了应急金，失业或者生病的时候你就不用去借钱，也不用亏着把投资卖掉。消费贷和信用卡最低还款按年算的利率，见本节第 7 条（不用信用卡最低还款）。存在银行里的钱受存款保险保护，同一家银行最高偿付 50 万元（中国，2015 年）",
+      "grade": "C",
+      "sources": "国务院 (2015). 存款保险条例（国务院令第 660 号，第五条）. <https://www.gov.cn/zhengce/content/2015-03/31/content_9562.htm>；中国人民银行、国家金融监督管理总局、中国证券监督管理委员会 (2025). 金融机构客户尽职调查和客户身份资料及交易记录保存管理办法（令〔2025〕第 11 号，第七、二十八、五十二条，2026 年 1 月 1 日起施行）. <https://www.pbc.gov.cn/tiaofasi/144941/144957/5916164/index.html>；中共上海市委金融委员会办公室 (2025-12-01). 央行等三部门发布新规，银行取钱不再「一刀切」式询问：「文件删除了“个人存取现金超5万元需登记资金来源”」. <https://jrj.sh.gov.cn/ZXYW178/20251201/1da352ee5150414b8db1ce248f4e37c6.html>",
+      "notes": "「3 到 6 个月」是大家通行的经验，没有找到官方或者学术上的原始出处，所以标成 C 级。金额按你自己每月的固定支出来算，不按收入算。2026 年 1 月 1 日起施行的反洗钱新办法里，已经没有「个人存取现金超 5 万元需登记资金来源」这一条。新办法要银行在洗钱风险较高时了解资金来源和用途，不再对所有人一刀切地问。就算银行要限制交易，也要保障医疗、社会保障这类基本的、必需的金融服务。交医药费可以直接转账或刷卡，不用先取现金。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Trước tiên tích quỹ khẩn cấp bằng 3 đến 6 tháng sinh hoạt phí, để nơi rút bất cứ lúc nào",
+    "cost": "Không tốn tiền. Đổi lại, khoản tiền này phải bỏ qua lợi nhuận cao hơn, chỉ để ở tài khoản không kỳ hạn, quỹ thị trường tiền tệ hoặc tiền gửi có thể rút bất cứ lúc nào. Cái khó là trong lúc tích lũy phải kiềm chế không động đến.",
+    "plain": "Để 3 đến 6 tháng sinh hoạt phí ở nơi rút bất cứ lúc nào. Như vậy, khi thất nghiệp hoặc bị bệnh, bạn không cần vay lãi cao kiểu trả tối thiểu thẻ tín dụng, cũng không cần bán lỗ khoản đầu tư đang giữ. Tiền gửi ngân hàng có bảo hiểm tiền gửi, mức bồi thường tối đa ở cùng một ngân hàng là 50 vạn nhân dân tệ.",
+    "benefit": "Có quỹ khẩn cấp thì khi thất nghiệp hoặc bị bệnh bạn không phải vay, cũng không phải bán lỗ khoản đầu tư. Lãi suất quy năm của vay tiêu dùng và trả tối thiểu thẻ tín dụng xem mục 7 của chương này (không trả mức tối thiểu thẻ tín dụng). Tiền gửi ngân hàng được bảo hiểm tiền gửi bảo vệ, mức chi trả tối đa tại cùng một ngân hàng là 50 vạn nhân dân tệ (Trung Quốc, năm 2015).",
+    "notes": "“3 đến 6 tháng” là kinh nghiệm phổ biến, chưa tìm được nguồn gốc chính thức hoặc học thuật, nên xếp C. Tính số tiền theo chi cố định hằng tháng của bạn, không theo thu nhập. Nội dung này không cấu thành lời khuyên đầu tư.",
+    "extra": ""
+  }
+}

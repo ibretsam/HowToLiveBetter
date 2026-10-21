@@ -1,0 +1,35 @@
+{
+  "id": "e-3-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "f58c7a7752fa1fab17450168e4092b8cd7ad3c846a566a6277d3fd9801812a1a",
+  "original": {
+    "number": 3,
+    "title": "每晚睡够 7 到 8 小时，别把 6 小时当作够用",
+    "fields": {
+      "cost": "不花钱。每天要多留 1 到 2 小时给睡眠。早一点上床，需要一点毅力。",
+      "plain": "连着两周每晚只睡 6 小时，脑子的表现会掉到相当于两天两夜没合眼的水平。麻烦的是自己感觉不到。自己打分的困倦头几天涨完就不再涨，睡 6 小时的人和睡 4 小时的人打分一样困。所以「我睡 6 小时够用」这种感觉靠不住。",
+      "benefit": "48 名 21 到 38 岁的健康成人，连续 14 天每晚只睡 6 小时。他们的脑力表现累计下降，掉到相当于连续 2 晚完全不睡的水平。而自己打分的困倦程度只在头几天上升，之后几乎不再增加。6 小时组和 4 小时组的自评困倦没有差别。这是把人随机分成两组做的对照试验（RCT）。另外，短时间不睡（急性睡眠剥夺，不超过 48 小时）对简单注意力走神的效果大小 g = -0.776，对推理准确率 g = -0.125。这部分是把 70 项研究合起来算的。",
+      "grade": "A",
+      "sources": "Van Dongen, Maislin, Mullington & Dinges (2003). The cumulative cost of additional wakefulness. Sleep. <https://doi.org/10.1093/sleep/26.2.117>；Lim & Dinges (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin. <https://doi.org/10.1037/a0018883>",
+      "notes": "最重要的一点是，「自己觉得不困」不是睡够了的证据。长期睡 6 小时的人只是感觉上习惯了，表现并没有跟上。汇总多项研究的那部分说的是整夜不睡。「长期少睡」只有一项随机对照试验支持。睡多久和死亡风险的关系另算，见第 2 节第 13 条（每晚睡 7 小时左右）：那边按死亡率算，7 小时那档风险最低。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ngủ đủ 7 đến 8 giờ mỗi đêm, đừng coi 6 giờ là đủ",
+    "cost": "Không tốn tiền. Mỗi ngày cần dành thêm 1 đến 2 giờ cho giấc ngủ. Đi ngủ sớm hơn cần một chút ý chí.",
+    "plain": "Chỉ ngủ 6 giờ mỗi đêm suốt hai tuần khiến khả năng làm việc của não giảm xuống mức tương đương hai ngày hai đêm không chợp mắt. Điều khó là bản thân không nhận ra: cảm giác buồn ngủ tự chấm điểm chỉ tăng trong vài ngày đầu rồi ngừng tăng. Người ngủ 6 giờ tự đánh giá buồn ngủ ngang người ngủ 4 giờ. Vì vậy, cảm giác “tôi ngủ 6 giờ là đủ” không đáng tin.",
+    "benefit": "48 người trưởng thành khỏe mạnh từ 21 đến 38 tuổi chỉ ngủ 6 giờ mỗi đêm trong 14 ngày liên tiếp. Khả năng làm việc trí óc của họ giảm tích lũy đến mức tương đương hoàn toàn không ngủ trong 2 đêm liên tiếp. Trong khi đó, mức buồn ngủ tự chấm điểm chỉ tăng vài ngày đầu rồi gần như không tăng nữa. Nhóm ngủ 6 giờ và nhóm ngủ 4 giờ không khác nhau về mức buồn ngủ tự đánh giá. Đây là thử nghiệm đối chứng phân ngẫu nhiên người tham gia thành hai nhóm (RCT). Ngoài ra, không ngủ trong thời gian ngắn (thiếu ngủ cấp tính, không quá 48 giờ) có cỡ hiệu ứng g = -0.776 đối với những lần mất tập trung trong nhiệm vụ chú ý đơn giản, và g = -0.125 đối với độ chính xác suy luận. Phần này tổng hợp 70 nghiên cứu.",
+    "notes": "Điều quan trọng nhất là “tự thấy không buồn ngủ” không chứng minh đã ngủ đủ. Người thường xuyên ngủ 6 giờ chỉ quen về cảm giác, còn khả năng làm việc không theo kịp. Phần tổng hợp nhiều nghiên cứu nói về việc thức trắng đêm. Nhận định về “thường xuyên ngủ ít” chỉ được hỗ trợ bởi một thử nghiệm đối chứng ngẫu nhiên. Mối liên hệ giữa thời lượng ngủ và nguy cơ tử vong được tính riêng, xem chương 2 mục 13 (ngủ khoảng 7 giờ mỗi đêm): mục đó tính theo tỷ lệ tử vong, với nhóm 7 giờ có nguy cơ thấp nhất.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-3-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "b02df425c612c4899272e7e01253f89768d7169b090f70323002279c88ab4d53",
+  "original": {
+    "number": 10,
+    "title": "深夜不做重大决定、不发要紧的消息",
+    "fields": {
+      "cost": "不花钱。只是把事情推到睡醒之后再办。",
+      "plain": "人睡饱的时候，很快就能学会躲开高风险的选项。连着两晚没睡之后，反而一次次挑高风险的，年纪越大越明显。少睡几小时有多大影响，没有直接测过，但要紧的决定还是推到睡醒以后。",
+      "benefit": "34 名健康人在 49.5 小时不睡之后，做爱荷华赌博任务。这是一种衡量风险决策的实验。休息充足时，他们能很快学会避开高风险选项。缺觉之后，反而更多地选高风险选项。年纪大的人受影响更大。这是一项实验，只有这一项研究。",
+      "grade": "B",
+      "sources": "Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x>",
+      "notes": "研究的是连续两晚不睡的极端情况。普通人熬到凌晨两点会怎样，没有直接测过。「不发消息」那半是作者经验（C 级），第二天再发也不迟。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng quyết định việc lớn hoặc gửi tin nhắn quan trọng lúc đêm khuya",
+    "cost": "Không tốn tiền. Chỉ hoãn việc đến sau khi ngủ dậy.",
+    "plain": "Khi ngủ đủ, người ta nhanh chóng học được cách tránh lựa chọn rủi ro cao. Sau hai đêm liền không ngủ, họ lại chọn những phương án rủi ro cao hết lần này đến lần khác; tuổi càng cao càng rõ. Ảnh hưởng của việc thiếu vài giờ ngủ chưa được đo trực tiếp, nhưng quyết định quan trọng vẫn nên để sau khi ngủ dậy.",
+    "benefit": "34 người khỏe mạnh làm nhiệm vụ đánh bạc Iowa sau 49.5 giờ không ngủ. Đây là thí nghiệm đo việc ra quyết định trong tình huống rủi ro. Khi được nghỉ ngơi đầy đủ, họ nhanh chóng học cách tránh lựa chọn rủi ro cao. Sau khi thiếu ngủ, họ lại chọn phương án rủi ro cao nhiều hơn. Người lớn tuổi bị ảnh hưởng mạnh hơn. Đây là một thí nghiệm và chỉ có một nghiên cứu này.",
+    "notes": "Nghiên cứu xét tình huống cực đoan là hai đêm liên tiếp không ngủ. Chưa đo trực tiếp chuyện gì xảy ra khi người bình thường thức đến hai giờ sáng. Phần “không gửi tin nhắn” là kinh nghiệm của tác giả (mức C); để hôm sau gửi cũng chưa muộn.",
+    "extra": ""
+  }
+}

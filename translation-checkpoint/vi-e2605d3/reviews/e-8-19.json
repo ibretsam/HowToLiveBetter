@@ -1,0 +1,15 @@
+{
+  "id": "e-8-19",
+  "source_sha256": "4e2876f29178a7a69480bc27c893544a871ced0d379c3bb86443270706ff5472",
+  "draft_sha256": "997d792234e3cd10ba59f4d935b1a4f3e41c8db62b0f079208765e5e308ca727",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved3year/20year/1year periods, knowledge of injury AND obligor detailed trigger, pre-expiry interruption, final installment trigger, four exceptions, ongoing-employment wage exception, postexpiry promise/voluntary payment distinctions and new19.20crossref. No translation change. Source simplified plain trigger and categorical recovery phrasing retained; no new exceptions inferred."
+}

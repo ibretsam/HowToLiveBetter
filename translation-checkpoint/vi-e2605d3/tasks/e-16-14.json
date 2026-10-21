@@ -1,0 +1,35 @@
+{
+  "id": "e-16-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "eb12b089ed6fa23d466464a2b874068fc7d530ee55e65da5b34de38dfd0c8360",
+  "original": {
+    "number": 14,
+    "title": "结肠癌做完手术和化疗的，参加有人指导的运动方案，坚持练满三年",
+    "fields": {
+      "cost": "走路这类运动不花钱。找医院的康复科或运动处方门诊做体能评估、开运动方案，要挂号费和检查费，请私人教练另算。每周要多花几个小时运动，还要坚持三年。练的人肌肉、关节受伤的多一些。",
+      "plain": "结肠癌做完手术和化疗以后，参加三年有人指导的运动方案的人，复发、长新癌或死亡的可能低约 28%，死亡低约 37%。8 年后还活着的，练的人约九成，只拿宣传材料的约八成三。练的人肌肉、关节受伤的多一些。",
+      "benefit": "一项在 55 个中心做的随机分组试验（CHALLENGE），收了 889 名结肠癌病人。他们都做完了手术和辅助化疗，属于高危 II 期或 III 期，入组时没有转移。化疗结束后 2 到 6 个月入组，入组前每周运动不到 150 分钟。445 人参加三年的运动方案，444 人只拿健康宣传材料。运动方案前 6 个月，每两周见一次运动指导员，谈怎么坚持，还要在指导员看着下练一次。6 到 12 个月改成面谈或电话，之后到第 3 年只留最少的支持。目标是比原来每周多出 10 个代谢当量小时（衡量运动量的单位）的运动，中等强度以上的运动都算，方案预计多数人会选走路。一年时，运动组每周的休闲运动量多了 15.6 个代谢当量小时，对照组多了 5.1。中位跟踪 7.9 年。复发、长新癌或死亡，运动组比对照组低约 28%，HR 0.72（95% CI 0.55–0.94）。5 年时没出这些事的，80.3% 对 73.9%。死亡低约 37%，HR 0.63（0.43–0.94）。8 年还活着的，90.3% 对 83.2%。肌肉骨骼方面的不良事件，18.5% 对 11.5%。同一试验的费用分析按加拿大公费医疗算，运动方案每人先花 2917 加元，但复发少了，5 年总费用反而每人少 1589 加元",
+      "grade": "A",
+      "sources": "Courneya KS, Vardy JL, O'Callaghan CJ, et al.; CHALLENGE Investigators (2025). Structured Exercise after Adjuvant Chemotherapy for Colon Cancer. New England Journal of Medicine, 393(1), 13-25. <https://doi.org/10.1056/NEJMoa2502760>；ClinicalTrials.gov NCT00819208. Colon Health and Life-Long Exercise Change Trial（试验方案与入组条件）. <https://clinicaltrials.gov/study/NCT00819208>；Courneya KS, Vardy JL, O'Callaghan CJ, et al. (2016). Effects of a Structured Exercise Program on Physical Activity and Fitness in Colon Cancer Survivors: One Year Feasibility Results from the CHALLENGE Trial. Cancer Epidemiology, Biomarkers & Prevention, 25(6), 969-977. <https://doi.org/10.1158/1055-9965.EPI-15-1267>；Chan KKW, Chu RWK, Cheung MC, et al.; CHALLENGE Investigators (2026). Structured Exercise Program After Adjuvant Chemotherapy for Colon Cancer: A Cost-Utility Analysis of the CHALLENGE Trial. Journal of Clinical Oncology, 44(22), 2130-2139. <https://doi.org/10.1200/JCO-26-00765>",
+      "notes": "试验只收结肠癌，不收直肠癌，也只收手术切干净、做完化疗、没转移的人。所以不能直接套到别的癌症和晚期病人身上。主要结果是复发、长新癌或死亡。总死亡是次要结果，作者的说法是「和活得更长相符」，没有把它当成定论。国内没有现成的同款项目，可以请肿瘤科或康复医学科开运动处方。开练前先做体能评估，试验里每人入组前都做了运动测试。走路的量怎么算，见第 2 节第 11 条（每天走到 7000–8000 步）。力量训练见第 2 节第 16 条（力量训练）。受益人主要是你自己。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sau phẫu thuật và hóa trị ung thư đại tràng, tham gia chương trình vận động có hướng dẫn và kiên trì tập đủ ba năm",
+    "cost": "Những hoạt động như đi bộ không tốn tiền. Đến khoa phục hồi chức năng hoặc phòng khám kê đơn vận động của bệnh viện để đánh giá thể lực và lập chương trình sẽ tốn phí đăng ký khám, kiểm tra; thuê huấn luyện viên riêng tính thêm. Mỗi tuần cần thêm vài giờ vận động và phải kiên trì ba năm. Người tập gặp chấn thương cơ, khớp nhiều hơn.",
+    "plain": "Sau phẫu thuật và hóa trị ung thư đại tràng, người tham gia chương trình vận động có hướng dẫn trong ba năm có khả năng tái phát, mắc ung thư mới hoặc tử vong thấp hơn khoảng 28%, tử vong thấp hơn khoảng 37%. Sau 8 năm, khoảng chín phần mười người tập còn sống, so với khoảng tám mươi ba phần trăm ở nhóm chỉ nhận tài liệu sức khỏe. Người tập bị chấn thương cơ, khớp nhiều hơn.",
+    "benefit": "Một thử nghiệm chia nhóm ngẫu nhiên tại 55 trung tâm (CHALLENGE) gồm 889 bệnh nhân ung thư đại tràng. Tất cả đã hoàn thành phẫu thuật và hóa trị bổ trợ, thuộc giai đoạn II nguy cơ cao hoặc giai đoạn III, không có di căn lúc tham gia. Họ vào nghiên cứu sau khi kết thúc hóa trị từ 2 đến 6 tháng và trước đó vận động chưa đến 150 phút mỗi tuần. Có 445 người tham gia chương trình vận động ba năm, 444 người chỉ nhận tài liệu hướng dẫn sức khỏe. Trong 6 tháng đầu của chương trình, cứ hai tuần họ gặp người hướng dẫn vận động một lần để trao đổi cách duy trì, đồng thời tập một buổi dưới sự giám sát. Từ 6 đến 12 tháng chuyển sang gặp trực tiếp hoặc gọi điện; từ đó đến năm thứ 3 chỉ giữ mức hỗ trợ tối thiểu. Mục tiêu là vận động thêm 10 giờ tương đương chuyển hóa mỗi tuần so với trước, một đơn vị đo lượng vận động; mọi hoạt động từ cường độ trung bình trở lên đều được tính. Chương trình dự kiến phần lớn sẽ chọn đi bộ. Sau một năm, lượng vận động lúc rảnh mỗi tuần tăng 15.6 giờ tương đương chuyển hóa ở nhóm vận động, còn nhóm đối chứng tăng 5.1. Thời gian theo dõi trung vị là 7.9 năm. Khả năng tái phát, mắc ung thư mới hoặc tử vong ở nhóm vận động thấp hơn nhóm đối chứng khoảng 28%, HR 0.72 (95% CI 0.55–0.94). Sau 5 năm, tỷ lệ chưa gặp những kết cục này là 80.3% so với 73.9%. Tử vong thấp hơn khoảng 37%, HR 0.63 (0.43–0.94). Sau 8 năm, tỷ lệ còn sống là 90.3% so với 83.2%. Biến cố bất lợi về cơ xương là 18.5% so với 11.5%. Phân tích chi phí của cùng thử nghiệm, tính theo hệ thống y tế công Canada, cho thấy chương trình vận động tốn trước 2917 đô la Canada mỗi người; nhưng nhờ ít tái phát hơn, tổng chi phí trong 5 năm lại thấp hơn 1589 đô la Canada mỗi người.",
+    "notes": "Thử nghiệm chỉ nhận bệnh nhân ung thư đại tràng, không nhận ung thư trực tràng, và chỉ nhận người đã được phẫu thuật cắt hết khối u, hoàn thành hóa trị, chưa di căn. Vì vậy, không thể áp dụng thẳng cho ung thư khác hoặc người bệnh giai đoạn muộn. Kết quả chính là tái phát, mắc ung thư mới hoặc tử vong. Tử vong chung là kết quả phụ; các tác giả nói kết quả “phù hợp với việc sống lâu hơn”, chưa coi là kết luận chắc chắn. Tại Trung Quốc chưa có sẵn chương trình giống hệt, nhưng có thể nhờ khoa ung bướu hoặc phục hồi chức năng kê đơn vận động. Trước khi tập phải đánh giá thể lực; mọi người trong thử nghiệm đều được kiểm tra khả năng vận động trước khi tham gia. Cách tính lượng đi bộ, xem chương 2 mục 11 (đi 7000–8000 bước mỗi ngày). Tập sức mạnh xem chương 2 mục 16 (tập sức mạnh). Người hưởng lợi chủ yếu là bạn.",
+    "extra": ""
+  }
+}

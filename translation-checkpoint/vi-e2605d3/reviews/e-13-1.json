@@ -1,0 +1,15 @@
+{
+  "id": "e-13-1",
+  "source_sha256": "128466aa3523177bc58a729f55a11f01fdb0363c7084b60a0c185c12930209e4",
+  "draft_sha256": "c75b15020d318dfb69e45162f5d0e67a0eae842f8ee784db867ac0feba9d0917",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves unresponsiveness and abnormal breathing including gasping; 3.9–16.1% represent different strata, explicitly not pre/post change. All cohorts and CPR/AED sequencing retained. Source chest-position/rate shorthand and civil-liability wording retained without independent clinical/legal reassessment."
+}

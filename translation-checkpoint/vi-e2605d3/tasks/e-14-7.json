@@ -1,0 +1,35 @@
+{
+  "id": "e-14-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "76025bbb80d3d48e6f16545da5016ef847a4f8569c286163a317da2d6f296129",
+  "original": {
+    "number": 7,
+    "title": "别为了用 App 点「全部同意」：不是必需的信息，你不同意也不能拒绝给你服务",
+    "fields": {
+      "cost": "不花钱。难的是要忍住不点「全部同意」。",
+      "plain": "App 要你的信息，如果不是提供这项服务必须用的，你不同意给，它不能因此不让你用。它能收的，也只限于用得着的那些。地图要你的位置是必须的，手电筒要你的通讯录就不是。",
+      "benefit": "法律明写了两条。一是不得以个人不同意、或者撤回同意为由，拒绝提供产品或者服务；处理这些信息属于提供服务所必需的除外。二是收集应当限于实现处理目的的最小范围，只能收用得着的那些",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第六条「收集个人信息，应当限于实现处理目的的最小范围，不得过度收集个人信息」；第十六条「个人信息处理者不得以个人不同意处理其个人信息或者撤回同意为由，拒绝提供产品或者服务；处理个人信息属于提供产品或者服务所必需的除外」；第十五条「基于个人同意处理个人信息的，个人有权撤回其同意。个人信息处理者应当提供便捷的撤回同意的方式」",
+      "notes": "判断标准是这项信息是不是提供这个服务所必需的。地图要位置是必需的，手电筒要通讯录不是。App 装完，先到手机设置里的应用权限页，把不必需的权限关掉。等真用到的时候，再选只这一次允许。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng bấm “đồng ý tất cả” chỉ để dùng ứng dụng: với thông tin không bắt buộc, dù bạn không đồng ý, họ cũng không được từ chối dịch vụ",
+    "cost": "Không tốn tiền. Cái khó là kiềm lại, không bấm “đồng ý tất cả”.",
+    "plain": "Nếu ứng dụng xin thông tin không cần thiết để cung cấp dịch vụ đó, bạn không đồng ý thì họ cũng không được vì vậy mà cấm bạn dùng. Họ chỉ được thu thập những thông tin cần dùng. Bản đồ cần vị trí của bạn, còn đèn pin thì không cần danh bạ.",
+    "benefit": "Luật ghi rõ hai điều. Không được từ chối cung cấp sản phẩm hoặc dịch vụ vì cá nhân không đồng ý hay rút lại sự đồng ý, trừ khi việc xử lý thông tin đó là cần thiết để cung cấp dịch vụ. Việc thu thập phải giới hạn trong phạm vi tối thiểu để đạt mục đích xử lý, chỉ được thu những thông tin cần dùng.",
+    "notes": "Tiêu chí là thông tin đó có cần thiết để cung cấp dịch vụ này hay không. Bản đồ cần vị trí, đèn pin không cần danh bạ. Sau khi cài ứng dụng, hãy vào trang quyền ứng dụng trong cài đặt điện thoại và tắt các quyền không cần thiết. Khi thật sự cần dùng thì chọn chỉ cho phép lần này.",
+    "extra": ""
+  }
+}

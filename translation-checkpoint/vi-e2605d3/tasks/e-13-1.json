@@ -1,0 +1,35 @@
+{
+  "id": "e-13-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "128466aa3523177bc58a729f55a11f01fdb0363c7084b60a0c185c12930209e4",
+  "original": {
+    "number": 1,
+    "title": "有人倒地、叫不应、没正常呼吸，立刻用力按压胸口，让旁人打 120 并找 AED",
+    "fields": {
+      "cost": "不花钱。红十字会或者医院的心肺复苏课，半天到一天，学一次够用多年。没学过也能做：双手叠起来放在两乳头连线的中点，每秒大约 2 次用力往下压，不要停。",
+      "plain": "心脏骤停常发生在家里，有人及时按压的，活着出院的比例更高。叫不应、没正常呼吸就按，偶尔倒气也不算正常呼吸。双手叠起来用力按压胸口，同时让旁人打 120、找 AED。",
+      "benefit": "79 项研究、142,740 人合起来算（荟萃分析）。心跳停在医院外面（院外心脏骤停）的人，活着出院的总共只有 7.6%。在场者做心肺复苏与较高的出院存活率有关。按各研究原有存活率分层后，接受在场者心肺复苏的人，出院存活率为 3.9% 到 16.1%。这两个数来自不同分层，不能当作按压前后的变化。有人在旁边看见发作的占 53%，真得到在场者按压的只有 32%。中国 BASIC-OHCA 登记了 38,227 例急救接诊病例。其中 30,282 例（79.2%）的心脏骤停发生在家中。这批人里，在场者按压率 20.3%，活着出院的 1.2%。顺序是先按压，再让第二个人打电话和拿 AED。机器开机后照着它的语音做。要不要按，看的是有没有正常呼吸。国际红十字 2025 年急救指南写明，心跳刚停的头几分钟，人可能还会不规则地、费力地倒气，或者大声喘。这不算正常呼吸。拿不准算不算正常，就当作不正常。呼吸不正常的，包括喘、呼吸不规则和没有呼吸，都要立刻做心肺复苏",
+      "grade": "A",
+      "sources": "Sasson C 等 (2010). Predictors of survival from out-of-hospital cardiac arrest: a systematic review and meta-analysis. Circulation: Cardiovascular Quality and Outcomes. <https://doi.org/10.1161/CIRCOUTCOMES.109.889576> ; Zheng J 等 (2023). Incidence, process of care, and outcomes of out-of-hospital cardiac arrest in China: a prospective study of the BASIC-OHCA registry. The Lancet Public Health. <https://doi.org/10.1016/S2468-2667(23)00173-1> ; International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 154 页：「If the person is breathing abnormally (gasping, taking irregular breaths or not breathing), start CPR immediately」；第 161 页：「In the first few minutes after cardiac arrest, a person may have agonal breathing (an irregular and laboured breathing pattern, or gasping noisily). This type of breathing is not normal. If there is any doubt about whether breathing is normal, assume it is not」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf> ; 全国人大 (2020). 民法典（第一百八十四条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "不满 1 岁的孩子手法不同，要吹气，见本节第 44 条（婴儿心肺复苏）。不要先掐人中，不要先找家属，不要先拍视频。也不要因为怕按断肋骨就不敢用力。民法典第一百八十四条写明：自愿做紧急救助、把受助人弄伤了，救助人不承担民事责任。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Có người ngã xuống, không thở: lập tức ép mạnh ngực, nhờ người bên cạnh gọi 120 và tìm AED",
+    "cost": "Không tốn tiền. Khóa hồi sinh tim phổi của Hội Chữ thập đỏ hoặc bệnh viện mất nửa ngày đến một ngày; học một lần dùng được nhiều năm. Chưa học vẫn làm được: chồng hai bàn tay lên nhau, đặt ở trung điểm đường nối hai núm vú, ép mạnh xuống khoảng 2 lần mỗi giây, không dừng.",
+    "plain": "Người bạn có khả năng phải ép ngực nhất là người nhà: 79.2% ca ngừng tim xảy ra ở nhà. Có người ép ngực, tỷ lệ sống ra viện tăng từ 3.9% lên 16.1%. Gọi không đáp, không thở thì ép ngay: chồng hai bàn tay ở trung điểm đường nối hai núm vú, ép mạnh 2 lần mỗi giây, liên tục. Nhờ người thứ hai gọi 120 và lấy AED, còn tay bạn đừng dừng.",
+    "benefit": "Gộp 79 nghiên cứu với 142,740 người để tính chung (phân tích tổng hợp). Trong những người ngừng tim ngoài bệnh viện, tổng cộng chỉ 7.6% sống ra viện. Khi người có mặt tại chỗ thực hiện hồi sinh tim phổi, tỷ lệ sống ra viện tăng từ 3.9% lên 16.1%. 53% có người chứng kiến lúc khởi phát, nhưng chỉ 32% thực sự được người tại chỗ ép ngực. Hệ thống đăng ký BASIC-OHCA của Trung Quốc ghi nhận 38,227 ca được lực lượng cấp cứu tiếp nhận. Trong đó, 30,282 ca (79.2%) ngừng tim tại nhà. Ở nhóm này, tỷ lệ được người tại chỗ ép ngực là 20.3%, tỷ lệ sống ra viện là 1.2%. Thứ tự là ép ngực trước, rồi nhờ người thứ hai gọi điện và lấy AED. Bật máy rồi làm theo hướng dẫn bằng giọng nói của máy.",
+    "notes": "Trẻ chưa đủ 1 tuổi cần kỹ thuật khác và phải thổi ngạt; xem mục 44 chương này (hồi sinh tim phổi cho trẻ nhũ nhi). Đừng bấm nhân trung trước, đừng đi tìm người nhà trước, đừng quay video trước. Cũng đừng vì sợ làm gãy xương sườn mà không dám ép mạnh. Điều một trăm tám mươi bốn của Bộ luật Dân sự ghi rõ: người tự nguyện cứu giúp trong tình huống khẩn cấp, làm người được cứu bị thương, không phải chịu trách nhiệm dân sự.",
+    "extra": ""
+  }
+}

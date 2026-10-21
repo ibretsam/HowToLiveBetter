@@ -1,0 +1,35 @@
+{
+  "id": "e-8-26",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "8b88f6e60f9189dba9883cff9e51f8611e16321ebbd85dc7bb70044b7dc22d61",
+  "original": {
+    "number": 26,
+    "title": "结婚前核对对方婚姻状况，以结婚为幌子骗钱的按诈骗罪追究",
+    "fields": {
+      "cost": "不花钱。登记之前看一眼对方的身份证和户口簿上的婚姻状况。大额的财物往来，留下转账记录和聊天记录。",
+      "plain": "重婚的婚姻无效。有配偶还去结婚，或者明知对方有配偶还跟他结婚的，判 2 年以下。以结婚为幌子骗钱的按诈骗罪追究，数额特别巨大的判 10 年以上或者无期。登记前看一眼对方身份证和户口簿上的婚姻状况。",
+      "benefit": "重婚的婚姻无效。有配偶还去重婚的，或者明知对方有配偶仍然和他结婚的，判 2 年以下。诈骗公私财物数额较大的，判 3 年以下并处罚金。数额巨大的，判 3 到 10 年。数额特别巨大的，判 10 年以上或者无期，并处罚金或者没收财产（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第一千零五十一条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大 (1997). 刑法（第二百五十八、二百六十六条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>",
+      "notes": "「骗婚」本身不是一个罪名。能不能按诈骗罪办，要看他一开始就想把钱占为己有，并且编了假话把钱骗到手，还得公安立案去查。够不够「数额较大」，金额由司法解释定，各地可以调整，本节没有核实。骗婚的受害者不分男女，被骗彩礼和被骗嫁妆的案例都有。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi kết hôn, kiểm tra tình trạng hôn nhân của đối phương; lấy kết hôn làm bình phong lừa tiền thì bị truy cứu về tội lừa đảo",
+    "cost": "Không mất tiền. Trước khi đăng ký, xem căn cước và tình trạng hôn nhân trên sổ hộ khẩu của đối phương. Giao nhận tài sản lớn phải lưu giao dịch chuyển tiền và lịch sử trò chuyện.",
+    "plain": "Hôn nhân trùng hôn vô hiệu. Có vợ/chồng mà còn kết hôn, hoặc biết đối phương có vợ/chồng mà vẫn kết hôn với họ thì bị phạt tù đến 2 năm. Lấy kết hôn làm bình phong lừa tiền bị truy cứu về tội lừa đảo; số tiền đặc biệt lớn thì từ 10 năm tù trở lên hoặc chung thân. Trước khi đăng ký, xem căn cước và tình trạng hôn nhân trên sổ hộ khẩu của đối phương.",
+    "benefit": "Hôn nhân trùng hôn vô hiệu. Có vợ/chồng mà còn kết hôn, hoặc biết đối phương có vợ/chồng mà vẫn kết hôn với họ thì bị phạt tù đến 2 năm. Lừa tài sản công hoặc tư với số tiền tương đối lớn thì bị phạt tù đến 3 năm và phạt tiền. Số tiền lớn thì từ 3 đến 10 năm tù. Số tiền đặc biệt lớn thì từ 10 năm tù trở lên hoặc chung thân, đồng thời phạt tiền hoặc tịch thu tài sản (toàn Trung Quốc).",
+    "notes": "‘Lừa hôn’ tự nó không phải một tội danh. Có xử lý theo tội lừa đảo được không phải xét người đó có ý định chiếm tiền ngay từ đầu, bịa lời để lấy được tiền hay không; công an còn phải khởi tố vụ án để điều tra. Có đạt mức ‘số tiền tương đối lớn’ hay không thì số tiền do giải thích tư pháp quy định, địa phương có thể điều chỉnh; chương này chưa xác minh. Nạn nhân lừa hôn không phân biệt nam nữ; có cả vụ lừa lễ vật cưới hỏi lẫn lừa của hồi môn.",
+    "extra": ""
+  }
+}

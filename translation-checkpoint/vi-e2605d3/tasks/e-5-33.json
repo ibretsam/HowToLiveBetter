@@ -1,0 +1,35 @@
+{
+  "id": "e-5-33",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "f21baa3bcc631574acb1f025301a8372e1a8f78663b7facbfab979ceb7d18d23",
+  "original": {
+    "number": 33,
+    "title": "手串、玉石、名表、潮玩按「花掉的钱」算账，不按「存下的钱」算",
+    "fields": {
+      "cost": "不花钱。只是别把「以后能升值」算进你买它的理由里。难的是忍住不为「保值」加预算。",
+      "plain": "这类东西的价钱里先含了一截消费税，增值税另算。每只 1 万元及以上的手表是 20%，金银铂金首饰和钻石是 5%，其他珠宝玉石是 10%。这笔税转手卖掉时拿不回来。真喜欢就当消费买，别算成理财。",
+      "benefit": "先看买入这一头。《消费税税目税率表》定的税率是这样的。「高档手表」20%。「贵重首饰及珠宝玉石」里，金银首饰、铂金首饰、钻石及钻石饰品 5%。其他贵重首饰和珠宝玉石 10%。「高档手表」的口径是「销售价格（不含增值税）每只在 10000 元（含）以上的各类手表」。再看变现这一头，依据是《典当管理办法》。第三十六条：典当期限最长不得超过 6 个月。第三十七条讲的是当金利率，指典当行借给你那笔钱的利息。这个利息按中国人民银行公布的 6 个月期法定贷款利率和典当期限折算。利息不得预扣，不能从给你的钱里先扣走。第三十八条：动产质押典当（押手表玉石这类东西）的月综合费率，不得超过当金的 42‰。每月另收的综合费用，不超过借款额的 4.2%。房地产抵押是 27‰，财产权利质押是 24‰。第四十条：期限到了以后 5 日内既不赎当也不续当，就算绝当，东西不再等你来赎。第四十三条：估价金额 3 万元以上的绝当物，可以委托拍卖。拍卖收入要先扣掉拍卖费用和当金本息。剩下的退还给当户，不够的部分还要向当户追索（全国）。消费税暂行条例只在第十一条规定出口的应税消费品免征，没有个人把买到的东西转手卖掉时退还消费税的规定",
+      "grade": "A",
+      "sources": "国务院 (2008). 中华人民共和国消费税暂行条例（国务院令第 539 号，附《消费税税目税率表》）. <https://www.gov.cn/zhengce/zhengceku/2008-11/14/content_1795.htm>；财政部、国家税务总局 (2006). 关于调整和完善消费税政策的通知（财税〔2006〕33 号）. <http://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080524_34758.htm>；商务部、公安部 (2005). 典当管理办法（2005 年第 8 号令，第三十六、三十七、三十八、四十、四十三条）. <https://www.gov.cn/gongbao/content/2005/content_93074.htm>",
+      "notes": "押给典当行要算清楚：每月的综合费用上限是借款额的 42‰，一年就是借款额的五成左右，借款的利息还要另算。这个「一年五成」是拿月费率直接乘 12 算的粗账，用来看个量级，不是精确的一年利率。税率和费率都是明文写着的数字。「这笔税转手拿不回来」是从条例里没有退税规定推出来的。「这类东西长期能不能升值」没有可以引用的官方统计，本书不做预测，也不点评任何品类。要拦的只是把消费当投资的那部分理由。喜欢、戴着高兴，按消费买没问题。以「保值」「以后能卖更高」为理由把预算加上去，才是亏钱的地方。黄金也分两头：按克重买卖的投资性金条，和按件卖的首饰不是一回事。首饰的价钱里含设计费和工费，回收的时候通常不算这部分。二手平台上的挂牌价不是成交价，别当行情看。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tính vòng hạt, ngọc đá quý, đồng hồ hàng hiệu, đồ chơi sưu tầm là “tiền đã tiêu”, không phải “tiền để dành”",
+    "cost": "Không tốn tiền. Chỉ đừng tính “sau này tăng giá” vào lý do mua. Cái khó là kiềm chế không tăng ngân sách vì “giữ giá”.",
+    "plain": "Giá những món này đã gồm một phần thuế tiêu thụ, thuế giá trị gia tăng tính riêng. Đồng hồ giá từ 1 vạn nhân dân tệ mỗi chiếc trở lên chịu 20%, trang sức vàng bạc bạch kim và kim cương 5%, trang sức ngọc đá quý khác 10%. Bán lại không lấy lại được khoản thuế này. Thực sự thích thì mua để tiêu dùng, đừng tính là đầu tư.",
+    "benefit": "Trước tiên xét phía mua. “Biểu thuế mục và thuế suất thuế tiêu thụ” quy định: “đồng hồ cao cấp” 20%; trong “trang sức quý và ngọc đá quý”, trang sức vàng bạc, bạch kim, kim cương và đồ trang sức kim cương là 5%; trang sức quý, ngọc đá quý khác 10%. “Đồng hồ cao cấp” được xác định là “các loại đồng hồ có giá bán (chưa gồm thuế giá trị gia tăng) từ 10000 nhân dân tệ mỗi chiếc trở lên, bao gồm mức này”. Tiếp theo xét việc đổi thành tiền, theo “Biện pháp quản lý cầm đồ”. Điều ba mươi sáu: thời hạn cầm đồ không quá 6 tháng. Điều ba mươi bảy nói về lãi suất tiền vay cầm đồ, tức lãi của khoản hiệu cầm đồ cho bạn vay, quy đổi theo lãi suất vay pháp định kỳ hạn 6 tháng do Ngân hàng Nhân dân Trung Quốc công bố và thời hạn cầm đồ. Không được khấu trừ lãi trước khỏi tiền giao cho bạn. Điều ba mươi tám: phí tổng hợp hằng tháng của cầm cố động sản (như đồng hồ, ngọc đá) không được vượt 42‰ khoản vay. Phí tổng hợp thu thêm mỗi tháng không quá 4.2% số tiền vay. Với thế chấp bất động sản là 27‰, cầm cố quyền tài sản 24‰. Điều bốn mươi: trong 5 ngày sau hết hạn mà không chuộc hoặc gia hạn thì thành tài sản cầm đồ quá hạn không chuộc, không tiếp tục chờ bạn đến chuộc. Điều bốn mươi ba: tài sản không chuộc có giá thẩm định từ 3 vạn nhân dân tệ trở lên có thể được ủy thác đấu giá. Tiền đấu giá phải trừ phí đấu giá, gốc và lãi vay trước; phần dư trả người cầm, phần thiếu còn truy đòi người cầm (toàn Trung Quốc). Quy định tạm thời về thuế tiêu thụ chỉ nêu ở điều mười một rằng hàng tiêu dùng chịu thuế xuất khẩu được miễn thuế, không có quy định hoàn thuế tiêu thụ khi cá nhân bán lại đồ đã mua.",
+    "notes": "Cầm đồ phải tính rõ: trần phí tổng hợp mỗi tháng là 42‰ khoản vay, một năm khoảng một nửa khoản vay, còn lãi vay tính riêng. “Một năm một nửa” là phép tính sơ bộ lấy phí tháng nhân thẳng 12 để hình dung quy mô, không phải lãi suất năm chính xác. Thuế suất, tỷ lệ phí đều là số ghi rõ trong văn bản. “Không lấy lại thuế khi bán lại” là suy luận từ việc quy định không có hoàn thuế. Không có thống kê chính thức có thể dẫn về “những món này dài hạn có tăng giá không”; sách không dự báo, cũng không bình luận từng loại hàng. Chỉ muốn ngăn lý do coi tiêu dùng là đầu tư. Thích, đeo thấy vui thì mua để tiêu dùng không vấn đề. Tăng ngân sách vì “giữ giá”, “sau này bán cao hơn” mới là chỗ mất tiền. Vàng cũng chia hai phía: vàng thỏi đầu tư mua bán theo trọng lượng khác trang sức bán theo món. Giá trang sức gồm phí thiết kế, chế tác, khi thu mua lại thường không tính phần này. Giá niêm yết trên nền tảng đồ cũ không phải giá giao dịch, đừng coi là giá thị trường.",
+    "extra": ""
+  }
+}

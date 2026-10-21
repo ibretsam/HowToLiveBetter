@@ -1,0 +1,35 @@
+{
+  "id": "e-3-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "1ee6bb3deadb0dabd978c8f87ea2f38fc5699320c452b9aad2cca0d18210ecb3",
+  "original": {
+    "number": 9,
+    "title": "到点就睡，不为游戏、短视频、色情内容熬夜",
+    "fields": {
+      "cost": "不花钱。难在长期对抗「再看一集」的惯性。手机不进卧室最省力。",
+      "plain": "2025 年中国人夜里平均睡 6.97 小时，平均 0:10 才入睡。在孩子和青少年里，睡前用手机、平板的人，睡不够的概率是两倍多，白天犯困的概率是 2.7 倍。设备只是放在卧室里不用，数字也差不多。所以最省事的办法是手机不进卧室。",
+      "benefit": "2025 年我国居民夜间平均睡眠 6.97 小时，平均入睡时间 0:10（中国睡眠研究会）。睡前用便携设备的人，睡不够的可能性约为 2.17 倍（OR 2.17）。睡眠质量差约 1.46 倍（OR 1.46）。白天犯困约 2.72 倍（OR 2.72）。设备只是放在卧室里、并不使用，数字也差不多，约 1.79、1.53、2.27 倍（OR 1.79/1.53/2.27）。这部分是把 20 项同一时间点的调查、125198 名儿童青少年合起来算的。另一项同一时间点的调查有 844 名 18 到 94 岁成人。其中关灯后仍用手机的人入睡更慢，躺在床上真正睡着的比例更低，白天更疲劳。",
+      "grade": "B",
+      "sources": "Carter et al. (2016). Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes. JAMA Pediatrics. <https://doi.org/10.1001/jamapediatrics.2016.2341>；Exelmans & Van den Bulck (2016). Bedtime mobile phone use and sleep in adults. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2015.11.037>；中国睡眠研究会 (2026). 2026 中国睡眠健康研究白皮书（福建省卫健委转载健康报报道）. <https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm>；Grubbs JB 等 (2018). Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis. Archives of Sexual Behavior. <https://doi.org/10.1007/s10508-018-1248-x>（备注里的争议方之一）；Prause N, Pfaus J (2015). Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction. Sexual Medicine. <https://doi.org/10.1002/sm2.58>（备注里的争议方之二）",
+      "notes": "争议。熬夜本身的代价见本节第 3 条（每晚睡够 7 到 8 小时）。色情内容对普通人的精力和脑力有什么影响，目前没有可靠证据说得清是不是它造成的。一项把多项研究汇总起来的分析认为，所谓「色情问题」更多来自一个人的观念和自己的行为对不上，而不在内容本身。另一项研究汇总了 280 名男性的数据。结果是看的时长和跟伴侣性生活时的勃起功能没有关系。这里只管它挤占睡眠时间这一点。6.97 小时和 0:10 这两个数，中国睡眠研究会官网上没有发布稿（2026 年 9 月查）。这里以福建省卫健委转载的健康报报道为准。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đến giờ thì ngủ, đừng thức khuya vì trò chơi, video ngắn hay nội dung khiêu dâm",
+    "cost": "Không tốn tiền. Khó ở chỗ phải chống lại thói quen “xem thêm một tập” lâu dài. Không mang điện thoại vào phòng ngủ là cách ít tốn sức nhất.",
+    "plain": "Năm 2025, người Trung Quốc ngủ trung bình 6.97 giờ mỗi đêm, thời điểm bắt đầu ngủ trung bình là 0:10. Ở trẻ em và thanh thiếu niên, người dùng điện thoại hoặc máy tính bảng trước khi ngủ có khả năng ngủ không đủ cao gấp hơn hai lần và khả năng buồn ngủ ban ngày cao gấp 2.7 lần. Dù chỉ để thiết bị trong phòng ngủ mà không dùng, các con số cũng gần tương tự. Vì vậy, cách đơn giản nhất là không mang điện thoại vào phòng ngủ.",
+    "benefit": "Năm 2025, cư dân Trung Quốc ngủ trung bình 6.97 giờ ban đêm, thời điểm bắt đầu ngủ trung bình là 0:10 (Hội Nghiên cứu Giấc ngủ Trung Quốc). Người dùng thiết bị cầm tay trước khi ngủ có khả năng ngủ không đủ cao khoảng 2.17 lần (OR 2.17), chất lượng giấc ngủ kém cao khoảng 1.46 lần (OR 1.46), và buồn ngủ ban ngày cao khoảng 2.72 lần (OR 2.72). Dù chỉ để thiết bị trong phòng ngủ mà không dùng, các con số cũng gần tương tự: khoảng 1.79, 1.53, 2.27 lần (OR 1.79/1.53/2.27). Phần này gộp 20 khảo sát tại cùng một thời điểm với 125198 trẻ em và thanh thiếu niên. Một khảo sát khác tại cùng một thời điểm có 844 người trưởng thành từ 18 đến 94 tuổi. Người vẫn dùng điện thoại sau khi tắt đèn mất nhiều thời gian hơn mới ngủ được, có tỷ lệ thời gian thực sự ngủ khi nằm trên giường thấp hơn và mệt mỏi hơn ban ngày.",
+    "notes": "Còn tranh luận. Cái giá của bản thân việc thức khuya xem mục 3 chương này (ngủ đủ 7 đến 8 giờ mỗi đêm). Hiện chưa có bằng chứng đáng tin để xác định liệu nội dung khiêu dâm có gây ảnh hưởng đến sức lực và khả năng trí óc của người bình thường hay không. Một phân tích tổng hợp nhiều nghiên cứu cho rằng cái gọi là “vấn đề khiêu dâm” đến nhiều hơn từ sự không phù hợp giữa quan niệm và hành vi của một người, chứ không phải bản thân nội dung. Một nghiên cứu khác tổng hợp dữ liệu của 280 nam giới, thấy thời gian xem không liên quan đến chức năng cương khi quan hệ với bạn tình. Ở đây chỉ xét việc nội dung đó chiếm mất thời gian ngủ. Hai con số 6.97 giờ và 0:10 không có bản công bố trên trang chính thức của Hội Nghiên cứu Giấc ngủ Trung Quốc (kiểm tra tháng 9 năm 2026). Ở đây dùng bài của báo Sức khỏe được Ủy ban Y tế và Sức khỏe tỉnh Phúc Kiến đăng lại.",
+    "extra": ""
+  }
+}

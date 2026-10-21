@@ -1,0 +1,35 @@
+{
+  "id": "e-10-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "d8cb0a2f36cc76c422a5b786d1979948901964b6093636d4f02af89ce5fd9cc7",
+  "original": {
+    "number": 5,
+    "title": "想拉近距离就轮流回答一组由浅入深的问题，别学话术",
+    "fields": {
+      "cost": "不花钱。要花 45 分钟。",
+      "plain": "两个陌生人轮流回答 36 道由浅入深的问题，45 分钟后，比光闲聊同样久的人更亲近。起作用的是轮流说真话、一层层往深里说，不靠话术。这只说明当时更亲近，不代表能发展成长期关系。",
+      "benefit": "把互不相识的两人配对，让他们轮流回答三组逐步深入的问题，一共 36 题。问题从「你最想请谁吃饭」一直到「上一次当着别人的面哭是什么时候」。45 分钟后的亲近感，显著高于做同样时长闲聊的对照组。也高于该研究中大学生对自己现实中最亲密关系的平均评分",
+      "grade": "B",
+      "sources": "Aron A, Melinat E, Aron EN, Vallone RD, Bator RJ (1997). The experimental generation of interpersonal closeness: a procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363-377. <https://doi.org/10.1177/0146167297234003>",
+      "notes": "只做过一次实验，对象是大学生，只测了短时间内的亲近感，没测能不能发展成长期关系。实验里的亲近感来自两个人轮流、一层层往深里说自己的真实情况，靠的不是话术、套路或单方面表现。所以聊天时管用的做法是「我说一点真实的，也问一句一样深的」，两边轮流"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Muốn gần gũi hơn thì luân phiên trả lời một nhóm câu hỏi từ nông đến sâu, đừng học chiêu trò nói chuyện",
+    "cost": "Không tốn tiền. Cần 45 phút.",
+    "plain": "Hai người chưa quen luân phiên trả lời 36 câu hỏi từ nông đến sâu thì sau 45 phút cảm thấy gần gũi hơn những người chỉ trò chuyện thông thường trong cùng khoảng thời gian. Điều có tác dụng là thay phiên nói thật và từng bước chia sẻ sâu hơn, chứ không phải chiêu trò nói chuyện. Kết quả chỉ cho thấy họ gần gũi hơn vào lúc đó, không có nghĩa sẽ phát triển thành mối quan hệ lâu dài.",
+    "benefit": "Nghiên cứu ghép đôi những người chưa quen nhau, cho họ luân phiên trả lời ba nhóm câu hỏi ngày càng sâu, tổng cộng 36 câu. Câu hỏi bắt đầu từ “Bạn muốn mời ai đi ăn nhất?” đến “Lần gần nhất bạn khóc trước mặt người khác là khi nào?”. Sau 45 phút, cảm giác gần gũi cao hơn có ý nghĩa thống kê so với nhóm đối chứng chỉ trò chuyện thông thường trong cùng thời gian. Điểm này cũng cao hơn điểm trung bình mà sinh viên trong nghiên cứu chấm cho mối quan hệ thân thiết nhất ngoài đời của mình.",
+    "notes": "Chỉ có một thí nghiệm, đối tượng là sinh viên. Nghiên cứu chỉ đo cảm giác gần gũi trong thời gian ngắn, không đo khả năng phát triển thành quan hệ lâu dài. Cảm giác gần gũi trong thí nghiệm đến từ việc hai người luân phiên chia sẻ sự thật về bản thân, từng bước sâu hơn, chứ không nhờ chiêu trò, kịch bản hay chỉ một người thể hiện. Vì vậy, cách trò chuyện có tác dụng là “tôi chia sẻ một điều thật lòng, rồi hỏi bạn một câu sâu tương đương”, hai bên thay phiên nhau.",
+    "extra": ""
+  }
+}

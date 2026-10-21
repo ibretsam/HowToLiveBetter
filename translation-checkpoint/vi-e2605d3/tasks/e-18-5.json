@@ -1,0 +1,35 @@
+{
+  "id": "e-18-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "4b898802971b2be3972345683b80b305fe56bfa47d27671eb1e4ade690981378",
+  "original": {
+    "number": 5,
+    "title": "钱账分三段算：0 到 3 岁、义务教育、义务教育之后",
+    "fields": {
+      "cost": "花多少钱没有固定数，城市不同、带法不同，差得很远。难在要静下心来把三段账分开算，不能凭感觉拍一个数",
+      "plain": "0 到 3 岁的钱，主要花在怎么带上：自己带、老人带，还是请人带。小学到初中这段，主要花在住房和课外。再往后，主要花在升学这条路上。三段的花法完全不同，混在一起只会算出一个吓人的总数。",
+      "benefit": "0 到 3 岁的大头是照料方式：自己带、老人带还是请人带。义务教育阶段（小学到初中）的大头是住房和课外支出。这之后的大头是升学路径。这三段钱花在哪完全不同，混在一起算，只会得到一个吓人的总数",
+      "grade": "C",
+      "sources": "作者经验，无直接文献",
+      "notes": "先把育儿补贴、生育津贴、医保报销这些确定能拿到的钱算进来，再看还差多少。别拿网上流传的「养大一个孩子要多少万」做决定，那类数字口径不明，你不知道它算了哪些、又漏了哪些"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chia chi phí tiền bạc thành ba giai đoạn: 0 đến 3 tuổi, giáo dục bắt buộc và sau giáo dục bắt buộc",
+    "cost": "Không có số tiền cố định; thành phố và cách chăm khác nhau thì chênh lệch rất lớn. Khó ở chỗ phải bình tĩnh tính riêng ba giai đoạn, không thể đoán một con số theo cảm giác",
+    "plain": "Tiền giai đoạn 0 đến 3 tuổi chủ yếu dành cho cách chăm con: tự chăm, nhờ ông bà hay thuê người. Từ tiểu học đến trung học cơ sở, phần lớn dành cho nhà ở và chi phí ngoài giờ học. Sau đó chủ yếu dành cho con đường học tiếp. Cách chi tiền của ba giai đoạn hoàn toàn khác nhau; gộp lại chỉ cho ra một tổng số đáng sợ.",
+    "benefit": "Khoản lớn nhất từ 0 đến 3 tuổi là cách chăm con: tự chăm, nhờ ông bà hay thuê người. Trong giai đoạn giáo dục bắt buộc (từ tiểu học đến trung học cơ sở), khoản lớn nhất là nhà ở và chi phí ngoài giờ học. Sau đó, khoản lớn nhất là con đường học tiếp. Tiền được chi vào những việc hoàn toàn khác nhau ở ba giai đoạn; tính gộp chỉ cho ra một tổng số đáng sợ",
+    "notes": "Trước hết tính các khoản chắc chắn nhận được như trợ cấp nuôi con, trợ cấp thai sản và thanh toán bảo hiểm y tế, rồi xem còn thiếu bao nhiêu. Đừng quyết định theo những con số “nuôi một đứa trẻ đến lớn tốn bao nhiêu vạn nhân dân tệ” lan truyền trên mạng: cách tính của chúng không rõ, bạn không biết đã tính những khoản nào và bỏ sót những khoản nào",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-2-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "a89def16cd6930543e202827ba3afd7de5d22685883267d27fe89805c8a97847",
+  "original": {
+    "number": 18,
+    "title": "少吃加工肉（火腿、培根、香肠、午餐肉）",
+    "fields": {
+      "cost": "不花钱，甚至省钱，也不占时间。难在要少吃自己爱吃的那口。",
+      "plain": "火腿、培根、香肠吃得最多的人，同期死亡的概率比吃得最少的人高约两成。每天多吃一份加工肉，概率也高两成。",
+      "benefit": "把多项跟踪研究合起来算（只记录、不分组）：加工肉吃得最多的那组，比吃得最少的那组死亡风险高约 23%（RR 1.23）。红肉合计高约 29%（RR 1.29）。没加工的红肉高约 10%（RR 1.10），但这一项没看出统计上的差别。另一项汇总是按每天吃的量算的。加工肉每天多吃 1 份，死亡风险高约 23%（RR 1.23）。红肉每天多吃 1 份，高约 10%（RR 1.10）。",
+      "grade": "A",
+      "sources": "Larsson SC, Orsini N (2014). Red meat and processed meat consumption and all-cause mortality: a meta-analysis. American Journal of Epidemiology. <https://doi.org/10.1093/aje/kwt261>；Schwingshackl L 等 (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>；Johnston BC 等 (2019). Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the NutriRECS Consortium. Annals of Internal Medicine. <https://doi.org/10.7326/M19-1621>（争议方 NutriRECS 指南）",
+      "notes": "争议。NutriRECS 指南用一套通行的证据打分法（GRADE），把这些研究评为「不太靠得住」。它只给了一句很弱的建议：照现在这么吃就行。双方争的是证据够不够硬，不是方向。没有研究说加工肉有好处。没加工的红肉影响小，也看不出统计上的差别。要管住的是加工肉。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ăn ít thịt chế biến sẵn như giăm bông, thịt xông khói, xúc xích, thịt hộp",
+    "cost": "Không tốn tiền, thậm chí tiết kiệm, cũng không mất thời gian. Khó ở chỗ phải ăn bớt món mình thích.",
+    "plain": "Người ăn giăm bông, thịt xông khói, xúc xích nhiều nhất có khả năng tử vong trong cùng thời gian cao hơn khoảng một phần năm so với người ăn ít nhất. Mỗi ngày ăn thêm một khẩu phần thịt chế biến sẵn, khả năng cũng cao hơn một phần năm.",
+    "benefit": "Gộp nhiều nghiên cứu theo dõi chỉ ghi nhận, không phân nhóm: nhóm ăn thịt chế biến sẵn nhiều nhất có nguy cơ tử vong cao hơn khoảng 23% so với nhóm ít nhất (RR 1.23). Tính chung thịt đỏ cao hơn khoảng 29% (RR 1.29). Thịt đỏ chưa chế biến cao hơn khoảng 10% (RR 1.10), nhưng riêng mục này không thấy khác biệt có ý nghĩa thống kê. Một tổng hợp khác tính theo lượng ăn mỗi ngày: thêm 1 khẩu phần thịt chế biến sẵn mỗi ngày thì nguy cơ tử vong cao hơn khoảng 23% (RR 1.23); thêm 1 khẩu phần thịt đỏ mỗi ngày thì cao hơn khoảng 10% (RR 1.10).",
+    "notes": "Điểm còn tranh luận. Hướng dẫn NutriRECS dùng hệ thống đánh giá bằng chứng phổ biến GRADE, xếp các nghiên cứu này là không mấy chắc chắn. Hướng dẫn chỉ đưa ra khuyến nghị rất yếu: cứ tiếp tục ăn như hiện tại. Hai bên tranh luận về độ vững của bằng chứng, không phải hướng tác động. Không nghiên cứu nào nói thịt chế biến sẵn có lợi. Thịt đỏ chưa chế biến có ảnh hưởng nhỏ, cũng không thấy khác biệt có ý nghĩa thống kê. Thứ cần hạn chế là thịt chế biến sẵn.",
+    "extra": ""
+  }
+}

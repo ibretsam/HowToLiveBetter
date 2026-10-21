@@ -1,0 +1,15 @@
+{
+  "id": "intro-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "c73d3c822d19d594d75c124f2cec5757497d2c28fee80cd9db4ba971fc74c29b",
+  "original": {
+    "title": "反面清单",
+    "intro": "本节收的是「看起来便宜又有效」的东西。翻开原始研究之后，它们的好处接近零、等于零，有的还是负的。\n\n本节条目按主题分成下面几块，括号里是条号。\n\n**保健品和补剂**：复合维生素（第 1 条），普通鱼油（第 2 条），补维生素 D（第 3 条），抗氧化补剂防癌（第 4 条），软骨素治膝关节炎（第 5 条），维生素 C 防感冒（第 6 条），花大钱买保健品（第 10 条），长期吃益生菌（第 11 条），买排毒清肠产品（第 13 条），骨折之后猛补钙（第 30 条），靠吃褪黑素治好长期失眠（第 34 条）。\n\n**体检和查出来的小毛病**：全身 PET-CT 和肿瘤标志物套餐（第 7 条），通用体检套餐（第 18 条），尿酸高没痛过别吃药（第 19 条），胆囊结石没疼过别切（第 20 条），防肾结石别戒钙（第 21 条），膝盖退化疼别做关节镜清理（第 33 条）。\n\n**养生说法**：靠手环帮你减重（第 8 条），买有机食品（第 9 条），洗冷水澡增强免疫力（第 12 条），不强迫自己喝水（第 14 条），防蓝光眼镜（第 16 条），把献血当保健（第 17 条），吃早餐或轻断食控制体重（第 26 条），靠正确搬运姿势防腰痛（第 29 条），感冒发烧就要求输液（第 35 条）。\n\n**花钱买运气和心情**：花钱算命看星座（第 15 条），买水晶貔貅这类物件（第 22 条），买东西改善心情（第 23 条），为往上挪一档多花钱（第 24 条），觉得人随时会死就不存钱（第 32 条）。\n\n**意志力和性**：意志力像肌肉（第 25 条），手淫伤身（第 27 条），性取向矫正（第 28 条）。\n\n**AI 给的答案**：靠 AI 聊天机器人自己判断病情（第 31 条）。"
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Danh sách những việc tưởng lợi mà không lợi",
+    "intro": "Chương này tập hợp những thứ “có vẻ rẻ và hiệu quả”. Đọc nghiên cứu gốc mới thấy lợi ích gần bằng không, bằng không, thậm chí âm.\n\nCác mục trong chương được chia theo chủ đề dưới đây; số trong ngoặc là số mục.\n\n**Thực phẩm bảo vệ sức khỏe và chế phẩm bổ sung**: vitamin tổng hợp (mục 1), dầu cá thông thường (mục 2), bổ sung vitamin D (mục 3), chất chống oxy hóa để phòng ung thư (mục 4), chondroitin trị thoái hóa khớp gối (mục 5), vitamin C phòng cảm lạnh (mục 6), chi nhiều tiền cho thực phẩm bảo vệ sức khỏe (mục 10), dùng lợi khuẩn lâu dài (mục 11), mua sản phẩm thải độc, làm sạch ruột (mục 13), bổ sung thật nhiều canxi sau gãy xương (mục 30), dựa vào melatonin để chữa khỏi mất ngủ lâu dài (mục 34).\n\n**Khám sức khỏe và những vấn đề nhỏ phát hiện được**: gói PET-CT toàn thân và dấu ấn khối u (mục 7), gói khám tổng quát (mục 18), axit uric cao nhưng chưa từng đau thì đừng dùng thuốc (mục 19), sỏi túi mật chưa từng đau thì đừng cắt (mục 20), đừng kiêng canxi để phòng sỏi thận (mục 21), đau gối do thoái hóa thì đừng nội soi làm sạch (mục 33).\n\n**Quan niệm giữ gìn sức khỏe**: dựa vào vòng đeo tay để giảm cân (mục 8), mua thực phẩm hữu cơ (mục 9), tắm lạnh tăng miễn dịch (mục 12), không ép mình uống nước (mục 14), kính lọc ánh sáng xanh (mục 16), coi hiến máu là bồi bổ sức khỏe (mục 17), ăn sáng hoặc nhịn ăn gián đoạn để kiểm soát cân nặng (mục 26), dựa vào tư thế nâng vật đúng để phòng đau lưng (mục 29), cảm lạnh, sốt là đòi truyền dịch (mục 35).\n\n**Chi tiền mua vận may và tâm trạng**: trả tiền xem bói, cung hoàng đạo (mục 15), mua thạch anh, tỳ hưu và đồ tương tự (mục 22), mua sắm để cải thiện tâm trạng (mục 23), chi thêm để nâng vị thế một bậc (mục 24), không tiết kiệm vì nghĩ có thể chết bất cứ lúc nào (mục 32).\n\n**Ý chí và tình dục**: ý chí giống cơ bắp (mục 25), thủ dâm hại sức khỏe (mục 27), chuyển đổi xu hướng tính dục (mục 28).\n\n**Câu trả lời của AI**: dựa vào chatbot AI để tự phán đoán bệnh (mục 31)."
+  }
+}

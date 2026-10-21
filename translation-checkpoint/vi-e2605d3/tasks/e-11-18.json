@@ -1,0 +1,35 @@
+{
+  "id": "e-11-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "f6f22414d445123f32fa22622d89dd2f00305c0d0697a18e48edcf1bf4400aba",
+  "original": {
+    "number": 18,
+    "title": "不做、不发自动跳过或屏蔽别家 App 广告的工具，免费也可能被判不正当竞争",
+    "fields": {
+      "cost": "不花钱。代价是放掉一个很受欢迎的小工具。难在你觉得自己没挣钱，只是替用户点了一下「跳过」",
+      "plain": "做软件替用户跳过、屏蔽别家 App 的广告，可能被对方告不正当竞争。不收钱也可能算，法律管的经营者包括提供服务的个人。有浏览器默认屏蔽芒果TV 的片头广告，赔了 80 万元。有 App 让人直接跳过芒果TV 的开屏广告，赔了 8 万元损失。",
+      "benefit": "法律规定，经营者不得利用技术手段，妨碍、破坏其他经营者合法提供的网络产品或服务正常运行。这里的经营者，指提供商品或服务的自然人、法人和非法人组织。给对方造成损害的，按对方的实际损失赔，或者按你因此得到的好处赔，再加上对方为制止侵权花的合理开支。市场监管部门还可以罚 10 万到 100 万元，情节严重的罚 100 万到 500 万元。官方案例：720 浏览器的内置功能默认拦截芒果TV 网站的片头广告和暂停广告。一审驳回了芒果TV 的起诉。广州知识产权法院二审改判，认定构成不正当竞争，判赔经济损失和合理开支 80 万元。2021 年最高法把它列为典型案例。「拦精灵」App 让用户直接跳过芒果TV 的开屏广告。一审判它停止，赔经济损失 8 万元、合理开支 1 万元。2024 年 4 月，北京知识产权法院二审维持。二审认为它实际是把开屏广告屏蔽了，不只是替用户点「跳过」（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025 年修订). 反不正当竞争法（第二、十三、二十二、二十九条）. <https://flk.npc.gov.cn/detail?id=ff808181971552b40197b1016efc5437>；最高人民法院 (2021). 人民法院反垄断和反不正当竞争典型案例（案例五：「720浏览器」不正当竞争纠纷，（2018）粤73民终1022号）. <https://www.court.gov.cn/zixun/xiangqing/324491.html>；北京政法网 (2024-04-18). 「芒果TV」起诉「拦精灵」不正当竞争案，二审胜诉（来源：京法网事）. <https://www.bj148.org/sa1/ajbb/202404/t20240418_1664299.html>；《财经》客户端 (2023-09-10). App屏蔽开屏广告，腾讯发律师函要求下架，合理吗？（财经E法 樊瑞）. <https://www.mycaijing.com/article/detail/500930?source_id=40>（网页存档 <https://web.archive.org/web/20261005041658/https://www.mycaijing.com/article/detail/500930?source_id=40>）",
+      "notes": "两起判决用的是修订前的条文。2025 年修订后，这一条挪到第十三条，还加上了数据、算法和平台规则。二审法院说判的是屏蔽，用户自己点「跳过」不受影响。2023 年 8 月，安卓上的免费跳广告工具「李跳跳」收到腾讯的律师函。律师函说它屏蔽了腾讯浏览器的广告，构成不正当竞争，要它 48 小时内下架。开发者说它是公益性质、不盈利，报道说它只收零星打赏。但它还是宣布无限期停更，几款同类软件也停了。此事只有媒体报道，没有起诉，也没有判决。个人开发者收到律师函，要么停手，要么自己花钱请律师应诉。一审普通程序按规定 6 个月内审完，可以延长，律师费一般自己出。自己写个脚本只给自己用，没找到被追究的案例。卖抢票软件按不正当竞争赔钱，见本节第 3 条（抢票秒杀脚本）。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Không làm, không phát hành công cụ tự bỏ qua hoặc chặn quảng cáo trong ứng dụng của bên khác; miễn phí cũng có thể bị xác định là cạnh tranh không lành mạnh",
+    "cost": "Không tốn tiền. Cái giá là bỏ một công cụ nhỏ rất được yêu thích. Điều khó là bạn nghĩ mình không kiếm tiền, chỉ bấm ‘bỏ qua’ hộ người dùng.",
+    "plain": "Làm phần mềm bỏ qua hoặc chặn quảng cáo trong ứng dụng của bên khác có thể bị họ kiện vì cạnh tranh không lành mạnh. Không thu tiền cũng có thể bị tính vào đó, vì chủ thể kinh doanh mà luật điều chỉnh bao gồm cả cá nhân cung cấp dịch vụ. Một trình duyệt mặc định chặn quảng cáo đầu video của Mango TV đã phải bồi thường 80 vạn nhân dân tệ. Một ứng dụng cho bỏ qua thẳng quảng cáo khi mở Mango TV phải bồi thường thiệt hại 8 vạn nhân dân tệ.",
+    "benefit": "Luật quy định chủ thể kinh doanh không được dùng biện pháp kỹ thuật cản trở, phá hoại hoạt động bình thường của sản phẩm hoặc dịch vụ mạng mà chủ thể kinh doanh khác cung cấp hợp pháp. Chủ thể kinh doanh ở đây gồm cá nhân, pháp nhân và tổ chức không có tư cách pháp nhân cung cấp hàng hóa hoặc dịch vụ. Gây thiệt hại cho bên kia thì bồi thường theo thiệt hại thực tế của họ hoặc lợi ích bạn thu được, cộng chi phí hợp lý họ bỏ ra để ngăn xâm phạm. Cơ quan quản lý thị trường còn có thể phạt 10 vạn đến 100 vạn nhân dân tệ; trường hợp nghiêm trọng là 100 vạn đến 500 vạn. Vụ án chính thức: chức năng tích hợp của trình duyệt 720 mặc định chặn quảng cáo đầu video và quảng cáo khi tạm dừng của website Mango TV. Sơ thẩm bác đơn của Mango TV. Tòa án Sở hữu trí tuệ Quảng Châu sửa án ở phúc thẩm, xác định cạnh tranh không lành mạnh và buộc bồi thường thiệt hại kinh tế cùng chi phí hợp lý 80 vạn nhân dân tệ. Năm 2021, Tòa án Nhân dân Tối cao đưa vụ này vào danh sách điển hình. Ứng dụng Lan Jing Ling cho người dùng bỏ qua thẳng quảng cáo lúc mở Mango TV. Sơ thẩm buộc dừng, bồi thường thiệt hại kinh tế 8 vạn nhân dân tệ và chi phí hợp lý 1 vạn. Tháng 4 năm 2024, Tòa án Sở hữu trí tuệ Bắc Kinh giữ nguyên án ở phúc thẩm. Tòa phúc thẩm cho rằng ứng dụng thực tế chặn quảng cáo mở đầu, không chỉ bấm ‘bỏ qua’ hộ người dùng (toàn quốc).",
+    "notes": "Hai bản án áp dụng điều khoản trước khi sửa đổi. Sau sửa đổi năm 2025, quy định này chuyển sang Điều mười ba và thêm dữ liệu, thuật toán, quy tắc nền tảng. Tòa phúc thẩm nói hành vi bị xử là chặn quảng cáo; người dùng tự bấm ‘bỏ qua’ không bị ảnh hưởng. Tháng 8 năm 2023, công cụ bỏ quảng cáo miễn phí trên Android ‘Li Tiao Tiao’ nhận thư luật sư của Tencent. Thư nói công cụ chặn quảng cáo trình duyệt Tencent, cấu thành cạnh tranh không lành mạnh và yêu cầu gỡ trong 48 giờ. Nhà phát triển nói đây là công cụ phục vụ cộng đồng, không vì lợi nhuận; báo chí nói chỉ nhận tiền ủng hộ lẻ tẻ. Dù vậy, công cụ vẫn thông báo dừng cập nhật vô thời hạn, vài phần mềm tương tự cũng dừng. Việc này chỉ có tin báo chí, không có khởi kiện hay bản án. Cá nhân phát triển nhận thư luật sư phải chọn dừng hoặc tự chi tiền thuê luật sư đối phó vụ kiện. Sơ thẩm theo thủ tục thông thường từ 6 tháng trở lên; phí luật sư thường tự trả. Chưa tìm thấy trường hợp bị truy cứu vì tự viết tập lệnh chỉ để mình dùng. Bán phần mềm săn vé phải bồi thường vì cạnh tranh không lành mạnh, xem mục 3 chương này về tập lệnh săn vé, săn hàng giảm giá chớp nhoáng. Người hưởng lợi là chính bạn.",
+    "extra": ""
+  }
+}

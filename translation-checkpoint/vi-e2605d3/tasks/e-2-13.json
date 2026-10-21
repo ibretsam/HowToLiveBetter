@@ -1,0 +1,35 @@
+{
+  "id": "e-2-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "3205e21d86fea262b183c2afc0d94ee8c160079857e90ae4425a789bbd114248",
+  "original": {
+    "number": 13,
+    "title": "每晚睡 7 小时左右，作息固定",
+    "fields": {
+      "cost": "不花钱。要拿出时间来睡，多数人是把刷手机的时间换成睡觉。难在要把上床和起床的点固定住。",
+      "plain": "长期睡不到 7 小时的人，同期死亡的概率高约一成。作息越乱，风险越高。和作息最乱的那批人比，其他人低两成到近五成。作息规不规律比睡多久更能看出死亡风险。",
+      "benefit": "把 16 项跟踪研究合起来算，只记录、不分组，138 万人、11.3 万例死亡。睡得短的人死亡风险高约 12%（RR 1.12）。睡得长的人高约 30%（RR 1.30）。另一项汇总按睡眠时长分档：7 小时那档风险最低。少于 7 小时的，每少 1 小时高约 6%（RR 1.06）。多于 7 小时的，每多 1 小时高约 13%（RR 1.13）。英国生物银行有约 6.1 万人的腕表记录，只记录、不分组。把人按作息规律程度分成五档。较规律的那四档比最不规律的那档，死亡风险低 20%–48%。作息规不规律，比睡多久更能预测死亡。另有一项英国生物银行的研究，用腕表测了 51,562 人的睡眠时刻，其间 3,853 人新发心血管病。社会时差指工作日和周末的睡眠中点差多少。社会时差达到 2 小时以上的人，心血管病风险高约 30%（HR 1.30，95% CI 1.11–1.54）。这个关联在睡眠时长正常的人里同样存在。",
+      "grade": "A",
+      "sources": "Cappuccio FP 等 (2010). Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. <https://doi.org/10.1093/sleep/33.5.585>；Yin J 等 (2017). Relationship of Sleep Duration With All-Cause Mortality and Cardiovascular Events: A Systematic Review and Dose-Response Meta-Analysis of Prospective Cohort Studies. JAHA. <https://doi.org/10.1161/JAHA.117.005947>；Windred DP 等 (2024). Sleep regularity is a stronger predictor of mortality risk than sleep duration: A prospective cohort study. Sleep. <https://doi.org/10.1093/sleep/zsad253>；Kumar N, Krishnamurthy S (2026). Social jet lag is associated with incident cardiovascular disease independent of sleep duration and cardiac genetic risk. Journal of Internal Medicine. <https://doi.org/10.1111/joim.70133>",
+      "notes": "要改的是睡得太少和作息乱这两样，不必刻意去压缩睡眠时间。睡得长的人风险高，多半是因果反过来了：抑郁、慢性病、睡眠呼吸暂停会让人睡得多。另外，作息规律这一点目前有两项跟踪研究支持，都是只记录、不分组的，单独看属于 B 级证据。熬夜之后怎么补见本节第 38 条（熬夜之后第二天晚上就补觉）。长期失眠怎么治，见第 3 节第 26 条（长期失眠先做认知行为治疗）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ngủ khoảng 7 giờ mỗi đêm, giữ giờ giấc cố định",
+    "cost": "Không tốn tiền. Phải dành thời gian để ngủ, phần lớn người là đổi thời gian lướt điện thoại thành giấc ngủ. Khó ở chỗ giữ cố định giờ lên giường và giờ dậy.",
+    "plain": "Người ngủ chưa đến 7 giờ trong thời gian dài có khả năng tử vong trong cùng thời gian cao hơn khoảng một phần mười. Giờ giấc càng thất thường, nguy cơ càng cao. So với nhóm giờ giấc thất thường nhất, những người còn lại thấp hơn từ một phần năm đến gần một nửa. Giờ giấc có đều đặn không cho biết nguy cơ tử vong rõ hơn số giờ ngủ.",
+    "benefit": "Gộp 16 nghiên cứu theo dõi chỉ ghi nhận, không phân nhóm, gồm 138 vạn người, 11.3 vạn ca tử vong. Người ngủ ngắn có nguy cơ tử vong cao hơn khoảng 12% (RR 1.12), người ngủ dài cao hơn khoảng 30% (RR 1.30). Một tổng hợp khác chia nhóm theo thời lượng ngủ: nhóm 7 giờ có nguy cơ thấp nhất. Dưới 7 giờ, mỗi ít hơn 1 giờ nguy cơ cao hơn khoảng 6% (RR 1.06). Trên 7 giờ, mỗi thêm 1 giờ cao hơn khoảng 13% (RR 1.13). Ngân hàng sinh học Anh có dữ liệu đồng hồ đeo tay của khoảng 6.1 vạn người, chỉ ghi nhận, không phân nhóm. Chia thành năm nhóm theo mức đều đặn của giờ giấc, bốn nhóm đều đặn hơn có nguy cơ tử vong thấp hơn 20%–48% so với nhóm thất thường nhất. Sự đều đặn dự báo tử vong tốt hơn thời lượng ngủ. Một nghiên cứu khác của Ngân hàng sinh học Anh dùng đồng hồ đeo tay đo thời điểm ngủ của 51,562 người, trong thời gian đó có 3,853 người mới mắc bệnh tim mạch. Lệch múi giờ xã hội là mức chênh giữa thời điểm giữa giấc ngủ trong ngày làm việc và cuối tuần. Người lệch từ 2 giờ trở lên có nguy cơ bệnh tim mạch cao hơn khoảng 30% (HR 1.30, 95% CI 1.11–1.54). Mối liên hệ này cũng có ở người có thời lượng ngủ bình thường.",
+    "notes": "Cần sửa hai việc là ngủ quá ít và giờ giấc thất thường, không cần cố rút ngắn giấc ngủ. Nguy cơ cao ở người ngủ dài phần lớn có thể do nhân quả đảo chiều: trầm cảm, bệnh mạn tính, ngưng thở khi ngủ khiến người ta ngủ nhiều. Ngoài ra, riêng sự đều đặn của giờ giấc hiện được hai nghiên cứu theo dõi ủng hộ, đều chỉ ghi nhận, không phân nhóm; xét riêng thì là bằng chứng mức B. Cách ngủ bù sau thức khuya xem mục 38 phần này (ngủ bù ngay tối hôm sau khi thức khuya). Điều trị mất ngủ kéo dài xem mục 26 phần 3 (mất ngủ kéo dài, làm liệu pháp nhận thức hành vi trước).",
+    "extra": ""
+  }
+}

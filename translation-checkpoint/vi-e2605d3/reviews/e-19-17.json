@@ -1,0 +1,15 @@
+{
+  "id": "e-19-17",
+  "source_sha256": "1c70a2bb58f45fa6278595c96402fd3bc91ec57c0c878ae2e16ca645ddad7df0",
+  "draft_sha256": "e917f3c2449a21f8f5262535817e3522f2075fafc7abdd4ed7f68108d4d295b4",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified ordinary first-instance trial within six months, extendable; arbitration 45 plus 15 days; labor inspection 60 plus 30 working days; one-year application period; 10 RMB litigation fee; and all scope, eligibility, and procedural conditions. No translation correction needed."
+}

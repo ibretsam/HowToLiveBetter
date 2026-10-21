@@ -1,0 +1,35 @@
+{
+  "id": "e-21-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "b3516f4cae89f1c896385b7b92d78f7e171b08e0626b57c0849b2da086dc7fdf",
+  "original": {
+    "number": 3,
+    "title": "知道领事保护能做什么、不能做什么：能探视，不能捞人，费用还得自己付",
+    "fields": {
+      "cost": "不花钱。花几分钟把这条界线读明白。",
+      "plain": "你在国外被抓，使领馆能做的是：向当地核实情况、要求依法公正处理、去看你、开庭时旁听。它不能替你改判，也不能把人领走。别人先垫的食宿、交通、医疗费，最后还是你自己付。所以出国前把钱和保险备好，别把「出事了国家会兜底」当成计划。",
+      "benefit": "你被抓时，使领馆能做这么几件事。向所在国有关部门核实情况，要求依法公正处理。条例原文是「按照驻在国法律和我国与驻在国缔结或者共同参加的国际条约对其进行探视或者与其联络，了解其相关需求，要求驻在国有关部门给予该中国公民人道主义待遇和公正待遇」。翻成白话，使领馆照当地法律和两国签的条约去看你、跟你联络、问你要什么，并要求当地按人道和公正的标准对待你。开庭时使领馆可以旁听，可以要求保障你的诉讼权利。你受了伤或者赶上灾，它能催当地紧急救助，能帮家属处理善后。但费用上条例写得同样清楚：「中国公民、法人、非法人组织在领事保护与协助过程中，得到第三方提供的食宿、交通、医疗等物资和服务的，应当支付应由其自身承担的费用」。别人先垫的食宿、交通、医疗，该你掏的还是你掏",
+      "grade": "A",
+      "sources": "国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第九、十、十四、二十六条）",
+      "notes": "使领馆不替你交罚款、不替你付医药费、不替你买机票，也改变不了所在国法院的结论。它能给你的是当地律师、翻译、医疗、殡葬机构的信息，还能帮你联系亲友、帮你找到救济渠道。所以出国前自己把钱和保险准备好，别把「出事了国家会兜底」当成计划"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Biết bảo hộ lãnh sự làm được và không làm được gì: có thể thăm gặp, không thể đưa bạn ra khỏi nơi giam giữ, chi phí vẫn phải tự trả",
+    "cost": "Không tốn tiền. Dành vài phút đọc rõ giới hạn này.",
+    "plain": "Nếu bạn bị bắt ở nước ngoài, cơ quan đại diện lãnh sự có thể xác minh với địa phương, yêu cầu xử lý công bằng theo pháp luật, thăm bạn và dự phiên tòa. Họ không thể đổi bản án hay đưa bạn đi. Chi phí ăn ở, đi lại, y tế người khác ứng trước cuối cùng vẫn do bạn trả. Vì vậy, trước khi ra nước ngoài hãy chuẩn bị tiền và bảo hiểm, đừng coi “có chuyện thì nhà nước lo hết” là kế hoạch.",
+    "benefit": "Khi bạn bị bắt, đại sứ quán hoặc lãnh sự quán có thể xác minh tình hình với cơ quan liên quan của nước sở tại và yêu cầu xử lý công bằng theo pháp luật. Nguyên văn quy định: “Theo pháp luật nước sở tại và điều ước quốc tế mà nước ta với nước sở tại ký kết hoặc cùng tham gia, thăm gặp hoặc liên hệ với người đó, tìm hiểu nhu cầu liên quan, yêu cầu cơ quan hữu quan nước sở tại đối xử nhân đạo và công bằng với công dân Trung Quốc đó”. Nói dễ hiểu, cơ quan đại diện theo luật địa phương và điều ước giữa hai nước để thăm, liên hệ, hỏi nhu cầu của bạn và yêu cầu địa phương đối xử nhân đạo, công bằng. Khi xét xử, cơ quan đại diện có thể dự phiên tòa và yêu cầu bảo đảm quyền tố tụng của bạn. Nếu bạn bị thương hoặc gặp thiên tai, họ có thể thúc giục địa phương cứu trợ khẩn cấp và giúp gia đình giải quyết hậu quả. Nhưng quy định cũng ghi rõ về chi phí: “Công dân, pháp nhân, tổ chức không có tư cách pháp nhân của Trung Quốc nhận vật tư, dịch vụ ăn ở, đi lại, y tế và các loại khác từ bên thứ ba trong quá trình bảo hộ và hỗ trợ lãnh sự phải trả phần chi phí mà bản thân có nghĩa vụ chịu”. Tiền ăn ở, đi lại, y tế người khác ứng trước, phần thuộc trách nhiệm của bạn vẫn phải tự trả.",
+    "notes": "Cơ quan đại diện không trả thay tiền phạt, tiền chữa bệnh hay vé máy bay, cũng không thay đổi được kết luận của tòa án nước sở tại. Họ có thể cung cấp thông tin về luật sư, phiên dịch, cơ sở y tế, dịch vụ tang lễ địa phương; giúp liên hệ người thân, bạn bè và tìm kênh trợ giúp. Vì vậy, trước khi ra nước ngoài hãy tự chuẩn bị tiền và bảo hiểm, đừng coi “có chuyện thì nhà nước lo hết” là kế hoạch.",
+    "extra": ""
+  }
+}

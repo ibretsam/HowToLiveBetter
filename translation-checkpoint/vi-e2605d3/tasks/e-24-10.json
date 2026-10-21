@@ -1,0 +1,35 @@
+{
+  "id": "e-24-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "a8b62f849851cd176cb8c457fdb4cf28c85eb1d0c0121fdc01573b129ca78aae",
+  "original": {
+    "number": 10,
+    "title": "治完之后确实留下功能障碍，去户籍地县级残联申请残疾人证",
+    "fields": {
+      "cost": "证本身不收工本费。评定费和照片费原则上自己出，困难的可以申请减免。带身份证、户口本和 3 张两寸白底照片到户籍地县级残联。评定合格后在村（社区）公示 5 个工作日，残联 10 个工作日内审核完毕。难在要跑这几趟、等这段时间。",
+      "plain": "残疾人证是领残疾人待遇的门槛，不是伤情证明。分视力、听力、言语、肢体、智力、精神和多重七类，每类一到四级。流程是申请、受理、到指定机构评定、公示、审核批准、发证，有效期十年、到期免费换。对评定结论有异议的，可以申请重新评定。",
+      "benefit": "残疾人证「是认定残疾人及其残疾类别、残疾等级的合法凭证，是残疾人依法享有国家和地方政府优惠政策的重要依据」。评定标准是国家标准《残疾人残疾分类和分级》（GB/T 26341-2010）。办证坚持申领自愿、属地管理。视力、听力、言语、肢体、智力、精神及多重七类残疾人均可申领，残疾等级为一至四级。县级残联负责申办受理与核发，依据省级指定的医院或专业机构作出的评定结论。评定结论符合标准的，在村（社区）公示五个工作日，县级残联「在十个工作日内审核完毕」。「办理残疾人证不收取工本费」。评定与照片费用「原则上由申请人个人自理；有条件的地方可由当地财政予以补贴，对特殊困难的申请人应协调有关部门予以减免」。证的有效期十年，期满免费换领。残疾类别或等级发生变化的，可申请重新评定。对评定结论有异议的，可在十个工作日内到地市级残联申请重新评定。仍有异议的，由省级残疾评定专家委员会作出最终结论（全国，2018 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "中国残疾人联合会、国家卫生和计划生育委员会 (2017). 中华人民共和国残疾人证管理办法（2017 年 5 月 27 日发布，2018 年 1 月 1 日施行；第二、三、五、七、九、十七、十九、二十二、二十五条）. <https://www.bdpf.org.cn/cms68/web1459/subject/n1/n1459/n1508/n1509/n1512/c68465/content.html>",
+      "notes": "办不办先算账。证本身不直接发钱。它接上的是残疾人两项补贴：低保家庭中的残疾人领生活补贴，一级二级且需长期照护的领护理补贴，见第 7 节第 8 条（两项补贴）。证还接上各地的康复、辅助器具、税费、就业和交通优惠。这些标准各省差别很大，先在当地残联官网查清楚，再决定跑不跑这一趟。它和司法鉴定的伤残等级、工伤的劳动能力鉴定是三套东西，互不替代（见第 9 条，伤残鉴定要等治疗终结之后再做）。证只限本人使用，不得转借。残疾状况不再符合标准的会被注销，注销后一年内不得重新申请。多重残疾按其中最重的一类定等级。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sau điều trị thật sự còn suy giảm chức năng thì đến Liên đoàn Người khuyết tật cấp huyện nơi đăng ký hộ khẩu để xin giấy chứng nhận khuyết tật",
+    "cost": "Bản thân giấy chứng nhận không thu phí cấp. Phí đánh giá và chụp ảnh về nguyên tắc tự trả; khó khăn thì có thể xin miễn, giảm. Mang thẻ căn cước, sổ hộ khẩu và 3 ảnh cỡ hai inch nền trắng đến Liên đoàn Người khuyết tật cấp huyện nơi đăng ký hộ khẩu. Đánh giá đạt tiêu chuẩn thì công khai ở thôn hoặc cộng đồng trong 5 ngày làm việc; Liên đoàn hoàn tất xét duyệt trong 10 ngày làm việc. Khó ở chỗ phải đi lại mấy lần và chờ khoảng thời gian này.",
+    "plain": "Giấy chứng nhận khuyết tật là điều kiện để hưởng chế độ dành cho người khuyết tật, không phải giấy xác nhận thương tích. Có bảy dạng: thị giác, thính giác, ngôn ngữ, vận động, trí tuệ, tâm thần và đa khuyết tật; mỗi dạng từ cấp một đến cấp bốn. Quy trình gồm nộp đơn, tiếp nhận, đánh giá tại cơ sở được chỉ định, công khai, xét duyệt chấp thuận và cấp giấy. Giấy có hiệu lực mười năm, hết hạn đổi miễn phí. Không đồng ý với kết luận đánh giá thì có thể xin đánh giá lại.",
+    "benefit": "Giấy chứng nhận khuyết tật “là giấy tờ hợp pháp xác nhận người khuyết tật, dạng và cấp khuyết tật, là căn cứ quan trọng để người khuyết tật được hưởng chính sách ưu đãi của nhà nước và chính quyền địa phương theo luật”. Tiêu chuẩn đánh giá là tiêu chuẩn quốc gia Phân loại và phân cấp khuyết tật (GB/T 26341-2010). Việc cấp giấy dựa trên tự nguyện xin cấp và quản lý theo địa bàn. Người thuộc bảy dạng khuyết tật thị giác, thính giác, ngôn ngữ, vận động, trí tuệ, tâm thần và đa khuyết tật đều có thể xin cấp; mức khuyết tật từ cấp một đến cấp bốn. Liên đoàn Người khuyết tật cấp huyện tiếp nhận và cấp giấy dựa trên kết luận đánh giá của bệnh viện hoặc cơ sở chuyên môn được cấp tỉnh chỉ định. Kết luận đáp ứng tiêu chuẩn thì công khai ở thôn hoặc cộng đồng năm ngày làm việc; Liên đoàn cấp huyện “hoàn tất xét duyệt trong mười ngày làm việc”. “Cấp giấy chứng nhận khuyết tật không thu phí cấp”. Chi phí đánh giá và ảnh “về nguyên tắc do cá nhân xin cấp tự trả; nơi có điều kiện có thể được ngân sách địa phương hỗ trợ, với người xin cấp đặc biệt khó khăn thì phải phối hợp các cơ quan liên quan để miễn, giảm”. Giấy có hiệu lực mười năm, hết hạn được đổi miễn phí. Dạng hoặc cấp khuyết tật thay đổi thì có thể xin đánh giá lại. Không đồng ý với kết luận thì trong mười ngày làm việc có thể đến Liên đoàn Người khuyết tật cấp địa khu hoặc thành phố để xin đánh giá lại. Vẫn không đồng ý thì hội đồng chuyên gia đánh giá khuyết tật cấp tỉnh đưa ra kết luận cuối cùng (toàn Trung Quốc, có hiệu lực từ ngày 1 tháng 1 năm 2018).",
+    "notes": "Trước khi quyết định có làm giấy hay không, hãy tính lợi ích và chi phí. Giấy không tự mang lại tiền trực tiếp. Nó cho phép tiếp cận hai khoản trợ cấp dành cho người khuyết tật: người khuyết tật thuộc hộ hưởng trợ cấp bảo đảm mức sống tối thiểu được nhận trợ cấp sinh hoạt; người cấp một hoặc cấp hai và cần chăm sóc lâu dài được nhận trợ cấp chăm sóc, xem mục 8 phần 7 (hai khoản trợ cấp). Giấy còn giúp tiếp cận ưu đãi địa phương về phục hồi chức năng, thiết bị hỗ trợ, thuế phí, việc làm và giao thông. Mức hưởng khác nhau rất nhiều giữa các tỉnh; hãy xem rõ trên website Liên đoàn Người khuyết tật địa phương rồi quyết định có đi làm giấy hay không. Giấy này, cấp thương tật trong giám định tư pháp và giám định khả năng lao động do tai nạn lao động là ba hệ thống riêng, không thay thế nhau (xem mục 9, giám định thương tật phải chờ kết thúc điều trị). Giấy chỉ dùng cho chính người được cấp, không được cho mượn. Không còn đáp ứng tiêu chuẩn khuyết tật thì giấy bị hủy; trong một năm sau khi hủy không được xin lại. Đa khuyết tật được xếp cấp theo dạng nặng nhất.",
+    "extra": ""
+  }
+}

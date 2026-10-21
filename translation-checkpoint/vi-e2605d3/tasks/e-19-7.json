@@ -1,0 +1,35 @@
+{
+  "id": "e-19-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "a64f835b9419d0ca613b76e41bd097c0f35002c8c584e702fe781d45493d43d4",
+  "original": {
+    "number": 7,
+    "title": "不要签「个人原因主动辞职」，那一签就没有 N 了",
+    "fields": {
+      "cost": "不花钱。难在要顶住当场签字的压力。",
+      "plain": "签字承认「个人原因主动辞职」，经济补偿和失业保险金通常一起落空。自己提出离职，本来就不在给补偿的那几种情形里，公司欠薪、不缴社保这类过错除外。不必当天签，冷静一晚再说。",
+      "benefit": "劳动合同法把该给经济补偿的情形限定在法律列明的那几类里。劳动者自己提出走人，不在里面，除非是因为公司欠薪、不缴社保这类法定过错。签了「主动辞职」，经济补偿和失业保险金通常一起落空",
+      "grade": "B",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第三十八条、第四十六条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "公司常用的话术是「先签了好走流程，补偿另外给」。要就当场写进协议，不写就不签。当天不签不会有任何法律后果，冷静一晚再说"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng ký “tự nguyện xin nghỉ vì lý do cá nhân”, ký là mất N",
+    "cost": "Không tốn tiền. Điều khó là chịu được áp lực phải ký ngay tại chỗ.",
+    "plain": "Ký xác nhận “tự nguyện xin nghỉ vì lý do cá nhân” thường khiến cả khoản bù đắp kinh tế lẫn trợ cấp bảo hiểm thất nghiệp đều mất. Tự đề nghị nghỉ vốn không thuộc các trường hợp được bù đắp, trừ khi công ty có lỗi như nợ lương, không đóng bảo hiểm xã hội. Không cần ký ngay trong ngày, cứ bình tĩnh qua một đêm rồi tính.",
+    "benefit": "Luật Hợp đồng lao động giới hạn các trường hợp phải trả bù đắp kinh tế trong những loại được luật liệt kê. Người lao động tự đề nghị nghỉ không nằm trong đó, trừ khi do lỗi luật định của công ty như nợ lương, không đóng bảo hiểm xã hội. Ký “tự nguyện nghỉ việc” thường khiến cả khoản bù đắp kinh tế lẫn trợ cấp bảo hiểm thất nghiệp đều mất",
+    "notes": "Công ty thường nói “cứ ký trước cho dễ làm thủ tục, tiền bù đắp sẽ trả riêng”. Muốn vậy thì phải ghi ngay vào thỏa thuận; không ghi thì không ký. Không ký trong ngày không gây ra hậu quả pháp lý nào, cứ bình tĩnh qua một đêm rồi tính",
+    "extra": ""
+  }
+}

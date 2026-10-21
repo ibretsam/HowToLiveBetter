@@ -1,0 +1,36 @@
+{
+  "id": "e-20-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "fc7a5f6efd324ca75e27d8c2f59711fc657f64f4a3a0797eb5fa83698436ab8b",
+  "original": {
+    "number": 1,
+    "title": "让婴儿期的孩子仰着睡，睡硬的平面，同房不同床，床上不放任何软东西",
+    "fields": {
+      "cost": "不花钱。床垫要换成硬的，几百元。难在要顶住长辈的说法，一直按这个来",
+      "plain": "孩子还是婴儿的时候，让他脸朝上躺着，睡在不倾斜的硬平面上，斜着的摇篮和婴儿椅不能当床。大人和孩子睡同一间房，但不睡同一张床。床上不放枕头、被子、床围、毛绒玩具这类软东西。光美国每年就有约 3500 个婴儿死于和睡眠有关的原因。",
+      "benefit": "美国每年约 3500 名婴儿死于睡眠相关原因。这里面包括婴儿猝死综合征、死因不明和在床上意外憋住。美国儿科学会给的安全睡眠环境是「仰卧位；使用坚实、不倾斜的睡眠表面；同房不同床；避免柔软的寝具和过热」。还有几件事也能降低风险：母乳喂养、别让孩子接触尼古丁和酒精、按时接种疫苗、使用安抚奶嘴",
+      "grade": "A",
+      "sources": "Moon RY, Carlin RF, Hand I, Task Force on Sudden Infant Death Syndrome and the Committee on Fetus and Newborn (2022). Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics, 150(1), e2022057990. <https://doi.org/10.1542/peds.2022-057990>",
+      "notes": "「床上不放任何软东西」是指枕头、被子、床围、毛绒玩具、定型枕全都不放。看起来很安全的哺乳枕也不放。斜着的摇篮和婴儿椅不能当睡觉的地方。这一节里，这件事的差别最大，也最需要顶住长辈的压力"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cho trẻ trong độ tuổi nhũ nhi ngủ nằm ngửa trên mặt phẳng cứng, cùng phòng nhưng khác giường, không để bất kỳ đồ mềm nào trên giường",
+    "cost": "Không tốn tiền. Cần đổi sang đệm cứng, tốn vài trăm nhân dân tệ. Khó là phải giữ vững cách làm này trước ý kiến của người lớn tuổi trong nhà.",
+    "plain": "Khi trẻ còn trong độ tuổi nhũ nhi, hãy cho trẻ nằm ngửa trên mặt phẳng cứng, không nghiêng; không dùng nôi nghiêng hay ghế dành cho trẻ nhỏ làm giường. Người lớn và trẻ ngủ cùng phòng nhưng khác giường. Không để gối, chăn, tấm quây cũi, thú bông hay các đồ mềm tương tự trên giường. Chỉ riêng Mỹ, mỗi năm đã có khoảng 3500 trẻ nhũ nhi tử vong vì nguyên nhân liên quan đến giấc ngủ.",
+    "benefit": "Ở Mỹ, mỗi năm khoảng 3500 trẻ nhũ nhi tử vong vì nguyên nhân liên quan đến giấc ngủ. Các nguyên nhân này gồm hội chứng đột tử ở trẻ nhũ nhi, nguyên nhân không xác định và vô tình bị ngạt trên giường. Môi trường ngủ an toàn theo Viện Hàn lâm Nhi khoa Hoa Kỳ là “nằm ngửa; dùng bề mặt ngủ chắc, không nghiêng; cùng phòng nhưng khác giường; tránh chăn đệm mềm và quá nóng”. Một số việc khác cũng có thể giảm nguy cơ: cho bú mẹ, không để trẻ tiếp xúc với nicotine và cồn, tiêm chủng đúng lịch và dùng núm vú giả.",
+    "notes": "“Không để bất kỳ đồ mềm nào trên giường” nghĩa là không để gối, chăn, tấm quây cũi, thú bông hay gối định hình đầu. Gối hỗ trợ cho bú trông có vẻ rất an toàn cũng không được để. Nôi nghiêng và ghế dành cho trẻ nhỏ không được dùng làm chỗ ngủ. Trong chương này, đây là việc tạo ra khác biệt lớn nhất, đồng thời cần kiên định nhất trước áp lực từ người lớn tuổi trong nhà.",
+    "extra": ""
+  }
+}

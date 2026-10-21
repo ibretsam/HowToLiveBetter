@@ -1,0 +1,35 @@
+{
+  "id": "e-7-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "0bd8fc01dbf8893f4328af45f4340d70a42a6e782ae688ab29ebe332f814b31f",
+  "original": {
+    "number": 1,
+    "title": "失业了先在线申领失业保险金",
+    "fields": {
+      "cost": "不花钱。用手机就能交申请，三个入口都行：「掌上 12333」App、微信或支付宝里的电子社保卡小程序、国家社会保险公共服务平台。手上有社保卡或者身份证就能办，多数地区不用跑现场。前提是先办好失业登记。",
+      "plain": "单位和你自己交满 1 年、又不是你主动提的辞职，办完失业登记、愿意找工作的，就能领钱。交满 1 年不到 5 年最多领 12 个月，满 5 年不到 10 年最多 18 个月，10 年以上最多 24 个月。领钱这段时间，职工医保有失业保险替你交。",
+      "benefit": "要同时满足三个条件。一是单位和你本人交失业保险累计满 1 年。二是不是你自己主动提的辞职（法律叫「非因本人意愿中断就业」）。三是已经办了失业登记，并且有找工作的意愿。能领多久按缴费年限算。累计满 1 年不足 5 年，最长领 12 个月。满 5 年不足 10 年，最长 18 个月。10 年以上，最长 24 个月。每月发多少由省级政府定，各省不一样。金额低于当地最低工资，高于城市低保。国家的目标是逐步提到最低工资标准的 90%。领失业保险金这段时间，你照样参加职工基本医疗保险、享受基本医疗保险待遇。该交的那笔基本医疗保险费从失业保险基金里出，你个人不交（全国，条例 1999 年起施行）",
+      "grade": "A",
+      "sources": "国务院 (1999). 失业保险条例（国务院令第 258 号，第十四、十六、十七、十八条；第十六条：「失业保险金自办理失业登记之日起计算」）. <https://xzfg.moj.gov.cn/front/law/detail?LawID=517>；人力资源社会保障部. 全国人社政务服务平台·失业保险待遇申领办事指南. <https://www.12333.gov.cn/portal/common/bszn/sydysl?pfaId=202105281700000004>；国家发展改革委就业司 (2022). 失业保险金标准，将逐步提高至最低工资的 90%. <https://www.ndrc.gov.cn/fggz/jyysr/jysrsbxf/202206/t20220627_1328819.html>；辽宁省人力资源和社会保障厅 (2019). 关于进一步调整失业保险金标准的通知：「为落实《人力资源社会保障部财政部关于调整失业保险金标准的指导意见》(人社部发〔2017〕71号〕\"逐步将失业保险金标准提高到最低工资标准的90%\"等要求」. <https://rst.ln.gov.cn/rst/zfxx/zc/ywfl/shbx/2024092014161280895/index.shtml>；全国人大常委会 (2010). 社会保险法（第四十八条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5192937/content.html>（国家税务总局政策法规库）",
+      "notes": "自己主动辞职的，不算「非因本人意愿」，领不了。所以离职时别签「个人原因主动辞职」，见第 19 节第 7 条。失业保险金从办失业登记那天起算，晚办就晚拿。走人之后第一件事就是去登记。登记要用单位开的离职证明，见第 19 节第 17 条（离职证明）。竞业协议要不要守、公司不给补偿怎么办，见第 11 节第 12 条（签了竞业协议）。领取期间的职工医保由失业保险替你交。各省金额差得多，以你参保那个地方公布的为准。「最低工资 90%」出自人社部、财政部 2017 年的指导意见（人社部发〔2017〕71 号），原话是「逐步将失业保险金标准提高到最低工资标准的90%」。这是目标，不是现在就按 90% 发。人社部官网的原文页在本机打不开，这句按辽宁省人社厅文件里的引文核对。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thất nghiệp thì trước hết đăng ký nhận trợ cấp bảo hiểm thất nghiệp trực tuyến",
+    "cost": "Không tốn tiền. Có thể nộp đơn bằng điện thoại qua một trong ba nơi: ứng dụng “12333 trên điện thoại”, ứng dụng nhỏ Thẻ bảo hiểm xã hội điện tử trong WeChat hoặc Alipay, hoặc Nền tảng dịch vụ công bảo hiểm xã hội quốc gia. Có thẻ bảo hiểm xã hội hoặc giấy căn cước là làm được; đa số địa phương không cần đến trực tiếp. Điều kiện là đã hoàn tất đăng ký thất nghiệp trước đó.",
+    "plain": "Nếu đơn vị và bạn đã đóng đủ 1 năm, bạn không chủ động xin nghỉ, đã đăng ký thất nghiệp và muốn tìm việc thì được nhận tiền. Đóng đủ 1 năm nhưng chưa đủ 5 năm được nhận tối đa 12 tháng; đủ 5 năm nhưng chưa đủ 10 năm tối đa 18 tháng; từ 10 năm trở lên tối đa 24 tháng. Trong thời gian nhận tiền, bảo hiểm thất nghiệp đóng bảo hiểm y tế người lao động thay bạn.",
+    "benefit": "Phải đồng thời đáp ứng ba điều kiện. Đơn vị và bản thân bạn đã đóng bảo hiểm thất nghiệp cộng dồn đủ 1 năm. Bạn không tự chủ động xin nghỉ việc, pháp luật gọi là “chấm dứt việc làm không theo nguyện vọng của bản thân”. Bạn đã đăng ký thất nghiệp và có nguyện vọng tìm việc. Thời gian nhận tính theo số năm đóng: cộng dồn đủ 1 năm nhưng chưa đủ 5 năm được nhận tối đa 12 tháng; đủ 5 năm nhưng chưa đủ 10 năm tối đa 18 tháng; từ 10 năm trở lên tối đa 24 tháng. Chính quyền cấp tỉnh quy định số tiền hằng tháng, mỗi tỉnh khác nhau. Mức này thấp hơn lương tối thiểu địa phương và cao hơn mức trợ cấp bảo đảm mức sống tối thiểu ở đô thị. Mục tiêu của nhà nước là từng bước nâng lên 90% lương tối thiểu. Trong thời gian nhận trợ cấp bảo hiểm thất nghiệp, bạn vẫn tham gia bảo hiểm y tế cơ bản người lao động và hưởng quyền lợi bảo hiểm y tế cơ bản. Khoản phí bảo hiểm y tế cơ bản phải đóng được chi từ quỹ bảo hiểm thất nghiệp, cá nhân bạn không phải đóng (toàn Trung Quốc, quy định có hiệu lực từ năm 1999).",
+    "notes": "Tự chủ động xin nghỉ không thuộc trường hợp “không theo nguyện vọng bản thân”, nên không được nhận. Vì vậy, khi nghỉ đừng ký “chủ động xin nghỉ vì lý do cá nhân”; xem chương 19 mục 7. Trợ cấp bảo hiểm thất nghiệp tính từ ngày đăng ký thất nghiệp, làm muộn thì nhận muộn. Việc đầu tiên sau khi nghỉ là đi đăng ký. Đăng ký cần giấy xác nhận nghỉ việc do đơn vị cấp; xem chương 19 mục 17 (giấy xác nhận nghỉ việc). Có phải tuân thủ thỏa thuận hạn chế cạnh tranh không, công ty không trả khoản bù đắp thì làm gì, xem chương 11 mục 12 (đã ký thỏa thuận hạn chế cạnh tranh). Trong thời gian nhận trợ cấp, bảo hiểm thất nghiệp đóng bảo hiểm y tế người lao động thay bạn. Mức tiền giữa các tỉnh chênh nhiều, lấy mức công bố tại nơi bạn tham gia bảo hiểm làm chuẩn. “90% lương tối thiểu” xuất phát từ ý kiến hướng dẫn năm 2017 của Bộ Nhân lực và An sinh xã hội, Bộ Tài chính, văn bản số 71 năm 2017; nguyên văn là “từng bước nâng mức trợ cấp bảo hiểm thất nghiệp lên 90% mức lương tối thiểu”. Đây là mục tiêu, không phải hiện đã chi theo 90%. Không mở được trang nguyên văn trên website Bộ Nhân lực và An sinh xã hội bằng máy đang dùng; câu này được đối chiếu theo trích dẫn trong văn bản của Sở Nhân lực và An sinh xã hội tỉnh Liêu Ninh.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-13-2",
+  "source_sha256": "5cd17cd09e6a7680d85e8f518667466473f49b42a36989a23f1daaf68255fa36",
+  "draft_sha256": "032942afbb4a6a52608ab00aedf9c95766e7ad4c830effe6ac7c0718496844e9",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves updated normal-breathing check, fall/injury contraindications, Chinese jurisdiction and civil/process-cost distinctions. Source contains categorical legal interpretations about transport and strangers; translated faithfully, not independently verified."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e-17-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "65369848236bff5b486c3a98b7ccb71622bd82edcb0b2353c756853fe42a1d4f",
+  "original": {
+    "number": 3,
+    "title": "老人的钱单独放一个账户，大额支出定一个双人确认的规矩",
+    "fields": {
+      "cost": "不花钱。和家里人商量一次，定下一个数额就行。难在怎么开口，别让老人觉得你在防着他",
+      "plain": "骗老人的人常先送小礼物、嘘寒问暖，把信任攒足，再骗走大钱。骗子还常叮嘱「不要告诉任何人」。事先约好一条规矩：超过多少钱的支出，要先跟某个人说一声。这样掏钱之前家里人就能知道，掏钱的决定也往后拖了拖。",
+      "benefit": "最高检 2022 年发布了养老诈骗典型案例。它说，这类犯罪先用小恩小惠、亲情关怀骗取信任，再用虚假宣传和高额回报承诺骗走大额财物。其中一案，卖假收藏品的公司派员工给老人打扫卫生、陪聊天，甚至认「干亲」。卖货时把东西装进黑袋子封好，叮嘱老人不许打开，为的是不让老人的家人发现。这家公司收了 192 万余元，老板以集资诈骗罪判 7 年 6 个月。北京市地方金融管理局 2023 年提醒老人，别信骗子说的「不要告诉任何人」。拿不定主意时，多找家人、子女和信得过的邻居朋友商量，投资前多征求家人意见。美国联邦贸易委员会统计了 60 岁以上的人报告的被骗总额。2020 年约 6 亿美元，2024 年涨到约 24 亿美元。涨的主要是单笔损失超过 10 万美元的案子。事先约好「超过多少钱的支出要先和某个人说一声」，等于让家里人在掏钱前知道这件事，也把这个决定往后拖了拖",
+      "grade": "B",
+      "sources": "最高人民检察院 (2022). 最高检发布打击整治养老诈骗犯罪典型案例（许某燕集资诈骗案及答记者问）. <https://www.spp.gov.cn/xwfbh/wsfbt/202206/t20220617_560010.shtml>；北京市地方金融监督管理局 (2023). 揭秘专骗老年人新套路 提高防骗意识 守护好「钱袋子」. <https://jrj.beijing.gov.cn/jrxcjy/jraq/ffffjzxkt/202311/t20231127_3310210.html>；Federal Trade Commission (2025). FTC Issues Annual Report to Congress on Agency's Actions to Protect Older Adults（Protecting Older Consumers, 2024-2025）. <https://www.ftc.gov/news-events/news/press-releases/2025/12/ftc-issues-annual-report-congress-agencys-actions-protect-older-adults>",
+      "notes": "没有研究比过定了这条规矩的家庭少被骗多少。给 B 是因为骗局的套路和「多和家人商量」出自检察机关和金融监管部门。依据的性质和第 6 条（以房养老）一样。人一激动就更容易被说动，见第 4 条（我要回去和家里人商量）。防骗通则见第 8 节和第 13 节。别把这件事讲成「怕你被骗」。讲成「家里的钱统一记账」，老人更容易接受。也别把老人的所有钱都交给子女保管，那会引出另一类纠纷"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Để tiền của người cao tuổi trong tài khoản riêng, đặt quy tắc hai người xác nhận khoản chi lớn",
+    "cost": "Không mất tiền. Bàn với gia đình một lần, thống nhất một ngưỡng tiền là được. Khó ở cách mở lời, đừng khiến người cao tuổi cảm thấy bạn đang đề phòng họ.",
+    "plain": "Kẻ lừa người cao tuổi thường tặng quà nhỏ, hỏi han quan tâm trước, tạo đủ lòng tin rồi lừa lấy khoản tiền lớn. Chúng còn thường dặn ‘đừng nói với ai’. Hãy thống nhất trước một quy tắc: khoản chi vượt bao nhiêu thì phải nói với một người đã định trước. Nhờ vậy người nhà biết trước khi tiền được chi, quyết định chi tiền cũng được trì hoãn thêm một chút.",
+    "benefit": "Viện kiểm sát nhân dân tối cao công bố các vụ lừa đảo người cao tuổi điển hình năm 2022. Cơ quan này cho biết loại tội phạm này dùng lợi ích nhỏ và sự quan tâm như người thân để lấy lòng tin, rồi quảng cáo sai sự thật và hứa lợi nhuận cao để lừa lấy tài sản lớn. Trong một vụ, công ty bán đồ sưu tầm giả cử nhân viên dọn nhà, trò chuyện với người cao tuổi, thậm chí nhận làm ‘con nuôi kết nghĩa’. Khi bán hàng, chúng cho đồ vào túi đen niêm kín, dặn người cao tuổi không mở nhằm không để gia đình phát hiện. Công ty thu hơn 192 vạn tệ, chủ bị phạt 7 năm 6 tháng tù về tội lừa đảo huy động vốn. Năm 2023, Cục Quản lý tài chính địa phương Bắc Kinh nhắc người cao tuổi đừng tin lời ‘đừng nói với ai’ của kẻ lừa đảo. Khi chưa quyết được, nên bàn thêm với gia đình, con cái, hàng xóm và bạn bè đáng tin; trước khi đầu tư hãy hỏi ý kiến gia đình nhiều hơn. Ủy ban Thương mại Liên bang Mỹ thống kê tổng tiền bị lừa do người từ 60 tuổi trở lên báo cáo. Năm 2020 khoảng 6 trăm triệu USD, đến năm 2024 tăng lên khoảng 24 trăm triệu USD. Phần tăng chủ yếu đến từ các vụ mất hơn 10 vạn USD mỗi lần. Thống nhất trước ‘khoản chi vượt bao nhiêu phải nói với một người đã định’ giúp gia đình biết trước khi bỏ tiền, đồng thời trì hoãn quyết định ấy thêm một chút.",
+    "notes": "Không có nghiên cứu so sánh gia đình đặt quy tắc này giảm bị lừa bao nhiêu. Xếp mức B vì thủ đoạn lừa đảo và lời khuyên ‘bàn thêm với gia đình’ xuất phát từ cơ quan kiểm sát và cơ quan quản lý tài chính. Tính chất căn cứ giống mục 6 (dùng nhà để dưỡng già). Khi xúc động, người ta dễ bị thuyết phục hơn, xem mục 4 (tôi cần về bàn với gia đình). Nguyên tắc phòng lừa đảo chung xem chương 8 và chương 13. Đừng nói việc này thành ‘sợ ông/bà bị lừa’. Nói thành ‘tiền trong nhà ghi chép chung’, người cao tuổi sẽ dễ chấp nhận hơn. Cũng đừng giao toàn bộ tiền của người cao tuổi cho con cái giữ, vì sẽ gây ra loại tranh chấp khác.",
+    "extra": ""
+  }
+}

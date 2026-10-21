@@ -1,0 +1,15 @@
+{
+  "id": "e-15-11",
+  "source_sha256": "5268d93ea5d60935c5588ebe91d0abef438ff294425623aa6829252f9895257b",
+  "draft_sha256": "b1b134cb6b00517ca6d8fa5cac1bbf20c547d7bd68bff145f5bb11466414963e",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves fault allocation, author-example qualification, loan cancellation and exclusion of secondhand housing. Translation review does not independently verify current law or source advice."
+}

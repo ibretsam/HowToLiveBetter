@@ -1,0 +1,15 @@
+{
+  "id": "e-19-20",
+  "source_sha256": "c6f5caf8aa2ce90710f57968125999f3594f82181f2049888abbeb40a1023161",
+  "draft_sha256": "7275245cb38af6134cb86165132c19a720f2190cccfce54da86655c4d08ae1b4",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified updated six-month ordinary first-instance deadline with extension, eleven-month double-wage limit, one-year open-ended-contract condition, and force-majeure, intent and gross-negligence exceptions. Preserved unresolved nationwide limitation-period interpretation and Beijing-specific one-year wording as source caveats."
+}

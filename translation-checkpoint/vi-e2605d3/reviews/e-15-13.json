@@ -1,0 +1,15 @@
+{
+  "id": "e-15-13",
+  "source_sha256": "87d8e9a58924f17af09ac65e55422e0a19583b3173a56e29fdf044fe856e37f7",
+  "draft_sha256": "4df632b6749e3dbb0358d37daee0d7460c05a5bd7c00e077c0d2bd641acaa670",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves notice, three-month and one-year exercise periods, 90-day registration dates and 30% adjustment criterion. Source plain one-year-or-more versus benefit more-than-one-year phrasing retained. Translation review does not independently verify current law or source advice."
+}

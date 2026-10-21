@@ -1,0 +1,35 @@
+{
+  "id": "e-14-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/14-账号与信息安全.md",
+  "source_sha256": "26acae814017767989c9d2e1da50c43b5e09e953f2619c776f11337214dedcee",
+  "original": {
+    "number": 2,
+    "title": "邮箱密码单独一个，不和任何网站重复",
+    "fields": {
+      "cost": "不花钱。用密码管理器存着就不用自己记。难的是要改掉一个密码到处用的老习惯。",
+      "plain": "别的网站被偷走的密码，会被人拿来直接登你的邮箱。邮箱一旦被人登进去，凡是能用邮箱找回密码的账号，都跟着一起丢。所以邮箱的密码要单独一个，别的地方一律不用。",
+      "benefit": "把别处泄露的账号和密码挨个拿来试着登，这叫撞库，你的邮箱也会被这样试。邮箱一旦被人登进去，所有用它找回密码的账号一起丢。美国网络安全和基础设施安全局的建议是：每个账号用一个不同的强密码，至少 16 位，交给密码管理器存",
+      "grade": "C",
+      "sources": "US CISA. Use Strong Passwords. <https://www.cisa.gov/secure-our-world/use-strong-passwords>",
+      "notes": "记不住就用浏览器自带的密码管理器。它替你记住每个网站的密码，比到处用同一个密码强得多。别把密码存在微信收藏或者备忘录里"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Dùng mật khẩu riêng cho email, không trùng với bất kỳ website nào",
+    "cost": "Không tốn tiền. Lưu trong trình quản lý mật khẩu thì không phải tự nhớ. Cái khó là bỏ thói quen dùng một mật khẩu ở mọi nơi.",
+    "plain": "Mật khẩu bị đánh cắp từ website khác có thể được đem thử đăng nhập thẳng vào email của bạn. Khi có người vào được email, mọi tài khoản có thể dùng email đó để lấy lại mật khẩu cũng mất theo. Vì vậy, mật khẩu email phải dùng riêng, không dùng ở bất kỳ nơi nào khác.",
+    "benefit": "Lấy từng cặp tài khoản và mật khẩu bị lộ ở nơi khác để thử đăng nhập được gọi là tấn công nhồi thông tin đăng nhập; email của bạn cũng sẽ bị thử theo cách này. Khi có người vào được email, mọi tài khoản dùng email đó để lấy lại mật khẩu đều mất theo. Cơ quan An ninh mạng và An ninh cơ sở hạ tầng Mỹ khuyên mỗi tài khoản dùng một mật khẩu mạnh khác nhau, dài ít nhất 16 ký tự và lưu bằng trình quản lý mật khẩu.",
+    "notes": "Không nhớ được thì dùng trình quản lý mật khẩu có sẵn trong trình duyệt. Nó nhớ giúp mật khẩu từng website, tốt hơn nhiều so với dùng cùng một mật khẩu ở mọi nơi. Đừng lưu mật khẩu trong mục yêu thích của WeChat hoặc ứng dụng ghi chú.",
+    "extra": ""
+  }
+}

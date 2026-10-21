@@ -1,0 +1,35 @@
+{
+  "id": "e-33-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "614c1a2aced7a8d6f31a9db7f8904b1302f413c9a9b761215657a11f57e7bc8b",
+  "original": {
+    "number": 18,
+    "title": "说一个成年人「管不了自己的事」，要向法院申请认定，家属说了不算",
+    "fields": {
+      "cost": "向法院申请不交案件受理费。要做鉴定的，鉴定费另算，一般由申请人付。法律要求 30 天内审完，做鉴定会拖得更久。",
+      "plain": "一个成年人是不是「无民事行为能力」或者「限制民事行为能力」，只有法院能认定。家属、单位、居委会都不能自己说了算。要由利害关系人或者有关组织向法院申请。反过来，智力或者精神健康恢复了，也可以申请认定他恢复行为能力。这道程序既是限制，也是保护。",
+      "benefit": "《民法典》第二十一条：「不能辨认自己行为的成年人为无民事行为能力人，由其法定代理人代理实施民事法律行为。」第二十二条：「不能完全辨认自己行为的成年人为限制民事行为能力人，实施民事法律行为由其法定代理人代理或者经其法定代理人同意、追认；但是，可以独立实施纯获利益的民事法律行为或者与其智力、精神健康状况相适应的民事法律行为。」第二十四条：「不能辨认或者不能完全辨认自己行为的成年人，其利害关系人或者有关组织，可以向人民法院申请认定该成年人为无民事行为能力人或者限制民事行为能力人。」同条还规定，被认定之后，经本人、利害关系人或者有关组织申请，人民法院可以根据其智力、精神健康恢复的状况，认定其恢复为限制民事行为能力人或者完全民事行为能力人。有关组织包括：居民委员会、村民委员会、学校、医疗机构、妇女联合会、残疾人联合会、依法设立的老年人组织、民政部门等。第二十三条规定，无民事行为能力人、限制民事行为能力人的监护人是其法定代理人（全国，2021 年 1 月 1 日起施行）。程序写在《民事诉讼法》特别程序一章。第一百九十八条：申请向该公民住所地基层人民法院提出，「申请书应当写明该公民无民事行为能力或者限制民事行为能力的事实和根据」。第一百九十九条：「人民法院受理申请后，必要时应当对被请求认定为无民事行为能力或者限制民事行为能力的公民进行鉴定。」第一百八十七条：特别程序的案件「应当在立案之日起三十日内或者公告期满后三十日内审结」，有特殊情况需要延长的由本院院长批准。《诉讼费用交纳办法》第八条：依照民事诉讼法规定的特别程序审理的案件，不交纳案件受理费。第十二条：诉讼中因鉴定等发生的费用，人民法院按「谁主张、谁负担」的原则，决定由当事人直接支付给有关机构",
+      "grade": "A",
+      "sources": "中华人民共和国民法典（第二十一条、第二十二条、第二十三条、第二十四条、第一百七十一条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>；中华人民共和国民事诉讼法（2023 年修正，第一百八十七条、第一百九十八条、第一百九十九条）. <https://flk.npc.gov.cn/detail?id=ff8081818a21dc13018b425303b7086d>；国务院令第 481 号. 诉讼费用交纳办法（第八条、第十二条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6929.htm>",
+      "notes": "申请走的是法院的特别程序，法定审限 30 天，比普通民事案件短，但做鉴定要另花时间。申请书要写明事实和根据，医院的诊断证明一般要附上，这是作者经验。法院必要时应当鉴定，鉴定费按「谁主张、谁负担」，一般由申请人付。没经过这道程序、也不是法定代理人，就替人签字、处分他的财产，按民法典第一百七十一条，未经追认就对他不发生效力，房子卖了也可能要退回来。这是作者从法条推出来的。还要记住一点：限制民事行为能力不等于什么都不能做。和他的智力、精神状况相适应的事，以及纯得好处的事，他自己就能做，别一概代办。监护人怎么定见本节第 19 条（监护人）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Muốn xác định một người trưởng thành “không tự lo được việc của mình”, phải yêu cầu tòa án quyết định; người nhà không có quyền tự quyết",
+    "cost": "Nộp yêu cầu tới tòa án không phải trả lệ phí thụ lý vụ việc. Nếu cần giám định, phí giám định tính riêng, thông thường do người yêu cầu trả. Luật yêu cầu giải quyết trong 30 ngày; có giám định sẽ lâu hơn.",
+    "plain": "Một người trưởng thành có “mất năng lực hành vi dân sự” hay “bị hạn chế năng lực hành vi dân sự” hay không chỉ tòa án mới có thể xác định. Người nhà, đơn vị công tác và ủy ban cư dân đều không thể tự quyết. Người có quyền lợi liên quan hoặc tổ chức liên quan phải nộp yêu cầu tới tòa án. Ngược lại, khi trí tuệ hoặc sức khỏe tâm thần phục hồi, cũng có thể yêu cầu xác định người đó đã phục hồi năng lực hành vi. Thủ tục này vừa giới hạn quyền, vừa bảo vệ họ.",
+    "benefit": "Điều hai mươi mốt Bộ luật Dân sự: “Người trưởng thành không thể nhận biết hành vi của mình là người mất năng lực hành vi dân sự, do người đại diện theo pháp luật thay mặt thực hiện hành vi pháp lý dân sự”. Điều hai mươi hai: “Người trưởng thành không thể nhận biết đầy đủ hành vi của mình là người bị hạn chế năng lực hành vi dân sự; hành vi pháp lý dân sự do người đại diện theo pháp luật thay mặt thực hiện hoặc phải được người đại diện theo pháp luật đồng ý, chấp nhận sau đó; tuy nhiên, họ có thể tự thực hiện hành vi pháp lý dân sự chỉ mang lại lợi ích hoặc phù hợp với trí tuệ, tình trạng sức khỏe tâm thần của mình”. Điều hai mươi bốn: “Đối với người trưởng thành không thể nhận biết hoặc không thể nhận biết đầy đủ hành vi của mình, người có quyền lợi liên quan hoặc tổ chức liên quan có thể yêu cầu tòa án nhân dân xác định người trưởng thành đó mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự”. Cùng điều còn quy định sau khi đã có quyết định xác định, theo yêu cầu của chính người đó, người có quyền lợi liên quan hoặc tổ chức liên quan, tòa án nhân dân có thể căn cứ mức độ phục hồi trí tuệ, sức khỏe tâm thần để xác định họ đã phục hồi thành người có năng lực hành vi dân sự hạn chế hoặc đầy đủ. Tổ chức liên quan gồm ủy ban cư dân, ủy ban thôn, trường học, cơ sở y tế, Hội Liên hiệp Phụ nữ, Liên đoàn Người khuyết tật, tổ chức người cao tuổi được thành lập hợp pháp, cơ quan dân chính và các tổ chức khác. Điều hai mươi ba quy định người giám hộ của người mất năng lực hành vi dân sự, người bị hạn chế năng lực hành vi dân sự là người đại diện theo pháp luật của họ (toàn Trung Quốc, có hiệu lực từ ngày 1 tháng 1 năm 2021). Thủ tục được quy định trong chương về thủ tục đặc biệt của Luật Tố tụng dân sự. Điều một trăm chín mươi tám: nộp yêu cầu tới tòa án nhân dân cơ sở nơi công dân đó cư trú; “đơn yêu cầu phải nêu rõ sự việc và căn cứ cho rằng công dân đó mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự”. Điều một trăm chín mươi chín: “Sau khi thụ lý yêu cầu, khi cần thiết, tòa án nhân dân phải tiến hành giám định đối với công dân được yêu cầu xác định là mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự”. Điều một trăm tám mươi bảy: vụ việc theo thủ tục đặc biệt “phải được giải quyết trong vòng ba mươi ngày kể từ ngày lập hồ sơ thụ lý hoặc trong vòng ba mươi ngày sau khi hết thời hạn thông báo công khai”; nếu có tình huống đặc biệt cần kéo dài thì phải được chánh án tòa đó phê duyệt. Điều tám Biện pháp nộp chi phí tố tụng: vụ việc được giải quyết theo thủ tục đặc biệt do Luật Tố tụng dân sự quy định không phải nộp lệ phí thụ lý vụ việc. Điều mười hai: với chi phí giám định và các chi phí tương tự phát sinh trong tố tụng, tòa án nhân dân theo nguyên tắc “ai yêu cầu, người đó chịu” quyết định để đương sự trả trực tiếp cho cơ quan liên quan.",
+    "notes": "Yêu cầu được giải quyết theo thủ tục đặc biệt của tòa án, thời hạn giải quyết theo luật là 30 ngày, ngắn hơn vụ án dân sự thông thường, nhưng giám định cần thêm thời gian. Đơn yêu cầu phải nêu rõ sự việc và căn cứ, thông thường nên đính kèm giấy chẩn đoán của bệnh viện; đây là kinh nghiệm của tác giả. Khi cần thiết, tòa án phải tiến hành giám định; phí giám định theo nguyên tắc “ai yêu cầu, người đó chịu”, thông thường do người yêu cầu trả. Nếu chưa qua thủ tục này, cũng không phải người đại diện theo pháp luật mà lại ký thay, định đoạt tài sản của người đó, thì theo Điều một trăm bảy mươi mốt Bộ luật Dân sự, nếu chưa được họ chấp nhận sau đó, hành vi không có hiệu lực đối với họ; nhà đã bán cũng có thể phải trả lại. Đây là suy luận của tác giả từ điều luật. Còn một điều cần nhớ: bị hạn chế năng lực hành vi dân sự không có nghĩa là không thể làm bất cứ việc gì. Việc phù hợp với trí tuệ, tình trạng tâm thần của họ và việc chỉ mang lại lợi ích thì họ tự làm được, đừng làm thay tất cả. Cách xác định người giám hộ xem mục 19 phần này (người giám hộ).",
+    "extra": ""
+  }
+}

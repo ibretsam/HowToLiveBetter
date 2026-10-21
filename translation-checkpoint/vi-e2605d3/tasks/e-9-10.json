@@ -1,0 +1,35 @@
+{
+  "id": "e-9-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "d55de6b7096d58934c102e4727ac5d06a86e66d33cb05000a448cf4653785005",
+  "original": {
+    "number": 10,
+    "title": "不网购仿真枪、钢珠枪、气枪，不买来路不明的「玩具枪」",
+    "fields": {
+      "cost": "不花钱。想打枪，去正规射击馆。",
+      "plain": "网上买的钢珠枪、气枪，枪口比动能到了 1.8 焦耳/平方厘米，就按枪支认定。没有许可拿在手里，判 3 年以下，情节严重的判 3 到 7 年。有对夫妇卖「玩具枪」，43 支里有 18 支被鉴定为枪，只因证明不了他们知情才没被起诉。",
+      "benefit": "没有许可就持有、私藏枪支的，判 3 年以下，情节严重的判 3 到 7 年。打不了制式子弹的非制式枪，只要枪口比动能大于等于 1.8 焦耳/平方厘米，一律认定为枪支。枪口比动能，指的是子弹出膛时每平方厘米带的能量。不少网上买的钢珠枪、气枪都超过这个数。2018 年起最高法、最高检要求，对比动能偏低的气枪，要综合评估之后再决定要不要定罪。评估要看外观、材质、价格、用途、本人是不是知情等等。官方案例：赵某某夫妇在集贸市场卖「玩具枪」，查获 43 支，其中 18 支经鉴定符合枪支标准。因为没有充分证据证明他们知道那是枪支，按证据存疑不起诉（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第一百二十八条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院、最高人民检察院 (2018). 关于涉以压缩气体为动力的枪支、气枪铅弹刑事案件定罪量刑问题的批复（法释〔2018〕8 号）. <https://www.spp.gov.cn/xwfbh/wsfbt/201803/t20180328_372604.shtml>；最高人民法院 (2018). 《批复》的理解与适用. <https://www.court.gov.cn/zixun/xiangqing/88472.html>",
+      "notes": "那起案子不起诉的关键，是认定他们「不明知」。成年人特意上网买钢珠枪、气枪，事后再说不知道那是枪，很难成立。弩和管制刀具随身带的罚则，见本节第 26 条（别为了防身买甩棍、电击器、匕首）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không mua súng mô phỏng, súng bắn bi thép, súng hơi trên mạng; không mua “súng đồ chơi” không rõ nguồn gốc",
+    "cost": "Không tốn tiền. Muốn bắn súng thì đến trường bắn hoạt động hợp pháp.",
+    "plain": "Súng bắn bi thép, súng hơi mua trên mạng có mật độ động năng tại đầu nòng đạt 1.8 joule/cm² thì được xác định là súng. Sở hữu không có giấy phép bị phạt tù không quá 3 năm; tình tiết nghiêm trọng thì từ 3 đến 7 năm. Có đôi vợ chồng bán “súng đồ chơi”, trong 43 khẩu có 18 khẩu được giám định là súng; chỉ vì không chứng minh được họ biết nên mới không bị truy tố.",
+    "benefit": "Sở hữu, cất giấu súng không có giấy phép thì bị phạt tù không quá 3 năm; tình tiết nghiêm trọng thì từ 3 đến 7 năm. Súng không tiêu chuẩn, không bắn được đạn tiêu chuẩn, chỉ cần mật độ động năng tại đầu nòng lớn hơn hoặc bằng 1.8 joule/cm² thì đều được xác định là súng. Mật độ động năng tại đầu nòng là năng lượng trên mỗi centimet vuông của viên đạn khi ra khỏi nòng. Không ít súng bắn bi thép, súng hơi mua trên mạng vượt mức này. Từ năm 2018, Tòa án Nhân dân Tối cao và Viện Kiểm sát Nhân dân Tối cao yêu cầu với súng hơi có mật độ động năng tương đối thấp phải đánh giá tổng thể rồi mới quyết định có kết tội hay không. Việc đánh giá xét hình dáng, vật liệu, giá, công dụng, bản thân người đó có biết hay không và các yếu tố khác. Vụ việc chính thức: vợ chồng một người họ Triệu bán “súng đồ chơi” ở chợ, bị thu giữ 43 khẩu; giám định cho thấy 18 khẩu đạt tiêu chuẩn súng. Do không đủ chứng cứ chứng minh họ biết đó là súng nên không truy tố vì còn nghi vấn về chứng cứ (toàn Trung Quốc).",
+    "notes": "Điểm then chốt khiến vụ đó không bị truy tố là xác định họ “không biết rõ”. Người trưởng thành cố ý lên mạng mua súng bắn bi thép, súng hơi rồi nói không biết đó là súng thì rất khó được chấp nhận. Mức phạt mang nỏ và dao thuộc diện quản lý theo người xem mục 26 của chương này (đừng mua dùi cui rút, thiết bị chích điện, dao găm để tự vệ).",
+    "extra": ""
+  }
+}

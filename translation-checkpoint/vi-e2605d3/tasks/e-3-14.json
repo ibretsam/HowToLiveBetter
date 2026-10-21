@@ -1,0 +1,35 @@
+{
+  "id": "e-3-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "6513c93bbf6b7bbb88a72e230e2cc0427d0a2d4d551ace201e72c8072bb17a95",
+  "original": {
+    "number": 14,
+    "title": "发现自己在反复回想同一件糟心事时，换个需要动手的活",
+    "fields": {
+      "cost": "不花钱。难在要先察觉自己正在反复回想（这叫反刍），察觉本身就要练。",
+      "plain": "反复回想同一件糟心事，会加重抑郁，把负面念头钉得更牢，让人更解决不了问题，也更难真动手。它还会把身边愿意听你说的人耗光。察觉到自己在原地绕，就去干点要动手的活。",
+      "benefit": "多项研究的综述说，反复回想同一件糟心事（反刍思维）会加重抑郁。它还会强化负面思考，削弱解决问题的能力。它会妨碍实际行动，还会把身边愿意听你说的人耗光。它与焦虑、暴食、酗酒、自伤相关。",
+      "grade": "B",
+      "sources": "Nolen-Hoeksema, Wisco & Lyubomirsky (2008). Rethinking Rumination. Perspectives on Psychological Science. <https://doi.org/10.1111/j.1745-6924.2008.00088.x>",
+      "notes": "综述只给了方向，没有数字。「换个活」是作者自己的做法。文献能撑住的只有一句：把注意力岔开，好过接着在原地绕。至于换成什么活，没人比较过。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi nhận ra mình nghĩ đi nghĩ lại về cùng một chuyện buồn bực, hãy chuyển sang việc cần dùng tay",
+    "cost": "Không tốn tiền. Khó ở chỗ trước hết phải nhận ra mình đang nghĩ đi nghĩ lại (gọi là suy nghĩ luẩn quẩn); khả năng nhận ra này cũng cần luyện tập.",
+    "plain": "Nghĩ đi nghĩ lại về cùng một chuyện buồn bực làm trầm cảm nặng hơn, củng cố suy nghĩ tiêu cực, khiến khó giải quyết vấn đề và khó thực sự hành động hơn. Nó còn làm kiệt sức những người bên cạnh sẵn lòng nghe bạn nói. Khi nhận ra mình đang nghĩ vòng quanh, hãy làm việc gì đó cần dùng tay.",
+    "benefit": "Một tổng quan nhiều nghiên cứu cho biết nghĩ đi nghĩ lại về cùng một chuyện buồn bực (suy nghĩ luẩn quẩn) làm trầm cảm nặng hơn. Nó còn củng cố suy nghĩ tiêu cực và làm giảm khả năng giải quyết vấn đề. Nó cản trở hành động thực tế và làm kiệt sức những người bên cạnh sẵn lòng nghe bạn nói. Nó liên quan đến lo âu, ăn uống vô độ, lạm dụng rượu và tự gây thương tích.",
+    "notes": "Tổng quan chỉ nêu chiều hướng, không có con số. “Chuyển sang việc khác” là cách riêng của tác giả. Tài liệu chỉ hỗ trợ nhận định rằng chuyển hướng chú ý tốt hơn tiếp tục suy nghĩ vòng quanh. Chưa ai so sánh nên chuyển sang công việc nào.",
+    "extra": ""
+  }
+}

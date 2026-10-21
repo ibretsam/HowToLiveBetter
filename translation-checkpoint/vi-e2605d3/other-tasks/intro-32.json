@@ -1,0 +1,15 @@
+{
+  "id": "intro-32",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "978e940407b280f7ed01bfb008e5ff1e62f196925752b5f227d1fe35547d1eeb",
+  "original": {
+    "title": "出国留学：身份、打工、保险和回国认证",
+    "intro": "本节算钱和人身自由两笔账，不讨论该不该出国，也不比较学校好坏。下面四件事不知道就要吃亏。签证身份怎么才算没断，打工时数的上限在哪，哪几笔保险和费用是必须交的，回国以后这张文凭能不能被认。\n\n覆盖美国、加拿大、英国、澳大利亚四个国家，数字一国一国列。来源是各国移民局和中国教育部的官方网页。**各国的留学政策改得很勤，比中国的法规还勤。本节所有数字的截至日期是 2026 年 9 月。出发前和每次续签前，都照来源栏的链接自己再查一遍。**\n\n人在境外出了事怎么找使领馆、12308 能管什么、境外医疗和转运保险怎么买，见第 21 节。读书还是打工那道账，见第 23 节。账号被盗见第 14 节，电信诈骗见第 8 节。这些都不重复写。"
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Du học: tư cách cư trú, làm thêm, bảo hiểm và công nhận văn bằng khi về Trung Quốc",
+    "intro": "Chương này tính hai mặt tiền bạc và tự do thân thể, không bàn có nên du học hay so sánh trường tốt, trường kém. Không biết bốn việc sau sẽ dễ chịu thiệt: làm thế nào để tư cách cư trú không bị gián đoạn, giới hạn giờ làm ở đâu, bảo hiểm và chi phí nào bắt buộc phải đóng, và văn bằng có được công nhận khi về Trung Quốc không.\n\nNội dung bao gồm Mỹ, Canada, Anh và Úc, số liệu được trình bày riêng từng nước. Nguồn là website chính thức của cơ quan nhập cư các nước và Bộ Giáo dục Trung Quốc. **Chính sách du học của các nước thay đổi rất thường xuyên, còn thường xuyên hơn pháp luật Trung Quốc. Tất cả số liệu trong chương được chốt đến tháng 9 năm 2026. Trước khi lên đường và mỗi lần gia hạn thị thực, hãy tự kiểm tra lại theo liên kết trong phần nguồn.**\n\nKhi gặp chuyện ở nước ngoài, cách tìm đại sứ quán hoặc lãnh sự quán, phạm vi hỗ trợ của 12308 và cách mua bảo hiểm y tế, vận chuyển y tế ở nước ngoài xem chương 21. Cân nhắc học tiếp hay đi làm xem chương 23. Tài khoản bị đánh cắp xem chương 14, lừa đảo viễn thông xem chương 8. Các nội dung đó không được lặp lại ở đây."
+  }
+}

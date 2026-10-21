@@ -1,0 +1,35 @@
+{
+  "id": "e-18-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "9e919691c587aa24dffce4d4231d432261d4c3ad85e68126071f9fc001754774",
+  "original": {
+    "number": 1,
+    "title": "先把能领的算进来：国家育儿补贴每孩每年 3600 元，发到 3 岁；个税专项附加扣除每孩每月 2000 元",
+    "fields": {
+      "cost": "不花钱。补贴去孩子户口所在地申请，跑一趟就办完。个税扣除在手机「个人所得税」App 上填，也可以交给单位填",
+      "plain": "不满 3 岁的孩子每年能领 3600 元育儿补贴，不用交税。2025 年以前出生的按剩下的月数折算。另外从孩子出生到全日制上学结束，每个孩子每月能从父母的应税收入里减掉 2000 元。由一方全扣，税率 3% 的一年少交 720 元，10% 的少交 2400 元。",
+      "benefit": "中共中央办公厅、国务院办公厅印发的方案规定：从 2025 年 1 月 1 日起，给 3 周岁以下的婴幼儿发补贴，发到满 3 周岁，标准是「每孩每年 3600 元」。2025 年 1 月 1 日之前出生、还不满 3 周岁的，按应补贴的月数折算。由孩子的父母一方或者其他监护人去申领。这笔补贴「免征个人所得税」。认定低保这类救助的时候，它「不计入家庭或个人收入」。3600 元是「国家基础标准」，「地方提标部分所需资金由地方财政自行承担」。方案还规定「县级以下政府不得自行出台育儿补贴政策或标准」，省级或市级政府要出台其他育儿补贴政策或者提标的，报上一级主管部门备案。个税那边，国务院 2022 年设了 3 岁以下婴幼儿照护扣除。2023 年又把它和子女教育扣除一起提高，从 2023 年 1 月 1 日起都是每个孩子每月 2000 元。子女教育扣除管孩子满 3 岁到上小学前这段，也管全日制学历教育，从小学一直到博士。父母「可以选择由其中一方按扣除标准的100%扣除，也可以选择由双方分别按扣除标准的50%扣除」，选定后一年内不能改。自算例子：一个孩子一年扣 2000 元乘 12 个月，共 24000 元。由一方全扣，这个人税率在 3% 档的少交 720 元，在 10% 档的少交 2400 元。两人各扣一半，每人扣 12000 元，3% 档少交 360 元，10% 档少交 1200 元。税率档按全年应纳税所得额算：不超过 36000 元的是 3%，超过 36000 元到 144000 元的部分是 10%",
+      "grade": "A",
+      "sources": "中共中央办公厅、国务院办公厅 (2025). 育儿补贴制度实施方案. <https://www.gov.cn/gongbao/2025/issue_12206/202508/content_7035435.html>；国务院 (2022). 国务院关于设立3岁以下婴幼儿照护个人所得税专项附加扣除的通知（国发〔2022〕8号，第一条、第二条）. <https://www.gov.cn/zhengce/zhengceku/2022-03/28/content_5682013.htm>；国务院 (2023). 国务院关于提高个人所得税有关专项附加扣除标准的通知（国发〔2023〕13号，第一条、第二条、第五条）. <https://www.gov.cn/zhengce/zhengceku/202308/content_6901207.htm>；国务院 (2018). 个人所得税专项附加扣除暂行办法（国发〔2018〕41号，第五条、第六条）. <https://www.gov.cn/zhengce/zhengceku/2018-12/22/content_5351181.htm>；国家税务总局 (2023). 关于贯彻执行提高个人所得税有关专项附加扣除标准政策的公告（国家税务总局公告2023年第14号，第三条）. <https://www.gov.cn/zhengce/zhengceku/202309/content_6901454.htm>；全国人民代表大会常务委员会 (2018). 中华人民共和国个人所得税法（第六条，个人所得税税率表一）. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf724bd0609>",
+      "notes": "这是全国统一的基础标准。方案允许省级、市级政府提高标准或者另出育儿补贴政策，县级以下政府不能自己出。本地有没有加、怎么领，看本省的实施方案。三年加起来 10800 元，在养孩子的开支里只是很小的一块，别把它当成生不生的依据。个税扣除没在平时填上的，年底汇算时还能补，见第 5 节第 2 条（个税汇算）。全年应纳税所得额本来就是零的人，扣了也不会少交。扣完跨了档的，少交的钱落在两档算出的数之间。父母都交税的，让税率档高的那一方全扣，家里少交得更多"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tính trước các khoản được nhận: trợ cấp nuôi con quốc gia là 3600 nhân dân tệ mỗi trẻ mỗi năm, trả đến 3 tuổi; khoản giảm trừ bổ sung chuyên biệt khi tính thuế thu nhập cá nhân là 2000 nhân dân tệ mỗi trẻ mỗi tháng",
+    "cost": "Không tốn tiền. Xin trợ cấp tại nơi trẻ đăng ký hộ khẩu, đến một lần là làm xong. Khai khoản giảm trừ thuế trên ứng dụng “Thuế thu nhập cá nhân” trên điện thoại, hoặc nhờ đơn vị sử dụng lao động khai",
+    "plain": "Trẻ chưa đủ 3 tuổi mỗi năm được nhận 3600 nhân dân tệ trợ cấp nuôi con, không phải đóng thuế. Trẻ sinh trước năm 2025 được tính theo số tháng còn lại. Ngoài ra, từ khi trẻ chào đời đến khi kết thúc việc học toàn thời gian, mỗi trẻ mỗi tháng được trừ 2000 nhân dân tệ khỏi thu nhập chịu thuế của cha mẹ. Nếu một người nhận toàn bộ khoản giảm trừ, với thuế suất 3% thì mỗi năm đóng ít đi 720 nhân dân tệ, với thuế suất 10% thì ít đi 2400 nhân dân tệ.",
+    "benefit": "Phương án do Văn phòng Trung ương Đảng Cộng sản Trung Quốc và Văn phòng Quốc vụ viện ban hành quy định: từ ngày 1 tháng 1 năm 2025, cấp trợ cấp cho trẻ nhỏ dưới 3 tuổi, trả đến khi đủ 3 tuổi, mức “3600 nhân dân tệ mỗi trẻ mỗi năm”. Trẻ sinh trước ngày 1 tháng 1 năm 2025 mà chưa đủ 3 tuổi được tính theo số tháng thuộc diện hưởng trợ cấp. Một trong hai cha mẹ hoặc người giám hộ khác của trẻ nộp đơn. Khoản trợ cấp này “được miễn thuế thu nhập cá nhân”. Khi xét các khoản cứu trợ như trợ cấp sinh hoạt tối thiểu, khoản tiền này “không tính vào thu nhập gia đình hoặc cá nhân”. 3600 nhân dân tệ là “mức cơ bản quốc gia”; “kinh phí cần cho phần địa phương nâng thêm do ngân sách địa phương tự bảo đảm”. Phương án còn quy định “chính quyền từ cấp huyện trở xuống không được tự ban hành chính sách hoặc mức trợ cấp nuôi con”. Chính quyền cấp tỉnh hoặc cấp thành phố muốn ban hành chính sách trợ cấp nuôi con khác hoặc nâng mức thì phải báo cáo cơ quan có thẩm quyền cấp trên trực tiếp để lưu hồ sơ. Về thuế thu nhập cá nhân, năm 2022 Quốc vụ viện đặt ra khoản giảm trừ cho việc chăm sóc trẻ dưới 3 tuổi. Năm 2023 lại nâng khoản này cùng khoản giảm trừ cho giáo dục con cái; từ ngày 1 tháng 1 năm 2023, cả hai đều là 2000 nhân dân tệ mỗi trẻ mỗi tháng. Khoản giảm trừ giáo dục con cái áp dụng cho giai đoạn từ khi trẻ đủ 3 tuổi đến trước tiểu học, và cả giáo dục cấp bằng toàn thời gian từ tiểu học đến tiến sĩ. Cha mẹ “có thể chọn để một người nhận 100% mức giảm trừ, hoặc mỗi người nhận 50% mức giảm trừ”; sau khi chọn thì không được đổi trong năm đó. Ví dụ tự tính: một trẻ mỗi năm được giảm trừ 2000 nhân dân tệ nhân 12 tháng, tổng 24000 nhân dân tệ. Nếu một người nhận toàn bộ, người đó ở bậc thuế suất 3% sẽ đóng ít đi 720 nhân dân tệ, ở bậc 10% sẽ ít đi 2400 nhân dân tệ. Nếu mỗi người nhận một nửa, mỗi người được giảm trừ 12000 nhân dân tệ, ở bậc 3% đóng ít đi 360 nhân dân tệ, ở bậc 10% ít đi 1200 nhân dân tệ. Bậc thuế suất tính theo thu nhập tính thuế cả năm: không quá 36000 nhân dân tệ áp dụng 3%, phần vượt 36000 đến 144000 nhân dân tệ áp dụng 10%",
+    "notes": "Đây là mức cơ bản thống nhất toàn quốc. Phương án cho phép chính quyền cấp tỉnh, cấp thành phố nâng mức hoặc ban hành chính sách trợ cấp nuôi con khác; chính quyền từ cấp huyện trở xuống không được tự ban hành. Địa phương có tăng thêm không, nhận bằng cách nào thì xem phương án thực hiện của tỉnh mình. Tổng ba năm là 10800 nhân dân tệ, chỉ chiếm phần rất nhỏ trong chi phí nuôi con, đừng lấy nó làm căn cứ quyết định sinh hay không. Khoản giảm trừ thuế chưa khai trong năm vẫn có thể bổ sung khi quyết toán cuối năm; xem chương 5 mục 2 (quyết toán thuế thu nhập cá nhân). Người vốn có thu nhập tính thuế cả năm bằng không thì giảm trừ cũng không làm số thuế phải đóng thấp hơn. Nếu khoản giảm trừ khiến thu nhập xuống bậc thuế thấp hơn, số tiền đóng ít đi nằm giữa hai con số tính theo hai bậc. Nếu cả cha lẫn mẹ đều đóng thuế, để người ở bậc thuế suất cao hơn nhận toàn bộ khoản giảm trừ sẽ giúp gia đình đóng ít thuế hơn",
+    "extra": ""
+  }
+}

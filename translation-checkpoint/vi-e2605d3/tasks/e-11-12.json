@@ -1,0 +1,35 @@
+{
+  "id": "e-11-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "654166ce4dfb9b700de8aecb234acf86e8182538f01a7cef6914f7d8ee15aae9",
+  "original": {
+    "number": 12,
+    "title": "签了竞业协议，离职后公司不按月给补偿就书面催告，满 3 个月没给可以解除；没接触过商业秘密的岗位可请求确认条款不生效",
+    "fields": {
+      "cost": "不花钱。离职时留好竞业协议的原件，以及公司没有按月付钱的证据",
+      "plain": "竞业限制就是离职后一段时间不许去同行干活，最长 2 年，公司要按月给补偿。没约定数额的，按离职前 12 个月平均工资的 30% 给，不低于当地最低工资。公司的原因 3 个月没给，你可以请求解除。2025 年起，没接触过商业秘密的岗位，可以请求确认条款不生效。",
+      "benefit": "竞业限制只能约束高管、高级技术人员，以及其他负有保密义务的人。期限最长 2 年。公司必须在这段期限内按月给经济补偿。没有约定补偿数额的，按离职前 12 个月平均工资的 30% 给，并且不低于当地最低工资。因为公司自己的原因 3 个月没付，劳动者可以请求解除这份竞业限制。公司主动解除的，要额外付 3 个月补偿。2025 年起，岗位上没知道、没接触过商业秘密的劳动者，可以请求确认条款不生效。约定范围超出他实际知道的那部分秘密的，超出的部分无效。官方案例：某医药公司起诉首席技术官郑某，索赔违约金 710 万元。法院认定他新东家的产品与原公司不具替代性，竞业范围应当限于他实际知悉的秘密，判决全部驳回（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012). 劳动合同法（2012 年修正，第二十三、二十四条）. <https://yjglj.fushun.gov.cn/008/20260622/d846d3c2-df3d-4c4c-af16-898ede43e1ee.html>（抚顺市应急管理局转载）；最高人民法院 (2020). 关于审理劳动争议案件适用法律问题的解释（一）（第三十六至四十条）. <https://www.court.gov.cn/zixun/xiangqing/282121.html>；最高人民法院 (2025). 关于审理劳动争议案件适用法律问题的解释（二）（法释〔2025〕12 号，第十三至十五条）. <https://www.court.gov.cn/zixun/xiangqing/472691.html>；最高人民法院 (2025). 劳动争议典型案例（案例四）. <https://www.court.gov.cn/zixun/xiangqing/472681.html>",
+      "notes": "法条只看是不是因为公司的原因满 3 个月没付，书面催告是作者建议的留证办法。反过来，协议有效、公司也按月付了钱，你还去竞品上班，就要按约定掏违约金。掏完还可能被要求把剩下的竞业期守完。公司和高管、高级技术人员这类负有保密义务的人约定在职期间也不许干竞业，公司不另外给钱也算数。除了竞业限制和专项培训服务期，公司不能约定由你付违约金，见第 19 节第 22 条（离职被要违约金）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đã ký thỏa thuận không cạnh tranh mà sau nghỉ việc công ty không trả tiền bù đắp hằng tháng thì nhắc bằng văn bản; đủ 3 tháng chưa trả có thể yêu cầu chấm dứt; vị trí chưa tiếp xúc bí mật kinh doanh có thể yêu cầu xác nhận điều khoản không có hiệu lực",
+    "cost": "Không tốn tiền. Khi nghỉ việc, giữ bản gốc thỏa thuận không cạnh tranh và chứng cứ công ty không trả tiền hằng tháng.",
+    "plain": "Hạn chế cạnh tranh nghĩa là sau nghỉ việc không được làm cho bên cùng ngành trong một thời gian, tối đa 2 năm; công ty phải trả tiền bù đắp hằng tháng. Nếu không thỏa thuận số tiền, mức trả là 30% lương trung bình của 12 tháng trước khi nghỉ, không thấp hơn lương tối thiểu địa phương. Do nguyên nhân từ công ty mà 3 tháng chưa trả, bạn có thể yêu cầu chấm dứt. Từ năm 2025, vị trí chưa tiếp xúc bí mật kinh doanh có thể yêu cầu xác nhận điều khoản không có hiệu lực.",
+    "benefit": "Hạn chế cạnh tranh chỉ ràng buộc người quản lý cấp cao, nhân viên kỹ thuật cấp cao và những người khác có nghĩa vụ bảo mật. Thời hạn tối đa 2 năm. Trong thời hạn này, công ty phải trả khoản bù đắp kinh tế hằng tháng. Nếu không thỏa thuận số tiền, mức trả là 30% lương trung bình của 12 tháng trước khi nghỉ việc, đồng thời không thấp hơn lương tối thiểu địa phương. Do nguyên nhân từ chính công ty mà 3 tháng chưa trả, người lao động có thể yêu cầu chấm dứt hạn chế cạnh tranh. Nếu công ty chủ động chấm dứt thì phải trả thêm 3 tháng tiền bù đắp. Từ năm 2025, người lao động chưa biết, chưa tiếp xúc bí mật kinh doanh trong công việc có thể yêu cầu xác nhận điều khoản không có hiệu lực. Phần phạm vi thỏa thuận vượt quá những bí mật người đó thực sự biết là vô hiệu. Vụ án chính thức: một công ty dược kiện giám đốc công nghệ Trịnh, đòi 710 vạn nhân dân tệ tiền phạt vi phạm thỏa thuận. Tòa xác định sản phẩm của công ty mới không có tính thay thế với sản phẩm công ty cũ, phạm vi không cạnh tranh phải giới hạn ở bí mật người đó thực sự biết, và bác toàn bộ yêu cầu (toàn quốc).",
+    "notes": "Điều luật chỉ xét việc đủ 3 tháng chưa trả có phải do nguyên nhân từ công ty hay không; nhắc bằng văn bản là cách lưu chứng cứ do tác giả đề xuất. Ngược lại, nếu thỏa thuận có hiệu lực, công ty vẫn trả tiền hằng tháng mà bạn đi làm cho đối thủ thì phải nộp khoản phạt vi phạm theo thỏa thuận. Nộp xong vẫn có thể bị yêu cầu tuân thủ hết thời gian không cạnh tranh còn lại. Công ty thỏa thuận cấm cạnh tranh cả khi đang làm việc với người có nghĩa vụ bảo mật như quản lý cấp cao, nhân viên kỹ thuật cấp cao thì thỏa thuận vẫn có hiệu lực dù công ty không trả thêm tiền. Ngoài hạn chế cạnh tranh và cam kết thời hạn làm việc sau đào tạo chuyên biệt, công ty không được thỏa thuận buộc bạn trả tiền phạt vi phạm; xem chương 19 mục 22 về bị đòi tiền phạt khi nghỉ việc.",
+    "extra": ""
+  }
+}

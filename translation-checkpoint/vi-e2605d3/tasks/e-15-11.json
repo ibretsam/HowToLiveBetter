@@ -1,0 +1,35 @@
+{
+  "id": "e-15-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "5268d93ea5d60935c5588ebe91d0abef438ff294425623aa6829252f9895257b",
+  "original": {
+    "number": 11,
+    "title": "买新房交了认购定金或者首付，没签成正式合同、贷款批不下来（比如签约后政策收紧、银行停贷）又怪不到你的，要求开发商退钱",
+    "fields": {
+      "cost": "不花钱。签认购书和正式合同时多看两条条款。开发商不退，就要去法院起诉",
+      "plain": "交了认购定金却没签成正式合同，或者贷款批不下来，先看是谁的原因。原因既不在你也不在开发商的，开发商要退定金，或者退房款加利息。签约后政策收紧、银行停贷，一般算双方都怪不到。你自己征信有逾期、收入不够，算你的原因，定金可能要不回来。",
+      "benefit": "最高法的司法解释写明：开发商通过认购、订购、预订收了定金，因为一方的原因没签成正式买卖合同的，按定金规则处理。定金规则是：交定金的一方违约，定金不退；收定金的一方违约，双倍退还，见第 12 节第 15 条（收钱写定金）。因为怪不到双方的原因没签成的，「出卖人应当将定金返还买受人」。另一条讲贷款。买卖合同约定用贷款付款，因为一方的原因没签成贷款合同、买卖合同没法履行的，另一方可以解除合同并要求赔偿。因为怪不到双方的原因没签成贷款合同的，双方都可以解除合同。开发商要退还收到的购房款本金和利息，或者退还定金。什么算怪不到双方，法条只写了原则，下面是作者举的例子。签约后当地收紧房贷政策、银行停贷，一般算双方都怪不到。你自己征信有逾期、收入流水不够，算你的原因。楼盘手续不全、银行不给这个项目放贷，算开发商的原因。这两条只管从开发商手里买的商品房，买二手房不适用",
+      "grade": "A",
+      "sources": "最高人民法院 (2020 修正). 关于审理商品房买卖合同纠纷案件适用法律若干问题的解释（第一、四、五、十九条）. <https://www.court.gov.cn/fabu/xiangqing/282621.html>；全国人大 (2020). 民法典（第五百八十六、五百八十七条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "什么算「怪不到双方」，有争议时由法院看具体情况定。所以正式合同里要写明用贷款付款，最好再写清贷款批不下来怎么办。认购书已经写全了买卖合同的主要内容、开发商也收了房款的，法院会把它当成正式买卖合同，这时就不算「没签成」。开发商不退钱，要去法院起诉。一审普通程序按规定 6 个月内审完，可以延长，简易程序 3 个月，律师费一般自己出。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Mua nhà mới đã nộp cọc đăng ký mua hoặc tiền trả trước nhưng không ký được hợp đồng chính thức, khoản vay không được duyệt mà không phải lỗi của bạn (như chính sách siết lại hoặc ngân hàng ngừng cho vay sau khi ký), hãy yêu cầu chủ đầu tư hoàn tiền",
+    "cost": "Không tốn tiền. Đọc thêm hai điều khoản khi ký giấy đăng ký mua và hợp đồng chính thức. Chủ đầu tư không hoàn tiền thì phải kiện ra tòa",
+    "plain": "Đã nộp cọc đăng ký mua mà không ký được hợp đồng chính thức, hoặc không vay được tiền, trước hết xem nguyên nhân thuộc về ai. Nguyên nhân không thuộc về bạn lẫn chủ đầu tư thì chủ đầu tư phải trả cọc, hoặc tiền nhà kèm lãi. Chính sách siết lại hay ngân hàng ngừng cho vay sau khi ký thường được coi là không bên nào có lỗi. Bạn có nợ quá hạn trong hồ sơ tín dụng, thu nhập không đủ thì là nguyên nhân phía bạn, có thể không lấy lại được cọc.",
+    "benefit": "Giải thích tư pháp của Tòa án Nhân dân Tối cao ghi rõ: chủ đầu tư thu cọc qua đăng ký mua, đặt mua, đặt trước mà không ký được hợp đồng mua bán chính thức do nguyên nhân của một bên thì xử lý theo quy tắc đặt cọc. Quy tắc đó là: bên đặt cọc vi phạm thì không được trả cọc; bên nhận cọc vi phạm thì trả gấp đôi, xem mục 15 chương 12 (nhận tiền thì ghi rõ là đặt cọc). Nếu không ký được vì nguyên nhân không thuộc về bên nào, “bên bán phải hoàn trả tiền cọc cho bên mua”. Một điều khác nói về khoản vay. Hợp đồng mua bán thỏa thuận thanh toán bằng tiền vay, nhưng không ký được hợp đồng vay do nguyên nhân của một bên khiến hợp đồng mua bán không thể thực hiện, bên kia có thể chấm dứt hợp đồng và yêu cầu bồi thường. Nếu không ký được hợp đồng vay vì nguyên nhân không thuộc về bên nào thì cả hai đều có thể chấm dứt hợp đồng. Chủ đầu tư phải hoàn trả tiền mua nhà đã nhận cùng tiền lãi, hoặc hoàn tiền cọc. Thế nào là nguyên nhân không thuộc về bên nào, điều luật chỉ nêu nguyên tắc; dưới đây là ví dụ của tác giả. Sau khi ký, địa phương siết chính sách vay mua nhà hoặc ngân hàng ngừng cho vay thường được coi là không bên nào có lỗi. Bạn có nợ quá hạn trong hồ sơ tín dụng, dòng tiền thu nhập không đủ thì là nguyên nhân của bạn. Dự án không đủ thủ tục, ngân hàng không cho vay với dự án đó thì là nguyên nhân của chủ đầu tư. Hai điều này chỉ điều chỉnh nhà ở thương mại mua từ chủ đầu tư, không áp dụng khi mua nhà đã qua sử dụng",
+    "notes": "Khi có tranh chấp về “nguyên nhân không thuộc về bên nào”, tòa sẽ quyết định theo tình huống cụ thể. Vì vậy hợp đồng chính thức phải ghi thanh toán bằng tiền vay, tốt nhất ghi rõ xử lý thế nào khi khoản vay không được duyệt. Nếu giấy đăng ký mua đã đủ các nội dung chính của hợp đồng mua bán và chủ đầu tư đã nhận tiền nhà thì tòa sẽ coi đó là hợp đồng mua bán chính thức, không còn là “chưa ký được”. Chủ đầu tư không hoàn tiền thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, thủ tục đơn giản 3 tháng, phí luật sư thường tự trả.",
+    "extra": ""
+  }
+}

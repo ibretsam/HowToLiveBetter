@@ -1,0 +1,35 @@
+{
+  "id": "e-32-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "49a849eabc461f78fac01be549d573637ac04f42fd6ae96b2aa864b0906cd14f",
+  "original": {
+    "number": 11,
+    "title": "美国：毕业后做 OPT 的，把没工作的天数记下来，累计不能超过 90 天，拿到 STEM 延期的合计不能超过 150 天",
+    "fields": {
+      "cost": "不花钱。每段没工作的日子都记下起止日期。找到工作后，马上把雇主信息报给学校。难在找工作不顺时，天数会一天天往上涨",
+      "plain": "OPT 是美国给 F-1 学生毕业后实习工作的许可，这段时间你的身份靠有工作撑着。没工作的日子累计超过 90 天，身份可能被终止。拿到 STEM 延期的，前后合计不能超过 150 天。学校系统里没登记雇主，也算没工作。",
+      "benefit": "美国联邦移民法规 8 CFR 214.2(f)(10)(ii)(E) 规定，毕业后的 OPT 期间，身份取决于有没有工作。累计没工作的天数不得超过 90 天。拿到 24 个月 STEM 延期的，整个 OPT 期间合计不得超过 150 天，延期之前那段也算在内。美国留学生项目（SEVP）的官方说明写明：SEVIS 记录里没有雇主信息，就按没工作算。累计满 90 天，SEVP 官员可以手动终止这个学生的身份。SEVIS 是美国的留学生身份档案系统。申请时间按美国移民局（USCIS）的页面：毕业前 90 天起可以申请，最晚毕业后 60 天。学校在 SEVIS 里录入推荐以后，30 天内要递上去",
+      "grade": "A",
+      "sources": "8 CFR 214.2(f)(10)(ii)(E)、(f)(11)(i)(B). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>；U.S. ICE SEVP, SEVIS Help Hub. F-1 Optional Practical Training (OPT). <https://studyinthestates.dhs.gov/sevis-help-hub/student-records/fm-student-employment/f-1-optional-practical-training-opt>；USCIS. Optional Practical Training (OPT) for F-1 Students. <https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students>；DHS (2026). Optional Practical Training Fees（拟议规则，2026-10-08 公布）. <https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees>",
+      "notes": "本条截至 2026 年 10 月 14 日。OPT 的规矩正在变，有两件事要盯。第一，第 2 条（F-1 新规的官司）里那份被暂停的新规，把「毕业后 60 天内申请」改成了 30 天。eCFR 网站上现在显示的就是新规的文字，所以最稳妥的做法是毕业前就把申请递上去。第二，国土安全部 2026 年 10 月 8 日提议对 OPT 收费。第一次 OPT 收 7 万美元，以后每次 3 万美元。这还只是提议，意见征集到 2026 年 11 月 9 日，没有生效。打算读完留在美国工作的，交学费前把这笔可能的钱算进去，递申请前再查一次。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tại Mỹ: làm OPT sau tốt nghiệp thì ghi lại ngày không có việc; cộng dồn không được quá 90 ngày, có gia hạn STEM thì tổng cộng không được quá 150 ngày",
+    "cost": "Không tốn tiền. Ghi ngày bắt đầu và kết thúc mỗi giai đoạn không có việc. Tìm được việc thì báo ngay thông tin chủ sử dụng lao động cho trường. Cái khó là khi tìm việc không thuận, số ngày cứ tăng dần.",
+    "plain": "OPT là giấy phép thực tập, làm việc mà Mỹ dành cho sinh viên F-1 sau tốt nghiệp; trong thời gian này, tư cách cư trú phụ thuộc vào việc có việc làm. Tổng số ngày không có việc vượt 90 ngày thì tư cách có thể bị chấm dứt. Nếu được gia hạn STEM, tổng cả trước và sau không được quá 150 ngày. Hệ thống của trường không ghi nhận chủ sử dụng lao động cũng bị tính là không có việc.",
+    "benefit": "Quy định nhập cư liên bang Mỹ 8 CFR 214.2(f)(10)(ii)(E) nêu rằng trong OPT sau tốt nghiệp, tư cách cư trú phụ thuộc vào việc có việc làm. Tổng số ngày không có việc không được vượt 90 ngày. Người có gia hạn STEM 24 tháng không được vượt tổng cộng 150 ngày trong toàn bộ OPT, tính cả giai đoạn trước gia hạn. Hướng dẫn chính thức của Chương trình Sinh viên và Khách trao đổi Mỹ SEVP ghi rõ: nếu hồ sơ SEVIS không có thông tin chủ sử dụng lao động thì bị tính là không có việc. Khi cộng dồn đủ 90 ngày, viên chức SEVP có thể trực tiếp thao tác chấm dứt tư cách sinh viên đó. SEVIS là hệ thống hồ sơ tư cách du học sinh của Mỹ. Theo trang của USCIS, cơ quan di trú Mỹ, có thể nộp đơn từ 90 ngày trước tốt nghiệp, muộn nhất là 60 ngày sau tốt nghiệp. Sau khi trường nhập đề xuất vào SEVIS, phải nộp đơn trong vòng 30 ngày.",
+    "notes": "Thông tin của mục này tính đến ngày 14 tháng 10 năm 2026. Quy định OPT đang thay đổi; có hai việc cần theo dõi. Thứ nhất, quy định mới đang bị hoãn ở mục 2 (vụ kiện về quy định F-1 mới) đổi hạn “nộp trong 60 ngày sau tốt nghiệp” thành 30 ngày. Website eCFR hiện hiển thị văn bản quy định mới, nên cách chắc chắn nhất là nộp trước khi tốt nghiệp. Thứ hai, ngày 8 tháng 10 năm 2026, Bộ An ninh Nội địa đề xuất thu phí OPT: lần OPT đầu thu 7 vạn đô la Mỹ, mỗi lần sau thu 3 vạn đô la Mỹ. Đây mới chỉ là đề xuất, lấy ý kiến đến ngày 9 tháng 11 năm 2026, chưa có hiệu lực. Người định ở lại Mỹ làm việc sau khi học xong nên tính cả khoản có thể phát sinh này trước khi đóng học phí và kiểm tra lại trước khi nộp đơn.",
+    "extra": ""
+  }
+}

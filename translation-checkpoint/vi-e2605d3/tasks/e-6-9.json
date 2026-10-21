@@ -1,0 +1,35 @@
+{
+  "id": "e-6-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "b2df33c639d80548aa6021ded52c9b848423be0cb09556e456e50e0b35d9481c",
+  "original": {
+    "number": 9,
+    "title": "不要为了「更健康」花溢价买有机食品",
+    "fields": {
+      "cost": "一般是同类普通食品价格的 1 到 3 倍。",
+      "plain": "没有有力的证据说有机食品更有营养。真正看了人吃完以后健康怎么样的研究只有 3 项，都没看出差别。有机农产品被检出农药残留的比例确实低 30 个百分点，但检出不等于超标。",
+      "benefit": "有一篇系统综述，把 17 项在人身上做的研究和 223 项测食品成分的研究合起来看。结论是「缺乏有力证据表明有机食品比常规食品显著更有营养」。这里面只有 3 项研究看的是人吃了以后健康怎么样（看的是过敏和有症状的感染），两边没看出差别。有机农产品被检出农药残留的比例低 30 个百分点，但检出不等于超标。它看起来划算，是因为「没农药就更安全，更安全就更健康」，每一步听上去都像常识",
+      "grade": "B",
+      "sources": "Smith-Spangler C et al. (2012). Are organic foods safer or healthier than conventional alternatives?: a systematic review. Ann Intern Med. <https://doi.org/10.7326/0003-4819-157-5-201209040-00007>",
+      "notes": "直接看人吃了以后健康怎么样的研究非常少。所以结论是「没有证据说它更好」，不是「已经证明它没好处」。对环境的影响、动物福利、口味好不好，这里不管。多吃蔬菜水果本身有效，是不是有机的不影响这一点"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng trả giá cao hơn để mua thực phẩm hữu cơ chỉ vì muốn khỏe hơn",
+    "cost": "Thường bằng 1 đến 3 lần giá thực phẩm thông thường cùng loại.",
+    "plain": "Chưa có bằng chứng mạnh rằng thực phẩm hữu cơ giàu dinh dưỡng hơn. Chỉ có 3 nghiên cứu thực sự xem sức khỏe người ăn ra sao, đều không thấy khác biệt. Tỷ lệ phát hiện dư lượng thuốc trừ sâu trong nông sản hữu cơ đúng là thấp hơn 30 điểm phần trăm, nhưng phát hiện không có nghĩa vượt chuẩn.",
+    "benefit": "Một tổng quan hệ thống xem chung 17 nghiên cứu trên người và 223 nghiên cứu đo thành phần thực phẩm. Kết luận là “thiếu bằng chứng mạnh cho thấy thực phẩm hữu cơ giàu dinh dưỡng hơn rõ rệt so với thực phẩm thông thường”. Trong đó chỉ 3 nghiên cứu xem sức khỏe người ăn, cụ thể là dị ứng và nhiễm trùng có triệu chứng, không thấy khác biệt giữa hai bên. Tỷ lệ phát hiện dư lượng thuốc trừ sâu trong nông sản hữu cơ thấp hơn 30 điểm phần trăm, nhưng phát hiện không có nghĩa vượt chuẩn. Nó có vẻ đáng tiền vì “không thuốc trừ sâu thì an toàn hơn, an toàn hơn thì khỏe hơn”, mỗi bước nghe đều như kiến thức thông thường.",
+    "notes": "Rất ít nghiên cứu trực tiếp xem sức khỏe người ăn. Vì vậy, kết luận là “chưa có bằng chứng cho thấy thực phẩm hữu cơ tốt hơn”, không phải “đã chứng minh không có lợi”. Tác động môi trường, phúc lợi động vật, vị ngon hay không nằm ngoài phạm vi. Ăn thêm rau quả tự nó có hiệu quả; hữu cơ hay không không làm thay đổi điều này.",
+    "extra": ""
+  }
+}

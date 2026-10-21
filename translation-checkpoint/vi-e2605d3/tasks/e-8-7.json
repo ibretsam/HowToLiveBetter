@@ -1,0 +1,35 @@
+{
+  "id": "e-8-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "b0057bb666076bae2a26dbc5c289638fbe378ce46ff8129488164318540b9945",
+  "original": {
+    "number": 7,
+    "title": "喝了酒就不碰方向盘，包括电动车和「挪一下车」，也别把车借给喝了酒或没驾照的人开",
+    "fields": {
+      "cost": "代驾或者打车几十元。聚会之前先说好今天谁不喝。难在场面上被劝酒时顶回去。",
+      "plain": "酒后开车，扣证 6 个月，罚一两千，再犯就拘留加吊销。醉驾直接吊销，5 年内不能重考，还要按危险驾驶罪追刑责。喝了酒开车出事，商业车险一律不赔。明知对方喝了酒或没驾照还把车借给他，出了事你也要赔一部分。",
+      "benefit": "酒后驾车，暂扣驾驶证 6 个月，罚 1000 到 2000 元。再犯的，拘留 10 日以下并吊销驾驶证。醉驾直接吊销驾驶证，5 年内不得重考，并按危险驾驶罪追究刑事责任，判拘役并罚钱，拘役就是短期关押。开营运车的更重：酒驾拘留 15 日、罚 5000 元、5 年禁驾。醉驾 10 年禁驾，而且这辈子不能再开营运车。酒后或者醉驾造成重大事故、构成犯罪的，终生禁驾。商业车险对饮酒、吸毒后驾车一律不赔。在小区、停车场里挪车、停车入位，这类短距离醉驾可以不按犯罪处理。但驾驶证照样吊销，还要按酒后驾车罚款、拘留。骑电动自行车，国务院的实施条例也写明「不得醉酒驾驶」，违反的处警告或者 5 到 50 元罚款。把车交给没驾照、驾照被吊销或暂扣的人开，罚 200 到 2000 元，还可以同时吊销你自己的驾照。车借出去出了事故，原则上由开车的人赔。但你知道或者应当知道他喝了酒或者没驾照，还把车给他，法院就认定你有过错，要按过错赔一部分。最高法 2026 年 5 月公布的案例里，车主明知同桌喝了酒，还把车交给他开。车主被判在 40% 的范围内和司机一起赔（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 道路交通安全法（2021 年修订，第八十九、九十一、九十九条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/205308/index.html>（北京市公安交通管理局转载）；国务院 (2004). 道路交通安全法实施条例（国务院令第 405 号，第七十二条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_3745.htm>；最高人民法院、最高人民检察院、公安部、司法部 (2023). 关于办理醉酒危险驾驶刑事案件的意见（第十二、二十条）. <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202312/t20231218_637161.shtml>；全国人大 (2020). 民法典（第一千二百零九条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2020). 关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（2020 年修正，第一条）. <https://gw.nscourt.gov.cn/nscourt/wzsy/swgk/sfwj/content/post_1473229.html>（深圳市南山区人民法院转载）；最高人民法院 (2026). 最高法发布道路交通事故损害赔偿典型案例（案例 1）. <https://www.court.gov.cn/zixun/xiangqing/499041.html>；全国人大常委会 (2015). 刑法修正案（九）（第八条，即刑法第一百三十三条之一）. <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>；中国保险行业协会 (2020). 机动车商业保险示范条款（2020 版）（第九、二十二条）. <https://www.iachina.cn/art/2020/9/4/art_24_104621.html>",
+      "notes": "醉驾是刑事犯罪，会留案底，影响本人政审和一部分职业资格。「饮酒」和「醉酒」按血液里的酒精含量划线，具体界线由国家标准规定。本节没有核实这个数值，别靠感觉估算自己到了哪一档。把车交给喝了酒的人开，道路交通安全法没有单列罚款。第九十九条罚的只是交给没驾照、驾照被吊销或暂扣的人。两高两部 2023 年的醉驾意见里，也没有专门讲提供车辆的条文。这部分的后果主要落在民事赔偿上。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đã uống rượu thì không lái xe, kể cả xe điện hay ‘chỉ dịch xe một chút’; cũng đừng cho người đã uống rượu hoặc không có bằng lái mượn xe để lái",
+    "cost": "Thuê người lái hộ hoặc đi taxi tốn vài chục tệ. Trước buổi tụ họp, thống nhất ai sẽ không uống hôm nay. Khó ở chỗ phải từ chối khi bị mời ép uống tại bàn.",
+    "plain": "Lái xe sau khi uống rượu bị giữ bằng 6 tháng, phạt một hai nghìn tệ; tái phạm thì bị tạm giữ và thu hồi bằng. Lái xe trong tình trạng say bị thu hồi bằng ngay, không được thi lại trong 5 năm, còn bị truy cứu hình sự về tội lái xe nguy hiểm. Uống rượu rồi lái xe gây tai nạn thì bảo hiểm xe thương mại đều không bồi thường. Biết người kia đã uống rượu hoặc không có bằng mà vẫn cho mượn xe thì khi có tai nạn, bạn cũng phải bồi thường một phần.",
+    "benefit": "Lái xe sau khi uống rượu bị tạm giữ giấy phép lái xe 6 tháng, phạt từ 1000 đến 2000 tệ. Tái phạm thì bị tạm giữ hành chính tối đa 10 ngày và thu hồi bằng lái. Lái xe trong tình trạng say bị thu hồi bằng ngay, không được thi lại trong 5 năm và bị truy cứu hình sự về tội lái xe nguy hiểm, chịu hình phạt giam giữ hình sự ngắn hạn và phạt tiền. Lái xe kinh doanh vận tải còn bị xử nặng hơn: lái sau khi uống rượu bị tạm giữ hành chính 15 ngày, phạt 5000 tệ, cấm lái 5 năm. Lái trong tình trạng say bị cấm lái 10 năm và cả đời không được lái xe kinh doanh vận tải nữa. Lái sau khi uống rượu hoặc trong tình trạng say gây tai nạn nghiêm trọng, cấu thành tội phạm thì bị cấm lái suốt đời. Bảo hiểm xe thương mại đều không bồi thường nếu lái xe sau khi uống rượu hoặc dùng ma túy. Dịch xe, đưa xe vào chỗ đỗ trong khu dân cư hay bãi đỗ xe là những trường hợp lái xe quãng ngắn trong tình trạng say có thể không bị xử lý hình sự. Nhưng bằng lái vẫn bị thu hồi, còn bị phạt tiền và tạm giữ hành chính theo hành vi lái xe sau uống rượu. Với xe đạp điện, điều lệ thi hành của Quốc vụ viện cũng quy định rõ ‘không được điều khiển trong tình trạng say’; vi phạm bị cảnh cáo hoặc phạt từ 5 đến 50 tệ. Giao xe cho người không có bằng, bị thu hồi bằng hoặc bị tạm giữ bằng lái thì bị phạt từ 200 đến 2000 tệ, đồng thời có thể bị thu hồi chính bằng lái của bạn. Xe cho mượn gây tai nạn thì về nguyên tắc người lái bồi thường. Nhưng nếu bạn biết hoặc đáng lẽ phải biết họ đã uống rượu hay không có bằng mà vẫn giao xe, tòa sẽ xác định bạn có lỗi và phải bồi thường một phần theo lỗi đó. Trong vụ án Tòa án nhân dân tối cao công bố tháng 5 năm 2026, chủ xe biết rõ người cùng bàn đã uống rượu nhưng vẫn giao xe cho lái. Chủ xe bị buộc cùng tài xế bồi thường trong phạm vi 40% (toàn Trung Quốc).",
+    "notes": "Lái xe trong tình trạng say là tội hình sự, để lại án tích, ảnh hưởng việc thẩm tra chính trị đối với bản thân và một số tư cách hành nghề. ‘Có uống rượu’ và ‘say rượu’ được phân định theo nồng độ cồn trong máu; ngưỡng cụ thể do tiêu chuẩn quốc gia quy định. Chương này chưa xác minh con số đó, đừng dựa vào cảm giác để đoán mình ở mức nào. Luật An toàn giao thông đường bộ không quy định riêng khoản phạt tiền cho việc giao xe cho người đã uống rượu lái. Điều chín mươi chín chỉ phạt việc giao xe cho người không có bằng, bị thu hồi hoặc tạm giữ bằng. Ý kiến năm 2023 về lái xe trong tình trạng say của hai cơ quan tư pháp tối cao và hai bộ cũng không có điều khoản riêng về người cung cấp xe. Hậu quả ở phần này chủ yếu là trách nhiệm bồi thường dân sự.",
+    "extra": ""
+  }
+}

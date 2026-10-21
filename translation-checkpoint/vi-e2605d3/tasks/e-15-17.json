@@ -1,0 +1,35 @@
+{
+  "id": "e-15-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "a455b0049dbd6fa040a66482d0c3307d58d3f927e7b457105b393f0901d04b0c",
+  "original": {
+    "number": 17,
+    "title": "住小区被物业停水、停电、停暖、停气逼交物业费的，向当地房地产主管部门投诉；自己欠了物业费，物业只能催告、起诉或者申请仲裁",
+    "fields": {
+      "cost": "不花钱。打电话或者写一份投诉，几十分钟。物业不改、你又要它赔损失的，就得去法院起诉",
+      "plain": "物业不能靠停水、停电、停暖、停气逼你交物业费，遇上了向当地房地产主管部门投诉。物业按约定提供了服务，你不能拿「没用过」当理由不交，欠着不交它可以起诉。擅自多收、重复收的那部分，可以不交，交了能要回来。",
+      "benefit": "民法典第九百四十四条写了三层意思。第一层原话是：「物业服务人不得采取停止供电、供水、供热、供燃气等方式催交物业费。」第二层：物业按约定提供了服务，业主不能以「未接受或者无需接受」服务为由拒交。第三层：业主逾期不交，物业可以催告你在合理期限内交。期限到了还不交，物业可以起诉或者申请仲裁。物业管理条例也写明，业主逾期不交物业费，业主委员会要督促你限期交。逾期还不交的，物业服务企业可以向法院起诉。投诉找县级以上地方政府的房地产行政主管部门，条例要求它们及时处理业主的投诉。最高法的司法解释写明，物业擅自扩大收费范围、提高收费标准或者重复收费的，你可以拿这一点抗辩不交。已经交了的违规费用，可以要求退还",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第九百四十四条；第六百五十四、六百五十六条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院 (2018 第三次修订). 物业管理条例（第五、四十四、四十八、六十四条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40daebf30779>；最高人民法院 (2020). 关于修改《最高人民法院关于在民事审判工作中适用〈中华人民共和国工会法〉若干问题的解释》等二十七件民事类司法解释的决定（法释〔2020〕17 号，第十四项修改物业服务纠纷解释原第五条，条文顺序调整后为第二条：「物业服务人违反物业服务合同约定或者法律、法规、部门规章规定，擅自扩大收费范围、提高收费标准或者重复收费，业主以违规收费为由提出抗辩的，人民法院应予支持。业主请求物业服务人退还其已经收取的违规费用的，人民法院应予支持。」）. <https://www.court.gov.cn/fabu/xiangqing/282621.html>",
+      "notes": "法律禁止的是物业拿停水停电当催物业费的手段。欠的是水费、电费、燃气费本身，情况不同。供电单位催告后你在合理期限内仍不交，可以按国家规定的程序中止供电，要事先通知你。供水、供气、供热参照这条办。条例还规定，供水、供电、供气、供热等单位要向最终用户收费。物业停水停电给你造成了损失、你要它赔的，要去法院起诉。一审普通程序按规定 6 个月内审完，可以延长，简易程序 3 个月，律师费一般自己出。租房被房东断水断电逼着搬走的，见第 2 条（断水断电、换锁）。收益定中是凭判断：物业费一年几百到几千元，停暖停水的损失没有统一统计。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Ở khu dân cư bị đơn vị quản lý cắt nước, điện, sưởi, gas để ép trả phí quản lý thì khiếu nại cơ quan bất động sản địa phương; bạn nợ phí thì họ chỉ được đôn đốc, khởi kiện hoặc yêu cầu trọng tài",
+    "cost": "Không tốn tiền. Gọi điện hoặc viết đơn khiếu nại, mất vài chục phút. Đơn vị quản lý không sửa và bạn muốn họ bồi thường thiệt hại thì phải kiện ra tòa",
+    "plain": "Đơn vị quản lý không được cắt nước, điện, sưởi, gas để ép bạn nộp phí quản lý; gặp chuyện này hãy khiếu nại cơ quan bất động sản địa phương. Nếu họ đã cung cấp dịch vụ đúng thỏa thuận, bạn không được viện lý do “chưa dùng” để không trả; nợ không trả họ có thể kiện. Phần phí tự ý thu thêm hoặc thu trùng có thể từ chối nộp, đã nộp thì có thể đòi lại.",
+    "benefit": "Điều chín trăm bốn mươi bốn Bộ luật Dân sự có ba ý. Ý đầu nguyên văn: “Bên cung cấp dịch vụ quản lý bất động sản không được dùng các cách ngừng cấp điện, nước, sưởi, gas để thúc ép nộp phí quản lý.” Ý thứ hai: đã cung cấp dịch vụ theo thỏa thuận thì chủ nhà không được lấy lý do “không tiếp nhận hoặc không cần tiếp nhận” dịch vụ để từ chối trả. Ý thứ ba: chủ nhà quá hạn không trả thì đơn vị quản lý có thể yêu cầu thanh toán trong thời hạn hợp lý. Hết hạn vẫn không trả thì họ có thể kiện hoặc yêu cầu trọng tài. Điều lệ quản lý bất động sản cũng quy định chủ nhà nợ phí quá hạn thì ban đại diện chủ sở hữu phải đôn đốc trả trong thời hạn ấn định. Quá hạn vẫn không trả, doanh nghiệp dịch vụ quản lý có thể kiện ra tòa. Khiếu nại gửi cơ quan hành chính quản lý bất động sản của chính quyền địa phương từ cấp huyện trở lên; điều lệ yêu cầu cơ quan này kịp thời xử lý khiếu nại của chủ nhà. Giải thích tư pháp của Tòa án Nhân dân Tối cao quy định nếu đơn vị quản lý tự ý mở rộng phạm vi thu, nâng mức phí hoặc thu trùng, bạn có thể viện dẫn việc đó để phản đối, không nộp. Khoản thu trái quy định đã nộp thì có thể yêu cầu hoàn trả",
+    "notes": "Pháp luật cấm đơn vị quản lý dùng cắt nước, cắt điện để ép nộp phí quản lý. Nếu nợ chính tiền nước, tiền điện, tiền gas thì khác. Đơn vị điện lực đã yêu cầu mà bạn vẫn không trả trong thời hạn hợp lý thì có thể ngừng điện theo thủ tục nhà nước quy định, phải báo trước cho bạn. Cấp nước, gas, sưởi áp dụng tương tự. Điều lệ còn quy định đơn vị cấp nước, điện, gas, sưởi phải thu tiền từ người dùng cuối. Đơn vị quản lý cắt nước, điện gây thiệt hại, bạn muốn họ bồi thường thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, thủ tục đơn giản 3 tháng, phí luật sư thường tự trả. Thuê nhà mà bị chủ nhà cắt nước, điện ép chuyển đi, xem mục 2 (cắt nước, cắt điện, thay khóa). Xếp lợi ích mức vừa là theo nhận định: phí quản lý mỗi năm vài trăm đến vài nghìn nhân dân tệ, thiệt hại do cắt sưởi, nước chưa có thống kê thống nhất.",
+    "extra": ""
+  }
+}

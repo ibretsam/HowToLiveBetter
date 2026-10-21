@@ -1,0 +1,35 @@
+{
+  "id": "e-23-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "13d7b136b12ac14cccd673f29f04c3f5166f5b06bea4abc6b9fd91cc4fd8d479",
+  "original": {
+    "number": 3,
+    "title": "判断「学历是不是贬值了」之前，先看全国的学历结构：每 10 万人里只有 15467 人有大学文化程度（2020 年普查，2025 年抽样推算约 19%）",
+    "fields": {
+      "cost": "不花钱。看一眼下面的数字就行。",
+      "plain": "2020 年人口普查时，全国念到大专及以上的约占 15%。2025 年的抽样调查推算约 19%，五年里多了几个百分点。两次都是初中学历的人最多。15 岁以上的人平均只读了 9.91 年书，刚过初中毕业。所以初中学历在中国是人数最多的那一档，谈不上稀缺。",
+      "benefit": "第七次全国人口普查的标准时点是 2020 年 11 月 1 日。全国人口里，有大学（大专及以上）文化程度的 218360767 人。高中（含中专）213005258 人。初中 487163489 人。小学 349658828 人。和 2010 年第六次人口普查相比，每 10 万人中有大学文化程度的由 8930 人上升为 15467 人。高中由 14032 人上升为 15088 人。初中由 38788 人下降为 34507 人。小学由 26779 人下降为 24767 人。15 岁及以上人口的平均受教育年限由 9.08 年提高到 9.91 年。文盲率由 4.08% 下降为 2.67%。2025 年全国 1% 人口抽样调查的标准时点是 2025 年 11 月 1 日，样本 2052 万人。按样本推算全国人口 140545 万人。其中大学（大专及以上）27233 万人，高中（含中专）24272 万人，初中 45283 万人，小学 33122 万人。公报没有给每 10 万人的数。按总人口自己折算，大学约占 19.4%，初中约占 32.2%，仍是人数最多的一档",
+      "grade": "A",
+      "sources": "国家统计局、国务院第七次全国人口普查领导小组办公室 (2021). 第七次全国人口普查公报（第六号）——人口受教育情况. <https://www.stats.gov.cn/sj/tjgb/rkpcgb/qgrkpcgb/202302/t20230206_1902006.html>；国家统计局 (2026). 2025 年全国 1% 人口抽样调查主要数据公报. <https://www.stats.gov.cn/sj/zxfb/202605/t20260522_1963788.html>",
+      "notes": "这些数只说明学历在人群里稀不稀缺。某个具体的人读书划不划算，要按本节第 6 条（读书还是打工怎么算）的方法自己算。还要注意：普查数的是全国所有人口，老人小孩都算在内，不是劳动力，也不是你的同龄人。公报没有按年龄分开给数。从 2010 年到 2020 年每 10 万人里大学文化程度的人数涨了七成多看，年轻人里的比例很可能比全国数高，这是推出来的。所以拿全国数跟同龄人比，会高估自己的优势。它能说明的是：放到全国人口里，大学文化程度仍是少数。2025 年的数是抽样推算的，普查是挨家挨户全数，两者口径不同。所以两组数并列，不拿新数替换旧数。19.4% 和 32.2% 是按公报的人数和总人口自己算的。受益人是自己"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi đánh giá “bằng cấp có mất giá không”, hãy xem cơ cấu học vấn cả nước: trong mỗi 10 vạn người chỉ có 15467 người trình độ cao đẳng trở lên (tổng điều tra 2020; ước tính từ mẫu năm 2025 khoảng 19%)",
+    "cost": "Không tốn tiền. Chỉ cần xem các số liệu dưới đây.",
+    "plain": "Trong tổng điều tra dân số năm 2020, người học tới cao đẳng trở lên chiếm khoảng 15% cả nước. Điều tra mẫu năm 2025 ước tính khoảng 19%, tăng vài điểm phần trăm trong năm năm. Cả hai lần, nhóm trình độ trung học cơ sở đều đông nhất. Người từ 15 tuổi trở lên trung bình chỉ học 9.91 năm, vừa qua mức tốt nghiệp trung học cơ sở. Vì vậy, trung học cơ sở là nhóm học vấn đông nhất ở Trung Quốc, không thể gọi là khan hiếm.",
+    "benefit": "Thời điểm chuẩn của tổng điều tra dân số toàn quốc lần thứ bảy là ngày 1 tháng 11 năm 2020. Toàn quốc có 218360767 người trình độ đại học, bao gồm cao đẳng trở lên; 213005258 người trình độ trung học phổ thông, bao gồm trung cấp chuyên nghiệp; 487163489 người trình độ trung học cơ sở; 349658828 người trình độ tiểu học. So với tổng điều tra lần thứ sáu năm 2010, số người trình độ cao đẳng trở lên trong mỗi 10 vạn dân tăng từ 8930 lên 15467; trung học phổ thông tăng từ 14032 lên 15088; trung học cơ sở giảm từ 38788 xuống 34507; tiểu học giảm từ 26779 xuống 24767. Số năm học trung bình của dân số từ 15 tuổi trở lên tăng từ 9.08 lên 9.91 năm. Tỷ lệ mù chữ giảm từ 4.08% xuống 2.67%. Thời điểm chuẩn của điều tra mẫu 1% dân số toàn quốc năm 2025 là ngày 1 tháng 11 năm 2025, với mẫu 2052 vạn người. Từ mẫu ước tính dân số toàn quốc là 140545 vạn người: cao đẳng trở lên 27233 vạn, trung học phổ thông gồm trung cấp chuyên nghiệp 24272 vạn, trung học cơ sở 45283 vạn, tiểu học 33122 vạn. Thông cáo không cho số trên mỗi 10 vạn dân. Tự tính theo tổng dân số thì cao đẳng trở lên khoảng 19.4%, trung học cơ sở khoảng 32.2%, vẫn là nhóm đông nhất",
+    "notes": "Các số liệu chỉ cho biết một trình độ học vấn có hiếm trong dân số hay không. Việc học có đáng với một người cụ thể hay không phải tự tính theo mục 6 của chương này (tính học tiếp hay đi làm). Tổng điều tra đếm toàn bộ dân số, gồm cả người già và trẻ nhỏ, không phải riêng lực lượng lao động hay người cùng tuổi với bạn. Thông cáo không chia số liệu theo tuổi. Từ việc số người trình độ cao đẳng trở lên trên mỗi 10 vạn dân tăng hơn bảy phần mười giữa năm 2010 và 2020, có thể suy ra tỷ lệ trong giới trẻ nhiều khả năng cao hơn tỷ lệ cả nước. Đây là suy luận. So mình với người cùng tuổi bằng số toàn quốc sẽ đánh giá quá cao lợi thế của bản thân. Điều có thể nói là người trình độ cao đẳng trở lên vẫn thuộc thiểu số trong toàn dân. Số năm 2025 được suy ra từ mẫu, còn tổng điều tra đếm từng hộ; hai cách thống kê khác nhau. Vì vậy, hai nhóm số được trình bày song song, không dùng số mới thay số cũ. Các tỷ lệ 19.4% và 32.2% được tự tính từ số người và tổng dân số trong thông cáo. Người hưởng lợi là bạn",
+    "extra": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e-1-22",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "82ca2436a1ea4bed5d204b3389f6921351fdb343f1e05ecf315e61fefceb2b02",
+  "original": {
+    "number": 22,
+    "title": "65 岁以上打肺炎球菌疫苗",
+    "fields": {
+      "cost": "几百元。部分地区对老年人免费。",
+      "plain": "8.45 万老人的试验里，13 价肺炎球菌疫苗把疫苗管得住的那几型肺炎挡掉约 46%。最凶险的侵袭性感染挡掉 75%。但对「所有原因的肺炎」没看出效果，别指望它管住全部肺炎。",
+      "benefit": "荷兰把 8.45 万名 65 岁以上老人随机分成两组来比。用的是 13 价肺炎球菌结合疫苗。它对疫苗覆盖型肺炎的效力是 45.6%。可信范围是 95.2% CI 21.8–62.5。疫苗覆盖型就是这支疫苗管得住的那几个菌型。对侵袭性肺炎球菌病的效力是 75.0%（95% CI 41.4–90.8），这是最凶险的那一类感染。对全部原因加在一起的肺炎，它没有效果",
+      "grade": "A",
+      "sources": "Bonten MJ, Huijts SM, Bolkenbaas M, et al. (2015). Polysaccharide conjugate vaccine against pneumococcal pneumonia in adults. New England Journal of Medicine, 372(12), 1114-1125. <https://doi.org/10.1056/NEJMoa1408544>",
+      "notes": "它只防疫苗覆盖的那几个型别，不是打了就不得肺炎。中国老年人常打的是 23 价多糖疫苗，和这项试验用的 13 价结合疫苗不是同一种，上面的效力数据不能直接套过去"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người từ 65 tuổi trở lên tiêm vắc xin phế cầu",
+    "cost": "Vài trăm nhân dân tệ. Một số địa phương tiêm miễn phí cho người cao tuổi.",
+    "plain": "Trong thử nghiệm với 8.45 vạn người cao tuổi, vắc xin phế cầu 13 giá ngăn được khoảng 46% trường hợp viêm phổi do những týp nằm trong phạm vi bảo vệ của vắc xin. Nó ngăn được 75% trường hợp nhiễm trùng xâm lấn, loại nguy hiểm nhất. Nhưng không thấy tác dụng với “viêm phổi do mọi nguyên nhân”, đừng mong nó phòng được tất cả các loại viêm phổi.",
+    "benefit": "Hà Lan phân ngẫu nhiên 8.45 vạn người từ 65 tuổi trở lên thành hai nhóm để so sánh. Vắc xin được dùng là vắc xin phế cầu liên hợp 13 giá. Hiệu lực đối với viêm phổi do các týp được vắc xin bao phủ là 45.6%. Khoảng tin cậy là 95.2% CI 21.8–62.5. Các týp được bao phủ chính là những týp vi khuẩn mà vắc xin này có thể phòng ngừa. Hiệu lực đối với bệnh phế cầu xâm lấn là 75.0% (95% CI 41.4–90.8), đây là nhóm nhiễm trùng nguy hiểm nhất. Khi gộp viêm phổi do mọi nguyên nhân, vắc xin không có tác dụng.",
+    "notes": "Vắc xin chỉ phòng những týp nằm trong phạm vi bao phủ, không có nghĩa là tiêm rồi sẽ không mắc viêm phổi. Người cao tuổi tại Trung Quốc thường tiêm vắc xin polysaccharide 23 giá, khác với vắc xin liên hợp 13 giá dùng trong thử nghiệm này; không thể áp dụng trực tiếp các số liệu hiệu lực trên cho loại đó.",
+    "extra": ""
+  }
+}

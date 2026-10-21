@@ -1,0 +1,36 @@
+{
+  "id": "e-20-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "fb11be3a00a7223f91ad50ac679ca30d64a4cddd4ff6f863d8eed3cd18b13c82",
+  "original": {
+    "number": 7,
+    "title": "出生时的维生素 K 针一定要打",
+    "fields": {
+      "cost": "0 元到几十元。这笔钱通常已经包含在住院生孩子的费用里，不用另外交",
+      "plain": "新生儿身体里存的维生素 K 很少，不补可能出血，晚出现的那种常常是脑子里出血。塔什干没普遍做这种预防，每 10 万个新生儿有 478 个出这种血。做了预防，估计能少掉七成八以上。在家生或在不正规机构生的，要主动问一句打了没有。",
+      "benefit": "新生儿体内存的维生素 K 很少。不补充可能出现维生素 K 缺乏性出血，晚出现的那一种常常表现为颅内出血（脑子里出血）。比利时的共识建议是「出生时肌肉注射 1 或 2 毫克维生素 K 一次」。在没有系统提供预防的地区，维生素 K 缺乏性出血的发生率是每 10 万人 478 例。这个数字来自塔什干的 4.2 万名新生儿。作者估计，做了预防可以使发生率下降「高于 78.5%」",
+      "grade": "B",
+      "sources": "Fiesack S, Smits A, Rayyan M, et al. (2021). Nutrients, 13(11), 4109. <https://doi.org/10.3390/nu13114109>；Tursunov D, Yoshida Y, Yrysov K, et al. (2018). Nagoya Journal of Medical Science, 80(1), 11. <https://doi.org/10.18999/nagjms.80.1.11>",
+      "notes": "在中国的正规医院生孩子，医院一般会常规打这一针，这是作者经验，没查到全国统一的官方规定。出院前看一眼出院小结，或者问一句。在家生的，或者在不正规机构生的，要主动去确认。这里说的打针是打进肌肉里。比利时那份共识把口服叫作「稍差一点的替代办法」，只在家长拒绝打针时用：出生时吃 2 毫克，吃母乳的再每周吃 1 到 2 毫克，连吃 3 个月"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nhất định phải tiêm vitamin K lúc mới sinh",
+    "cost": "Từ 0 đến vài chục nhân dân tệ. Khoản này thường đã nằm trong chi phí sinh con nằm viện, không phải trả riêng.",
+    "plain": "Trẻ sơ sinh dự trữ rất ít vitamin K trong cơ thể; không bổ sung có thể bị chảy máu, dạng xuất hiện muộn thường là chảy máu trong não. Ở Tashkent, việc dự phòng này chưa được thực hiện rộng rãi, cứ 10 vạn trẻ sơ sinh có 478 trẻ bị chảy máu như vậy. Có dự phòng thì ước tính giảm được từ bảy mươi tám phần trăm trở lên. Sinh ở nhà hoặc tại cơ sở không chính quy thì phải chủ động hỏi trẻ đã được tiêm chưa.",
+    "benefit": "Trẻ sơ sinh dự trữ rất ít vitamin K trong cơ thể. Nếu không bổ sung, trẻ có thể bị xuất huyết do thiếu vitamin K; dạng khởi phát muộn thường biểu hiện bằng xuất huyết nội sọ, tức chảy máu trong não. Đồng thuận của Bỉ khuyến nghị “tiêm bắp một lần 1 hoặc 2 miligam vitamin K lúc sinh”. Ở nơi chưa có chương trình dự phòng có hệ thống, tỷ lệ xuất huyết do thiếu vitamin K là 478 ca trên mỗi 10 vạn người. Con số này đến từ 4.2 vạn trẻ sơ sinh ở Tashkent. Các tác giả ước tính dự phòng có thể giảm tỷ lệ mắc “hơn 78.5%”.",
+    "notes": "Sinh tại bệnh viện chính quy ở Trung Quốc thì bệnh viện thường tiêm mũi này theo thường quy. Đây là kinh nghiệm của tác giả; chưa tìm được quy định chính thức thống nhất toàn quốc. Trước khi xuất viện, hãy xem bản tóm tắt ra viện hoặc hỏi nhân viên y tế. Sinh tại nhà hoặc cơ sở không chính quy thì phải chủ động xác nhận. Mũi tiêm nói ở đây là tiêm vào cơ. Đồng thuận của Bỉ gọi đường uống là “phương án thay thế kém hơn một chút”, chỉ dùng khi cha mẹ từ chối tiêm: uống 2 miligam lúc sinh; trẻ bú mẹ sau đó uống thêm 1 đến 2 miligam mỗi tuần, liên tục trong 3 tháng.",
+    "extra": ""
+  }
+}

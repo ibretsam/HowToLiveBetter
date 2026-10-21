@@ -1,0 +1,35 @@
+{
+  "id": "e-13-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "0e0ea1d0fa836f77504ce11d84046d0d47252002b79477db9a461f79b4fffec9",
+  "original": {
+    "number": 7,
+    "title": "胸口压着疼、闷、发紧超过 15 分钟不缓解，或者疼时出冷汗、恶心、喘不上气，打 120，不要自己扛也不要自己开车",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "胸口压着疼、闷、发紧，超过 15 分钟不缓解，打 120。疼得厉害、出冷汗、喘不上气的，疼了几分钟就该打。到医院后 55 分钟内把血管撑开的，30 天内死亡 2.8%。超过 55 分钟的 9.7%。别自己开车去医院。",
+      "benefit": "以色列做过一项全国急性冠脉综合征调查。分析的对象是 ST 段抬高心肌梗死患者，这是一类心梗。算的是从进医院到用球囊把堵住的血管撑开（球囊扩张）这一段间隔。间隔 ≤55 分钟的，30 天内死亡 5/178（2.8%）。间隔 >55 分钟的，30 天内死亡 15/155（9.7%）。英国国家卫生与临床优化研究所（NICE）的胸痛指南列了提示急性冠脉综合征的症状：胸口或胳膊、后背、下巴疼超过 15 分钟；胸痛同时恶心呕吐、大量出汗、喘不上气。国际红十字 2025 年急救指南说，疼得厉害、喘不上气、脸色发白发灰又湿冷的，要立刻叫急救，「哪怕只疼了几分钟」。心梗还可能疼在下巴、上腹、两个肩胛骨之间。女性、老人和糖尿病人的症状可能不明显",
+      "grade": "B",
+      "sources": "Karkabi B, Meir G, Zafrir B, et al. (2021). Door-to-balloon time and mortality in patients with ST-elevation myocardial infarction. European Heart Journal - Quality of Care and Clinical Outcomes. <https://doi.org/10.1093/ehjqcco/qcaa037>；NICE (2010, 2016 更新). Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95), 第 1.2.1.3 条：「pain in the chest and/or other areas (for example, the arms, back or jaw) lasting longer than 15 minutes」「chest pain associated with nausea and vomiting, marked sweating, breathlessness, or particularly a combination of these」. <https://www.nice.org.uk/guidance/cg95/chapter/Recommendations>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 357–358 页：「Access EMS even if the pain has only lasted a couple of minutes」「Symptoms may be more subtle or uncommon in some populations, such as people who are female, elderly or have diabetes」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>；NHS. Heart attack：「Do not drive yourself to A&E」. <https://www.nhs.uk/conditions/heart-attack/symptoms/>",
+      "notes": "以色列那项研究比的是进了医院之后耽误的那段，不是从发病到进医院那段。但道理一样，越早把血管撑开越好。疼可能疼在上腹、后背、下巴。女性、老人和糖尿病人的症状可能不明显，只是喘或者不舒服。15 分钟是 NICE 给医生分辨的线，不是让你干等：疼得厉害、出冷汗、喘不上气的，几分钟就打。NHS 写明不要自己开车去急诊"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đau ngực như bị đè, tức hoặc thắt ngực quá 15 phút không giảm, hoặc đau kèm vã mồ hôi lạnh, buồn nôn, khó thở: gọi 120, đừng tự chịu đựng hay tự lái xe",
+    "cost": "Không tốn tiền.",
+    "plain": "Đau ngực như bị đè, tức hoặc thắt ngực quá 15 phút không giảm thì gọi 120. Đau dữ dội, vã mồ hôi lạnh, khó thở thì mới đau vài phút đã nên gọi. Người được nong thông mạch trong vòng 55 phút sau khi đến viện có tỷ lệ tử vong trong 30 ngày là 2.8%. Nếu quá 55 phút thì là 9.7%. Đừng tự lái xe đến bệnh viện.",
+    "benefit": "Israel từng thực hiện một khảo sát toàn quốc về hội chứng mạch vành cấp. Đối tượng phân tích là người bị nhồi máu cơ tim ST chênh lên, một dạng nhồi máu cơ tim. Khoảng thời gian được tính là từ lúc vào viện đến khi dùng bóng nong thông mạch máu bị tắc (nong bóng). Với khoảng thời gian ≤55 phút, tử vong trong 30 ngày là 5/178 (2.8%). Với khoảng thời gian >55 phút, tử vong trong 30 ngày là 15/155 (9.7%). Hướng dẫn về đau ngực của Viện Quốc gia về Y tế và Chất lượng Điều trị Anh (NICE) liệt kê các triệu chứng gợi ý hội chứng mạch vành cấp: đau ngực hoặc tay, lưng, hàm quá 15 phút; đau ngực kèm buồn nôn, nôn, vã nhiều mồ hôi, khó thở. Hướng dẫn sơ cứu năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế nêu rằng đau dữ dội, khó thở, da mặt trắng bệch hoặc xám, ẩm lạnh thì cần gọi cấp cứu ngay, “dù mới đau vài phút”. Nhồi máu cơ tim còn có thể gây đau ở hàm, vùng bụng trên hoặc giữa hai xương bả vai. Triệu chứng ở phụ nữ, người cao tuổi và người đái tháo đường có thể không rõ.",
+    "notes": "Nghiên cứu Israel so sánh thời gian chậm trễ sau khi đã vào viện, không phải từ lúc khởi phát đến khi vào viện. Nhưng nguyên tắc vẫn vậy: nong thông mạch càng sớm càng tốt. Có thể đau ở bụng trên, lưng hoặc hàm. Phụ nữ, người cao tuổi và người đái tháo đường có thể không có triệu chứng rõ, chỉ khó thở hoặc khó chịu. 15 phút là mốc NICE đưa ra để bác sĩ phân biệt, không phải để bạn cứ ngồi chờ: đau dữ dội, vã mồ hôi lạnh, khó thở thì gọi sau vài phút. NHS nêu rõ không tự lái xe đi cấp cứu.",
+    "extra": ""
+  }
+}

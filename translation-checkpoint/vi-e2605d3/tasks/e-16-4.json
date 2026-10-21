@@ -1,0 +1,35 @@
+{
+  "id": "e-16-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "f61080adbf586243414bc7bf8336a4a29d5f45988293908abb71866b6dedc3a7",
+  "original": {
+    "number": 4,
+    "title": "别为了试偏方、保健品停掉正规治疗",
+    "fields": {
+      "cost": "不花钱，还省下买保健品的钱。不占时间。难在别人反复劝你试的时候能顶住。",
+      "plain": "本来能治的癌症，只用替代疗法、不做正规治疗的人，死亡风险是正规治疗的 2.5 倍。边治边用补充疗法的人更常拒绝手术、化疗和放疗，多出来的死亡就出在这里。有的草药还会减弱抗排异药、抗凝药的作用，想吃先问主治医生。",
+      "benefit": "美国癌症登记数据里有两项研究，看的都是没转移、本来能治的乳腺癌、前列腺癌、肺癌和结直肠癌病人。第一项看只用替代疗法、手术放化疗和内分泌治疗一样都不做的人。和条件配对的正规治疗病人比，他们的死亡风险是 2.5 倍（HR 2.50，95% CI 1.88–3.27，高约 1.5 倍）。乳腺癌是 5.68 倍（3.22–10.04），肺癌是 2.17 倍（1.42–3.32），结直肠癌是 4.57 倍（1.66–12.61）。第二项看一边正规治疗、一边用补充疗法的人。他们拒绝手术的比例是 7.0% 对 0.1%，拒绝化疗是 34.1% 对 3.2%。拒绝放疗是 53.0% 对 2.3%，拒绝内分泌治疗是 33.7% 对 2.8%。5 年存活率是 82.2% 对 86.6%，死亡风险是 2.08 倍（HR 2.08，1.50–2.90，高约一倍）。把拖延和拒绝治疗算进去以后，补充疗法本身和死亡就看不出关系了（HR 1.39，0.83–2.33）。作者的结论是，多出来的死亡来自拒绝正规治疗。国家市场监管总局要求保健食品标签上标注：「保健食品不是药物，不能代替药物治疗疾病」。美国国家补充与整合健康中心（NCCIH）写明，贯叶连翘（也叫圣约翰草）会减弱多种药的作用。其中包括防器官移植排异的环孢素，和抗凝药华法林",
+      "grade": "B",
+      "sources": "Johnson SB, Park HS, Gross CP, Yu JB (2018). Use of Alternative Medicine for Cancer and Its Impact on Survival. Journal of the National Cancer Institute, 110(1), 121-124. <https://doi.org/10.1093/jnci/djx145>；Johnson SB, Park HS, Gross CP, Yu JB (2018). Complementary Medicine, Refusal of Conventional Cancer Therapy, and Survival Among Patients With Curable Cancers. JAMA Oncology, 4(10), 1375-1381. <https://doi.org/10.1001/jamaoncol.2018.2487>；国家市场监督管理总局 (2019). 市场监管总局就《保健食品标注警示用语指南》和《保健食品原料目录与保健功能目录管理办法》有关情况举办专题新闻发布会. <https://www.samr.gov.cn/tssps/sjdt/tpxw/art/2023/art_4b658b824b1b4b0ba57c09a56cc93aad.html>；National Center for Complementary and Integrative Health (2025). St. John's Wort. <https://www.nccih.nih.gov/health/st-johns-wort>",
+      "notes": "只给 B 级。两项研究都只看了癌症，是从登记数据里跟踪下来的，没有分组对照，选替代疗法的人在别的方面也可能不一样。高血压、糖尿病这类病停药的账，见第 1 条（药按医嘱吃满）。想试补充剂就先告诉主治医生。保健品要不要花钱买，见第 6 节第 10 条（保健品、膏方、滋补品）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng ngừng điều trị chính thống để thử mẹo chữa bệnh hoặc thực phẩm bảo vệ sức khỏe",
+    "cost": "Không tốn tiền, còn tiết kiệm được tiền mua thực phẩm bảo vệ sức khỏe. Không mất thời gian. Khó ở chỗ giữ vững quyết định khi người khác liên tục khuyên thử.",
+    "plain": "Với ung thư vốn có thể điều trị, người chỉ dùng liệu pháp thay thế mà không điều trị chính thống có nguy cơ tử vong gấp 2.5 lần người điều trị chính thống. Người vừa điều trị vừa dùng liệu pháp bổ sung thường từ chối phẫu thuật, hóa trị và xạ trị hơn; số tử vong tăng thêm xuất phát từ đây. Một số thảo dược còn làm giảm tác dụng của thuốc chống thải ghép và thuốc chống đông; muốn dùng thì hỏi bác sĩ điều trị trước.",
+    "benefit": "Có hai nghiên cứu sử dụng dữ liệu đăng ký ung thư của Mỹ, đều xem xét bệnh nhân ung thư vú, tuyến tiền liệt, phổi và đại trực tràng chưa di căn, vốn có thể điều trị. Nghiên cứu thứ nhất xem những người chỉ dùng liệu pháp thay thế, không phẫu thuật, xạ trị, hóa trị hay điều trị nội tiết. So với bệnh nhân điều trị chính thống được ghép cặp theo đặc điểm, nguy cơ tử vong của họ gấp 2.5 lần (HR 2.50, 95% CI 1.88–3.27, phần tăng thêm bằng khoảng 1.5 lần nguy cơ ban đầu). Với ung thư vú là 5.68 lần (3.22–10.04), ung thư phổi 2.17 lần (1.42–3.32), ung thư đại trực tràng 4.57 lần (1.66–12.61). Nghiên cứu thứ hai xem những người vừa điều trị chính thống vừa dùng liệu pháp bổ sung. Tỷ lệ từ chối phẫu thuật của họ là 7.0% so với 0.1%, từ chối hóa trị là 34.1% so với 3.2%. Từ chối xạ trị là 53.0% so với 2.3%, từ chối điều trị nội tiết là 33.7% so với 2.8%. Tỷ lệ sống sau 5 năm là 82.2% so với 86.6%, nguy cơ tử vong gấp 2.08 lần (HR 2.08, 1.50–2.90, cao hơn khoảng một lần nguy cơ ban đầu). Sau khi tính đến việc trì hoãn và từ chối điều trị, không còn thấy mối liên hệ giữa bản thân liệu pháp bổ sung và tử vong (HR 1.39, 0.83–2.33). Các tác giả kết luận số tử vong tăng thêm đến từ việc từ chối điều trị chính thống. Tổng cục Quản lý Thị trường Quốc gia Trung Quốc yêu cầu nhãn thực phẩm bảo vệ sức khỏe phải ghi: “Thực phẩm bảo vệ sức khỏe không phải là thuốc, không thể thay thế thuốc để điều trị bệnh”. Trung tâm Quốc gia về Sức khỏe Bổ sung và Tích hợp Mỹ (NCCIH) ghi rõ cây ban Âu, còn gọi là St. John’s wort, làm giảm tác dụng của nhiều thuốc. Trong đó có cyclosporine chống thải ghép tạng và warfarin chống đông.",
+    "notes": "Chỉ xếp mức B. Cả hai nghiên cứu chỉ xem bệnh ung thư, theo dõi từ dữ liệu đăng ký và không chia nhóm đối chứng; người chọn liệu pháp thay thế có thể còn khác ở những mặt khác. Về hậu quả ngừng thuốc trong các bệnh như tăng huyết áp, đái tháo đường, xem mục 1 (uống thuốc đầy đủ theo chỉ định). Muốn thử sản phẩm bổ sung thì nói với bác sĩ điều trị trước. Có nên bỏ tiền mua thực phẩm bảo vệ sức khỏe hay không, xem chương 6 mục 10 (thực phẩm bảo vệ sức khỏe, cao thuốc, đồ tẩm bổ).",
+    "extra": ""
+  }
+}

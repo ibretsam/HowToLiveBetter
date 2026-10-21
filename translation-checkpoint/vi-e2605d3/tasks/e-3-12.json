@@ -1,0 +1,35 @@
+{
+  "id": "e-3-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "419fde7fe8f922b62a1af6db6d44fa7553720c3d6c62b7a535f7a1112b6fd09b",
+  "original": {
+    "number": 12,
+    "title": "在开放式办公室工作时用耳塞或找安静房间做需要记忆的活",
+    "fields": {
+      "cost": "耳塞几十元。预订安静的会议室要花点时间。",
+      "plain": "背景噪音从 39 分贝涨到 51 分贝，能记住的词就变少，人更累，也更不想干活。休息的时候看带声音的自然风光片，比接着听办公室噪音更能把精力找回来。",
+      "benefit": "让学生在模拟的开放式办公室里工作。背景噪音从 39 分贝升到 51 分贝（dB，LAeq）时，他们记住的词更少，自己评分更疲劳，也更不想干活。休息时看带声音的自然影片，比只听河流声或者办公室噪音，更能把精力评分拉回来。",
+      "grade": "B",
+      "sources": "Jahncke, Hygge, Halin, Green & Dimberg (2011). Open-plan office noise: Cognitive performance and restoration. Journal of Environmental Psychology. <https://doi.org/10.1016/j.jenvp.2011.07.002>",
+      "notes": "只有一项实验室研究。噪音里最碍事的是能听清内容的说话声。白噪音耳机对这一点有帮助，但这项研究没测过耳机。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi làm việc trong văn phòng mở, dùng nút tai hoặc tìm phòng yên tĩnh để làm việc cần ghi nhớ",
+    "cost": "Nút tai giá vài chục nhân dân tệ. Đặt phòng họp yên tĩnh cần chút thời gian.",
+    "plain": "Khi tiếng ồn nền tăng từ 39 lên 51 decibel, số từ nhớ được giảm, người ta mệt hơn và ít muốn làm việc hơn. Khi nghỉ, xem cảnh thiên nhiên có âm thanh giúp lấy lại sức tốt hơn tiếp tục nghe tiếng ồn văn phòng.",
+    "benefit": "Sinh viên làm việc trong văn phòng mở mô phỏng. Khi tiếng ồn nền tăng từ 39 lên 51 decibel (dB, LAeq), họ nhớ được ít từ hơn, tự đánh giá mệt hơn và ít muốn làm việc hơn. Khi nghỉ, xem phim thiên nhiên có âm thanh giúp điểm tự đánh giá sức lực phục hồi tốt hơn chỉ nghe tiếng sông hoặc tiếng ồn văn phòng.",
+    "notes": "Chỉ có một nghiên cứu trong phòng thí nghiệm. Thành phần gây phiền nhất của tiếng ồn là lời nói nghe rõ nội dung. Tai nghe phát tiếng ồn trắng có ích ở điểm này, nhưng nghiên cứu này chưa đo tai nghe.",
+    "extra": ""
+  }
+}

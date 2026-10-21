@@ -1,0 +1,35 @@
+{
+  "id": "e-33-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "19e487ebc6480a16b2bc5c3653d029ec387775deddee229b4b2841f42ff14a3e",
+  "original": {
+    "number": 7,
+    "title": "残疾人证办下来之后，去县级残联把能申请的东西一次问全",
+    "fields": {
+      "cost": "不花钱。去一趟县级残联，问一上午。后面要跑的部门不止一个。",
+      "plain": "残疾人证本身不发钱，它是一把钥匙。接在它后面的是好几笔各自独立的待遇，每一笔都要自己去申请，不会自动上门。第一次去残联，就把清单上的项目一项项问过来，比来回跑几趟省事。",
+      "benefit": "证接上的待遇至少六项，各有各的出处。困难残疾人生活补贴和重度残疾人护理补贴，见第 7 节第 8 条（两项补贴）。残疾儿童康复救助，见本节第 8 条（康复救助）。基本型辅助器具配置补贴，依据是《残疾预防和残疾人康复条例》第二十六条。家庭无障碍设施改造补贴，见本节第 9 条（坡道扶手和浴室改造）。按比例就业和就业服务，见本节第 10 条（主动说明持证）。个人所得税减征，见本节第 11 条（个税减征）。《残疾预防和残疾人康复条例》第二十六条还写明，国家通过实施重点康复项目为城乡贫困残疾人、重度残疾人提供基本康复服务，「按照国家有关规定对基本型辅助器具配置给予补贴」。第二十条规定，县级以上人民政府有关部门和残联应当利用社区资源，设立康复场所或者购买服务，开展康复指导、日常生活能力训练、康复护理、辅助器具配置、信息咨询和转介等社区康复工作（全国，2017 年 7 月 1 日起施行）。同一条例第二十一条规定，提供康复服务要先做需求评估，再按评估结果定个性化方案。国务院 2016 年的文件写的是，「有条件的地方可以对城乡贫困残疾人、重度残疾人基本型康复辅助器具配置给予补贴」。民政部等部门 2026 年的三年行动方案写明，要「规范和加强残疾人基本型辅助器具适配服务补贴制度」。工伤致残的走另一条路。《工伤保险辅助器具配置管理办法》管的是假肢、矫形器、假眼、假牙和轮椅这类。它规定要先经劳动能力鉴定委员会确认再配。安装、维修、训练的费用按规定由工伤保险基金付。没经确认自己配的、在非协议机构配的，经办机构不付钱",
+      "grade": "A",
+      "sources": "国务院 (2017). 残疾预防和残疾人康复条例（第二十条、第二十一条、第二十六条）. <https://www.gov.cn/zhengce/zhengceku/2017-02/27/content_5171308.htm>；国务院 (2016). 关于加快发展康复辅助器具产业的若干意见（国发〔2016〕60 号）. <https://www.gov.cn/zhengce/zhengceku/2016-10/27/content_5125001.htm>；民政部等 (2026). 康复辅助器具产业扩能提质三年行动方案（2026-2028年）（民函〔2026〕48 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7075249.htm>；人力资源社会保障部、民政部、国家卫生计生委令第 27 号 (2016). 工伤保险辅助器具配置管理办法（第二条、第十五条、第二十四条）. <https://www.gov.cn/gongbao/content/2016/content_5074060.htm>",
+      "notes": "办证本身的流程见第 24 节第 10 条（残疾人证）。轮椅、假肢、助听器这类，先问清楚补贴要走的评估和配置流程，再去买。工伤的那一套明文规定先确认后配置，自己先配的不报。工伤认定和劳动能力鉴定见第 19 节第 14 条（劳动能力鉴定）。辅助器具补贴，国务院文件写的是「有条件的地方可以」给，所以有没有、给多少由地方定。下面几条是作者经验：问的时候把每一项的名字记下来，回家按名字在当地残联官网和政府网站上再查一遍原文件，不要只听柜台上的口头说法。别指望一次问全，隔一年再去问一次，政策会变。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sau khi được cấp giấy chứng nhận khuyết tật, đến Liên đoàn Người khuyết tật cấp huyện hỏi một lượt về mọi khoản có thể xin",
+    "cost": "Không tốn tiền. Đến Liên đoàn Người khuyết tật cấp huyện một chuyến, dành một buổi sáng để hỏi. Sau đó còn phải đi nhiều hơn một cơ quan.",
+    "plain": "Bản thân giấy chứng nhận khuyết tật không cấp tiền; nó là chiếc chìa khóa. Giấy này mở ra nhiều chế độ độc lập với nhau, mỗi chế độ đều phải tự làm đơn, không tự động đến với bạn. Ngay lần đầu đến Liên đoàn Người khuyết tật, hãy hỏi từng hạng mục trong danh sách để đỡ phải đi lại nhiều lần.",
+    "benefit": "Có ít nhất sáu chế độ gắn với giấy chứng nhận, mỗi chế độ có căn cứ riêng. Trợ cấp sinh hoạt cho người khuyết tật khó khăn và trợ cấp chăm sóc người khuyết tật nặng: xem mục 8 phần 7 (hai khoản trợ cấp). Hỗ trợ phục hồi chức năng cho trẻ khuyết tật: xem mục 8 phần này (hỗ trợ phục hồi chức năng). Trợ cấp trang bị dụng cụ hỗ trợ cơ bản: căn cứ Điều hai mươi sáu Quy định về phòng ngừa khuyết tật và phục hồi chức năng cho người khuyết tật. Trợ cấp cải tạo nhà ở để bảo đảm tiếp cận: xem mục 9 phần này (đường dốc, tay vịn và cải tạo phòng tắm). Việc làm theo tỷ lệ và dịch vụ việc làm: xem mục 10 phần này (chủ động nói rõ mình có giấy chứng nhận). Giảm thuế thu nhập cá nhân: xem mục 11 phần này (giảm thuế thu nhập cá nhân). Điều hai mươi sáu Quy định về phòng ngừa khuyết tật và phục hồi chức năng cho người khuyết tật còn nêu rõ nhà nước thực hiện các dự án phục hồi chức năng trọng điểm để cung cấp dịch vụ phục hồi chức năng cơ bản cho người khuyết tật nghèo ở thành thị và nông thôn, người khuyết tật nặng, đồng thời “trợ cấp việc trang bị dụng cụ hỗ trợ cơ bản theo quy định liên quan của nhà nước”. Điều hai mươi quy định các cơ quan liên quan thuộc chính quyền nhân dân từ cấp huyện trở lên và Liên đoàn Người khuyết tật phải sử dụng nguồn lực cộng đồng để lập cơ sở phục hồi chức năng hoặc mua dịch vụ, thực hiện công tác phục hồi chức năng tại cộng đồng như hướng dẫn phục hồi chức năng, rèn luyện khả năng sinh hoạt hằng ngày, chăm sóc phục hồi chức năng, trang bị dụng cụ hỗ trợ, tư vấn thông tin và chuyển gửi (toàn Trung Quốc, có hiệu lực từ ngày 1 tháng 7 năm 2017). Điều hai mươi mốt cùng quy định yêu cầu đánh giá nhu cầu trước khi cung cấp dịch vụ phục hồi chức năng, sau đó lập phương án cá nhân hóa theo kết quả đánh giá. Văn bản năm 2016 của Quốc vụ viện nêu rằng “địa phương có điều kiện có thể trợ cấp việc trang bị dụng cụ hỗ trợ phục hồi chức năng cơ bản cho người khuyết tật nghèo ở thành thị và nông thôn, người khuyết tật nặng”. Kế hoạch hành động ba năm do Bộ Dân chính và các cơ quan khác ban hành năm 2026 nêu rõ phải “chuẩn hóa và tăng cường chế độ trợ cấp dịch vụ lựa chọn, trang bị dụng cụ hỗ trợ cơ bản phù hợp cho người khuyết tật”. Khuyết tật do tai nạn lao động đi theo một quy trình khác. Biện pháp quản lý việc trang bị dụng cụ hỗ trợ trong bảo hiểm tai nạn lao động điều chỉnh các loại như chân tay giả, dụng cụ chỉnh hình, mắt giả, răng giả và xe lăn. Văn bản yêu cầu phải được Hội đồng giám định khả năng lao động xác nhận trước khi trang bị. Chi phí lắp đặt, sửa chữa và tập sử dụng do quỹ bảo hiểm tai nạn lao động chi trả theo quy định. Cơ quan thực hiện bảo hiểm không thanh toán nếu tự trang bị khi chưa được xác nhận hoặc trang bị tại cơ sở không ký thỏa thuận.",
+    "notes": "Quy trình xin giấy chứng nhận xem mục 10 phần 24 (giấy chứng nhận khuyết tật). Với xe lăn, chân tay giả, máy trợ thính và các dụng cụ tương tự, hãy hỏi rõ quy trình đánh giá và trang bị để được trợ cấp rồi mới mua. Chế độ dành cho tai nạn lao động quy định rõ phải xác nhận trước, trang bị sau; tự trang bị trước sẽ không được hoàn trả. Công nhận tai nạn lao động và giám định khả năng lao động xem mục 14 phần 19 (giám định khả năng lao động). Về trợ cấp dụng cụ hỗ trợ, văn bản của Quốc vụ viện dùng cách nói “địa phương có điều kiện có thể” cấp, nên có hay không và bao nhiêu là do địa phương quyết định. Những điều sau đây là kinh nghiệm của tác giả: khi hỏi, ghi lại tên từng hạng mục; về nhà dùng tên đó tra lại văn bản gốc trên trang chính thức của Liên đoàn Người khuyết tật địa phương và trang chính quyền, đừng chỉ nghe lời nói ở quầy. Đừng mong hỏi một lần là đủ hết; cách một năm hãy hỏi lại, vì chính sách sẽ thay đổi.",
+    "extra": ""
+  }
+}

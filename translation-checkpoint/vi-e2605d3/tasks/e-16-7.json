@@ -1,0 +1,35 @@
+{
+  "id": "e-16-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "dff40d13ca7081c69c6b315b1a842a9efa8de0b03069cd9f0639766a8c769a4a",
+  "original": {
+    "number": 7,
+    "title": "确诊糖尿病就去查一次眼底，之后按医生给的间隔查；每年查一次脚",
+    "fields": {
+      "cost": "一次散瞳眼底检查几十到几百元。足部检查通常包含在门诊里，不另花钱。难在眼睛和脚都没不舒服的时候也要记着去查。",
+      "plain": "糖尿病伤到眼底、伤到脚，在坏到看不见、烂起来之前几乎没有感觉。早查出来还有得治。2 型糖尿病确诊当时就查一次散瞳眼底，1 型在发病 5 年后开始查。查过一两次没事、血糖也达标的，可以放宽到一两年一次。脚每年查一次。",
+      "benefit": "糖尿病伤到眼底叫视网膜病变，伤到脚叫糖尿病足。这两样在出问题之前几乎没有感觉。早查出来还有得治。等到看不见或者脚烂起来，就晚了",
+      "grade": "A",
+      "sources": "美国糖尿病学会 (2026). 糖尿病诊疗标准 2026·第 12 章 视网膜病变、神经病变与足部护理. Diabetes Care：「People with type 2 diabetes should have an initial dilated and comprehensive eye examination by an ophthalmologist or optometrist at the time of the diabetes diagnosis.」「Adults with type 1 diabetes should have an initial dilated and comprehensive eye examination by an ophthalmologist or optometrist 5 years after the onset of diabetes.」「If there is no evidence of retinopathy from one or more annual eye exams and glycemic indicators are within the goal range, then screening every 1–2 years may be considered.」「Perform a comprehensive foot evaluation at least annually to identify risk factors for ulcers and amputations.」<https://doi.org/10.2337/dc26-S012>",
+      "notes": "2 型糖尿病确诊的时候就要查，1 型是发病 5 年后才开始查。差别在于 2 型往往已经悄悄高了好几年。查过一两次没事、血糖也达标的，可以放宽到 1 到 2 年一次。脚上感觉变迟钝的人，每天自己看一眼脚底，用镜子照也行。肾也要每年查，见第 13 条（尿白蛋白肌酐比）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi được chẩn đoán đái tháo đường, đi khám đáy mắt một lần, sau đó khám lại theo khoảng thời gian bác sĩ dặn; khám bàn chân mỗi năm một lần",
+    "cost": "Một lần khám đáy mắt có giãn đồng tử tốn từ vài chục đến vài trăm nhân dân tệ. Khám bàn chân thường đã nằm trong lần khám ngoại trú, không tốn thêm tiền. Khó ở chỗ vẫn phải nhớ đi kiểm tra khi mắt và chân không thấy khó chịu gì.",
+    "plain": "Tổn thương đáy mắt và bàn chân do đái tháo đường hầu như không gây cảm giác gì trước khi mắt mất thị lực hoặc chân bị loét. Phát hiện sớm thì vẫn còn điều trị được. Đái tháo đường típ 2 cần khám đáy mắt có giãn đồng tử ngay khi chẩn đoán, còn típ 1 bắt đầu khám sau 5 năm mắc bệnh. Nếu một hai lần khám đều bình thường và đường huyết cũng đạt mục tiêu, có thể giãn khoảng cách thành một đến hai năm một lần. Bàn chân khám mỗi năm một lần.",
+    "benefit": "Tổn thương đáy mắt do đái tháo đường gọi là bệnh võng mạc, tổn thương ở bàn chân gọi là bàn chân đái tháo đường. Cả hai hầu như không gây cảm giác gì trước khi xuất hiện vấn đề. Phát hiện sớm thì vẫn còn điều trị được. Đợi đến khi không nhìn thấy hoặc chân bị loét thì đã muộn.",
+    "notes": "Đái tháo đường típ 2 cần khám ngay khi chẩn đoán; típ 1 đến 5 năm sau khi khởi bệnh mới bắt đầu khám. Sự khác biệt là ở típ 2, đường huyết thường đã âm thầm tăng trong nhiều năm. Nếu một hai lần khám đều bình thường và đường huyết cũng đạt mục tiêu, có thể giãn khoảng cách thành 1 đến 2 năm một lần. Người giảm cảm giác ở bàn chân cần tự nhìn lòng bàn chân mỗi ngày, dùng gương cũng được. Thận cũng cần kiểm tra hằng năm, xem mục 13 (tỷ số albumin/creatinine niệu).",
+    "extra": ""
+  }
+}

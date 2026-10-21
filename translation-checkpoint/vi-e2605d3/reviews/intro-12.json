@@ -1,0 +1,15 @@
+{
+  "id": "intro-12",
+  "source_sha256": "6223add14de783f9658d6a88eecf1a7f383e61021712c0ca54bbe1bc1a8a9cb7",
+  "draft_sha256": "d1d2b8ed0ef96711f9d6d4580055492cf75c63069460297fcaabcae6b9527981",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Compared every heading and all item references. Preserves revised food and truthful-tax-filing navigation and distinction between security deposit and advance payment. Translation review does not independently verify current law or source advice."
+}

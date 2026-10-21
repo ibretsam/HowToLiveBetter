@@ -1,0 +1,35 @@
+{
+  "id": "e-1-27",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "1f8e8da94fc2a6a7a7a28ea3c3d002f2b401f2a8ce45a88e138f7569e6da1b48",
+  "original": {
+    "number": 27,
+    "title": "尿里出现肉眼看得见的血，哪怕不疼、哪怕第二天就干净了，也要去查一次",
+    "fields": {
+      "cost": "尿常规几十元，泌尿系超声一两百元。医生认为需要的话，再加一个膀胱镜，千元上下。",
+      "plain": "英国的门诊病历里，60 岁以上的人出现肉眼看得见的血尿，最后查出膀胱癌的约 2.8%。40 到 59 岁约 1.2%。这个数不算高，但也高到必须去查一次。哪怕只出现过一次、量很少、不疼，也要去查。",
+      "benefit": "英国拿社区全科门诊（初级医疗）的电子病历做了一项研究，4915 例膀胱癌对 21718 例对照。出现肉眼血尿的人里，最后真查出膀胱癌的比例是这样。60 岁以上是 2.8%，可信范围 95% CI 2.5 到 3.1。40 到 59 岁是 1.2%，可信范围 0.6 到 2.3。这个比例的学名叫阳性预测值。只有在显微镜下才看得见的血尿，同样有意义。比值比 20，可信范围 95% CI 12 到 33。60 岁以上这个比例为 1.6%，可信范围 1.2 到 2.1。英国国民医疗服务体系（NHS）说，尿里有血可能是癌的信号，必须查。哪怕没有别的症状、是第一次出现、量很少，都要尽快约医生",
+      "grade": "B",
+      "sources": "Price SJ, Shephard EA, Stapley SA, Barraclough K, Hamilton WT (2014). Non-visible versus visible haematuria and bladder cancer risk: a study of electronic records in primary care. British Journal of General Practice, 64(626), e584-e589. <https://doi.org/10.3399/bjgp14X681409>；NHS. Blood in urine：「Blood in your pee must be checked out because it can be a sign of cancer.」「But do not self-diagnose.」「It may not be blood in your pee if: you've recently eaten beetroot … you're taking a new medicine … it's happening during your period」. <https://www.nhs.uk/symptoms/blood-in-urine/>；NHS. Symptoms of bladder cancer：「You have blood in your pee, even if: you do not have any other symptoms; it's the first time it's happened; there's only a small amount of blood; you're not sure if it's blood」. <https://www.nhs.uk/conditions/bladder-cancer/symptoms/>",
+      "notes": "「不疼」不是放过的理由。英国国民医疗服务体系（NHS）写明，尿里有血就要尽快约医生，哪怕没有别的症状、是第一次、量很少、拿不准是不是血。尿痛、尿频、发烧，可能是尿路感染。腰侧到腹股沟一阵阵剧痛、坐立不安，可能是结石。但 NHS 也说别自己下结论，要让医生看。经期里看到的红色、刚吃过甜菜根、刚换了新药，尿发红未必是血。正在吃抗凝药的，也别自己认定是药引起的，这是作者的建议，上面的研究没有单独算这类人。收益记「小」，是因为只有检出率，没有「早查能降低多少死亡」的效应量。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có máu nhìn thấy bằng mắt thường trong nước tiểu thì phải đi kiểm tra, dù không đau hay hôm sau đã hết",
+    "cost": "Xét nghiệm nước tiểu vài chục nhân dân tệ, siêu âm hệ tiết niệu một hai trăm. Nếu bác sĩ thấy cần thì thêm nội soi bàng quang, khoảng một nghìn nhân dân tệ.",
+    "plain": "Trong hồ sơ khám ngoại trú ở Anh, người từ 60 tuổi trở lên có máu nhìn thấy bằng mắt thường trong nước tiểu cuối cùng được phát hiện ung thư bàng quang chiếm khoảng 2.8%; ở tuổi 40 đến 59 là khoảng 1.2%. Con số không cao, nhưng đủ cao để phải đi kiểm tra. Dù chỉ xuất hiện một lần, lượng rất ít và không đau, vẫn cần khám.",
+    "benefit": "Một nghiên cứu ở Anh dùng hồ sơ điện tử của phòng khám đa khoa cộng đồng thuộc chăm sóc ban đầu, so sánh 4915 ca ung thư bàng quang với 21718 trường hợp đối chứng. Trong số người tiểu ra máu nhìn thấy bằng mắt thường, tỷ lệ cuối cùng thực sự được phát hiện ung thư bàng quang như sau. Từ 60 tuổi trở lên là 2.8%, khoảng tin cậy 95% CI 2.5 đến 3.1. Tuổi 40 đến 59 là 1.2%, khoảng tin cậy 0.6 đến 2.3. Tên chuyên môn của tỷ lệ này là giá trị dự báo dương tính. Tiểu máu chỉ thấy được dưới kính hiển vi cũng có ý nghĩa. Tỷ số odds là 20, khoảng tin cậy 95% CI 12 đến 33. Ở người từ 60 tuổi trở lên, tỷ lệ này là 1.6%, khoảng tin cậy 1.2 đến 2.1. Dịch vụ Y tế quốc gia Anh (NHS) nói máu trong nước tiểu có thể là dấu hiệu ung thư và phải kiểm tra. Dù không có triệu chứng khác, mới xuất hiện lần đầu hay lượng rất ít, đều cần hẹn bác sĩ sớm nhất có thể.",
+    "notes": "Không đau không phải lý do bỏ qua. Dịch vụ Y tế quốc gia Anh (NHS) nêu rõ có máu trong nước tiểu thì cần hẹn bác sĩ sớm nhất có thể, dù không có triệu chứng khác, mới lần đầu, lượng rất ít hoặc chưa chắc có phải máu không. Tiểu đau, tiểu nhiều lần và sốt có thể là nhiễm trùng đường tiết niệu. Đau dữ dội từng cơn từ hông xuống bẹn, đứng ngồi không yên có thể là sỏi. Nhưng NHS cũng nói đừng tự kết luận, hãy để bác sĩ khám. Màu đỏ thấy trong kỳ kinh, sau khi ăn củ dền hoặc vừa đổi thuốc mới chưa chắc là máu. Người đang dùng thuốc chống đông cũng đừng tự cho rằng do thuốc; đây là lời khuyên của tác giả, nghiên cứu trên không tính riêng nhóm này. Lợi ích xếp nhỏ vì chỉ có tỷ lệ phát hiện, không có mức tác động cho biết khám sớm giảm được bao nhiêu ca tử vong.",
+    "extra": ""
+  }
+}

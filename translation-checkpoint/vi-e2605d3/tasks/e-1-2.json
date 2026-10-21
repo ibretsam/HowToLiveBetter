@@ -1,0 +1,35 @@
+{
+  "id": "e-1-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "a9b9fa81651bea9caeeb735f038dd4051d937b0324e60c0585ccb1eae5a5c6a6",
+  "original": {
+    "number": 2,
+    "title": "骑摩托车、电动自行车戴头盔并扣好",
+    "fields": {
+      "cost": "买一顶 100 到 300 元。每次戴上花 5 秒。",
+      "plain": "戴头盔并且把扣带扣好，摩托车骑手出事时死亡的概率低约四成。头部受伤低约七成。扣带要系紧，松松垮垮挂在头上不算戴。",
+      "benefit": "Cochrane 把多项研究合起来一起算。摩托车骑行者戴头盔，死亡风险下降 42%。原值 OR 0.58，可信范围 95% CI 0.50 到 0.68。头部损伤下降 69%（OR 0.31，95% CI 0.25 到 0.38）",
+      "grade": "A",
+      "sources": "Liu BC 等 (2008). Helmets for preventing injury in motorcycle riders. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD004333.pub3>",
+      "notes": "头盔要把扣带扣好，挂在车把上不算戴。上面的数据来自摩托车。电动自行车没有直接研究，是照着推过来的，因为撞上以后头部受伤的方式相同。滑雪、单板、骑自行车戴头盔见第 22 节第 12 条（滑雪、骑山地车时戴头盔）。孩子骑车上路的年龄门槛见第 30 节第 20 条（不满 16 周岁的骑电动自行车上路）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đi xe máy, xe đạp điện phải đội mũ bảo hiểm và cài quai chắc chắn",
+    "cost": "Một mũ giá 100 đến 300 nhân dân tệ. Mỗi lần đội mất 5 giây.",
+    "plain": "Đội mũ bảo hiểm và cài quai chắc chắn giúp khả năng tử vong khi gặp tai nạn của người đi xe máy thấp hơn khoảng bốn phần mười, chấn thương đầu thấp hơn khoảng bảy phần mười. Quai phải siết vừa chặt, để lỏng lẻo trên đầu không tính là đã đội.",
+    "benefit": "Cochrane gộp nhiều nghiên cứu để tính. Người đi xe máy đội mũ bảo hiểm có nguy cơ tử vong giảm 42%. Giá trị gốc là OR 0.58, khoảng tin cậy 95% CI 0.50 đến 0.68. Chấn thương đầu giảm 69% (OR 0.31, 95% CI 0.25 đến 0.38).",
+    "notes": "Mũ phải cài quai chắc chắn; treo trên tay lái không tính là đội. Dữ liệu trên đến từ xe máy. Xe đạp điện chưa có nghiên cứu trực tiếp, mà được suy rộng vì cơ chế chấn thương đầu khi va chạm giống nhau. Đội mũ khi trượt tuyết, trượt ván tuyết, đi xe đạp xem mục 12 phần 22 (đội mũ khi trượt tuyết, đi xe đạp địa hình). Ngưỡng tuổi để trẻ đi xe ra đường xem mục 20 phần 30 (chưa đủ 16 tuổi đi xe đạp điện ra đường).",
+    "extra": ""
+  }
+}

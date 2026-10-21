@@ -1,0 +1,35 @@
+{
+  "id": "e-13-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "5bd9d97c4084b28925ecf805aa7fb1d0ea8f9e433f34221f9965821ebad13611",
+  "original": {
+    "number": 12,
+    "title": "大出血先用手死死压住伤口，四肢压不住就上止血带，同时打 120",
+    "fields": {
+      "cost": "一根旋压式止血带几十到一百多元，放车里和急救包里。学一次「扎在伤口上方、拧到血停、记时间」，几分钟。",
+      "plain": "先用手或衣物死死压住，四肢压不住就上止血带，再打 120，上了就不松开。战地伤员里，休克前上止血带的活了九成，休克后才上的只活一成，该上没上的 5 个人全死了。扎在伤口上方，拧到血停，记下时间，别拿鞋带绳子代替。脖子和躯干只能压，不能扎。",
+      "benefit": "美国得州 11 家一级创伤中心 6 年里收了 1,026 例四肢血管伤。其中 181 例（17.6%）在到医院之前上了止血带。不做任何调整直接算，上了止血带的死亡 3.9%，没上的 5.2%。把其他条件拉平之后（多因素校正），上止血带仍然单独和活下来相关。校正 OR 5.86，可信范围是 95% CI 1.41 到 24.47。巴格达战地医院的 232 名伤员：休克出现前上止血带的存活 90%，休克后才上的只有 10%。需要止血带而没上的 5 人全部死亡，上了的存活 87%。顺序是：直接压迫，衣物、毛巾都行 → 压不住的四肢出血上止血带 → 打 120 → 不松开",
+      "grade": "A",
+      "sources": "Teixeira PGR 等 (2018). Civilian Prehospital Tourniquet Use Is Associated with Improved Survival in Patients with Peripheral Vascular Injury. Journal of the American College of Surgeons. <https://doi.org/10.1016/j.jamcollsurg.2018.01.047> ; Kragh JF 等 (2009). Survival with emergency tourniquet use to stop bleeding in major limb trauma. Annals of Surgery. <https://doi.org/10.1097/SLA.0b013e31818842ba> ; 中国医师协会急诊医师分会等 (2020). 止血带的急诊应用专家共识. 中华急诊医学杂志 29(6):773-779：「院前急救时，止血带一旦使用则不建议松开，除非得到可以替代的彻底止血的救治」「最长使用时间不应超过2 h。但如果客观情况无法到医院救治或者无替代止血办法，则在得到正规救援前不解除止血带」. <https://doi.org/10.3760/cma.j.issn.1671-0282.2020.06.006>，全文 <http://www.cem.org.cn/rhtml/20200606/index.htm>",
+      "notes": "不要拿绳子、鞋带这类细东西当止血带，勒不住动脉，还割破皮肤。上了止血带不要隔一会儿松一下「放放血」。脖子和躯干上的出血只能压，不能扎。那份战地数据里，止血带本身没有让谁截肢，出现短暂神经麻痹的有 4 例。中国急诊医师的专家共识说法一致：院前一旦用上就不建议松开，除非有别的办法能彻底止血。上臂出血扎在上臂中上三分之一，大腿出血扎在大腿根。前臂、小腿、肘、膝上不要扎。共识建议到医院前后总共尽量别超过 2 小时，但到不了医院、又没别的办法止血的，等到正规救援之前不解开。皮带、领带、衣袖临时做的止血带，单用很难止住血，要配一根棍子绞紧。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chảy máu nhiều: trước hết dùng tay ép thật chặt vết thương; tay chân ép không cầm được thì dùng garô, đồng thời gọi 120",
+    "cost": "Một garô có thanh xoắn giá vài chục đến hơn một trăm nhân dân tệ, để trong xe và túi sơ cứu. Học một lần cách “buộc phía trên vết thương, xoắn đến khi máu ngừng, ghi thời gian”, mất vài phút.",
+    "plain": "Trước hết dùng tay hoặc quần áo ép thật chặt; chảy máu ở tay chân ép không cầm được thì dùng garô, rồi gọi 120, đã đặt thì không nới. Trong thương binh chiến trường, đặt garô trước khi sốc thì chín phần mười sống; sau khi sốc mới đặt chỉ một phần mười sống, còn 5 người cần mà không được đặt đều tử vong. Buộc phía trên vết thương, xoắn đến khi máu ngừng, ghi thời gian, đừng thay bằng dây giày hoặc dây thừng. Cổ và thân mình chỉ được ép, không được buộc.",
+    "benefit": "11 trung tâm chấn thương cấp một ở Texas, Mỹ tiếp nhận 1,026 ca tổn thương mạch máu chi trong 6 năm. Trong đó 181 ca (17.6%) được đặt garô trước khi đến viện. Tính trực tiếp không hiệu chỉnh, tỷ lệ tử vong ở nhóm đặt garô là 3.9%, nhóm không đặt là 5.2%. Sau khi cân bằng các điều kiện khác bằng hiệu chỉnh đa yếu tố, đặt garô vẫn liên quan độc lập với sống sót. OR hiệu chỉnh là 5.86, khoảng tin cậy 95% CI từ 1.41 đến 24.47. Trong 232 thương binh ở bệnh viện chiến trường Baghdad, đặt garô trước khi sốc có tỷ lệ sống 90%, sau khi sốc mới đặt chỉ 10%. Cả 5 người cần garô nhưng không được đặt đều tử vong, còn người được đặt có tỷ lệ sống 87%. Thứ tự là: ép trực tiếp, dùng quần áo hoặc khăn đều được → chảy máu tay chân ép không cầm được thì đặt garô → gọi 120 → không nới.",
+    "notes": "Đừng dùng vật mảnh như dây thừng, dây giày làm garô: không chẹn được động mạch mà còn cứa rách da. Đã đặt garô thì đừng thỉnh thoảng nới ra để “cho máu lưu thông”. Chảy máu ở cổ và thân mình chỉ được ép, không được buộc. Trong dữ liệu chiến trường đó, bản thân garô không khiến ai phải cắt cụt chi; có 4 ca liệt thần kinh tạm thời. Đồng thuận chuyên gia của bác sĩ cấp cứu Trung Quốc cũng thống nhất: đã dùng garô trước viện thì không khuyến nghị nới, trừ khi có cách khác cầm máu hoàn toàn. Chảy máu cánh tay thì buộc ở vùng một phần ba giữa–trên cánh tay; chảy máu đùi thì buộc sát gốc đùi. Không buộc ở cẳng tay, cẳng chân, khuỷu hoặc gối. Đồng thuận khuyên cố gắng không để tổng thời gian trước và sau khi đến viện quá 2 giờ; nhưng nếu chưa đến được viện và không có cách cầm máu khác thì không tháo trước khi lực lượng cứu hộ chuyên nghiệp đến. Garô tạm bằng thắt lưng, cà vạt hoặc tay áo khó cầm máu nếu dùng riêng, phải kết hợp một que để xoắn chặt.",
+    "extra": ""
+  }
+}

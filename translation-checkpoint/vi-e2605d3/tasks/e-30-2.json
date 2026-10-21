@@ -1,0 +1,36 @@
+{
+  "id": "e-30-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "f956b5c6fc513f75930c32b7560f3e89fb57d7455ba202b6f933f504c5bd3a8f",
+  "original": {
+    "number": 2,
+    "title": "该做的治疗别为了「等考完」往后拖，有些窗口跟着骨龄走，不跟着考试安排走",
+    "fields": {
+      "cost": "不花钱，要定的只是早做还是晚做。请假和复诊要占时间，治疗本身的花费另算。难在支具要求每天至少戴 18 小时，孩子得一直忍着。",
+      "plain": "脊柱侧弯是脊柱往侧面弯。支具是一件硬壳背心，穿在身上把脊柱撑住。骨头还在长的时候戴，75% 的孩子到骨头长完都没弯到 50 度，只观察不戴的只有 42%。能戴的时间跟着骨头长完走，不跟着中考高考走，等考完可能就错过了。",
+      "benefit": "多家医院一起做的试验，找了 242 例够条件戴支具的青少年特发性脊柱侧弯患者。其中 116 例抽签分组，126 例自己选戴不戴。成败事先定好怎么算：弯度长到 50 度以上算治疗失败，骨头长完时还没到这个度数算治疗成功。支具组的孩子被要求每天至少戴 18 小时。按最初分到哪一组来算，不管后来有没有真戴够。抽签戴支具组成功率 75%，抽签只观察组 42%（OR 4.11，95% CI 1.85–9.16），成功的机会约为只观察的 4 倍。把抽签的和自己选的两拨人合起来算，是 72% 对 48%（把两拨人本来的差别扣平后 OR 1.93，1.08–3.46，仍约 1.9 倍）。每天戴的小时数越多，成功率越高（P<0.001，这个关系不太可能是碰巧）。试验因为支具确实有效，提前停掉了",
+      "grade": "A",
+      "sources": "Weinstein SL, et al. (2013). Effects of bracing in adolescents with idiopathic scoliosis. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa1307337>",
+      "notes": "这里用脊柱侧弯举例，是因为它有抽签分组的试验，有明确的时间窗口。它也正好是学生体检的重点项目之一（见第 7 条）。按作者的经验，同类的还有斜视、弱视、龋齿，以及先天性心脏病那种可以挑时间做的手术。它们越晚做，效果可能越差，或者代价越大。本节没有逐条核实过，具体窗口问专科医生。怕耽误上课，义务教育阶段可以休学，最长 1 年，学籍给留着，见第 11 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng trì hoãn điều trị cần thiết để “đợi thi xong”; một số thời điểm điều trị phụ thuộc tuổi xương, không theo lịch thi",
+    "cost": "Không tốn tiền; chỉ cần quyết định làm sớm hay muộn. Xin nghỉ học và tái khám mất thời gian, chi phí điều trị tính riêng. Khó ở chỗ nẹp phải đeo ít nhất 18 giờ mỗi ngày, trẻ phải chịu đựng lâu dài.",
+    "plain": "Vẹo cột sống là cột sống cong sang bên. Nẹp là một áo vỏ cứng mặc để giữ cột sống. Đeo khi xương còn phát triển giúp 75% trẻ đến lúc xương trưởng thành vẫn chưa cong đến 50 độ; nhóm chỉ theo dõi mà không đeo chỉ có 42%. Khoảng thời gian còn đeo được phụ thuộc sự trưởng thành của xương, không theo kỳ thi vào trung học phổ thông hay đại học; đợi thi xong có thể đã bỏ lỡ.",
+    "benefit": "Một thử nghiệm tại nhiều bệnh viện tuyển 242 bệnh nhân vẹo cột sống vô căn tuổi thiếu niên đủ điều kiện đeo nẹp. Trong đó, 116 người được phân nhóm ngẫu nhiên, 126 người tự chọn đeo hay không. Tiêu chí thành công, thất bại được định trước: góc cong tăng đến 50 độ trở lên là thất bại, còn khi xương trưởng thành mà chưa đến mức đó là thành công. Trẻ trong nhóm đeo nẹp được yêu cầu đeo ít nhất 18 giờ mỗi ngày. Kết quả tính theo nhóm phân ban đầu, bất kể sau đó có thực sự đeo đủ hay không. Nhóm được phân ngẫu nhiên đeo nẹp có tỷ lệ thành công 75%, nhóm được phân ngẫu nhiên chỉ theo dõi là 42% (OR 4.11, 95% CI 1.85–9.16), cơ hội thành công gấp khoảng 4 lần chỉ theo dõi. Gộp cả người phân ngẫu nhiên và người tự chọn, tỷ lệ là 72% so với 48% (sau khi điều chỉnh khác biệt ban đầu giữa hai nhóm, OR 1.93, 1.08–3.46, vẫn khoảng 1.9 lần). Số giờ đeo mỗi ngày càng nhiều, tỷ lệ thành công càng cao (P<0.001, mối liên hệ này khó do ngẫu nhiên). Thử nghiệm được dừng sớm vì nẹp thực sự có hiệu quả.",
+    "notes": "Vẹo cột sống được dùng làm ví dụ vì có thử nghiệm phân nhóm ngẫu nhiên và có khoảng thời gian điều trị rõ ràng. Đây cũng là một trọng tâm khi khám sức khỏe học sinh, xem mục 7. Theo kinh nghiệm tác giả, các trường hợp tương tự gồm lác mắt, nhược thị, sâu răng và những phẫu thuật có thể chọn thời điểm như phẫu thuật tim bẩm sinh. Làm càng muộn có thể hiệu quả càng kém hoặc phải trả giá nhiều hơn. Chương này chưa kiểm chứng riêng từng bệnh; hãy hỏi bác sĩ chuyên khoa về thời điểm cụ thể. Nếu lo ảnh hưởng việc học, trong giai đoạn giáo dục bắt buộc có thể xin tạm nghỉ học tối đa 1 năm và được bảo lưu hồ sơ học sinh, xem mục 11.",
+    "extra": ""
+  }
+}

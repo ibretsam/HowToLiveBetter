@@ -1,0 +1,35 @@
+{
+  "id": "e-1-32",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "ac6cde72457e55a8656f21996120b484c55826ed9331752674ec97a94b0ec1a0",
+  "original": {
+    "number": 32,
+    "title": "自杀念头一冒出来先告诉身边的一个人，把这几十分钟交出去",
+    "fields": {
+      "cost": "不花钱。难的地方是当时开口，以及承认自己这几个小时不能一个人待着。",
+      "plain": "一项访谈里，自杀未遂的人将近一半说，从念头冒出来到动手不超过 10 分钟。四分之三的人那段时间和身边人有过接触。因自伤进过医院的人，1 年后约 2% 死于自杀，9 年以上约 7%，绝大多数人后来没有死于自杀。",
+      "benefit": "82 名自杀未遂者在入院 3 天内接受访谈：47.6%（39 人）说，从这一次第一次冒出自杀念头到真的动手，不超过 10 分钟。这个过程拖得长一些的人，自杀意图评分明显更高。冲动性量表的得分和过程长短没有关系。76.8%（63 人）说，在这段时间里和伴侣、家人或者朋友有过某种接触。作者的结论是：能干预的时间窗通常很短，专业人员在这个阶段能介入的余地有限。作者因此主张把识别信号和干预办法普及到普通人。另有一篇系统综述汇总了 90 项随访研究。因自伤就诊的人，1 年后再次自伤但没死的比例取中间值为 16%。1 年后死于自杀的为 2%。随访 9 年以上的，约 7% 死于自杀",
+      "grade": "B",
+      "sources": "Deisenhammer EA, Ing CM, Strauss R, Kemmler G, Hinterhuber H, Weiss EM (2009). The duration of the suicidal process: how much time is left for intervention between consideration and accomplishment of a suicide attempt? Journal of Clinical Psychiatry, 70(1), 19-24. <https://doi.org/10.4088/JCP.07m03904>；Owens D, Horrocks J, House A (2002). Fatal and non-fatal repetition of self-harm: systematic review. British Journal of Psychiatry, 181, 193-199. <https://doi.org/10.1192/bjp.181.3.193>",
+      "notes": "给 B 的原因：Deisenhammer 那项只有 82 人，出自一家医院，靠当事人事后回忆。Owens 那篇给的是 90 项做法各异的研究取中间的那个比例，不是把它们合成一个数。同一篇里还明确写着，自伤者的自杀风险仍是普通人群的几百倍。所以「绝大多数人后来没有死于自杀」说的是这批人整体的情况，不能当成对某一个人的保证，该看的病还是要看。把致死手段挪远和 12356 见本节第 25 条。情绪低落时先做的几件事见第 3 节第 18 条。救回来之后的后遗症见本节第 33 条。怀疑身边人有这种念头，可以直接问，见本节第 43 条（直接问身边情绪不对的人）。身边人流露出这种念头时你能做什么，见第 8 节第 15 条"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Vừa xuất hiện ý nghĩ tự sát thì nói ngay với một người bên cạnh, nhờ họ giúp mình vượt qua vài chục phút này",
+    "cost": "Không tốn tiền. Khó ở việc mở lời ngay lúc đó và thừa nhận rằng trong vài giờ này mình không thể ở một mình.",
+    "plain": "Trong một nghiên cứu phỏng vấn, gần nửa số người tự sát không thành nói từ lúc nảy ý nghĩ đến lúc hành động không quá 10 phút. Ba phần tư đã tiếp xúc với người bên cạnh trong thời gian đó. Ở người từng vào viện vì tự gây thương tích, khoảng 2% tử vong do tự sát sau 1 năm, khoảng 7% sau từ 9 năm trở lên; đại đa số về sau không chết do tự sát.",
+    "benefit": "82 người tự sát không thành được phỏng vấn trong vòng 3 ngày nhập viện: 47.6% (39 người) nói từ lúc lần đầu nảy ý nghĩ tự sát trong lần này đến khi thực sự hành động không quá 10 phút. Người có quá trình kéo dài hơn có điểm ý định tự sát cao hơn rõ rệt. Điểm thang đo tính bốc đồng không liên quan đến độ dài quá trình. 76.8% (63 người) nói đã có hình thức tiếp xúc nào đó với bạn đời, người nhà hoặc bạn bè trong thời gian này. Tác giả kết luận khoảng thời gian có thể can thiệp thường rất ngắn, khả năng để người chuyên môn tham gia ở giai đoạn này hạn chế. Vì vậy, tác giả đề nghị phổ biến cách nhận biết tín hiệu và biện pháp can thiệp cho người bình thường. Một tổng quan hệ thống khác tổng hợp 90 nghiên cứu theo dõi. Với người đi khám vì tự gây thương tích, sau 1 năm, tỷ lệ tiếp tục tự gây thương tích nhưng không tử vong có trung vị là 16%. Tỷ lệ chết do tự sát sau 1 năm là 2%. Trong các nghiên cứu theo dõi từ 9 năm trở lên, khoảng 7% chết do tự sát.",
+    "notes": "Xếp mức B vì nghiên cứu Deisenhammer chỉ có 82 người từ một bệnh viện, dựa vào trí nhớ sau sự việc của người trong cuộc. Bài Owens đưa ra tỷ lệ ở giữa của 90 nghiên cứu có cách làm khác nhau, không gộp chúng thành một con số chung. Cũng bài đó nêu rõ nguy cơ tự sát ở người tự gây thương tích vẫn gấp hàng trăm lần dân số chung. Vì vậy, đại đa số về sau không chết do tự sát là tình hình chung của nhóm này, không thể coi là bảo đảm cho một cá nhân; bệnh cần khám vẫn phải khám. Đưa phương tiện gây chết người ra xa và 12356 xem mục 25 phần này. Những việc nên làm trước tiên khi tâm trạng xuống thấp xem phần 3 mục 18. Di chứng sau khi được cứu xem mục 33 phần này. Nghi người bên cạnh có ý nghĩ này thì có thể hỏi thẳng, xem mục 43 phần này (hỏi thẳng người bên cạnh có tâm trạng bất thường). Những gì bạn có thể làm khi người bên cạnh bộc lộ ý nghĩ này xem phần 8 mục 15.",
+    "extra": ""
+  }
+}

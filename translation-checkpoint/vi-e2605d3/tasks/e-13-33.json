@@ -1,0 +1,35 @@
+{
+  "id": "e-13-33",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "804ecb955b639cbcfbb751ce48b2d3aa2f5b2a869b3e188a3152526e0a89be60",
+  "original": {
+    "number": 33,
+    "title": "上高原按睡眠海拔（当晚睡在多高）慢慢升，症状加重就下撤，不要硬扛",
+    "fields": {
+      "cost": "多花一到两天做适应。预防药是处方药，要在出发前问医生。难的是行程排得紧时还肯留出这几天。",
+      "plain": "算的是睡在多高，不是白天到过多高，睡在 2450 米以上就有高原病风险。过了 3000 米之后，每晚睡觉的高度只往上加 500 米，每升 1000 米多留一天适应。头痛恶心就别再往高处睡，休息后还加重就下撤。走路打晃、不动也喘，下撤和吸氧比吃药管用。",
+      "benefit": "睡在 2450 米以上就有高原病风险。高原脑水肿和肺水肿（脑子和肺里积水），不及时往低处撤会死。美国疾控中心黄皮书给了三条防重症的规矩：知道早期症状并肯承认；有症状时，不管多轻，都不再往更高处去睡；同一高度休息或治疗后症状还在加重，就下撤。急性高原病往下走 300 米以上通常很快好转。高原脑水肿在偏远地区要马上下撤，有地塞米松和氧气就一起用。高原肺水肿多数情况下必须马上下撤，下撤和吸氧都比吃药有效得多",
+      "grade": "A",
+      "sources": "美国疾病控制与预防中心. 黄皮书·高海拔旅行与高原病：「Any unacclimatized traveler proceeding to a sleeping altitude of ≥2,450 m (≥8,000 ft)—and sometimes lower—is at risk for altitude illness」；上升速度「500 m (1,650 ft) per night in sleeping altitude once above 3,000 m (9,800 ft)」，每上升 1000 米加一天适应日；乙酰唑胺预防「125 mg twice a day; 250 mg twice a day if >100 kg body weight」；「If symptoms become worse despite rest or treatment at the same elevation」必须下撤；「Never ascend to sleep at a higher altitude when experiencing symptoms of altitude illness, no matter how minor the symptoms seem」「AMS improves rapidly with a descent of 300 m (1,000 ft) or more」「In remote areas, initiate descent for anyone suspected of having HACE」「Descent and oxygen are much more effective treatments than medication」. <https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html>；荒野医学会 (2024). 急性高原病预防、诊断与治疗临床实践指南（2024 更新）. Wilderness & Environmental Medicine. <https://doi.org/10.1016/j.wem.2023.05.013>",
+      "notes": "算的是「睡在多高」，不是白天到过多高。有症状就不再往高处睡，休息后还加重就往下走。走路打晃、意识变化，或者不动也喘不上气，可能是脑水肿或肺水肿，在野外要马上往下撤。吃药比不上下撤和吸氧。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Lên vùng cao thì tăng dần theo độ cao chỗ ngủ đêm; triệu chứng nặng lên thì xuống thấp, đừng cố chịu",
+    "cost": "Dành thêm một đến hai ngày để thích nghi. Thuốc dự phòng là thuốc kê đơn, phải hỏi bác sĩ trước khi đi. Điều khó là vẫn chịu dành ra những ngày này dù lịch trình kín.",
+    "plain": "Tính theo độ cao chỗ ngủ, không phải nơi đã tới ban ngày; ngủ từ 2450 mét trở lên đã có nguy cơ bệnh độ cao. Sau khi vượt 3000 mét, độ cao chỗ ngủ mỗi đêm chỉ tăng 500 mét, mỗi tăng 1000 mét dành thêm một ngày thích nghi. Đau đầu, buồn nôn thì đừng lên ngủ cao hơn; nghỉ rồi vẫn nặng thêm thì xuống thấp. Đi loạng choạng hoặc không vận động vẫn khó thở thì xuống thấp và thở oxy hiệu quả hơn dùng thuốc.",
+    "benefit": "Ngủ từ 2450 mét trở lên đã có nguy cơ bệnh độ cao. Phù não và phù phổi do độ cao, tức dịch tích trong não và phổi, có thể gây chết nếu không kịp xuống thấp. Sách Vàng của Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ đưa ra ba nguyên tắc phòng bệnh nặng: biết triệu chứng sớm và chịu thừa nhận; có triệu chứng dù nhẹ đến đâu cũng không lên ngủ cao hơn; nghỉ hoặc điều trị ở cùng độ cao mà triệu chứng vẫn nặng lên thì xuống thấp. Bệnh độ cao cấp thường cải thiện nhanh khi xuống thấp từ 300 mét trở lên. Phù não do độ cao ở vùng hẻo lánh cần xuống thấp ngay; có dexamethasone và oxy thì dùng cùng. Phù phổi do độ cao trong phần lớn trường hợp phải xuống thấp ngay; cả xuống thấp và thở oxy đều hiệu quả hơn dùng thuốc rất nhiều.",
+    "notes": "Tính theo “ngủ cao bao nhiêu”, không phải độ cao đã tới ban ngày. Có triệu chứng thì đừng lên ngủ cao hơn; nghỉ rồi vẫn nặng thêm thì đi xuống. Đi loạng choạng, thay đổi ý thức hoặc không vận động vẫn khó thở có thể là phù não hoặc phù phổi; ở ngoài thiên nhiên phải xuống thấp ngay. Dùng thuốc không bằng xuống thấp và thở oxy.",
+    "extra": ""
+  }
+}

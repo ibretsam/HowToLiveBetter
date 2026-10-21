@@ -1,0 +1,36 @@
+{
+  "id": "e-27-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "0c347f02657b31c960c60ee80a842953911e97dc7952107f7eaaeff2a911192b",
+  "original": {
+    "number": 14,
+    "title": "拿到出生医学证明就给孩子办居民医保，别等落完户",
+    "fields": {
+      "cost": "一年交一次居民医保保费，几百元",
+      "plain": "拿到出生证就能在网上给孩子参保，不用等落户。参上了，出院时的住院费当场就能报。新生儿的住院费不低，参保和没参保差别很大。",
+      "benefit": "中国政府网 2024 年的口径：「新生儿凭出生医学证明就可以在线上参保」，不必先落户。「新生儿出院以后就能够直接报销医药费用」。以前的做法是落了户才能参保，住院费得先全额垫付，再回头报销。参保缴费的平均办理时长，也从年初的 28.7 个工作日压减到 6.4 个工作日",
+      "grade": "A",
+      "sources": "中国政府网 (2024). 健全基本医疗保险参保长效机制国务院政策例行吹风会. <https://www.gov.cn/zhengce/202409/content_6973567.htm>",
+      "notes": "早产、黄疸照蓝光、新生儿肺炎，这些是新生儿住院的常见原因，动辄上万元，参保和不参保差别很大。各地对「出生后多少天内参保，可以从出生那天起享受待遇」的规定不完全一样。具体怎么执行，以当地医保部门说的为准。出院前打 12393 问一句最省事"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱",
+      "人群": "怀孕,婴幼儿"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có Giấy chứng sinh y tế thì đăng ký bảo hiểm y tế cư dân cho con ngay, đừng đợi xong hộ khẩu",
+    "cost": "Đóng phí bảo hiểm y tế cư dân mỗi năm một lần, vài trăm nhân dân tệ.",
+    "plain": "Có giấy chứng sinh là có thể đăng ký bảo hiểm cho trẻ trực tuyến, không phải đợi hộ khẩu. Tham gia rồi thì chi phí nằm viện lúc xuất viện có thể được thanh toán ngay. Chi phí nằm viện của trẻ sơ sinh không thấp, có bảo hiểm khác rất nhiều với không có.",
+    "benefit": "Theo Cổng thông tin Chính phủ Trung Quốc năm 2024: “Trẻ sơ sinh chỉ cần Giấy chứng sinh y tế là có thể tham gia bảo hiểm trực tuyến”, không cần đăng ký hộ khẩu trước. “Sau khi xuất viện, trẻ sơ sinh đã có thể được thanh toán trực tiếp chi phí thuốc, khám chữa bệnh”. Trước đây phải có hộ khẩu mới tham gia bảo hiểm, chi phí nằm viện phải ứng toàn bộ rồi xin thanh toán sau. Thời gian xử lý trung bình việc tham gia và đóng phí cũng giảm từ 28.7 ngày làm việc đầu năm xuống 6.4 ngày làm việc.",
+    "notes": "Sinh non, chiếu đèn điều trị vàng da, viêm phổi sơ sinh là những nguyên nhân nhập viện thường gặp, dễ tốn hơn một vạn nhân dân tệ; có bảo hiểm khác rất nhiều với không có. Quy định “tham gia trong bao nhiêu ngày sau sinh thì hưởng từ ngày sinh” không hoàn toàn giống nhau giữa các địa phương. Cách thực hiện cụ thể theo cơ quan bảo hiểm y tế địa phương. Trước xuất viện gọi 12393 hỏi là tiện nhất.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-19-24",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "4f6694a229cd56fc988def6acccf5589c2c48a8a5e851dabf23530408ca1d06a",
+  "original": {
+    "number": 24,
+    "title": "被劳务派遣到别家公司干活的，工资要和同类岗位的正式工按同一套办法算，在干活的单位受了损害两家公司一起赔",
+    "fields": {
+      "cost": "不花钱。翻出劳动合同，看盖章的是哪家公司，几分钟。再找派遣公司问派遣协议里写的工资和社保，它有义务告诉你。真有争议走劳动仲裁，不收费，受理后 45 天内结案，最多再延 15 天。不服的再去法院，一审普通程序按规定 6 个月内审完，可以延长，律师费自己出。",
+      "plain": "派遣工的合同跟派遣公司签，每天干活的那家单位也有法定义务。工资要和那家单位同类岗位的人按同一套办法算，加班费、绩效奖金也由它给。在那家单位受了损害，两家公司一起赔，你可以找其中任何一家要。被退回后没活干的月份，派遣公司也要按最低工资发钱。",
+      "benefit": "劳动合同法规定，劳务派遣公司是你的用人单位，要和你签 2 年以上的固定期限合同，按月发工资。没派出去干活的期间，按当地最低工资按月付。派遣公司要把派遣协议的内容告诉你，不得克扣干活的单位（法律上叫用工单位）付给你的工资。两家都不得向你收费。被派遣的人有和用工单位的职工同工同酬的权利。用工单位对同类岗位要用相同的劳动报酬分配办法。没有同类岗位的，参照当地相同或相近岗位的报酬定。用工单位要付加班费、绩效奖金，提供和岗位相关的福利，不得歧视派遣工。连续用工的，要正常调工资。派遣只能用在临时性、辅助性或者替代性的岗位上，临时性岗位指存续不超过 6 个月的岗位。用工单位的派遣工人数不得超过用工总量的 10%。用工单位给派遣工造成损害的，派遣公司和用工单位承担连带赔偿责任。连带的意思是你可以找其中一家要全部赔偿，也可以两家都找。你和其中任何一家发生劳动争议，两家都是仲裁的共同当事人。在用工单位因工受伤的，由派遣公司申请工伤认定，承担工伤保险责任，用工单位要协助调查。用工单位只有在法定的几种情形下才能把你退回。挂着承揽、外包的名义，实际按派遣方式用人的，同样按派遣的规定处理（全国，暂行规定 2014 年 3 月 1 日起施行）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 修正). 劳动合同法（第五十八、六十、六十二、六十三、六十六、九十二条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193025/content.html>（国家税务总局政策法规库转载）；人力资源社会保障部 (2014). 劳务派遣暂行规定（人社部令第 22 号，第三、四、八、九、十、十二、十五、十七、二十七条）. <https://www.gov.cn/gongbao/content/2014/content_2667613.htm>；全国人大常委会 (2007). 劳动争议调解仲裁法（第二十二、四十三条）. <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载）；全国人大 (2020). 民法典（第一百七十八条）. 最高人民检察院转载全文 <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、十三条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>",
+      "notes": "同工同酬比的是同类岗位用不用同一套分配办法，不保证每人到手一分不差。被退回以后，派遣公司降低原合同的条件重新派你、你不同意的，派遣公司不得因此解除合同。派遣公司因为法定情形和你解除或者终止合同的，要给经济补偿，算法见本节第 4 条（被裁先算清 N）。在用工单位受了伤，先让派遣公司报工伤。它不报你自己报，见本节第 11 条（做工伤认定）。工资被扣、被欠，见第 7 节第 2 条（被欠薪先投诉劳动监察）。收益定中是凭判断：同工同酬的差额、损害的大小因人而异，没有统一的数。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Nếu được công ty cho thuê lại lao động cử sang công ty khác làm, lương phải được tính theo cùng cách với nhân viên chính thức ở vị trí tương tự; nếu bị thiệt hại tại đơn vị nơi làm việc, cả hai công ty cùng bồi thường",
+    "cost": "Không tốn tiền. Lấy hợp đồng lao động ra xem công ty nào đóng dấu, mất vài phút. Sau đó hỏi công ty cho thuê lại lao động về tiền lương và bảo hiểm xã hội ghi trong thỏa thuận cho thuê lại lao động; công ty có nghĩa vụ cho bạn biết. Nếu thực sự có tranh chấp thì yêu cầu trọng tài lao động giải quyết; không thu phí, giải quyết trong 45 ngày sau khi thụ lý, có thể gia hạn thêm tối đa 15 ngày. Không đồng ý với kết quả thì ra tòa; sơ thẩm theo thủ tục thông thường từ 6 tháng trở lên, bạn tự trả phí luật sư.",
+    "plain": "Lao động được cho thuê lại ký hợp đồng với công ty cho thuê lại lao động, nhưng đơn vị nơi bạn làm hằng ngày cũng có nghĩa vụ theo luật. Lương phải được tính theo cùng cách với người làm vị trí tương tự ở đơn vị đó; đơn vị đó còn phải trả tiền làm thêm và thưởng theo hiệu quả công việc. Nếu bị thiệt hại tại đơn vị đó, cả hai công ty cùng bồi thường, bạn có thể đòi bất kỳ bên nào. Trong những tháng không có việc sau khi bị gửi trả, công ty cho thuê lại lao động vẫn phải trả theo mức lương tối thiểu.",
+    "benefit": "Luật Hợp đồng lao động quy định công ty cho thuê lại lao động là người sử dụng lao động của bạn, phải ký với bạn hợp đồng có thời hạn từ 2 năm trở lên và trả lương hằng tháng. Trong thời gian chưa cử bạn đi làm, công ty phải trả hằng tháng theo mức lương tối thiểu địa phương. Công ty phải cho bạn biết nội dung thỏa thuận cho thuê lại lao động và không được giữ lại tiền lương mà đơn vị nơi bạn làm, theo thuật ngữ pháp lý là đơn vị tiếp nhận lao động, trả cho bạn. Cả hai bên đều không được thu phí của bạn. Người được cho thuê lại có quyền được trả công ngang nhau cho công việc ngang nhau với nhân viên của đơn vị tiếp nhận. Đơn vị tiếp nhận phải dùng cùng cách phân phối tiền công cho các vị trí tương tự. Nếu không có vị trí tương tự, phải tham chiếu mức trả công cho vị trí giống hoặc gần giống tại địa phương. Đơn vị tiếp nhận phải trả tiền làm thêm, thưởng theo hiệu quả công việc và cung cấp phúc lợi gắn với vị trí, không được phân biệt đối xử với lao động được cho thuê lại. Nếu sử dụng lao động liên tục, phải điều chỉnh lương bình thường. Chỉ được sử dụng lao động cho thuê lại ở vị trí tạm thời, hỗ trợ hoặc thay thế; vị trí tạm thời là vị trí tồn tại không quá 6 tháng. Số lao động thuê lại không được vượt 10% tổng số lao động của đơn vị tiếp nhận. Nếu đơn vị tiếp nhận gây thiệt hại cho lao động thuê lại, công ty cho thuê lại và đơn vị tiếp nhận chịu trách nhiệm bồi thường liên đới. Liên đới nghĩa là bạn có thể đòi một trong hai bên bồi thường toàn bộ, hoặc đòi cả hai bên. Khi bạn có tranh chấp lao động với bất kỳ bên nào, cả hai đều là đồng đương sự trong quá trình trọng tài giải quyết. Nếu bị thương do công việc tại đơn vị tiếp nhận, công ty cho thuê lại phải nộp đơn xin công nhận tai nạn lao động và chịu trách nhiệm về bảo hiểm tai nạn lao động; đơn vị tiếp nhận phải hỗ trợ điều tra. Đơn vị tiếp nhận chỉ được gửi trả bạn trong một số trường hợp pháp luật quy định. Dù mang danh nghĩa nhận thầu hay thuê ngoài, nếu thực tế sử dụng lao động theo hình thức cho thuê lại thì vẫn xử lý theo quy định về cho thuê lại lao động (toàn Trung Quốc; quy định tạm thời có hiệu lực từ ngày 1 tháng 3 năm 2014).",
+    "notes": "Trả công ngang nhau cho công việc ngang nhau được xét theo việc có dùng cùng cách phân phối tiền công cho vị trí tương tự hay không, không bảo đảm mỗi người nhận số tiền giống nhau từng đồng. Sau khi bạn bị gửi trả, nếu công ty cho thuê lại muốn cử bạn đi nơi khác với điều kiện thấp hơn hợp đồng cũ và bạn không đồng ý, công ty không được chấm dứt hợp đồng vì lý do đó. Khi công ty cho thuê lại chấm dứt hợp đồng với bạn theo các trường hợp luật định, phải trả trợ cấp kinh tế khi chấm dứt hợp đồng; cách tính xem mục 4 của chương này (bị cắt giảm nhân sự thì trước tiên tính rõ N). Bị thương tại đơn vị tiếp nhận thì trước tiên yêu cầu công ty cho thuê lại khai báo tai nạn lao động. Nếu công ty không khai báo, bạn tự khai báo; xem mục 11 của chương này (làm thủ tục công nhận tai nạn lao động). Lương bị khấu trừ hoặc bị nợ thì xem chương 7 mục 2 (bị nợ lương thì trước tiên khiếu nại với thanh tra lao động). Mức lợi ích được xếp trung bình theo nhận định: phần tiền chênh lệch để bảo đảm trả công ngang nhau và mức thiệt hại khác nhau tùy người, không có con số thống nhất.",
+    "extra": ""
+  }
+}

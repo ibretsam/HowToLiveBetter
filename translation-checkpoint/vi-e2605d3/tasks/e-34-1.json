@@ -1,0 +1,35 @@
+{
+  "id": "e-34-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "fd34abbed82cdd4df7f15a0e68e3174e6bed98926b2100fdf5255594a75601ec",
+  "original": {
+    "number": 1,
+    "title": "同时吃两种感冒药或止痛药之前，先看成分表，对乙酰氨基酚只能占一种，吃多了没不舒服也当天去医院",
+    "fields": {
+      "cost": "不花钱。看一眼每盒药的成分表，一两分钟。",
+      "plain": "很多感冒药里有对乙酰氨基酚，两盒一起吃就是吃了双份，过量会伤肝。在美国，它造成的急性肝衰竭病人里，近三成没等到换肝就死了。国内说明书建议一天最多吃 2 克，美国还提醒用药时每天别喝 3 杯以上的酒。吃多了没有不舒服也要马上去医院，解毒药越早用越好。",
+      "benefit": "美国 22 家医院用 6 年时间连续登记了 662 例急性肝衰竭。其中 275 例（42%）是对乙酰氨基酚造成的，吞下的剂量中位数是 24 克。这 275 人里，131 人（48%）是不小心吃多的，不是故意。不小心吃多的人里，38% 同时吃了两种以上含这个成分的药。这 275 人里，27% 没等到换肝就死了，8% 做了肝移植。国家药监局 2020 年要求非处方药说明书写明：过量使用会引起严重肝损伤，建议一日最大量不超过 2 克。说明书还要写明，尽量避免和含对乙酰氨基酚或其他解热镇痛药的药品合用。美国法规要求这类非处方药在警示第一条写明三种伤肝情形：超过一天最大量，和其他含对乙酰氨基酚的药同吃，用药期间每天喝 3 杯以上的酒。药监局同一份公告还要求，缓释制剂说明书写明：成人或儿童过量服用，不管有没有不舒服，都要立即就诊。解毒药叫 N-乙酰半胱氨酸，说明书写明要尽早用，12 小时内用效果满意，超过 24 小时效果较差。美国 1976 到 1985 年的多中心研究跟踪了 2540 个用这种解毒药的过量病人。按血药浓度判断可能伤肝的病人里，10 小时内开始用药的，6.1% 出现肝损伤。10 到 24 小时才开始用的，26.4% 出现肝损伤。过量后 8 小时内开始用，不管血药浓度多高都有保护作用。",
+      "grade": "B",
+      "sources": "Larson AM, Polson J, Fontana RJ, et al.; Acute Liver Failure Study Group (2005). Acetaminophen-induced acute liver failure: results of a United States multicenter, prospective study. Hepatology, 42(6):1364-1372. <https://doi.org/10.1002/hep.20948>；国家药监局关于修订对乙酰氨基酚常释及缓释制剂说明书的公告（2020年第15号）及附件1《对乙酰氨基酚常释制剂处方药说明书修订要求》、附件2《对乙酰氨基酚常释制剂非处方药说明书修订要求》、附件3《对乙酰氨基酚缓释制剂说明书修订要求》（湖南省药品监督管理局转载）. <http://mpa.hunan.gov.cn/mpa/xxgk/tzgg/wjtz/202003/t20200311_11809335.html>；21 CFR 201.326(a)(1)(iii)(A) Liver warning. <https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.326>；Smilkstein MJ, Knapp GL, Kulig KW, Rumack BH (1988). Efficacy of oral N-acetylcysteine in the treatment of acetaminophen overdose: analysis of the national multicenter study (1976 to 1985). New England Journal of Medicine, 319(24):1557-1562. <https://doi.org/10.1056/NEJM198812153192401>；MedlinePlus. Acetaminophen (In case of emergency/overdose). <https://medlineplus.gov/druginfo/meds/a681004.html>",
+      "notes": "对乙酰氨基酚也叫扑热息痛。复方感冒药的通用名里带「氨酚」两个字的，比如氨酚伪麻、氨咖黄敏，就含这个成分。拿不准就把几盒药都拿给药店的药师看。定 B 是因为美国那组数字是病例登记，没有对照组，算不出看了成分表能少出多少事。收益定「大」是按后果定的：急性肝衰竭里有近三成直接死亡。解毒药越早越好的数字来自没有随机分组的多中心观察，只和过去的病例比过。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi dùng đồng thời hai loại thuốc cảm hoặc giảm đau, hãy xem thành phần: chỉ một loại được chứa paracetamol; nếu uống quá liều, hãy đến bệnh viện ngay trong ngày dù chưa thấy khó chịu",
+    "cost": "Không tốn tiền. Xem thành phần trên từng hộp thuốc, mất một hai phút.",
+    "plain": "Nhiều thuốc cảm có chứa paracetamol; uống cùng lúc hai loại có chất này là dùng gấp đôi, quá liều sẽ gây hại gan. Trong những bệnh nhân suy gan cấp do thuốc này ở Mỹ, gần ba phần mười tử vong trước khi kịp ghép gan. Hướng dẫn sử dụng tại Trung Quốc khuyến nghị tối đa 2 gram mỗi ngày; Mỹ còn cảnh báo không uống từ 3 ly rượu trở lên mỗi ngày trong thời gian dùng thuốc. Nếu uống quá liều, hãy đến bệnh viện ngay dù chưa thấy khó chịu, vì thuốc giải độc dùng càng sớm càng tốt.",
+    "benefit": "Trong 6 năm, 22 bệnh viện Mỹ ghi nhận liên tiếp 662 ca suy gan cấp. Trong đó, 275 ca (42%) do paracetamol, với liều đã uống có trung vị là 24 gram. Trong 275 người này, 131 người (48%) vô tình uống quá liều, không phải cố ý. Trong nhóm vô tình uống quá liều, 38% dùng đồng thời từ hai loại thuốc chứa thành phần này trở lên. Trong 275 người, 27% tử vong trước khi kịp ghép gan và 8% được ghép gan. Năm 2020, Cục Quản lý Dược phẩm Quốc gia Trung Quốc yêu cầu hướng dẫn sử dụng thuốc không kê đơn ghi rõ: dùng quá liều sẽ gây tổn thương gan nghiêm trọng, khuyến nghị liều tối đa một ngày không vượt quá 2 gram. Hướng dẫn cũng phải ghi rõ cần cố gắng tránh dùng chung với thuốc chứa paracetamol hoặc các thuốc hạ sốt, giảm đau khác. Quy định của Mỹ yêu cầu cảnh báo đầu tiên trên thuốc không kê đơn loại này phải nêu ba tình huống gây hại gan: vượt liều tối đa một ngày, dùng cùng thuốc khác chứa paracetamol, hoặc uống từ 3 ly rượu trở lên mỗi ngày trong thời gian dùng thuốc. Cũng trong thông báo đó, cơ quan quản lý dược yêu cầu hướng dẫn của dạng giải phóng kéo dài phải ghi: người lớn hay trẻ em uống quá liều đều phải đi khám ngay, bất kể có thấy khó chịu hay không. Thuốc giải độc tên là N-acetylcysteine. Hướng dẫn sử dụng ghi cần dùng càng sớm càng tốt; dùng trong vòng 12 giờ cho hiệu quả tốt, còn sau 24 giờ hiệu quả kém hơn. Một nghiên cứu tại nhiều trung tâm ở Mỹ từ năm 1976 đến 1985 theo dõi 2540 bệnh nhân quá liều được dùng thuốc giải độc này. Trong những bệnh nhân được đánh giá có khả năng tổn thương gan dựa trên nồng độ thuốc trong máu, 6.1% số người bắt đầu dùng thuốc giải độc trong vòng 10 giờ bị tổn thương gan. Ở những người đến khoảng 10 đến 24 giờ mới bắt đầu dùng, tỷ lệ này là 26.4%. Bắt đầu dùng trong vòng 8 giờ sau khi quá liều có tác dụng bảo vệ, bất kể nồng độ thuốc trong máu cao đến đâu.",
+    "notes": "Paracetamol còn gọi là acetaminophen, tiếng Trung là 对乙酰氨基酚 hoặc 扑热息痛. Thuốc cảm phối hợp có hai chữ “氨酚” trong tên chung, chẳng hạn 氨酚伪麻 hoặc 氨咖黄敏, đều chứa thành phần này. Nếu không chắc, hãy mang tất cả các hộp thuốc cho dược sĩ ở hiệu thuốc xem. Xếp mức B vì số liệu của Mỹ là dữ liệu ghi nhận ca bệnh, không có nhóm đối chứng nên không tính được xem thành phần sẽ tránh được bao nhiêu sự cố. Lợi ích được xếp “lớn” dựa trên hậu quả: gần ba phần mười bệnh nhân suy gan cấp tử vong trực tiếp. Số liệu cho thấy thuốc giải độc dùng càng sớm càng tốt đến từ nghiên cứu quan sát tại nhiều trung tâm, không chia nhóm ngẫu nhiên và chỉ so sánh với các ca bệnh trước đó.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-32-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/32-出国留学.md",
+  "source_sha256": "34e9d1862c9deab9cc6224a4cbdb74f5c4cf673cf7cbe94eb003bf14c5ea41cd",
+  "original": {
+    "number": 8,
+    "title": "英国：签证费之外还有一笔按年收的医疗附加费，学生每年 776 英镑，申请时一次付清",
+    "fields": {
+      "cost": "签证费 558 英镑。医疗附加费每年 776 英镑。两笔都在申请时一次交清",
+      "plain": "去英国要交的钱不止签证费。还要按签证年数预交医疗附加费，交了才能用英国的国民医疗服务。两年的签证就是一次交 1552 英镑。再加上签证费，出发前这一笔要一次交清，做预算别漏了。",
+      "benefit": "英国学生签证的费用是 558 英镑。在英国境外申请、在境内延期或者转换，都是这个数。另外还有医疗附加费，交了才能用英国的国民医疗服务，按签证年数在申请时一次预交。学生本人和他的家属是每年 776 英镑，比如 2 年的签证就是 1552 英镑。其他类别的申请人是每年 1035 英镑。签证超过 6 个月、不足 1 年的，按整年收取",
+      "grade": "A",
+      "sources": "UK Government. Student visa. <https://www.gov.uk/student-visa>；UK Government. Pay for UK healthcare as part of your immigration application. <https://www.gov.uk/healthcare-immigration-application>",
+      "notes": "金额和汇率都会变，按来源里那两个页面上的当期数字算。读学位课程、年满 18 岁的，一般最长能待 5 年，学位以下的是 2 年。按这个年数估算要交多少附加费。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tại Anh: ngoài phí thị thực còn có phụ phí y tế tính theo năm; sinh viên đóng 776 bảng mỗi năm, thanh toán toàn bộ khi nộp đơn",
+    "cost": "Phí thị thực 558 bảng Anh. Phụ phí y tế 776 bảng Anh mỗi năm. Cả hai khoản đều nộp toàn bộ khi xin thị thực.",
+    "plain": "Sang Anh không chỉ phải trả phí thị thực mà còn phải nộp trước phụ phí y tế theo số năm thị thực để sử dụng Dịch vụ Y tế Quốc gia Anh. Thị thực hai năm nghĩa là đóng một lần 1552 bảng Anh. Cộng với phí thị thực, đây là khoản phải thanh toán toàn bộ trước khi đi, đừng bỏ sót khi lập ngân sách.",
+    "benefit": "Phí thị thực sinh viên Anh là 558 bảng Anh, dù nộp đơn từ ngoài Anh hay gia hạn, chuyển diện trong Anh. Ngoài ra còn có phụ phí y tế để được sử dụng Dịch vụ Y tế Quốc gia Anh, nộp trước một lần theo số năm thị thực khi nộp đơn. Sinh viên và thân nhân đóng 776 bảng Anh mỗi năm; chẳng hạn thị thực 2 năm là 1552 bảng Anh. Người nộp đơn thuộc các diện khác đóng 1035 bảng Anh mỗi năm. Thị thực dài hơn 6 tháng nhưng chưa đủ 1 năm được tính phí cả năm.",
+    "notes": "Số tiền và tỷ giá đều có thể thay đổi; hãy tính theo số liệu hiện thời trên hai trang trong phần nguồn. Người học chương trình cấp bằng đại học, từ đủ 18 tuổi, thường được ở tối đa 5 năm; chương trình dưới bậc đại học là 2 năm. Dùng số năm này để ước tính phụ phí cần đóng.",
+    "extra": ""
+  }
+}

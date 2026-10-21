@@ -1,0 +1,35 @@
+{
+  "id": "e-15-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "28d8405a79e8b14e9537f6dbd49a0f2063ad7217c82f69858a8f3e7c9b3b66d3",
+  "original": {
+    "number": 2,
+    "title": "被断水断电、换锁、上门威胁赶人，先报警留证：法规禁止用这些方式逼你腾房",
+    "fields": {
+      "cost": "不花钱。打个电话报警，当场就能做",
+      "plain": "房东不能靠断水断电、换锁、上门威胁逼你解约或者搬走，法规明令禁止。遇上了先报警，把证据留下。不要自己动手和对方对抗。",
+      "benefit": "行政法规写得很明白：「出租人不得采取暴力、威胁或者其他非法方式迫使承租人解除住房租赁合同或者腾退租赁住房。」腾退就是让你搬走。遇到这类情况先报警，把证据留下。不要自己动手对抗",
+      "grade": "A",
+      "sources": "国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十二条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>",
+      "notes": "报警是为了留下出警记录，以后要求赔损失时它就是证据。同时通知房屋租赁管理部门"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị cắt nước, cắt điện, thay khóa hoặc đến tận nơi đe dọa đuổi đi, trước hết báo công an và lưu bằng chứng: quy định cấm dùng các cách này ép bạn trả nhà",
+    "cost": "Không tốn tiền. Gọi điện báo công an, có thể làm ngay tại chỗ",
+    "plain": "Chủ nhà không được cắt nước, cắt điện, thay khóa hay đến tận nơi đe dọa để ép bạn chấm dứt hợp đồng hoặc chuyển đi; quy định cấm rõ những hành vi này. Gặp chuyện đó, trước hết báo công an và giữ bằng chứng. Đừng tự dùng vũ lực đối đầu với họ.",
+    "benefit": "Quy định hành chính ghi rất rõ: “Bên cho thuê không được dùng bạo lực, đe dọa hoặc các phương thức trái pháp luật khác để ép bên thuê chấm dứt hợp đồng thuê nhà hoặc trả lại nhà thuê.” Trả lại nhà nghĩa là buộc bạn chuyển đi. Gặp tình huống này, trước hết báo công an và giữ bằng chứng. Đừng tự dùng vũ lực đối đầu",
+    "notes": "Báo công an để có hồ sơ về việc công an đến xử lý; sau này yêu cầu bồi thường thiệt hại thì đó là bằng chứng. Đồng thời thông báo cho cơ quan quản lý cho thuê nhà",
+    "extra": ""
+  }
+}

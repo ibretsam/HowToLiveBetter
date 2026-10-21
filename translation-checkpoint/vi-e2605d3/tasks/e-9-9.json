@@ -1,0 +1,35 @@
+{
+  "id": "e-9-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "3992894736a09e083711635ca05a2d92e451c911e8bbd05e1438b9d21ae5641d",
+  "original": {
+    "number": 9,
+    "title": "阳台、窗户不往外扔任何东西，烟头、垃圾袋、酒瓶都算",
+    "fields": {
+      "cost": "不花钱，也不费时间。烟头、垃圾袋、酒瓶都拿到屋里的垃圾桶扔，不从窗口和阳台往外丢。",
+      "plain": "往楼下扔东西，没砸到人也能拘留 5 日以下或者罚 1000 元以下，情节严重的拘留 10 到 15 日。砸到人就换罪名了：有人在 21 楼酒后把空酒瓶、玻璃杯扔到楼下操场，砸中 13 岁学生致重伤，判 10 年。还有人从 32 楼扔 8 块砖头砸死 1 人，2024 年被核准死刑。",
+      "benefit": "从楼上或者其他高处往下扔东西，只要有伤到人、砸坏财物或者危及公共安全的危险，就可以拘留 5 日以下，或者罚 1000 元以下。情节严重的拘留 10 到 15 日，还可以再罚 1000 元以下。情节严重到构成高空抛物罪的，判 1 年以下，并处或者单处罚金（判刑的同时罚钱，也可能只罚钱）。砸伤砸死人的，按更重的罪名处理。官方案例：李某晨在 21 楼酒后把空酒瓶、玻璃杯扔到楼下操场，砸中 13 岁学生致重伤二级。他以危险方法危害公共安全罪被判 10 年。周某从 32 楼向人群投掷 8 块砖头砸死 1 人，2024 年最高法核准死刑（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第四十三条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大常委会 (2020). 刑法修正案（十一）（第三十三条，即刑法第二百九十一条之二）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百九十一条之二）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院 (2024). 依法惩治危害公共安全犯罪典型案例（案例一）. <https://www.court.gov.cn/zixun/xiangqing/429522.html>；最高人民法院 (2025). 专访最高法副院长李勇：让高空抛物行为人都能被处罚. <https://www.court.gov.cn/zixun/xiangqing/458381.html>",
+      "notes": "没砸到人也能拘留，条文只要求「有危险」。民法典对高空抛物另有一条民事赔偿规定（第一千二百五十四条）。本节写作时没能打开原文，所以没有引用。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không ném bất cứ thứ gì ra ngoài ban công, cửa sổ, kể cả đầu thuốc lá, túi rác hay chai rượu",
+    "cost": "Không tốn tiền, cũng không mất thời gian. Đầu thuốc lá, túi rác, chai rượu đều mang bỏ vào thùng rác trong nhà, không ném qua cửa sổ hay ban công.",
+    "plain": "Ném đồ xuống dưới, chưa trúng người vẫn có thể bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ; tình tiết nghiêm trọng thì tạm giữ hành chính từ 10 đến 15 ngày. Trúng người thì đổi sang tội khác: có người sau khi uống rượu ném chai rượu rỗng, cốc thủy tinh từ tầng 21 xuống sân vận động bên dưới, trúng học sinh 13 tuổi gây thương tích nặng, bị phạt tù 10 năm. Có người khác ném 8 viên gạch từ tầng 32 làm chết 1 người, được phê chuẩn án tử hình năm 2024.",
+    "benefit": "Ném đồ từ tầng nhà hoặc nơi cao khác xuống, chỉ cần có nguy cơ làm người bị thương, hư hại tài sản hoặc đe dọa an toàn công cộng là có thể bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Tình tiết nghiêm trọng thì tạm giữ hành chính từ 10 đến 15 ngày, còn có thể phạt thêm không quá 1000 nhân dân tệ. Tình tiết nghiêm trọng đến mức cấu thành tội ném vật từ trên cao thì bị phạt tù không quá 1 năm, kèm phạt tiền hoặc chỉ phạt tiền (vừa chịu hình phạt vừa nộp phạt, cũng có thể chỉ bị phạt tiền). Làm người bị thương hoặc chết thì xử lý theo tội nặng hơn. Vụ việc chính thức: Lý Mỗ Thần sau khi uống rượu ném chai rượu rỗng, cốc thủy tinh từ tầng 21 xuống sân vận động bên dưới, trúng học sinh 13 tuổi gây thương tích nặng cấp hai. Người này bị phạt tù 10 năm về tội dùng phương pháp nguy hiểm gây nguy hại an toàn công cộng. Một người họ Chu ném 8 viên gạch từ tầng 32 vào đám đông, làm chết 1 người; năm 2024, Tòa án Nhân dân Tối cao phê chuẩn án tử hình (toàn Trung Quốc).",
+    "notes": "Chưa trúng người vẫn có thể bị tạm giữ hành chính; điều luật chỉ yêu cầu “có nguy cơ”. Bộ luật Dân sự còn có một điều riêng về bồi thường dân sự khi ném vật từ trên cao (điều một nghìn hai trăm năm mươi tư). Khi viết chương này không mở được nguyên văn nên không trích dẫn.",
+    "extra": ""
+  }
+}

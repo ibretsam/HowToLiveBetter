@@ -1,0 +1,35 @@
+{
+  "id": "e-2-22",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "d0d37ba34947c4c26ae1efa0a3e0c990bcf183df33d020bcae911b7e994fd16e",
+  "original": {
+    "number": 22,
+    "title": "每天吃一小把坚果",
+    "fields": {
+      "cost": "每天吃 28 克，一年约两三百元。顺手就吃，不占时间。",
+      "plain": "常吃坚果的人，同期死亡的概率比不吃的人低约两成。一周吃一次就能看出差别，低约一成。吃到每天一把，差别最明显。",
+      "benefit": "两项美国跟踪研究，11.9 万人，300 多万人年。人年就是人数乘以各自跟踪的年数。和不吃坚果的人比：每周吃不到 1 次的人死亡风险低约 7%（风险比 0.93，95% CI 0.90–0.96，这是可信范围）。每周吃 1 次的低约 11%（0.89，0.86–0.93）。每周 2–4 次的低约 13%（0.87，0.83–0.90）。每周 5–6 次的低约 15%（0.85，0.79–0.91）。每周 7 次以上的低约 20%（0.80，0.73–0.86）",
+      "grade": "A",
+      "sources": "Bao Y, Han J, Hu FB, et al. (2013). Association of nut consumption with total and cause-specific mortality. New England Journal of Medicine, 369(21), 2001-2011. <https://doi.org/10.1056/NEJMoa1307352>",
+      "notes": "买原味不加盐的。坚果热量不低，别当零食敞开吃。要注意这类研究只是长期跟踪一群人，吃坚果的人整体生活方式更好，所以数字要打个折"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mỗi ngày ăn một nắm nhỏ hạt",
+    "cost": "Ăn 28 gam mỗi ngày, khoảng hai ba trăm nhân dân tệ mỗi năm. Tiện tay ăn, không tốn thời gian.",
+    "plain": "Người thường ăn hạt có khả năng tử vong trong cùng thời gian thấp hơn khoảng một phần năm so với người không ăn. Ăn một lần mỗi tuần đã thấy khác biệt, thấp hơn khoảng một phần mười. Đến mức mỗi ngày một nắm thì khác biệt rõ nhất.",
+    "benefit": "Hai nghiên cứu theo dõi ở Mỹ gồm 11.9 vạn người, hơn 300 vạn người-năm. Người-năm là số người nhân với số năm theo dõi của từng người. So với người không ăn hạt: người ăn chưa đến 1 lần mỗi tuần có nguy cơ tử vong thấp hơn khoảng 7% (tỷ số nguy cơ 0.93, 95% CI 0.90–0.96, đây là khoảng tin cậy); ăn 1 lần mỗi tuần thấp hơn khoảng 11% (0.89, 0.86–0.93); ăn 2–4 lần mỗi tuần thấp hơn khoảng 13% (0.87, 0.83–0.90); ăn 5–6 lần thấp hơn khoảng 15% (0.85, 0.79–0.91); ăn từ 7 lần trở lên mỗi tuần thấp hơn khoảng 20% (0.80, 0.73–0.86).",
+    "notes": "Mua loại nguyên vị, không thêm muối. Hạt không ít năng lượng, đừng ăn thoải mái như quà vặt. Cần nhớ loại nghiên cứu này chỉ theo dõi một nhóm người lâu dài; người ăn hạt có lối sống tổng thể tốt hơn, nên cần thận trọng với mức lợi ích trong con số.",
+    "extra": ""
+  }
+}

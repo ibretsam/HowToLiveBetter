@@ -1,0 +1,35 @@
+{
+  "id": "e-28-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "2784f750e6bd3b8dfa6efe079079b407b1fb918367ffe97c64cf780add92997c",
+  "original": {
+    "number": 7,
+    "title": "性激素类药只在医生开方并定期复查的前提下用，不要网购、不要自己加量",
+    "fields": {
+      "cost": "定期挂号，加上抽血复查。一年几百元，占掉几个半天。",
+      "plain": "不讨论该不该用，只讨论怎么用。用雌激素的跨性别女性，血管里长血块的比同龄人明显多，每一千人两年多出约 4 个，八年多出约 17 个。这类风险得靠定期复查盯着，网购药、自己调量就没人替你查。",
+      "benefit": "研究者从 Kaiser Permanente 这家医疗集团的电子病历里跟踪了一批人。其中 2,842 名跨性别女性、2,118 名跨性别男性。平均跟踪 4.0 年与 3.6 年。每个人都按出生年、种族、就诊点和入组时间配了约 10 倍的顺性别对照，一共 48,686 名顺性别男性与 48,775 名顺性别女性。跨性别女性的静脉血栓栓塞（血管里长血块堵住）比对照多。和顺性别男性比，2 年是每 1000 人 4.1 例（95% CI 1.6–6.7）。8 年是 16.7 例（6.4–27.5）。算下来，1000 个人里两年多出 4.1 例，八年多出 16.7 例。和顺性别女性比，这两个数是 3.4（1.1–5.6）与 13.7（4.1–22.7）。缺血性卒中（血管堵住那一类中风）与心肌梗死总体各组接近。但在跟踪期内才开始激素治疗的跨性别女性中，静脉血栓与缺血性卒中的差异更明显。跨性别男性的证据不够，下不了结论。作者结论为「这些结果可能提示需要长期警惕跨性别激素中雌激素的血管副作用」",
+      "grade": "A",
+      "sources": "Getahun D et al. (2018). Cross-sex Hormones and Acute Cardiovascular Events in Transgender Persons: A Cohort Study. Ann Intern Med. <https://doi.org/10.7326/M17-2785>；国家市场监督管理总局 (2022). 药品网络销售监督管理办法（总局令第 58 号，第九条）. <https://www.gov.cn/gongbao/content/2022/content_5717002.htm>",
+      "notes": "研究者自己写明了这项研究的短处：有多少人是在医院系统外自己买的药，他们查不到。所以「有没有用药」这条线本来就划不干净。这反过来正说明，用药该放进正规随访里。这项研究看的只是血管出没出事，不回答激素治疗该不该用、用了有什么好处，那是另一套证据。所有用到性激素的场合都一样，包括避孕药、更年期激素治疗、睾酮补充。凡是自己网购、照着网帖调量、从不查血栓和肝肾指标的，风险都出在「没人盯着」这一段，不是出在为什么用药上。国内的正规路子是去正规医疗机构的内分泌科或者相应专科，做评估、开方、复查。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chỉ dùng thuốc hormone sinh dục khi bác sĩ kê và tái khám định kỳ; đừng mua mạng, đừng tự tăng liều",
+    "cost": "Đăng ký khám định kỳ và xét nghiệm máu lại. Mỗi năm vài trăm nhân dân tệ, mất vài buổi nửa ngày.",
+    "plain": "Ở đây không bàn có nên dùng, chỉ bàn cách dùng. Phụ nữ chuyển giới dùng estrogen có cục máu đông trong mạch nhiều hơn rõ so với người cùng tuổi: mỗi nghìn người thêm khoảng 4 ca trong hai năm, khoảng 17 ca trong tám năm. Nguy cơ này cần theo dõi bằng tái khám định kỳ; mua mạng, tự chỉnh liều thì không ai kiểm tra giúp.",
+    "benefit": "Nhà nghiên cứu theo dõi một nhóm người qua hồ sơ điện tử của tập đoàn y tế Kaiser Permanente, gồm 2,842 phụ nữ chuyển giới và 2,118 nam chuyển giới, thời gian trung bình lần lượt 4.0 và 3.6 năm. Mỗi người được ghép khoảng 10 người hợp giới đối chứng theo năm sinh, chủng tộc, cơ sở khám và thời điểm vào nghiên cứu; tổng cộng 48,686 nam hợp giới và 48,775 nữ hợp giới. Phụ nữ chuyển giới có huyết khối thuyên tắc tĩnh mạch, tức cục máu đông làm tắc mạch, nhiều hơn đối chứng. So với nam hợp giới, mức chênh sau 2 năm là 4.1 ca mỗi 1000 người (95% CI 1.6–6.7), sau 8 năm là 16.7 ca (6.4–27.5). Nghĩa là mỗi 1000 người thêm 4.1 ca trong hai năm, thêm 16.7 ca trong tám năm. So với nữ hợp giới, hai số là 3.4 (1.1–5.6) và 13.7 (4.1–22.7). Đột quỵ thiếu máu cục bộ, tức loại do tắc mạch, và nhồi máu cơ tim nhìn chung tương đương giữa các nhóm. Nhưng ở phụ nữ chuyển giới chỉ bắt đầu hormone trong thời gian theo dõi, chênh lệch huyết khối tĩnh mạch và đột quỵ thiếu máu cục bộ rõ hơn. Bằng chứng ở nam chuyển giới chưa đủ kết luận. Tác giả kết luận kết quả có thể cho thấy cần cảnh giác lâu dài với tác dụng bất lợi mạch máu của estrogen trong điều trị hormone khẳng định giới.",
+    "notes": "Nhà nghiên cứu tự nêu hạn chế: họ không biết bao nhiêu người tự mua thuốc ngoài hệ thống bệnh viện, nên ranh giới có dùng hay không vốn không rõ. Điều này càng cho thấy dùng thuốc nên nằm trong theo dõi chính quy. Nghiên cứu chỉ xem có biến cố mạch máu không, không trả lời có nên điều trị hormone hay có lợi gì; đó là hệ bằng chứng khác. Mọi trường hợp dùng hormone sinh dục đều như vậy, gồm thuốc tránh thai, hormone mãn kinh, bổ sung testosterone. Tự mua mạng, chỉnh liều theo bài đăng, không bao giờ kiểm tra huyết khối và chỉ số gan thận thì nguy cơ nằm ở chỗ không ai theo dõi, không nằm ở lý do dùng thuốc. Con đường chính quy tại Trung Quốc là khoa nội tiết hoặc chuyên khoa phù hợp của cơ sở y tế chính quy để đánh giá, kê đơn, tái khám.",
+    "extra": ""
+  }
+}

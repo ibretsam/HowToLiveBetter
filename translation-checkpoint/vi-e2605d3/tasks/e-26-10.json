@@ -1,0 +1,35 @@
+{
+  "id": "e-26-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/26-做一个网站或平台.md",
+  "source_sha256": "1f0993ac0a7892ab0fba31654b374db221500fc2056914779b6568b815e0ecbf",
+  "original": {
+    "number": 10,
+    "title": "用户信息不要随手放到境外，出境有法定条件和人数门槛",
+    "fields": {
+      "cost": "不花钱。最省事的办法是把用户数据留在境内。确实要传到境外的，走标准合同或者做认证",
+      "plain": "把境内用户的信息传到境外的机器上，就叫出境，服务器放在境外也一样。一般要过网信部门的安全评估，或者做认证、签标准合同。当年累计不满 10 万人、不含敏感信息的，这三样都免。还要告诉用户境外谁收、拿去做什么，并单独征得他同意。",
+      "benefit": "把境内用户的信息交给境外的公司、或者存到境外的机器上，法律上叫向境外提供个人信息，「应当具备」四项条件之一。一是通过网信部门组织的安全评估。二是经专业机构做个人信息保护认证。三是按网信部门制定的标准合同和境外接收方签约。四是法律、行政法规规定的其他条件。同时你要告诉用户这几样：境外接收方的名称、联系方式、处理目的、处理方式、个人信息的种类，以及他怎么行使自己的权利。而且要「取得个人的单独同意」，专门就这件事问用户一次。具体门槛按累计人数分档。普通企业在法规里叫关键信息基础设施运营者以外的数据处理者。这类企业有一条免办的线，原话是「自当年1月1日起累计向境外提供不满10万人个人信息（不含敏感个人信息）的」。到不了这条线，申报评估、订立标准合同、做认证这三样都免了。10 万人以上不满 100 万人的，应当订立标准合同或者通过认证。100 万人以上的，或者敏感个人信息达到 1 万人以上的，应当申报安全评估（全国，2024 年 3 月起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2021). 个人信息保护法（第三十八、三十九、四十条）. <https://www.spp.gov.cn/spp/fl/202108/t20210820_527244.shtml> ; 国家互联网信息办公室 (2024). 促进和规范数据跨境流动规定（网信办令第 16 号，第三、四、五、七、八条）. <https://www.gov.cn/gongbao/2024/issue_11366/202405/content_6954192.html> ; 国家互联网信息办公室 (2022). 数据出境安全评估办法（网信办令第 11 号，第四条）. <https://www.cac.gov.cn/2022-07/07/c_1658811536396503.htm>",
+      "notes": "服务器放境外不等于「数据没出境」。用户在境内注册，你把他的信息传到境外的机器上，这就是出境。有一类不用走安全评估、认证、标准合同这三条路：跨境购物、跨境寄递、订机票酒店，这些是「为订立、履行个人作为一方当事人的合同」确实必须传的。还要注意人数怎么算：按「自当年 1 月 1 日起累计」算，不是从今天往回数十二个月"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không tùy tiện đưa thông tin người dùng ra nước ngoài; chuyển ra ngoài có điều kiện luật định và ngưỡng số người",
+    "cost": "Không tốn tiền. Cách ít việc nhất là giữ dữ liệu người dùng trong nước. Thực sự cần chuyển ra nước ngoài thì làm hợp đồng tiêu chuẩn hoặc chứng nhận.",
+    "plain": "Chuyển thông tin người dùng trong nước đến máy ở nước ngoài là đưa dữ liệu ra nước ngoài; đặt máy chủ ở ngoài cũng vậy. Thường phải qua đánh giá an ninh của cơ quan quản lý không gian mạng, làm chứng nhận hoặc ký hợp đồng tiêu chuẩn. Tổng cộng trong năm chưa đủ 10 vạn người, không gồm thông tin nhạy cảm, thì được miễn cả ba. Còn phải báo người dùng ai nhận ở nước ngoài, dùng làm gì và xin riêng sự đồng ý.",
+    "benefit": "Giao thông tin người dùng trong nước cho công ty nước ngoài hoặc lưu ở máy nước ngoài, về pháp luật gọi là cung cấp thông tin cá nhân ra nước ngoài, ‘phải đáp ứng’ một trong bốn điều kiện. Thứ nhất, qua đánh giá an ninh do cơ quan quản lý không gian mạng tổ chức. Thứ hai, được tổ chức chuyên môn chứng nhận bảo vệ thông tin cá nhân. Thứ ba, ký với bên nhận ở nước ngoài theo hợp đồng tiêu chuẩn do cơ quan quản lý không gian mạng ban hành. Thứ tư, điều kiện khác do luật, quy định hành chính quy định. Đồng thời phải cho người dùng biết tên, liên hệ của bên nhận ở nước ngoài, mục đích, cách xử lý, loại thông tin cá nhân và cách họ thực hiện quyền của mình. Còn phải ‘được cá nhân đồng ý riêng’, tức hỏi người dùng riêng về việc này. Ngưỡng cụ thể chia theo tổng số người. Doanh nghiệp thông thường được gọi trong quy định là bên xử lý dữ liệu không thuộc nhóm vận hành hạ tầng thông tin trọng yếu. Nhóm này có ngưỡng miễn: ‘từ ngày 1 tháng 1 năm đó, tổng cộng cung cấp ra nước ngoài thông tin cá nhân của chưa đủ 10 vạn người, không gồm thông tin cá nhân nhạy cảm’. Chưa đạt ngưỡng thì được miễn cả khai báo đánh giá, ký hợp đồng tiêu chuẩn và làm chứng nhận. Từ 10 vạn đến dưới 100 vạn người thì phải ký hợp đồng tiêu chuẩn hoặc được chứng nhận. Từ 100 vạn người trở lên hoặc thông tin nhạy cảm đạt từ 1 vạn người trở lên thì phải khai báo đánh giá an ninh (toàn quốc, từ tháng 3 năm 2024).",
+    "notes": "Máy chủ ở nước ngoài không có nghĩa ‘dữ liệu chưa ra nước ngoài’. Người dùng đăng ký trong nước, bạn truyền thông tin sang máy ở nước ngoài thì đó là chuyển ra ngoài. Một nhóm không cần ba đường đánh giá an ninh, chứng nhận, hợp đồng tiêu chuẩn là mua sắm, gửi hàng xuyên biên giới, đặt vé máy bay, khách sạn, khi thực sự cần truyền ‘để giao kết, thực hiện hợp đồng mà cá nhân là một bên’. Chú ý cách đếm: ‘tổng cộng từ ngày 1 tháng 1 của năm đó’, không phải mười hai tháng tính ngược từ hôm nay.",
+    "extra": ""
+  }
+}

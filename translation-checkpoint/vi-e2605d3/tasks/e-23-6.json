@@ -1,0 +1,35 @@
+{
+  "id": "e-23-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "ca23b17e5c5fa9bdc54638c79d60a3cf853267585c15008613297b3d4114c8f9",
+  "original": {
+    "number": 6,
+    "title": "把「读书还是打工」算成一道题：先去打工早挣的三年工资，对上接着读书换来的、往后几十年的年收入差",
+    "fields": {
+      "cost": "不花钱。坐下来算一次，大概半小时。",
+      "plain": "先去打工，能早挣几年工资，但这笔钱只拿一次。接着读书，往后每年都比不读的多挣一些，要连着拿三四十年。所以要把这两笔钱放在一起比。中国城镇多读一年书，一年收入大约高 4.0% 到 10.2%，但这是 2001 年以前的数，只能看个大概。",
+      "benefit": "这是对中国城镇 1988 至 2001 年的估计。多读一年书能让收入高出多少，这叫教育回报率。原文写的是「从 1988 年每受教育一年 4.0% 大幅上升到 2001 年的 10.2%」。涨幅主要发生在 1992 年之后。它反映的是念到大学的人比没念的多挣的那一截（高等教育工资溢价）在变大。这是把「多读一年」折成年收入差时可用的中国本土量级。全球平均值见本节第 7 条（多受一年教育的全球平均回报）",
+      "grade": "B",
+      "sources": "Zhang J, Zhao Y, Park A, Song X (2005). Economic returns to schooling in urban China, 1988 to 2001. Journal of Comparative Economics, 33(4), 730-752. <https://doi.org/10.1016/j.jce.2005.05.008>",
+      "notes": "算之前先扣掉本节第 4 条（中职学费和助学金）那些免学费和助学金，另外还有本节第 2 条（多受一年教育和死亡率）那笔账。数据截至 2001 年，只覆盖城镇，不能直接当今天的数用。本节第 7 条那个全球平均 9% 也一样。这里给的是算法，不是答案：真按这个方法算，结论会因人而异。学费高、专业和岗位对不上、读的年限又长的，算出来可能真不划算。但那只说明这个具体项目不划算，说明不了读书无用。还有几项进不了公式，但确实存在。法定的学历门槛见本节第 5 条（中职的贯通招生和单独考试），抗替代能力见第 10 条（挑抗自动化的技能），还有能不能换行业。受益人是自己"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Biến “học tiếp hay đi làm” thành bài toán: so ba năm lương kiếm sớm khi đi làm với chênh lệch thu nhập hằng năm trong hàng chục năm sau nhờ học tiếp",
+    "cost": "Không tốn tiền. Ngồi tính một lần, khoảng nửa giờ.",
+    "plain": "Đi làm trước giúp kiếm lương sớm vài năm, nhưng khoản đó chỉ có một lần. Học tiếp có thể giúp mỗi năm sau kiếm thêm so với không học, kéo dài ba, bốn chục năm. Vì vậy cần đặt hai khoản cạnh nhau để so. Ở đô thị Trung Quốc, thêm một năm học gắn với thu nhập năm cao hơn khoảng 4.0% đến 10.2%, nhưng đó là số liệu từ năm 2001 trở về trước, chỉ dùng để hình dung mức độ.",
+    "benefit": "Đây là ước tính cho đô thị Trung Quốc giai đoạn 1988 đến 2001. Thêm một năm học làm thu nhập cao hơn bao nhiêu được gọi là tỷ suất lợi ích giáo dục. Nguyên văn viết “tăng mạnh từ 4.0% cho mỗi năm giáo dục vào năm 1988 lên 10.2% năm 2001”. Phần lớn mức tăng diễn ra sau năm 1992. Điều này phản ánh phần lương cao hơn của người học đại học so với người không học, tức phần chênh lệch lương nhờ giáo dục bậc cao, đang lớn lên. Đây là mức ước tính tại Trung Quốc có thể dùng khi quy “thêm một năm học” thành chênh lệch thu nhập năm. Trung bình toàn cầu xem mục 7 của chương này (lợi ích trung bình toàn cầu của thêm một năm giáo dục)",
+    "notes": "Trước khi tính, trừ các khoản miễn học phí và trợ cấp ở mục 4 của chương này (học phí trung cấp nghề và trợ cấp học tập); còn có phần cân nhắc ở mục 2 (thêm một năm học và tử vong). Dữ liệu chỉ đến năm 2001 và chỉ bao phủ đô thị, không thể dùng thẳng làm số liệu hiện nay. Mức trung bình toàn cầu 9% ở mục 7 cũng vậy. Đây là cách tính, không phải đáp án: làm theo thì kết luận sẽ khác nhau tùy người. Học phí cao, ngành không phù hợp vị trí việc làm, thời gian học dài thì có thể thật sự không đáng. Nhưng điều đó chỉ cho thấy chương trình cụ thể ấy không đáng, không chứng minh việc học vô ích. Một số yếu tố không vào được công thức nhưng vẫn tồn tại: ngưỡng học vấn theo luật ở mục 5 (tuyển sinh liên thông và thi riêng của trung cấp nghề), khả năng khó bị thay thế ở mục 10 (chọn kỹ năng khó bị tự động hóa), và khả năng đổi ngành. Người hưởng lợi là bạn",
+    "extra": ""
+  }
+}

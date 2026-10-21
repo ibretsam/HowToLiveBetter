@@ -1,0 +1,35 @@
+{
+  "id": "e-33-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "176361be8f4aa1d9d5acdd59b25360102459390a49782fc212b2e787f2190eab",
+  "original": {
+    "number": 13,
+    "title": "残疾人参加高考可以申请合理便利，用盲文卷的考试时间加一半",
+    "fields": {
+      "cost": "不花钱。要在省里规定的时间内交一次书面申请，还要到现场确认。",
+      "plain": "残疾考生参加高考，可以申请盲文卷、大字卷、免外语听力、单独考场、带助听器和轮椅进场，考试时间也能延长。这些不会自动给，要按省里规定的时间交书面申请，附第二代以上的残疾人证。对结果不服，可以找省教育厅申请复核。",
+      "benefit": "《残疾人参加普通高等学校招生全国统一考试管理规定》第五条列了十二项合理便利。包括为视力残疾考生提供现行盲文试卷、大字号试卷或者普通试卷；为听力残疾考生免除外语听力考试；允许视力残疾考生携带盲文笔、盲文手写板、无存储功能的盲文打字机、无存储功能的电子助视器、盲杖、光学放大镜等辅助器具；允许听力残疾考生携带助听器、人工耳蜗；允许行动不便的考生使用轮椅、助行器，有特殊需要的可以自带特殊桌椅。延长时间的幅度写在第五条第六项：「使用盲文试卷的视力残疾考生的考试时间，在该科目规定考试总时长的基础上延长50%；使用大字号试卷或普通试卷的视力残疾考生、因脑瘫或其他疾病引起的上肢无法正常书写或无上肢考生等书写特别困难考生的考试时间，在该科目规定考试总时长的基础上延长30%」。此外还有优先进入考点考场、单独标准化考场、配备引导辅助人员和手语翻译人员等。第七条规定申请程序：考生按省级教育考试机构规定的时间、地点、方式提出正式书面申请，并提供本人第二代及以上残疾人证；由专家组现场确认并综合评估，省级教育考试机构出具《告知书》。第八条规定，考生对《告知书》有异议，可以向省级教育行政部门提出书面复核申请。第九条规定，免除外语听力的，外语科成绩按「笔试成绩×外语科总分值/笔试部分总分值」计算。第十八条规定，残疾人参加其他国家教育考试需要合理便利的，可以参照本规定执行（全国，2017 年 4 月 7 日发布施行）",
+      "grade": "A",
+      "sources": "教育部、中国残联 (2017). 残疾人参加普通高等学校招生全国统一考试管理规定（教学〔2017〕4 号，第五条、第七条、第八条、第九条、第十八条）. <http://www.gov.cn/zhengce/zhengceku/2017-04/12/content_5650060.htm>",
+      "notes": "申请时间由各省定，写在当年的高考报名办法里，错过就没有了。所以高三上学期就要去省教育考试院官网确认时间。第十八条还规定，研究生考试、成人高考这些国家教育考试，也可以参照申请。上学阶段学校不得拒收那一条见本节第 14 条（学校不得拒收）。受益人是你自己或者你的孩子。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người khuyết tật dự thi tuyển sinh đại học có thể xin điều chỉnh hợp lý; dùng đề chữ nổi được thêm một nửa thời gian làm bài",
+    "cost": "Không tốn tiền. Phải nộp đơn bằng văn bản trong thời gian tỉnh quy định và đến xác nhận trực tiếp.",
+    "plain": "Thí sinh khuyết tật dự kỳ thi tuyển sinh đại học có thể xin đề chữ nổi, đề chữ lớn, miễn phần nghe ngoại ngữ, phòng thi riêng, mang máy trợ thính và xe lăn vào phòng thi, cũng như kéo dài thời gian làm bài. Những điều này không tự động được áp dụng; phải nộp đơn bằng văn bản theo thời gian tỉnh quy định, kèm giấy chứng nhận khuyết tật thế hệ thứ hai trở lên. Nếu không đồng ý với kết quả, có thể đề nghị cơ quan giáo dục cấp tỉnh xem xét lại.",
+    "benefit": "Điều năm Quy định quản lý việc người khuyết tật tham gia kỳ thi thống nhất toàn quốc tuyển sinh vào các trường đại học thông thường liệt kê mười hai biện pháp điều chỉnh hợp lý. Bao gồm cung cấp cho thí sinh khuyết tật thị giác đề thi bằng hệ chữ nổi hiện hành, đề chữ lớn hoặc đề thông thường; miễn phần thi nghe ngoại ngữ cho thí sinh khuyết tật thính giác; cho phép thí sinh khuyết tật thị giác mang dụng cụ hỗ trợ như bút chữ nổi, bảng viết chữ nổi, máy đánh chữ nổi không có chức năng lưu trữ, thiết bị hỗ trợ thị giác điện tử không có chức năng lưu trữ, gậy dành cho người mù và kính lúp quang học; cho phép thí sinh khuyết tật thính giác mang máy trợ thính, thiết bị cấy ốc tai điện tử; cho phép thí sinh khó khăn khi di chuyển sử dụng xe lăn, khung tập đi, và người có nhu cầu đặc biệt được tự mang bàn ghế chuyên dụng. Mức kéo dài thời gian được nêu tại điểm sáu Điều năm: “Thí sinh khuyết tật thị giác sử dụng đề chữ nổi được kéo dài thời gian thi thêm 50% tổng thời gian quy định của môn đó; thí sinh khuyết tật thị giác dùng đề chữ lớn hoặc đề thông thường, thí sinh đặc biệt khó khăn khi viết do chi trên không thể viết bình thường vì bại não hoặc bệnh khác, hoặc không có chi trên, được kéo dài thời gian thi thêm 30% tổng thời gian quy định của môn đó”. Ngoài ra còn có ưu tiên vào điểm thi, phòng thi, phòng thi riêng đạt chuẩn, bố trí người hướng dẫn hỗ trợ và phiên dịch ngôn ngữ ký hiệu. Điều bảy quy định thủ tục xin áp dụng: thí sinh nộp đơn chính thức bằng văn bản theo thời gian, địa điểm và cách thức do cơ quan khảo thí giáo dục cấp tỉnh quy định, đồng thời cung cấp giấy chứng nhận khuyết tật thế hệ thứ hai trở lên của mình; nhóm chuyên gia xác nhận trực tiếp và đánh giá tổng hợp, sau đó cơ quan khảo thí giáo dục cấp tỉnh cấp Giấy thông báo. Điều tám quy định thí sinh có ý kiến khác với Giấy thông báo có thể gửi đơn đề nghị xem xét lại bằng văn bản tới cơ quan quản lý giáo dục cấp tỉnh. Điều chín quy định nếu được miễn phần nghe ngoại ngữ, điểm môn ngoại ngữ được tính bằng “Điểm thi viết × Tổng điểm tối đa môn ngoại ngữ / Tổng điểm tối đa phần thi viết”. Điều mười tám quy định người khuyết tật cần điều chỉnh hợp lý khi tham gia các kỳ thi giáo dục quốc gia khác có thể thực hiện tham chiếu quy định này (toàn Trung Quốc, ban hành và có hiệu lực ngày 7 tháng 4 năm 2017).",
+    "notes": "Thời hạn nộp đơn do mỗi tỉnh quy định trong hướng dẫn đăng ký kỳ thi tuyển sinh đại học của năm đó; bỏ lỡ là không còn cơ hội. Vì vậy, ngay học kỳ đầu năm cuối trung học phổ thông phải vào trang chính thức của viện khảo thí giáo dục cấp tỉnh để xác nhận thời gian. Điều mười tám còn quy định các kỳ thi giáo dục quốc gia như tuyển sinh sau đại học, tuyển sinh đại học dành cho người lớn cũng có thể tham chiếu để xin áp dụng. Quy định trường không được từ chối tiếp nhận học sinh xem mục 14 phần này (trường không được từ chối tiếp nhận). Người hưởng lợi là bạn hoặc con bạn.",
+    "extra": ""
+  }
+}

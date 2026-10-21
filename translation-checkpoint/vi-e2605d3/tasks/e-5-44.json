@@ -1,0 +1,35 @@
+{
+  "id": "e-5-44",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "58dd072b0633d2409af536bc2291d7977aac3c78af4643b9be82fc516fd4ea0a",
+  "original": {
+    "number": 44,
+    "title": "保单上把受益人写成具体的人，出了事记得去领钱：寿险 5 年、其他保险 2 年内要主张",
+    "fields": {
+      "cost": "不花钱。投保时填一次，以后改受益人要书面通知保险公司。",
+      "plain": "没写受益人，或者受益人先走了，保险金就算遗产，要先拿去还去世的人欠的债。受益人写了「妻子某某」，后来离婚了，出事时算没写。家里人要知道有这张保单：寿险从知道出事起 5 年内要去主张，其他保险是 2 年。",
+      "benefit": "保险法规定，受益人由被保险人或者投保人指定。投保人指定的，要经被保险人同意。有三种情况，保险金算被保险人的遗产，按继承的规矩给。一是没指定受益人，或者指定得不清楚。二是受益人死在被保险人前面，又没有别的受益人。三是受益人依法丧失或者放弃受益权，又没有别的受益人。受益人和被保险人在同一件事里去世、分不清先后的，推定受益人先死。算作遗产的钱，要先清偿去世的人欠的税和债，剩下的才分。最高法的解释写明：受益人写成「姓名加身份关系」，出事时身份关系变了，算没指定受益人。改受益人没通知保险公司的，对保险公司不生效。领钱的诉讼时效，人寿保险是 5 年，其他保险是 2 年，都从知道或者应当知道出事那天算起。寿险保额通常在数十万元级，收益因此定为大（全国，2015 年修正、2021 年起）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2015 修正). 中华人民共和国保险法第二十六、三十九、四十一、四十二条. <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf7c4060811>；最高人民法院 (2020 修正). 关于适用《中华人民共和国保险法》若干问题的解释（三）第九条第二款第三项、第十条. <https://flk.npc.gov.cn/detail?id=ff808181799df4000179ac03d7f21115>；全国人大 (2020). 中华人民共和国民法典第一千一百五十九条. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>",
+      "notes": "诉讼时效过了，保险公司可以拒绝给钱，打官司也很难要回来。所以家里人至少要知道你在哪几家公司买过保险。离婚、再婚、孩子出生以后，回头把受益人改一次。人走了以后逐个去取各处的钱，见第 25 节第 9 条（逐个去取）。用死还债这条路走不通，见第 29 节第 13 条（还债）。这条的受益人落在第 ② 档，是你的配偶和孩子。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ghi người thụ hưởng cụ thể trên hợp đồng, xảy ra sự kiện nhớ yêu cầu nhận tiền: nhân thọ trong 5 năm, bảo hiểm khác trong 2 năm",
+    "cost": "Không tốn tiền. Điền một lần khi tham gia, sau này đổi người thụ hưởng phải thông báo bằng văn bản cho công ty.",
+    "plain": "Không ghi người thụ hưởng hoặc người thụ hưởng chết trước thì tiền bảo hiểm thành di sản, trước tiên phải trả nợ người chết. Ghi “vợ tên…” rồi ly hôn thì khi xảy ra sự kiện được tính là chưa chỉ định. Người nhà phải biết có hợp đồng này: nhân thọ phải yêu cầu trong 5 năm từ khi biết sự kiện, bảo hiểm khác 2 năm.",
+    "benefit": "Luật Bảo hiểm quy định người thụ hưởng do người được bảo hiểm hoặc bên mua chỉ định. Bên mua chỉ định phải có người được bảo hiểm đồng ý. Ba trường hợp tiền bảo hiểm thành di sản của người được bảo hiểm, phân theo thừa kế: không chỉ định hoặc chỉ định không rõ; người thụ hưởng chết trước và không còn người thụ hưởng khác; người thụ hưởng mất quyền theo luật hoặc từ bỏ, không còn người khác. Người thụ hưởng và người được bảo hiểm chết trong cùng sự việc, không xác định thứ tự, thì suy đoán người thụ hưởng chết trước. Tiền thành di sản phải trả thuế, nợ của người chết trước, còn lại mới chia. Giải thích của Tòa án Tối cao nêu: ghi người thụ hưởng bằng “họ tên kèm quan hệ thân phận”, mà khi xảy ra sự kiện quan hệ đã đổi, thì coi như không chỉ định. Đổi người thụ hưởng mà không báo công ty thì không có hiệu lực đối với công ty. Thời hiệu khởi kiện đòi tiền của bảo hiểm nhân thọ là 5 năm, bảo hiểm khác 2 năm, đều từ ngày biết hoặc phải biết sự kiện xảy ra. Số tiền nhân thọ thường vài chục vạn nhân dân tệ, nên lợi ích xếp lớn (toàn Trung Quốc, sửa đổi năm 2015, từ năm 2021).",
+    "notes": "Hết thời hiệu, công ty có thể từ chối chi trả, kiện cũng khó lấy lại. Vì vậy người nhà ít nhất phải biết bạn mua tại những công ty nào. Sau ly hôn, tái hôn, sinh con, quay lại cập nhật người thụ hưởng. Sau khi người thân mất, lần lượt nhận tiền ở các nơi xem chương 25 mục 9 (lần lượt đi nhận). Dùng cái chết để trả nợ là con đường không giải quyết được, xem chương 29 mục 13 (trả nợ). Người hưởng lợi thuộc nhóm ②, là vợ hoặc chồng và con của bạn.",
+    "extra": ""
+  }
+}

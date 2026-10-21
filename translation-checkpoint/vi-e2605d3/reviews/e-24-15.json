@@ -1,0 +1,15 @@
+{
+  "id": "e-24-15",
+  "source_sha256": "b7579f3575a9de399405d194b2eaa47701c314eeb1d559c3cb7aa1354c212875",
+  "draft_sha256": "6bdb6c3cf6d42fc297130e52c740777a67bc9ac7f30d997a8effd01f9292549d",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves consent exception, DRG exclusion, penalty ranges, reimbursement-fund recovery versus personal refund distinction and revised extendable statutory trial deadline."
+}

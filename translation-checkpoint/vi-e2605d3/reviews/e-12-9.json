@@ -1,0 +1,15 @@
+{
+  "id": "e-12-9",
+  "source_sha256": "7615ce340ba355d8f63fea9b4767081a4ff57e063c1c7ed6a21720dfe09396ce",
+  "draft_sha256": "72f03a2ad1a6fb3b4cd07dc57a7b82094158d9181fb1315a5e8e3e79fc5732c7",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves current GB 7718-2011 versus future GB 7718-2025 scope, 2027 effective date, food and small-package omissions, defect versus missing-label penalties. Translation review does not independently verify current law or source advice."
+}

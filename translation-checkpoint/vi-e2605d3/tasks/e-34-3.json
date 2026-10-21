@@ -1,0 +1,35 @@
+{
+  "id": "e-34-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "7b005a37ac8ff0f6c8a04e65d5170017ae0ac7f229060764018589d543e4f497",
+  "original": {
+    "number": 3,
+    "title": "60 岁以上、胃出过血、在吃抗凝药或激素的人，吃布洛芬这类止痛药之前先问医生",
+    "fields": {
+      "cost": "不花钱。问一次医生或药师。",
+      "plain": "布洛芬、萘普生、阿司匹林这类止痛药会伤胃。在大剂量的试验里，吃布洛芬的人胃出血、穿孔的风险是不吃的约 4 倍。年纪大、胃出过血、同时吃抗凝药或激素、每天喝 3 杯以上酒的人，风险更高。",
+      "benefit": "这类药叫非甾体抗炎药，常见的有布洛芬、萘普生、双氯芬酸。一项荟萃分析汇总了 280 项这类药对安慰剂的随机试验，共 124513 人。和安慰剂比，上消化道穿孔、梗阻或出血的风险：布洛芬 RR 3.97（95% CI 2.22–7.10，约 4 倍），萘普生 4.22（2.71–6.56），双氯芬酸 1.89（1.16–3.09）。所有这类药都让心力衰竭的风险大约翻倍。美国法规要求这类非处方药写明胃出血警示。警示列出风险更高的六种人：60 岁以上，有过胃溃疡或出血，在吃抗凝药或激素，同时吃别的这类药，用药期间每天喝 3 杯以上的酒，吃得比说明书多或久。",
+      "grade": "A",
+      "sources": "Coxib and traditional NSAID Trialists' (CNT) Collaboration; Bhala N, Emberson J, Merhi A, et al. (2013). Vascular and upper gastrointestinal effects of non-steroidal anti-inflammatory drugs: meta-analyses of individual participant data from randomised trials. Lancet, 382(9894):769-779. <https://doi.org/10.1016/S0140-6736(13)60900-9>；21 CFR 201.326(a)(2)(iii)(A) Stomach bleeding warning. <https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.326>",
+      "notes": "论文结论讲的是大剂量用法。偶尔吃一两天、按说明书剂量吃的风险，这篇没有单独给数字。很多复方感冒药里也有这类成分，和止痛药一起吃就重复了，先看成分表。医生让你长期吃小剂量阿司匹林防血栓的，别自己停，也别自己再加一种止痛药。痛经怎么用这类药、什么时候该去妇科查，见第 3 节第 25 条（痛经就吃布洛芬这类止痛药）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người từ 60 tuổi trở lên, từng chảy máu dạ dày, đang dùng thuốc chống đông hoặc corticoid cần hỏi bác sĩ trước khi uống các thuốc giảm đau như ibuprofen",
+    "cost": "Không tốn tiền. Hỏi bác sĩ hoặc dược sĩ một lần.",
+    "plain": "Các thuốc giảm đau như ibuprofen, naproxen và aspirin có thể gây hại dạ dày. Trong các thử nghiệm dùng liều cao, nguy cơ chảy máu hoặc thủng dạ dày của người dùng ibuprofen gấp khoảng 4 lần người không dùng. Người lớn tuổi, từng chảy máu dạ dày, đang dùng thêm thuốc chống đông hoặc corticoid, hay uống từ 3 ly rượu trở lên mỗi ngày có nguy cơ cao hơn.",
+    "benefit": "Nhóm thuốc này gọi là thuốc chống viêm không steroid, thường gặp có ibuprofen, naproxen và diclofenac. Một phân tích gộp tổng hợp 280 thử nghiệm ngẫu nhiên so sánh thuốc nhóm này với giả dược, gồm tổng cộng 124513 người. So với giả dược, nguy cơ thủng, tắc hoặc chảy máu đường tiêu hóa trên là: ibuprofen RR 3.97 (95% CI 2.22–7.10, khoảng 4 lần), naproxen 4.22 (2.71–6.56), diclofenac 1.89 (1.16–3.09). Tất cả các thuốc trong nhóm đều làm nguy cơ suy tim tăng khoảng gấp đôi. Quy định của Mỹ yêu cầu thuốc không kê đơn nhóm này phải ghi cảnh báo chảy máu dạ dày. Cảnh báo nêu sáu nhóm có nguy cơ cao hơn: từ 60 tuổi trở lên; từng loét hoặc chảy máu dạ dày; đang dùng thuốc chống đông hoặc corticoid; đồng thời dùng thuốc khác cùng nhóm; uống từ 3 ly rượu trở lên mỗi ngày trong thời gian dùng thuốc; dùng nhiều hơn hoặc lâu hơn hướng dẫn.",
+    "notes": "Kết luận của bài báo nói về cách dùng liều cao. Bài báo không đưa ra số liệu riêng cho việc thỉnh thoảng dùng một hai ngày, đúng liều trong hướng dẫn. Nhiều thuốc cảm phối hợp cũng chứa các thành phần thuộc nhóm này; dùng cùng thuốc giảm đau sẽ bị trùng, nên hãy xem bảng thành phần trước. Nếu bác sĩ chỉ định dùng aspirin liều thấp lâu dài để phòng huyết khối, đừng tự ngừng và cũng đừng tự thêm một thuốc giảm đau khác. Về cách dùng nhóm thuốc này khi đau bụng kinh và khi nào cần đi khám phụ khoa, xem chương 3 mục 25 (dùng các thuốc giảm đau như ibuprofen khi đau bụng kinh).",
+    "extra": ""
+  }
+}

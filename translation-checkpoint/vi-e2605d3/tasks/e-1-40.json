@@ -1,0 +1,36 @@
+{
+  "id": "e-1-40",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "3c4cc93e5334d4f2279276350e131ccc3fc603fb53648b8c2e74aa6422f9eb51",
+  "original": {
+    "number": 40,
+    "title": "查出骨质疏松，或者轻轻一摔就骨折过，就请医生开抗骨质疏松药并坚持用，别拿补钙代替",
+    "fields": {
+      "cost": "要开处方，连着用几年。常用的有每周吃一次的口服药，也有每年输一次液的针剂。刚开始用药要每年复查骨密度，稳定后每 1 到 2 年查一次。难的是没感觉也要坚持用。",
+      "plain": "已经确诊骨质疏松或者骨折过的绝经后女性，吃阿仑膦酸钠能让髋部骨折少约一半。有症状的脊柱骨折少一半多。髋部骨折做完手术就开始每年输一次药的老人，两年里再骨折的少约三成五。单靠补钙代替不了这些药。",
+      "benefit": "脆性骨折，是受到轻微外伤或日常活动中就发生的骨折。中华医学会 2017 年版指南认定的用药对象有三类。一是脊柱或髋部发生过脆性骨折的人。二是骨密度 T 值在 -2.5 及以下的人，不管有没有骨折过。三是骨量偏低、又在手腕、上臂或骨盆有过脆性骨折，或者算出来骨折风险高的人。指南还写明「目前尚无充分证据表明单纯补钙可以替代其他抗骨质疏松药物治疗」。Cochrane 2025 年更新了阿仑膦酸钠的综述。在已有骨质疏松或骨折的绝经后女性里，用药组髋部骨折低约 51%。原值 RR 0.49，可信范围 95% CI 0.25 到 0.96。有症状的脊柱骨折低约 55%（RR 0.45，95% CI 0.28 到 0.73）。HORIZON 试验找了 2127 名髋部骨折做过手术的人，平均 74.5 岁。手术后 90 天内开始每年输一次唑来膦酸，跟踪的中位数是 1.9 年。新的骨折从 13.9% 降到 8.6%，少了约 35%。死亡从 13.3% 降到 9.6%，少了约 28%。指南写到，髋部骨折后一年内约 20% 的人死于各种并发症。2017 到 2018 年的全国调查里，确诊骨质疏松或骨折过的女性只有 1.4% 在用药，男性只有 0.3%（中国）",
+      "grade": "A",
+      "sources": "中华医学会骨质疏松和骨矿盐疾病分会 (2017). 原发性骨质疏松症诊疗指南(2017). 中华骨质疏松和骨矿盐疾病杂志, 10(5), 413-443（表 10 抗骨质疏松症药物治疗适应证；钙剂一节；疗效监测一节）. <https://html.rhhz.net/GUSS/html/cc825127-29a3-47c1-9a95-7a212fdcce55.htm> ; Wells GA, Hsieh SC, Peterson J, et al. (2025). Alendronate for the primary and secondary prevention of osteoporotic fractures in postmenopausal women. Cochrane Database of Systematic Reviews. <https://doi.org/10.1002/14651858.CD001155.pub3> ; Lyles KW, Colón-Emeric CS, Magaziner JS, et al. (2007). Zoledronic acid and clinical fractures and mortality after hip fracture. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa074941> ; Cummings SR, Lui LY, Eastell R, Allen IE (2019). Association Between Drug Treatments for Patients With Osteoporosis and Overall Mortality Rates: A Meta-analysis. JAMA Internal Medicine. <https://doi.org/10.1001/jamainternmed.2019.2779> ; Kahwati LC, Kistler CE, Booth G, et al. (2025). Screening for Osteoporosis to Prevent Fractures: A Systematic Evidence Review for the US Preventive Services Task Force. JAMA. <https://doi.org/10.1001/jama.2024.21653> ; Wang L, Yu W, Yin X, et al. (2021). Prevalence of Osteoporosis and Fracture in China: The China Osteoporosis Prevalence Study. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2021.21106>",
+      "notes": "争议：一篇合并了 38 项试验的荟萃分析没有看出这类药能降低总死亡率（RR 0.98，95% CI 0.91 到 1.05）。单看唑来膦酸也不显著（RR 0.88，95% CI 0.68 到 1.13）。作者的结论是，这类药只该为了少骨折而用。Cochrane 那几个数字的可信度也被评为低到中等。还没骨折、骨折风险较低的女性，阿仑膦酸钠对髋部骨折没看出明显作用（RR 0.76，95% CI 0.43 到 1.32）。下颌骨坏死、不典型股骨骨折这类少见的副作用，几年的试验看不全，所以要按时复查、不自己加药停药。有的人适合打针，有的人适合吃药，选哪种由医生定。怎么查出骨质疏松，见第 39 条（骨密度检查）。绝经激素治疗也能减少骨折，但一般只在不适合用别的药时才考虑。为了潮热盗汗用激素，见第 2 节第 43 条（绝经前后潮热去评估激素治疗）。受益人主要是你自己，也包括你的父母。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "老人,35岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Phát hiện loãng xương hoặc từng ngã nhẹ đã gãy xương thì nhờ bác sĩ kê thuốc chống loãng xương và kiên trì dùng, đừng thay bằng bổ sung canxi",
+    "cost": "Cần kê đơn, dùng liên tục vài năm. Thường có thuốc uống mỗi tuần một lần và thuốc truyền mỗi năm một lần. Khi mới dùng cần kiểm tra mật độ xương hằng năm, ổn định rồi mỗi 1 đến 2 năm. Khó ở việc không thấy triệu chứng vẫn phải kiên trì dùng.",
+    "plain": "Phụ nữ sau mãn kinh đã xác định loãng xương hoặc từng gãy xương dùng natri alendronate có thể giảm gãy xương vùng háng khoảng một nửa, gãy cột sống có triệu chứng giảm hơn một nửa. Người cao tuổi bắt đầu truyền thuốc mỗi năm sau mổ gãy xương vùng háng có số tái gãy trong hai năm ít hơn khoảng ba mươi lăm phần trăm. Chỉ bổ sung canxi không thay được những thuốc này.",
+    "benefit": "Gãy xương do xương giòn là gãy sau chấn thương nhẹ hoặc trong hoạt động hằng ngày. Hướng dẫn năm 2017 của Hội Y học Trung Hoa xác định ba nhóm cần dùng thuốc. Nhóm đầu từng gãy do xương giòn ở cột sống hoặc vùng háng. Nhóm thứ hai có điểm T mật độ xương từ -2.5 trở xuống, dù đã gãy hay chưa. Nhóm thứ ba có khối lượng xương thấp và từng gãy do xương giòn ở cổ tay, cánh tay trên hoặc khung chậu, hoặc tính được nguy cơ gãy cao. Hướng dẫn còn nêu hiện chưa đủ bằng chứng cho thấy chỉ bổ sung canxi có thể thay điều trị bằng thuốc chống loãng xương khác. Năm 2025, Cochrane cập nhật tổng quan natri alendronate. Ở phụ nữ sau mãn kinh đã có loãng xương hoặc gãy xương, nhóm dùng thuốc có gãy xương vùng háng thấp hơn khoảng 51%. Giá trị gốc RR 0.49, khoảng tin cậy 95% CI 0.25 đến 0.96. Gãy cột sống có triệu chứng thấp hơn khoảng 55% (RR 0.45, 95% CI 0.28 đến 0.73). Thử nghiệm HORIZON tuyển 2127 người đã mổ gãy xương vùng háng, tuổi trung bình 74.5. Trong vòng 90 ngày sau mổ, bắt đầu truyền axit zoledronic mỗi năm một lần, trung vị theo dõi 1.9 năm. Gãy xương mới giảm từ 13.9% xuống 8.6%, ít hơn khoảng 35%. Tử vong giảm từ 13.3% xuống 9.6%, ít hơn khoảng 28%. Hướng dẫn ghi khoảng 20% người chết vì các biến chứng trong năm đầu sau gãy xương vùng háng. Trong khảo sát toàn quốc năm 2017 đến 2018, phụ nữ đã được chẩn đoán loãng xương hoặc từng gãy xương chỉ có 1.4% đang dùng thuốc, nam chỉ 0.3% (Trung Quốc).",
+    "notes": "Điểm còn tranh luận: một phân tích gộp 38 thử nghiệm không thấy nhóm thuốc này giảm tử vong do mọi nguyên nhân (RR 0.98, 95% CI 0.91 đến 1.05). Xét riêng axit zoledronic cũng không có ý nghĩa thống kê (RR 0.88, 95% CI 0.68 đến 1.13). Tác giả kết luận chỉ nên dùng những thuốc này để giảm gãy xương. Độ chắc chắn của các con số Cochrane cũng được đánh giá thấp đến trung bình. Ở phụ nữ chưa gãy xương, nguy cơ gãy thấp hơn, natri alendronate không có tác dụng rõ với gãy xương vùng háng (RR 0.76, 95% CI 0.43 đến 1.32). Thử nghiệm vài năm không thấy hết tác dụng phụ hiếm như hoại tử xương hàm dưới và gãy xương đùi không điển hình, nên cần tái khám đúng hẹn, không tự thêm hay ngừng thuốc. Có người phù hợp thuốc tiêm, người khác phù hợp thuốc uống, bác sĩ quyết định loại nào. Cách phát hiện loãng xương xem mục 39 (đo mật độ xương). Liệu pháp hormone mãn kinh cũng giảm gãy xương nhưng thường chỉ cân nhắc khi không phù hợp thuốc khác. Dùng hormone cho bốc hỏa, vã mồ hôi đêm xem phần 2 mục 43 (bốc hỏa quanh mãn kinh thì đi đánh giá điều trị hormone). Người hưởng lợi chủ yếu là bạn, cũng gồm cha mẹ bạn.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e-20-16",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "703653d282cae8c1f357eb05517994f19c7a4d88e66cf2baf141d4d126e919d0",
+  "original": {
+    "number": 16,
+    "title": "孩子出生后就每天喂 400 国际单位维生素 D，吃母乳的尤其别漏，足月的 6 个月内一般不用另补钙",
+    "fields": {
+      "cost": "维生素 D 滴剂一瓶几十元，每天滴一次。难在要天天记着，至少喂到 1 岁",
+      "plain": "母乳里维生素 D 很少，婴儿又不宜多晒太阳，所以要每天补。土耳其农村没补的孩子一年里有 3.8% 得了佝偻病，补了的一个都没有。量按医生说的给。正常足月的孩子 6 个月以内一般不用另外补钙。",
+      "benefit": "Cochrane 2020 年的综述说，母乳里的维生素 D 含量低，只吃母乳的婴儿容易不够。美国儿科学会说，孩子在外面待久了要防晒，所以所有婴儿都要补维生素 D。国家卫健委 2020 年的喂养核心信息写的是：「婴儿从出生开始，应当在医生指导下每天补充维生素D 400-800国际单位」。同一段还写着：「正常足月婴儿出生后6个月内一般不用补充钙剂」。2016 年的佝偻病全球共识有 11 个国际学术组织参加。共识说，每天 400 IU（10 微克）足以预防佝偻病。所有婴儿从出生到 12 个月都要补，不管吃母乳还是吃配方奶。这是强推荐，证据质量中等。土耳其东北部农村一项研究里，每天补 400 IU 的孩子没有人得佝偻病。没补的孩子，12 个月里新得佝偻病的占 3.8%。共识还说，全世界没有每天按时补 400 IU 的婴儿拍片确诊佝偻病的报告。中国 1992 年在南北四个城市做过一项分组研究，每天补 100、200 或 400 IU。到 6 个月，三组都没有孩子得佝偻病。但北方新生儿脐血里的维生素 D 只有南方的约三分之一（12.5 对 35.0 nmol/L）。补得越多，6 个月时的水平越高，作者建议每天补 400 IU",
+      "grade": "B",
+      "sources": "国家卫生健康委办公厅 (2020). 婴幼儿喂养健康教育核心信息. <https://www.gov.cn/zhengce/zhengceku/2020-08/01/content_5531915.htm>；Munns CF, Shaw N, Kiely M, et al. (2016). Global Consensus Recommendations on Prevention and Management of Nutritional Rickets. Journal of Clinical Endocrinology & Metabolism, 101(2), 394-415. <https://doi.org/10.1210/jc.2015-2175>；Beser E, Cakmakci T (1994). Factors affecting the morbidity of vitamin D deficiency rickets and primary protection. East African Medical Journal, 71(6), 358-362. <https://europepmc.org/article/MED/7835254>；Specker BL, Ho ML, Oestreich A, et al. (1992). Prospective study of vitamin D supplementation and rickets in China. Journal of Pediatrics, 120(5), 733-739. <https://doi.org/10.1016/s0022-3476(05)80236-7>；Tan ML, Abrams SA, Osborn DA (2020). Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health. Cochrane Database of Systematic Reviews, 12, CD013046. <https://doi.org/10.1002/14651858.CD013046.pub2>；American Academy of Pediatrics (2022). Where We Stand: Vitamin D & Iron Supplements for Babies. HealthyChildren.org. <https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Vitamin-Iron-Supplements.aspx>；Gallo S, Comeau K, Vanstone C, et al. (2013). Effect of different dosages of oral vitamin D supplementation on vitamin D status in healthy, breastfed infants: a randomized trial. JAMA, 309(17), 1785-1792. <https://doi.org/10.1001/jama.2013.3404>",
+      "notes": "定 B 是因为防佝偻病的数字来自没有随机分组的比较。Cochrane 2020 年合并了给婴儿补的试验。每天补 400 IU，维生素 D 不足的孩子少约四成（RR 0.57）。但试验都小，看不出佝偻病少没少。收益定中凭判断，因为国内婴儿佝偻病有多常见没查到。吃配方奶的说法不一。美国儿科学会说，每天喝超过约 800 毫升（27 盎司）加了维生素 D 的配方奶，就不用另补。国内核心信息写的是所有婴儿都补，具体按医生说的来。别自己加量：加拿大一项试验里，每天 1600 IU 那组血里维生素 D 太高，提前停了。400 到 1200 IU 几组的长个和骨头没有差别。不缺维生素 D 的成人别为长寿去补，见第 6 节第 3 条（不缺维生素 D 的人）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cho trẻ bổ sung 400 đơn vị quốc tế vitamin D mỗi ngày từ khi sinh, đặc biệt đừng bỏ ở trẻ bú mẹ; trẻ đủ tháng trong 6 tháng đầu thường không cần bổ sung canxi riêng",
+    "cost": "Một lọ vitamin D nhỏ giọt vài chục nhân dân tệ, nhỏ một lần mỗi ngày. Khó là phải nhớ hằng ngày, ít nhất đến 1 tuổi.",
+    "plain": "Sữa mẹ có rất ít vitamin D, trẻ nhũ nhi lại không nên phơi nắng nhiều nên cần bổ sung mỗi ngày. Ở vùng nông thôn Thổ Nhĩ Kỳ, 3.8% trẻ không bổ sung bị còi xương trong một năm, còn nhóm bổ sung không có trẻ nào. Cho theo lượng bác sĩ hướng dẫn. Trẻ bình thường sinh đủ tháng trong 6 tháng đầu thường không cần bổ sung canxi riêng.",
+    "benefit": "Tổng quan Cochrane năm 2020 nêu hàm lượng vitamin D trong sữa mẹ thấp, trẻ bú mẹ hoàn toàn dễ bị thiếu. Viện Hàn lâm Nhi khoa Hoa Kỳ nói trẻ phải được bảo vệ khỏi nắng khi ở ngoài lâu, nên mọi trẻ nhũ nhi đều cần bổ sung vitamin D. Thông tin cốt lõi về nuôi dưỡng năm 2020 của Ủy ban Y tế Quốc gia Trung Quốc viết: “Từ khi sinh, trẻ nhũ nhi cần được bổ sung vitamin D 400-800 đơn vị quốc tế mỗi ngày dưới hướng dẫn của bác sĩ”. Cùng đoạn này còn ghi: “Trẻ bình thường sinh đủ tháng thường không cần bổ sung chế phẩm canxi trong 6 tháng đầu sau sinh”. Đồng thuận toàn cầu về còi xương năm 2016 có 11 tổ chức học thuật quốc tế tham gia. Đồng thuận nêu mỗi ngày 400 IU (10 microgram) đủ để phòng còi xương. Mọi trẻ nhũ nhi từ khi sinh đến 12 tháng đều cần bổ sung, dù bú mẹ hay dùng sữa công thức. Đây là khuyến nghị mạnh, chất lượng bằng chứng trung bình. Trong một nghiên cứu tại vùng nông thôn đông bắc Thổ Nhĩ Kỳ, không có trẻ nào được bổ sung 400 IU mỗi ngày mắc còi xương. Với trẻ không bổ sung, tỷ lệ mới mắc trong 12 tháng là 3.8%. Đồng thuận còn nêu trên thế giới chưa có báo cáo trẻ nhũ nhi được bổ sung đều đặn 400 IU mỗi ngày mà vẫn được xác nhận còi xương bằng chụp phim. Năm 1992, Trung Quốc thực hiện một nghiên cứu chia nhóm ở bốn thành phố phía bắc và phía nam, bổ sung 100, 200 hoặc 400 IU mỗi ngày. Đến 6 tháng, cả ba nhóm đều không có trẻ mắc còi xương. Nhưng vitamin D trong máu cuống rốn của trẻ sơ sinh phía bắc chỉ bằng khoảng một phần ba phía nam (12.5 so với 35.0 nmol/L). Bổ sung càng nhiều thì mức vitamin D lúc 6 tháng càng cao; tác giả khuyến nghị bổ sung 400 IU mỗi ngày.",
+    "notes": "Xếp mức B vì số liệu phòng còi xương đến từ so sánh không chia nhóm ngẫu nhiên. Cochrane năm 2020 tổng hợp các thử nghiệm bổ sung cho trẻ nhũ nhi. Bổ sung 400 IU mỗi ngày làm số trẻ thiếu vitamin D giảm khoảng bốn phần mười (RR 0.57). Nhưng các thử nghiệm đều nhỏ, chưa thấy được còi xương có giảm hay không. Mức lợi ích trung bình dựa trên nhận định vì chưa tìm được mức độ phổ biến của còi xương ở trẻ nhũ nhi tại Trung Quốc. Hướng dẫn với trẻ dùng sữa công thức không thống nhất. Viện Hàn lâm Nhi khoa Hoa Kỳ nói trẻ uống hơn khoảng 800 mililít (27 ounce) sữa công thức có thêm vitamin D mỗi ngày thì không cần bổ sung riêng. Thông tin cốt lõi tại Trung Quốc ghi mọi trẻ nhũ nhi đều cần bổ sung; cụ thể hãy theo bác sĩ. Đừng tự tăng liều: trong một thử nghiệm Canada, nhóm dùng 1600 IU mỗi ngày có vitamin D trong máu quá cao nên bị dừng sớm. Các nhóm dùng 400 đến 1200 IU không khác nhau về tăng trưởng chiều cao và xương. Người lớn không thiếu vitamin D đừng bổ sung chỉ để sống lâu, xem chương 6 mục 3 (người không thiếu vitamin D).",
+    "extra": ""
+  }
+}

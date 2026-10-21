@@ -1,0 +1,35 @@
+{
+  "id": "e-23-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "33485b2f6e964f0c4c05b385620a9c8fbcfabd255891336ea2ad5554ea7b9dfb",
+  "original": {
+    "number": 7,
+    "title": "先记住基准线：多受一年教育，全球平均的私人回报（落到自己收入上的那部分）约为每年 9%",
+    "fields": {
+      "cost": "不花钱。把这个数记住，当成衡量各种「学点东西」方案的尺子。",
+      "plain": "按全世界平均算，多读一年书，个人收入每年高约 9%，女性的回报一直高于男性。这个数说的是正规上学，报一个班不能直接套。拿它当尺子：一个课程要你花 3 万元和半年，就问它带来的收入变化抵不抵多读一年书。",
+      "benefit": "一项覆盖 1950 至 2014 年、139 个国家、1120 项估计的综述算出：「多受一年教育的全球平均私人回报率是每年 9%」。私人回报就是落到本人收入上的那一部分：多读一年书，收入平均高约 9%。高等教育的私人回报在上升。教育的社会回报（落到整个社会而不是本人身上的那部分）仍然很高。女性受教育的平均回报持续高于男性",
+      "grade": "A",
+      "sources": "Psacharopoulos G, Patrinos HA (2018). Returns to investment in education: a decennial review of the global literature. Education Economics, 26(5), 445-458. <https://doi.org/10.1080/09645292.2018.1484426>；世界银行政策研究工作论文 8402. <https://doi.org/10.1596/1813-9450-8402>",
+      "notes": "这是「多读一年书」的全球平均值，不能当成「报一个班」的收益，也不是中国的具体数字，只能当量级参照。它的用处是给所有培训方案一把尺子。一个课程要你花 3 万元和半年时间，就该问它能不能带来相当于一年正规教育的收入变化。还要注意，全球平均掩盖了巨大的专业差异和国别差异"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ghi nhớ mốc tham chiếu: thêm một năm giáo dục có lợi ích cá nhân trung bình toàn cầu, tức phần vào thu nhập của bạn, khoảng 9% mỗi năm",
+    "cost": "Không tốn tiền. Ghi nhớ số này để cân nhắc các phương án “học thêm gì đó”.",
+    "plain": "Tính trung bình toàn cầu, thêm một năm học gắn với thu nhập cá nhân hằng năm cao hơn khoảng 9%; lợi ích của phụ nữ luôn cao hơn nam giới. Con số nói về đi học chính quy, không áp thẳng cho việc đăng ký một lớp. Có thể dùng làm mốc: khóa học tốn 3 vạn nhân dân tệ và nửa năm thì cần hỏi mức thay đổi thu nhập có tương xứng với học thêm một năm không.",
+    "benefit": "Một tổng quan bao phủ giai đoạn 1950 đến 2014, 139 quốc gia và 1120 ước tính đưa ra: “Tỷ suất lợi ích cá nhân trung bình toàn cầu của thêm một năm giáo dục là 9% mỗi năm”. Lợi ích cá nhân là phần vào thu nhập của chính người học: thêm một năm học, thu nhập trung bình cao hơn khoảng 9%. Lợi ích cá nhân của giáo dục bậc cao đang tăng. Lợi ích xã hội của giáo dục, tức phần thuộc về cả xã hội thay vì riêng người học, vẫn rất cao. Lợi ích trung bình từ giáo dục của phụ nữ liên tục cao hơn nam giới",
+    "notes": "Đây là mức trung bình toàn cầu của “thêm một năm học”, không thể coi là lợi ích của “đăng ký một lớp”, cũng không phải số riêng của Trung Quốc; chỉ dùng tham chiếu về mức độ. Nó giúp cân nhắc mọi phương án đào tạo. Khóa học tốn 3 vạn nhân dân tệ và nửa năm thì cần hỏi liệu có đem lại thay đổi thu nhập tương đương một năm giáo dục chính quy không. Trung bình toàn cầu còn che khuất chênh lệch rất lớn giữa ngành học và quốc gia",
+    "extra": ""
+  }
+}

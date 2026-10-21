@@ -1,0 +1,35 @@
+{
+  "id": "e-1-38",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "63bbad265663ea277b1519dc3c6ff96721765ea0f34c103e3ef81a57e6617b61",
+  "original": {
+    "number": 38,
+    "title": "有高危性行为的男男性行为者，去艾滋病定点医院问暴露前预防药，按时吃能少感染约七成",
+    "fields": {
+      "cost": "这是处方药，多数地方自费，价格从几百到几千元不等。开药前要查 HIV、肾功能和乙肝。之后每 3 个月复查一次。难的是天天按时吃。",
+      "plain": "还没感染的人提前吃一种抗病毒药，叫暴露前预防。按时吃的人，感染风险能少约七成。吃吃停停的人，基本没效果。它是处方药，要先在医院查过身体再开，之后定期复查。",
+      "benefit": "这种药是恩曲他滨加替诺福韦的复方片。iPrEx 试验让 2499 名男男性行为者和跨性别女性每天吃药或者吃安慰剂。吃药组感染少了 44%（95% CI 15–63）。血里测得到药的人，保护效果强得多。英国的 PROUD 试验有 544 名男男性行为者。立刻吃药的一组比推迟一年的一组感染少 86%（90% CI 64–96，90% 可信范围）。法国的 IPERGAY 试验在性行为前后按需吃药，感染少 86%（95% CI 40–98）。世界卫生组织用的一篇荟萃分析把各项试验合起来。总体 RR 0.49（0.33–0.73，低约 51%）。吃药率超过七成的试验，RR 0.30（0.21–0.45，低约 70%）。吃药率不到四成的，RR 0.95，基本无效。国家药监局 2020 年 8 月批准这个药用于暴露前预防。成人和体重至少 35 公斤的青少年可以用（多国 / 中国）",
+      "grade": "A",
+      "sources": "Grant RM, Lama JR, Anderson PL, et al. (2010). Preexposure chemoprophylaxis for HIV prevention in men who have sex with men. New England Journal of Medicine, 363(27), 2587–2599. <https://doi.org/10.1056/NEJMoa1011205>；McCormack S, Dunn DT, Desai M, et al. (2016). Pre-exposure prophylaxis to prevent the acquisition of HIV-1 infection (PROUD): effectiveness results from the pilot phase of a pragmatic open-label randomised trial. The Lancet, 387(10013), 53–60. <https://doi.org/10.1016/S0140-6736(15)00056-2>；Molina JM, Capitant C, Spire B, et al. (2015). On-demand preexposure prophylaxis in men at high risk for HIV-1 infection. New England Journal of Medicine, 373(23), 2237–2246. <https://doi.org/10.1056/NEJMoa1506273>；Fonner VA, Dalglish SL, Kennedy CE, et al. (2016). Effectiveness and safety of oral HIV preexposure prophylaxis for all populations. AIDS, 30(12), 1973–1983. <https://doi.org/10.1097/QAD.0000000000001145>；Xu JJ, Huang XJ, Liu XC, et al. (2020). Consensus statement on human immunodeficiency virus pre-exposure prophylaxis in China. Chinese Medical Journal, 133(23), 2840–2846. <https://doi.org/10.1097/CM9.0000000000001181>（中文版《中国 HIV 暴露前预防用药专家共识》）；World Health Organization (2019). What's the 2+1+1? Event-driven oral pre-exposure prophylaxis to prevent HIV for men who have sex with men (WHO/CDS/HIV/19.8). <https://www.who.int/publications/i/item/what-s-the-2-1-1-event-driven-oral-pre-exposure-prophylaxis-to-prevent-hiv-for-men-who-have-sex-with-men>；国务院办公厅 (2024). 中国遏制与防治艾滋病规划（2024—2030 年）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6992033.htm>",
+      "notes": "试验里的人主要是男男性行为者，所以最该去问的是这群人。其他有高危性行为的人，也可以去问医生合不合适。开药前必须先确认没感染，已经感染的人吃它会让病毒耐药，自测试纸的结果不能当依据。有乙肝的人停药可能让肝炎发作，所以开药前要查。世界卫生组织只对男男性行为者推荐按需吃，适合平均每周少于 2 次的人。吃法是性行为前 2 到 24 小时吃 2 片，之后 24 小时、48 小时各吃 1 片。女性和有乙肝的人只能每天吃。按需吃的试验里，吃药组胃肠道和肾脏的不良反应比安慰剂组多，所以复查不能省。国内 2019 年起在男男性行为人群里试点，2024 年的规划写的是「规范实施」。全国免费的政策没有查到。去当地艾滋病定点医院的感染科或性病艾滋病门诊开，先打当地疾控电话问哪家能开。它不防梅毒、淋病这些性病，安全套照样要用，见本节第 30 条（性行为全程用安全套）。已经发生了高危行为，补救见第 13 节第 38 条（72 小时内拿阻断药）。受益人主要是你自己，也护住你的伴侣。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nam quan hệ tình dục với nam có hành vi nguy cơ cao nên hỏi thuốc dự phòng trước phơi nhiễm ở bệnh viện được chỉ định điều trị HIV; uống đúng giờ giúp giảm nhiễm khoảng bảy mươi phần trăm",
+    "cost": "Đây là thuốc kê đơn, đa số nơi phải tự trả, giá từ vài trăm đến vài nghìn nhân dân tệ. Trước kê thuốc cần kiểm tra HIV, chức năng thận và viêm gan B. Sau đó tái khám mỗi 3 tháng. Khó ở việc uống đúng giờ hằng ngày.",
+    "plain": "Người chưa nhiễm uống trước một loại thuốc kháng virus, gọi là dự phòng trước phơi nhiễm. Người uống đúng giờ có thể giảm nguy cơ nhiễm khoảng bảy mươi phần trăm. Uống rồi ngừng thất thường gần như không hiệu quả. Đây là thuốc kê đơn, cần kiểm tra sức khỏe ở bệnh viện trước khi kê và tái khám định kỳ sau đó.",
+    "benefit": "Thuốc này là viên phối hợp emtricitabine và tenofovir. Thử nghiệm iPrEx cho 2499 nam quan hệ tình dục với nam và phụ nữ chuyển giới uống thuốc hoặc giả dược mỗi ngày. Nhóm dùng thuốc có số ca nhiễm ít hơn 44% (95% CI 15–63). Người có thuốc đo được trong máu được bảo vệ mạnh hơn nhiều. Thử nghiệm PROUD ở Anh có 544 nam quan hệ tình dục với nam. Nhóm dùng thuốc ngay có số ca nhiễm ít hơn 86% so với nhóm trì hoãn một năm (90% CI 64–96, khoảng tin cậy 90%). Thử nghiệm IPERGAY ở Pháp dùng thuốc theo nhu cầu trước và sau quan hệ, số nhiễm ít hơn 86% (95% CI 40–98). Một phân tích gộp được Tổ chức Y tế thế giới sử dụng tổng hợp các thử nghiệm: RR chung 0.49 (0.33–0.73, thấp hơn khoảng 51%). Trong thử nghiệm có tỷ lệ uống thuốc trên bảy mươi phần trăm, RR 0.30 (0.21–0.45, thấp hơn khoảng 70%). Khi tỷ lệ uống dưới bốn mươi phần trăm, RR 0.95, gần như không hiệu quả. Tháng 8 năm 2020, Cục Quản lý dược phẩm quốc gia Trung Quốc phê duyệt thuốc này để dự phòng trước phơi nhiễm. Người trưởng thành và thanh thiếu niên nặng ít nhất 35 kg có thể dùng (nhiều nước / Trung Quốc).",
+    "notes": "Người tham gia thử nghiệm chủ yếu là nam quan hệ tình dục với nam, nên nhóm này cần hỏi nhất. Người khác có hành vi tình dục nguy cơ cao cũng có thể hỏi bác sĩ có phù hợp không. Trước kê thuốc phải xác nhận chưa nhiễm; người đã nhiễm dùng thuốc này sẽ làm virus kháng thuốc, kết quả que tự xét nghiệm không thể dùng làm căn cứ. Người có viêm gan B ngừng thuốc có thể làm viêm gan bùng phát, nên phải kiểm tra trước. Tổ chức Y tế thế giới chỉ khuyến nghị uống theo nhu cầu cho nam quan hệ tình dục với nam, phù hợp người trung bình quan hệ dưới 2 lần mỗi tuần. Cách uống là 2 viên trước quan hệ từ 2 đến 24 giờ, sau đó 24 giờ và 48 giờ mỗi lần 1 viên. Phụ nữ và người có viêm gan B chỉ được dùng hằng ngày. Trong thử nghiệm uống theo nhu cầu, nhóm dùng thuốc có tác dụng bất lợi đường tiêu hóa và thận nhiều hơn nhóm giả dược, nên không thể bỏ tái khám. Trung Quốc thí điểm trong nhóm nam quan hệ tình dục với nam từ năm 2019; kế hoạch năm 2024 ghi thực hiện theo quy chuẩn. Chưa tìm thấy chính sách miễn phí toàn quốc. Đến khoa truyền nhiễm hoặc phòng khám bệnh lây qua đường tình dục và HIV của bệnh viện điều trị HIV được chỉ định tại địa phương để được kê; gọi trung tâm kiểm soát bệnh tật địa phương trước để hỏi nơi nào có thể kê. Thuốc không ngăn giang mai, lậu và những bệnh tình dục này, vẫn phải dùng bao cao su, xem mục 30 phần này (dùng bao cao su suốt quá trình quan hệ). Đã có hành vi nguy cơ cao thì xem cách xử lý ở phần 13 mục 38 (lấy thuốc dự phòng sau phơi nhiễm trong 72 giờ). Người hưởng lợi chủ yếu là bạn, đồng thời bảo vệ bạn tình.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-29-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "7164a326b3010a7178ea503cb74c50c3dfc996c25977da1555c22ae41db68f24",
+  "original": {
+    "number": 2,
+    "title": "被告知重病诊断的那一周，别一个人去拿报告，治疗以外的决定往后放",
+    "fields": {
+      "cost": "不花钱。找个人陪你去拿报告。把治疗以外的大决定推后几天。",
+      "plain": "拿到癌症诊断的第一周，自杀的概率是没确诊的人的 12.6 倍，死于心血管病的概率是 5.6 倍。到第一年，自杀风险降到 3.1 倍，越难治的癌越明显。所以拿报告那天带个人去，回家别一个人待着。辞职、卖房这类事，留到下次门诊再说。",
+      "benefit": "瑞典全国档案跟踪 607 万多人（6,073,240 人），时间是 1991 至 2006 年。和没确诊癌症的人相比，确诊后第一周自杀相对风险 12.6（95% CI 8.6–17.8），即约 12.6 倍。真实倍数大致在 8.6 到 17.8 之间。这一周的发病率是 2.50/1000 人年，也就是 1000 人跟一年出 2.5 例。到第一年降到 3.1（2.7–3.5，0.60/1000 人年），约 3.1 倍。心血管死亡第一周 5.6（5.2–5.9，116.80/1000 人年），约 5.6 倍。前 4 周 3.3（3.1–3.4，65.81/1000 人年）。风险升高在确诊后第一年内迅速回落。越是治起来难、活下来概率低的癌种，升得越明显。把同一批患者不同时间段自己跟自己比，结论一致",
+      "grade": "A",
+      "sources": "Fang F, et al. (2012). Suicide and cardiovascular death after a cancer diagnosis. New England Journal of Medicine. <https://doi.org/10.1056/NEJMoa1110307>",
+      "notes": "这是癌症病人的数据。换到别的重大诊断，没有同等分量的原文。出事的人其实很少：第一周自杀率 2.50/1000 人年，即 1000 人跟一年出 2.5 例。写出来不是吓人，是说明「刚知道的那几天」要有人在旁边。确诊后的长期管理、报销和复查见第 16 节和第 24 节。找不到人陪着去的见本节第 6 条（把「那个人」换成邻居和社区名单）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trong tuần được báo chẩn đoán bệnh nặng, đừng đi nhận kết quả một mình; hoãn các quyết định ngoài việc điều trị",
+    "cost": "Không tốn tiền. Nhờ một người đi cùng để nhận kết quả. Hoãn vài ngày những quyết định lớn ngoài việc điều trị.",
+    "plain": "Trong tuần đầu nhận chẩn đoán ung thư, xác suất tự sát gấp 12.6 lần người chưa được chẩn đoán, xác suất tử vong vì bệnh tim mạch gấp 5.6 lần. Tính trong năm đầu, nguy cơ tự sát giảm còn 3.1 lần; ung thư càng khó điều trị thì mức tăng càng rõ. Vì vậy, ngày nhận kết quả hãy có người đi cùng, về nhà đừng ở một mình. Những chuyện như nghỉ việc, bán nhà hãy để đến lần khám tiếp theo rồi tính.",
+    "benefit": "Hồ sơ toàn quốc của Thụy Điển theo dõi hơn 607 vạn người (6,073,240 người) từ năm 1991 đến 2006. So với người chưa được chẩn đoán ung thư, nguy cơ tương đối về tự sát trong tuần đầu sau chẩn đoán là 12.6 (95% CI 8.6–17.8), tức khoảng gấp 12.6 lần. Số lần thực tế vào khoảng từ 8.6 đến 17.8. Tỷ suất trong tuần này là 2.50/1000 người-năm, tức theo dõi 1000 người trong một năm thì có 2.5 ca. Tính trong năm đầu giảm còn 3.1 (2.7–3.5, 0.60/1000 người-năm), khoảng gấp 3.1 lần. Tử vong do tim mạch trong tuần đầu là 5.6 (5.2–5.9, 116.80/1000 người-năm), khoảng gấp 5.6 lần. Trong 4 tuần đầu là 3.3 (3.1–3.4, 65.81/1000 người-năm). Mức tăng nguy cơ giảm nhanh trong năm đầu sau chẩn đoán. Loại ung thư càng khó điều trị, xác suất sống sót càng thấp thì mức tăng càng rõ. So sánh các khoảng thời gian khác nhau của chính cùng nhóm bệnh nhân cũng cho kết luận nhất quán.",
+    "notes": "Đây là dữ liệu của bệnh nhân ung thư. Với những chẩn đoán nặng khác, chưa có tài liệu gốc có sức nặng tương đương. Số người thực sự gặp biến cố rất ít: tỷ suất tự sát trong tuần đầu là 2.50/1000 người-năm, tức theo dõi 1000 người trong một năm có 2.5 ca. Nêu ra không phải để làm bạn sợ, mà để giải thích vì sao cần có người ở bên trong những ngày vừa biết tin. Quản lý lâu dài sau chẩn đoán, thanh toán bảo hiểm và tái khám xem chương 16 và chương 24. Nếu không tìm được người đi cùng, xem mục 6 của chương này (thay “người đó” bằng hàng xóm và danh sách liên hệ tại cộng đồng).",
+    "extra": ""
+  }
+}

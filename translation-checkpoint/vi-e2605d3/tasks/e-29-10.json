@@ -1,0 +1,35 @@
+{
+  "id": "e-29-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/29-遭遇重大打击之后.md",
+  "source_sha256": "d214ed265e4472bf84b367d40c1798a5bf5c26ee5df3da7f2ab0e52502ff661d",
+  "original": {
+    "number": 10,
+    "title": "分居离婚之后别断医保、别用酒顶着",
+    "fields": {
+      "cost": "不花钱。把医保续上，把酒停掉。难在这段时间容易靠酒顶着。",
+      "plain": "分居或离婚的人早死的概率明显高于还在婚的人，男性和年纪较轻的人升得更多。这不一定是离婚造成的，离婚的人在健康、收入上本来就可能不一样。能自己管住的有两样：别让医保断掉，别靠烟酒顶着。",
+      "benefit": "32 项先登记再往后跟踪的研究合起来算，覆盖逾 650 万人、16 万例死亡、逾 75.5 万例离婚、11 个国家。和还在婚的人相比，分居或离婚的成年人早死风险明显升高。男性和年纪较轻的人，升得比女性和年长者明显。作者讨论了四条可能的路径。一是社会选择，本来健康或条件就不一样的人更容易走到离婚。二是资源中断，收入和保障断掉。三是健康行为改变，烟酒作息变差。四是慢性心理压力（长期紧绷）",
+      "grade": "A",
+      "sources": "Sbarra DA, et al. (2011). Divorce and Death: A Meta-Analysis and Research Agenda for Clinical, Social, and Health Psychology. Perspectives on Psychological Science. <https://doi.org/10.1177/1745691611414724>",
+      "notes": "原文只说了「明显升高」和分组对比，没给能引用的倍数，所以这里不写具体数字。收益量级按「知道方向、没有可套阈值的降幅」定为中。离婚时的财产、债务与彩礼见第 8 节和第 10 节。孩子的抚养安排见第 10 节第 23 条（离婚协议写清抚养费和探望）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sau ly thân hoặc ly hôn, đừng để gián đoạn bảo hiểm y tế, đừng dùng rượu để chịu đựng",
+    "cost": "Không tốn tiền. Duy trì bảo hiểm y tế, ngừng uống rượu. Khó nhất là giai đoạn này dễ dựa vào rượu để chịu đựng.",
+    "plain": "Người ly thân hoặc ly hôn có xác suất chết sớm cao hơn rõ rệt so với người vẫn có vợ hoặc chồng; nam giới và người tương đối trẻ tăng nhiều hơn. Chưa chắc điều này do ly hôn gây ra: người ly hôn vốn có thể khác về sức khỏe, thu nhập. Có hai điều tự kiểm soát được: đừng để bảo hiểm y tế gián đoạn, đừng dựa vào thuốc lá và rượu để chịu đựng.",
+    "benefit": "Tổng hợp 32 nghiên cứu ghi nhận người tham gia trước rồi theo dõi về sau, bao phủ hơn 650 vạn người, 16 vạn ca tử vong, hơn 75.5 vạn ca ly hôn, tại 11 quốc gia. So với người vẫn có vợ hoặc chồng, người trưởng thành ly thân hoặc ly hôn có nguy cơ chết sớm tăng rõ rệt. Mức tăng ở nam và người tương đối trẻ rõ hơn ở nữ và người lớn tuổi. Tác giả bàn về bốn con đường có thể xảy ra. Một là sự chọn lọc xã hội: người vốn khác về sức khỏe hoặc điều kiện dễ đi đến ly hôn hơn. Hai là nguồn lực bị ngắt, thu nhập và bảo đảm bị gián đoạn. Ba là thay đổi hành vi sức khỏe, tình trạng hút thuốc, uống rượu và giờ giấc sinh hoạt xấu đi. Bốn là áp lực tâm lý mạn tính (căng thẳng kéo dài).",
+    "notes": "Tài liệu gốc chỉ nói “tăng rõ rệt” và so sánh giữa các nhóm, không đưa ra số lần có thể trích dẫn nên ở đây không ghi số cụ thể. Mức lợi ích được xếp trung bình theo tiêu chí “biết hướng nhưng không có mức giảm để áp vào ngưỡng”. Tài sản, nợ và sính lễ khi ly hôn xem chương 8 và chương 10. Sắp xếp nuôi con xem chương 10, mục 23 (ghi rõ tiền cấp dưỡng và việc thăm con trong thỏa thuận ly hôn).",
+    "extra": ""
+  }
+}

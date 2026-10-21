@@ -1,0 +1,35 @@
+{
+  "id": "e-23-16",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "6c15dddb5aaec22f6d801fdf425517ea27e89c103329ebcccc19f6d03c20ce1c",
+  "original": {
+    "number": 16,
+    "title": "别把划重点、反复读、写摘要当成主要学法",
+    "fields": {
+      "cost": "不花钱，反而省时间。难在这几样做起来最顺手，也最有「我在学习」的感觉。",
+      "plain": "学生最常用的是划重点和反复读，可在十种常用学法的排名里，这两样都在最低一档。写摘要、关键词记忆法、给课文配图想象也在最低一档。它们不是完全没用，只是起作用的条件太窄，同样的时间换成自测更划算。",
+      "benefit": "一份评估十种常用学习方法的综述，按「效果能不能跨学习条件、跨学生特征、跨材料、跨考核形式推广」给评级。评为最高一档的是练习性测验和分散练习。评为中等一档的是精细提问、自我解释、交错练习。评为最低一档的五种是：写摘要、划重点（或者画线）、关键词记忆法、为课文配图想象、反复阅读。综述写明：多数学生都说自己在用反复阅读和划重点，但这两种并不能稳定提高成绩。综述认为应当换成别的方法，比如用练习性测验代替反复阅读。",
+      "grade": "A",
+      "sources": "Dunlosky J, Rawson KA, Marsh EJ, Nathan MJ, Willingham DT (2013). Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. <https://doi.org/10.1177/1529100612453266>",
+      "notes": "不是不许划线。划线可以用来「标出一会儿要自测哪几处」，出问题的是把划线本身当成学习。综述也说明，最低一档不等于零，只是能起作用的条件窄、还需要更多研究。替代动作见第 14 条（合上书自测）和第 15 条（把同样的时间摊到几天）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng lấy tô ý chính, đọc đi đọc lại và viết tóm tắt làm cách học chủ yếu",
+    "cost": "Không tốn tiền, còn tiết kiệm thời gian. Khó ở chỗ các cách này thuận tay nhất và dễ tạo cảm giác “mình đang học” nhất.",
+    "plain": "Học sinh, sinh viên thường dùng tô ý chính và đọc lại nhất, nhưng cả hai nằm ở nhóm thấp nhất trong đánh giá mười cách học phổ biến. Viết tóm tắt, ghi nhớ bằng từ khóa và tưởng tượng hình ảnh cho bài đọc cũng thuộc nhóm thấp nhất. Chúng không hoàn toàn vô ích, chỉ có tác dụng trong điều kiện quá hẹp; cùng thời gian ấy dùng tự kiểm tra sẽ đáng hơn.",
+    "benefit": "Một tổng quan đánh giá mười phương pháp học phổ biến, xếp hạng theo khả năng áp dụng hiệu quả qua các điều kiện học, đặc điểm người học, tài liệu và hình thức đánh giá khác nhau. Nhóm cao nhất gồm kiểm tra để luyện tập và luyện tập phân tán. Nhóm vừa gồm đặt câu hỏi đào sâu, tự giải thích và luyện xen kẽ. Năm cách thuộc nhóm thấp nhất là viết tóm tắt, tô ý chính hoặc gạch dưới, ghi nhớ bằng từ khóa, tưởng tượng hình ảnh cho bài đọc và đọc đi đọc lại. Tổng quan nêu đa số học sinh, sinh viên nói họ dùng đọc lại và tô ý chính, nhưng hai cách này không cải thiện thành tích một cách ổn định. Tổng quan cho rằng nên chuyển sang cách khác, chẳng hạn thay đọc lại bằng kiểm tra để luyện tập.",
+    "notes": "Không phải cấm gạch dưới. Có thể gạch để đánh dấu những chỗ lát nữa cần tự kiểm tra; vấn đề là coi chính việc gạch dưới là học. Tổng quan cũng nói nhóm thấp nhất không có nghĩa hiệu quả bằng không, mà là điều kiện có tác dụng hẹp và cần thêm nghiên cứu. Cách thay thế xem mục 14 (đóng sách tự kiểm tra) và mục 15 (chia cùng thời gian ra nhiều ngày).",
+    "extra": ""
+  }
+}

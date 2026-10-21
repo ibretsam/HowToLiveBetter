@@ -1,0 +1,15 @@
+{
+  "id": "e-13-18",
+  "source_sha256": "7616defe41b1e7f10388c19e2e7945d507ebc903536b666a3665d6c2bbec586a",
+  "draft_sha256": "dd72e85af194fbd2d982ed3ff4645a49fe0d1acf150d1a1c48d56128f46fc691",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves abnormal-breathing revision, power disconnection before touching, high-voltage exclusion and CPR cross-reference. Source wording about nonconductive objects and breathing/pulse cessation retained without adding instructions."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-23-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "4e356c696f703efe9c615ad923014b8b7662d8dc4313f5f304aabbc7fdc5ef07",
+  "original": {
+    "number": 11,
+    "title": "学之前先确认这个技能有没有等级评价，等级能不能换成钱",
+    "fields": {
+      "cost": "不花钱。查一次就行。",
+      "plain": "国家在推「新八级工」，要求企业把岗位工资和技能等级挂钩，表现突出的职工还能不看工龄资历直接认定等级。这是政策方向，各地各企业差别很大。有国家职业标准和等级通道的技能，往后才谈得上按等级涨薪，学之前先查一下有没有。",
+      "benefit": "国家正在推「新八级工」职业技能等级制度。文件明确要求把等级和薪酬挂钩，原话是「强化技能导向的薪酬分配制度……指导企业实行岗位薪酬与岗位价值、技能等级双挂钩的分配办法」。各地要「加大高级工以上评聘力度和批次」。符合条件的企业可以自己给职工做技能等级评价。对表现突出的职工，「可打破工作年限、等级、资历等条件，直接认定相应职业技能等级」",
+      "grade": "B",
+      "sources": "国务院就业促进和劳动保护工作领导小组 (2025). 关于开展大规模职业技能提升培训行动的指导意见. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032222.htm>；人力资源社会保障部 (2021). 「技能中国行动」实施方案. <https://www.gov.cn/zhengce/zhengceku/2021-07/06/content_5622619.htm>",
+      "notes": "这是政策方向，不是已经兑现的工资数，各地各企业的落地程度差别很大。能照着做的部分是：选技能时看它有没有对应的国家职业标准和等级通道，有通道的技能后面才谈得上按等级涨薪。没有等级、也没有行业准入门槛的「技能」，学完只能靠自己找活"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi học, xác nhận kỹ năng có đánh giá cấp bậc không và cấp bậc có giúp tăng thu nhập không",
+    "cost": "Không tốn tiền. Chỉ cần tra một lần.",
+    "plain": "Nhà nước đang thúc đẩy hệ thống “tám bậc thợ mới”, yêu cầu doanh nghiệp gắn lương vị trí với cấp bậc kỹ năng; người lao động nổi bật còn có thể được công nhận trực tiếp mà không bị ràng buộc bởi thâm niên. Đây là định hướng chính sách, thực tế khác nhau nhiều theo địa phương và doanh nghiệp. Kỹ năng có tiêu chuẩn nghề quốc gia và lộ trình cấp bậc mới có cơ sở để tăng lương theo bậc; hãy tra trước khi học.",
+    "benefit": "Nhà nước đang thúc đẩy hệ thống cấp bậc kỹ năng nghề “tám bậc thợ mới”. Văn bản yêu cầu rõ việc gắn cấp bậc với tiền lương: “Tăng cường chế độ phân phối tiền lương định hướng theo kỹ năng… hướng dẫn doanh nghiệp thực hiện cách phân phối gắn lương vị trí đồng thời với giá trị vị trí và cấp bậc kỹ năng”. Các địa phương phải “tăng cường quy mô và số đợt xét, tuyển bổ nhiệm thợ bậc cao trở lên”. Doanh nghiệp đủ điều kiện được tự đánh giá cấp bậc kỹ năng của người lao động. Với người có thành tích nổi bật, “có thể vượt các điều kiện về số năm làm việc, cấp bậc và thâm niên để trực tiếp công nhận cấp bậc kỹ năng nghề tương ứng”",
+    "notes": "Đây là định hướng chính sách, không phải mức lương đã được thực trả; mức thực hiện khác nhau nhiều giữa địa phương và doanh nghiệp. Việc có thể làm là kiểm tra kỹ năng có tiêu chuẩn nghề quốc gia tương ứng và lộ trình cấp bậc hay không; có lộ trình mới có cơ sở nói đến tăng lương theo bậc sau này. “Kỹ năng” không có cấp bậc cũng không có điều kiện gia nhập ngành thì học xong chỉ có thể tự tìm việc",
+    "extra": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "e-13-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "116996d3c296e9395f2b049549ed8c634fd78190bafd4710fbb86dcf53734dd7",
+  "original": {
+    "number": 10,
+    "title": "老人磕过头之后两三周到几个月变得走路不稳、迟钝、嗜睡或者一侧没劲，去做头颅 CT",
+    "fields": {
+      "cost": "做一次头颅 CT 两三百元。",
+      "plain": "老人磕头之后，血通常到第三周才积起来。撞的往往是小磕碰，一半以上的病人说不出自己受过伤。这病开刀之后复发率能到 33%，病死率能到 32%。发现老人突然糊涂、走路发飘、总想睡、一只手没劲，先倒回去问这两三个月摔没摔过头，再去做 CT。",
+      "benefit": "中华医学会神经外科学分会等发布过《慢性硬膜下血肿药物治疗中国专家共识》。慢性硬膜下血肿，是脑膜之间慢慢积起来的一摊血。专业说法是蛛网膜与硬脑膜之间积血形成的慢性占位。它「通常在颅脑外伤后第三周形成」，多见于老年人。开刀之后复发率可达 33%，病死率可达 32%。90 岁以上的病人，总体上恢复得好的只有 24%。系统综述：全球每 10 万人每年新发 3.39 到 39.1 例，随年龄升高，80 岁以上可达三倍。最常见的起因是外伤和跌倒，其次是长期酗酒、用防止血液凝固的药（抗凝）和暴力伤害。老年医学综述：临床表现「典型包括意识模糊、认知下降、步态障碍或嗜睡，可能与其他老年综合征相似」。这篇综述还说，发病越来越多，和用抗凝药、抗血小板药（阿司匹林、氯吡格雷这类）的人多了、老人更容易摔有关。另一篇文献综述写明，从受伤到出症状隔着一段时间，受的伤通常很轻，所以常被忽略。超过 50% 的病人否认受过伤",
+      "grade": "B",
+      "sources": "Zhang J 等 (2021). Expert consensus on drug treatment of chronic subdural hematoma. Chinese Neurosurgical Journal, 7(1), 47. <https://doi.org/10.1186/s41016-021-00263-z> ; Dziho A 等 (2025). Global prevalence and incidence of chronic subdural hematoma: A systematic review. Brain and Spine, 5, 105893. <https://doi.org/10.1016/j.bas.2025.105893> ; Mathon B, Shotar E (2026). Diagnostic and therapeutic management of chronic subdural hematoma in elderly patients. Gériatrie et Psychologie Neuropsychiatrie du Vieillissement, 24(1), 30-41. <https://doi.org/10.1684/pnv.2026.1274> ; Iliescu IA, Constantinescu AI (2015). Clinical evolutional aspects of chronic subdural haematomas - literature review. Journal of Medicine and Life, 8(Spec Issue), 26-33：「the brain injury, usually minor」「patients deny the existence of a trauma in over 50% of the cases」. <https://europepmc.org/article/MED/26361507>",
+      "notes": "撞的时候往往只是小磕碰，一半以上的老人说不出自己受过伤。所以家里发现「最近突然糊涂了、走路发飘、总想睡、一只手没劲」，先倒回去问这两三个月有没有摔过、撞过头，再去做 CT。它的表现像别的老年病，别直接归到「老年痴呆」或者「上次中风的后遗症」上。吃阿司匹林、氯吡格雷、华法林或者新型口服抗凝药的老人，风险更高，长期大量喝酒也是。防跌倒见第 1 节第 13 条（练平衡和腿部力量）。记性一年比一年差、不是磕头引起的，见第 17 节第 13 条（记忆门诊）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người cao tuổi sau va đầu từ hai, ba tuần đến vài tháng trở nên đi không vững, chậm chạp, ngủ gà hoặc yếu một bên: đi chụp CT đầu",
+    "cost": "Một lần chụp CT đầu tốn hai, ba trăm nhân dân tệ.",
+    "plain": "Sau khi người cao tuổi va đầu, máu thường đến tuần thứ ba mới tích tụ. Va chạm thường nhẹ; hơn một nửa người bệnh không kể được mình từng bị thương. Sau phẫu thuật, bệnh có thể tái phát tới 33%, tỷ lệ tử vong trong số người mắc có thể tới 32%. Thấy người cao tuổi đột nhiên lú lẫn, đi chao đảo, luôn buồn ngủ, yếu một tay thì hỏi lại xem hai, ba tháng qua có ngã va đầu không, rồi đi chụp CT.",
+    "benefit": "Phân hội Phẫu thuật thần kinh thuộc Hội Y học Trung Quốc cùng các đơn vị khác từng công bố “Đồng thuận chuyên gia Trung Quốc về điều trị tụ máu dưới màng cứng mạn tính bằng thuốc”. Tụ máu dưới màng cứng mạn tính là một vùng máu tích tụ từ từ giữa các màng não. Theo thuật ngữ chuyên môn, đó là khối choán chỗ mạn tính hình thành do máu tích giữa màng nhện và màng cứng. Tình trạng này “thường hình thành vào tuần thứ ba sau chấn thương sọ não”, hay gặp ở người cao tuổi. Sau phẫu thuật, tỷ lệ tái phát có thể tới 33%, tỷ lệ tử vong trong số người mắc có thể tới 32%. Trong người bệnh từ 90 tuổi trở lên, nhìn chung chỉ 24% hồi phục tốt. Một tổng quan hệ thống ghi nhận trên toàn cầu mỗi năm có 3.39 đến 39.1 ca mới trên 10 vạn người; tỷ lệ tăng theo tuổi và ở người từ 80 tuổi trở lên có thể gấp ba. Nguyên nhân thường gặp nhất là chấn thương và té ngã, tiếp theo là uống rượu quá mức lâu dài, dùng thuốc ngăn máu đông (chống đông) và thương tích do bạo lực. Một tổng quan lão khoa viết rằng biểu hiện lâm sàng “điển hình gồm lú lẫn, suy giảm nhận thức, rối loạn dáng đi hoặc ngủ gà, có thể giống các hội chứng lão khoa khác”. Bài này còn cho biết số ca ngày càng tăng liên quan đến nhiều người dùng thuốc chống đông, thuốc chống kết tập tiểu cầu như aspirin, clopidogrel hơn và người cao tuổi dễ ngã hơn. Một tổng quan tài liệu khác nêu rõ giữa lúc bị thương và lúc có triệu chứng có một khoảng trễ; thương tích thường rất nhẹ nên hay bị bỏ qua. Hơn 50% người bệnh phủ nhận từng bị thương.",
+    "notes": "Lúc va đầu thường chỉ là va chạm nhẹ, hơn một nửa người cao tuổi không kể được mình từng bị thương. Vì vậy, khi gia đình thấy “gần đây đột nhiên lú lẫn, đi chao đảo, luôn buồn ngủ, yếu một tay”, trước hết hỏi lại hai, ba tháng qua có ngã hoặc va đầu không, rồi đi chụp CT. Biểu hiện giống các bệnh khác ở người cao tuổi; đừng quy ngay cho “sa sút trí tuệ tuổi già” hoặc “di chứng lần đột quỵ trước”. Người cao tuổi dùng aspirin, clopidogrel, warfarin hoặc thuốc chống đông đường uống thế hệ mới có nguy cơ cao hơn, người uống nhiều rượu lâu dài cũng vậy. Phòng té ngã: xem chương 1 mục 13 (tập thăng bằng và sức mạnh chân). Trí nhớ kém dần qua từng năm, không phải do va đầu: xem chương 17 mục 13 (phòng khám trí nhớ).",
+    "extra": ""
+  }
+}

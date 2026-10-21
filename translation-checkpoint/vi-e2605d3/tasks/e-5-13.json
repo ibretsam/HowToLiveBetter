@@ -1,0 +1,35 @@
+{
+  "id": "e-5-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "c6d04f703bfff4f9a2e243970523b510d3accdffea7c4937e1ef61d250c4491c",
+  "original": {
+    "number": 13,
+    "title": "在医保 App 上办一次家庭共济绑定，职工医保个人账户的钱就能给配偶、父母、子女看病买药",
+    "fields": {
+      "cost": "不花钱。在参保地的医保 App 上，或者去经办机构，办一次家庭共济绑定。",
+      "plain": "办一次绑定，你职工医保个人账户里的钱，就能给配偶、父母、孩子看病买药用。不办，这笔钱就只能你自己用，一直躺在账户里。",
+      "benefit": "个人账户里的钱，可以用来支付你本人和你的配偶、父母、子女在定点医疗机构看病时自己要掏的那部分医疗费。也可以用来支付在定点零售药店买药品、医疗器械、医用耗材时自己要掏的那部分钱。文件还提出，要探索把个人账户用于给家人交城乡居民医保的个人缴费",
+      "grade": "A",
+      "sources": "国务院办公厅 (2021). 关于建立健全职工基本医疗保险门诊共济保障机制的指导意见（国办发〔2021〕14 号）第（五）项：「个人账户主要用于支付参保人员在定点医疗机构或定点零售药店发生的政策范围内自付费用。可以用于支付参保人员本人及其配偶、父母、子女在定点医疗机构就医发生的由个人负担的医疗费用，以及在定点零售药店购买药品、医疗器械、医用耗材发生的由个人负担的费用。探索个人账户用于配偶、父母、子女参加城乡居民基本医疗保险等的个人缴费。个人账户不得用于公共卫生费用、体育健身或养生保健消费等不属于基本医疗保险保障范围的支出。」<https://www.gov.cn/zhengce/zhengceku/2021-04/22/content_5601280.htm>",
+      "notes": "很多人的个人账户里躺着几千元，同时家里老人在自费买药。绑定一次以后长期有效。各地大多叫「家庭共济」，在本地医保 App 里就能办。注意反过来的一条红线：个人账户不能用于健身、养生保健这类消费。拿它去药店买保健品套现，属于骗保。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Liên kết chia sẻ trong gia đình trên ứng dụng bảo hiểm y tế một lần, tiền tài khoản cá nhân của bảo hiểm y tế người lao động có thể dùng khám chữa bệnh, mua thuốc cho vợ chồng, cha mẹ, con cái",
+    "cost": "Không tốn tiền. Làm liên kết chia sẻ trong gia đình một lần trên ứng dụng bảo hiểm y tế tại nơi tham gia hoặc đến cơ quan giải quyết thủ tục.",
+    "plain": "Liên kết một lần thì tiền trong tài khoản cá nhân bảo hiểm y tế người lao động của bạn có thể dùng khám chữa bệnh, mua thuốc cho vợ hoặc chồng, cha mẹ, con cái. Không làm thì chỉ bạn được dùng, tiền cứ nằm trong tài khoản.",
+    "benefit": "Tiền trong tài khoản cá nhân có thể thanh toán phần chi phí y tế phải tự trả khi bạn và vợ hoặc chồng, cha mẹ, con cái khám chữa bệnh ở cơ sở y tế được chỉ định. Cũng có thể trả phần tự chi khi mua thuốc, thiết bị y tế, vật tư tiêu hao y tế tại nhà thuốc bán lẻ được chỉ định. Văn bản còn đề xuất nghiên cứu việc dùng tài khoản cá nhân đóng phần phí cá nhân của bảo hiểm y tế cư dân thành thị, nông thôn cho người nhà.",
+    "notes": "Nhiều người để vài nghìn nhân dân tệ trong tài khoản cá nhân, trong khi người cao tuổi ở nhà phải tự trả tiền mua thuốc. Liên kết một lần có hiệu lực lâu dài. Phần lớn địa phương gọi là “chia sẻ bảo hiểm y tế trong gia đình”, làm được trên ứng dụng bảo hiểm y tế địa phương. Chú ý ranh giới ngược lại: tài khoản cá nhân không được dùng cho tiêu dùng như tập thể hình, dưỡng sinh, chăm sóc sức khỏe. Dùng để mua thực phẩm bảo vệ sức khỏe ở nhà thuốc nhằm rút tiền mặt là gian lận bảo hiểm.",
+    "extra": ""
+  }
+}

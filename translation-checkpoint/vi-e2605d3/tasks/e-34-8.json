@@ -1,0 +1,35 @@
+{
+  "id": "e-34-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "1a11260d59cb53c6b0dc0aa84ec4b03eb0be82a4fa4b5bd2634fca2e82179f65",
+  "original": {
+    "number": 8,
+    "title": "拉肚子先喝口服补液盐补水，5 岁以下的孩子不给止泻药",
+    "fields": {
+      "cost": "一盒口服补液盐几块到十几块钱，家里备一盒。",
+      "plain": "拉肚子最要紧的是补水，不是止泻。按说明书兑水喝口服补液盐，别拿果汁饮料代替，太甜反而让人更缺水。5 岁以下的孩子不给洛哌丁胺这类止泻药，严重的会肠梗阻，可能致命。",
+      "benefit": "世界卫生组织的腹泻治疗手册写明，「止泻」药和止吐药对儿童急性或迁延性腹泻没有实际益处。它们不能预防脱水，也不能改善营养。手册中文版的原话是「有些药物有危险的、有时是致命副作用。这些药绝不能用于 5 岁以下儿童」。洛哌丁胺这类减慢肠蠕动的药，可能引起严重的麻痹性肠梗阻，可以致命，还可能拖长感染。手册还写明，软饮料、市售果汁饮料这类糖太多的饮料，会把身体里的水吸进肠子，造成高钠性脱水。世卫手册推荐的是低渗配方，总渗透压 245 mOsm/L。和旧配方比，它让计划外的静脉输液少了 33%。一篇 Cochrane 综述汇总 8 项试验，结果相近（OR 0.59，95% CI 0.45–0.79，少约四成）。",
+      "grade": "A",
+      "sources": "World Health Organization (2005). The treatment of diarrhoea: a manual for physicians and other senior health workers, 4th revision. <https://iris.who.int/handle/10665/43209>（中文版《腹泻治疗：医生和高年资卫生工作者使用手册》第 2.6 节，同一页面下载）；Hahn S, Kim S, Garner P (2002). Reduced osmolarity oral rehydration solution for treating dehydration caused by acute diarrhoea in children. Cochrane Database of Systematic Reviews, (1):CD002847. <https://doi.org/10.1002/14651858.CD002847>",
+      "notes": "买的时候看说明书上的渗透压，选低渗配方。手册写明，孩子大便带血多半是细菌性痢疾，要去看医生用抗生素，不能只在家补水。收益定「中」是判断：手里的数字比的是两种补液盐，不是喝和不喝。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi tiêu chảy, trước tiên uống dung dịch muối bù nước đường uống; không cho trẻ dưới 5 tuổi dùng thuốc cầm tiêu chảy",
+    "cost": "Một hộp muối bù nước đường uống giá từ vài đến hơn mười nhân dân tệ; nên để sẵn một hộp ở nhà.",
+    "plain": "Khi tiêu chảy, quan trọng nhất là bù nước, không phải cầm tiêu chảy. Pha muối bù nước đường uống đúng lượng nước trong hướng dẫn; đừng thay bằng đồ uống nước trái cây, vì quá ngọt có thể khiến mất nước nhiều hơn. Không cho trẻ dưới 5 tuổi dùng thuốc cầm tiêu chảy như loperamide; trường hợp nặng có thể gây tắc ruột và tử vong.",
+    "benefit": "Sổ tay điều trị tiêu chảy của Tổ chức Y tế Thế giới ghi rõ thuốc “cầm tiêu chảy” và thuốc chống nôn không mang lại lợi ích thực tế cho trẻ bị tiêu chảy cấp hoặc kéo dài. Chúng không ngăn ngừa mất nước và cũng không cải thiện dinh dưỡng. Bản tiếng Trung của sổ tay viết: “Một số thuốc có tác dụng phụ nguy hiểm, đôi khi gây tử vong. Tuyệt đối không dùng những thuốc này cho trẻ dưới 5 tuổi”. Các thuốc làm chậm nhu động ruột như loperamide có thể gây liệt ruột nghiêm trọng dẫn đến tắc ruột và tử vong, đồng thời có thể kéo dài nhiễm trùng. Sổ tay còn nêu rằng đồ uống có quá nhiều đường như nước ngọt hoặc đồ uống nước trái cây bán sẵn sẽ hút nước từ cơ thể vào ruột, gây mất nước tăng natri máu. Công thức WHO khuyến nghị có áp lực thẩm thấu thấp, tổng áp lực thẩm thấu là 245 mOsm/L. So với công thức cũ, công thức này giảm 33% số lần truyền dịch tĩnh mạch ngoài kế hoạch. Một tổng quan Cochrane tổng hợp 8 thử nghiệm cho kết quả tương tự (OR 0.59, 95% CI 0.45–0.79, giảm khoảng bốn phần mười).",
+    "notes": "Khi mua, hãy xem áp lực thẩm thấu trên hướng dẫn và chọn công thức có áp lực thẩm thấu thấp. Sổ tay ghi rõ trẻ đi ngoài có máu phần lớn là bị lỵ do vi khuẩn; cần đi khám để dùng kháng sinh, không thể chỉ bù nước tại nhà. Lợi ích được xếp “trung bình” theo nhận định: các số liệu hiện có so sánh hai công thức muối bù nước, không so sánh uống với không uống.",
+    "extra": ""
+  }
+}

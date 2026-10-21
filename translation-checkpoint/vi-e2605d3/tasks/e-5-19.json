@@ -1,0 +1,35 @@
+{
+  "id": "e-5-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "830975d7bbc8cd31bbd2afd16d88bc881d6eb1d77e2e5f6919689792ad3e4ec9",
+  "original": {
+    "number": 19,
+    "title": "别把钱押在一只股票、一个平台、一套房上",
+    "fields": {
+      "cost": "不花钱。难的是要接受一件事：你不会正好押中最赚的那一个。",
+      "plain": "几样东西只要不是完全一起涨、一起跌，把钱分开放，平均能赚到的不变，账户的起伏却会小一些。反过来，钱全押在一只股票、一个平台、一套房上，它一出事，就等于你全部出事。",
+      "benefit": "只要几项资产不是完全同涨同跌，把钱分开放，预期收益（平均能赚到的）不变，波动（账户上下起伏）却更小。这是 Markowitz 1952 年提出的组合选择基本结论，此后几十年一直沿用。反过来说，钱全押在一只股票或者一个平台上，它的方差就是你全部的方差，它涨跌多少你就跟着涨跌多少。出事的时候没有任何对冲，也就没有别的资产能帮你补回来",
+      "grade": "B",
+      "sources": "Markowitz, H. (1952). Portfolio Selection. The Journal of Finance, 7(1), 77–91. <https://doi.org/10.1111/j.1540-6261.1952.tb01525.x>",
+      "notes": "定成 B 级，是因为那篇经典文献是纯数学推导，没有算出「分散能少亏多少钱」的实际数字。分散只能让账户的涨跌小一些，不保证你不亏。买宽基指数基金（见本节第 17 条）本身就是一种省事的分散办法。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng dồn tiền vào một cổ phiếu, một nền tảng, một căn nhà",
+    "cost": "Không tốn tiền. Cái khó là chấp nhận mình sẽ không đặt đúng toàn bộ tiền vào thứ sinh lời nhiều nhất.",
+    "plain": "Miễn là các tài sản không hoàn toàn cùng tăng cùng giảm, chia tiền ra sẽ giữ nguyên mức kiếm được trung bình nhưng giảm dao động của tài khoản. Ngược lại, dồn hết vào một cổ phiếu, một nền tảng, một căn nhà thì thứ đó gặp chuyện đồng nghĩa toàn bộ tài sản của bạn gặp chuyện.",
+    "benefit": "Miễn các tài sản không hoàn toàn cùng tăng cùng giảm, phân bổ tiền sẽ giữ nguyên lợi suất kỳ vọng (mức trung bình có thể kiếm) nhưng giảm biến động (dao động lên xuống của tài khoản). Đây là kết luận cơ bản về lựa chọn danh mục do Markowitz đề xuất năm 1952, được dùng liên tục nhiều thập niên sau đó. Ngược lại, dồn hết tiền vào một cổ phiếu hay một nền tảng thì phương sai của nó là toàn bộ phương sai của bạn: nó tăng giảm bao nhiêu, bạn tăng giảm bấy nhiêu. Khi xảy ra chuyện không có gì bù trừ, cũng không có tài sản khác giúp bù lại.",
+    "notes": "Xếp B vì tài liệu kinh điển đó là suy luận toán học thuần túy, không tính số thực tế “đa dạng hóa giúp giảm lỗ bao nhiêu”. Phân bổ chỉ giúp tài khoản bớt tăng giảm, không bảo đảm không lỗ. Mua quỹ chỉ số thị trường rộng (xem mục 17 của chương này) tự nó là một cách phân bổ ít tốn công. Nội dung này không cấu thành lời khuyên đầu tư.",
+    "extra": ""
+  }
+}

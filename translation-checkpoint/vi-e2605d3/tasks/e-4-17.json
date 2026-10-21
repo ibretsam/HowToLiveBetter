@@ -1,0 +1,35 @@
+{
+  "id": "e-4-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "d65a6022c7da8ae37bf9641c9ecd9d48a82cff52181edf376452f559efddb9de",
+  "original": {
+    "number": 17,
+    "title": "花一次时间学常用软件的键盘快捷键和自动化",
+    "fields": {
+      "cost": "不花钱。要一次性投入几小时到几十小时去学。难在刚上手那阵子比用鼠标还慢。",
+      "plain": "多数用惯了 Word 的人，还是在点工具栏图标。分组对比的实验里，快捷键比菜单和图标都快。学这一次是一次性花费，之后每天每次操作都在回本。做同一类工作越久，赚回来越多。",
+      "benefit": "研究看了 251 名有经验的 Word 用户，多数人很少用更快的快捷键，还是以点图标工具栏为主。分组对比的实验确认，菜单、图标、快捷键这三种方式里，快捷键最快。省回的时间随每天操作次数一点点累积。长期做同一类工作的人，收益最大。",
+      "grade": "B",
+      "sources": "Lane, D. M., Napier, H. A., Peres, S. C., & Sándor, A. (2005). Hidden costs of graphical user interfaces: Failure to make the transition from menus and icon toolbars to keyboard shortcuts. International Journal of Human-Computer Interaction. <https://doi.org/10.1207/s15327590ijhc1802_1>",
+      "notes": "只学你每天要用到十次以上的操作，学得太全是另一种浪费。另外，那项效率实验只有 6 名参与者，摘要也没有给出每次操作节省的秒数。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Dành thời gian một lần để học phím tắt và tự động hóa trong phần mềm thường dùng",
+    "cost": "Không tốn tiền. Cần bỏ ra từ vài giờ đến vài chục giờ để học một lần. Khó nhất là lúc mới dùng còn chậm hơn chuột.",
+    "plain": "Đa số người đã dùng Word quen vẫn bấm biểu tượng trên thanh công cụ. Trong thí nghiệm so sánh các nhóm, phím tắt nhanh hơn cả menu lẫn biểu tượng. Chỉ mất công học một lần, rồi mỗi thao tác mỗi ngày đều bù lại thời gian ấy. Làm cùng loại công việc càng lâu, thời gian nhận lại càng nhiều.",
+    "benefit": "Nghiên cứu xem xét 251 người dùng Word có kinh nghiệm; đa số hiếm dùng phím tắt vốn nhanh hơn, vẫn chủ yếu bấm biểu tượng trên thanh công cụ. Thí nghiệm so sánh các nhóm xác nhận trong ba cách menu, biểu tượng và phím tắt, phím tắt nhanh nhất. Thời gian tiết kiệm tích lũy dần theo số thao tác mỗi ngày. Người làm cùng loại công việc lâu dài nhận lợi ích lớn nhất.",
+    "notes": "Chỉ học thao tác bạn dùng từ mười lần mỗi ngày trở lên; học quá đầy đủ là một kiểu lãng phí khác. Ngoài ra, thí nghiệm hiệu suất đó chỉ có 6 người tham gia, phần tóm tắt cũng không nêu số giây tiết kiệm cho mỗi thao tác.",
+    "extra": ""
+  }
+}

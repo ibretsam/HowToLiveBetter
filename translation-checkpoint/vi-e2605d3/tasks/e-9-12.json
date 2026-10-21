@@ -1,0 +1,35 @@
+{
+  "id": "e-9-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "f3ed48a8809e472b197b02a9161a67e27e527720df76cae8e1c28e6c121b1287",
+  "original": {
+    "number": 12,
+    "title": "不偷拍别人，不在出租屋、民宿、酒店房间装摄像头",
+    "fields": {
+      "cost": "不花钱，也不费时间。不偷拍别人，也不在出租屋、民宿、酒店房间里装摄像头。",
+      "plain": "偷拍、偷窥、散布别人的隐私，拘留 5 日以下或者罚 1000 元以下，情节较重的拘留 5 到 10 日。用专门的偷拍设备、造成严重后果的，判 2 年以下。有两人在三家酒店的房间装器材远程偷拍，分别判了 1 年 3 个月和 1 年。别人住的房间，没经同意不许拍。",
+      "benefit": "偷窥、偷拍、窃听、散布别人隐私的，拘留 5 日以下，或者罚 1000 元以下。情节较重的拘留 5 到 10 日，还可以再罚 1000 元以下。非法使用窃听、窃照专用器材、造成严重后果的，判 2 年以下。窃听、窃照专用器材，指专门用来偷听、偷拍的设备。官方案例：颜某平、颜某建在网上买了窃照器材，装进三家酒店的多个房间远程偷拍，分别判 1 年 3 个月和 1 年。民法典第一千零三十三条另有一层：除法律另有规定或者本人明确同意外，任何人不得「进入、拍摄、窥视他人的住宅、宾馆房间等私密空间」，也不得「拍摄、窥视、窃听、公开他人的私密活动」（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第五十条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十四条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民法院 (2024). 依法惩治非法生产、销售、使用窃听、窃照设备犯罪典型案例（案例二）. <https://www.court.gov.cn/shenpan/xiangqing/449581.html>；全国人大 (2020). 民法典（第一千零三十二、一千零三十三条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "偷拍的东西一旦拿去卖或者传播，另按制作、贩卖淫秽物品牟利等罪处理，同一批案例里有判 10 年的。自己家里装监控，只拍自家、家里人都知道的，条文里没有禁止，这是按条文推出来的。镜头拍到租客、房客住的房间，或者拍别人的私密活动，就在民法典禁止的范围里。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không quay, chụp lén người khác; không lắp camera trong phòng cho thuê, nhà lưu trú hay phòng khách sạn",
+    "cost": "Không tốn tiền, cũng không mất thời gian. Không quay, chụp lén người khác, cũng không lắp camera trong phòng cho thuê, nhà lưu trú hoặc phòng khách sạn.",
+    "plain": "Quay chụp lén, nhìn trộm, phát tán đời tư của người khác thì bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ; tình tiết nặng hơn thì tạm giữ hành chính từ 5 đến 10 ngày. Dùng thiết bị chuyên quay chụp lén, gây hậu quả nghiêm trọng thì phạt tù không quá 2 năm. Hai người lắp thiết bị trong phòng của ba khách sạn để quay lén từ xa, lần lượt bị phạt tù 1 năm 3 tháng và 1 năm. Phòng người khác ở thì không được quay, chụp khi chưa có sự đồng ý.",
+    "benefit": "Nhìn trộm, quay chụp lén, nghe lén, phát tán đời tư của người khác thì bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Tình tiết nặng hơn thì tạm giữ hành chính từ 5 đến 10 ngày, còn có thể phạt thêm không quá 1000 nhân dân tệ. Sử dụng trái phép thiết bị chuyên nghe lén, quay chụp lén, gây hậu quả nghiêm trọng thì phạt tù không quá 2 năm. Thiết bị chuyên nghe lén, quay chụp lén là thiết bị chuyên dùng để nghe trộm, quay chụp trộm. Vụ việc chính thức: Nhan Mỗ Bình và Nhan Mỗ Kiến mua thiết bị quay chụp lén trên mạng, lắp trong nhiều phòng của ba khách sạn để quay lén từ xa, lần lượt bị phạt tù 1 năm 3 tháng và 1 năm. Điều một nghìn không trăm ba mươi ba của Bộ luật Dân sự còn đặt thêm một lớp quy định: trừ khi pháp luật có quy định khác hoặc chính người đó đồng ý rõ ràng, không ai được “đi vào, quay chụp, nhìn trộm không gian riêng tư như nhà ở, phòng khách sạn của người khác”, cũng không được “quay chụp, nhìn trộm, nghe lén, công khai hoạt động riêng tư của người khác” (toàn Trung Quốc).",
+    "notes": "Nội dung quay chụp lén một khi mang bán hoặc truyền bá thì còn bị xử lý theo các tội như sản xuất, buôn bán vật phẩm đồi trụy để kiếm lời; trong cùng đợt vụ việc có người bị phạt tù 10 năm. Lắp camera giám sát trong nhà mình, chỉ quay nhà mình và mọi người trong nhà đều biết thì điều luật không cấm; đây là suy luận từ câu chữ của luật. Camera quay vào phòng người thuê, khách lưu trú ở hoặc quay hoạt động riêng tư của người khác thì thuộc phạm vi Bộ luật Dân sự cấm.",
+    "extra": ""
+  }
+}

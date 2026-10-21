@@ -1,0 +1,15 @@
+{
+  "id": "e-1-46",
+  "source_sha256": "6ae03e184eedebdd85de14cc5af40f67b47e9158d785b4f2acc5dfe06e41caef",
+  "draft_sha256": "f77147a39e278fb1df3b5ce8ef442541f4e84d453fb1f6bab5d0812314ee6343",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves ventilation, passing gas measurements, protective equipment and continuous supervision as joint prerequisites; opening a cover alone is insufficient. All incident counts, percentages, countries and no-entry/rescue restrictions retained."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-27-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_sha256": "6c4265a84a1f75318c60f30d524f120c9be20de5ec53a4ccbbca9dbf0f6bbcc1",
+  "translator": "batch13-health",
+  "translation": {
+    "title": "Có yếu tố nguy cơ cao tiền sản giật thì sau tuần thai 12 bắt đầu uống một viên aspirin liều thấp mỗi ngày theo chỉ định bác sĩ",
+    "cost": "Vài chục nhân dân tệ. Uống thuốc mỗi ngày theo chỉ định bác sĩ đến lúc sinh. Điều khó là ngày nào cũng không quên.",
+    "plain": "Tiền sản giật là một bệnh tăng huyết áp trong thai kỳ. Từng mắc ở thai kỳ trước, mang đa thai, có tăng huyết áp mạn, đái tháo đường từ trước khi mang thai, bệnh thận hoặc bệnh tự miễn được tính là nguy cơ cao. Người nguy cơ cao từ tuần thai 12 uống aspirin liều thấp mỗi ngày theo chỉ định bác sĩ thì tiền sản giật giảm khoảng mười lăm phần trăm, sinh non và trẻ tử vong quanh lúc sinh giảm khoảng hai mươi phần trăm. Người khác đừng tự uống.",
+    "benefit": "Lực lượng Đặc nhiệm Dịch vụ Dự phòng Mỹ đưa ra khuyến nghị mức B: người nguy cơ cao tiền sản giật nên bắt đầu aspirin liều thấp (81 miligam/ngày) sau tuần thai 12 để dự phòng. Tiền sản giật là một bệnh tăng huyết áp trong thai kỳ. Gộp nhiều nghiên cứu cho kết quả sau; 95% CI là khoảng tin cậy. Tiền sản giật RR 0.85 (95% CI từ 0.75 đến 0.95, 16 nghiên cứu), giảm khoảng 15%. Sinh non RR 0.80 (95% CI từ 0.67 đến 0.95, 13 nghiên cứu), giảm khoảng 20%. Tử vong chu sinh RR 0.79 (95% CI từ 0.66 đến 0.96, 11 nghiên cứu), giảm khoảng 21%; tử vong chu sinh là tử vong trong giai đoạn quanh lúc sinh. Trẻ nhỏ so với tuổi thai/hạn chế tăng trưởng trong tử cung RR 0.82 (95% CI từ 0.68 đến 0.99, 16 nghiên cứu), giảm khoảng 18%; nói đến thai nhi phát triển nhỏ hơn so với cùng tuần thai.",
+    "notes": "Nguy cơ cao gồm từng tiền sản giật ở thai kỳ trước, mang song thai hoặc đa thai, có tăng huyết áp mạn. Ngoài ra còn có đái tháo đường týp 1 hoặc týp 2 từ trước khi mang thai, bệnh thận hoặc bệnh tự miễn như lupus ban đỏ hệ thống, hội chứng kháng phospholipid. Không thuộc các nhóm này thì đừng tự uống. Thuốc cần bác sĩ kê đơn; khi khám thai nói rõ bệnh sử để bác sĩ đánh giá. Ở Trung Quốc thường bán viên bao tan trong ruột 100 miligam; dùng theo chỉ định.",
+    "extra": ""
+  }
+}

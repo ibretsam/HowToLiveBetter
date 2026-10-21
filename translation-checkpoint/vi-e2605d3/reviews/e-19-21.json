@@ -1,0 +1,15 @@
+{
+  "id": "e-19-21",
+  "source_sha256": "c1a79892a00f070ef3555ef934d895b8d570de58d2e801e6041912c3b97b204b",
+  "draft_sha256": "105317932ef65d76708f325ad4bab3d077cab317c8ba1e6b97c9f222342cdc7c",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified updated six-month ordinary first-instance deadline with extension, thirty-day resignation notice versus legally justified termination, and Beijing-specific grounds and unresolved underpayment treatment. Source qualifications remain intact; no new nationwide rule inferred."
+}

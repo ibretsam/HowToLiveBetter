@@ -1,0 +1,15 @@
+{
+  "id": "e-34-13",
+  "source_sha256": "90be5436470dd72ba5d3209123008db0991db1ddbb8c1d9302753f956ea97495",
+  "draft_sha256": "fc554e2b72363775a22b0a624934f5d90356c8f5d7a8335beac3a4cdff874d1b",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison of all new content: 85/43 drugs, 200/250 mL, 3-fold, source 0-to-8-fold range, AUC 330% (not increase by 330%), 180–250%, 4/10/24 hours, named drugs/fruit, exceptions, prescription consultation and B/small surrogate-endpoint rationale. Source absolute statements about clopidogrel and 0-to-8-fold range retained without independent pharmacology verification."
+}

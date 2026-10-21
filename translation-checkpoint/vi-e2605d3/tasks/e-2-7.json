@@ -1,0 +1,35 @@
+{
+  "id": "e-2-7",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "e013cd85f6e98299513951878223bbd71471e7a7d6b1a21a81a3b6ee7bff8219",
+  "original": {
+    "number": 7,
+    "title": "不喝含糖饮料，换成无糖的也不算解决",
+    "fields": {
+      "cost": "不花钱，也不占时间。换成白水或无糖茶还省钱。难在要改掉喝甜饮料的习惯，包括无糖的。",
+      "plain": "美国的研究里，每天喝两份以上甜饮料的人，同期死亡的概率比几乎不喝的人高约两成。每天一到两份的，也高一成多。换成无糖的也没见着好处：每天喝两杯以上代糖饮料的人，反而高约四分之一。",
+      "benefit": "美国有两项跟踪一群人的大型研究。这两项只记录、不分组，约 11.8 万人、3.6 万例死亡。每天喝 2 份以上的人，死亡风险比每月不到 1 份的人高约 21%（HR 1.21）。每天喝 1–2 份的，高约 14%（HR 1.14）。欧洲 EPIC 跟踪研究只记录、不分组，有 45 万人、10 个国家。每天喝 2 杯以上的人和每月不到 1 杯的人比：含糖软饮这项高约 8%（HR 1.08，95% CI 1.01–1.16）。人工甜味剂饮料（无糖版）高约 26%（HR 1.26，1.16–1.35）。所有软饮合起来算，高约 17%（HR 1.17，1.11–1.22）。",
+      "grade": "A",
+      "sources": "Malik VS 等 (2019). Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.118.037401>；Mullee A, Romaguera D, Pearson-Stuttard J, et al. (2019). Association Between Soft Drink Consumption and Mortality in 10 European Countries. JAMA Internal Medicine, 179(11), 1479-1490. <https://doi.org/10.1001/jamainternmed.2019.2478>",
+      "notes": "争议在无糖饮料上。代糖饮料的关联反而比含糖的更强，这很可能是因果反过来了：已经超重或者得了糖尿病的人，才改喝无糖版。所以别据此说代糖更毒。但它至少说明，「换成无糖就没事」这个说法没有证据支持。换成白水或者无糖茶最稳妥。另外，这类研究只是跟踪记录，没做分组试验，喝甜饮料多的人本来生活方式就更差，所以数字可能偏大。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không uống đồ uống có đường; đổi sang loại không đường cũng chưa giải quyết được",
+    "cost": "Không tốn tiền hay thời gian. Đổi sang nước lọc hoặc trà không đường còn tiết kiệm tiền. Khó ở chỗ phải bỏ thói quen uống đồ uống ngọt, kể cả loại không đường.",
+    "plain": "Trong nghiên cứu ở Mỹ, người uống từ hai khẩu phần đồ uống ngọt trở lên mỗi ngày có khả năng tử vong trong cùng thời gian cao hơn khoảng một phần năm người hầu như không uống. Một đến hai khẩu phần mỗi ngày cũng cao hơn một phần mười. Đổi sang loại không đường cũng chưa thấy lợi ích: người uống từ hai cốc đồ uống dùng chất tạo ngọt thay đường trở lên mỗi ngày lại cao hơn khoảng một phần tư.",
+    "benefit": "Hai nghiên cứu lớn ở Mỹ theo dõi các nhóm người, chỉ ghi nhận chứ không phân nhóm, gồm khoảng 11.8 vạn người và 3.6 vạn ca tử vong. Người uống từ 2 khẩu phần trở lên mỗi ngày có nguy cơ tử vong cao hơn khoảng 21% so với người uống chưa đến 1 khẩu phần mỗi tháng (HR 1.21). Người uống 1–2 khẩu phần mỗi ngày cao hơn khoảng 14% (HR 1.14). Nghiên cứu theo dõi EPIC ở châu Âu chỉ ghi nhận, không phân nhóm, gồm 45 vạn người thuộc 10 quốc gia. So sánh người uống từ 2 cốc trở lên mỗi ngày với người uống chưa đến 1 cốc mỗi tháng: với nước ngọt có đường, nguy cơ cao hơn khoảng 8% (HR 1.08, 95% CI 1.01–1.16). Với đồ uống dùng chất tạo ngọt nhân tạo, tức bản không đường, cao hơn khoảng 26% (HR 1.26, 1.16–1.35). Tính tất cả nước ngọt cùng nhau, cao hơn khoảng 17% (HR 1.17, 1.11–1.22).",
+    "notes": "Điểm còn tranh luận nằm ở đồ uống không đường. Mối liên hệ của đồ uống dùng chất tạo ngọt thay đường còn mạnh hơn loại có đường, rất có thể do nhân quả đảo chiều: người đã thừa cân hoặc mắc đái tháo đường mới chuyển sang loại không đường. Vì vậy, đừng dựa vào đây để nói chất tạo ngọt độc hơn. Nhưng ít nhất kết quả cho thấy chưa có bằng chứng ủng hộ nhận định “đổi sang không đường là ổn”. Đổi sang nước lọc hoặc trà không đường là cách chắc chắn nhất. Ngoài ra, loại nghiên cứu này chỉ theo dõi ghi nhận, không làm thử nghiệm phân nhóm; người uống nhiều đồ uống ngọt vốn có lối sống kém lành mạnh hơn, nên con số có thể bị phóng đại.",
+    "extra": ""
+  }
+}

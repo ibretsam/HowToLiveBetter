@@ -1,0 +1,35 @@
+{
+  "id": "e-3-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "c28974eed17ced7ef2304ffaa8690f25e1079e8032600623161c92ba926e2e09",
+  "original": {
+    "number": 4,
+    "title": "下午两点以后不碰咖啡因",
+    "fields": {
+      "cost": "不花钱。习惯下午喝咖啡的人，要忍住不喝，需要一点毅力。",
+      "plain": "睡前 6 小时吃下 400 mg 咖啡因，差不多是三四杯咖啡，当晚用仪器测出来少睡 1 小时以上。可自己写的睡眠日记根本看不出差别。一杯 250 mL 的咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。十一点睡的人，下午两点就是界线。",
+      "benefit": "睡前 6 小时吃下含 400 mg 咖啡因的药片，仪器测到的总睡眠时间比吃安慰剂片少 1.1 到 1.2 小时。按一杯 250 mL 的咖啡含 107 mg 算，400 mg 约是三四杯咖啡的量。安慰剂片外观一样，但不含咖啡因。可是受试者自己写的睡眠日记没有报出差别，自己察觉不到。把多项研究合起来算（荟萃分析）：咖啡因平均让总睡眠时间减少 45 分钟。躺在床上真正睡着的比例（睡眠效率）下降 7%。一杯 250 mL 的咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。",
+      "grade": "A",
+      "sources": "Drake, Roehrs, Shambroom & Roth (2013). Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. Journal of Clinical Sleep Medicine. <https://doi.org/10.5664/jcsm.3170>；Gardiner et al. (2023). The effect of caffeine on subsequent sleep: A systematic review and meta-analysis. Sleep Medicine Reviews. <https://doi.org/10.1016/j.smrv.2023.101764>",
+      "notes": "Drake 那项只有一个实验室做过，用的 400 mg 偏大，等于一次喝掉一天的上限，上限见第 2 节第 26 条（三到四杯咖啡）。咖啡因代谢慢的人，截止时间还要更早。少喝咖啡因换回来的是睡眠时长，和第 3 条（每晚睡够 7 到 8 小时）叠加。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không dùng caffeine sau hai giờ chiều",
+    "cost": "Không tốn tiền. Người quen uống cà phê buổi chiều cần một chút ý chí để nhịn uống.",
+    "plain": "Dùng 400 mg caffeine trước giờ ngủ 6 giờ, tương đương khoảng ba đến bốn tách cà phê, khiến thời lượng ngủ đêm đó đo bằng máy giảm từ 1 giờ trở lên. Nhưng nhật ký giấc ngủ tự ghi lại không cho thấy khác biệt. Cần uống xong một tách cà phê 250 mL (107 mg) ít nhất 8.8 giờ trước giờ ngủ để không ảnh hưởng giấc ngủ. Với người ngủ lúc mười một giờ đêm, giới hạn là hai giờ chiều.",
+    "benefit": "Uống viên chứa 400 mg caffeine trước giờ ngủ 6 giờ khiến tổng thời lượng ngủ đo bằng máy ít hơn 1.1 đến 1.2 giờ so với dùng viên giả dược. Tính theo một tách cà phê 250 mL chứa 107 mg, 400 mg tương đương khoảng ba đến bốn tách. Viên giả dược trông giống nhau nhưng không chứa caffeine. Tuy nhiên, nhật ký giấc ngủ do người tham gia tự ghi không báo cáo khác biệt; họ không tự nhận ra. Khi gộp nhiều nghiên cứu để tính (phân tích gộp), caffeine làm tổng thời lượng ngủ giảm trung bình 45 phút. Tỷ lệ thời gian thực sự ngủ trong lúc nằm trên giường (hiệu suất giấc ngủ) giảm 7%. Cần uống xong một tách cà phê 250 mL (107 mg) ít nhất 8.8 giờ trước giờ ngủ để không ảnh hưởng giấc ngủ.",
+    "notes": "Nghiên cứu của Drake chỉ được thực hiện tại một phòng thí nghiệm, với liều 400 mg khá lớn, tương đương dùng hết giới hạn cả ngày trong một lần. Giới hạn đó xem chương 2 mục 26 (ba đến bốn tách cà phê). Người chuyển hóa caffeine chậm cần ngừng dùng sớm hơn nữa. Điều đổi lại khi giảm caffeine là thời lượng ngủ; kết hợp với mục 3 (ngủ đủ 7 đến 8 giờ mỗi đêm).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-3-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "65a25cca5273c0b2e3a8f69b7505f556e11711ab7e114a800fcdc5c0eac690e6",
+  "original": {
+    "number": 17,
+    "title": "生气时先离场，把对方当天气而不是当敌人",
+    "fields": {
+      "cost": "不花钱。当场要忍住不回嘴，转身走开，事后再决定要不要处理。这需要一点练习。",
+      "plain": "换个角度看刚发生的事，或者站到对方立场想一下，都能把情绪降下来，后一种更管用。只是不把情绪表现出来，也有一点效果。但硬压住心里的感受、硬不去想那件事，都没用。惩罚了冒犯者的人，事后反而更久地反复想这件事，不报复的人翻篇更快。",
+      "benefit": "把 306 组实验比较合起来算（荟萃分析）：换个角度解释发生的事（认知重评）对情绪的效果大小 d = 0.36。站到对方立场看 d = 0.45。转移注意 d = 0.27。压住情绪的外在表现（不表现出来）有效，d = 0.32。硬压住感受无效（d = -0.04），硬不去想那件事也无效（d = -0.12）。这几个数是心里感受、外在表现和身体反应几类指标合起来算的，摘要里没有分开给。另有三项实验显示：惩罚冒犯者的人，事后反而更久地反复想对方；不惩罚的人更快「翻篇」。人们事先高估了报复带来的痛快。",
+      "grade": "B",
+      "sources": "Webb TL, Miles E, Sheeran P (2012). Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation. Psychological Bulletin. <https://doi.org/10.1037/a0027600>；Carlsmith KM, Wilson TD, Gilbert DT (2008). The paradoxical consequences of revenge. Journal of Personality and Social Psychology. <https://doi.org/10.1037/a0012165>",
+      "notes": "汇总多项研究的那部分量的是情绪强度，不是精力，效果小到中等。报复那部分只有一组实验，所以定 B。「空船」是庄子《山木》里的寓言：空船撞过来不生气，船上有人才生气，可撞的是同一下。这是类比，不是证据。真有损失，就走第 8 节和第 9 节的法律路径，比当场发作便宜得多。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi tức giận, hãy rời đi trước; coi đối phương như thời tiết thay vì kẻ thù",
+    "cost": "Không tốn tiền. Lúc đó hãy nhịn đáp trả, quay đi, rồi quyết định sau có cần xử lý không. Việc này cần luyện tập một chút.",
+    "plain": "Nhìn việc vừa xảy ra từ góc khác hoặc đặt mình vào vị trí đối phương đều giúp giảm cảm xúc; cách sau hiệu quả hơn. Chỉ không bộc lộ cảm xúc ra ngoài cũng có chút tác dụng. Nhưng cố đè nén cảm giác trong lòng hay ép mình không nghĩ đến chuyện đó đều không hiệu quả. Người trừng phạt người xúc phạm mình lại nghĩ đi nghĩ lại về chuyện ấy lâu hơn, còn người không trả đũa bỏ qua nhanh hơn.",
+    "benefit": "Gộp 306 nhóm so sánh trong thí nghiệm để tính (phân tích gộp): diễn giải việc xảy ra từ góc khác (tái đánh giá nhận thức) có cỡ hiệu ứng đối với cảm xúc d = 0.36. Nhìn từ vị trí đối phương có d = 0.45. Chuyển hướng chú ý có d = 0.27. Kiềm chế biểu hiện cảm xúc bên ngoài (không bộc lộ) có hiệu quả, d = 0.32. Cố đè nén cảm giác không hiệu quả (d = -0.04), cố không nghĩ đến chuyện đó cũng không hiệu quả (d = -0.12). Các con số này gộp các chỉ số cảm giác bên trong, biểu hiện bên ngoài và phản ứng cơ thể; phần tóm tắt không tách riêng. Ba thí nghiệm khác cho thấy người trừng phạt kẻ xúc phạm mình sau đó nghĩ đi nghĩ lại về người ấy lâu hơn; người không trừng phạt nhanh “bỏ qua” hơn. Trước đó, người ta đã đánh giá quá cao cảm giác hả hê do trả đũa mang lại.",
+    "notes": "Phần tổng hợp nhiều nghiên cứu đo cường độ cảm xúc chứ không phải sức lực, với hiệu quả nhỏ đến trung bình. Phần trả đũa chỉ có một nhóm thí nghiệm nên xếp mức B. “Thuyền rỗng” là ngụ ngôn trong thiên Sơn Mộc của Trang Tử: thuyền rỗng va vào thì không giận, có người trên thuyền mới giận, dù cú va chạm giống nhau. Đây là phép so sánh, không phải bằng chứng. Nếu thực sự có tổn thất, hãy đi theo con đường pháp lý ở chương 8 và chương 9, ít tốn kém hơn nhiều so với nổi giận ngay tại chỗ.",
+    "extra": ""
+  }
+}

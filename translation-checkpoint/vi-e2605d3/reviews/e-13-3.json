@@ -1,0 +1,15 @@
+{
+  "id": "e-13-3",
+  "source_sha256": "748d118132de8b75fec9659042f4ebf7057db5ffd7f74bac23502c6a83e7f2c3",
+  "draft_sha256": "14432c7f2787e9d67964d1f2baa6a5379f403c1643e58517b74d85201ac3234b",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves 9 trials/6756 patients, 3–6-month outcome, odds-versus-probability distinction, 32.9% versus 23.1% and 9.8 percentage points, and conditional imaging-selected extended treatment window. All CI, urgency, physician assessment and author inference about aspiration retained."
+}

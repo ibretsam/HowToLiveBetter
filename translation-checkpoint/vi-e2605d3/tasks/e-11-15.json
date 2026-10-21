@@ -1,0 +1,35 @@
+{
+  "id": "e-11-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "ce4ddf15feff41210608b76b663cbf16410c5591b43829bd507efde07d8501bd",
+  "original": {
+    "number": 15,
+    "title": "做 App 只收业务必需的个人信息，14 岁以下要监护人同意，隐私政策写清楚",
+    "fields": {
+      "cost": "不花钱。上线前把 App 申请的权限列表和隐私政策对一遍，能不要的权限就不要。难在产品那边总想多留一些「以后可能用得上」的数据",
+      "plain": "只收业务必需的信息，不满 14 岁的要监护人同意。违规的先责令改正，App 可能被停掉。拒不改正罚 100 万元以下，负责人罚 1 万到 10 万元。严重的罚 5000 万元以下或上年营业额的 5% 以下，负责人罚 10 万到 100 万元。",
+      "benefit": "处理个人信息应当有明确合理的目的，与这个目的直接相关，并且采取对个人权益影响最小的方式。处理个人信息要取得个人同意，或者符合法定情形。不满 14 周岁的，必须取得父母或者监护人同意。违反的，由监管部门责令改正、给予警告、没收违法所得，对违法的 App 责令暂停或者终止提供服务。拒不改正的罚 100 万元以下，对直接负责的主管人员和其他直接责任人员罚 1 万到 10 万元。情节严重的罚 5000 万元以下，或者上一年度营业额 5% 以下。责任人员罚 10 万到 100 万元。这些人还可能被禁止在一定期限内担任相关企业的董事、监事、高管。出售或者提供个人信息构成犯罪的，见第 4 条（全国）",
+      "grade": "B",
+      "sources": "全国人大常委会 (2021). 个人信息保护法（第六、十三、三十一、六十六条）. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>",
+      "notes": "法条没写「其他直接责任人员」指哪些岗位。作者推断，写代码和做产品的人也可能被算进去，本书没有找到能逐字核对的案例。工信部定期通报下架违规 App，本节没有核实到具体是哪一期通报，所以不引。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Làm ứng dụng chỉ thu thập thông tin cá nhân cần thiết cho hoạt động; người từ 14 tuổi trở xuống cần người giám hộ đồng ý, viết rõ chính sách quyền riêng tư",
+    "cost": "Không tốn tiền. Trước khi phát hành, đối chiếu danh sách quyền ứng dụng xin cấp với chính sách quyền riêng tư; quyền nào bỏ được thì bỏ. Điều khó là bên sản phẩm luôn muốn giữ thêm dữ liệu ‘sau này có thể cần’.",
+    "plain": "Chỉ thu thập thông tin cần thiết cho hoạt động; người chưa đủ 14 tuổi cần người giám hộ đồng ý. Vi phạm thì trước hết bị yêu cầu sửa, ứng dụng có thể bị dừng. Không sửa thì phạt từ 100 vạn nhân dân tệ trở xuống, người phụ trách bị phạt 1 vạn đến 10 vạn. Trường hợp nghiêm trọng bị phạt từ 5000 vạn nhân dân tệ trở xuống hoặc từ 5% doanh thu năm trước trở xuống; người phụ trách bị phạt 10 vạn đến 100 vạn nhân dân tệ.",
+    "benefit": "Xử lý thông tin cá nhân phải có mục đích rõ ràng, hợp lý, liên quan trực tiếp đến mục đích đó và dùng cách ảnh hưởng ít nhất đến quyền lợi cá nhân. Phải có sự đồng ý của cá nhân hoặc đáp ứng trường hợp luật quy định. Với người chưa đủ 14 tuổi, bắt buộc có cha mẹ hoặc người giám hộ đồng ý. Vi phạm thì cơ quan quản lý yêu cầu sửa, cảnh cáo, tịch thu khoản thu lợi trái pháp luật; ứng dụng vi phạm bị yêu cầu tạm dừng hoặc chấm dứt cung cấp dịch vụ. Không sửa thì phạt từ 100 vạn nhân dân tệ trở xuống; người quản lý trực tiếp phụ trách và người trực tiếp chịu trách nhiệm khác bị phạt 1 vạn đến 10 vạn nhân dân tệ. Trường hợp nghiêm trọng bị phạt từ 5000 vạn nhân dân tệ trở xuống hoặc từ 5% doanh thu năm trước trở xuống. Người chịu trách nhiệm bị phạt 10 vạn đến 100 vạn nhân dân tệ. Những người này còn có thể bị cấm làm thành viên hội đồng quản trị, ban giám sát hoặc quản lý cấp cao của doanh nghiệp liên quan trong một thời gian. Bán hoặc cung cấp thông tin cá nhân đến mức phạm tội thì xem mục 4 (toàn quốc).",
+    "notes": "Điều luật không nêu ‘người trực tiếp chịu trách nhiệm khác’ gồm những vị trí nào. Tác giả suy đoán người viết mã và làm sản phẩm cũng có thể bị tính vào đó; sách chưa tìm thấy vụ án có thể đối chiếu từng chữ. Bộ Công nghiệp và Công nghệ thông tin định kỳ thông báo gỡ ứng dụng vi phạm, nhưng chương này chưa xác minh được đợt thông báo cụ thể nên không viện dẫn.",
+    "extra": ""
+  }
+}

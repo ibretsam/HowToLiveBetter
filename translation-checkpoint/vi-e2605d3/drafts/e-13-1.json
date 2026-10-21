@@ -1,0 +1,14 @@
+{
+  "id": "e-13-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_sha256": "128466aa3523177bc58a729f55a11f01fdb0363c7084b60a0c185c12930209e4",
+  "translator": "batch13-health",
+  "translation": {
+    "title": "Có người ngã xuống, gọi không đáp, không thở bình thường: lập tức ép mạnh ngực, nhờ người bên cạnh gọi 120 và tìm AED",
+    "cost": "Không tốn tiền. Khóa hồi sinh tim phổi của Hội Chữ thập đỏ hoặc bệnh viện mất nửa ngày đến một ngày; học một lần dùng được nhiều năm. Chưa học vẫn làm được: chồng hai bàn tay lên nhau, đặt ở trung điểm đường nối hai núm vú, ép mạnh xuống khoảng 2 lần mỗi giây, không dừng.",
+    "plain": "Ngừng tim thường xảy ra ở nhà; người được ép ngực kịp thời có tỷ lệ sống ra viện cao hơn. Gọi không đáp, không thở bình thường thì ép ngực; thỉnh thoảng thở ngáp cũng không phải thở bình thường. Chồng hai bàn tay ép mạnh ngực, đồng thời nhờ người bên cạnh gọi 120 và tìm AED.",
+    "benefit": "Gộp 79 nghiên cứu với 142,740 người để tính chung (phân tích tổng hợp). Trong những người ngừng tim ngoài bệnh viện, tổng cộng chỉ 7.6% sống ra viện. Hồi sinh tim phổi do người tại chỗ thực hiện có liên quan đến tỷ lệ sống ra viện cao hơn. Sau khi phân tầng theo tỷ lệ sống vốn có của từng nghiên cứu, người được hồi sinh tim phổi tại chỗ có tỷ lệ sống ra viện từ 3.9% đến 16.1%. Hai số này đến từ các tầng khác nhau, không thể coi là thay đổi trước và sau ép ngực. 53% có người chứng kiến lúc khởi phát, nhưng chỉ 32% thực sự được người tại chỗ ép ngực. Hệ thống đăng ký BASIC-OHCA của Trung Quốc ghi nhận 38,227 ca được lực lượng cấp cứu tiếp nhận. Trong đó, 30,282 ca (79.2%) ngừng tim tại nhà. Ở nhóm này, tỷ lệ được người tại chỗ ép ngực là 20.3%, tỷ lệ sống ra viện là 1.2%. Thứ tự là ép ngực trước, rồi nhờ người thứ hai gọi điện và lấy AED. Bật máy rồi làm theo hướng dẫn bằng giọng nói của máy. Quyết định có ép ngực không dựa vào việc có thở bình thường không. Hướng dẫn sơ cứu năm 2025 của Hội Chữ thập đỏ quốc tế nêu rõ: trong vài phút đầu sau ngừng tim, người bệnh có thể vẫn thở ngáp không đều, gắng sức hoặc thở hổn hển thành tiếng. Đây không phải thở bình thường. Không chắc có bình thường không thì coi là bất thường. Thở bất thường, gồm thở ngáp, thở không đều và không thở, đều cần hồi sinh tim phổi ngay.",
+    "notes": "Trẻ chưa đủ 1 tuổi cần kỹ thuật khác và phải thổi ngạt; xem mục 44 chương này (hồi sinh tim phổi cho trẻ nhũ nhi). Đừng bấm nhân trung trước, đừng đi tìm người nhà trước, đừng quay video trước. Cũng đừng vì sợ làm gãy xương sườn mà không dám ép mạnh. Điều một trăm tám mươi bốn của Bộ luật Dân sự ghi rõ: người tự nguyện cứu giúp trong tình huống khẩn cấp, làm người được cứu bị thương, không phải chịu trách nhiệm dân sự.",
+    "extra": ""
+  }
+}

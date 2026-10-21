@@ -1,0 +1,35 @@
+{
+  "id": "e-5-50",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "c0dbaed6fc7709c46ab4669314d4973eb21bbc3f19df5e8a8a05059098406ee2",
+  "original": {
+    "number": 50,
+    "title": "跟团游被导游带进没约定的购物店买了东西，回来 30 天内找旅行社退货，货款让旅行社先垫",
+    "fields": {
+      "cost": "不花钱。出门时留好合同和行程单，买东西要发票和刷卡小票，东西别拆用。回来后要找旅行社、把货寄回去。谈不拢再去投诉，前后可能拖一两个月。",
+      "plain": "旅行社没跟你商量就带你去购物店，或者用低得离谱的团费拉你去购物，都算违法。回来 30 天内，你能要它给你办退货，货款它先垫。签过「自愿购物」补充协议的，算你同意过，就很难这样退了。",
+      "benefit": "旅游法第三十五条有三款。第一款说，旅行社不得用不合理的低价组织旅游、诱骗游客，再靠安排购物拿回扣。第二款说，旅行社不得指定具体购物场所。双方协商一致，或者游客自己要求、又不耽误别人行程的，才可以去。签了「自愿购物」补充协议，一般就算协商一致。第三款说，违反前两款的，游客在行程结束后 30 日内，有权要求旅行社办理退货，并先行垫付退货货款。另外付费的自费项目，也可以要求退钱。这一款没要求你先证明东西有质量问题。旅游法第九条还规定，游客有权拒绝强制交易。文化和旅游部 2025 年通报过一起案子。成都一家旅行社带 15 名游客去九寨沟，团费一共只收了 6015 元。它反过来付给招揽游客的公司 8220 元「买团费」，再从购物店拿了 13706 元回扣。这家旅行社被罚没 8 万元，停业整顿 30 日。广东省文旅厅 2024 年公布过一起投诉。两名游客跟了团费每人 800 元的港澳珠团，在免税店买了两万多元的首饰和枕头。游客向区文旅部门投诉，双方和解，旅行社协助把货寄回，退回了全部货款（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2018 修正). 旅游法（第九、三十五、九十二、九十三条）. <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f1d08f6da12f6>；文化和旅游部 (2026). 旅游投诉处理办法（文化和旅游部令第 14 号，第十一、十四、二十三条，2026 年 3 月 15 日起施行）. <https://zwgk.mct.gov.cn/zfxxgkml/zcfg/bmgz/202602/t20260211_964700.html>；文化和旅游部办公厅 (2021). 关于进一步优化文化和旅游系统政务服务便民热线的通知. <https://www.gov.cn/zhengce/zhengceku/2021-11/19/content_5651873.htm>；文化和旅游部 (2025). 旅游市场强制消费问题典型案例（第三批，案例十五）. <https://www.mct.gov.cn/whzx/whyw/202509/t20250908_962084.htm>；广东省文化和旅游厅 (2024). 广东省文化和旅游厅发布2024年旅游投诉典型案例（案例 1）. <https://whly.gd.gov.cn/service_newscgldt/content/post_4385141.html>",
+      "notes": "要找的是旅行社，不是购物店。旅行社不办，打 12345 投诉，原来的 12301 已经取消。投诉要在旅游合同履行期满后 90 天内提，受理后 60 天内调解完。调解要双方自愿，调不成只能仲裁或者起诉。一审普通程序按规定 6 个月内审完，可以延长，律师费自己出。小额诉讼见第 8 节第 22 条（网购、二手交易被骗）。签了补充协议的，除非团费低得不合理，只能拿质价不符去谈。在境外店里买的，自己跨境维权很难，要靠国内这家旅行社。老人常被「零团费」拉去，养老骗局见第 17 节第 5 条（投资养老）。受益人是自己和家人这一档。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Đi tour bị hướng dẫn viên đưa vào cửa hàng không thỏa thuận rồi mua đồ, trong 30 ngày sau về hãy yêu cầu công ty du lịch trả hàng, công ty phải ứng tiền hoàn trước",
+    "cost": "Không tốn tiền. Khi đi giữ hợp đồng, lịch trình; mua đồ lấy hóa đơn, biên lai thẻ, đừng mở dùng. Về rồi liên hệ công ty du lịch, gửi hàng lại. Không thỏa thuận được thì khiếu nại, có thể kéo một, hai tháng.",
+    "plain": "Công ty du lịch chưa bàn với bạn mà đưa vào cửa hàng, hoặc dùng giá tour thấp bất hợp lý để kéo đi mua sắm, đều trái luật. Trong 30 ngày sau về, bạn được yêu cầu họ làm trả hàng và ứng tiền hoàn trước. Đã ký thỏa thuận bổ sung “mua sắm tự nguyện” thì coi là từng đồng ý, khó trả theo cách này.",
+    "benefit": "Điều ba mươi lăm Luật Du lịch có ba khoản. Khoản đầu cấm công ty tổ chức tour giá thấp bất hợp lý để lừa khách rồi lấy hoa hồng nhờ sắp xếp mua sắm. Khoản hai cấm chỉ định điểm mua sắm cụ thể; chỉ được đi nếu hai bên thống nhất hoặc khách tự yêu cầu mà không làm lỡ lịch trình người khác. Ký thỏa thuận bổ sung “mua sắm tự nguyện” thường được coi là thống nhất. Khoản ba nói vi phạm hai khoản trước thì trong 30 ngày sau kết thúc hành trình, khách có quyền yêu cầu công ty làm trả hàng và ứng tiền hoàn trước. Hạng mục tự chọn thu riêng cũng có thể đòi hoàn. Khoản này không yêu cầu trước tiên chứng minh hàng lỗi chất lượng. Điều chín còn quy định khách có quyền từ chối giao dịch cưỡng ép. Bộ Văn hóa và Du lịch năm 2025 thông báo một vụ: công ty ở Thành Đô đưa 15 khách đến Cửu Trại Câu, tổng phí tour chỉ 6015 nhân dân tệ, nhưng trả công ty tuyển khách 8220 nhân dân tệ “phí mua đoàn”, rồi nhận 13706 nhân dân tệ hoa hồng từ cửa hàng. Công ty bị phạt và tịch thu tổng 8 vạn nhân dân tệ, đình chỉ chấn chỉnh 30 ngày. Sở Văn hóa và Du lịch Quảng Đông năm 2024 công bố một khiếu nại: hai khách đi tour Hồng Kông, Ma Cao, Chu Hải giá 800 nhân dân tệ mỗi người, mua trang sức, gối hơn hai vạn tại cửa hàng miễn thuế. Họ khiếu nại cơ quan văn hóa, du lịch cấp quận; hai bên hòa giải, công ty hỗ trợ gửi trả và hoàn toàn bộ tiền hàng (toàn Trung Quốc).",
+    "notes": "Cần tìm công ty du lịch, không phải cửa hàng. Công ty không làm thì gọi 12345 khiếu nại, số 12301 cũ đã hủy. Phải khiếu nại trong 90 ngày sau hết thời hạn thực hiện hợp đồng du lịch; sau tiếp nhận phải hoàn tất hòa giải trong 60 ngày. Hòa giải cần hai bên tự nguyện, không được thì chỉ còn trọng tài hoặc kiện. Thủ tục sơ thẩm thông thường tính từ 6 tháng, tự trả phí luật sư. Vụ nhỏ xem chương 8 mục 22 (bị lừa mua trực tuyến, giao dịch đồ cũ). Đã ký bổ sung thì trừ khi phí tour thấp bất hợp lý, chỉ còn thương lượng bằng lý do chất lượng không tương xứng giá. Mua ở cửa hàng ngoài nước, tự bảo vệ quyền lợi xuyên biên giới rất khó, phải dựa công ty du lịch trong nước. Người cao tuổi hay bị dụ “tour miễn phí”; lừa đảo dưỡng lão xem chương 17 mục 5 (đầu tư dưỡng lão). Người hưởng lợi thuộc nhóm bản thân và gia đình.",
+    "extra": ""
+  }
+}

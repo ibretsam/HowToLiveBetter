@@ -1,0 +1,35 @@
+{
+  "id": "e-13-26",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "3112a9d32ccba126f73d04e2cbf869f2264bdc346b07e979c86099af89905b5f",
+  "original": {
+    "number": 26,
+    "title": "有人噎住说不出话，1 岁以上的站到背后做 5 次拍背加 5 次腹部冲击，倒下就做心肺复苏",
+    "fields": {
+      "cost": "不花钱。看一遍动作：一手握拳顶在肚脐上方，另一手包住，向内向上快速冲击。",
+      "plain": "先问「你噎住了吗，能说话吗」，还能咳、能出声的让他自己咳。1 岁以上的说不出话，就站到背后，5 次拍背接 5 次腹部冲击，孕妇和很胖的人改冲胸口。反复做到东西出来或者人倒下，倒下就做心肺复苏，同时叫人打急救电话。别伸手去嘴里掏看不见的东西。",
+      "benefit": "美国国立医学图书馆原文：先问「你噎住了吗，能说话吗」。「能用力咳嗽、能说话的不要动手」，咳嗽本身多能把异物咳出。说不出话就「反复做 5 次拍背接 5 次腹部冲击，直到异物出来或人失去意识」。「失去意识就开始心肺复苏」，同时叫人打急救电话。孕妇、肥胖者改做胸部冲击。国际红十字 2025 年急救指南写明，不要伸手指去嘴里盲掏，可能把东西推得更深，只有看得见的固体才用手指取出来",
+      "grade": "B",
+      "sources": "US National Library of Medicine, MedlinePlus. Choking – adult or child over 1 year. <https://medlineplus.gov/ency/article/000047.htm>；福州市卫生健康委员会 (2026). 海姆立克急救法更新了：「1岁以上幼儿、儿童及成人：从旧版单一腹部冲击改为\"5次背部拍击+5次腹部冲击\"的循环」「中国红十字系统急救培训一直都是按\"5次背部拍击+5次腹部冲击\"循环进行的方式进行教学」. <https://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/jkkp/202601/t20260108_5268351.htm>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 238 页：「First aid providers should not use a blind finger sweep in people with a foreign-body airway obstruction as this may push the object further down the person's airway」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>",
+      "notes": "不要往嘴里伸手掏看不见的东西，会推得更深。不要拍还能咳嗽的人。受益人主要是一起吃饭的家里人。国内的教法也是这一套。福建省红十字应急救护培训中心说，中国红十字系统一直这样教。1 岁以上的孩子和成人，5 次拍背加 5 次腹部冲击循环做。网上不少老教程只教腹部冲击，那是旧版。不满 1 岁的孩子不按肚子，改按胸口，见本节第 43 条（婴儿噎住）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có người bị hóc, không nói được: với người từ 1 tuổi trở lên, đứng sau lưng, vỗ lưng 5 lần rồi ép bụng 5 lần; nếu họ ngã xuống thì hồi sinh tim phổi",
+    "cost": "Không tốn tiền. Xem động tác một lần: nắm một bàn tay lại, đặt ngay phía trên rốn, tay kia ôm lấy nắm tay, giật nhanh vào trong và lên trên.",
+    "plain": "Trước hết hỏi “Bạn bị hóc phải không, có nói được không?”; người còn ho được, còn phát ra tiếng thì để họ tự ho. Nếu người từ 1 tuổi trở lên không nói được, hãy đứng ra sau lưng, vỗ lưng 5 lần rồi ép bụng 5 lần; với phụ nữ mang thai và người rất béo thì đổi sang ép ngực. Lặp lại cho đến khi dị vật ra ngoài hoặc người đó ngã xuống; ngã xuống thì hồi sinh tim phổi, đồng thời nhờ người gọi cấp cứu. Đừng thò tay vào miệng móc thứ mà mình không nhìn thấy.",
+    "benefit": "Nguyên văn của Thư viện Y khoa Quốc gia Mỹ: trước hết hỏi “Bạn bị hóc phải không, có nói được không?”. “Người còn ho mạnh được, còn nói được thì đừng can thiệp bằng tay”, vì bản thân việc ho thường có thể đẩy được dị vật ra ngoài. Nếu không nói được thì “lặp lại 5 lần vỗ lưng rồi 5 lần ép bụng, cho đến khi dị vật ra ngoài hoặc người đó mất ý thức”. “Mất ý thức thì bắt đầu hồi sinh tim phổi”, đồng thời nhờ người gọi cấp cứu. Với phụ nữ mang thai và người béo phì, đổi sang ép ngực. Hướng dẫn sơ cứu năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế nêu rõ: đừng dùng ngón tay móc mò trong miệng, vì có thể đẩy dị vật vào sâu hơn; chỉ dùng ngón tay lấy vật rắn ra khi nhìn thấy nó.",
+    "notes": "Đừng thò tay vào miệng móc thứ không nhìn thấy, vì sẽ đẩy dị vật vào sâu hơn. Đừng vỗ lưng người còn ho được. Người hưởng lợi chủ yếu là người nhà cùng ăn cơm với bạn. Ở Trung Quốc cũng dạy cách này. Trung tâm đào tạo sơ cứu khẩn cấp Chữ thập đỏ tỉnh Phúc Kiến cho biết hệ thống Chữ thập đỏ Trung Quốc vẫn luôn dạy như vậy. Với trẻ từ 1 tuổi trở lên và người lớn, thực hiện lặp lại 5 lần vỗ lưng rồi 5 lần ép bụng. Không ít hướng dẫn cũ trên mạng chỉ dạy ép bụng; đó là phiên bản cũ. Trẻ chưa đủ 1 tuổi thì không ép bụng mà đổi sang ép ngực; xem mục 43 chương này (trẻ nhũ nhi bị hóc).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-28-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/28-别为了外形把身体搞坏.md",
+  "source_sha256": "130a0ebfce678f7cbe3ce6a24c60230ab0160fb0c9e76f0ee8f62ccfaa32562f",
+  "original": {
+    "number": 9,
+    "title": "矫正牙齿要找有正畸资质的医生当面检查、按时复诊，别网购牙套自己在家戴",
+    "fields": {
+      "cost": "比网购多出挂号和复诊的钱，每隔一段时间要去一趟诊所。难在疗程常常一两年，要坚持复诊。",
+      "plain": "透明牙套在国内是二类医疗器械，说明书要求在有正畸资质的医生指导下戴、定期复诊。美国药监部门说没批准过不经牙医开方就直接卖给个人的牙套。没人当面检查，可能咬合变歪、牙齿移错位置、疼痛，甚至掉牙。",
+      "benefit": "国家药监局医疗器械技术审评中心 2022 年的《无托槽矫治器注册审查指导原则》说，这种牙套「管理类别为Ⅱ类」。它要求说明书写明「治疗过程中需在具有口腔正畸专业资质医师的指导下进行佩戴」，还要写「进食、刷牙及定期复诊的要求」。产品名称「不建议含有“隐形”等虚无、假设的概念性名称」。美国食品药品监督管理局（FDA）的说法是：「The FDA has not authorized clear aligners that are sold directly to consumers without a prescription and supervision by a dentist or orthodontist」，意思是不经牙医开方和监督、直接卖给个人的透明牙套，它一个都没批准过。FDA 还说：「In-person examination by a dentist or orthodontist can help lower the risks of uneven bite, unintended tooth movement, pain, and tooth loss」，也就是牙医当面检查能降低咬合不齐、牙齿移位、疼痛和掉牙的风险。开始戴以后定期当面复诊，才能确认牙在按计划安全移动。这两份都是监管文件，没有给出出事的比例",
+      "grade": "C",
+      "sources": "国家药品监督管理局医疗器械技术审评中心 (2022). 无托槽矫治器注册审查指导原则（2022 年第 41 号）. <https://www.cmde.org.cn/flfg/zdyz/zdyzwbk/20230103095116100.html>；国家卫生健康委办公厅等 (2023). 关于进一步推进口腔医疗服务和保障管理工作的通知（国卫办医政发〔2023〕11 号，第五部分第（二）项）. <https://www.gov.cn/zhengce/zhengceku/202309/content_6903786.htm>；U.S. Food and Drug Administration (2026). Clear Dental Aligners（页面 2026 年 9 月 9 日更新）. <https://www.fda.gov/medical-devices/dental-devices/clear-dental-aligners>",
+      "notes": "收益量级定为小，因为没找到出事比例，只能凭后果判断。国内药监和卫健部门针对「网购牙套在家自己戴」的风险提示没有找到，所以本条主要靠注册要求和 FDA 的说法。正畸属于医疗行为。做医疗美容性质的牙齿矫正，机构许可证要有对应科目，动手的医生要有资质。查法见本节第 2 条（机构许可证、主诊医师）。国家卫生健康委等四部门 2023 年发过口腔医疗通知。没取得执业许可证或诊所备案凭证的、聘用非卫生技术人员看牙的，通知要求「依法依规予以严厉惩处」。正畸医保不报，见第 24 节第 12 条（种牙之前先问清包干价）"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chỉnh răng cần bác sĩ đủ chuyên môn chỉnh nha khám trực tiếp và tái khám đúng hẹn; đừng mua khay niềng trên mạng rồi tự đeo ở nhà",
+    "cost": "Tốn thêm tiền khám và tái khám so với mua mạng, một thời gian phải đến phòng khám một lần. Khó ở liệu trình thường một hai năm, cần kiên trì tái khám.",
+    "plain": "Khay niềng trong suốt tại Trung Quốc là thiết bị y tế loại hai, hướng dẫn yêu cầu đeo dưới chỉ dẫn bác sĩ đủ chuyên môn chỉnh nha và tái khám định kỳ. Cơ quan quản lý dược Mỹ nói chưa phê duyệt khay bán thẳng cho cá nhân không qua đơn nha sĩ. Không khám trực tiếp có thể lệch khớp cắn, răng di chuyển sai vị trí, đau, thậm chí mất răng.",
+    "benefit": "Hướng dẫn thẩm định đăng ký khí cụ chỉnh nha không mắc cài năm 2022 của Trung tâm Thẩm định kỹ thuật thiết bị y tế thuộc Cục Quản lý dược phẩm quốc gia nói khay này được quản lý loại Ⅱ. Hướng dẫn sản phẩm phải ghi trong điều trị cần đeo dưới sự chỉ dẫn của bác sĩ đủ chuyên môn chỉnh nha, cùng yêu cầu về ăn uống, đánh răng, tái khám định kỳ. Tên sản phẩm không nên chứa khái niệm hư ảo, giả định như vô hình. Cục Quản lý thực phẩm và dược phẩm Mỹ (FDA) nói chưa cho phép khay niềng trong suốt bán trực tiếp tới người tiêu dùng không có đơn và giám sát của nha sĩ hoặc bác sĩ chỉnh nha; nghĩa là chưa phê duyệt loại nào bán thẳng cho cá nhân không qua kê đơn và giám sát. FDA còn nói khám trực tiếp bởi nha sĩ hoặc bác sĩ chỉnh nha có thể giảm nguy cơ khớp cắn không đều, di chuyển răng ngoài ý muốn, đau và mất răng; nghĩa là bác sĩ khám trực tiếp giúp giảm các nguy cơ này. Sau bắt đầu đeo cần tái khám trực tiếp định kỳ để xác nhận răng di chuyển an toàn theo kế hoạch. Cả hai đều là văn bản quản lý, không đưa tỷ lệ xảy ra sự cố.",
+    "notes": "Lợi ích xếp nhỏ vì không tìm thấy tỷ lệ sự cố, chỉ có thể đánh giá theo hậu quả. Chưa tìm được cảnh báo của cơ quan dược và y tế Trung Quốc về mua khay trên mạng tự đeo ở nhà, nên mục chủ yếu dựa yêu cầu đăng ký và thông tin FDA. Chỉnh nha là hoạt động y tế. Chỉnh răng mang tính thẩm mỹ y khoa cần giấy phép cơ sở có hạng mục tương ứng và bác sĩ đủ tư cách. Cách kiểm tra xem mục 2 phần này (giấy phép cơ sở, bác sĩ phụ trách chuyên môn). Năm 2023, Ủy ban Y tế quốc gia cùng các cơ quan khác, tổng bốn cơ quan, ban hành thông báo y tế răng miệng. Thông báo yêu cầu xử phạt nghiêm theo pháp luật với cơ sở chưa có giấy phép hành nghề hoặc chứng nhận đăng ký phòng khám, hay thuê người không có chuyên môn y tế khám răng. Bảo hiểm y tế không thanh toán chỉnh nha, xem phần 24 mục 12 (hỏi rõ giá trọn gói trước trồng răng).",
+    "extra": ""
+  }
+}

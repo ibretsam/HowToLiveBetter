@@ -1,0 +1,35 @@
+{
+  "id": "e-19-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "92aea17d1a6e92890912a10e536c115790bf6473e1b7f7c48a009281a8f1d738",
+  "original": {
+    "number": 13,
+    "title": "单位没给你交工伤保险，工伤待遇一样有，由单位按同样的标准全额出",
+    "fields": {
+      "cost": "不花钱。单位不认的，就要走仲裁甚至打官司，几个月起步。难在这几个月要一直跟着办。",
+      "plain": "单位没给你交工伤保险，工伤待遇一样有。只是改成由单位按同样的项目和标准全额付，一分不少。没参保是对单位加罚：责令补缴、按日加收万分之五滞纳金，逾期还要罚欠缴额的 1 到 3 倍。「公司没买工伤险所以赔不了」是假话。",
+      "benefit": "条例明写：没给员工交工伤保险的单位，员工出了工伤，由这家单位按条例规定的项目和标准把钱付出来。该给哪几笔、每笔给多少，和交了保险的完全一样，只是改成单位自己掏",
+      "grade": "A",
+      "sources": "工伤保险条例第六十二条第二款：「依照本条例规定应当参加工伤保险而未参加工伤保险的用人单位职工发生工伤的，由该用人单位按照本条例规定的工伤保险待遇项目和标准支付费用。」同条第一款：责令限期参加、补缴，「自欠缴之日起，按日加收万分之五的滞纳金；逾期仍不缴纳的，处欠缴数额1倍以上3倍以下的罚款」. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>",
+      "notes": "「公司没给你买工伤险，所以赔不了」是这类事里最常见的一句假话。没参保是单位要被加罚，你的待遇不减。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đơn vị chưa đóng bảo hiểm tai nạn lao động cho bạn thì vẫn được hưởng chế độ, đơn vị phải trả toàn bộ theo cùng mức",
+    "cost": "Không tốn tiền. Đơn vị không thừa nhận thì phải yêu cầu trọng tài, thậm chí khởi kiện, ít nhất vài tháng. Điều khó là phải theo sát suốt những tháng đó.",
+    "plain": "Đơn vị chưa đóng bảo hiểm tai nạn lao động cho bạn thì chế độ vẫn có. Chỉ chuyển sang đơn vị trả đủ theo cùng các khoản và mức, không thiếu đồng nào. Không tham gia bảo hiểm khiến đơn vị chịu thêm chế tài: buộc đóng bù, mỗi ngày thu thêm tiền chậm đóng bằng năm phần vạn; quá hạn còn bị phạt từ 1 đến 3 lần số tiền thiếu. “Công ty không mua bảo hiểm tai nạn lao động nên không thể bồi thường” là nói dối.",
+    "benefit": "Điều lệ ghi rõ: đơn vị chưa đóng bảo hiểm tai nạn lao động cho nhân viên mà nhân viên bị tai nạn lao động thì chính đơn vị phải trả theo các khoản và mức quy định trong điều lệ. Được nhận những khoản nào, mỗi khoản bao nhiêu đều giống hệt trường hợp đã đóng bảo hiểm, chỉ đổi thành đơn vị tự trả",
+    "notes": "“Công ty không mua bảo hiểm tai nạn lao động cho bạn nên không thể bồi thường” là lời nói dối thường gặp nhất trong loại việc này. Không tham gia bảo hiểm khiến đơn vị chịu thêm chế tài, không làm giảm chế độ của bạn.",
+    "extra": ""
+  }
+}

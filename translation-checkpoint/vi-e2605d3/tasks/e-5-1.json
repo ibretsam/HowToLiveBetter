@@ -1,0 +1,35 @@
+{
+  "id": "e-5-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "2da1293e20e59aa3dde39bd9535748483c51e0c825d702e606d8a2d3904c28db",
+  "original": {
+    "number": 1,
+    "title": "关掉所有自动续费，改为到期手动续",
+    "fields": {
+      "cost": "不花钱。把支付宝、微信、苹果、安卓的「自动扣款」列表翻一遍，一次 10 到 20 分钟。以后每次续费，要自己多点一次。",
+      "plain": "省下来的，是那些你早就不用、每月还在扣钱的订阅。翻一遍支付宝、微信、苹果和安卓的自动扣款列表，用不了 20 分钟。按规定，商家扣款前要明显提醒你，还必须给你一个随时能取消的入口，而且要好找好点。",
+      "benefit": "省下的钱，等于你已经不用、却还在扣费的那些订阅加起来的钱。每个人不一样，没有统一数字。监管要求商家在续费前明显提醒你，还要给你一个「简便的随时取消」的选项，取消不用另外花钱（中国，2021 年起施行）",
+      "grade": "C",
+      "sources": "国家市场监督管理总局 (2021, 2025 修正). 网络交易监督管理办法（总局令第 37 号，第十八条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html>",
+      "notes": "你确实经常用的服务，年付一般比月付便宜，留着自动续费反而划算。要关的是你早就忘了、却还在扣钱的那些。做网站卖会员的经营者该怎么提醒，见第 26 节第 13 条（卖自动续费会员的）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tắt tất cả gia hạn tự động, chuyển sang tự gia hạn khi hết hạn",
+    "cost": "Không tốn tiền. Xem một lượt danh sách “trừ tiền tự động” trên Alipay, WeChat, Apple và Android, mất 10 đến 20 phút một lần. Sau đó mỗi lần gia hạn, bạn phải tự bấm thêm một bước.",
+    "plain": "Khoản tiết kiệm được là tiền những gói đăng ký bạn đã lâu không dùng nhưng vẫn bị trừ hằng tháng. Xem một lượt danh sách trừ tiền tự động trên Alipay, WeChat, Apple và Android chưa đến 20 phút. Theo quy định, trước khi trừ tiền, bên bán phải nhắc bạn một cách rõ ràng, đồng thời phải có chỗ để bạn hủy bất cứ lúc nào, dễ tìm và dễ thao tác.",
+    "benefit": "Số tiền tiết kiệm bằng tổng phí của những gói bạn đã không còn dùng nhưng vẫn bị trừ tiền. Mỗi người khác nhau, không có con số chung. Quy định quản lý yêu cầu bên bán nhắc rõ trước khi gia hạn, đồng thời cung cấp lựa chọn “hủy bất cứ lúc nào một cách đơn giản”, không thu thêm phí hủy (Trung Quốc, có hiệu lực từ năm 2021).",
+    "notes": "Với dịch vụ bạn thực sự dùng thường xuyên, trả theo năm thường rẻ hơn theo tháng, nên giữ gia hạn tự động lại có lợi hơn. Cần tắt những gói bạn đã quên từ lâu nhưng vẫn bị trừ tiền. Người kinh doanh website bán gói thành viên phải nhắc thế nào, xem chương 26 mục 13 (bán gói thành viên tự động gia hạn).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-33-20",
+  "source_sha256": "c59ee5add1420ecf3c9a5ef48cd9dd1ab586393c0e7e024192e23e898d9aa655",
+  "draft_sha256": "7db15fe631b8e97e8314c66411545edeba10380f2eb254c16b0318d8775ae28e",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves statutory six-month extendable trial limit, lawyer costs, all legal provisions and complaint/legal-aid routes. Source notes omit the no-fixed-livelihood qualification present in benefit when summarizing legal-aid eligibility; inconsistency retained rather than silently broadened or repaired."
+}

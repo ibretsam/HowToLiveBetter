@@ -1,0 +1,35 @@
+{
+  "id": "e-12-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "a472b6b0a7e2899e881bef16046859d0e5bd64defad9b835af4422d825602034",
+  "original": {
+    "number": 13,
+    "title": "发票只按真实交易开，小规模纳税人用足免税额",
+    "fields": {
+      "cost": "不花钱。不买发票，不卖发票，也不替别人「走账开票」。按真实发生的生意开票、报税。",
+      "plain": "小规模纳税人在 2027 年底前，一个月卖不到 10 万、一个季度卖不到 30 万，增值税就免了。本来按 3% 交的，同期也减到按 1% 交。反过来，找人开票拿去抵税就是虚开，起步判 3 年以下，还要罚 2 万到 20 万。",
+      "benefit": "规模小、按简易办法交税的那一档叫小规模纳税人。法律写的是「销售额未达到起征点的，免征增值税」。这条线叫起征点。从 2026 年 1 月 1 日到 2027 年 12 月 31 日，起征点是按月算 10 万元，按季度算 30 万元。按次或者按天算的是 1000 元，卖不到这条线就不用交。同一段时间里，本来按 3% 交的减到按 1% 交，卖房租房和转让土地使用权除外。反过来说，开了没有真实买卖的增值税专用发票，或者其他能拿去抵税的发票，就是虚开。判 3 年以下有期徒刑或者拘役，并罚 2 万到 20 万元。给别人开、给自己开、让别人给自己开、介绍别人开，都算。涉及税额较大的判 3 到 10 年。数额巨大的判 10 年以上或者无期（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2024). 增值税法（2026 年 1 月 1 日施行，第二十三条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5237365/content.html>；财政部、税务总局 (2026). 关于增值税法施行后增值税优惠政策衔接事项的公告（财政部 税务总局公告 2026 年第 10 号，第一、二、六条）. <https://fgk.chinatax.gov.cn/zcfgk/c102416/c5247434/content.html>；全国人大 (1997). 刑法（第二百零五条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>",
+      "notes": "增值税法从 2026 年 1 月 1 日起施行。原来的两份小规模纳税人减免公告，2023 年第 19 号和 2023 年第 1 号，跟着停止执行或者废止。金额门槛没变，但依据换了，本条已经按新文件更新。刑法原文页是 1997 年版，第二百零五条后来经修正案调过判几年的档次。这里只写核实到、而且没被改动过的那几档。免的是增值税，所得税另算。「找人开票抵成本」就是虚开，不是节税。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chỉ xuất hóa đơn theo giao dịch thật; người nộp thuế quy mô nhỏ dùng đầy đủ mức miễn thuế",
+    "cost": "Không tốn tiền. Không mua, bán hóa đơn, không chuyển tiền và xuất hóa đơn hộ giao dịch giả của người khác. Xuất hóa đơn, khai thuế theo việc kinh doanh thực tế.",
+    "plain": "Đến hết năm 2027, người nộp thuế quy mô nhỏ bán chưa đến 10 vạn mỗi tháng hoặc 30 vạn mỗi quý được miễn thuế giá trị gia tăng. Khoản vốn phải nộp 3% cũng được giảm còn 1% trong cùng thời gian. Ngược lại, nhờ người xuất hóa đơn để khấu trừ thuế cho giao dịch giả là xuất khống, khung đầu đến 3 năm tù, còn phạt từ 2 vạn đến 20 vạn.",
+    "benefit": "Nhóm quy mô nhỏ, nộp thuế theo phương pháp giản đơn gọi là người nộp thuế quy mô nhỏ. Luật quy định “doanh số chưa đạt ngưỡng chịu thuế thì được miễn thuế giá trị gia tăng”. Từ ngày 1 tháng 1 năm 2026 đến ngày 31 tháng 12 năm 2027, ngưỡng này là 10 vạn nhân dân tệ nếu tính theo tháng, 30 vạn nếu tính theo quý, 1000 nhân dân tệ nếu tính theo lần hoặc ngày. Doanh số chưa đạt ngưỡng thì không phải nộp. Cùng thời gian đó, khoản vốn nộp theo 3% giảm còn 1%, trừ bán, cho thuê bất động sản và chuyển nhượng quyền sử dụng đất. Ngược lại, xuất hóa đơn chuyên dụng thuế giá trị gia tăng hoặc hóa đơn khác dùng để khấu trừ thuế mà không có mua bán thật là xuất khống. Bị phạt đến 3 năm tù có thời hạn hoặc câu dịch, kèm phạt từ 2 vạn đến 20 vạn nhân dân tệ. Xuất cho người khác, cho mình, nhờ người khác xuất cho mình hay giới thiệu người khác xuất đều tính. Số thuế liên quan tương đối lớn thì phạt từ 3 đến 10 năm tù. Số tiền rất lớn thì phạt từ 10 năm tù trở lên hoặc chung thân (toàn quốc).",
+    "notes": "Luật Thuế giá trị gia tăng có hiệu lực từ ngày 1 tháng 1 năm 2026. Hai thông báo miễn giảm cho người nộp thuế quy mô nhỏ trước đó, số 19 năm 2023 và số 1 năm 2023, theo đó ngừng áp dụng hoặc bị bãi bỏ. Ngưỡng tiền không đổi nhưng căn cứ đã thay; mục này đã cập nhật theo văn bản mới. Trang nguyên văn Bộ luật Hình sự là bản năm 1997; Điều hai trăm linh năm sau đó được sửa các khung hình phạt qua luật sửa đổi. Ở đây chỉ ghi những khung đã kiểm chứng và không bị sửa. Được miễn là thuế giá trị gia tăng; thuế thu nhập tính riêng. “Nhờ người xuất hóa đơn để hạch toán chi phí” cho giao dịch không thật là xuất khống, không phải tiết kiệm thuế.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-22-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "3e0fc3f68930b6d19065df1a5cb9dd9675d4e6aa05acec2cd41ac849d99b2af7",
+  "original": {
+    "number": 5,
+    "title": "剧本杀、密室别去开在居民楼里或者地下二层以下的",
+    "fields": {
+      "cost": "不花钱。订之前问一句地址在几层。",
+      "plain": "五部门 2022 年的通知写明，剧本娱乐场所不得开在居民楼内，也不得开在地下一层以下。这类场地常常昏暗、通道窄，有的用可燃材料装修，疏散通道还被锁上或者堵住，起火时不好跑。订之前在点评页看一眼地址和楼层，不合规的换一家。",
+      "benefit": "五部门 2022 年的专门通知写得很具体：「剧本娱乐经营场所不得设在居民楼内、建筑物地下一层以下（不含地下一层）等地」。通知还要求场所落实安全生产法和消防法的要求，「常态化开展火灾风险自知、自查、自改，提高紧急情况下的组织疏散逃生和初起火灾扑救能力」。同一份通知还要求剧本设置适龄提示。场景不适宜未成年人的，不得允许未成年人进入。除法定节假日、休息日及寒暑假外，不得向未成年人提供剧本娱乐活动。上海青浦区消防和文旅部门 2021 年底查过 13 家这类场所。通报说，这类场所通常环境昏暗、通道狭窄，存在用可燃材料装修、疏散通道被锁闭和占用等问题",
+      "grade": "A",
+      "sources": "文化和旅游部、公安部、住房和城乡建设部、应急管理部、市场监管总局 (2022). 关于加强剧本娱乐经营场所管理的通知. <https://www.gov.cn/zhengce/zhengceku/2022-06/27/content_5698021.htm>；上海市青浦区文化和旅游局 (2022-01-10). 关于我区「密室逃脱」类场所消防安全专项检查的情况通报. <https://www.shqp.gov.cn/tv/wlzwgk/ml/yw/20220217/913272.html>",
+      "notes": "青浦那份通报还说，有些商家为了气氛把房间做得错综复杂，还把疏散指示标志和应急灯藏起来。一旦出事，人不容易第一时间找到出口。订之前在点评页面上就能看出楼层，也能看出是不是居民楼。不合规的直接换一家"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng chơi nhập vai theo kịch bản hoặc thoát khỏi phòng kín ở cơ sở nằm trong nhà ở hay từ tầng hầm thứ hai trở xuống",
+    "cost": "Không tốn tiền. Trước khi đặt chỗ, hỏi cơ sở nằm ở tầng nào.",
+    "plain": "Thông báo năm 2022 của năm cơ quan quy định cơ sở giải trí theo kịch bản không được đặt trong nhà ở hoặc sâu hơn tầng hầm thứ nhất. Những nơi này thường tối, lối đi hẹp; có nơi trang trí bằng vật liệu dễ cháy, đường sơ tán còn bị khóa hoặc chặn nên khó thoát khi cháy. Trước khi đặt chỗ, xem địa chỉ và tầng trên trang đánh giá; nếu không đúng quy định thì đổi chỗ.",
+    "benefit": "Thông báo chuyên biệt năm 2022 của năm cơ quan nêu rất cụ thể: “Cơ sở kinh doanh giải trí theo kịch bản không được đặt trong nhà ở, ở các tầng dưới tầng hầm thứ nhất của tòa nhà, không bao gồm tầng hầm thứ nhất, cùng những địa điểm bị cấm khác”. Thông báo còn yêu cầu cơ sở thực hiện Luật An toàn sản xuất và Luật Phòng cháy chữa cháy, “thường xuyên tự nhận diện, tự kiểm tra và tự khắc phục nguy cơ cháy, nâng cao khả năng tổ chức sơ tán, thoát nạn trong tình huống khẩn cấp và dập lửa khi mới phát sinh”. Cũng theo thông báo này, kịch bản phải có chỉ dẫn độ tuổi phù hợp. Không được cho người chưa thành niên vào bối cảnh không phù hợp với họ. Ngoài ngày lễ theo luật, ngày nghỉ và kỳ nghỉ hè, nghỉ đông, không được cung cấp hoạt động giải trí theo kịch bản cho người chưa thành niên. Cuối năm 2021, cơ quan phòng cháy chữa cháy và cơ quan văn hóa, du lịch quận Thanh Phố, Thượng Hải đã kiểm tra 13 cơ sở loại này. Thông báo kết quả cho biết chúng thường tối, lối đi hẹp và có các vấn đề như dùng vật liệu dễ cháy để trang trí, đường sơ tán bị khóa hoặc bị chiếm dụng.",
+    "notes": "Thông báo của Thanh Phố còn cho biết một số cơ sở làm phòng ốc ngoắt ngoéo để tạo không khí, đồng thời giấu biển chỉ dẫn sơ tán và đèn khẩn cấp. Khi xảy ra sự cố, người bên trong khó tìm thấy lối ra ngay. Trước khi đặt chỗ, trang đánh giá có thể cho biết cơ sở ở tầng nào và có nằm trong nhà ở hay không. Nếu không đúng quy định thì đổi chỗ ngay.",
+    "extra": ""
+  }
+}

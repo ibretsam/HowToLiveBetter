@@ -1,0 +1,35 @@
+{
+  "id": "e-19-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "46a364e8984f9f42015d5f0f21b95c368bb2dd639c578a4608b02cade9d3cc65",
+  "original": {
+    "number": 2,
+    "title": "年休假按累计工龄算 5、10、15 天，没休成的按日工资 300% 折钱",
+    "fields": {
+      "cost": "不花钱。把自己在所有单位干过的年头加起来算一遍，社保缴费记录就是证明。难在公司递「自愿放弃年休假」的表时要能不签。",
+      "plain": "在所有单位的工龄加起来满 1 年不满 10 年，每年 5 天年休假。满 10 年是 10 天，满 20 年是 15 天，换过工作也照样往上累计。单位安排不了、你又同意不休的，那几天按日工资的 3 倍给钱。「自愿放弃年休假」的表一签，就只剩正常工资了。",
+      "benefit": "连续工作满 12 个月就有年休假。天数按**累计**工作时间定，在所有单位干过的年头都加起来算。满 1 年不满 10 年 5 天，满 10 年不满 20 年 10 天，满 20 年 15 天。国家法定休假日和休息日不算进年休假的天数里。单位确实因为工作需要安排不了、又征得你本人同意不休的，该休没休的那几天「按照该职工日工资收入的 300% 支付年休假工资报酬」。这 300% 里已经含了正常上班那天本来就该给的一份，所以实际额外多拿到手的是 200%。日工资 = 本人月工资 ÷ 21.75。月工资按发这笔钱之前 12 个月的工资算，去掉加班费之后取月平均数。当年才进单位的，按在这家单位剩下的日历天数折算。离职时按当年已经干了多久折算并结清，已经多休的不倒扣回来。单位既不安排休、又不给钱的，勒令限期改正。过了期限还不改的，除了那笔年休假工资报酬，还要再按同样的数额加付一笔赔偿金（全国，2008 年 1 月 1 日起施行）",
+      "grade": "A",
+      "sources": "国务院 (2007). 职工带薪年休假条例（国务院令第 514 号，第二、三、四、五、七条）. <http://www.gov.cn/gongbao/content/2008/content_859865.htm>；人力资源和社会保障部 (2008). 企业职工带薪年休假实施办法（人社部令第 1 号，第三、四、五、十、十一、十二、十五条）. <http://www.gov.cn/gongbao/content/2009/content_1265995.htm>",
+      "notes": "累计工作时间要跨单位加起来算，换过工作的别按现单位工龄算。**只有职工「因本人原因且书面提出不休」，单位才可以只支付正常工资**，所以「自愿放弃年休假」的表别签。请事假累计 20 天以上、单位又不扣你工资的，当年不享受年休假。病假超过对应月数的也不享受：工龄不满 10 年是 2 个月，10 到 20 年是 3 个月，20 年以上是 4 个月。探亲假、婚丧假、产假和工伤停工留薪期不计入年休假。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tính phép năm theo thâm niên cộng dồn thành 5, 10, 15 ngày; những ngày chưa được nghỉ được quy thành tiền bằng 300% lương ngày",
+    "cost": "Không tốn tiền. Cộng tất cả số năm đã làm tại mọi đơn vị; hồ sơ đóng bảo hiểm xã hội là bằng chứng. Khó là phải giữ được quyết định không ký khi công ty đưa mẫu “tự nguyện từ bỏ phép năm”.",
+    "plain": "Tổng thâm niên ở mọi đơn vị từ đủ 1 năm đến dưới 10 năm được 5 ngày phép năm mỗi năm. Đủ 10 năm được 10 ngày, đủ 20 năm được 15 ngày; đổi việc vẫn tiếp tục cộng dồn. Đơn vị không bố trí được và bạn đồng ý không nghỉ thì các ngày đó được trả 3 lần lương ngày. Ký mẫu “tự nguyện từ bỏ phép năm” thì chỉ còn lương bình thường.",
+    "benefit": "Làm việc liên tục đủ 12 tháng thì có phép năm. Số ngày tính theo thời gian làm việc **cộng dồn**, cộng tất cả số năm đã làm tại mọi đơn vị. Từ đủ 1 năm đến dưới 10 năm được 5 ngày; từ đủ 10 năm đến dưới 20 năm được 10 ngày; từ đủ 20 năm được 15 ngày. Ngày nghỉ lễ theo luật và ngày nghỉ thường không tính vào số ngày phép năm. Nếu đơn vị thực sự không bố trí được vì yêu cầu công việc và đã được chính bạn đồng ý không nghỉ, thì những ngày đáng được nghỉ nhưng chưa nghỉ phải được “trả tiền lương phép năm bằng 300% thu nhập lương ngày của người lao động”. Trong 300% này đã có một phần lương ngày bình thường vốn phải trả, nên số thực tế nhận thêm là 200%. Lương ngày = lương tháng của bản thân ÷ 21.75. Lương tháng lấy bình quân tiền lương trong 12 tháng trước khi trả khoản này, sau khi trừ tiền làm thêm. Người mới vào đơn vị trong năm được tính theo tỷ lệ số ngày lịch còn lại tại đơn vị đó. Khi nghỉ việc, tính theo tỷ lệ thời gian đã làm trong năm rồi thanh toán hết; số ngày đã nghỉ vượt mức không bị khấu trừ ngược lại. Đơn vị vừa không bố trí nghỉ vừa không trả tiền sẽ bị buộc khắc phục trong thời hạn. Quá hạn vẫn không khắc phục thì ngoài khoản tiền lương phép năm, đơn vị còn phải trả thêm khoản bồi thường bằng đúng số đó (toàn Trung Quốc, có hiệu lực từ ngày 1 tháng 1 năm 2008).",
+    "notes": "Thâm niên phải cộng qua mọi đơn vị; đã đổi việc thì đừng chỉ tính thời gian ở công ty hiện tại. **Chỉ khi người lao động “vì lý do cá nhân và có văn bản đề nghị không nghỉ” thì đơn vị mới được chỉ trả lương bình thường**, nên đừng ký mẫu “tự nguyện từ bỏ phép năm”. Nghỉ việc riêng cộng dồn từ 20 ngày trở lên và đơn vị không trừ lương thì năm đó không được hưởng phép năm. Nghỉ bệnh vượt số tháng tương ứng cũng không được hưởng: thâm niên dưới 10 năm là 2 tháng, từ 10 đến 20 năm là 3 tháng, từ 20 năm trở lên là 4 tháng. Nghỉ thăm thân, nghỉ cưới hoặc tang, nghỉ thai sản và thời gian ngừng việc vẫn hưởng lương do tai nạn lao động không tính vào phép năm.",
+    "extra": ""
+  }
+}

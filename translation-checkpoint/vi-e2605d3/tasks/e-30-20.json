@@ -1,0 +1,36 @@
+{
+  "id": "e-30-20",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "85c491fe4e0652b4eca4221628d071f0b2ee67002b37629067c201d95e04b492",
+  "original": {
+    "number": 20,
+    "title": "别让不满 12 周岁的孩子骑自行车上路、不满 16 周岁的骑电动自行车上路：撞了人父母赔，自己被撞也可能要担一部分",
+    "fields": {
+      "cost": "不花钱，但要换个上学的法子，家长接送、坐公交或者走路。难在同学都骑，孩子会闹。",
+      "plain": "满 12 周岁才能骑自行车上路，满 16 周岁才能骑电动自行车。有个 14 岁的孩子扫妈妈的码骑共享电动车，把人撞成十级伤残，法院判父母赔约 18.7 万元。不到年龄的孩子自己被撞，就算对方全责，也有法院判孩子这边自担一部分。",
+      "benefit": "《道路交通安全法实施条例》第七十二条规定，在道路上「驾驶自行车、三轮车必须年满12周岁」。同一条还规定，「驾驶电动自行车和残疾人机动轮椅车必须年满16周岁」。违反了，按《道路交通安全法》第八十九条处警告或者 5 到 50 元罚款，不接受罚款的可以扣车。罚款不多，要紧的是出事以后的账。《民法典》第一千一百八十八条规定，未成年人造成他人损害，由监护人承担侵权责任。孩子自己有财产的，先从他的财产里赔，不够的由监护人赔。福建连江县法院判过一案。2022 年 5 月，刚满 14 周岁的孩子用母亲的账户扫码，租了共享电动自行车。他撞上一个骑电动自行车的人，对方十级伤残，交警认定孩子全责。出租公司和保险公司说，用户协议要求 16 周岁以上，孩子不是合法的骑车人，所以不赔。法院判孩子父母赔约 18.7 万元（精确值 187017.83 元）。孩子自己被撞也吃亏。北京一位法官写过一案：10 岁孩子放学骑自行车，被电动自行车撞成十级伤残，交警认定对方全责。《民法典》第一千一百七十三条规定，被侵权人对损害的发生有过错的，可以减轻侵权人的责任。法院据此认定孩子未满 12 周岁上路、监护人没制止，判孩子这边自担一部分损失。伤情也更重。以色列一家创伤中心 2014 到 2016 年收住院 337 名交通伤孩子。骑电动自行车伤的，脑外伤占 13%，骑普通自行车的占 3%。把别的因素一起算进去后，伤情偏重的机会约是骑普通自行车的 2.6 倍（OR 2.56，95% CI 1.1–5.88，可信范围）（全国 / 福建 / 北京 / 以色列）",
+      "grade": "B",
+      "sources": "国务院 (2017 年修订). 道路交通安全法实施条例（第七十二条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f40f566c10e23>；全国人大常委会 (2021 年修正). 道路交通安全法（第八十九条）. <https://flk.npc.gov.cn/detail?id=ff8081817ab231eb017abd617ef70519>；全国人大 (2020). 民法典（第一千一百七十三、一千一百八十八条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>；广州市司法局 (2024-11-28). 14岁孩子骑共享电动车，竟把人撞致十级伤残……（转载央视网等）. <https://sfj.gz.gov.cn/ztlm/fzxc/yasf/content/post_9915896.html>（网页存档 <http://web.archive.org/web/20250421103222/https://sfj.gz.gov.cn/ztlm/fzxc/yasf/content/post_9915896.html>）；秦鹏博 (2024-08-29). “半大孩子”怎样骑行才安全又合规. 北京政法网（来源京法网事）. <https://www.bj148.org/123/202408/t20240829_1667638.html>；Zmora O, Peleg K, Klein Y (2019). Pediatric electric bicycle injuries and comparison to other pediatric traffic injuries. Traffic Injury Prevention, 20(5), 540-543. <https://doi.org/10.1080/15389588.2019.1608361>",
+      "notes": "给 B 是因为法条和两起判例都核过，但伤情的数字只来自国外一家医院，国内没找到按年龄算的伤亡统计。连江那案取自司法局普法栏目的转载，判决书原文没找到。收益定大，是按那案 18.7 万元的赔偿套金钱口径，不是每起事故都赔这么多。共享电动自行车的用户协议也要求 16 周岁以上，别把自己的账号给孩子扫码。到了年龄再骑，也要戴头盔，见第 1 节第 2 条（戴头盔并扣好）和第 22 节第 12 条（骑山地车时戴头盔）。受益人主要是孩子，赔钱的是父母自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng cho trẻ chưa đủ 12 tuổi đi xe đạp trên đường, chưa đủ 16 tuổi đi xe đạp điện trên đường: đâm người khác thì cha mẹ bồi thường, bản thân bị đâm cũng có thể phải tự chịu một phần",
+    "cost": "Không tốn tiền, nhưng phải đổi cách đi học: cha mẹ đưa đón, đi xe buýt hoặc đi bộ. Cái khó là bạn học đều đi xe, con sẽ phản đối.",
+    "plain": "Phải đủ 12 tuổi mới được đi xe đạp trên đường, đủ 16 tuổi mới được đi xe đạp điện. Một trẻ 14 tuổi dùng tài khoản của mẹ quét mã đi xe điện dùng chung, đâm người khác gây thương tật cấp mười; tòa buộc cha mẹ bồi thường khoảng 18.7 vạn nhân dân tệ. Trẻ chưa đủ tuổi mà bản thân bị đâm, dù bên kia chịu toàn bộ lỗi, vẫn có tòa phán phía trẻ phải tự chịu một phần thiệt hại.",
+    "benefit": "Điều bảy mươi hai của “Quy định thi hành Luật An toàn giao thông đường bộ” quy định khi đi trên đường, “người điều khiển xe đạp, xe ba bánh phải đủ 12 tuổi”. Cùng điều này còn quy định “người điều khiển xe đạp điện và xe lăn có động cơ dành cho người khuyết tật phải đủ 16 tuổi”. Vi phạm thì theo điều tám mươi chín của “Luật An toàn giao thông đường bộ”, bị cảnh cáo hoặc phạt từ 5 đến 50 nhân dân tệ; không chấp nhận nộp phạt thì có thể bị tạm giữ xe. Tiền phạt không nhiều; đáng ngại là khoản phải trả sau tai nạn. Điều một nghìn một trăm tám mươi tám của “Bộ luật Dân sự” quy định người chưa thành niên gây thiệt hại cho người khác thì người giám hộ chịu trách nhiệm bồi thường do xâm phạm quyền. Nếu trẻ có tài sản riêng, trước hết lấy tài sản đó bồi thường, phần thiếu do người giám hộ bồi thường. Tòa án huyện Liên Giang, Phúc Kiến từng xử một vụ: tháng 5 năm 2022, một trẻ vừa đủ 14 tuổi dùng tài khoản của mẹ quét mã thuê xe đạp điện dùng chung. Trẻ đâm vào một người đi xe đạp điện, khiến người này bị thương tật cấp mười; cảnh sát giao thông xác định trẻ chịu toàn bộ lỗi. Công ty cho thuê và công ty bảo hiểm nói thỏa thuận người dùng yêu cầu từ 16 tuổi trở lên, trẻ không phải người điều khiển hợp lệ nên không bồi thường. Tòa buộc cha mẹ trẻ bồi thường khoảng 18.7 vạn nhân dân tệ (giá trị chính xác 187017.83 nhân dân tệ). Trẻ cũng chịu thiệt khi bản thân bị đâm. Một thẩm phán Bắc Kinh từng viết về vụ một trẻ 10 tuổi đi xe đạp về sau giờ học, bị xe đạp điện đâm gây thương tật cấp mười; cảnh sát giao thông xác định đối phương chịu toàn bộ lỗi. Điều một nghìn một trăm bảy mươi ba của “Bộ luật Dân sự” quy định nếu người bị xâm phạm quyền có lỗi trong việc phát sinh thiệt hại, có thể giảm trách nhiệm của người gây thiệt hại. Dựa vào đó, tòa nhận định trẻ chưa đủ 12 tuổi đã đi xe trên đường, người giám hộ không ngăn lại, nên phán phía trẻ tự chịu một phần tổn thất. Mức độ chấn thương cũng nặng hơn. Một trung tâm chấn thương ở Israel tiếp nhận 337 trẻ nhập viện vì chấn thương giao thông từ năm 2014 đến 2016. Trong số bị thương khi đi xe đạp điện, chấn thương sọ não chiếm 13%, còn xe đạp thường là 3%. Sau khi tính chung các yếu tố khác, khả năng bị thương tương đối nặng khoảng 2.6 lần so với đi xe đạp thường (OR 2.56, 95% CI 1.1–5.88, khoảng tin cậy) (toàn Trung Quốc / Phúc Kiến / Bắc Kinh / Israel).",
+    "notes": "Xếp B vì đã đối chiếu điều luật và hai vụ án, nhưng số liệu chấn thương chỉ đến từ một bệnh viện nước ngoài; chưa tìm thấy thống kê thương vong theo tuổi ở Trung Quốc. Vụ Liên Giang lấy từ bài đăng lại trong chuyên mục phổ biến pháp luật của cơ quan tư pháp, chưa tìm được nguyên văn bản án. Lợi ích xếp lớn dựa trên khoản bồi thường 18.7 vạn nhân dân tệ của vụ đó theo thang tiền bạc, không có nghĩa tai nạn nào cũng bồi thường nhiều như vậy. Thỏa thuận người dùng xe đạp điện dùng chung cũng yêu cầu từ 16 tuổi trở lên, đừng đưa tài khoản của mình cho con quét mã. Đủ tuổi rồi mới đi xe thì vẫn phải đội mũ bảo hiểm; xem chương 1 mục 2 (đội mũ bảo hiểm và cài quai đúng) và chương 22 mục 12 (đội mũ bảo hiểm khi đi xe đạp địa hình). Người hưởng lợi chủ yếu là con, còn người phải bồi thường là chính cha mẹ.",
+    "extra": ""
+  }
+}

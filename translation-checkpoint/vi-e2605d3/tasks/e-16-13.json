@@ -1,0 +1,35 @@
+{
+  "id": "e-16-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "8f916da5a83a82c64573139e7631a06e9f7cf3d5859f65713f30ca59dbb76838",
+  "original": {
+    "number": 13,
+    "title": "有糖尿病的每年查一次尿白蛋白肌酐比和血肌酐，有高血压的也要查，早点发现慢性肾病",
+    "fields": {
+      "cost": "留一次尿查尿白蛋白肌酐比，再抽血查肌酐，复诊时让医生一起开。难在肾没有不舒服的时候也要记着查。",
+      "plain": "中国得了慢性肾病的成年人里，只有一成知道自己有病。糖尿病病人每年验一次尿和血，能早点查出来。查出尿蛋白偏高的，吃上达格列净这种药，肾功能坏下去、走到透析或死亡的情况合起来少约四成，死亡少约三成。",
+      "benefit": "中国 2018 到 2019 年的全国慢性病监测，176874 名成年人都验了血和尿。得慢性肾病的约 8.2%，折合约 8200 万人。其中 73.3% 还在早期的 1 到 2 期。知道自己有病的只有 10.0%。另一项调查在全国 45 家医院查了 9672 名 2 型糖尿病病人，31% 有慢性肾病。这 2997 人里，以前查过肾病的只有 27%。KDIGO 2024 年的肾病指南说，有风险的人要同时查尿白蛋白和肾小球滤过率（肾每分钟能滤多少血）。最优先查的是高血压、糖尿病和心血管病病人。美国糖尿病学会 2026 年的标准说，2 型糖尿病病人不管怎么治疗，都要至少每年查一次尿白蛋白肌酐比和估算的肾小球滤过率。1 型病程满 5 年的也一样。糖尿病合并高血压、尿白蛋白中度升高（30 到 299 mg/g）的，推荐用普利类或沙坦类降压药。查出来以后有药可用。一项随机分组试验收了 4304 名慢性肾病病人，肾小球滤过率在 25 到 75 之间，尿白蛋白肌酐比 200 到 5000。中位 2.4 年里，吃达格列净的一组有 9.2% 出了这几样事：肾功能掉一半以上、走到终末期肾病、死于肾病或心血管病。安慰剂组是 14.5%。HR 0.61（95% CI 0.51–0.72），低约 39%。死亡 4.7% 对 6.8%，HR 0.69（0.53–0.88），低约 31%。有没有糖尿病，效果差不多",
+      "grade": "B",
+      "sources": "Wang L, Xu X, Zhang M, et al. (2023). Prevalence of Chronic Kidney Disease in China: Results From the Sixth China Chronic Disease and Risk Factor Surveillance. JAMA Internal Medicine, 183(4), 298-310. <https://doi.org/10.1001/jamainternmed.2022.6817>；Shi L, Xue Y, Yu X, et al. (2024). Prevalence and Risk Factors of Chronic Kidney Disease in Patients With Type 2 Diabetes in China: Cross-Sectional Study. JMIR Public Health and Surveillance, 10, e54429. <https://doi.org/10.2196/54429>；Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group (2024). KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney International, 105(4S), S117-S314，Practice Point 1.1.1.1、1.1.1.2. <https://doi.org/10.1016/j.kint.2023.10.018>；美国糖尿病学会 (2026). 糖尿病诊疗标准 2026·第 11 章 慢性肾病与风险管理. Diabetes Care, 49(Suppl 1), S246-S260，推荐 11.1a、11.6a. <https://doi.org/10.2337/dc26-S011>；Heerspink HJL, Stefánsson BV, Correa-Rotter R, et al. (2020). Dapagliflozin in Patients with Chronic Kidney Disease. New England Journal of Medicine, 383(15), 1436-1446. <https://doi.org/10.1056/NEJMoa2024816>",
+      "notes": "只给 B 级，因为「每年查一次」本身能不能让人少死，没有随机试验直接比过。少死的数字来自已经查出尿蛋白偏高、再吃药的人。收益量级因此凭判断定为中，没按死亡降幅套成大。一次结果偏高不算确诊，KDIGO 要求复查确认。高血压病人多久查一次，指南没写固定间隔，按医生说的来。吃什么药由医生定，别自己买。糖尿病要查的眼底和脚，见第 7 条（查一次眼底）。受益人主要是你自己。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người đái tháo đường cần xét nghiệm tỷ số albumin/creatinine niệu và creatinine máu mỗi năm; người tăng huyết áp cũng cần kiểm tra để phát hiện sớm bệnh thận mạn",
+    "cost": "Lấy một mẫu nước tiểu xét nghiệm tỷ số albumin/creatinine niệu, rồi lấy máu xét nghiệm creatinine; khi tái khám nhờ bác sĩ chỉ định cùng lần. Khó ở chỗ vẫn phải nhớ kiểm tra khi không thấy khó chịu gì ở thận.",
+    "plain": "Trong số người lớn mắc bệnh thận mạn ở Trung Quốc, chỉ một phần mười biết mình có bệnh. Người đái tháo đường xét nghiệm nước tiểu và máu mỗi năm có thể phát hiện sớm hơn. Với người được phát hiện protein niệu cao, dùng thuốc như dapagliflozin làm tổng số trường hợp suy giảm chức năng thận, tiến đến lọc máu hoặc tử vong giảm khoảng bốn phần mười, tử vong giảm khoảng ba phần mười.",
+    "benefit": "Giám sát bệnh mạn tính toàn quốc của Trung Quốc từ năm 2018 đến 2019 xét nghiệm máu và nước tiểu cho 176874 người lớn. Tỷ lệ bệnh thận mạn khoảng 8.2%, tương đương khoảng 8200 vạn người. Trong đó, 73.3% vẫn ở giai đoạn sớm, từ giai đoạn 1 đến 2. Chỉ 10.0% biết mình có bệnh. Một khảo sát khác kiểm tra 9672 bệnh nhân đái tháo đường típ 2 tại 45 bệnh viện trên toàn quốc, có 31% mắc bệnh thận mạn. Trong 2997 người này, chỉ 27% từng được kiểm tra bệnh thận. Hướng dẫn bệnh thận KDIGO năm 2024 nói người có nguy cơ cần kiểm tra đồng thời albumin niệu và mức lọc cầu thận, tức lượng máu thận có thể lọc mỗi phút. Ưu tiên cao nhất là người tăng huyết áp, đái tháo đường và bệnh tim mạch. Tiêu chuẩn năm 2026 của Hiệp hội Đái tháo đường Hoa Kỳ nói người bệnh típ 2, bất kể cách điều trị, cần xét nghiệm tỷ số albumin/creatinine niệu và mức lọc cầu thận ước tính ít nhất mỗi năm một lần. Người bệnh típ 1 đã đủ 5 năm cũng vậy. Người đái tháo đường kèm tăng huyết áp và albumin niệu tăng vừa (30 đến 299 mg/g) được khuyến nghị dùng thuốc hạ áp nhóm ức chế men chuyển hoặc chẹn thụ thể angiotensin. Phát hiện bệnh rồi có thuốc để dùng. Một thử nghiệm chia nhóm ngẫu nhiên gồm 4304 bệnh nhân bệnh thận mạn, mức lọc cầu thận từ 25 đến 75, tỷ số albumin/creatinine niệu từ 200 đến 5000. Trong thời gian trung vị 2.4 năm, 9.2% người ở nhóm dapagliflozin gặp một trong các kết cục: chức năng thận giảm từ một nửa trở lên, tiến đến bệnh thận giai đoạn cuối, tử vong do bệnh thận hoặc tim mạch. Nhóm giả dược là 14.5%. HR 0.61 (95% CI 0.51–0.72), thấp hơn khoảng 39%. Tử vong là 4.7% so với 6.8%, HR 0.69 (0.53–0.88), thấp hơn khoảng 31%. Hiệu quả tương tự dù có hay không có đái tháo đường.",
+    "notes": "Chỉ xếp mức B vì chưa có thử nghiệm ngẫu nhiên trực tiếp so sánh xem bản thân việc “kiểm tra mỗi năm” có làm giảm tử vong không. Số liệu giảm tử vong đến từ người đã phát hiện protein niệu cao rồi dùng thuốc. Vì vậy, mức lợi ích được xếp trung bình theo nhận định, không lấy mức giảm tử vong để xếp thành lớn. Một lần có kết quả cao chưa đủ chẩn đoán; KDIGO yêu cầu kiểm tra lại để xác nhận. Với người tăng huyết áp, hướng dẫn không quy định khoảng cách kiểm tra cố định; hãy theo lời bác sĩ. Bác sĩ quyết định dùng thuốc gì, đừng tự mua. Khám đáy mắt và bàn chân cho người đái tháo đường, xem mục 7 (khám đáy mắt một lần). Người hưởng lợi chủ yếu là bạn.",
+    "extra": ""
+  }
+}

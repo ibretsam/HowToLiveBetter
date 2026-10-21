@@ -1,0 +1,35 @@
+{
+  "id": "e-24-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "9b0125206da942a42466e47ec88b5e2a7166431580c1efa9a7a2e253dd4fa0d1",
+  "original": {
+    "number": 1,
+    "title": "常见病先在社区看，经基层逐级转诊上去，住院起付线接着算",
+    "fields": {
+      "cost": "不花钱。要先去一趟社区。难在忍住不直接去挂专家号。",
+      "plain": "先去社区，再由社区转到大医院住院，自己先掏的那一段钱可以接着算，不用重新掏一遍。具体怎么算各地定，四川是只补两家起付线的差额。由大医院转回社区接着住的，同一个病这段时间里也不再重算一次。",
+      "benefit": "经基层逐级转诊的参保患者，在上级医院的住院起付线可以连续计算。起付线就是每次住院自己先掏、掏够了医保才开始报的那一段。国办文件没写连续计算具体怎么算，由各地定。四川的做法是只补两家医院起付线的差额：县中医院起付线 600 元，转到县人民医院（起付线 800 元），只需要再补 200 元。由上级医院下转回基层的住院患者，同一疾病周期内不再另设起付线",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「统筹地区内经基层医疗卫生机构逐级转诊的参保患者，在上级医院的住院起付线可连续计算；由上级医院下转至基层医疗卫生机构的住院患者，同一疾病周期内不再另设住院起付线。」；四川省医疗保障局 (2025). 关于省第十四届人大第四次会议第14041026号建议办理答复的函. <https://ylbzj.sc.gov.cn/scsybj/nc010414/2025/3/19/fea6f0a5f8ba416abf7ed17541afdc7a.shtml>：「仪陇县人民医院起付线是800元，仪陇县中医院起付线是600元，仪陇县中医院转仪陇县人民医院起付线只需要补200元差额即可。」",
+      "notes": "转诊规则由各省、各市和医联体分别制定，去之前先问一下社区。稳定期的慢病别再去大医院开药，因为大医院的这类普通门诊会逐步减掉。社区一次能开 12 周的药，见第 16 节第 5 条（社区一次开到 12 周的药）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bệnh thường gặp thì khám ở cơ sở cộng đồng trước; chuyển từng tuyến từ cơ sở lên thì ngưỡng tự trả khi nằm viện được tính tiếp",
+    "cost": "Không tốn tiền. Phải đến cơ sở y tế cộng đồng trước một lần. Khó ở chỗ kiềm chế việc đến đăng ký khám chuyên gia ngay.",
+    "plain": "Khám ở cơ sở cộng đồng trước, rồi được chuyển lên bệnh viện lớn để nằm viện thì phần tiền phải tự trả ban đầu có thể được tính tiếp, không phải trả lại từ đầu. Cách tính cụ thể do từng địa phương quy định; Tứ Xuyên chỉ yêu cầu trả thêm phần chênh lệch ngưỡng tự trả giữa hai bệnh viện. Nếu được chuyển từ bệnh viện lớn về cơ sở cộng đồng để tiếp tục nằm viện, trong cùng đợt bệnh cũng không tính lại ngưỡng này.",
+    "benefit": "Người tham gia bảo hiểm được chuyển từng tuyến từ cơ sở lên có thể được tính tiếp ngưỡng tự trả khi nằm viện ở bệnh viện tuyến trên. Ngưỡng tự trả là phần tiền mỗi lần nằm viện bạn phải tự bỏ ra trước; trả đủ mức đó thì bảo hiểm y tế mới bắt đầu thanh toán. Văn bản của Văn phòng Quốc vụ viện không nêu cách tính tiếp cụ thể mà để từng địa phương quy định. Tứ Xuyên chỉ yêu cầu trả phần chênh lệch ngưỡng giữa hai bệnh viện: bệnh viện y học cổ truyền cấp huyện có ngưỡng tự trả 600 nhân dân tệ, chuyển sang bệnh viện nhân dân cấp huyện có ngưỡng 800 nhân dân tệ thì chỉ cần trả thêm 200 nhân dân tệ. Người đang nằm viện được chuyển từ bệnh viện tuyến trên về tuyến cơ sở không bị đặt thêm ngưỡng tự trả trong cùng một đợt bệnh.",
+    "notes": "Quy tắc chuyển tuyến do từng tỉnh, thành phố và liên hiệp y tế quy định riêng; trước khi đi hãy hỏi cơ sở y tế cộng đồng. Bệnh mạn tính ở giai đoạn ổn định thì đừng tiếp tục đến bệnh viện lớn chỉ để lấy đơn thuốc, vì các lượt khám ngoại trú thông thường này ở bệnh viện lớn sẽ dần được cắt giảm. Cơ sở cộng đồng có thể kê thuốc dùng trong 12 tuần một lần; xem mục 5 phần 16 (cơ sở cộng đồng kê một lần đủ thuốc cho 12 tuần).",
+    "extra": ""
+  }
+}

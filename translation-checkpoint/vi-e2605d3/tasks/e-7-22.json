@@ -1,0 +1,35 @@
+{
+  "id": "e-7-22",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "8883a2f2cc491898d5bfcd5b766a4f68e274be5e06525f7b677cd90346206310",
+  "original": {
+    "number": 22,
+    "title": "被欠了工钱，先分清雇你的是谁：没执照的作坊和包工头照样找劳动监察，给家庭或个人干私活才去法院",
+    "fields": {
+      "cost": "不花钱。先弄清三件事：对方是不是在开店办厂做生意，活是不是从公司或工地转包下来的，你是不是给人家里干活。对方有没有执照，可以在国家企业信用信息公示系统上查。",
+      "plain": "没办执照的作坊、店铺，欠了工资照样能投诉劳动监察、申请劳动仲裁，老板本人也能被追。包工头转包工地上的活欠了钱，由总包或建设单位来付。只有给家庭或个人干私活，比如当保姆，才不算劳动争议，要去法院起诉。",
+      "benefit": "劳动合同法第二条说的用人单位，是企业、个体经济组织、民办非企业单位这类组织，单个的人不算。最高法的劳动争议司法解释列了几种不属于劳动争议的纠纷。一是家庭或者个人与家政服务人员之间的纠纷。二是个体工匠与帮工、学徒之间的纠纷。三是农村承包经营户与受雇人之间的纠纷。这几种要去法院按普通民事纠纷起诉，诉讼时效 3 年。没有营业执照的用人单位不在这个例外里。劳动合同法第九十三条管的是没有合法经营资格的单位。你已经干了活的，单位或者它的出资人要付工钱、经济补偿和赔偿金。出资人就是出钱开这个单位的人。该解释第二十九条管三种单位：没办营业执照的，执照被吊销的，营业期限到了还在经营的。你和这样的单位有争议，要把单位或者它的出资人列为当事人。劳动保障监察条例第三十三条规定，没有营业执照或者执照已被吊销、但在雇人干活的，人社部门照样实施劳动保障监察。个人承包经营违法招人，给工人造成损害的，发包的组织和承包的个人要承担连带赔偿责任（劳动合同法第九十四条）。建设单位或者施工总承包单位，有时把工程发包、分包给个人或者没有合法经营资格的单位。因此欠了农民工工资的，由建设单位或者施工总承包单位清偿（保障农民工工资支付条例第三十六条）（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2012 修正). 劳动合同法（第二、九十三、九十四条）. <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193025/content.html>（国家税务总局政策法规库转载）；最高人民法院 (2020). 关于审理劳动争议案件适用法律问题的解释（一）（法释〔2020〕26 号，第二、二十九条）. <https://www.court.gov.cn/fabu/xiangqing/282121.html>；国务院 (2004). 劳动保障监察条例（国务院令第 423 号，第三十三条）. <https://www.gov.cn/gongbao/content/2004/content_63042.htm>；国务院 (2019). 保障农民工工资支付条例（国务院令第 724 号，第三十六条）. <https://www.gov.cn/gongbao/content/2020/content_5469641.htm>；全国人大 (2020). 民法典（第一百八十八条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、二十九条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>；全国人大常委会 (2023 修正). 民事诉讼法（第一百五十二、二百二十五条）. <https://amr.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/zcfg/fl/202401/t20240129_83645867.html>（贵州省市场监管局转载）",
+      "notes": "按这个顺序判断。先看活是不是从公司或工地转下来的，是就找发包的公司或者总包。工地上的工资专用账户和总包先行清偿，见第 2 条（被欠薪先投诉劳动监察）。再看对方是不是在做生意：开店、办厂、开作坊的，有没有执照都走监察和仲裁，仲裁时把老板本人一起列上。剩下给家庭或个人干私活的，才去法院。去法院要自己起诉、自己举证，一审普通程序按规定 6 个月内审完，可以延长。律师费不在法院判给输家承担的诉讼费用里，请律师要自己出，打不起可以申请法律援助，见第 3 条（法律援助）。手上有欠条的可以先申请支付令，见第 2 条（支付令）。金额小的走小额诉讼，见第 8 节第 22 条（二手交易被骗、小额诉讼）。诉讼时效 3 年，见第 8 节第 19 条（维权有期限）。走哪条路都不保证钱到账，对方没有财产的，赢了也拿不到。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Bị nợ tiền công thì trước hết phân biệt ai thuê bạn: xưởng không có giấy phép và cai thầu vẫn tìm thanh tra lao động, chỉ làm việc riêng cho gia đình hoặc cá nhân mới ra tòa",
+    "cost": "Không tốn tiền. Trước hết làm rõ ba việc: bên kia có đang mở cửa hàng, nhà máy để kinh doanh không; việc có được giao thầu lại từ công ty hoặc công trường không; bạn có làm việc cho nhà riêng của họ không. Bên kia có giấy phép hay không có thể tra trên Hệ thống công khai thông tin tín nhiệm doanh nghiệp quốc gia.",
+    "plain": "Xưởng, cửa hàng chưa có giấy phép mà nợ lương vẫn có thể bị khiếu nại thanh tra lao động, yêu cầu trọng tài lao động; bản thân chủ cũng có thể bị truy trách nhiệm. Cai thầu nhận thầu lại công việc ở công trường mà nợ tiền thì tổng thầu hoặc chủ đầu tư trả. Chỉ làm việc riêng cho gia đình hoặc cá nhân, như giúp việc gia đình, mới không tính là tranh chấp lao động và phải kiện ra tòa.",
+    "benefit": "Đơn vị sử dụng lao động theo điều hai Luật Hợp đồng lao động là các tổ chức như doanh nghiệp, tổ chức kinh tế cá thể, đơn vị dân lập phi doanh nghiệp; cá nhân đơn lẻ không được tính. Giải thích tư pháp về tranh chấp lao động của Tòa án Nhân dân Tối cao liệt kê một số tranh chấp không thuộc tranh chấp lao động: giữa gia đình hoặc cá nhân với người làm dịch vụ gia đình; giữa thợ thủ công cá thể với người phụ việc, học nghề; giữa hộ nhận khoán kinh doanh nông thôn với người được thuê. Các trường hợp này phải kiện tại tòa theo tranh chấp dân sự thông thường, thời hiệu khởi kiện 3 năm. Đơn vị sử dụng lao động không có giấy phép kinh doanh không nằm trong ngoại lệ này. Điều chín mươi ba Luật Hợp đồng lao động áp dụng cho đơn vị không có tư cách kinh doanh hợp pháp. Bạn đã làm việc thì đơn vị hoặc người góp vốn phải trả tiền công, khoản bù đắp kinh tế và tiền bồi thường do vi phạm. Người góp vốn là người bỏ tiền mở đơn vị. Điều hai mươi chín của giải thích đó áp dụng cho ba loại đơn vị: chưa có giấy phép kinh doanh, bị thu hồi giấy phép, hết thời hạn kinh doanh vẫn hoạt động. Tranh chấp với đơn vị như vậy thì phải đưa đơn vị hoặc người góp vốn vào tư cách đương sự. Điều ba mươi ba Quy định thanh tra bảo đảm lao động nêu rằng không có giấy phép kinh doanh hoặc đã bị thu hồi nhưng vẫn thuê người làm thì cơ quan nhân lực và an sinh xã hội vẫn thanh tra bảo đảm lao động. Cá nhân nhận khoán kinh doanh tuyển người trái luật, gây thiệt hại cho người lao động thì tổ chức giao khoán và cá nhân nhận khoán chịu trách nhiệm bồi thường liên đới, theo điều chín mươi tư Luật Hợp đồng lao động. Chủ đầu tư hoặc đơn vị tổng thầu thi công đôi khi giao thầu, thầu phụ công trình cho cá nhân hay đơn vị không có tư cách kinh doanh hợp pháp. Vì vậy mà nợ lương lao động nông thôn thì chủ đầu tư hoặc đơn vị tổng thầu thi công phải thanh toán, theo điều ba mươi sáu Quy định bảo đảm trả lương cho lao động nông thôn (toàn Trung Quốc).",
+    "notes": "Xét theo thứ tự này: trước hết xem việc có được giao lại từ công ty hoặc công trường không; nếu có, tìm công ty giao thầu hoặc tổng thầu. Tài khoản chuyên trả lương ở công trường và việc tổng thầu thanh toán trước xem mục 2 (bị nợ lương thì khiếu nại thanh tra lao động trước). Tiếp theo xem bên kia có kinh doanh không: mở cửa hàng, nhà máy, xưởng thì có giấy phép hay không đều theo thanh tra và trọng tài; yêu cầu trọng tài nhớ đưa cả chủ vào danh sách đương sự. Còn lại việc riêng cho gia đình hoặc cá nhân mới ra tòa. Ra tòa phải tự khởi kiện, tự đưa chứng cứ, sơ thẩm theo thủ tục thông thường từ 6 tháng. Phí luật sư không nằm trong chi phí tố tụng mà tòa buộc bên thua chịu; thuê luật sư phải tự trả, không đủ tiền có thể xin trợ giúp pháp lý, xem mục 3. Có giấy nhận nợ thì có thể xin lệnh thanh toán trước, xem mục 2 (lệnh thanh toán). Số tiền nhỏ thì theo tố tụng khoản nhỏ, xem chương 8 mục 22 (bị lừa trong giao dịch đồ cũ, tố tụng khoản nhỏ). Thời hiệu khởi kiện 3 năm, xem chương 8 mục 19 (bảo vệ quyền lợi có thời hạn). Đi con đường nào cũng không bảo đảm tiền sẽ về; bên kia không có tài sản thì thắng vẫn không lấy được.",
+    "extra": ""
+  }
+}

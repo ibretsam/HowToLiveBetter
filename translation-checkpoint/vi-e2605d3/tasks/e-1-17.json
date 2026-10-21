@@ -1,0 +1,36 @@
+{
+  "id": "e-1-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "783cc4367b3021e8c54a51ffb4f8f63e0d0441ba214a622497e3a52bc7326f4c",
+  "original": {
+    "number": 17,
+    "title": "女性 40 岁起做乳腺癌筛查，每两年一次钼靶",
+    "fields": {
+      "cost": "钼靶每次两三百元。很多地区有免费筛查项目。每两年花半天。",
+      "plain": "40 到 74 岁的女性每两年拍一次钼靶，这是美国官方筛查建议里明确推荐的。75 岁以上，以及给致密乳腺加做超声和磁共振，官方的结论是证据还不够。体检套餐拿这些加钱的时候，可以不买。",
+      "benefit": "美国预防服务工作组是美国官方给筛查建议的机构。它现在的建议是：「建议 40 至 74 岁女性每两年做一次筛查性乳腺 X 线摄影」。乳腺 X 线摄影就是平时说的钼靶。这条建议的推荐等级是 B。对 75 岁及以上的女性，以及给致密型乳腺补做超声、磁共振，它都判定为「现有证据不足」。中国 2021 年的乳腺癌筛查指南推荐一般风险女性从 45 岁开始查，每 1 到 2 年一次。高风险女性从 40 岁开始，每年一次",
+      "grade": "A",
+      "sources": "US Preventive Services Task Force (2024). Breast Cancer: Screening. <https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening>；赫捷, 陈万青, 李霓, 等 (2021). 中国女性乳腺癌筛查与早诊早治指南（2021，北京）. 中华肿瘤杂志, 43(4), 357-382：「推荐意见8.1：对于一般风险人群，推荐从45岁开始进行乳腺癌筛查」「推荐意见8.2：对于高风险人群，推荐从40岁开始进行乳腺癌筛查」「推荐意见9.1：对于一般风险人群，推荐每1～2年进行1次乳腺癌筛查」. <https://doi.org/10.3760/cma.j.cn112152-20210119-00061>",
+      "notes": "从几岁开始查，各国不一样，中国 2021 年的指南是一般风险的从 45 岁起。父母、子女或者亲兄弟姐妹得过乳腺癌的，以及带有 BRCA 突变的，属于高危，要单独找医生定方案，本条不适用"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "女性+35岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Phụ nữ bắt đầu sàng lọc ung thư vú từ 40 tuổi, chụp nhũ ảnh mỗi hai năm",
+    "cost": "Mỗi lần chụp nhũ ảnh tốn hai đến ba trăm nhân dân tệ. Nhiều địa phương có chương trình sàng lọc miễn phí. Mỗi hai năm dành nửa ngày.",
+    "plain": "Phụ nữ từ 40 đến 74 tuổi chụp nhũ ảnh mỗi hai năm một lần là khuyến nghị rõ ràng trong hướng dẫn sàng lọc chính thức của Mỹ. Với người từ 75 tuổi trở lên, cũng như việc làm thêm siêu âm và chụp cộng hưởng từ cho mô vú đặc, kết luận chính thức là bằng chứng vẫn chưa đủ. Khi gói khám sức khỏe thu thêm tiền cho các mục này, có thể không mua.",
+    "benefit": "Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ là cơ quan đưa ra khuyến nghị sàng lọc chính thức của Mỹ. Khuyến nghị hiện tại là: “Phụ nữ từ 40 đến 74 tuổi nên chụp X-quang vú để sàng lọc mỗi hai năm một lần”. Chụp X-quang vú chính là chụp nhũ ảnh. Khuyến nghị này ở mức B. Với phụ nữ từ 75 tuổi trở lên, cũng như việc làm bổ sung siêu âm và chụp cộng hưởng từ cho mô vú đặc, cơ quan này đều kết luận “bằng chứng hiện có chưa đủ”. Hướng dẫn sàng lọc ung thư vú của Trung Quốc năm 2021 khuyến nghị phụ nữ có nguy cơ thông thường bắt đầu sàng lọc từ 45 tuổi, mỗi 1 đến 2 năm một lần. Phụ nữ có nguy cơ cao bắt đầu từ 40 tuổi, mỗi năm một lần.",
+    "notes": "Tuổi bắt đầu sàng lọc khác nhau giữa các nước. Hướng dẫn năm 2021 của Trung Quốc quy định người có nguy cơ thông thường bắt đầu từ 45 tuổi. Người có cha mẹ, con hoặc anh chị em ruột từng mắc ung thư vú, cũng như người mang đột biến BRCA, thuộc nhóm nguy cơ cao; cần gặp riêng bác sĩ để lập phương án. Mục này không áp dụng cho họ.",
+    "extra": ""
+  }
+}

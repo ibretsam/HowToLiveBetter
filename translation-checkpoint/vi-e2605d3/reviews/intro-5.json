@@ -1,0 +1,15 @@
+{
+  "id": "intro-5",
+  "source_sha256": "5766d41d91bc6d76d0d6a3d958e1c5d7fa3b91ebff101ac8a66e6b9e537ddeee",
+  "draft_sha256": "222906ac9e0fcea815aabce578e97f50021e66e5e38cb6f4a8285bb6722c84fb",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual title and complete intro comparison. Checked every topic group and all51entry references, newly added bank-product51 reference and investment-data/no-advice qualifier. No correction needed. Intro labels remain source summaries, not substitute for detailed conditions."
+}

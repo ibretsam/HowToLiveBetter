@@ -1,0 +1,35 @@
+{
+  "id": "e-12-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/12-创业与做生意.md",
+  "source_sha256": "281e731435f059d0afac964ac1e4e956835e19d2e0df51b09cb7d751e71f141f",
+  "original": {
+    "number": 14,
+    "title": "自称税务局、打电话或发消息催你往指定账号交钱报税的都是骗子，办税只走电子税务局和 12366",
+    "fields": {
+      "cost": "不花钱。接到「税务抽查」「账户异常」「不报税就罚款」的电话、短信，或者有人加你好友，先挂断、不回。再打 12366，或者打主管税务机关的固定电话核实。",
+      "plain": "税务部门不会打电话要你的银行卡密码、支付密码或者短信验证码，也不会给你一个账号让你把税打过去。真上门查账的，要出示检查通知书和检查证。接到这类电话先挂断，再打 12366 核实。已经转了钱，立刻打 110 或者 96110 止付。",
+      "benefit": "税务总局的提示原文：「税务部门不会通过微信小程序、电话、短信等方式索要银行卡密码、支付密码、账户余额及与银行卡收付款项相关的短信验证码」。「一些不法分子冒充税务干部以提供『帮办纳税申报』『税收优惠代办』『政策辅导』等为名接触纳税人」。要核实就打「12366 纳税缴费服务热线或主管税务机关固定电话」。真上门查账（稽查）的，「必须出示检查通知书和检查证」。「税款只能通过电子税务局或者在办税大厅缴纳，税务部门不会提供指定账号」。替人办税的中介机构也有一条。「以税务机关和税务人员的名义敲诈纳税人、扣缴义务人的」，按情节轻重罚款。打着税务局和税务干部的旗号，敲诈交税的人和代扣代缴税款的单位，就是这种情形。冒充国家机关工作人员招摇撞骗的，拘留 10 日以上 15 日以下，还可以再罚 1000 元以下。既够诈骗罪又够招摇撞骗罪的，「依照处罚较重的规定定罪处罚」（哪条罚得重按哪条判）（全国）",
+      "grade": "A",
+      "sources": "国家税务总局 (2025). 税务部门提醒广大纳税人——增强防范意识 警惕互联网涉税诈骗. <https://www.chinatax.gov.cn/chinatax/n810219/n810724/c5243181/content.html> ; 国家税务总局扬州市税务局 (2023). 扬州防范涉税诈骗宣传篇. <https://jiangsu.chinatax.gov.cn/art/2023/8/28/art_23038_432322.html> ; 国家税务总局 (2025). 涉税专业服务管理办法（试行）（国家税务总局令第 58 号，第三十二条第七项、第三十三条）. <https://fgk.chinatax.gov.cn/zcfgk/c100011/c5239044/content.html> ; 全国人大常委会 (2025). 治安管理处罚法（2025 年修订，2026 年 1 月 1 日施行，第六十二条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml> ; 最高人民法院、最高人民检察院、公安部 (2016). 关于办理电信网络诈骗等刑事案件适用法律若干问题的意见（法发〔2016〕32 号）. <https://www.spp.gov.cn/zdgz/201612/t20161221_176278.shtml>",
+      "notes": "这类骗局专挑刚注册的个体户和小公司。话术是「系统显示你没报税，今天不处理就罚款」，然后把你引到他们自己的公众号或者小程序，一次收几百元。而那笔申报本来免费，自己几分钟就能做完。找市场上的机构代记账不违法，但它不是政府部门，也不会用税务局的名义催你。已经付钱或者转了账的，按第 8 节第 2 条（被骗止付）立刻打 110 或 96110 要求止付。冒充市场监管部门、说你漏报年报让你交钱代办的，是同一个套路，见本节第 25 条（年报不收费）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người tự xưng cơ quan thuế, gọi hoặc nhắn thúc chuyển tiền khai thuế vào tài khoản chỉ định đều là lừa đảo; chỉ làm thuế qua cổng thuế điện tử và 12366",
+    "cost": "Không tốn tiền. Nhận cuộc gọi, tin nhắn về “kiểm tra thuế”, “tài khoản bất thường”, “không khai sẽ bị phạt”, hoặc có người kết bạn, trước hết cúp máy, không trả lời. Sau đó gọi 12366 hoặc số điện thoại cố định của cơ quan thuế quản lý để xác minh.",
+    "plain": "Cơ quan thuế không gọi xin mật khẩu thẻ ngân hàng, mật khẩu thanh toán, mã xác nhận SMS, cũng không đưa tài khoản để bạn chuyển thuế vào. Người thực sự đến kiểm tra sổ sách phải xuất trình thông báo kiểm tra và thẻ kiểm tra. Nhận cuộc gọi kiểu này thì cúp máy rồi gọi 12366 xác minh. Đã chuyển tiền thì gọi ngay 110 hoặc 96110 để yêu cầu chặn thanh toán.",
+    "benefit": "Cảnh báo nguyên văn của Tổng cục Thuế: “Cơ quan thuế không dùng ứng dụng nhỏ WeChat, điện thoại, tin nhắn để yêu cầu mật khẩu thẻ ngân hàng, mật khẩu thanh toán, số dư tài khoản hoặc mã xác nhận SMS liên quan đến nhận, trả tiền qua thẻ.” “Một số kẻ phạm pháp giả cán bộ thuế tiếp cận người nộp thuế dưới danh nghĩa hỗ trợ khai thuế, làm hộ ưu đãi thuế, hướng dẫn chính sách.” Muốn xác minh thì gọi “đường dây dịch vụ nộp thuế, phí 12366 hoặc điện thoại cố định của cơ quan thuế quản lý”. Người thực sự đến thanh tra sổ sách “phải xuất trình thông báo kiểm tra và thẻ kiểm tra”. “Chỉ được nộp thuế qua cổng thuế điện tử hoặc tại nơi làm thủ tục thuế; cơ quan thuế không cung cấp tài khoản chỉ định.” Với đơn vị trung gian làm thủ tục thuế cũng có quy định: “dùng danh nghĩa cơ quan hoặc nhân viên thuế để tống tiền người nộp thuế, người có nghĩa vụ khấu trừ và nộp thay” bị phạt theo mức độ. Mạo danh cơ quan, cán bộ thuế để tống tiền người nộp hoặc đơn vị khấu trừ, nộp thay thuế là trường hợp này. Mạo danh nhân viên cơ quan nhà nước để lừa đảo bị tạm giữ hành chính từ 10 đến 15 ngày, có thể phạt thêm tối đa 1000 nhân dân tệ. Nếu đồng thời cấu thành tội lừa đảo chiếm đoạt tài sản và tội mạo danh để lừa đảo thì “định tội và xử phạt theo quy định có hình phạt nặng hơn” (toàn quốc).",
+    "notes": "Kiểu lừa này nhắm vào hộ cá thể và công ty nhỏ mới đăng ký. Họ nói “hệ thống cho thấy bạn chưa khai thuế, hôm nay không xử lý sẽ bị phạt”, rồi dẫn tới tài khoản công chúng hoặc ứng dụng nhỏ của họ và thu vài trăm nhân dân tệ mỗi lần. Trong khi thủ tục khai đó vốn miễn phí, tự làm vài phút là xong. Thuê đơn vị thị trường làm kế toán hộ không trái luật, nhưng họ không phải cơ quan nhà nước và không dùng danh nghĩa cơ quan thuế thúc bạn. Nếu đã trả hoặc chuyển tiền, theo chương 8 mục 2 (chặn thanh toán khi bị lừa), gọi ngay 110 hoặc 96110 yêu cầu chặn. Mạo danh cơ quan quản lý thị trường, nói bạn bỏ báo cáo năm rồi bắt trả tiền làm hộ cũng cùng thủ đoạn, xem mục 25 của chương này (báo cáo năm không thu phí).",
+    "extra": ""
+  }
+}

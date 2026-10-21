@@ -1,0 +1,35 @@
+{
+  "id": "e-21-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/21-出国旅行与境外安全.md",
+  "source_sha256": "801f8f334e5f39874a05279e03f624e625e8e089fcce7dea3cf401c26b890fbd",
+  "original": {
+    "number": 11,
+    "title": "出境前把行程、住处和同行人发给一位家人，约好多久联系一次",
+    "fields": {
+      "cost": "不花钱。出发前发一条消息。",
+      "plain": "人在境外失联，家里人可以找使领馆求助，使领馆会告诉家属当地怎么报警，立案后还会催办。前提是国内有人知道你该在哪、该什么时候联系。把航班号、住址、同行人电话和约好多久联系一次，发给一个家人就够。",
+      "benefit": "中国公民在境外下落不明时，亲属可以向驻外外交机构求助。条例原文是「驻外外交机构应当提供当地报警方式及其他获取救助的信息」。当地警方立案以后，使领馆会催他们及时处理。这些求助能不能启动，取决于国内有没有人知道你本该在哪、本该什么时候联系",
+      "grade": "C",
+      "sources": "国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十三条）；作者经验，无直接文献",
+      "notes": "写清四样就够：航班号、住处地址、同行人的姓名和电话、约好的联系频率。要去信号差或者治安差的地方，再把「多久没消息就报警」这句话说明白。这件事成本接近零，可上面这些救助程序，都要先有家人知道你的行程才能开始"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi xuất cảnh, gửi lịch trình, chỗ ở và người đi cùng cho một người nhà, hẹn rõ bao lâu liên lạc một lần",
+    "cost": "Không tốn tiền. Gửi một tin nhắn trước chuyến đi.",
+    "plain": "Nếu mất liên lạc ở nước ngoài, gia đình có thể nhờ cơ quan đại diện lãnh sự giúp; họ sẽ hướng dẫn cách báo cảnh sát địa phương và thúc xử lý sau khi lập án. Điều kiện là có người trong nước biết bạn đáng lẽ đang ở đâu, khi nào phải liên lạc. Gửi số chuyến bay, địa chỉ, số điện thoại người đi cùng và tần suất liên lạc đã hẹn cho một người nhà là đủ.",
+    "benefit": "Khi công dân Trung Quốc mất tích ở nước ngoài, người thân có thể nhờ cơ quan ngoại giao ở nước ngoài giúp đỡ. Nguyên văn quy định: “Cơ quan ngoại giao ở nước ngoài phải cung cấp cách báo cảnh sát địa phương và thông tin khác để nhận cứu trợ”. Sau khi cảnh sát địa phương lập án, cơ quan đại diện sẽ thúc họ xử lý kịp thời. Có khởi động được việc cầu cứu hay không tùy có người trong nước biết bạn đáng lẽ ở đâu và khi nào phải liên lạc hay không.",
+    "notes": "Chỉ cần ghi rõ bốn điều: số chuyến bay, địa chỉ chỗ ở, tên và số điện thoại người đi cùng, tần suất liên lạc đã hẹn. Nếu đến nơi sóng yếu hoặc an ninh kém, nói rõ thêm “bao lâu không có tin thì báo cảnh sát”. Việc này gần như không tốn gì, nhưng các thủ tục trợ giúp trên đều cần có người nhà biết lịch trình của bạn trước mới bắt đầu được.",
+    "extra": ""
+  }
+}

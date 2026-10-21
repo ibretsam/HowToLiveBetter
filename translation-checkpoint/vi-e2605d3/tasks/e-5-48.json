@@ -1,0 +1,35 @@
+{
+  "id": "e-5-48",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "31c526cead65eb6f203d86d590729829d32561733b3be002feac3c53f6ab963e",
+  "original": {
+    "number": 48,
+    "title": "在车商那里买二手车，先查出险和维修记录，合同里写明「不是事故车、泡水车」；被隐瞒了可以要求退车并赔三倍车款",
+    "fields": {
+      "cost": "要花钱请第三方机构检测，价钱各地不一。买之前花一两个小时查车辆的出险和维修记录。签合同时多费点口舌，把车况承诺写进去。真被骗了要打官司，前后可能拖两三年。",
+      "plain": "从车商手里买二手车，车商故意瞒着事故、泡水这类真实车况，你可以退车，还能另外要三倍车款的赔偿。但只有证明车商是故意瞒你，才拿得到三倍。车商说不知道、法院也认的，只退车款加利息。从个人手里买的不适用三倍赔偿。",
+      "benefit": "二手车的卖方要向买方提供车辆的使用、修理、事故、检验，以及有没有办抵押、交没交税费、报废期等真实情况。因为卖方隐瞒和欺诈导致过不了户的，卖方要无条件退车、退购车款。消费者权益保护法第五十五条规定，经营者提供商品有欺诈行为的，按消费者的要求增加赔偿。金额是购买价款的三倍，不足 500 元的按 500 元算。这条只管经营者，从个人车主手里买的用不上。山东日照有一个判例。孙某 2023 年 5 月从二手车行买了一辆车，总价 5.3 万元，车行承诺没出过重大事故。同年 10 月，鉴定公司检测出这是重大事故车，查询记录显示它当年 1 月出过事故，被定为全损车。一审撤销合同，车行退 5.3 万元，再赔三倍车款 15.9 万元。2025 年 4 月，日照市中级人民法院二审维持。双方没签书面合同，孙某靠车行盖章的收据也打赢了。反过来也有判例。河南的王某 2018 年 1 月花 24 万元买了一辆车，合同承诺无事故、无泡水。后来查出交车前出过事故，修车花了 5100 元。一审和重审都判退一赔三，郑州市中级人民法院二审改判，再审维持二审。理由是车商买进这辆车时，事故和维修已经发生，没有证据证明车商知道还故意隐瞒。所以只算违约：解除合同，退 24 万元车款加利息，不赔三倍。这家法院提醒，买家可以通过各种途径查二手车的保险理赔情况，也可以委托第三方专业人士鉴定（全国）",
+      "grade": "A",
+      "sources": "商务部、公安部、国家工商行政管理总局、国家税务总局 (2005). 二手车流通管理办法（令〔2005〕第 2 号，原第十七条；2017 年商务部令第 3 号删去第九至十一条、条文顺序相应调整，现为第十四条）. <http://www.gov.cn/gongbao/content/2006/content_327851.htm>；商务部 (2017). 关于废止和修改部分规章的决定（商务部令 2017 年第 3 号）. <http://www.gov.cn/gongbao/content/2017/content_5244878.htm>；全国人大常委会 (2013 修正). 消费者权益保护法（第五十五条）. <https://www.samr.gov.cn/zfjcj/tzgg/art/2023/art_615af9ed6bcd4974bf853dd2e02bc663.html>；全国人大 (2020). 民法典（第一百四十八、一百五十二条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；山东法制报 (2025). 二手车行隐瞒事故车实情遭起诉，法院判决解除合同并退一赔三. <http://www.sdcourt.gov.cn/rzzy/404983/404968/41465920/index.html>（日照市中级人民法院官网转载）；以未被告知二手车曾发生事故为由诉请「退一赔三」(2021). <https://www.mawei.gov.cn/xjwz/zwgk/ztzl/pfzl/yasf/202108/t20210802_4153847.htm>（福州市马尾区人民政府网「以案释法」栏目转载，原刊载处未注明）",
+      "notes": "三倍赔偿只对经营者，也就是车商、二手车行。从个人车主手里买的，被骗了只能按民法典请求法院撤销合同、退钱。撤销要在知道被骗之后 1 年内提，最晚不超过成交后 5 年。合同里就算写了「车况以现状为准」这类话，也要把「不是事故车、泡水车、火烧车」这类承诺写进去，日后才有对照。两个判例从买车到判下来都拖了两年上下，律师费自己出，所以官司之前先查记录、先做检测最划算。新车还在包修期内的，三包凭证跟着车走，见本节第 47 条（新车三包）。车贷怎么比见本节第 7 条（借钱先换成年化利率）。受益人是自己和家人这一档。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mua xe cũ từ đại lý, tra hồ sơ bảo hiểm và sửa chữa trước, ghi hợp đồng “không phải xe tai nạn, ngập nước”; bị che giấu có thể yêu cầu trả xe và bồi thường gấp ba giá mua",
+    "cost": "Tốn tiền thuê bên thứ ba kiểm định, giá tùy địa phương. Trước mua dành một, hai giờ tra lịch sử bảo hiểm, sửa chữa. Khi ký phải trao đổi thêm để đưa cam kết tình trạng xe vào hợp đồng. Thực sự bị lừa phải kiện, có thể kéo dài hai, ba năm.",
+    "plain": "Mua xe cũ từ đại lý, họ cố ý giấu tai nạn, ngập nước và tình trạng thật tương tự thì bạn được trả xe, còn đòi thêm bồi thường gấp ba giá xe. Nhưng chỉ chứng minh họ cố ý giấu mới được gấp ba. Họ nói không biết và tòa chấp nhận thì chỉ hoàn giá xe cộng lãi. Mua từ cá nhân không áp dụng bồi thường gấp ba.",
+    "benefit": "Bên bán xe cũ phải cung cấp tình trạng thật về sử dụng, sửa chữa, tai nạn, kiểm định, thế chấp, thuế phí đã đóng, thời hạn loại bỏ xe và thông tin tương tự. Do che giấu, gian dối của người bán mà không sang tên được thì phải nhận lại xe, hoàn tiền vô điều kiện. Điều năm mươi lăm Luật Bảo vệ quyền lợi người tiêu dùng quy định người kinh doanh gian dối khi cung cấp hàng phải bồi thường thêm theo yêu cầu người mua, bằng ba lần giá mua, chưa đủ 500 nhân dân tệ thì tính 500. Điều này chỉ áp dụng người kinh doanh, không dùng được khi mua chủ xe cá nhân. Có vụ án ở Nhật Chiếu, Sơn Đông: tháng 5 năm 2023, ông Tôn mua xe từ cửa hàng xe cũ giá tổng 5.3 vạn nhân dân tệ, cửa hàng cam kết không có tai nạn nghiêm trọng. Tháng 10 cùng năm, công ty giám định phát hiện đây là xe tai nạn nghiêm trọng; hồ sơ cho thấy tháng 1 năm đó xe gặp tai nạn, được xác định tổn thất toàn bộ. Sơ thẩm hủy hợp đồng, cửa hàng hoàn 5.3 vạn, bồi thường thêm gấp ba là 15.9 vạn nhân dân tệ. Tháng 4 năm 2025, Tòa án trung cấp Nhật Chiếu phúc thẩm giữ nguyên. Hai bên không ký hợp đồng văn bản, ông Tôn vẫn thắng nhờ biên nhận đóng dấu cửa hàng. Cũng có vụ ngược lại: tháng 1 năm 2018, ông Vương ở Hà Nam mua xe 24 vạn nhân dân tệ, hợp đồng cam kết không tai nạn, không ngập. Sau đó phát hiện xe tai nạn trước giao, sửa hết 5100 nhân dân tệ. Sơ thẩm và xét xử lại đều cho hoàn tiền cộng bồi thường gấp ba; Tòa án trung cấp Trịnh Châu phúc thẩm sửa án, tái thẩm giữ kết quả phúc thẩm. Lý do là khi đại lý mua xe vào, tai nạn và sửa chữa đã xảy ra, không có chứng cứ họ biết mà cố ý giấu. Vì vậy chỉ tính vi phạm hợp đồng: chấm dứt, hoàn 24 vạn cộng lãi, không bồi thường gấp ba. Tòa nhắc người mua có thể tra lịch sử bồi thường bảo hiểm xe cũ qua nhiều kênh hoặc thuê chuyên gia bên thứ ba giám định (toàn Trung Quốc).",
+    "notes": "Bồi thường gấp ba chỉ áp dụng người kinh doanh, tức đại lý, cửa hàng xe cũ. Mua từ chủ xe cá nhân mà bị lừa chỉ có thể theo Bộ luật Dân sự yêu cầu tòa hủy hợp đồng, hoàn tiền. Phải yêu cầu hủy trong 1 năm từ khi biết bị lừa, muộn nhất không quá 5 năm sau giao dịch. Dù hợp đồng ghi “tình trạng xe theo hiện trạng”, vẫn đưa cam kết “không phải xe tai nạn, ngập nước, cháy” vào để có đối chiếu sau này. Hai vụ từ mua đến có phán quyết đều kéo khoảng hai năm, phí luật sư tự trả, nên tra hồ sơ và kiểm định trước khi phải kiện có lợi nhất. Xe vẫn trong thời hạn bảo hành xe mới thì chứng từ ba bảo đảm đi theo xe, xem mục 47 của chương này. So vay mua xe xem mục 7 (vay phải quy lãi suất ra năm trước). Người hưởng lợi thuộc nhóm bản thân và gia đình.",
+    "extra": ""
+  }
+}

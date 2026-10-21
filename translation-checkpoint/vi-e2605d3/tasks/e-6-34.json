@@ -1,0 +1,35 @@
+{
+  "id": "e-6-34",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "6bcf46da90381c9e8b85439ef886948e2ab5f20b087faa8b87f3e09961f56e69",
+  "original": {
+    "number": 34,
+    "title": "不要指望长期失眠靠吃褪黑素治好，它平均只让人早睡着约 7 分钟，先做失眠的认知行为治疗",
+    "fields": {
+      "cost": "不花钱，还省下长期买褪黑素的钱。难在它随手就能买到，吃一片比去医院做几周治疗省事得多。",
+      "plain": "睡不好的人吃褪黑素，平均只比吃假药早睡着约 7 分钟，多睡约 8 分钟。美国睡眠医学会不建议拿它治长期失眠。国内它按保健食品卖，标签上写着「本品不能代替药物」。坐飞机跨过 5 个以上时区倒时差时，它倒是能减轻时差反应。",
+      "benefit": "先看效果有多大。2013 年一项荟萃分析汇总了 19 项试验，共 1683 人。每项试验都是随机分组、和安慰剂比。受试者的睡眠障碍都不是别的病引起的，其中 14 项试验研究的是失眠。吃褪黑素的人，入睡时间平均缩短 7.06 分钟（95% CI 4.37–9.75，可信范围）。总睡眠时间多 8.25 分钟（1.74–14.75）。睡眠质量的改善也很小（SMD 0.22，0.12–0.32）。作者自己写明，这比其他安眠药缩短的入睡时间少。再看指南。美国睡眠医学会 2017 年出了慢性失眠用药指南。它建议医生不要拿褪黑素治入睡难或睡不安稳，推荐强度为「弱」。依据是 3 项试验，用的都是 2 毫克缓释褪黑素，受试者都在 55 岁以上。证据质量评为「很低」。能合起来算的只有睡眠质量一项（SMD 0.21，−0.36 到 0.77），够不上临床意义。国内含褪黑素的保健食品，保健功能写的是「有助于改善睡眠」。注意事项写着「本品不能代替药物」，不适宜人群是少年儿童、孕妇、乳母。北京市市场监管局 2026 年的科普也说，它「绝非『神药』」。倒时差另说。一篇 Cochrane 系统综述收了 10 项试验，其中 9 项有同一个发现。坐飞机跨过 5 个以上时区后，在当地睡前吃褪黑素，能减轻时差反应。每天 0.5 到 5 毫克效果差不多。它看起来划算，是因为它是人体自己就有的激素，听着温和，又不用处方",
+      "grade": "A",
+      "sources": "Ferracioli-Oda E, Qawasmi A, Bloch MH (2013). Meta-analysis: melatonin for the treatment of primary sleep disorders. PLoS One, 8(5):e63773. <https://doi.org/10.1371/journal.pone.0063773>；Sateia MJ, Buysse DJ, Krystal AD, Neubauer DN, Heald JL (2017). Clinical Practice Guideline for the Pharmacologic Treatment of Chronic Insomnia in Adults: An American Academy of Sleep Medicine Clinical Practice Guideline. Journal of Clinical Sleep Medicine, 13(2):307-349（Recommendation 12）. <https://doi.org/10.5664/jcsm.6470>；陕西省市场监督管理局 (2025). 国产保健食品备案凭证-汉瑞宝®褪黑素片（产品说明书）. <https://snamr.shaanxi.gov.cn/zfxxgk/zfxxgkzl/zc/tzgg/202505/t20250529_3526097.html>；北京市市场监督管理局 (2026). 你知道褪黑素有新吃法了吗？. <https://scjgj.beijing.gov.cn/zwxx/scjgdt/202602/t20260202_4485364.html>；Herxheimer A, Petrie KJ (2002). Melatonin for the prevention and treatment of jet lag. Cochrane Database of Systematic Reviews, CD001520. <https://doi.org/10.1002/14651858.CD001520>",
+      "notes": "争议：那篇荟萃分析的作者认为，褪黑素副作用相对小，效果也不随吃得久而变弱。所以它在失眠治疗里可能有一席之地。北京市市场监管局的科普说，它适合缓解中老年人因褪黑素分泌不足出现的入睡困难。可美国睡眠医学会那 3 项试验，受试者正好都在 55 岁以上，结论仍是效果不够。好处是有的，只是太小，谈不上治好。长期失眠先做认知行为治疗，见第 3 节第 26 条（失眠的认知行为治疗）。打鼾、睡觉憋气、白天困得厉害的，先查睡眠呼吸暂停，见第 3 节第 27 条（睡眠监测查睡眠呼吸暂停）。标签还写着，开车、操作机器的人，不要在干活前或干活时吃。给孩子吃褪黑素，本条没有算，国内标签写明少年儿童不适宜。收益定小是凭判断：褪黑素一年花多少钱，没找到官方数字。受益人是你自己。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng trông chờ melatonin chữa khỏi mất ngủ lâu dài: trung bình chỉ giúp ngủ sớm hơn khoảng 7 phút; trước hết làm liệu pháp nhận thức hành vi cho mất ngủ",
+    "cost": "Không tốn tiền, còn tiết kiệm tiền mua melatonin lâu dài. Điều khó là rất dễ mua, uống một viên tiện hơn nhiều so với đến bệnh viện điều trị vài tuần.",
+    "plain": "Người ngủ kém dùng melatonin trung bình chỉ ngủ sớm hơn nhóm dùng giả dược khoảng 7 phút và ngủ thêm khoảng 8 phút. Viện Hàn lâm Y học Giấc ngủ Hoa Kỳ không khuyến nghị dùng để trị mất ngủ lâu dài. Ở Trung Quốc, nó được bán dưới dạng thực phẩm bảo vệ sức khỏe, nhãn ghi “sản phẩm này không thể thay thế thuốc”. Khi bay qua từ 5 múi giờ trở lên để đổi giờ, nó lại có thể giảm triệu chứng lệch múi giờ.",
+    "benefit": "Trước hết xét hiệu quả lớn đến đâu. Phân tích gộp năm 2013 tổng hợp 19 thử nghiệm với 1683 người. Mỗi thử nghiệm đều phân nhóm ngẫu nhiên, so với giả dược. Rối loạn ngủ của người tham gia đều không do bệnh khác gây ra; 14 thử nghiệm nghiên cứu mất ngủ. Người dùng melatonin có thời gian vào giấc giảm trung bình 7.06 phút (95% CI 4.37–9.75, khoảng tin cậy). Tổng thời gian ngủ tăng 8.25 phút (1.74–14.75). Cải thiện chất lượng ngủ cũng nhỏ (SMD 0.22, 0.12–0.32). Chính tác giả ghi rõ mức rút ngắn thời gian vào giấc ít hơn các thuốc ngủ khác. Tiếp theo xét hướng dẫn. Năm 2017, Viện Hàn lâm Y học Giấc ngủ Hoa Kỳ ban hành hướng dẫn dùng thuốc cho mất ngủ mạn tính, khuyên bác sĩ không dùng melatonin để trị khó vào giấc hoặc khó duy trì giấc ngủ, mức khuyến nghị “yếu”. Căn cứ là 3 thử nghiệm, đều dùng melatonin giải phóng kéo dài 2 miligam, tất cả người tham gia từ 55 tuổi trở lên. Chất lượng bằng chứng “rất thấp”. Chỉ chất lượng ngủ có thể gộp để tính (SMD 0.21, −0.36 đến 0.77), không đạt ý nghĩa lâm sàng. Thực phẩm bảo vệ sức khỏe chứa melatonin ở Trung Quốc ghi công dụng “hỗ trợ cải thiện giấc ngủ”. Phần lưu ý ghi “sản phẩm này không thể thay thế thuốc”, nhóm không phù hợp gồm trẻ em, thanh thiếu niên, phụ nữ mang thai và cho con bú. Bài phổ biến kiến thức năm 2026 của Cục Quản lý thị trường Bắc Kinh cũng nói nó “tuyệt đối không phải thần dược”. Đổi múi giờ là chuyện khác. Một tổng quan Cochrane gồm 10 thử nghiệm, trong đó 9 cùng nhận thấy: sau chuyến bay qua từ 5 múi giờ trở lên, dùng melatonin trước giờ ngủ địa phương có thể giảm triệu chứng lệch múi giờ. Liều mỗi ngày 0.5 đến 5 miligam có hiệu quả gần như nhau. Nó có vẻ đáng dùng vì là hormone vốn có trong cơ thể, nghe nhẹ nhàng và không cần đơn.",
+    "notes": "Điểm còn tranh luận: tác giả phân tích gộp cho rằng melatonin tương đối ít tác dụng phụ và hiệu quả không giảm theo thời gian dùng, nên có thể có chỗ trong điều trị mất ngủ. Bài của Cục Quản lý thị trường Bắc Kinh nói nó phù hợp để giảm khó vào giấc ở người trung niên, lớn tuổi do tiết melatonin không đủ. Nhưng trong 3 thử nghiệm của Viện Hàn lâm Y học Giấc ngủ Hoa Kỳ, tất cả người tham gia chính là từ 55 tuổi trở lên, kết luận vẫn là hiệu quả chưa đủ. Có lợi ích, nhưng quá nhỏ để gọi là chữa khỏi. Mất ngủ lâu dài thì trước hết làm liệu pháp nhận thức hành vi, xem mục 26 chương 3 (Liệu pháp nhận thức hành vi cho mất ngủ). Người ngáy, ngừng thở lúc ngủ, buồn ngủ nhiều ban ngày nên kiểm tra ngưng thở khi ngủ trước, xem mục 27 chương 3 (Theo dõi giấc ngủ để kiểm tra ngưng thở khi ngủ). Nhãn còn ghi người lái xe hoặc vận hành máy không dùng trước hay trong lúc làm việc. Mục này không xét cho trẻ em dùng melatonin; nhãn ở Trung Quốc ghi rõ trẻ em và thanh thiếu niên không phù hợp. Xếp lợi ích nhỏ là theo nhận định: chưa tìm được số liệu chính thức về chi phí melatonin một năm. Người hưởng lợi là chính bạn.",
+    "extra": ""
+  }
+}

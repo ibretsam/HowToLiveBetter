@@ -1,0 +1,35 @@
+{
+  "id": "e-8-46",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "ef0af96775a4403b66f8ad2caf3c50097ca620c0bedb5004016c368c8c6a04a6",
+  "original": {
+    "number": 46,
+    "title": "给门窗装好锁、门外装一盏感应灯，出门真的锁上：防入室盗窃靠这几样，单装一个报警器看不出用",
+    "fields": {
+      "cost": "门锁换成要用钥匙才能反锁的，窗户加锁，门外装一盏感应灯，一般几十到几百元。换整扇防盗门要上千元。难在每次出门都真的锁上门窗，夏天开着窗时也要记得。",
+      "plain": "英国的数据显示，门锁加窗锁的人家，被人进屋偷东西的几率只有什么都没装的十二分之一。再加一盏门外感应灯，降到三十多分之一。只装一个报警器、别的都不装，看不出能防盗。这管的是盗窃，不管有人在家的抢劫。",
+      "benefit": "英格兰和威尔士的犯罪调查，问了 2008 到 2012 年间 37416 户人家装了哪些防盗设施。再拿这些人家和被盗的人家比。什么都没装的只占全部人家的 4.9%，却占了被人进屋偷东西人家的 36.6%。作者算的是「保护倍数」：被盗几率是什么都没装人家的几分之一。门锁加窗锁是 12.54 倍，被盗几率降到约十二分之一。这里的门锁指双锁或者「死锁」（锁舌要用钥匙才能收回）。门锁、窗锁再加门外的感应灯或定时灯，是 34.41 倍。再加屋里的定时灯，是 49 倍。只装一样的，门外灯约 3 倍，门锁约 2.8 倍。单装窗锁看不出差别。装五样的，并不比装对了的三样强。只装报警器、别的都不装，被盗几率反而比什么都没装的高。挂假报警器盒子的，有人想闯进来没闯成的几率也更高。锁要真锁上才算数。撬锁、砸窗、拆门板进屋的盗窃，1993 到 2006/07 年从每千户 31 起降到 7 起。降了 77%。门窗没锁、直接走进去的那种，一直是每千户 7 起，没降（英格兰和威尔士）",
+      "grade": "B",
+      "sources": "Tseloni A, Thompson R, Grove L, Tilley N, Farrell G (2017). The effectiveness of burglary security devices. Security Journal 30(2):646–664. <https://doi.org/10.1057/sj.2014.30>；Tilley N, Thompson R, Farrell G, Grove L, Tseloni A (2015). Do burglar alarms increase burglary risk? A counter-intuitive finding and possible explanations. Crime Prevention and Community Safety 17(1):1–19. <https://doi.org/10.1057/cpcs.2014.17>；Tseloni A, Farrell G, Thompson R, Evans E, Tilley N (2017). Domestic burglary drop and the security hypothesis. Crime Science 6:3. <https://doi.org/10.1186/s40163-017-0064-2>；国家市场监督管理总局、国家标准化管理委员会 (2022). GB 17565-2022 防盗安全门通用技术条件. <https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A75C1C66CB989D0A40BFA7A262C93290>；全国人大 (2020). 民法典（第七百一十五条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>",
+      "notes": "争议：报警器那一半有反方数据。同一批作者用 1992 到 1996 年的数据算过，那时加装报警器是能降低被盗几率的。作者也说这个反常结果要谨慎看待，一种可能是被偷过的人家才去装报警器。所有数字都是英国的，而且只是比较装了和没装的人家，没有分组对照，所以给 B。这些数字只管入室盗窃，没有数据说门锁能挡住入室抢劫。真遇到有人在家里，先退开报警，见第 10 条（起了冲突先报警不动手）。退无可退时，见第 11 条（躲不掉的侵害可以还手）。租房的，换锁、加窗锁先跟房东说好。民法典规定，租客没经房东同意就加装、改装，房东可以要求恢复原状或者赔偿。防盗安全门有强制性国家标准 GB 17565-2022，2024 年 1 月 1 日起实施。买的时候可以看一眼。受益人主要是你自己和家人。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Lắp khóa tốt cho cửa ra vào, cửa sổ, gắn đèn cảm biến ngoài cửa và thật sự khóa khi đi ra ngoài: chống trộm đột nhập dựa vào những thứ này, chỉ lắp báo động thì chưa thấy tác dụng",
+    "cost": "Đổi khóa cửa sang loại phải dùng chìa khóa để khóa chốt, thêm khóa cửa sổ và một đèn cảm biến ngoài cửa, thường tốn từ vài chục đến vài trăm nhân dân tệ. Thay cả cửa chống trộm cần hơn nghìn nhân dân tệ. Khó ở chỗ mỗi lần ra ngoài đều thật sự khóa cửa ra vào và cửa sổ, kể cả mùa hè đang mở cửa sổ cũng phải nhớ.",
+    "plain": "Dữ liệu ở Anh cho thấy nhà có cả khóa cửa ra vào và khóa cửa sổ có khả năng bị trộm vào nhà lấy đồ chỉ bằng một phần mười hai nhà không lắp gì. Thêm đèn cảm biến ngoài cửa thì giảm xuống còn một phần ba mươi mấy. Chỉ lắp báo động, không lắp gì khác, chưa thấy có khả năng chống trộm. Điều này nói về trộm cắp, không nói về cướp khi có người ở nhà.",
+    "benefit": "Khảo sát tội phạm ở Anh và Wales hỏi 37416 hộ trong giai đoạn 2008 đến 2012 về các thiết bị chống trộm họ lắp, rồi so sánh những hộ này với các hộ bị trộm. Nhà không lắp gì chỉ chiếm 4.9% tổng số hộ, nhưng chiếm 36.6% số hộ bị trộm vào nhà lấy đồ. Tác giả tính “hệ số bảo vệ”: khả năng bị trộm bằng một phần bao nhiêu so với nhà không lắp gì. Khóa cửa ra vào cộng khóa cửa sổ cho hệ số 12.54 lần, khả năng bị trộm giảm còn khoảng một phần mười hai. Khóa cửa ở đây là khóa kép hoặc “khóa chốt chết” (phải dùng chìa khóa mới rút được chốt). Khóa cửa ra vào, khóa cửa sổ cộng đèn cảm biến hoặc đèn hẹn giờ ngoài cửa cho hệ số 34.41 lần. Thêm đèn hẹn giờ trong nhà thì là 49 lần. Nếu chỉ lắp một loại, đèn ngoài cửa khoảng 3 lần, khóa cửa ra vào khoảng 2.8 lần. Chỉ lắp khóa cửa sổ thì không thấy khác biệt. Lắp năm loại không tốt hơn chọn đúng ba loại. Chỉ lắp báo động, không lắp gì khác, thì khả năng bị trộm lại cao hơn không lắp gì. Nhà treo hộp báo động giả cũng có khả năng bị người tìm cách đột nhập nhưng không thành cao hơn. Khóa phải thực sự được khóa mới có tác dụng. Những vụ trộm vào nhà bằng cách cạy khóa, đập cửa sổ, tháo tấm cửa giảm từ 31 xuống 7 vụ trên mỗi nghìn hộ trong giai đoạn 1993 đến 2006/07, giảm 77%. Loại vào thẳng vì cửa ra vào, cửa sổ không khóa vẫn ở mức 7 vụ mỗi nghìn hộ, không giảm (Anh và Wales).",
+    "notes": "Điểm còn tranh luận: phần về báo động có dữ liệu ngược lại. Cùng nhóm tác giả đã tính từ dữ liệu 1992 đến 1996, khi đó lắp thêm báo động có thể giảm khả năng bị trộm. Tác giả cũng nói cần thận trọng với kết quả bất thường này; một khả năng là những nhà từng bị trộm mới đi lắp báo động. Mọi con số đều từ Anh, và chỉ so sánh các nhà có lắp với không lắp, không phân nhóm đối chứng, nên xếp mức B. Những số liệu này chỉ nói về trộm đột nhập, không có dữ liệu cho thấy khóa cửa chặn được cướp đột nhập. Nếu thực sự gặp kẻ đột nhập khi có người ở nhà, trước hết lùi ra và báo công an, xem mục 10 (có xung đột thì báo công an trước, không động tay). Khi không còn đường tránh, xem mục 11 (có thể chống trả sự xâm hại không tránh được). Người thuê nhà muốn đổi khóa, thêm khóa cửa sổ phải thỏa thuận trước với chủ nhà. Bộ luật Dân sự quy định nếu người thuê tự lắp thêm, cải tạo mà chưa được chủ nhà đồng ý, chủ nhà có thể yêu cầu khôi phục hiện trạng hoặc bồi thường. Cửa an toàn chống trộm có tiêu chuẩn quốc gia bắt buộc GB 17565-2022, áp dụng từ ngày 1 tháng 1 năm 2024. Khi mua có thể kiểm tra. Người hưởng lợi chủ yếu là bạn và gia đình.",
+    "extra": ""
+  }
+}

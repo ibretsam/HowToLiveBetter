@@ -1,0 +1,35 @@
+{
+  "id": "e-8-36",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "ffe58be9175d0bcb8901cd9ec6689a7fd16dd55a8760e0c33f1cc2df1c1ddee4",
+  "original": {
+    "number": 36,
+    "title": "自己是受害人去索赔，走 12315、起诉或者律师，别单独赴对方的约，别把「给钱」和「我不曝光」绑成一句话",
+    "fields": {
+      "cost": "不花钱。通过 12315、去法院起诉，或者委托律师提出。见面谈的时候全程录音。难在忍住不自己跟对方单独谈。",
+      "plain": "自己是受害人，向侵权方索赔，本身有法律依据，不会因为「要价高」就自动变成敲诈勒索。但代价可能很大：郭利先被以敲诈勒索罪判了五年，后来才再审宣告无罪。所以走留痕的渠道，别单独去对方指定的地方谈，别把「给钱」和「我就不曝光」绑成一个条件说出口。",
+      "benefit": "官方案例：2008 年有关部门公布部分批次「施恩」牌奶粉含三聚氰胺之后，郭利之女的检查结果为「双肾中央集合系统内可见数个点状强回声」。郭利多次向销售商和施恩公司索赔，并向媒体曝光。2009 年 6 月双方达成协议，施恩公司补偿 40 万元。郭利出具书面材料表示不再追诉并放弃赔偿要求。此后公司报案，郭利被潮安县人民法院以敲诈勒索罪判处有期徒刑五年。广东省人民检察院提出了再审建议。建议认为「现有证据不足以证实郭利主观上具有非法占有的目的」。郭利作为法定监护人，「有权利向奶粉的生产厂家索赔，其索赔行为有法律依据」。建议还写着，「消费者对损害其合法权益的行为，有权通过大众传播媒介予以揭露、批评」。2017 年 4 月 7 日，广东省高级人民法院再审宣告郭利无罪。理由是「原审认定郭利以非法占有为目的，使用威胁、要挟的方法，强行索取财物行为的事实不清，证据不足，郭利的行为性质未超出民事纠纷的范畴」。郭利自 2009 年 7 月 23 日至 2014 年 7 月 22 日被羁押 1826 天（广东，2017 年再审改判）",
+      "grade": "B",
+      "sources": "广东省人民检察院 (2017). 广东省检察院再审建议对郭利案改判无罪. <http://www.gd.jcy.gov.cn/jcyw2/201704/t20170411_1975029.shtml>（广东省人民检察院官网）；广东省高级人民法院赔偿委员会 (2018). 郭利以再审无罪为由申请、广东省潮州市中级人民法院赔偿的国家赔偿案件（（2018）粤委赔 11 号）. <https://www.gdcourts.gov.cn/caipanwenshuxuandeng/caipanwenshuxuandeng/content/post_1045709.html>",
+      "notes": "给 B 是因为这只是一个案子，不是能推广的比例。它同时说明两件事：索赔本身合法，以及你仍然可能被警方当成案子立案来查。风险最低的走法是把索赔交给律师，或者直接去法院起诉，自己不和对方单独接触。对方约你去他所在地「面谈解决」时尤其要留意，报案和立案通常发生在对方所在地。和解协议签了就照协议走，签完再另起一笔高额索赔，最容易被解读成「要挟」。被立案之后怎么处置，见本节第 5、34、35 条（先请律师、证据不足应判无罪、国家赔偿）。对方拿把柄向你索财的情形，见本节第 32 条（对方拿报警、发照片来要钱）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bản thân là người bị hại yêu cầu bồi thường thì qua 12315, khởi kiện hoặc luật sư; đừng một mình đến chỗ đối phương hẹn, đừng gộp ‘đưa tiền’ với ‘tôi sẽ không công khai’ thành một câu",
+    "cost": "Không mất tiền. Yêu cầu qua 12315, khởi kiện ra tòa hoặc ủy thác luật sư. Gặp mặt thương lượng thì ghi âm toàn bộ. Khó ở chỗ nhịn không tự thương lượng riêng với đối phương.",
+    "plain": "Bản thân là người bị hại yêu cầu bên xâm phạm bồi thường vốn có căn cứ pháp luật, không tự động thành tống tiền chỉ vì ‘đòi giá cao’. Nhưng cái giá có thể rất lớn: Quách Lợi từng bị kết án năm năm vì tội tống tiền, sau đó mới được xét xử lại tuyên vô tội. Vì vậy, đi qua kênh có dấu vết, đừng một mình đến nơi đối phương chỉ định để nói chuyện, đừng nói ‘đưa tiền thì tôi sẽ không công khai’ thành một điều kiện.",
+    "benefit": "Vụ án chính thức: sau khi cơ quan liên quan công bố năm 2008 rằng một số lô sữa bột nhãn ‘Shi'en’ chứa melamine, kết quả khám con gái Quách Lợi là ‘thấy một số điểm tăng âm trong hệ thống đài bể trung tâm của cả hai thận’. Quách Lợi nhiều lần yêu cầu bên bán và công ty Shi'en bồi thường, đồng thời công khai với truyền thông. Tháng 6 năm 2009, hai bên thỏa thuận công ty Shi'en bồi hoàn 40 vạn tệ. Quách Lợi lập văn bản nói không tiếp tục truy cứu và từ bỏ yêu cầu bồi thường. Sau đó công ty báo án; Tòa án nhân dân huyện Triều An kết án Quách Lợi năm năm tù về tội tống tiền. Viện kiểm sát nhân dân tỉnh Quảng Đông kiến nghị xét xử lại, cho rằng ‘chứng cứ hiện có chưa đủ chứng minh Quách Lợi về mặt chủ quan có mục đích chiếm đoạt trái pháp luật’. Là người giám hộ theo pháp luật, Quách Lợi ‘có quyền yêu cầu nhà sản xuất sữa bột bồi thường, hành vi yêu cầu bồi thường của ông có căn cứ pháp luật’. Kiến nghị còn ghi ‘người tiêu dùng có quyền dùng phương tiện truyền thông đại chúng để vạch trần, phê phán hành vi xâm hại quyền lợi hợp pháp của mình’. Ngày 7 tháng 4 năm 2017, Tòa án nhân dân cấp cao tỉnh Quảng Đông xét xử lại, tuyên Quách Lợi vô tội. Lý do là ‘sự việc mà bản án ban đầu xác định về Quách Lợi có mục đích chiếm đoạt trái pháp luật, dùng đe dọa, uy hiếp để cưỡng ép lấy tài sản chưa rõ, chứng cứ không đủ; tính chất hành vi của Quách Lợi chưa vượt khỏi phạm vi tranh chấp dân sự’. Quách Lợi bị giam giữ từ ngày 23 tháng 7 năm 2009 đến ngày 22 tháng 7 năm 2014, tổng cộng 1826 ngày (Quảng Đông, xét xử lại sửa án năm 2017).",
+    "notes": "Xếp mức B vì chỉ là một vụ án, không phải tỷ lệ có thể khái quát. Vụ án cho thấy đồng thời hai việc: bản thân yêu cầu bồi thường là hợp pháp, và bạn vẫn có thể bị cảnh sát khởi tố vụ án để điều tra. Cách ít rủi ro nhất là giao việc yêu cầu bồi thường cho luật sư hoặc trực tiếp khởi kiện ra tòa, không tự tiếp xúc riêng với đối phương. Đặc biệt lưu ý khi đối phương hẹn đến nơi họ ở để ‘gặp mặt giải quyết’; báo án và khởi tố vụ án thường diễn ra tại nơi đối phương. Đã ký thỏa thuận hòa giải thì làm theo; ký xong lại đưa thêm một yêu cầu bồi thường lớn khác rất dễ bị hiểu là ‘uy hiếp’. Cách xử lý sau khi vụ án bị khởi tố xem mục 5, 34, 35 chương này (mời luật sư trước, chứng cứ không đủ phải tuyên vô tội, Nhà nước bồi thường). Trường hợp đối phương dùng chuyện bất lợi để đòi tiền bạn xem mục 32 chương này (đối phương dọa báo cảnh sát, phát ảnh để đòi tiền).",
+    "extra": ""
+  }
+}

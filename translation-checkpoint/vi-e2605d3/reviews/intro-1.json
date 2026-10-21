@@ -1,0 +1,15 @@
+{
+  "id": "intro-1",
+  "source_sha256": "b883ba3fb9616709fbb4ac73b7a53283983d8d87cba2a3ef7440d2d742be9536",
+  "draft_sha256": "a3a3fb563f653a4334d019f8a65fd6c61fabcb7d56d4eecef6d0bdd72ffa93a0",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison preserves seven thematic groups, all entry references, cost/evidence limitations and updated confined-space safeguards. Historical phone numbers and China context preserved."
+}

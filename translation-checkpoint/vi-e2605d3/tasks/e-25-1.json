@@ -1,0 +1,35 @@
+{
+  "id": "e-25-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "7bf921053ccec033f61705a11e37dde8c2033568f72a29472e737f7ea909b47c",
+  "original": {
+    "number": 1,
+    "title": "人在家里或外面没了，先分清正常死亡还是非正常死亡：意外、死因不明、独居才发现的，立刻报警，遗体和现场不要动",
+    "fields": {
+      "cost": "不花钱。打一个电话就行。",
+      "plain": "意外走的、不知道怎么走的、独居很久才被发现的，没经医院救治就由公安开死亡证明。现场被动过，事情说不清，证也不好开。这张纸拿不到，后面火化、销户、保险理赔全都卡住。分不清是哪一种，就先打 110，警察查完照样给你开证。",
+      "benefit": "户口登记条例第八条第二款：「公民因意外事故致死或者死因不明，户主、发现人应当立即报告当地公安派出所或者乡、镇人民委员会」。意思是：出了意外，或者不知道人是怎么没的，户主和发现的人要马上报派出所或者乡镇政府。殡葬管理条例第二十三条：「自然人正常死亡的，医疗卫生机构应当及时出具死亡证明。涉及公安机关依法处置且未经医疗卫生机构救治的非正常死亡案（事）件的逝者，由公安机关出具死亡证明」。意思是：正常病故的，由给他看病的医疗机构开死亡证明。没经医院救治、又归公安处理的那种，由公安开。现场被动过，就既说不清也不好开。后面火化、销户、保险理赔，全都卡在这一张纸上",
+      "grade": "A",
+      "sources": "全国人大常委会 (1958). 中华人民共和国户口登记条例（第八条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/mpost_2531969.html>（广东省人民政府门户网站刊登）；国务院 (2026). 殡葬管理条例（国务院令第 824 号，自 2026 年 3 月 30 日起施行，第二十三条）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm>",
+      "notes": "长期卧病、在家里临终的，算正常死亡。可以找生前给他看病的机构开证，也可以找住处这一片的社区卫生服务中心、乡镇卫生院。死亡证明谁救治谁开，见第 2 条（死亡证明）。分不清是哪一种，就按非正常处理，先打 110，警察到场调查完照样能出证。如果先把现场收拾干净再报警，谁也帮不了你。不要自己搬遗体、给他擦洗换衣服，也不要收走药瓶和字条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có người mất tại nhà hoặc bên ngoài, trước hết phân biệt tử vong bình thường với bất thường: tai nạn, không rõ nguyên nhân, sống một mình rồi mới được phát hiện thì báo công an ngay, không động vào thi thể và hiện trường",
+    "cost": "Không tốn tiền. Chỉ cần gọi một cuộc điện thoại.",
+    "plain": "Mất do tai nạn, không rõ nguyên nhân hoặc sống một mình lâu rồi mới được phát hiện, chưa được bệnh viện cứu chữa thì công an cấp giấy chứng tử. Hiện trường bị xáo trộn khiến khó làm rõ sự việc, cũng khó cấp giấy. Không có giấy này thì hỏa táng, xóa hộ khẩu, yêu cầu bảo hiểm đều bị vướng. Không phân biệt được loại nào thì gọi 110 trước; cảnh sát điều tra xong vẫn cấp được giấy.",
+    "benefit": "Khoản hai Điều tám Điều lệ đăng ký hộ khẩu: ‘Công dân tử vong do tai nạn hoặc không rõ nguyên nhân thì chủ hộ, người phát hiện phải lập tức báo đồn công an địa phương hoặc ủy ban nhân dân hương, trấn’. Nghĩa là xảy ra tai nạn hoặc không biết người đó mất thế nào, chủ hộ và người phát hiện phải báo ngay đồn công an hoặc chính quyền hương, trấn. Điều hai mươi ba Điều lệ quản lý tang lễ: ‘Cá nhân tử vong bình thường thì cơ sở y tế phải kịp thời cấp giấy chứng tử. Người mất trong vụ việc tử vong bất thường thuộc diện công an xử lý theo luật và chưa được cơ sở y tế cứu chữa thì do công an cấp giấy chứng tử’. Nghĩa là mất do bệnh bình thường thì cơ sở từng chữa bệnh cấp giấy; chưa được bệnh viện cứu chữa và thuộc công an xử lý thì công an cấp. Hiện trường bị động vào khiến vừa khó giải thích vừa khó cấp giấy. Hỏa táng, xóa hộ khẩu, yêu cầu bảo hiểm sau đó đều phụ thuộc tờ giấy này.",
+    "notes": "Nằm bệnh lâu ngày rồi qua đời tại nhà được tính là tử vong bình thường. Có thể xin giấy từ cơ sở chữa bệnh lúc còn sống hoặc trung tâm dịch vụ y tế cộng đồng, trạm y tế hương, trấn nơi cư trú. Cơ sở cứu chữa cấp giấy chứng tử; xem mục 2 về giấy chứng tử. Không phân biệt được thì xử lý như tử vong bất thường, gọi 110 trước; cảnh sát đến điều tra xong vẫn có thể cấp giấy. Nếu dọn sạch hiện trường rồi mới báo thì không ai giúp được. Đừng tự di chuyển, lau rửa, thay quần áo cho thi thể; cũng đừng cất lọ thuốc và giấy nhắn.",
+    "extra": ""
+  }
+}

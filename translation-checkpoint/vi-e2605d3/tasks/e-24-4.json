@@ -1,0 +1,35 @@
+{
+  "id": "e-24-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "154338e38100c7c793a562dcb5b5d5cd6ff43b96ec6d2c30b550d640117f25cc",
+  "original": {
+    "number": 4,
+    "title": "跨省异地就医之前先在本地问一句，必要性原则上要副主任医师以上评估",
+    "fields": {
+      "cost": "不花钱。出发前多问一句。",
+      "plain": "要不要去外地看病，原则上由二、三级医院副主任医师以上的医生评估。临时外出就医报销多少，和在参保地同级别医院会有差别，具体看本地规定。出发前在本地问一句，比人到了外地才发现报不了强。",
+      "benefit": "跨统筹地区、跨省异地就医的必要性，原则上由二、三级医院副主任医师及以上职称人员评估。跨统筹地区就是跨出自己的医保参保地。去外地看有没有必要，原则上要由够级别的医生开口。跨省临时外出就医人员的报销水平，与参保地同级别机构保持合理差异。在外地看同样的病，报回来的钱会比在家少一截",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「原则上由二、三级医院副主任医师及以上职称人员评估患者跨统筹地区、跨省异地就医的必要性。」「进一步强化异地就医直接结算管理服务，跨省临时外出就医人员报销水平与参保地同级别医疗机构报销水平保持合理差异。」",
+      "notes": "「临时外出就医」和「长期异地居住」是两种不同的备案，报销水平不一样。备案怎么办、哪几类病能直接结算，见第 16 节。别先跑到外地，再回头想报销的事。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi khám chữa bệnh ở tỉnh khác, hãy hỏi tại địa phương; về nguyên tắc, sự cần thiết phải được bác sĩ có chức danh chuyên môn từ phó chủ nhiệm trở lên đánh giá",
+    "cost": "Không tốn tiền. Hỏi thêm trước khi đi.",
+    "plain": "Có cần đi nơi khác khám chữa bệnh hay không, về nguyên tắc do bác sĩ có chức danh chuyên môn từ phó chủ nhiệm trở lên tại bệnh viện cấp hai hoặc cấp ba đánh giá. Mức thanh toán khi tạm đi nơi khác khám chữa bệnh sẽ khác mức tại bệnh viện cùng cấp ở nơi tham gia bảo hiểm, cụ thể theo quy định địa phương. Hỏi tại địa phương trước khi đi sẽ tốt hơn đến nơi rồi mới biết không được thanh toán.",
+    "benefit": "Sự cần thiết của việc khám chữa bệnh ngoài khu vực quản lý quỹ hoặc ở tỉnh khác, về nguyên tắc do bác sĩ có chức danh chuyên môn từ phó chủ nhiệm trở lên tại bệnh viện cấp hai hoặc cấp ba đánh giá. Ra ngoài khu vực quản lý quỹ nghĩa là ra ngoài nơi bạn tham gia bảo hiểm y tế. Có cần đi nơi khác khám hay không, về nguyên tắc phải do bác sĩ đủ cấp chuyên môn xác nhận. Mức thanh toán cho người tạm sang tỉnh khác khám chữa bệnh được duy trì ở mức chênh lệch hợp lý so với cơ sở cùng cấp tại nơi tham gia bảo hiểm. Khám cùng một bệnh ở nơi khác thì số tiền được thanh toán sẽ ít hơn một phần so với khám tại nơi mình ở.",
+    "notes": "“Tạm đi nơi khác khám chữa bệnh” và “cư trú lâu dài ở địa phương khác” là hai loại đăng ký khác nhau, có mức thanh toán khác nhau. Cách đăng ký và những nhóm bệnh được quyết toán trực tiếp xem phần 16. Đừng đến nơi khác rồi mới nghĩ lại chuyện thanh toán bảo hiểm.",
+    "extra": ""
+  }
+}

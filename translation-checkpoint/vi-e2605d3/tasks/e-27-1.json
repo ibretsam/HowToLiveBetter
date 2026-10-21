@@ -1,0 +1,36 @@
+{
+  "id": "e-27-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "d16be11bd4d3eca1e03adae083946c5c11ce5dbd9536b5c0d27852ada1b12626",
+  "original": {
+    "number": 1,
+    "title": "准备怀孕就开始每天补 0.4 毫克叶酸，一直吃到孕早期满 3 个月",
+    "fields": {
+      "cost": "几十元一瓶。农村妇女不用花钱，国家的免费增补叶酸项目会发。每天吃一粒，难在天天记得住",
+      "plain": "怀孕前后每天吃一粒叶酸，孩子出现神经管缺陷的概率大约能降七成。神经管缺陷就是无脑儿、脊柱裂这一类的出生缺陷。已经生过一个这样的孩子的人，再生一个还出问题的概率，大约降到原来的三分之一。",
+      "benefit": "Cochrane 系统综述把 5 项试验、6708 例分娩合起来一起算，证据质量评为高。怀孕前后每天补叶酸，胎儿神经管缺陷的风险 RR 0.31（95% CI 0.17 至 0.58，可信范围），约降低七成。已经生过神经管缺陷孩子的人，再生一个又出问题的风险 RR 0.34（95% CI 0.18 至 0.64），降到原来的三分之一左右。按人群分组来看，0.4 毫克和更高的剂量效果没有差别。单独吃叶酸和吃复合维生素，效果也没有差别。卫生部 2010 年的增补叶酸项目管理方案写明，给准备怀孕的农村妇女免费发叶酸，「在孕前3个月至孕早期3个月服用」，发的是 0.4 毫克的叶酸片。美国疾病控制与预防中心说，神经管缺陷发生在怀孕最初几周，常常在你知道自己怀孕之前",
+      "grade": "A",
+      "sources": "De-Regil LM, Peña-Rosas JP, Fernández-Gaxiola AC, Rayco-Solon P (2015). Effects and safety of periconceptional oral folate supplementation for preventing birth defects. Cochrane Database of Systematic Reviews, (12), CD007950. <https://doi.org/10.1002/14651858.CD007950.pub3>；卫生部办公厅 (2010). 2010 年增补叶酸预防神经管缺陷项目管理方案. <https://www.nhc.gov.cn/wjw/gfxwj/201006/22a0b4d4651e4b6d896453d443d9f79d/files/1733384846754_72260.doc>；Centers for Disease Control and Prevention. About Folic Acid. <https://www.cdc.gov/folic-acid/about/index.html>",
+      "notes": "关键是「怀孕前就开始吃」。神经管缺陷出在怀孕最初几周，等你测出怀孕再吃，可能已经晚了。所以打算要孩子，就按国内项目的做法提前 3 个月开始吃。同一篇汇总研究里，叶酸对唇腭裂、先天性心脏病、流产都没有明确效果，别指望它治别的。吃全素的孕妇还要每天补维生素 B12，见第 20 节第 14 条（吃素就每天补维生素 B12）。还在犹豫什么时候生的，年龄这笔账见第 18 节第 7 条（晚几年再生孩子）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chuẩn bị mang thai thì bắt đầu bổ sung 0.4 miligam axit folic mỗi ngày, uống đến hết 3 tháng đầu thai kỳ",
+    "cost": "Vài chục nhân dân tệ một lọ. Phụ nữ nông thôn không mất tiền, được chương trình bổ sung axit folic miễn phí của nhà nước cấp. Mỗi ngày một viên, điều khó là ngày nào cũng nhớ.",
+    "plain": "Uống một viên axit folic mỗi ngày quanh thời điểm mang thai có thể giảm khoảng bảy phần mười nguy cơ trẻ bị dị tật ống thần kinh. Đây là những dị tật bẩm sinh như vô sọ, nứt đốt sống. Người từng sinh một trẻ có dị tật này có thể giảm nguy cơ lần sinh tiếp theo cũng gặp vấn đề xuống khoảng một phần ba ban đầu.",
+    "benefit": "Tổng quan hệ thống Cochrane gộp 5 thử nghiệm với 6708 ca sinh, đánh giá chất lượng bằng chứng cao. Bổ sung axit folic mỗi ngày quanh thời điểm mang thai có RR dị tật ống thần kinh ở thai nhi là 0.31 (95% CI từ 0.17 đến 0.58, khoảng tin cậy), giảm khoảng bảy phần mười. Người từng sinh trẻ có dị tật ống thần kinh có RR lần sinh tiếp theo lại gặp vấn đề là 0.34 (95% CI từ 0.18 đến 0.64), giảm xuống khoảng một phần ba ban đầu. Phân tích theo nhóm người cho thấy liều 0.4 miligam và liều cao hơn không khác nhau về hiệu quả. Dùng riêng axit folic và dùng vitamin tổng hợp cũng không khác nhau. Phương án quản lý chương trình bổ sung axit folic năm 2010 của Bộ Y tế nêu rõ cấp axit folic miễn phí cho phụ nữ nông thôn chuẩn bị mang thai, “uống từ 3 tháng trước khi mang thai đến 3 tháng đầu thai kỳ”, loại được cấp là viên axit folic 0.4 miligam. Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ cho biết dị tật ống thần kinh xảy ra trong những tuần đầu thai kỳ, thường trước khi bạn biết mình mang thai.",
+    "notes": "Điểm quan trọng là “bắt đầu uống trước khi mang thai”. Dị tật ống thần kinh xuất hiện trong những tuần đầu; đợi thử thấy có thai mới uống có thể đã muộn. Vì vậy, dự định có con thì bắt đầu trước 3 tháng theo cách của chương trình tại Trung Quốc. Trong cùng tổng hợp nghiên cứu, axit folic không có tác dụng rõ với sứt môi, hở hàm ếch, tim bẩm sinh hoặc sẩy thai; đừng kỳ vọng thuốc xử lý những vấn đề khác. Thai phụ ăn thuần chay còn cần bổ sung vitamin B12 mỗi ngày; xem chương 20 mục 14 (ăn chay thì bổ sung vitamin B12 mỗi ngày). Còn phân vân khi nào sinh thì xem ảnh hưởng của tuổi ở chương 18 mục 7 (đợi vài năm nữa mới sinh con).",
+    "extra": ""
+  }
+}

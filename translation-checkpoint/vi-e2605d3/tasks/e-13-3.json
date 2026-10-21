@@ -1,0 +1,35 @@
+{
+  "id": "e-13-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "748d118132de8b75fec9659042f4ebf7057db5ffd7f74bac23502c6a83e7f2c3",
+  "original": {
+    "number": 3,
+    "title": "突然嘴歪、一侧胳膊没劲、说话说不清，立刻打 120，不要等、不要自己开车去",
+    "fields": {
+      "cost": "不花钱。三个动作，看一遍就会：让他笑一下、双手平举、说一句完整的话。",
+      "plain": "嘴歪、一侧胳膊没劲或说不清话，立刻打 120。卒中如果能用药通开血管，越早治疗，恢复机会越大。超过 4.5 小时或起病时间不明，也别放弃急救，由医生检查后判断。记下发病时间，别喂水喂药、别自己开车。",
+      "benefit": "把 9 项静脉溶栓随机试验、6756 名急性缺血性卒中患者的个体数据合起来算（荟萃分析）。缺血性卒中是血管堵塞导致的中风，静脉溶栓就是打药把堵住的血管通开。这项研究看的是 3 到 6 个月后有没有明显残疾（改良 Rankin 评分 0–1）。发病 3 小时内用阿替普酶溶栓，比值比为 1.75，95% CI 1.35–2.27（可信范围）。实际比例为用药者 32.9%、对照者 23.1%，相差 9.8 个百分点。比值比不是概率之比，不能读成恢复概率为 1.75 倍。拖到 3 到 4.5 小时，比值比是 1.26（1.05–1.51）。超过 4.5 小时是 1.15（0.95–1.40），这份研究未发现统计上明确的差别。这不等于超过 4.5 小时就不能治疗。美国心脏协会和美国卒中协会 2026 年指南支持延长部分患者的溶栓窗口。起病时间不明或发病 4.5 到 9 小时的患者，经专门的影像检查筛选后，仍可能适合溶栓。能不能用药要由医生评估，越早就医越好。中国卒中学会急救医学分会 2017 年的院前急救共识要求，急救人员把疑似卒中的病人「在最短时间内转运至最近的经认证的卒中中心、或可开展静脉溶栓和(或)血管内治疗的医院」，并「在疑似卒中患者抵达医院前预先通知接诊医院」。共识还写明，急性卒中病人可能因「误吸」等原因呼吸受损",
+      "grade": "A",
+      "sources": "Emberson J, Lees KR, Lyden P, et al. (2014). Effect of treatment delay, age, and stroke severity on the effects of intravenous thrombolysis with alteplase for acute ischaemic stroke: a meta-analysis of individual patient data from randomised trials. Lancet, 384(9958), 1929-1935. <https://doi.org/10.1016/S0140-6736(14)60584-5>；中国卒中学会急救医学分会 (2017). 脑卒中院前急救专家共识. 中华急诊医学杂志, 26(10), 1107-1114. <http://www.cem.org.cn/rhtml/20171002/index.htm>；Prabhakaran S 等 (2026). 2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke. Stroke. <https://doi.org/10.1161/STR.0000000000000513>；American Heart Association (2026). Top Things to Know: 2026 Guideline for the Early Management of Patients With AIS，第 3 点. <https://professional.heart.org/en/science-news/2026-guideline-for-the-early-management-of-patients-with-acute-ischemic-stroke/top-things-to-know>",
+      "notes": "溶栓越早越有效，但不能因为超过 4.5 小时就放弃急救。打 120 而不是自己开车，是因为按院前急救共识，急救人员要把人送到能溶栓的医院，还要提前通知医院准备。记下症状开始的准确时间，医生要用它评估治疗机会。别喂水喂药，这是作者从共识说的「误吸」推出来的：卒中病人可能呛着。别等「休息一下看看」"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Đột ngột méo miệng, yếu một bên tay, nói không rõ: gọi 120 ngay, đừng đợi và đừng tự lái xe đi viện",
+    "cost": "Không tốn tiền. Ba động tác chỉ cần xem một lần là biết: yêu cầu người đó cười, nâng ngang hai tay và nói một câu hoàn chỉnh.",
+    "plain": "Méo miệng, không nâng được một bên tay, nói không rõ thì gọi 120 ngay và ghi lại chính xác thời điểm bắt đầu triệu chứng. Dùng thuốc thông mạch trong 3 giờ từ lúc khởi phát, khả năng hồi phục đến mức cơ bản tự sinh hoạt được khoảng 1.75 lần so với không dùng thuốc. Chậm đến 3 đến 4.5 giờ thì chỉ còn 1.26 lần, quá 4.5 giờ không còn thấy khác biệt. Đừng cho uống nước hay thuốc, đừng tự lái xe.",
+    "benefit": "Gộp dữ liệu cá nhân của 6756 bệnh nhân trong 16 thử nghiệm ngẫu nhiên về tiêu sợi huyết đường tĩnh mạch để tính chung (phân tích tổng hợp). Tiêu sợi huyết đường tĩnh mạch là dùng thuốc để thông mạch máu bị tắc. Dùng alteplase để tiêu sợi huyết trong 3 giờ từ lúc khởi phát, tỷ số odds hồi phục đến mức cơ bản tự sinh hoạt được (điểm Rankin sửa đổi 0–1) là 1.75, 95% CI 1.35–2.27 (khoảng tin cậy). Khả năng có kết quả này khoảng 1.75 lần so với không tiêu sợi huyết. Chậm đến 3 đến 4.5 giờ thì là 1.26 (1.05–1.51). Quá 4.5 giờ thì là 1.15 (0.95–1.40), không còn thấy khác biệt có ý nghĩa thống kê. Đồng thuận về cấp cứu trước viện năm 2017 của Phân hội Y học cấp cứu thuộc Hội Đột quỵ Trung Quốc yêu cầu nhân viên cấp cứu “chuyển người nghi bị đột quỵ trong thời gian ngắn nhất đến trung tâm đột quỵ được chứng nhận gần nhất, hoặc bệnh viện có thể thực hiện tiêu sợi huyết đường tĩnh mạch và/hoặc điều trị nội mạch”, đồng thời “báo trước cho bệnh viện tiếp nhận trước khi người nghi bị đột quỵ đến viện”. Đồng thuận còn nêu rõ người bị đột quỵ cấp có thể bị ảnh hưởng hô hấp do “hít sặc” và các nguyên nhân khác.",
+    "notes": "Tiêu sợi huyết càng sớm càng hiệu quả, quá 4.5 giờ thì về cơ bản không còn tác dụng. Gọi 120 thay vì tự lái xe vì theo đồng thuận về cấp cứu trước viện, nhân viên cấp cứu phải đưa người bệnh đến bệnh viện có thể tiêu sợi huyết và báo trước để bệnh viện chuẩn bị. Ghi lại chính xác thời điểm bắt đầu triệu chứng; bác sĩ cần thông tin đó để quyết định có thể tiêu sợi huyết hay không. Đừng cho uống nước hoặc thuốc. Đây là điều tác giả suy ra từ “hít sặc” được nêu trong đồng thuận: người đột quỵ có thể bị sặc. Đừng đợi “nghỉ một chút xem sao”.",
+    "extra": ""
+  }
+}

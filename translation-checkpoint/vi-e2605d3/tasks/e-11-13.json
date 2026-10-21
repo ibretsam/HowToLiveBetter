@@ -1,0 +1,35 @@
+{
+  "id": "e-11-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "0d07a5d2fbab1799982d87da583a423fa2e120d3ea6700f894802fb480457673",
+  "original": {
+    "number": 13,
+    "title": "上班时间、用公司资源写的代码归公司，自己的开源项目用自己的时间和设备做，不混公司代码",
+    "fields": {
+      "cost": "不花钱。入职时把劳动合同里的知识产权条款看清楚。难在个人项目和公司的活常常混在一台电脑上，要分开",
+      "plain": "主要靠公司的设备、内网或业务数据写出来、由公司担责的软件，著作权归公司，你只保留署名权，合同这么约定的也一样。下班写的，只要用了公司电脑或业务数据，同样可能算公司的。主要用公司资源做出的发明，专利也归公司。",
+      "benefit": "为完成单位工作任务创作的作品是职务作品（上班干活做出来的东西）。一般情形下著作权归作者，单位有权在业务范围内优先使用，并且 2 年内作者不得许可第三人以相同方式使用。但有两类情况不一样。一类是主要利用单位物质技术条件创作、并由单位承担责任的工程设计、软件等作品。另一类是合同约定归单位的作品。这两类作者只保留署名权。单位物质技术条件指的是公司的设备、内网、业务数据这些。执行本单位任务，或者主要利用本单位物质技术条件完成的发明创造，是职务发明。申请专利的权利和拿到的专利权都归单位（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2020). 著作权法（2020 年修正，第十八条）. <http://www.npc.gov.cn/npc/c2/c30834/202011/t20201119_308796.html>；全国人大常委会 (2020). 专利法（2020 年修正，第六条）. <http://www.npc.gov.cn/npc/c2/c30834/202011/t20201119_308800.html>",
+      "notes": "软件被直接写进「著作权归单位」那一类，程序员几乎落不进「著作权归作者、单位两年内优先使用」那一档。「下班写的」只要用了公司电脑、内网或者公司业务数据，一样可能被算成主要是靠单位的设备和资料做出来的。想把个人项目做干净，就用自己的机器，不碰公司仓库，不和公司业务重叠。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mã viết trong giờ làm, bằng nguồn lực công ty thuộc công ty; làm dự án mã nguồn mở cá nhân bằng thời gian và thiết bị riêng, không trộn mã của công ty",
+    "cost": "Không tốn tiền. Khi vào làm, đọc kỹ điều khoản sở hữu trí tuệ trong hợp đồng lao động. Điều khó là dự án cá nhân và việc công ty thường lẫn trên cùng máy tính, cần tách riêng.",
+    "plain": "Phần mềm được viết chủ yếu bằng thiết bị, mạng nội bộ hoặc dữ liệu kinh doanh của công ty và do công ty chịu trách nhiệm có quyền tác giả thuộc công ty; bạn chỉ giữ quyền đứng tên, hợp đồng quy định như vậy cũng áp dụng tương tự. Viết ngoài giờ nhưng dùng máy tính hoặc dữ liệu kinh doanh của công ty vẫn có thể được tính là của công ty. Sáng chế làm chủ yếu bằng nguồn lực công ty thì quyền sở hữu bằng sáng chế cũng thuộc công ty.",
+    "benefit": "Tác phẩm được tạo để hoàn thành nhiệm vụ của đơn vị là tác phẩm theo nhiệm vụ công việc, tức sản phẩm làm ra khi thực hiện công việc. Trong trường hợp thông thường, quyền tác giả thuộc người sáng tạo; đơn vị được ưu tiên sử dụng trong phạm vi nghiệp vụ và trong 2 năm, tác giả không được cho bên thứ ba sử dụng theo cùng cách. Nhưng có hai nhóm khác: tác phẩm như thiết kế công trình, phần mềm được tạo chủ yếu bằng điều kiện vật chất, kỹ thuật của đơn vị và do đơn vị chịu trách nhiệm; và tác phẩm mà hợp đồng quy định thuộc đơn vị. Với hai nhóm này, tác giả chỉ giữ quyền đứng tên. Điều kiện vật chất, kỹ thuật của đơn vị gồm thiết bị, mạng nội bộ, dữ liệu kinh doanh của công ty. Sáng chế được tạo khi thực hiện nhiệm vụ của đơn vị hoặc chủ yếu sử dụng điều kiện vật chất, kỹ thuật của đơn vị là sáng chế theo nhiệm vụ công việc. Quyền nộp đơn xin bằng sáng chế và quyền đối với bằng được cấp đều thuộc đơn vị (toàn quốc).",
+    "notes": "Phần mềm được ghi trực tiếp vào nhóm ‘quyền tác giả thuộc đơn vị’, nên lập trình viên hầu như không thuộc nhóm ‘quyền tác giả thuộc người sáng tạo, đơn vị được ưu tiên sử dụng trong hai năm’. ‘Viết ngoài giờ’ nhưng dùng máy tính, mạng nội bộ hoặc dữ liệu kinh doanh của công ty vẫn có thể bị coi là chủ yếu dựa vào thiết bị và tài liệu của đơn vị. Muốn giữ dự án cá nhân tách bạch thì dùng máy riêng, không đụng kho mã công ty, không trùng với hoạt động kinh doanh của công ty.",
+    "extra": ""
+  }
+}

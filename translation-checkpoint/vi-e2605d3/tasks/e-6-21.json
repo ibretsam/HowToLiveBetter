@@ -1,0 +1,35 @@
+{
+  "id": "e-6-21",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "fefcefbfa96b79faf3449a6ce0df770381f8722cae4e61635d08a5afeaa70293",
+  "original": {
+    "number": 21,
+    "title": "不要为了防肾结石把钙戒掉",
+    "fields": {
+      "cost": "不花钱。反过来还省事，不用天天提防哪些东西含钙。",
+      "plain": "长过草酸钙结石的人常被劝少吃钙，试验的结果正好反过来。反复长结石的男性正常吃钙、同时少吃动物蛋白和盐，五年里复发的人只有吃低钙饮食的一半。英国的指南也写明不要限制钙。",
+      "benefit": "有一项做了 5 年的随机分组对照试验，找了 120 名反复长草酸钙结石、同时尿里钙又偏高（叫特发性高钙尿）的男性。他们被随机分成两组。一组正常吃钙，每天 30 mmol。这一组同时少吃动物蛋白（每天 52 g）、少吃盐（每天 50 mmol 氯化钠）。另一组吃传统的低钙饮食，每天 10 mmol。5 年里复发的是 12/60 对 23/60。没做校正的相对风险 0.49（95% CI 0.24–0.98，这是可信范围），P=0.04，正常吃钙那组的复发风险只有一半。跟踪期间，两组尿里的钙都降了大约每天 170 mg。但尿里排出的草酸不一样。低钙组平均每天升高 5.4 mg，正常钙组平均每天下降 7.2 mg。英国 NICE 指南 NG118 第 1.8.1 条写明，不要限制每天吃进去的钙。成年人保持每天 700 到 1,200 mg。儿童青少年按年龄每天 350 到 1,000 mg。戒钙看起来划算，是因为「结石是钙做的，那就少吃钙」这个直觉",
+      "grade": "A",
+      "sources": "Borghi L, Schianchi T, Meschi T, et al. (2002). Comparison of two diets for the prevention of recurrent stones in idiopathic hypercalciuria. New England Journal of Medicine, 346(2), 77-84. <https://doi.org/10.1056/NEJMoa010369>；National Institute for Health and Care Excellence (2019). Renal and ureteric stones: assessment and management. NICE guideline NG118，第 1.8.1 条. <https://www.nice.org.uk/guidance/ng118/chapter/Recommendations>",
+      "notes": "争议：这项试验只做在男性身上，而且这些人都是反复长草酸钙结石、尿里钙又偏高的，不能直接套到所有类型的结石上。另外试验组同时改了三样，正常吃钙、少吃动物蛋白、少吃盐，所以不能把全部好处都记在「不戒钙」这一件事上。低盐和少动物蛋白也可能在起作用。要否掉的是「主动把含钙的东西戒掉」，不是说「应该多补钙」。这里改的是一日三餐里的钙，钙补充剂是另一回事，长过结石的人要不要吃补充剂，问主治医生。多喝水那条见第 16 节第 8 条（肾结石后把水喝到每天 2.5–3 升）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng kiêng canxi để phòng sỏi thận",
+    "cost": "Không tốn tiền. Ngược lại còn bớt phiền, không cần ngày nào cũng đề phòng thực phẩm chứa canxi.",
+    "plain": "Người từng bị sỏi canxi oxalat thường được khuyên ăn ít canxi, nhưng kết quả thử nghiệm lại ngược hẳn. Nam giới bị sỏi tái phát ăn canxi bình thường, đồng thời giảm đạm động vật và muối, có số người tái phát trong năm năm chỉ bằng một nửa nhóm ăn ít canxi. Hướng dẫn của Anh cũng ghi rõ không hạn chế canxi.",
+    "benefit": "Một thử nghiệm ngẫu nhiên có đối chứng kéo dài 5 năm tuyển 120 nam giới bị sỏi canxi oxalat tái phát, đồng thời canxi trong nước tiểu cao (gọi là tăng canxi niệu vô căn). Họ được chia ngẫu nhiên thành hai nhóm. Một nhóm ăn canxi bình thường, mỗi ngày 30 mmol, đồng thời giảm đạm động vật (52 g mỗi ngày) và muối (50 mmol natri clorua mỗi ngày). Nhóm kia theo chế độ ít canxi truyền thống, mỗi ngày 10 mmol. Trong 5 năm, số tái phát là 12/60 so với 23/60. Nguy cơ tương đối chưa hiệu chỉnh là 0.49 (95% CI 0.24–0.98, đây là khoảng tin cậy), P=0.04; nhóm ăn canxi bình thường chỉ có một nửa nguy cơ tái phát. Trong thời gian theo dõi, canxi niệu ở cả hai nhóm đều giảm khoảng 170 mg mỗi ngày. Nhưng oxalat thải qua nước tiểu khác nhau: nhóm ít canxi tăng trung bình 5.4 mg mỗi ngày, nhóm canxi bình thường giảm trung bình 7.2 mg mỗi ngày. Mục 1.8.1 của hướng dẫn NG118 của NICE, Anh ghi rõ không hạn chế lượng canxi ăn hằng ngày. Người trưởng thành duy trì 700 đến 1,200 mg mỗi ngày; trẻ em và thanh thiếu niên 350 đến 1,000 mg mỗi ngày tùy tuổi. Kiêng canxi có vẻ hợp lý vì trực giác “sỏi làm từ canxi thì ăn ít canxi đi”.",
+    "notes": "Điểm còn tranh luận: thử nghiệm chỉ thực hiện ở nam giới, tất cả đều có sỏi canxi oxalat tái phát và canxi niệu cao, nên không thể áp dụng thẳng cho mọi loại sỏi. Nhóm can thiệp đồng thời thay đổi ba thứ: ăn canxi bình thường, giảm đạm động vật, giảm muối; vì vậy không thể quy toàn bộ lợi ích cho riêng việc “không kiêng canxi”. Giảm muối và đạm động vật cũng có thể góp phần. Điều cần bác bỏ là “chủ động bỏ thực phẩm chứa canxi”, không phải nói “nên bổ sung nhiều canxi”. Ở đây thay đổi canxi trong bữa ăn hằng ngày; chế phẩm bổ sung canxi là chuyện khác. Người từng có sỏi muốn biết có nên dùng chế phẩm bổ sung không thì hỏi bác sĩ điều trị. Về uống nhiều nước, xem mục 8 chương 16 (Sau sỏi thận, uống đủ 2.5–3 lít nước mỗi ngày).",
+    "extra": ""
+  }
+}

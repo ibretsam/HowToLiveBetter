@@ -1,0 +1,15 @@
+{
+  "id": "e-13-28",
+  "source_sha256": "b9db4ab3738b0cc6db0f3e657068d32c425d09c0ed06fe6271c1331e549aface",
+  "draft_sha256": "ca91976e5734d60cfb74bc13d52264530717fde0a737d4cb10aaf531d048c699",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves abnormal-breathing revision and cross-reference, trunk-first warming, no alcohol/rubbing/hot bath, subscription limitation and literal inclusive temperature boundary. Source quote saying unconscious CPR is retained with source clarification pointing to breathing assessment; drink wording lacks an explicit swallowing qualification, not added in translation."
+}

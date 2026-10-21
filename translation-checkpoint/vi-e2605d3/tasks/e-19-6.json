@@ -1,0 +1,35 @@
+{
+  "id": "e-19-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "3ceb6d448933b801d64c626245559ac17bbd641b1e0337680a3643d2ab73a61c",
+  "original": {
+    "number": 6,
+    "title": "公司违法解除的，赔偿金是经济补偿标准的二倍",
+    "fields": {
+      "cost": "不花钱。走仲裁要等几个月。难在这几个月要一直跟着办，不能中途放弃。",
+      "plain": "公司属于违法解除的，赔偿金按经济补偿的标准翻倍，就是常说的 2N。是不是违法解除要看具体情形。先找法律援助或者律师问清楚，再决定是跟公司谈，还是去仲裁。",
+      "benefit": "劳动合同法规定，用人单位违反本法规定解除或者终止劳动合同的，「应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金」。算法是先按经济补偿那套标准算出一份，再翻一倍给你",
+      "grade": "A",
+      "sources": "全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第八十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>",
+      "notes": "这就是俗称的 2N。什么算违法解除要看具体情形。先咨询法律援助或者律师，再决定是谈还是去仲裁，路径见第 7 节"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Công ty chấm dứt hợp đồng trái pháp luật thì tiền bồi thường bằng hai lần mức bù đắp kinh tế",
+    "cost": "Không tốn tiền. Giải quyết qua trọng tài phải chờ vài tháng. Điều khó là phải theo sát suốt những tháng đó, không bỏ giữa chừng.",
+    "plain": "Nếu công ty chấm dứt hợp đồng trái pháp luật, tiền bồi thường tính bằng hai lần mức bù đắp kinh tế, thường gọi là 2N. Có phải chấm dứt trái pháp luật hay không tùy từng tình huống. Trước hết hỏi rõ bên trợ giúp pháp lý hoặc luật sư, rồi quyết định thương lượng với công ty hay yêu cầu trọng tài.",
+    "benefit": "Luật Hợp đồng lao động quy định đơn vị sử dụng lao động hủy bỏ hoặc chấm dứt hợp đồng lao động trái quy định của luật này thì “phải trả tiền bồi thường cho người lao động bằng hai lần mức bù đắp kinh tế quy định tại Điều bốn mươi bảy của luật này”. Cách tính là tính một phần theo mức bù đắp kinh tế trước, rồi nhân đôi để trả cho bạn",
+    "notes": "Đây là khoản thường gọi là 2N. Thế nào là chấm dứt trái pháp luật còn tùy tình huống cụ thể. Hỏi bên trợ giúp pháp lý hoặc luật sư trước rồi mới quyết định thương lượng hay yêu cầu trọng tài; cách thực hiện xem chương 7",
+    "extra": ""
+  }
+}

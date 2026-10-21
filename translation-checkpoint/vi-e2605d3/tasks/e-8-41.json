@@ -1,0 +1,35 @@
+{
+  "id": "e-8-41",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "e06ee3391c835072c99b7211400788b5856a8303e78db064b49e52d43955cce6",
+  "original": {
+    "number": 41,
+    "title": "可能翻脸的电话和面谈，直接开录音：自己参加的谈话，不用先征得对方同意",
+    "fields": {
+      "cost": "不花钱。手机打开通话录音或者录音软件就行。从头录到尾，录完把原文件留着，不剪辑、不覆盖。",
+      "plain": "借钱、欠款、赔偿、退款、劳动纠纷，电话里说清楚了却没留下东西，几个月后双方就可能各说一套。你自己参加的谈话可以录下来，没提前告诉对方，不会单凭这一点就不能当证据。不能干的是窃听、偷窥别人隐私、闯进别人家里偷录，或者威胁对方说话。",
+      "benefit": "民事诉讼法第六十六条把视听资料、电子数据都列为证据。最高人民法院的民事诉讼法司法解释第一百零六条，只排除三种方法取得的证据。这三种是：严重侵害他人合法权益的，违反法律禁止性规定的，严重违背公序良俗的。「没事先告诉对方」不在这三种里。最高人民法院的证据规定第十五条：拿录音录像当证据，要交存着它的原始载体，比如原来那部手机。第九十条：存有疑点的视听资料、电子数据，不能单独用来认定事实。最高人民法院官网转载的一篇法官文章也这样说：录音要合法取得、内容真实、不剪辑，还要和案子有关（全国）",
+      "grade": "A",
+      "sources": "全国人大常委会 (2023 年修正，2024 年 1 月 1 日施行). 民事诉讼法（第六十六条）. 上海市发展和改革委员会转载全文 <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>；最高人民法院 (2022 年第二次修正). 关于适用《中华人民共和国民事诉讼法》的解释（第一百零六条）. <https://www.court.gov.cn/fabu/xiangqing/353651.html>；最高人民法院 (2019 年修正). 关于民事诉讼证据的若干规定（第十四、十五、九十条）. <https://www.court.gov.cn/zixun/xiangqing/212721.html>；刘丹妮 (2023). 电影《消失的她》中的法律（人民法院报，最高人民法院官网转载）. <https://www.court.gov.cn/zixun/xiangqing/406032.html>",
+      "notes": "受益人是你自己和家人。录音里尽量让人、事、钱数和时间对得上。别只问「你什么时候给我」，可以自然地问「去年借你的 5 万元，你准备什么时候还」。录音交给法院、仲裁委或者警察用，别发到网上。公开别人的话可能惹上隐私和名誉纠纷，见本节第 16 条（网上不骂人、不造谣）。有录音不等于一定赢，法院还要结合别的证据看真不真、有没有关系。录音只解决能不能证明，要不要真去起诉、要花多久，得另外算。离职前该存的材料见第 19 节第 8 条（离职前把工资条、考勤先存下来）。上面这些依据都是民事诉讼规则，刑事和行政案件里怎么用证据另有规定。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cuộc gọi và buổi nói chuyện có thể trở mặt thì cứ bật ghi âm: cuộc trò chuyện mình tham gia không cần xin đối phương đồng ý trước",
+    "cost": "Không tốn tiền. Chỉ cần bật ghi âm cuộc gọi hoặc ứng dụng ghi âm trên điện thoại. Ghi từ đầu đến cuối, giữ tệp gốc sau khi ghi, không cắt ghép hay ghi đè.",
+    "plain": "Vay tiền, nợ tiền, bồi thường, hoàn tiền, tranh chấp lao động: nói rõ qua điện thoại nhưng không lưu lại gì thì vài tháng sau mỗi bên có thể kể một kiểu. Bạn có thể ghi âm cuộc trò chuyện mình tham gia; riêng việc không báo trước cho đối phương không khiến bản ghi mất khả năng được dùng làm bằng chứng. Những việc không được làm là nghe lén, nhìn trộm đời tư của người khác, xông vào nhà người khác để lén ghi âm hoặc đe dọa buộc họ nói.",
+    "benefit": "Điều sáu mươi sáu Luật Tố tụng dân sự liệt kê cả tài liệu nghe nhìn và dữ liệu điện tử là bằng chứng. Điều một trăm linh sáu trong giải thích tư pháp của Tòa án Nhân dân Tối cao về Luật Tố tụng dân sự chỉ loại trừ bằng chứng thu thập bằng ba cách: xâm phạm nghiêm trọng quyền và lợi ích hợp pháp của người khác, vi phạm điều cấm của pháp luật, vi phạm nghiêm trọng trật tự công cộng và thuần phong mỹ tục. “Không báo trước cho đối phương” không nằm trong ba cách này. Điều mười lăm Quy định về chứng cứ của Tòa án Nhân dân Tối cao: khi dùng bản ghi âm, ghi hình làm bằng chứng, phải nộp phương tiện lưu trữ gốc, chẳng hạn chiếc điện thoại ban đầu. Điều chín mươi: tài liệu nghe nhìn, dữ liệu điện tử còn điểm nghi vấn không thể dùng riêng lẻ để xác định sự việc. Một bài viết của thẩm phán được đăng lại trên trang chính thức của Tòa án Nhân dân Tối cao cũng nêu như vậy: bản ghi âm phải được thu thập hợp pháp, nội dung xác thực, không cắt ghép và phải liên quan đến vụ việc (toàn Trung Quốc).",
+    "notes": "Người hưởng lợi là bạn và gia đình. Cố gắng để bản ghi làm rõ được người, sự việc, số tiền và thời gian tương ứng. Đừng chỉ hỏi “khi nào anh trả tôi”, có thể hỏi tự nhiên “5 vạn nhân dân tệ cho anh vay năm ngoái, khi nào anh định trả?”. Giao bản ghi cho tòa án, hội đồng trọng tài hoặc cảnh sát sử dụng, đừng đăng lên mạng. Công khai lời nói của người khác có thể gây tranh chấp về quyền riêng tư và danh dự, xem mục 16 phần này (không chửi bới, bịa tin trên mạng). Có ghi âm không có nghĩa là chắc chắn thắng; tòa án còn phải kết hợp bằng chứng khác để xét tính xác thực và sự liên quan. Ghi âm chỉ giải quyết việc có chứng minh được hay không; có thực sự khởi kiện không, mất bao lâu, phải tính riêng. Tài liệu cần lưu trước khi nghỉ việc xem mục 8 phần 19 (lưu phiếu lương, chấm công trước khi nghỉ việc). Các căn cứ trên đều là quy tắc tố tụng dân sự; việc sử dụng bằng chứng trong vụ án hình sự và hành chính có quy định khác.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-23-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "8bae4b9e23c4d6c4f3bd9caa39630e7f2df86a355716391f27322866fc9a7781",
+  "original": {
+    "number": 15,
+    "title": "把同样的时间摊到几天，别一次学完",
+    "fields": {
+      "cost": "不花钱，总时间也不变。变的只是排法：同样 3 小时，拆成三天各 1 小时。难在要提前几天开始，不能拖到最后一晚。",
+      "plain": "同样的时间，分几天学比一次学完记得牢。还有一条实用规律：你要记到多久以后，复习间隔就该拉多长。考得越远，间隔越长，但具体隔几天，研究没给通用的数。",
+      "benefit": "一份汇总了 184 篇文章、317 个实验、839 次分散练习效果评估的荟萃分析。它比较了两件事：连着学完和分开几次学（间隔效应），以及间隔短和间隔长（延迟效应）。结论是复习间隔和「要记到多久之后」共同决定最终测验的保持率：要保持的时间越长，能带来最佳保持率的复习间隔也越长。另一份逐一评估十种常用学习方法的综述，把分散练习评为最高一档（high utility）。",
+      "grade": "A",
+      "sources": "Cepeda NJ, Pashler H, Vul E, Wixted JT, Rohrer D (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. Psychological Bulletin, 132(3), 354–380. <https://doi.org/10.1037/0033-2909.132.3.354>；Dunlosky J, Rawson KA, Marsh EJ, Nathan MJ, Willingham DT (2013). Improving Students' Learning With Effective Learning Techniques. Psychological Science in the Public Interest, 14(1), 4–58. <https://doi.org/10.1177/1529100612453266>",
+      "notes": "和第 14 条（合上书自测）叠加用最好：把自测本身分散到几天做。Cepeda 那份荟萃分析里的材料多是词表记忆这类，复杂内容的最佳间隔没有给出通用天数。「考得越远、间隔越长」是原文给的规律，没有具体日程。考前一晚突击的问题不在当场没用，在于忘得快。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Chia cùng lượng thời gian ra nhiều ngày, đừng học hết một lần",
+    "cost": "Không tốn tiền, tổng thời gian cũng không đổi. Chỉ đổi cách xếp: cùng 3 giờ, chia thành ba ngày, mỗi ngày 1 giờ. Khó ở chỗ phải bắt đầu trước vài ngày, không để đến đêm cuối.",
+    "plain": "Cùng thời gian học, chia ra vài ngày giúp nhớ lâu hơn học hết một lần. Có một quy luật hữu ích: cần nhớ đến càng xa thì nên kéo dài khoảng cách ôn tập tương ứng. Kỳ thi càng xa, khoảng cách càng dài, nhưng nghiên cứu không cho số ngày chung cho mọi trường hợp.",
+    "benefit": "Một phân tích gộp tổng hợp 184 bài báo, 317 thử nghiệm và 839 lần đánh giá hiệu quả luyện tập phân tán. Nghiên cứu so hai điều: học liền một lần với học thành nhiều lần cách nhau (hiệu ứng giãn cách), và khoảng cách ngắn với dài (hiệu ứng độ trễ). Kết luận là khoảng cách ôn tập cùng thời gian cần ghi nhớ quyết định mức nhớ trong bài kiểm tra cuối: cần giữ kiến thức càng lâu thì khoảng cách ôn tập đem lại mức nhớ tốt nhất cũng càng dài. Một tổng quan khác đánh giá lần lượt mười phương pháp học phổ biến, xếp luyện tập phân tán vào nhóm cao nhất (high utility).",
+    "notes": "Tốt nhất kết hợp với mục 14 (đóng sách tự kiểm tra): chia chính các lần tự kiểm tra ra vài ngày. Tài liệu trong phân tích gộp của Cepeda phần lớn thuộc dạng nhớ danh sách từ; với nội dung phức tạp, không có số ngày giãn cách tối ưu dùng chung. “Thi càng xa, khoảng cách càng dài” là quy luật của nguyên bản, không phải lịch cụ thể. Vấn đề của học dồn đêm trước kỳ thi không phải vô ích ngay lúc đó, mà là quên nhanh.",
+    "extra": ""
+  }
+}

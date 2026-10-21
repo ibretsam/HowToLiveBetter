@@ -1,0 +1,35 @@
+{
+  "id": "e-31-12",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/31-十八岁之后有哪几条路.md",
+  "source_sha256": "9e924c714fee7c26f050b4414b284d2c33256038881b63fbf2dc44ee5072bb4d",
+  "original": {
+    "number": 12,
+    "title": "送外卖、跑网约车、拉同城货运，平台按单给你交职业伤害保障费，自己不缴",
+    "fields": {
+      "cost": "不花钱，这笔钱由平台缴。你要做的是查自己接单的平台在不在试点里。办法有两个：在 App 的保障或权益页面找「职业伤害保障」，或者打本省人社局的电话，问这家平台报没报。",
+      "plain": "送外卖、跑网约车、拉同城货运的人，平台要按单替你缴职业伤害保障费，你自己一分钱不出，每接一单就保一单。这还是试点，接单前先查自己所在的省份和平台在不在范围里。已经和平台建立劳动关系的，走工伤保险，不走这套。",
+      "benefit": "这项保障看《新就业形态人员职业伤害保障办法（试行）》。第二条写着：「平台企业应当依照本办法规定参加新就业形态人员职业伤害保障……为通过平台注册并接单，以平台企业名义提供出行、即时配送和同城货运等劳动并获得报酬或者收入的新就业形态人员缴纳职业伤害保障费，实现每单必保、每人必保。适用《工伤保险条例》规定的劳动者，企业应当依法为其参加工伤保险，不适用本办法」。第九条：「试行期间，出行行业按照每单 0.01 元执行；即时配送行业按照每单 0.07 元、0.25 元执行；同城货运行业按照每单 0.18 元执行」。试点怎么往外扩，看这一段：「2025 年 7 月 1 日起，在已先行试点 7 个省份和 7 个平台企业的基础上……增加天津、河北、辽宁、浙江、安徽、福建、山东、湖北、广西、宁夏等 10 个省份……2026 年，推动职业伤害保障试点在全国 31 个省份和新疆生产建设兵团实施；将出行、即时配送和同城货运三个行业的平台企业总体纳入职业伤害保障试点范围」（试点，逐年扩围）",
+      "grade": "A",
+      "sources": "人力资源社会保障部等九部门 (2025). 关于扩大新就业形态人员职业伤害保障试点的通知（人社部发〔2025〕24 号）及附件《新就业形态人员职业伤害保障办法（试行）》第二、九条. <https://www.gov.cn/zhengce/zhengceku/202507/content_7031656.htm>",
+      "notes": "这还是试点，不是全国都有的正式制度。接单前确认你所在的省份和平台在不在范围里，不在的就只剩自己买商业保险这一层。另一份文件《关于维护新就业形态劳动者劳动保障权益的指导意见》还提了几条要求。平台给正常干活的人开的报酬不低于当地最低工资，要按时足额发，不得克扣或者无故拖欠。法定节假日还要付合理报酬。这份文件的文号是人社部发〔2021〕56 号，灵活就业那条也引了它，见第 11 条。出了事先照这套走，别先跟站点私了。医保和养老那一块还得自己参保，灵活就业参保见第 11 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Giao đồ ăn, chạy xe gọi qua ứng dụng hoặc chở hàng nội thành: nền tảng đóng phí bảo đảm thương tích nghề nghiệp theo đơn cho bạn, bạn không phải đóng",
+    "cost": "Không tốn tiền, nền tảng đóng khoản này. Bạn cần tra nền tảng mình nhận đơn có thuộc thí điểm không. Có hai cách: tìm “bảo đảm thương tích nghề nghiệp” ở trang bảo đảm hoặc quyền lợi trong ứng dụng, hoặc gọi cơ quan nhân lực và an sinh xã hội tỉnh hỏi nền tảng đã tham gia chưa.",
+    "plain": "Với người giao đồ ăn, chạy xe gọi qua ứng dụng và chở hàng nội thành, nền tảng phải đóng phí bảo đảm thương tích nghề nghiệp theo đơn; bạn không trả đồng nào, nhận đơn nào bảo đảm đơn đó. Đây vẫn là thí điểm, nên trước khi nhận đơn hãy tra tỉnh và nền tảng có trong phạm vi không. Người đã xác lập quan hệ lao động với nền tảng dùng bảo hiểm tai nạn lao động, không dùng cơ chế này.",
+    "benefit": "Chế độ xem Biện pháp bảo đảm thương tích nghề nghiệp cho người thuộc hình thái việc làm mới, bản thí điểm. Điều hai: “Doanh nghiệp nền tảng phải tham gia theo biện pháp này… đóng phí cho người đăng ký và nhận đơn qua nền tảng, cung cấp lao động như vận chuyển hành khách, giao hàng tức thời, vận tải hàng nội thành dưới danh nghĩa nền tảng và nhận thù lao hoặc thu nhập; bảo đảm mọi đơn và mọi người. Với người lao động thuộc Điều lệ bảo hiểm tai nạn lao động, doanh nghiệp phải tham gia bảo hiểm tai nạn lao động theo luật, không áp dụng biện pháp này”. Điều chín: “Trong thời gian thí điểm, vận chuyển hành khách áp dụng 0.01 nhân dân tệ mỗi đơn; giao hàng tức thời 0.07 hoặc 0.25 mỗi đơn; vận tải hàng nội thành 0.18 mỗi đơn”. Mở rộng thí điểm theo đoạn: “Từ ngày 1 tháng 7 năm 2025, trên cơ sở 7 tỉnh và 7 doanh nghiệp nền tảng thí điểm trước… thêm 10 tỉnh, khu, thành phố gồm Thiên Tân, Hà Bắc, Liêu Ninh, Chiết Giang, An Huy, Phúc Kiến, Sơn Đông, Hồ Bắc, Quảng Tây, Ninh Hạ… Năm 2026, thúc đẩy thí điểm tại toàn bộ 31 tỉnh và Binh đoàn Sản xuất Xây dựng Tân Cương; đưa tổng thể doanh nghiệp nền tảng thuộc ba ngành vận chuyển hành khách, giao hàng tức thời và vận tải hàng nội thành vào phạm vi thí điểm” (thí điểm, mở rộng từng năm)",
+    "notes": "Đây vẫn là thí điểm, không phải chế độ chính thức có ở mọi nơi. Trước khi nhận đơn, xác nhận tỉnh và nền tảng của bạn có thuộc phạm vi không; nếu không, chỉ còn lớp bảo vệ bằng bảo hiểm thương mại tự mua. Ý kiến hướng dẫn bảo vệ quyền lợi bảo đảm lao động trong hình thái việc làm mới còn nêu: thù lao nền tảng trả người làm việc bình thường không dưới lương tối thiểu địa phương, phải trả đủ đúng hạn, không được khấu trừ hoặc nợ vô cớ; ngày lễ theo luật cũng phải trả thù lao hợp lý. Văn bản số 56 năm 2021 của Bộ Nhân lực và An sinh xã hội, cũng được dẫn ở mục việc làm linh hoạt, xem mục 11. Có chuyện hãy làm theo cơ chế này trước, đừng vội tự dàn xếp với trạm. Phần y tế và hưu trí vẫn phải tự tham gia; xem mục 11 về bảo hiểm cho việc làm linh hoạt.",
+    "extra": ""
+  }
+}

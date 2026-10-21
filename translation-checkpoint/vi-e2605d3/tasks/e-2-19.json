@@ -1,0 +1,35 @@
+{
+  "id": "e-2-19",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/02-不要慢慢死.md",
+  "source_sha256": "1dfb9b4060699a6621f6cedf3291be257d3ea79e155cc38fd569900b96b6be31",
+  "original": {
+    "number": 19,
+    "title": "少喝或不喝酒",
+    "fields": {
+      "cost": "不花钱，还省钱，也不占时间。难在社交场合推酒时的一点尴尬。",
+      "plain": "每周喝过 100 g 纯酒精以后，喝得越多死得越早。100 g 纯酒精大约是 2.5 L 啤酒。40 岁时每周喝 100–200 g 的人，少活半年左右；喝 200–350 g 的少一两年；超过 350 g 的少四五年。按整体健康算，最划算的量是不喝。",
+      "benefit": "把 83 项往后跟踪的研究合起来算，只记录、不分组，60 万名在喝酒的人。死亡风险的最低点，在每周不超过 100 g 纯酒精。这个量大约是 5% 的啤酒 2.5 L，或者 40 度白酒 300 mL。40 岁时每周喝 100–200 g 的人，预期寿命少约 6 个月。每周喝 200–350 g 的少 1–2 年。超过 350 g 的少 4–5 年。以上三项原文以寿命年报告。全球疾病负担研究 GBD 2016 把各类健康损失合起来算，风险最低的饮酒量是 0 杯/周。还有一项汇总把研究设计上的偏差校正过了。每天喝 1.3–24 g 的人和一辈子不喝的人比，死亡风险低约 7%（RR 0.93）。但这一项没看出统计上的差别。每天喝 45–64 g 的高约 19%（RR 1.19）。每天 65 g 以上的高约 35%（RR 1.35）。",
+      "grade": "A",
+      "sources": "Wood AM 等 (2018). Risk thresholds for alcohol consumption: combined analysis of individual-participant data for 599 912 current drinkers in 83 prospective studies. Lancet. <https://doi.org/10.1016/S0140-6736(18)30134-X>；GBD 2016 Alcohol Collaborators (2018). Alcohol use and burden for 195 countries and territories, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet. <https://doi.org/10.1016/S0140-6736(18)31310-2>；Zhao J 等 (2023). Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses. JAMA Network Open. <https://doi.org/10.1001/jamanetworkopen.2023.6185>；Di Castelnuovo A 等 (2006). Alcohol dosing and total mortality in men and women: an updated meta-analysis of 34 prospective studies. Archives of Internal Medicine. <https://doi.org/10.1001/archinte.166.22.2437>（争议方）",
+      "notes": "争议。认为「少喝有好处」的一方，是一份 34 项长期跟踪研究的汇总。它报告：少量饮酒的人总死亡率最多低 17%–18%。它给的量是男性每天不超过 4 杯、女性不超过 2 杯。在这个量以内，喝得多的人死亡率反而低。反方认为，「不喝酒」那一组里混进了因病戒酒的人和本来身体就差的人。有一项汇总专门把这些干扰扣掉，做完以后保护作用就没了。全球疾病负担研究也给出 0 最安全。稳妥的读法是：少喝不会明显伤寿命，多喝会伤。「为了健康开始喝酒」没有依据。想少喝怎么办见本节第 21 条（先数杯数再找医生）。天天喝的人不能自己硬戒，见本节第 20 条（别自己硬戒）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Uống ít hoặc không uống rượu bia",
+    "cost": "Không tốn tiền, còn tiết kiệm, cũng không mất thời gian. Khó ở chỗ hơi ngại khi từ chối rượu bia trong giao tiếp.",
+    "plain": "Sau khi vượt 100 g cồn nguyên chất mỗi tuần, càng uống nhiều càng chết sớm. 100 g cồn nguyên chất tương đương khoảng 2.5 L bia. Người 40 tuổi uống 100–200 g mỗi tuần sống ít hơn khoảng nửa năm; uống 200–350 g ít hơn một hai năm; trên 350 g ít hơn bốn đến năm năm. Tính sức khỏe tổng thể, lựa chọn có lợi nhất là không uống.",
+    "benefit": "Gộp 83 nghiên cứu theo dõi về sau, chỉ ghi nhận chứ không phân nhóm, gồm 60 vạn người đang uống rượu bia. Nguy cơ tử vong thấp nhất ở mức không quá 100 g cồn nguyên chất mỗi tuần, tương đương khoảng 2.5 L bia 5% hoặc 300 mL rượu trắng 40 độ. Người 40 tuổi uống 100–200 g mỗi tuần có tuổi thọ kỳ vọng ít hơn khoảng 6 tháng; uống 200–350 g ít hơn 1–2 năm; trên 350 g ít hơn 4–5 năm. Ba kết quả trên được nguyên văn báo cáo theo số năm sống. Nghiên cứu Gánh nặng bệnh tật toàn cầu GBD 2016 gộp các loại tổn thất sức khỏe, cho thấy lượng uống có nguy cơ thấp nhất là 0 ly/tuần. Một tổng hợp khác đã hiệu chỉnh sai lệch trong thiết kế nghiên cứu: người uống 1.3–24 g mỗi ngày có nguy cơ tử vong thấp hơn khoảng 7% so với người cả đời không uống (RR 0.93), nhưng không thấy khác biệt có ý nghĩa thống kê. Uống 45–64 g mỗi ngày cao hơn khoảng 19% (RR 1.19), từ 65 g trở lên mỗi ngày cao hơn khoảng 35% (RR 1.35).",
+    "notes": "Điểm còn tranh luận. Phía cho rằng uống ít có lợi dựa vào tổng hợp 34 nghiên cứu theo dõi dài hạn. Tổng hợp báo cáo tỷ lệ tử vong do mọi nguyên nhân của người uống ít thấp hơn tối đa 17%–18%. Lượng được đưa ra là nam không quá 4 ly mỗi ngày, nữ không quá 2 ly. Trong giới hạn này, người uống nhiều hơn lại có tỷ lệ tử vong thấp hơn. Phía phản đối cho rằng nhóm không uống lẫn cả người bỏ vì bệnh và người vốn sức khỏe kém. Một tổng hợp chuyên loại các yếu tố gây nhiễu này cho thấy tác dụng bảo vệ biến mất sau khi hiệu chỉnh. Nghiên cứu Gánh nặng bệnh tật toàn cầu cũng cho rằng 0 là an toàn nhất. Cách hiểu thận trọng là uống ít không làm giảm tuổi thọ rõ rệt, uống nhiều thì có. Không có căn cứ để bắt đầu uống vì sức khỏe. Muốn uống ít hơn xem mục 21 phần này (đếm số ly trước rồi tìm bác sĩ). Người uống hằng ngày không được tự cố cai đột ngột, xem mục 20 phần này (đừng tự cố cai).",
+    "extra": ""
+  }
+}

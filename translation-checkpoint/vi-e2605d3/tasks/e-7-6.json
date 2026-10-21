@@ -1,0 +1,35 @@
+{
+  "id": "e-7-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/07-没钱的时候怎么活.md",
+  "source_sha256": "270efc45118510fae6a0a8bfc0b6734fff8698b298d4321322ea351623abbde7",
+  "original": {
+    "number": 6,
+    "title": "突发变故先申请临时救助",
+    "fields": {
+      "cost": "不花钱。向出事那个地方的乡镇政府或者街道办提出申请，说清楚家里出了什么事。比如火灾、交通事故、家人突发重大疾病，或者日常非花不可的开销突然涨上来。突发急难走「小额快救」，不查家底、不公示，一般 3 天内办完。看病上学开销突然涨上来的，要公示后审批。材料按当地给的清单准备，通常跑 1 到 2 趟。",
+      "plain": "家里突然出事，比如火灾、车祸、家人突发重病，把基本生活一时压垮了，可以向出事地的乡镇政府或者街道办申请临时救助，不要求你是低保户。这类急难一般 3 天内办完，最多给当地 1 个月的低保标准。其他情形最多给 6 个月的低保标准。",
+      "benefit": "两类家庭可以拿临时救助。一类是因为意外事件、家庭成员突发重大疾病这些原因，连吃住看病这些最基本的开销都一时撑不住的家庭。另一类是非花不可的开销突然增加、超出自己承受能力的低保家庭。救哪些事、给多少钱，由县级以上地方政府自己定并公布（全国制度，金额地方定，2014 年起）。2026 年 7 月 1 日起施行的社会救助法，把对象写成「遭遇突发性、紧迫性、灾难性等困难导致基本生活暂时出现严重困难的人员」，发救助金或者配发实物。申请临时救助向「急难发生地」的乡镇政府、街道办提出。情况紧急、金额较小的，应当先救助，事后补手续。民政部、财政部 2025 年底的文件定了怎么发。突发变故、意外伤害、重大疾病这类急难，走「小额快救」，不再核对家庭经济状况，也不公示，办理时限一般不超过 3 天，最高档不超过当地 1 个月的低保标准。因为看病、上学这类开销突然增加而陷入困难的低保边缘家庭和刚性支出困难家庭，公示后救助，原则上「一次审批、分阶段发放」。小额快救以外的临时救助，最高档不超过当地月低保标准的 6 倍（全国，2026 年起，具体标准地方定）",
+      "grade": "B",
+      "sources": "国务院 (2014, 2019 修订). 社会救助暂行办法（国务院令第 649 号，第四十七、四十八、四十九条）. <https://www.gov.cn/gongbao/content/2019/content_5468952.htm>；全国人大常委会 (2026). 社会救助法（2026 年 7 月 1 日起施行，第二十九条、第三十七条第二款、第五十条；第二十九条：「对遭遇突发性、紧迫性、灾难性等困难导致基本生活暂时出现严重困难的人员，由社会救助管理部门采取发放救助金或者配发实物等方式给予临时救助。」第三十七条第二款：「申请临时救助，由本人或者与其共同生活的家庭成员向急难发生地乡镇人民政府、街道办事处提出。」第五十条：「对申请临时救助，情况紧急、救助金额较小、需立即采取救助措施的，应当先行救助。」）. <https://flk.npc.gov.cn/detail?id=016c39ca7739492cab1fe3aef22941c7>；民政部、财政部 (2025). 关于进一步健全完善临时救助制度的意见（民发〔2025〕68 号，第二部分第一、二、五项：「“小额快救”办理时限一般不超过3天」「最高档救助标准不超过当地1个月最低生活保障标准」「原则上采取“一次审批、分阶段发放”的方式」「最高档救助标准不超过当地月最低生活保障标准的6倍」）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7056503.htm>",
+      "notes": "不要求你已经是低保户。具体金额各地差得很多，以当地当年公布的为准。社会救助法施行后，《社会救助暂行办法》没有被明文废止，截至 2026 年 10 月国家法律法规数据库仍标为有效。两者说法不一致的地方，按法律的规定办。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Gặp biến cố đột ngột thì trước hết xin cứu trợ tạm thời",
+    "cost": "Không tốn tiền. Nộp đơn cho chính quyền hương, trấn hoặc văn phòng khu phố nơi xảy ra sự việc, nói rõ gia đình gặp chuyện gì. Chẳng hạn cháy nhà, tai nạn giao thông, người nhà đột ngột mắc bệnh nặng, hoặc chi phí thiết yếu hằng ngày tăng đột biến. Khó khăn cấp bách đột ngột được xử lý theo diện “cứu trợ nhanh khoản nhỏ”, không kiểm tra hoàn cảnh tài chính gia đình, không công khai danh sách, thường hoàn tất trong 3 ngày. Chi phí khám chữa bệnh, học hành tăng đột biến thì phải công khai rồi xét duyệt. Chuẩn bị giấy tờ theo danh sách địa phương cung cấp, thường đi từ 1 đến 2 lượt.",
+    "plain": "Gia đình đột ngột gặp chuyện như cháy nhà, tai nạn xe, người nhà mắc bệnh nặng, khiến sinh hoạt cơ bản nhất thời không kham nổi, thì có thể xin cứu trợ tạm thời tại chính quyền hương, trấn hoặc văn phòng khu phố nơi xảy ra chuyện, không cần phải là hộ đang hưởng trợ cấp bảo đảm mức sống tối thiểu. Khó khăn cấp bách kiểu này thường được xử lý trong 3 ngày, tối đa bằng mức trợ cấp bảo đảm mức sống tối thiểu của địa phương trong 1 tháng. Trường hợp khác tối đa bằng mức trợ cấp đó trong 6 tháng.",
+    "benefit": "Hai nhóm gia đình được nhận cứu trợ tạm thời. Một nhóm vì sự cố bất ngờ, người nhà đột ngột mắc bệnh nặng hoặc nguyên nhân tương tự mà tạm thời không đủ trang trải chi phí cơ bản nhất như ăn, ở, chữa bệnh. Nhóm kia là hộ đang hưởng trợ cấp bảo đảm mức sống tối thiểu, có chi phí không thể tránh tăng đột biến vượt khả năng chịu đựng. Cứu trợ những việc gì, bao nhiêu tiền do chính quyền địa phương cấp huyện trở lên tự quyết định và công bố (chế độ toàn Trung Quốc, mức tiền do địa phương quy định, từ năm 2014). Luật Cứu trợ xã hội có hiệu lực từ ngày 1 tháng 7 năm 2026 mô tả đối tượng là “người gặp khó khăn đột ngột, cấp bách, do thảm họa và những khó khăn tương tự khiến đời sống cơ bản tạm thời lâm vào tình trạng hết sức khó khăn”, được chi tiền cứu trợ hoặc cấp hiện vật. Xin cứu trợ tạm thời tại chính quyền hương, trấn, văn phòng khu phố ở “nơi xảy ra khó khăn cấp bách”. Tình huống khẩn cấp, khoản tiền nhỏ thì phải cứu trợ trước, bổ sung thủ tục sau. Văn bản cuối năm 2025 của Bộ Dân chính và Bộ Tài chính quy định cách chi trả. Những khó khăn cấp bách như biến cố đột ngột, thương tích bất ngờ, bệnh nặng được xử lý theo diện “cứu trợ nhanh khoản nhỏ”, không còn đối chiếu tình hình kinh tế gia đình và không công khai danh sách. Thời hạn giải quyết thường không quá 3 ngày, mức cao nhất không quá mức trợ cấp bảo đảm mức sống tối thiểu của địa phương trong 1 tháng. Hộ cận diện bảo đảm mức sống tối thiểu và hộ khó khăn do chi phí thiết yếu, rơi vào khó khăn vì chi phí chữa bệnh, học hành tăng đột biến, được cứu trợ sau khi công khai; về nguyên tắc “xét duyệt một lần, chi trả theo giai đoạn”. Cứu trợ tạm thời ngoài diện cứu trợ nhanh khoản nhỏ có mức cao nhất không quá 6 lần mức trợ cấp bảo đảm mức sống tối thiểu tháng của địa phương (toàn Trung Quốc, từ năm 2026, tiêu chuẩn cụ thể do địa phương quy định).",
+    "notes": "Không đòi hỏi bạn đã là hộ hưởng trợ cấp bảo đảm mức sống tối thiểu. Mức tiền cụ thể giữa các nơi chênh lệch nhiều, lấy mức địa phương công bố trong năm làm chuẩn. Sau khi Luật Cứu trợ xã hội có hiệu lực, “Biện pháp tạm thời về cứu trợ xã hội” chưa bị bãi bỏ bằng quy định rõ ràng; đến tháng 10 năm 2026, cơ sở dữ liệu pháp luật quốc gia vẫn ghi còn hiệu lực. Chỗ hai văn bản nói khác nhau thì thực hiện theo luật.",
+    "extra": ""
+  }
+}

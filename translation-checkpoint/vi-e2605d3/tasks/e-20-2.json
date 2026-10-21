@@ -1,0 +1,36 @@
+{
+  "id": "e-20-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "ee4910caa9104c6db25567270db8b7a86d954f6f98e8c9f89154d7d3a2313c5a",
+  "original": {
+    "number": 2,
+    "title": "出生后 24 小时内打上乙肝疫苗第一针",
+    "fields": {
+      "cost": "不花钱。乙肝疫苗属于免疫规划疫苗，本来就免费。孩子出生当天在医院就打了，不用另外跑",
+      "plain": "孩子出生后 24 小时之内要打上第一针乙肝疫苗。在婴儿期和幼儿期感染乙肝的人里，约有 95% 会转成慢性肝炎。成年以后才感染的，绝大多数能自己好，所以这一针越早打越有用。妈妈乙肝表面抗原是阳性的，孩子出生 12 小时内还要同时打乙肝免疫球蛋白。",
+      "benefit": "世界卫生组织的说法是：「所有婴儿都应在出生后尽早（24 小时内）接种乙肝疫苗。」原因是「婴儿期和幼儿期感染约有 95% 会发展为慢性肝炎」。成年后感染的绝大多数能自愈（不用治也会好）。世卫的原话是，成年后感染「不到 5%」转成慢性。国家卫健委的母婴阻断规范要求，乙肝表面抗原阳性的妈妈生的孩子，「出生后12小时内尽早接种首剂乙肝疫苗，同时注射100国际单位乙肝免疫球蛋白」",
+      "grade": "A",
+      "sources": "World Health Organization. Hepatitis B fact sheet. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-b>；国家卫生健康委办公厅 (2020). 预防艾滋病、梅毒和乙肝母婴传播工作规范（2020 年版）. <https://wjw.xinjiang.gov.cn/hfpc/zhgl6/202012/08b7de496f0b40e586d4b99d00cf79c4.shtml>（新疆维吾尔自治区卫生健康委员会转载）",
+      "notes": "妈妈的乙肝表面抗原是阳性的，孩子出生后还要同时打一针乙肝免疫球蛋白。这件事产检的时候就要查清楚，别等生完再问。妈妈自己要做的筛查见第 1 节"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tiêm mũi vắc-xin viêm gan B đầu tiên trong vòng 24 giờ sau sinh",
+    "cost": "Không tốn tiền. Vắc-xin viêm gan B thuộc chương trình tiêm chủng quốc gia nên vốn đã miễn phí. Trẻ được tiêm ngay tại bệnh viện trong ngày chào đời, không phải đi thêm chuyến khác.",
+    "plain": "Trẻ cần được tiêm mũi vắc-xin viêm gan B đầu tiên trong vòng 24 giờ sau sinh. Trong những người nhiễm viêm gan B ở tuổi nhũ nhi và trẻ nhỏ, khoảng 95% sẽ chuyển thành viêm gan mạn tính. Người đến tuổi trưởng thành mới nhiễm phần lớn có thể tự khỏi, nên mũi này càng tiêm sớm càng có ích. Nếu mẹ dương tính với kháng nguyên bề mặt viêm gan B, trẻ còn cần được tiêm đồng thời globulin miễn dịch viêm gan B trong vòng 12 giờ sau sinh.",
+    "benefit": "Tổ chức Y tế Thế giới nêu: “Tất cả trẻ nhũ nhi cần được tiêm vắc-xin viêm gan B càng sớm càng tốt sau sinh, trong vòng 24 giờ”. Lý do là “khoảng 95% trường hợp nhiễm ở tuổi nhũ nhi và trẻ nhỏ sẽ phát triển thành viêm gan mạn tính”. Phần lớn người nhiễm khi đã trưởng thành có thể tự khỏi, tức khỏi mà không cần điều trị. Nguyên văn WHO nêu tỷ lệ chuyển thành mạn tính khi nhiễm ở tuổi trưởng thành là “dưới 5%”. Quy chuẩn phòng lây truyền từ mẹ sang con của Ủy ban Y tế Quốc gia Trung Quốc yêu cầu trẻ sinh từ mẹ dương tính với kháng nguyên bề mặt viêm gan B phải “được tiêm mũi vắc-xin viêm gan B đầu tiên càng sớm càng tốt trong vòng 12 giờ sau sinh, đồng thời tiêm 100 đơn vị quốc tế globulin miễn dịch viêm gan B”.",
+    "notes": "Nếu mẹ dương tính với kháng nguyên bề mặt viêm gan B, sau sinh trẻ còn cần được tiêm đồng thời một mũi globulin miễn dịch viêm gan B. Phải làm rõ việc này trong các lần khám thai, đừng đợi sinh xong mới hỏi. Những xét nghiệm sàng lọc mẹ cần làm xem chương 1.",
+    "extra": ""
+  }
+}

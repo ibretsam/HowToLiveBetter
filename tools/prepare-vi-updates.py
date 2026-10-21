@@ -46,4 +46,5 @@ for doc in [*data["docs"], data["guide"]]:
         "source_path": doc["sourcePath"], "source_sha256": digest(doc["originalMarkdown"]),
         "original": doc["originalMarkdown"], "previous_translation": doc["translationMarkdown"],
     })
-print("Prepared 765 entry packets and 44 supplementary packets; existing work preserved.")
+print(f"Prepared {sum(len(s['entries']) for s in data['sections'])} entry packets "
+      f"and {len(data['sections']) + len(data['docs']) + 1} supplementary packets; existing work preserved.")

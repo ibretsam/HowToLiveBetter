@@ -1,0 +1,35 @@
+{
+  "id": "e-6-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/06-反面清单.md",
+  "source_sha256": "23c85c30d7e72c397d9c8e1fa8f38636b52aca9fbfb335e05bb42d1d1af1d18a",
+  "original": {
+    "number": 8,
+    "title": "不要指望手环/手表的运动量化帮你减重",
+    "fields": {
+      "cost": "设备 200 到 2000 元。另外每天还要分神去看那些数据。",
+      "plain": "超重的人做同样的饮食和运动安排，戴运动手环的人两年减了 3.5 公斤，不戴的人反而减了 5.9 公斤。想减重，设备不是必须花的钱。",
+      "benefit": "IDEA 试验找了 471 名超重或肥胖的成年人，跟了 24 个月。大家做的饮食和运动安排是一样的，区别只在戴不戴可穿戴设备。戴的那组减重 3.5 公斤（95% CI 2.6–4.5，这是可信范围）。不戴的那组减了 5.9 公斤（5.0–6.8），反而更多。两组差 2.4 公斤（1.0–3.7，P=0.002）。它看起来划算，是因为「量化才能管理」这句话听着有道理，而且设备买一次就完事",
+      "grade": "B",
+      "sources": "Jakicic JM et al. (2016). Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss: The IDEA Randomized Clinical Trial. JAMA. <https://doi.org/10.1001/jama.2016.12858>",
+      "notes": "这只有一项试验，用的还是 2010 年代初戴在胳膊上的设备，不能据此说「所有可穿戴设备都没用」。运动本身是有效的，见第 2 节。结论只有一句：想减重，设备不是必须花的钱"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng trông cậy việc đo hoạt động bằng vòng tay hoặc đồng hồ giúp giảm cân",
+    "cost": "Thiết bị giá 200 đến 2000 nhân dân tệ. Mỗi ngày còn phải phân tâm xem các số liệu đó.",
+    "plain": "Người thừa cân theo cùng kế hoạch ăn uống, vận động, nhóm đeo vòng theo dõi giảm 3.5 kilôgam sau hai năm, nhóm không đeo lại giảm 5.9 kilôgam. Muốn giảm cân, thiết bị không phải khoản bắt buộc chi.",
+    "benefit": "Thử nghiệm IDEA gồm 471 người trưởng thành thừa cân hoặc béo phì, theo dõi 24 tháng. Mọi người có cùng kế hoạch ăn uống, vận động, chỉ khác có đeo thiết bị hay không. Nhóm đeo giảm 3.5 kilôgam (95% CI 2.6–4.5, đây là khoảng tin cậy), nhóm không đeo giảm 5.9 kilôgam (5.0–6.8), ngược lại nhiều hơn. Chênh lệch 2.4 kilôgam (1.0–3.7, P=0.002). Nó có vẻ đáng tiền vì câu “phải đo lường mới quản lý được” nghe hợp lý, thiết bị lại chỉ mua một lần.",
+    "notes": "Chỉ có một thử nghiệm, dùng thiết bị đeo trên cánh tay từ đầu thập niên 2010, không thể dựa vào đó nói mọi thiết bị đeo đều vô dụng. Vận động bản thân có hiệu quả, xem phần 2. Kết luận chỉ là: muốn giảm cân, thiết bị không phải khoản bắt buộc chi.",
+    "extra": ""
+  }
+}

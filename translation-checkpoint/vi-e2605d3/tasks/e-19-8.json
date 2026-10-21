@@ -1,0 +1,35 @@
+{
+  "id": "e-19-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "51acb77c8e61f89f7edec44548d05bf27bae0fd1c1ef0c14b7741504c5390bb0",
+  "original": {
+    "number": 8,
+    "title": "离职前把工资条、考勤、劳动合同、社保记录和聊天记录先存下来",
+    "fields": {
+      "cost": "不花钱。花半小时把材料存好。难在走之前要记得存。",
+      "plain": "辞退、扣工资这类争议由单位举证，但加班要你先证明，单位的工资记录也只需要留两年。电脑和账号一交回去，这些材料就拿不到了。手里有工资条、考勤、社保记录和聊天原始记录，单位不认账时你才有东西可拿。",
+      "benefit": "一旦交回电脑和账号，这些材料就再也拿不到了。劳动争议按「谁主张谁举证」：你提出的事，要你拿证据。证据在单位手里的，单位要拿出来，不拿就由单位承担不利后果。仲裁时你拿不到单位手里的材料，仲裁庭可以要求单位在限定时间内交出来。开除、辞退、解除合同、减少工资、计算工作年限这几类争议，由单位负举证责任。加班费不一样，要你先证明确实加过班。你能证明加班记录在单位手里、单位又不交，才由单位承担不利后果。单位只有义务把工资发放记录保存两年以上。发工资时，单位还要给你一份个人工资清单。没签书面合同时，工资发放记录、社保缴费记录、工作证都能用来证明你和单位有劳动关系。招工登记表、考勤记录、其他员工的证言也能用。聊天记录在法律上算电子数据，可以当证据。交证据要交原件，直接从原始记录打印出来的也算原件。上海检察院办过一个案子。一名工人讨要十年的最低工资差额，一审、二审只认了离职前最后两年。法院的理由是，单位只需保存两年记录，前八年要工人自己举证。他手里有十年的工资条和银行流水，单位却不认工资条是真的。2024 年 8 月，他申请检察院监督。检察院抗诉后，单位按调解补了 1.9 万元。他是在公司 2021 年清退员工时起诉的，到申请监督已过了约三年（全国）",
+      "grade": "B",
+      "sources": "全国人大常委会 (2007). 劳动争议调解仲裁法（第六、三十九条）. <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载）；最高人民法院 (2020). 关于审理劳动争议案件适用法律问题的解释（一）（法释〔2020〕26 号，第四十二、四十四条）. <https://www.court.gov.cn/fabu/xiangqing/282121.html>；最高人民法院 (2019). 关于民事诉讼证据的若干规定（法释〔2019〕19 号，第十四、十五条）. <https://www.court.gov.cn/zixun/xiangqing/212721.html>；劳动部 (1994). 工资支付暂行规定（第六条），黑龙江省人民政府「政策帮你问」引述. <https://www.hlj.gov.cn/hlj/c116413/202402/c00_31712524.shtml>；劳动和社会保障部 (2005). 关于确立劳动关系有关事项的通知（劳社部发〔2005〕12 号），黑龙江省人民政府「政策帮你问」引述. <https://hlj.gov.cn/hlj/c116413/202408/c00_31757488.shtml>；郭勇辉, 边琬茹 (2025). 两年之外的工资支付情况举证责任应由谁承担？检察日报. <https://www.spp.gov.cn/spp/llyj/202508/t20250806_703164.shtml>（最高人民检察院网站刊载）；维权路径见第 7 节",
+      "notes": "存的是自己的劳动关系材料。不要顺手带走公司的源码、客户名单和技术文档，带走的风险见第 11 节。聊天记录别只截图，原始记录留在手机里别删。工资条、银行流水最好每月都存，离职多年后再讨旧账，单位已经不必留两年前的记录。上海那个案子能翻过来，靠的是检察院抗诉，多数人走不到这一步。走的时候还要找单位要离职证明，见本节第 17 条（离职证明）"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi nghỉ việc, lưu phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và lịch sử trò chuyện",
+    "cost": "Không tốn tiền. Dành nửa giờ lưu tài liệu. Điều khó là nhớ lưu trước khi nghỉ.",
+    "plain": "Tranh chấp về cho nghỉ, trừ lương do đơn vị chịu trách nhiệm đưa chứng cứ, nhưng làm thêm giờ thì bạn phải chứng minh trước; đơn vị cũng chỉ cần giữ hồ sơ lương hai năm. Bàn giao máy tính và tài khoản rồi thì không lấy được những tài liệu này nữa. Có phiếu lương, chấm công, hồ sơ bảo hiểm xã hội và bản gốc lịch sử trò chuyện trong tay thì khi đơn vị chối bỏ, bạn mới có thứ để đưa ra.",
+    "benefit": "Một khi bàn giao máy tính và tài khoản thì không còn lấy được những tài liệu này nữa. Tranh chấp lao động theo nguyên tắc “ai đưa ra yêu cầu thì người đó phải chứng minh”: việc bạn nêu ra thì bạn phải có chứng cứ. Chứng cứ trong tay đơn vị thì đơn vị phải cung cấp; không cung cấp thì đơn vị chịu hậu quả bất lợi. Khi giải quyết trọng tài mà bạn không lấy được tài liệu đơn vị nắm giữ, hội đồng trọng tài có thể yêu cầu đơn vị giao trong thời hạn nhất định. Các tranh chấp về khai trừ, cho nghỉ, chấm dứt hợp đồng, giảm lương và tính thời gian làm việc do đơn vị chịu trách nhiệm chứng minh. Tiền làm thêm giờ khác: bạn phải chứng minh đã thực sự làm thêm trước. Chỉ khi bạn chứng minh được hồ sơ làm thêm nằm trong tay đơn vị mà đơn vị không cung cấp thì đơn vị mới chịu hậu quả bất lợi. Đơn vị chỉ có nghĩa vụ lưu hồ sơ trả lương ít nhất hai năm. Khi trả lương, đơn vị còn phải đưa cho bạn một bảng kê lương cá nhân. Nếu chưa ký hợp đồng bằng văn bản, hồ sơ trả lương, hồ sơ đóng bảo hiểm xã hội và thẻ nhân viên đều có thể chứng minh quan hệ lao động giữa bạn với đơn vị. Phiếu đăng ký tuyển dụng, hồ sơ chấm công và lời khai của nhân viên khác cũng dùng được. Theo pháp luật, lịch sử trò chuyện là dữ liệu điện tử, có thể làm chứng cứ. Nộp chứng cứ phải nộp bản gốc; bản in trực tiếp từ hồ sơ gốc cũng được tính là bản gốc. Viện kiểm sát Thượng Hải từng xử lý một vụ: một công nhân đòi phần chênh lệch lương tối thiểu của mười năm, nhưng sơ thẩm và phúc thẩm chỉ công nhận hai năm cuối trước khi nghỉ. Tòa lý giải rằng đơn vị chỉ cần lưu hồ sơ hai năm, tám năm trước đó công nhân phải tự chứng minh. Anh có phiếu lương và sao kê ngân hàng mười năm, nhưng đơn vị không thừa nhận phiếu lương là thật. Tháng 8 năm 2024, anh đề nghị viện kiểm sát giám sát. Sau khi viện kiểm sát kháng nghị, đơn vị trả bù 1.9 vạn nhân dân tệ theo kết quả hòa giải. Anh khởi kiện khi công ty cho nhân viên nghỉ năm 2021; đến lúc đề nghị giám sát đã qua khoảng ba năm (toàn quốc)",
+    "notes": "Chỉ lưu tài liệu về quan hệ lao động của chính mình. Đừng tiện tay mang mã nguồn, danh sách khách hàng hay tài liệu kỹ thuật của công ty đi; rủi ro của việc mang đi xem chương 11. Lịch sử trò chuyện đừng chỉ chụp màn hình; giữ bản gốc trên điện thoại, đừng xóa. Phiếu lương và sao kê ngân hàng tốt nhất lưu mỗi tháng; nhiều năm sau khi nghỉ mới đòi khoản cũ thì đơn vị đã không còn nghĩa vụ giữ hồ sơ của hơn hai năm trước. Vụ Thượng Hải đảo ngược được nhờ viện kiểm sát kháng nghị; phần lớn người không đi đến được bước đó. Khi nghỉ còn phải yêu cầu đơn vị cấp giấy xác nhận nghỉ việc; xem mục 17 chương này (giấy xác nhận nghỉ việc)",
+    "extra": ""
+  }
+}

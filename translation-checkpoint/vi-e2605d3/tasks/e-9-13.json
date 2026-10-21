@@ -1,0 +1,35 @@
+{
+  "id": "e-9-13",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "3e015e4b243c91160fffcceba7c04b93c650c81e5601f799e0227cd2acc620e1",
+  "original": {
+    "number": 13,
+    "title": "麻将、扑克可以打，不抽头、不当庄、不组局收钱，不玩网络赌博",
+    "fields": {
+      "cost": "不花钱。亲友之间小额娱乐照打。不从局里抽成，不当庄，不组局收钱。难在有人张罗时忍住不去接手。",
+      "plain": "亲友之间小额打牌，法律不管。为了挣钱给赌局提供条件，或者参与赌博、赌资较大的，拘留 5 日以下或者罚 1000 元以下。为挣钱聚众赌博、靠赌博过日子的判 3 年以下，开赌场的判 5 年以下。多少算「赌资较大」，各地自己定，没有全国统一数字。",
+      "benefit": "为了挣钱给赌博提供便利条件，或者参与赌博、赌资较大的，拘留 5 日以下，或者罚 1000 元以下。情节严重的拘留 10 到 15 日，并罚 1000 到 5000 元。为了挣钱把人聚起来赌，或者靠赌博过日子的，判 3 年以下并罚钱。开赌场的判 5 年以下并罚钱，情节严重的判 5 到 10 年（全国）",
+      "grade": "B",
+      "sources": "全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第八十二条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第三百零三条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；全国人大常委会 (2020). 刑法修正案（十一）（第三十六条，开设赌场刑期提高到五年以下、五年以上十年以下）. <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>",
+      "notes": "多少算「赌资较大」没有全国统一数字，各地自己定，所以这条只给 B 级。从局里抽成、替网络赌博平台代收投注，办案时常常按开设赌场认定。相关的司法解释原文本节没有核实。也没有找到官方案例。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Có thể chơi mạt chược, bài; không thu tiền xâu, làm nhà cái, tổ chức cuộc chơi để thu tiền hay đánh bạc trên mạng",
+    "cost": "Không tốn tiền. Vui chơi với số tiền nhỏ giữa người thân, bạn bè vẫn chơi được. Không thu phần trăm từ cuộc chơi, không làm nhà cái, không tổ chức để thu tiền. Khó ở chỗ có người khởi xướng thì phải nhịn, không đứng ra tiếp quản.",
+    "plain": "Chơi bài với số tiền nhỏ giữa người thân, bạn bè thì pháp luật không can thiệp. Tạo điều kiện đánh bạc để kiếm tiền, hoặc tham gia đánh bạc với tiền cược tương đối lớn thì bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Tụ tập người đánh bạc để kiếm tiền hoặc sống bằng cờ bạc thì phạt tù không quá 3 năm; mở sòng bạc thì không quá 5 năm. Bao nhiêu là “tiền cược tương đối lớn” do từng địa phương quy định, không có con số thống nhất toàn quốc.",
+    "benefit": "Tạo điều kiện thuận lợi cho đánh bạc để kiếm tiền, hoặc tham gia đánh bạc với tiền cược tương đối lớn thì bị tạm giữ hành chính không quá 5 ngày hoặc phạt không quá 1000 nhân dân tệ. Tình tiết nghiêm trọng thì tạm giữ hành chính từ 10 đến 15 ngày và phạt từ 1000 đến 5000 nhân dân tệ. Tụ tập người đánh bạc để kiếm tiền hoặc sống bằng cờ bạc thì phạt tù không quá 3 năm và phạt tiền. Mở sòng bạc thì phạt tù không quá 5 năm và phạt tiền; tình tiết nghiêm trọng thì từ 5 đến 10 năm (toàn Trung Quốc).",
+    "notes": "Bao nhiêu là “tiền cược tương đối lớn” không có con số thống nhất toàn quốc mà do từng địa phương quy định, nên mục này chỉ xếp B. Thu tiền xâu từ cuộc chơi, nhận tiền cược thay nền tảng đánh bạc trên mạng thường được xác định là mở sòng bạc khi xử lý vụ án. Chương này chưa kiểm chứng nguyên văn giải thích tư pháp liên quan, cũng chưa tìm được vụ việc chính thức.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-12-8",
+  "source_sha256": "6cfb6eb4306188fbb67eb125e3435e28547ba8131edbe0ee23505641d3cc0c90",
+  "draft_sha256": "c61a0ff9376221c8b55fe8f2e2457963312d3e5fb3bca8273e5a40608418e58f",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves category-specific permits, provincial small-business rules, prepackaged definition cross-reference, value thresholds, slaughter and quarantine exceptions. Translation review does not independently verify current law or source advice."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-23-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "9d33ed427e930bcaa91bb836607b81da7a60d1343401291ae48d74da402769e2",
+  "original": {
+    "number": 9,
+    "title": "培训优先走政府补贴渠道，别一上来就自费报商业班",
+    "fields": {
+      "cost": "不花钱，或者能大幅减免。培训本身要占时间。难在忍住别一冲动就自费报班，先去查一遍补贴目录。",
+      "plain": "2025 年到 2027 年底，国家计划办 3000 万人次以上的补贴培训。钱从就业补助资金、失业保险基金、企业职工教育经费等多个口子出。哪个工种越缺人、培训成本越高，补贴就越高。在职的先问单位，其余人先翻当地人社局的补贴目录，再决定学什么。",
+      "benefit": "国家层面的规模是明确的：2025 年到 2027 年底，「聚焦高精尖产业与急需行业、就业重点群体等开展补贴性培训 3000 万人次以上」。资金来源被打通为一揽子：就业补助资金、失业保险基金、行业发展资金、东西部协作资金、企业职工教育经费等。补贴高低按职业（工种）的急需紧缺程度和培训成本来定，不同工种不一样。对企业还要求「按规定足额提取和使用职工教育经费，确保 60% 以上用于一线职工教育和培训」",
+      "grade": "A",
+      "sources": "国务院就业促进和劳动保护工作领导小组 (2025). 关于开展大规模职业技能提升培训行动的指导意见. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032222.htm>",
+      "notes": "具体怎么领、能领多少由各省定。入口是当地人社局官网的「职业培训补贴目录」和公共实训基地。第 7 节写过失业期间的职业培训补贴（同一个人最多享受 3 次）和社保补贴。在职的人则先问单位的职工教育经费。先查补贴目录再选学什么，比先选好再去找补贴省钱得多"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ưu tiên học nghề qua kênh có trợ cấp nhà nước, đừng vội tự trả tiền cho lớp thương mại",
+    "cost": "Không tốn tiền hoặc được giảm đáng kể. Bản thân việc học vẫn mất thời gian. Khó ở chỗ kiềm việc đăng ký tự trả tiền theo hứng, tra danh mục trợ cấp trước.",
+    "plain": "Từ năm 2025 đến hết 2027, nhà nước dự kiến tổ chức đào tạo có trợ cấp cho ít nhất 3000 vạn lượt người. Tiền đến từ nhiều nguồn, gồm kinh phí hỗ trợ việc làm, quỹ bảo hiểm thất nghiệp và kinh phí giáo dục người lao động của doanh nghiệp. Nghề càng thiếu người, chi phí đào tạo càng cao thì trợ cấp càng cao. Người đang làm việc nên hỏi đơn vị trước; những người khác xem danh mục trợ cấp của cơ quan nhân lực và an sinh xã hội địa phương rồi mới chọn học gì.",
+    "benefit": "Quy mô cấp quốc gia đã rõ: từ năm 2025 đến hết 2027, “tập trung vào ngành công nghệ cao, tinh vi, tiên tiến, ngành cấp thiết và nhóm trọng điểm về việc làm để đào tạo có trợ cấp ít nhất 3000 vạn lượt người”. Các nguồn được kết hợp gồm kinh phí hỗ trợ việc làm, quỹ bảo hiểm thất nghiệp, kinh phí phát triển ngành, kinh phí hợp tác đông–tây, kinh phí giáo dục người lao động của doanh nghiệp và các nguồn khác. Mức trợ cấp dựa vào mức độ cấp thiết, thiếu hụt của nghề và chi phí đào tạo, khác nhau tùy nghề. Doanh nghiệp còn phải “trích lập và sử dụng đủ kinh phí giáo dục người lao động theo quy định, bảo đảm ít nhất 60% dành cho giáo dục và đào tạo người lao động trực tiếp”",
+    "notes": "Cách nhận và số tiền cụ thể do từng tỉnh quy định. Tra “danh mục trợ cấp đào tạo nghề” trên website cơ quan nhân lực và an sinh xã hội địa phương, cùng các cơ sở thực hành công lập. Chương 7 có trợ cấp đào tạo nghề trong thời gian thất nghiệp, mỗi người tối đa 3 lần, và trợ cấp bảo hiểm xã hội. Người đang làm việc hỏi kinh phí giáo dục người lao động của đơn vị trước. Tra danh mục trợ cấp rồi mới chọn học gì tiết kiệm hơn nhiều so với chọn xong mới tìm trợ cấp",
+    "extra": ""
+  }
+}

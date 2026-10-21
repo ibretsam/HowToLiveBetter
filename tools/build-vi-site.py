@@ -230,6 +230,9 @@ def build():
     for file in ("README.md", "vi/README.md", "vi/TRANSLATION.md", "vi/TRANSLATION-PLAN.md"):
         shutil.copy2(ROOT / file, OUT / file)
     report = {"source_commit": config["source_commit"], "translation_base_commit": base,
+              "checkpoint": str(vi_updates.CP.relative_to(ROOT)),
+              "inherited_reviews_for_identical_source": sum(
+                  draft["source_commit"] != config["source_commit"] for _, draft, _ in updates.values()),
               "chapters": len(sections), "entries": sum(counts.values()),
               "articles": len(docs), "entries_by_status": dict(counts),
               "reviewed_updates": reviewed_entries,

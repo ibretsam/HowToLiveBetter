@@ -1,0 +1,35 @@
+{
+  "id": "e-1-33",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "a3402cb07313c2841f231d12109b08fdde1f8a8d249d7e9d60b2c393f8f58151",
+  "original": {
+    "number": 33,
+    "title": "别把「救回来」当成兜底：喝农药、吸煤气之后急诊能保住的是命，可能保不住肺和脑子",
+    "fields": {
+      "cost": "不花钱。只是先知道这件事。",
+      "plain": "百草枯没有有效的解药，孟加拉一组病人里四成多没救回来。它会让肺发炎、慢慢变硬，肾和肝也跟着受伤。煤气中毒被救回来、只吸普通氧气的人，六周后将近一半脑子不如从前，做了高压氧的也还有四分之一。",
+      "benefit": "一篇百草枯中毒的系统综述：病死率极高，原因是它本身毒性强，又缺乏有效治疗。它被逆着浓度差主动搬进肺组织，学名叫逆浓度梯度主动摄取，结果是肺炎和肺纤维化。它同时还造成肾损伤和肝损伤。综述写明：不应进行洗胃。血液透析和血液灌流不大可能改变临床病程。激素与免疫抑制剂的疗效证据很弱。综述还写了一句：「所有中心的病死率都很高，尽管治疗差异很大」。孟加拉 10 家三级医院 2013 至 2024 年收了 1420 例，其中可分析的 257 例：病死率 43.2%。常见表现是急性肾衰引起的下肢肿胀 71.2%、呕吐 65.8%、腹痛 58.0%。急性一氧化碳中毒的试验是双盲随机分组，两组各 76 人。医生和病人都不知道进的是哪一组。六周时留下认知后遗症的，高压氧组 19/76（25.0%）。常压氧组 35/76（46.1%），P=0.007。把其他因素校正之后 OR 0.45（95% CI 0.22 至 0.92，括号里是这个数的可信范围）。另一项研究连续观察了 73 例：30% 有认知后遗症，12% 出现脑白质高信号。中国自 2014 年 7 月 1 日起撤销百草枯水剂的登记和生产许可，并停止生产。2016 年 7 月 1 日起，水剂在国内停止销售和使用。2020 年 9 月 26 日起，禁止可溶胶剂在境内销售、使用。文件写明，「致使服用百草枯自杀事件时有发生」是加强监管的直接原因",
+      "grade": "B",
+      "sources": "Gawarammana IB, Buckley NA (2011). Medical management of paraquat ingestion. British Journal of Clinical Pharmacology, 72(5), 745-757. <https://doi.org/10.1111/j.1365-2125.2011.04026.x>；Chowdhury FR 等 (2026). Clinical and Laboratory Profile of Paraquat Poisoning: A Toxicological Crisis in Bangladesh. American Journal of Tropical Medicine and Hygiene, 115, 176-182. <https://doi.org/10.4269/ajtmh.25-0719>；Weaver LK, Hopkins RO, Chan KJ, et al. (2002). Hyperbaric oxygen for acute carbon monoxide poisoning. New England Journal of Medicine, 347(14), 1057-1067. <https://doi.org/10.1056/NEJMoa013121>；Parkinson RB, Hopkins RO, Cleavinger HB, et al. (2002). White matter hyperintensities and neuropsychological outcome following carbon monoxide poisoning. Neurology, 58(10), 1525-1532. <https://doi.org/10.1212/wnl.58.10.1525>；农业农村部办公厅 (2018). 关于切实加强百草枯监督管理的通知（农办农〔2018〕17 号）. <https://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5442594.htm>",
+      "notes": "给 B 的原因：这几项研究的对象是中毒病人，不是单一的自杀未遂人群，一氧化碳那项试验里还含意外中毒的人。所以上面的后遗症比例，不能直接当成「自杀未遂者的后果概率」。能确定的只有一点：没有哪一种方式能保证不留后遗症。一氧化碳的现场处置见第 13 节第 19 条。误服农药和药物先别催吐、带上瓶子就医，见第 13 节第 20 条。家里不囤农药和安眠药见本节第 25 条。本书不比较不同方式的致死率，也不写任何具体做法"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đừng trông cậy rằng sẽ được cứu sống: sau khi uống thuốc trừ sâu hoặc hít khí than, cấp cứu có thể giữ được mạng nhưng chưa chắc giữ được phổi và não",
+    "cost": "Không tốn tiền. Chỉ cần biết trước điều này.",
+    "plain": "Paraquat không có thuốc giải độc hiệu quả; trong một nhóm bệnh nhân ở Bangladesh, hơn bốn mươi phần trăm không cứu được. Nó làm phổi viêm rồi dần xơ cứng, thận và gan cũng tổn thương. Trong số người ngộ độc khí than được cứu và chỉ thở oxy thông thường, gần một nửa có nhận thức không còn như trước sau sáu tuần; nhóm dùng oxy cao áp vẫn còn một phần tư.",
+    "benefit": "Một tổng quan hệ thống về ngộ độc paraquat cho thấy tỷ lệ tử vong trong số người mắc rất cao vì bản thân chất này độc mạnh và thiếu cách điều trị hiệu quả. Nó được chủ động đưa vào mô phổi ngược chiều chênh lệch nồng độ, chuyên môn gọi là hấp thu chủ động ngược gradient nồng độ, dẫn đến viêm phổi và xơ phổi. Đồng thời nó gây tổn thương thận và gan. Tổng quan nêu rõ không nên rửa dạ dày. Thẩm tách máu và lọc máu hấp phụ khó có khả năng thay đổi diễn tiến lâm sàng. Bằng chứng hiệu quả của corticosteroid và thuốc ức chế miễn dịch rất yếu. Tổng quan còn viết: tỷ lệ tử vong tại mọi trung tâm đều cao dù cách điều trị rất khác nhau. Từ năm 2013 đến 2024, 10 bệnh viện tuyến ba ở Bangladesh tiếp nhận 1420 ca; trong 257 ca có thể phân tích, tỷ lệ tử vong là 43.2%. Biểu hiện thường gặp gồm phù chi dưới do suy thận cấp 71.2%, nôn 65.8%, đau bụng 58.0%. Thử nghiệm ngộ độc carbon monoxide cấp phân nhóm ngẫu nhiên mù đôi, mỗi nhóm 76 người; cả bác sĩ lẫn bệnh nhân không biết vào nhóm nào. Sau sáu tuần, số có di chứng nhận thức ở nhóm oxy cao áp là 19/76 (25.0%); nhóm oxy áp suất thường là 35/76 (46.1%), P=0.007. Sau hiệu chỉnh các yếu tố khác, OR 0.45 (95% CI 0.22 đến 0.92, số trong ngoặc là khoảng tin cậy). Một nghiên cứu khác quan sát liên tiếp 73 ca: 30% có di chứng nhận thức, 12% có vùng tăng tín hiệu chất trắng não. Từ ngày 1 tháng 7 năm 2014, Trung Quốc thu hồi đăng ký và giấy phép sản xuất paraquat dạng dung dịch, đồng thời ngừng sản xuất. Từ ngày 1 tháng 7 năm 2016, ngừng bán và sử dụng dạng dung dịch trong nước. Từ ngày 26 tháng 9 năm 2020, cấm bán và sử dụng dạng gel hòa tan trong lãnh thổ. Văn bản nêu rõ việc thường xuyên xảy ra tự sát bằng paraquat là nguyên nhân trực tiếp của tăng cường quản lý.",
+    "notes": "Xếp mức B vì đối tượng của các nghiên cứu này là bệnh nhân ngộ độc, không riêng người tự sát không thành; thử nghiệm carbon monoxide còn có người ngộ độc do tai nạn. Vì vậy, không thể trực tiếp coi tỷ lệ di chứng trên là xác suất hậu quả ở người tự sát không thành. Chỉ có thể khẳng định không cách nào bảo đảm không để lại di chứng. Xử trí carbon monoxide tại hiện trường xem phần 13 mục 19. Uống nhầm thuốc trừ sâu hay thuốc thì đừng gây nôn trước, mang chai theo đi khám, xem phần 13 mục 20. Không tích trữ thuốc trừ sâu và thuốc ngủ trong nhà xem mục 25 phần này. Sách không so sánh tỷ lệ tử vong của các cách khác nhau, cũng không viết cách thực hiện cụ thể nào.",
+    "extra": ""
+  }
+}

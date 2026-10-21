@@ -1,0 +1,15 @@
+{
+  "id": "doc-danh-sach-do-dung-khan-cap",
+  "source_sha256": "9775f8da10cb4326345c94fd55bd7dfcb005cd0a3832efef5e35a5c62189c043",
+  "draft_sha256": "013dc3b5828f946d3f8141bc47187f770a72578b6611b4217160884ddcb97ae9",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full 103-line bilingual comparison preserves all seven sections, 11-row official table, expanded 16/31-item lists, source URLs, now-verified mask oxygen threshold not below17%, 15/20/25/30-minute classes, general3-year validity, evidence limitations and archived media/report status. Source caveats retained: water3L/person for3days, fire-blanket no-expiry wording, source OR-to-proportion language and at-least3-day stock wording. No independent safety verification or silent correction."
+}

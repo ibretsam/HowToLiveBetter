@@ -1,0 +1,35 @@
+{
+  "id": "e-10-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "327dab67a6c57f460543870095cb3f2ad4562794e322e8733b6d7957898aea66",
+  "original": {
+    "number": 4,
+    "title": "关系好不好，主要看你自己在这段关系里的感受，不是看对方条件",
+    "fields": {
+      "cost": "不花钱，也不花多少时间。难在改视角：把择偶清单收起来，改成看相处过程。",
+      "plain": "最能说明关系好不好的，是你自己的感受，不是对方的条件。比如你觉得对方认不认真、欣不欣赏你，你们吵得多不多。你自己的感受比伴侣的说法管用二到四倍。但这段关系往后变好还是变坏，任何问卷都基本算不出来。",
+      "benefit": "29 个实验室、43 份纵向配对数据的机器学习分析，纵向就是跟着同一批伴侣一路记录。最能预测关系质量的几项，全部来自当事人对这段关系的感受：感觉到对方的承诺、欣赏、性满意度、感觉到对方满意、冲突。跟个人有关的几项里最强的是生活满意度、负面情绪、抑郁、回避型依恋、焦虑型依恋。关于关系的这些项，在刚开始调查时最多能解释 45% 的方差。方差指伴侣与伴侣之间关系质量的差别，45% 是其中能用这些项说清的部分。到研究结束时最多解释 18%。而且「自己报告的那些项」的预测力，是「伴侣报告的那些项」的二到四倍。在自己报告的关系感受之外，再把个体差异和伴侣的报告加进来，没有多出任何预测力。关系在研究期间是变好还是变坏，用任何一组自评指标都基本算不出来，原文是「largely unpredictable from any combination of self-report variables」",
+      "grade": "A",
+      "sources": "Joel S, Eastwick PW, Allison CJ, et al. (2020). Machine learning uncovers the most robust self-report predictors of relationship quality across 43 longitudinal couples studies. Proceedings of the National Academy of Sciences, 117(32), 19061-19071. <https://doi.org/10.1073/pnas.1917036117>",
+      "notes": "判断眼下这段关系好不好，问自己的感受比核对对方的条件清单准，但别指望能预测它以后会怎样。关系好坏和身体好坏连在一起的那笔账，见本节第 17 条（把关系好坏当成一笔健康账）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đánh giá mối quan hệ tốt hay không chủ yếu qua cảm nhận của bạn trong mối quan hệ, thay vì điều kiện của đối phương",
+    "cost": "Không tốn tiền và cũng không mất nhiều thời gian. Khó ở việc đổi góc nhìn: cất danh sách tiêu chuẩn chọn bạn đời và nhìn vào quá trình ở bên nhau.",
+    "plain": "Điều phản ánh rõ nhất mối quan hệ tốt hay không là cảm nhận của chính bạn, chứ không phải điều kiện của đối phương. Chẳng hạn, bạn thấy họ có nghiêm túc, trân trọng mình không và hai người có thường cãi nhau không. Cảm nhận của bạn có sức dự đoán gấp hai đến bốn lần lời kể của bạn đời. Nhưng mối quan hệ sau này tốt lên hay xấu đi thì hầu như không bảng hỏi nào dự đoán được.",
+    "benefit": "Một phân tích bằng học máy dùng 43 bộ dữ liệu theo dõi các cặp đôi theo thời gian từ 29 phòng thí nghiệm. Những yếu tố dự đoán chất lượng mối quan hệ tốt nhất đều là cảm nhận của người trong cuộc về mối quan hệ: cảm nhận được sự cam kết và trân trọng từ đối phương, mức hài lòng về tình dục, cảm nhận đối phương hài lòng và xung đột. Trong các yếu tố cá nhân, mạnh nhất là mức hài lòng với cuộc sống, cảm xúc tiêu cực, trầm cảm, kiểu gắn bó né tránh và kiểu gắn bó lo âu. Các yếu tố về mối quan hệ giải thích được tối đa 45% phương sai khi bắt đầu khảo sát. Phương sai là sự khác biệt về chất lượng mối quan hệ giữa các cặp đôi; 45% là phần các yếu tố này giải thích được. Đến cuối nghiên cứu, chúng giải thích được tối đa 18%. Hơn nữa, các yếu tố do chính người đó báo cáo có sức dự đoán gấp hai đến bốn lần những yếu tố do bạn đời báo cáo. Sau khi đã tính cảm nhận của bản thân về mối quan hệ, thêm khác biệt cá nhân và báo cáo của bạn đời không làm tăng khả năng dự đoán. Hầu như không thể dự đoán mối quan hệ sẽ tốt lên hay xấu đi trong thời gian nghiên cứu bằng bất kỳ tổ hợp chỉ số tự đánh giá nào; nguyên văn là “largely unpredictable from any combination of self-report variables”.",
+    "notes": "Để đánh giá mối quan hệ hiện tại tốt hay không, hỏi cảm nhận của mình chính xác hơn đối chiếu danh sách điều kiện của đối phương, nhưng đừng kỳ vọng dự đoán được tương lai của nó. Mối liên hệ giữa chất lượng mối quan hệ và sức khỏe được trình bày ở mục 17 chương này (tính chất lượng mối quan hệ như một yếu tố ảnh hưởng sức khỏe).",
+    "extra": ""
+  }
+}

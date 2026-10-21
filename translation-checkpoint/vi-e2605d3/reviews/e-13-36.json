@@ -1,0 +1,15 @@
+{
+  "id": "e-13-36",
+  "source_sha256": "e32d3ddf74ecb5a5f289ba67f52656d8da551ae06f252b9c0f9d6d3aeba1344c",
+  "draft_sha256": "806cc1e8cf8e171fda27bddb8dc397c274bce9c5eaac85af5822c16da29da3ae",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves immediate-threat scope, conditional ongoing self-defense after property taken, joint excessive-defense criteria and investigation/detention process risk. Criminal terms and different online-extortion instructions retained."
+}

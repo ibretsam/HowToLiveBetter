@@ -1,0 +1,35 @@
+{
+  "id": "e-33-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "cacca55c11965a74391cd5954681b74efc223be32477db473344a1b42334a782",
+  "original": {
+    "number": 5,
+    "title": "长期坐轮椅的，坐垫换成减压型，每天看一遍坐骨和尾骨",
+    "fields": {
+      "cost": "一个减压坐垫几百元到上千元。每天看一遍，一分钟。",
+      "plain": "养老院里用减压坐垫的老人，比用普通分段海绵坐垫的，坐骨那里的压疮明显更少，但把尾骨一起算就没看出差别。试验里所有人都先配了合身的轮椅，所以轮椅本身也要按人的尺寸配，别买个通用款就算了。",
+      "benefit": "这项随机临床试验在 12 家养老院做，2004 到 2008 年招募 232 名 65 岁以上、每天坐轮椅 6 小时以上、Braden 评分 18 分以下的住户。所有人先配了合身的轮椅，再随机分成两组。一组用皮肤保护型坐垫（空气、黏性流体加泡沫、或者凝胶加泡沫），一组用 7.6 厘米厚的分段式泡沫坐垫。随访 6 个月或者到发生压疮为止。坐骨结节部位的压疮，分段泡沫组 8 例（6.7%），皮肤保护型坐垫组 1 例（0.9%），P=0.04。把坐骨和骶尾部的压疮合起来算，分段泡沫组 21 例（17.6%），皮肤保护型坐垫组 12 例（10.6%），P=0.14，没有做出差别",
+      "grade": "B",
+      "sources": "Brienza D, Kelsey S, Karg P, et al. (2010). A randomized clinical trial on preventing pressure ulcers with wheelchair seat cushions. Journal of the American Geriatrics Society, 58(12):2308-2314. <https://doi.org/10.1111/j.1532-5415.2010.03168.x>",
+      "notes": "定 B 的原因有两条。第一，样本只有 232 人，主要终点的 P 值 0.04 刚过线，次要终点没有做出差别。第二，人群是养老院里的高龄住户，套到年轻的轮椅使用者身上属于往外推。试验里所有人都先配了合身的轮椅，所以「合身」和「坐垫」是一起起作用的，别只换坐垫。长期卧床的压疮防护，气垫床和定时翻身，见第 17 节第 8 条（压疮）。基本型辅助器具的配置补贴怎么申请，见本节第 7 条（去县级残联问全）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ngồi xe lăn lâu dài thì đổi sang đệm giảm áp, mỗi ngày kiểm tra vùng xương ngồi và xương cụt một lần",
+    "cost": "Đệm giảm áp giá vài trăm đến hơn nghìn nhân dân tệ. Kiểm tra mỗi ngày một lần, mất một phút.",
+    "plain": "Người cao tuổi trong viện dưỡng lão dùng đệm giảm áp bị loét tì đè vùng xương ngồi ít hơn rõ rệt so với dùng đệm mút chia ô thông thường, nhưng tính cả vùng xương cụt thì không thấy khác biệt. Trong thử nghiệm, mọi người đều được chọn xe lăn vừa người trước, nên xe lăn cũng phải theo kích thước người dùng, đừng mua mẫu chung rồi coi là xong.",
+    "benefit": "Thử nghiệm lâm sàng ngẫu nhiên thực hiện ở 12 viện dưỡng lão, tuyển 232 người từ 65 tuổi trở lên trong giai đoạn 2004 đến 2008, ngồi xe lăn từ 6 giờ mỗi ngày trở lên và điểm Braden từ 18 trở xuống. Mọi người được chọn xe lăn vừa người trước, rồi phân ngẫu nhiên hai nhóm. Một nhóm dùng đệm bảo vệ da (khí, chất lỏng nhớt kết hợp mút, hoặc gel kết hợp mút), một nhóm dùng đệm mút chia ô dày 7.6 cm. Theo dõi 6 tháng hoặc đến khi xuất hiện loét tì đè. Loét vùng ụ ngồi ở nhóm mút chia ô có 8 ca (6.7%), nhóm đệm bảo vệ da có 1 ca (0.9%), P=0.04. Gộp loét vùng xương ngồi và cùng cụt thì nhóm mút chia ô có 21 ca (17.6%), nhóm đệm bảo vệ da 12 ca (10.6%), P=0.14, không cho thấy khác biệt.",
+    "notes": "Xếp B vì hai lý do. Thứ nhất, mẫu chỉ 232 người, P của tiêu chí chính là 0.04 vừa qua ngưỡng, tiêu chí phụ không cho thấy khác biệt. Thứ hai, đối tượng là người tuổi cao trong viện dưỡng lão, áp sang người dùng xe lăn trẻ tuổi là ngoại suy. Trong thử nghiệm mọi người đều có xe lăn vừa người trước, nên “vừa người” và “đệm” cùng tác động, đừng chỉ đổi đệm. Phòng loét tì đè cho người nằm lâu, đệm hơi và trở mình định kỳ xem chương 17 mục 8 (loét tì đè). Cách xin hỗ trợ trang bị dụng cụ trợ giúp cơ bản xem mục 7 của chương này (hỏi đầy đủ tại Hội Liên hiệp người khuyết tật cấp huyện).",
+    "extra": ""
+  }
+}

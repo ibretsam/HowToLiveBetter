@@ -1,0 +1,35 @@
+{
+  "id": "e-5-35",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "9791bf44ce281152f47fb718ac0ef26ec60f894e447689f70729e8939d233491",
+  "original": {
+    "number": 35,
+    "title": "盲盒、抽卡这类随机销售，按「这笔钱不会回来」算",
+    "fields": {
+      "cost": "不花钱。只是买之前把预算定死。难的是没抽到想要的那个，还要停手。",
+      "plain": "商家必须把抽取规则、抽取概率、限量款数量摆在显眼处，不许后台操纵结果，不许设空盒。保底和花钱、抽取次数的上限，文件只是鼓励商家做。网上买的盲盒，商家讲清楚、你也确认过的，拆封后就不能七日无理由退货。",
+      "benefit": "依据是《盲盒经营行为规范指引（试行）》。第九条列了一串关键信息，应当以显著方式对外公示，保证消费者买之前就知道。这些信息是：商品名称、种类、样式、抽取规则、商品分布、限量商品投放数量、抽取概率、商品价值范围。同一条还规定了三件不许做的事。一是不得通过后台操纵改变抽取结果、随意调整抽取概率等方式变相诱导消费。二是不得用折现、回购、换购等方式拒绝或者故意拖延发放盲盒。三是不得设置空盒。第十一条只是「鼓励」经营者建立保底机制，通过设定抽取时间、抽取金额上限和次数上限等方式引导理性消费。第十七条管的是以互联网形式卖的盲盒商品。经营者充分告知提示了，消费者也在单次购买时确认了，这种盲盒拆封后可以不适用七日无理由退货。经营者不得用默认勾选的方式替代消费者的确认环节。第二十一条：不得以盲盒的名义从事或者变相从事赌博活动。第二十三条：不得向未满 8 周岁的未成年人销售盲盒；向 8 周岁及以上的未成年人销售，应当依法确认已经取得相关监护人的同意（全国）",
+      "grade": "A",
+      "sources": "市场监管总局 (2023). 盲盒经营行为规范指引（试行）（国市监稽发〔2023〕39 号，第九、十一、十七、二十一、二十三条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/zfjcs/art/2023/art_e2facd76a7fb4e90b03912cffb5e7d53.html>",
+      "notes": "这份文件是指引，管的是经营者该怎么做，它本身不是处罚依据。真出了事，按产品质量法、反不正当竞争法、消费者权益保护法处理。有三种情况是你能投诉的具体事由：概率没公示，公示的概率和实际对不上，买到空盒。投诉之前，先把页面上的规则和开箱的过程录屏留下来。拆封后不适用七日无理由退货有个前提：商家充分告知了，你在单次购买时也确认了，而且不得用默认勾选替你确认。卖给未成年人另有规定：不满 8 周岁的孩子商家不得卖给他，8 周岁及以上的要先确认已经取得监护人同意。孩子拿手机充值打赏怎么退款，见本节第 9 条（孩子用手机充值打赏）。大额非必需购买的 24 小时冷静期，见第 23 条（大额非必需购买设冷静期）。「买到手就淡了、于是接着买」这个循环，见第 6 节第 23 条（别指望买东西改善心情）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Hộp mù, rút thẻ và kiểu bán ngẫu nhiên tương tự: hãy tính rằng “tiền này sẽ không trở lại”",
+    "cost": "Không tốn tiền. Chỉ chốt cứng ngân sách trước khi mua. Cái khó là chưa rút được món muốn mà vẫn phải dừng.",
+    "plain": "Bên bán phải công khai nổi bật quy tắc rút, xác suất, số lượng bản giới hạn; không được thao túng kết quả ở hệ thống phía sau, không được đặt hộp rỗng. Cơ chế bảo đảm và trần tiền, số lượt rút chỉ được văn bản khuyến khích. Hộp mù mua trực tuyến, nếu bên bán đã giải thích rõ và bạn xác nhận, thì sau mở niêm phong không được trả bảy ngày không cần lý do.",
+    "benefit": "Căn cứ là “Hướng dẫn chuẩn hóa hành vi kinh doanh hộp mù (thử nghiệm)”. Điều chín liệt kê thông tin chủ chốt phải công khai nổi bật, bảo đảm người tiêu dùng biết trước khi mua: tên hàng, loại, kiểu dáng, quy tắc rút, phân bố hàng, số lượng hàng giới hạn đưa ra, xác suất rút, khoảng giá trị hàng. Cùng điều cấm ba việc: thao túng hệ thống phía sau đổi kết quả, tùy ý chỉnh xác suất để gián tiếp dụ tiêu dùng; dùng đổi thành tiền, mua lại, đổi mua và cách tương tự để từ chối hoặc cố ý trì hoãn giao hộp mù; đặt hộp rỗng. Điều mười một chỉ “khuyến khích” bên kinh doanh có cơ chế bảo đảm, hướng dẫn tiêu dùng hợp lý bằng thời gian rút, trần tiền và số lượt. Điều mười bảy áp dụng hộp mù bán qua Internet: nếu bên kinh doanh đã thông báo, nhắc đầy đủ và người mua xác nhận trong từng lần mua, hộp đó sau mở niêm phong có thể không áp dụng trả hàng bảy ngày không cần lý do. Bên kinh doanh không được đánh dấu chọn mặc định thay cho bước người tiêu dùng xác nhận. Điều hai mươi mốt: không được lấy danh nghĩa hộp mù để đánh bạc hoặc đánh bạc trá hình. Điều hai mươi ba: không được bán hộp mù cho trẻ chưa đủ 8 tuổi; bán cho người chưa thành niên từ đủ 8 tuổi trở lên phải xác nhận theo luật rằng đã có sự đồng ý của người giám hộ liên quan (toàn Trung Quốc).",
+    "notes": "Văn bản này là hướng dẫn về cách bên kinh doanh phải làm, tự nó không phải căn cứ xử phạt. Có chuyện thực tế thì xử lý theo Luật Chất lượng sản phẩm, Luật Chống cạnh tranh không lành mạnh, Luật Bảo vệ quyền lợi người tiêu dùng. Ba căn cứ khiếu nại cụ thể là: không công khai xác suất; xác suất công khai không khớp thực tế; mua phải hộp rỗng. Trước khi khiếu nại, lưu bản quay màn hình quy tắc trên trang và video mở hộp. Không áp dụng trả hàng bảy ngày sau mở niêm phong có điều kiện: bên bán thông báo đầy đủ, bạn xác nhận trong từng lần mua, không được dùng đánh dấu mặc định thay bạn xác nhận. Bán cho người chưa thành niên có quy định riêng: trẻ chưa đủ 8 tuổi không được bán, từ đủ 8 tuổi trở lên phải xác nhận đã có sự đồng ý của người giám hộ. Hoàn tiền khi trẻ dùng điện thoại nạp, tặng xem mục 9 của chương này. Thời gian cân nhắc 24 giờ cho món mua lớn không thiết yếu xem mục 23. Vòng lặp “mua được rồi hết thích, lại mua tiếp” xem chương 6 mục 23 (đừng trông chờ mua đồ cải thiện tâm trạng).",
+    "extra": ""
+  }
+}

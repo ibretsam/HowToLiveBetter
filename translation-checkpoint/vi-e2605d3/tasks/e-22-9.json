@@ -1,0 +1,35 @@
+{
+  "id": "e-22-9",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "9e1c53615a332582dc72c7e00fb3f6f91831805fbb245854ef36c51cd2cf46a9",
+  "original": {
+    "number": 9,
+    "title": "把「定期和人见面」当成健康支出，别只在心情差时才找人",
+    "fields": {
+      "cost": "要花一点钱，还要搭上见面的时间。难在心情好的时候也得主动约人。",
+      "plain": "平时很少和人来往的人，同期死亡的概率高约三成。感到孤独的人高约四分之一，独居的人高约三成，65 岁以下的人更明显。这些都是跟踪观察出来的，也可能是身体本来就差的人更容易独居。",
+      "benefit": "这是把 70 项先记录情况再往后跟踪的研究合在一起算的结果（荟萃分析），共 340 万名参与者，平均跟踪 7 年。社会隔离、孤独感、独居都与死亡率升高相关。把年龄、身体状况这些干扰因素扣掉之后，加权平均比值比分别是：社会隔离 1.29、孤独 1.26、独居 1.32。换算过来，同期死亡的概率分别高约三成、约四分之一、约三成。三者的效果大小差不多，而且在 65 岁以下人群中比在老年人群中更大",
+      "grade": "A",
+      "sources": "Holt-Lunstad J, Smith TB, Baker M, Harris T, Stephenson D (2015). Loneliness and social isolation as risk factors for mortality: a meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237. <https://doi.org/10.1177/1745691614568352>",
+      "notes": "争议。这些都是跟着人群观察出来的关联，不是分组对照试验，谁因谁果分不开。身体本来就差的人，更容易独居、更少社交。作者把社会关系看作和吸烟、肥胖同一量级的健康因素，但没有随机试验证明「增加社交能降低死亡率」。这条与第 3 节「减少让你消耗的人际关系」不冲突：那条砍掉消耗你的关系，这里要保住让你恢复精力的那几段"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Coi việc “gặp gỡ người khác đều đặn” là khoản chi cho sức khỏe, đừng chỉ tìm người khi tâm trạng tệ",
+    "cost": "Tốn một ít tiền và thời gian gặp mặt. Cái khó là ngay cả khi tâm trạng tốt, bạn vẫn phải chủ động hẹn gặp.",
+    "plain": "Người thường ngày ít giao tiếp có khả năng tử vong trong cùng thời gian cao hơn khoảng ba phần mười. Người cảm thấy cô đơn cao hơn khoảng một phần tư, người sống một mình cao hơn khoảng ba phần mười; mức này rõ hơn ở người từ 65 tuổi trở xuống. Đây đều là kết quả theo dõi quan sát, cũng có thể người vốn sức khỏe kém dễ sống một mình hơn.",
+    "benefit": "Kết quả gộp từ 70 nghiên cứu ghi nhận tình trạng ban đầu rồi theo dõi về sau, tức phân tích gộp, với tổng cộng 340 vạn người tham gia, theo dõi trung bình 7 năm. Cách biệt xã hội, cảm giác cô đơn và sống một mình đều liên quan đến tỷ lệ tử vong cao hơn. Sau khi điều chỉnh các yếu tố gây nhiễu như tuổi và tình trạng sức khỏe, tỷ số odds trung bình có trọng số lần lượt là: cách biệt xã hội 1.29, cô đơn 1.26, sống một mình 1.32. Theo cách quy đổi trong nguồn, khả năng tử vong cùng kỳ lần lượt cao hơn khoảng ba phần mười, một phần tư và ba phần mười. Độ lớn tác dụng của ba yếu tố gần nhau và lớn hơn ở người từ 65 tuổi trở xuống so với người cao tuổi.",
+    "notes": "Còn tranh luận. Đây đều là mối liên hệ ghi nhận qua theo dõi quần thể, không phải thử nghiệm chia nhóm đối chứng nên chưa tách được nguyên nhân và kết quả. Người vốn sức khỏe kém dễ sống một mình và ít giao tiếp hơn. Tác giả coi quan hệ xã hội là yếu tố sức khỏe cùng cỡ với hút thuốc và béo phì, nhưng chưa có thử nghiệm ngẫu nhiên chứng minh “tăng giao tiếp xã hội làm giảm tỷ lệ tử vong”. Điều này không mâu thuẫn với lời khuyên “giảm những mối quan hệ làm bạn hao tổn” ở chương 3: mục đó loại bỏ quan hệ khiến bạn kiệt sức, còn ở đây là giữ những quan hệ giúp bạn phục hồi tinh thần và sức lực.",
+    "extra": ""
+  }
+}

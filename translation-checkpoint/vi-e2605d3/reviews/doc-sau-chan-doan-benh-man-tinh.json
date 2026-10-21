@@ -1,0 +1,15 @@
+{
+  "id": "doc-sau-chan-doan-benh-man-tinh",
+  "source_sha256": "240fb529fdbfc172cb03a67c5b8ad16040661b53ab8827eaf88d1d8704d55e64",
+  "draft_sha256": "3b68a9dc8d7fefbc5ea14e59391474bf49f5e6d202518181114fa9e0d3356451",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independently compared the entire source and Vietnamese checklist: three chronological sections, all 37 actions and cross-references. Re-read final changes after author freeze: week-one gout treatment requires tophi, imaging bone damage or at least2 attacks/year; infrequent attacks require discussion with physician. Stable-stage continuation applies to people already using long-term urate-lowering medication and preserves do-not-self-stop qualification. Literal source at-least2 and at-most360 µmol/L retained. No independent clinical update added. One soft line break in family-coinsurance item is nonsemantic; full text and reference remain."
+}

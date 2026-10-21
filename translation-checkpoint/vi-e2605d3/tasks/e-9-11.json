@@ -1,0 +1,35 @@
+{
+  "id": "e-9-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "8e659120de067d1961d048cf59f786f6b0d112c24b237f3aa68ca832f24ed386",
+  "original": {
+    "number": 11,
+    "title": "买了无人机先实名登记，机场、军事区和城市管制空域不飞，不破解限高",
+    "fields": {
+      "cost": "实名登记不花钱，几分钟就办完。每次起飞前，用官方渠道查一下要飞的这块地方是不是管制空域。",
+      "plain": "没实名登记就飞，罚 200 元以下，情节严重的罚 2000 到 2 万元。没批准在管制空域飞，罚 500 元以下，情节严重的没收无人机，再罚 1000 到 1 万元。情节较重的还能拘留 5 到 10 日。有人花钱破解限高，飞到近 3000 米拍云层发到网上，被拘留 5 日。",
+      "benefit": "没做实名登记就飞的，责令改正，还可以罚 200 元以下，情节严重的罚 2000 到 2 万元。没批准就在管制空域飞微型、轻型、小型无人机的，责令停止飞行，还可以罚 500 元以下。这一项里情节严重的，没收无人机，并罚 1000 到 1 万元。违反空域管理规定飞行、情节较重的，拘留 5 到 10 日。官方案例：李某某付费破解限高，把无人机飞到近 3000 米拍云层并发布，拘留 5 日。张某某替人破解限高和禁飞区限制 20 余台次，赚了 1.5 万余元。他被以提供侵入、非法控制计算机信息系统程序、工具罪定罪。判 6 个月，缓刑 1 年，并处罚金（全国，2024 年 1 月起）",
+      "grade": "A",
+      "sources": "国务院、中央军委 (2023). 无人驾驶航空器飞行管理暂行条例（国令第 761 号，第十、十九、四十七、五十一条）. <https://www.gov.cn/zhengce/content/202306/content_6888799.htm>；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第四十六条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；湖北省公安厅 (2026). 公安部公布依法打击无人机「黑飞」违法犯罪八起典型案例（转载人民公安报）. <http://gat.hubei.gov.cn/bmdt/gayw/202602/t20260205_5870949.shtml>",
+      "notes": "微型和轻型无人机在适飞空域飞，不用批准。微型指空机重量小于 0.25 千克的那种。适飞空域就是管制空域以外的地方，而机场、军事设施、政府机关周边多半属于管制空域。公安部的原文页面本节写作时打不开，所以引用的是湖北省公安厅的转载页。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mua máy bay không người lái thì đăng ký danh tính thật trước; không bay ở sân bay, khu quân sự, vùng trời kiểm soát trong đô thị, không bẻ khóa giới hạn độ cao",
+    "cost": "Đăng ký danh tính thật không tốn tiền, vài phút là xong. Trước mỗi lần cất cánh, kiểm tra qua kênh chính thức xem nơi định bay có thuộc vùng trời kiểm soát không.",
+    "plain": "Bay khi chưa đăng ký danh tính thật bị phạt không quá 200 nhân dân tệ; tình tiết nghiêm trọng thì từ 2000 đến 2 vạn nhân dân tệ. Bay trong vùng trời kiểm soát khi chưa được phép bị phạt không quá 500 nhân dân tệ; tình tiết nghiêm trọng thì tịch thu máy bay và phạt thêm từ 1000 đến 1 vạn nhân dân tệ. Tình tiết nặng hơn còn có thể bị tạm giữ hành chính từ 5 đến 10 ngày. Có người trả tiền bẻ khóa giới hạn độ cao, bay lên gần 3000 mét quay mây rồi đăng mạng, bị tạm giữ hành chính 5 ngày.",
+    "benefit": "Bay khi chưa đăng ký danh tính thật thì bị yêu cầu khắc phục, còn có thể bị phạt không quá 200 nhân dân tệ; tình tiết nghiêm trọng thì phạt từ 2000 đến 2 vạn nhân dân tệ. Bay máy bay không người lái siêu nhỏ, loại nhẹ, loại nhỏ trong vùng trời kiểm soát khi chưa được phép thì bị yêu cầu ngừng bay, còn có thể bị phạt không quá 500 nhân dân tệ. Với hành vi này, tình tiết nghiêm trọng thì tịch thu máy bay và phạt từ 1000 đến 1 vạn nhân dân tệ. Bay trái quy định quản lý vùng trời, có tình tiết nặng hơn thì bị tạm giữ hành chính từ 5 đến 10 ngày. Vụ việc chính thức: một người họ Lý trả tiền bẻ khóa giới hạn độ cao, cho máy bay lên gần 3000 mét quay mây rồi đăng, bị tạm giữ hành chính 5 ngày. Một người họ Trương bẻ khóa giới hạn độ cao và khu vực cấm bay giúp người khác hơn 20 lượt máy, kiếm hơn 1.5 vạn nhân dân tệ. Người này bị kết tội cung cấp chương trình, công cụ xâm nhập, kiểm soát trái phép hệ thống thông tin máy tính, bị phạt tù 6 tháng, cho hưởng án treo với thời gian thử thách 1 năm và phạt tiền (toàn Trung Quốc, từ tháng 1 năm 2024).",
+    "notes": "Máy bay không người lái siêu nhỏ và loại nhẹ bay trong vùng trời được phép bay thì không cần xin phê duyệt. Loại siêu nhỏ là loại có khối lượng máy không tải dưới 0.25 kilôgam. Vùng trời được phép bay là khu vực ngoài vùng trời kiểm soát; xung quanh sân bay, cơ sở quân sự, cơ quan chính quyền phần lớn thuộc vùng trời kiểm soát. Khi viết chương này không mở được trang nguyên văn của Bộ Công an nên dẫn trang đăng lại của Sở Công an tỉnh Hồ Bắc.",
+    "extra": ""
+  }
+}

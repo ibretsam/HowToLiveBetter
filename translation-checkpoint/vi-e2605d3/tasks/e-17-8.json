@@ -1,0 +1,35 @@
+{
+  "id": "e-17-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "682401f2eab6612d6be8bad263f2267dc0b6b350288479933467d8c44363c74c",
+  "original": {
+    "number": 8,
+    "title": "家里有人长期卧床，把压疮当头号敌人：上电动气垫床、定时翻身、每天看一遍骨头突出的地方",
+    "fields": {
+      "cost": "家用电动交替压力气垫床，几百元起。翻一次身只要几分钟。难的是每隔两三小时就得翻一次，夜里也不停，一个人扛不下来",
+      "plain": "髋部骨折开刀前就有压疮的老人，30 天内去世的可能性高约两成。换电动气垫床，新长压疮的少约六成。ICU 里靠传感器提醒把按时翻身做到位，少约七成，让人趴着的压疮反而多得多。每天看一遍骶尾、足跟、髋部、肩背，发现压了不褪的红，当天找护士或医生。",
+      "benefit": "19520 例髋部骨折手术患者（美国 NSQIP 2016 至 2019 年）。开刀前就有压疮的人，30 天内死亡的比例更高。把其他因素算进去之后，这个关联仍然成立（OR 1.2，几率增加 21%，P=0.004）。这些人还更容易出别的问题：深静脉血栓（OR 1.59）、肺炎（OR 1.39）、非计划再住院（OR 1.43）。平均住院日也多 0.4 天。324 名住院老人（平均 86 岁）随访中位 18 个月。压疮能单独预测长期死亡（HR 1.500，95% CI 1.059 至 2.126，P=0.020）。单独预测的意思是，把别的因素排掉之后，它自己就能预测。65 项随机试验放在一起算（网络荟萃分析）。比的是电动主动气流支撑面和标准病床垫（标准病床支撑面）。电动主动气流支撑面就是电动气垫床这一类。用它的人压疮发生率更低（RR 0.42，95% CI 0.29 至 0.63，中等确定性）。电动混合气流支撑面是 RR 0.22（0.07 至 0.66）。11 项试验 4462 人的 Cochrane 综述（2026 年更新）。2 小时翻一次和 4 小时翻一次比，差别说不清（RR 1.05，95% CI 0.79 至 1.39，确定性极低）。其他翻身间隔之间的比较，同样极不确定。1226 名 ICU 患者的试验里，用可穿戴传感器实时提醒并给出视觉警示，把 2 小时翻一次真正落实下来。压疮发生率低于常规护理（RR 0.28，95% CI 0.10 至 0.75，中等确定性）。116 人的试验中，俯卧位（趴着）那组的压疮发生率高于仰卧位（平躺）那组（RR 4.55，95% CI 2.31 至 8.98）",
+      "grade": "B",
+      "sources": "Porter SB, Pla R, Chow JH, et al. (2022). Preoperative Pressure Ulcers, Mortality, and Complications in Older Hip Fracture Surgery Patients. JAAOS Global Research & Reviews, 6(11). <https://doi.org/10.5435/JAAOSGlobal-D-22-00117>；Ottaviani S, Rondanina E, Longo E, 等 (2026). Impact of pressure ulcers and frailty on long-term mortality: a prospective cohort study of hospitalized older adults. European Geriatric Medicine, 17(2), 665-672. <https://doi.org/10.1007/s41999-025-01331-8>；Shi C, Dumville JC, Cullum N (2018). Support surfaces for pressure ulcer prevention: A network meta-analysis. PLoS ONE, 13(2), e0192707. <https://doi.org/10.1371/journal.pone.0192707>；Latimer SL, Chaboyer WP, Probst S, 等 (2026). Repositioning for pressure injury prevention in adults. Cochrane Database of Systematic Reviews, 6, CD009958. <https://doi.org/10.1002/14651858.CD009958.pub4>",
+      "notes": "给 B 的原因有三条。一是死亡率那两项研究只看到「有压疮的人后来处境更差」，这不等于「防住压疮就能把死亡率降下来」。二是翻身间隔那几项随机试验的结论很不牢靠。三是气垫床那条证据要硬一些，但研究里比的是医院病床的垫子，套到家用床垫上属于往外推。每天查骶尾、足跟、髋部、肩背，看有没有「压下去不褪色的红」，这是护理的常规做法，没有单独的文献。长期护理保险能报的照护服务，见本节第 7 条。突然一条腿肿起来，按深静脉血栓处理，见第 13 节第 11 条。因坠落或重伤长期卧床的那一段，见第 1 节第 34 条"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trong nhà có người nằm liệt giường lâu ngày, hãy coi loét do tì đè là mối lo hàng đầu: dùng đệm khí chạy điện, trở mình định kỳ, mỗi ngày kiểm tra vùng xương nhô",
+    "cost": "Đệm khí áp lực luân phiên chạy điện dùng tại nhà giá từ vài trăm tệ. Mỗi lần trở mình chỉ mất vài phút. Khó ở chỗ cứ hai ba giờ phải trở một lần, cả ban đêm, một người không gánh nổi.",
+    "plain": "Người cao tuổi gãy vùng háng đã có loét do tì đè trước mổ có khả năng tử vong trong 30 ngày cao hơn khoảng hai phần mười. Đổi sang đệm khí chạy điện thì loét mới giảm khoảng sáu phần mười. Trong ICU, dùng cảm biến nhắc để thực sự trở mình đúng giờ giúp giảm khoảng bảy phần mười; người nằm sấp lại bị loét nhiều hơn hẳn. Mỗi ngày kiểm tra vùng cùng cụt, gót chân, hông, vai lưng; thấy vùng đỏ không mất màu khi ấn thì tìm y tá hoặc bác sĩ trong ngày.",
+    "benefit": "19520 bệnh nhân phẫu thuật gãy vùng háng (NSQIP Mỹ, từ 2016 đến 2019). Người đã có loét do tì đè trước mổ có tỷ lệ tử vong trong 30 ngày cao hơn. Sau khi tính các yếu tố khác, mối liên hệ vẫn còn (OR 1.2, odds tăng 21%, P=0.004). Họ cũng dễ gặp các vấn đề khác hơn: huyết khối tĩnh mạch sâu (OR 1.59), viêm phổi (OR 1.39), nhập viện lại ngoài kế hoạch (OR 1.43). Thời gian nằm viện trung bình cũng dài hơn 0.4 ngày. Theo dõi 324 người cao tuổi nằm viện, tuổi trung bình 86, trong thời gian trung vị 18 tháng. Loét do tì đè dự báo độc lập tử vong dài hạn (HR 1.500, 95% CI từ 1.059 đến 2.126, P=0.020). Dự báo độc lập nghĩa là sau khi loại ảnh hưởng của yếu tố khác, bản thân nó vẫn dự báo được. Tổng hợp 65 thử nghiệm ngẫu nhiên (phân tích gộp mạng lưới), so sánh bề mặt nâng đỡ khí hoạt động bằng điện với đệm giường bệnh tiêu chuẩn (bề mặt nâng đỡ giường bệnh tiêu chuẩn). Bề mặt khí hoạt động bằng điện là loại như đệm khí chạy điện. Người dùng có tỷ lệ loét do tì đè thấp hơn (RR 0.42, 95% CI từ 0.29 đến 0.63, độ chắc chắn trung bình). Bề mặt nâng đỡ khí hỗn hợp chạy điện có RR 0.22 (từ 0.07 đến 0.66). Tổng quan Cochrane gồm 11 thử nghiệm với 4462 người, cập nhật năm 2026: so sánh trở mình mỗi 2 giờ với mỗi 4 giờ thì chưa rõ khác biệt (RR 1.05, 95% CI từ 0.79 đến 1.39, độ chắc chắn cực thấp). So sánh các khoảng trở mình khác cũng cực kỳ không chắc chắn. Trong thử nghiệm trên 1226 bệnh nhân ICU, dùng cảm biến đeo trên người nhắc theo thời gian thực, cảnh báo trực quan để thực sự thực hiện trở mình mỗi 2 giờ. Tỷ lệ loét thấp hơn chăm sóc thông thường (RR 0.28, 95% CI từ 0.10 đến 0.75, độ chắc chắn trung bình). Trong thử nghiệm 116 người, nhóm nằm sấp có tỷ lệ loét cao hơn nhóm nằm ngửa (RR 4.55, 95% CI từ 2.31 đến 8.98).",
+    "notes": "Có ba lý do xếp mức B. Thứ nhất, hai nghiên cứu tử vong chỉ thấy ‘người có loét sau đó có kết cục xấu hơn’, không có nghĩa ‘ngăn được loét sẽ giảm tử vong’. Thứ hai, kết luận các thử nghiệm ngẫu nhiên về khoảng trở mình rất thiếu chắc chắn. Thứ ba, bằng chứng về đệm khí vững hơn, nhưng nghiên cứu so sánh đệm giường bệnh trong bệnh viện; áp dụng cho đệm tại nhà là suy rộng. Kiểm tra vùng cùng cụt, gót chân, hông, vai lưng mỗi ngày xem có ‘vùng đỏ không mất màu khi ấn’ là thực hành chăm sóc thường quy, không có tài liệu riêng. Dịch vụ chăm sóc được bảo hiểm chăm sóc dài hạn thanh toán xem mục 7 chương này. Đột ngột sưng một chân thì xử lý theo hướng huyết khối tĩnh mạch sâu, xem chương 13 mục 11. Giai đoạn nằm liệt giường lâu ngày do ngã từ trên cao hoặc thương tích nặng xem chương 1 mục 34.",
+    "extra": ""
+  }
+}

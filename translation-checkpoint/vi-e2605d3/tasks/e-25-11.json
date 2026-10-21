@@ -1,0 +1,35 @@
+{
+  "id": "e-25-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/25-人走了以后要办什么.md",
+  "source_sha256": "778bdf5bff75d0ca2a1681bc9d42449d1651a33f8d8ab0536b6c94b8341b9e7d",
+  "original": {
+    "number": 11,
+    "title": "亲人去世留下欠债，继承人只用继承到的遗产去还；不想担就在分遗产前书面声明放弃继承",
+    "fields": {
+      "cost": "写一份书面声明不花钱。真正的代价是房子、存款这些遗产也一起放弃了。接受继承的，债主可能起诉你，要应诉、要拿得出遗产值多少的材料。",
+      "plain": "人走了，欠的债不会跟着没了。但子女、配偶这些继承人，只用继承到的那份遗产去还，不够的部分不用自己掏。不想沾这笔债，就在分遗产之前写书面声明放弃继承，遗产也就一起不要了。不吭声就算接受继承。",
+      "benefit": "民法典第一千一百六十一条：「继承人以所得遗产实际价值为限清偿被继承人依法应当缴纳的税款和债务。超过遗产实际价值部分，继承人自愿偿还的不在此限」。意思是：他欠的税和债，你只用继承到的那份遗产去还。超出的部分不用还，你自己愿意还的除外。同一条第二款：「继承人放弃继承的，对被继承人依法应当缴纳的税款和债务可以不负清偿责任」。民法典第一千一百五十九条说，分遗产要先还他欠的税和债。民法典第一千一百二十四条：放弃继承的，要「在遗产处理前，以书面形式作出放弃继承的表示；没有表示的，视为接受继承」。最高法继承编解释（一）第三十三条：书面声明交给遗产管理人或者其他继承人。该解释第三十五条：遗产分割以后再说放弃，放弃的就不是继承权，而是已经到手的财产。民法典第一千一百四十五条：继承人可以推选遗产管理人，没推选的就一起当。民法典第一千一百四十七条：遗产管理人要清点遗产、做遗产清单，处理他的债权债务。河南禹州一案，借款人 2023 年 3 月病故，子女没有书面放弃继承。2023 年 5 月，法院判子女在继承遗产的实际价值范围内还 9.5 万元本金和利息。子女说继承的公司值多少算不清，判决执行不下去。子女名下的账户和车被冻结查封，人也被列进限制高消费名单。拖到 2025 年 2 月才和解，付了 9 万元。重庆一案，借款人欠着一笔 40 万元借款的本息没还清就病故，继承人都声明放弃继承。可他的配偶和女儿已经取走了算作他遗产的基本养老保险金和职业年金。检察机关认定两人没有明示放弃，视为接受继承，2025 年 11 月配偶和债主和解还清。这类债务在万元到几十万元，收益因此定为大",
+      "grade": "A",
+      "sources": "全国人大 (2020). 中华人民共和国民法典（第一千零六十四、一千一百二十四、一千一百四十五、一千一百四十七、一千一百五十三、一千一百五十九、一千一百六十一条）. <https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf>；最高人民法院 (2020). 关于适用《中华人民共和国民法典》继承编的解释（一）（法释〔2020〕23 号，第三十二、三十三、三十五条）. <https://www.court.gov.cn/fabu/xiangqing/282091.html>；全国人大常委会 (2023 修正). 民事诉讼法（第一百五十二、一百六十四条）. <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>（上海市发展改革委转载）；国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、二十九条）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6929.htm>；宋文涛（河南省禹州市人民检察院）(2025-05-23). 典亮生活 守护美好｜借款人突然去世，欠下的债不是「无头账」. 检察日报，最高人民检察院网站刊登. <https://www.spp.gov.cn/spp/zdgz/202505/t20250523_696425.shtml>；重庆市人民检察院 (2026-05-23). 【案说民法典】邓川：继承遗产，也须以所得遗产为限清偿债务. <http://www.cq.jcy.gov.cn/jcdt/202605/t20260523_7740396.shtml>",
+      "notes": "受益人主要是你自己和配偶子女。配偶要另算。两人一起签字借的、为家里日常开销借的，算夫妻共同债务。这时配偶本人就是欠债的人，放弃继承也躲不掉。分遗产时还要先把夫妻共同财产的一半分给配偶，剩下的才是遗产。打算放弃的，先别去取他账户里的钱。本节第 9 条（公积金余额、社保待遇）说的公积金余额、养老保险个人账户余额，都是继承人才能取的钱。重庆那件案子就是取了钱又说放弃。放弃继承会让你没法尽赡养、抚养这些法定义务的，放弃无效。催收找上门，先要借条、合同这些凭据，让对方找遗产管理人或者去起诉。超出遗产的那部分，别签还款承诺，因为你自己愿意还的，法律也认。真被起诉，一审普通程序按规定从立案起 6 个月内审完，可以延长，简易程序是 3 个月。律师费不在败诉方负担的诉讼费里，请律师要自己出。遗产清单和房子、存款值多少的材料要留好，执行时要靠它算你该还多少。拿死还债为什么不通，见第 29 节第 13 条（别拿死当还债）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Người thân mất để lại nợ, người thừa kế chỉ trả trong phần di sản nhận được; không muốn chịu thì tuyên bố bằng văn bản từ chối thừa kế trước khi chia",
+    "cost": "Viết tuyên bố không tốn tiền. Cái giá thật là từ bỏ luôn nhà, tiền gửi và các di sản khác. Nhận thừa kế thì chủ nợ có thể kiện bạn; cần tham gia vụ kiện và có tài liệu chứng minh giá trị di sản.",
+    "plain": "Người mất không làm nợ tự biến mất. Nhưng người thừa kế như con, vợ hoặc chồng chỉ trả trong phần di sản nhận được, thiếu thì không phải tự bỏ tiền bù. Không muốn liên quan khoản nợ thì tuyên bố bằng văn bản từ chối thừa kế trước khi chia, đồng thời không nhận di sản. Im lặng được coi là chấp nhận thừa kế.",
+    "benefit": "Điều một nghìn một trăm sáu mươi mốt Bộ luật Dân sự: ‘Người thừa kế thanh toán thuế và nợ mà người để lại di sản có nghĩa vụ trả theo luật trong giới hạn giá trị thực tế của di sản nhận được. Phần vượt giá trị di sản mà người thừa kế tự nguyện trả không chịu giới hạn này’. Nghĩa là chỉ dùng phần di sản nhận được để trả thuế, nợ; không phải trả phần vượt, trừ khi tự muốn trả. Khoản hai cùng điều: ‘Người từ chối thừa kế có thể không chịu trách nhiệm thanh toán thuế và nợ mà người để lại di sản phải trả theo luật’. Điều một nghìn một trăm năm mươi chín nói chia di sản phải trả thuế, nợ trước. Điều một nghìn một trăm hai mươi bốn: từ chối phải ‘thể hiện bằng văn bản trước khi xử lý di sản; không thể hiện thì coi là chấp nhận thừa kế’. Điều ba mươi ba Giải thích phần thừa kế của Tòa án Nhân dân Tối cao (một) yêu cầu giao tuyên bố cho người quản lý di sản hoặc người thừa kế khác. Điều ba mươi lăm nói sau khi chia mới từ bỏ thì không còn là từ bỏ quyền thừa kế mà là tài sản đã nhận. Điều một nghìn một trăm bốn mươi lăm Bộ luật Dân sự: người thừa kế có thể chọn người quản lý di sản; không chọn thì cùng quản lý. Điều một nghìn một trăm bốn mươi bảy: người quản lý phải kiểm kê, lập danh sách di sản và xử lý quyền đòi nợ, nghĩa vụ trả nợ của người mất. Trong vụ ở Vũ Châu, Hà Nam, người vay mất do bệnh tháng 3 năm 2023, các con không từ chối thừa kế bằng văn bản. Tháng 5 năm 2023, tòa buộc các con trả gốc 9.5 vạn nhân dân tệ và lãi trong giới hạn giá trị thực tế di sản. Các con nói không tính rõ giá trị công ty được thừa kế, khiến bản án không thi hành được. Tài khoản, xe đứng tên các con bị phong tỏa, kê biên; họ còn bị đưa vào danh sách hạn chế tiêu dùng cao. Đến tháng 2 năm 2025 mới hòa giải, trả 9 vạn nhân dân tệ. Vụ ở Trùng Khánh, người vay mất do bệnh khi chưa trả hết gốc và lãi khoản vay 40 vạn; tất cả người thừa kế tuyên bố từ chối. Nhưng vợ hoặc chồng và con gái đã rút tiền bảo hiểm hưu trí cơ bản, niên kim nghề nghiệp được tính là di sản. Cơ quan kiểm sát xác định hai người không thể hiện rõ từ chối, nên coi là nhận thừa kế; tháng 11 năm 2025, người phối ngẫu hòa giải với chủ nợ và trả hết. Nợ loại này từ một vạn đến hàng chục vạn nhân dân tệ, nên lợi ích xếp lớn.",
+    "notes": "Người hưởng lợi chủ yếu là bạn cùng vợ hoặc chồng và con. Vợ chồng phải tính riêng: nợ cùng ký vay hoặc vay cho chi tiêu thường ngày của gia đình là nợ chung. Khi đó người phối ngẫu cũng là người mắc nợ, từ chối thừa kế không tránh được. Chia di sản phải tách một nửa tài sản chung cho người phối ngẫu trước, phần còn lại mới là di sản. Định từ chối thì đừng vội rút tiền trong tài khoản người mất. Số dư quỹ nhà ở, tài khoản bảo hiểm hưu trí cá nhân ở mục 9 chỉ người thừa kế mới rút được. Vụ Trùng Khánh chính là rút tiền rồi mới nói từ chối. Từ chối khiến bạn không thực hiện được nghĩa vụ luật định như phụng dưỡng, nuôi dưỡng thì việc từ chối vô hiệu. Người đòi nợ đến thì yêu cầu giấy vay, hợp đồng làm bằng chứng, đề nghị họ tìm người quản lý di sản hoặc khởi kiện. Đừng ký cam kết trả phần vượt di sản, vì tự nguyện trả thì luật cũng công nhận. Thực sự bị kiện, sơ thẩm theo thủ tục thông thường phải xét xong trong 6 tháng từ khi thụ lý, có thể kéo dài; thủ tục đơn giản là 3 tháng. Phí luật sư không thuộc án phí do bên thua chịu; thuê luật sư phải tự trả. Giữ danh sách di sản và tài liệu giá trị nhà, tiền gửi, vì khi thi hành cần dựa vào đó tính phần phải trả. Vì sao dùng cái chết để trả nợ không được, xem chương 29 mục 13 về đừng coi cái chết là cách trả nợ.",
+    "extra": ""
+  }
+}

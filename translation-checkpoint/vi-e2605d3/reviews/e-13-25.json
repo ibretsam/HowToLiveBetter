@@ -1,0 +1,15 @@
+{
+  "id": "e-13-25",
+  "source_sha256": "15f56dc80b51db1118a5496c7fafc7b539ae792288a8f0e53bdebab1e5a49679",
+  "draft_sha256": "28f98f726c818dfc6f0d9a1eb7fd1b73fb6be0f012650723bcd573a2bbba87ad",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves trained-rescuer ventilation plus compression, continuous compression when unable/unwilling/untrained to ventilate, dispatcher guidance, non-entry rescue, all WHO counts and ages, and source evidence-grade limitations."
+}

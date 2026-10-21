@@ -1,0 +1,36 @@
+{
+  "id": "e-17-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/17-家里有老人.md",
+  "source_sha256": "c1d207568e1ed44d837690d54d043a401ab40a0a179570d885601dce577716a6",
+  "original": {
+    "number": 10,
+    "title": "家里老人遛狗，把牵绳握在手心、别缠在手上，绳子收短，狗先训练到牵着不往前猛冲",
+    "fields": {
+      "cost": "握绳和收短绳子不花钱，陪老人走一趟、教一遍就行。训练狗不往前冲要花时间，自己教或者请训犬师都行，请人要花钱，各地价格差很多。难在老人用惯了伸缩绳、习惯把绳子绕在手腕上，要让他改。",
+      "plain": "美国 65 岁以上的人遛狗摔骨折，2004 年约 1700 人，2017 年约 4400 人。八成是女性，近三成要住院，按单个部位算髋部骨折最多。一家手外科门诊的狗绳伤手病人，约四分之三是绳子缠手、狗一拽造成的。所以绳子握在手心、收短，狗训练到不往前冲。",
+      "benefit": "美国急诊监测数据按全国推算了 65 岁以上的人牵狗散步摔骨折的人数。2004 年约 1671 人，2017 年约 4396 人，涨幅有统计学意义。骨折的人里 78.6% 是女性，28.7% 要住院。按单个部位算，髋部最多，占 17.3%。按大类算，上肢最多，占 52.1%。另一份全美急诊数据看的是 2001 到 2018 年。和狗绳有关的受伤，推算约 36 万人次（精确值 356746）。其中 193483 人次是被狗拽伤，136767 人次是被绊倒或被绳子缠住。每百万人里的受伤数，从 25.4 涨到 105.5。一家手外科门诊 5 年里收了 443 名被狗绳伤到手的病人。约四分之三是手或手指被绳子缠住、狗一拽受的伤（摘要写 337 人，75.9%）。约五分之一要动手术（96 人，21.6%）。美国疾控中心统计，2001 到 2006 年每年约 86629 人次跌倒受伤和猫狗有关。其中 88.0% 和狗有关。和狗有关的跌倒里，26% 发生在遛狗时，21.2% 是被狗推倒或拽倒",
+      "grade": "B",
+      "sources": "Pirruccio K, Yoon YM, Ahn J (2019). Fractures in Elderly Americans Associated With Walking Leashed Dogs. JAMA Surgery, 154(5), 458-459. <https://doi.org/10.1001/jamasurg.2019.0061>；Forrester MB (2020). Dog leash-related injuries treated at emergency departments. American Journal of Emergency Medicine, 38(9), 1782-1786. <https://doi.org/10.1016/j.ajem.2020.05.082>；Plusch K, Givner D, Wiafe B, Lutsky K, Beredjiklian P (2026). Hand and Wrist Dog-Leash Injuries in the Outpatient Setting: A Review of 443 Cases. Hand, 21(4), 582-586. <https://doi.org/10.1177/15589447241299128>；CDC (2009). Nonfatal fall-related injuries associated with dogs and cats — United States, 2001-2006. MMWR, 58(11), 277-281. <https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5811a1.htm>；Rosa R, Buckley RE (2024). Leash-related injuries associated with dog walking: an understudied risk for dog owners? Journal of the American Veterinary Medical Association, 262(7), 973-978. <https://doi.org/10.2460/javma.23.11.0608>",
+      "notes": "绳子握在手心、别缠在手上，是那家手外科门诊的医生给的建议。他们写明，这样护的是手指和手腕，防不住狗猛冲时把人拽倒。他们还建议绳子收短：绳短，狗冲不起速度，拽人那一下就轻；绳长，还容易绕住东西把人绊倒。伸缩绳放长了就是长绳。但没有研究专门比过伸缩绳和普通绳哪种更容易摔，2024 年一篇综述写明受伤时用的什么绳没有数据。训练狗牵着不往前冲，美国疾控中心和骨折那篇的作者都提了。骨折那篇还建议，正在考虑养狗的老人挑小一点的狗。这些做法能少摔多少，没有研究算过，所以收益量级凭判断定为小。骨头经不经得起摔，见第 1 节第 39 条（骨密度检查）和第 1 节第 40 条（查出骨质疏松就用药）。平时练平衡见第 1 节第 13 条（平衡和腿部力量）。遛狗能不能当锻炼，见第 2 节第 44 条（遛狗算进走路量）。受益人主要是你的父母和祖父母。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "小",
+      "口径": "死亡率",
+      "人群": "老人,60岁"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Người cao tuổi trong nhà dắt chó thì nắm dây trong lòng bàn tay, đừng quấn quanh tay, giữ dây ngắn và huấn luyện chó trước để không lao mạnh về phía trước khi được dắt",
+    "cost": "Nắm và thu ngắn dây không mất tiền; đi cùng người cao tuổi một chuyến, hướng dẫn một lượt là được. Huấn luyện chó không lao về trước cần thời gian, có thể tự dạy hoặc thuê người huấn luyện; thuê thì tốn tiền, giá từng nơi khác nhiều. Khó ở chỗ người cao tuổi đã quen dây rút và quấn dây quanh cổ tay, phải giúp họ đổi thói quen.",
+    "plain": "Ở Mỹ, người từ 65 tuổi trở lên ngã gãy xương khi dắt chó năm 2004 khoảng 1700 người, năm 2017 khoảng 4400 người. Tám phần mười là phụ nữ, gần ba phần mười phải nhập viện; xét từng bộ phận thì gãy vùng háng nhiều nhất. Trong bệnh nhân chấn thương bàn tay do dây dắt chó tại một phòng khám ngoại bàn tay, khoảng ba phần tư do dây quấn tay rồi chó giật. Vì vậy, hãy nắm dây trong lòng bàn tay, thu ngắn dây, huấn luyện chó không lao về trước.",
+    "benefit": "Dữ liệu giám sát cấp cứu Mỹ ước tính trên toàn quốc số người từ 65 tuổi trở lên ngã gãy xương khi dắt chó đi bộ. Năm 2004 khoảng 1671 người, năm 2017 khoảng 4396 người; mức tăng có ý nghĩa thống kê. Trong người gãy xương, 78.6% là phụ nữ, 28.7% phải nhập viện. Xét từng bộ phận, vùng háng nhiều nhất, chiếm 17.3%. Xét nhóm lớn, chi trên nhiều nhất, chiếm 52.1%. Một bộ dữ liệu cấp cứu toàn Mỹ khác xét giai đoạn 2001 đến 2018. Ước tính khoảng 36 vạn lượt chấn thương liên quan dây dắt chó (giá trị chính xác 356746). Trong đó 193483 lượt bị chó kéo gây thương tích, 136767 lượt bị vấp hoặc vướng dây. Số chấn thương trên mỗi triệu người tăng từ 25.4 lên 105.5. Một phòng khám ngoại bàn tay trong 5 năm tiếp nhận 443 bệnh nhân bị dây dắt chó làm chấn thương bàn tay. Khoảng ba phần tư do dây quấn bàn tay hoặc ngón tay rồi chó giật gây thương tích (tóm tắt ghi 337 người, 75.9%). Khoảng một phần năm cần phẫu thuật (96 người, 21.6%). Trung tâm Kiểm soát và Phòng ngừa dịch bệnh Mỹ thống kê giai đoạn 2001 đến 2006, mỗi năm khoảng 86629 lượt chấn thương do ngã liên quan đến chó mèo. Trong đó 88.0% liên quan đến chó. Trong các vụ ngã liên quan chó, 26% xảy ra khi dắt chó, 21.2% do chó đẩy hoặc kéo ngã.",
+    "notes": "Nắm dây trong lòng bàn tay, không quấn quanh tay là lời khuyên của bác sĩ phòng khám ngoại bàn tay đó. Họ ghi rõ cách này bảo vệ ngón tay, cổ tay, không ngăn được chó lao mạnh kéo người ngã. Họ còn khuyên thu ngắn dây: dây ngắn khiến chó không tăng được tốc độ, cú giật nhẹ hơn; dây dài còn dễ quấn vào vật khác làm người vấp. Dây rút kéo dài cũng là dây dài. Nhưng chưa có nghiên cứu riêng so sánh dây rút với dây thường loại nào dễ làm ngã hơn; một tổng quan năm 2024 ghi rõ không có dữ liệu về loại dây dùng lúc chấn thương. Trung tâm Kiểm soát và Phòng ngừa dịch bệnh Mỹ và tác giả bài về gãy xương đều đề cập huấn luyện chó không lao về trước khi được dắt. Bài về gãy xương còn khuyên người cao tuổi đang cân nhắc nuôi chó chọn chó nhỏ hơn. Chưa có nghiên cứu tính các cách này giảm ngã bao nhiêu nên mức lợi ích được đánh giá là nhỏ theo nhận định. Xương có chịu được cú ngã không, xem chương 1 mục 39 (đo mật độ xương) và chương 1 mục 40 (phát hiện loãng xương thì dùng thuốc). Tập thăng bằng thường ngày xem chương 1 mục 13 (thăng bằng và sức mạnh chân). Dắt chó có tính là tập luyện được không, xem chương 2 mục 44 (tính dắt chó vào lượng đi bộ). Người hưởng lợi chủ yếu là cha mẹ và ông bà của bạn.",
+    "extra": ""
+  }
+}

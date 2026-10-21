@@ -1,0 +1,15 @@
+{
+  "id": "e-5-50",
+  "source_sha256": "c0dbaed6fc7709c46ab4669314d4973eb21bbc3f19df5e8a8a05059098406ee2",
+  "draft_sha256": "3189efbe6dcba9ca044132e8eaf358ef8005ead58ace39c3527df7970ea976dc",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved30day return,90day complaint,60day mediation distinct periods, consent exception,15tourists/6015/8220/13706/80000-CNY/30day case,800-CNY per person and >20000-CNY purchase. Ordinary6month first-instance extendable, mediation consensual; no guaranteed outcome added. No translation change; source generalization about supplementary consent agreements preserved."
+}

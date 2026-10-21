@@ -1,0 +1,36 @@
+{
+  "id": "e-20-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/20-刚出生的孩子怎么带.md",
+  "source_sha256": "835afaf28925dddf8d088d3b067c443dbb0f8eadcb82ab179884aacdd1b7baf6",
+  "original": {
+    "number": 4,
+    "title": "前 6 个月只喂母乳，连水都不用喂，6 个月起加辅食并继续母乳",
+    "fields": {
+      "cost": "不花钱，还省下奶粉钱。费的是时间，喂奶每天都要占掉不少。难在要一直喂下去，前 6 个月不能断",
+      "plain": "孩子出生后第一个小时里就开始喂奶。前 6 个月只喂母乳，连水都不用喂。满 6 个月起加辅食，每天要有含铁多的动物性食物，母乳接着喂到 2 岁或更久。母乳不够或者不能喂，就用配方奶。",
+      "benefit": "世界卫生组织的建议是「在出生后第一个小时内开始母乳喂养」。前 6 个月「纯母乳喂养，即不提供其他任何食物或液体，包括水」。然后「从 6 月龄起开始添加安全充足的辅食，同时继续母乳喂养到 2 岁或以上」。国家卫健委的服务指南也提倡 0 至 6 月龄纯母乳喂养。这份指南还要求满 6 月龄起「每天的辅食必须包含含铁丰富的动物性食物」",
+      "grade": "A",
+      "sources": "World Health Organization. Breastfeeding. <https://www.who.int/health-topics/breastfeeding>；国家卫生健康委办公厅 (2024). 婴幼儿营养喂养评估服务指南（试行）（国卫办妇幼函〔2024〕452 号）. <https://www.gov.cn/zhengce/zhengceku/202502/content_7002872.htm>",
+      "notes": "母乳不够，或者身体不允许喂，就用配方奶，不必内疚。喂母乳还是喂配方奶，差距远小于安全睡眠那条，这是作者的判断。加辅食的次数按卫健委那份服务指南：6 至 8 月龄每天 1 到 2 次，9 至 12 月龄每天 2 到 3 次。每天的辅食要从七类食物里选，不少于四类。孩子有重度湿疹或鸡蛋过敏时，花生要不要躲着，见本节第 12 条（别躲着花生）。妈妈吃素、想给孩子吃素的，见本节第 14 条（吃素就每天补维生素 B12）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "多",
+      "毅力": "是",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "婴幼儿,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cho bú mẹ hoàn toàn trong 6 tháng đầu, không cần cho uống cả nước; từ 6 tháng bắt đầu ăn dặm và tiếp tục bú mẹ",
+    "cost": "Không tốn tiền, còn tiết kiệm tiền sữa công thức. Tốn thời gian vì việc cho bú chiếm khá nhiều thời gian mỗi ngày. Khó là phải duy trì, không ngừng trong 6 tháng đầu.",
+    "plain": "Bắt đầu cho trẻ bú trong giờ đầu sau sinh. Trong 6 tháng đầu chỉ cho bú mẹ, không cần cho uống cả nước. Từ đủ 6 tháng bắt đầu ăn dặm, mỗi ngày cần có thực phẩm động vật giàu sắt, đồng thời tiếp tục bú mẹ đến 2 tuổi hoặc lâu hơn. Nếu không đủ sữa mẹ hoặc không thể cho bú thì dùng sữa công thức.",
+    "benefit": "Tổ chức Y tế Thế giới khuyến nghị “bắt đầu cho bú mẹ trong giờ đầu sau sinh”. Trong 6 tháng đầu, “bú mẹ hoàn toàn, nghĩa là không cung cấp bất kỳ thức ăn hay chất lỏng nào khác, kể cả nước”. Sau đó, “bắt đầu bổ sung thức ăn dặm an toàn và đầy đủ từ 6 tháng tuổi, đồng thời tiếp tục cho bú mẹ đến 2 tuổi hoặc lâu hơn”. Hướng dẫn dịch vụ của Ủy ban Y tế Quốc gia Trung Quốc cũng khuyến khích bú mẹ hoàn toàn từ 0 đến 6 tháng tuổi. Hướng dẫn này còn yêu cầu từ đủ 6 tháng tuổi, “thức ăn dặm hằng ngày phải bao gồm thực phẩm động vật giàu sắt”.",
+    "notes": "Nếu không đủ sữa mẹ hoặc sức khỏe không cho phép cho bú thì dùng sữa công thức, không cần cảm thấy có lỗi. Khác biệt giữa bú mẹ và bú sữa công thức nhỏ hơn nhiều so với việc ngủ an toàn; đây là nhận định của tác giả. Số lần ăn dặm theo hướng dẫn dịch vụ của Ủy ban Y tế Quốc gia: từ 6 đến 8 tháng tuổi mỗi ngày 1 đến 2 lần; từ 9 đến 12 tháng tuổi mỗi ngày 2 đến 3 lần. Mỗi ngày chọn thức ăn dặm từ bảy nhóm thực phẩm, không ít hơn bốn nhóm. Trẻ bị chàm nặng hoặc dị ứng trứng có nên tránh đậu phộng hay không, xem mục 12 của chương này (đừng tránh đậu phộng). Mẹ ăn chay hoặc muốn cho trẻ ăn chay thì xem mục 14 của chương này (ăn chay thì bổ sung vitamin B12 mỗi ngày).",
+    "extra": ""
+  }
+}

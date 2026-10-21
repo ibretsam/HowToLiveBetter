@@ -1,0 +1,36 @@
+{
+  "id": "e-1-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/01-不要早死.md",
+  "source_sha256": "812b2bb249622bb760eb55fa6285d26051997ebd817255a04908df1e803dc815",
+  "original": {
+    "number": 10,
+    "title": "坐车时给 4 岁以下儿童用安全座椅，不要抱在怀里",
+    "fields": {
+      "cost": "一个 300 到 2000 元，能用几年。每次上车多花 1 分钟把孩子绑好。",
+      "plain": "一岁以下的婴儿坐车时用安全座椅，车祸里受致命伤的概率低约七成。1 到 4 岁的孩子低约一半。抱在怀里没有这个效果。",
+      "benefit": "美国交通安全主管部门（NHTSA）估计，用安全座椅能让轿车里 1 岁以下婴儿受致命伤的风险下降 71%。1 到 4 岁的幼儿下降 54%。世界卫生组织（WHO）的口径是婴儿死亡下降 71%",
+      "grade": "A",
+      "sources": "NHTSA (2024). Occupant Protection in Passenger Vehicles: 2022 Data (DOT HS 813 573). <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813573> ; WHO (2025). Road traffic injuries fact sheet. <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>",
+      "notes": "按说明书把座椅固定好，装错等于没装。1 岁以下要反向安装，让孩子面朝车尾。上面的数字是美国官方拿事故数据估出来的。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,孩子,怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi đi ô tô, cho trẻ từ 4 tuổi trở xuống dùng ghế an toàn, đừng bế trong lòng",
+    "cost": "Một ghế giá 300 đến 2000 nhân dân tệ, dùng được vài năm. Mỗi lần lên xe thêm 1 phút để cài dây cho trẻ chắc chắn.",
+    "plain": "Trẻ từ một tuổi trở xuống dùng ghế an toàn khi đi ô tô có khả năng chấn thương gây tử vong trong tai nạn thấp hơn khoảng bảy phần mười. Trẻ 1 đến 4 tuổi thấp hơn khoảng một nửa. Bế trong lòng không có hiệu quả này.",
+    "benefit": "Cơ quan An toàn giao thông đường bộ Mỹ (NHTSA) ước tính ghế an toàn giúp nguy cơ chấn thương gây tử vong ở trẻ từ 1 tuổi trở xuống ngồi trong ô tô con giảm 71%, trẻ nhỏ 1 đến 4 tuổi giảm 54%. Theo cách tính của Tổ chức Y tế Thế giới (WHO), tử vong ở trẻ nhũ nhi giảm 71%.",
+    "notes": "Cố định ghế theo hướng dẫn, lắp sai tương đương không lắp. Trẻ từ 1 tuổi trở xuống phải lắp ghế ngược chiều, để trẻ quay mặt về đuôi xe. Các con số trên do cơ quan chính thức Mỹ ước tính từ dữ liệu tai nạn.",
+    "extra": ""
+  }
+}

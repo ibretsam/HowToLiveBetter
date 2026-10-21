@@ -1,0 +1,35 @@
+{
+  "id": "e-4-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "c53abd2f3878fa4fbefdcef11717974b8ee949ba90c0c3c51bd92c27052f9268",
+  "original": {
+    "number": 15,
+    "title": "给短视频和无目的刷屏设硬上限",
+    "fields": {
+      "cost": "不花钱。动作只要几分钟：关掉推送，删掉应用，或者给应用设一个每天的时间上限。难在管住手，忍住不点开。",
+      "plain": "2024 年中国人平均每天上网 5 小时 37 分，当天真上了网的人是 6 小时 3 分。2018 年按同样算法还只有 2 小时 42 分。这是本节里数字最大的一项。每天砍掉一小时，一年就多出 365 小时。",
+      "benefit": "中国居民上网每天平均 5 小时 37 分钟。只算当天真上了网的人，平均 6 小时 3 分钟。当天用过网的人占 92.9%。这些是 2024 年的数字。2018 年按同样算法只有 2 小时 42 分钟。这是本节里数字最大的一项。每天砍掉其中一小时，等于每年多出 365 小时。另据中国互联网络信息中心，到 2025 年 6 月，网民平均每周上网 30.6 小时，比半年前多 1.9 小时。短视频用户有 10.68 亿人，占网民的 95.1%。",
+      "grade": "C",
+      "sources": "国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>；中国互联网络信息中心 (2025). 第 56 次《中国互联网络发展状况统计报告》. <https://www.cnnic.net.cn/NMediaFile/2025/0730/MAIN1753846666507QEK67ZS9DH.pdf>",
+      "notes": "上网时间里包含工作、学习和社交，不全是浪费。定成 C 级，是因为没有研究算过「限制之后省回多少、这些时间又用到了哪里」，手上只有总量统计。其中「刷别人过得怎么样」这一类，有随机试验测过省回多少、情绪变了多少，见第 3 节第 20 条。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Đặt giới hạn cứng cho video ngắn và việc lướt màn hình vô mục đích",
+    "cost": "Không tốn tiền. Chỉ vài phút để tắt thông báo đẩy, xóa ứng dụng hoặc đặt giới hạn thời gian dùng mỗi ngày. Khó nhất là kiềm chế tay, nhịn không mở lên.",
+    "plain": "Năm 2024, người Trung Quốc trung bình lên mạng 5 giờ 37 phút mỗi ngày; chỉ tính người thực sự lên mạng hôm đó thì là 6 giờ 3 phút. Năm 2018, cùng cách tính chỉ có 2 giờ 42 phút. Đây là mục có số thời gian lớn nhất trong chương này. Cắt một giờ mỗi ngày thì một năm có thêm 365 giờ.",
+    "benefit": "Cư dân Trung Quốc lên mạng trung bình 5 giờ 37 phút mỗi ngày. Chỉ tính người thực sự lên mạng hôm đó thì trung bình 6 giờ 3 phút. Tỷ lệ có dùng mạng hôm đó là 92.9%. Đây là số liệu năm 2024. Năm 2018, cùng cách tính chỉ có 2 giờ 42 phút. Đây là mục có số thời gian lớn nhất trong chương này. Cắt một giờ trong đó mỗi ngày tương đương có thêm 365 giờ mỗi năm. Ngoài ra, theo Trung tâm Thông tin mạng Internet Trung Quốc, đến tháng 6 năm 2025, người dùng mạng trung bình lên mạng 30.6 giờ mỗi tuần, nhiều hơn nửa năm trước 1.9 giờ. Có 10.68 trăm triệu người dùng video ngắn, chiếm 95.1% người dùng mạng.",
+    "notes": "Thời gian lên mạng gồm công việc, học tập và giao tiếp, không phải toàn bộ là lãng phí. Xếp C vì chưa có nghiên cứu tính “sau khi giới hạn tiết kiệm được bao nhiêu, thời gian đó được dùng vào đâu”; hiện chỉ có thống kê tổng lượng. Riêng loại “lướt xem người khác sống thế nào” đã có thử nghiệm ngẫu nhiên đo tiết kiệm bao nhiêu và cảm xúc thay đổi bao nhiêu; xem chương 3, mục 20.",
+    "extra": ""
+  }
+}

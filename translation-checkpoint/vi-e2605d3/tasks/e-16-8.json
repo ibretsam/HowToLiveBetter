@@ -1,0 +1,35 @@
+{
+  "id": "e-16-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/16-得了慢性病之后怎么活.md",
+  "source_sha256": "ab40e6532c9b6542e85304acf9cec3d1103ae402efc4d7c2fccf4254a6189d6a",
+  "original": {
+    "number": 8,
+    "title": "得过肾结石就把水喝到每天 2.5–3 升，盐降到 6 克以内",
+    "fields": {
+      "cost": "不花钱。把随时喝水变成习惯。出汗多的日子还要再多喝一些，难在天天记着。",
+      "plain": "第一次长了钙结石、又查不出原因的人，什么都不做的话，五年里约四分之一会再长。每天把水喝够的人，五年里复发的只有一成多，少了一半多。英国指南给的量是每天喝 2.5 到 3 升水，盐不超过 6 克。",
+      "benefit": "一项为期 5 年、随机分成两组的对照试验，对象是 199 名第一次得钙结石、又查不出原因的患者（也叫特发性钙结石）。一组每天至少喝 2 升水，另一组不做任何干预。5 年里复发的，多喝水那组 12/99（12.1%），不干预那组 27/100（27.0%），P=0.008。P 值越小，越说明两组的差别不是碰巧。平均隔多久复发：38.7±13.2 个月对 25.1±16.4 个月，P=0.016。一开始测的 24 小时尿量，结石患者明显低于没结石的人：男性是 1,057±238 mL 对 1,401±562 mL（P<0.0001），女性是 990±230 mL 对 1,239±440 mL（P<0.001）。NICE 指南 NG118 第 1.8.1 条建议，成人每天喝 2.5 到 3 升水，儿童青少年按年龄喝 1 到 2 升。水里加点鲜柠檬汁，别喝碳酸饮料，成人每天盐不超过 6 克。NICE 同一指南第 1.7.1 条建议，成人得过肾结石或输尿管结石的，考虑做一次结石成分分析。复发的、结石一半以上是草酸钙的，第 1.8.3 条建议考虑加枸橼酸钾。24 小时尿检 NICE 认为没找到证据，没有给出建议。欧洲泌尿外科学会（EAU）的结石指南写法不同：每个结石患者都要做可靠的结石成分分析。复发的人属于高危，要连续留两次 24 小时尿做专门的代谢检查。它给的一般预防目标是每天喝 2.5 到 3 升水，每天尿量 2 到 2.5 升",
+      "grade": "A",
+      "sources": "Borghi L, Meschi T, Amato F, Briganti A, Novarini A, Giannini A (1996). Urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study. The Journal of Urology, 155(3), 839-843. <https://doi.org/10.1016/s0022-5347(01)66321-3>；National Institute for Health and Care Excellence (2019). Renal and ureteric stones: assessment and management. NICE guideline NG118，第 1.7.1、1.8.1、1.8.3 条. <https://www.nice.org.uk/guidance/ng118/chapter/Recommendations>；European Association of Urology (2026). EAU Guidelines on Urolithiasis, Chapter 4 Metabolic Evaluation and Recurrence Prevention（第 4.1、4.1.2 节，Table 4.5）. <https://uroweb.org/guidelines/urolithiasis/chapter/metabolic-evaluation-and-recurrence-prevention>（高危结石患者名单见同一指南 Table 3.3：<https://uroweb.org/guidelines/urolithiasis/chapter/guidelines>）",
+      "notes": "复发少了大约 55%，又不花钱，按本书算性价比的办法是本节性价比最高的一条。要盯的是 24 小时尿量，欧洲指南的目标是每天 2 到 2.5 升，不是看喝进去多少。出汗多的人、在高温环境里干活的人，得喝得更多。那项试验做的是第一次发作的特发性钙结石患者。结石成分不止一种，尿酸结石、感染性结石、胱氨酸结石各有各的对策。做一次结石成分分析，英国和欧洲指南都建议。复发过的人，欧洲指南还要求查 24 小时尿，再定要不要加药，英国指南认为这项检查证据不够。别为了防结石把钙戒掉，见第 6 节第 21 条。发作时腰腹绞痛得厉害要去医院，不是靠多喝水冲下去的。不疼的血尿另有要查的东西，见第 1 节第 27 条"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nếu từng bị sỏi thận, uống 2.5–3 lít nước mỗi ngày và giảm muối xuống không quá 6 gram",
+    "cost": "Không tốn tiền. Tạo thói quen uống nước đều đặn. Những ngày ra nhiều mồ hôi còn phải uống thêm; khó ở chỗ ngày nào cũng nhớ.",
+    "plain": "Người lần đầu bị sỏi canxi mà không tìm ra nguyên nhân, nếu không làm gì thì khoảng một phần tư sẽ tái phát trong năm năm. Người uống đủ nước mỗi ngày chỉ có hơn một phần mười tái phát trong năm năm, giảm hơn một nửa. Hướng dẫn của Anh đưa ra lượng nước mỗi ngày là 2.5 đến 3 lít, muối không quá 6 gram.",
+    "benefit": "Một thử nghiệm đối chứng kéo dài 5 năm, chia ngẫu nhiên thành hai nhóm, gồm 199 bệnh nhân lần đầu bị sỏi canxi mà không tìm ra nguyên nhân, còn gọi là sỏi canxi vô căn. Một nhóm uống ít nhất 2 lít nước mỗi ngày, nhóm kia không can thiệp gì. Trong 5 năm, nhóm uống nhiều nước có 12/99 người tái phát (12.1%), nhóm không can thiệp có 27/100 (27.0%), P=0.008. Giá trị P càng nhỏ càng cho thấy chênh lệch giữa hai nhóm khó do ngẫu nhiên. Thời gian trung bình đến khi tái phát là 38.7±13.2 tháng so với 25.1±16.4 tháng, P=0.016. Lượng nước tiểu 24 giờ đo lúc đầu ở bệnh nhân sỏi thấp hơn rõ rệt so với người không có sỏi: nam là 1,057±238 mL so với 1,401±562 mL (P<0.0001), nữ là 990±230 mL so với 1,239±440 mL (P<0.001). Mục 1.8.1 trong hướng dẫn NICE NG118 khuyến nghị người lớn uống 2.5 đến 3 lít nước mỗi ngày, trẻ em và thanh thiếu niên uống 1 đến 2 lít tùy tuổi. Thêm một ít nước chanh tươi vào nước, không uống nước có ga; người lớn dùng không quá 6 gram muối mỗi ngày. Mục 1.7.1 của cùng hướng dẫn NICE khuyến nghị cân nhắc phân tích thành phần sỏi một lần cho người lớn từng bị sỏi thận hoặc sỏi niệu quản. Với người tái phát, sỏi có thành phần canxi oxalat từ một nửa trở lên, mục 1.8.3 khuyến nghị cân nhắc thêm kali citrat. Về xét nghiệm nước tiểu 24 giờ, NICE cho rằng không tìm thấy bằng chứng nên không đưa ra khuyến nghị. Hướng dẫn về sỏi của Hiệp hội Tiết niệu châu Âu (EAU) viết khác: mọi bệnh nhân sỏi đều cần được phân tích thành phần sỏi bằng phương pháp đáng tin cậy. Người tái phát thuộc nhóm nguy cơ cao, cần thu nước tiểu 24 giờ hai lần liên tiếp để kiểm tra chuyển hóa chuyên biệt. Mục tiêu dự phòng chung mà hướng dẫn này đưa ra là uống 2.5 đến 3 lít nước mỗi ngày, lượng nước tiểu mỗi ngày 2 đến 2.5 lít.",
+    "notes": "Tái phát giảm khoảng 55% mà không tốn tiền; theo cách tính hiệu quả so với chi phí của cuốn sách, đây là mục có hiệu quả so với chi phí cao nhất trong chương. Cần theo dõi lượng nước tiểu 24 giờ; mục tiêu của hướng dẫn châu Âu là 2 đến 2.5 lít mỗi ngày, không phải chỉ nhìn lượng uống vào. Người ra nhiều mồ hôi hoặc làm việc trong môi trường nóng phải uống nhiều hơn. Thử nghiệm đó thực hiện trên bệnh nhân lần đầu bị sỏi canxi vô căn. Sỏi có nhiều thành phần khác nhau; sỏi acid uric, sỏi do nhiễm trùng và sỏi cystine đều có cách xử lý riêng. Cả hướng dẫn Anh lẫn châu Âu đều khuyến nghị phân tích thành phần sỏi một lần. Với người từng tái phát, hướng dẫn châu Âu còn yêu cầu xét nghiệm nước tiểu 24 giờ rồi mới quyết định có thêm thuốc hay không; hướng dẫn Anh cho rằng bằng chứng cho xét nghiệm này chưa đủ. Đừng kiêng canxi để phòng sỏi, xem chương 6 mục 21. Khi lên cơn đau quặn dữ dội vùng hông bụng, phải đến bệnh viện, không phải cứ uống nhiều nước để đẩy sỏi xuống. Tiểu máu không đau còn có những nguyên nhân khác cần kiểm tra, xem chương 1 mục 27.",
+    "extra": ""
+  }
+}

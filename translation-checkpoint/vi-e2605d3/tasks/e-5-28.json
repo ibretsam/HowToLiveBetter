@@ -1,0 +1,35 @@
+{
+  "id": "e-5-28",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "974de5c7539ddbbb12e378d36aef0422aad253d55f24ae73a10dfcb0dc470741",
+  "original": {
+    "number": 28,
+    "title": "提前还房贷之前先做一道比较题，不要凭感觉",
+    "fields": {
+      "cost": "不花钱。花半小时算一笔账。你要老实估计自己能拿到的、扣完税以后的稳定收益率。",
+      "plain": "提前还房贷，等于稳稳赚到你的房贷利率。所以只问一件事：你能长期稳定拿到的税后收益，比房贷利率高吗？高就别急着还，不高或说不准就还。等额本息前几年利息占得多，越早还省得越多，银行 App 的「提前还款试算」能直接算出数字。",
+      "benefit": "算法是这样。先设房贷年利率为 r，按你的合同来。2026 年 8 月 20 日 5 年期以上 LPR 为 3.5%，实际执行的利率是在 LPR 上加点或者减点。再设 g 为你可选的另一种投资扣完税后的年化收益：这笔钱换个地方投，平均每年能赚到的比例。提前还款的确定收益率就是 r，每还掉一笔，就等于稳稳赚到了 r。如果 g 稳定大于 r，钱留在投资里更划算。如果 g 小于 r，或者 g 根本说不准，那提前还款就等于锁定一笔无风险的 r。等额本息前几年你还进去的钱里，利息占得多，所以越早还省下的利息越多。这一点用银行 App 的「提前还款试算」直接看数字（中国，2026 年利率）",
+      "grade": "C",
+      "sources": "全国银行间同业拆借中心受中国人民银行授权 (2026). 2026 年 8 月 20 日贷款市场报价利率（LPR）公告. <https://www.chinamoney.com.cn/chinese/rdgz/20260820/3399885.html>",
+      "notes": "这里只给算法，不下结论。投资收益能稳定超过房贷利率的情况是少数。但不管你选哪一边，都要先留够应急现金。另外注意看合同里有没有提前还款违约金的条款。还之前可以先找银行谈降利率，见第 15 节第 15 条（协商降利率）。不构成投资建议。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi trả trước khoản vay mua nhà, hãy làm một phép so sánh, đừng dựa vào cảm giác",
+    "cost": "Không tốn tiền. Dành nửa giờ tính toán. Phải ước lượng thật thà lợi suất ổn định sau thuế mình có thể đạt.",
+    "plain": "Trả trước vay mua nhà tương đương chắc chắn kiếm được mức lãi suất khoản vay. Vì vậy chỉ hỏi một điều: lợi suất sau thuế bạn có thể đạt ổn định lâu dài có cao hơn lãi vay mua nhà không? Cao hơn thì đừng vội trả, không cao hoặc không chắc thì trả. Với cách trả tổng gốc và lãi đều mỗi kỳ, những năm đầu lãi chiếm nhiều; trả càng sớm tiết kiệm càng nhiều. Chức năng “tính thử trả nợ trước hạn” trong ứng dụng ngân hàng cho ra số trực tiếp.",
+    "benefit": "Cách tính như sau. Gọi lãi suất năm khoản vay mua nhà là r, theo hợp đồng của bạn. Ngày 20 tháng 8 năm 2026, LPR kỳ hạn trên 5 năm là 3.5%; lãi suất thực áp dụng được cộng hoặc trừ điểm trên LPR. Gọi g là lợi suất quy năm sau thuế của phương án đầu tư thay thế: đem tiền này đầu tư nơi khác, trung bình mỗi năm kiếm được tỷ lệ bao nhiêu. Lợi suất chắc chắn của trả trước là r; mỗi khoản trả đi tương đương chắc chắn kiếm được r. Nếu g ổn định lớn hơn r, giữ tiền đầu tư có lợi hơn. Nếu g nhỏ hơn r hoặc hoàn toàn không chắc g, trả trước tương đương khóa mức r không rủi ro. Với cách trả tổng gốc và lãi đều mỗi kỳ, tiền trả trong những năm đầu có tỷ trọng lãi lớn, nên trả càng sớm thì lãi tiết kiệm càng nhiều. Dùng chức năng “tính thử trả nợ trước hạn” trong ứng dụng ngân hàng để xem số trực tiếp (Trung Quốc, lãi suất năm 2026).",
+    "notes": "Ở đây chỉ đưa cách tính, không kết luận thay bạn. Trường hợp lợi suất đầu tư ổn định vượt lãi vay mua nhà là số ít. Nhưng chọn bên nào cũng phải giữ đủ tiền mặt khẩn cấp trước. Ngoài ra, xem hợp đồng có điều khoản phạt trả trước hạn không. Trước khi trả có thể thương lượng ngân hàng giảm lãi; xem chương 15 mục 15 (thương lượng giảm lãi suất). Nội dung này không cấu thành lời khuyên đầu tư.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-10-8",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "6999636dd27ca2fa131452a8109f30d1dcb60c6abfa88c76b087e61e48dd5bf5",
+  "original": {
+    "number": 8,
+    "title": "把结婚的健康收益算进去，但按观察性数据打折",
+    "fields": {
+      "cost": "不花钱，也不花时间。只要记住一点：这些数字说的是已婚的人里死亡率更低，是两件事同时出现，分不清是不是结婚让你活得久。",
+      "plain": "老年人里，已婚的人同期死亡的概率比非婚的人低约 12%，从未结过婚的人比已婚的人高约 24%。但这只是两件事同时出现，分不清是不是结婚起的作用。这些数字基本来自欧美，对国内只能当量级参考。",
+      "benefit": "一项针对老年人的荟萃分析，把多项研究汇总重算，共 53 组比较、25 万余人。汇总的都是队列研究，只是跟踪记录，没有分组对照。已婚相对非婚的全因死亡 RR 0.88，95% CI 0.85–0.91（RR 是风险比，CI 是可信范围），同期死亡的概率低约 12%。同一项里丧偶 1.11、离异或分居 1.16、未婚 1.11，分别高约 11%、16%、11%。男女无差异。最保守的估计是 RR 0.94，只低约 6%。另一项荟萃分析比的是未婚（从未结婚）相对已婚，用了 95 篇文献、5 亿余人。结果 HR 1.24（1.19–1.30），同期死亡的概率高约 24%。而且年纪越大，差距越小。还有一项按性别拆的荟萃分析，21 项研究、789 万余人：不论男女，非婚都与总死亡、癌症死亡、心血管死亡同时出现。男性这边的心血管死亡和总死亡差距更大。未婚男性相对未婚女性，卒中死亡多 31%，全因死亡多 9%",
+      "grade": "A（争议）",
+      "sources": "Manzoli L, et al. (2007). Marital status and mortality in the elderly: a systematic review and meta-analysis. Soc Sci Med 64:77–94. <https://doi.org/10.1016/j.socscimed.2006.08.031>；Roelfs DJ, et al. (2011). The rising relative risk of mortality for singles: meta-analysis and meta-regression. Am J Epidemiol 174(4):379–389. <https://doi.org/10.1093/aje/kwr111>；Wang Y, et al. (2020). Sex differences in the association between marital status and the risk of cardiovascular, cancer, and all-cause mortality: a systematic review and meta-analysis of 7,881,040 individuals. Glob Health Res Policy 5:4. <https://doi.org/10.1186/s41256-020-00133-8>",
+      "notes": "争议在于结婚的人可能本来就是被挑过的，比如本来更健康的人更容易结婚。这是作者按研究设计推出来的，三项荟萃都没有算过挑选占多大份。三项荟萃用的都是现成人群的观察数据，只是跟踪记录，没有分组对照。作者自己也写了有发表偏倚或方法局限。Roelfs 还发现研究做得越严谨，算出的差距越小。这些数字以欧美人群为主，对国内只能当量级参考"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tính cả lợi ích sức khỏe của hôn nhân, nhưng giảm kỳ vọng vì đây là dữ liệu quan sát",
+    "cost": "Không tốn tiền hay thời gian. Chỉ cần nhớ rằng các con số này nói người đã kết hôn có tỷ lệ tử vong thấp hơn. Hai điều cùng xuất hiện, nhưng không phân biệt được có phải kết hôn làm bạn sống lâu hơn hay không.",
+    "plain": "Ở người cao tuổi, người đã kết hôn có nguy cơ tử vong trong cùng thời gian thấp hơn khoảng 12% so với người không trong hôn nhân; người chưa từng kết hôn có nguy cơ cao hơn khoảng 24% so với người đã kết hôn. Nhưng đây chỉ là hai điều cùng xuất hiện, chưa phân biệt được có phải do hôn nhân hay không. Các con số chủ yếu đến từ châu Âu và Mỹ, nên tại Trung Quốc chỉ có thể tham khảo mức độ lớn nhỏ.",
+    "benefit": "Một phân tích gộp về người cao tuổi tổng hợp và tính lại kết quả của nhiều nghiên cứu, gồm 53 nhóm so sánh và hơn 25 vạn người. Các nghiên cứu đều chỉ theo dõi, ghi nhận, không phân nhóm đối chứng. So với người không trong hôn nhân, người đã kết hôn có RR tử vong do mọi nguyên nhân 0.88, 95% CI 0.85–0.91; RR là tỷ số nguy cơ, CI là khoảng tin cậy. Nguy cơ tử vong trong cùng thời gian thấp hơn khoảng 12%. Trong cùng phân tích, người góa có giá trị 1.11, ly hôn hoặc ly thân 1.16, chưa kết hôn 1.11, tương ứng cao hơn khoảng 11%, 16%, 11%. Không có khác biệt giữa nam và nữ. Ước tính thận trọng nhất là RR 0.94, chỉ thấp hơn khoảng 6%. Một phân tích gộp khác so sánh người chưa từng kết hôn với người đã kết hôn, dùng 95 tài liệu và hơn 5 trăm triệu người. Kết quả HR 1.24 (1.19–1.30), nguy cơ tử vong trong cùng thời gian cao hơn khoảng 24%. Tuổi càng cao thì chênh lệch càng nhỏ. Một phân tích gộp khác tách theo giới gồm 21 nghiên cứu và hơn 789 vạn người: ở cả nam và nữ, tình trạng không trong hôn nhân có liên hệ với tử vong do mọi nguyên nhân, do ung thư và do tim mạch. Nam giới có chênh lệch tử vong tim mạch và tử vong do mọi nguyên nhân lớn hơn. Nam chưa kết hôn so với nữ chưa kết hôn có tử vong do đột quỵ cao hơn 31%, tử vong do mọi nguyên nhân cao hơn 9%.",
+    "notes": "Tranh luận nằm ở khả năng người kết hôn vốn đã là nhóm được chọn lọc, chẳng hạn người khỏe mạnh hơn dễ kết hôn hơn. Đây là suy luận của tác giả dựa trên thiết kế nghiên cứu; cả ba phân tích gộp đều chưa tính được yếu tố chọn lọc đóng góp bao nhiêu. Cả ba dùng dữ liệu quan sát từ các nhóm người có sẵn, chỉ theo dõi và ghi nhận, không phân nhóm đối chứng. Chính các tác giả nghiên cứu cũng nêu thiên lệch công bố hoặc hạn chế về phương pháp. Roelfs còn phát hiện nghiên cứu càng chặt chẽ thì chênh lệch tính được càng nhỏ. Số liệu chủ yếu từ người châu Âu và Mỹ, nên tại Trung Quốc chỉ dùng để tham khảo mức độ lớn nhỏ.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-5-47",
+  "source_sha256": "9b7770746ea5d2aca52da7f28bb8152ef0257e6b140108d5dbfa7b2dc8db51d9",
+  "draft_sha256": "087d7dea96c03126c5fba4054ece4da1686a0767716d2d2263ead41999a85e85",
+  "reviewer": "batch13-health-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual six-field/source comparison. Preserved7days,60days/3000km,2yr/50000km and3yr/60000km first-arrival, two-replacement conditions, >30days or >=4repairs, price×mileage÷1000×n with n<=0.5%,6thday/10workingday deadlines and200000/10000 example. Ordinary first-instance six months is statutory extendable period, not elapsed-time prediction. No translation change; blanket attorney-fee claim remains source caveat."
+}

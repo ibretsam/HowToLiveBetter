@@ -1,0 +1,15 @@
+{
+  "id": "e-15-6",
+  "source_sha256": "01d687594427ad1cd1ee356b98b875db2426d3257341e16ac9cc34b37e9290ad",
+  "draft_sha256": "3dc1b24c91d7a9a4a47fe940f3f87f6479b7ca75016e36947c8575e40a59bed4",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves pre-contract lookup scope excluding owner identity, prior versus subsequent mortgage, occupation condition and court-remedy costs. Translation review does not independently verify current law or source advice."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-3-23",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/03-不要浪费精力.md",
+  "source_sha256": "9ea649ac6a436e89b60587f1f3570499958b5880922b24ccfff68258b2eba7e0",
+  "original": {
+    "number": 23,
+    "title": "生气时别靠打沙袋、跑一圈来发泄，先让身体慢下来",
+    "fields": {
+      "cost": "不花钱。气头上改做几分钟让心跳慢下来的事：慢慢呼吸，坐下来，静一静。难在当时最想做的恰恰是发泄。",
+      "plain": "打沙袋、骑车、去跑一圈，这类让身体更兴奋的发泄办法，整体上消不了气。慢呼吸、正念、冥想这类让身体静下来的办法，能明显压下怒气和想动手的劲。",
+      "benefit": "把 154 项研究合起来算（荟萃分析），共 184 组样本、10,189 人。让身体平静下来的办法，比如深呼吸、正念、冥想，能降低怒气和攻击性。效果大小 g = -0.63，95% CI -0.82 到 -0.43（可信范围）。这个结果在不同性别、种族、年龄和文化的人里都稳定。让身体更兴奋的办法，比如打沙袋、慢跑、骑车，整体无效。它的效果大小 g = -0.02，95% CI -0.13 到 0.09。作者的结论是：发泄怒气、去跑一圈，都不是管用的消气办法。",
+      "grade": "A",
+      "sources": "Kjærvik SL, Bushman BJ (2024). A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage? Clinical Psychology Review. <https://doi.org/10.1016/j.cpr.2024.102414>",
+      "notes": "量的是怒气和攻击性，不是精力。口径记成时间，是作者的归类：少吵一架，就少收拾一次残局。当场能用的办法见第 22 节第 8 条（循环叹息），还有本节第 17 条（生气时先离场）。跑步不是没用。长期看，它对情绪低落有效，见第 22 节第 6 条（心情差就去走或者跑）。它只是不适合拿来当场消气。气头上别开车，别发消息，别做决定。如果是有人在打你，先离开、报警。那时要处理的不是你的情绪，见第 8 节第 43 条（被家暴了）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi tức giận, đừng xả bằng đấm bao cát hay chạy một vòng; trước hết hãy để cơ thể chậm lại",
+    "cost": "Không tốn tiền. Khi đang tức, chuyển sang vài phút làm việc giúp nhịp tim chậm lại: thở chậm, ngồi xuống, yên tĩnh một lúc. Khó ở chỗ lúc đó điều muốn làm nhất lại chính là trút giận.",
+    "plain": "Đấm bao cát, đạp xe hoặc chạy một vòng là những cách xả khiến cơ thể hưng phấn hơn; xét chung, chúng không giúp nguôi giận. Các cách giúp cơ thể lắng xuống như thở chậm, chánh niệm và thiền làm giảm rõ rệt cơn giận và thôi thúc động tay chân.",
+    "benefit": "Gộp 154 nghiên cứu để tính (phân tích gộp), gồm 184 nhóm mẫu, 10,189 người. Những cách giúp cơ thể bình tĩnh như thở sâu, chánh niệm và thiền giảm cơn giận và tính gây hấn. Cỡ hiệu ứng g = -0.63, 95% CI từ -0.82 đến -0.43 (khoảng tin cậy). Kết quả ổn định ở người thuộc giới tính, chủng tộc, tuổi và văn hóa khác nhau. Những cách làm cơ thể hưng phấn hơn như đấm bao cát, chạy chậm và đạp xe nhìn chung không hiệu quả. Cỡ hiệu ứng g = -0.02, 95% CI từ -0.13 đến 0.09. Tác giả kết luận trút giận và chạy một vòng đều không phải cách nguôi giận hiệu quả.",
+    "notes": "Thứ được đo là cơn giận và tính gây hấn, không phải sức lực. Xếp vào thời gian là cách phân loại của tác giả: bớt một cuộc cãi vã thì bớt một lần giải quyết hậu quả. Cách dùng ngay tại chỗ xem chương 22 mục 8 (thở dài theo chu kỳ) và mục 17 chương này (khi tức giận hãy rời đi trước). Chạy bộ không phải vô ích. Về lâu dài, nó có hiệu quả với tâm trạng sa sút, xem chương 22 mục 6 (buồn thì đi bộ hoặc chạy). Chỉ là không phù hợp để nguôi giận ngay lúc đó. Đang tức thì đừng lái xe, gửi tin nhắn hay ra quyết định. Nếu có người đang đánh bạn, trước hết rời đi và báo cảnh sát. Điều cần xử lý lúc ấy không phải cảm xúc của bạn, xem chương 8 mục 43 (bị bạo lực gia đình).",
+    "extra": ""
+  }
+}

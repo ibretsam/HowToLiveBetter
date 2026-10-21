@@ -1,0 +1,35 @@
+{
+  "id": "e-19-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/19-在职离职和工伤.md",
+  "source_sha256": "a738e02c308f2c3d4e99bbd239486b145f6ed9279f34d77095a979950ae3819a",
+  "original": {
+    "number": 14,
+    "title": "伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱",
+    "fields": {
+      "cost": "不花钱。走一次劳动能力鉴定的流程，前后要等一段时间。",
+      "plain": "伤情稳定之后去做劳动能力鉴定，等级直接换算成钱。一次性伤残补助金按本人工资算，五级 18 个月、六级 16 个月、七级 13 个月。八级 11 个月、九级 9 个月、十级 7 个月。鉴定结果出来之前，不要签「一次性了结」的协议。",
+      "benefit": "一次性伤残补助金按伤残等级折算成几个月的工资，一次付清。五级 18 个月、六级 16 个月、七级 13 个月的本人工资。八级 11 个月、九级 9 个月、十级 7 个月的本人工资",
+      "grade": "A",
+      "sources": "工伤保险条例第二十一条「经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行劳动能力鉴定」；第二十二条「劳动功能障碍分为十个伤残等级，最重的为一级，最轻的为十级」；第三十六条五、六级待遇（一次性伤残补助金 18/16 个月本人工资，按月伤残津贴为本人工资的 70%/60%）；第三十七条七至十级待遇（13/11/9/7 个月本人工资）. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>",
+      "notes": "五级、六级保留劳动关系，人还算这家单位的员工，按月拿伤残津贴。七到十级的人，合同到期或者自己提出解除时，另有两笔钱。一次性工伤医疗补助金由基金出，一次性伤残就业补助金由单位出，给多少由省里定。鉴定结果出来之前不要签「一次性了结」的协议。工伤配假肢、轮椅这类辅助器具要先经劳动能力鉴定委员会确认，见第 33 节第 7 条（去县级残联问全）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi thương tích ổn định, đi giám định khả năng lao động; mức thương tật được quy trực tiếp thành tiền",
+    "cost": "Không tốn tiền. Làm quy trình giám định khả năng lao động một lần, phải chờ một thời gian từ đầu đến cuối.",
+    "plain": "Khi thương tích ổn định, đi giám định khả năng lao động; mức thương tật được quy trực tiếp thành tiền. Trợ cấp thương tật một lần tính theo lương của bản thân: mức năm là 18 tháng, mức sáu 16 tháng, mức bảy 13 tháng. Mức tám 11 tháng, mức chín 9 tháng, mức mười 7 tháng. Trước khi có kết quả giám định, đừng ký thỏa thuận “giải quyết dứt điểm một lần”.",
+    "benefit": "Trợ cấp thương tật một lần được quy từ mức thương tật sang số tháng lương và trả hết một lần. Mức năm là 18 tháng lương của bản thân, mức sáu 16 tháng, mức bảy 13 tháng. Mức tám là 11 tháng lương của bản thân, mức chín 9 tháng, mức mười 7 tháng",
+    "notes": "Mức năm, mức sáu được giữ quan hệ lao động, vẫn là nhân viên của đơn vị và nhận trợ cấp thương tật hằng tháng. Người thuộc mức bảy đến mười, khi hợp đồng hết hạn hoặc tự đề nghị chấm dứt, còn có hai khoản nữa. Trợ cấp y tế tai nạn lao động một lần do quỹ trả, trợ cấp việc làm do thương tật một lần do đơn vị trả, mức bao nhiêu do tỉnh quy định. Trước khi có kết quả giám định, đừng ký thỏa thuận “giải quyết dứt điểm một lần”. Người bị tai nạn lao động cần chân tay giả, xe lăn hay dụng cụ hỗ trợ tương tự phải được hội đồng giám định khả năng lao động xác nhận trước; xem chương 33 mục 7 (đến liên đoàn người khuyết tật cấp huyện hỏi đầy đủ).",
+    "extra": ""
+  }
+}

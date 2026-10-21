@@ -1,0 +1,35 @@
+{
+  "id": "e-8-25",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/08-别把自己搭进去.md",
+  "source_sha256": "01860d73ffa1a5678806addd69a6ca7e3518c2eb97cbc21d2a92cbdaa1afc4ff",
+  "original": {
+    "number": 25,
+    "title": "婚前财产不用怕，房子加名和父母出资先写清楚",
+    "fields": {
+      "cost": "自己写一份书面的财产协议不花钱，去公证另外收费。父母出钱时，请他们写一句书面说明。整件事一次性花掉几个小时。难在开口和家里人谈钱。",
+      "plain": "婚前的财产是你个人的，不会因为结婚年头长就变成共同财产。夫妻可以书面约定婚前婚后的财产各归各的。要留意一点：说好把房子加上对方的名，在变更登记之前还能反悔，登记完就是对方的了。离婚时藏钱、转移、挥霍或者伪造债务的一方，可以少分或者不分。",
+      "benefit": "婚前财产是个人财产，不会因为结婚年头长就变成共同财产。夫妻可以书面约定：婚前财产和婚后所得归各自、归共同，或者一部分共同，这个约定对双方都有约束力。婚前父母出资买房，视为给自己子女的赠与，除非明确表示是给两个人的。婚后父母出资的，按约定处理；没有约定的，按共同财产的原则处理。婚前或者婚内约定把一方的房产赠与另一方、或者变成两个人共有的，在变更登记之前可以撤销。登记之后就是对方的了。离婚时隐藏、转移、变卖、挥霍共同财产，或者伪造债务的一方，可以少分或者不分（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 民法典（第一千零六十三、一千零六十五、一千零九十二条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；最高人民法院 (2020). 关于适用《民法典》婚姻家庭编的解释（一）（法释〔2020〕22 号，第二十九、三十一、三十二条）. <https://www.court.gov.cn/fabu/xiangqing/282071.html>",
+      "notes": "财产协议对男女双方同样有效。想拿它对抗配偶欠外人的债，前提是债主知道你们有这个约定。他不知道，就管不到他。协议不公证也有效，公证只是省得日后为签名和日期扯皮。父母出钱买房怎么写清楚是借是送，见第 10 节第 11 条（父母出资买房）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không cần lo tài sản có trước hôn nhân; thêm tên vào nhà và cha mẹ góp tiền thì viết rõ từ đầu",
+    "cost": "Tự viết thỏa thuận tài sản không mất tiền, công chứng thì có phí riêng. Khi cha mẹ góp tiền, nhờ họ viết một câu giải thích bằng văn bản. Toàn bộ việc này làm một lần mất vài giờ. Khó ở chỗ mở lời nói chuyện tiền với người nhà.",
+    "plain": "Tài sản có trước hôn nhân là của riêng bạn, không biến thành tài sản chung chỉ vì kết hôn lâu năm. Vợ chồng có thể thỏa thuận bằng văn bản để tài sản trước và sau hôn nhân thuộc riêng mỗi người. Lưu ý: đã hứa thêm tên đối phương vào nhà thì trước khi đăng ký thay đổi vẫn có thể đổi ý; đăng ký xong thì là của đối phương. Khi ly hôn, bên giấu tiền, chuyển dịch, phung phí tài sản hoặc làm giả nợ có thể được chia ít hơn hoặc không được chia.",
+    "benefit": "Tài sản có trước hôn nhân là tài sản riêng, không trở thành tài sản chung vì kết hôn lâu năm. Vợ chồng có thể thỏa thuận bằng văn bản rằng tài sản trước hôn nhân và thu nhập sau hôn nhân thuộc riêng mỗi người, thuộc chung hoặc một phần thuộc chung; thỏa thuận ràng buộc cả hai. Trước hôn nhân, cha mẹ góp tiền mua nhà được xem là tặng cho con mình, trừ khi nói rõ là tặng cả hai người. Sau hôn nhân, cha mẹ góp tiền thì xử lý theo thỏa thuận; không thỏa thuận thì theo nguyên tắc tài sản chung. Thỏa thuận trước hoặc trong hôn nhân về việc tặng nhà của một bên cho bên kia, hoặc chuyển thành sở hữu chung của cả hai, có thể hủy trước khi đăng ký thay đổi. Đăng ký xong thì là của đối phương. Khi ly hôn, bên che giấu, chuyển dịch, bán, phung phí tài sản chung hoặc làm giả nợ có thể được chia ít hơn hoặc không được chia (toàn Trung Quốc).",
+    "notes": "Thỏa thuận tài sản có hiệu lực như nhau với cả nam và nữ. Muốn dùng thỏa thuận để đối kháng với khoản nợ vợ/chồng vay người ngoài thì điều kiện là chủ nợ biết hai người có thỏa thuận này. Họ không biết thì không ràng buộc họ. Thỏa thuận không công chứng vẫn có hiệu lực; công chứng chỉ giúp tránh tranh cãi sau này về chữ ký và ngày tháng. Cha mẹ góp tiền mua nhà, viết rõ là cho vay hay tặng thế nào, xem chương 10 mục 11 (cha mẹ góp tiền mua nhà).",
+    "extra": ""
+  }
+}

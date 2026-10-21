@@ -1,0 +1,35 @@
+{
+  "id": "e-15-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "c8d644411fc19ef1f2520ed83aaa2e5a1074704a850ba145ec7e3eeed4e8b75a",
+  "original": {
+    "number": 18,
+    "title": "买新房收房时当场验房、把问题写进交房记录，漏水和水电管线出毛病，在《住宅质量保证书》的保修期内找开发商修",
+    "fields": {
+      "cost": "不花钱。收房当天多花两三个小时，逐间看墙、地、门窗和水电，拍照留底。请人帮忙验房要另外花钱",
+      "plain": "开发商交房时要给你《住宅质量保证书》。施工单位的法定最低保修期，卫生间、屋面、外墙漏水是 5 年，水电管线和装修 2 年，都从竣工验收算。开发商给你的保修期，不能比施工单位剩下的保修期短。保修期内它不修或拖着不修，你可以自己找人修，钱由开发商出。",
+      "benefit": "住建部规章写明，卖商品住宅时，开发商要向买受人提供《住宅质量保证书》和《住宅使用说明书》。开发商对卖出的房子承担质量保修责任，保修期从交付那天算起。商品住宅的保修期，不得低于施工单位给开发商的质量保修书剩下的期限。保修期内出了属于保修范围的质量问题，开发商要修，还要赔造成的损失。不可抗力或者使用不当造成的损坏，开发商不负责。施工单位的最低保修期由国务院条例定，从竣工验收合格那天算起。屋面防水，有防水要求的卫生间、房间和外墙面防渗漏，是 5 年。供热和供冷系统，是 2 个采暖期、供冷期。电气管线、给排水管道、设备安装和装修工程，是 2 年。地基基础和主体结构，是设计文件规定的合理使用年限。最高法的司法解释写明，保修期内开发商要承担修复责任。「出卖人拒绝修复或者在合理期限内拖延修复的，买受人可以自行或者委托他人修复。修复费用及修复期间造成的其他损失由出卖人承担。」房屋质量问题严重影响正常居住使用的，你可以解除合同、要求赔偿。主体结构质量经核验确属不合格的，也可以解除合同、要求赔偿。收房当天逐间检查、把问题写进交房记录并拍照，是作者经验。使用不当不在保修范围，所以交房时就记下的问题，开发商很难说成是你装修弄坏的",
+      "grade": "A",
+      "sources": "建设部 (2001). 商品房销售管理办法（建设部令第 88 号，第三十二、三十三条）. <http://www.gov.cn/gongbao/content/2002/content_70143.htm>；国务院 (2019 修订). 建设工程质量管理条例（第四十条）. <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f410b40e11333>；建设部 (2000). 房屋建筑工程质量保修办法（建设部令第 80 号，第七、八、十七条）. <http://www.gov.cn/gongbao/content/2001/content_60677.htm>；最高人民法院 (2020 修正). 关于审理商品房买卖合同纠纷案件适用法律若干问题的解释（第九、十条）. <https://www.court.gov.cn/fabu/xiangqing/282621.html>",
+      "notes": "保修范围和期限，开发商要和你在合同里约定，以合同和《住宅质量保证书》为准。写得比法定的长，就按长的来。销售管理办法还提到 1998 年那份质量保证书制度的规定，它定的最低保修期限原文没取到，这里不写数。保修期内出了问题，先书面通知开发商并留底，这是作者经验。开发商不修也不认的，要去法院起诉。一审普通程序按规定 6 个月内审完，可以延长，简易程序 3 个月，律师费一般自己出。面积和广告承诺不符，见第 12 条（面积误差）。晚交房、晚办证，见第 13 条（逾期交房）。收益定中是凭判断：返修费用按房子和问题差别很大，没有统一统计。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Nhận nhà mới thì kiểm tra tại chỗ, ghi vấn đề vào biên bản bàn giao; thấm dột hoặc hệ thống đường điện, nước hỏng trong hạn của Giấy bảo đảm chất lượng nhà ở thì yêu cầu chủ đầu tư sửa",
+    "cost": "Không tốn tiền. Dành thêm hai ba giờ ngày nhận nhà, kiểm tra từng phòng: tường, sàn, cửa ra vào, cửa sổ, điện nước, chụp ảnh lưu lại. Thuê người kiểm tra giúp thì tốn thêm tiền",
+    "plain": "Khi giao nhà, chủ đầu tư phải cấp Giấy bảo đảm chất lượng nhà ở. Thời hạn bảo hành tối thiểu theo luật của đơn vị thi công: thấm dột nhà vệ sinh, mái, tường ngoài là 5 năm; đường điện, nước và phần hoàn thiện là 2 năm, tính từ nghiệm thu hoàn thành. Hạn bảo hành chủ đầu tư cấp không được ngắn hơn thời hạn bảo hành còn lại của đơn vị thi công. Trong hạn mà chủ đầu tư không sửa hoặc kéo dài không sửa, bạn có thể thuê người sửa, chủ đầu tư trả tiền.",
+    "benefit": "Quy định của Bộ Nhà ở và Phát triển đô thị, nông thôn nêu khi bán nhà ở thương mại, chủ đầu tư phải cung cấp cho người mua Giấy bảo đảm chất lượng nhà ở và Hướng dẫn sử dụng nhà ở. Chủ đầu tư chịu trách nhiệm bảo hành chất lượng nhà đã bán, thời hạn tính từ ngày bàn giao. Thời hạn bảo hành nhà ở thương mại không được ngắn hơn thời gian còn lại trong giấy bảo hành chất lượng mà đơn vị thi công cấp cho chủ đầu tư. Trong thời hạn, vấn đề chất lượng thuộc phạm vi bảo hành thì chủ đầu tư phải sửa và bồi thường thiệt hại phát sinh. Hư hỏng do bất khả kháng hoặc sử dụng không đúng cách thì chủ đầu tư không chịu trách nhiệm. Thời hạn bảo hành tối thiểu của đơn vị thi công do điều lệ Quốc vụ viện quy định, tính từ ngày nghiệm thu hoàn thành đạt yêu cầu. Chống thấm mái, chống rò rỉ ở nhà vệ sinh, phòng có yêu cầu chống thấm và mặt ngoài tường là 5 năm. Hệ thống sưởi và làm mát là 2 mùa sưởi, mùa làm mát. Đường điện, đường cấp thoát nước, lắp đặt thiết bị và công trình hoàn thiện là 2 năm. Nền móng và kết cấu chính theo thời hạn sử dụng hợp lý quy định trong hồ sơ thiết kế. Giải thích tư pháp của Tòa án Nhân dân Tối cao quy định trong thời hạn bảo hành, chủ đầu tư có trách nhiệm sửa chữa. “Bên bán từ chối sửa hoặc trì hoãn sửa trong thời hạn hợp lý thì bên mua có thể tự sửa hoặc thuê người khác sửa. Bên bán chịu chi phí sửa và những thiệt hại khác phát sinh trong thời gian sửa.” Vấn đề chất lượng nhà ảnh hưởng nghiêm trọng đến việc ở, sử dụng bình thường thì bạn có thể chấm dứt hợp đồng và yêu cầu bồi thường. Chất lượng kết cấu chính qua kiểm tra được xác nhận không đạt cũng có thể chấm dứt hợp đồng, yêu cầu bồi thường. Kiểm tra từng phòng vào ngày nhận nhà, ghi vấn đề vào biên bản bàn giao và chụp ảnh là kinh nghiệm tác giả. Sử dụng sai không thuộc bảo hành, nên vấn đề đã ghi khi bàn giao sẽ khó bị chủ đầu tư đổ cho bạn làm hỏng khi sửa nội thất",
+    "notes": "Chủ đầu tư phải thỏa thuận với bạn trong hợp đồng về phạm vi và thời hạn bảo hành; lấy hợp đồng cùng Giấy bảo đảm chất lượng nhà ở làm căn cứ. Ghi thời hạn dài hơn luật thì áp dụng thời hạn dài hơn. Quy định quản lý bán nhà còn dẫn quy định về chế độ giấy bảo đảm chất lượng năm 1998; chưa lấy được nguyên văn mức bảo hành tối thiểu của văn bản đó nên ở đây không ghi số. Trong hạn bảo hành có vấn đề thì trước hết báo chủ đầu tư bằng văn bản và giữ bản sao; đó là kinh nghiệm tác giả. Chủ đầu tư không sửa cũng không thừa nhận thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, thủ tục đơn giản 3 tháng, phí luật sư thường tự trả. Diện tích và cam kết quảng cáo không khớp, xem mục 12 (sai lệch diện tích). Chậm bàn giao, chậm làm giấy, xem mục 13 (chậm giao nhà). Xếp lợi ích mức vừa là theo nhận định: chi phí sửa khác nhiều theo nhà và vấn đề, chưa có thống kê thống nhất.",
+    "extra": ""
+  }
+}

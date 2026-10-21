@@ -1,0 +1,35 @@
+{
+  "id": "e-24-14",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "768f7345590b2f193d1d22a4bd799d0d2ca6bb23006e5e88e4c5e883bfd366df",
+  "original": {
+    "number": 14,
+    "title": "在医院确诊过、病情稳定的慢性病要续方，可以在这家医院的互联网医院线上复诊开药，第一次看这个病不能在网上看",
+    "fields": {
+      "cost": "不花钱。要在手机上找到医院的互联网医院入口，实名认证一次。公立医院线上复诊的诊察费按普通门诊收。药寄到家的配送费自己出，医保不报。",
+      "plain": "慢性病在医院确诊过、病情稳定，要开的还是那几种药，可以找原来的医院线上复诊，药能寄到家。当地医保纳入了的，能直接用医保结算。第一次看这个病，或者病情变了，医生必须让你去医院当面看。",
+      "benefit": "省下的是每次往返医院、排队挂号的时间。《互联网诊疗管理办法（试行）》规定，网上只能看部分常见病、慢性病的复诊。前提是你已经在实体医院明确诊断，医生掌握你的病历资料，针对同一个诊断复诊。办法写明「不得对首诊患者开展互联网诊疗活动」。病情有变化、需要医生当面查的，医院要立即停止网上诊疗，引导你去实体医院。在线处方要有医师电子签名，药师审核以后，可以委托第三方把药送到家。网上不能开麻醉药品、精神药品这类特殊管理的药。给 6 岁以下孩子在网上开药，要有监护人和相关专业的医师陪着。医保报销看国家医保局 2020 年的医保发〔2020〕45 号文件。它说，在本统筹地区的「互联网+」定点医院复诊开处方，诊察费和药品费可以按当地医保规定支付。自己负担的部分，可以按规定用职工医保个人账户付。配送药品的费用不进医保。各地可以从门诊慢特病开始，逐步扩大支付范围。当地医保经办机构要向社会公布这类定点医院的名单。医保发〔2019〕47 号文件规定，公立医院的互联网复诊，不管哪一级医生来看，都按普通门诊诊察类项目的价格收费（全国，截至 2026 年 10 月）",
+      "grade": "A",
+      "sources": "国家卫生健康委、国家中医药局 (2018). 关于印发互联网诊疗管理办法（试行）等 3 个文件的通知（国卫医发〔2018〕25 号；《互联网诊疗管理办法（试行）》第二、十六、十八、十九条，《互联网医院管理办法（试行）》第十九、二十条）. <http://www.gov.cn/gongbao/content/2019/content_5358684.htm>：「不得对首诊患者开展互联网诊疗活动。」；国家医疗保障局 (2020). 关于积极推进“互联网+”医疗服务医保支付工作的指导意见（医保发〔2020〕45 号，第（三）（四）（五）项）. <https://www.gov.cn/zhengce/zhengceku/2020-11/03/content_5556883.htm>：「参保人在本统筹地区“互联网+”医疗服务定点医疗机构复诊并开具处方发生的诊察费和药品费，可以按照统筹地区医保规定支付。其中个人负担的费用，可按规定由职工医保个人账户支付。提供药品配送服务的费用不纳入医保支付范围。」；国家医疗保障局 (2019). 关于完善“互联网+”医疗服务价格和医保支付政策的指导意见（医保发〔2019〕47 号，「针对各类服务特点细化价格政策」一项）. <https://www.gov.cn/zhengce/zhengceku/2019-08/30/content_5456428.htm>：「公立医疗机构开展互联网复诊，由不同级别医务人员提供服务，均按普通门诊诊察类项目价格收费」",
+      "notes": "先问主治医生这个病能不能线上复诊，再到医院的公众号或 App 里找互联网医院的入口。认准你确诊的那家医院自己开的互联网医院。能不能用医保结算由各地定，看当地医保部门公布的定点名单，或者打电话问。在外地参保的，文件对线上异地直接结算只说「探索」，先问清再用。病情稳定、社区就有你那种药的，在社区一次能开够 12 周，见第 16 节第 5 条（社区一次开到 12 周的药）。社区没有这种药，或者要专科医生看着调药的，更适合走线上复诊。收益量级定为中，是凭判断：每月去一趟大医院开药大约要半天，折下来每周一小时左右。受益人主要是你自己和家人，腿脚不便的老人省得最多"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bệnh mạn tính đã được bệnh viện chẩn đoán và ổn định, cần kê tiếp thuốc thì có thể tái khám trực tuyến qua bệnh viện trên Internet của chính bệnh viện đó; lần đầu khám bệnh này không được khám qua mạng",
+    "cost": "Không tốn tiền. Phải tìm cổng bệnh viện trên Internet của bệnh viện bằng điện thoại, xác minh danh tính một lần. Phí khám lại trực tuyến tại bệnh viện công tính theo khám ngoại trú thông thường. Phí gửi thuốc về nhà tự trả, bảo hiểm y tế không thanh toán.",
+    "plain": "Bệnh mạn tính đã được bệnh viện chẩn đoán, tình trạng ổn định và vẫn cần những thuốc đó thì có thể tái khám trực tuyến ở bệnh viện cũ, thuốc được gửi về nhà. Nếu bảo hiểm y tế địa phương đã đưa dịch vụ vào phạm vi chi trả thì có thể quyết toán trực tiếp bằng bảo hiểm. Lần đầu khám bệnh này hoặc tình trạng đã thay đổi thì bác sĩ phải yêu cầu bạn đến bệnh viện khám trực tiếp.",
+    "benefit": "Tiết kiệm thời gian đi lại bệnh viện và xếp hàng đăng ký mỗi lần. Biện pháp quản lý khám chữa bệnh qua Internet (thí điểm) quy định chỉ được tái khám trực tuyến một số bệnh thường gặp và bệnh mạn tính. Điều kiện là bạn đã được chẩn đoán rõ ở bệnh viện thực tế, bác sĩ có hồ sơ bệnh án của bạn và tái khám cho cùng chẩn đoán. Biện pháp nêu “không được khám chữa bệnh qua Internet cho người bệnh khám lần đầu”. Tình trạng thay đổi, cần bác sĩ khám trực tiếp thì bệnh viện phải dừng khám chữa bệnh trực tuyến ngay, hướng dẫn bạn đến bệnh viện thực tế. Đơn trực tuyến phải có chữ ký điện tử của bác sĩ; sau khi dược sĩ duyệt, có thể thuê bên thứ ba giao thuốc đến nhà. Không được kê qua mạng các thuốc quản lý đặc biệt như thuốc gây nghiện và thuốc hướng thần. Kê thuốc trực tuyến cho trẻ từ 6 tuổi trở xuống phải có người giám hộ và bác sĩ chuyên ngành liên quan ở cùng. Thanh toán bảo hiểm y tế theo văn bản Y bảo phát [2020] số 45 năm 2020 của Cục Bảo hiểm y tế Quốc gia. Văn bản nói phí khám và thuốc khi tái khám, kê đơn tại bệnh viện chỉ định “Internet+” trong cùng khu vực quản lý quỹ có thể được chi trả theo quy định bảo hiểm địa phương. Phần tự chịu có thể dùng tài khoản cá nhân bảo hiểm y tế người lao động thanh toán theo quy định. Phí giao thuốc không được bảo hiểm trả. Các địa phương có thể bắt đầu từ ngoại trú bệnh mạn tính và bệnh đặc biệt rồi mở rộng dần phạm vi chi trả. Cơ quan thực hiện bảo hiểm y tế địa phương phải công khai danh sách bệnh viện chỉ định loại này. Văn bản Y bảo phát [2019] số 47 quy định tái khám qua Internet tại bệnh viện công, dù bác sĩ ở cấp nào khám, đều thu theo giá dịch vụ khám ngoại trú thông thường (toàn Trung Quốc, tính đến tháng 10 năm 2026).",
+    "notes": "Hỏi bác sĩ điều trị trước xem bệnh này có tái khám trực tuyến được không, rồi tìm cổng bệnh viện trên Internet trong tài khoản công khai hoặc ứng dụng của bệnh viện. Chọn đúng bệnh viện trên Internet do chính bệnh viện đã chẩn đoán cho bạn vận hành. Có quyết toán bảo hiểm được không do từng địa phương quy định; xem danh sách chỉ định do cơ quan bảo hiểm địa phương công bố hoặc gọi hỏi. Nếu tham gia bảo hiểm ở nơi khác, văn bản chỉ nói “thăm dò” việc quyết toán trực tiếp trực tuyến khác địa phương; hỏi rõ rồi mới dùng. Bệnh ổn định và cơ sở cộng đồng có thuốc bạn cần thì có thể được kê một lần đủ 12 tuần, xem mục 5 phần 16 (cơ sở cộng đồng kê một lần đủ thuốc cho 12 tuần). Cơ sở cộng đồng không có thuốc đó hoặc cần bác sĩ chuyên khoa theo dõi để chỉnh thuốc thì phù hợp hơn với tái khám trực tuyến. Mức lợi ích xếp trung bình dựa trên nhận định: mỗi tháng đến bệnh viện lớn lấy đơn một lần mất khoảng nửa ngày, quy ra khoảng một giờ mỗi tuần. Người hưởng lợi chủ yếu là bạn và gia đình; người cao tuổi đi lại khó khăn tiết kiệm được nhiều nhất.",
+    "extra": ""
+  }
+}

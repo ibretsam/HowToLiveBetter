@@ -1,0 +1,15 @@
+{
+  "id": "e-32-4",
+  "source_sha256": "1ba9b6f6942ad30f4a3d96792e7b878c0c7421a5fdb2d073b3bb88efc70b2d5e",
+  "draft_sha256": "2c0175a1b61c219bd02ff400827602bdc3454c53337a9efd51d5c586b57a2721",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all six fields and sources. Verified Canada approved-leave and inactive-transfer prohibition; last-semester part-time exception requires previous full-time study and all other conditions; completed-program gap requires every eligibility, valid-or-timely-renewed permit, written completion, new full-time DLI admission and start within 150 calendar days condition. Kept distinction from unfinished transfer, US SEVIS Active/course-load requirements, termination versus approved-withdrawal fifteen-day departure period, and UK part-time prohibition. No correction needed."
+}

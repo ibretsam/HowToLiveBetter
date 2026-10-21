@@ -1,0 +1,15 @@
+{
+  "id": "e-27-5",
+  "source_sha256": "6c4265a84a1f75318c60f30d524f120c9be20de5ec53a4ccbbca9dbf0f6bbcc1",
+  "draft_sha256": "36aea797ab40ab38ff07e6414b1c81be637cc2e4a249525ef397c2190371d685",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves high-risk-only prescription aspirin, after-week-12 title versus from-week-12 plain source phrasing, 81 mg evidence versus 100 mg Chinese products, all RR/CI and perinatal endpoints. No self-medication advice added."
+}

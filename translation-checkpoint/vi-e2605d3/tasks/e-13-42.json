@@ -1,0 +1,35 @@
+{
+  "id": "e-13-42",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "1f6ca642b29206bb81cc57622b3cb5a04920b69bc7b5942f0d0510ac8809e275",
+  "original": {
+    "number": 42,
+    "title": "被性侵之后，先到安全的地方打 110；验伤之前别洗澡、别洗衣服、别收拾房间，72 小时内去医院",
+    "fields": {
+      "cost": "报警不花钱。紧急避孕药是非处方药，药店就能买。阻断药一个疗程上千元，要不要吃由医生判断，见本节第 38 条（72 小时内去拿阻断药）。难的是当时很难开口，也很想马上洗个澡。",
+      "plain": "身上、衣服上和屋里留下的痕迹，是指认对方最要紧的证据。所以验伤前尽量别洗澡，也别洗衣服、收拾房间，尽早打 110。紧急避孕药药店就有，越早吃越有效。72 小时内去医院，让医生判断要不要吃阻断药。",
+      "benefit": "北京市人民检察院的检察官说：「无论是未成年人还是成年人，遇到侵害，都应当第一时间拨打110报警」。及时报警、就医，「便于侦查机关及时勘查现场、提取物证痕迹、固定证据」。贵州省民政厅转载的人民日报防性侵手册写：「一旦不幸遭遇性侵害，最重要的事情就是留存证据」。要保留「体液、毛发、皮屑、通信记录等证据」，「被侵害后，不要擅自洗澡、洗衣物、收拾房间、扔东西」。熟人作案的，保留通话、通信记录。对方事后威胁或者收买，也要留下证据。北京市西城区人民检察院写的是：「在接受身体检查之前尽量不要洗澡」。世界卫生组织说，紧急避孕可以用在「女性在未采取有效的避孕保护措施时遭受性侵犯」的时候。建议在 5 天内用，越早越有效。含左炔诺孕酮（一种孕激素）的紧急避孕药，用过的女性怀孕率是 1.2% 到 2.1%。国内药店卖的左炔诺孕酮片是非处方药。武汉市卫健委的说法是：在无防护性生活后「72小时以内，服药越早，预防妊娠效果越好」。艾滋病阻断药要尽可能 2 小时内吃上，最晚不超过 72 小时（全国）",
+      "grade": "B",
+      "sources": "北京市人民检察院 (2024). 法眼看剧丨看《九部的检察官》 未成年人面对不法侵害该如何保护自己？（转载中央广播电视总台中国之声）. <https://www.bjjc.gov.cn/c/bjoweb/mtbg1/75046.jhtml>；贵州省民政厅 (2024). 未成年人防性侵手册，请家长孩子查收！（转载人民日报）. <https://mzt.guizhou.gov.cn/xwzx/mzyw/202407/t20240723_85145012.html>；北京市西城区人民检察院 (2018). 她们为什么不再沉默……. <https://www.bjjc.gov.cn/c/xicheng/xjjsl/320654084.jhtml>；世界卫生组织 (2021). 紧急避孕（实况报道）. <https://www.who.int/zh/news-room/fact-sheets/detail/emergency-contraception>；武汉市卫生健康委员会 (2020). 安全合理使用紧急避孕药. <https://wjw.wuhan.gov.cn/ztzl_28/fyjkkp/szjk/202010/t20201009_1461161.shtml>；北京市人民政府. 事前、事后分不清？六问六答全面了解艾滋病病毒暴露前/暴露后预防. <https://www.beijing.gov.cn/fuwu/bmfw/jhsyfwzdzx/sjazbr/fakp/202311/t20231110_3299397.html>",
+      "notes": "给 B 是因为这些是官方的办案经验和用药建议，没有「照做之后定罪率高多少」的数字。受益人主要是你自己和家人。紧急避孕药的 72 小时是国内说明书的口径，世界卫生组织说 5 天内都有用，但越晚越差，别拖。已经怀孕的，紧急避孕药没有作用。报警时如实说，不隐瞒，也不夸大。对方事后找你私了、给钱或者威胁你，都留下记录，别删。想好了再报警也可以，但证据会随时间消失。不管报不报警，都要在时限内去医院。录音见第 8 节第 41 条（录音）。对方事后拿照片、拿报警来要挟你，同样是犯罪，见第 8 节第 32 条（对方拿报警、发照片来要钱）。朋友出了这种事，陪对方去报警、去医院，别先劝对方洗个澡休息一下。孩子平时怎么教、孩子说了家长怎么接，见第 30 节第 19 条（认识身体的隐私部位）。过了一个月还在做噩梦、闪回的，见第 29 节第 14 条（创伤聚焦的心理治疗）。生完孩子之后的日常避孕见第 27 节第 20 条（喂奶不等于避孕）。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Sau khi bị xâm hại tình dục: đến nơi an toàn gọi 110 trước; trước khám thương tích đừng tắm, giặt đồ hay dọn phòng, đến bệnh viện trong 72 giờ",
+    "cost": "Báo cảnh sát không tốn tiền. Thuốc tránh thai khẩn cấp không cần đơn, có thể mua ở hiệu thuốc. Thuốc dự phòng sau phơi nhiễm một liệu trình giá từ nghìn nhân dân tệ trở lên; có cần uống không do bác sĩ quyết định, xem mục 38 chương này (lấy thuốc dự phòng trong 72 giờ). Điều khó là lúc đó khó nói ra, lại rất muốn tắm ngay.",
+    "plain": "Dấu vết trên cơ thể, quần áo và trong phòng là chứng cứ quan trọng nhất để xác định đối phương. Vì vậy trước khi khám thương tích, cố gắng đừng tắm, giặt quần áo hoặc dọn phòng, gọi 110 sớm nhất có thể. Thuốc tránh thai khẩn cấp có ở hiệu thuốc, uống càng sớm càng hiệu quả. Đến viện trong 72 giờ để bác sĩ quyết định có cần thuốc dự phòng sau phơi nhiễm không.",
+    "benefit": "Kiểm sát viên Viện Kiểm sát Nhân dân thành phố Bắc Kinh nói: “Dù là người chưa thành niên hay người lớn, gặp xâm hại đều cần gọi 110 báo cảnh sát ngay”. Báo cảnh sát và đi khám kịp thời “giúp cơ quan điều tra nhanh chóng khám nghiệm hiện trường, thu vật chứng và dấu vết, bảo toàn chứng cứ”. Cẩm nang phòng chống xâm hại tình dục của Nhân Dân nhật báo được Sở Dân chính Quý Châu đăng lại viết: “Nếu không may bị xâm hại tình dục, điều quan trọng nhất là giữ lại chứng cứ”. Cần giữ “dịch cơ thể, tóc, vảy da, lịch sử liên lạc và các chứng cứ khác”; “sau khi bị xâm hại, đừng tự ý tắm, giặt đồ, dọn phòng hoặc vứt đồ”. Người quen gây án thì giữ lịch sử cuộc gọi, liên lạc. Đối phương sau đó đe dọa hoặc mua chuộc cũng cần lưu chứng cứ. Viện Kiểm sát Nhân dân quận Tây Thành, Bắc Kinh viết: “Trước khi được khám cơ thể, cố gắng không tắm”. Tổ chức Y tế Thế giới cho biết tránh thai khẩn cấp có thể dùng khi “phụ nữ bị xâm hại tình dục mà không có biện pháp tránh thai bảo vệ hiệu quả”. Khuyến nghị dùng trong 5 ngày, càng sớm càng hiệu quả. Thuốc tránh thai khẩn cấp chứa levonorgestrel, một loại progestogen, có tỷ lệ mang thai ở người đã dùng là 1.2% đến 2.1%. Viên levonorgestrel bán ở hiệu thuốc Trung Quốc là thuốc không cần đơn. Ủy ban Y tế thành phố Vũ Hán hướng dẫn: “trong 72 giờ” sau quan hệ không bảo vệ, “uống càng sớm thì hiệu quả phòng mang thai càng tốt”. Thuốc dự phòng HIV sau phơi nhiễm cần cố gắng bắt đầu trong 2 giờ, muộn nhất không quá 72 giờ (toàn Trung Quốc).",
+    "notes": "Xếp mức B vì đây là kinh nghiệm xử lý vụ án và hướng dẫn dùng thuốc của cơ quan chính thức, không có số liệu “làm theo thì tỷ lệ kết tội tăng bao nhiêu”. Người hưởng lợi chủ yếu là bạn và người nhà. Mốc 72 giờ của thuốc tránh thai khẩn cấp theo hướng dẫn sử dụng tại Trung Quốc; Tổ chức Y tế Thế giới nói trong 5 ngày vẫn có tác dụng nhưng càng muộn càng kém, đừng trì hoãn. Đã mang thai thì thuốc tránh thai khẩn cấp không có tác dụng. Khi báo cảnh sát hãy nói thật, không che giấu cũng không phóng đại. Đối phương sau đó tìm bạn dàn xếp riêng, đưa tiền hoặc đe dọa thì đều lưu lại, đừng xóa. Bạn có thể suy nghĩ kỹ rồi mới báo, nhưng chứng cứ sẽ mất dần theo thời gian. Dù có báo hay không, vẫn phải đến viện trong thời hạn. Ghi âm xem chương 8 mục 41 (ghi âm). Đối phương sau đó dùng ảnh hoặc việc báo cảnh sát để uy hiếp bạn cũng là tội phạm; xem chương 8 mục 32 (đối phương dọa báo cảnh sát, đăng ảnh để đòi tiền). Bạn bè gặp chuyện như vậy thì đi cùng họ báo cảnh sát, đến viện, đừng khuyên họ tắm rồi nghỉ trước. Cách dạy trẻ thường ngày và phản hồi khi trẻ kể xem chương 30 mục 19 (nhận biết vùng riêng tư của cơ thể). Quá một tháng vẫn ác mộng, hồi tưởng sống lại sự việc thì xem chương 29 mục 14 (trị liệu tâm lý tập trung vào sang chấn). Tránh thai thường ngày sau sinh xem chương 27 mục 20 (cho bú không đồng nghĩa tránh thai).",
+    "extra": ""
+  }
+}

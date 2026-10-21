@@ -1,0 +1,35 @@
+{
+  "id": "e-22-6",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/22-怎么放松.md",
+  "source_sha256": "a1ebb695a094ec505f1899b93964aad73ce574e47eb072bba7aa237095ed9f0b",
+  "original": {
+    "number": 6,
+    "title": "心情差到抑郁的程度，就去走或者跑，抗抑郁的效应量（效果大小）跟强度成正比",
+    "fields": {
+      "cost": "不花钱。每次半小时上下。难在情绪差的时候最不想动，得推自己一把。",
+      "plain": "重度抑郁的人运动，快走或慢跑改善最明显。其次是瑜伽、力量训练、太极气功，几种差距不大。强度开得越高效果越好，力量训练和瑜伽最容易坚持。这方面的证据质量偏低，能确定的是动比不动好，挑自己坚持得下来的那种。",
+      "benefit": "这是把 218 项随机分成两组的对照试验合在一起算的结果。涉及 495 个组、14170 名符合重度抑郁临床标准的参与者。算法让各种运动互相比较（贝叶斯网状荟萃分析）。拿来对比的是常规照护和安慰剂片（主动对照）。效果大小用 Hedges' g 表示，数越往负走，症状改善越多。快走或慢跑 −0.62（95% 可信区间 −0.80 至 −0.45，意思是真实值大致落在这一段里）。瑜伽 −0.55（−0.73 至 −0.36）。力量训练 −0.49（−0.69 至 −0.29）。混合有氧 −0.43（−0.61 至 −0.24）。太极或气功 −0.42（−0.65 至 −0.21）。原文说「运动的效果与所处方的强度成正比」：强度开得越高，效果越好。力量训练和瑜伽的可接受度最好，最容易坚持下来",
+      "grade": "A",
+      "sources": "Noetel M, Sanders T, Gallardo-Gómez D, et al. (2024). Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ, 384, e075847. <https://doi.org/10.1136/bmj-2023-075847>",
+      "notes": "争议。作者自己写明，218 项研究里只有 1 项做得够干净、不容易被设计带偏。按通行的打分法，快走慢跑只算「低」可信，其余是「极低」。运动也瞒不住参与者，人知道自己在锻炼，就容易觉得好些，这份期待去不掉。结论方向仍然可用：动比不动好，强度别太低，选自己能坚持的那种。这是第 3 节「情绪低落时先动起来」的展开，不能替代确诊后的规范治疗"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi tâm trạng xuống đến mức trầm cảm, hãy đi bộ hoặc chạy; độ lớn tác dụng chống trầm cảm tỷ lệ thuận với cường độ",
+    "cost": "Không tốn tiền. Mỗi lần khoảng nửa giờ. Cái khó là lúc tâm trạng tệ nhất cũng là lúc ít muốn vận động nhất, nên phải tự thúc mình một chút.",
+    "plain": "Ở người trầm cảm nặng, đi bộ nhanh hoặc chạy chậm cải thiện rõ nhất, tiếp theo là yoga, tập sức mạnh và thái cực quyền, khí công; chênh lệch giữa các loại không lớn. Cường độ được chỉ định càng cao thì hiệu quả càng tốt, còn tập sức mạnh và yoga dễ duy trì nhất. Chất lượng bằng chứng còn thấp; điều có thể xác định là vận động tốt hơn không vận động, nên chọn loại mình có thể duy trì.",
+    "benefit": "Kết quả gộp từ 218 thử nghiệm đối chứng phân nhóm ngẫu nhiên thành hai nhóm, gồm 495 nhóm và 14170 người đáp ứng tiêu chuẩn lâm sàng của trầm cảm nặng. Phép phân tích cho phép so sánh các loại vận động với nhau, gọi là phân tích gộp mạng lưới Bayes. Nhóm đối chứng tích cực được chăm sóc thông thường và dùng viên giả dược. Độ lớn tác dụng được thể hiện bằng Hedges' g: số càng âm thì triệu chứng càng cải thiện. Đi bộ nhanh hoặc chạy chậm đạt −0.62, với khoảng tin cậy Bayes 95% từ −0.80 đến −0.45, nghĩa là giá trị thực ước chừng nằm trong khoảng này. Yoga đạt −0.55 (−0.73 đến −0.36). Tập sức mạnh đạt −0.49 (−0.69 đến −0.29). Tập aerobic kết hợp đạt −0.43 (−0.61 đến −0.24). Thái cực quyền hoặc khí công đạt −0.42 (−0.65 đến −0.21). Nguyên văn cho biết “tác dụng của vận động tỷ lệ thuận với cường độ được chỉ định”: cường độ càng cao, hiệu quả càng tốt. Tập sức mạnh và yoga được chấp nhận tốt nhất và dễ duy trì nhất.",
+    "notes": "Còn tranh luận. Chính tác giả cho biết trong 218 nghiên cứu, chỉ 1 nghiên cứu có nguy cơ sai lệch do thiết kế đủ thấp. Theo cách chấm điểm phổ biến, độ tin cậy của đi bộ nhanh, chạy chậm chỉ ở mức “thấp”; các loại khác là “rất thấp”. Cũng không thể giấu người tham gia rằng họ đang tập luyện. Biết mình đang tập khiến họ dễ cảm thấy khá hơn, và không loại bỏ được kỳ vọng này. Vẫn có thể dùng hướng kết luận: vận động tốt hơn không vận động, đừng để cường độ quá thấp và hãy chọn loại mình duy trì được. Đây là phần triển khai chi tiết lời khuyên “khi tâm trạng xuống, trước hết hãy vận động” ở chương 3, không thay thế điều trị đúng chuẩn sau khi được chẩn đoán.",
+    "extra": ""
+  }
+}

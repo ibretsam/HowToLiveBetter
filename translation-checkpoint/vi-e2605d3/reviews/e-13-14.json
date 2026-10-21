@@ -1,0 +1,15 @@
+{
+  "id": "e-13-14",
+  "source_sha256": "072d21e150fc27966a96c204d4ce53914de7740e88d13fc8196441180a436568",
+  "draft_sha256": "2d7be87fb568c22d8cbfbc2ee65bd41fc6bcc0c4c0996a23a8af3a48e8dcfd7d",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves pediatric cohort and odds 0.6 with CI, removes false six-tenths probability interpretation as upstream does, and keeps 3-hour/20-minute timing, no-ice and clothing/ointment cautions."
+}

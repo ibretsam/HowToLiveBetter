@@ -1,0 +1,15 @@
+{
+  "id": "e-1-14",
+  "source_sha256": "8a3b1f63065ff858cd32a9c34f271360427d1b2030b05d441a69c935e5546076",
+  "draft_sha256": "beeb1ebd69f784587f3c5b1b9892ca34cc65023bf45cdb43ae698ea91f016b3f",
+  "reviewer": "batch13-tech-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full comparison preserves neonatal versus adult evidence, immune-memory conditions, vaccine history, HBsAg/anti-HBs/core-antibody assessment and special populations. All percentages, CI, ages and 0/1/6-month schedule retained; literal source age boundaries retained."
+}

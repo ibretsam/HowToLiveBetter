@@ -1,0 +1,35 @@
+{
+  "id": "e-11-16",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "c4c4c117a19b61b968e5c6a881318079a17011885198c85048d75701d659f3b2",
+  "original": {
+    "number": 16,
+    "title": "网站、App 上线前先做 ICP 备案，按等级保护要求留 6 个月以上日志",
+    "fields": {
+      "cost": "备案免费，走云厂商的流程，作者的经验是几天到几周。等级保护测评按级别收费。等级保护简称等保，是国家按系统重要程度分级、要求网站和系统做到的一套安全管理动作",
+      "plain": "备案不要钱，境内服务器不备案、又拒不改正的，会被关站。备案说不收费、实际在收钱的，罚违法所得的 3 到 5 倍，或者 10 万到 100 万元。日志要留满 6 个月，拒不改正或出了后果的罚 1 万到 10 万元。",
+      "benefit": "经营性的互联网信息服务实行许可，非经营性的实行备案。没有取得许可、或者没有备案的，不得从事。未备案的，由电信管理机构责令改正，拒不改正的责令关闭网站。未经许可经营的，没收违法所得，并罚违法所得的 3 到 5 倍，或者罚 10 万到 100 万元。网站主页不标备案号，罚 5000 元到 5 万元。网络运营者要按等级保护制度（等保）制定安全管理制度、防范攻击、留存网络日志不少于 6 个月、对数据分类备份加密。不履行的，责令改正、给予警告。拒不改正或者造成后果的，罚 1 万到 10 万元，主管人员罚 5000 元到 5 万元（全国）",
+      "grade": "A",
+      "sources": "国务院 (2011). 互联网信息服务管理办法（2011 年修订，第四、十九、二十二条）. <https://www.gov.cn/gongbao/content/2011/content_1860864.htm>；全国人大常委会 (2025). 网络安全法（2025 年修正，2026 年 1 月 1 日施行，第二十三、六十一条；2016 年文本为第二十一、五十九条）. <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm>",
+      "notes": "境内服务器不备案，接入商不许给你接入。备案怎么办、不挂备案号罚多少、怎么查服务商有没有资质，见第 26 节第 4 条（服务器放境内就要备案）。真正踩坑的是两种情况：备案成个人非经营性，实际却在收费；换了域名或者换了主体，没去变更备案。作者的看法是，日志留 6 个月既是义务也是自保，出事时能拿来说明不是你干的。App 和小程序上架前也要备案，办法在同一条里。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trước khi đưa website, ứng dụng lên hoạt động, làm thủ tục đăng ký ICP và lưu nhật ký từ 6 tháng trở lên theo yêu cầu bảo vệ theo cấp độ",
+    "cost": "Đăng ký miễn phí, làm theo quy trình của nhà cung cấp đám mây; theo kinh nghiệm tác giả, mất vài ngày đến vài tuần. Đánh giá bảo vệ theo cấp độ thu phí theo từng cấp. Bảo vệ theo cấp độ là hệ thống biện pháp quản lý an ninh nhà nước yêu cầu website và hệ thống thực hiện, phân loại theo mức độ quan trọng của hệ thống.",
+    "plain": "Đăng ký không mất tiền; dùng máy chủ trong nước mà không đăng ký, lại không chịu sửa thì website bị đóng. Khai trong hồ sơ đăng ký rằng dịch vụ không thu phí nhưng thực tế lại thu tiền thì bị phạt 3 đến 5 lần khoản thu lợi trái pháp luật hoặc 10 vạn đến 100 vạn nhân dân tệ. Nhật ký phải lưu đủ 6 tháng; không sửa hoặc gây hậu quả thì phạt 1 vạn đến 10 vạn nhân dân tệ.",
+    "benefit": "Dịch vụ thông tin Internet mang tính kinh doanh áp dụng chế độ cấp phép; loại không mang tính kinh doanh áp dụng chế độ đăng ký. Không có giấy phép hoặc chưa đăng ký thì không được cung cấp dịch vụ. Chưa đăng ký thì cơ quan quản lý viễn thông yêu cầu sửa; không sửa thì yêu cầu đóng website. Kinh doanh khi chưa có phép bị tịch thu khoản thu lợi trái pháp luật và phạt 3 đến 5 lần khoản đó, hoặc phạt 10 vạn đến 100 vạn nhân dân tệ. Trang chủ không ghi số đăng ký bị phạt từ 5000 nhân dân tệ đến 5 vạn nhân dân tệ. Bên vận hành mạng phải xây dựng chế độ quản lý an ninh, phòng chống tấn công, lưu nhật ký mạng ít nhất 6 tháng, phân loại, sao lưu, mã hóa dữ liệu theo chế độ bảo vệ theo cấp độ. Không thực hiện thì bị yêu cầu sửa và cảnh cáo. Không sửa hoặc gây hậu quả thì phạt 1 vạn đến 10 vạn nhân dân tệ; người quản lý bị phạt từ 5000 nhân dân tệ đến 5 vạn nhân dân tệ (toàn quốc).",
+    "notes": "Máy chủ trong nước chưa đăng ký thì nhà cung cấp kết nối không được cho kết nối. Cách đăng ký, mức phạt khi không ghi số đăng ký và cách kiểm tra nhà cung cấp có đủ tư cách hay không, xem chương 26 mục 4 về máy chủ đặt trong nước phải đăng ký. Hai trường hợp dễ gặp rắc rối là đăng ký cá nhân phi kinh doanh nhưng thực tế thu tiền, hoặc đổi tên miền hay chủ thể mà không thay đổi đăng ký. Theo tác giả, lưu nhật ký 6 tháng vừa là nghĩa vụ vừa giúp tự bảo vệ: khi có chuyện, có thể dùng để chứng minh không phải mình làm. Ứng dụng và chương trình nhỏ cũng phải đăng ký trước khi phát hành; cách làm ở cùng mục đó.",
+    "extra": ""
+  }
+}

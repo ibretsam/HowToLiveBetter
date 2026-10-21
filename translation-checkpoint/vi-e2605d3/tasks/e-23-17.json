@@ -1,0 +1,35 @@
+{
+  "id": "e-23-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/23-学什么技能划算.md",
+  "source_sha256": "f3d6b53a4707c6aa0f575f75b48aea3ca5cd2554373c2cf6fb2111888841509a",
+  "original": {
+    "number": 17,
+    "title": "几种题型混着练，别一种连做二十道",
+    "fields": {
+      "cost": "不花钱。把练习册按题型顺序做改成打乱着做。难在混着练当场正确率更低，感觉像退步。",
+      "plain": "同一类题连做一大串，当场做得顺。把几类题打乱着练，长期效果更好，属于中等幅度。但这招挑材料：认画家风格这类看图的材料最有效，数学题小一些，背单词反而不如分块练。",
+      "benefit": "一份纳入 59 项研究、238 个效应量、158 个样本的多层荟萃分析。交错练习相对于分块练习的总体效应属于中等（Hedges' g = 0.42）。按材料分，绘画类最好（g = 0.67），其他视觉材料也较好。数学任务的效应较小（g = 0.34）。说明性文本和味觉材料的总体效应不显著。词汇类反而是分块练习更好（g = −0.39）。回归分析显示：类别之间越相似、同一类别内部越不相似、材料越复杂，交错的好处越大。",
+      "grade": "A",
+      "sources": "Brunmair M, Richter T (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. Psychological Bulletin, 145(11), 1029–1052. <https://doi.org/10.1037/bul0000209>",
+      "notes": "第 16 条（别把划重点当主要学法）引的那份综述把交错练习评为中等一档，理由是当时研究还不够多。两份合起来看，需要「认出这是哪一类、该用哪个方法」的内容混着练，比如数学题型、病例、法条适用。需要死记的内容分块练，比如单词、名词解释。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Luyện xen kẽ nhiều dạng bài, đừng làm liền hai mươi bài cùng dạng",
+    "cost": "Không tốn tiền. Thay vì làm sách bài tập theo thứ tự từng dạng, hãy xáo trộn. Khó ở chỗ luyện xen kẽ có tỷ lệ đúng ngay lúc đó thấp hơn, tạo cảm giác thụt lùi.",
+    "plain": "Làm một chuỗi dài bài cùng dạng thì lúc đó thấy trôi chảy. Xáo trộn nhiều dạng để luyện đem lại hiệu quả dài hạn tốt hơn, ở mức vừa. Nhưng còn tùy tài liệu: hiệu quả mạnh nhất với hình ảnh như nhận diện phong cách họa sĩ, nhỏ hơn với toán, còn học từ vựng lại kém hơn luyện theo từng nhóm.",
+    "benefit": "Một phân tích gộp đa tầng gồm 59 nghiên cứu, 238 mức tác động và 158 mẫu. Hiệu quả tổng thể của luyện xen kẽ so với luyện từng nhóm ở mức vừa (Hedges' g = 0.42). Theo loại tài liệu, tranh vẽ tốt nhất (g = 0.67), tài liệu hình ảnh khác cũng khá tốt. Tác động với nhiệm vụ toán nhỏ hơn (g = 0.34). Tác động tổng thể với văn bản thuyết minh và tài liệu vị giác không có ý nghĩa thống kê. Với từ vựng, luyện từng nhóm lại tốt hơn (g = −0.39). Phân tích hồi quy cho thấy các loại càng giống nhau, các thành phần trong cùng loại càng khác nhau và tài liệu càng phức tạp thì lợi ích của luyện xen kẽ càng lớn.",
+    "notes": "Tổng quan dẫn ở mục 16 (đừng lấy tô ý chính làm cách học chủ yếu) xếp luyện xen kẽ ở mức vừa vì lúc đó chưa có nhiều nghiên cứu. Xem chung hai nguồn, nội dung cần nhận ra thuộc loại nào và dùng cách nào thì nên luyện xen kẽ, chẳng hạn dạng toán, ca bệnh và áp dụng điều luật. Nội dung phải ghi nhớ máy móc thì luyện theo nhóm, chẳng hạn từ vựng và định nghĩa thuật ngữ.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e-4-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/04-不要浪费时间.md",
+  "source_sha256": "e1b2b13b900f90ae1ad39db63a6793bb1015db707ce6011309b3280e701045bf",
+  "original": {
+    "number": 18,
+    "title": "选住处时把通勤时长放在前面，缩短单程通勤",
+    "fields": {
+      "cost": "成本高。可能要付更高的房租，或者换一套更小的房子。搬家本身也要花时间。",
+      "plain": "德国的跟踪数据里，通勤越长的人，自己觉得过得越不好。这笔损失并没有在工资或者住房上被补回来。单程少 30 分钟，一周就省出 5 小时。",
+      "benefit": "中国居民每天花在交通上平均 50 分钟。只算当天有出行的人，是 1 小时 2 分钟。这是 2024 年的数字。德国长期跟踪同一批人的数据显示，通勤越长的人主观幸福感（自己觉得过得好不好）稳定地更低。而且这笔损失没有在收入或住房上得到补偿。把多项研究梳理到一起的综述也确认，通勤时间越长，人对通勤越不满意，这一点和用什么交通方式无关。单程少 30 分钟，每周约省 5 小时。",
+      "grade": "B",
+      "sources": "Stutzer, A., & Frey, B. S. (2008). Stress that doesn't pay: The commuting paradox. Scandinavian Journal of Economics, 110(2), 339–366. <https://doi.org/10.1111/j.1467-9442.2008.00542.x>；Chatterjee, K., et al. (2020). Commuting and wellbeing: A critical overview of the literature with implications for policy and future research. Transport Reviews, 40(1), 5–34. <https://doi.org/10.1080/01441647.2019.1649317>；国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>",
+      "notes": "争议：Chatterjee 等人汇总多项研究后指出，通勤长短和整体生活满意度之间还看不出稳定的关系。他们认为，人们大体上能用更好的工作或住房，把长通勤的损失换回来。还要注意，交通活动的统计算的是所有出行，不只是通勤。另外能错峰上下班的话，同样一段路也能跑得更短。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Ưu tiên thời gian đi làm khi chọn chỗ ở, rút ngắn thời gian đi một chiều",
+    "cost": "Chi phí cao. Có thể phải trả tiền thuê cao hơn hoặc chuyển sang nhà nhỏ hơn. Bản thân chuyển nhà cũng mất thời gian.",
+    "plain": "Trong dữ liệu theo dõi tại Đức, người đi làm càng lâu càng cảm thấy cuộc sống kém tốt đẹp. Thiệt hại này không được bù lại bằng lương hoặc nhà ở. Giảm 30 phút đi một chiều thì tiết kiệm 5 giờ mỗi tuần.",
+    "benefit": "Cư dân Trung Quốc dành trung bình 50 phút mỗi ngày cho giao thông. Chỉ tính người có đi lại hôm đó thì là 1 giờ 2 phút. Đây là số liệu năm 2024. Dữ liệu Đức theo dõi cùng nhóm người lâu dài cho thấy người có thời gian đi làm dài hơn có mức hạnh phúc chủ quan (tự thấy cuộc sống có tốt không) thấp hơn một cách ổn định. Thiệt hại này không được bù lại bằng thu nhập hoặc nhà ở. Tổng quan hệ thống lại nhiều nghiên cứu cũng xác nhận thời gian đi làm càng dài, người ta càng không hài lòng với việc đi làm; điều này không phụ thuộc phương tiện giao thông. Giảm 30 phút đi một chiều thì tiết kiệm khoảng 5 giờ mỗi tuần.",
+    "notes": "Tranh luận: Sau khi tổng hợp nhiều nghiên cứu, Chatterjee và cộng sự chỉ ra chưa thấy mối liên hệ ổn định giữa độ dài thời gian đi làm và mức hài lòng với cuộc sống nói chung. Họ cho rằng nhìn chung người ta có thể bù thiệt hại của việc đi làm xa bằng công việc hoặc chỗ ở tốt hơn. Cũng cần chú ý thống kê hoạt động giao thông tính mọi chuyến đi, không chỉ đi làm. Ngoài ra, nếu có thể đi làm và về lệch giờ cao điểm thì cùng quãng đường cũng mất ít thời gian hơn.",
+    "extra": ""
+  }
+}

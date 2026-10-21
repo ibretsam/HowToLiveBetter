@@ -1,0 +1,36 @@
+{
+  "id": "e-30-1",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "427bec7a67027dfcd7314bef9ff320631dccd71f6acd6b2124212882ec40c5db",
+  "original": {
+    "number": 1,
+    "title": "孩子说突然剧痛、而且越来越重，立刻去医院，不要让他忍到放学",
+    "fields": {
+      "cost": "不花钱。请半天假，带孩子去挂急诊。",
+      "plain": "有些病是按小时算的。男孩突然一侧阴囊剧痛，可能是睾丸扭转，也就是睾丸连着的那根血管拧住了，血供断了。6 小时内处理，睾丸保住的比例 97.2%。拖到 19 至 24 小时，只剩 42.5%。这种痛等不到放学，也等不到考完。",
+      "benefit": "按规矩把 30 组病例报告、2116 例睾丸扭转患者找齐，合起来看。其中 1283 例是按 6 小时一档统计的。从开始痛算起，0 至 6 小时睾丸保住的比例 97.2%。7 至 12 小时 79.3%。13 至 18 小时 61.3%。19 至 24 小时 42.5%。25 至 48 小时 24.4%。超过 48 小时 7.4%。合并成大段看，12 小时内 90.4%，13 至 24 小时 54.0%，超过 24 小时 18.1%。作者的结论是，能保住的时间可以比通常说的 6 至 8 小时更长。所以就算已经痛了很久，也还是要去处理，不要因为「反正晚了」就不去。美国 2000、2003、2006 年三年的儿童住院数据里，有 2443 名 1 个月到不满 18 岁的男孩做了睾丸扭转手术。发病年龄有两个高峰，一个在出生第一年，一个在刚进青春期",
+      "grade": "A",
+      "sources": "Mellick LB, et al. (2019). A Systematic Review of Testicle Survival Time After a Torsion Event. Pediatric Emergency Care. <https://doi.org/10.1097/PEC.0000000000001287>；Zhao LC, Lautz TB, Meeks JJ, Maizels M. (2011). Pediatric testicular torsion epidemiology using a national database: incidence, risk of orchiectomy and possible measures toward improving the quality of care. Journal of Urology, 186(5), 2009-2013. <https://doi.org/10.1016/j.juro.2011.07.024>",
+      "notes": "提前跟男孩说一句：下面要是突然剧痛，马上讲，不用不好意思。睾丸扭转在刚进青春期的男孩里多见。不少孩子不好意思说，就硬忍着，这是作者的经验。同样按小时算的还有急性阑尾炎（拖久了会穿孔）、糖尿病酮症酸中毒、脑膜炎。这几种本节没有逐条核实过「拖几小时坏多少」。作者总结它们共同的信号是：突然发作，一直加重，和以往任何一次都不一样。急症怎么认、怎么叫车见第 13 节。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Trẻ nói đột nhiên đau dữ dội và ngày càng nặng thì đưa đến bệnh viện ngay, đừng bắt trẻ chịu đến tan học",
+    "cost": "Không tốn tiền. Xin nghỉ nửa ngày để đưa trẻ đến khoa cấp cứu.",
+    "plain": "Có bệnh phải tính từng giờ. Bé trai đột nhiên đau dữ dội một bên bìu có thể bị xoắn tinh hoàn, tức mạch máu nối với tinh hoàn bị xoắn, cắt đứt nguồn máu. Xử lý trong 6 giờ thì tỷ lệ giữ được tinh hoàn là 97.2%. Kéo dài đến 19 đến 24 giờ chỉ còn 42.5%. Cơn đau này không thể đợi tan học hay thi xong.",
+    "benefit": "Tìm có hệ thống 30 loạt báo cáo ca bệnh với 2116 bệnh nhân xoắn tinh hoàn để xem xét chung. Trong đó, 1283 ca được thống kê theo từng khoảng 6 giờ. Tính từ lúc bắt đầu đau, tỷ lệ giữ được tinh hoàn là 97.2% trong 0 đến 6 giờ; 79.3% trong 7 đến 12 giờ; 61.3% trong 13 đến 18 giờ; 42.5% trong 19 đến 24 giờ; 24.4% trong 25 đến 48 giờ; và 7.4% sau 48 giờ. Gộp thành khoảng lớn hơn thì trong 12 giờ là 90.4%, từ 13 đến 24 giờ là 54.0%, sau 24 giờ là 18.1%. Các tác giả kết luận thời gian còn có thể giữ được tinh hoàn có thể dài hơn khoảng 6 đến 8 giờ thường được nhắc đến. Vì vậy, dù đã đau lâu vẫn phải đi xử lý, đừng nghĩ “đằng nào cũng muộn rồi” mà không đi. Trong dữ liệu trẻ nằm viện tại Mỹ của ba năm 2000, 2003 và 2006, có 2443 bé trai từ 1 tháng đến chưa đủ 18 tuổi được phẫu thuật xoắn tinh hoàn. Tuổi khởi bệnh có hai đỉnh: năm đầu sau sinh và lúc mới bước vào tuổi dậy thì.",
+    "notes": "Hãy nói trước với bé trai: nếu đột nhiên đau dữ dội ở vùng kín thì báo ngay, không cần ngại. Xoắn tinh hoàn thường gặp ở bé trai mới bước vào tuổi dậy thì. Nhiều trẻ ngại nói nên cố chịu; đây là kinh nghiệm của tác giả. Các bệnh cũng phải tính từng giờ còn có viêm ruột thừa cấp, để lâu có thể thủng, nhiễm toan ceton do đái tháo đường và viêm màng não. Chương này chưa kiểm chứng riêng từng bệnh xem chậm bao nhiêu giờ thì hậu quả tăng bao nhiêu. Tác giả tổng kết dấu hiệu chung là khởi phát đột ngột, liên tục nặng hơn và khác mọi lần trước. Nhận biết cấp cứu và gọi xe thế nào, xem chương 13.",
+    "extra": ""
+  }
+}

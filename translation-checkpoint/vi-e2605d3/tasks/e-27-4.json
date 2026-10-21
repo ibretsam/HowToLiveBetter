@@ -1,0 +1,36 @@
+{
+  "id": "e-27-4",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "5213c7c57ebe1249cb508f304a45745d9a7a13059f69b4f886f40943dfd66eb0",
+  "original": {
+    "number": 4,
+    "title": "整个孕期一支烟一口酒都不要，家里人也别在屋里抽",
+    "fields": {
+      "cost": "不花钱，还能省下烟酒钱。难在让同住的人跟着一起戒",
+      "plain": "孕期抽烟，孩子早产、生下来太小、唇腭裂的概率都往上走，孕期和生产时异常出血的风险翻一倍。孕妇抽烟，或者孩子出生后吸到烟，婴儿猝死的风险都更高。什么时候戒都还来得及。",
+      "benefit": "美国疾病控制与预防中心的口径：孕期吸烟会让孩子「足月出生也可能过小」「可能早产」。它会「使孕期和分娩期异常出血的风险翻倍」。它会提高唇裂、腭裂等出生缺陷的风险。它还会「损害胎儿正在发育的肺和大脑，损害可持续到儿童期」。孕期吸烟的母亲生的婴儿，以及出生后接触烟雾的婴儿，婴儿猝死综合征的风险更高。官方建议是「最好在怀孕前就戒烟，但如果已经怀孕，戒了仍然有用」「什么时候戒都不晚」。酒方面，美国疾病控制与预防中心说，孕期「没有已知安全的饮酒量」，整个孕期也没有哪段时间喝酒是安全的。孩子的大脑整个孕期都在发育，什么时候接触到酒都可能受影响",
+      "grade": "A",
+      "sources": "Centers for Disease Control and Prevention. Smoking During Pregnancy. <https://www.cdc.gov/tobacco/campaign/tips/diseases/pregnancy.html>；Centers for Disease Control and Prevention. About Alcohol Use During Pregnancy. <https://www.cdc.gov/alcohol-pregnancy/about/index.html>",
+      "notes": "别人在屋里抽，孕妇吸到的二手烟对胎儿一样算数。所以同住的家人也别在屋里抽。酒也一样：没有哪个喝酒的量是已知安全的，孕期最省事的做法就是一口不喝。烟酒对成年人自己的账见第 2 节"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "是",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Suốt thai kỳ không hút dù một điếu thuốc, không uống dù một ngụm rượu; người nhà cũng đừng hút trong phòng",
+    "cost": "Không tốn tiền, còn tiết kiệm tiền thuốc lá và rượu. Điều khó là khiến người sống cùng cũng chịu bỏ.",
+    "plain": "Hút thuốc khi mang thai làm tăng nguy cơ trẻ sinh non, quá nhỏ lúc sinh, sứt môi hoặc hở hàm ếch; nguy cơ chảy máu bất thường trong thai kỳ và lúc sinh tăng gấp đôi. Mẹ hút thuốc khi mang thai hoặc trẻ hít khói sau sinh đều làm tăng nguy cơ đột tử ở trẻ nhũ nhi. Bỏ lúc nào cũng vẫn kịp.",
+    "benefit": "Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Mỹ cho biết hút thuốc khi mang thai khiến trẻ “có thể quá nhỏ dù sinh đủ tháng”, “có thể sinh non”. Nó “làm tăng gấp đôi nguy cơ chảy máu bất thường trong thai kỳ và lúc sinh”, tăng nguy cơ dị tật bẩm sinh như sứt môi, hở hàm ếch. Nó còn “làm tổn thương phổi và não đang phát triển của thai nhi, tổn thương có thể kéo dài tới thời thơ ấu”. Trẻ sinh từ người mẹ hút thuốc khi mang thai và trẻ tiếp xúc khói thuốc sau sinh đều có nguy cơ hội chứng đột tử ở trẻ nhũ nhi cao hơn. Khuyến cáo chính thức là “tốt nhất bỏ thuốc trước khi mang thai, nhưng đã mang thai thì bỏ vẫn có ích”, “bỏ lúc nào cũng không muộn”. Về rượu, cơ quan này nói “không có lượng uống nào được biết là an toàn” trong thai kỳ, cũng không có giai đoạn nào uống rượu là an toàn. Não của trẻ phát triển suốt thai kỳ, tiếp xúc với rượu vào lúc nào cũng có thể bị ảnh hưởng.",
+    "notes": "Người khác hút trong phòng, khói thuốc thụ động thai phụ hít phải cũng ảnh hưởng tới thai nhi. Vì vậy người nhà sống cùng cũng đừng hút trong phòng. Rượu cũng vậy: không có lượng uống nào được biết là an toàn, cách đơn giản nhất khi mang thai là không uống dù một ngụm. Tác động của thuốc lá, rượu lên chính người trưởng thành xem chương 2.",
+    "extra": ""
+  }
+}

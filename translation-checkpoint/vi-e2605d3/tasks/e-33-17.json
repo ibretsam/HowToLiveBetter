@@ -1,0 +1,35 @@
+{
+  "id": "e-33-17",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/33-残疾之后怎么活.md",
+  "source_sha256": "d5a8f777bfdbf8e955f13a14bab258a124a905b1ef78b6f258ae58e4ce0d781b",
+  "original": {
+    "number": 17,
+    "title": "听力下降就去配助听器，配它的理由是听得见，不是防痴呆",
+    "fields": {
+      "cost": "助听器几千到几万元，多数要自费。要验配，还要来回调试几次。",
+      "plain": "「戴助听器能防痴呆」这个说法目前没有立住。一项近千人的三年试验，总体上没有做出差别。只有在本来认知下降风险就偏高的那部分人里看到了差别。所以配助听器的理由是当下听得见、能和人说话、过马路能听见车，不是为了几十年以后的脑子。",
+      "benefit": "ACHIEVE 试验在美国 4 个社区做，纳入 977 名 70 到 84 岁、有未经治疗的听力损失、没有明显认知障碍的人。随机分成两组，一组接受听力干预（听力咨询和配助听器），一组接受健康教育对照，每 6 个月随访一次。主要终点是 3 年的整体认知评分变化。合并两个来源人群的主要分析里，两组没有显著差别：听力干预组 −0.200（95% CI −0.256 到 −0.144），对照组 −0.202（95% CI −0.258 到 −0.145），差值 0.002（95% CI −0.077 到 0.081），P=0.96。一项预设的敏感性分析显示，干预效果在两个来源人群之间存在差异（交互作用 P=0.010）。来自那项长期心血管健康观察研究的参与者年龄更大、认知下降的危险因素更多、基线认知分更低。在这部分 238 人里，听力干预组 3 年的认知下降少了 48%（差值 0.191，95% CI 0.022–0.360，P=0.027）。另外 739 名新招募的健康志愿者里，两组没有显著差别（差值 −0.061，95% CI −0.151 到 0.028，P=0.18）。研究者的结论是，听力干预可能在认知下降风险较高的人群里减少 3 年的认知变化，在风险较低的人群里则不能。试验没有报告归因于研究的严重不良事件",
+      "grade": "A",
+      "sources": "Lin FR, Pike JR, Albert MS, et al.; ACHIEVE Collaborative Research Group (2023). Hearing intervention versus health education control to reduce cognitive decline in older adults with hearing loss in the USA (ACHIEVE): a multicentre, randomised controlled trial. Lancet, 402(10404):786-797. <https://doi.org/10.1016/S0140-6736(23)01406-X>",
+      "notes": "争议：「助听器让认知下降少了近一半」这个说法，数字来自这项试验里 238 人的一个亚组，不是它的主要结果，主要结果是两组没有差别。「配助听器」和「防痴呆」要分开看：前者该做，后者别当成理由。听力残疾考生高考可以免外语听力，见本节第 13 条（合理便利）。有听力障碍的人开车应当佩戴助听设备，见本节第 15 条（C5）。"
+    },
+    "tags": {
+      "钱": "多",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Thính lực giảm thì đi chọn máy trợ thính phù hợp; lý do dùng là để nghe được, không phải phòng sa sút trí tuệ",
+    "cost": "Máy trợ thính giá từ vài nghìn đến vài vạn nhân dân tệ, phần lớn phải tự trả. Cần đo, chọn máy phù hợp và quay lại điều chỉnh vài lần.",
+    "plain": "Nhận định “đeo máy trợ thính có thể phòng sa sút trí tuệ” hiện chưa được chứng minh vững chắc. Một thử nghiệm kéo dài ba năm với gần nghìn người không cho thấy khác biệt trên toàn bộ mẫu. Chỉ thấy khác biệt ở nhóm vốn có nguy cơ suy giảm nhận thức cao hơn. Vì vậy, lý do dùng máy trợ thính là hiện tại nghe được, trò chuyện được với người khác và nghe được tiếng xe khi qua đường, không phải vì bộ não vài chục năm sau.",
+    "benefit": "Thử nghiệm ACHIEVE thực hiện tại 4 cộng đồng ở Mỹ, gồm 977 người từ 70 đến 84 tuổi bị mất thính lực chưa điều trị và không có suy giảm nhận thức rõ rệt. Họ được phân ngẫu nhiên thành hai nhóm: một nhóm nhận can thiệp thính lực (tư vấn thính lực và trang bị máy trợ thính phù hợp), nhóm đối chứng nhận giáo dục sức khỏe; theo dõi mỗi 6 tháng. Tiêu chí chính là thay đổi điểm nhận thức tổng thể trong 3 năm. Trong phân tích chính gộp các đối tượng từ hai nguồn tuyển chọn, hai nhóm không khác biệt có ý nghĩa thống kê: nhóm can thiệp thính lực −0.200 (95% CI −0.256 đến −0.144), nhóm đối chứng −0.202 (95% CI −0.258 đến −0.145), chênh lệch 0.002 (95% CI −0.077 đến 0.081), P=0.96. Một phân tích độ nhạy định trước cho thấy hiệu quả can thiệp khác nhau giữa hai nhóm nguồn tuyển chọn (P tương tác=0.010). Người tham gia từ nghiên cứu quan sát dài hạn về sức khỏe tim mạch có tuổi cao hơn, nhiều yếu tố nguy cơ suy giảm nhận thức hơn và điểm nhận thức ban đầu thấp hơn. Trong nhóm 238 người này, mức suy giảm nhận thức trong 3 năm của nhóm can thiệp thính lực ít hơn 48% (chênh lệch 0.191, 95% CI 0.022–0.360, P=0.027). Trong 739 tình nguyện viên khỏe mạnh được tuyển mới còn lại, hai nhóm không khác biệt có ý nghĩa thống kê (chênh lệch −0.061, 95% CI −0.151 đến 0.028, P=0.18). Các nhà nghiên cứu kết luận can thiệp thính lực có thể làm giảm thay đổi nhận thức trong 3 năm ở người có nguy cơ suy giảm nhận thức cao hơn, nhưng không có tác dụng đó ở nhóm nguy cơ thấp hơn. Thử nghiệm không ghi nhận biến cố bất lợi nghiêm trọng được quy cho nghiên cứu.",
+    "notes": "Điểm còn tranh luận: con số trong nhận định “máy trợ thính làm giảm gần một nửa mức suy giảm nhận thức” đến từ một phân nhóm gồm 238 người trong thử nghiệm, không phải kết quả chính; kết quả chính là hai nhóm không khác biệt. Cần xem riêng việc “dùng máy trợ thính” và “phòng sa sút trí tuệ”: việc trước nên làm, việc sau đừng dùng làm lý do. Thí sinh khuyết tật thính giác có thể được miễn phần nghe ngoại ngữ trong kỳ thi tuyển sinh đại học, xem mục 13 phần này (điều chỉnh hợp lý). Người suy giảm thính lực phải đeo thiết bị trợ thính khi lái xe, xem mục 15 phần này (C5).",
+    "extra": ""
+  }
+}

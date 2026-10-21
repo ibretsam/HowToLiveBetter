@@ -1,0 +1,15 @@
+{
+  "id": "e-12-27",
+  "source_sha256": "e486c2ac38ee277ed65c88b21529e6f49cd105338a0d3f1b4b9b437365f1d0f7",
+  "draft_sha256": "076b3136a62fa16190d30c988376928092a31d98c109f6f8579f5c04099ae7f9",
+  "reviewer": "batch13-rights-review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full independent bilingual comparison of all translated fields, numbers, conditions, cross-references and citation context completed. Preserves unanimous interested-owner consent, three prohibited restaurant-location classes, 2026 environmental-code date, cancellation only when inability is not tenant-caused. Translation review does not independently verify current law or source advice."
+}

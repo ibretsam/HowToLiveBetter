@@ -1,0 +1,35 @@
+{
+  "id": "e-10-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/10-恋爱和结婚划不划算.md",
+  "source_sha256": "6e0908aa39f7ecd0a7ca360069848f41f6eae34bf29d372474255825a038d80a",
+  "original": {
+    "number": 10,
+    "title": "结婚的钱账先看法律默认规则，再决定要不要书面约定",
+    "fields": {
+      "cost": "不花钱。读一遍民法典婚姻家庭编里讲财产的那几条。有需要就两个人签一份书面财产约定，法律只要求写成书面的，不必去公证。难在把钱的事提前说开。",
+      "plain": "不签书面约定的话，法律默认婚后挣的工资奖金、经营和投资收益、继承或受赠的财产都归两人共有。婚前财产、遗嘱或赠与合同写明只给一方的，属于个人。两个人可以书面约定各归各，签了就有约束力。因带孩子、照料老人多付出的一方，离婚时可以要求补偿。",
+      "benefit": "不另作约定时的默认规则是：婚后所得的工资奖金劳务报酬、生产经营投资收益、知识产权收益、继承或受赠财产，归夫妻共同所有（第一千零六十二条）。婚前财产、人身损害赔偿、遗嘱或赠与合同明确只归一方的财产、一方专用生活用品，是个人财产（第一千零六十三条）。双方可以书面约定婚前和婚后财产归各自所有、共同所有，或者部分各自所有部分共同所有。这个约定对双方有法律约束力（第一千零六十五条）。因抚育子女、照料老人、协助另一方工作而负担较多义务的一方，离婚时有权请求补偿（第一千零八十八条）",
+      "grade": "A",
+      "sources": "全国人民代表大会 (2020). 中华人民共和国民法典（2021 年 1 月 1 日起施行，第一千零六十二、一千零六十三、一千零六十五、一千零八十八条）. 国家法律法规数据库 <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>；条文全文见最高人民法院公报转载 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>",
+      "notes": "彩礼、婚礼、婚房没有官方统计，本条不写数字。第一千零八十八条那笔补偿给多少，先由两人自己谈，谈不成由法院定，没有固定公式。书面财产约定对两边都管用：收入高的一方用得上，家务照料这类没报酬的活干得多的一方也用得上"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Tính chuyện tiền bạc khi kết hôn bằng cách xem quy định mặc định của luật trước, rồi quyết định có cần thỏa thuận bằng văn bản không",
+    "cost": "Không tốn tiền. Đọc các điều về tài sản trong phần Hôn nhân và gia đình của Bộ luật Dân sự. Nếu cần, hai người ký thỏa thuận tài sản bằng văn bản; luật chỉ yêu cầu lập thành văn bản, không bắt buộc công chứng. Khó ở việc bàn rõ chuyện tiền bạc từ trước.",
+    "plain": "Nếu không có thỏa thuận bằng văn bản, luật mặc định tiền lương, thưởng, thu nhập kinh doanh và đầu tư, tài sản thừa kế hoặc được tặng cho sau khi cưới đều thuộc sở hữu chung. Tài sản trước hôn nhân và tài sản mà di chúc hoặc hợp đồng tặng cho ghi rõ chỉ dành cho một người là tài sản riêng. Hai người có thể thỏa thuận bằng văn bản rằng tài sản của ai thuộc người đó; ký rồi thì có giá trị ràng buộc. Người đóng góp nhiều hơn vào chăm con, chăm người già có thể yêu cầu bồi hoàn khi ly hôn.",
+    "benefit": "Nếu không có thỏa thuận khác, quy định mặc định là: tiền lương, thưởng, thù lao lao động, thu nhập từ sản xuất, kinh doanh, đầu tư, sở hữu trí tuệ và tài sản thừa kế hoặc được tặng cho sau khi kết hôn thuộc sở hữu chung của vợ chồng (Điều một nghìn không trăm sáu mươi hai). Tài sản trước hôn nhân, khoản bồi thường tổn hại thân thể, tài sản mà di chúc hoặc hợp đồng tặng cho ghi rõ chỉ thuộc về một bên và đồ dùng sinh hoạt riêng của một bên là tài sản riêng (Điều một nghìn không trăm sáu mươi ba). Hai bên có thể thỏa thuận bằng văn bản rằng tài sản trước và sau hôn nhân thuộc sở hữu riêng, sở hữu chung, hoặc một phần riêng và một phần chung. Thỏa thuận này có giá trị pháp lý ràng buộc cả hai bên (Điều một nghìn không trăm sáu mươi lăm). Bên gánh vác nhiều nghĩa vụ hơn trong việc nuôi con, chăm người già hoặc hỗ trợ công việc của người kia có quyền yêu cầu bồi hoàn khi ly hôn (Điều một nghìn không trăm tám mươi tám).",
+    "notes": "Không có thống kê chính thức về sính lễ, đám cưới và nhà ở khi kết hôn, nên mục này không nêu con số. Mức bồi hoàn theo Điều một nghìn không trăm tám mươi tám do hai người tự thỏa thuận trước; nếu không thống nhất được thì tòa quyết định, không có công thức cố định. Thỏa thuận tài sản bằng văn bản hữu ích cho cả hai bên: người thu nhập cao dùng được, người làm nhiều việc không được trả công như việc nhà và chăm sóc gia đình cũng dùng được.",
+    "extra": ""
+  }
+}

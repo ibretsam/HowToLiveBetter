@@ -1,0 +1,36 @@
+{
+  "id": "e-30-11",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/30-上学以后的孩子.md",
+  "source_sha256": "d9722fc5f933b3672f17980fae59370928b26c73c63189b17bbee33682e19ded",
+  "original": {
+    "number": 11,
+    "title": "孩子撑不住了可以休学，学籍学校必须给他留着，最长 1 年",
+    "fields": {
+      "cost": "不花钱。由父母或其他法定监护人向学校提出申请。难在要先接受孩子停一段时间。",
+      "plain": "休学有正式制度。父母或其他监护人提出申请，学校确认后报上级核准。一次最长 1 年，期满还要休就重新申请。休学期间学校要给孩子保留学籍，复学时回来接着上。具体办法各省定，问学校教务处或当地教育局。",
+      "benefit": "《中小学生学籍管理办法》第十六条规定了休学怎么办。学生休学由父母或其他法定监护人提出申请。学校确认后报上级学籍管理部门核准。复学时学校应及时办理相关手续。一次申请休学的期限不超过 1 年，期满后确实还要接着休的，应重新申请办理。学生休学期间学校应为其保留学籍（学生身份和位置给留着）。休学复学的具体办法由省级教育行政部门制定（全国，2025 年 1 月印发）。《进一步加强中小学生心理健康工作十条措施》要求推进精神疾病转介就医和愈后复学机制建设，指导学校制定校园突发心理危机事件处理预案",
+      "grade": "B",
+      "sources": "教育部 (2025). 中小学生学籍管理办法（教基〔2025〕1 号，第十六条）. <https://www.gov.cn/zhengce/zhengceku/202502/content_7002620.htm>；教育部办公厅 (2025). 进一步加强中小学生心理健康工作十条措施（教基厅〔2025〕2 号）. <https://www.gov.cn/zhengce/zhengceku/202510/content_7045528.htm>；教育部 (2021). 未成年人学校保护规定（教育部令第 50 号，第十二条）. <https://www.gov.cn/zhengce/zhengceku/2021-06/02/content_5614946.htm>",
+      "notes": "按作者的经验，去办之前先问清三件事：要开什么医疗证明，休学这段时间学籍在系统里怎么记，复学是回原来的年级还是降一级。给 B 是因为休学要什么条件、交什么材料、复学怎么接上，都由省级教育部门自己定，全国层面只搭了个框架。《未成年人学校保护规定》第十二条还要求义务教育学校健全辍学、休学和长期请假学生的报告备案制度。所以休学是学校办过的事，不是给你一个人开特例。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "中",
+      "口径": "时间",
+      "人群": "孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Khi con không chịu nổi nữa thì có thể tạm nghỉ học; trường phải bảo lưu tư cách học sinh, tối đa 1 năm",
+    "cost": "Không tốn tiền. Cha mẹ hoặc người giám hộ hợp pháp khác nộp đơn cho trường. Cái khó là trước tiên phải chấp nhận cho con dừng lại một thời gian.",
+    "plain": "Có quy định chính thức về tạm nghỉ học. Cha mẹ hoặc người giám hộ khác nộp đơn, trường xác nhận rồi trình cấp trên phê duyệt. Mỗi lần tối đa 1 năm; hết hạn mà vẫn cần nghỉ thì nộp đơn lại. Trong thời gian nghỉ, trường phải bảo lưu tư cách học sinh cho con để khi quay lại có thể học tiếp. Cách thực hiện cụ thể do từng tỉnh quy định; hãy hỏi phòng giáo vụ của trường hoặc cơ quan giáo dục địa phương.",
+    "benefit": "Điều mười sáu của “Biện pháp quản lý học tịch học sinh tiểu học và trung học” quy định thủ tục tạm nghỉ học. Cha mẹ hoặc người giám hộ hợp pháp khác nộp đơn xin cho học sinh tạm nghỉ. Sau khi xác nhận, trường trình cơ quan quản lý học tịch cấp trên phê duyệt. Khi học sinh đi học lại, trường phải kịp thời làm các thủ tục liên quan. Thời gian tạm nghỉ trong mỗi lần xin không quá 1 năm; hết hạn mà thực sự vẫn cần nghỉ tiếp thì phải nộp đơn làm thủ tục lại. Trong thời gian học sinh tạm nghỉ, trường phải bảo lưu học tịch (giữ tư cách học sinh và chỗ học). Biện pháp cụ thể về tạm nghỉ và trở lại học do cơ quan quản lý giáo dục cấp tỉnh ban hành (toàn Trung Quốc, ban hành tháng 1 năm 2025). “Mười biện pháp tăng cường hơn nữa công tác sức khỏe tâm thần cho học sinh tiểu học và trung học” yêu cầu thúc đẩy xây dựng cơ chế chuyển người mắc bệnh tâm thần đi khám, điều trị và trở lại trường sau khi hồi phục, đồng thời hướng dẫn các trường xây dựng phương án xử lý sự cố khủng hoảng tâm lý đột xuất trong trường.",
+    "notes": "Theo kinh nghiệm của tác giả, trước khi làm thủ tục cần hỏi rõ ba việc: phải có giấy chứng nhận y tế nào; trong thời gian nghỉ, học tịch được ghi trong hệ thống ra sao; khi trở lại sẽ học tiếp lớp cũ hay lùi một lớp. Xếp B vì điều kiện tạm nghỉ, giấy tờ phải nộp và cách nối tiếp việc học đều do cơ quan giáo dục cấp tỉnh tự quy định; cấp quốc gia chỉ đặt ra khung chung. Điều mười hai của “Quy định bảo vệ người chưa thành niên trong nhà trường” cũng yêu cầu các trường giáo dục bắt buộc hoàn thiện chế độ báo cáo, lưu hồ sơ đối với học sinh bỏ học, tạm nghỉ và xin nghỉ dài hạn. Vì vậy, tạm nghỉ học là việc nhà trường từng xử lý, không phải ngoại lệ dành riêng cho bạn.",
+    "extra": ""
+  }
+}

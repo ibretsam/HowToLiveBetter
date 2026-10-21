@@ -1,0 +1,35 @@
+{
+  "id": "e-24-3",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/24-看病.md",
+  "source_sha256": "451312b10c55463f4402656002b1a0765e2496f5b884b00818f8a491abd3ad9d",
+  "original": {
+    "number": 3,
+    "title": "要去大医院，走基层转诊或者医院的转诊中心，别找号贩子",
+    "fields": {
+      "cost": "不花钱。要多办一道转诊手续。",
+      "plain": "医联体里牵头的大医院要留出一部分号和床位，专门给从基层转来的人。医院还要设转诊中心，或者指定一个固定部门专管转诊，2027 年全覆盖。挂不到号不等于没有路，不用去找号贩子。",
+      "benefit": "紧密型医联体的牵头医院，要为基层预留一定比例的号源和床位，并及时接诊经基层转诊的患者。紧密型医联体就是几家医院和社区卫生机构绑在一起协作的一组机构。所以从社区转上去有单独的号和床，不和大厅里抢号的人挤在一起。医疗机构要设转诊中心或指定固定部门，到 2027 年实现全覆盖",
+      "grade": "A",
+      "sources": "国务院办公厅 (2026). 关于加快建设分级诊疗体系的若干措施. <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>：「牵头医院要为基层医疗卫生机构预留一定比例的号源和床位，并及时接诊经基层转诊患者。」「医疗机构要强化转诊服务统一管理，设立转诊中心或指定固定部门承担患者转诊服务工作，到2027年实现全覆盖。」",
+      "notes": "预留号源是专门留给转诊患者的，抢不到号可以走转诊。找不到转诊中心，就打医院的服务电话问。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "中",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "时间"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Cần đến bệnh viện lớn thì đi qua chuyển tuyến từ cơ sở hoặc trung tâm chuyển tuyến của bệnh viện; đừng tìm cò bán suất khám",
+    "cost": "Không tốn tiền. Phải làm thêm một thủ tục chuyển tuyến.",
+    "plain": "Bệnh viện lớn đứng đầu liên hiệp y tế phải dành một phần suất khám và giường bệnh riêng cho người được chuyển từ tuyến cơ sở lên. Bệnh viện còn phải lập trung tâm chuyển tuyến hoặc chỉ định một bộ phận cố định chuyên phụ trách việc này, đến năm 2027 phải bao phủ toàn bộ. Không đăng ký được suất khám không có nghĩa hết cách, không cần tìm cò bán suất khám.",
+    "benefit": "Bệnh viện đứng đầu liên hiệp y tế liên kết chặt chẽ phải dành một tỷ lệ suất khám và giường bệnh cho tuyến cơ sở, đồng thời tiếp nhận kịp thời người bệnh được chuyển từ cơ sở lên. Liên hiệp y tế liên kết chặt chẽ là một nhóm gồm nhiều bệnh viện và cơ sở y tế cộng đồng gắn kết để phối hợp làm việc. Vì vậy, người được chuyển từ cơ sở cộng đồng lên có suất khám và giường riêng, không phải chen với những người giành suất ở sảnh. Cơ sở y tế phải lập trung tâm chuyển tuyến hoặc chỉ định một bộ phận cố định, đến năm 2027 phải bao phủ toàn bộ.",
+    "notes": "Suất khám dành sẵn là suất riêng cho người bệnh chuyển tuyến; không giành được suất thì có thể đi theo đường chuyển tuyến. Không tìm thấy trung tâm chuyển tuyến thì gọi số điện thoại dịch vụ của bệnh viện để hỏi.",
+    "extra": ""
+  }
+}

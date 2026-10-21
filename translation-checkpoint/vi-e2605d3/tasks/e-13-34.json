@@ -1,0 +1,35 @@
+{
+  "id": "e-13-34",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "796487f2347e9412ee36a8a88f8c534e59a0706ddad287fc5c068fd429b08d5b",
+  "original": {
+    "number": 34,
+    "title": "被蜱虫叮住，用尖头镊子贴着皮肤稳稳拉出来，别涂油别用火烧",
+    "fields": {
+      "cost": "一把尖头镊子。",
+      "plain": "用尖头镊子贴着皮肤夹住蜱的头部，稳稳地朝外拉出来。别涂油，别用火烧，别扭着拽，那会刺激它把带病原体的体液挤进皮肤，还容易把口器留在肉里。拔完记下日期。之后几周里发烧、起疹、乏力，看病时主动说被蜱咬过。",
+      "benefit": "涂油、用火烧、扭着拽，会刺激蜱虫，把带病原体的体液挤进皮肤。这么做也容易把它扎在肉里的那部分嘴（口器）留在里面。蜱虫在中国会传一种病，叫发热伴血小板减少综合征。2024 年全国报告 6602 例、死亡 306 例，都是发现这种病以来最多的一年。2010 到 2024 年平均病死率 4.79%，年纪越大越高，85 岁以上是 9.15%",
+      "grade": "B",
+      "sources": "美国疾病控制与预防中心. 被蜱叮咬之后：「Grasp the tick as close to the skin's surface as possible using clean fine-tipped tweezers」「Pull tick away from the skin with steady, even pressure」「Do not use petroleum jelly, heat, nail polish, or other substances to try and make the tick detach from the skin. This may agitate the tick and force infected fluid from the tick into the skin」. <https://www.cdc.gov/ticks/after-a-tick-bite/index.html>；Ren Q 等 (2026). Epidemiological characteristics of severe fever with thrombocytopenia syndrome (SFTS) in China, 2010–2024: a fifteen-year national surveillance analysis. BMC Infectious Diseases 26:1497：「The number of reported cases (6,602 cases) and deaths (306 cases) in 2024 were both the highest levels since the discovery of this disease」「The average CFR was 4.79%, and the CFR increased with age, reaching 9.15% among those aged 85 years and above」. <https://doi.org/10.1186/s12879-026-14066-z>",
+      "notes": "拔完把日期记下来。之后几周里发烧、起皮疹、乏力，看病时主动说被蜱咬过。医生不问、你不说，很容易被按感冒处理。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Bị ve bám cắn: dùng nhíp đầu nhọn kẹp sát da và kéo ra đều tay, đừng bôi dầu hay đốt",
+    "cost": "Một chiếc nhíp đầu nhọn.",
+    "plain": "Dùng nhíp đầu nhọn kẹp đầu con ve sát da, kéo thẳng ra đều tay. Đừng bôi dầu, đốt hoặc xoắn khi kéo; những cách đó kích thích ve đẩy dịch chứa mầm bệnh vào da, cũng dễ để lại bộ phận miệng trong thịt. Lấy ra xong ghi ngày. Vài tuần sau có sốt, nổi ban, mệt thì chủ động nói với bác sĩ đã bị ve cắn.",
+    "benefit": "Bôi dầu, đốt hoặc xoắn khi kéo kích thích ve, làm dịch chứa mầm bệnh bị đẩy vào da. Làm vậy cũng dễ để lại phần miệng cắm vào thịt (bộ phận miệng) bên trong. Ở Trung Quốc, ve có thể truyền một bệnh gọi là hội chứng sốt kèm giảm tiểu cầu. Năm 2024, cả nước báo cáo 6602 ca và 306 ca tử vong; cả hai đều cao nhất kể từ khi phát hiện bệnh. Tỷ lệ tử vong trong số người mắc trung bình từ năm 2010 đến 2024 là 4.79%, tuổi càng cao càng tăng; ở người từ 85 tuổi trở lên là 9.15%.",
+    "notes": "Lấy ve ra xong hãy ghi ngày. Vài tuần sau nếu sốt, nổi ban hoặc mệt, khi đi khám hãy chủ động nói từng bị ve cắn. Bác sĩ không hỏi, bạn không nói thì rất dễ bị xử lý như cảm.",
+    "extra": ""
+  }
+}

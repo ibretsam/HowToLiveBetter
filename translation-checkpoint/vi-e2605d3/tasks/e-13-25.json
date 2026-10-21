@@ -1,0 +1,35 @@
+{
+  "id": "e-13-25",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "15f56dc80b51db1118a5496c7fafc7b539ae792288a8f0e53bdebab1e5a49679",
+  "original": {
+    "number": 25,
+    "title": "看到有人溺水，先叫人和打 110/120，伸竿、抛漂浮物，自己不下水",
+    "fields": {
+      "cost": "不花钱。难的是忍住往下跳的冲动。",
+      "plain": "先叫人、打 110/120，在岸上伸竿或抛漂浮物，自己不下水。人上岸后没反应、没正常呼吸，立刻做心肺复苏。受过训练的要按压并做人工呼吸。不会、不能或不愿吹气的，就持续按压，听急救调度员指导。",
+      "benefit": "WHO：全球每年约 30 万人溺亡，92% 在中低收入国家。溺水是 1 到 4 岁儿童的第四位死因，5 到 14 岁的第三位死因。WHO 推荐的干预是「安全救援和复苏培训」，比如先学会不下水的救法。先大喊叫人、打 110/120，再从岸上递长杆、绳子，或抛救生圈、空桶等漂浮物。国际红十字 2025 年急救指南写明，施救要尽量不下水：从岸上或船上递硬的东西（比如竿子、树枝），或者抛绳子、能浮的东西。施救的人不要碰正在挣扎的溺水者，因为有被拖进水里的危险。已经在水里施救的，要懂水情、带漂浮物。人捞上来没反应、呼吸不正常，就立刻做心肺复苏。美国心脏协会和美国儿科学会 2024 年溺水复苏指南强调，溺水心脏骤停通常由严重缺氧引起。受过训练的施救者要把人工呼吸和胸外按压一起做。不会、不能或不愿做人工呼吸时，就持续胸外按压，直到救援人员到场。打急救电话时开免提，听调度员指导",
+      "grade": "C",
+      "sources": "WHO. 溺水 实况报道. <https://www.who.int/zh/news-room/fact-sheets/detail/drowning>；International Federation of Red Cross and Red Crescent Societies (2025). International First Aid, Resuscitation and Education Guidelines 2025，第 214–215 页：「An attempted rescue by first aid providers should be made without entering the water, either from land or a boat, by reaching with something rigid (e.g. a pole or tree branch), or by throwing a rope or buoyant object. Providers should not touch an actively drowning person because of the risk of being pulled into the water」. <https://www.ifrc.org/sites/default/files/2026-03/IFRC%20International%20First%20Aid,%20Resuscitation%20and%20Education%20Guidelines%202025.pdf>；American Heart Association / American Academy of Pediatrics (2024). Highlights of the 2024 Focused Update on Resuscitation Following Drowning，第 3–4 页. <https://www.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/Highlights/2024_Drowning/Hghlghts_2024GLFU_Drowning_240927.pdf>",
+      "notes": "定 C 是因为「不下水」只是国际红十字指南里的做法建议，没有对照研究或数字。不要手拉手结成链子下水，这是作者从「不下水」推出来的。没受过训练就不要去拖人，碰到正在挣扎的人可能被拖下水。「不下水」同样是自利规则：下水的人自己淹死，水里那个是谁都一样。真要救的多半是自家孩子，怎么防在第 1 节第 12 条（儿童近水不离视线）。有人掉进冰窟窿，同样不跑上冰面去拉，冰面怎么防见第 1 节第 41 条（野外冰面先量厚度）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Thấy người đuối nước: trước hết gọi người giúp và gọi 110/120, đưa sào, ném vật nổi, bản thân không xuống nước",
+    "cost": "Không tốn tiền. Điều khó là kiềm chế ý muốn nhảy xuống.",
+    "plain": "Chạm vào người đuối nước đang vùng vẫy có thể khiến người cứu bị kéo xuống và chết đuối. Thứ tự là: hô gọi người → gọi 110/120 → đưa sào dài, dây → ném phao cứu sinh, thùng rỗng, chai nước khoáng → đưa lên bờ không thở thì ép ngực ngay. Không nắm tay thành chuỗi đi xuống nước. Toàn cầu mỗi năm khoảng 30 vạn người chết đuối; đây là nguyên nhân tử vong đứng thứ tư ở trẻ từ 1 đến 4 tuổi.",
+    "benefit": "WHO cho biết toàn cầu mỗi năm khoảng 30 vạn người chết đuối, 92% ở các nước thu nhập thấp và trung bình. Đuối nước là nguyên nhân tử vong đứng thứ tư ở trẻ từ 1 đến 4 tuổi, thứ ba ở trẻ từ 5 đến 14 tuổi. Biện pháp WHO khuyến nghị là “đào tạo cứu hộ an toàn và hồi sức”, chẳng hạn học cách cứu mà không xuống nước trước. Thứ tự là: hô gọi người → gọi điện → đưa sào dài, dây, ném phao cứu sinh, thùng rỗng, chai nước khoáng → đưa người lên bờ không thở thì ép ngực ngay. Hướng dẫn sơ cứu năm 2025 của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế nêu rõ khi cứu cần cố gắng không xuống nước: từ bờ hoặc thuyền đưa vật cứng như sào, cành cây, hoặc ném dây, vật nổi. Người cứu không nên chạm vào người đuối nước đang vùng vẫy vì có nguy cơ bị kéo xuống nước. Người đã xuống nước cứu phải hiểu điều kiện nước và mang vật nổi. Đưa người lên mà không đáp ứng, thở không bình thường thì hồi sinh tim phổi ngay.",
+    "notes": "Xếp mức C vì “không xuống nước” chỉ là khuyến nghị cách làm trong hướng dẫn của Liên đoàn Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế, không có nghiên cứu đối chứng hay số liệu. Không nắm tay thành chuỗi xuống nước là điều tác giả suy ra từ “không xuống nước”. Chưa được huấn luyện thì đừng kéo người; chạm vào người đang vùng vẫy có thể bị kéo xuống. “Không xuống nước” cũng là nguyên tắc vì chính bạn: người xuống có thể tự chết đuối, bất kể người dưới nước là ai. Người thực sự cần cứu phần lớn là con mình; cách phòng ngừa ở chương 1 mục 12 (trẻ gần nước không rời tầm mắt). Có người rơi vào hố băng cũng không chạy lên mặt băng để kéo; cách phòng ngừa xem chương 1 mục 41 (đo độ dày trước khi lên băng ngoài thiên nhiên).",
+    "extra": ""
+  }
+}

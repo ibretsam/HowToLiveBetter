@@ -1,0 +1,36 @@
+{
+  "id": "e-27-15",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/27-怀孕和生产.md",
+  "source_sha256": "ef3cec49c8c09d5fcb3fc1ce1c33649e86ae0560eb5ca4e73e72c13b6bd8f837",
+  "original": {
+    "number": 15,
+    "title": "孩子出生后一个月以内去派出所申报出生登记",
+    "fields": {
+      "cost": "不花钱。跑一趟派出所的户籍窗口",
+      "plain": "出生后一个月内要申报户口，也要到出生医院或居住地的接种单位办预防接种证。两件事分别办，没落户也要按时打疫苗，不能等户口办好了再打。",
+      "benefit": "《户口登记条例》第七条：「婴儿出生后一个月以内，由户主、亲属、抚养人或者邻居向婴儿常住地户口登记机关申报出生登记。」这是法律定的时限，不是建议。落户和疫苗接种分别办理。《疫苗管理法》要求，在孩子出生后一个月内，到居住地的接种单位或者出生医院办预防接种证。这些单位不得拒绝办理。预防接种按居住地管理，不用先落户。孩子没有落户，也要按免疫程序及时接种",
+      "grade": "A",
+      "sources": "国务院 (1958). 中华人民共和国户口登记条例（第七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2531969.html>（广东省人民政府转载）；国务院办公厅 (2015). 关于解决无户口人员登记户口问题的意见（国办发〔2015〕96 号）. <https://www.gov.cn/zhengce/zhengceku/2016-01/14/content_10595.htm>；全国人大常委会 (2019). 中华人民共和国疫苗管理法（第六、四十七条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_dde03480953841a5912c864dc29003d0.html>",
+      "notes": "带齐这些：出生医学证明、父母的身份证和户口本、结婚证，具体清单以当地派出所的要求为准。国务院办公厅 2015 年的意见写明按「随父随母落户自愿」，跟父亲还是跟母亲落户可以自己选。两边的学区和参保地可能不一样，去之前想清楚，改起来麻烦。没结婚生的孩子同样可以落户：同一份意见写明，可以凭出生医学证明、父母一方的户口簿和非婚生育说明申请。随父落户的，还要交有资质的鉴定机构出的亲子鉴定证明"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "小",
+      "口径": "自由",
+      "人群": "怀孕,婴幼儿"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Trong vòng một tháng sau khi con sinh, đến đồn công an khai đăng ký sinh",
+    "cost": "Không tốn tiền. Đến quầy hộ tịch ở đồn công an một lần.",
+    "plain": "Luật cho một tháng, không phải “lúc nào rảnh tính sau”. Đăng ký hộ khẩu là điều kiện cho việc tiêm vắc xin, vào nhà trẻ, đi học và làm căn cước về sau. Càng trì hoãn càng cần bổ sung nhiều giấy tờ.",
+    "benefit": "Điều bảy của Điều lệ Đăng ký hộ khẩu: “Trong vòng một tháng sau khi trẻ sinh, chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm phải khai đăng ký sinh với cơ quan đăng ký hộ khẩu nơi trẻ thường trú”. Đây là thời hạn luật định, không phải khuyến nghị. Đăng ký hộ khẩu là điều kiện cho các việc tiếp theo: tiêm vắc xin, vào nhà trẻ, đi học, làm căn cước. Càng trì hoãn càng cần bổ sung nhiều giấy tờ.",
+    "notes": "Mang đủ Giấy chứng sinh y tế, căn cước và sổ hộ khẩu của cha mẹ, giấy đăng ký kết hôn; danh sách cụ thể theo yêu cầu của đồn công an địa phương. Ý kiến năm 2015 của Văn phòng Quốc vụ viện nêu rõ “tự nguyện đăng ký hộ khẩu theo cha hoặc mẹ”, bạn có thể chọn theo ai. Khu tuyển sinh và nơi tham gia bảo hiểm của hai bên có thể khác nhau, nên nghĩ kỹ trước khi đi vì sửa lại phiền phức. Trẻ sinh ngoài hôn nhân cũng được đăng ký hộ khẩu: cùng văn bản nêu có thể nộp đơn bằng Giấy chứng sinh y tế, sổ hộ khẩu của một bên cha mẹ và bản giải trình sinh ngoài hôn nhân. Đăng ký theo cha thì còn phải nộp chứng nhận giám định quan hệ cha–con do tổ chức đủ tư cách cấp.",
+    "extra": ""
+  }
+}

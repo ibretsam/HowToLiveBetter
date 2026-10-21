@@ -1,0 +1,36 @@
+{
+  "id": "e-34-2",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "ff08e0f47858f95e0af3e350ecd7777e3fd79327197e7e8543a0da5981865703",
+  "original": {
+    "number": 2,
+    "title": "孩子发烧不用阿司匹林、尼美舒利和安乃近，含安乃近的感冒药也不给未成年人吃，液体退烧药用药盒里配的量具量",
+    "fields": {
+      "cost": "不花钱。买退烧药时看一眼通用名和成分表。",
+      "plain": "阿司匹林和瑞氏综合征有关，这种病伤脑伤肝，约三成病孩死亡。尼美舒利 12 岁以下禁用，安乃近 18 岁以下禁用。液体退烧药用药盒里配的量具量，家里的勺子大小差得很远。滴剂和口服液浓度可能不一样，美国的例子差 3 倍，换了剂型别照旧的毫升数喂。",
+      "benefit": "瑞氏综合征会引起脑病和肝脏脂肪变性，通常出现在流感或水痘之后。美国 1981 到 1997 年的全国监测里，18 岁以下报告了 1207 例。82% 的病孩血里测得到水杨酸，这是阿司匹林这类药的成分。总病死率 31%。1980 年开始发布水杨酸类药的警告。那一年报告了 555 例，是高峰，1987 年起每年不超过 36 例。国家食药监局 2011 年规定，尼美舒利口服制剂禁止用于 12 岁以下儿童。国家药监局 2020 年规定安乃近片禁用于 18 岁以下青少年儿童。含安乃近的复方青蒿安乃近片、重感灵片和重感灵胶囊同样禁用于 18 岁以下。量药这件事看美国的数字。美国药监局 2011 年说明，婴儿用的对乙酰氨基酚滴剂是每 0.8 毫升 80 毫克，大孩子用的口服液是每 5 毫升 160 毫克。按这两个数算，同样 1 毫升，滴剂的药量约是口服液的 3 倍。美国药监局说两种浓度并存容易弄混，会让孩子意外吃过量，不同产品的量具绝不能混用。希腊一项研究量了 25 户人家的 71 把茶匙和 49 把汤匙，装满水后容量从 2.5 毫升到 7.3 毫升不等。美国一项急诊研究里，剂量单位用茶匙、汤匙的家长，量错的有 42.5%。只用毫升的家长，量错的是 27.6%。调整后 OR 2.3，95% CI 1.2–4.4（量错的几率约是两倍多）。",
+      "grade": "B",
+      "sources": "Belay ED, Bresee JS, Holman RC, Khan AS, Shahriari A, Schonberger LB (1999). Reye's syndrome in the United States from 1981 through 1997. New England Journal of Medicine, 340(18):1377-1382. <https://doi.org/10.1056/NEJM199905063401801>；关于加强尼美舒利口服制剂使用管理的通知（国食药监安〔2011〕209号）. <https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/20110515145101552.html>；国家药监局关于修订安乃近相关品种说明书的公告（2020年第34号）及附件1至3. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20200317171201660.html>；U.S. Food and Drug Administration. Questions and Answers – Important change in concentration for over-the-counter (OTC) liquid acetaminophen marketed for infants. <https://www.fda.gov/drugs/drug-safety-and-availability/questions-and-answers-important-change-concentration-over-counter-otc-liquid-acetaminophen-marketed>；Falagas ME, Vouloumanou EK, Plessa E, Peppas G, Rafailidis PI (2010). Inaccuracies in dosing drugs with teaspoons and tablespoons. International Journal of Clinical Practice, 64(9):1185-1189. <https://doi.org/10.1111/j.1742-1241.2010.02402.x>；Yin HS, Dreyer BP, Ugboaja DC, et al. (2014). Unit of measurement used and parent medication dosing errors. Pediatrics, 134(2):e354-e361. <https://doi.org/10.1542/peds.2014-0395>",
+      "notes": "安乃近对成年人也不是首选药。说明书写明它可能引起粒细胞缺乏、再生障碍性贫血和过敏性休克，只在病情急重、又没有别的有效药时短期用。重感灵听名字像普通感冒药，里面就有安乃近。孩子该用什么退烧药、按体重吃多少，问儿科医生或药师。不满 3 个月的孩子发烧直接去医院，见第 20 节第 8 条（38 ℃ 就直接去医院）。定 B 是因为瑞氏综合征的数字来自监测报告，病例减少和警告发布是前后关系，不是对照试验。收益定「大」，是因为警告之后病例从每年 555 例降到 36 例以下。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率",
+      "人群": "婴幼儿,孩子"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không dùng aspirin, nimesulide hoặc metamizole khi trẻ sốt; thuốc cảm chứa metamizole cũng không cho người chưa thành niên dùng; đong thuốc hạ sốt dạng lỏng bằng dụng cụ đi kèm hộp thuốc",
+    "cost": "Không tốn tiền. Khi mua thuốc hạ sốt, xem tên chung và bảng thành phần.",
+    "plain": "Aspirin có liên quan đến hội chứng Reye, một bệnh gây tổn thương não và gan, khiến khoảng ba phần mười trẻ mắc bệnh tử vong. Nimesulide bị cấm dùng cho trẻ dưới 12 tuổi, metamizole bị cấm dùng cho người dưới 18 tuổi. Hãy đong thuốc hạ sốt dạng lỏng bằng dụng cụ đi kèm hộp thuốc, vì thìa trong nhà có kích thước rất khác nhau. Nồng độ thuốc nhỏ giọt và dung dịch uống có thể khác nhau; trong ví dụ của Mỹ, mức chênh lệch là 3 lần, nên khi đổi dạng thuốc đừng cho trẻ uống theo số mililít cũ.",
+    "benefit": "Hội chứng Reye gây bệnh não và thoái hóa mỡ gan, thường xuất hiện sau cúm hoặc thủy đậu. Giám sát toàn quốc ở Mỹ từ năm 1981 đến 1997 ghi nhận 1207 ca dưới 18 tuổi. Trong máu 82% số trẻ mắc bệnh có thể đo được salicylate, thành phần của các thuốc như aspirin. Tỷ lệ tử vong chung là 31%. Cảnh báo về thuốc nhóm salicylate bắt đầu được công bố từ năm 1980. Năm đó ghi nhận 555 ca, là mức cao nhất; từ năm 1987, mỗi năm không quá 36 ca. Năm 2011, Cục Quản lý Thực phẩm và Dược phẩm Quốc gia Trung Quốc quy định cấm dùng nimesulide đường uống cho trẻ dưới 12 tuổi. Năm 2020, Cục Quản lý Dược phẩm Quốc gia Trung Quốc quy định viên metamizole bị cấm dùng cho trẻ em và thanh thiếu niên dưới 18 tuổi. Các thuốc chứa metamizole gồm viên phối hợp thanh hao–metamizole (复方青蒿安乃近片), viên nén và viên nang Zhongganling (重感灵) cũng bị cấm dùng cho người dưới 18 tuổi. Về việc đong thuốc, hãy xem số liệu của Mỹ. Năm 2011, FDA Mỹ cho biết paracetamol nhỏ giọt dành cho trẻ nhũ nhi có 80 miligam trong mỗi 0.8 mililít, còn dung dịch uống dành cho trẻ lớn có 160 miligam trong mỗi 5 mililít. Tính theo hai con số này, cùng 1 mililít thì lượng thuốc trong dạng nhỏ giọt gấp khoảng 3 lần dạng dung dịch uống. FDA Mỹ nói hai nồng độ cùng tồn tại dễ gây nhầm lẫn, có thể khiến trẻ vô tình dùng quá liều; tuyệt đối không dùng lẫn dụng cụ đong của các sản phẩm khác nhau. Một nghiên cứu ở Hy Lạp đo 71 thìa cà phê và 49 thìa canh của 25 gia đình. Khi đổ đầy nước, dung tích dao động từ 2.5 đến 7.3 mililít. Trong một nghiên cứu tại khoa cấp cứu ở Mỹ, 42.5% phụ huynh dùng đơn vị thìa cà phê hoặc thìa canh đong sai liều. Trong nhóm phụ huynh chỉ dùng mililít, tỷ lệ đong sai là 27.6%. OR sau điều chỉnh là 2.3, 95% CI 1.2–4.4 (khả năng đong sai gấp hơn hai lần).",
+    "notes": "Metamizole cũng không phải thuốc ưu tiên cho người lớn. Hướng dẫn sử dụng ghi rõ thuốc có thể gây mất bạch cầu hạt, thiếu máu bất sản và sốc phản vệ; chỉ dùng ngắn ngày khi bệnh cấp và nặng mà không có thuốc hiệu quả khác. Zhongganling (重感灵) nghe tên giống thuốc cảm thông thường nhưng có chứa metamizole. Hãy hỏi bác sĩ nhi hoặc dược sĩ nên dùng thuốc hạ sốt nào cho trẻ và liều theo cân nặng là bao nhiêu. Trẻ chưa đủ 3 tháng tuổi bị sốt phải đến bệnh viện ngay, xem chương 20 mục 8 (38 ℃ là đến bệnh viện ngay). Xếp mức B vì số liệu hội chứng Reye lấy từ báo cáo giám sát; số ca giảm sau khi công bố cảnh báo là quan hệ trước sau, không phải thử nghiệm đối chứng. Lợi ích được xếp “lớn” vì sau cảnh báo, số ca giảm từ 555 ca mỗi năm xuống còn không quá 36 ca.",
+    "extra": ""
+  }
+}

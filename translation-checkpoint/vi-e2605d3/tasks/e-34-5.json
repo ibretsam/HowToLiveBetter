@@ -1,0 +1,36 @@
+{
+  "id": "e-34-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/34-家里的常备药别吃出事.md",
+  "source_sha256": "e76e7780db02df29b43640c5cc5d25f5f28db11f6efec74018a70be918a669c2",
+  "original": {
+    "number": 5,
+    "title": "怀孕 20 周以后，别自己吃布洛芬这类止痛药",
+    "fields": {
+      "cost": "不花钱。",
+      "plain": "怀孕 20 周以后吃布洛芬这类药，可能伤到胎儿的肾、让羊水变少。美国收到的这类报告里，有新生儿死亡的病例。医生开的小剂量阿司匹林不在此列。",
+      "benefit": "美国食品药品监督管理局（FDA）2020 年 10 月发布安全警示。怀孕约 20 周以后使用非甾体抗炎药，可能引起胎儿肾脏问题，导致羊水过少。警示同时管处方药和非处方药，包括阿司匹林、布洛芬、萘普生、双氯芬酸、塞来昔布。FDA 查了截至 2017 年 7 月的不良事件报告，找到 35 例羊水过少或新生儿肾功能不全，全是严重结局。其中 5 例新生儿死亡，都伴有新生儿肾衰竭。文献里，多数羊水过少在停药后 72 小时到 6 天内恢复。FDA 建议孕妇 20 周以后不要用这类药，除非医生明确这么建议。81 毫克的小剂量阿司匹林由医生开来治孕期特定问题的，不受这条限制。需要止痛退烧时，FDA 提到可以用对乙酰氨基酚等其他药，先问药师或医生。",
+      "grade": "B",
+      "sources": "U.S. Food and Drug Administration (2020-10-15). FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid. Drug Safety Communication. <https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic>",
+      "notes": "FDA 提醒，很多治感冒、流感、失眠的非处方药里也含这类成分，要看成分表。美国非处方药标签原来只警告怀孕最后 3 个月，这次把界线提前到了 20 周左右。小剂量阿司匹林防子痫前期，见第 27 节第 5 条（小剂量阿司匹林）。定 B 是因为数字来自不良事件报告，有多少人吃了药却没出事不知道。收益定「中」是判断：结局严重，但发生得少。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "死亡率",
+      "人群": "怀孕"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Từ tuần thai thứ 20 trở đi, đừng tự uống các thuốc giảm đau như ibuprofen",
+    "cost": "Không tốn tiền.",
+    "plain": "Dùng các thuốc như ibuprofen từ tuần thai thứ 20 trở đi có thể gây hại thận của thai nhi và làm giảm nước ối. Trong các báo cáo mà Mỹ nhận được về vấn đề này có trường hợp trẻ sơ sinh tử vong. Aspirin liều thấp do bác sĩ kê không thuộc hạn chế này.",
+    "benefit": "Tháng 10 năm 2020, Cục Quản lý Thực phẩm và Dược phẩm Mỹ (FDA) công bố cảnh báo an toàn. Dùng thuốc chống viêm không steroid từ khoảng tuần thai thứ 20 trở đi có thể gây vấn đề ở thận của thai nhi, dẫn đến thiểu ối. Cảnh báo áp dụng cho cả thuốc kê đơn lẫn không kê đơn, gồm aspirin, ibuprofen, naproxen, diclofenac và celecoxib. FDA xem các báo cáo biến cố bất lợi tính đến tháng 7 năm 2017 và tìm thấy 35 ca thiểu ối hoặc suy giảm chức năng thận ở trẻ sơ sinh, tất cả đều có hậu quả nghiêm trọng. Trong đó có 5 trẻ sơ sinh tử vong, tất cả đều bị suy thận sơ sinh. Trong các tài liệu, phần lớn trường hợp thiểu ối hồi phục trong khoảng 72 giờ đến 6 ngày sau khi ngừng thuốc. FDA khuyến nghị thai phụ không dùng nhóm thuốc này từ tuần thứ 20 trở đi, trừ khi bác sĩ chỉ định rõ. Aspirin liều thấp 81 miligam do bác sĩ kê để điều trị một số vấn đề cụ thể trong thai kỳ không chịu hạn chế này. Khi cần giảm đau hoặc hạ sốt, FDA đề cập có thể dùng những thuốc khác như paracetamol, nhưng cần hỏi dược sĩ hoặc bác sĩ trước.",
+    "notes": "FDA nhắc rằng nhiều thuốc không kê đơn dùng trị cảm, cúm và mất ngủ cũng chứa những thành phần thuộc nhóm này; cần xem bảng thành phần. Trước đây, nhãn thuốc không kê đơn ở Mỹ chỉ cảnh báo về 3 tháng cuối thai kỳ; lần này mốc được đưa sớm lên khoảng tuần thứ 20. Về aspirin liều thấp để phòng tiền sản giật, xem chương 27 mục 5 (aspirin liều thấp). Xếp mức B vì số liệu đến từ báo cáo biến cố bất lợi, không biết có bao nhiêu người dùng thuốc mà không gặp vấn đề. Lợi ích được xếp “trung bình” theo nhận định: hậu quả nghiêm trọng nhưng ít xảy ra.",
+    "extra": ""
+  }
+}

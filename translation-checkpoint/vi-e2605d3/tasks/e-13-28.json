@@ -1,0 +1,35 @@
+{
+  "id": "e-13-28",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/13-紧急情况.md",
+  "source_sha256": "b9db4ab3738b0cc6db0f3e657068d32c425d09c0ed06fe6271c1331e549aface",
+  "original": {
+    "number": 28,
+    "title": "发抖、说话含糊、走路打晃是失温，换掉湿衣、包起来，先暖躯干，喝热甜饮不喝酒",
+    "fields": {
+      "cost": "一张铝箔保温毯几元，再加一件备用干衣。学会看信号不花钱。",
+      "plain": "体温降到 35℃ 以下就是失温，人会发抖、说话含糊、走路打晃、想不清楚事。换掉湿衣服，用保温毯或者干衣裹起来，先暖躯干、不先暖手脚。给热的甜饮料，不给酒，酒会压住寒战。叫不应、没正常呼吸，就按本节第 1 条（用力按压胸口）做心肺复苏。",
+      "benefit": "美国国家气象局原文：体温 95°F（35°C）以下就是失温，「觉得冷、迟钝、想不清楚，立刻看医生」。处理是「立即就医，把人移到有暖气的室内，先从身体中心开始复温」，给热饮。「酒精会减少寒战」，所以不喝。「失去意识做心肺复苏」，要不要按怎么判断见本节第 1 条（没正常呼吸）。冻伤用温水或者体温回暖，「不要用热水或壁炉一类辐射热」。荒野医学会 2019 年失温指南是这个领域的执业指南",
+      "grade": "B",
+      "sources": "US National Weather Service. During Extreme Cold. <https://www.weather.gov/safety/cold-during> ; Dow J 等 (2019). Wilderness Medical Society Clinical Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia: 2019 Update. Wilderness & Environmental Medicine. <https://doi.org/10.1016/j.wem.2019.10.002>",
+      "notes": "不要搓手脚。不要泡热水澡。不要硬拖硬拽地搬，失温重的人心脏容易骤停。不要因为「不抖了」就以为好转，不打哆嗦（寒战停止）是加重。荒野医学会指南全文需订阅，本次只核实了摘要。"
+    },
+    "tags": {
+      "钱": "少",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "死亡率"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Run rẩy, nói líu, đi loạng choạng là hạ thân nhiệt: thay quần áo ướt, quấn giữ ấm, làm ấm thân mình trước, uống đồ nóng có đường, không uống rượu",
+    "cost": "Một tấm chăn giữ nhiệt bằng lá nhôm giá vài nhân dân tệ, thêm một bộ quần áo khô dự phòng. Học cách nhận biết dấu hiệu không tốn tiền.",
+    "plain": "Thân nhiệt từ 35℃ trở xuống là hạ thân nhiệt; người đó sẽ run rẩy, nói líu, đi loạng choạng và không suy nghĩ rõ ràng được. Thay quần áo ướt, quấn bằng chăn giữ nhiệt hoặc quần áo khô, làm ấm thân mình trước, không làm ấm tay chân trước. Cho uống đồ nóng có đường, không cho uống rượu vì rượu ức chế phản ứng run do lạnh. Nếu mất ý thức thì thực hiện hồi sinh tim phổi.",
+    "benefit": "Nguyên văn của Cơ quan Thời tiết Quốc gia Mỹ: thân nhiệt từ 95°F (35°C) trở xuống là hạ thân nhiệt; “thấy lạnh, chậm chạp, không suy nghĩ rõ ràng được thì đi khám ngay”. Cách xử lý là “đi khám ngay, đưa người đó vào phòng có sưởi, bắt đầu làm ấm từ phần trung tâm cơ thể”, cho uống đồ nóng. “Rượu làm giảm phản ứng run do lạnh”, nên không uống rượu. “Mất ý thức thì thực hiện hồi sinh tim phổi”. Với tổn thương do cóng, làm ấm lại bằng nước ấm hoặc thân nhiệt, “không dùng nước nóng hoặc nguồn nhiệt bức xạ như lò sưởi”. Hướng dẫn về hạ thân nhiệt năm 2019 của Hội Y học Hoang dã là hướng dẫn thực hành trong lĩnh vực này.",
+    "notes": "Đừng chà xát tay chân. Đừng ngâm mình trong nước nóng. Đừng kéo giật mạnh khi di chuyển người đó, vì người hạ thân nhiệt nặng dễ bị ngừng tim đột ngột. Đừng thấy “hết run” mà tưởng đã khá hơn; ngừng run do lạnh là dấu hiệu nặng thêm. Toàn văn hướng dẫn của Hội Y học Hoang dã cần đăng ký trả phí; lần này chỉ kiểm chứng được bản tóm tắt.",
+    "extra": ""
+  }
+}

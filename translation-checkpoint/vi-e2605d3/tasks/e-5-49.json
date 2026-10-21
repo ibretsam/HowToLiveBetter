@@ -1,0 +1,35 @@
+{
+  "id": "e-5-49",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/05-不要浪费钱.md",
+  "source_sha256": "493e12122a655b8bb27a7b827c6d7f57912df28835c101f20cada2747a42a811",
+  "original": {
+    "number": 49,
+    "title": "在 4S 店买车，不交「金融服务费」，保险、贷款、上牌也不必在店里办",
+    "fields": {
+      "cost": "不花钱。签合同前花几分钟，问清每一笔钱是什么费，让店家写进合同或者开票。保险和上牌自己办，要多跑一趟。",
+      "plain": "店里说办贷款要另交「金融服务费」，按规定经销商不许这么收。保险、贷款、上牌你都可以找别家或者自己办，店里不能逼你在它那里办，也不能在标价之外另收钱。办贷款前，让对方写明年化利率和全部费用再比。",
+      "benefit": "汽车销售管理办法规定，经销商要在店里明示车、配件和各项服务的价格和收费标准。标价之外，不得加价销售或者收取额外费用。经销商不得限定你户籍所在地，也不得限定你用哪家的配件、用品、金融、保险、救援和售后服务。三包和召回由厂家出钱的配件和服务除外。经销商卖车时不得强制你买保险，不得强制替你代办上牌。违反这几条的，由县级以上商务部门责令改正，可以警告或者罚 3 万元以下。原银保监会 2022 年要求放车贷的金融机构管住合作的经销商。经销商不得以金融机构的名义收费，也不得以给你提供金融服务为由收费。还要告诉你年化贷款利率和费率。不得用「免收贷款违约金」「车辆免抵押」这类和实际不符的话术诱导你，不得违背你的意愿搭售产品和服务。金融机构自己也不得以贷收费。消费者权益保护法实施条例规定，经营者不得强制或者变相强制你买东西，也不得排除、限制你选别的经营者（全国）",
+      "grade": "B",
+      "sources": "商务部 (2017). 汽车销售管理办法（商务部令 2017 年第 1 号，第十、十四、三十二条，2017 年 7 月 1 日起施行）. <http://www.gov.cn/gongbao/content/2017/content_5230275.htm>；中国银保监会 (2022). 关于进一步规范汽车金融业务的通知（银保监规〔2022〕22 号，第五、十一项）. <https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=96380>（商务部政策法规库转载）；国务院 (2024). 消费者权益保护法实施条例（国务院令第 778 号，第十一、五十条）. <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>",
+      "notes": "这笔钱常被改叫「服务费」「手续费」「贷款服务包」，按规定都要事先明示，标价之外不能另收。已经交了的，先找店家要回来。不退的话，贷款相关的打 12378，其他的打 12315 投诉。金额不大、要起诉的，小额诉讼怎么走见第 8 节第 22 条（网购、二手交易被骗）。这笔费用一般多少钱没有官方数字，收益量级是凭判断定的中。车贷的手续费要算进年化利率里比，方法见本节第 7 条（借钱先换成年化利率）。受益人是自己和家人这一档。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "中",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Mua xe tại đại lý 4S, không trả “phí dịch vụ tài chính”; bảo hiểm, vay, đăng ký xe cũng không bắt buộc làm tại đại lý",
+    "cost": "Không tốn tiền. Trước ký dành vài phút hỏi rõ từng khoản là phí gì, yêu cầu ghi hợp đồng hoặc xuất hóa đơn. Tự làm bảo hiểm, đăng ký thì đi thêm một lần.",
+    "plain": "Cửa hàng nói vay phải trả thêm “phí dịch vụ tài chính” thì theo quy định đại lý không được thu như vậy. Bảo hiểm, vay, đăng ký xe đều có thể tìm nơi khác hoặc tự làm; cửa hàng không được ép làm tại họ, cũng không được thu ngoài giá niêm yết. Trước vay yêu cầu ghi rõ lãi suất quy năm và toàn bộ phí rồi so.",
+    "benefit": "Biện pháp quản lý bán ô tô yêu cầu đại lý công khai tại cửa hàng giá xe, phụ tùng, từng dịch vụ và mức phí. Ngoài giá niêm yết không được bán tăng giá hoặc thu thêm. Đại lý không được giới hạn nơi hộ khẩu của bạn, không được hạn chế bên cung cấp phụ tùng, đồ dùng, tài chính, bảo hiểm, cứu hộ, hậu mãi mà bạn chọn. Ngoại lệ là phụ tùng, dịch vụ do nhà sản xuất trả theo ba bảo đảm và triệu hồi. Khi bán xe, đại lý không được ép mua bảo hiểm hoặc ép để họ làm hộ đăng ký. Vi phạm thì cơ quan thương mại cấp huyện trở lên yêu cầu sửa, có thể cảnh cáo hoặc phạt không quá 3 vạn nhân dân tệ. Năm 2022, Ủy ban Giám sát ngân hàng và bảo hiểm trước đây yêu cầu tổ chức tài chính cho vay mua xe quản lý đại lý hợp tác. Đại lý không được thu phí dưới danh nghĩa tổ chức tài chính, cũng không thu vì cung cấp dịch vụ tài chính cho bạn, đồng thời phải thông báo lãi suất vay quy năm và tỷ lệ phí. Không được dùng lời không đúng thực tế như “miễn phạt vi phạm khoản vay”, “xe không cần thế chấp” để dụ, không được bán kèm sản phẩm, dịch vụ trái ý bạn. Bản thân tổ chức tài chính cũng không được lấy việc cho vay làm cớ thu phí. Quy định thi hành Luật Bảo vệ quyền lợi người tiêu dùng cấm ép hoặc ép trá hình mua hàng, cấm loại trừ, hạn chế quyền chọn người kinh doanh khác (toàn Trung Quốc).",
+    "notes": "Khoản này thường đổi tên thành “phí dịch vụ”, “phí thủ tục”, “gói dịch vụ vay”; theo quy định đều phải công khai trước, không thu ngoài giá niêm yết. Đã trả thì tìm cửa hàng đòi lại trước. Không hoàn thì khoản liên quan vay gọi 12378, khoản khác gọi 12315 khiếu nại. Số tiền nhỏ mà muốn kiện, thủ tục vụ nhỏ xem chương 8 mục 22 (bị lừa mua trực tuyến, giao dịch đồ cũ). Không có số chính thức khoản phí thường bao nhiêu, lợi ích xếp trung bình theo nhận định. Phí thủ tục vay mua xe phải cộng vào lãi suất quy năm để so, cách làm xem mục 7 của chương này. Người hưởng lợi thuộc nhóm bản thân và gia đình.",
+    "extra": ""
+  }
+}

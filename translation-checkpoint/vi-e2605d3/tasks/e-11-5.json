@@ -1,0 +1,35 @@
+{
+  "id": "e-11-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/11-程序员和技术人容易踩的红线.md",
+  "source_sha256": "819f6d8c3d6a21bd08613e366953404a92a7c3145f7abe09ab995bccd1c4dabe",
+  "original": {
+    "number": 5,
+    "title": "不接赌博、诈骗、色情 App 的开发单，不替「客户」搭支付通道、解封账号",
+    "fields": {
+      "cost": "不花钱。代价是放弃这类报价高、需求又说不清的外包。难在对方给的钱常常比正常单子高一大截",
+      "plain": "明知是赌博 App 还接开发单，就按开设赌场的共犯办。开设赌场罪判 5 年以下，严重的 5 到 10 年，比单纯帮忙最多判 3 年重。有个电竞竞猜 App 案，28 人按开设赌场罪判了 1 年到 3 年 6 个月。替诈骗团伙解封 QQ 号的，判 1 年 6 个月、罚 2 万元。",
+      "benefit": "明知别人在利用网络犯罪，还给他提供技术支持、支付结算这类帮助，情节严重的判 3 年以下，并处或单处罚金。同时还构成其他犯罪的，按更重的那个罪判。开设赌场判 5 年以下并处罚金，情节严重的判 5 到 10 年。官方案例：张盛集团研发赌博游戏后「包网外销」，收建站费、报表费。涉案近 70 亿元。张盛判 9 年 9 个月、罚 5000 万元。负责外包研发的王强等 79 人，判 6 个月到 9 年 9 个月不等。陈东等人开发运营电竞竞猜 App，技术团队在海南写代码，28 人以开设赌场罪判 3 年 6 个月到 1 年不等，并处罚金。张某某开工作室替诈骗团伙解封被封的 QQ 号，判 1 年 6 个月、罚 2 万元（全国）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第二百八十七条之二、第三百零三条第二款）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民检察院 (2023). 建赌博网站并出售，涉案近 70 亿元. <https://www.spp.gov.cn/spp/zdgz/202307/t20230711_621248.shtml>；最高人民检察院 (2022). 上海闵行区：办理一起新型开设网络赌场案. <https://www.spp.gov.cn/spp/zdgz/202208/t20220805_569952.shtml>；最高人民检察院 (2025). 依法惩治帮助信息网络犯罪活动及相关犯罪典型案例（案例一）. <https://www.spp.gov.cn/xwfbh/wsfbt/202507/t20250728_702377.shtml>",
+      "notes": "「明知」不需要对方把用途说出口。报价明显高于市价、功能是充值提现加赔率、客户不肯说用途，办案时都会拿来推断你心里清楚。开发赌博 App 的技术人员，是按开设赌场罪的共犯办，不是帮信罪封顶 3 年那一档。帮信罪是「帮助信息网络犯罪活动罪」的简称。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Không nhận phát triển ứng dụng cờ bạc, lừa đảo, khiêu dâm; không dựng kênh thanh toán hoặc mở khóa tài khoản cho ‘khách hàng’",
+    "cost": "Không tốn tiền. Cái giá là từ bỏ những đơn gia công trả cao nhưng yêu cầu mập mờ. Điều khó là số tiền bên kia trả thường cao hơn hẳn đơn hàng bình thường.",
+    "plain": "Biết rõ là ứng dụng cờ bạc mà vẫn nhận phát triển thì bị xử như đồng phạm tội mở sòng bạc. Tội mở sòng bạc bị phạt tù từ 5 năm trở xuống, nghiêm trọng là 5 đến 10 năm, nặng hơn mức tối đa 3 năm của hành vi chỉ giúp sức. Trong một vụ ứng dụng cá cược thể thao điện tử, 28 người bị xử về tội mở sòng bạc với mức tù từ 1 năm đến 3 năm 6 tháng. Người mở khóa tài khoản QQ cho nhóm lừa đảo bị phạt tù 1 năm 6 tháng và phạt tiền 2 vạn nhân dân tệ.",
+    "benefit": "Biết rõ người khác dùng mạng để phạm tội mà vẫn hỗ trợ kỹ thuật, thanh toán và quyết toán, nếu nghiêm trọng, bị phạt tù từ 3 năm trở xuống, kèm hoặc chỉ phạt tiền. Nếu đồng thời cấu thành tội khác thì xử theo tội nặng hơn. Mở sòng bạc bị phạt tù từ 5 năm trở xuống và phạt tiền; trường hợp nghiêm trọng là 5 đến 10 năm. Vụ án chính thức: nhóm Trương Thịnh phát triển game cờ bạc rồi ‘bán trọn gói website’, thu phí dựng trang và phí báo cáo. Số tiền liên quan gần 70 trăm triệu nhân dân tệ. Trương Thịnh bị phạt tù 9 năm 9 tháng, phạt tiền 5000 vạn nhân dân tệ. Vương Cường và những người phụ trách phát triển thuê ngoài, tổng cộng 79 người, nhận mức tù từ 6 tháng đến 9 năm 9 tháng. Trần Đông và đồng phạm phát triển, vận hành ứng dụng cá cược thể thao điện tử, đội kỹ thuật viết mã ở Hải Nam; 28 người bị xử về tội mở sòng bạc, nhận mức tù từ 3 năm 6 tháng đến 1 năm và phạt tiền. Trương mở một nhóm dịch vụ giúp băng lừa đảo mở khóa các tài khoản QQ đã bị khóa, bị phạt tù 1 năm 6 tháng và phạt tiền 2 vạn nhân dân tệ (toàn quốc).",
+    "notes": "‘Biết rõ’ không đòi hỏi bên kia phải nói ra mục đích. Giá trả cao hơn rõ rệt so với thị trường, chức năng gồm nạp tiền, rút tiền và tỷ lệ cược, khách hàng không chịu nói mục đích sử dụng: tất cả đều có thể được dùng để suy đoán rằng bạn biết khi xử lý vụ án. Nhân viên kỹ thuật phát triển ứng dụng cờ bạc bị xử như đồng phạm tội mở sòng bạc, không thuộc tội giúp sức có mức tối đa 3 năm. Tội giúp sức ở đây là cách gọi tắt của ‘tội hỗ trợ hoạt động phạm tội trên mạng thông tin’.",
+    "extra": ""
+  }
+}

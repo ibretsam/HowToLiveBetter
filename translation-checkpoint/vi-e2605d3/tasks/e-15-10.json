@@ -1,0 +1,35 @@
+{
+  "id": "e-15-10",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/15-租房与买房.md",
+  "source_sha256": "6eed8ba68c5b67e0e8425c887ac57c02565048e42e68c5038817e40848ea014f",
+  "original": {
+    "number": 10,
+    "title": "买期房时先看预售许可证，定金、首付和贷款只打进合同写明的预售资金监管账户",
+    "fields": {
+      "cost": "不花钱。签约前看一眼预售许可证，付款前核对账户，几分钟。难在销售让你转到别的账户时，要坚持不转",
+      "plain": "期房就是还没盖好就开卖的房子。没有预售许可证，开发商不能卖，也不能收定金。你交的首付和贷款，按规定要全部进监管账户，等房子能交付了才解除监管。钱打到别的账户，就不在这层保护里。",
+      "benefit": "期房在法规里叫商品房预售，是开发商把正在建的房子先卖给你。2026 年 8 月，住建部、自然资源部和金融监管总局发文规定：「购房人支付的首付款、个人住房贷款等购房资金应全部存入资金监管账户。」房子竣工验收、水电气热具备交付条件以后，才解除监管。开发商要在购房合同里写明购房资金存入监管账户的权利和责任。开发商违约、不能按期交房的，你可以按合同约定解除合同。开发商要按合同退钱，并承担违约责任。人民银行和金融监管总局同时规定，买预售房的个人住房贷款，由银行直接付进项目的预售资金监管账户。2022 年三部门的文件已经写明，定金、首付款和按揭贷款「应当全部直接存入监管账户」。没拿到预售许可的楼盘，开发商不得预售，也不得用认购、预订、排号、发 VIP 卡的办法收定金。没有预售许可证签的预售合同，法院认定无效。起诉前补上许可证的，可以认定有效。钱付到监管账户以外的地方，就不在这套监管里。同一份 2026 年的文件还规定，按现房销售的楼盘拿到施工许可证后，开发商可以先收「少量定金」。定金由住房资金监管机构监管，存在项目主办银行开的「定金监管账户」里，房屋具备交付条件后才解除监管",
+      "grade": "A",
+      "sources": "住房城乡建设部、自然资源部、金融监管总局 (2026). 关于完善商品住房销售制度的通知（建房规〔2026〕3 号，第一部分第（二）（三）项，第二部分第（三）项）. <https://www.gov.cn/gongbao/2026/issue_13026/202610/content_7082773.html>；中国人民银行、金融监管总局 (2026). 关于改革完善房地产信贷管理推动加快构建房地产发展新模式的意见（银发〔2026〕171 号，第二十二条）. <https://www.gov.cn/gongbao/2026/issue_13026/202610/content_7082770.html>；银保监会办公厅、住房城乡建设部办公厅、人民银行办公厅 (2022). 关于商业银行出具保函置换预售监管资金有关工作的通知（银保监办发〔2022〕104 号，第二条）. <https://www.gov.cn/zhengce/zhengceku/2022-11/14/content_5726954.htm>；住房城乡建设部 (2010). 关于进一步加强房地产市场监管完善商品住房预售制度有关问题的通知（建房〔2010〕53 号，第一部分第（一）项，第二部分第（九）项）. <http://www.gov.cn/gongbao/content/2010/content_1629136.htm>；最高人民法院 (2020 修正). 关于审理商品房买卖合同纠纷案件适用法律若干问题的解释（法释〔2020〕17 号修正后文本，第二条）. <https://www.court.gov.cn/fabu/xiangqing/282621.html>",
+      "notes": "2026 年 8 月 28 日以前就拿到建设工程规划许可证的楼盘，预售条件和资金监管按各地原来的规定办。首付和贷款要进监管账户，2010 年和 2022 年的文件都要求过。按现房销售的楼盘，开发商在盖房期间先收少量定金的，新规要求定金进定金监管账户。监管账户的户名和账号以购房合同里写的为准，付款前对一遍。合同被认定无效、开发商又不退钱的，要去法院起诉。一审普通程序按规定 6 个月内审完，可以延长，律师费一般自己出。二手房的房款怎么付，见第 7 条（交易资金专用存款账户）。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "些",
+      "收益": "大",
+      "口径": "金钱"
+    },
+    "extra": ""
+  },
+  "status": "outdated",
+  "previous_translation": {
+    "title": "Mua nhà đang xây thì xem giấy phép bán trước; tiền đặt cọc, tiền trả trước và khoản vay chỉ chuyển vào tài khoản giám sát tiền bán trước ghi trong hợp đồng",
+    "cost": "Không tốn tiền. Xem giấy phép bán trước trước khi ký, đối chiếu tài khoản trước khi trả tiền, mất vài phút. Khó ở chỗ khi nhân viên bán hàng yêu cầu chuyển tài khoản khác, bạn phải kiên quyết không chuyển",
+    "plain": "Nhà đang xây là nhà mở bán khi chưa xây xong. Không có giấy phép bán trước, chủ đầu tư không được bán hay thu tiền đặt cọc. Theo quy định, toàn bộ tiền trả trước và khoản vay của bạn phải vào tài khoản giám sát, chỉ hết giám sát khi nhà đủ điều kiện bàn giao. Chuyển vào tài khoản khác thì tiền không được cơ chế này bảo vệ.",
+    "benefit": "Trong quy định pháp luật, mua nhà đang xây được gọi là mua nhà ở thương mại bán trước; chủ đầu tư bán cho bạn căn nhà còn đang xây. Tháng 8 năm 2026, Bộ Nhà ở và Phát triển đô thị, nông thôn, Bộ Tài nguyên thiên nhiên và Tổng cục Giám sát quản lý tài chính ban hành văn bản: “Toàn bộ tiền mua nhà như tiền trả trước, khoản vay nhà ở cá nhân mà người mua trả phải được gửi vào tài khoản giám sát tiền.” Chỉ chấm dứt giám sát sau khi nhà được nghiệm thu hoàn thành, có điện, nước, gas, sưởi đủ điều kiện bàn giao. Chủ đầu tư phải ghi trong hợp đồng các quyền và trách nhiệm về việc gửi tiền mua nhà vào tài khoản giám sát. Nếu chủ đầu tư vi phạm, không thể giao nhà đúng hạn, bạn có thể chấm dứt hợp đồng theo thỏa thuận. Chủ đầu tư phải hoàn tiền theo hợp đồng và chịu trách nhiệm vi phạm. Ngân hàng Nhân dân và Tổng cục Giám sát quản lý tài chính đồng thời quy định khoản vay nhà ở cá nhân để mua nhà bán trước phải được ngân hàng chuyển trực tiếp vào tài khoản giám sát tiền bán trước của dự án. Văn bản năm 2022 của ba cơ quan đã ghi tiền đặt cọc, tiền trả trước và khoản vay thế chấp “đều phải được gửi trực tiếp toàn bộ vào tài khoản giám sát”. Dự án chưa có giấy phép bán trước thì chủ đầu tư không được bán trước, cũng không được thu đặt cọc bằng cách đăng ký mua, đặt trước, lấy số thứ tự hoặc phát thẻ VIP. Hợp đồng bán trước ký khi chưa có giấy phép bị tòa xác định vô hiệu. Nếu bổ sung giấy phép trước khi khởi kiện thì có thể được xác định có hiệu lực. Tiền trả ngoài tài khoản giám sát không nằm trong cơ chế giám sát này. Cùng văn bản năm 2026 còn quy định với dự án bán nhà sau khi hoàn thành, khi có giấy phép thi công, chủ đầu tư có thể thu trước “một khoản đặt cọc nhỏ”. Tiền cọc do cơ quan giám sát tiền nhà ở giám sát, gửi trong “tài khoản giám sát tiền đặt cọc” mở tại ngân hàng chủ trì dự án, chỉ chấm dứt giám sát khi nhà đủ điều kiện bàn giao",
+    "notes": "Dự án đã có giấy phép quy hoạch công trình xây dựng trước ngày 28 tháng 8 năm 2026 thì điều kiện bán trước và giám sát tiền áp dụng quy định cũ tại địa phương. Tiền trả trước và khoản vay phải vào tài khoản giám sát, các văn bản năm 2010 và 2022 đều đã yêu cầu. Với dự án bán nhà sau khi hoàn thành nhưng chủ đầu tư thu trước khoản cọc nhỏ trong lúc xây, quy định mới yêu cầu tiền cọc vào tài khoản giám sát tiền đặt cọc. Tên chủ tài khoản và số tài khoản giám sát lấy theo hợp đồng mua nhà; đối chiếu trước khi trả. Hợp đồng bị xác định vô hiệu mà chủ đầu tư vẫn không hoàn tiền thì phải kiện ra tòa. Sơ thẩm theo thủ tục thông thường từ 6 tháng, phí luật sư thường tự trả. Cách trả tiền mua nhà đã qua sử dụng, xem mục 7 (tài khoản tiền gửi chuyên dùng cho giao dịch).",
+    "extra": ""
+  }
+}

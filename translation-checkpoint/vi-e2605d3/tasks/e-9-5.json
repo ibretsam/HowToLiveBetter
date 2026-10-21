@@ -1,0 +1,35 @@
+{
+  "id": "e-9-5",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/09-普通人容易踩的法律红线.md",
+  "source_sha256": "0fb4fbfc0260e8b473ad9859aaee8b522a4347370b9ceba6a89884df292cfcd4",
+  "original": {
+    "number": 5,
+    "title": "「兼职」要你用自己的卡收钱、取现、转账，不管给多少好处费都不做",
+    "fields": {
+      "cost": "不花钱。放弃这类「日结几百、带卡去银行」的活。",
+      "plain": "这类兼职挣的是几百块，代价是留一份案底。有人带着身份证和 1 张银行卡去指定地点，配合转账取款，挣了 500 多元。检察院没起诉他，公安还是拘留 10 日、罚 1000 元。另一人把自己和别人的银行卡、手机卡交给团伙收款取现，判 2 年 3 个月，罚 2.2 万元。",
+      "benefit": "明知是犯罪来的钱和物，还帮着转移、收购、卖掉，或者用别的办法帮着遮掩的，判 3 年以下，并处或者单处罚金（判刑的同时罚钱，也可能只罚钱）。官方案例：王某某按指示带上身份证和 1 张银行卡，到指定地点配合转账取款，赚了 500 余元。检察院没有起诉他，公安按反电信网络诈骗法拘留 10 日，并罚 1000 元。满某某把自己和别人的银行卡、手机卡交给团伙收款、转账、取现，判 2 年 3 个月，并罚 2.2 万元（全国）。换成虚拟币转走也一样。安某某等三人按电诈团伙的指示，用自己的银行卡收钱。他们在交易平台上把钱买成虚拟货币，再转到对方指定的账户，按比例拿提成。查实其中有被害人被骗的钱 50 余万元。三人以掩饰、隐瞒犯罪所得罪分别判 2 年 8 个月到 3 年 3 个月，各罚 3 万到 4 万元（北京通州）",
+      "grade": "A",
+      "sources": "全国人大 (2020). 刑法（根据刑法修正案（十一）修正，第三百一十二条）. <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>；最高人民检察院 (2023). 检察机关依法惩治电信网络诈骗及其关联犯罪典型案例（案例九）. <https://www.spp.gov.cn/xwfbh/wsfbt/202311/t20231130_635188.shtml>；最高人民法院、最高人民检察院 (2025). 依法惩治掩饰、隐瞒犯罪所得、犯罪所得收益犯罪典型案例（案例一、五）. <https://www.spp.gov.cn/xwfbh/wsfbt/202508/t20250825_704514.shtml>",
+      "notes": "把银行卡借给人、帮人「跑分」的后果，见第 8 节第 8 条（银行卡借给人）。本条讲的是自己动手取现、转账。收了钱换成泰达币这类虚拟币再转出去，也是同一件事。自己买币亏了钱为什么要不回来，见第 5 节第 45 条（别买虚拟货币）。「我不知道钱是哪来的」这句话，办案时不一定认。最高法、最高检点评满某某案时写明，法院会看你接触到的信息、钱怎么转换和转移、交易和账户有没有异常。再结合你的经历、和上游的关系，综合判断你知不知道。上面那起案子里没被起诉的，也被拘留了 10 日。"
+    },
+    "tags": {
+      "钱": "0",
+      "时间": "少",
+      "毅力": "否",
+      "收益": "大",
+      "口径": "自由"
+    },
+    "extra": ""
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "“Việc làm thêm” yêu cầu dùng thẻ của bạn nhận tiền, rút tiền mặt, chuyển khoản thì trả bao nhiêu hoa hồng cũng không làm",
+    "cost": "Không tốn tiền. Bỏ qua loại việc “trả vài trăm mỗi ngày, mang thẻ đến ngân hàng”.",
+    "plain": "Loại việc làm thêm này kiếm vài trăm nhân dân tệ, cái giá là để lại hồ sơ vi phạm. Có người mang giấy căn cước và 1 thẻ ngân hàng đến địa điểm chỉ định, phối hợp chuyển khoản, rút tiền, kiếm hơn 500 nhân dân tệ. Viện kiểm sát không truy tố nhưng công an vẫn tạm giữ hành chính 10 ngày và phạt 1000 nhân dân tệ. Một người khác giao thẻ ngân hàng, SIM điện thoại của mình và người khác cho nhóm tội phạm nhận tiền, rút tiền mặt, bị phạt tù 2 năm 3 tháng và phạt 2.2 vạn nhân dân tệ.",
+    "benefit": "Biết rõ tiền, tài sản có nguồn gốc phạm tội mà vẫn giúp chuyển, mua, bán hoặc dùng cách khác che đậy thì bị phạt tù không quá 3 năm, kèm phạt tiền hoặc chỉ phạt tiền (vừa chịu hình phạt vừa nộp phạt, cũng có thể chỉ bị phạt tiền). Vụ việc chính thức: một người họ Vương làm theo chỉ dẫn, mang giấy căn cước và 1 thẻ ngân hàng đến địa điểm chỉ định để phối hợp chuyển khoản, rút tiền, kiếm hơn 500 nhân dân tệ. Viện kiểm sát không truy tố, nhưng công an căn cứ Luật Chống lừa đảo viễn thông và mạng tạm giữ hành chính 10 ngày, đồng thời phạt 1000 nhân dân tệ. Một người họ Mãn giao thẻ ngân hàng, SIM điện thoại của mình và người khác cho nhóm tội phạm nhận tiền, chuyển khoản, rút tiền mặt, bị phạt tù 2 năm 3 tháng và phạt 2.2 vạn nhân dân tệ (toàn Trung Quốc). Đổi sang tiền ảo rồi chuyển đi cũng vậy. Ba người gồm một người họ An làm theo chỉ dẫn của nhóm lừa đảo viễn thông, dùng thẻ ngân hàng của mình nhận tiền. Họ dùng tiền mua tiền ảo trên nền tảng giao dịch, rồi chuyển đến tài khoản đối phương chỉ định, hưởng hoa hồng theo tỷ lệ. Xác minh thấy trong đó có hơn 50 vạn nhân dân tệ là tiền nạn nhân bị lừa. Ba người bị kết tội che giấu, che đậy tài sản do phạm tội mà có, lần lượt chịu mức tù từ 2 năm 8 tháng đến 3 năm 3 tháng, mỗi người bị phạt từ 3 vạn đến 4 vạn nhân dân tệ (Thông Châu, Bắc Kinh).",
+    "notes": "Hậu quả của việc cho mượn thẻ ngân hàng, giúp người khác luân chuyển tiền qua tài khoản, xem chương 8 mục 8 (cho người khác mượn thẻ ngân hàng). Mục này nói về việc tự tay rút tiền mặt, chuyển khoản. Nhận tiền rồi đổi sang tiền ảo như Tether để chuyển đi cũng là cùng một việc. Vì sao tự mua tiền ảo rồi lỗ lại không đòi được tiền, xem chương 5 mục 45 (đừng mua tiền ảo). Câu “tôi không biết tiền từ đâu ra” chưa chắc được chấp nhận khi xử lý vụ án. Khi bình luận vụ người họ Mãn, Tòa án Nhân dân Tối cao và Viện Kiểm sát Nhân dân Tối cao nêu rõ: tòa sẽ xét thông tin bạn đã tiếp xúc, cách tiền được chuyển đổi và chuyển đi, giao dịch và tài khoản có bất thường hay không; kết hợp trải nghiệm của bạn và quan hệ với bên ở công đoạn trước để đánh giá tổng thể bạn có biết hay không. Người không bị truy tố trong vụ nói trên vẫn bị tạm giữ hành chính 10 ngày.",
+    "extra": ""
+  }
+}

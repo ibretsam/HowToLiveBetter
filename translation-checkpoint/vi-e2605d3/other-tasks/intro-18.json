@@ -1,0 +1,15 @@
+{
+  "id": "intro-18",
+  "source_commit": "e2605d3e2242bd6216c9255192b8a8957a08c55a",
+  "source_path": "book/18-养孩子划不划算.md",
+  "source_sha256": "27a87357cd6068988ffcc9ebda8d0374293315193cf5b1014eaa8e0eee5fdbbd",
+  "original": {
+    "title": "养孩子划不划算",
+    "intro": "这一节算的是钱和时间两笔账。和第 10 节算结婚账一样，这里只把账拆开给你看，不替你下结论。已经怀孕、要照流程一步步办事的，看第 27 节。"
+  },
+  "status": "current",
+  "previous_translation": {
+    "title": "Nuôi con có đáng không",
+    "intro": "Chương này tính riêng hai khoản tiền bạc và thời gian. Giống cách tính chuyện kết hôn ở chương 10, ở đây chỉ tách từng khoản cho bạn xem, không kết luận thay bạn. Nếu đã mang thai và cần làm từng bước theo quy trình, xem chương 27."
+  }
+}
