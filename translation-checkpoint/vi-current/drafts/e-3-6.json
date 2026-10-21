@@ -1,0 +1,14 @@
+{
+  "id": "e-3-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "25acf0ea1dad3a56f5cb5eceee2b4b7eb2ce71ba67b4f0709e14cca541cd2763",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Khi làm việc cần suy nghĩ liên tục, hãy ngăn cả những gián đoạn chỉ kéo dài vài giây",
+    "cost": "Không tốn tiền. Đóng cửa, đeo tai nghe hoặc treo biển “Xin đừng làm phiền”.",
+    "plain": "Một lần gián đoạn trung bình 2.8 giây khiến khả năng làm sai thao tác tiếp theo tăng gấp đôi; gián đoạn 4.4 giây làm tăng gấp ba. Theo dõi tại nơi làm việc còn thấy phải mất trung bình 25 phút mới quay lại việc bị gián đoạn, xen giữa là hai việc khác. Người bị gián đoạn làm nhanh hơn, nhưng căng thẳng, bực bội và mức gắng sức đều cao hơn.",
+    "benefit": "Gián đoạn trung bình 2.8 giây làm tỷ lệ sai bước trong nhiệm vụ thực hiện lần lượt từng bước (nhiệm vụ tuần tự) tăng gấp đôi. Gián đoạn 4.4 giây làm tăng gấp ba. Đây là thí nghiệm trong phòng thí nghiệm. Một nghiên cứu khác quan sát tại chỗ 24 nhân viên văn phòng làm công việc xử lý thông tin. Trung bình cứ 11 phút họ đổi một chủ đề công việc. 57% chủ đề công việc bị gián đoạn. Để quay lại công việc bị gián đoạn trong cùng ngày, trung bình cần 25 phút 26 giây, xen giữa là 2.26 việc khác. Một thí nghiệm với 48 người còn cho thấy người bị gián đoạn làm nhanh hơn nhưng tự báo cáo căng thẳng, bực bội, áp lực thời gian và mức gắng sức cao hơn.",
+    "notes": "Nghiên cứu tại nơi làm việc chia gián đoạn thành hai loại: người khác tìm đến và bản thân tự mở thứ khác. Đóng cửa chỉ ngăn được loại đầu. Loại sau cần kết hợp mục 1 (tắt thông báo không cần thiết) và mục 5 (gom tin nhắn để xử lý theo đợt).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-3-9",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "1ee6bb3deadb0dabd978c8f87ea2f38fc5699320c452b9aad2cca0d18210ecb3",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Đến giờ thì ngủ, đừng thức khuya vì trò chơi, video ngắn hay nội dung khiêu dâm",
+    "cost": "Không tốn tiền. Khó ở chỗ phải chống lại thói quen “xem thêm một tập” lâu dài. Không mang điện thoại vào phòng ngủ là cách ít tốn sức nhất.",
+    "plain": "Năm 2025, người Trung Quốc ngủ trung bình 6.97 giờ mỗi đêm, thời điểm bắt đầu ngủ trung bình là 0:10. Ở trẻ em và thanh thiếu niên, người dùng điện thoại hoặc máy tính bảng trước khi ngủ có khả năng ngủ không đủ cao gấp hơn hai lần và khả năng buồn ngủ ban ngày cao gấp 2.7 lần. Dù chỉ để thiết bị trong phòng ngủ mà không dùng, các con số cũng gần tương tự. Vì vậy, cách đơn giản nhất là không mang điện thoại vào phòng ngủ.",
+    "benefit": "Năm 2025, cư dân Trung Quốc ngủ trung bình 6.97 giờ ban đêm, thời điểm bắt đầu ngủ trung bình là 0:10 (Hội Nghiên cứu Giấc ngủ Trung Quốc). Người dùng thiết bị cầm tay trước khi ngủ có khả năng ngủ không đủ cao khoảng 2.17 lần (OR 2.17), chất lượng giấc ngủ kém cao khoảng 1.46 lần (OR 1.46), và buồn ngủ ban ngày cao khoảng 2.72 lần (OR 2.72). Dù chỉ để thiết bị trong phòng ngủ mà không dùng, các con số cũng gần tương tự: khoảng 1.79, 1.53, 2.27 lần (OR 1.79/1.53/2.27). Phần này gộp 20 khảo sát tại cùng một thời điểm với 125198 trẻ em và thanh thiếu niên. Một khảo sát khác tại cùng một thời điểm có 844 người trưởng thành từ 18 đến 94 tuổi. Người vẫn dùng điện thoại sau khi tắt đèn mất nhiều thời gian hơn mới ngủ được, có tỷ lệ thời gian thực sự ngủ khi nằm trên giường thấp hơn và mệt mỏi hơn ban ngày.",
+    "notes": "Còn tranh luận. Cái giá của bản thân việc thức khuya xem mục 3 chương này (ngủ đủ 7 đến 8 giờ mỗi đêm). Hiện chưa có bằng chứng đáng tin để xác định liệu nội dung khiêu dâm có gây ảnh hưởng đến sức lực và khả năng trí óc của người bình thường hay không. Một phân tích tổng hợp nhiều nghiên cứu cho rằng cái gọi là “vấn đề khiêu dâm” đến nhiều hơn từ sự không phù hợp giữa quan niệm và hành vi của một người, chứ không phải bản thân nội dung. Một nghiên cứu khác tổng hợp dữ liệu của 280 nam giới, thấy thời gian xem không liên quan đến chức năng cương khi quan hệ với bạn tình. Ở đây chỉ xét việc nội dung đó chiếm mất thời gian ngủ. Hai con số 6.97 giờ và 0:10 không có bản công bố trên trang chính thức của Hội Nghiên cứu Giấc ngủ Trung Quốc (kiểm tra tháng 9 năm 2026). Ở đây dùng bài của báo Sức khỏe được Ủy ban Y tế và Sức khỏe tỉnh Phúc Kiến đăng lại.",
+    "extra": ""
+  }
+}

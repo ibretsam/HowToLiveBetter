@@ -1,0 +1,14 @@
+{
+  "id": "e-11-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "c4c4c117a19b61b968e5c6a881318079a17011885198c85048d75701d659f3b2",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Trước khi đưa website, ứng dụng lên hoạt động, làm thủ tục đăng ký ICP và lưu nhật ký từ 6 tháng trở lên theo yêu cầu bảo vệ theo cấp độ",
+    "cost": "Đăng ký miễn phí, làm theo quy trình của nhà cung cấp đám mây; theo kinh nghiệm tác giả, mất vài ngày đến vài tuần. Đánh giá bảo vệ theo cấp độ thu phí theo từng cấp. Bảo vệ theo cấp độ là hệ thống biện pháp quản lý an ninh nhà nước yêu cầu website và hệ thống thực hiện, phân loại theo mức độ quan trọng của hệ thống.",
+    "plain": "Đăng ký không mất tiền; dùng máy chủ trong nước mà không đăng ký, lại không chịu sửa thì website bị đóng. Khai trong hồ sơ đăng ký rằng dịch vụ không thu phí nhưng thực tế lại thu tiền thì bị phạt 3 đến 5 lần khoản thu lợi trái pháp luật hoặc 10 vạn đến 100 vạn nhân dân tệ. Nhật ký phải lưu đủ 6 tháng; không sửa hoặc gây hậu quả thì phạt 1 vạn đến 10 vạn nhân dân tệ.",
+    "benefit": "Dịch vụ thông tin Internet mang tính kinh doanh áp dụng chế độ cấp phép; loại không mang tính kinh doanh áp dụng chế độ đăng ký. Không có giấy phép hoặc chưa đăng ký thì không được cung cấp dịch vụ. Chưa đăng ký thì cơ quan quản lý viễn thông yêu cầu sửa; không sửa thì yêu cầu đóng website. Kinh doanh khi chưa có phép bị tịch thu khoản thu lợi trái pháp luật và phạt 3 đến 5 lần khoản đó, hoặc phạt 10 vạn đến 100 vạn nhân dân tệ. Trang chủ không ghi số đăng ký bị phạt từ 5000 nhân dân tệ đến 5 vạn nhân dân tệ. Bên vận hành mạng phải xây dựng chế độ quản lý an ninh, phòng chống tấn công, lưu nhật ký mạng ít nhất 6 tháng, phân loại, sao lưu, mã hóa dữ liệu theo chế độ bảo vệ theo cấp độ. Không thực hiện thì bị yêu cầu sửa và cảnh cáo. Không sửa hoặc gây hậu quả thì phạt 1 vạn đến 10 vạn nhân dân tệ; người quản lý bị phạt từ 5000 nhân dân tệ đến 5 vạn nhân dân tệ (toàn quốc).",
+    "notes": "Máy chủ trong nước chưa đăng ký thì nhà cung cấp kết nối không được cho kết nối. Cách đăng ký, mức phạt khi không ghi số đăng ký và cách kiểm tra nhà cung cấp có đủ tư cách hay không, xem chương 26 mục 4 về máy chủ đặt trong nước phải đăng ký. Hai trường hợp dễ gặp rắc rối là đăng ký cá nhân phi kinh doanh nhưng thực tế thu tiền, hoặc đổi tên miền hay chủ thể mà không thay đổi đăng ký. Theo tác giả, lưu nhật ký 6 tháng vừa là nghĩa vụ vừa giúp tự bảo vệ: khi có chuyện, có thể dùng để chứng minh không phải mình làm. Ứng dụng và chương trình nhỏ cũng phải đăng ký trước khi phát hành; cách làm ở cùng mục đó.",
+    "extra": ""
+  }
+}

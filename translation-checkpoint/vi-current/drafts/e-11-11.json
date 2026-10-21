@@ -1,0 +1,14 @@
+{
+  "id": "e-11-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "c488bcc50ee01b6233ad5dec2eb31225701f3e15925dd209c1a12f9e278c9361",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Không bán công cụ vượt tường lửa, tài khoản VPN, không dựng nút kết nối loại này cho người khác",
+    "cost": "Không tốn tiền, cũng không mất thời gian.",
+    "plain": "Tự dựng đường truyền ra nước ngoài hoặc dùng kênh quốc tế ngoài kênh công cộng của nhà nước có thể bị công an yêu cầu dừng kết nối, cảnh cáo, phạt từ 1.5 vạn nhân dân tệ trở xuống và tịch thu khoản thu lợi trái pháp luật. Nếu dùng việc này để kinh doanh, cơ quan xử lý có thể áp dụng tội kinh doanh trái phép, trường hợp nghiêm trọng bị phạt tù từ 5 năm trở xuống. Mục này nói về bán và dựng nút kết nối. Với cá nhân tự dùng, mức phạt cao nhất là cảnh cáo kèm phạt tiền.",
+    "benefit": "Kết nối trực tiếp với mạng quốc tế phải dùng kênh ra vào quốc tế do mạng viễn thông công cộng nhà nước cung cấp. Không tổ chức hay cá nhân nào được tự xây dựng hoặc sử dụng kênh khác: vừa không được tự dựng đường truyền ra nước ngoài, vừa không được dùng đường do người khác dựng. Vi phạm thì công an yêu cầu dừng kết nối, cảnh cáo, có thể kèm phạt từ 1.5 vạn nhân dân tệ trở xuống và tịch thu khoản thu lợi trái pháp luật. Nếu dùng việc này để kinh doanh, cơ quan xử lý có thể xử theo tội kinh doanh trái phép. Trường hợp nghiêm trọng bị phạt tù từ 5 năm trở xuống, kèm hoặc chỉ phạt tiền bằng 1 đến 5 lần khoản thu lợi trái pháp luật. Đặc biệt nghiêm trọng bị phạt tù từ 5 năm trở lên (toàn quốc).",
+    "notes": "Khi viết chương này, chưa tìm thấy bản án về vượt tường lửa được công bố trên website Tòa án Nhân dân Tối cao, Viện Kiểm sát Nhân dân Tối cao; cách xử lý giữa các địa phương cũng khác nhau nhiều nên xếp mức B. Với cá nhân tự dùng, mức phạt cao nhất là cảnh cáo kèm phạt tiền theo Điều mười bốn của Quy định tạm thời.",
+    "extra": ""
+  }
+}

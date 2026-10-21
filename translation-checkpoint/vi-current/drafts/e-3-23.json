@@ -1,0 +1,14 @@
+{
+  "id": "e-3-23",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "9ea649ac6a436e89b60587f1f3570499958b5880922b24ccfff68258b2eba7e0",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Khi tức giận, đừng xả bằng đấm bao cát hay chạy một vòng; trước hết hãy để cơ thể chậm lại",
+    "cost": "Không tốn tiền. Khi đang tức, chuyển sang vài phút làm việc giúp nhịp tim chậm lại: thở chậm, ngồi xuống, yên tĩnh một lúc. Khó ở chỗ lúc đó điều muốn làm nhất lại chính là trút giận.",
+    "plain": "Đấm bao cát, đạp xe hoặc chạy một vòng là những cách xả khiến cơ thể hưng phấn hơn; xét chung, chúng không giúp nguôi giận. Các cách giúp cơ thể lắng xuống như thở chậm, chánh niệm và thiền làm giảm rõ rệt cơn giận và thôi thúc động tay chân.",
+    "benefit": "Gộp 154 nghiên cứu để tính (phân tích gộp), gồm 184 nhóm mẫu, 10,189 người. Những cách giúp cơ thể bình tĩnh như thở sâu, chánh niệm và thiền giảm cơn giận và tính gây hấn. Cỡ hiệu ứng g = -0.63, 95% CI từ -0.82 đến -0.43 (khoảng tin cậy). Kết quả ổn định ở người thuộc giới tính, chủng tộc, tuổi và văn hóa khác nhau. Những cách làm cơ thể hưng phấn hơn như đấm bao cát, chạy chậm và đạp xe nhìn chung không hiệu quả. Cỡ hiệu ứng g = -0.02, 95% CI từ -0.13 đến 0.09. Tác giả kết luận trút giận và chạy một vòng đều không phải cách nguôi giận hiệu quả.",
+    "notes": "Thứ được đo là cơn giận và tính gây hấn, không phải sức lực. Xếp vào thời gian là cách phân loại của tác giả: bớt một cuộc cãi vã thì bớt một lần giải quyết hậu quả. Cách dùng ngay tại chỗ xem chương 22 mục 8 (thở dài theo chu kỳ) và mục 17 chương này (khi tức giận hãy rời đi trước). Chạy bộ không phải vô ích. Về lâu dài, nó có hiệu quả với tâm trạng sa sút, xem chương 22 mục 6 (buồn thì đi bộ hoặc chạy). Chỉ là không phù hợp để nguôi giận ngay lúc đó. Đang tức thì đừng lái xe, gửi tin nhắn hay ra quyết định. Nếu có người đang đánh bạn, trước hết rời đi và báo cảnh sát. Điều cần xử lý lúc ấy không phải cảm xúc của bạn, xem chương 8 mục 43 (bị bạo lực gia đình).",
+    "extra": ""
+  }
+}

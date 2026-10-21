@@ -1,0 +1,14 @@
+{
+  "id": "e-23-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "0b19b949c4cd76f309250d0843a8a6422486a1252802e1ed592cad08f1463228",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Đừng chọn cách học theo nhãn “tôi học bằng nhìn, người kia học bằng nghe”",
+    "cost": "Không tốn tiền. Chỉ cần ngừng chọn tài liệu, khóa học theo cách phân loại này và ngừng trả tiền làm bài đánh giá phong cách học.",
+    "plain": "Nhiều người tin mỗi người có phong cách học riêng, như nhìn hay nghe, và phải dạy đúng phong cách mới học tốt. Rất ít nghiên cứu kiểm tra nghiêm túc; gần như không có nghiên cứu nào ủng hộ, vài nghiên cứu còn cho kết quả ngược lại. Mỗi người đúng là có sở thích, nhưng chưa có bằng chứng rằng học theo sở thích sẽ học tốt hơn; không cần trả tiền đánh giá phong cách học.",
+    "benefit": "Một tổng quan được giao đánh giá bằng chứng về phong cách học chỉ ra: muốn chứng minh dạy theo phong cách hiệu quả, trước hết phải chia học sinh theo phong cách, rồi phân ngẫu nhiên người trong mỗi nhóm sang các phương pháp dạy khác nhau. Cuối cùng phải dùng cùng một bài kiểm tra. Tiêu chí hiệu quả là xuất hiện một tương tác cụ thể: phương pháp tốt nhất với phong cách này không phải tốt nhất với phong cách kia. Kết luận của tổng quan là gần như không tìm thấy tương tác ấy. Dù có nhiều tài liệu về phong cách học, số nghiên cứu có thiết kế thử nghiệm đạt yêu cầu rất ít; vài nghiên cứu còn cho kết quả trực tiếp trái với “giả thuyết ghép khớp”. Từ đó, tác giả cho rằng bằng chứng hiện có không đủ để đưa đánh giá phong cách học vào thực hành giáo dục.",
+    "notes": "Tổng quan đồng thời nói điều này không có nghĩa mọi phiên bản lý thuyết phong cách học đều đã được kiểm tra và bác bỏ; nhiều phiên bản chưa hề được kiểm tra. Hai việc cần tránh là trả tiền đánh giá phong cách và chọn lớp theo phong cách. Tiêu chí chọn đào tạo xem mục 9 (ưu tiên kênh có trợ cấp nhà nước) và mục 13 (ưu tiên chương trình ngắn có thể đi làm ngay).",
+    "extra": ""
+  }
+}

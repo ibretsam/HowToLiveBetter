@@ -1,0 +1,15 @@
+{
+  "id": "e-3-14",
+  "source_sha256": "6513c93bbf6b7bbb88a72e230e2cc0427d0a2d4d551ace201e72c8072bb17a95",
+  "draft_sha256": "91a24af6ed1bf30a7ee27bd831cbf13201890ec258d0029a808c2a97aeb5ed32",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: changed unnatural Vietnamese expression for exhausting willing listeners to clear wording in plain and benefit. Rumination outcomes and author-origin hands-on activity remain differentiated."
+}

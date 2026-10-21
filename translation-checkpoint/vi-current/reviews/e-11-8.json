@@ -1,0 +1,15 @@
+{
+  "id": "e-11-8",
+  "source_sha256": "083544543ef5ee11f5960facb86e6aaf18d29fdd0cff78fa8b99c20aedc15768",
+  "draft_sha256": "dd69b457b580ef3ae8e5b2de860782a825f29ca1ba0f43225f78c6d38ec5628b",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked20device criminal threshold,105camera/330vanphone cases,administrative5/15day and5–50/10–100vanfine ranges,5year/lifetime occupational bans. Source lack of company-mining official precedent retained."
+}

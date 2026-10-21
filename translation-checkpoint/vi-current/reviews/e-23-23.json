@@ -1,0 +1,15 @@
+{
+  "id": "e-23-23",
+  "source_sha256": "d2a170c1f30022216b1c247e760114bf4b664e048b9095d703c2a866d1a8f1a3",
+  "draft_sha256": "1fe8d9092e68ca12f8f5fec05370628b4339bdf8c47123bd4ac652ba1886f595",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Titleassessment versus appointment/pay clearly separated.2016positionquota rule,mobilityreassessment exception andpolicy/evidencegrade limitation retained."
+}

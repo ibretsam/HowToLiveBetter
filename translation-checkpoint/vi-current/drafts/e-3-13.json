@@ -1,0 +1,14 @@
+{
+  "id": "e-3-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "54a4c2af9c3ce19da22624da7c4fcecd996c1fdadffa0d5e34eb012e7d665e9b",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Đừng cứ tăng giờ làm mỗi tuần: vượt khoảng 49 giờ thì mỗi giờ làm thêm tạo ra ngày càng ít việc hơn",
+    "cost": "Có thể nhận ít tiền làm thêm giờ hơn. Cũng có thể phải bỏ công trao đổi với cấp trên.",
+    "plain": "Hồ sơ nhà máy quân giới Anh thời Thế chiến thứ nhất cho thấy trong giới hạn 49 giờ mỗi tuần, lượng việc làm được tăng theo thời gian làm. Vượt 49 giờ, mỗi giờ thêm tạo ra ngày càng ít việc hơn. Làm 70 giờ một tuần gần như cho lượng việc bằng làm 56 giờ; 14 giờ thêm đó coi như làm vô ích.",
+    "benefit": "Hồ sơ sản lượng của công nhân nhà máy quân giới Anh thời Thế chiến thứ nhất: trong giới hạn 49 giờ mỗi tuần, sản lượng tỷ lệ thuận với giờ làm. Vượt 49 giờ, tốc độ tăng sản lượng bắt đầu chậm lại. Sản lượng đạt tối đa ở khoảng 63 giờ. Làm 70 giờ gần như không khác làm 56 giờ về sản lượng; 14 giờ làm thêm coi như vô ích.",
+    "notes": "Dữ liệu đến từ nhà máy cách đây một trăm năm, công việc là lao động thể lực và công nhân chủ yếu là phụ nữ. Ngưỡng này chưa chắc giống khi áp dụng cho việc trí óc; tác giả nghiên cứu cũng nói các nghề khác có thể cao hoặc thấp hơn. Điều đáng tin là chiều hướng: qua một điểm nào đó, làm thêm gần như không tạo thêm việc. Con số cụ thể 49 không đáng tin.",
+    "extra": ""
+  }
+}

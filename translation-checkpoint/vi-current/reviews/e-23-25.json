@@ -1,0 +1,15 @@
+{
+  "id": "e-23-25",
+  "source_sha256": "310de4bd8d33f9a3d4bca28b79ba189a544849a1c523366ad7d5ebb01922c23d",
+  "draft_sha256": "580a07b99596ec1db04cdc026e73036d9c23e69e22185e7ebf7b2ed6d402baf1",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. UK PhD8%/−9%,age35,3/4vanGBP income directions,2021mentalhealth16/23469/24% CI18–31 and9/15626/17%12–23,I²98% retained. Observational/noncausal limits,2013China fees/aids andinclusive two-week distress boundary preserved. Source China12356 and crossreferences retained, not localized."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-23-12",
+  "source_sha256": "e5cc95b779e24118afce6c0c0f1dc7cf3c54d00fdd1f8abf939872ea3a4d8690",
+  "draft_sha256": "c51e267420ace7f7d7cd85b4e0b8fd3e454b2273b5538a29cf0c490936bf1712",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. All2025salarynumbers,2022Q4/100occupations/102cities retained. Source inference that subsidy differences directlyreflect scarcity is retained although source itself also names trainingcost; not independently endorsed."
+}

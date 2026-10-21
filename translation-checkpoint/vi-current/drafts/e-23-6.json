@@ -1,0 +1,14 @@
+{
+  "id": "e-23-6",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ca23b17e5c5fa9bdc54638c79d60a3cf853267585c15008613297b3d4114c8f9",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Biến “học tiếp hay đi làm” thành bài toán: so ba năm lương kiếm sớm khi đi làm với chênh lệch thu nhập hằng năm trong hàng chục năm sau nhờ học tiếp",
+    "cost": "Không tốn tiền. Ngồi tính một lần, khoảng nửa giờ.",
+    "plain": "Đi làm trước giúp kiếm lương sớm vài năm, nhưng khoản đó chỉ có một lần. Học tiếp có thể giúp mỗi năm sau kiếm thêm so với không học, kéo dài ba, bốn chục năm. Vì vậy cần đặt hai khoản cạnh nhau để so. Ở đô thị Trung Quốc, thêm một năm học gắn với thu nhập năm cao hơn khoảng 4.0% đến 10.2%, nhưng đó là số liệu từ năm 2001 trở về trước, chỉ dùng để hình dung mức độ.",
+    "benefit": "Đây là ước tính cho đô thị Trung Quốc giai đoạn 1988 đến 2001. Thêm một năm học làm thu nhập cao hơn bao nhiêu được gọi là tỷ suất lợi ích giáo dục. Nguyên văn viết “tăng mạnh từ 4.0% cho mỗi năm giáo dục vào năm 1988 lên 10.2% năm 2001”. Phần lớn mức tăng diễn ra sau năm 1992. Điều này phản ánh phần lương cao hơn của người học đại học so với người không học, tức phần chênh lệch lương nhờ giáo dục bậc cao, đang lớn lên. Đây là mức ước tính tại Trung Quốc có thể dùng khi quy “thêm một năm học” thành chênh lệch thu nhập năm. Trung bình toàn cầu xem mục 7 của chương này (lợi ích trung bình toàn cầu của thêm một năm giáo dục)",
+    "notes": "Trước khi tính, trừ các khoản miễn học phí và trợ cấp ở mục 4 của chương này (học phí trung cấp nghề và trợ cấp học tập); còn có phần cân nhắc ở mục 2 (thêm một năm học và tử vong). Dữ liệu chỉ đến năm 2001 và chỉ bao phủ đô thị, không thể dùng thẳng làm số liệu hiện nay. Mức trung bình toàn cầu 9% ở mục 7 cũng vậy. Đây là cách tính, không phải đáp án: làm theo thì kết luận sẽ khác nhau tùy người. Học phí cao, ngành không phù hợp vị trí việc làm, thời gian học dài thì có thể thật sự không đáng. Nhưng điều đó chỉ cho thấy chương trình cụ thể ấy không đáng, không chứng minh việc học vô ích. Một số yếu tố không vào được công thức nhưng vẫn tồn tại: ngưỡng học vấn theo luật ở mục 5 (tuyển sinh liên thông và thi riêng của trung cấp nghề), khả năng khó bị thay thế ở mục 10 (chọn kỹ năng khó bị tự động hóa), và khả năng đổi ngành. Người hưởng lợi là bạn",
+    "extra": ""
+  }
+}

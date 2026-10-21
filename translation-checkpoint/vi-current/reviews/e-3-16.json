@@ -1,0 +1,15 @@
+{
+  "id": "e-3-16",
+  "source_sha256": "381002bcd630ad34f138525d92260188a6ea0a63587f224f7b71d1ac58b1a197",
+  "draft_sha256": "80d58ab636a8a5fac95771dad60e52f30c83383b7ef01cb8595f9844519ae72b",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 120 widows age60–89, cross-sectional noncausal design, well-being not energy and author extrapolation preserved."
+}

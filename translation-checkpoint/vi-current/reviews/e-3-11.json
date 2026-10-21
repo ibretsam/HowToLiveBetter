@@ -1,0 +1,15 @@
+{
+  "id": "e-3-11",
+  "source_sha256": "7ad87b7306a0779b1e6a27df3a41d7ecbb15722cc727962fe09144b23d928f88",
+  "draft_sha256": "3e4f2a9ea194e163c61b14bb164f1ed7fa934e1470294ed9b0d18fe4570af3a9",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 10/5/20/30-minute nap comparisons, delayed35-minute benefits, 155-minute persistence, healthy-young laboratory and untested eyes-closed limits preserved."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-11-21",
+  "source_sha256": "ded9129bde17622722ee2f467a4267c33b5bfd2fff1126f2661ec33bc55adc1f",
+  "draft_sha256": "f0605d4c0eb7b60d13d72522f4d5d653369d788c3c7d793fca6b84758a20251e",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked DDoS severe10systems/5000income/1vanloss/1vanusers1hour,5foldaggravation,10person-timescomplicity vs20specialtoolthreshold andadministrativebounds. Cases69,2017/2018,11offenders,80IPs,11IPs/hundredtasks,2020one-year5van retained. Corrected server hosting wording from storage to hosting premises. Source localcharge differences and requester principal role preserved."
+}

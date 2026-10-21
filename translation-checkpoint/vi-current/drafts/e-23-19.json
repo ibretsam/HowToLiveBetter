@@ -1,0 +1,14 @@
+{
+  "id": "e-23-19",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "2e7bea12f02a1edeeb1cc6a9835689324a287571946cd47d1edb5cc31e807f04",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Với nội dung cần nhớ, đặt câu hỏi tự kiểm tra theo cách sẽ sử dụng sau này, đừng chỉ học thuộc nguyên dạng một lượt",
+    "cost": "Không tốn tiền hoặc thêm thời gian. Chỉ đổi cách luyện: từ “học thuộc nguyên dạng một lượt” sang “đặt câu hỏi tự kiểm tra theo cách sẽ sử dụng”. Khó ở chỗ trước tiên phải nghĩ rõ sau này dùng kiến thức thế nào.",
+    "plain": "Đóng sách tự kiểm tra không chỉ giúp nhớ những chữ đã học thuộc. Gộp 192 đối chiếu với hơn một vạn người cho thấy cách này cũng giúp khi đổi dạng câu hỏi, làm bài vận dụng và suy luận, với tác động nhỏ đến vừa. Nhưng hiệu quả yếu nhất ở hai tình huống: đảo câu hỏi với câu trả lời, và nội dung chỉ từng thấy trong sách mà chưa từng được hỏi.",
+    "benefit": "Một phân tích gộp tổng hợp hơn 40 năm nghiên cứu, gồm 67 bài đã hoặc chưa công bố, 122 thử nghiệm, 192 mức tác động chuyển giao và tổng cộng 10382 người. So với nhóm đối chứng “xem lại nhưng không kiểm tra”, kiến thức từ kiểm tra luyện tập thực sự chuyển được sang bối cảnh khác, với d=0.40 (95% CI 0.31 đến 0.50). Chuyển giao mạnh nhất khi đổi dạng câu hỏi, hỏi bài vận dụng và suy luận, câu hỏi chẩn đoán y khoa hoặc từ gợi ý có nghĩa gần nhau. Yếu nhất khi đảo tác nhân kích thích và phản ứng, với tài liệu từng thấy lúc học nhưng chưa được kiểm tra, và câu hỏi dạng ví dụ mẫu. Ba yếu tố điều tiết ảnh hưởng mạnh đến việc có chuyển giao tích cực hay không: hình thức trả lời lúc luyện có khớp lúc thi không, có luyện truy hồi kèm phản hồi chi tiết không và lần kiểm tra đầu có trả lời đúng không. Tác giả còn dùng hai cách hiệu chỉnh thiên lệch công bố. Mức tác động của các yếu tố điều tiết ít thay đổi, nhưng ước tính hệ số chặn giảm rõ: khi không có điều kiện nào trong các điều kiện trên, thường không thấy chuyển giao tích cực",
+    "notes": "Từ “học thuộc” thường trộn hai việc: xem lại tài liệu bằng đọc lại, tô ý chính, và đóng sách chủ động nhớ lại. Nhóm đầu bị xếp thấp nhất trong tổng quan đánh giá mười cách học; xem mục 16 (đừng lấy tô ý chính, đọc lại, viết tóm tắt làm cách học chủ yếu). Việc nên làm là nhóm sau: đóng sách chủ động nhớ lại, cụ thể ở mục 14 (đóng sách tự kiểm tra), đồng thời chia ra nhiều ngày theo mục 15 (chia ra vài ngày). Trước hết nghĩ rõ sau này dùng thế nào: chọn đáp án trên giấy hay phán đoán tại hiện trường, rồi đặt câu hỏi theo hình thức đó để tự kiểm tra. Đảo chiều câu hỏi và câu trả lời để kiểm tra thêm cũng đáng làm, vì chuyển giao theo chiều đảo yếu nhất trong phân tích gộp này; phải luyện cả hai chiều.",
+    "extra": ""
+  }
+}

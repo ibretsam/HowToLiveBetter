@@ -1,0 +1,14 @@
+{
+  "id": "e-3-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "181607ea3e88bbb17708a54f7a52f3e0f44e8284ef16de6a93a8ccee39e7f1ac",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Xem những ý nghĩ như “chắc chắn mọi việc sẽ tệ hơn” là triệu chứng, đừng coi là sự thật",
+    "cost": "Không tốn tiền. Khó ở chỗ nhìn những ý nghĩ này như triệu chứng thay vì sự thật.",
+    "plain": "Trong một nghiên cứu theo dõi các cặp sinh đôi suốt 20 năm, mỗi mức bi quan tăng thêm đi cùng khả năng tử vong trong cùng thời kỳ cao hơn khoảng 13%, và khả năng tử vong vì bệnh tim mạch cao hơn khoảng 20%. Ngược lại, điểm lạc quan cao không mang lại lợi ích tương ứng. Vì vậy, điều cần xử lý là sự bi quan, không phải “chưa đủ năng lượng tích cực”.",
+    "benefit": "2978 người sinh đôi ở Australia từ 50 tuổi trở lên được theo dõi trung bình 20 năm; trong thời gian đó, 1068 người tử vong. Điểm trên thang bi quan tăng mỗi 1 độ lệch chuẩn đi cùng nguy cơ tử vong trong cùng thời kỳ cao hơn khoảng 13% (tỷ số nguy cơ 1.134). Khoảng tin cậy là 95% CI 1.065–1.207, P=8.85×10⁻⁵. Tử vong do tim mạch cao hơn khoảng 20% (1.196, 1.045–1.368, P=0.0093). Không liên quan đến tử vong do ung thư. Điểm lạc quan cũng không liên quan rõ rệt đến tỷ lệ tử vong.",
+    "notes": "Còn tranh luận. Đây chỉ là quan sát, không phân nhóm. Có người cho rằng “thực ra mắc bệnh trước rồi mới bi quan”; tác giả phản bác rằng nếu vậy thì tử vong do ung thư cũng phải liên quan. Tuy nhiên, vẫn có thể tồn tại yếu tố chưa đo được. Lạc quan không có tác dụng bảo vệ nên không cần ép mình “suy nghĩ tích cực”. Điều cần làm là đừng coi dự đoán bi quan là dự báo chính xác về tương lai.",
+    "extra": ""
+  }
+}

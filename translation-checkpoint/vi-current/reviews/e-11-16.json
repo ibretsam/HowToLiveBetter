@@ -1,0 +1,15 @@
+{
+  "id": "e-11-16",
+  "source_sha256": "c4c4c117a19b61b968e5c6a881318079a17011885198c85048d75701d659f3b2",
+  "draft_sha256": "fcade8251abc200490cc49630cbfbc16b51a7b4da0a3649c574a55619c3d2daf",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. CheckedICP license vs filing,3–5fold revenue/10–100van fines,5000–5vanhomepageregistration fines,6monthlogs andwarning/noncompliance sanctions. Clarified plain field as declaring service free in registration while actually charging, not charging an ICP filing fee. Source domestic scope and changes of domain/legal entity retained."
+}

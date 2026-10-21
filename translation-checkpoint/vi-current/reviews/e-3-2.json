@@ -1,0 +1,15 @@
+{
+  "id": "e-3-2",
+  "source_sha256": "1c6669d6f112b2211671580dc790816780d83f2cdb3518260d1c346a2cfe0f4f",
+  "draft_sha256": "54e145bd300c02dac1224c727ae53262e226482e5cacb40a237022c66d9f5d9a",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 61/30, melatonin clock times, r and model-based daylight inference, sleep-compensation reference preserved."
+}

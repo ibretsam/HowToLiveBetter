@@ -1,0 +1,15 @@
+{
+  "id": "e-3-9",
+  "source_sha256": "1ee6bb3deadb0dabd978c8f87ea2f38fc5699320c452b9aad2cca0d18210ecb3",
+  "draft_sha256": "b86934cba1d2466a8152b7479cb19bac4fd1bf0bcbf19174082bcccc98171907",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: corrected plain to explicitly say mean onset0:10 and greater-than-twofold rather than ambiguous comparative. Exact ORs and China/media source limitations preserved; source uses possibility wording for OR, no independent epidemiologic correction."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-3-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "c28974eed17ced7ef2304ffaa8690f25e1079e8032600623161c92ba926e2e09",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Không dùng caffeine sau hai giờ chiều",
+    "cost": "Không tốn tiền. Người quen uống cà phê buổi chiều cần một chút ý chí để nhịn uống.",
+    "plain": "Dùng 400 mg caffeine trước giờ ngủ 6 giờ, tương đương khoảng ba đến bốn tách cà phê, khiến thời lượng ngủ đêm đó đo bằng máy giảm từ 1 giờ trở lên. Nhưng nhật ký giấc ngủ tự ghi lại không cho thấy khác biệt. Cần uống xong một tách cà phê 250 mL (107 mg) ít nhất 8.8 giờ trước giờ ngủ để không ảnh hưởng giấc ngủ. Với người ngủ lúc mười một giờ đêm, giới hạn là hai giờ chiều.",
+    "benefit": "Uống viên chứa 400 mg caffeine trước giờ ngủ 6 giờ khiến tổng thời lượng ngủ đo bằng máy ít hơn 1.1 đến 1.2 giờ so với dùng viên giả dược. Tính theo một tách cà phê 250 mL chứa 107 mg, 400 mg tương đương khoảng ba đến bốn tách. Viên giả dược trông giống nhau nhưng không chứa caffeine. Tuy nhiên, nhật ký giấc ngủ do người tham gia tự ghi không báo cáo khác biệt; họ không tự nhận ra. Khi gộp nhiều nghiên cứu để tính (phân tích gộp), caffeine làm tổng thời lượng ngủ giảm trung bình 45 phút. Tỷ lệ thời gian thực sự ngủ trong lúc nằm trên giường (hiệu suất giấc ngủ) giảm 7%. Cần uống xong một tách cà phê 250 mL (107 mg) ít nhất 8.8 giờ trước giờ ngủ để không ảnh hưởng giấc ngủ.",
+    "notes": "Nghiên cứu của Drake chỉ được thực hiện tại một phòng thí nghiệm, với liều 400 mg khá lớn, tương đương dùng hết giới hạn cả ngày trong một lần. Giới hạn đó xem chương 2 mục 26 (ba đến bốn tách cà phê). Người chuyển hóa caffeine chậm cần ngừng dùng sớm hơn nữa. Điều đổi lại khi giảm caffeine là thời lượng ngủ; kết hợp với mục 3 (ngủ đủ 7 đến 8 giờ mỗi đêm).",
+    "extra": ""
+  }
+}

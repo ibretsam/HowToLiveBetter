@@ -1,0 +1,14 @@
+{
+  "id": "e-23-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "41fe5be7b71535724fcc61b58c93f487b5cf69d8b038ccac0d418c8b356f3ef7",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Nếu “không đủ tiền học”, hãy tính theo chính sách trước: đa số học sinh nông thôn và khó khăn được miễn học phí trung cấp nghề công lập, trợ cấp 2300 nhân dân tệ, vay học tập tối đa 2 vạn mỗi năm",
+    "cost": "Không tốn tiền. Trước khi nhập học, hỏi bộ phận hỗ trợ sinh viên của trường và nộp hồ sơ một lần.",
+    "plain": "Ở trường trung cấp nghề công lập, học sinh nông thôn, học sinh thành thị học ngành liên quan nông nghiệp và học sinh gia đình khó khăn đã được miễn học phí. Từ học kỳ xuân năm 2025, trợ cấp học tập trung cấp nghề và trung học phổ thông là 2300 nhân dân tệ mỗi năm. Lên đại học, trợ cấp là 3700 mỗi năm và khoản vay học tập tối đa 2 vạn mỗi năm. Nếu thiếu tiền, hãy tính các khoản này trước khi quyết định nghỉ học đi làm.",
+    "benefit": "Chính sách miễn học phí trung cấp nghề bắt đầu từ học kỳ thu năm 2012. Nguyên văn: “Miễn học phí cho toàn bộ học sinh nông thôn, gồm huyện và thị trấn, học sinh thành thị học ngành liên quan nông nghiệp và học sinh gia đình khó khăn trong số học sinh năm thứ nhất, thứ hai, thứ ba có học tịch chính thức hệ toàn thời gian ở trường trung cấp nghề công lập; trừ học sinh các chuyên ngành biểu diễn thuộc nhóm nghệ thuật”. Năm 2024, chính sách hỗ trợ người học được điều chỉnh. Trợ cấp học tập quốc gia cho sinh viên đại học, cao đẳng tăng từ 3300 lên 3700 nhân dân tệ mỗi người mỗi năm. Học bổng khuyến học quốc gia tăng từ 5000 lên 6000. Hai khoản này thực hiện từ học kỳ thu năm 2024, riêng học bổng khuyến học tính từ năm 2024. Trợ cấp học tập quốc gia cho trung cấp nghề và trung học phổ thông đều tăng từ 2000 lên 2300 mỗi học sinh mỗi năm, thực hiện từ học kỳ xuân năm 2025. Khoản vay học tập quốc gia cũng được điều chỉnh từ học kỳ thu năm 2024. Với sinh viên đại học, cao đẳng, “hạn mức xin vay mỗi người mỗi năm tăng từ không quá 16000 lên không quá 20000 nhân dân tệ”. Với học viên sau đại học, “tăng từ không quá 20000 lên không quá 25000”. Lãi suất bằng lãi suất cho vay tham chiếu thị trường (LPR) cùng kỳ hạn và nhóm khoản vay, trừ 70 điểm cơ bản, tức thấp hơn 0.7 điểm phần trăm (toàn Trung Quốc)",
+    "notes": "Người hưởng lợi là bạn và con. Tỉnh quy định cụ thể ai được miễn học phí và trợ cấp chia thành mấy mức. Trường tư được hỗ trợ theo mức của ngành tương ứng ở trường công địa phương; phần chênh lệch vẫn tự trả, nên cần đối chiếu văn bản địa phương trước khi nhập học. Vay học tập là khoản vay, không phải trợ cấp; tốt nghiệp phải trả. Nhưng khoản vay tách việc “hiện không có tiền đóng học phí” khỏi việc “những năm học này có đáng không”; đừng vội kết luận chỉ vì thiếu tiền. Chương 7 có trợ cấp đào tạo khi thất nghiệp và cứu trợ tạm thời; nếu gia đình thực sự mất nguồn thu, hãy xin các khoản đó trước",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-11-14",
+  "source_sha256": "245abdd3ed840e2de8a4735940186f81f8d49c236a0de5873e82d6958e796c6a",
+  "draft_sha256": "90b37186081d4e2f3800fd961ce26be8bff1718ec4d04ef5965d70e35b3324a8",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. CheckedGPLv2 rights distinction,2021case51 and50vanaward,1–5fold damages and author source availability caveat. Source blanket GPL product/open-source summary is broader than detailed licensing conditions; retained without independent legal validation."
+}

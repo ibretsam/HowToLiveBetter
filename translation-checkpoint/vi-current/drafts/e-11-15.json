@@ -1,0 +1,14 @@
+{
+  "id": "e-11-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ce4ddf15feff41210608b76b663cbf16410c5591b43829bd507efde07d8501bd",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Làm ứng dụng chỉ thu thập thông tin cá nhân cần thiết cho hoạt động; người từ 14 tuổi trở xuống cần người giám hộ đồng ý, viết rõ chính sách quyền riêng tư",
+    "cost": "Không tốn tiền. Trước khi phát hành, đối chiếu danh sách quyền ứng dụng xin cấp với chính sách quyền riêng tư; quyền nào bỏ được thì bỏ. Điều khó là bên sản phẩm luôn muốn giữ thêm dữ liệu ‘sau này có thể cần’.",
+    "plain": "Chỉ thu thập thông tin cần thiết cho hoạt động; người chưa đủ 14 tuổi cần người giám hộ đồng ý. Vi phạm thì trước hết bị yêu cầu sửa, ứng dụng có thể bị dừng. Không sửa thì phạt từ 100 vạn nhân dân tệ trở xuống, người phụ trách bị phạt 1 vạn đến 10 vạn. Trường hợp nghiêm trọng bị phạt từ 5000 vạn nhân dân tệ trở xuống hoặc từ 5% doanh thu năm trước trở xuống; người phụ trách bị phạt 10 vạn đến 100 vạn nhân dân tệ.",
+    "benefit": "Xử lý thông tin cá nhân phải có mục đích rõ ràng, hợp lý, liên quan trực tiếp đến mục đích đó và dùng cách ảnh hưởng ít nhất đến quyền lợi cá nhân. Phải có sự đồng ý của cá nhân hoặc đáp ứng trường hợp luật quy định. Với người chưa đủ 14 tuổi, bắt buộc có cha mẹ hoặc người giám hộ đồng ý. Vi phạm thì cơ quan quản lý yêu cầu sửa, cảnh cáo, tịch thu khoản thu lợi trái pháp luật; ứng dụng vi phạm bị yêu cầu tạm dừng hoặc chấm dứt cung cấp dịch vụ. Không sửa thì phạt từ 100 vạn nhân dân tệ trở xuống; người quản lý trực tiếp phụ trách và người trực tiếp chịu trách nhiệm khác bị phạt 1 vạn đến 10 vạn nhân dân tệ. Trường hợp nghiêm trọng bị phạt từ 5000 vạn nhân dân tệ trở xuống hoặc từ 5% doanh thu năm trước trở xuống. Người chịu trách nhiệm bị phạt 10 vạn đến 100 vạn nhân dân tệ. Những người này còn có thể bị cấm làm thành viên hội đồng quản trị, ban giám sát hoặc quản lý cấp cao của doanh nghiệp liên quan trong một thời gian. Bán hoặc cung cấp thông tin cá nhân đến mức phạm tội thì xem mục 4 (toàn quốc).",
+    "notes": "Điều luật không nêu ‘người trực tiếp chịu trách nhiệm khác’ gồm những vị trí nào. Tác giả suy đoán người viết mã và làm sản phẩm cũng có thể bị tính vào đó; sách chưa tìm thấy vụ án có thể đối chiếu từng chữ. Bộ Công nghiệp và Công nghệ thông tin định kỳ thông báo gỡ ứng dụng vi phạm, nhưng chương này chưa xác minh được đợt thông báo cụ thể nên không viện dẫn.",
+    "extra": ""
+  }
+}

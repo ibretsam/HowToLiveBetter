@@ -1,0 +1,15 @@
+{
+  "id": "e-23-22",
+  "source_sha256": "654706a50e383d9525bb8702802ec20d5077570573b844d5e6f6b0e507d34e01",
+  "draft_sha256": "bb607c1add5c881b91755477d844f7b04612ee32e17c0d15b4ed05311f2128f2",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Order40,2024rules,3yearcredit/applicantban and12333verification retained; administrative certificatewithdrawal distinct from nationalexamination offenses; selfcheating exception matches source and9.29 reference."
+}

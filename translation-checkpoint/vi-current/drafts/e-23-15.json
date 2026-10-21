@@ -1,0 +1,14 @@
+{
+  "id": "e-23-15",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "8bae4b9e23c4d6c4f3bd9caa39630e7f2df86a355716391f27322866fc9a7781",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Chia cùng lượng thời gian ra nhiều ngày, đừng học hết một lần",
+    "cost": "Không tốn tiền, tổng thời gian cũng không đổi. Chỉ đổi cách xếp: cùng 3 giờ, chia thành ba ngày, mỗi ngày 1 giờ. Khó ở chỗ phải bắt đầu trước vài ngày, không để đến đêm cuối.",
+    "plain": "Cùng thời gian học, chia ra vài ngày giúp nhớ lâu hơn học hết một lần. Có một quy luật hữu ích: cần nhớ đến càng xa thì nên kéo dài khoảng cách ôn tập tương ứng. Kỳ thi càng xa, khoảng cách càng dài, nhưng nghiên cứu không cho số ngày chung cho mọi trường hợp.",
+    "benefit": "Một phân tích gộp tổng hợp 184 bài báo, 317 thử nghiệm và 839 lần đánh giá hiệu quả luyện tập phân tán. Nghiên cứu so hai điều: học liền một lần với học thành nhiều lần cách nhau (hiệu ứng giãn cách), và khoảng cách ngắn với dài (hiệu ứng độ trễ). Kết luận là khoảng cách ôn tập cùng thời gian cần ghi nhớ quyết định mức nhớ trong bài kiểm tra cuối: cần giữ kiến thức càng lâu thì khoảng cách ôn tập đem lại mức nhớ tốt nhất cũng càng dài. Một tổng quan khác đánh giá lần lượt mười phương pháp học phổ biến, xếp luyện tập phân tán vào nhóm cao nhất (high utility).",
+    "notes": "Tốt nhất kết hợp với mục 14 (đóng sách tự kiểm tra): chia chính các lần tự kiểm tra ra vài ngày. Tài liệu trong phân tích gộp của Cepeda phần lớn thuộc dạng nhớ danh sách từ; với nội dung phức tạp, không có số ngày giãn cách tối ưu dùng chung. “Thi càng xa, khoảng cách càng dài” là quy luật của nguyên bản, không phải lịch cụ thể. Vấn đề của học dồn đêm trước kỳ thi không phải vô ích ngay lúc đó, mà là quên nhanh.",
+    "extra": ""
+  }
+}

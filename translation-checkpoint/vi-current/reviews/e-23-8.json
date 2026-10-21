@@ -1,0 +1,15 @@
+{
+  "id": "e-23-8",
+  "source_sha256": "575107291c9a24682d28ffa79f22c2662017260aa5c41b5131d62ada0cbcf7ef",
+  "draft_sha256": "ca0f6c0637cafc0ce60cc62b74c33802739537905e14d3fc67659181734bd5cf",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Certificate/institution verification steps and warning signs retained with23/31.10 references. Source combines qualificationdirectory and skillassessment routes; not silently revised or converted to Vietnamese certification law."
+}

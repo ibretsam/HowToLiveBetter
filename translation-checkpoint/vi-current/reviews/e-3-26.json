@@ -1,0 +1,15 @@
+{
+  "id": "e-3-26",
+  "source_sha256": "3c220096f5bde424793a68435a88fd4cc6596f228e7c3af7ed1ac76b3aceaf45",
+  "draft_sha256": "30c3c518623ea18878ca9ab679a12dd75304592b34acd1f70431ff4a72c9d2fb",
+  "reviewer": "root_batch9_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Corrected3.18 reference label from before low mood to first actions when low mood occurs; rendered no daytime naps without narrowing it to involuntary dozing. Preserves three-nights/three-month inclusive bounds,6–8weeks,4-week medication assessment,all effect sizes/CIs/sample sizes and short-term older-adult population. Source NNT/NNH shorthand and OR-as-times wording retained as source simplifications; no adverse events reported does not claim absence. Driver/machinery,mania,uncontrolled epilepsy and daytime sleepiness cautions intact, plus all six cross-references."
+}

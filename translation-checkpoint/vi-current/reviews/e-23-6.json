@@ -1,0 +1,15 @@
+{
+  "id": "e-23-6",
+  "source_sha256": "ca23b17e5c5fa9bdc54638c79d60a3cf853267585c15008613297b3d4114c8f9",
+  "draft_sha256": "bf5c823a5475df9d7d1a3665960d78c973c915a9f4cd1d2d662abeec7c2e758b",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.1988–2001urban data,4.0–10.2%,1992change, oneoff earlysalary versus recurring difference, individualnegative returns and limits of outdated/globalestimates preserved."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-23-10",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "07b0cffe8485522060378763d3e5fb3767d1f7a687fb433761c8053f3549d4d3",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Khi chọn kỹ năng, ưu tiên xem có cần thao tác bằng tay và phán đoán tại hiện trường không; loại này khó bị tự động hóa thay thế nhất",
+    "cost": "Không tốn tiền. Trước khi chọn, xét các công việc muốn học theo tiêu chí này.",
+    "plain": "Theo ước tính ở Mỹ, khoảng 47% việc làm có nguy cơ cao được máy tính đảm nhiệm; các ước tính sau đó theo nhiệm vụ cụ thể cho tỷ lệ thấp hơn nhiều. Máy khó vượt qua ba việc: thao tác tay khéo léo, nghĩ ra điều mới và tương tác với người. Vì vậy, công việc cần đến hiện trường, môi trường không tiêu chuẩn hóa và phải phán đoán tại chỗ khó bị thay thế hơn; vị trí có quy trình cố định, chủ yếu xử lý thông tin có nguy cơ cao nhất.",
+    "benefit": "Ước tính riêng cho 702 nghề ở Mỹ về xác suất công việc có thể giao cho máy tính, tức đánh giá khả năng máy tính hóa, cho kết quả khoảng 47% việc làm thuộc nhóm nguy cơ cao. Trong mô hình, mức nguy cơ do ba trở ngại mà máy hiện chưa vượt qua quyết định; tác giả gọi là “nút thắt kỹ thuật”. Thứ nhất là cảm nhận và thao tác, gồm độ khéo của ngón tay, bàn tay, làm việc trong không gian chật và tư thế khó. Thứ hai là trí tuệ sáng tạo, khả năng nghĩ ra điều mới. Thứ ba là trí tuệ xã hội, khả năng tương tác với người. Vì vậy, việc có môi trường không tiêu chuẩn hóa, cần tay nghề và phán đoán tại chỗ thường có xác suất bị thay thế thấp hơn, không phải ngẫu nhiên ở một vài nghề. Vị trí có quy trình cố định và chủ yếu xử lý thông tin có nguy cơ cao nhất",
+    "notes": "Có tranh luận. Nghiên cứu này là một bản thảo chưa xuất bản chính thức năm 2013, chấm khả năng “cả nghề có thể do máy đảm nhiệm hay không”. Nghiên cứu sau đó chia thành từng nhiệm vụ cụ thể để ước tính và cho tỷ lệ nguy cơ cao thấp hơn nhiều. Nghiên cứu cũng không nói việc này sẽ xảy ra vào năm nào. Khi dùng, đừng chỉ nhìn số 47%; hãy xem ba trở ngại mà nghiên cứu chỉ ra cho máy. Lắp đặt, sửa chữa và chăm sóc tại hiện trường khó bị thay hơn công việc thuần giấy tờ vì lý do đó. Vì vậy, khi “học một kỹ năng”, nên ưu tiên loại cần đến hiện trường và đối diện môi trường không tiêu chuẩn hóa",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-11-6",
+  "source_sha256": "1386ff9bba521fa74bbf708933d5aec898de6d92fcca36044ae27a77887ce269",
+  "draft_sha256": "84381caa2b0f3d472e8503a4866668696ec41e966d5c8ed01d00f29b1eb1aa82",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked former authorization does not persist, deleted data vs actual system failure,1van/5vanloss thresholds,12van restoration losses,3years suspended5 and3vanfine. Corrected追诉to truy cứu in Bai example; actual起诉in Lu example remains prosecution."
+}

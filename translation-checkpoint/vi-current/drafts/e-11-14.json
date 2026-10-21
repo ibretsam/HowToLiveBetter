@@ -1,0 +1,14 @@
+{
+  "id": "e-11-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "245abdd3ed840e2de8a4735940186f81f8d49c236a0de5873e82d6958e796c6a",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Dùng mã nguồn mở như GPL làm sản phẩm thì mở mã theo yêu cầu giấy phép hoặc đổi giấy phép, đừng nghĩ ‘chẳng ai quản’",
+    "cost": "Không tốn tiền. Trước khi dùng mã nguồn mở của người khác, xem giấy phép, tức điều kiện sử dụng do tác giả ghi rõ. Dòng GPL yêu cầu sản phẩm dùng mã đó cũng phải công khai mã nguồn, xung đột với việc bán sản phẩm đóng mã; nếu xung đột thì đổi sang lựa chọn khác. Điều khó là bỏ một thư viện đã dùng quen.",
+    "plain": "Xâm phạm quyền tác giả thì bồi thường theo thiệt hại của bên kia hoặc số tiền bạn kiếm được; cố ý và nghiêm trọng có thể bị buộc bồi thường từ 1 đến 5 lần. Một công ty tuyển nhân viên cũ của đối thủ rồi làm phần mềm tương tự về thực chất, biện hộ rằng phần mềm đối thủ dùng GPLv2 nên lẽ ra phải mở mã. Tòa án Nhân dân Tối cao cho rằng bên kia có mở mã hay không không ảnh hưởng đến quyền tác giả của họ, vẫn buộc chấm dứt xâm phạm và bồi thường 50 vạn nhân dân tệ.",
+    "benefit": "Xâm phạm quyền tác giả thì bồi thường theo thiệt hại thực tế của chủ thể quyền hoặc số tiền bên xâm phạm kiếm được. Nếu không xác định được cả hai khoản, lấy mức phí thông thường để mua quyền sử dụng làm căn cứ. Cố ý xâm phạm và nghiêm trọng có thể bị buộc bồi thường từ 1 đến 5 lần. Nếu gây hại lợi ích công cộng, còn có thể bị tịch thu khoản thu lợi trái pháp luật và phạt tiền. Vụ án chính thức: (2021) Tối cao pháp tri dân chung số 51. Bị đơn tuyển nhân viên cũ của nguyên đơn rồi phát triển phần mềm cổng kết nối tương tự về thực chất với phần mềm nguyên đơn. Bị đơn biện hộ rằng phần mềm nguyên đơn dựa trên GPLv2 nên lẽ ra phải mở mã. Tòa án Nhân dân Tối cao xác định ‘việc chính nhà phát triển có vi phạm thỏa thuận GPLv2 hay không và việc họ có quyền tác giả với phần mềm hay không là hai vấn đề độc lập’, buộc chấm dứt xâm phạm và bồi thường 50 vạn nhân dân tệ (toàn quốc).",
+    "notes": "Vụ này cho thấy ‘bên kia dùng mã GPL’ không phải lý do để bạn sao chép phần mềm của họ. Ở chiều ngược lại, tác giả mã GPL kiện bên thương mại không mở mã đã có bản án có hiệu lực trong nước, nhưng chương này chưa tìm thấy nguyên văn trên website Tòa án Nhân dân Tối cao nên không viện dẫn. Xếp mức B vì việc tuân thủ giấy phép mã nguồn mở chỉ có thể được điều chỉnh bằng hợp đồng và quy định chung của luật quyền tác giả, không có điều luật riêng.",
+    "extra": ""
+  }
+}

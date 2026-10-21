@@ -1,0 +1,14 @@
+{
+  "id": "e-3-24",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "ab6d51c84b460e91b6a7e17d8375bead103925b8b04d99939815b74921dd2230",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Nếu có chuyện đè nặng trong lòng, có thể viết suy nghĩ và cảm xúc trong vài ngày liên tiếp, nhưng đừng mong chữa được bệnh",
+    "cost": "Không tốn tiền. Cách thường gặp trong nghiên cứu là viết 3 đến 4 lần, mỗi lần 15 đến 20 phút. Viết về chuyện khiến bạn khó chịu, những suy nghĩ và cảm xúc sâu kín nhất.",
+    "plain": "Viết chuyện buồn bực ra trung bình có chút lợi ích, nhưng rất nhỏ. Kết luận tổng hợp cũng không thống nhất: hai phân tích tổng hợp không tính ra hiệu quả rõ rệt. Việc này gần như không tốn tiền nên có thể thử. Khi vấn đề cảm xúc nặng lên, đừng dùng nó thay việc đi khám.",
+    "benefit": "Một phân tích tổng hợp 146 nghiên cứu phân nhóm ngẫu nhiên (phân tích gộp). Người tham gia viết hoặc nói ra chuyện quan trọng với mình. Hiệu quả trung bình dương và có ý nghĩa thống kê, nhưng rất nhỏ, cỡ hiệu ứng r = .075. Một tổng hợp khác chỉ nhận thử nghiệm đối chứng ngẫu nhiên; gộp 30 thử nghiệm cho thấy không có hiệu quả có ý nghĩa ở cả sức khỏe thể chất lẫn tinh thần. Gộp 16 thử nghiệm ngẫu nhiên ở bệnh nhân ung thư và người hồi phục sau ung thư cũng không thấy ý nghĩa thống kê ở cả tâm lý, thể chất lẫn chất lượng sống. Trong đó, phần tâm lý có g = 0.04, 95% CI từ -0.06 đến 0.14 (khoảng tin cậy).",
+    "notes": "Còn tranh luận. Phía ủng hộ là tổng hợp 146 nghiên cứu, hiệu quả dương nhưng rất nhỏ. Phía phản đối là hai tổng hợp chỉ nhận thử nghiệm đối chứng ngẫu nhiên, đều không tính ra hiệu quả có ý nghĩa. Số lần viết và thời gian mỗi lần trong phần chi phí đến từ thiết kế thí nghiệm ban đầu, được ghi trong tóm tắt của tổng hợp Mogk. Đưa cách này vào vì gần như không tốn tiền, không mất nhiều thời gian và có thể làm một mình. Khi không muốn nói với ai hoặc không có ai để nói, có thể dùng cách này. Thứ được đo không phải sức lực; xếp vào thời gian là cách phân loại của tác giả. Nếu càng viết càng khó chịu, hãy dừng và chuyển sang gọi 12356, xem chương 1 mục 25 (12356).",
+    "extra": ""
+  }
+}

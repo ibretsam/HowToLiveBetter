@@ -1,0 +1,15 @@
+{
+  "id": "e-11-4",
+  "source_sha256": "8ba9ec434355858c8d699b9d6c085f50dc8fb7bd8dc25caa0e5d7013d2cf0f21",
+  "draft_sha256": "484f57d905349f0601481cf449546033ae3b951add7ed9f0bab9bd87bdb438b3",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked all50/500/5000record categories,5000income,1751face photos and third-party consent. Corrected pursuit of liability (追诉) to truy cứu rather than narrowing to formal indictment. Civil/criminal distinctions and source breadth retained."
+}

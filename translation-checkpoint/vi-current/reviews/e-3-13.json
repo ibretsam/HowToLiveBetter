@@ -1,0 +1,15 @@
+{
+  "id": "e-3-13",
+  "source_sha256": "54a4c2af9c3ce19da22624da7c4fcecd996c1fdadffa0d5e34eb012e7d665e9b",
+  "draft_sha256": "22392f27964d0d3ad47ab69fc405a8e0b697d60c7b81934d7ed6ed673f90f20a",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 49/63/70/56/14 hours preserved; historical female-dominated physical work versus knowledge work and unreliable precise cutoff explicit."
+}

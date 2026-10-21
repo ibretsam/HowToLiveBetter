@@ -1,0 +1,14 @@
+{
+  "id": "e-3-11",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "7ad87b7306a0779b1e6a27df3a41d7ecbb15722cc727962fe09144b23d928f88",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Buổi chiều buồn ngủ thì chợp mắt 10 phút, đừng ngủ nửa giờ",
+    "cost": "Không tốn tiền. Dành 10 phút và tìm một chỗ có thể nằm hoặc gục đầu xuống.",
+    "plain": "Khi đêm trước ngủ không đủ, chợp mắt 10 phút giúp tỉnh táo ngay và một phần tác dụng kéo dài được hai tiếng rưỡi. Ngủ 5 phút gần như không có ích. Ngủ 20 phút phải chờ sau 35 phút mới thấy hiệu quả. Ngủ 30 phút khiến lúc mới dậy có một khoảng lơ mơ, khả năng làm việc khi đó còn kém hơn không ngủ.",
+    "benefit": "Sau một đêm ngủ không đủ, chợp mắt 10 phút cải thiện ngay tình trạng buồn ngủ, mệt mỏi, sức lực và khả năng làm việc trí óc; một phần lợi ích duy trì đến sau 155 phút. Ngủ 5 phút gần như không có lợi ích. Lợi ích của ngủ 20 phút chỉ xuất hiện sau 35 phút. Ngủ 30 phút trước hết gây một khoảng quán tính giấc ngủ: khả năng làm việc lúc mới dậy kém đi, sau đó mới cải thiện.",
+    "notes": "Chỉ có một nghiên cứu trong phòng thí nghiệm, người tham gia đều là người trẻ khỏe mạnh. Nếu không ngủ được thì không cần ép mình. Chưa có nghiên cứu hỗ trợ việc nằm nhắm mắt 10 phút có hiệu quả hay không. Ngủ trưa quá một giờ lại liên quan đến tỷ lệ tử vong và nguy cơ bệnh mạch vành cao hơn, xem chương 2 mục 37 (giới hạn ngủ trưa trong nửa giờ).",
+    "extra": ""
+  }
+}

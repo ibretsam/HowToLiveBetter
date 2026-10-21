@@ -1,0 +1,14 @@
+{
+  "id": "e-23-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "e5cc95b779e24118afce6c0c0f1dc7cf3c54d00fdd1f8abf939872ea3a4d8690",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Đừng coi “trên mạng nói lương cao” là đang thiếu người; hãy tra danh mục nghề khan hiếm và danh mục trợ cấp tại địa phương",
+    "cost": "Không tốn tiền. Tra hai văn bản địa phương.",
+    "plain": "Mức trợ cấp đào tạo từng nghề được địa phương xác định theo độ cấp thiết, thiếu hụt và chi phí đào tạo, nên có thể dùng để xem địa phương có thiếu người không. Những câu “nghề này thu nhập tháng bao nhiêu” trên mạng phần lớn là mức niêm yết trên trang tuyển dụng hoặc lời tự kể. Người bạn nhìn thấy thường là người kiếm được tiền, mà con số cũng chưa tính giờ làm, đi lại, bệnh nghề nghiệp và mùa cao điểm, thấp điểm.",
+    "benefit": "Chính mức trợ cấp là cách cơ quan nhà nước định giá “nghề nào thiếu người”. Chính sách yêu cầu “hoàn thiện cơ chế trợ cấp khác nhau dựa trên mức cấp thiết, thiếu hụt của nghề và chi phí đào tạo”; các địa phương dựa vào đó xác định phạm vi chương trình đào tạo kỹ năng nghề có trợ cấp. Vì vậy, chênh lệch mức trợ cấp cho cùng một nghề giữa các thành phố phản ánh trực tiếp mức thiếu hụt tại địa phương",
+    "notes": "Thống kê lương chính thức theo nghề chỉ chia thành năm nhóm vị trí lớn, không có từng nghề cụ thể. Số năm 2025 của Cục Thống kê quốc gia cho thấy lương năm trung bình ở doanh nghiệp từ quy mô quy định trở lên khoảng 10.6 vạn nhân dân tệ (chính xác 106080). Quản lý cấp trung trở lên khoảng 21 vạn (chính xác 210016), nhân sự chuyên môn kỹ thuật khoảng 15.5 vạn (chính xác 155491), nhân viên hành chính 94936, nhân sự sản xuất chế tạo 80739, nhân sự dịch vụ sản xuất xã hội và đời sống 79857. Bảng “100 nghề thiếu nhân lực nhất” của Bộ Nhân lực và An sinh xã hội tra được trên Mạng Việc làm Trung Quốc; kỳ mới nhất dừng ở quý tư năm 2022. Bảng dùng dữ liệu tuyển dụng và tìm việc của cơ quan dịch vụ việc làm công tại 102 thành phố. Các câu “nghề này thu nhập tháng bao nhiêu” lan truyền trên mạng gần như đều từ mức niêm yết trên trang tuyển dụng hoặc lời tự kể. Người bạn thấy phần lớn là người đã kiếm được tiền; con số không tính giờ làm, đi lại, bệnh nghề nghiệp, mùa cao điểm và thấp điểm. Muốn biết nhu cầu thật, tra danh mục trợ cấp trên website cơ quan nhân lực và an sinh xã hội địa phương, rồi bảng nhu cầu vị trí của cơ quan dịch vụ việc làm công. Cuối cùng đến công trường, nhà máy, cửa hàng thực tế để hỏi người đang làm",
+    "extra": ""
+  }
+}

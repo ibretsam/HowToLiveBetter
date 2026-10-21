@@ -1,0 +1,14 @@
+{
+  "id": "e-23-14",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "78bdd6c1a8a513c90c13e307aa0cd5329284d2126b0d8df532d4f5e2daf5fea6",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Học xong hãy đóng sách tự kiểm tra, đừng quay lại đọc lần nữa",
+    "cost": "Không tốn tiền, cũng không cần tăng tổng thời gian. Chuyển thời gian vốn dùng đọc lại sang đóng sách viết theo trí nhớ hoặc làm bài. Khó ở chỗ tự kiểm tra lộ ngay điều chưa nhớ, cảm giác khó chịu hơn đọc lại.",
+    "plain": "Đóng sách tự kiểm tra hiệu quả hơn đọc xong rồi đọc lại. Thêm bài kiểm tra ngắn trong lớp giúp thành tích tăng ở mức vừa. Trong đánh giá mười cách học phổ biến, tự kiểm tra thuộc nhóm cao nhất. Đọc xong một phần hãy viết các ý chính theo trí nhớ rồi mở sách đối chiếu.",
+    "benefit": "Phân tích gộp 222 nghiên cứu độc lập với 48478 học sinh, sinh viên: kiểm tra trong lớp cải thiện thành tích học tập với mức tác động vừa (g = 0.499). Hiệu quả phụ thuộc vào cách học của nhóm đối chứng, hình thức kiểm tra có giống kỳ thi cuối không, tài liệu có khớp không và có phản hồi sửa sai không. Các yếu tố khác gồm số lần lặp kiểm tra, địa điểm, thời điểm kiểm tra, thời gian can thiệp và thiết kế thử nghiệm. Một tổng quan khác đánh giá lần lượt mười phương pháp học phổ biến, xếp “kiểm tra để luyện tập” và “luyện tập phân tán” vào nhóm cao nhất (high utility). Lý do là chúng hiệu quả ở người học khác nhau về tuổi, năng lực, đã được kiểm chứng với nhiều hình thức đánh giá và bối cảnh giáo dục thực tế.",
+    "notes": "Tự kiểm tra nhằm buộc bạn lấy thông tin ra từ trí nhớ, không phải để chấm điểm. Đọc xong một phần, đóng sách viết các ý chính rồi mở lại đối chiếu. Có phản hồi sửa sai hiệu quả hơn, nên sau khi đối đáp án cần xem rõ sai ở đâu. Mức lợi ích ghi “lớn” dựa vào độ lớn tác động và xếp hạng. Hai nguồn bằng chứng đo thành tích, không đo số giờ nên không áp ngưỡng tiết kiệm thời gian. Tự kiểm tra và mục 15 (chia cùng thời gian ra nhiều ngày) là hai cách được xếp cao nhất trong cùng tổng quan; hãy kết hợp.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-11-15",
+  "source_sha256": "ce4ddf15feff41210608b76b663cbf16410c5591b43829bd507efde07d8501bd",
+  "draft_sha256": "a617346ac9413e5a0e82b2665c1348737d49908a3218542846aa2d46f9b39d44",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked consent/legal-ground alternatives,100van and5000van/5%turnover caps,responsible person1–10/10–100vanfines and leadership ban. Source inconsistency retained: title14岁以下 includes14,plain/benefit不满14exclude14. Translation preserves each boundary, not silently corrected. Developer liability remains author inference/no verified case."
+}

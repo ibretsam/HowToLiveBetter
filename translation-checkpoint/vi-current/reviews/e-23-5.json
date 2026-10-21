@@ -1,0 +1,15 @@
+{
+  "id": "e-23-5",
+  "source_sha256": "b1ec922add5e997f7f1ff535491803b333df721cdee73e248b4bc8aa85cb6870",
+  "draft_sha256": "26754de2c66318c1415d52713bbed2550ccafb60f800ec0f24476b16be286e19",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.2022effective date and legaleducation routes retained, including permission versus requirement, provincial implementation, equalopportunity and no admissionguarantee; pointers to23.10/23.8 preserved."
+}

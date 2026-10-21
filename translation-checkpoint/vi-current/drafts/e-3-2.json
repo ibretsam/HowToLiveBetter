@@ -1,0 +1,14 @@
+{
+  "id": "e-3-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "1c6669d6f112b2211671580dc790816780d83f2cdb3518260d1c346a2cfe0f4f",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Giữ giờ thức dậy cố định, kể cả cuối tuần",
+    "cost": "Không tốn tiền. Cuối tuần phải bớt ngủ nướng, cần một chút ý chí.",
+    "plain": "Ở một phần năm số người có giờ giấc thất thường nhất, đồng hồ sinh học chậm hơn khoảng 2.5 giờ so với một phần năm có giờ giấc đều đặn nhất. Giống như thường xuyên sống trong tình trạng lệch múi giờ. Sinh viên có giờ giấc càng đều đặn thì thành tích học tập cũng càng tốt.",
+    "benefit": "61 sinh viên ghi chép trong 30 ngày. Ở một phần năm có giờ giấc thất thường nhất, đồng hồ sinh học (nhịp ngày đêm) chậm hơn khoảng 2.5 giờ so với một phần năm đều đặn nhất. Cụ thể, thời điểm bắt đầu tiết melatonin là 00:08 so với 21:32. Thời điểm buồn ngủ nhất cũng chậm hơn khoảng 1.8 giờ. Giờ giấc càng đều đặn, thành tích học tập càng tốt (hệ số tương quan r = 0.37).",
+    "notes": "Chỉ có một nghiên cứu này, số người ít và không chia nhóm đối chứng. Các nhà nghiên cứu dùng mô hình để tính toán, cho rằng khác biệt về đồng hồ sinh học chủ yếu do lượng ánh sáng tiếp xúc mỗi ngày khác nhau. Họ đề xuất thử điều chỉnh bằng ánh sáng, nhưng chưa làm thử nghiệm xác nhận. Vì thế, ngoài giữ giờ thức dậy cố định, việc ra ngoài tiếp xúc ánh sáng nhiều hơn ban ngày là suy luận từ tính toán của họ. Cách ngủ bù sau một lần thức khuya xem chương 2 mục 38 (ngủ bù ngay đêm hôm sau khi thức khuya): đi ngủ sớm hơn vào đêm đó, không phải ngủ đến trưa hôm sau.",
+    "extra": ""
+  }
+}

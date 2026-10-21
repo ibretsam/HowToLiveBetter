@@ -1,0 +1,15 @@
+{
+  "id": "e-11-3",
+  "source_sha256": "5b2870c161304644b99249c48be87b671548eaee04c72b283da9c00ba042ca69",
+  "draft_sha256": "13c4d982386a8402c15736b0c9fecb57100e4614895a45db5c2478e6dfc4ac19",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked unauthorized request automation vs no memory alteration,5000income/1vanloss,200tickets/2vanprofit,criminal case vs civil unfair-competition award and lack of personal-use precedent."
+}

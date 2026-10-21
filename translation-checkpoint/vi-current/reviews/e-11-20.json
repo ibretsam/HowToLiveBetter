@@ -1,0 +1,15 @@
+{
+  "id": "e-11-20",
+  "source_sha256": "01f6a7ee19c7f696cd547e4d8f8b649aef79ca550170aeead0005b34541d0191",
+  "draft_sha256": "89a836730875a1971743fab47b1396293da851efe5f0ec953fc4b45ed0ef1bd2",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked civil1–5folddamages,5vanbusiness/25vanfine,criminal3vanprofit/5vanbusiness/10foldthresholds,all three officialcase dates/amounts/terms. Reverse-engineering/safety/research exceptions and no third-party provision,free patch criminal-profitcondition vs civil liability preserved. Source6monthlitigationclaim not independently validated."
+}

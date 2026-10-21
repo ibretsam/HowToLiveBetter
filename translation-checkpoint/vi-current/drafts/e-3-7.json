@@ -1,0 +1,14 @@
+{
+  "id": "e-3-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "2280edc560304f3a3e8d63e1a48c24c06aa923f0b07624b79f5483176a81179e",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Mỗi lần chỉ làm một việc, đừng vừa họp vừa trả lời tin nhắn",
+    "cost": "Không tốn tiền. Nhịn trả lời tin nhắn khi họp cần một chút ý chí.",
+    "plain": "Mỗi khi đổi nhiệm vụ, phản ứng chậm hơn và dễ sai hơn. Người thường xuyên dùng nhiều loại phương tiện truyền thông cùng lúc không luyện được khả năng làm nhiều việc đồng thời; ngược lại, họ làm bài kiểm tra chuyển đổi nhiệm vụ kém hơn.",
+    "benefit": "Sau khi chuyển đổi nhiệm vụ, phản ứng chậm hơn rõ rệt và dễ sai hơn. Kết luận này đến từ một tổng quan nhiều nghiên cứu. Một nghiên cứu khác trong phòng thí nghiệm có người tham gia là sinh viên. Người thường xuyên dùng nhiều loại phương tiện truyền thông cùng lúc (người đa nhiệm truyền thông ở mức cao) dễ bị những thứ không liên quan và ký ức không liên quan làm phân tâm hơn. Ngược lại với kỳ vọng, họ làm bài kiểm tra chuyển đổi nhiệm vụ kém hơn.",
+    "notes": "Chi phí của việc chuyển qua chuyển lại khác nhau rất nhiều theo công việc, nên không đưa ra một con số chung. Nghiên cứu của Ophir so sánh tại cùng một thời điểm, không phân biệt được “đa nhiệm khiến khả năng chú ý kém đi” hay “người có khả năng chú ý kém thích đa nhiệm hơn”.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-23-20",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "abab79873e5a8d5fc4d91e71b7cf4e2c81a5e59a9838d48867810563fb6ffb59",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Muốn xét chức danh chuyên môn, xác định nhóm và cấp của mình trước rồi tìm kênh nộp theo loại đơn vị",
+    "cost": "Không tốn tiền. Tra thông báo đăng ký năm nay của tỉnh, khoảng nửa giờ.",
+    "plain": "Chức danh chuyên môn toàn quốc có 27 nhóm, mỗi nhóm chia sơ cấp, trung cấp và cao cấp. Thường phải đăng ký nâng từng cấp. Người làm trong đơn vị được đơn vị kiểm tra, công khai rồi gửi lên. Người làm doanh nghiệp tư nhân có thể đến điểm tiếp nhận hồ sơ chức danh, hoặc nộp qua tổ chức dịch vụ trung gian nhân lực, hiệp hội ngành. Người làm tự do tham gia xét do cơ quan nhân lực và an sinh xã hội địa phương tổ chức.",
+    "benefit": "Toàn quốc có 27 nhóm chức danh chuyên môn, như kinh tế, kỹ thuật, y tế, xuất bản. Chức danh chia ba cấp cao, trung và sơ. Lệnh số 40 của Bộ Nhân lực và An sinh xã hội áp dụng với doanh nghiệp, đơn vị sự nghiệp, tổ chức xã hội, tổ chức kinh tế cá thể và người làm tự do. Người đăng ký thường phải nộp từng cấp. Đơn vị nơi làm việc phải kiểm tra hồ sơ và công khai nội bộ ít nhất 5 ngày làm việc. Với doanh nghiệp tư nhân và người làm tự do, cơ quan đại diện nhân sự có thể thay mặt kiểm tra, công khai và giới thiệu. Địa phương phải đặt điểm tiếp nhận hồ sơ ở khu công nghệ, khu công nghệ cao và nơi tương tự; cũng có thể tiếp nhận qua tổ chức dịch vụ trung gian nhân lực, hiệp hội ngành, thương hội và hội chuyên môn. Người làm tự do đủ điều kiện tham gia xét theo địa bàn do cơ quan nhân lực và an sinh xã hội địa phương tổ chức. Tài liệu có thể kiểm chứng trực tuyến thì không được yêu cầu xin thêm giấy xác nhận. Nếu hồ sơ thiếu, bên xét phải thông báo đầy đủ một lần những gì còn thiếu. Người làm doanh nghiệp tư nhân thường nộp tại nơi có quan hệ lao động. Người được cử đi địa phương khác làm liên tục đủ một năm có thể nộp tại nơi được cử đến. Người đã nghỉ hưu không được đăng ký. Nhân sự đơn vị sự nghiệp bị kỷ luật từ mức ghi lỗi trở lên không được đăng ký trong thời gian chịu kỷ luật (toàn Trung Quốc)",
+    "notes": "Không có danh mục hồ sơ thống nhất toàn quốc. Mỗi nhóm chức danh và tỉnh ra thông báo hằng năm, nêu danh mục hồ sơ, thời gian nộp và điều kiện thành tích. Bước đầu là tìm thông báo năm đó trên website cơ quan nhân lực và an sinh xã hội tỉnh. Không còn bắt buộc mọi người phải có bài báo: ý kiến cải cách năm 2016 yêu cầu không dùng bài báo làm rào cản cứng với nhân lực thiên về ứng dụng, cũng không đặt yêu cầu thống nhất cho thi ngoại ngữ và tin học phục vụ chức danh. Công nhân kỹ thuật cũng có đường: nhân lực kỹ năng cao đủ điều kiện được xét chức danh nhóm kỹ thuật. Công chức không được tham gia xét chức danh chuyên môn.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-3-8",
+  "source_sha256": "9aaa3f65055b04fd680ba0aa36c1ed2fc17f53421c66b4268f29aa41a92b2da0",
+  "draft_sha256": "9cc054536d0962331eedc426af3dca83b61e2e12b7d26f2f923ef3cfe5c86965",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 4h maximum-brightness/5-night crossover, values and source plain-versus-benefit inclusive/exclusive1.5h wording preserved; e-ink extrapolation and no night-mode data retained."
+}

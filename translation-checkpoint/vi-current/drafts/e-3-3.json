@@ -1,0 +1,14 @@
+{
+  "id": "e-3-3",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f58c7a7752fa1fab17450168e4092b8cd7ad3c846a566a6277d3fd9801812a1a",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Ngủ đủ 7 đến 8 giờ mỗi đêm, đừng coi 6 giờ là đủ",
+    "cost": "Không tốn tiền. Mỗi ngày cần dành thêm 1 đến 2 giờ cho giấc ngủ. Đi ngủ sớm hơn cần một chút ý chí.",
+    "plain": "Chỉ ngủ 6 giờ mỗi đêm suốt hai tuần khiến khả năng làm việc của não giảm xuống mức tương đương hai ngày hai đêm không chợp mắt. Điều khó là bản thân không nhận ra: cảm giác buồn ngủ tự chấm điểm chỉ tăng trong vài ngày đầu rồi ngừng tăng. Người ngủ 6 giờ tự đánh giá buồn ngủ ngang người ngủ 4 giờ. Vì vậy, cảm giác “tôi ngủ 6 giờ là đủ” không đáng tin.",
+    "benefit": "48 người trưởng thành khỏe mạnh từ 21 đến 38 tuổi chỉ ngủ 6 giờ mỗi đêm trong 14 ngày liên tiếp. Khả năng làm việc trí óc của họ giảm tích lũy đến mức tương đương hoàn toàn không ngủ trong 2 đêm liên tiếp. Trong khi đó, mức buồn ngủ tự chấm điểm chỉ tăng vài ngày đầu rồi gần như không tăng nữa. Nhóm ngủ 6 giờ và nhóm ngủ 4 giờ không khác nhau về mức buồn ngủ tự đánh giá. Đây là thử nghiệm đối chứng phân ngẫu nhiên người tham gia thành hai nhóm (RCT). Ngoài ra, không ngủ trong thời gian ngắn (thiếu ngủ cấp tính, không quá 48 giờ) có cỡ hiệu ứng g = -0.776 đối với những lần mất tập trung trong nhiệm vụ chú ý đơn giản, và g = -0.125 đối với độ chính xác suy luận. Phần này tổng hợp 70 nghiên cứu.",
+    "notes": "Điều quan trọng nhất là “tự thấy không buồn ngủ” không chứng minh đã ngủ đủ. Người thường xuyên ngủ 6 giờ chỉ quen về cảm giác, còn khả năng làm việc không theo kịp. Phần tổng hợp nhiều nghiên cứu nói về việc thức trắng đêm. Nhận định về “thường xuyên ngủ ít” chỉ được hỗ trợ bởi một thử nghiệm đối chứng ngẫu nhiên. Mối liên hệ giữa thời lượng ngủ và nguy cơ tử vong được tính riêng, xem chương 2 mục 13 (ngủ khoảng 7 giờ mỗi đêm): mục đó tính theo tỷ lệ tử vong, với nhóm 7 giờ có nguy cơ thấp nhất.",
+    "extra": ""
+  }
+}

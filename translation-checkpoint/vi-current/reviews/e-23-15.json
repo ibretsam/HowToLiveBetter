@@ -1,0 +1,15 @@
+{
+  "id": "e-23-15",
+  "source_sha256": "8bae4b9e23c4d6c4f3bd9caa39630e7f2df86a355716391f27322866fc9a7781",
+  "draft_sha256": "341e56f20ba706f568c1ad6b1af2202c1ff1b23476356ce5883e9344a02bbd0e",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.3hours/1hour split,184articles317experiments839estimates, spacing/lag distinction, retentioninterval relationship, limitedwordlist evidence and no universal schedule preserved."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-23-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "f3d6b53a4707c6aa0f575f75b48aea3ca5cd2554373c2cf6fb2111888841509a",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Luyện xen kẽ nhiều dạng bài, đừng làm liền hai mươi bài cùng dạng",
+    "cost": "Không tốn tiền. Thay vì làm sách bài tập theo thứ tự từng dạng, hãy xáo trộn. Khó ở chỗ luyện xen kẽ có tỷ lệ đúng ngay lúc đó thấp hơn, tạo cảm giác thụt lùi.",
+    "plain": "Làm một chuỗi dài bài cùng dạng thì lúc đó thấy trôi chảy. Xáo trộn nhiều dạng để luyện đem lại hiệu quả dài hạn tốt hơn, ở mức vừa. Nhưng còn tùy tài liệu: hiệu quả mạnh nhất với hình ảnh như nhận diện phong cách họa sĩ, nhỏ hơn với toán, còn học từ vựng lại kém hơn luyện theo từng nhóm.",
+    "benefit": "Một phân tích gộp đa tầng gồm 59 nghiên cứu, 238 mức tác động và 158 mẫu. Hiệu quả tổng thể của luyện xen kẽ so với luyện từng nhóm ở mức vừa (Hedges' g = 0.42). Theo loại tài liệu, tranh vẽ tốt nhất (g = 0.67), tài liệu hình ảnh khác cũng khá tốt. Tác động với nhiệm vụ toán nhỏ hơn (g = 0.34). Tác động tổng thể với văn bản thuyết minh và tài liệu vị giác không có ý nghĩa thống kê. Với từ vựng, luyện từng nhóm lại tốt hơn (g = −0.39). Phân tích hồi quy cho thấy các loại càng giống nhau, các thành phần trong cùng loại càng khác nhau và tài liệu càng phức tạp thì lợi ích của luyện xen kẽ càng lớn.",
+    "notes": "Tổng quan dẫn ở mục 16 (đừng lấy tô ý chính làm cách học chủ yếu) xếp luyện xen kẽ ở mức vừa vì lúc đó chưa có nhiều nghiên cứu. Xem chung hai nguồn, nội dung cần nhận ra thuộc loại nào và dùng cách nào thì nên luyện xen kẽ, chẳng hạn dạng toán, ca bệnh và áp dụng điều luật. Nội dung phải ghi nhớ máy móc thì luyện theo nhóm, chẳng hạn từ vựng và định nghĩa thuật ngữ.",
+    "extra": ""
+  }
+}

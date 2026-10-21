@@ -1,0 +1,15 @@
+{
+  "id": "e-23-19",
+  "source_sha256": "2e7bea12f02a1edeeb1cc6a9835689324a287571946cd47d1edb5cc31e807f04",
+  "draft_sha256": "f37fb6db000331750b54938095a1110998c13fa474c7c7e385894a29b46a9c8c",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.40years67articles122experiments192effects10382people,d0.40 CI0.31–0.50 preserved, strongest/weakesttransferconditions and biasadjustment loweringintercept retained.23.14–16 references match."
+}

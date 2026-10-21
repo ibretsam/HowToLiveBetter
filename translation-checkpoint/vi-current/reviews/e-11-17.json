@@ -1,0 +1,15 @@
+{
+  "id": "e-11-17",
+  "source_sha256": "b8f232ef98eeb779703b23e3b7b28168e27252369e37557bccf15d7193638402",
+  "draft_sha256": "193d550a7f2558b36403045156b84543b6ec7a87bd6b3b319406e50e3dd58843",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked public-opinion/social-mobilization scope,domestic-public exclusion,safety/algorithm registration change/cancel andimage/video labeling,2023-8-15date,penalties referred to other statutes not invented. Cross-reference11.19retained."
+}

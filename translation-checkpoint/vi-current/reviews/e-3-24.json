@@ -1,0 +1,15 @@
+{
+  "id": "e-3-24",
+  "source_sha256": "ab6d51c84b460e91b6a7e17d8375bead103925b8b04d99939815b74921dd2230",
+  "draft_sha256": "38ebfc7283fe3b593676ddb105bf175a41666015077c43e5f0e119b627a7eb2b",
+  "reviewer": "root_batch9_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Preserves3–4 sessions of15–20minutes,146-study positive but small r=.075 result,30-trial null result and16 cancer trials with g=.04 CI−.06..14. Keeps disputed evidence, cancer population, statistical nonsignificance rather than proof of no effect, stop-if-distressed instruction and source China phone/cross-reference. No semantic corrections required."
+}

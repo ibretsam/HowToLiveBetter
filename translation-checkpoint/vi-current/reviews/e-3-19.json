@@ -1,0 +1,15 @@
+{
+  "id": "e-3-19",
+  "source_sha256": "de638704c84b79dd30ff8b142f5532235dad2e8b93179e4157f0e199ee050f9f",
+  "draft_sha256": "e5f411ef46030efd83f87b5cfff7480c1d4bb31ef94649a2794bda91d5350ece",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: clarified approving/reviewing higher authority as immediate next level, per source. All30/30/3/7/30/7-day bounds and legal chapter links preserved; no guaranteed outcome."
+}

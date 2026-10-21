@@ -1,0 +1,14 @@
+{
+  "id": "e-23-13",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "1811bc4431d11b7f57de69de065f283ed5475190f42c62c5f7121a85f46436a9",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Với cùng tiền và thời gian, ưu tiên chương trình ngắn có thể đi làm ngay",
+    "cost": "Phải trả học phí khóa ngắn, số tiền không lớn. Vẫn mất một khoảng thời gian. Khó ở chỗ đang học dở mà chưa thấy hiệu quả thì dừng theo điều kiện đã định.",
+    "plain": "Chính sách khuyến khích khóa ngắn, thiết thực, cho kết quả nhanh để có việc trong thời gian ngắn, cùng các chuyên ngành nhỏ của trường nghề. Khi chọn, xem một điều: học xong có vị trí cụ thể để gửi hồ sơ không. Học nửa năm, một năm mà tốt nghiệp còn phải “tích lũy thêm kinh nghiệm” thì thời gian thực bỏ ra vượt xa mức quảng cáo. Trước khi bắt đầu, ghi điều kiện rút lui: học đến mức nào mà chưa tìm được việc thì dừng.",
+    "benefit": "Định hướng chính sách phù hợp với cách chọn này: hỗ trợ “cơ sở đào tạo tư nhân triển khai chương trình kỹ năng nghề chất lượng cao theo thị trường và chương trình ngắn, thiết thực, cho kết quả nhanh, có thể giúp có việc trong thời gian ngắn”. Đồng thời thúc đẩy trường nghề “tập trung vào kiến thức, kỹ năng thị trường việc làm đang cần gấp… mở chuyên ngành nhỏ và khóa đào tạo năng lực nghề nghiệp”",
+    "notes": "Chỉ có một tiêu chí: học xong có vị trí cụ thể nào để gửi hồ sơ không. Chương trình học nửa năm, một năm mà kết thúc vẫn cần “tích lũy thêm kinh nghiệm” có chi phí thực cao hơn nhiều mức niêm yết. Điều kiện rút lui ở chương 4 cũng áp dụng: trước khi bắt đầu, ghi rõ “học đến mức nào mà chưa tìm được việc thì dừng”",
+    "extra": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-23-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "575107291c9a24682d28ffa79f22c2662017260aa5c41b5131d62ada0cbcf7ef",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Trước khi trả tiền thi chứng chỉ, tra xem chứng chỉ có trong danh mục trình độ nghề quốc gia hoặc tổ chức đánh giá có trong danh sách đăng ký với Bộ Nhân lực và An sinh xã hội không",
+    "cost": "Không tốn tiền. Tra một lần, khoảng hơn mười phút.",
+    "plain": "Một số tổ chức lấy danh nghĩa nghề mới, cấp bậc kỹ năng để mở lớp, thu phí và cấp chứng chỉ tùy tiện, thậm chí giả mạo tổ chức có thẩm quyền; Bộ Nhân lực và An sinh xã hội từng mở đợt chấn chỉnh riêng. Trước khi đăng ký, kiểm tra ba bước: nghề có trong danh mục trình độ nghề quốc gia không, đơn vị cấp có đăng ký với cơ quan nhân lực và an sinh xã hội không, mã chứng chỉ có tra được trên cổng chính thức không. Không tra được thì đừng đăng ký.",
+    "benefit": "Bộ Nhân lực và An sinh xã hội đã tổ chức chấn chỉnh riêng trên toàn quốc. Văn bản nêu đích danh tình trạng “một số tổ chức, đơn vị lấy danh nghĩa trình độ nghề mới, cấp bậc kỹ năng nghề để tùy tiện tổ chức đào tạo, đánh giá, cấp chứng chỉ, thu phí bừa bãi và cấp chứng chỉ tràn lan; một số quảng cáo sai sự thật hoặc phóng đại, thậm chí mạo danh tổ chức có thẩm quyền để tổ chức đào tạo, đánh giá và cấp chứng chỉ”. Biện pháp gồm phối hợp với cơ quan quản lý không gian mạng, công an và quản lý thị trường để xử lý, “nghiêm khắc trấn áp hoạt động đánh giá, cấp chứng chỉ giả mạo cơ quan thẩm định hoặc tổ chức đánh giá đã đăng ký với cơ quan nhân lực và an sinh xã hội”. Quảng cáo không đúng quy định trên website và truyền thông mới bị đóng theo luật. Văn bản đồng thời yêu cầu “hướng dẫn công chúng biết kênh và cách tra cứu chứng chỉ để đánh giá tính hợp pháp, đúng quy định và giá trị của chứng chỉ”",
+    "notes": "Kiểm tra theo thứ tự này. Trước hết xem nghề có trong Danh mục trình độ nghề quốc gia không; ngoài danh mục thì không phải trình độ nghề quốc gia. Tiếp theo, xem đơn vị cấp có là tổ chức đánh giá đăng ký với cơ quan nhân lực và an sinh xã hội không. Cuối cùng, vào cổng chính thức tra chứng chỉ đánh giá nhân lực kỹ năng để tìm mã chứng chỉ. Không tra được thì đều không đăng ký. Chứng chỉ mang chữ “quốc tế”, “cao cấp”, “đăng ký”, hứa “bao đỗ” hoặc “cho mượn tên chứng chỉ có thu nhập” có rủi ro cao nhất. Các “lớp nâng bằng” dùng tiền mua bằng cấp xem chương 31 mục 10 (chỉ nhận bằng tra được trên CHSI).",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "intro-11",
+  "source_sha256": "4f0e923369fe4a42fa1a207fdeda11be1657c599d0bdf7a248f2281396ea91a9",
+  "draft_sha256": "5a00999dec02b9d0a3cf425129c41edb3342406e615beddf3d98a9c3f8786ea5",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Compared title and full introduction plus all six grouped navigation blocks, every21entry appears once with originalreference. Preserved source intro assertion everyentryhasofficialcases even though individualnotes identify absent precedents/media-only material; not an independent verification claim."
+}

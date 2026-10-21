@@ -1,0 +1,14 @@
+{
+  "id": "e-23-2",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "43c8a7dd06c8f409b632d47b0e3f97525cf4c5be1afb0df1b9d4c4900e6cdc2b",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Khi cân nhắc “học có ích không”, hãy tính cả tử vong: mỗi năm học thêm gắn với nguy cơ tử vong ở người lớn thấp hơn khoảng 1.9%",
+    "cost": "Không tốn tiền. Bạn dành thời gian, công sức cho những năm học thêm; phần học phí xem mục 4 của chương này (học phí trung cấp nghề và trợ cấp học tập). Khó ở chỗ phải học tiếp đến cùng, không bỏ giữa chừng.",
+    "plain": "Mỗi năm học thêm gắn với nguy cơ tử vong ở tuổi trưởng thành thấp hơn trung bình khoảng 1.9%. Rõ nhất ở người 18 đến 49 tuổi: mỗi năm thêm thấp hơn khoảng 2.9%; ở người từ 70 tuổi trở lên chỉ thấp hơn 0.8%. Người có thể học tiếp thường vốn đã có điều kiện tốt hơn, nên không tách được bao nhiêu trong số đó là tác dụng của chính việc học.",
+    "benefit": "Tìm đầy đủ các nghiên cứu trước đó rồi gộp lại tính toán (tổng quan hệ thống và phân tích gộp). Phạm vi tìm kiếm từ tháng 1 năm 1980 đến tháng 5 năm 2023, cuối cùng đưa vào 603 nghiên cứu, 70 địa điểm ở 59 quốc gia và 10355 quan sát. Học vấn và tử vong ở người lớn, tính chung mọi nguyên nhân, có quan hệ theo mức tiếp xúc: học càng nhiều, mức giảm càng lớn. Mỗi năm học thêm gắn với nguy cơ tử vong giảm trung bình 1.9% (khoảng bất định 95%: 1.8–2.0; giá trị thật nhìn chung nằm trong khoảng này). Người 18 đến 49 tuổi giảm 2.9% mỗi năm thêm (2.8–3.0). Người từ 70 tuổi trở lên giảm 0.8% (0.6–1.0). Không thấy khác biệt giữa nam và nữ. Chia theo mức phát triển quốc gia bằng chỉ số xã hội nhân khẩu học cũng không thấy khác biệt",
+    "notes": "Có tranh luận. Chính tác giả báo cáo thiên lệch công bố (p<0.0001): nghiên cứu có kết quả đẹp dễ được công bố hơn. Kết quả giữa các nghiên cứu cũng chênh lệch lớn. Tất cả đều theo dõi quan sát, không phải thử nghiệm chia nhóm. Số năm học đan xen với hoàn cảnh gia đình, khu vực và nghề nghiệp. Loại nghiên cứu này không tách được trong 1.9% ấy, bao nhiêu do việc học và bao nhiêu do “người học được đến cùng vốn có điều kiện tốt”. Cũng không tách được quan hệ nhân quả theo chiều ngược lại: người có bệnh hoặc vấn đề tâm lý từ nhỏ dễ bỏ học và dễ chết sớm hơn. Điều đó có thể khiến tác dụng của việc học trông lớn hơn thực tế. Kết quả hỗ trợ mạnh mối liên hệ giữa học nhiều và sống lâu, nhưng không có nghĩa “bạn đi học sẽ kéo dài tuổi thọ 1.9%”. Mức lợi ích được xếp nhỏ: lựa chọn thường là học thêm ba, bốn năm; tính mỗi năm 1.9% thì tổng chưa đến một phần mười, nên theo ngưỡng của sách chỉ thuộc mức nhỏ. Người hưởng lợi là bạn",
+    "extra": ""
+  }
+}

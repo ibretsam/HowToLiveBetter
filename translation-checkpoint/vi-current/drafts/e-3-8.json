@@ -1,0 +1,14 @@
+{
+  "id": "e-3-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "9aaa3f65055b04fd680ba0aa36c1ed2fc17f53421c66b4268f29aa41a92b2da0",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Không nhìn màn hình phát sáng trong một giờ trước khi ngủ; nếu đọc, hãy đọc sách giấy hoặc màn hình mực điện tử tắt đèn",
+    "cost": "Không tốn tiền. Bỏ điện thoại xuống một giờ trước khi ngủ đòi hỏi ý chí để chống lại thói quen lâu dài.",
+    "plain": "Đọc màn hình phát sáng trước khi ngủ khiến bạn mất thêm khoảng 10 phút mới ngủ được so với đọc sách giấy. Melatonin bị giảm 55%. Đồng hồ sinh học ngày hôm sau chậm lại từ 1.5 giờ trở lên, buổi sáng buồn ngủ hơn và lâu tỉnh táo hơn.",
+    "benefit": "Trong phòng thí nghiệm, cùng một nhóm người lần lượt trải qua hai điều kiện (thử nghiệm bắt chéo). Một điều kiện là đọc sách điện tử trên iPad với độ sáng tối đa khoảng 4 giờ trước khi ngủ, trong 5 đêm liên tiếp. Điều kiện còn lại là đọc sách giấy trong căn phòng tối mờ tương tự. Đọc sách điện tử phát sáng trước khi ngủ khiến thời gian đi vào giấc ngủ dài hơn khoảng 10 phút so với đọc sách giấy (25.7 phút so với 15.8 phút). Melatonin buổi tối bị giảm 55%. Đồng hồ sinh học (nhịp ngày đêm) hôm sau chậm lại hơn 1.5 giờ; thời điểm bắt đầu tiết melatonin là 22:31 so với 21:01. Sáng hôm sau buồn ngủ hơn và mất nhiều thời gian hơn mới tỉnh táo hoàn toàn.",
+    "notes": "Số người ít, nghiên cứu được thực hiện trong điều kiện kiểm soát của phòng thí nghiệm. Với độ sáng và thời gian dùng điện thoại thông thường, ảnh hưởng có thể không lớn như vậy. Nghiên cứu không đo hiệu quả của chế độ ban đêm trên điện thoại, cũng không đo màn hình mực điện tử. Màn hình mực điện tử tắt đèn dựa vào ánh sáng trong phòng phản chiếu để đọc, giống sách giấy, nên được xếp cùng nhóm sách giấy; đây là suy luận từ nghiên cứu. Màn hình mực điện tử bật đèn cũng phát sáng và chưa có dữ liệu.",
+    "extra": ""
+  }
+}

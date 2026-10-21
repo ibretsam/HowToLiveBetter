@@ -1,0 +1,14 @@
+{
+  "id": "e-3-12",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "419fde7fe8f922b62a1af6db6d44fa7553720c3d6c62b7a535f7a1112b6fd09b",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Khi làm việc trong văn phòng mở, dùng nút tai hoặc tìm phòng yên tĩnh để làm việc cần ghi nhớ",
+    "cost": "Nút tai giá vài chục nhân dân tệ. Đặt phòng họp yên tĩnh cần chút thời gian.",
+    "plain": "Khi tiếng ồn nền tăng từ 39 lên 51 decibel, số từ nhớ được giảm, người ta mệt hơn và ít muốn làm việc hơn. Khi nghỉ, xem cảnh thiên nhiên có âm thanh giúp lấy lại sức tốt hơn tiếp tục nghe tiếng ồn văn phòng.",
+    "benefit": "Sinh viên làm việc trong văn phòng mở mô phỏng. Khi tiếng ồn nền tăng từ 39 lên 51 decibel (dB, LAeq), họ nhớ được ít từ hơn, tự đánh giá mệt hơn và ít muốn làm việc hơn. Khi nghỉ, xem phim thiên nhiên có âm thanh giúp điểm tự đánh giá sức lực phục hồi tốt hơn chỉ nghe tiếng sông hoặc tiếng ồn văn phòng.",
+    "notes": "Chỉ có một nghiên cứu trong phòng thí nghiệm. Thành phần gây phiền nhất của tiếng ồn là lời nói nghe rõ nội dung. Tai nghe phát tiếng ồn trắng có ích ở điểm này, nhưng nghiên cứu này chưa đo tai nghe.",
+    "extra": ""
+  }
+}

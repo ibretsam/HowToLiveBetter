@@ -1,0 +1,14 @@
+{
+  "id": "e-11-4",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "8ba9ec434355858c8d699b9d6c085f50dc8fb7bd8dc25caa0e5d7013d2cf0f21",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Chỉ thu thập tự động các trang công khai không cần đăng nhập; không vượt cơ chế chống thu thập, không đụng thông tin cá nhân và không bán dữ liệu thu được",
+    "cost": "Không tốn tiền. Trình thu thập dữ liệu là chương trình tự mở trang web và lấy dữ liệu trên đó. Trước khi thu thập, xem tệp robots và hướng dẫn cấp phép giao diện; robots là tệp đặt ở thư mục gốc của website, ghi những trang không cho thu thập. Không thu thập dữ liệu cần đăng nhập, cần token (chuỗi thông tin xác thực tạm thời) hoặc cần bẻ chữ ký mới lấy được. Điều khó là về kỹ thuật, dữ liệu dễ lấy ngay; kiềm chế hoàn toàn dựa vào tự giác.",
+    "plain": "Vượt các biện pháp bảo vệ như đăng nhập, token, chữ ký để lấy dữ liệu, nếu nghiêm trọng, bị phạt tù từ 3 năm trở xuống; đặc biệt nghiêm trọng là 3 đến 7 năm. Lấy được thông tin cá nhân còn rắc rối hơn. Chỉ 50 bản ghi về hành trình, nội dung liên lạc, thông tin tín dụng hay tài sản đã được tính là nghiêm trọng. Với thông tin lưu trú, sức khỏe, giao dịch là 500 bản ghi; loại khác là 5000 bản ghi; hoặc kiếm được 5000 nhân dân tệ cũng vậy.",
+    "benefit": "Vượt biện pháp bảo vệ để lấy dữ liệu trong hệ thống có mức hình phạt như mục 3 về tập lệnh săn vé, săn hàng giảm giá chớp nhoáng và tạo đơn giả: phạt tù từ 3 năm trở xuống hoặc từ 3 đến 7 năm. Lấy, bán hay cung cấp trái phép thông tin cá nhân của công dân, nếu đạt bất kỳ ngưỡng nào sau đây đều được tính là ‘nghiêm trọng’: từ 50 bản ghi trở lên về hành trình, nội dung liên lạc, tín dụng, tài sản; từ 500 bản ghi trở lên về lưu trú, nhật ký liên lạc, sức khỏe, giao dịch; từ 5000 bản ghi trở lên về thông tin cá nhân khác; hoặc thu lợi trái pháp luật từ 5000 nhân dân tệ trở lên. Trường hợp nghiêm trọng bị phạt tù từ 3 năm trở xuống, kèm hoặc chỉ phạt tiền; đặc biệt nghiêm trọng bị phạt tù 3 đến 7 năm. Vụ án chính thức: lập trình viên Lý ngụy trang chức năng lấy trộm ảnh trong điện thoại thành phần mềm ‘chấm điểm nhan sắc’, thu được 1751 ảnh khuôn mặt. Người này còn mua đi bán lại dữ liệu từ kho tổng hợp thông tin cá nhân bị rò rỉ, bị phạt tù 3 năm, cho hưởng án treo với thời gian thử thách 3 năm. Kho này là cơ sở dữ liệu tập hợp thông tin cá nhân bị lộ từ nhiều nơi. Một công ty công nghệ mạng dùng trình thu thập để lấy dữ liệu cửa hàng và đơn hàng của nền tảng giao đồ ăn, gây thiệt hại hơn 4 vạn nhân dân tệ, bị truy cứu về tội lấy trái phép dữ liệu hệ thống thông tin máy tính (toàn quốc).",
+    "notes": "Giải thích tư pháp năm 2017 quy định rằng ‘không có sự đồng ý của người đó mà đưa thông tin đã thu thập hợp pháp cho người khác’ cũng được tính là ‘cung cấp’. Xuất bảng người dùng của công ty cho đối tác bên ngoài cũng thuộc trường hợp này. 5000 bản ghi chỉ tương đương một bảng dữ liệu nhỏ.",
+    "extra": ""
+  }
+}

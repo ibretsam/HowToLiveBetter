@@ -1,0 +1,14 @@
+{
+  "id": "e-3-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "65a25cca5273c0b2e3a8f69b7505f556e11711ab7e114a800fcdc5c0eac690e6",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Khi tức giận, hãy rời đi trước; coi đối phương như thời tiết thay vì kẻ thù",
+    "cost": "Không tốn tiền. Lúc đó hãy nhịn đáp trả, quay đi, rồi quyết định sau có cần xử lý không. Việc này cần luyện tập một chút.",
+    "plain": "Nhìn việc vừa xảy ra từ góc khác hoặc đặt mình vào vị trí đối phương đều giúp giảm cảm xúc; cách sau hiệu quả hơn. Chỉ không bộc lộ cảm xúc ra ngoài cũng có chút tác dụng. Nhưng cố đè nén cảm giác trong lòng hay ép mình không nghĩ đến chuyện đó đều không hiệu quả. Người trừng phạt người xúc phạm mình lại nghĩ đi nghĩ lại về chuyện ấy lâu hơn, còn người không trả đũa bỏ qua nhanh hơn.",
+    "benefit": "Gộp 306 nhóm so sánh trong thí nghiệm để tính (phân tích gộp): diễn giải việc xảy ra từ góc khác (tái đánh giá nhận thức) có cỡ hiệu ứng đối với cảm xúc d = 0.36. Nhìn từ vị trí đối phương có d = 0.45. Chuyển hướng chú ý có d = 0.27. Kiềm chế biểu hiện cảm xúc bên ngoài (không bộc lộ) có hiệu quả, d = 0.32. Cố đè nén cảm giác không hiệu quả (d = -0.04), cố không nghĩ đến chuyện đó cũng không hiệu quả (d = -0.12). Các con số này gộp các chỉ số cảm giác bên trong, biểu hiện bên ngoài và phản ứng cơ thể; phần tóm tắt không tách riêng. Ba thí nghiệm khác cho thấy người trừng phạt kẻ xúc phạm mình sau đó nghĩ đi nghĩ lại về người ấy lâu hơn; người không trừng phạt nhanh “bỏ qua” hơn. Trước đó, người ta đã đánh giá quá cao cảm giác hả hê do trả đũa mang lại.",
+    "notes": "Phần tổng hợp nhiều nghiên cứu đo cường độ cảm xúc chứ không phải sức lực, với hiệu quả nhỏ đến trung bình. Phần trả đũa chỉ có một nhóm thí nghiệm nên xếp mức B. “Thuyền rỗng” là ngụ ngôn trong thiên Sơn Mộc của Trang Tử: thuyền rỗng va vào thì không giận, có người trên thuyền mới giận, dù cú va chạm giống nhau. Đây là phép so sánh, không phải bằng chứng. Nếu thực sự có tổn thất, hãy đi theo con đường pháp lý ở chương 8 và chương 9, ít tốn kém hơn nhiều so với nổi giận ngay tại chỗ.",
+    "extra": ""
+  }
+}

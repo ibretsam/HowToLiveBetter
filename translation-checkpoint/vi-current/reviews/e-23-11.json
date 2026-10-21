@@ -1,0 +1,15 @@
+{
+  "id": "e-23-11",
+  "source_sha256": "4e356c696f703efe9c615ad923014b8b7662d8dc4313f5f304aabbc7fdc5ef07",
+  "draft_sha256": "82909eb14cc5a5f81f745fd568f8a874076695de98e4af5ffb0bac44a01002bf",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Eighttier skillpolicy and compensation linkage preserved with directrecognition exceptions and explicit distinction between policy direction and realized salary."
+}

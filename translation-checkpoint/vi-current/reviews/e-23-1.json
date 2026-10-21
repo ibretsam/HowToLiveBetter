@@ -1,0 +1,15 @@
+{
+  "id": "e-23-1",
+  "source_sha256": "2c22e589645cdc22a9211cc1859e2ffacb149ff751ff9aeac7cfe5ca586e8b9b",
+  "draft_sha256": "4607862df87e8cc58ad53d87373806ab3fcaece422f40d1ab6f05dff6f49fcc9",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all fields. Corrected plain text so the employer, not the child, is explicitly fined. Preserved under16, arts/sports exception, monthly5000/10000 and referral5000 penalties, injury coverage, compulsoryeducation and chapter19/23.10 references. Broad title is qualified by source body."
+}

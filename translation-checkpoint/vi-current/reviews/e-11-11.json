@@ -1,0 +1,15 @@
+{
+  "id": "e-11-11",
+  "source_sha256": "c488bcc50ee01b6233ad5dec2eb31225701f3e15925dd209c1a12f9e278c9361",
+  "draft_sha256": "3fe8b621942cf2f215bffaaffb4f4de2d23fe53ef183581b61c344a098e5c7cd",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked sale/build vs personal use,public international-channel rule,1.5vanfine and1–5timesillegalprofit,5year boundary. Source no official precedent and broad maximum-personal-penalty claim retained without legal endorsement."
+}

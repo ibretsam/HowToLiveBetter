@@ -1,0 +1,14 @@
+{
+  "id": "e-23-23",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "d2a170c1f30022216b1c247e760114bf4b664e048b9095d703c2a866d1a8f1a3",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Có chức danh không đồng nghĩa tăng lương: hỏi trước đơn vị xét và bổ nhiệm trong tỷ lệ vị trí hay xét xong chưa chắc bổ nhiệm",
+    "cost": "Không tốn tiền. Chỉ cần hỏi bộ phận nhân sự một lần.",
+    "plain": "Chức danh là căn cứ tuyển dụng, đánh giá và thăng tiến, nhưng được xét đạt và được bổ nhiệm là hai việc. Đơn vị sự nghiệp quản lý theo vị trí thường xét trong tỷ lệ vị trí đã định. Đơn vị không quản lý theo vị trí có thể tách xét khỏi bổ nhiệm; xét đạt chưa chắc được giao vị trí và lương tương ứng. Khi đổi đơn vị hoặc địa phương, chức danh có thể cần xét hoặc xác nhận lại.",
+    "benefit": "Điều hai Lệnh số 40 của Bộ Nhân lực và An sinh xã hội: kết quả xét chức danh là căn cứ quan trọng để tuyển dụng, đánh giá, thăng tiến nhân lực chuyên môn kỹ thuật. Ý kiến cải cách năm 2016 quy định đơn vị sự nghiệp thực hiện đầy đủ quản lý theo vị trí thường xét chức danh trong tỷ lệ cơ cấu vị trí. Đơn vị không quản lý theo vị trí, nhóm chức danh dùng rộng rãi và nghề mới có thể tách xét khỏi bổ nhiệm. Khi nhân lực chuyên môn kỹ thuật chuyển địa phương hoặc đơn vị, chức danh được xét lại hoặc xác nhận theo thẩm quyền quản lý, trừ khi nhà nước có quy định khác (toàn Trung Quốc)",
+    "notes": "Mức bằng chứng B vì văn bản chỉ quy định cách nối xét với bổ nhiệm, không có số toàn quốc thống nhất về tăng lương bao nhiêu khi xét đạt. Việc có thể làm: ở đơn vị sự nghiệp và doanh nghiệp nhà nước, hỏi nhân sự về vị trí trống và quy tắc bổ nhiệm. Ở doanh nghiệp tư nhân, hỏi chủ có công nhận chứng chỉ này và tăng tiền không.",
+    "extra": ""
+  }
+}

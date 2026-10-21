@@ -1,0 +1,15 @@
+{
+  "id": "e-3-4",
+  "source_sha256": "c28974eed17ced7ef2304ffaa8690f25e1079e8032600623161c92ba926e2e09",
+  "draft_sha256": "1d2fd10c9006e3e30c15cc4bd47100f236f96bb2d5f6f27e0d266bc77073e604",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: exact caffeine doses, inclusive time boundaries, subjective/objective contrast preserved. Corrected notes to combine advice with item3 instead of implying overlapping benefits."
+}

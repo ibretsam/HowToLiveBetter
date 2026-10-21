@@ -1,0 +1,15 @@
+{
+  "id": "e-23-13",
+  "source_sha256": "1811bc4431d11b7f57de69de065f283ed5475190f42c62c5f7121a85f46436a9",
+  "draft_sha256": "f2b003342717b9d28d4419c43f53e952446e63bebff7164d9769b7a70ef48894",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Shortcourse-policyquotes, concretejobapplication criterion, opportunitycost and predefinedexitcondition remain intact; no added promise of employment."
+}

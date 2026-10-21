@@ -1,0 +1,15 @@
+{
+  "id": "e-11-13",
+  "source_sha256": "0d07a5d2fbab1799982d87da583a423fa2e120d3ea6700f894802fb480457673",
+  "draft_sha256": "2c52a66464e380ec5181586d7cf17af38e6474ac49c04dda8e5b82154737beb8",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked ordinary employee works priority2years vs resource-and-liability/contract exceptions,attribution-only rights and patent application/ownership. Source heading/notes overgeneralize code ownership relative to conditional benefit; preserved as source issue, no silent legal rewrite."
+}

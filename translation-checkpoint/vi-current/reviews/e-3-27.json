@@ -1,0 +1,15 @@
+{
+  "id": "e-3-27",
+  "source_sha256": "10f807f7a94167e41204ffc12d2829e17f6f7e31505bf26e76481d40082ba54d",
+  "draft_sha256": "205777b9f6d1f49b788b232a5a975de8f4193cd187b89e92eac05e0cff56af57",
+  "reviewer": "root_batch9_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Preserves inclusive5/15 hourly diagnostic bounds,38 trials,2.4-point Epworth change,1-point asymptomatic subgroup,observational accident RRs and before/after limitation. SAVE population,3.3-hour adherence,3.7-year follow-up,17.0%vs15.4%,HR1.10 and mortalityRR1.13 remain intact. China1.76 hundred-million/6552 ten-thousand estimates retain source numbers/units and2005 single-study manufacturer-funding caveat. Disputed evidence,asymptomatic-screening caveat and1.9/2.37/3.26 references retained. Source screening inference and general title retained without endorsing independent clinical validity."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-23-2",
+  "source_sha256": "43c8a7dd06c8f409b632d47b0e3f97525cf4c5be1afb0df1b9d4c4900e6cdc2b",
+  "draft_sha256": "47f18d8848987575c5ce9544217936e9da1ea2648c88e8add62d7062f877692e",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. Preserved603studies59countries70sites10355observations,1.9/2.9/0.8% and uncertainty intervals, publicationbias p<0.0001, observational/noncausal/reversecausation limits and smallbenefit rationale."
+}

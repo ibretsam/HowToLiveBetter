@@ -1,0 +1,15 @@
+{
+  "id": "e-11-7",
+  "source_sha256": "2e2ab67262fa7f50c4a36f58ca9b57fd47aae03f5c571c6413fa040fae6531c9",
+  "draft_sha256": "7374e231b39765aaf32452b99c5ba5eb6e572f091f534703506fae028455ca99",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked source code/trade secrets/client list distinctions,criminal and civil remedies,3.3van files and5year/50van/400van sanctions. Corrected追诉to truy cứu rather than completed prosecution. Prior employee ownership qualifications retained."
+}

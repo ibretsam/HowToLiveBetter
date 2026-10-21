@@ -1,0 +1,15 @@
+{
+  "id": "e-3-20",
+  "source_sha256": "cf3c4bc13b53a9f09472c2440d0c98bac2d030039f5c6f25f1046c139e65ecf9",
+  "draft_sha256": "b445315877385af2186673805adf340d9fc41dee62397958608864928e113905",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: exact sample counts, correlation and CI, willingness/payment threshold, all signed/effect values and trial populations preserved; source presents political-polarization decline among costs and subscale directions implicitly, preserved. Social contact/info/job-search exceptions retained."
+}

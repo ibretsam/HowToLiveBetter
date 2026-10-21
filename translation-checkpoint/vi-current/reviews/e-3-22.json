@@ -1,0 +1,15 @@
+{
+  "id": "e-3-22",
+  "source_sha256": "ce06ce5ce1ea0514cfff7b3c33cca61e25f01647102de98e4d066651831f8f68",
+  "draft_sha256": "ca139b4222a76a4ef5c48464a6cf2a13b1c00a17990a7d5775e17ced5e5d6f52",
+  "reviewer": "root_batch9_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Preserves all correlation values, confidence intervals, sample sizes, perfectionism subtypes, baseline adjustment and absence of mortality endpoints. Retains publication-bias qualification, surrogate-endpoint classification and cross-references15,1.25,8.15,30.8. Source clinical framing and China telephone reference are retained as source content, not independently endorsed or localized."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-3-15",
+  "source_sha256": "181607ea3e88bbb17708a54f7a52f3e0f44e8284ef16de6a93a8ccee39e7f1ac",
+  "draft_sha256": "fd16e47d493a8a5a6e0e113e1f0eabfa13ba6cb8833a4bea221af78276b0ad97",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: inclusive50 age, 2978/1068/20, exact CI/P/scientific notation, no cancer/optimism association and observational dispute preserved."
+}

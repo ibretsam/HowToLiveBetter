@@ -1,0 +1,15 @@
+{
+  "id": "e-3-23",
+  "source_sha256": "9ea649ac6a436e89b60587f1f3570499958b5880922b24ccfff68258b2eba7e0",
+  "draft_sha256": "3bd4a4008244228a761b682006064a92a49dc6208ac9a0fa3ea2a19a6ef2c60d",
+  "reviewer": "root_batch9_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Current source uses cycling rather than the old translation throwing objects; corrected in draft. Preserves154 studies,184 samples,10189 participants, both g estimates with confidence limits, overall null arousal result and distinction between immediate anger and longer-term low mood. References22.8,3.17,22.6,8.43 match source; author time-classification rationale retained."
+}

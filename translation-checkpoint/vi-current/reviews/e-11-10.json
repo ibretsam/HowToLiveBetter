@@ -1,0 +1,15 @@
+{
+  "id": "e-11-10",
+  "source_sha256": "0d627711adf743de14a7ed0c4e861f81fdcf3b50353f759b29be71ee7453764d",
+  "draft_sha256": "7c76086d0c11323719e70e6300501ca25860f346c1e56e7637f41b04acfb7227",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked five disclosure restrictions,foreign-vendor exception,fourofficialplatforms,amendment/warning vs1–10 and10–100vanfine ranges,responsible-person fines and shutdown/license sanctions. No inferred exception for unpatched disclosed-to-vendor vulnerability."
+}

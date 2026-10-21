@@ -1,0 +1,15 @@
+{
+  "id": "e-23-21",
+  "source_sha256": "d21118d2227989cdb2ffea95ad6cab9e39b8d87e19ff2f65ebfa1693e6cf07fb",
+  "draft_sha256": "1478b92390486d919a377d7836fe2f2c688810320d955cf430da110af8947545",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.2016exam-versusassessment rules,academicrequirements and1/2/4/5yearworkconditions preserved. Clarified secondbachelor OR graduateclass qualification alternatives with shared two-yearaccountingexperience condition; professionalmaster/doctor exemption andcivilservant exam-versusreview distinction retained."
+}

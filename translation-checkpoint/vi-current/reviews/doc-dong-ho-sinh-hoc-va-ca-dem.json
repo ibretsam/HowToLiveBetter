@@ -1,0 +1,15 @@
+{
+  "id": "doc-dong-ho-sinh-hoc-va-ca-dem",
+  "source_sha256": "b4593c0291c773aad6dc896ed59fd609133d5d5933abdb61055aa44ed54ecbd0",
+  "draft_sha256": "7a9fcfa7c8085520c6caef0ac601604359b179b9184d88faf80be00f3ccc8244",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independently compared the full Chinese and Vietnamese article, all nine sections and four subsections, seven bibliographic references, all URLs, numbers, units, uncertainty and chapter/item references. Corrected night eating narrowed to dinner, heading softened cannot to difficult, and not staying up weakened to not only staying up. Preserved fewer than 3%, fewer than one quarter, fixed calories/four meals, 28-hour schedule, 12-hour misalignment and exact metabolic, light and sleep outcomes. Source caveats retained without clinical endorsement: categorical adaptation headings exceed qualified observed proportions; source asserts misalignment effects cannot be attributed to less sleep despite reporting reduced sleep efficiency; sleep efficiency increase 2.91 lacks a unit in source, so no percentage invented; no cardiovascular morbidity/mortality trial evidence for shifting clock. All bibliography and uncertainty remain intact."
+}

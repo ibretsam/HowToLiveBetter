@@ -1,0 +1,15 @@
+{
+  "id": "e-23-4",
+  "source_sha256": "41fe5be7b71535724fcc61b58c93f487b5cf69d8b038ccac0d418c8b356f3ef7",
+  "draft_sha256": "c88e18cdc9f131736630ffb5d4de8db4ad1ae3e9eaf5acea2a8e352db3675830",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. All2012/2024/2025 implementation dates, education support amounts, artperformance exception, rural/countytown scope, privatecollege difference, loanrepayment and LPR70basispoints/0.7percentagepoints retained. Source simplified plain is qualified by detailed conditions."
+}

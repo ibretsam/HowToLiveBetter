@@ -1,0 +1,15 @@
+{
+  "id": "e-23-20",
+  "source_sha256": "abab79873e5a8d5fc4d91e71b7cf4e2c81a5e59a9838d48867810563fb6ffb59",
+  "draft_sha256": "723aea3c98e0b154f00926a2e26669005de367fa5a2cd2c15d8c0243a7292fb2",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.27series,order40,minimum5workingdays publication, multichannel applications, one-year secondment, retirement/civilservant/disciplinary exclusions and2016paperqualificationchanges preserved."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-23-10",
+  "source_sha256": "07b0cffe8485522060378763d3e5fb3767d1f7a687fb433761c8053f3549d4d3",
+  "draft_sha256": "7214b859547fefbae29152b8d9386ba301a0dac0fb8a5b04cbf4cc5578d14eb5",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.702occupations47% highrisk, threeengineeringbottlenecks and later taskbasedlowerestimate preserved. Corrected notes to source statement that this is a2013unpublishedmanuscript, without inferred publicationhistory. No contemporary automation factchecking claimed."
+}

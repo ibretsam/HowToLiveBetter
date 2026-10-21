@@ -1,0 +1,15 @@
+{
+  "id": "e-11-12",
+  "source_sha256": "654166ce4dfb9b700de8aecb234acf86e8182538f01a7cef6914f7d8ee15aae9",
+  "draft_sha256": "3b14c3702d1ea268f1a1931260288ab3f45cb8063e318a92d15f9d91dedcaf6f",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked covered confidential roles,2yearcap,12monthsalary average30%minimumwagefloor,company-caused3monthnonpayment vs company terminationextra3months,2025secret-access limit,710vanclaim rejected. Written demand is author evidence advice; ongoing-employment restriction and valid paid agreement distinctions retained."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-23-9",
+  "source_sha256": "9d33ed427e930bcaa91bb836607b81da7a60d1343401291ae48d74da402769e2",
+  "draft_sha256": "71857628f50086b72fd545bcb071cb5f450278e643dacd013557d797b40c9da2",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.2025–2027,3000vanparticipations and inclusive60% frontlineeducation threshold retained, province-specific eligibility/amounts, funding sources, maximum3unemploymenttraininginstances and employedworkers route intact."
+}

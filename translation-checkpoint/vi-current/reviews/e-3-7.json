@@ -1,0 +1,15 @@
+{
+  "id": "e-3-7",
+  "source_sha256": "2280edc560304f3a3e8d63e1a48c24c06aa923f0b07624b79f5483176a81179e",
+  "draft_sha256": "9952e13c1b784bce1358a3d1695acb5f8ee3af10b3e0e86da08cf32f66ffb001",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: reaction/error and distraction outcomes preserved; cross-sectional reverse-causality ambiguity explicit."
+}

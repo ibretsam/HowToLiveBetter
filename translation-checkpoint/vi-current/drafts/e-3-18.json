@@ -1,0 +1,14 @@
+{
+  "id": "e-3-18",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "70b7722bf1f6b015e6fcdc36770bc7a81a6769b3341d958d0f5e2344f57229a9",
+  "translator": "batch9_health",
+  "translation": {
+    "title": "Khi tâm trạng sa sút, trước hết làm vài việc đáng công nhất: vận động, tiếp xúc ánh sáng nhiều hơn, ngủ đúng giờ, tìm người trò chuyện, gọi 12356",
+    "cost": "Không tốn tiền hoặc rất ít. Đi bộ nhanh, chạy chậm hoặc tập sức mạnh vài lần mỗi tuần. Ban ngày ra ngoài đón nắng. Giữ giờ giấc đều đặn. Khi bế tắc, hãy gọi một cuộc điện thoại.",
+    "plain": "Đi bộ nhanh, chạy chậm, yoga và tập sức mạnh đều giúp giảm trầm cảm; cường độ càng cao càng hiệu quả, xem chương 22 mục 6 (buồn thì đi bộ hoặc chạy). Liệu pháp ánh sáng có hiệu quả mạnh với trầm cảm theo mùa, và cũng hiệu quả với trầm cảm không theo mùa. Khóa tự trợ giúp bằng liệu pháp nhận thức hành vi trên mạng có tác dụng; khi triệu chứng tương đối nặng, có người hướng dẫn sẽ tốt hơn. Khi bế tắc, trước hết gọi 12356.",
+    "benefit": "Gộp 218 thử nghiệm đối chứng phân nhóm ngẫu nhiên với 14170 người để tính (phân tích gộp mạng lưới). Nhóm đối chứng cũng đang tham gia hoạt động khác. So với họ, đi bộ hoặc chạy chậm có cỡ hiệu ứng với trầm cảm g = -0.62 (khoảng khả tín 95% từ -0.80 đến -0.45). Yoga là -0.55, tập sức mạnh là -0.49. Cường độ càng cao, hiệu quả càng tốt. Gộp nhiều nghiên cứu liệu pháp ánh sáng cho thấy cỡ hiệu ứng với trầm cảm theo mùa là 0.84 (0.60 đến 1.08), với trầm cảm không theo mùa là 0.53 (0.18 đến 0.89). Một phân tích khác gộp dữ liệu từng bệnh nhân từ các nghiên cứu về liệu pháp nhận thức hành vi qua internet (khóa tự trợ giúp trên mạng). Cả có người hướng dẫn lẫn không có đều tốt hơn nhóm đối chứng. Ở mức vừa đến nặng (PHQ-9 lớn hơn 9 điểm), có người hướng dẫn tốt hơn. 12356 là đường dây hỗ trợ tâm lý toàn quốc của Trung Quốc, hoạt động ít nhất 18 giờ mỗi ngày.",
+    "notes": "Đây đều là biện pháp hỗ trợ cho trầm cảm nhẹ đến vừa. Người ở mức vừa đến nặng hoặc có ý nghĩ tự sát cần đi khám, trước hết gọi 12356 (xem chương 1 mục 25). Phần lớn thử nghiệm vận động có ít người, và không thể che giấu ai đang vận động như khi thử thuốc. Các nghiên cứu ánh sáng chỉ đến năm 2003 và cũng có ít người. Chúng dùng đèn chuyên dụng cho liệu pháp ánh sáng, không phải phơi nắng. Thay bằng ra ngoài đón nắng ban ngày là suy luận từ liệu pháp ánh sáng. “Ngủ đúng giờ” và “tìm người trò chuyện” là kinh nghiệm của tác giả, không liệt kê tài liệu riêng. Đừng biến “hãy vận động” thành yêu cầu đối với người trầm cảm; đi được mười phút cũng tính.",
+    "extra": ""
+  }
+}

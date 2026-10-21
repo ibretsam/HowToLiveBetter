@@ -1,0 +1,15 @@
+{
+  "id": "e-3-1",
+  "source_sha256": "59f19fa2be7b33bd13226d595cab60a2f0c62651d20a599de40bca1e75b29c74",
+  "draft_sha256": "c28b3c9497fe0b6992b6fa2f5e48947c0a45261ce24e071608bbf0f0bcec5b06",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: notification versus mere presence, university laboratory limits and on-call exception preserved."
+}

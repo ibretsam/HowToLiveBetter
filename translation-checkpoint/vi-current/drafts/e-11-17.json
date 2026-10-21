@@ -1,0 +1,14 @@
+{
+  "id": "e-11-17",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "b8f232ef98eeb779703b23e3b7b28168e27252369e37557bccf15d7193638402",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Trước khi cung cấp dịch vụ AI tạo sinh cho công chúng, đánh giá an ninh và đăng ký thuật toán theo quy định; gắn nhãn nội dung tạo ra",
+    "cost": "Không tốn tiền nhưng phải làm thủ tục với cơ quan quản lý không gian mạng, cần một thời gian mới xong. Nếu công cụ không cung cấp dịch vụ cho công chúng trong nước thì không thuộc phạm vi áp dụng của biện pháp này.",
+    "plain": "Dịch vụ AI tạo sinh hướng đến công chúng, có thể ảnh hưởng dư luận hoặc huy động mọi người, phải đánh giá an ninh và đăng ký thuật toán trước khi hoạt động; thay đổi hoặc dừng thì còn phải làm thủ tục thay đổi, hủy đăng ký. Hình ảnh và video tạo ra phải gắn nhãn. Công cụ nhỏ tự dùng, không mở cho công chúng không cần làm các việc này. Vi phạm bị xử phạt theo Luật An ninh mạng và các luật liên quan.",
+    "benefit": "Cung cấp dịch vụ trí tuệ nhân tạo tạo sinh có thuộc tính dư luận hoặc khả năng huy động xã hội thì phải đánh giá an ninh theo quy định nhà nước. Còn phải làm thủ tục đăng ký thuật toán theo quy định quản lý đề xuất bằng thuật toán, cùng thủ tục thay đổi, hủy đăng ký sau đó. Thuộc tính dư luận hoặc khả năng huy động xã hội nghĩa là có thể ảnh hưởng quan điểm công chúng hoặc tổ chức, huy động mọi người. Bên cung cấp phải gắn nhãn nội dung tạo ra như hình ảnh, video. Biện pháp ghi rõ: doanh nghiệp, cơ sở nghiên cứu và các chủ thể khác nghiên cứu, ứng dụng công nghệ trí tuệ nhân tạo tạo sinh mà ‘không cung cấp dịch vụ trí tuệ nhân tạo tạo sinh cho công chúng trong nước thì không áp dụng quy định của biện pháp này’. Vi phạm thì ‘xử phạt theo Luật An ninh mạng nước Cộng hòa Nhân dân Trung Hoa, Luật An toàn dữ liệu nước Cộng hòa Nhân dân Trung Hoa, Luật Bảo vệ thông tin cá nhân nước Cộng hòa Nhân dân Trung Hoa, Luật Tiến bộ khoa học và công nghệ nước Cộng hòa Nhân dân Trung Hoa và các luật, quy định hành chính khác’. Biện pháp có hiệu lực từ ngày 15 tháng 8 năm 2023 (toàn quốc).",
+    "notes": "Bản thân biện pháp này không ghi mức tiền phạt. Vi phạm phải tra mức phạt trong Luật An ninh mạng, Luật An toàn dữ liệu, Luật Bảo vệ thông tin cá nhân, nên xếp mức B. Những vụ dân sự về nội dung AI tạo ra xâm phạm quyền tác giả, quyền đối với hình ảnh chưa được chương này xác minh nguyên văn trên website Tòa án Nhân dân Tối cao nên không viện dẫn. Trạm trung gian bán lại giá rẻ API của mô hình lớn ở nước ngoài, xem mục 19 chương này về trạm trung gian AI.",
+    "extra": ""
+  }
+}

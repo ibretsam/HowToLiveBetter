@@ -1,0 +1,15 @@
+{
+  "id": "intro-3",
+  "source_sha256": "c784701bc8023caa531b922dcdffe8a772c73317ce833135372579fd956a77e1",
+  "draft_sha256": "cd59ab33efb3b8ab1e9ea849c8e0a7b70650a1005246b5b44b8e1f20e83ee42d",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: all27 grouped references and chapter scope exceptions preserved. Corrected mood guidance to first actions when low, not actions before mood becomes low."
+}

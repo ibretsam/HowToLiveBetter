@@ -1,0 +1,15 @@
+{
+  "id": "e-23-14",
+  "source_sha256": "78bdd6c1a8a513c90c13e307aa0cd5329284d2126b0d8df532d4f5e2daf5fea6",
+  "draft_sha256": "11cdd67b2d7ba04848121b2153f5415d3f5ee3f2d8a893352874668bc41d5a0f",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.222studies48478students,g0.499, all moderators, tenmethods/highutility evaluation, feedback and23.15 reference preserved. Grades not measuredhours distinction retained."
+}

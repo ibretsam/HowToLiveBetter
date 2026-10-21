@@ -1,0 +1,15 @@
+{
+  "id": "e-11-1",
+  "source_sha256": "bb1580baaf22f0b20bfec9412cda9ac3a001c3f12668b0c66f0368763e6b1946",
+  "draft_sha256": "6bf2a9a66db6224dd751bbe41427a53a75f50dc3dbde74325a996f0eacb5b7e4",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked the 3+1–4/30+7 day arrest-approval windows, 37-day cap is not total detention cap, first interrogation/compulsory measure right to counsel, 48-hour meeting, 3-day response and12-month bail maximum. Scope and source simplifications retained."
+}

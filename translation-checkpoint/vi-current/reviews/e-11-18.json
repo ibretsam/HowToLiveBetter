@@ -1,0 +1,15 @@
+{
+  "id": "e-11-18",
+  "source_sha256": "d1351481aa5072d8baccb5836266ee75283964fdc64436c322a6880a3cfb2801",
+  "draft_sha256": "c4f6f035f130816dcf6ec8e990ff199da958e7de80f935f633182ac6be45c18b",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked defaultblocking vs manualskip,720browser80van,app8van+1van,2021/2024cases vs2023media-only48hourletter. Preserved amended2025article13,individualbusinessdefinition,litigation6months/legalfees,selfusecaseunknown."
+}

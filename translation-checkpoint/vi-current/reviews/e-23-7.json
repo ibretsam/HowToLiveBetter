@@ -1,0 +1,15 @@
+{
+  "id": "e-23-7",
+  "source_sha256": "33485b2f6e964f0c4c05b385620a9c8fbcfabd255891336ea2ad5554ea7b9dfb",
+  "draft_sha256": "76c82187b85f8b30efba722281d4009fbc0a01df5b65d145fe419c5103e76b9e",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.1950–2014,139countries1120estimates and9% privateannualreturn preserved; formal education versus shortcourses, global/country/subject heterogeneity and women/men contrast remain explicit."
+}

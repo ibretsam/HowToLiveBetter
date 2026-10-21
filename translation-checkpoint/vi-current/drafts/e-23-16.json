@@ -1,0 +1,14 @@
+{
+  "id": "e-23-16",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "6c15dddb5aaec22f6d801fdf425517ea27e89c103329ebcccc19f6d03c20ce1c",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Đừng lấy tô ý chính, đọc đi đọc lại và viết tóm tắt làm cách học chủ yếu",
+    "cost": "Không tốn tiền, còn tiết kiệm thời gian. Khó ở chỗ các cách này thuận tay nhất và dễ tạo cảm giác “mình đang học” nhất.",
+    "plain": "Học sinh, sinh viên thường dùng tô ý chính và đọc lại nhất, nhưng cả hai nằm ở nhóm thấp nhất trong đánh giá mười cách học phổ biến. Viết tóm tắt, ghi nhớ bằng từ khóa và tưởng tượng hình ảnh cho bài đọc cũng thuộc nhóm thấp nhất. Chúng không hoàn toàn vô ích, chỉ có tác dụng trong điều kiện quá hẹp; cùng thời gian ấy dùng tự kiểm tra sẽ đáng hơn.",
+    "benefit": "Một tổng quan đánh giá mười phương pháp học phổ biến, xếp hạng theo khả năng áp dụng hiệu quả qua các điều kiện học, đặc điểm người học, tài liệu và hình thức đánh giá khác nhau. Nhóm cao nhất gồm kiểm tra để luyện tập và luyện tập phân tán. Nhóm vừa gồm đặt câu hỏi đào sâu, tự giải thích và luyện xen kẽ. Năm cách thuộc nhóm thấp nhất là viết tóm tắt, tô ý chính hoặc gạch dưới, ghi nhớ bằng từ khóa, tưởng tượng hình ảnh cho bài đọc và đọc đi đọc lại. Tổng quan nêu đa số học sinh, sinh viên nói họ dùng đọc lại và tô ý chính, nhưng hai cách này không cải thiện thành tích một cách ổn định. Tổng quan cho rằng nên chuyển sang cách khác, chẳng hạn thay đọc lại bằng kiểm tra để luyện tập.",
+    "notes": "Không phải cấm gạch dưới. Có thể gạch để đánh dấu những chỗ lát nữa cần tự kiểm tra; vấn đề là coi chính việc gạch dưới là học. Tổng quan cũng nói nhóm thấp nhất không có nghĩa hiệu quả bằng không, mà là điều kiện có tác dụng hẹp và cần thêm nghiên cứu. Cách thay thế xem mục 14 (đóng sách tự kiểm tra) và mục 15 (chia cùng thời gian ra nhiều ngày).",
+    "extra": ""
+  }
+}

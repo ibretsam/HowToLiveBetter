@@ -1,0 +1,15 @@
+{
+  "id": "e-11-5",
+  "source_sha256": "819f6d8c3d6a21bd08613e366953404a92a7c3145f7abe09ab995bccd1c4dabe",
+  "draft_sha256": "0621821659cb77df9c84fa0db3e6bf2e3517030f03875559bb467c1b4709e107",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked knowing assistance vs casino complicity and higher offense,3 vs5/10year limits,70hundred-million amount,79developers and28app defendants. Preserved inference of knowledge as source claim."
+}

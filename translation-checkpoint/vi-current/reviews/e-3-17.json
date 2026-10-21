@@ -1,0 +1,15 @@
+{
+  "id": "e-3-17",
+  "source_sha256": "65a25cca5273c0b2e3a8f69b7505f556e11711ab7e114a800fcdc5c0eac690e6",
+  "draft_sha256": "193e85c11d440de21b00f3074d8494bbd4541325a2c43c8d7021835554898a11",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review:306 comparisons and all six signed d values; expression versus internal-feeling/thought suppression distinguished; revenge, analogy not evidence and legal alternatives preserved."
+}

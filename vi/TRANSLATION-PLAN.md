@@ -1,6 +1,6 @@
 # Tiến độ và kế hoạch hoàn thành bản dịch tiếng Việt
 
-Cập nhật: **21/10/2026 (giờ Việt Nam), sau đợt 8**. Đã dịch và rà soát song ngữ độc lập tổng cộng 569 mục, 22 lời dẫn chương và sáu bài viết dài. Chưa thiết lập lịch chạy tự động.
+Cập nhật: **21/10/2026 (giờ Việt Nam), sau đợt 9**. Đã dịch và rà soát song ngữ độc lập tổng cộng 642 mục, 25 lời dẫn chương và bảy bài viết dài. Chưa thiết lập lịch chạy tự động.
 
 ## Phạm vi và phiên bản đích
 
@@ -12,12 +12,12 @@ Các commit nguồn xuất hiện sau mốc này được ghi thành đợt cậ
 
 | Trạng thái mục | Số lượng | Tỷ lệ trên 765 mục |
 |---|---:|---:|
-| Bản nháp tiếng Việt khớp nguồn hiện tại | 606 | 79,2% |
-| Có bản tiếng Việt cũ, cần cập nhật | 135 | 17,6% |
-| Chưa có bản dịch dùng được cho mục hiện tại | 24 | 3,1% |
-| Tổng có bản tiếng Việt, gồm bản cũ | 741 | 96,9% |
+| Bản nháp tiếng Việt khớp nguồn hiện tại | 666 | 87,1% |
+| Có bản tiếng Việt cũ, cần cập nhật | 84 | 11,0% |
+| Chưa có bản dịch dùng được cho mục hiện tại | 15 | 2,0% |
+| Tổng có bản tiếng Việt, gồm bản cũ | 750 | 98,0% |
 
-**96,9% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 606 mục khớp nguồn gồm 37 mục có nguồn chưa đổi chưa qua quy trình rà soát mới và 569 mục đã qua rà soát độc lập trong tám đợt. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
+**98,0% là độ phủ bản dịch, không phải tỷ lệ hoàn thành theo nguồn mới.** 666 mục khớp nguồn gồm 24 mục có nguồn chưa đổi chưa qua quy trình rà soát mới và 642 mục đã qua rà soát độc lập trong chín đợt. Tất cả vẫn là bản nháp AI, chưa được biên dịch viên chuyên nghiệp duyệt.
 
 Lô thử đã xử lý **11 mục chưa dịch và 19 mục cần cập nhật**, cộng lời dẫn chương 34. Chương 34 có đủ 12/12 mục và lời dẫn khớp nguồn đích. Trước khi bắt đầu, số liệu là 95/554/116; danh sách công việc trong checkpoint giữ mốc ban đầu để đối chiếu.
 
@@ -35,7 +35,9 @@ Lô thử đã xử lý **11 mục chưa dịch và 19 mục cần cập nhật*
 
 **Đợt 8 xử lý 69 mục, ba lời dẫn và một bài phân tích:** dịch mới 17 mục, cập nhật 51 mục và rà soát lại 1 mục có nguồn chưa đổi. Hoàn thiện chương 12 (28/28 mục, khởi nghiệp và kinh doanh), chương 10 (23/23, tình yêu và hôn nhân) và chương 15 (18/18, thuê và mua nhà), cùng các lời dẫn. Chương 12 và 10 có nhiều mục tồn đọng; chương 15 có số mục chưa dịch lớn nhất trước đợt này. Bài “Kết hôn có đáng không” đã được đối chiếu đủ năm nhóm cân nhắc, bảy phần dữ liệu và danh sách tự điền; giữ giới hạn tương quan/nhân quả và bối cảnh pháp luật Trung Quốc. Tổng cộng 22 chương được rà soát đầy đủ: 1, 2, 5, 6, 7, 8, 9, 10, 12, 13, 15, 16, 17, 18, 19, 20, 24, 27, 28, 30, 33 và 34. Xem `translation-checkpoint/vi-current/batch-8-report.json`.
 
-Bài viết dài: 6/9 bản nháp khớp nguồn và đã qua rà soát mới (hướng dẫn trước/sau sinh, sau thôi việc, phân tích giúp người lạ, sau chẩn đoán bệnh mạn tính, trang bị khẩn cấp và phân tích kết hôn), 2/9 cần cập nhật, 1/9 chưa dịch. Nguồn bài trước/sau sinh chưa đổi, nên đợt 3 chỉ tăng số bài được rà soát; năm bài còn lại được cập nhật theo nguồn mới. Lời dẫn: 22/34 khớp nguồn, 12/34 cần cập nhật. Hướng dẫn đọc vẫn cần cập nhật; không được bỏ qua những phần này khi đủ 765 mục.
+**Đợt 9 xử lý 73 mục, ba lời dẫn và một bài giải thích:** dịch mới 9 mục, cập nhật 51 mục và rà soát lại 13 mục có nguồn chưa đổi. Hoàn thiện chương 3 (27/27 mục, sức lực và tinh thần), chương 23 (25/25, học kỹ năng) và chương 11 (21/21, giới hạn pháp luật cho người làm kỹ thuật), cùng các lời dẫn. Đây là ba chương có nhiều mục chưa dịch hoặc chưa cập nhật nhất trước đợt này, lần lượt 21, 20 và 19 mục. Bài “Cơ thể nhận biết thời gian thế nào, và vì sao làm ca đêm gây hại” được đối chiếu đủ chín phần, bốn tiểu mục và năm kết quả thí nghiệm; giữ giới hạn bằng chứng từ thí nghiệm nhỏ và mô phỏng ca đêm. Tổng cộng 25 chương được rà soát đầy đủ: 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 23, 24, 27, 28, 30, 33 và 34. Xem `translation-checkpoint/vi-current/batch-9-report.json`.
+
+Bài viết dài: 7/9 bản nháp khớp nguồn và đã qua rà soát mới (hướng dẫn trước/sau sinh, sau thôi việc, phân tích giúp người lạ, sau chẩn đoán bệnh mạn tính, trang bị khẩn cấp, phân tích kết hôn và nhịp sinh học/ca đêm), 1/9 cần cập nhật, 1/9 chưa dịch. Nguồn bài trước/sau sinh chưa đổi, nên đợt 3 chỉ tăng số bài được rà soát; sáu bài còn lại được cập nhật theo nguồn mới. Lời dẫn: 25/34 khớp nguồn, 9/34 cần cập nhật. Hướng dẫn đọc vẫn cần cập nhật; không được bỏ qua những phần này khi đủ 765 mục.
 
 Ở mốc ban đầu, trong 554 mục thay đổi, có 404 mục đổi phần “Nói dễ hiểu”, 275 đổi “Lợi ích”, 364 đổi “Ghi chú”, 169 đổi “Nguồn”, 25 đổi “Chi phí” và 8 đổi “Mức độ bằng chứng”. Các nhóm chồng lấp. Cần dịch và soát những phần thay đổi trong ngữ cảnh cả mục, không mặc định dịch lại mọi câu cũ.
 
@@ -45,10 +47,10 @@ Kiểm tra hiện tại:
 
 - `python3 tools/check-vi.py`: đạt cho snapshot cũ 01/10/2026 — 137 lô, 4.103 đoạn, 43 tệp, 649 mục. Không dùng kết quả này để tuyên bố đã dịch xong nguồn mới.
 - `python3 tools/check-vi-site.py`: đạt độ phủ 34 chương, 765 mục và 9 bài dài, cùng nhãn trạng thái và liên kết nguồn.
-- `python3 tools/check-vi-updates.py`: 597 bản nháp đạt, 597 bản ghi rà soát độc lập hợp lệ (569 mục, 22 lời dẫn và sáu bài viết dài).
+- `python3 tools/check-vi-updates.py`: 674 bản nháp đạt, 674 bản ghi rà soát độc lập hợp lệ (642 mục, 25 lời dẫn và bảy bài viết dài).
 - `python3 tools/test-vi-updates.py`: 7 bài kiểm tra bảo vệ checkpoint đạt, gồm số liệu, URL, thiếu trường, cấu trúc bảng, thuật ngữ giữ nguyên và sửa sau rà soát.
 - Thử tiếp tục: 62 tệp bản nháp/rà soát giữ nguyên dấu kiểm sau khi chạy lại bước chuẩn bị.
-- Đợt 8 giữ nguyên từng byte của 1048 tệp bản nháp/rà soát đã có từ bảy đợt trước.
+- Đợt 9 giữ nguyên từng byte của 1194 tệp bản nháp/rà soát đã có từ tám đợt trước.
 - Trang đọc giữ cảnh báo cho phần chưa xử lý; nhãn lời dẫn lấy theo trạng thái thực tế.
 
 ## Kế hoạch và thời gian dự kiến
@@ -83,21 +85,21 @@ Các ô đã đánh dấu phản ánh việc đã thực hiện và có bằng c
 - [x] Hoàn thành lô thử, đối chiếu từng đoạn với nguồn và sửa hết lỗi; kiểm tra cấu trúc đạt. Kết quả lô thử được tính vào khối lượng chung.
 - [x] Thử dừng rồi tiếp tục một lô; xác nhận không mất bản đã rà soát, không ghi đè nhầm và không tăng tiến độ cho bản còn lỗi.
 - [x] Dựng trang thử với cả mục đã cập nhật và mục chưa xử lý; xác nhận nhãn trạng thái đúng, lời dẫn/bài dài được theo dõi, bản gốc và liên kết vẫn truy cập được.
-- [x] Ghi thời gian lô thử trong `translation-checkpoint/vi-current/pilot-report.json`. Tại thời điểm kết thúc lô thử, ước lượng được giữ ở 24–36 giờ với mốc mục tiêu 26/10/2026 vì thời gian chạy ba tác vụ song song không phải tổng giờ công và khi đó chưa thử bài dài. Ước lượng hiện tại sau đợt 8 được ghi bên dưới.
+- [x] Ghi thời gian lô thử trong `translation-checkpoint/vi-current/pilot-report.json`. Tại thời điểm kết thúc lô thử, ước lượng được giữ ở 24–36 giờ với mốc mục tiêu 26/10/2026 vì thời gian chạy ba tác vụ song song không phải tổng giờ công và khi đó chưa thử bài dài. Ước lượng hiện tại sau đợt 9 được ghi bên dưới.
 
 Chỉ bắt đầu dịch toàn bộ khi các mục trong hai nhóm “Cần hoàn tất” và “Cần đạt” đã được đánh dấu kèm kết quả kiểm tra. Không cần hoàn thành bản dịch toàn bộ để vượt qua checklist chuẩn bị này.
 
-**Ước lượng cho phần còn lại: 10–14 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Mức này được điều chỉnh từ 13–19 giờ theo khối lượng mục chưa rà soát giảm từ 265 xuống 196; đây là ước lượng kế hoạch, không phải tốc độ đã đo. Đợt 8 bổ sung bài phân tích kết hôn, nhưng các bài còn lại khác nhau về độ dài và độ khó. Thời gian chạy tác vụ song song không phải tổng giờ công. Mốc 26/10 vẫn là mục tiêu có điều kiện, không phải cam kết tự chạy nền.
+**Ước lượng cho phần còn lại: 6–9 giờ xử lý chủ động**, gồm dịch, đối chiếu, sửa lỗi và triển khai. Mức này được điều chỉnh từ 10–14 giờ theo khối lượng mục chưa rà soát giảm từ 196 xuống 123; đây là ước lượng kế hoạch, không phải tốc độ đã đo. Đợt 9 bổ sung bài về nhịp sinh học và ca đêm, nhưng các phần ngoài mục còn lại khác nhau về độ dài và độ khó. Thời gian chạy tác vụ song song không phải tổng giờ công. Mốc 26/10 vẫn là mục tiêu có điều kiện, không phải cam kết tự chạy nền.
 
-**Mục tiêu dự kiến: 26/10/2026**, nếu tiếp tục từ ngày 21/10 và dành khoảng 6 giờ xử lý chủ động mỗi ngày, không bị gián đoạn bởi giới hạn sử dụng. Bảng dưới là kế hoạch phần còn lại sau đợt 8; các ngày là dự kiến, không phải lịch chạy nền. Nếu phiên làm việc không tiếp tục hoặc phát sinh lỗi bảo toàn nội dung, ngày hoàn thành phải được tính lại theo số giờ còn lại.
+**Mục tiêu dự kiến: 26/10/2026**, nếu tiếp tục từ ngày 21/10 và dành khoảng 6 giờ xử lý chủ động mỗi ngày, không bị gián đoạn bởi giới hạn sử dụng. Bảng dưới là kế hoạch phần còn lại sau đợt 9; các ngày là dự kiến, không phải lịch chạy nền. Nếu phiên làm việc không tiếp tục hoặc phát sinh lỗi bảo toàn nội dung, ngày hoàn thành phải được tính lại theo số giờ còn lại.
 
 | Giai đoạn | Công việc và sản phẩm cần đạt | Ước lượng | Mốc dự kiến |
 |---|---|---:|---|
 | 1. Chuẩn bị và lô thử | Đã hoàn tất, giữ nguyên checkpoint và bộ kiểm tra | Đã xong | 20/10 |
-| 2. Bổ sung nội dung thiếu | Dịch 24 mục còn thiếu; rà soát song ngữ; lưu checkpoint sau từng lô | 1–2 giờ | 21–22/10 |
-| 3. Cập nhật bản cũ | Đối chiếu và sửa 135 mục; rà soát thêm 37 mục có nguồn chưa đổi | 5–7 giờ | 22–24/10 |
-| 4. Hoàn thiện phần ngoài mục | Dịch một bài dài còn thiếu, cập nhật hai bài dài, hướng dẫn đọc và 12 lời dẫn chương còn lại | 2–3 giờ | 25/10 |
-| 5. Rà soát và phát hành | Soát toàn bộ bản dịch theo nguồn; xử lý lỗi số liệu, ngưỡng, phủ định, liên kết; xác nhận thống kê; triển khai và kiểm tra trang thật | 2 giờ | 26/10 |
+| 2. Bổ sung nội dung thiếu | Dịch 15 mục còn thiếu; rà soát song ngữ; lưu checkpoint sau từng lô | 1 giờ | 21–22/10 |
+| 3. Cập nhật bản cũ | Đối chiếu và sửa 84 mục; rà soát thêm 24 mục có nguồn chưa đổi | 3–4 giờ | 22–24/10 |
+| 4. Hoàn thiện phần ngoài mục | Dịch một bài dài còn thiếu, cập nhật một bài dài, hướng dẫn đọc và 9 lời dẫn chương còn lại | 1–2 giờ | 25/10 |
+| 5. Rà soát và phát hành | Soát toàn bộ bản dịch theo nguồn; xử lý lỗi số liệu, ngưỡng, phủ định, liên kết; xác nhận thống kê; triển khai và kiểm tra trang thật | 1–2 giờ | 26/10 |
 
 Lô thử thuộc khối lượng 765 mục, không cộng thêm mục ngoài phạm vi. Ưu tiên trong từng giai đoạn: cấp cứu, thuốc, sức khỏe, thai sản và trẻ nhỏ; tiếp theo pháp luật, lao động, tiền bạc; sau đó các chủ đề còn lại.
 
@@ -116,13 +118,13 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 
 ## Danh sách theo chương
 
-“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau đợt 8 ngày 21/10/2026.
+“Khớp nguồn” gồm bản nháp có nguồn chưa đổi và bản cập nhật đã được rà soát theo nguồn đích. Các số được lấy từ dữ liệu trang dựng sau đợt 9 ngày 21/10/2026.
 
 | Chương | Tổng mục | Khớp nguồn | Cần cập nhật | Chưa dịch |
 |---|---:|---:|---:|---:|
 | 1. Đừng chết sớm | 48 | 48 | 0 | 0 |
 | 2. Đừng để mình chết dần | 47 | 47 | 0 | 0 |
-| 3. Đừng lãng phí sức lực | 27 | 6 | 18 | 3 |
+| 3. Đừng lãng phí sức lực | 27 | 27 | 0 | 0 |
 | 4. Đừng lãng phí thời gian | 18 | 9 | 9 | 0 |
 | 5. Đừng lãng phí tiền | 50 | 50 | 0 | 0 |
 | 6. Danh sách những việc tưởng lợi mà không lợi | 35 | 35 | 0 | 0 |
@@ -130,7 +132,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 8. Đừng tự vướng vào rắc rối: pháp luật và an toàn tài sản | 46 | 46 | 0 | 0 |
 | 9. Những ranh giới pháp luật người bình thường dễ vượt qua | 29 | 29 | 0 | 0 |
 | 10. Yêu và kết hôn có đáng không | 23 | 23 | 0 | 0 |
-| 11. Những ranh giới pháp luật mà lập trình viên và người làm kỹ thuật dễ vượt qua | 21 | 2 | 15 | 4 |
+| 11. Những ranh giới pháp luật mà lập trình viên và người làm kỹ thuật dễ vượt qua | 21 | 21 | 0 | 0 |
 | 12. Khởi nghiệp và kinh doanh: đừng mất cả tài sản gia đình | 28 | 28 | 0 | 0 |
 | 13. Tình huống khẩn cấp: làm gì trước | 48 | 48 | 0 | 0 |
 | 14. An toàn tài khoản và thông tin | 12 | 3 | 6 | 3 |
@@ -142,7 +144,7 @@ Cập nhật báo cáo sau mỗi lô đã rà soát: số mục mới hoàn thà
 | 20. Chăm trẻ mới sinh thế nào | 17 | 17 | 0 | 0 |
 | 21. Ra nước ngoài, du lịch và an toàn ở nước ngoài | 13 | 1 | 10 | 2 |
 | 22. Thư giãn thế nào: nơi giải trí và giảm căng thẳng | 12 | 1 | 9 | 2 |
-| 23. Học kỹ năng nào đáng công | 25 | 5 | 18 | 2 |
+| 23. Học kỹ năng nào đáng công | 25 | 25 | 0 | 0 |
 | 24. Khám chữa bệnh: bớt tốn tiền, bớt đi đường vòng | 15 | 15 | 0 | 0 |
 | 25. Những việc cần làm sau khi một người qua đời | 12 | 0 | 10 | 2 |
 | 26. Làm website hoặc nền tảng: điều kiện, đăng ký và máy chủ | 13 | 1 | 10 | 2 |

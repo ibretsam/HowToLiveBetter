@@ -1,0 +1,15 @@
+{
+  "id": "e-3-21",
+  "source_sha256": "aed625c9181b3397630ea84feab487060b6c22d89ea7b3799635c71184bab8fa",
+  "draft_sha256": "8ef09de8526162a265ba05a982ba19a6571d1fdf4f2689142ae4810113d14fff",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: all spotlight estimates, percentage points, CI, p values, ranking direction and questionnaire confound preserved; simple divide-two title remains qualified in notes as nonuniversal coefficient."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-23-16",
+  "source_sha256": "6c15dddb5aaec22f6d801fdf425517ea27e89c103329ebcccc19f6d03c20ce1c",
+  "draft_sha256": "bd3a866ab903feead8c616491b42f6c78b0b825233e3346374431b8fe0832523",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. All tenmethod tiers preserved, no absolute ban on highlighting, lowutility not zeroeffect, scope limitations and23.14/15 alternatives intact."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-11-19",
+  "source_sha256": "198803c3fa0ddfad2ab4e9b8af8f8d4698cf64a672df34fb3f0878bb358af41c",
+  "draft_sha256": "0c08dc54f19279d02a450cbd556b4fc357f335597ee5212ac37ef7256c41be11",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked all2026dates,37daycustody,the operator certainty of future conviction explicitly self-reported,no police/judgment/officialcharge. General crimecertainty explicitly denied;26.2,11.17,26.10,14.10references retained. No external current-law or news claims added."
+}

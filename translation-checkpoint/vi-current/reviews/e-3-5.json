@@ -1,0 +1,15 @@
+{
+  "id": "e-3-5",
+  "source_sha256": "906f119dfa8a3e0bb81f5c836b2af3e60b15e60fd6634ab53ae015a91d9669c2",
+  "draft_sha256": "87d8c90187fd6916e751bcc6065c7261f47240fb40a64fa11255d954fb70c10e",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: same-person two-week comparison, 3/15.5/d0.37, stress not productivity and inference to messaging preserved."
+}

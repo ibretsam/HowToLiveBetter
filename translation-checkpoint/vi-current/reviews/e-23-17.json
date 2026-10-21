@@ -1,0 +1,15 @@
+{
+  "id": "e-23-17",
+  "source_sha256": "f3d6b53a4707c6aa0f575f75b48aea3ca5cd2554373c2cf6fb2111888841509a",
+  "draft_sha256": "ed2e0596f09dbfd7823ff9ae9488b989d452bfaaaed42e780d80c007edda036b",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison.59studies238effects158samples,g0.42/0.67/0.34/−0.39 retained, nonsignificanttexts/taste and reversedvocabulary finding preserved. Categorysimilarity conditions and23.16 reference retained."
+}

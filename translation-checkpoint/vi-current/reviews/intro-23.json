@@ -1,0 +1,15 @@
+{
+  "id": "intro-23",
+  "source_sha256": "70801bec523d4afb628c36b67104696044616e5d68d15b6b504dac0fc7f26c1a",
+  "draft_sha256": "fcacb1522db6618ad52a8257fa237d15b26e57fe88ef94116e87aa7251a782d1",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of chaptertitle and allintroparagraphs. Allfive topicgroups and25entrypointers verified, sixinitial/sevenfollowing/sixlearning sections preserved, UK data versus lackofcomparableChinanumbers explicit. Clarified after graduating bachelor/master degree wording; no added claims."
+}

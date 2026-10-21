@@ -1,0 +1,15 @@
+{
+  "id": "e-23-24",
+  "source_sha256": "8657b31a3608022cc2794a04e4e58b950bb3e4c456966b88ee55090047e6a23d",
+  "draft_sha256": "fcd15189d18cd3f12ae77c22df474b5db156d310fb8329f5dee67a9f6294ad57",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. China2013tuition8000/subsidy6000,UK2020mid1990s–2000sdata at35,genderreturns2%/−2%,subject20%/inclusive10% decline all retained. Parttimelegalstatus,2016/2019/2021/2022/2025rules, aid exclusion and hiringpractice limits preserved; no currentlegalupdate."
+}

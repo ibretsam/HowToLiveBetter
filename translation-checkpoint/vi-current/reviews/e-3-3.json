@@ -1,0 +1,15 @@
+{
+  "id": "e-3-3",
+  "source_sha256": "f58c7a7752fa1fab17450168e4092b8cd7ad3c846a566a6277d3fd9801812a1a",
+  "draft_sha256": "f4b1140ed2c1e4da172b8a7c42faec3753581ccbc86ac659e639dfa815e50647",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: all sleep duration, sample, RCT and g values preserved; source description of 48 participants and two groups retained as written, not independently fact-checked."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-3-18",
+  "source_sha256": "70b7722bf1f6b015e6fcdc36770bc7a81a6769b3341d958d0f5e2344f57229a9",
+  "draft_sha256": "36e0242dfe316746f7ece6693064639d30bb4d919d8c866400412df0356f3389",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review:218/14170, exact effects/credible intervals, PHQ-9 >9 and inclusive18h hotline availability preserved. China context explicit. Source extrapolates specialized light therapy to outdoor sun, makes exercise intensity claim and separate mild/moderate-versus-severe guidance; all retained without independent clinical endorsement."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-23-3",
+  "source_sha256": "13d7b136b12ac14cccd673f29f04c3f5166f5b06bea4abc6b9fd91cc4fd8d479",
+  "draft_sha256": "a4f5cda1340cbe1c83266d2ffa1c7994e571ad8540c3aa8a235a369fd911511c",
+  "reviewer": "batch9_tech_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison. All2020census/2025sample population counts and derived19.4/32.2% retained; entirepopulation versus peers distinction, age inference and incompatible sampling/census bases remain explicit."
+}

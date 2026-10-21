@@ -1,0 +1,15 @@
+{
+  "id": "e-3-12",
+  "source_sha256": "419fde7fe8f922b62a1af6db6d44fa7553720c3d6c62b7a535f7a1112b6fd09b",
+  "draft_sha256": "d79b414541a6f148041a7cf9238f5a52878ce29f0514551ed59b9cd8e362252a",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 39/51dB LAeq, simulated student office, sound+video versus river/noise and untested headphones preserved."
+}

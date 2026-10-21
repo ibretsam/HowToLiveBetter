@@ -1,0 +1,15 @@
+{
+  "id": "e-3-25",
+  "source_sha256": "db6c4a2985ab390cfd908992cb38c96b4a02d7ac30424d0d0161747029ce87ff",
+  "draft_sha256": "060249f668f19eee0ab01d9a478228a3a06876e3a0e7f25c906270b924eb8c1a",
+  "reviewer": "root_batch9_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual comparison of all six fields. Corrected cost 十几 from open-ended more-than-ten to mười mấy. Preserves all80-trial/5820-participant ORs, absolute benefit/adverse-effect ranges,17-inclusive threshold,2024 NICE indications,normal imaging does not exclude disease,10-country diagnostic delay and Dutch productivity figures. Keeps60-inclusive caution,asthma/aspirin/pregnancy/anticoagulant warnings,low evidence quality and59% industry funding; cross-references34.3/5/1/9 intact. Source clinical simplifications retained, not independently endorsed."
+}

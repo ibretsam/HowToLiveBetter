@@ -1,0 +1,14 @@
+{
+  "id": "e-11-8",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "083544543ef5ee11f5960facb86e6aaf18d29fdd0cff78fa8b99c20aedc15768",
+  "translator": "batch9_tech",
+  "translation": {
+    "title": "Không chạy chương trình của mình trên máy tính, máy chủ, camera của người khác; không dùng máy công ty để đào tiền mã hóa",
+    "cost": "Không tốn tiền, cũng không mất thời gian.",
+    "plain": "Kiểm soát máy tính, máy chủ, camera của người khác khi chưa được phép, đạt 20 thiết bị thì bị phạt tù từ 3 năm trở xuống; đặc biệt nghiêm trọng là 3 đến 7 năm. Chưa đến mức phạm tội cũng bị tạm giữ hành chính từ 5 ngày trở xuống, còn có thể bị phạt 5 vạn đến 50 vạn nhân dân tệ. Người từng bị xử phạt hình sự vì việc này suốt đời không được làm vị trí then chốt trong quản lý an ninh mạng và vận hành mạng.",
+    "benefit": "Kiểm soát trái phép hệ thống thông tin máy tính, nếu nghiêm trọng, bị phạt tù từ 3 năm trở xuống, kèm hoặc chỉ phạt tiền; đặc biệt nghiêm trọng là 3 đến 7 năm. Kiểm soát trái phép từ 20 thiết bị trở lên được tính là ‘nghiêm trọng’. Nếu chưa đến mức phạm tội, công an tịch thu khoản thu lợi trái pháp luật, tạm giữ hành chính từ 5 ngày trở xuống và có thể phạt 5 vạn đến 50 vạn nhân dân tệ. Trường hợp nặng hơn bị tạm giữ hành chính 5 đến 15 ngày, có thể phạt 10 vạn đến 100 vạn nhân dân tệ. Người từng bị xử phạt về trị an không được làm vị trí then chốt trong quản lý an ninh mạng và vận hành mạng trong 5 năm; người từng bị xử phạt hình sự bị cấm suốt đời. Vụ án chính thức: Lý mua địa chỉ IP của camera mạng, dùng phần mềm kiểm soát 105 camera để nhìn trộm đời tư, bị phạt tù 3 năm, cho hưởng án treo với thời gian thử thách 5 năm và phạt tiền 2 vạn nhân dân tệ. Ngô và đồng phạm cài mã độc Trojan vào bo mạch điện thoại, kiểm soát hơn 330 vạn điện thoại để gửi mã xác minh về, bị phạt tù từ 2 năm đến 4 năm 6 tháng (toàn quốc).",
+    "notes": "Chưa tìm thấy vụ dùng máy chủ công ty đào tiền mã hóa do Viện Kiểm sát Nhân dân Tối cao hoặc Tòa án Nhân dân Tối cao công bố. Mục này được viết theo điều luật về ‘kiểm soát hệ thống của người khác khi chưa được phép’. ‘Suốt đời không được làm vị trí then chốt’ là hậu quả bổ sung trong Luật An ninh mạng, ngoài tiền phạt và hình phạt tù; với người làm kỹ thuật, hậu quả này nặng hơn tiền phạt.",
+    "extra": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e-3-10",
+  "source_sha256": "b02df425c612c4899272e7e01253f89768d7169b090f70323002279c88ab4d53",
+  "draft_sha256": "a58d7e6edadd6d41001ef79304233e4819366fcdfc5537c806ae750eee353c78",
+  "reviewer": "batch9_skills_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Full bilingual review: 34/49.5h extreme deprivation not ordinary late-night behavior; message-sending advice remains author experience levelC."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e-23-7",
+  "source_commit": "5f210ca953b7b538c042ad8515d5c355b766a194",
+  "source_sha256": "33485b2f6e964f0c4c05b385620a9c8fbcfabd255891336ea2ad5554ea7b9dfb",
+  "translator": "batch9_skills",
+  "translation": {
+    "title": "Ghi nhớ mốc tham chiếu: thêm một năm giáo dục có lợi ích cá nhân trung bình toàn cầu, tức phần vào thu nhập của bạn, khoảng 9% mỗi năm",
+    "cost": "Không tốn tiền. Ghi nhớ số này để cân nhắc các phương án “học thêm gì đó”.",
+    "plain": "Tính trung bình toàn cầu, thêm một năm học gắn với thu nhập cá nhân hằng năm cao hơn khoảng 9%; lợi ích của phụ nữ luôn cao hơn nam giới. Con số nói về đi học chính quy, không áp thẳng cho việc đăng ký một lớp. Có thể dùng làm mốc: khóa học tốn 3 vạn nhân dân tệ và nửa năm thì cần hỏi mức thay đổi thu nhập có tương xứng với học thêm một năm không.",
+    "benefit": "Một tổng quan bao phủ giai đoạn 1950 đến 2014, 139 quốc gia và 1120 ước tính đưa ra: “Tỷ suất lợi ích cá nhân trung bình toàn cầu của thêm một năm giáo dục là 9% mỗi năm”. Lợi ích cá nhân là phần vào thu nhập của chính người học: thêm một năm học, thu nhập trung bình cao hơn khoảng 9%. Lợi ích cá nhân của giáo dục bậc cao đang tăng. Lợi ích xã hội của giáo dục, tức phần thuộc về cả xã hội thay vì riêng người học, vẫn rất cao. Lợi ích trung bình từ giáo dục của phụ nữ liên tục cao hơn nam giới",
+    "notes": "Đây là mức trung bình toàn cầu của “thêm một năm học”, không thể coi là lợi ích của “đăng ký một lớp”, cũng không phải số riêng của Trung Quốc; chỉ dùng tham chiếu về mức độ. Nó giúp cân nhắc mọi phương án đào tạo. Khóa học tốn 3 vạn nhân dân tệ và nửa năm thì cần hỏi liệu có đem lại thay đổi thu nhập tương đương một năm giáo dục chính quy không. Trung bình toàn cầu còn che khuất chênh lệch rất lớn giữa ngành học và quốc gia",
+    "extra": ""
+  }
+}

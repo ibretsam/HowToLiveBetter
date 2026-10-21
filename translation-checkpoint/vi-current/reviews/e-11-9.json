@@ -1,0 +1,15 @@
+{
+  "id": "e-11-9",
+  "source_sha256": "de8656baa2e05a8d378e48c7124f887766e4355e5b57fe065b4ed2c357943032",
+  "draft_sha256": "3b6cf536c2eeb478590c2e6a7d75a8d27299da7c1ce27098933c4b8a7c840f16",
+  "reviewer": "batch9_health_review",
+  "status": "passed",
+  "checks": {
+    "meaning": true,
+    "numbers_and_units": true,
+    "conditions_and_negation": true,
+    "references": true,
+    "readability": true
+  },
+  "notes": "Independent full bilingual comparison of all prose fields; numbers, units, thresholds, negation, conditions, source uncertainty and references checked. Checked written scope/target/time permission,10financial/500othercredentials/20systems/5000income/1vanloss and5foldthresholds,37k proceeds,case36 examples. Corrected期货to futures contracts and removed modal softening of source administrative sanction. Good-faith author inference and media-only2016case kept distinct from established judgment."
+}

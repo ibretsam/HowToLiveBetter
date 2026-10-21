@@ -114,6 +114,13 @@ và 1 rà soát lại. Có 73 hồ sơ rà soát độc lập mới; báo cáo n
 đợt trước. Bài phân tích giữ đủ năm nhóm cân nhắc, bảy phần dữ liệu và danh
 sách tự điền; các giới hạn và bất nhất của nguồn được ghi ở hồ sơ rà soát.
 
+Đợt 9: toàn bộ 27 mục chương 3, 25 mục chương 23 và 21 mục chương 11,
+cộng ba lời dẫn và bài về nhịp sinh học/ca đêm. Tổng 73 mục: 9 mục mới,
+51 cập nhật và 13 rà soát lại. Có 77 hồ sơ rà soát độc lập mới; báo cáo nằm
+trong `batch-9-report.json`. Giữ nguyên 597 bản nháp và 597 hồ sơ rà soát
+của tám đợt trước. Bài dài giữ đủ chín phần, bốn tiểu mục và năm kết quả
+thí nghiệm; không đổi kết quả chỉ số trung gian thành khẳng định giảm tử vong.
+
 Không có dịch vụ dịch ngoài hoặc lịch chạy nền trong quy trình này. Tiến độ chỉ
 tăng theo bản dịch đã lưu, kiểm tra và rà soát hợp lệ. Khi gián đoạn, đọc inventory,
 kiểm tra các tệp đã có rồi nhận lô tiếp theo; không bắt đầu lại toàn bộ.
