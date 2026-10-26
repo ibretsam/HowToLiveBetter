@@ -27,7 +27,7 @@ Nội dung sách có thể lỗi thời hoặc có sai sót. Nhiều chính sác
 
 ### [Đọc bản tiếng Việt](https://ibretsam.github.io/HowToLiveBetter/) · [Để AI trả lời theo sách (skill)](skills/life-decision-guide/README.md)
 
-Skill của dự án gốc dùng nội dung tiếng Trung và hỗ trợ Claude Code, Codex. Sau khi cài, bạn có thể hỏi thẳng “Có nên ký bảo lãnh cho bạn không?”. Trợ lý sẽ tra mục trong sách trước khi trả lời, đồng thời ghi rõ nội dung đến từ chương nào, mục nào.
+Skill trong fork này đã có hướng dẫn tiếng Việt, tra các chương tiếng Việt và hỗ trợ Claude Code, Codex. Sau khi cài, bạn có thể hỏi thẳng “Có nên ký bảo lãnh cho bạn không?”. Trợ lý sẽ tra mục trong sách trước khi trả lời, đồng thời ghi rõ nội dung đến từ chương nào, mục nào.
 
 <table>
 <tr><td align="right"><b>Tải bản tiếng Trung</b></td><td align="left">
