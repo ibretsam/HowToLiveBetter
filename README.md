@@ -1,153 +1,169 @@
-> **Tiếng Việt:** [Đọc trên GitHub Pages](https://ibretsam.github.io/HowToLiveBetter/) · [Thông tin và tình trạng bản dịch](vi/TRANSLATION.md).
-> Fork này đồng bộ bản gốc đến ngày 20/10/2026. Trang đọc có đầy đủ 34 chương và các bài viết; mục chưa dịch hoặc chưa cập nhật đều được đánh dấu.
+> **Bản tiếng Việt chưa chính thức**, do [ibretsam](https://github.com/ibretsam/HowToLiveBetter) duy trì, chuyển ngữ từ tác phẩm của [eternity4719](https://github.com/eternity4719/HowToLiveBetter).
+> [Đọc bản tiếng Việt](https://ibretsam.github.io/HowToLiveBetter/) · [Thông tin bản dịch](vi/TRANSLATION.md) · [Đối chiếu README tiếng Trung](https://github.com/eternity4719/HowToLiveBetter/blob/e2605d3e2242bd6216c9255192b8a8957a08c55a/README.md).
+> Bản nháp do AI dịch, đã được rà soát theo nguồn ngày **21/10/2026**. Nội dung pháp luật, trợ cấp và số điện thoại theo bối cảnh Trung Quốc đại lục; tiền tính bằng nhân dân tệ trừ khi ghi rõ đơn vị khác.
 
 <div align="center">
 
-<img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">
+<img src="og.png" alt="Hướng dẫn sống tốt hơn với chi phí hợp lý — dùng ít tiền, thời gian và sức lực nhất để đổi lấy nhiều tuổi thọ, tiền bạc và tự do thân thể nhất" width="820">
 
-# 高性价比人生指南
+# Hướng dẫn sống tốt hơn với chi phí hợp lý
 
-讲怎么活得久、怎么少生病，出了意外怎么救。讲怎么少花冤枉钱，哪些事会让人被骗、摊上官司。讲没工作没钱时能去领什么，开店、开公司、做网站要办什么手续。也讲恋爱结婚生孩子、出国和学手艺。法律、医保、社保这些制度上的内容，按中国大陆的现行规定写。<br>
-767 条建议，每条写明花掉什么、换回什么、证据有多硬，来源只引期刊论文和官方文件，少数官方不公开的案件引署名的原创新闻报道并附网页存档。
+Sách nói về cách sống lâu, ít mắc bệnh và ứng cứu khi có tai nạn. Sách nói về cách tránh chi tiền oan, những việc dễ khiến bạn bị lừa hoặc vướng kiện tụng. Sách chỉ ra những khoản có thể nhận khi thất nghiệp, thiếu tiền, và thủ tục cần làm khi mở cửa hàng, công ty hay website. Sách cũng nói về yêu đương, kết hôn, sinh con, ra nước ngoài và học nghề. Nội dung về pháp luật, bảo hiểm y tế, bảo hiểm xã hội và các cơ chế tương tự được viết theo quy định hiện hành tại Trung Quốc đại lục.<br>
+767 lời khuyên, mỗi mục ghi rõ phải bỏ ra gì, nhận lại gì và bằng chứng vững đến đâu. Nguồn chỉ dẫn bài báo khoa học và văn bản chính thức; một số ít vụ việc không được cơ quan chức năng công khai dùng bài báo gốc có tên phóng viên, kèm bản lưu trang web.
 
-不用全做：这是一份备选单，不是任务清单——挑走一两条就算数，作者自己也没做到其中大部分。
+Không cần làm hết: đây là danh sách để lựa chọn, không phải danh sách nhiệm vụ. Chọn được một hai mục cũng có ích; bản thân tác giả chưa làm được phần lớn những điều trong sách.
 
-书里的内容可能过时，也可能有错。不少政策各地执行不一样。真去办事、看病、打官司时，以当地部门、医生和律师的说法为准。发现写错了，欢迎[提 issue](https://github.com/eternity4719/HowToLiveBetter/issues)。
+Nội dung sách có thể lỗi thời hoặc có sai sót. Nhiều chính sách được thực hiện khác nhau ở từng địa phương. Khi thực sự làm thủ tục, khám chữa bệnh hay kiện tụng, hãy theo hướng dẫn của cơ quan địa phương, bác sĩ và luật sư. Nếu phát hiện sai sót, bạn có thể [báo lỗi nội dung gốc](https://github.com/eternity4719/HowToLiveBetter/issues) hoặc [báo lỗi bản dịch](https://github.com/ibretsam/HowToLiveBetter/issues).
 
-**电子书平台上的官方版本由果麦文化独家出品**，2026 年 10 月上架，其他版本都不是官方的。本页的网页版、EPUB、PDF 照旧免费，更新也最快。
+**Phiên bản tiếng Trung chính thức trên các nền tảng sách điện tử do Guomai Culture độc quyền phát hành**, lên kệ tháng 10 năm 2026; các phiên bản khác đều không phải bản chính thức. Bản web, EPUB và PDF của dự án gốc vẫn miễn phí và được cập nhật nhanh nhất.
 
-[![在线检索](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E6%A3%80%E7%B4%A2-%E7%82%B9%E8%BF%99%E9%87%8C%E6%89%93%E5%BC%80-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
-[![条目](https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-767%20%E6%9D%A1-18794e?style=flat-square)](#目录)
-[![证据分级](https://img.shields.io/badge/%E8%AF%81%E6%8D%AE%E5%88%86%E7%BA%A7-A%20495%20%C2%B7%20B%20220%20%C2%B7%20C%2052-915930?style=flat-square)](#证据分级)
-[![原始文献](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-2531%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](docs/核实记录/)
-[![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY%204.0-565a5f?style=flat-square)](#许可)
-[![Claude Code 协助编写](https://img.shields.io/badge/Claude%20Code-%E5%8D%8F%E5%8A%A9%E7%BC%96%E5%86%99-D97757?style=flat-square&logo=claude&logoColor=white)](https://claude.com/claude-code)
+[![Tra cứu trực tuyến](https://img.shields.io/badge/Tra%20c%E1%BB%A9u-Ti%E1%BA%BFng%20Vi%E1%BB%87t-3451b2?style=flat-square)](https://ibretsam.github.io/HowToLiveBetter/)
+[![Các mục](https://img.shields.io/badge/S%E1%BB%91%20m%E1%BB%A5c-767-18794e?style=flat-square)](#mục-lục)
+[![Mức độ bằng chứng](https://img.shields.io/badge/B%E1%BA%B1ng%20ch%E1%BB%A9ng-A%20495%20%C2%B7%20B%20220%20%C2%B7%20C%2052-915930?style=flat-square)](#mức-độ-bằng-chứng)
+[![Tài liệu gốc](https://img.shields.io/badge/Li%C3%AAn%20k%E1%BA%BFt%20ngu%E1%BB%93n-2531-565a5f?style=flat-square)](docs/核实记录/)
+[![Giấy phép](https://img.shields.io/badge/Gi%E1%BA%A5y%20ph%C3%A9p-CC%20BY%204.0-565a5f?style=flat-square)](#giấy-phép)
+[![Biên soạn với sự hỗ trợ của Claude Code](https://img.shields.io/badge/Claude%20Code-H%E1%BB%97%20tr%E1%BB%A3%20bi%C3%AAn%20so%E1%BA%A1n-D97757?style=flat-square)](https://claude.com/claude-code)
 
-### [打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/) · [让 AI 照书回答（skill）](skills/life-decision-guide/README.md)
+### [Đọc bản tiếng Việt](https://ibretsam.github.io/HowToLiveBetter/) · [Để AI trả lời theo sách (skill)](skills/life-decision-guide/README.md)
 
-AI 助手 skill 支持 Claude Code 和 Codex。装上后直接问「替朋友担保签不签」，它先查书里的条目再回答，并注明出自第几节第几条。
+Skill của dự án gốc dùng nội dung tiếng Trung và hỗ trợ Claude Code, Codex. Sau khi cài, bạn có thể hỏi thẳng “Có nên ký bảo lãnh cho bạn không?”. Trợ lý sẽ tra mục trong sách trước khi trả lời, đồng thời ghi rõ nội dung đến từ chương nào, mục nào.
 
 <table>
-<tr><td align="right"><b>下载</b></td><td align="left">
+<tr><td align="right"><b>Tải bản tiếng Trung</b></td><td align="left">
 
-[PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf) · [EPUB](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub) · [离线单文件（HTML）](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html) · [Anki 牌组](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.apkg)
-
-</td></tr>
-<tr><td align="right"><b>查阅</b></td><td align="left">
-
-[目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/)
+[PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf) · [EPUB](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub) · [Một tệp ngoại tuyến (HTML)](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html) · [Bộ thẻ Anki](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.apkg)
 
 </td></tr>
-<tr><td align="right"><b>自查</b></td><td align="left">
+<tr><td align="right"><b>Tra cứu</b></td><td align="left">
 
-[生活自查](https://eternity4719.github.io/HowToLiveBetter/selfcheck.html)：回答几十道是否题，看看书里哪些事你还没做到、先做哪几件
-
-</td></tr>
-<tr><td align="right"><b>长文</b></td><td align="left">
-
-[结婚划不划算](docs/结婚划不划算.md) · [家庭应急装备清单](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停](docs/遇到陌生人出事该不该停.md) · [做平台要办哪些证](docs/做平台要办哪些证.md) · [生物钟和夜班](docs/生物钟和夜班.md) · [被裁了之后先做什么](docs/被裁了之后先做什么.md) · [孩子出生前后要办的事](docs/孩子出生前后要办的事.md) · [刚确诊慢性病之后](docs/刚确诊慢性病之后.md) · [换工作、换城市之前](docs/换工作、换城市之前.md)
+[Mục lục](#mục-lục) · [Bảng thuật ngữ](#hiểu-các-con-số-bảng-thuật-ngữ) · [Hồ sơ kiểm chứng](docs/核实记录/)
 
 </td></tr>
-<tr><td align="right"><b>交流</b></td><td align="left">
+<tr><td align="right"><b>Tự kiểm tra (tiếng Trung)</b></td><td align="left">
 
-[QQ 群 582670354](https://qm.qq.com/q/P1RNw3Rnqg)（点击加群）
-
-</td></tr>
-<tr><td align="right"><b>其他语言</b></td><td align="left">
-
-[English](https://book.dlgrv.com/en/) · [Русский](https://book.dlgrv.com/ru/) · [Español](https://book.dlgrv.com/es/) · [Português](https://book.dlgrv.com/pt/) · [العربية](https://book.dlgrv.com/ar/) · [Bahasa Indonesia](https://book.dlgrv.com/id/)，[dlgrv](https://github.com/dlgrv) 维护的翻译（[仓库](https://github.com/dlgrv/HowToLiveBetter)）
-
-[English（The Evidence-Based Life）](https://parveen0029.github.io/The-Evidence-Based-Life/)，[parveen0029](https://github.com/parveen0029) 维护的另一份英文翻译（[仓库](https://github.com/parveen0029/The-Evidence-Based-Life)）
-
-[Tiếng Việt](https://chuanman2707.github.io/HowToLiveBetter/)，[chuanman2707](https://github.com/chuanman2707) 维护的越南语翻译（[仓库](https://github.com/chuanman2707/HowToLiveBetter)）
+[Tự kiểm tra cuộc sống](https://eternity4719.github.io/HowToLiveBetter/selfcheck.html): trả lời vài chục câu hỏi có/không để xem điều gì trong sách bạn chưa thực hiện và nên làm việc nào trước.
 
 </td></tr>
-<tr><td align="right"><b>衍生工具</b></td><td align="left">
+<tr><td align="right"><b>Bài dài</b></td><td align="left">
 
-读者做的网站、App、小程序、浏览器插件和数据集，见[衍生项目](衍生项目.md)
+[Kết hôn có đáng không](https://ibretsam.github.io/HowToLiveBetter/#doc-ket-hon-co-dang-khong) · [Danh sách trang bị khẩn cấp cho gia đình](https://ibretsam.github.io/HowToLiveBetter/#doc-danh-sach-do-dung-khan-cap) · [Gặp người lạ gặp nạn có nên dừng lại](https://ibretsam.github.io/HowToLiveBetter/#doc-co-nen-dung-lai-giup-nguoi-la) · [Làm nền tảng cần những giấy phép nào](https://ibretsam.github.io/HowToLiveBetter/#doc-giay-phep-cho-nen-tang) · [Nhịp sinh học và ca đêm](https://ibretsam.github.io/HowToLiveBetter/#doc-dong-ho-sinh-hoc-va-ca-dem) · [Sau khi bị cho thôi việc, cần làm gì trước](https://ibretsam.github.io/HowToLiveBetter/#doc-viec-can-lam-khi-bi-sa-thai) · [Những việc cần làm trước và sau khi con ra đời](https://ibretsam.github.io/HowToLiveBetter/#doc-viec-can-lam-truoc-va-sau-khi-sinh-con) · [Vừa được chẩn đoán bệnh mạn tính](https://ibretsam.github.io/HowToLiveBetter/#doc-sau-chan-doan-benh-man-tinh) · [Trước khi đổi việc, chuyển thành phố](https://ibretsam.github.io/HowToLiveBetter/#doc-truoc-khi-doi-viec-chuyen-thanh-pho)
+
+</td></tr>
+<tr><td align="right"><b>Trao đổi</b></td><td align="left">
+
+[Nhóm QQ 582670354](https://qm.qq.com/q/P1RNw3Rnqg) (nhấn để tham gia nhóm)
+
+</td></tr>
+<tr><td align="right"><b>Ngôn ngữ khác</b></td><td align="left">
+
+[English](https://book.dlgrv.com/en/) · [Русский](https://book.dlgrv.com/ru/) · [Español](https://book.dlgrv.com/es/) · [Português](https://book.dlgrv.com/pt/) · [العربية](https://book.dlgrv.com/ar/) · [Bahasa Indonesia](https://book.dlgrv.com/id/), các bản dịch do [dlgrv](https://github.com/dlgrv) duy trì ([kho mã](https://github.com/dlgrv/HowToLiveBetter))
+
+[English (The Evidence-Based Life)](https://parveen0029.github.io/The-Evidence-Based-Life/), một bản dịch tiếng Anh khác do [parveen0029](https://github.com/parveen0029) duy trì ([kho mã](https://github.com/parveen0029/The-Evidence-Based-Life))
+
+[Tiếng Việt](https://chuanman2707.github.io/HowToLiveBetter/), bản dịch tiếng Việt do [chuanman2707](https://github.com/chuanman2707) duy trì ([kho mã](https://github.com/chuanman2707/HowToLiveBetter))
+
+</td></tr>
+<tr><td align="right"><b>Công cụ phái sinh</b></td><td align="left">
+
+Website, ứng dụng, ứng dụng nhỏ, tiện ích trình duyệt và bộ dữ liệu do độc giả làm được liệt kê tại [Dự án phái sinh](衍生项目.md).
 
 </td></tr>
 </table>
 
-<sub>其他语言和衍生工具由他人维护，内容可能落后，以本仓库中文原文为准。</sub>
+<sub>Các ngôn ngữ khác và công cụ phái sinh do người khác duy trì, nội dung có thể chậm cập nhật; hãy lấy [nguyên bản tiếng Trung](https://github.com/eternity4719/HowToLiveBetter/blob/e2605d3e2242bd6216c9255192b8a8957a08c55a/README.md) làm chuẩn.</sub>
 
 </div>
 
 ---
 
-## 这本书想回答的问题
+## Những câu hỏi cuốn sách muốn trả lời
 
-| 问题 | 去哪看 |
+| Câu hỏi | Xem ở đâu |
 | --- | --- |
-| 几乎不花钱，就能明显降低早死概率的事有哪些？ | [1. 不要早死](book/01-不要早死.md) |
-| 抽烟、喝酒、久坐、熬夜到底折寿多少，烟和酒具体怎么戒，家常食用油怎么选怎么用？ | [2. 不要慢慢死](book/02-不要慢慢死.md) |
-| 每天精力不够用、总被打断，怎么改？ | [3. 不要浪费精力](book/03-不要浪费精力.md) |
-| 时间都花哪去了，怎么少做无收益的事，拖延怎么治？ | [4. 不要浪费时间](book/04-不要浪费时间.md) |
-| 攒下的钱该怎么放，才不被利息、费率和骗局吃掉，买车怎么不被坑？ | [5. 不要浪费钱](book/05-不要浪费钱.md) |
-| 哪些保健品、体检套餐、智商税可以直接不买？ | [6. 反面清单](book/06-反面清单.md) |
-| 失业了、被欠薪了、身上没钱了，能领什么、去哪求助？ | [7. 没钱的时候怎么活](book/07-没钱的时候怎么活.md) |
-| 彩礼、婚前房产、恋爱期间的大额转账算谁的，被人报案指控或捏造事实举报时第一步做什么，自己惹了事主动去说能减多少刑，事后能不能追究和索赔？ | [8. 法律与财产安全](book/08-别把自己搭进去.md) |
-| 哪些「兼职」和顺手的小事会让普通人变成刑事被告？ | [9. 普通人容易踩的法律红线](book/09-普通人容易踩的法律红线.md) |
-| 追人该广撒网还是死磕一个，异地恋能不能成，领证要带什么，只摆酒不领证算不算夫妻？ | [10. 恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md) |
-| 写哪些代码、接哪些单会被判刑？ | [11. 程序员和技术人容易踩的红线](book/11-程序员和技术人容易踩的红线.md) |
-| 借钱开店、开公司之前最该先想清楚什么？ | [12. 创业与做生意](book/12-创业与做生意.md) |
-| 有人倒地没了呼吸、大出血、火灾、迷路，先做什么？ | [13. 紧急情况：先做什么](book/13-紧急情况.md) |
-| 账号被盗、手机丢了，第一步做什么？ | [14. 账号与信息安全](book/14-账号与信息安全.md) |
-| 押金被扣、房东赶人、长租公寓暴雷怎么办，买期房钱该打到哪、交房晚了怎么办、房贷利率能不能往下谈，想搬去乡下住能不能买农村的房？ | [15. 租房与买房](book/15-租房与买房.md) |
-| 确诊慢性病之后，长期该怎么管、怎么少花钱？ | [16. 得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md) |
-| 老人的监护、遗嘱和钱该怎么提前安排？ | [17. 家里有老人](book/17-家里有老人.md) |
-| 生孩子能领什么、要占掉多少时间和钱？ | [18. 养孩子划不划算](book/18-养孩子划不划算.md) |
-| 加班费、年休假该怎么算，被裁该拿多少补偿，上班受了伤怎么认定和拿钱？ | [19. 在职、离职和工伤](book/19-在职离职和工伤.md) |
-| 孩子刚出生，最要紧的几件事是什么？ | [20. 刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md) |
-| 哪些国家现在别去，出事了使领馆管到哪一步？ | [21. 出国、旅行与境外安全](book/21-出国旅行与境外安全.md) |
-| 去 KTV、网吧、密室怎么不踩坑，压力大时做什么最有用？ | [22. 怎么放松：娱乐场所和减压](book/22-怎么放松.md) |
-| 学电焊、学英语、考证，哪些真的回本，怎么学才省时间，职称从哪里报、值不值，要不要接着读硕士、博士？ | [23. 学什么技能划算](book/23-学什么技能划算.md) |
-| 同一个病在社区看和在三级医院看差多少钱，伤得很重时是挂号排队还是找急诊分诊台，治完要不要做伤残鉴定、办残疾人证，种一颗牙该花多少钱、医保报不报？ | [24. 看病：怎么少花钱少走弯路](book/24-看病.md) |
-| 家里人走了，当时先做什么、哪些钱能取回来、哪些费用可以不交？ | [25. 人走了以后要办什么](book/25-人走了以后要办什么.md) |
-| 做个网站或平台收钱，要办哪些证、服务器放哪？ | [26. 做一个网站或平台](book/26-做一个网站或平台.md) |
-| 怀孕了、要生了，什么时候做什么，出院前要办哪些证？ | [27. 怀孕和生产](book/27-怀孕和生产.md) |
-| 想减肥、想变好看、想矫正牙齿，哪些做法会把身体搞坏？ | [28. 别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md) |
-| 亲人走了、被裁了、拿到重病诊断，头几个月最要紧的是什么？ | [29. 遭遇重大打击之后](book/29-遭遇重大打击之后.md) |
-| 孩子上学以后，哪些身体和心理的事不能等到考完再说？ | [30. 上学以后的孩子](book/30-上学以后的孩子.md) |
-| 十八岁之后除了读书和打工还有哪几条路，各自的门槛是什么？ | [31. 十八岁之后有哪几条路](book/31-十八岁之后有哪几条路.md) |
-| 出国留学，签证身份怎么才算没断，回国这张文凭认不认？ | [32. 出国留学：身份、打工、保险和回国认证](book/32-出国留学.md) |
-| 自己或者家人残疾了，先防住哪些并发症，能申请哪些补贴，上学就业和监护怎么办？ | [33. 残疾之后怎么活](book/33-残疾之后怎么活.md) |
-| 感冒药、退烧药、胃药自己买来吃，哪些不能一起吃，孩子、孕妇和老人要避开哪些？ | [34. 家里的常备药别吃出事](book/34-家里的常备药别吃出事.md) |
+| Những việc nào gần như không tốn tiền mà có thể giảm rõ rệt xác suất tử vong sớm? | [1. Đừng chết sớm](https://ibretsam.github.io/HowToLiveBetter/#sec-1) |
+| Hút thuốc, uống rượu, ngồi lâu và thức khuya thực sự làm giảm tuổi thọ bao nhiêu; cụ thể cai thuốc, cai rượu thế nào; chọn và dùng dầu ăn trong nhà ra sao? | [2. Đừng để mình chết dần](https://ibretsam.github.io/HowToLiveBetter/#sec-2) |
+| Mỗi ngày không đủ sức lực, luôn bị gián đoạn thì thay đổi thế nào? | [3. Đừng lãng phí sức lực](https://ibretsam.github.io/HowToLiveBetter/#sec-3) |
+| Thời gian đi đâu hết, làm sao bớt những việc không mang lại lợi ích và khắc phục trì hoãn? | [4. Đừng lãng phí thời gian](https://ibretsam.github.io/HowToLiveBetter/#sec-4) |
+| Nên giữ tiền tiết kiệm thế nào để tránh mất vào lãi, phí và lừa đảo; mua xe làm sao tránh bị lừa? | [5. Đừng lãng phí tiền](https://ibretsam.github.io/HowToLiveBetter/#sec-5) |
+| Những thực phẩm bổ sung, gói khám sức khỏe và món đánh vào sự cả tin nào có thể bỏ qua? | [6. Danh sách những việc tưởng lợi mà không lợi](https://ibretsam.github.io/HowToLiveBetter/#sec-6) |
+| Thất nghiệp, bị nợ lương, hết tiền thì có thể nhận khoản gì và tìm trợ giúp ở đâu? | [7. Sống thế nào khi không có tiền](https://ibretsam.github.io/HowToLiveBetter/#sec-7) |
+| Tiền sính lễ, nhà mua trước hôn nhân và khoản chuyển tiền lớn khi yêu thuộc về ai; khi bị tố cáo với công an hoặc bị bịa chuyện báo cáo thì làm gì trước; gây chuyện rồi chủ động khai báo được giảm án bao nhiêu; về sau có thể yêu cầu truy cứu và bồi thường không? | [8. An toàn pháp luật và tài sản](https://ibretsam.github.io/HowToLiveBetter/#sec-8) |
+| Những “việc làm thêm” và việc tiện tay nào có thể biến người bình thường thành bị cáo hình sự? | [9. Những ranh giới pháp luật người bình thường dễ vượt qua](https://ibretsam.github.io/HowToLiveBetter/#sec-9) |
+| Khi tìm người yêu nên mở rộng cơ hội hay chỉ kiên trì với một người; yêu xa có thành không; đăng ký kết hôn cần mang gì; chỉ tổ chức tiệc mà không đăng ký có được tính là vợ chồng không? | [10. Yêu và kết hôn có đáng không](https://ibretsam.github.io/HowToLiveBetter/#sec-10) |
+| Viết mã gì, nhận công việc gì có thể bị kết án? | [11. Những giới hạn lập trình viên và người làm kỹ thuật dễ vi phạm](https://ibretsam.github.io/HowToLiveBetter/#sec-11) |
+| Trước khi vay tiền mở cửa hàng, công ty, cần nghĩ rõ điều gì nhất? | [12. Khởi nghiệp và kinh doanh](https://ibretsam.github.io/HowToLiveBetter/#sec-12) |
+| Có người ngã xuống ngừng thở, chảy máu nhiều, gặp hỏa hoạn hoặc lạc đường thì làm gì trước? | [13. Tình huống khẩn cấp: làm gì trước](https://ibretsam.github.io/HowToLiveBetter/#sec-13) |
+| Tài khoản bị chiếm, mất điện thoại thì làm gì trước? | [14. An toàn tài khoản và thông tin](https://ibretsam.github.io/HowToLiveBetter/#sec-14) |
+| Bị giữ tiền cọc, chủ nhà đuổi, công ty cho thuê dài hạn vỡ nợ thì làm sao; mua nhà đang xây phải chuyển tiền vào đâu, chậm bàn giao thì làm gì, có thể thương lượng giảm lãi vay nhà không; muốn về nông thôn sống có được mua nhà ở đó không? | [15. Thuê và mua nhà](https://ibretsam.github.io/HowToLiveBetter/#sec-15) |
+| Sau khi được chẩn đoán bệnh mạn tính, nên quản lý lâu dài thế nào và giảm chi phí ra sao? | [16. Sống thế nào sau khi mắc bệnh mạn tính](https://ibretsam.github.io/HowToLiveBetter/#sec-16) |
+| Nên chuẩn bị trước thế nào về giám hộ, di chúc và tiền của người cao tuổi? | [17. Trong nhà có người cao tuổi](https://ibretsam.github.io/HowToLiveBetter/#sec-17) |
+| Sinh con được nhận gì, chiếm bao nhiêu thời gian và tiền bạc? | [18. Nuôi con có đáng không](https://ibretsam.github.io/HowToLiveBetter/#sec-18) |
+| Tiền làm thêm giờ, phép năm tính thế nào; bị cho thôi việc được bồi thường bao nhiêu; bị thương khi làm việc thì xác nhận và nhận tiền thế nào? | [19. Đang làm việc, nghỉ việc và tai nạn lao động](https://ibretsam.github.io/HowToLiveBetter/#sec-19) |
+| Con vừa ra đời, những việc nào quan trọng nhất? | [20. Chăm trẻ mới sinh thế nào](https://ibretsam.github.io/HowToLiveBetter/#sec-20) |
+| Hiện nên tránh đến những nước nào; gặp chuyện thì cơ quan đại diện ngoại giao, lãnh sự hỗ trợ đến đâu? | [21. Ra nước ngoài, du lịch và an toàn ở nước ngoài](https://ibretsam.github.io/HowToLiveBetter/#sec-21) |
+| Đi karaoke, quán internet, chơi trò thoát khỏi phòng kín làm sao tránh rắc rối; căng thẳng nhiều thì làm gì hữu ích nhất? | [22. Cách thư giãn: cơ sở giải trí và giảm căng thẳng](https://ibretsam.github.io/HowToLiveBetter/#sec-22) |
+| Học hàn, tiếng Anh, thi chứng chỉ nào thực sự thu hồi được chi phí; học thế nào cho tiết kiệm thời gian; đăng ký chức danh chuyên môn ở đâu, có đáng không; có nên học tiếp thạc sĩ, tiến sĩ? | [23. Học kỹ năng nào cho đáng](https://ibretsam.github.io/HowToLiveBetter/#sec-23) |
+| Cùng một bệnh, khám ở cơ sở cộng đồng và bệnh viện cấp ba chênh bao nhiêu tiền; bị thương nặng nên xếp hàng đăng ký hay đến bàn phân loại cấp cứu; điều trị xong có cần giám định thương tật, làm giấy chứng nhận khuyết tật; trồng một răng tốn bao nhiêu, bảo hiểm có trả không? | [24. Khám chữa bệnh: giảm chi phí và bớt đi vòng](https://ibretsam.github.io/HowToLiveBetter/#sec-24) |
+| Người nhà qua đời, ngay lúc đó làm gì trước, khoản tiền nào lấy lại được, chi phí nào có thể không trả? | [25. Những việc cần làm sau khi một người qua đời](https://ibretsam.github.io/HowToLiveBetter/#sec-25) |
+| Làm website hoặc nền tảng thu tiền cần giấy phép gì, đặt máy chủ ở đâu? | [26. Làm một website hoặc nền tảng](https://ibretsam.github.io/HowToLiveBetter/#sec-26) |
+| Mang thai, sắp sinh thì lúc nào làm việc gì; trước khi ra viện phải làm giấy tờ nào? | [27. Mang thai và sinh nở](https://ibretsam.github.io/HowToLiveBetter/#sec-27) |
+| Muốn giảm cân, đẹp hơn, chỉnh răng thì cách nào có thể làm hại cơ thể? | [28. Đừng vì ngoại hình mà làm hại cơ thể](https://ibretsam.github.io/HowToLiveBetter/#sec-28) |
+| Người thân qua đời, bị cho thôi việc, nhận chẩn đoán bệnh nặng thì những tháng đầu cần chú ý điều gì nhất? | [29. Sau một cú sốc lớn](https://ibretsam.github.io/HowToLiveBetter/#sec-29) |
+| Sau khi con đi học, những vấn đề thể chất và tâm lý nào không thể đợi thi xong mới xử lý? | [30. Trẻ sau khi đi học](https://ibretsam.github.io/HowToLiveBetter/#sec-30) |
+| Sau mười tám tuổi, ngoài đi học và làm thuê còn những con đường nào, điều kiện mỗi con đường là gì? | [31. Những con đường sau tuổi mười tám](https://ibretsam.github.io/HowToLiveBetter/#sec-31) |
+| Đi du học thì thế nào mới không bị gián đoạn tư cách lưu trú; về nước bằng cấp có được công nhận không? | [32. Du học: tư cách lưu trú, làm thêm, bảo hiểm và công nhận bằng khi về nước](https://ibretsam.github.io/HowToLiveBetter/#sec-32) |
+| Bản thân hoặc người nhà bị khuyết tật thì phòng biến chứng nào trước, được xin trợ cấp gì, xử lý việc học, việc làm và giám hộ thế nào? | [33. Sống thế nào sau khi bị khuyết tật](https://ibretsam.github.io/HowToLiveBetter/#sec-33) |
+| Tự mua thuốc cảm, hạ sốt, dạ dày thì loại nào không dùng chung, trẻ em, phụ nữ mang thai và người cao tuổi cần tránh loại nào? | [34. Đừng để thuốc dự trữ trong nhà gây hại](https://ibretsam.github.io/HowToLiveBetter/#sec-34) |
 
-## 怎么读
+## Cách đọc
 
-- **不用全做**：这是一份备选单，不是任务清单。挑走一两条就算数，剩下的放着，需要时再回来查。「说着容易做着难」这个评价是对的——作者自己也没做到其中大部分，写下来是为了要用的时候找得到。想挑省力的，看下面「只想看最值得做的」那条。
-- **想让 AI 帮你查**：仓库里带了一个中文 skill（[skills/life-decision-guide](skills/life-decision-guide/)），Claude Code 和 Codex 都能装。装上以后直接问「替朋友担保签不签」「每天通勤两小时值不值」。它会先把相关条目从正文里查出来，再照书里的算账方式排序回答，并注明出自第几节第几条。查不到就说查不到，不自己编数字。装法见 [那个目录的说明](skills/life-decision-guide/README.md)。
-- **想按条件挑**：打开[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)，可以按关键词、章节、证据等级来筛，也可以按「花不花钱、花多少时间、要不要毅力」这三样筛，几个条件能叠着用。页面上的内容直接取自 book/ 目录里的正文，正文一改，页面跟着改。
-- **条目之间会互相指路**（「见第 8 节第 17 条」这种）：在检索页里，这种指路带一条虚线。点一下，就地显示被指的那条的标题和「说人话」。想真的翻过去，再按「跳过去」。那一条正好被筛选条件藏起来了，页面会自动把筛选清掉。在 GitHub 上直接读正文点不动，但每处指路后面都写着指向什么（「见第 18 条（借钱写清借条）」）。不翻过去也知道说的是哪条。
-- **想按顺序读**：每节内的先后顺序不代表性价比高低。条目多的节开头有一段分组导览，按主题挑着看就行。
-- **想离线看、想发给别人**：下载 [离线单文件 HTML](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html)，整本书连同检索和筛选都在这一个文件里，双击就开，不用服务器也不用联网，微信里也能直接传。
-- **想打印或在手机上翻**：下载 [PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf)，A4 排版、两百多页，带目录页码和书签，每节另起一页。
-- **想在 Kindle 或其他阅读器上读**：下载 [EPUB 电子书](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub)，Kindle 用 Send to Kindle 发过去即可。
-- **想记住、隔几天复习一遍**：下载 [Anki 牌组](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.apkg)，用 Anki 打开就导入。一条一张卡，按节分成子牌组。正面是建议，背面是说人话、成本和证据等级。可以只学其中几节，也可以按「性价比极高」这类标签筛。以后重新下载再导入一次，卡片内容会更新，复习记录不丢。
-- **这四样都是正文每次更新后自动重新生成的**，下载链接固定不变；转发出去的那一份不会跟着更新，以在线版为准。
-- **看不懂那串数字**：每条都有一行「说人话」。它把「收益」栏里那些研究里的写法，翻成「同期死亡的概率低约两成」「拘留几日、罚多少钱」这样的日常说法。它只用「收益」栏已经写到的内容，不添新数字。只看这一行就够拿主意。「收益」栏里原样留着全部数字，想自己核对就看那一栏。
-- **只想看结论最硬的**：在检索页里勾选证据等级 A，只留下有具体数字、来自荟萃分析或大型试验的 495 条。
-- **只想看最值得做的**：勾选性价比「极高」，得到 123 条不花钱、用时少、不需要毅力，收益又落在最大一档的条目。再叠加一个「换回什么」，就是该口径下的优先清单。
-- **看到「不要」开头的节标题不用紧张**：节标题说的是这一节想防住的事（不要早死、不要浪费时间），不是说底下每条都在让你别干什么。真正要做的动作写在条目标题里，一律动词开头，自己就写清了是「做什么」还是「别做什么」。同一节里两种都有：第 4 节既有「把『打算做』写成『几点、在哪、遇到什么就做什么』」，也有「不看电视和滚动新闻」。按条目标题读，不用往节标题的语气上套。
+- **Không cần làm hết**: đây là danh sách để lựa chọn, không phải danh sách nhiệm vụ. Chọn một hai mục cũng có ích; cứ để phần còn lại đó, cần thì quay lại tra. Nhận xét “nói thì dễ, làm mới khó” là đúng: bản thân tác giả chưa làm được phần lớn những việc này, ghi lại để khi cần có thể tìm thấy. Muốn chọn việc ít tốn sức, xem mục “Chỉ muốn xem việc đáng làm nhất” bên dưới.
+- **Muốn AI tra giúp**: kho có một skill tiếng Trung ([skills/life-decision-guide](skills/life-decision-guide/)), cài được cho cả Claude Code và Codex. Sau khi cài, hỏi thẳng “Có nên ký bảo lãnh cho bạn không?”, “Đi lại giữa nhà và chỗ làm mất hai giờ mỗi ngày có đáng không?”. Trợ lý sẽ tra các mục liên quan trong nội dung sách, rồi sắp xếp câu trả lời theo cách cân nhắc chi phí và lợi ích của sách, ghi rõ chương và mục. Không tìm thấy thì nói không tìm thấy, không tự đặt số liệu. Cách cài xem [hướng dẫn trong thư mục đó](skills/life-decision-guide/README.md).
+- **Muốn chọn theo điều kiện**: mở [trang tra cứu trực tuyến](https://ibretsam.github.io/HowToLiveBetter/), lọc theo từ khóa, chương, mức độ bằng chứng, hoặc ba yếu tố “có tốn tiền không, tốn bao nhiêu thời gian, có cần ý chí không”. Có thể kết hợp nhiều điều kiện. Nội dung trang lấy trực tiếp từ các tệp trong thư mục book/; nội dung đổi thì trang đổi theo.
+- **Các mục có chỉ dẫn qua lại** (như “xem chương 8, mục 17”): trên trang tra cứu, chỉ dẫn có đường gạch dưới đứt nét. Nhấn để xem ngay tiêu đề và phần “Nói dễ hiểu” của mục được dẫn. Muốn chuyển hẳn đến đó thì nhấn “Chuyển đến”. Nếu bộ lọc đang ẩn mục ấy, trang sẽ tự xóa bộ lọc. Khi đọc trực tiếp nội dung trên GitHub, chỉ dẫn này không bấm được, nhưng sau mỗi chỉ dẫn đều ghi nội dung được trỏ đến, như “xem mục 18 (vay tiền phải ghi giấy vay rõ ràng)”. Không chuyển trang vẫn biết đang nói đến mục nào.
+- **Muốn đọc theo thứ tự**: thứ tự trong từng chương không thể hiện mức độ đáng làm. Chương nhiều mục có phần hướng dẫn theo nhóm ở đầu; bạn có thể chọn theo chủ đề.
+- **Muốn đọc ngoại tuyến hoặc gửi cho người khác**: tải [tệp HTML ngoại tuyến](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html). Toàn bộ sách, chức năng tìm kiếm và bộ lọc nằm trong một tệp; nhấp đúp là mở, không cần máy chủ hay mạng, cũng gửi trực tiếp qua WeChat được.
+- **Muốn in hoặc đọc trên điện thoại**: tải [PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf), dàn trang A4, hơn hai trăm trang, có mục lục với số trang và dấu trang; mỗi chương bắt đầu ở trang mới.
+- **Muốn đọc bằng Kindle hoặc máy đọc sách khác**: tải [sách EPUB](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub); với Kindle, gửi qua Send to Kindle.
+- **Muốn ghi nhớ và ôn lại sau vài ngày**: tải [bộ thẻ Anki](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.apkg), mở bằng Anki để nhập. Mỗi mục một thẻ, chia thành bộ con theo chương. Mặt trước là lời khuyên; mặt sau là phần nói dễ hiểu, chi phí và mức độ bằng chứng. Có thể chỉ học vài chương hoặc lọc bằng nhãn như “rất đáng làm”. Sau này tải lại rồi nhập lại, nội dung thẻ được cập nhật mà lịch sử ôn tập vẫn giữ.
+- **Cả bốn dạng đều được tự động tạo lại mỗi khi nội dung sách cập nhật**, liên kết tải không đổi. Bản đã gửi cho người khác không tự cập nhật; lấy bản trực tuyến làm chuẩn.
+- **Không hiểu dãy số**: mỗi mục đều có dòng “Nói dễ hiểu”, chuyển cách viết trong nghiên cứu ở phần “Lợi ích” thành lời thường ngày như “xác suất tử vong trong cùng thời gian thấp hơn khoảng hai mươi phần trăm”, “bị giam giữ mấy ngày, phạt bao nhiêu tiền”. Dòng này chỉ dùng nội dung đã có trong phần “Lợi ích”, không thêm số liệu mới. Chỉ đọc dòng đó cũng đủ để cân nhắc. Phần “Lợi ích” giữ nguyên đầy đủ số liệu để bạn tự đối chiếu.
+- **Chỉ muốn xem kết luận có bằng chứng vững nhất**: chọn mức độ bằng chứng A trên trang tra cứu, còn lại 495 mục có số liệu cụ thể từ phân tích gộp hoặc thử nghiệm lớn.
+- **Chỉ muốn xem việc đáng làm nhất**: chọn mức “rất đáng làm”, được 123 mục không tốn tiền, ít tốn thời gian, không cần ý chí và có lợi ích ở mức cao nhất. Kết hợp thêm bộ lọc “nhận lại gì” để có danh sách ưu tiên trong từng loại lợi ích.
+- **Thấy tên chương bắt đầu bằng “Đừng” không cần căng thẳng**: tên chương nói về điều muốn phòng tránh, như đừng chết sớm, đừng lãng phí thời gian, không có nghĩa mọi mục bên dưới đều bảo bạn đừng làm gì. Hành động cụ thể nằm ở tiêu đề từng mục, luôn mở đầu bằng động từ và nói rõ “làm gì” hay “đừng làm gì”. Một chương có cả hai loại: chương 4 có “Viết điều định làm thành mấy giờ, ở đâu, gặp tình huống gì thì làm gì”, cũng có “Không xem tivi và tin tức cập nhật liên tục”. Đọc theo tiêu đề mục, không gán giọng của tên chương vào từng mục.
 
-每条建议长这样：
+Mỗi lời khuyên có dạng như sau:
 
 ```markdown
-### 5. 把家里的食盐换成低钠盐（钾盐）
-- 成本：一袋比普通盐贵几元。买的时候顺手换，不额外占时间。口味几乎不变。
-- 说人话：得过中风或 60 岁以上有高血压的人，把家里的盐换成低钠盐，五年内死亡的概率低约 12%，中风低约 14%。
-- 收益：一项把人随机分成两组的试验，在中国农村做的，20995 人，都是得过卒中的人或者 60 岁以上的高血压病人，跟踪了 4.74 年。结果：用低钠盐的那组比用普通盐的那组，死亡风险低约 12%（RR 0.88）。卒中低约 14%（RR 0.86）。主要心血管事件低约 13%（RR 0.87）。
-- 证据等级：A
-- 来源：Neal B 等 (2021). Effect of Salt Substitution on Cardiovascular Events and Death. NEJM. https://doi.org/10.1056/NEJMoa2105675
-- 备注：争议。试验对象是高危老人，健康年轻人换盐得到的好处要小得多。肾功能不全的人，或者正在吃保钾类药物的人，换盐前先问医生。
+### 5. Đổi muối ăn trong nhà sang muối ít natri (muối kali)
+- Chi phí: Một túi đắt hơn muối thường vài nhân dân tệ. Tiện lúc mua thì đổi, không mất thêm thời gian. Vị gần như không đổi.
+- Nói dễ hiểu: Người từng bị đột quỵ hoặc từ 60 tuổi trở lên có tăng huyết áp, đổi sang muối ít natri thì xác suất tử vong trong năm năm thấp hơn khoảng 12%, đột quỵ thấp hơn khoảng 14%.
+- Lợi ích: Một thử nghiệm chia ngẫu nhiên thành hai nhóm ở nông thôn Trung Quốc, gồm 20995 người từng bị đột quỵ hoặc từ 60 tuổi trở lên có tăng huyết áp, theo dõi 4.74 năm. Kết quả: nhóm dùng muối ít natri có nguy cơ tử vong thấp hơn khoảng 12% so với nhóm dùng muối thường (RR 0.88). Đột quỵ thấp hơn khoảng 14% (RR 0.86). Biến cố tim mạch lớn thấp hơn khoảng 13% (RR 0.87).
+- Mức độ bằng chứng: A
+- Nguồn: Neal B và cộng sự (2021). Effect of Salt Substitution on Cardiovascular Events and Death. NEJM. https://doi.org/10.1056/NEJMoa2105675
+- Ghi chú: Có tranh luận. Đối tượng thử nghiệm là người cao tuổi có nguy cơ cao; lợi ích khi đổi muối ở người trẻ khỏe mạnh nhỏ hơn nhiều. Người suy giảm chức năng thận hoặc đang dùng thuốc giữ kali cần hỏi bác sĩ trước khi đổi muối.
 ```
 
-## 自己跑一份
+## Tự chạy một bản
 
-多数人用不着部署：[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)是现成的，要离线就下[离线单文件 HTML](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html)，双击就开。
+### Trang tiếng Việt
 
-真要在自己电脑或服务器上跑：
+```bash
+git clone https://github.com/ibretsam/HowToLiveBetter.git
+cd HowToLiveBetter
+npm --prefix tools/epub ci
+python3 tools/build-vi-site.py
+python3 tools/check-vi-site.py
+python3 -m http.server 8000 --directory dist/vi-site
+```
+
+Mở `http://localhost:8000/`. Trang tiếng Việt được tạo trong `dist/vi-site/`; GitHub Pages của fork được triển khai bằng workflow `vietnamese-pages.yml`. Nguồn đối chiếu được ghim trong `vi/site-config.json`.
+
+### Công cụ và bản tải xuống tiếng Trung của dự án gốc
+
+Đa số người không cần triển khai: đã có [trang tra cứu trực tuyến](https://eternity4719.github.io/HowToLiveBetter/); muốn dùng ngoại tuyến thì tải [tệp HTML ngoại tuyến](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html), nhấp đúp là mở.
+
+Nếu muốn chạy trên máy tính hoặc máy chủ của mình:
 
 ```bash
 git clone https://github.com/eternity4719/HowToLiveBetter.git
@@ -155,194 +171,198 @@ cd HowToLiveBetter
 python -m http.server 8000
 ```
 
-然后浏览器开 `http://localhost:8000/`。检索页是纯静态的，`README.md` 和 `book/` 就是它的数据，没有后端、没有数据库、不用装依赖；把整个目录丢给任何静态服务器（Nginx、GitHub Pages、对象存储）效果一样。注意 `index.html` 必须经 http 打开，直接双击本地文件会空白——浏览器不许网页读本地文件，那种场景请用上面的离线单文件版。
+Sau đó mở `http://localhost:8000/` bằng trình duyệt. Trang tra cứu hoàn toàn tĩnh, `README.md` và `book/` là dữ liệu của nó; không có backend, không có cơ sở dữ liệu, không cần cài phụ thuộc. Đưa toàn bộ thư mục lên máy chủ tĩnh bất kỳ như Nginx, GitHub Pages hoặc dịch vụ lưu trữ đối tượng đều cho kết quả tương tự. Lưu ý phải mở `index.html` qua http; nhấp đúp tệp trên máy sẽ ra trang trắng vì trình duyệt không cho trang web đọc tệp cục bộ. Trường hợp đó hãy dùng bản một tệp ngoại tuyến bên trên.
 
-想自己生成这四样（平时用不着，Release 里的就是自动生成的）。下面的命令都在仓库根目录（`HowToLiveBetter/`）运行：
+Nếu muốn tự tạo cả bốn dạng, các lệnh dưới đây đều chạy ở thư mục gốc kho mã (`HowToLiveBetter/`). Bình thường không cần làm vì bản trong Release đã được tự động tạo.
 
 ```bash
-npm --prefix tools/epub ci                 # 安装 EPUB 依赖
+npm --prefix tools/epub ci                 # Cài phụ thuộc EPUB
 npm --prefix tools/epub run build          # EPUB
-node tools/offline/build.mjs               # 离线单文件 HTML
-node tools/pdf/build.mjs                   # PDF，另需 pandoc ≥ 3.1 和 typst ≥ 0.13
-node tools/anki/build.mjs                  # Anki 牌组，要 Node ≥ 22.13（用自带的 node:sqlite）
+node tools/offline/build.mjs               # HTML một tệp ngoại tuyến
+node tools/pdf/build.mjs                   # PDF, cần thêm pandoc ≥ 3.1 và typst ≥ 0.13
+node tools/anki/build.mjs                  # Bộ thẻ Anki, cần Node ≥ 22.13 (dùng node:sqlite có sẵn)
 ```
 
-产物都在 `dist/`。
+Các tệp tạo ra đều nằm trong `dist/`.
 
-## 四种资源
+## Bốn nguồn lực
 
-这本书想帮你多留住的不只是寿命，一共四样东西：
+Cuốn sách muốn giúp bạn giữ lại nhiều hơn không chỉ tuổi thọ, mà cả bốn thứ:
 
-- **寿命**：活得更久，少死于本来可以避免的事
-- **时间与精力**：活着的时间不花在没有回报的事上，每天的注意力和体力少被白白耗掉
-- **金钱**：少花冤枉钱，把钱花在收益确定的地方
-- **人身自由**：不因为不知道一条红线，把自己送进拘留所或者看守所
+- **Tuổi thọ**: sống lâu hơn, ít chết vì những nguyên nhân có thể tránh được.
+- **Thời gian và sức lực**: không dành thời gian sống cho việc không có ích; bớt hao phí sự chú ý và thể lực mỗi ngày.
+- **Tiền bạc**: bớt chi tiền oan, dùng tiền vào nơi có lợi ích xác định.
+- **Tự do thân thể**: không vì thiếu hiểu biết về một ranh giới pháp luật mà đưa mình vào nơi giam giữ hành chính hoặc trại tạm giam.
 
-每一条建议都回答两个问题：要花掉什么（钱/时间/精力/毅力），能换回什么（总死亡率变化 / 特定死因下降 / 时间与精力节省 / 金钱节省 / 保障与人身自由）。每条的性价比档由检索页按收益大小和三项成本算出来，想挑划算的就按它筛选。
+Mỗi lời khuyên trả lời hai câu hỏi: cần bỏ ra gì (tiền/thời gian/sức lực/ý chí), nhận lại gì (thay đổi tỷ lệ tử vong do mọi nguyên nhân / giảm tử vong do nguyên nhân cụ thể / tiết kiệm thời gian và sức lực / tiết kiệm tiền / bảo đảm quyền lợi và tự do thân thể). Trang tra cứu tính mức độ đáng làm từ lợi ích và ba loại chi phí; muốn chọn việc có lợi so với chi phí thì lọc theo mức đó.
 
-**一条建议的好处落在谁身上，是分档的。** 按「这份好处将来有多大可能回到你自己身上」从高到低：① **你自己**；② **配偶和直系亲属**（父母、子女、祖父母外祖父母、孙子女外孙子女）；③ **朋友、同事和其他亲属**——互惠关系，帮出去的将来可能回来；④ **陌生人**——最低一档，但不是零：回报的概率小，而且你不了解对方性格，还有被讹、被反咬、被报复的一面。不同档不合并计算，写到第 ④ 档时好处和风险一起写。
+**Lợi ích của một lời khuyên đến với ai cũng được chia thành các nhóm.** Xếp từ cao xuống thấp theo “khả năng lợi ích ấy sẽ quay lại với chính bạn trong tương lai”: ① **bản thân bạn**; ② **vợ/chồng và người thân trực hệ** như cha mẹ, con, ông bà nội ngoại, cháu nội ngoại; ③ **bạn bè, đồng nghiệp và họ hàng khác**, có quan hệ tương trợ, giúp người hôm nay có thể được giúp lại sau này; ④ **người lạ**, thấp nhất nhưng không phải bằng không: khả năng được đáp lại thấp, bạn không biết tính cách họ, còn có nguy cơ bị vu vạ vòi tiền, bị quay lại buộc tội hoặc trả đũa. Không gộp lợi ích của các nhóm để tính; khi viết về nhóm ④ phải nêu cả lợi ích lẫn rủi ro.
 
-急救那一节照这个读：中国 38,227 例院外心脏骤停里 79.2% 发生在家里，学按压首先是为了按在自家人身上；「看到有人溺水自己不下水」「撞见斗殴别上手拉架」这类规则本身就是自保规则，防的是你从旁观者变成第二个伤者。对陌生人要不要出手是你自己的权衡，条目会把免责条款、自保动作和风险面都写清楚，不替你把它算成非做不可的理由。
+Đọc chương sơ cứu theo cách đó: trong 38,227 ca ngừng tim ngoài bệnh viện ở Trung Quốc, 79.2% xảy ra tại nhà. Học ép ngực trước hết để cứu người nhà. Các quy tắc như “thấy người đuối nước thì bản thân không xuống nước”, “gặp đánh nhau đừng dùng tay can ngăn” là để tự bảo vệ, tránh từ người đứng xem thành nạn nhân thứ hai. Có giúp người lạ hay không do bạn tự cân nhắc; mục trong sách nêu rõ điều khoản miễn trách nhiệm, hành động tự bảo vệ và rủi ro, không biến việc ấy thành điều bạn bắt buộc phải làm.
 
-死亡率的数字、时间精力的数字、金钱的数字和法律后果，各算各的，不互相折算。这四样对应检索页上那四个「换回什么」，彼此之间不比大小。
+Số liệu tử vong, số liệu thời gian và sức lực, tiền bạc và hậu quả pháp lý được tính riêng, không quy đổi lẫn nhau. Chúng tương ứng với bốn loại “nhận lại gì” trên trang tra cứu, không so lớn nhỏ giữa các loại.
 
-## 证据分级
+## Mức độ bằng chứng
 
-每条建议都标注证据等级：
+Mỗi lời khuyên đều ghi mức độ bằng chứng:
 
-| 等级 | 含义 |
+| Mức | Ý nghĩa |
 | --- | --- |
-| A | 有具体数字可查，出处是多项研究合并起来的荟萃分析、跟踪很多人很多年的大型队列，或者随机分组的试验（RCT），能说出降了多少（HR、RR、下降百分比） |
-| B | 有研究支持，但说不出一个确切数字；或者只有小样本、单独一项研究撑着 |
-| C | 作者自己的经验，或者大家公认的做法，没有直接的研究文献 |
+| A | Có số liệu cụ thể để tra; nguồn là phân tích gộp nhiều nghiên cứu, nghiên cứu theo dõi nhiều người trong nhiều năm, hoặc thử nghiệm chia nhóm ngẫu nhiên (RCT), có thể nêu giảm bao nhiêu (HR, RR, phần trăm giảm) |
+| B | Có nghiên cứu hỗ trợ nhưng không nêu được con số chính xác, hoặc chỉ dựa trên mẫu nhỏ, một nghiên cứu riêng lẻ |
+| C | Kinh nghiệm của tác giả hoặc cách làm được thừa nhận rộng rãi, không có tài liệu nghiên cứu trực tiếp |
 
-全书 767 条中 A 级 495 条、B 级 220 条、C 级 52 条，另有 88 条标注了争议、0 处标注了 TODO 待核实。有争议的 A/B 级条目会标注「争议」并列出反方证据。所有来源只引原始文献（期刊论文附 DOI 或 PubMed 链接，或 WHO/CDC/国家统计局等官方机构报告），不引二手转述。官方不公开的案件，少数条目引了有记者署名的原创新闻报道，只用来说明「发生过这类事」，来源栏附网页存档，备注写明「只有媒体报道」。不确定的数字标「待核实」。
+Trong 767 mục có 495 mục mức A, 220 mục mức B, 52 mục mức C; ngoài ra 88 mục ghi có tranh luận, 0 chỗ ghi TODO cần xác minh. Mục A/B có tranh luận được đánh dấu “Có tranh luận” và nêu bằng chứng trái chiều. Các nguồn chỉ dẫn tài liệu gốc: bài báo khoa học kèm DOI hoặc PubMed, hoặc báo cáo chính thức từ WHO/CDC/Cục Thống kê Quốc gia Trung Quốc và các cơ quan tương tự; không dẫn bài kể lại từ nguồn thứ hai. Với vụ việc cơ quan chức năng không công khai, một số ít mục dùng bài báo gốc có tên phóng viên, chỉ để cho thấy “đã xảy ra việc như vậy”; phần nguồn kèm bản lưu web, ghi chú nêu rõ “chỉ có thông tin báo chí”. Số liệu chưa chắc chắn được đánh dấu “Cần xác minh”.
 
-A 级只说明「有具体数字、出处可核」，不说明这个数字一定是因果。A 级里既有随机分组的试验，也有只跟踪记录、不分组的研究，后者分不清是这件事起了作用，还是做这件事的人本来就更健康。哪一种看收益栏：写着「随机分成两组」的是前者，写着「只记录、不分组」的是后者。法律和政策类条目的 A 级，指的是引到了法条或官方文件原文。
+Mức A chỉ cho biết “có con số cụ thể, nguồn có thể kiểm tra”, không có nghĩa con số ấy chắc chắn phản ánh quan hệ nhân quả. Mức A gồm cả thử nghiệm chia nhóm ngẫu nhiên và nghiên cứu chỉ theo dõi, ghi nhận mà không chia nhóm. Loại sau không phân biệt được việc đó tạo tác dụng hay người làm việc đó vốn đã khỏe hơn. Xem phần lợi ích để biết loại nào: “chia ngẫu nhiên thành hai nhóm” là loại trước, “chỉ ghi nhận, không chia nhóm” là loại sau. Mức A của mục pháp luật và chính sách nghĩa là có dẫn nguyên văn điều luật hoặc văn bản chính thức.
 
-收益栏和说人话里的百分比，多数是比没做的人低几成，不是每一百人里少几个。同样低 12%，本来风险就高的老人少掉的死亡人数，远多于本来风险就很低的年轻人。所以先看说人话里写的是哪些人，再看那个百分比。
+Các tỷ lệ phần trăm ở phần lợi ích và nói dễ hiểu phần lớn là giảm tương đối so với người không làm, không phải bớt bao nhiêu người trên mỗi trăm người. Cùng giảm 12%, số người tránh được tử vong ở người cao tuổi vốn có nguy cơ cao lớn hơn nhiều so với người trẻ vốn có nguy cơ rất thấp. Vì vậy hãy xem phần nói dễ hiểu áp dụng cho ai trước, rồi mới xem tỷ lệ phần trăm.
 
-## 性价比档
+## Mức độ đáng làm
 
-证据等级只回答「这个数字可不可信」，不回答「这件事值不值得做」。所以每条还另外标了两样：收益量级（好处有多大）和口径（换回的是哪一类东西）。检索页拿这两样加上三项成本，合出一个性价比档：
+Mức độ bằng chứng chỉ trả lời “con số có đáng tin không”, không trả lời “việc có đáng làm không”. Vì vậy mỗi mục còn ghi mức lợi ích và loại lợi ích nhận lại. Trang tra cứu kết hợp hai yếu tố đó với ba loại chi phí để tính mức độ đáng làm:
 
-| 维度 | 取值 | 怎么定的 |
+| Yếu tố | Giá trị | Cách xác định |
 | --- | --- | --- |
-| 口径 | 换寿命 / 换钱 / 换时间精力 / 换人身自由 | 看这条主要换回的是什么。**不同口径之间不做比较**，「总死亡率降 12%」和「每年省 500 元」不在一把尺子上，没法分高下 |
-| 收益量级 | 大 / 中 / 小 | 尽量照着条目自己的「收益」栏，按事先定好的界线套，不凭感觉：换寿命看降了百分之几（≥20% 为大，10% 及以上、不到 20% 为中，<10%、或者只量到中间指标而没量到最终结果的为小）；换钱看金额（万元级为大，数百到数千为中，几十元为小）；换人身自由看后果（避免刑事责任为大，避免拘留或行政处罚为中，避免民事纠纷为小）；换时间精力看省下多少（每天省出小时级为大，每周小时级为中，只省一次的为小） |
-| 性价比 | 极高 / 高 / 一般 | 好处大、三项成本都在最低档 = 极高；好处大、成本不高，或者好处中等、三项成本都在最低档 = 高；剩下的 = 一般 |
+| Loại lợi ích | Tuổi thọ / tiền bạc / thời gian và sức lực / tự do thân thể | Xem mục chủ yếu mang lại gì. **Không so sánh giữa các loại**, vì “giảm 12% tỷ lệ tử vong do mọi nguyên nhân” và “tiết kiệm 500 nhân dân tệ mỗi năm” không chung thang đo |
+| Mức lợi ích | Lớn / vừa / nhỏ | Cố gắng dựa vào phần “Lợi ích” của chính mục, theo ranh giới định trước, không đoán bằng cảm giác: tuổi thọ xét tỷ lệ giảm (≥20% là lớn, từ 10% đến dưới 20% là vừa, <10% hoặc chỉ đo chỉ số trung gian mà chưa đo kết quả cuối cùng là nhỏ); tiền bạc xét số tiền (hàng vạn nhân dân tệ là lớn, vài trăm đến vài nghìn là vừa, vài chục là nhỏ); tự do thân thể xét hậu quả (tránh trách nhiệm hình sự là lớn, tránh giam giữ hoặc xử phạt hành chính là vừa, tránh tranh chấp dân sự là nhỏ); thời gian và sức lực xét lượng tiết kiệm (hàng giờ mỗi ngày là lớn, hàng giờ mỗi tuần là vừa, chỉ tiết kiệm một lần là nhỏ) |
+| Mức độ đáng làm | Rất cao / cao / bình thường | Lợi ích lớn, cả ba chi phí đều thấp nhất = rất cao; lợi ích lớn và chi phí không cao, hoặc lợi ích vừa và cả ba chi phí đều thấp nhất = cao; còn lại = bình thường |
 
-三项成本的最低档是「不花钱、用时少、不需要毅力」。「用时少」指一次花几分钟以内，或顺手就能做。
+Mức thấp nhất của ba chi phí là “không tốn tiền, ít tốn thời gian, không cần ý chí”. “Ít tốn thời gian” nghĩa là một lần mất không quá vài phút hoặc tiện tay làm được.
 
-全书 767 条中性价比极高 123 条（16%）、高 344 条（45%）、一般 300 条（39%）。中间那档条数多是有意的：底下的收益量级本来就只分大、中、小三级，再往细里切就是装出来的精确。
+Trong 767 mục có 123 mục rất đáng làm (16%), 344 mục mức cao (45%), 300 mục bình thường (39%). Số mục ở giữa nhiều là có chủ đích: mức lợi ích nền tảng chỉ có lớn, vừa, nhỏ; chia chi tiết hơn sẽ tạo cảm giác chính xác giả.
 
-**这一档是作者自己的判断，不是证据**，按本书的标准它本身只算 C 级；它和证据等级是两回事，谁也不影响谁。一条可以证据是 A 级、性价比却只算一般（带状疱疹疫苗有 97.2% 效力的三期 RCT，但两针三四千元、带状疱疹很少致命），也可以证据只有 C 级、性价比却极高（手机设锁屏密码、SIM 卡设 PIN 码）。「一般」不等于不该做——全书的条目都是建议做的，只是这一档得你自己掂量那笔花销值不值。
+**Mức này là đánh giá của tác giả, không phải bằng chứng**; theo tiêu chuẩn của sách, bản thân nó chỉ ở mức C. Nó độc lập với mức độ bằng chứng, không ảnh hưởng lẫn nhau. Một mục có thể có bằng chứng A nhưng mức độ đáng làm chỉ bình thường: vaccine zona có hiệu lực 97.2% trong RCT giai đoạn ba, nhưng hai mũi tốn ba bốn nghìn nhân dân tệ và zona hiếm khi gây chết người. Cũng có mục chỉ có bằng chứng C nhưng rất đáng làm, như đặt mật mã khóa màn hình điện thoại và mã PIN cho SIM. “Bình thường” không có nghĩa không nên làm; các mục trong sách đều khuyên làm, nhưng ở mức này bạn phải tự cân nhắc khoản chi có đáng không.
 
-## 读懂数字（术语表）
+## Hiểu các con số (bảng thuật ngữ)
 
-正文尽量用日常说法，但引用研究的时候免不了出现几个统计名词。看不懂就查这张表；在线检索页里，把鼠标停在带虚线的词上（手机上点一下）也会弹出解释。
+Nội dung cố gắng dùng lời thường ngày, nhưng khi trích nghiên cứu vẫn cần một số thuật ngữ thống kê. Không hiểu thì tra bảng này. Trên trang tra cứu, đưa chuột lên từ có đường gạch dưới đứt nét, hoặc nhấn trên điện thoại, cũng hiện giải thích.
 
 <details>
-<summary>展开 41 条术语（总死亡率、HR、RR、95% CI、荟萃分析、BMI、LPR、定金与订金……）</summary>
+<summary>Mở 41 thuật ngữ: tỷ lệ tử vong do mọi nguyên nhân, HR, RR, 95% CI, phân tích gộp, BMI, LPR, tiền đặt cọc và tiền trả trước…</summary>
 
-| 术语 | 意思 |
+| Thuật ngữ | Ý nghĩa |
 | --- | --- |
-| 总死亡率 | 一段时间里，一群人当中死掉的人占多大比例，不管死于什么原因。本书用它衡量「活得久不久」。研究原文里叫全因死亡率，英文缩写 ACM |
-| HR | 瞬时风险比。比较的是随访过程中，仍未出事的人在当时出事的快慢。HR 0.87 表示这一风险低 13%，不等于一段时间内出事的概率低 13% |
-| RR | 相对风险。两组人在相同观察期内出事的概率之比。RR 0.87 表示相对低 13%，不是每一百人少出事 13 个 |
-| OR | 比值比。先分别算出两组「出事的概率 ÷ 不出事的概率」，再比较这两个比值。它不等于概率之比，只有结局很少见时才近似 RR，不能一律换算成概率高几成、低几成 |
-| IRR | 发病率之比。发病率是一段时间里新得这个病的人占多大比例，两组相除，读法同 RR |
-| RaR | 发生次数之比。比的是事情发生了多少次（比如摔了多少跤），不是多少人出事，读法同 RR |
-| 标准化死亡比 | 英文缩写 SMR。这群人实际死了多少人，除以「同样年龄的普通人本该死多少人」。5.86 就是死的人数是同龄人的 5.86 倍 |
-| 风险差 | 两组出事的概率相减，直接得出「每一千人里多出几个」。倍数只说翻了几倍，风险差说的是实实在在多了多少人 |
-| 95% CI | 95% 置信区间。研究算出的数字总有误差，这是真实情况很可能落在的范围。倍数类的数字，范围跨过了 1；加减类的数字，范围跨过了 0，就说明两组的差别可能只是碰巧，文中会写「无统计学意义」 |
-| RCT | 随机对照试验。用抽签一样的办法把人分成两组，一组做这件事，一组不做，过后比结果差多少。要证明「是这件事起了作用」，这种做法最有说服力 |
-| 荟萃分析 | 把很多项研究的结果凑到一起重新算，得出一个总的数字。也叫 meta 分析 |
-| 队列 | 队列研究。挑一大群人跟踪很多年，记录谁出了事。能看出两件事常一起出现，但不足以证明是前一件造成了后一件 |
-| 观察性 | 观察性研究。研究者只在旁边记录，不安排谁做、谁不做。结果容易被别的因素带偏（见本表的混杂、反向因果两条），数字要打点折看 |
-| 混杂 | 有第三个因素同时牵动着前因和后果，让两件事看起来像有因果。比如爱吃菜的人往往也更爱运动，分不清是哪一样在起作用 |
-| 反向因果 | 因果的方向弄反了：看着像前一件引起后一件，其实是后一件引起前一件。不是睡得多让人早死，而是病重的人睡得多 |
-| d、g | 效应量，表示两组的差距有多大。把差距换算成「相当于几倍的常见波动幅度」：0.2 算小，0.5 中等，0.8 大 |
-| r | 相关系数。两件事跟着一起变的紧密程度，取值从 -1 到 1，0.1 算弱、0.3 中等、0.5 算强 |
-| MET | 运动强度的单位。安静坐着是 1 MET，快走约 3 到 4 MET。写成 MET·h，就是强度乘以做了几小时，表示一共动了多少 |
-| GRADE | 国际上通用的一套打分办法，给一项证据有多可靠评级，分高、中、低、极低四档 |
-| 意向筛查分析 | 算效果时按「通知了谁去做筛查」算，不按「谁真的去做了」算。被通知的人里总有没去的，所以这种算法会把筛查对真去做的人的好处算低 |
-| 包年 | 统计一个人一共抽了多少烟的单位。每天抽几包乘以抽了几年，30 包年就是每天一包抽了 30 年 |
-| BMI | 体重指数，看胖瘦常用的一个数：体重的公斤数，除以身高米数的平方 |
-| LDL | 低密度脂蛋白胆固醇，俗称坏胆固醇 |
-| eGFR | 估算肾小球滤过率，衡量肾脏过滤能力的一项指标，单位 mL/min/1.73 m²。数越低说明肾功能越差，慢性肾病分几期就按它定 |
-| HBsAg | 乙肝表面抗原，化验单上的一项。结果是阳性，表示已经感染了乙肝病毒 |
-| HPV | 人乳头瘤病毒。它分很多型，其中一部分型长期感染会导致宫颈癌 |
-| LDCT | 低剂量胸部 CT，辐射量约为普通 CT 的五分之一到十分之一 |
-| PM2.5 | 飘在空气里的细颗粒物，直径在 2.5 微米以下 |
-| NOVA | 一种给食品分类的办法，按加工得有多厉害分成四类，「超加工食品」就是其中的第四类 |
-| LPR | 贷款市场报价利率。国内贷款利率的基准，每月 20 日公布一次，房贷利率和民间借贷的利息上限都照着它算 |
-| 一裁终局 | 劳动仲裁的结果下来就直接生效，单位不能再拿这件事去法院起诉 |
-| 粗结婚率、粗离婚率 | 每一千人里，当年登记结婚、登记离婚的对数。另外还有个数叫离结比，是当年离婚对数除以结婚对数，和这两个不是一回事，别混着看 |
-| AED | 自动体外除颤器。公共场所常见的红色或黄色急救箱，开机以后跟着语音提示做就行，要不要电击由它自己判断 |
-| CPR | 心肺复苏。心脏骤停时用力按压胸口，让血继续流动 |
-| 3C 认证 | 中国强制性产品认证。列进目录的那些产品，没印这个标志就不准出厂、不准卖 |
-| ICP 备案 | 网站或 App 正式上线之前，到工信部的系统里登记一道手续 |
-| 等级保护 | 网络安全等级保护制度。按一套系统有多重要分成几个级别，级别越高，要做的安全措施越多 |
-| GPL | 一种开源许可证。用了这类代码做出来的东西，往外发的时候通常也得把自己的代码一起公开 |
-| 竞业限制 | 和公司签的一种约定：离职后一段时间内不去同行的对手那里上班。这段时间公司要按月给你补偿，最长 2 年 |
-| 认缴出资 | 注册公司时承诺要投进去的钱。承诺了就得在法律定的期限内真掏出来，不是写个数字好看 |
-| 定金与订金 | 两个词只差一个字，效力差很多：定金有罚则，收钱的一方反悔要双倍退还，金额最多为合同额的 20%；订金只是提前付的钱，反悔没有这个罚则 |
-| 一审按规定 6 个月内审完 | 书里说的是法律给法院定的期限，不是实际要等多久。民事案子一审走普通程序，法院要在立案后 6 个月内审完，有特殊情况经批准可以延长。走简易程序的是 3 个月。做鉴定、公告送达的时间不算在里面，所以实际常常比这更久 |
+| Tỷ lệ tử vong do mọi nguyên nhân | Tỷ lệ người chết trong một nhóm trong một khoảng thời gian, bất kể nguyên nhân. Sách dùng để đo “sống có lâu không”. Trong nghiên cứu gọi là tỷ lệ tử vong mọi nguyên nhân, viết tắt tiếng Anh ACM |
+| HR | Tỷ số nguy cơ tức thời. So sánh tốc độ xảy ra sự việc tại một thời điểm trong quá trình theo dõi, ở những người chưa gặp sự việc đó. HR 0.87 nghĩa là nguy cơ này thấp hơn 13%, không có nghĩa xác suất xảy ra sự việc trong một khoảng thời gian thấp hơn 13% |
+| RR | Nguy cơ tương đối. Tỷ số xác suất xảy ra sự việc ở hai nhóm trong cùng thời gian quan sát. RR 0.87 nghĩa là thấp hơn tương đối 13%, không phải cứ một trăm người thì bớt 13 người gặp sự việc |
+| OR | Tỷ số chênh. Trước hết tính riêng cho mỗi nhóm “xác suất xảy ra sự việc ÷ xác suất không xảy ra”, rồi so sánh hai tỷ số đó. Đây không phải tỷ số xác suất; chỉ gần bằng RR khi kết cục rất hiếm, không thể luôn đổi thành xác suất cao hơn hay thấp hơn bao nhiêu phần trăm |
+| IRR | Tỷ số tỷ lệ mắc. Tỷ lệ mắc là tỷ lệ người mới mắc bệnh trong một khoảng thời gian; lấy hai nhóm chia nhau, đọc như RR |
+| RaR | Tỷ số số lần xảy ra. So số lần sự việc xảy ra, như số lần ngã, không phải số người gặp sự việc; đọc như RR |
+| Tỷ số tử vong chuẩn hóa | Viết tắt tiếng Anh SMR. Số người thực tế chết trong nhóm chia cho “số người dự kiến chết ở dân số bình thường cùng tuổi”. 5.86 nghĩa là số người chết gấp 5.86 lần người cùng tuổi |
+| Chênh lệch nguy cơ | Lấy xác suất xảy ra sự việc ở hai nhóm trừ nhau, cho biết trực tiếp “mỗi nghìn người có thêm bao nhiêu ca”. Tỷ số cho biết gấp mấy lần; chênh lệch nguy cơ cho biết thực sự thêm bao nhiêu người |
+| 95% CI | Khoảng tin cậy 95%. Số tính từ nghiên cứu luôn có sai số; đây là khoảng mà tình hình thật có khả năng cao nằm trong đó. Với tỷ số, nếu khoảng đi qua 1; với số cộng trừ, nếu đi qua 0, thì khác biệt giữa hai nhóm có thể chỉ do tình cờ, bài viết sẽ ghi “không có ý nghĩa thống kê” |
+| RCT | Thử nghiệm ngẫu nhiên có đối chứng. Dùng cách như bốc thăm chia thành hai nhóm, một nhóm làm việc đó, nhóm kia không làm, rồi so kết quả. Để chứng minh “chính việc đó tạo tác dụng”, đây là cách có sức thuyết phục nhất |
+| Phân tích gộp | Tập hợp kết quả nhiều nghiên cứu rồi tính lại để có một con số tổng hợp, còn gọi là phân tích meta |
+| Nghiên cứu đoàn hệ | Chọn một nhóm lớn để theo dõi nhiều năm, ghi nhận ai gặp sự việc. Cho thấy hai việc thường đi cùng nhau, nhưng chưa đủ chứng minh việc trước gây ra việc sau |
+| Nghiên cứu quan sát | Nhà nghiên cứu chỉ ghi nhận, không phân ai làm hoặc không làm. Kết quả dễ bị yếu tố khác làm lệch; xem hai mục về nhiễu và nhân quả ngược trong bảng. Cần thận trọng khi nhìn các con số |
+| Nhiễu | Có yếu tố thứ ba đồng thời tác động đến điều được xem là nguyên nhân và kết quả, khiến hai việc trông như có quan hệ nhân quả. Ví dụ người thích ăn rau thường cũng thích vận động, khó tách việc nào tạo tác dụng |
+| Nhân quả ngược | Hiểu ngược chiều nhân quả: tưởng việc trước gây ra việc sau, thực ra việc sau gây ra việc trước. Không phải ngủ nhiều khiến chết sớm, mà người bệnh nặng ngủ nhiều |
+| d, g | Cỡ hiệu ứng, thể hiện chênh lệch giữa hai nhóm. Quy đổi chênh lệch thành “gấp mấy lần mức dao động thường gặp”: 0.2 là nhỏ, 0.5 vừa, 0.8 lớn |
+| r | Hệ số tương quan, mức độ hai việc cùng thay đổi. Giá trị từ -1 đến 1; 0.1 là yếu, 0.3 vừa, 0.5 mạnh |
+| MET | Đơn vị cường độ vận động. Ngồi yên là 1 MET; đi bộ nhanh khoảng 3 đến 4 MET. MET·h là cường độ nhân số giờ thực hiện, thể hiện tổng lượng vận động |
+| GRADE | Cách chấm điểm được dùng quốc tế để đánh giá độ tin cậy của bằng chứng, chia cao, trung bình, thấp, rất thấp |
+| Phân tích theo ý định sàng lọc | Tính hiệu quả theo “ai được thông báo đi sàng lọc”, không theo “ai thực sự đi”. Trong số được thông báo luôn có người không đi, nên cách tính này làm lợi ích của sàng lọc ở người thực sự đi trông thấp hơn |
+| Bao-năm | Đơn vị tổng lượng thuốc một người đã hút: số bao mỗi ngày nhân số năm hút. 30 bao-năm nghĩa là mỗi ngày một bao trong 30 năm |
+| BMI | Chỉ số khối cơ thể, thường dùng để đánh giá gầy béo: cân nặng tính bằng kg chia bình phương chiều cao tính bằng mét |
+| LDL | Cholesterol lipoprotein tỷ trọng thấp, thường gọi là cholesterol xấu |
+| eGFR | Mức lọc cầu thận ước tính, chỉ số khả năng lọc của thận, đơn vị mL/min/1.73 m². Số càng thấp thì chức năng thận càng kém; giai đoạn bệnh thận mạn được xác định theo chỉ số này |
+| HBsAg | Kháng nguyên bề mặt viêm gan B, một chỉ số trên phiếu xét nghiệm. Dương tính nghĩa là đã nhiễm virus viêm gan B |
+| HPV | Virus gây u nhú ở người. Có nhiều type, trong đó nhiễm kéo dài một số type có thể gây ung thư cổ tử cung |
+| LDCT | CT ngực liều thấp, lượng bức xạ khoảng một phần năm đến một phần mười CT thường |
+| PM2.5 | Hạt bụi mịn lơ lửng trong không khí, đường kính từ 2.5 micromét trở xuống |
+| NOVA | Cách chia thực phẩm thành bốn nhóm theo mức độ chế biến; “thực phẩm siêu chế biến” là nhóm thứ tư |
+| LPR | Lãi suất cho vay tham chiếu trên thị trường. Mốc tham chiếu lãi vay ở Trung Quốc, công bố mỗi tháng vào ngày 20; lãi vay nhà và trần lãi cho vay dân sự đều tính theo đó |
+| Phán quyết trọng tài chung thẩm | Kết quả trọng tài lao động có hiệu lực ngay khi ban hành; đơn vị sử dụng lao động không thể đưa cùng việc đó ra tòa kiện tiếp |
+| Tỷ suất kết hôn thô, tỷ suất ly hôn thô | Số cặp đăng ký kết hôn hoặc ly hôn trong năm trên mỗi nghìn dân. Còn một chỉ số khác là tỷ số ly hôn/kết hôn: số cặp ly hôn trong năm chia số cặp kết hôn. Đây không phải cùng hai chỉ số kia, đừng nhầm |
+| AED | Máy khử rung tim tự động ngoài cơ thể. Thường nằm trong hộp sơ cứu màu đỏ hoặc vàng ở nơi công cộng; bật máy rồi làm theo lời hướng dẫn, máy tự quyết định có cần sốc điện không |
+| CPR | Hồi sinh tim phổi. Khi ngừng tim, ép mạnh lên ngực để máu tiếp tục lưu thông |
+| Chứng nhận 3C | Chứng nhận sản phẩm bắt buộc của Trung Quốc. Sản phẩm nằm trong danh mục mà không in dấu này thì không được xuất xưởng hoặc bán |
+| Đăng ký ICP | Trước khi website hoặc App chính thức hoạt động, làm thủ tục đăng ký trong hệ thống của Bộ Công nghiệp và Công nghệ thông tin Trung Quốc |
+| Bảo vệ theo cấp độ | Chế độ bảo vệ an ninh mạng theo cấp độ. Chia hệ thống thành các cấp theo mức quan trọng; cấp càng cao, biện pháp bảo mật cần làm càng nhiều |
+| GPL | Một loại giấy phép mã nguồn mở. Sản phẩm dùng mã loại này khi phân phối thường phải công khai cả mã của mình |
+| Hạn chế cạnh tranh | Thỏa thuận với công ty: trong một thời gian sau nghỉ việc không làm cho đối thủ cùng ngành. Công ty phải bồi thường theo tháng trong thời gian đó, tối đa 2 năm |
+| Vốn cam kết góp | Số tiền cam kết góp khi đăng ký công ty. Đã cam kết thì phải thực sự góp trong thời hạn luật định, không phải ghi con số cho đẹp |
+| Tiền đặt cọc (定金) và tiền trả trước (订金) | Hai từ tương ứng trong tiếng Trung chỉ khác một chữ nhưng hiệu lực rất khác. Tiền đặt cọc có chế tài: bên nhận tiền đổi ý phải trả gấp đôi, số tiền tối đa bằng 20% giá trị hợp đồng. Tiền trả trước chỉ là khoản trả sớm, đổi ý không có chế tài đó |
+| Theo quy định, sơ thẩm phải xét xử xong trong 6 tháng | Sách nói về thời hạn pháp luật đặt ra cho tòa án, không phải thời gian thực tế phải chờ. Với vụ án dân sự sơ thẩm theo thủ tục thông thường, tòa phải xét xử xong trong 6 tháng kể từ khi thụ lý; trường hợp đặc biệt được phê duyệt thì có thể gia hạn. Thủ tục rút gọn có thời hạn 3 tháng. Thời gian giám định và tống đạt bằng thông báo công khai không tính vào đó, nên thực tế thường kéo dài hơn |
 
 </details>
 
-## 目录
+## Mục lục
 
-1. [不要早死](book/01-不要早死.md)：外因死亡、燃气与中毒、疫苗、筛查、心理危机与自杀念头的时间尺度、被救回来之后留下什么、坠落重伤之后的那一年、卖掉一个肾之后剩下那个肾的账、家庭应急装备、肉眼血尿等该去查的信号、65 岁以上女性查骨密度与查出骨质疏松就用药、上野外冰面前先量冰厚、用角磨机装好护罩戴护目镜、直接问身边人有没有想过自杀、查出房颤吃抗凝药、查一次丙肝抗体、下化粪池窨井之前先通风、检测并落实防护监护、高风险的人做胃镜筛查、泡发的木耳别过夜。口径：总死亡率 或特定死因。
-2. [不要慢慢死](book/02-不要慢慢死.md)：烟酒、运动、睡眠、饮食（低钠盐、坚果、全谷物、加工肉、散装自榨花生油、植物油代替猪油）、久坐，以及戒烟戒酒的具体办法（戒烟药、戒烟日、戒烟门诊与热线、电子烟、酒精戒断不能自己硬扛）、午睡时长、熬夜之后怎么补、上夜班的年数账、做饭开抽油烟机、绝经前后潮热去评估激素治疗、养狗和寿命的账、定期查血脂、查出糖尿病前期靠少吃多动往后推、发霉的花生玉米坚果整包扔、别吃淡水鱼做的鱼生。口径：总死亡率 或特定死因。长文见 [docs/生物钟和夜班.md](docs/生物钟和夜班.md)。
-3. [不要浪费精力](book/03-不要浪费精力.md)：睡眠、打断、多任务、人际负债、和机构打交道时该有的预期、痛经别硬扛、长期失眠先做认知行为治疗、打鼾憋气去查睡眠呼吸暂停。口径：精力/时间。
-4. [不要浪费时间](book/04-不要浪费时间.md)：无收益项目、沉没成本、拖延（情绪解释、改环境、承诺装置、习惯要多久、自助材料）、会议、通勤。口径：时间。
-5. [不要浪费钱](book/05-不要浪费钱.md)：订阅、彩票、利息与借钱先换成年化利率、保险、基金费率、个人养老金、车险、预付款、直播带货、医保个人账户、孩子被骗与充值退款、手串名表潮玩不按投资算、珠宝玉石的检测报告怎么核、盲盒抽卡、想买海外资产走哪条合法渠道，节末六条讲保险：只给扛不住的损失买、挣钱的人先买定期寿险、犹豫期退保、银行柜台别把保险当存款、别找代理退保、受益人和理赔时效；然后是别买虚拟货币，买币的交易不受法律保护，亏了要不回来；然后是没单位的人自己交职工养老保险怎么算账：按最低档交、先把年限交够最划算，按最低档也要领约 10 年才回本；节末三条讲买车：新车三包什么时候能换车退车，在车商那里买二手车被隐瞒事故、泡水怎么要退车和三倍赔偿，4S 店的金融服务费和捆绑保险、上牌不用交、跟团被带进购物店 30 天内找旅行社退货。口径：金钱。
-6. [反面清单](book/06-反面清单.md)：看起来性价比高但其实不高的东西，含「意志力会用完」这个说法，靠学搬运姿势防腰痛，骨折之后猛补钙、喝骨头汤，靠 AI 聊天机器人自己判断病情和法律问题，以及「人随时会死，早点把钱花完」这个说法、中老年膝盖退化疼别做关节镜清理、别靠褪黑素治长期失眠、感冒别要求输液。
-7. [没钱的时候怎么活](book/07-没钱的时候怎么活.md)：救助、补贴、找活、住宿吃饭、医疗、欠薪维权、避坑、信用卡网贷还不上找银行协商分期、别找停息挂账中介。口径：金钱/保障。
-8. [别把自己搭进去：法律与财产安全](book/08-别把自己搭进去.md)：交通事故、被骗止付、AI 换脸拟声、自首和如实供述能减多少刑与「躲过追诉期」这条路为什么不通、被指控和被人捏造事实举报之后能走哪些路、拿举报要挟对方掏钱和自己正常索赔的分界、冲突与泄愤式极端暴力、伤人冲动与身边人的送诊权、给家人投保后动手的四道法律门、被网暴之后走平台与禁令、彩礼、婚前财产、担保、反诈、熟人让你刷脸、念验证码办贷款的 AB 贷、诉讼时效、被执行与失信名单、养犬责任与狂犬疫苗登记、报警之后的受案回执与不立案救济、送钱摆平就是行贿罪、防入室盗窃的门窗锁与感应灯。口径：金钱/人身自由。
-9. [普通人容易踩的法律红线](book/09-普通人容易踩的法律红线.md)：谣言、侮辱英烈、境外内容只看不转、传播色情、兼职洗钱、伪造材料骗贷、伪造事故骗理赔、高空抛物、仿真枪、无人机、偷拍、养不了孩子时的合法送养与拐卖遗弃的界线、赌博、野味、卖器官与帮人找供体，第 24、25 条是著作权：汉化、搬运、分享网盘资源不收钱也侵权、挂广告收会员费就可能判刑，写同人拿去出版卖钱先拿许可，节末是为了防身带甩棍、电击器、匕首出门会被罚，以及电鱼和禁渔期捕鱼、上坟野炊在林区草原点火、不找人替考不买卖答案。口径：人身自由/金钱。
-10. [恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md)：择偶策略、纠缠的红线、兴趣信号、关系质量、异地恋、登记流程、婚检、健康账、时间账、钱账、父母出资买房与夫妻共同债务、退出成本、关系卡住了一起去做伴侣治疗、摆了酒席不领证不算夫妻、配偶拿共同的钱打赏主播或转给婚外的人怎么办、离婚时写清孩子的抚养费和探望。长文见 [docs/结婚划不划算.md](docs/结婚划不划算.md)。
-11. [程序员和技术人容易踩的红线](book/11-程序员和技术人容易踩的红线.md)：外挂、爬虫、抢票脚本、删库、带走源码、接单开发、竞业、开源许可、备案、跳过或屏蔽别家广告的工具、AI 中转站、破解补丁和注册机、DDoS 打流量。口径：人身自由/金钱。
-12. [创业与做生意：别把家底赔进去](book/12-创业与做生意.md)：本钱、担保、主体选择、注册登记、许可证、纳税申报、发票、涉税诈骗、合同、用人、量产、进货与用图的知识产权红线、退场，节末两条讲代运营、开店培训和「无货源」这类先收小钱再层层加钱的创业骗局，以及每年上半年要报的年报、凑钱做生意别公开招人投钱、租铺面先查能不能开店、合伙先写书面协议。口径：金钱/法律责任。
-13. [紧急情况：先做什么](book/13-紧急情况.md)：心脏骤停、卒中与后循环卒中、眼中风、心梗、主动脉夹层、霹雳样头痛、慢性硬膜下血肿、肺栓塞、大出血、咬伤、烧烫伤、过敏性休克、癫痫、低血糖、触电、一氧化碳、误服与化学品灼伤、扎进身体的异物、骨折固定、骗局、隐私威胁、中暑、火灾、溺水、迷路、失温、蛇咬、地震、野兽、雷击、高原病、蜱虫、野外饮水；还有救不救得起：老人摔倒怎么扶、撞见斗殴怎么办、救人受伤之后的钱找谁；节末是 1 岁以下婴儿噎住、婴儿心肺复苏、孩子吞纽扣电池和磁珠、照看喝醉的人、断指怎么保存、撞掉的恒牙怎么放回。口径：存活率与金钱，末几条兼及人身自由。
-14. [账号与信息安全](book/14-账号与信息安全.md)：二次验证、密码、SIM 卡、手机丢失、银行卡盗刷、登录设备、App 权限、人脸识别、查阅与删除权、来路不明的 AI 中转站、每年查名下的电话卡和银行卡、换号前先改绑账号。口径：金钱/个人信息。
-15. [租房与买房](book/15-租房与买房.md)：押金、暴力腾退、中介代收、资金监管、买卖不破租赁、产权核对、交易资金专户、隔断房、城镇户口别买宅基地只能租农房；买房：期房资金监管账户、认购定金与贷款批不下来时退钱、面积误差与广告承诺、逾期交房办证、预告登记、存量房贷协商降利率、先用公积金贷款、物业不能停水停电催费、新房交付验房与保修期。口径：金钱。
-16. [得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md)：服药依从、门诊慢特病跨省结算、复查记录、别停药试偏方、长期处方、家庭医生签约、并发症筛查、肾结石复发预防、痛风的达标治疗与防发作、乙肝携带者每半年查 B 超和甲胎蛋白、慢阻肺的吸入剂和肺康复、有高血压糖尿病的每年查肾、结肠癌术后有人指导的运动。口径：总死亡率/金钱。长文见 [docs/刚确诊慢性病之后.md](docs/刚确诊慢性病之后.md)。
-17. [家里有老人](book/17-家里有老人.md)：意定监护、遗嘱形式、账户与话术、投资养老与以房养老骗局、长期护理保险、长期卧床的压疮防护、白内障影响看路就去评估手术、老人遛狗别被拽倒、送养老院先查备案与押金上限、子女护理假、记性变差去记忆门诊。口径：金钱/人身自由，压疮、白内障和遛狗三条为死亡率。
-18. [养孩子划不划算](book/18-养孩子划不划算.md)：育儿补贴、产假与生育津贴、三期保护、时间账、钱账、晚几年再生孩子的年龄账、陪产假和育儿假。口径：金钱/时间。
-19. [在职、离职和工伤](book/19-在职离职和工伤.md)：加班费、年休假、试用期；职业病危害告知与三次体检、粉尘噪声防护；N、代通知金、2N、别签主动辞职、留证；工伤认定时限、单位未参保、劳动能力鉴定、工亡待遇；离职证明、补偿的个税；换城市工作时养老和医保关系的转移、没签合同的双倍工资、不交社保怎么让它补和辞职拿补偿、离职违约金只有两种能约定、不同意调岗降薪要书面提出、劳务派遣同工同酬与连带赔偿。口径：金钱。长文见 [docs/被裁了之后先做什么.md](docs/被裁了之后先做什么.md) 和 [docs/换工作、换城市之前.md](docs/换工作、换城市之前.md)。
-20. [刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md)：安全睡眠、乙肝首针、免疫规划疫苗、母乳与辅食、冲奶水温、蜂蜜、维生素 K、发热就医红线、不摇晃、尿布与大件采购、高危孩子早引入花生防过敏、新生儿黄疸的就医信号、妈妈吃素时补维生素 B12、别买带轮子的学步车、婴儿每天补维生素 D、洗澡先放冷水防烫。口径：婴儿死亡率/金钱。
-21. [出国、旅行与境外安全](book/21-出国旅行与境外安全.md)：安全提醒级别、12308、领事保护的边界、境外医疗保险、境外高薪招聘骗局、境外取现的年度额度、证件丢失、境外驾照、中介备案、出国带药先查目的地规定、回国别带肉制品和水果。口径：金钱/人身自由。
-22. [怎么放松：娱乐场所和减压](book/22-怎么放松.md)：安全出口、明码标价、涉毒红线、别人递的东西、剧本杀选址；运动、正念、呼吸、社交、绿地、喝了酒别泡温泉蒸桑拿、滑雪骑车戴头盔。口径：金钱/人身自由，以及精力/总死亡率。
-23. [学什么技能划算](book/23-学什么技能划算.md)：读书还是打工（童工年龄线、教育与死亡率、全国学历结构、免学费与助学金助学贷款、中职升学通道、怎么自己算这笔账）、教育回报率、山寨证书、培训补贴、哪些本事不容易被机器取代、技能等级、紧缺职业怎么查，以及定下来学什么之后怎么学（自测、分散练习、别靠划重点、交错练习、学习风格没有证据），最后是职称（申报渠道、以考代评、代评造假的后果、评上不等于聘上），以及要不要接着读硕士、博士（学费和助学金标准、扣掉个人差别后的收入回报、博士生的抑郁焦虑比例）。口径：金钱/时间，其中一条为死亡率。
-24. [看病：怎么少花钱少走弯路](book/24-看病.md)：分级诊疗与转诊、起付线连续计算、报销比例差、预留号源、异地就医必要性评估、病历留存与封存、急诊预检分诊的四级顺序、无力支付时的疾病应急救助、伤残鉴定的时机、残疾人证怎么办、不用给医生送红包、种植牙的包干价与医保范围、谈判药去双通道药店买、互联网医院线上复诊、住院费用清单逐项对。口径：金钱/时间。
-25. [人走了以后要办什么](book/25-人走了以后要办什么.md)：报警与死亡证明、遗体接运与火化、死因异议与尸检、注销户口、殡葬基础项目清单、价格违法、中介备案、公积金余额与社保待遇、死者个人信息权利、欠债只在继承的遗产范围内还与书面放弃继承、办继承别默认先去公证。口径：金钱。
-26. [做一个网站或平台：资质、备案和服务器](book/26-做一个网站或平台.md)：支付结算红线、ICP 许可与备案、直播与视听资质、平台核验与涉税报送、内容治理、实名、未成年人、通知删除、数据出境、服务器选型、App 和小程序也要备案、用户信息泄露后通知、自动续费的提醒义务。口径：人身自由/金钱。长文见 [docs/做平台要办哪些证.md](docs/做平台要办哪些证.md)。
-27. [怀孕和生产：从发现怀孕到出院办证](book/27-怀孕和生产.md)：叶酸、建册与免费产检、三病筛查与母婴阻断、孕期烟酒、阿司匹林与妊娠期糖尿病、立刻去医院的信号、破水处置、无痛分娩、剖宫产指征、生育保险、出生医学证明、新生儿筛查、参保与落户、产后 42 天复查、怀孕了猫不用送走、孕期打流感灭活疫苗、孕晚期侧着睡（争议）、产后避孕与生育间隔（争议）。口径：死亡率与金钱。长文见 [docs/孩子出生前后要办的事.md](docs/孩子出生前后要办的事.md)。
-28. [别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md)：极端节食与进食障碍、医美机构与主诊医师两证、面部填充的失明部位、违法添加西布曲明的减肥产品、合成代谢类固醇、减肥药与性激素的处方和复查、体像评估、正畸牙套要有医生当面检查和复诊、祛斑美白霜核对国妆特字编号。口径：死亡率（健康终点），医美两条兼及人身自由。
-29. [遭遇重大打击之后](book/29-遭遇重大打击之后.md)：丧亲头一个月的心血管窗口、重病诊断的第一周、失业、丧偶后的半年、因自杀丧亲、没有亲人也没有朋友时怎么替代那个人、家长去世的孩子、哀伤卡住了去哪挂号、离婚、12356 与 12355、别在应激期做不可逆的决定、用死还债这条路不通、自己经历创伤后的心理治疗与别做一次性晤谈。口径：总死亡率，谈花钱与待遇的四条为金钱。
-30. [上学以后的孩子](book/30-上学以后的孩子.md)：按小时算的急症、别为了考试推迟治疗、被欺凌怎么办、每天户外 2 小时、学生体检报告单、青少年抑郁筛查、治愈近视的产品、睡眠与作业的硬规定、休学保留学籍、散瞳验光与复查、窝沟封闭、管孩子不打不吼骂、家长课、别送戒网瘾学校、教孩子认识隐私部位防性侵、骑车上路的年龄门槛、运动撞头当天别再上场。口径：死亡率与健康终点，另有金钱和时间各一到两条。
-31. [十八岁之后有哪几条路](book/31-十八岁之后有哪几条路.md)：十二条路的法定门槛；当兵（兵役登记、义务兵两年、拒服兵役的联合惩戒、学费补偿与升学、安置与 30 日报到、退役金与工龄税收）；基层服务项目的定向考录；特岗教师期满入编；消防员与军队文职；自考、成人高考与开放大学；公费师范生与定向医学生的 6 年履约；出国打工找什么样的公司；在家给境外公司远程干活的个税与收汇；创业担保贷款；灵活就业的社保；骑手的职业伤害保障、毕业两年内考公先查应届生认定。口径：金钱/时间，拒服兵役那条兼及人身自由。
-32. [出国留学：身份、打工、保险和回国认证](book/32-出国留学.md)：交学费前查认证院校名单；美国 F-1「最长四年、读完 30 天内走」的新规被法院暂停，眼下仍是读完为止与 60 天宽限期；美加英澳四国的打工时数上限；按国家、工作类型和在读状态核对打工资格；搬家 10 日内报备；教育部留学预警；澳大利亚 OSHC 不能断；英国医疗附加费；留服认证的 10 到 20 个工作日；被加强审查的院校名单、美国 OPT 失业天数上限、加拿大省级证明信。口径：金钱/人身自由。
-33. [残疾之后怎么活](book/33-残疾之后怎么活.md)：自主神经反射异常的现场三步、致残后十年的自杀窗口、精神障碍住院的自愿原则与两种例外、照护者自己的死亡风险、轮椅减压坐垫、治愈系骗局、办证之后该问全的六项待遇、长期护理保险不只给老人、0—6 岁康复救助、家庭无障碍改造补贴、按比例就业与残保金、个税减征、导盲犬与免费乘车、高考合理便利、学校不得拒收与送教上门、C5 驾照、康复机构怎么挑、助听器、行为能力认定与监护、脊髓损伤后别长期插着尿管。口径：死亡率/金钱/时间/人身自由。
-34. [家里的常备药别吃出事](book/34-家里的常备药别吃出事.md)：对乙酰氨基酚别吃重复、孩子退烧不用阿司匹林尼美舒利安乃近、布洛芬伤胃的高危人群、2 岁以下不自己喂复方感冒药、怀孕 20 周后不自己吃布洛芬、奥美拉唑自己吃最多 7 天、感冒不要抗生素、腹泻先补液与孩子不给止泻药、止痛药吃多了反而头痛、过期药和剩药投有害垃圾、头孢甲硝唑期间和停药后 7 天不喝酒、吃了犯困的感冒药抗过敏药别开车、吃降脂药降压药的看说明书别吃西柚和柚子。口径：死亡率。
+1. [Đừng chết sớm](https://ibretsam.github.io/HowToLiveBetter/#sec-1): tử vong do nguyên nhân bên ngoài, khí đốt và ngộ độc, vaccine, sàng lọc, khủng hoảng tâm lý và khoảng thời gian của ý nghĩ tự sát, di chứng sau khi được cứu sống, năm đầu sau chấn thương nặng do ngã cao, hậu quả với quả thận còn lại sau khi bán một quả thận, trang bị khẩn cấp cho gia đình, tiểu máu nhìn thấy được và các dấu hiệu cần kiểm tra, phụ nữ từ 65 tuổi trở lên đo mật độ xương và dùng thuốc nếu phát hiện loãng xương, đo độ dày trước khi bước lên mặt băng ngoài tự nhiên, lắp chụp bảo vệ và đeo kính khi dùng máy mài góc, hỏi trực tiếp người bên cạnh đã từng nghĩ đến tự sát chưa, dùng thuốc chống đông khi phát hiện rung nhĩ, xét nghiệm kháng thể viêm gan C một lần, trước khi xuống bể phốt hoặc hố ga phải thông gió, kiểm tra khí và bố trí bảo hộ cùng người giám sát, nội soi dạ dày sàng lọc ở người nguy cơ cao, không ngâm mộc nhĩ qua đêm. Loại lợi ích: tỷ lệ tử vong do mọi nguyên nhân hoặc do nguyên nhân cụ thể.
+2. [Đừng để mình chết dần](https://ibretsam.github.io/HowToLiveBetter/#sec-2): thuốc lá, rượu, vận động, ngủ, ăn uống (muối ít natri, hạt, ngũ cốc nguyên hạt, thịt chế biến, dầu lạc tự ép bán rời, dùng dầu thực vật thay mỡ lợn), ngồi lâu; cách cụ thể cai thuốc và cai rượu (thuốc cai thuốc lá, ngày bỏ thuốc, phòng khám và đường dây cai thuốc, thuốc lá điện tử, không tự chịu đựng hội chứng cai rượu); thời lượng ngủ trưa, bù sau thức khuya, số năm làm ca đêm, bật máy hút mùi khi nấu ăn, bốc hỏa quanh mãn kinh thì đánh giá liệu pháp hormone, cân nhắc nuôi chó và tuổi thọ, kiểm tra mỡ máu định kỳ, ăn ít và vận động nhiều để trì hoãn bệnh khi phát hiện tiền đái tháo đường, lạc/ngô/hạt bị mốc thì bỏ cả gói, không ăn gỏi cá nước ngọt. Loại lợi ích: tỷ lệ tử vong do mọi nguyên nhân hoặc do nguyên nhân cụ thể. Bài dài xem [Nhịp sinh học và ca đêm](https://ibretsam.github.io/HowToLiveBetter/#doc-dong-ho-sinh-hoc-va-ca-dem).
+3. [Đừng lãng phí sức lực](https://ibretsam.github.io/HowToLiveBetter/#sec-3): ngủ, bị gián đoạn, làm nhiều việc cùng lúc, nợ nghĩa tình, kỳ vọng khi làm việc với tổ chức, không cố chịu đau bụng kinh, mất ngủ kéo dài ưu tiên trị liệu nhận thức hành vi, ngủ ngáy và ngạt thở thì kiểm tra ngưng thở khi ngủ. Loại lợi ích: sức lực/thời gian.
+4. [Đừng lãng phí thời gian](https://ibretsam.github.io/HowToLiveBetter/#sec-4): việc không có lợi ích, chi phí chìm, trì hoãn (giải thích bằng cảm xúc, thay đổi môi trường, cơ chế cam kết, hình thành thói quen mất bao lâu, tài liệu tự hỗ trợ), họp và đi lại làm việc. Loại lợi ích: thời gian.
+5. [Đừng lãng phí tiền](https://ibretsam.github.io/HowToLiveBetter/#sec-5): đăng ký dịch vụ định kỳ, xổ số, lãi suất và quy đổi về lãi suất năm trước khi vay, bảo hiểm, phí quỹ, lương hưu cá nhân, bảo hiểm xe, trả trước, bán hàng qua livestream, tài khoản bảo hiểm y tế cá nhân, trẻ bị lừa và hoàn tiền nạp, không coi vòng hạt/đồng hồ hàng hiệu/đồ chơi sưu tầm là đầu tư, kiểm tra báo cáo giám định trang sức và ngọc, hộp mù và rút thẻ, kênh hợp pháp mua tài sản nước ngoài. Sáu mục cuối nói về bảo hiểm: chỉ mua cho tổn thất không gánh nổi, người kiếm tiền ưu tiên bảo hiểm nhân thọ có kỳ hạn, hủy trong thời gian cân nhắc, không nhầm bảo hiểm bán tại quầy ngân hàng với tiền gửi, không tìm dịch vụ đứng ra hủy bảo hiểm, người thụ hưởng và thời hạn yêu cầu chi trả. Tiếp theo là đừng mua tiền ảo: giao dịch không được pháp luật bảo vệ, mất tiền không đòi lại được. Sau đó là tính việc tự đóng bảo hiểm hưu trí dành cho người lao động khi không có đơn vị: đóng mức thấp nhất, trước hết đủ số năm là có lợi nhất; ngay cả mức thấp nhất cũng phải nhận khoảng 10 năm mới thu hồi số đã đóng. Ba mục cuối nói về mua xe: khi nào bảo hành, đổi và trả xe mới cho phép đổi/trả; mua xe cũ từ người kinh doanh bị giấu tai nạn hoặc ngập nước thì yêu cầu trả xe và bồi thường gấp ba thế nào; không phải trả phí dịch vụ tài chính, bảo hiểm và đăng ký biển số bị đại lý 4S bán kèm; theo tour bị đưa vào cửa hàng mua sắm thì trong 30 ngày yêu cầu công ty du lịch hoàn hàng. Loại lợi ích: tiền bạc.
+6. [Danh sách những việc tưởng lợi mà không lợi](https://ibretsam.github.io/HowToLiveBetter/#sec-6): những thứ trông có lợi so với chi phí nhưng thực ra không, gồm quan niệm “ý chí sẽ dùng hết”, học tư thế bê đồ để phòng đau lưng, bổ sung thật nhiều canxi hoặc uống canh xương sau gãy xương, dùng chatbot AI tự phán đoán bệnh và vấn đề pháp luật, quan niệm “có thể chết bất cứ lúc nào nên tiêu hết tiền sớm”, không nội soi làm sạch khớp gối khi người trung cao tuổi đau do thoái hóa, không dựa vào melatonin để chữa mất ngủ kéo dài, không đòi truyền dịch khi cảm lạnh.
+7. [Sống thế nào khi không có tiền](https://ibretsam.github.io/HowToLiveBetter/#sec-7): cứu trợ, trợ cấp, tìm việc, chỗ ở và ăn uống, khám chữa bệnh, đòi quyền lợi khi bị nợ lương, tránh bẫy, không trả được thẻ tín dụng hoặc vay trực tuyến thì thương lượng trả góp với ngân hàng, không tìm môi giới hứa dừng lãi và treo nợ. Loại lợi ích: tiền bạc/bảo đảm quyền lợi.
+8. [Đừng tự vướng vào rắc rối: pháp luật và an toàn tài sản](https://ibretsam.github.io/HowToLiveBetter/#sec-8): tai nạn giao thông, ngăn thanh toán khi bị lừa, AI ghép mặt và giả giọng, tự thú và khai thật được giảm án bao nhiêu, vì sao trốn chờ hết thời hiệu truy cứu không phải lối thoát; cách xử lý khi bị buộc tội hoặc bị bịa chuyện tố cáo; ranh giới giữa dùng tố cáo ép người khác đưa tiền và yêu cầu bồi thường bình thường; xung đột, bạo lực cực đoan để trút giận, thôi thúc làm hại người và quyền đưa đi khám của người bên cạnh; bốn vấn đề pháp lý khi mua bảo hiểm cho người nhà rồi gây hại; dùng kênh nền tảng và lệnh cấm sau bạo lực mạng; sính lễ, tài sản trước hôn nhân, bảo lãnh, chống lừa đảo, khoản vay AB khi người quen nhờ quét mặt và đọc mã xác minh; thời hiệu khởi kiện, thi hành án và danh sách mất uy tín; trách nhiệm nuôi chó và đăng ký vaccine dại; giấy tiếp nhận sau báo công an và cách yêu cầu xem xét khi không khởi tố; đưa tiền để dàn xếp là đưa hối lộ; khóa cửa, cửa sổ và đèn cảm biến chống trộm đột nhập. Loại lợi ích: tiền bạc/tự do thân thể.
+9. [Những ranh giới pháp luật người bình thường dễ vượt qua](https://ibretsam.github.io/HowToLiveBetter/#sec-9): tin đồn, xúc phạm anh hùng liệt sĩ, nội dung nước ngoài chỉ xem không chia sẻ, phát tán nội dung khiêu dâm, làm thêm rửa tiền, giả tài liệu lừa vay, dựng tai nạn giả đòi bảo hiểm, ném đồ từ trên cao, súng mô phỏng, drone, quay lén, không nuôi được con thì cho nhận nuôi hợp pháp và ranh giới với buôn bán/bỏ rơi trẻ, cờ bạc, thịt thú hoang, bán nội tạng và giúp tìm người hiến. Mục 24, 25 nói về bản quyền: dịch sang tiếng Trung, đăng lại, chia sẻ tài nguyên lưu trữ đám mây dù không thu tiền vẫn xâm phạm; gắn quảng cáo hoặc thu phí hội viên có thể bị kết án; xuất bản và bán tác phẩm phái sinh do người hâm mộ sáng tác phải xin phép trước. Cuối chương nói về bị phạt khi mang dùi cui rút, dụng cụ chích điện hoặc dao găm ra ngoài để tự vệ, đánh cá bằng điện và đánh bắt trong mùa cấm, đốt lửa khi viếng mộ hoặc dã ngoại trong rừng và đồng cỏ, không thuê thi hộ hoặc mua bán đáp án. Loại lợi ích: tự do thân thể/tiền bạc.
+10. [Yêu và kết hôn có đáng không](https://ibretsam.github.io/HowToLiveBetter/#sec-10): cách chọn bạn đời, giới hạn của đeo bám, tín hiệu quan tâm, chất lượng quan hệ, yêu xa, đăng ký kết hôn, khám tiền hôn nhân, cân nhắc sức khỏe/thời gian/tiền bạc, cha mẹ góp tiền mua nhà và nợ chung vợ chồng, chi phí chấm dứt, quan hệ bế tắc thì cùng trị liệu cặp đôi, tổ chức tiệc không đăng ký không được coi là vợ chồng, vợ/chồng dùng tiền chung tặng streamer hoặc chuyển cho người ngoài hôn nhân thì làm gì, khi ly hôn ghi rõ tiền cấp dưỡng và thăm con. Bài dài xem [Kết hôn có đáng không](https://ibretsam.github.io/HowToLiveBetter/#doc-ket-hon-co-dang-khong).
+11. [Những giới hạn lập trình viên và người làm kỹ thuật dễ vi phạm](https://ibretsam.github.io/HowToLiveBetter/#sec-11): phần mềm gian lận trò chơi, thu thập dữ liệu tự động, script giành vé, xóa cơ sở dữ liệu, mang mã nguồn đi, nhận việc phát triển, hạn chế cạnh tranh, giấy phép nguồn mở, đăng ký, công cụ bỏ qua hoặc chặn quảng cáo của bên khác, dịch vụ trung gian AI, bản vá bẻ khóa và công cụ tạo mã đăng ký, tấn công DDoS bằng lưu lượng. Loại lợi ích: tự do thân thể/tiền bạc.
+12. [Khởi nghiệp và kinh doanh: đừng mất cả tài sản gia đình](https://ibretsam.github.io/HowToLiveBetter/#sec-12): vốn, bảo lãnh, chọn loại chủ thể, đăng ký, giấy phép, khai thuế, hóa đơn, lừa đảo liên quan thuế, hợp đồng, tuyển dụng, sản xuất hàng loạt, giới hạn sở hữu trí tuệ khi nhập hàng và dùng ảnh, rút khỏi kinh doanh. Hai mục cuối nói về lừa đảo khởi nghiệp ban đầu thu ít rồi tăng dần như vận hành thuê, đào tạo mở cửa hàng và mô hình “không giữ hàng”; cùng báo cáo năm phải nộp trong nửa đầu năm, góp tiền kinh doanh không công khai kêu gọi người đầu tư, thuê mặt bằng kiểm tra trước có được mở cửa hàng không, hợp tác phải lập thỏa thuận bằng văn bản trước. Loại lợi ích: tiền bạc/trách nhiệm pháp lý.
+13. [Tình huống khẩn cấp: làm gì trước](https://ibretsam.github.io/HowToLiveBetter/#sec-13): ngừng tim, đột quỵ và đột quỵ tuần hoàn sau, đột quỵ mắt, nhồi máu cơ tim, bóc tách động mạch chủ, đau đầu như sét đánh, tụ máu dưới màng cứng mạn tính, thuyên tắc phổi, chảy máu nhiều, vết cắn, bỏng, sốc phản vệ, động kinh, hạ đường huyết, điện giật, carbon monoxide, uống nhầm và bỏng hóa chất, dị vật đâm vào cơ thể, cố định gãy xương, lừa đảo, đe dọa riêng tư, sốc nhiệt, hỏa hoạn, đuối nước, lạc đường, hạ thân nhiệt, rắn cắn, động đất, thú hoang, sét đánh, bệnh độ cao, bọ ve, nước uống ngoài tự nhiên. Còn cân nhắc chi phí khi cứu người: đỡ người già bị ngã thế nào, gặp đánh nhau thì làm gì, bị thương khi cứu người thì đòi tiền ai. Cuối chương là trẻ từ 1 tuổi trở xuống bị hóc, hồi sinh tim phổi cho trẻ sơ sinh/nhũ nhi, trẻ nuốt pin cúc áo và hạt nam châm, trông người say, bảo quản ngón tay đứt, đặt lại răng vĩnh viễn bị bật ra. Loại lợi ích: khả năng sống sót và tiền bạc; vài mục cuối còn liên quan tự do thân thể.
+14. [An toàn tài khoản và thông tin](https://ibretsam.github.io/HowToLiveBetter/#sec-14): xác minh hai bước, mật khẩu, SIM, mất điện thoại, giao dịch thẻ ngân hàng trái phép, thiết bị đăng nhập, quyền ứng dụng, nhận diện khuôn mặt, quyền xem và xóa dữ liệu, dịch vụ trung gian AI không rõ nguồn gốc, mỗi năm kiểm tra SIM và thẻ ngân hàng đứng tên mình, đổi số điện thoại phải chuyển liên kết tài khoản trước. Loại lợi ích: tiền bạc/thông tin cá nhân.
+15. [Thuê và mua nhà](https://ibretsam.github.io/HowToLiveBetter/#sec-15): tiền cọc, cưỡng ép đuổi người thuê bằng bạo lực, môi giới thu hộ, giám sát tiền, bán nhà không làm mất hợp đồng thuê, kiểm tra quyền sở hữu, tài khoản riêng cho tiền giao dịch, phòng bị chia nhỏ, người có hộ khẩu thành thị không mua đất ở nông thôn mà chỉ thuê nhà nông thôn. Khi mua nhà: tài khoản giám sát tiền nhà đang xây, cọc đặt mua và hoàn tiền khi không được duyệt vay, sai lệch diện tích và cam kết quảng cáo, chậm bàn giao hoặc làm giấy tờ, đăng ký trước quyền yêu cầu, thương lượng giảm lãi vay nhà hiện có, ưu tiên vay quỹ nhà ở, đơn vị quản lý không được cắt điện nước để đòi phí, nghiệm thu nhà mới và thời hạn bảo hành. Loại lợi ích: tiền bạc.
+16. [Sống thế nào sau khi mắc bệnh mạn tính](https://ibretsam.github.io/HowToLiveBetter/#sec-16): dùng thuốc đúng chỉ định, thanh toán bảo hiểm ngoại trú bệnh mạn tính/đặc biệt liên tỉnh, hồ sơ tái khám, không bỏ thuốc để thử mẹo dân gian, đơn thuốc dài hạn, đăng ký bác sĩ gia đình, sàng lọc biến chứng, phòng tái phát sỏi thận, điều trị gút đạt mục tiêu và phòng cơn cấp, người mang virus viêm gan B mỗi nửa năm siêu âm và xét nghiệm alpha-fetoprotein, thuốc hít và phục hồi chức năng phổi khi mắc COPD, tăng huyết áp/đái tháo đường thì kiểm tra thận mỗi năm, tập luyện có hướng dẫn sau mổ ung thư đại tràng. Loại lợi ích: tỷ lệ tử vong do mọi nguyên nhân/tiền bạc. Bài dài xem [Vừa được chẩn đoán bệnh mạn tính](https://ibretsam.github.io/HowToLiveBetter/#doc-sau-chan-doan-benh-man-tinh).
+17. [Trong nhà có người cao tuổi](https://ibretsam.github.io/HowToLiveBetter/#sec-17): giám hộ theo thỏa thuận, hình thức di chúc, tài khoản và cách nói chuyện, lừa đầu tư dưỡng già hoặc dùng nhà để dưỡng già, bảo hiểm chăm sóc dài hạn, phòng loét tì đè khi nằm lâu, đục thủy tinh thể ảnh hưởng nhìn đường thì đánh giá phẫu thuật, người cao tuổi dắt chó tránh bị kéo ngã, trước khi vào viện dưỡng lão kiểm tra đăng ký và trần tiền cọc, phép chăm sóc cha mẹ của con, trí nhớ kém đi thì đến phòng khám trí nhớ. Loại lợi ích: tiền bạc/tự do thân thể; ba mục loét tì đè, đục thủy tinh thể và dắt chó tính theo tử vong.
+18. [Nuôi con có đáng không](https://ibretsam.github.io/HowToLiveBetter/#sec-18): trợ cấp nuôi con, nghỉ thai sản và trợ cấp sinh con, bảo vệ trong ba giai đoạn mang thai/sinh con/cho con bú, cân nhắc thời gian và tiền bạc, tuổi tác khi sinh con muộn vài năm, nghỉ chăm vợ sinh và nghỉ chăm con. Loại lợi ích: tiền bạc/thời gian.
+19. [Đang làm việc, nghỉ việc và tai nạn lao động](https://ibretsam.github.io/HowToLiveBetter/#sec-19): tiền làm thêm, phép năm, thử việc; thông báo nguy cơ nghề nghiệp và ba lần khám sức khỏe, bảo vệ khỏi bụi và tiếng ồn; N, tiền thay báo trước, 2N, đừng ký tự nguyện nghỉ việc, lưu bằng chứng; thời hạn xác nhận tai nạn lao động, đơn vị chưa đóng bảo hiểm, giám định khả năng lao động, chế độ tử vong do công việc; giấy chứng nhận nghỉ việc, thuế thu nhập cá nhân của tiền bồi thường; chuyển quan hệ bảo hiểm hưu trí và y tế khi đổi thành phố làm việc, lương gấp đôi khi không ký hợp đồng, buộc đóng bù bảo hiểm xã hội và nghỉ việc nhận bồi thường, chỉ hai loại có thể thỏa thuận phạt vi phạm khi nghỉ, không đồng ý chuyển vị trí/giảm lương phải phản đối bằng văn bản, lao động phái cử làm việc ngang nhau được trả ngang nhau và trách nhiệm bồi thường liên đới. Loại lợi ích: tiền bạc. Bài dài xem [Sau khi bị cho thôi việc, cần làm gì trước](https://ibretsam.github.io/HowToLiveBetter/#doc-viec-can-lam-khi-bi-sa-thai) và [Trước khi đổi việc, chuyển thành phố](https://ibretsam.github.io/HowToLiveBetter/#doc-truoc-khi-doi-viec-chuyen-thanh-pho).
+20. [Chăm trẻ mới sinh thế nào](https://ibretsam.github.io/HowToLiveBetter/#sec-20): ngủ an toàn, mũi vaccine viêm gan B đầu tiên, vaccine chương trình tiêm chủng, sữa mẹ và ăn dặm, nhiệt độ nước pha sữa, mật ong, vitamin K, ngưỡng sốt cần đi khám, không rung lắc, mua tã và đồ lớn, cho trẻ nguy cơ cao tiếp xúc lạc sớm để phòng dị ứng, dấu hiệu vàng da sơ sinh cần đi khám, bổ sung vitamin B12 khi mẹ ăn chay, không mua xe tập đi có bánh, bổ sung vitamin D mỗi ngày cho trẻ nhũ nhi, pha nước tắm cho nước lạnh trước để tránh bỏng. Loại lợi ích: tử vong ở trẻ nhũ nhi/tiền bạc.
+21. [Ra nước ngoài, du lịch và an toàn ở nước ngoài](https://ibretsam.github.io/HowToLiveBetter/#sec-21): cấp cảnh báo an toàn, 12308, giới hạn bảo hộ lãnh sự, bảo hiểm y tế ở nước ngoài, lừa tuyển việc lương cao ở nước ngoài, hạn mức rút tiền ở nước ngoài mỗi năm, mất giấy tờ, giấy phép lái xe ở nước ngoài, đăng ký môi giới, mang thuốc ra nước ngoài phải kiểm tra quy định nơi đến, về nước không mang sản phẩm thịt và trái cây. Loại lợi ích: tiền bạc/tự do thân thể.
+22. [Cách thư giãn: cơ sở giải trí và giảm căng thẳng](https://ibretsam.github.io/HowToLiveBetter/#sec-22): lối thoát hiểm, niêm yết giá, giới hạn pháp luật về ma túy, đồ người khác đưa, địa điểm trò chơi nhập vai phá án; vận động, chánh niệm, hít thở, giao tiếp, không gian xanh, uống rượu rồi không ngâm suối nóng/xông sauna, trượt tuyết và đạp xe đội mũ bảo hiểm. Loại lợi ích: tiền bạc/tự do thân thể và sức lực/tỷ lệ tử vong do mọi nguyên nhân.
+23. [Học kỹ năng nào cho đáng](https://ibretsam.github.io/HowToLiveBetter/#sec-23): đi học hay đi làm (ngưỡng tuổi lao động trẻ em, học vấn và tử vong, cơ cấu học vấn cả nước, miễn học phí/trợ cấp/vay học tập, đường học lên từ trung cấp nghề, cách tự tính); lợi tức giáo dục, chứng chỉ giả mạo, trợ cấp đào tạo, năng lực khó bị máy thay thế, cấp kỹ năng, tra nghề thiếu nhân lực; sau khi chọn học gì thì học thế nào (tự kiểm tra, luyện tập giãn cách, đừng chỉ dựa vào tô ý chính, luyện xen kẽ, không có bằng chứng cho phong cách học). Cuối cùng là chức danh chuyên môn (kênh đăng ký, thi thay đánh giá, hậu quả làm giả để được đánh giá hộ, được công nhận không có nghĩa được bổ nhiệm), và có nên học tiếp thạc sĩ/tiến sĩ (mức học phí và trợ cấp, lợi tức thu nhập sau khi loại ảnh hưởng khác biệt cá nhân, tỷ lệ trầm cảm/lo âu ở nghiên cứu sinh). Loại lợi ích: tiền bạc/thời gian; một mục tính theo tử vong.
+24. [Khám chữa bệnh: giảm chi phí và bớt đi vòng](https://ibretsam.github.io/HowToLiveBetter/#sec-24): khám theo tuyến và chuyển tuyến, tính liên tục ngưỡng tự trả, chênh tỷ lệ thanh toán, dành sẵn lượt khám, đánh giá cần thiết khi khám khác địa phương, giữ và niêm phong hồ sơ, bốn mức phân loại cấp cứu, cứu trợ cấp cứu khi không có khả năng trả, thời điểm giám định thương tật, làm giấy chứng nhận khuyết tật, không đưa phong bì bác sĩ, giá trọn gói trồng răng và phạm vi bảo hiểm, mua thuốc đàm phán giá tại nhà thuốc hai kênh, tái khám trực tuyến qua bệnh viện internet, đối chiếu từng khoản hóa đơn nằm viện. Loại lợi ích: tiền bạc/thời gian.
+25. [Những việc cần làm sau khi một người qua đời](https://ibretsam.github.io/HowToLiveBetter/#sec-25): báo công an và giấy chứng tử, tiếp nhận vận chuyển thi hài và hỏa táng, phản đối nguyên nhân chết và khám nghiệm, xóa hộ khẩu, danh sách dịch vụ tang lễ cơ bản, vi phạm về giá, đăng ký môi giới, số dư quỹ nhà ở và chế độ bảo hiểm xã hội, quyền thông tin cá nhân của người đã mất, chỉ trả nợ trong phạm vi di sản được thừa kế và từ chối nhận thừa kế bằng văn bản, làm thừa kế không mặc định phải công chứng trước. Loại lợi ích: tiền bạc.
+26. [Làm một website hoặc nền tảng: điều kiện, đăng ký và máy chủ](https://ibretsam.github.io/HowToLiveBetter/#sec-26): giới hạn thanh toán và quyết toán, giấy phép/đăng ký ICP, điều kiện livestream và nghe nhìn, xác minh trên nền tảng và báo cáo dữ liệu thuế, quản lý nội dung, xác thực danh tính, người chưa thành niên, thông báo gỡ bỏ, chuyển dữ liệu ra nước ngoài, chọn máy chủ, App và ứng dụng nhỏ cũng phải đăng ký, thông báo sau rò rỉ thông tin người dùng, nghĩa vụ nhắc gia hạn tự động. Loại lợi ích: tự do thân thể/tiền bạc. Bài dài xem [Làm nền tảng cần những giấy phép nào](https://ibretsam.github.io/HowToLiveBetter/#doc-giay-phep-cho-nen-tang).
+27. [Mang thai và sinh nở: từ phát hiện mang thai đến ra viện làm giấy tờ](https://ibretsam.github.io/HowToLiveBetter/#sec-27): axit folic, lập hồ sơ và khám thai miễn phí, sàng lọc ba bệnh và phòng lây mẹ-con, thuốc lá/rượu trong thai kỳ, aspirin và đái tháo đường thai kỳ, dấu hiệu phải đến bệnh viện ngay, xử trí vỡ ối, giảm đau khi sinh, chỉ định mổ lấy thai, bảo hiểm sinh con, giấy chứng sinh, sàng lọc sơ sinh, tham gia bảo hiểm và đăng ký hộ khẩu, khám sau sinh 42 ngày, mang thai không cần đem mèo đi, tiêm vaccine cúm bất hoạt trong thai kỳ, ngủ nghiêng cuối thai kỳ (có tranh luận), tránh thai sau sinh và khoảng cách sinh con (có tranh luận). Loại lợi ích: tử vong và tiền bạc. Bài dài xem [Những việc cần làm trước và sau khi con ra đời](https://ibretsam.github.io/HowToLiveBetter/#doc-viec-can-lam-truoc-va-sau-khi-sinh-con).
+28. [Đừng vì ngoại hình mà làm hại cơ thể](https://ibretsam.github.io/HowToLiveBetter/#sec-28): ăn kiêng cực đoan và rối loạn ăn uống, hai giấy tờ của cơ sở thẩm mỹ y khoa và bác sĩ phụ trách, vị trí tiêm chất làm đầy mặt có nguy cơ mù, sản phẩm giảm cân trộn sibutramine trái phép, steroid đồng hóa, đơn thuốc và tái khám khi dùng thuốc giảm cân/hormone sinh dục, đánh giá hình ảnh cơ thể, chỉnh nha phải có bác sĩ khám trực tiếp và tái khám, kem trị nám/làm trắng cần kiểm tra số đăng ký mỹ phẩm đặc biệt. Loại lợi ích: tử vong (kết quả sức khỏe); hai mục thẩm mỹ y khoa còn liên quan tự do thân thể.
+29. [Sau một cú sốc lớn](https://ibretsam.github.io/HowToLiveBetter/#sec-29): giai đoạn nguy cơ tim mạch tháng đầu sau mất người thân, tuần đầu sau chẩn đoán bệnh nặng, thất nghiệp, nửa năm sau mất bạn đời, mất người thân do tự sát, thay thế sự hỗ trợ khi không có người thân hoặc bạn bè, trẻ mất cha mẹ, khám ở đâu khi đau buồn kéo dài không vượt qua được, ly hôn, 12356 và 12355, đừng quyết định không thể đảo ngược trong giai đoạn stress, cái chết không phải cách trả nợ, trị liệu tâm lý sau khi bản thân trải qua sang chấn và tránh buổi kể lại trải nghiệm một lần. Loại lợi ích: tỷ lệ tử vong do mọi nguyên nhân; bốn mục về chi tiêu và chế độ tính theo tiền bạc.
+30. [Trẻ sau khi đi học](https://ibretsam.github.io/HowToLiveBetter/#sec-30): cấp cứu tính bằng giờ, không hoãn điều trị vì thi cử, bị bắt nạt thì làm gì, mỗi ngày ngoài trời 2 giờ, báo cáo khám sức khỏe học sinh, sàng lọc trầm cảm thanh thiếu niên, sản phẩm chữa khỏi cận thị, quy định bắt buộc về ngủ và bài tập, nghỉ học bảo lưu học tịch, đo khúc xạ liệt điều tiết và tái khám, trám bít hố rãnh răng, dạy con không đánh và không quát mắng, lớp dành cho cha mẹ, không đưa con đến trường cai nghiện internet, dạy trẻ nhận biết bộ phận riêng tư để phòng xâm hại tình dục, ngưỡng tuổi đạp xe ra đường, va đập đầu khi chơi thể thao thì ngày đó không trở lại sân. Loại lợi ích: tử vong và kết quả sức khỏe, ngoài ra có một đến hai mục về tiền bạc và một đến hai mục về thời gian.
+31. [Những con đường sau tuổi mười tám](https://ibretsam.github.io/HowToLiveBetter/#sec-31): điều kiện pháp luật của mười hai con đường; quân ngũ (đăng ký nghĩa vụ, hai năm nghĩa vụ, chế tài phối hợp khi từ chối, bù học phí và học tiếp, bố trí sau xuất ngũ và trình diện trong 30 ngày, tiền xuất ngũ/thâm niên/thuế); tuyển công chức theo diện riêng cho chương trình phục vụ cơ sở; giáo viên vị trí đặc biệt hết hạn vào biên chế; lính cứu hỏa và nhân sự dân sự quân đội; tự học thi lấy bằng, thi đại học người trưởng thành và đại học mở; nghĩa vụ phục vụ 6 năm của sinh viên sư phạm công phí và y khoa đào tạo định hướng; chọn công ty khi đi làm nước ngoài; thuế thu nhập cá nhân và nhận ngoại tệ khi làm từ nhà cho công ty nước ngoài; khoản vay được bảo lãnh khởi nghiệp; bảo hiểm xã hội của lao động linh hoạt; bảo đảm tai nạn nghề nghiệp cho người giao hàng, thi công chức trong hai năm sau tốt nghiệp phải kiểm tra điều kiện được coi là mới tốt nghiệp. Loại lợi ích: tiền bạc/thời gian; mục từ chối nghĩa vụ còn liên quan tự do thân thể.
+32. [Du học: tư cách lưu trú, làm thêm, bảo hiểm và công nhận bằng khi về nước](https://ibretsam.github.io/HowToLiveBetter/#sec-32): kiểm tra danh sách trường được công nhận trước khi đóng học phí; quy định F-1 mới của Mỹ “tối đa bốn năm, học xong rời đi trong 30 ngày” bị tòa đình chỉ, hiện vẫn là đến khi hoàn thành việc học và 60 ngày ân hạn; trần giờ làm thêm ở Mỹ/Canada/Anh/Australia; kiểm tra điều kiện được làm thêm theo quốc gia, loại công việc và tình trạng học tập; báo thay đổi địa chỉ trong 10 ngày; cảnh báo du học của Bộ Giáo dục; không để gián đoạn OSHC ở Australia; phụ phí y tế Anh; 10 đến 20 ngày làm việc để chứng nhận văn bằng; danh sách trường bị kiểm tra tăng cường, trần ngày thất nghiệp OPT ở Mỹ, thư xác nhận cấp tỉnh Canada. Loại lợi ích: tiền bạc/tự do thân thể.
+33. [Sống thế nào sau khi bị khuyết tật](https://ibretsam.github.io/HowToLiveBetter/#sec-33): ba bước tại chỗ khi tăng phản xạ tự chủ, giai đoạn nguy cơ tự sát trong mười năm sau khuyết tật, nguyên tắc tự nguyện nhập viện do rối loạn tâm thần và hai ngoại lệ, nguy cơ tử vong của người chăm sóc, đệm giảm áp cho xe lăn, lừa hứa chữa khỏi, sáu chế độ cần hỏi đủ sau làm giấy chứng nhận, bảo hiểm chăm sóc dài hạn không chỉ dành người già, trợ giúp phục hồi 0—6 tuổi, trợ cấp cải tạo nhà không rào cản, tuyển dụng theo tỷ lệ và quỹ bảo đảm việc làm người khuyết tật, giảm thuế thu nhập cá nhân, chó dẫn đường và đi xe miễn phí, điều chỉnh hợp lý trong kỳ thi đại học, trường không được từ chối và dạy tại nhà, bằng lái C5, chọn cơ sở phục hồi, máy trợ thính, xác định năng lực hành vi và giám hộ, tổn thương tủy sống không đặt ống thông tiểu kéo dài. Loại lợi ích: tử vong/tiền bạc/thời gian/tự do thân thể.
+34. [Đừng để thuốc dự trữ trong nhà gây hại](https://ibretsam.github.io/HowToLiveBetter/#sec-34): không uống trùng paracetamol, trẻ hạ sốt không dùng aspirin/nimesulide/metamizole, nhóm nguy cơ cao tổn thương dạ dày do ibuprofen, trẻ từ 2 tuổi trở xuống không tự cho dùng thuốc cảm phối hợp, sau tuần thai 20 không tự dùng ibuprofen, tự dùng omeprazole tối đa 7 ngày, cảm lạnh không dùng kháng sinh, tiêu chảy bù dịch trước và không cho trẻ thuốc cầm tiêu chảy, dùng nhiều thuốc giảm đau lại gây đau đầu, thuốc hết hạn và dư bỏ vào rác nguy hại, không uống rượu khi dùng cephalosporin/metronidazole và trong 7 ngày sau ngừng, uống thuốc cảm/chống dị ứng gây buồn ngủ thì không lái xe, người uống thuốc hạ mỡ máu hoặc hạ huyết áp đọc tờ hướng dẫn để tránh bưởi chùm và bưởi. Loại lợi ích: tử vong.
 
-「不要早死」「不要浪费时间」这类节标题说的是这一节想防住的结果，条目本身要做还是别做，以条目标题为准。长文另见 [docs/家庭应急装备清单.md](docs/家庭应急装备清单.md)、[docs/做平台要办哪些证.md](docs/做平台要办哪些证.md)、[docs/结婚划不划算.md](docs/结婚划不划算.md) 、[docs/遇到陌生人出事该不该停.md](docs/遇到陌生人出事该不该停.md)、[docs/生物钟和夜班.md](docs/生物钟和夜班.md)，以及四份按时间排的场景清单：[docs/被裁了之后先做什么.md](docs/被裁了之后先做什么.md)、[docs/孩子出生前后要办的事.md](docs/孩子出生前后要办的事.md)、[docs/刚确诊慢性病之后.md](docs/刚确诊慢性病之后.md) 和 [docs/换工作、换城市之前.md](docs/换工作、换城市之前.md)。每条来源的核实过程记录在 [docs/核实记录](docs/核实记录/)。
+Tên chương như “Đừng chết sớm”, “Đừng lãng phí thời gian” nói về kết quả muốn tránh. Mục cụ thể nên làm hay không làm thì xem tiêu đề mục. Bài dài khác xem [Danh sách trang bị khẩn cấp cho gia đình](https://ibretsam.github.io/HowToLiveBetter/#doc-danh-sach-do-dung-khan-cap), [Làm nền tảng cần những giấy phép nào](https://ibretsam.github.io/HowToLiveBetter/#doc-giay-phep-cho-nen-tang), [Kết hôn có đáng không](https://ibretsam.github.io/HowToLiveBetter/#doc-ket-hon-co-dang-khong), [Gặp người lạ gặp nạn có nên dừng lại](https://ibretsam.github.io/HowToLiveBetter/#doc-co-nen-dung-lai-giup-nguoi-la), [Nhịp sinh học và ca đêm](https://ibretsam.github.io/HowToLiveBetter/#doc-dong-ho-sinh-hoc-va-ca-dem), cùng bốn danh sách theo tình huống được sắp theo thời gian: [Sau khi bị cho thôi việc, cần làm gì trước](https://ibretsam.github.io/HowToLiveBetter/#doc-viec-can-lam-khi-bi-sa-thai), [Những việc cần làm trước và sau khi con ra đời](https://ibretsam.github.io/HowToLiveBetter/#doc-viec-can-lam-truoc-va-sau-khi-sinh-con), [Vừa được chẩn đoán bệnh mạn tính](https://ibretsam.github.io/HowToLiveBetter/#doc-sau-chan-doan-benh-man-tinh), [Trước khi đổi việc, chuyển thành phố](https://ibretsam.github.io/HowToLiveBetter/#doc-truoc-khi-doi-viec-chuyen-thanh-pho). Quá trình kiểm tra từng nguồn được ghi tại [Hồ sơ kiểm chứng](docs/核实记录/).
 
-本书在 Claude Code 协助下编写：查找原始文献、逐条核对数字与原文是否一致、维护交叉引用和构建脚本。选题、取舍和最终审定由作者负责，每条数字都能在来源栏的原文里找到。
+Sách được biên soạn với sự hỗ trợ của Claude Code: tìm tài liệu gốc, kiểm tra từng số liệu khớp nguyên văn, duy trì liên kết chéo và script dựng sản phẩm. Tác giả chịu trách nhiệm chọn chủ đề, quyết định giữ/bỏ và duyệt cuối; mỗi số liệu đều có thể tìm trong nguyên văn ở phần nguồn.
 
-仓库根目录的 `index.html` 是在线检索页：按关键词、章节、证据等级和成本维度（花钱、花时间、要毅力）筛选条目，数据直接读本文件。在仓库设置里开启 GitHub Pages（Deploy from a branch，分支 main，目录 /）后即可访问。`tools/epub/` 是电子书生成脚本，在仓库根目录跑 `npm --prefix tools/epub ci && npm --prefix tools/epub run build` 在本地出一本 EPUB 到 `dist/`；GitHub Actions 在正文改动后自动跑同一个脚本并更新 Release。
+**Thông tin về mã nguồn của dự án gốc:** `index.html` là trang tra cứu tiếng Trung: lọc theo từ khóa, chương, mức bằng chứng và chi phí (tiền, thời gian, ý chí), lấy dữ liệu trực tiếp từ tệp này. Bật GitHub Pages trong cài đặt kho (Deploy from a branch, nhánh main, thư mục /) là truy cập được. `tools/epub/` chứa script tạo sách điện tử; từ thư mục gốc chạy `npm --prefix tools/epub ci && npm --prefix tools/epub run build` để tạo EPUB vào `dist/` trên máy. GitHub Actions tự chạy cùng script và cập nhật Release sau khi nội dung sách thay đổi.
 
-## 正文
+## Nội dung chính
 
-正文按节拆成 34 个文件放在 [book/](book/)，点上面目录里的节名进入。拆开是因为单文件已经超过 GitHub 渲染 Markdown 的 512 KB 上限，后面的节显示不出来；[在线检索页](https://eternity4719.github.io/HowToLiveBetter/)会把这些文件合起来读，用法不变。
+Bản tiếng Việt gồm **34 chương, 767 mục, 9 bài viết dài** và hướng dẫn đọc, đã được rà soát theo nguồn ghim ngày **21/10/2026**. Đọc bản cập nhật trên [trang tiếng Việt](https://ibretsam.github.io/HowToLiveBetter/); các tệp trong `vi/book/`, `vi/docs/` và `vi/README.md` là bản lưu 01/10 để kiểm tra hồi quy. Chi tiết ở [thông tin bản dịch](vi/TRANSLATION.md).
 
-## 许可
+**Cấu trúc nội dung gốc tiếng Trung:**
 
-正文用 [CC BY 4.0](LICENSE) 发布，范围是 book/、docs/ 和本 README 的文字。你可以转载、改编、商用，不用来问作者，但要做到三件事：
+Nội dung chia theo chương thành 34 tệp trong [book/](book/); nhấn tên chương ở mục lục trên để mở. Phải chia vì một tệp đã vượt giới hạn hiển thị Markdown 512 KB của GitHub khiến các chương cuối không hiện. [Trang tra cứu trực tuyến](https://eternity4719.github.io/HowToLiveBetter/) đọc gộp các tệp này, cách dùng không đổi.
 
-- 写明出处：「高性价比人生指南」，附上仓库链接 https://github.com/eternity4719/HowToLiveBetter 。
-- 附上许可证链接 https://creativecommons.org/licenses/by/4.0/ 。
-- 改过内容的要写明改过。书里的法条、补贴标准和截止日期经常更新，建议同时写上你同步的是哪一天的版本。
+## Giấy phép
 
-代码用 [MIT](LICENSE-CODE)，范围是 tools/、skills/、index.html 和 .github/。
+Nội dung phát hành theo [CC BY 4.0](LICENSE), áp dụng cho văn bản trong book/, docs/ và README này. Bạn có thể đăng lại, chuyển thể, dùng thương mại mà không cần hỏi tác giả, nhưng phải làm ba việc:
 
-## Star 走势
+- Ghi nguồn “Hướng dẫn sống tốt hơn với chi phí hợp lý”, kèm liên kết kho https://github.com/eternity4719/HowToLiveBetter .
+- Kèm liên kết giấy phép https://creativecommons.org/licenses/by/4.0/ .
+- Nếu thay đổi nội dung phải nói rõ đã thay đổi. Điều luật, mức trợ cấp và thời hạn trong sách thường cập nhật; nên ghi cả phiên bản ngày nào mà bạn đã đồng bộ.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=eternity4719/HowToLiveBetter&type=Date)](https://star-history.com/#eternity4719/HowToLiveBetter&Date)
+Mã nguồn dùng [MIT](LICENSE-CODE), áp dụng cho tools/, skills/, index.html và .github/.
 
-## 赞赏
+## Diễn biến số sao của dự án gốc
 
-觉得有用，可以用微信扫码请作者喝杯咖啡。给不给都行，不影响任何内容。
+[![Biểu đồ lịch sử số sao](https://api.star-history.com/svg?repos=eternity4719/HowToLiveBetter&type=Date)](https://star-history.com/#eternity4719/HowToLiveBetter&Date)
 
-<img src="ads/wechat-reward.png" alt="微信赞赏码" width="240">
+## Ủng hộ tác giả gốc
 
-## 广告位
+Nếu thấy hữu ích, có thể quét mã bằng WeChat để mời tác giả một cốc cà phê. Tặng hay không đều được, không ảnh hưởng nội dung nào.
 
-<a href="https://4.mcyyy.com"><img src="ads/mcyyy.webp" alt="永恒世界 Minecraft 服务器，游戏地址 1.mcyyy.com" width="820"></a>
+<img src="ads/wechat-reward.png" alt="Mã ủng hộ qua WeChat" width="240">
 
-## 商务合作
+## Quảng cáo của tác giả gốc
 
-邮箱 [admin@mcyyy.com](mailto:admin@mcyyy.com)
+<a href="https://4.mcyyy.com"><img src="ads/mcyyy.webp" alt="Máy chủ Minecraft Thế Giới Vĩnh Hằng, địa chỉ chơi 1.mcyyy.com" width="820"></a>
+
+## Liên hệ kinh doanh với tác giả gốc
+
+Email [admin@mcyyy.com](mailto:admin@mcyyy.com)
