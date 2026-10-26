@@ -4,9 +4,9 @@
   "updated_at": "2026-10-26",
   "scope": "All 337 Markdown files tracked at the baseline; original source quotations, citations, filenames and machine identifiers may remain unchanged.",
   "counts": {
-    "translated": 147,
+    "translated": 198,
     "existing_vietnamese": 48,
-    "pending": 142
+    "pending": 91
   },
   "files": [
     {
@@ -373,8 +373,10 @@
       "path": "docs/核实记录/02-不要慢慢死.md",
       "source_sha256": "880e0b4f65cc37be39266c79c5c655276d0911fcd1623cadc71f918323c1c8b1",
       "chars": 14755,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "33f892db411786bc2463982865aa1ebe9a2c9a7543a7a6183a657ead118db696",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/03-不要浪费精力.md",
@@ -408,8 +410,10 @@
       "path": "docs/核实记录/07-劳动仲裁条重写.md",
       "source_sha256": "6577ddc9417493a78c8409c1a5401a1f7f4df1a2866abaa91411a5f765bf7f08",
       "chars": 5239,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "76405a6fda6994e3f83707e8feb739744d7625796507f87d0bebeed8fd275165",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/07-没钱的时候怎么活.md",
@@ -471,8 +475,10 @@
       "path": "docs/核实记录/13-紧急情况.md",
       "source_sha256": "f0e23003e1e187c79a8e6ed524ed3f1373abc8fdd19de02c9ab27c0b1dd8ac96",
       "chars": 14953,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "4f1edf4cecf90cd49ade0099c3b820264a5be4d068df4524deb55d5fc2d5b356",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/14-19-新增章节与HowToLiveLonger合入.md",
@@ -494,8 +500,10 @@
       "path": "docs/核实记录/24-25-看病与身后事.md",
       "source_sha256": "479fff09eaee7f5cc42f9d844daa9f33a30fea2dceb394044da56f461f0c9bcc",
       "chars": 2928,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "232ffb95ed6ccff5b14a5ea4294196da8425caa63ca51f4625e0d28dd3d72192",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/27-怀孕和生产与艾滋病预防阻断.md",
@@ -515,15 +523,19 @@
       "path": "docs/核实记录/29-遭遇重大打击之后.md",
       "source_sha256": "32e5c63decb366e83f5075aac9ad4c980cb34e0fd8ebe91cbd802e73869ac709",
       "chars": 3466,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "8cb72d995bf585069a3fddb41e630e2abecd17ed716b87739dab0b06d95631ee",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/30-上学以后的孩子.md",
       "source_sha256": "bbfc2b41ec4cd6e9b17096e9421326ef40c21dbcc6dff57bbf7c22e831ee0845",
       "chars": 3432,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "488933040c6c3e08e19f3a5694366271f5b0e856683db38b79d6967c345d6ef8",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/32-出国留学.md",
@@ -543,8 +555,10 @@
       "path": "docs/核实记录/34-家里的常备药别吃出事.md",
       "source_sha256": "68b74c8f64404ad91a440976a026489025b41d761e9bbd55ca3b0fe723723f40",
       "chars": 4731,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "699f0af518aef5471c02427ee1209c4618e47518e28caaa3166f4810a3dbc8a4",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/人群标签.md",
@@ -676,8 +690,10 @@
       "path": "docs/核实记录/待核清单处理-第9、10节.md",
       "source_sha256": "fc38d3cb4852a7fd15fa4cdfd7a9a49be170c784a2875c8b2e636f6eddffc280",
       "chars": 5458,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "0835b800fcf4d1f84b272481ca36d9fe073ea7af791f7b718bf40c9185f1d576",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/性取向相关条目.md",
@@ -710,8 +726,10 @@
       "path": "docs/核实记录/排查-说人话栏与收益栏对齐.md",
       "source_sha256": "f82748cce97fa76e31e8b38a33a15b24c267a1b81c2da8db969ebcddf5658c82",
       "chars": 2904,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "10beec7b8e6f6485abc37698af4ad5d17b8f3f51604242d9cdc83a372648f69d",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/新增-第31节十八岁之后有哪几条路.md",
@@ -787,8 +805,10 @@
       "path": "docs/核实记录/补来源-第14节.md",
       "source_sha256": "1b61735520fe45fe4e2c740ce8ea46733a635d01b6a88d7ac2e96751e3479239",
       "chars": 3343,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "972f12edb19439c19d5e9cbb872709d5b9c1b4ac6bc6f233c028661af61b0059",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/补来源-第16节.md",
@@ -817,8 +837,10 @@
       "path": "docs/核实记录/补来源-第29节.md",
       "source_sha256": "053903a7ecf7174de099b1d40d3e75eb9045c4d30b45b5c0dc5a808e3a7ec006",
       "chars": 2689,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "490980cdb1ade2a105e14999acde5efaafed04bb19248997fbf4d7dce42ab189",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/补来源-第7节与第15节.md",
@@ -858,8 +880,10 @@
       "path": "docs/核实记录/追加-OPT失业天数与加拿大省级证明信.md",
       "source_sha256": "1022f2929b74ce6a551ab91426ea7a3a1bf2fe8850e99542204741265a95e16c",
       "chars": 6037,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "fa99c9b724a143da8ac77a0d0ce445df5946734646d6d9423312b36bbfe720c1",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-issue112年报与企业所得税汇算.md",
@@ -874,8 +898,10 @@
       "path": "docs/核实记录/追加-issue28八处补来源.md",
       "source_sha256": "80370c14cd85b90b3e3ec71508c8ace42e41a57e4a247e88478a6f739378d133",
       "chars": 4109,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "b4305e61f595c3205b6aec407935b2dc5f4b5095af984943e86ff00b7b74abc4",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-issue30国家赔偿免责与录音拍照留证.md",
@@ -1030,8 +1056,10 @@
       "path": "docs/核实记录/追加-免责条款越界排查.md",
       "source_sha256": "0cc137d9dc3b53debdb057615c2109efd74ee5821296bd5a633b33a5bf39e45e",
       "chars": 5138,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "2625d63868b47f68600b129a3415c06b4ee4c6ed09e9f8411aef64a3503662bb",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-公积金贷款.md",
@@ -1087,8 +1115,10 @@
       "path": "docs/核实记录/追加-凑钱租铺面与合伙协议.md",
       "source_sha256": "2f436fb75b35e507a75cbd7c87ed46c18e5c7e9354b5c8827bf71c5a686257d0",
       "chars": 5006,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "5ab6cdd680558d7995aeb3760555f53ae099d257a3c518e43a1572814fa445f8",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-创伤后应激与心理晤谈.md",
@@ -1110,8 +1140,10 @@
       "path": "docs/核实记录/追加-勃起功能与嫖娼.md",
       "source_sha256": "f9e1e116a0d22a79defe3c20a9e832d60a44f07f721876ad5e74860b79f66ebe",
       "chars": 4629,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "72c9eb6f2eefb280174fd00930cbcdb37ebc55a8c6a381e3f3feccce57df825c",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-十条补缺.md",
@@ -1124,8 +1156,10 @@
       "path": "docs/核实记录/追加-午睡时长.md",
       "source_sha256": "ee61301b63d26394baca7f6656919af6ce4602311f91b79f2a1b66fc348c9a43",
       "chars": 3686,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "c64e9a5600337584b124ac95cf23ec19a44e6b09762d37cc2401065a1f4e5d27",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-卖器官.md",
@@ -1188,8 +1222,10 @@
       "path": "docs/核实记录/追加-和机构打交道.md",
       "source_sha256": "a19bf052ae689e06950aecdcea17dad48aae354a13f09552dcbb79b3811a4506",
       "chars": 4771,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "5dd149a2c908929356390ce951b14e7539ae3920b8b5d56dfc47185206cad11c",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-咖啡时间与总量.md",
@@ -1220,15 +1256,19 @@
       "path": "docs/核实记录/追加-回填十二处法规原文.md",
       "source_sha256": "2dabf3389f21e902cdaacfcbad6d3ad5f4bced5afc37614ab6328ce125599da1",
       "chars": 4250,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "fa8b895f3d5688d214ffd2ae03bd7d7404ef69aba39e92f2ca49fb38128190e3",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-回填统计急救与文献TODO.md",
       "source_sha256": "d64470906981e0e840961da0e7ea49329f945e3c7dcd23c7cba2354706644670",
       "chars": 5545,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "dce1e9079b002245a18014f68e0376ec0119da6a6179c65330b482b09ea6098e",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-失眠认知行为治疗.md",
@@ -1363,15 +1403,19 @@
       "path": "docs/核实记录/追加-慢性肾病筛查与结肠癌术后运动.md",
       "source_sha256": "bb0d82d70174e178437b758bc46ac15b7682a0f907e7056c86a65c9b945dcd6b",
       "chars": 8550,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "04d37df120bd38e1febc18eb16f8ad7fb2ea253151949fcedf886e75c6d22260",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/追加-慢病长护险与个人信息权利.md",
       "source_sha256": "cfc420e651e6a7a2825ce5e6a4ef760d6db4cce2f3795572c5e183f70aee8587",
       "chars": 3067,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "2ff12d586324156dd9b33e5791184355c4be0b6fc411d90ae4ec99ed8096dbaf",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-戒烟戒酒学习与拖延的具体办法.md",
@@ -1393,15 +1437,19 @@
       "path": "docs/核实记录/追加-房颤抗凝.md",
       "source_sha256": "a24dbb27f3e230cae6051a67a04cf37fe99b0552a0cc007cb07c8f288d8accd8",
       "chars": 11100,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "e59afdf44e115af661b1a1a0903715163f0b34b8d2eb847eb6c4788f08d7f512",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/追加-拒执失信骗贷与新型毒品.md",
       "source_sha256": "5f507ea197a8f0d91a1b0e04f4073554e55bc61eefea4a208963ae4a687aa0f4",
       "chars": 4956,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "7040d7bb12de7ef485c1beedb2b682805850c95f6692c00a1ac76cf619efac24",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-搬运姿势.md",
@@ -1460,8 +1508,10 @@
       "path": "docs/核实记录/追加-查血脂.md",
       "source_sha256": "fd1d085ebfcbfe151efa5ab907ed8fcdd355ea7e531fefa9365c137222a2a62e",
       "chars": 3207,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "866534ae02801f7f60b17820ffa6274b2e80656058d26a1094b0fd7b06aef9d0",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-正当防卫.md",
@@ -1485,8 +1535,10 @@
       "path": "docs/核实记录/追加-泄愤式极端暴力.md",
       "source_sha256": "e550fff7c585e9c94e64e5e79f5e40952dbdbdb898a5c47978963c237210a5a7",
       "chars": 6008,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "ba72d015df87a174140906970b0afb2aa8faec367518938ad19fe1d1b1bf4f43",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-熬夜补觉与夜班.md",
@@ -1508,15 +1560,19 @@
       "path": "docs/核实记录/追加-牙科.md",
       "source_sha256": "fa358e79c8e0fdcc5da68574b5ef0824c64d213c626e4d8d780229d46ba7e687",
       "chars": 3088,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "6ee740b84fa8a4f5da921ff4ab2dd5360c6e10e90b1097ea4fc914a193afb16b",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-物业停水停电与新房保修.md",
       "source_sha256": "1c07d0f49e5db4106c32934ac0f2104c07db77ee50d8c23ae8d87192c5d27c14",
       "chars": 3934,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "a24e1be0f36e7cf4d13fa6ae8ec111b58515c8c53ed8df33dca97ddfa3c24577",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-献血.md",
@@ -1561,29 +1617,37 @@
       "path": "docs/核实记录/追加-睡眠呼吸暂停.md",
       "source_sha256": "456444a269964ba840ad18087769f6cb5445f7cd3f728f7eb08d3146cc3c6901",
       "chars": 5266,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "98ab6cbd1887b28623ab82046fcedf26759b4de256bebec1cc27e48a4c11a56c",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-破解软件与DDoS.md",
       "source_sha256": "2c9fe94797239c029c108126c72e577b5747a38475bf57410c8e47b329d22964",
       "chars": 5881,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "19e730a363037c8cb630c7e53b920d3601330e0a8b25f0daff37022af908803e",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-社保转移接续.md",
       "source_sha256": "e68b291e4ea4f096d4037630e48558e5f890ae3686b792df96759346f7d4733d",
       "chars": 3697,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "c1efe19ea4d64c34a9b2ae5989eafd3e33b1c7e77654aa75184310889e4a67a1",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-离婚孩子抚养费和探望.md",
       "source_sha256": "9725ab1e60418b512bc5e67dee28ead6921829f66f59d7b2ae091cf6fc1c6b97",
       "chars": 3187,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "aea59bb5c3d54ba9066040b58129bc411dc45c0be16bf2768443acd469941d58",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-窗户破伤风二手烟公积金与猝死工伤.md",
@@ -1653,8 +1717,10 @@
       "path": "docs/核实记录/追加-第13节并入.md",
       "source_sha256": "e787ebb47bc4776731034cd687772e59de1ed785a3455432089877d264fdb736",
       "chars": 5330,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "7affe0182d69ceee5e3f7c675707bcd338eeaa4c40c8de8e96a8f3f7859a393c",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/追加-第15节与病历条回填.md",
@@ -1699,8 +1765,10 @@
       "path": "docs/核实记录/追加-第19节离职证明与补偿个税.md",
       "source_sha256": "252e84f7ac2611542778b6250ade3f24fb27329c904b440d01a91f0c297b5a7a",
       "chars": 3865,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "518f593f36a2a5e8514350be44d75d52861c57de96df2108841678d4676f0ec9",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-第1节冰面量厚度.md",
@@ -1729,8 +1797,10 @@
       "path": "docs/核实记录/追加-第20节妈妈吃素补B12.md",
       "source_sha256": "5ebc00b89cf2e4827768caaf12029b7542ef16c1272b00e1eba7d59c7088b21e",
       "chars": 3773,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "97a02c241ed76a8d3b0b0fc88db59b5e50dfbb3fef54e5b555778afee6cbb957",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-第20节新生儿黄疸.md",
@@ -1804,15 +1874,19 @@
       "path": "docs/核实记录/追加-第2节室内空气.md",
       "source_sha256": "a046d9c3e60e5d78028b5bf7cc239d30940f864047a80e78f0536b6c3288c59e",
       "chars": 3142,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "4d143182e03680402f722c8dd91b3a74097769879138de8206be60c8571d5751",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-第2节绝经激素治疗.md",
       "source_sha256": "73ca4063c353ea1ee55c775c9bbbeef8c7d5a49a189e23808f0a81d42ca5dab6",
       "chars": 6553,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "25b4cc16e1831c06197cc80c2e3560319ca400413781faf51ebd22323ad29ca3",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/追加-第30节管孩子不打和养育课程.md",
@@ -1834,29 +1908,37 @@
       "path": "docs/核实记录/追加-第34节并入.md",
       "source_sha256": "4caedea6bb77bad27b541e28b8f156b3c4778ea629bef584260d04c9e1781658",
       "chars": 5025,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "9c5dc7b0b2c07324189f7e149623ed77d25caea412de6c60cb0125ad1e62c3a8",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-第34节过期药与相互作用.md",
       "source_sha256": "b885f680757fae564309444c086929792962ddb4978aa92485fa4f528197c0d6",
       "chars": 4599,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "2abc3a8d63286ea2ce4ea25ff89812ea336649e89cf4844b3b8cf71f1d04e177",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-第3、5节.md",
       "source_sha256": "2312b710edc240532a6bfc38ffb0e388a2477d938e5d0b714e099877396dbffd",
       "chars": 5802,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "bb2c326c6eccc949889adb3dbfd6030c5f3f81eac1f9acce02377af53c031526",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-第3节痛经.md",
       "source_sha256": "258c749ee0188631643b444ca3cf33ce38e953718e14cb837155394c981b87e3",
       "chars": 5977,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "94dc0888c5006e04d79ebfaeeada1b647267911901550c300e5c4777bdd1b2cf",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-第5节借钱看年化利率.md",
@@ -1946,15 +2028,19 @@
       "path": "docs/核实记录/追加-第9节薅羊毛.md",
       "source_sha256": "48b7a9ac881b6b4b15e6e17e1b177ba74a80c56a5bbfee0facb069d8c07727b4",
       "chars": 4919,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "fddb03c291b1c12f044131c5145d960a273a00157ae3739bcd540c02f54f957a",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-糖尿病前期.md",
       "source_sha256": "d4f77133458db69e4ee8dd8216d449c65d619c9fc651524b8e0791bf80f31eca",
       "chars": 8978,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "d52446ea3aab73f133d09084d85313cacc6c184a3744f482e484eb7c27150173",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/追加-纽扣电池与醉酒.md",
@@ -1985,8 +2071,10 @@
       "path": "docs/核实记录/追加-职业病与化学灼伤.md",
       "source_sha256": "3e6bb406b92f7930640c9c9bcdfb06faba58c1f1ef7362fe8ce667c0ec4fffbd",
       "chars": 4034,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "af9e2cc586b5ed343cc9effae8e786b9394d493bc3e6538a34eb1624b52393e7",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-肝吸虫.md",
@@ -2013,8 +2101,10 @@
       "path": "docs/核实记录/追加-膝关节镜.md",
       "source_sha256": "9862fa51efe061aef8102f18218fe6b6e600465d6c67a126de7a76637a861406",
       "chars": 7147,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "7473d5aafdc756459cc3e57b411e57245fbc2fda077435477a4a9100434877f3",
+      "translator": "group-root"
     },
     {
       "path": "docs/核实记录/追加-自杀的后果.md",
@@ -2054,8 +2144,10 @@
       "path": "docs/核实记录/追加-褪黑素与输液.md",
       "source_sha256": "7e8fcc9bc5c4629e60d2d63db4a81dceb84f78cad00645e271641bc0411395bf",
       "chars": 5430,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "6048a5b1d9d1ee32ea9026cb5190de7150be344d51af318f9ccb5bb4a10fab5d",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-要不要死记硬背.md",
@@ -2093,8 +2185,10 @@
       "path": "docs/核实记录/追加-调岗降薪与劳务派遣.md",
       "source_sha256": "ae6f6de6098b1b2ca8a2f56d9a831cea9806f7a3ab7abe1c0ed85e84434693ae",
       "chars": 3338,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "a8626268fd45b7666c91b73ed477e344e285b1e167f967601bdcdc4d6197d0df",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-跟团购物退货与机票退票.md",
@@ -2109,22 +2203,28 @@
       "path": "docs/核实记录/追加-还不上信用卡网贷.md",
       "source_sha256": "6454ebef56327e5256f31e4f3568ed2912f216b5f2aec9c3d40a73b0c836e8ea",
       "chars": 4349,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "a3c304ac71e72e7dd1d9618582ed22a69e4c2dc990f9a8e939e228489cdf8f36",
+      "translator": "group-2"
     },
     {
       "path": "docs/核实记录/追加-进货假货与图案版权.md",
       "source_sha256": "7af3bcc4eddae1cd551a1bc461fce8aacd76c2e399c920e49e38ad226677dc4a",
       "chars": 3538,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "cd2aa1c05135b9c15463cdc1c8e37705b43b15b11cdde41450c5911996bfcc8b",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-遗产范围内还债.md",
       "source_sha256": "cf2e4c43c6bc08f3099e40dce00f8326b74997f9ab0d7ac346bdda615ee30ec4",
       "chars": 3568,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "1a797a8d932eeacf3c9bd74ed3ca35d4a57b5a3d3af13b44f53d626ae4aeb8c3",
+      "translator": "group-3"
     },
     {
       "path": "docs/核实记录/追加-配偶打赏与婚外转账.md",
@@ -2139,8 +2239,10 @@
       "path": "docs/核实记录/追加-酒后泡澡与运动头盔.md",
       "source_sha256": "b01d717ae7b463d81e5b3c9a707898338de2f09610354fc583042f375ec10c90",
       "chars": 5598,
-      "status": "pending",
-      "method": null
+      "status": "translated",
+      "method": "direct_translation_and_self_review",
+      "translation_sha256": "3f65eef9d53a1e5ca9b3b0de8a9276107b62f93b7ff283897867d84d0cd5f2d5",
+      "translator": "group-1"
     },
     {
       "path": "docs/核实记录/追加-针对孩子的骗局.md",
