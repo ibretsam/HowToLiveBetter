@@ -1,28 +1,28 @@
-# 追加：AI 换脸与拟声冒充熟人 · 核实记录（2026-09-08）
+# Bổ sung: AI đổi mặt/giả giọng mạo danh người quen · Hồ sơ kiểm chứng (2026-09-08)
 
-任务来源：读者提「要不要加防骗的」。先盘了一遍现有覆盖再决定加什么。
+Nguồn nhiệm vụ: độc giả hỏi “có nên thêm chống lừa đảo”. Đầu tiên kiểm nội dung đã có rồi quyết định thêm gì.
 
-原有覆盖：第 8 节第 2 条（止付）、第 3 条（三不一多口诀）、第 8 条（查征信发现冒名贷款）、第 15 条（网购被骗）、第 19 条（骗婚）；第 13 节第 12 条（七类高发骗局的识别特征）；第 7 节（招转培、培训贷、传销）；第 9 节第 4、5 条（两卡、包装材料骗贷）；第 12 节第 14 条（冒充税务的代办骗局）；第 21 节第 5 条（境外高薪招聘与电诈园区）；第 17 节（针对老人的保健品、收藏品、理财骗局）。识别加止付的链路已经完整，因此不新开一节，只补真空白。
+Nội dung cũ: chương 8 mục 2 (ngừng thanh toán), 3 (khẩu quyết ba không một tăng), 8 (tra tín dụng phát hiện vay mạo danh), 15 (lừa mua trực tuyến), 19 (lừa hôn nhân); chương 13 mục 12 (đặc điểm nhận diện bảy loại lừa phổ biến); chương 7 (tuyển dụng chuyển thành đào tạo, vay đào tạo, đa cấp); chương 9 mục 4, 5 (hai loại thẻ, làm đẹp hồ sơ vay); chương 12 mục 14 (dịch vụ mạo danh thuế); chương 21 mục 5 (tuyển lương cao ở nước ngoài/khu lừa điện tử); chương 17 (lừa người già bằng thực phẩm chức năng, đồ sưu tập, đầu tư). Chuỗi nhận diện/ngừng thanh toán đã đầy đủ, không mở chương mới, chỉ thêm chỗ thực sự thiếu.
 
-真空白三处，本轮先做第一处：AI 换脸与拟声冒充熟人（全书零覆盖，现有口诀里的「转账多核实」没点破「视频里看见脸也不算核实」）；另两处待做——针对老人的以房养老、投资养老公寓床位、保健品会销（第 17 节现在只有一条 C 级的话术约定），以及孩子用家长手机被「免费皮肤、解封、粉丝群」骗（第 5 节现有的是未成年人充值退款，那是充值不是被骗，路径不同）。
+Ba chỗ thiếu, lần này làm chỗ đầu: AI đổi mặt/giả giọng mạo người quen (toàn sách chưa có, “chuyển tiền xác minh thêm” chưa chỉ ra “thấy mặt qua video chưa tính xác minh”); hai chỗ còn chờ — dùng nhà đổi dưỡng lão, đầu tư giường/căn hộ dưỡng lão, hội nghị bán thực phẩm chức năng cho người già (chương 17 mới có một mục C thỏa thuận cách nói); và trẻ dùng điện thoại cha mẹ bị lừa “skin miễn phí, mở khóa, nhóm fan” (chương 5 hiện là hoàn tiền trẻ nạp, đó là nạp chứ không bị lừa, đường xử lý khác).
 
-落点：第 8 节新增 1 条（第 4 条），原第 4 条起顺延至第 23 条。第 9、10、12、22 节里指向第 8 节的交叉引用同步 +1；顺带改正四处本轮之前就已过时的引用（第 9 节的借条、身份证、正当防卫三处，第 12 节的借条一处）。docs/核实记录 里的旧记录是按当时编号写的历史快照，不回改。
+Vị trí: thêm 1 mục chương 8 (mục 4), mục 4 cũ trở đi đổi số đến mục 23. Tham chiếu chương 9, 10, 12, 22 đến chương 8 đồng thời +1; sửa luôn bốn tham chiếu đã cũ trước đợt này (ba chỗ giấy nợ/căn cước/phòng vệ chương 9, một chỗ giấy nợ chương 12). Hồ sơ cũ trong docs/核实记录 là ảnh chụp lịch sử theo số lúc đó, không sửa ngược.
 
-## 第 8 节第 4 条（AI 换脸与拟声，涉及转账先挂断回拨）
+## Chương 8 mục 4 (AI đổi mặt/giả giọng, có chuyển tiền thì cúp máy gọi lại trước)
 
-| URL | 复核 | 原文引句 |
+| URL | Đã kiểm lại | Trích nguyên văn |
 |---|---|---|
-| <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202509/t20250922_7013008.htm>（福建省公安厅转载，来源标注「公安部网安局」，2025-09-22） | 是 | 动作验证法：「请对方做一个连贯的转头动作，或者用手掌完全遮住脸再快速移开」「目前的 AI 技术在模拟这些复杂的面部遮挡和光影变化时，容易出现卡顿、模糊或扭曲」；声音细节：「AI 生成的语音有时会缺乏自然的呼吸停顿、情感起伏，或者带有轻微的机械感、背景杂音异常」；多渠道核实「这是最核心的一招」「挂断后直接拨打对方常用且你熟悉的电话号码（不要回拨可疑来电号码），或者通过你们共同认识的第三人进行侧面核实」；口诀「视频语音莫轻信，动作验证多核实」 |
-| <https://www.gov.cn/zhengce/zhengceku/2022-12/12/content_5731431.htm> | 是 | 互联网信息服务深度合成管理规定（网信办、工信部、公安部 2022-11-25 发布，2023-01-10 施行）第六条「任何组织和个人不得利用深度合成服务制作、复制、发布、传播法律、行政法规禁止的信息，不得利用深度合成服务从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动」；第十六条 元数据隐式标识；第十七条第一款第（二）（三）项「合成人声、仿声等语音生成或者显著改变个人身份特征的编辑服务」「人脸生成、人脸替换、人脸操控、姿态操控等人物图像、视频生成或者显著改变个人身份特征的编辑服务」，可能导致公众混淆或者误认的「应当在生成或者编辑的信息内容的合理位置、区域进行显著标识」 |
-| <https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm> | 是 | 人工智能生成合成内容标识办法（网信办、工信部、公安部、广电总局 2025 年 3 月发布，2025-09-01 施行）第十条第二款「任何组织和个人不得恶意删除、篡改、伪造、隐匿本办法规定的生成合成内容标识，不得为他人实施上述恶意行为提供工具或者服务，不得通过不正当标识手段损害他人合法权益」 |
-| <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202603/t20260330_7117146.htm>（福建省公安厅转载，来源标注「央视新闻、公安部刑侦局」，2026-03-30） | 是 | 14 名犯罪嫌疑人，查获合成动态人脸视频 5 万多条、公民个人信息 50 多万条，扣押手机电脑 80 多部、云服务器 60 台，出售非法注册账号获利 60 多万元 |
+| <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202509/t20250922_7013008.htm> (Công an Phúc Kiến đăng lại, nguồn ghi “Cục An ninh mạng Bộ Công an”, 2025-09-22) | Có | Xác minh động tác: “请对方做一个连贯的转头动作，或者用手掌完全遮住脸再快速移开”“目前的 AI 技术在模拟这些复杂的面部遮挡和光影变化时，容易出现卡顿、模糊或扭曲”; chi tiết giọng: “AI 生成的语音有时会缺乏自然的呼吸停顿、情感起伏，或者带有轻微的机械感、背景杂音异常”; xác minh đa kênh “这是最核心的一招”“挂断后直接拨打对方常用且你熟悉的电话号码（不要回拨可疑来电号码），或者通过你们共同认识的第三人进行侧面核实”; khẩu quyết “视频语音莫轻信，动作验证多核实” |
+| <https://www.gov.cn/zhengce/zhengceku/2022-12/12/content_5731431.htm> | Có | Quy định quản lý tổng hợp sâu trong dịch vụ thông tin Internet (Văn phòng Thông tin Internet/Bộ Công nghiệp và Công nghệ thông tin/Bộ Công an ban hành 2022-11-25, thi hành 2023-01-10), Điều 6: “任何组织和个人不得利用深度合成服务制作、复制、发布、传播法律、行政法规禁止的信息，不得利用深度合成服务从事危害国家安全和利益、损害国家形象、侵害社会公共利益、扰乱经济和社会秩序、侵犯他人合法权益等法律、行政法规禁止的活动”; Điều 16 nhãn ẩn metadata; khoản 1 Điều 17 điểm (2), (3): “合成人声、仿声等语音生成或者显著改变个人身份特征的编辑服务”“人脸生成、人脸替换、人脸操控、姿态操控等人物图像、视频生成或者显著改变个人身份特征的编辑服务”, có thể khiến công chúng nhầm thì “应当在生成或者编辑的信息内容的合理位置、区域进行显著标识” |
+| <https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm> | Có | Biện pháp ghi nhãn nội dung AI tạo/tổng hợp (Văn phòng Thông tin Internet/Bộ Công nghiệp và Công nghệ thông tin/Bộ Công an/Tổng cục Phát thanh truyền hình công bố tháng 3/2025, thi hành 2025-09-01), khoản 2 Điều 10: “任何组织和个人不得恶意删除、篡改、伪造、隐匿本办法规定的生成合成内容标识，不得为他人实施上述恶意行为提供工具或者服务，不得通过不正当标识手段损害他人合法权益” |
+| <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202603/t20260330_7117146.htm> (Công an Phúc Kiến đăng lại, nguồn ghi “CCTV News, Cục Điều tra hình sự Bộ Công an”, 2026-03-30) | Có | 14 nghi phạm, thu hơn 5 vạn video mặt động tổng hợp/hơn 50 vạn bản thông tin cá nhân, tạm giữ hơn 80 điện thoại/máy tính, 60 máy chủ đám mây, bán tài khoản đăng ký trái phép kiếm hơn 60 vạn nhân dân tệ |
 
-定级 B：官方给的是识别口径和个案数字，没有「按这个方法核实后被骗率下降多少」的效果量。收益量级定「大」——口径是金钱，冒充熟人和领导的转账诈骗单笔通常在万元级，按金钱阈值属「大」；成本 钱=0 时间=少 毅力=些（要克制住「他都视频了」的直觉，多打一个电话），合成性价比为「高」。
+Xếp B: chính thức cho phương pháp nhận diện/số vụ riêng, không có cỡ hiệu ứng “xác minh cách này giảm bị lừa bao nhiêu”. Lợi ích “lớn” — đo tiền, lừa chuyển tiền giả người quen/lãnh đạo mỗi khoản thường hàng vạn, theo ngưỡng “lớn”; tiền=0, thời gian=ít, kiên trì=một ít (kiềm trực giác “đã gọi video rồi”, gọi thêm một cuộc), tổng mức đáng làm “cao”.
 
-未取得：公安部官网 mps.gov.cn 本轮仍全站 521（<https://www.mps.gov.cn/n2256342/n6594994/c9081538/content.html> 亦 521），公安部网安局与刑侦局的两份材料只能取福建省公安厅转载页，条目来源栏已注明「转载」。国家反诈中心 App 的「AI 内容鉴定」功能只在地方政法委站点见到转述，未找到公安部或国家反诈中心的原文页，因此正文不写这个功能。
+Chưa lấy được: mps.gov.cn lần này vẫn toàn trang 521 (<https://www.mps.gov.cn/n2256342/n6594994/c9081538/content.html> cũng 521), hai tài liệu Cục An ninh mạng/Điều tra hình sự chỉ lấy được bản đăng lại Công an Phúc Kiến, ô nguồn đã ghi “đăng lại”. Chức năng “giám định nội dung AI” của App Trung tâm Chống lừa đảo quốc gia chỉ thấy trang ủy ban chính pháp địa phương thuật lại, chưa tìm được trang gốc Bộ Công an/Trung tâm, nên chính văn không viết chức năng này.
 
-## 顺带核对的编号
+## Số mục kiểm kèm
 
-第 8 节新编号：1 交通事故 / 2 止付 / 3 反诈口诀 / 4 AI 换脸（新）/ 5 被指控 / 6 酒驾 / 7 两卡 / 8 征信 / 9 冲突 / 10 网络言论 / 11 签字 / 12 借条担保 / 13 被执行 / 14 失信名单 / 15 网购被骗 / 16 赠与 / 17 彩礼 / 18 婚前财产 / 19 骗婚 / 20 上门维修 / 21 挂名法人 / 22 带东西 / 23 养狗。
+Số mới chương 8: 1 tai nạn giao thông / 2 ngừng thanh toán / 3 khẩu quyết chống lừa / 4 AI đổi mặt (mới) / 5 bị cáo buộc / 6 lái xe có cồn / 7 hai thẻ / 8 tín dụng / 9 xung đột / 10 phát ngôn mạng / 11 ký tên / 12 giấy nợ bảo lãnh / 13 bị thi hành án / 14 danh sách thất tín / 15 lừa mua trực tuyến / 16 tặng cho / 17 sính lễ / 18 tài sản trước hôn nhân / 19 lừa hôn nhân / 20 sửa chữa tại nhà / 21 pháp nhân đứng tên / 22 mang đồ hộ / 23 nuôi chó.
 
-全书 375 → 376 条，B 级 92 → 93，性价比「高」184 → 185，book/ 目录下的原始文献链接 721 → 725。
+Toàn sách 375 → 376 mục, B 92 → 93, mức đáng làm “cao” 184 → 185, liên kết tài liệu gốc dưới book/ 721 → 725.

@@ -1,62 +1,62 @@
-# 追加：第 26 节第 4 条并入 App 备案，新增第 12 条信息泄露补救通知、第 13 条自动续费提醒
+# Bổ sung: nhập đăng ký App vào mục 4 chương 26; thêm mục 12 thông báo khắc phục lộ thông tin, mục 13 nhắc tự gia hạn phí
 
-2026-10-14。对照第 26 节「做网站或平台」的主要风险补三件事。
+2026-10-14. Bổ sung ba việc theo rủi ro chính khi “làm website hoặc nền tảng” ở chương 26.
 
-## 查重与四问
-- App 备案：第 11 节第 16 条和本节第 4 条都讲网站 ICP 备案，动作相同（备案），只是载体从网站换成 App 和小程序，按「动作一样只是换场景就并进那一条」并入本节第 4 条，不另开条目。第 11 节由主任务决定要不要在第 16 条补一句指路。标题只加字：「App 和小程序上架前也要备案」。说人话为了控制在 120 字内，删去了「主页不挂备案号罚 5000 元到 5 万元」一句，这个数字仍在收益栏。备注原来写「把机器放到境外，确实能绕开备案」，改成只对网站成立，App 想在国内应用商店上架绕不开。
-- 信息泄露通知：全书 grep「泄露」「补救措施」「第五十七条」，没有从运营者角度写泄露后怎么办的条目（第 14 节是用户自保，第 11 节第 15 条是收集环节）。四问：做站的人会碰上（数据库暴露、被拖库常见）；运营者普遍想捂住，不知道通知用户是法定义务、及时报告还能从轻；动作是新的；有法律原文。写成第 12 条。
-- 自动续费：第 5 节第 1 条从用户角度引了网络交易监督管理办法第十八条，讲怎么关。本节是给经营者的：提醒义务和罚则，动作不同。四问：本节读者里做会员订阅的不少；罚则（违法所得 1 到 5 倍、无违法所得 30 万元以下）多数人不知道；动作新；有原文。写成第 13 条，两边互相指路（第 5 节那边由主任务补）。
+## Kiểm tra trùng và bốn câu hỏi
+- Đăng ký App: mục 16 chương 11 và mục 4 chương này đều nói đăng ký ICP website; hành động giống (đăng ký), chỉ đổi website thành App, chương trình nhỏ, nên theo “cùng hành động chỉ đổi bối cảnh thì nhập vào mục đó”, nhập mục 4, không mở mới. Nhiệm vụ chính quyết định có thêm dẫn đường vào mục 16 chương 11 không. Tiêu đề chỉ thêm “App và chương trình nhỏ cũng phải đăng ký trước khi lên kho”. Để “Nói dễ hiểu” trong 120 chữ, bỏ câu “trang chủ không treo số đăng ký phạt 5000 đến 5 vạn nhân dân tệ”; số vẫn ở cột lợi ích. Ghi chú cũ “đặt máy ở nước ngoài thực sự có thể tránh đăng ký” sửa thành chỉ đúng với website, App muốn lên kho ứng dụng trong nước không tránh được.
+- Thông báo lộ thông tin: grep toàn sách “泄露”, “补救措施”, “第五十七条”, chưa có mục từ góc nhà vận hành nói phải làm gì khi lộ dữ liệu (chương 14 là người dùng tự bảo vệ, mục 15 chương 11 là lúc thu thập). Bốn câu hỏi: người làm web có thể gặp (cơ sở dữ liệu phơi lộ, bị lấy toàn bộ dữ liệu phổ biến); nhà vận hành thường muốn giấu, không biết thông báo người dùng là nghĩa vụ pháp lý, báo kịp thời còn có thể giảm nhẹ; hành động mới; có luật gốc. Viết thành mục 12.
+- Tự gia hạn phí: mục 1 chương 5 từ góc người dùng dẫn Điều 18 Biện pháp giám sát quản lý giao dịch mạng, nói cách tắt. Chương này cho bên kinh doanh: nghĩa vụ nhắc và hình phạt, hành động khác. Bốn câu hỏi: nhiều độc giả chương này làm gói hội viên đăng ký; đa số không biết chế tài (1 đến 5 lần thu nhập bất hợp pháp, không có thu nhập thì không quá 30 vạn nhân dân tệ); hành động mới; có nguyên văn. Viết mục 13, hai bên dẫn qua lại (phía chương 5 do nhiệm vụ chính bổ sung).
 
-## 证据等级与收益量级
-- 三条都是法条原文，A。
-- 口径自由，量级按「避免拘留或行政处罚 = 中」定为中。第 12 条另有民事过错推定赔偿，但罚款是主线，仍定中。
+## Cấp bằng chứng và mức lợi ích
+- Cả ba đều là nguyên văn luật, A.
+- Thước đo tự do, mức lợi ích theo “tránh tạm giữ hoặc xử phạt hành chính = vừa”. Mục 12 còn có bồi thường dân sự theo suy đoán lỗi, nhưng phạt tiền là tuyến chính, vẫn xếp vừa.
 
-## 1. 工信部信管〔2023〕105 号
-- URL：<https://www.gov.cn/zhengce/zhengceku/202308/content_6897341.htm>（2026-10-14 curl 直取，成文日期 2023 年 07 月 21 日）
-- 二（一）：「在中华人民共和国境内从事互联网信息服务的APP主办者，应当依照《中华人民共和国反电信网络诈骗法》《互联网信息服务管理办法》（国务院令第292号）等规定履行备案手续，未履行备案手续的，不得从事APP互联网信息服务。」
-- 受文单位含「移动互联网应用程序分发平台（含小程序、快应用等分发）」。
-- 二（七）：「材料齐全并准确的，应在二十个工作日内予以备案，向其发放备案编号」。
-- 二（八）：「APP主办者应当在APP显著位置标明其备案编号」。
-- 二（九）：「网络接入服务提供者、分发平台、智能终端生产企业不得为未履行备案手续的APP提供网络接入、分发、预置等服务。」
-- 三（二）：「存量APP备案阶段（2023年9月-2024年3月）……对于已履行网站备案手续的，仅需补充完善其APP有关信息，无需重复填报主办者真实身份信息。……在本通知发布后拟开展业务的APP，应按照本通知要求先履行备案手续后再开展业务。」
-- 通知没有单列 App 未备案的罚款数额，只写「按照相关法律法规规定处理」，所以条目没写罚款数。
+## 1. 工信部信管〔2023〕105号
+- URL: <https://www.gov.cn/zhengce/zhengceku/202308/content_6897341.htm> (curl lấy trực tiếp 2026-10-14, ngày văn bản 21 tháng 07 năm 2023).
+- II(1), bản dịch: “Chủ thể tổ chức APP cung cấp dịch vụ thông tin internet trong lãnh thổ nước Cộng hòa Nhân dân Trung Hoa phải thực hiện đăng ký theo Luật Chống lừa đảo viễn thông internet, Biện pháp quản lý dịch vụ thông tin internet (Lệnh Quốc vụ viện số 292)…; chưa đăng ký không được cung cấp dịch vụ thông tin internet APP.”
+- Đơn vị nhận gồm “nền tảng phân phối ứng dụng internet di động (gồm phân phối chương trình nhỏ, ứng dụng nhanh…)”.
+- II(7), bản dịch: “Hồ sơ đầy đủ, chính xác thì phải đăng ký trong hai mươi ngày làm việc, cấp số đăng ký.”
+- II(8), bản dịch: “Chủ thể tổ chức APP phải ghi số đăng ký ở vị trí nổi bật trong APP.”
+- II(9), bản dịch: “Bên cung cấp truy cập mạng, nền tảng phân phối, nhà sản xuất thiết bị thông minh không được cung cấp truy cập, phân phối, cài sẵn… cho APP chưa đăng ký.”
+- III(2), bản dịch: “Giai đoạn đăng ký APP đang hoạt động (tháng 9 năm 2023–tháng 3 năm 2024)… Đã đăng ký website thì chỉ cần bổ sung hoàn thiện thông tin APP liên quan, không phải khai lại thông tin danh tính thật chủ thể… APP dự định kinh doanh sau khi thông báo ban hành phải đăng ký trước rồi mới hoạt động theo yêu cầu.”
+- Thông báo không tách số phạt APP chưa đăng ký, chỉ ghi “xử lý theo pháp luật, quy định liên quan”, nên mục không ghi tiền phạt.
 
-## 2. 反电信网络诈骗法第二十三条
-- URL：<https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>
-- 「设立移动互联网应用程序应当按照国家有关规定向电信主管部门办理许可或者备案手续。」第四十一条罚的是分发方未核验，不罚 App 主办者，所以没引罚则。
+## 2. Điều 23 Luật Chống lừa đảo viễn thông, internet
+- URL: <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>
+- Bản dịch: “Thiết lập ứng dụng internet di động phải làm thủ tục cấp phép hoặc đăng ký với cơ quan viễn thông theo quy định quốc gia.” Điều 41 phạt bên phân phối không xác minh, không phạt chủ thể APP, nên không dẫn chế tài.
 
-## 3. 个人信息保护法
-- URL：<https://www.spp.gov.cn/spp/fl/202108/t20210820_527244.shtml>
-- 第五十七条：「发生或者可能发生个人信息泄露、篡改、丢失的，个人信息处理者应当立即采取补救措施，并通知履行个人信息保护职责的部门和个人。通知应当包括下列事项：（一）……信息种类、原因和可能造成的危害；（二）个人信息处理者采取的补救措施和个人可以采取的减轻危害的措施；（三）个人信息处理者的联系方式。个人信息处理者采取措施能够有效避免信息泄露、篡改、丢失造成危害的，个人信息处理者可以不通知个人；履行个人信息保护职责的部门认为可能造成危害的，有权要求个人信息处理者通知个人。」
-- 第六十六条：「……责令改正，给予警告，没收违法所得，对违法处理个人信息的应用程序，责令暂停或者终止提供服务；拒不改正的，并处一百万元以下罚款；对直接负责的主管人员和其他直接责任人员处一万元以上十万元以下罚款。……情节严重的……并处五千万元以下或者上一年度营业额百分之五以下罚款……对直接负责的主管人员和其他直接责任人员处十万元以上一百万元以下罚款」。
-- 第六十九条：「处理个人信息侵害个人信息权益造成损害，个人信息处理者不能证明自己没有过错的，应当承担损害赔偿等侵权责任。」
+## 3. Luật Bảo vệ thông tin cá nhân
+- URL: <https://www.spp.gov.cn/spp/fl/202108/t20210820_527244.shtml>
+- Điều 57, bản dịch: “Khi thông tin cá nhân bị hoặc có thể bị lộ, sửa đổi trái phép, mất, bên xử lý phải lập tức khắc phục và thông báo cơ quan thực hiện trách nhiệm bảo vệ thông tin cá nhân cùng cá nhân. Thông báo phải gồm: (1)… loại thông tin, nguyên nhân, nguy hại có thể xảy ra; (2) biện pháp khắc phục đã thực hiện, biện pháp cá nhân có thể dùng giảm hại; (3) thông tin liên hệ bên xử lý. Nếu biện pháp của bên xử lý tránh hiệu quả nguy hại do lộ, sửa đổi, mất thông tin, có thể không thông báo cá nhân; cơ quan có trách nhiệm cho rằng có thể gây hại thì có quyền yêu cầu thông báo.”
+- Điều 66, bản dịch: “…yêu cầu khắc phục, cảnh cáo, tịch thu thu nhập bất hợp pháp; ứng dụng xử lý thông tin cá nhân trái phép phải tạm ngừng hoặc chấm dứt dịch vụ; từ chối khắc phục thì phạt kèm không quá một triệu nhân dân tệ; người quản lý trực tiếp và người chịu trách nhiệm trực tiếp khác bị phạt từ một vạn đến mười vạn… tình tiết nghiêm trọng… phạt kèm không quá năm mươi triệu hoặc năm phần trăm doanh thu năm trước… người quản lý trực tiếp và người chịu trách nhiệm trực tiếp khác bị phạt từ mười vạn đến một triệu.”
+- Điều 69, bản dịch: “Xử lý thông tin cá nhân xâm phạm quyền lợi thông tin cá nhân gây thiệt hại, nếu bên xử lý không chứng minh được mình không có lỗi thì phải chịu trách nhiệm xâm phạm như bồi thường.”
 
-## 4. 网络安全法（2025 年修正）
-- URL：<https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm>
-- 第四十四条第二款：「在发生或者可能发生个人信息泄露、毁损、丢失的情况时，应当立即采取补救措施，按照规定及时告知用户并向有关主管部门报告。」
-- 第二十七条：「在发生危害网络安全的事件时，立即启动应急预案，采取相应的补救措施，并按照规定向有关主管部门报告。」
-- 第七十一条第二项：违反第四十三条至第四十五条「侵害个人信息权益的」，「依照有关法律、行政法规的规定处理、处罚」，即落到个人信息保护法第六十六条。
-- 2016 年文本对应第二十五、四十二条（条号按 2025 修正后整体后移两条推算，和本节第 7 条「第二十四条移到第二十六条」一致）。
+## 4. Luật An ninh mạng (sửa đổi 2025)
+- URL: <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm>
+- Khoản 2 Điều 44, bản dịch: “Khi thông tin cá nhân bị hoặc có thể bị lộ, hư hại, mất, phải lập tức khắc phục, kịp thời báo người dùng và cơ quan quản lý liên quan theo quy định.”
+- Điều 27, bản dịch: “Khi xảy ra sự cố gây hại an ninh mạng, lập tức kích hoạt phương án khẩn cấp, khắc phục tương ứng và báo cơ quan quản lý liên quan theo quy định.”
+- Điểm 2 Điều 71: vi phạm Điều 43 đến 45 “xâm phạm quyền lợi thông tin cá nhân” thì “xử lý, xử phạt theo luật, quy định hành chính liên quan”, tức áp Điều 66 Luật Bảo vệ thông tin cá nhân.
+- Bản 2016 tương ứng Điều 25, 42 (suy số điều từ việc bản sửa 2025 chuyển toàn bộ lùi hai điều, nhất quán với mục 7 chương này “Điều 24 chuyển thành Điều 26”).
 
-## 5. 网络数据安全管理条例（国务院令第 790 号）第十一条
-- URL：<https://www.gov.cn/gongbao/2024/issue_11646/202410/content_6980863.html>
-- 「网络数据安全事件对个人、组织合法权益造成危害的，网络数据处理者应当及时将安全事件和风险情况、危害后果、已经采取的补救措施等，以电话、短信、即时通信工具、电子邮件或者公告等方式通知利害关系人……网络数据处理者在处置网络数据安全事件过程中发现涉嫌违法犯罪线索的，应当按照规定向公安机关、国家安全机关报案」。
+## 5. Điều 11 Điều lệ quản lý an toàn dữ liệu mạng (Lệnh Quốc vụ viện số 790)
+- URL: <https://www.gov.cn/gongbao/2024/issue_11646/202410/content_6980863.html>
+- Bản dịch: “Sự cố an toàn dữ liệu mạng gây hại quyền lợi hợp pháp cá nhân, tổ chức thì bên xử lý dữ liệu phải kịp thời thông báo bên có lợi ích liên quan về sự cố, rủi ro, hậu quả, biện pháp khắc phục đã thực hiện… qua điện thoại, SMS, nhắn tin tức thời, email, thông báo công khai… Nếu trong xử lý sự cố phát hiện đầu mối nghi vi phạm pháp luật, tội phạm thì phải báo công an, cơ quan an ninh quốc gia theo quy định.”
 
-## 6. 国家网络安全事件报告管理办法（国家网信办 2025-09-11，2025-11-01 施行）
-- URL：<https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm>（文号页面上没有，条目不写文号）
-- 第四条：属于较大以上网络安全事件的，「其他网络运营者应当及时向属地省级网信部门报告，最迟不得超过4小时」。
-- 附件分级指南「较大网络安全事件」第 5 项：「泄露100万人以上公民个人信息」；注：「本指南中的“以上”均包括本数」。
-- 第八条：「处置工作结束后，网络运营者应当于30日内……形成事件处置总结报告按照原渠道上报」。
-- 第九条：「网信部门建设12387网络安全事件报告热线电话和网站、邮箱、传真等方式」。
-- 第十条：「因网络运营者迟报、漏报、谎报或者瞒报网络安全事件，造成重大危害后果的，对网络运营者及有关责任人依法从重处罚。」
-- 第十一条：「网络运营者已采取合理必要的防护措施，按照应急预案进行处置、有效降低网络安全事件影响和危害，并按照本办法规定及时报告的，可视情从轻或不予追究相关单位和人员责任。」
+## 6. Biện pháp quản lý báo cáo sự cố an ninh mạng quốc gia (Cục Không gian mạng Quốc gia 2025-09-11, hiệu lực 2025-11-01)
+- URL: <https://www.cac.gov.cn/2025-09/15/c_1759583017717009.htm> (trang không có số văn bản, mục không ghi).
+- Điều 4: với sự cố an ninh mạng mức tương đối lớn trở lên, “nhà vận hành mạng khác phải kịp thời báo cơ quan không gian mạng cấp tỉnh tại địa bàn, chậm nhất không quá 4 giờ”.
+- Mục 5 “sự cố an ninh mạng tương đối lớn” trong hướng dẫn phân cấp đính kèm: “lộ thông tin cá nhân từ 100 vạn công dân trở lên”; chú thích: “‘trở lên’ trong hướng dẫn đều bao gồm số đó”.
+- Điều 8, bản dịch: “Sau khi kết thúc xử lý, nhà vận hành mạng phải trong 30 ngày… lập báo cáo tổng kết xử lý và gửi theo kênh ban đầu.”
+- Điều 9, bản dịch: “Cơ quan không gian mạng xây dựng đường dây báo cáo sự cố an ninh mạng 12387 cùng website, email, fax…”
+- Điều 10, bản dịch: “Nhà vận hành báo chậm, bỏ sót, báo giả hoặc giấu sự cố gây hậu quả nguy hại nghiêm trọng thì nhà vận hành và người liên quan bị xử phạt nặng theo pháp luật.”
+- Điều 11, bản dịch: “Nhà vận hành đã có biện pháp bảo vệ hợp lý cần thiết, xử lý theo phương án khẩn cấp, giảm hiệu quả ảnh hưởng, nguy hại và báo kịp thời theo biện pháp này thì có thể tùy tình hình giảm nhẹ hoặc không truy trách nhiệm đơn vị, cá nhân liên quan.”
 
-## 7. 网络交易监督管理办法（2025 修正）
-- URL：<https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html>
-- 第十八条：「网络交易经营者采取自动展期、自动续费等方式提供服务的，应当在消费者接受服务前和自动展期、自动续费等日期前，以显著方式提请消费者注意，由消费者自主选择。……在服务期间内，应当为消费者提供显著、简便的随时取消或者变更的选项，并不得收取不合理费用。」
-- 第四十一条：违反「第十八条第二款，法律、行政法规有规定的，依照其规定；法律、行政法规没有规定的，由市场监督管理部门依职责责令限期改正，可以处三万元以下罚款。网络交易经营者违反本办法第十八条第一款、第二十一条规定的，依照《中华人民共和国消费者权益保护法实施条例》第五十条的规定处理。」
+## 7. Biện pháp giám sát quản lý giao dịch mạng (sửa đổi 2025)
+- URL: <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2025/art_4b47c79b8d994a42bba4835997688faa.html>
+- Điều 18, bản dịch: “Bên kinh doanh cung cấp dịch vụ bằng tự động gia hạn thời hạn, tự động thu phí… phải nhắc rõ người tiêu dùng trước khi nhận dịch vụ và trước ngày tự gia hạn, thu phí…, để họ tự chọn… Trong thời gian dịch vụ, phải cung cấp lựa chọn nổi bật, đơn giản để hủy hoặc thay đổi bất cứ lúc nào, không thu phí bất hợp lý.”
+- Điều 41, bản dịch: vi phạm “khoản 2 Điều 18, nếu luật, quy định hành chính có quy định thì theo đó; không có thì cơ quan quản lý thị trường theo trách nhiệm yêu cầu khắc phục trong thời hạn, có thể phạt không quá ba vạn nhân dân tệ. Vi phạm khoản 1 Điều 18, Điều 21 thì xử lý theo Điều 50 Điều lệ thi hành Luật Bảo vệ quyền lợi người tiêu dùng nước Cộng hòa Nhân dân Trung Hoa”.
 
-## 8. 消费者权益保护法实施条例（国务院令第 778 号）
-- URL：<https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>
-- 第十条第二款：「经营者采取自动展期、自动续费等方式提供服务的，应当在消费者接受服务前和自动展期、自动续费等日期前，以显著方式提请消费者注意。」
-- 第五十条第一款：违反第十条至第十四条等，「法律、法规未作规定的，由市场监督管理部门或者其他有关行政部门责令改正，可以根据情节单处或者并处警告、没收违法所得、处以违法所得1倍以上5倍以下的罚款，没有违法所得的，处以30万元以下的罚款；情节严重的，责令停业整顿、吊销营业执照。」
+## 8. Điều lệ thi hành Luật Bảo vệ quyền lợi người tiêu dùng (Lệnh Quốc vụ viện số 778)
+- URL: <https://www.gov.cn/zhengce/zhengceku/202403/content_6940159.htm>
+- Khoản 2 Điều 10, bản dịch: “Bên kinh doanh cung cấp dịch vụ bằng tự động gia hạn thời hạn, tự động thu phí… phải nhắc rõ người tiêu dùng trước khi nhận dịch vụ và trước ngày tự gia hạn, thu phí…”
+- Khoản 1 Điều 50: vi phạm Điều 10 đến 14… mà “luật, quy định chưa có quy định thì cơ quan quản lý thị trường hoặc cơ quan hành chính liên quan yêu cầu khắc phục, có thể tùy tình tiết áp riêng hoặc kết hợp cảnh cáo, tịch thu thu nhập bất hợp pháp, phạt từ 1 đến 5 lần thu nhập ấy; không có thu nhập bất hợp pháp thì phạt không quá 30 vạn nhân dân tệ; tình tiết nghiêm trọng thì yêu cầu ngừng hoạt động chỉnh đốn, thu hồi giấy phép kinh doanh”.

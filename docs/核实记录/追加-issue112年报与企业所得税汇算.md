@@ -1,74 +1,74 @@
-# 追加：issue #112，第 12 节第 25 条（每年上半年报年报）和第 12 条补企业所得税汇算期限
+# Bổ sung: issue #112, mục 12 điều 25 (nộp báo cáo năm trong nửa đầu mỗi năm) và thêm hạn quyết toán thuế thu nhập doanh nghiệp vào điều 12
 
-2026-10-10。issue #112 读者想看「怎么开公司、当个体户、怎么交税、要什么证和资质、怎么申请」。
+2026-10-10. Độc giả issue #112 muốn xem “mở công ty, làm hộ kinh doanh thế nào, đóng thuế ra sao, cần giấy phép và điều kiện gì, đăng ký thế nào”.
 
-## 评估
+## Đánh giá
 
-第 12 节已经覆盖了读者问的大部分，没有另开条目：
+Mục 12 đã bao phủ phần lớn câu hỏi, không mở điều mới cho các nội dung sau:
 
-- 什么类型的公司：第 3 条（开张前选对主体）。
-- 怎么申请、要什么材料：第 6 条（注册前把名称……定下来）。
-- 要什么证和资质：第 7 条（证没下来不开张）、第 8 条（做食品落在哪一档）。做网站、平台的资质在第 26 节。
-- 怎么交税：第 12 条（零申报）、第 13 条（发票与小规模纳税人免税额）、第 14 条（冒充税务局的骗局）。
-- 不做了怎么办：第 23 条（亏了就按程序退场）。
+- Loại công ty nào: điều 3 (chọn đúng loại chủ thể trước khai trương).
+- Đăng ký thế nào, cần giấy tờ gì: điều 6 (trước đăng ký xác định tên…).
+- Cần giấy phép và điều kiện gì: điều 7 (chưa có giấy phép thì chưa mở cửa), điều 8 (kinh doanh thực phẩm thuộc nhóm nào). Điều kiện làm website, nền tảng ở mục 26.
+- Đóng thuế thế nào: điều 12 (khai thuế bằng không), điều 13 (hóa đơn và hạn miễn thuế người nộp thuế quy mô nhỏ), điều 14 (lừa đảo giả cơ quan thuế).
+- Ngừng làm thì sao: điều 23 (lỗ thì rút lui theo thủ tục).
 
-查下来真正的缺口是读者点名的「年底报账」：
+Sau kiểm tra, khoảng trống thực là “báo sổ cuối năm” độc giả nêu:
 
-1. **市场监管的年度报告**：第 23 条只写了不报的后果（经营异常名录、连续 2 年吊销），没写什么时候报、个体户要不要报、补报能不能移出。普通人多半以为报了税就完事了，动作是新的、有官方原文，按四问评估后新增第 25 条，追加在节末不插中间。
-2. **企业所得税的年度汇算**：第 12 条备注写了个体户经营所得的汇算期限，没写有限公司。这是同一个动作（按期申报）换了个税种，并进第 12 条备注和来源栏，不另开条目。
+1. **Báo cáo năm cho cơ quan giám sát thị trường**: điều 23 chỉ nêu hậu quả không nộp (danh sách kinh doanh bất thường, thu hồi giấy phép sau 2 năm liên tiếp), chưa nói nộp khi nào, hộ kinh doanh có phải nộp không, nộp bổ sung có được ra khỏi danh sách không. Người bình thường thường nghĩ khai thuế xong là đủ; hành động mới, có nguyên văn chính thức, sau đánh giá bốn câu hỏi thêm điều 25 ở cuối mục, không chèn giữa.
+2. **Quyết toán thuế thu nhập doanh nghiệp hằng năm**: ghi chú điều 12 có hạn quyết toán thu nhập kinh doanh của hộ cá thể, chưa có công ty trách nhiệm hữu hạn. Cùng hành động (khai đúng hạn), chỉ khác sắc thuế, nên gộp vào ghi chú và cột nguồn điều 12, không mở điều mới.
 
-没收的：「公司年底报账」里的建账记账细节（会计制度、代账怎么选）各地做法和市场价格不一，没有能写成全国统一动作的官方原文。
+Không nhận: chi tiết lập sổ, ghi sổ trong “báo sổ cuối năm của công ty” (chế độ kế toán, chọn dịch vụ kế toán); cách làm và giá thị trường khác theo địa phương, không có nguyên văn chính thức để viết thành hành động thống nhất toàn quốc.
 
-## 1. 企业信息公示暂行条例（2024 年国务院令第 777 号修订）
-- 取法：flk.npc.gov.cn 下载接口 `/law-search/download/mobile?format=docx&bbbs=ff8081819c46fcc5019cd18fc6e9557d` 会 302 到对象存储，curl 要加 `-L`，不加只拿到 0 字节。
-- 第八条：「企业应当于每年1月1日至6月30日，通过国家企业信用信息公示系统向市场监督管理部门报送上一年度年度报告，并向社会公示。」
-- 第十八条：「企业未按照本条例规定的期限公示年度报告或者未按照市场监督管理部门责令的期限公示有关企业信息的，由县级以上市场监督管理部门列入经营异常名录，并依法给予行政处罚。企业因连续2年未按规定报送年度报告被列入经营异常名录未改正，且通过登记的住所或者经营场所无法取得联系的，由县级以上市场监督管理部门吊销营业执照。」
-- 第十九条：「在政府采购、工程招投标、国有土地出让、授予荣誉称号等工作中……对被列入经营异常名录或者市场监督管理严重违法失信名单的企业依法予以限制或者禁入。」
-- 附则：「个体工商户、农民专业合作社信息公示的具体办法由国务院市场监督管理部门另行制定。」
+## 1. Điều lệ tạm thời về công khai thông tin doanh nghiệp (sửa đổi bằng Lệnh Quốc vụ viện số 777 năm 2024)
+- Cách lấy: giao diện tải flk.npc.gov.cn `/law-search/download/mobile?format=docx&bbbs=ff8081819c46fcc5019cd18fc6e9557d` chuyển 302 sang kho đối tượng; curl phải thêm `-L`, không thêm chỉ nhận 0 byte.
+- Điều 8: “企业应当于每年1月1日至6月30日，通过国家企业信用信息公示系统向市场监督管理部门报送上一年度年度报告，并向社会公示。”
+- Điều 18: “企业未按照本条例规定的期限公示年度报告或者未按照市场监督管理部门责令的期限公示有关企业信息的，由县级以上市场监督管理部门列入经营异常名录，并依法给予行政处罚。企业因连续2年未按规定报送年度报告被列入经营异常名录未改正，且通过登记的住所或者经营场所无法取得联系的，由县级以上市场监督管理部门吊销营业执照。”
+- Điều 19: “在政府采购、工程招投标、国有土地出让、授予荣誉称号等工作中……对被列入经营异常名录或者市场监督管理严重违法失信名单的企业依法予以限制或者禁入。”
+- Điều khoản bổ sung: “个体工商户、农民专业合作社信息公示的具体办法由国务院市场监督管理部门另行制定。”
 
-## 2. 市场监管总局令第 108 号（2025-11-21 公布，2025-12-25 施行）
-- URL：<https://www.gov.cn/gongbao/2026/issue_12546/202602/content_7057451.html>（2026 年第 4 号国务院公报，附重新公布的四部规章全文）
-- 个体工商户年度报告办法题注：「2014年8月19日国家工商行政管理总局令第69号公布　根据2025年3月18日国家市场监督管理总局令第101号第一次修正　根据2025年11月21日国家市场监督管理总局令第108号第二次修正」
-- 第三条：「个体工商户应当于每年1月1日至6月30日，通过国家企业信用信息公示系统或者直接向负责其登记的市场监督管理部门报送上一年度年度报告。当年开业登记的个体工商户，自下一年起报送。」
-- 第五条：「个体工商户可以通过国家企业信用信息公示系统或者以纸质方式报送年度报告。」
-- 第八条：「个体工商户可以自主选择其年度报告内容是否公示。」
-- 第十三条：「个体工商户未按照本办法规定报送年度报告的，市场监督管理部门应当在当年年度报告结束之日起10个工作日内作出将其列入经营异常名录的决定」
-- 第十六条：「（一）因未按照本办法规定报送年度报告被列入经营异常名录，已经补报未报年份的年度报告」可以申请移出。
-- 企业经营异常名录管理办法第六条（未报年报 10 个工作日内列入）、第十一条第一项（「已经补报未报年份的年度报告并公示」可以申请移出）。
-- 「年报不收费」：条例和办法里都没有收费规定，按这一点写。
+## 2. Lệnh Tổng cục Giám sát thị trường số 108 (công bố 2025-11-21, thi hành 2025-12-25)
+- URL: <https://www.gov.cn/gongbao/2026/issue_12546/202602/content_7057451.html> (Công báo Quốc vụ viện số 4 năm 2026, kèm toàn văn bốn quy định công bố lại).
+- Chú thích Biện pháp báo cáo năm của hộ kinh doanh cá thể: “2014年8月19日国家工商行政管理总局令第69号公布　根据2025年3月18日国家市场监督管理总局令第101号第一次修正　根据2025年11月21日国家市场监督管理总局令第108号第二次修正”.
+- Điều 3: “个体工商户应当于每年1月1日至6月30日，通过国家企业信用信息公示系统或者直接向负责其登记的市场监督管理部门报送上一年度年度报告。当年开业登记的个体工商户，自下一年起报送。”
+- Điều 5: “个体工商户可以通过国家企业信用信息公示系统或者以纸质方式报送年度报告。”
+- Điều 8: “个体工商户可以自主选择其年度报告内容是否公示。”
+- Điều 13: “个体工商户未按照本办法规定报送年度报告的，市场监督管理部门应当在当年年度报告结束之日起10个工作日内作出将其列入经营异常名录的决定”.
+- Điều 16: “（一）因未按照本办法规定报送年度报告被列入经营异常名录，已经补报未报年份的年度报告” thì có thể xin ra khỏi danh sách.
+- Điều 6 Biện pháp quản lý danh sách doanh nghiệp kinh doanh bất thường (không nộp báo cáo thì đưa vào trong 10 ngày làm việc), điểm 1 điều 11 (“已经补报未报年份的年度报告并公示” thì có thể xin ra khỏi).
+- “Báo cáo năm không thu phí”: điều lệ và biện pháp đều không có quy định thu phí, viết theo điểm này.
 
-## 3. 企业所得税法（2018 年修正，第五十四条）
-- flk bbbs=ff8080816f135f46016f2106acd11784，sxx=3（有效）。
-- 「企业所得税分月或者分季预缴。」「企业应当自年度终了之日起五个月内，向税务机关报送年度企业所得税纳税申报表，并汇算清缴，结清应缴应退税款。」
-- 纳税年度按第五十三条是公历 1 月 1 日到 12 月 31 日，所以「五个月内」就是次年 5 月 31 日前。
+## 3. Luật Thuế thu nhập doanh nghiệp (sửa đổi 2018, điều 54)
+- flk bbbs=ff8080816f135f46016f2106acd11784, sxx=3 (còn hiệu lực).
+- “企业所得税分月或者分季预缴。”“企业应当自年度终了之日起五个月内，向税务机关报送年度企业所得税纳税申报表，并汇算清缴，结清应缴应退税款。”
+- Theo điều 53, năm tính thuế từ 1 tháng 1 đến 31 tháng 12 dương lịch, vậy “trong năm tháng” nghĩa là trước ngày 31 tháng 5 năm sau.
 
-## 收益量级
-口径定为自由（法律责任）：不报的后果是列入经营异常名录并依法给予行政处罚，连续 2 年加联系不上要吊销执照。按「避免拘留或行政处罚」定中。
+## Mức lợi ích
+Tiêu chí tự do (trách nhiệm pháp luật): không báo cáo dẫn tới danh sách kinh doanh bất thường và xử phạt hành chính theo luật; 2 năm liên tiếp cộng không liên lạc được thì thu hồi giấy phép. Xếp vừa theo “tránh tạm giữ hoặc xử phạt hành chính”.
 
-## 4. 年报骗局（同日追加）
-用户自述做个体户时多次接到「你漏报年报」的电话，实际家人早已报过，对方让去它的微信公众号交钱代办。和第 14 条（冒充税务局）是同一个动作，没有另开条目，并进第 25 条的收益栏、说人话和备注，第 14 条备注加一句反向指路。标题末尾加了「年报不收费」（只加字）。
+## 4. Lừa đảo báo cáo năm (bổ sung cùng ngày)
+Người dùng kể khi làm hộ kinh doanh nhiều lần nhận điện thoại “bạn chưa nộp báo cáo năm”, thực tế gia đình đã nộp; đối phương yêu cầu vào tài khoản công khai WeChat của họ trả tiền làm hộ. Cùng hành động với điều 14 (giả cơ quan thuế), không mở điều mới, gộp vào lợi ích, giải thích dễ hiểu, ghi chú điều 25; ghi chú điều 14 thêm câu dẫn ngược. Cuối tiêu đề thêm “báo cáo năm không thu phí” (chỉ thêm chữ).
 
-- 市场监管总局 (2023)，中国政府网部门动态转载，来源标「市说新语」微信公号（市场监管总局官方公众号）：<https://www.gov.cn/lianbo/bumen/202311/content_6917465.htm>
-  - 「有不法分子冒充市场监管人员向未参加年报的企业、个体工商户打电话，称企业已经超期没有年报被列入经营异常名录，并引导搜索所谓的小程序或公众号，误导经营主体按照同意委托和交费等步骤操作，骗取费用。」
-  - 「市场监管总局提醒各经营主体，报送年报、移出经营异常名录务必通过国家企业信用信息公示系统等官方渠道。」
-- 市场监管总局 (2024)，滨州市市场监督管理局消费警示栏转载：<http://amr.binzhou.gov.cn/art/2024/12/16/art_164869_10306521.html>
-  - 「在此，市场监管总局温馨提醒：年报不收费，大家要增强防范意识，谨防“年报诈骗”。」
-  - 列了五种手法：冒充市场监管人员称年报和信用修复要缴费、虚假年报入口、带链接的诈骗短信、到付快递里的假《企业年检公告》、第三方中介协议收费。正文只写了第一种，其余没逐条写。
-- 「自己上公示系统就能查到」：企业年报依条例第八条「并向社会公示」；个体户不公示内容的，依年度报告办法第十条，市场监管部门「通过国家企业信用信息公示系统公示该个体工商户已经报送年度报告」；经营异常名录依条例第十八条在系统上公示。
+- Tổng cục Giám sát thị trường (2023), mục tin cơ quan của website Chính phủ Trung Quốc đăng lại, ghi nguồn tài khoản WeChat “市说新语” (tài khoản chính thức của Tổng cục): <https://www.gov.cn/lianbo/bumen/202311/content_6917465.htm>
+  - “有不法分子冒充市场监管人员向未参加年报的企业、个体工商户打电话，称企业已经超期没有年报被列入经营异常名录，并引导搜索所谓的小程序或公众号，误导经营主体按照同意委托和交费等步骤操作，骗取费用。”
+  - “市场监管总局提醒各经营主体，报送年报、移出经营异常名录务必通过国家企业信用信息公示系统等官方渠道。”
+- Tổng cục Giám sát thị trường (2024), chuyên mục cảnh báo tiêu dùng Cục Giám sát thị trường Tân Châu đăng lại: <http://amr.binzhou.gov.cn/art/2024/12/16/art_164869_10306521.html>
+  - “在此，市场监管总局温馨提醒：年报不收费，大家要增强防范意识，谨防‘年报诈骗’。”
+  - Liệt kê năm thủ đoạn: giả cán bộ giám sát thị trường nói báo cáo năm và khôi phục tín dụng phải đóng phí, cổng báo cáo giả, tin nhắn lừa có liên kết, “thông báo kiểm tra doanh nghiệp hằng năm” giả trong bưu kiện trả tiền khi nhận, thỏa thuận thu phí của trung gian. Nội dung chỉ viết loại đầu, không liệt kê từng loại còn lại.
+- “Tự vào hệ thống công khai là tra được”: báo cáo năm doanh nghiệp theo điều 8 điều lệ “并向社会公示”; hộ kinh doanh không công khai nội dung thì theo điều 10 biện pháp báo cáo năm, cơ quan quản lý “通过国家企业信用信息公示系统公示该个体工商户已经报送年度报告”; danh sách bất thường được công khai trên hệ thống theo điều 18 điều lệ.
 
-## 5. 年报诈骗的判决案例（同日追加）
-用户问这些公司打电话违不违法、有没有案例。两案都逐字核对了官方页面，只用来说明「发生过、被判了」，不改收益量级。被告只写姓。
+## 5. Vụ án đã tuyên về lừa đảo báo cáo năm (bổ sung cùng ngày)
+Người dùng hỏi các công ty gọi điện có trái luật không, có vụ án không. Hai vụ đều đối chiếu từng chữ trên trang chính thức, chỉ để cho thấy “đã xảy ra, đã bị kết án”, không đổi mức lợi ích. Bị cáo chỉ ghi họ.
 
-- 安徽旌德法院案，无锡市市场监督管理局 2025-03-20 转载：<https://scjgj.wuxi.gov.cn/doc/2025/03/20/4524579.shtml>
-  - 「被告人王某、张某合伙设立公司，经营范围包含“市场主体登记注册代理”」
-  - 「话务员……故意隐瞒身份……误认为话务员是市场监管部门的工作人员，诱骗被害人进入张某购买的“微小企业服务”“个体工商户申报”等第三方微信小程序」
-  - 「小程序中即弹出98元、280元、298元、398元不等的付款页面，话务员谎称营业执照年审申报、注销、作废均需要收取“人工申报材料费”等费用」
-  - 「自2022年11月至2023年7月，共诈骗全国个体工商户10099人，违法所得319万余元。」
-  - 「被告人张某犯诈骗罪，判处有期徒刑十年八个月……被告人李某犯诈骗罪，判处有期徒刑十年六个月……被告人王某犯诈骗罪，判处有期徒刑十年六个月……另18名从犯犯诈骗罪，分别被判处有期徒刑一至两年并适用缓刑」
-  - 公司通过企业信息查询 APP 获取个体户名称、经营者姓名和电话，导入外呼系统。正文没写这一点。
-- 嘉兴南湖区法院案，法院官网 2024-07-23：<http://nhcourt.gov.cn/art/2024/7/23/art_1217290_58718476.html>
-  - 「被告胡某、张某等9人因犯诈骗罪分别被判处有期徒刑4年至8个月不等的刑期，并各处罚金，共计9万元。」
-  - 「小程序上方有小字虽有文字提醒“报送免费”，但多数商户会在话务员的催促下忽略该提醒，仓促转账。」
-  - 「话务员则谎称自己为年报申报的工作人员，利用个体工商户不熟悉年报政策之机，故意隐瞒经营者可以线上办理等实际情况，编造大额罚款谎言」
-  - 骗得 45 万余元、判决已生效，正文没写。
-- 骚扰电话本身是否违法、向哪举报，本轮没取到能核对的官方原文，没写。
+- Vụ Tòa án Tinh Đức, An Huy, Cục Giám sát thị trường Vô Tích đăng lại 2025-03-20: <https://scjgj.wuxi.gov.cn/doc/2025/03/20/4524579.shtml>
+  - “被告人王某、张某合伙设立公司，经营范围包含‘市场主体登记注册代理’”
+  - “话务员……故意隐瞒身份……误认为话务员是市场监管部门的工作人员，诱骗被害人进入张某购买的‘微小企业服务’‘个体工商户申报’等第三方微信小程序”
+  - “小程序中即弹出98元、280元、298元、398元不等的付款页面，话务员谎称营业执照年审申报、注销、作废均需要收取‘人工申报材料费’等费用”
+  - “自2022年11月至2023年7月，共诈骗全国个体工商户10099人，违法所得319万余元。”
+  - “被告人张某犯诈骗罪，判处有期徒刑十年八个月……被告人李某犯诈骗罪，判处有期徒刑十年六个月……被告人王某犯诈骗罪，判处有期徒刑十年六个月……另18名从犯犯诈骗罪，分别被判处有期徒刑一至两年并适用缓刑”
+  - Công ty dùng ứng dụng tra thông tin doanh nghiệp lấy tên hộ kinh doanh, họ tên và số điện thoại người kinh doanh, nhập vào hệ thống gọi ra. Nội dung sách không viết điểm này.
+- Vụ Tòa án quận Nam Hồ, Gia Hưng, website tòa ngày 2024-07-23: <http://nhcourt.gov.cn/art/2024/7/23/art_1217290_58718476.html>
+  - “被告胡某、张某等9人因犯诈骗罪分别被判处有期徒刑4年至8个月不等的刑期，并各处罚金，共计9万元。”
+  - “小程序上方有小字虽有文字提醒‘报送免费’，但多数商户会在话务员的催促下忽略该提醒，仓促转账。”
+  - “话务员则谎称自己为年报申报的工作人员，利用个体工商户不熟悉年报政策之机，故意隐瞒经营者可以线上办理等实际情况，编造大额罚款谎言”
+  - Lừa hơn 45 vạn nhân dân tệ, bản án đã có hiệu lực; nội dung sách không ghi.
+- Riêng điện thoại quấy rối có trái luật không, tố giác ở đâu: đợt này chưa lấy được nguyên văn chính thức có thể đối chiếu, không viết.

@@ -2,8 +2,8 @@
 
 Cập nhật ngày **26/10/2026**. Phạm vi gồm **337 tệp Markdown** đã có trong fork tại commit `036368c`. Đây là kiểm kê toàn kho, khác với tiến độ 767 mục sách.
 
-- Đã có hoặc đã chuyển nội dung sang tiếng Việt: **148/337 tệp**.
-- **Chưa hoàn tất bản dịch: 189 tệp**.
+- Đã có hoặc đã chuyển nội dung sang tiếng Việt: **195/337 tệp**.
+- **Chưa hoàn tất bản dịch: 142 tệp**.
 - Bản nội dung sách dùng nguồn `e2605d3` ngày 21/10/2026; đợt này không tự cập nhật chính sách theo ngày 26/10.
 
 Các chương và chín bài đọc được xuất từ bản dịch có hồ sơ rà soát. Hồ sơ kiểm chứng và hướng dẫn kỹ thuật mới được AI dịch rồi tự rà soát; không coi đó là chứng nhận của chuyên gia hay lượt kiểm chứng lại các nguồn. Các tệp trong `vi/book/`, `vi/docs/`, `vi/README.md` giữ bản lưu cũ để kiểm tra hồi quy.
@@ -14,7 +14,6 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 
 ## Các tệp chưa hoàn tất
 
-- `CLAUDE.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/01-不要早死.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/02-不要慢慢死.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/03-不要浪费精力.md` — **chưa hoàn tất bản dịch**.
@@ -32,7 +31,6 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/13-急救与野外补充.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/13-紧急情况.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/14-19-新增章节与HowToLiveLonger合入.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/19-工伤.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/24-25-看病与身后事.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/27-怀孕和生产与艾滋病预防阻断.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/28-别为了外形把身体搞坏.md` — **chưa hoàn tất bản dịch**.
@@ -41,63 +39,38 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/32-出国留学.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/33-残疾之后怎么活.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/34-家里的常备药别吃出事.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/全书审校待核清单-2026-10-14.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/待核清单处理-剩余医学四处.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/待核清单处理-剩余法律三处.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第11、12、14节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第13节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第15、16、17、18、19节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第1节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第20、21、22节.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/待核清单处理-第23、24、25节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第27、28、29、32节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第2、3、4节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第30、31、33、34节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第5、6、7节.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/待核清单处理-第8节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/待核清单处理-第9、10节.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/性取向相关条目.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/排查-只给禁止不给出路.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/排查-说人话栏与收益栏对齐.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/新增-第31节十八岁之后有哪几条路.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/纠错-2026-10-21-生活自查.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/纠错-2026-10-21-留学工作条件.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/补来源-第14节.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/补来源-第16节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/补来源-第17节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/补来源-第19节与第20节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/补来源-第29节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/补来源-第7节与第15节.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-AI幻觉.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-AI换脸拟声.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-App备案信息泄露与自动续费.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-OPT失业天数与加拿大省级证明信.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-issue112年报与企业所得税汇算.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-issue28八处补来源.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-issue64AB贷与按指印.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-丙肝.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-乙肝随访与慢阻肺.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-买车.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-互联网复诊与住院费用清单.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-免责条款越界排查.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-公积金贷款.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-养不了孩子的合法出路.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-养狗打疫苗和登记.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-养老诈骗.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-养老院护理假与记忆门诊.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-冲奶粉水温争议.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-凑钱租铺面与合伙协议.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-创伤后应激与心理晤谈.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-劳动合同双倍工资社保违约金.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-勃起功能与嫖娼.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-十条补缺.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-午睡时长.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-卖器官.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-及时行乐.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-吃了犯困的药别开车.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-名下电话卡银行卡与换号解绑.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-后循环卒中夹层头痛与中暑补液.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-含汞祛斑霜.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-和机构打交道.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-咖啡时间与总量.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-回填十二处法规原文.md` — **chưa hoàn tất bản dịch**.
@@ -107,7 +80,6 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/追加-婴儿维生素D与洗澡防烫.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-孕晚期侧睡与产后避孕间隔.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-孕期流感疫苗.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-学历提升骗局.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-学步车.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-家庭应急装备.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-尿酸结石与胆囊结石.md` — **chưa hoàn tất bản dịch**.
@@ -118,19 +90,16 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/追加-慢性肾病筛查与结肠癌术后运动.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-慢病长护险与个人信息权利.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-戒烟戒酒学习与拖延的具体办法.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-戒网瘾学校.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-房颤抗凝.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-拒执失信骗贷与新型毒品.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-搬运姿势.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-断指与撞掉的牙.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-早引入花生防过敏.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-早餐与进食时间.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-晚育年龄账与陪产育儿假.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-有限空间.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-查血脂.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-泄愤式极端暴力.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-熬夜补觉与夜班.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-燃气毒蘑菇车险预付消费与养犬.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-牙科.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-物业停水停电与新房保修.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-献血.md` — **chưa hoàn tất bản dịch**.
@@ -140,11 +109,9 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/追加-破解软件与DDoS.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-社保转移接续.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-离婚孩子抚养费和探望.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-窗户破伤风二手烟公积金与猝死工伤.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第10节伴侣治疗.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第11节白帽子与漏洞报送.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第11节跳广告工具.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第12节注册报税与涉税诈骗.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第13节婴儿噎住与心肺复苏.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第13节并入.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第15节买房.md` — **chưa hoàn tất bản dịch**.
@@ -155,26 +122,16 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/追加-第1节骨质疏松筛查.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第20节妈妈吃素补B12.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第20节新生儿黄疸.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第21节境外用卡.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第21节现金申报.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第25节人没了当时怎么办.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第26节做平台.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第27节孕期养猫弓形虫.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第2节养狗.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第2节室内空气.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第2节绝经激素治疗.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第30节管孩子不打和养育课程.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第31节远程给境外雇主干活.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第34节并入.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第34节过期药与相互作用.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第3、5节.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第3节痛经.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第5节炒股的两条行为账.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第5节飞单与取现.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第7、8节.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第8节并入与修链接.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第8节被指控与被诬告.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-第9节境外信息只看不转.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第9节著作权与同人.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-第9节薅羊毛.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-糖尿病前期.md` — **chưa hoàn tất bản dịch**.
@@ -185,17 +142,13 @@ Tên tệp, URL, DOI, đoạn mã, nhãn máy, tên tài liệu và câu trích 
 - `docs/核实记录/追加-脊髓损伤排尿与辅具适配.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-膝关节镜.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-自杀的后果.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-虚拟货币.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-褪黑素与输液.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-要不要死记硬背.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-角磨机.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-读书还是打工.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-调岗降薪与劳务派遣.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-跟团购物退货与机票退票.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-还不上信用卡网贷.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-进货假货与图案版权.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-遗产范围内还债.md` — **chưa hoàn tất bản dịch**.
-- `docs/核实记录/追加-配偶打赏与婚外转账.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-酒后泡澡与运动头盔.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-门窗锁防盗.md` — **chưa hoàn tất bản dịch**.
 - `docs/核实记录/追加-防性侵教育.md` — **chưa hoàn tất bản dịch**.
