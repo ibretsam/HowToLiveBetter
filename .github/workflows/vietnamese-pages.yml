@@ -10,7 +10,9 @@ on:
       - README.md
       - LICENSE
       - tools/build-vi-site.py
+      - tools/export-vi-markdown.py
       - tools/check-vi-site.py
+      - tools/check-vi-markdown.py
       - tools/check-vi.py
       - tools/vi_segments.py
       - tools/vi_updates.py
@@ -56,6 +58,10 @@ jobs:
         run: python3 tools/build-vi-site.py
       - name: Check coverage and translation status
         run: python3 tools/check-vi-site.py
+      - name: Verify main Markdown matches reviewed Vietnamese content
+        run: python3 tools/export-vi-markdown.py --check
+      - name: Verify all-Markdown progress and reviewed hashes
+        run: python3 tools/check-vi-markdown.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist/vi-site

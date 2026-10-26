@@ -1,33 +1,33 @@
-# issue #44：第 16 节第 9 条补降尿酸药的选择与碱化尿液
+# Issue #44: bổ sung chọn thuốc hạ axit uric và kiềm hóa nước tiểu vào chương 16, mục 9
 
-2026-09-29。读者指出第 16 节第 9 条（确诊痛风就长期吃降尿酸药）只写了别嘌醇，并提出四点：
+2026-09-29. Độc giả chỉ ra chương 16, mục 9 (đã chẩn đoán gút thì dùng thuốc hạ axit uric lâu dài) chỉ nói đến allopurinol và nêu bốn ý:
 
-1. 抑制尿酸生成的药里，主力是非布司他，比别嘌醇用得更广。
-2. 促进尿酸排泄的药，主力是苯溴马隆，另有丙磺舒、多替诺雷，多替诺雷可能是将来的主力。
-3. 吃苯溴马隆排尿酸，推荐用碳酸氢钠碱化尿液。
-4. 依据：中华医学会《中国高尿酸血症与痛风诊疗指南（2019）》和《痛风及无症状高尿酸血症基层诊疗指南（2024 年）》。
+1. Trong nhóm ức chế tạo axit uric, thuốc chủ lực là febuxostat, được dùng rộng hơn allopurinol.
+2. Trong nhóm tăng đào thải axit uric, thuốc chủ lực là benzbromarone; còn có probenecid, dotinurad, và dotinurad có thể là chủ lực trong tương lai.
+3. Khi uống benzbromarone để đào thải axit uric, khuyến nghị dùng natri bicarbonat kiềm hóa nước tiểu.
+4. Căn cứ: “Hướng dẫn chẩn đoán và điều trị tăng axit uric máu và gút Trung Quốc (2019)” và “Hướng dẫn chẩn đoán, điều trị gút và tăng axit uric máu không triệu chứng tại tuyến cơ sở (2024)” của Hội Y học Trung Hoa.
 
-## 处理结论
+## Kết luận xử lý
 
-条目的主线不变：确诊痛风要长期吃降尿酸药、按血尿酸调剂量达标。读者提的是「选哪种药」，这一层确实有分歧，原条目只写了美国指南的首选，没交代。所以在收益栏末尾补了正反两方的证据，备注开头加了「争议」。
+Giữ trục chính của mục: đã chẩn đoán gút thì dùng thuốc hạ axit uric lâu dài, điều chỉnh liều theo axit uric máu để đạt mục tiêu. Độc giả nói về “chọn thuốc nào”; tầng này thực sự có bất đồng, mục cũ chỉ viết lựa chọn đầu tay của hướng dẫn Mỹ mà chưa giải thích. Vì vậy bổ sung chứng cứ của hai phía ở cuối phần Lợi ích, thêm “Tranh luận” ở đầu Ghi chú.
 
-- 第 1 点：「用得更广」是用药现状，不是证据。更该写的是非布司他的心血管安全性之争，已补 CARES 和 FAST 两项随机试验。
-- 第 2 点：补了一句「国内还能买到苯溴马隆」。丙磺舒、多替诺雷没写。多替诺雷在国内获批的信息只找到企业新闻稿，没有找到药监局原文；「将来的主力」是预测，不进正文。
-- 第 3 点：这里正好有分歧，已写进备注。美国指南有条件地不建议碱化尿液，证据确定性很低，但要求多喝水。国内指南的具体推荐原文没能取到，见下。
-- 第 4 点：国内指南的全文都在付费库里，只取到了摘要。读者引的第二份是基层诊疗指南（2024 年），连摘要都没找到；正文提到的「2024 更新版」是中华医学会内分泌学分会的另一份《中国高尿酸血症与痛风诊疗指南(2024)》，两者不是同一份文件。
+- Ý 1: “được dùng rộng hơn” là hiện trạng dùng thuốc, không phải chứng cứ. Điều đáng viết hơn là tranh luận về an toàn tim mạch của febuxostat; đã thêm hai thử nghiệm ngẫu nhiên CARES và FAST.
+- Ý 2: thêm câu “ở Trung Quốc còn có thể mua benzbromarone”. Không viết probenecid, dotinurad. Thông tin dotinurad được cấp phép trong nước chỉ tìm thấy thông cáo doanh nghiệp, không có nguyên văn cơ quan quản lý thuốc; “chủ lực tương lai” là dự đoán, không đưa vào nội dung.
+- Ý 3: chính điểm này có bất đồng, đã viết trong Ghi chú. Hướng dẫn Mỹ có khuyến nghị có điều kiện chống lại việc kiềm hóa nước tiểu, độ chắc chắn bằng chứng rất thấp, nhưng yêu cầu uống đủ nước. Không lấy được nguyên văn khuyến nghị cụ thể trong hướng dẫn Trung Quốc, xem dưới.
+- Ý 4: toàn văn các hướng dẫn Trung Quốc đều ở kho trả phí, chỉ lấy được tóm tắt. Tài liệu thứ hai độc giả dẫn là hướng dẫn tuyến cơ sở năm 2024, ngay cả tóm tắt cũng không tìm được. “Bản cập nhật 2024” nhắc trong nội dung là một tài liệu khác của Phân hội Nội tiết, Hội Y học Trung Hoa: “中国高尿酸血症与痛风诊疗指南(2024)”; hai tài liệu không phải một.
 
-## 来源核对
+## Đối chiếu nguồn
 
-| 来源 | 取法 | 核到的原文 |
+| Nguồn | Cách lấy | Nguyên văn đã đối chiếu |
 | --- | --- | --- |
-| FitzGerald 2020 ACR 痛风指南（已在来源栏） | PMC10563586 全文 | 「Treatment with allopurinol as the preferred first-line agent, over all other ULTs, is strongly recommended for all patients」；理由「efficacy when dosed appropriately…, tolerability, safety, and lower cost」。「For patients with gout taking febuxostat with a history of CVD or a new CV event, we conditionally recommend switching to an alternative ULT agent if available」，证据 Moderate；正文说这与 FDA 给非布司他的黑框警告一致。「For patients taking uricosuric treatment, we conditionally recommend against alkalinizing urine」，证据 Very low；「patients should receive counseling about adequate hydration, but they need not be prescribed alkalinizing agents given the lack of evidence for efficacy」；有肾结石或 CKD ≥3 期不该用促排药 |
-| White 2018 CARES, NEJM 378(13):1200-1210 | Europe PMC 摘要 | 6190 名合并心血管病的痛风病人；主要终点 HR 1.03（非劣）；全因死亡 HR 1.22（95% CI 1.01–1.47）；心血管死亡 HR 1.34（1.03–1.73） |
-| Mackenzie 2020 FAST, Lancet 396(10264):1745-1757 | Europe PMC 摘要 | 6128 人，60 岁以上、已在吃别嘌醇、至少一个心血管危险因素；主要终点 adjusted HR 0.85（0.70–1.03），非劣；死亡 222/3063（7.2%）对 263/3065（8.6%） |
-| 中国高尿酸血症与痛风诊疗指南(2019)，中华内分泌代谢杂志 2020;36(01):1-13 | rs.yiigle.com 页面元数据与摘要（无头 Chrome） | 摘要：「首次对碱化尿液相关问题进行了推荐；首次对痛风常见合并症药物选择进行了推荐」。**全文付费，具体推荐意见和推荐等级没能逐字核对**，所以正文只写「对选药和碱化尿液单独给了推荐」，不写推荐内容 |
-| 中国高尿酸血症与痛风诊疗指南(2024) 第一部分 | guide.medlive.cn 摘要 | 摘要列出的推荐范围包括无症状高尿酸血症分型用药、碱化尿液、慢性及反复发作痛风患者的药物选择。全文同样没取到 |
+| Hướng dẫn gút ACR, FitzGerald 2020 (đã có trong phần Nguồn) | Toàn văn PMC10563586 | “Treatment with allopurinol as the preferred first-line agent, over all other ULTs, is strongly recommended for all patients”; lý do “efficacy when dosed appropriately…, tolerability, safety, and lower cost”. “For patients with gout taking febuxostat with a history of CVD or a new CV event, we conditionally recommend switching to an alternative ULT agent if available”, bằng chứng Moderate; nội dung nói điều này phù hợp cảnh báo hộp đen của FDA cho febuxostat. “For patients taking uricosuric treatment, we conditionally recommend against alkalinizing urine”, bằng chứng Very low; “patients should receive counseling about adequate hydration, but they need not be prescribed alkalinizing agents given the lack of evidence for efficacy”; người có sỏi thận hoặc CKD giai đoạn ≥3 không nên dùng thuốc tăng đào thải |
+| White 2018 CARES, NEJM 378(13):1200-1210 | Tóm tắt Europe PMC | 6190 bệnh nhân gút có bệnh tim mạch; kết cục chính HR 1.03 (không kém hơn); tử vong mọi nguyên nhân HR 1.22 (95% CI 1.01–1.47); tử vong tim mạch HR 1.34 (1.03–1.73) |
+| Mackenzie 2020 FAST, Lancet 396(10264):1745-1757 | Tóm tắt Europe PMC | 6128 người, trên 60 tuổi, đang uống allopurinol, có ít nhất một yếu tố nguy cơ tim mạch; kết cục chính adjusted HR 0.85 (0.70–1.03), không kém hơn; tử vong 222/3063 (7.2%) so với 263/3065 (8.6%) |
+| 中国高尿酸血症与痛风诊疗指南(2019), 中华内分泌代谢杂志 2020;36(01):1-13 | Siêu dữ liệu và tóm tắt trên rs.yiigle.com (Chrome không giao diện) | Tóm tắt: “首次对碱化尿液相关问题进行了推荐；首次对痛风常见合并症药物选择进行了推荐”. **Toàn văn trả phí, không đối chiếu từng chữ được khuyến nghị cụ thể và cấp khuyến nghị**, nên nội dung chỉ nói “có khuyến nghị riêng về chọn thuốc và kiềm hóa nước tiểu”, không ghi nội dung khuyến nghị |
+| 中国高尿酸血症与痛风诊疗指南(2024), phần thứ nhất | Tóm tắt guide.medlive.cn | Phạm vi khuyến nghị trong tóm tắt gồm chọn thuốc theo phân loại tăng axit uric máu không triệu chứng, kiềm hóa nước tiểu, chọn thuốc cho gút mạn và gút tái phát. Cũng không lấy được toàn văn |
 
-FDA 2019 年非布司他黑框警告的原页 fda.gov 返回 404，Chrome 也只拿到壳页，所以正文只写 ACR 指南原文里提到的「与 FDA 黑框警告一致」，不单独引 FDA。
+Trang gốc FDA năm 2019 về cảnh báo hộp đen febuxostat trên fda.gov trả về 404, Chrome cũng chỉ lấy được khung trang. Vì vậy nội dung chỉ ghi “phù hợp cảnh báo hộp đen của FDA” như nguyên văn hướng dẫn ACR đã nói, không dẫn riêng FDA.
 
-## 统计影响
+## Ảnh hưởng đến thống kê
 
-争议条数 +1（第 16 节第 9 条备注以「争议」开头），链接 +3（CARES、FAST、2019 中国指南）。证据等级仍为 A，收益量级不变。
+Số mục có tranh luận +1 (Ghi chú chương 16, mục 9 bắt đầu bằng “Tranh luận”), liên kết +3 (CARES, FAST, hướng dẫn Trung Quốc 2019). Mức độ bằng chứng vẫn là A, mức lợi ích không đổi.

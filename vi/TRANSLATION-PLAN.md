@@ -1,5 +1,7 @@
 # Tiến độ và kế hoạch hoàn thành bản dịch tiếng Việt
 
+**Phạm vi bổ sung ngày 26/10/2026:** chuyển cả các tệp Markdown còn lại trong fork sang tiếng Việt, gồm tài liệu kỹ thuật và 239 hồ sơ kiểm chứng. Đây là phần mở rộng ngoài kế hoạch dịch sách dưới đây. Chương và chín bài đọc chính đã có bản xuất tại `book/`, `docs/`; các hồ sơ đang được dịch và kiểm tra theo từng tệp. Không dùng tỷ lệ hoàn thành 767 mục sách để suy ra phần tài liệu kỹ thuật đã xong.
+
 Cập nhật: **21/10/2026 (giờ Việt Nam), đợt 13**. Phạm vi nguồn mới `e2605d3` gồm 767 mục, 34 lời dẫn chương, chín bài viết dài và hướng dẫn đọc. Tiến độ được xác nhận bằng hồ sơ rà soát, báo cáo kiểm tra và workflow xuất bản. Chưa thiết lập lịch chạy tự động.
 
 ## Phạm vi và phiên bản đích

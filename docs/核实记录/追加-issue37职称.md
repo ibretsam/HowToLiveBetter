@@ -1,36 +1,36 @@
-# issue #37：职称怎么报、怎么考、别踩什么坑（2026-09-27）
+# Issue #37: đăng ký, thi chức danh chuyên môn thế nào và cần tránh những bẫy nào (2026-09-27)
 
-任务来源：GitHub issue #37（superman-death），问能不能完善职称方面的信息：怎么获取、准备什么资料、去什么机构。
+Nguồn nhiệm vụ: GitHub issue #37 (superman-death), hỏi có thể bổ sung thông tin chức danh chuyên môn hay không: đạt được bằng cách nào, chuẩn bị giấy tờ gì, đến cơ quan nào.
 
-## 范围怎么定的
+## Cách xác định phạm vi
 
-此前全书没有专业技术职称的条目，只在第 24、31、32、33 节顺带提到。第 23 节第 8、11 条讲的是职业资格和技能等级，不是职称。
+Trước đó sách chưa có mục về chức danh chuyên môn kỹ thuật, chỉ nhắc qua tại các chương 24, 31, 32, 33. Chương 23, mục 8 và 11 nói về tư cách hành nghề và cấp kỹ năng, không phải chức danh chuyên môn.
 
-不开新节，在第 23 节末尾追加 4 条（第 20 到 23 条），不插中间，避免第 14 到 19 条被顺延（这几条被别处引用了十几次）。
+Không mở chương mới; thêm 4 mục ở cuối chương 23 (mục 20 đến 23), không chèn giữa để tránh làm dịch số mục 14 đến 19 (những mục này được nơi khác tham chiếu hơn chục lần).
 
-「准备什么资料」没有写成清单。职称分 27 个系列，材料清单、申报时间和业绩条件由各系列、各省每年的申报通知定，全国没有统一版本。逐项写就成了没法维护的地方办事指南。正文只指路：先找本省人社厅当年的申报通知。
+“Chuẩn bị giấy tờ gì” không được viết thành danh sách. Chức danh có 27 hệ; danh sách hồ sơ, thời gian đăng ký và điều kiện thành tích do thông báo đăng ký hằng năm của từng hệ, từng tỉnh quyết định, không có bản thống nhất toàn quốc. Liệt kê từng thứ sẽ biến thành hướng dẫn thủ tục địa phương không thể duy trì. Nội dung chỉ chỉ đường: trước hết tìm thông báo đăng ký năm đó của Sở Nhân lực và An sinh xã hội tỉnh mình.
 
-## 逐条核对
+## Đối chiếu từng nguồn
 
-| 用到哪 | 来源 | 复核方式 | 原文要点 |
+| Dùng ở đâu | Nguồn | Cách kiểm tra | Ý chính của nguyên văn |
 |---|---|---|---|
-| 23-20、22、23 | 人社部令第 40 号《职称评审管理暂行规定》，gov.cn 国务院公报 | 抓全文逐字核 | 第二条适用于企业、事业单位、社会团体、个体经济组织及自由职业者，结果是聘用考核晋升的重要依据；第十三条离退休不得申报、事业单位记过以上处分期间不得申报；第十四条一般逐级申报；第十五条能网核的不得要求额外证明；第十六条单位公示不少于 5 个工作日；第十七条非公与自由职业者由人事代理机构等审核推荐；第十八条一次性告知补正；第二十九条流动时重新评审或确认；第三十九条撤销职称、记入诚信档案库、纳入全国信用信息共享平台、记录期限 3 年；第四十四条 2019-09-01 施行 |
-| 23-20 | 人社厅《关于进一步做好民营企业职称工作的通知》（2020），gov.cn | 抓全文逐字核 | 劳动关系所在地申报；受理服务点、人才中介服务机构、工商联、行业协会商会、学会；派驻外地连续一年以上可在派驻地申报 |
-| 23-20、22 | 新华社 2024-10-09《职称评审进入高峰，信息如何查？》，gov.cn 转载 | 抓全文逐字核 | 27 个职称系列；12333 网页、客户端、人社部官网、微信公众号查询；自由职业者按属地原则参加当地人社部门评审 |
-| 23-20、21、23 | 中办国办《关于深化职称制度改革的意见》（2016），gov.cn 国务院公报 2017 年第 3 号 | 抓全文逐字核 | （六）取得职业资格即可认定相应职称，初中级全国统考的专业不再评审；（八）不将论文作为应用型人才限制性条件，职称外语和计算机不作统一要求；（十一）高技能人才可参加工程系列评审，公务员不得参加评审；（十五）事业单位在岗位结构比例内评审，其余可评聘分开 |
-| 23-21 | 人社部、财政部《关于深化会计人员职称制度改革的指导意见》（2019），gov.cn | 抓全文逐字核 | 助理会计师、会计师全国统考；高级会计师考评结合，正高级一般评审；助理会计师高中以上学历；会计师博士，或硕士满 1 年、第二学士或研究生班满 2 年、本科满 4 年、大专满 5 年；公务员可考不可评 |
-| 23-21 | 财政部等《关于做好会计专业学位与会计专业技术资格衔接有关工作的通知》（2024），gov.cn | 抓全文逐字核 | 会计硕士、博士专业学位报考中级可免试《财务管理》 |
-| 23-22 | 人社部《职称评审监管暂行办法》（2024），gov.cn | 抓全文逐字核 | 第五条申报人四类违规；第十五条查处中介虚假网站、虚假宣传、合同陷阱、假冒评审、假证；第十七条承诺不实 3 年内不得申报、记录 3 年、一经核实即撤销；第二十七条严重的移送 |
-| 23-22 | 人社厅《关于进一步做好职称评审工作的通知》（2022），gov.cn | 抓全文逐字核 | 未经备案的评审委员会，评审结果不纳入全国职称评审信息查询验证系统 |
+| 23-20, 22, 23 | Lệnh số 40 của Bộ Nhân lực và An sinh xã hội, “Quy định tạm thời quản lý xét chức danh”, Công báo Quốc vụ viện trên gov.cn | Lấy toàn văn, đối chiếu từng chữ | Điều 2 áp dụng cho doanh nghiệp, đơn vị sự nghiệp, đoàn thể xã hội, tổ chức kinh tế cá thể và người làm nghề tự do; kết quả là căn cứ quan trọng cho tuyển dụng, đánh giá, thăng chức. Điều 13: người đã nghỉ hưu hoặc thôi việc hưởng chế độ hưu trí không được đăng ký; người trong đơn vị sự nghiệp đang chịu kỷ luật từ mức ghi lỗi trở lên không được đăng ký. Điều 14: thông thường đăng ký tuần tự từng cấp. Điều 15: thông tin tra được qua mạng thì không được yêu cầu chứng minh thêm. Điều 16: đơn vị công khai ít nhất 5 ngày làm việc. Điều 17: người ngoài khu vực công và người làm tự do được tổ chức dịch vụ nhân sự và các đơn vị tương tự xét duyệt, giới thiệu. Điều 18: thông báo bổ sung, sửa hồ sơ trong một lần. Điều 29: khi chuyển nơi làm việc phải xét lại hoặc xác nhận. Điều 39: hủy chức danh, đưa vào hồ sơ tín nhiệm, đưa vào nền tảng chia sẻ thông tin tín dụng toàn quốc; lưu 3 năm. Điều 44: hiệu lực 2019-09-01 |
+| 23-20 | Thông báo “Tiếp tục thực hiện tốt công tác chức danh trong doanh nghiệp tư nhân” của cơ quan nhân lực và an sinh xã hội (2020), gov.cn | Lấy toàn văn, đối chiếu từng chữ | Đăng ký tại nơi có quan hệ lao động; điểm tiếp nhận dịch vụ, tổ chức trung gian nhân tài, liên đoàn công thương, hiệp hội ngành nghề/phòng thương mại, hội chuyên môn; được cử làm nơi khác liên tục trên một năm thì có thể đăng ký ở nơi được cử đến |
+| 23-20, 22 | Tân Hoa xã, 2024-10-09, “职称评审进入高峰，信息如何查？”, gov.cn đăng lại | Lấy toàn văn, đối chiếu từng chữ | 27 hệ chức danh; tra qua website, ứng dụng 12333, website Bộ Nhân lực và An sinh xã hội và tài khoản WeChat; người làm tự do tham gia xét tại cơ quan nhân lực và an sinh xã hội địa phương theo nguyên tắc địa bàn |
+| 23-20, 21, 23 | “Ý kiến về đi sâu cải cách chế độ chức danh” của Văn phòng Trung ương và Văn phòng Quốc vụ viện (2016), Công báo Quốc vụ viện số 3 năm 2017 trên gov.cn | Lấy toàn văn, đối chiếu từng chữ | (6) có tư cách nghề nghiệp thì có thể được công nhận chức danh tương ứng; chuyên ngành có kỳ thi thống nhất toàn quốc cho bậc sơ, trung cấp không còn xét duyệt. (8) không dùng bài báo làm điều kiện hạn chế đối với nhân lực ứng dụng; không đặt yêu cầu thống nhất về ngoại ngữ, tin học chức danh. (11) người có kỹ năng cao có thể tham gia xét hệ kỹ thuật; công chức không được tham gia xét. (15) đơn vị sự nghiệp xét trong tỷ lệ cơ cấu vị trí, các trường hợp khác có thể tách xét chức danh với bổ nhiệm |
+| 23-21 | “Ý kiến hướng dẫn đi sâu cải cách chế độ chức danh nhân viên kế toán” của Bộ Nhân lực và An sinh xã hội, Bộ Tài chính (2019), gov.cn | Lấy toàn văn, đối chiếu từng chữ | Trợ lý kế toán viên và kế toán viên thi thống nhất toàn quốc; kế toán viên cao cấp kết hợp thi và xét; bậc chính cao cấp thường xét duyệt. Trợ lý kế toán viên cần trình độ trung học phổ thông trở lên. Kế toán viên: tiến sĩ, hoặc thạc sĩ đủ 1 năm, bằng cử nhân thứ hai hay lớp sau đại học đủ 2 năm, đại học đủ 4 năm, cao đẳng đủ 5 năm. Công chức được thi nhưng không được xét |
+| 23-21 | “Thông báo về việc kết nối bằng chuyên ngành kế toán với tư cách chuyên môn kỹ thuật kế toán” của Bộ Tài chính và các cơ quan khác (2024), gov.cn | Lấy toàn văn, đối chiếu từng chữ | Người có bằng thạc sĩ, tiến sĩ chuyên ngành kế toán đăng ký bậc trung cấp có thể được miễn môn “Quản lý tài chính” |
+| 23-22 | “Biện pháp tạm thời giám sát xét chức danh” của Bộ Nhân lực và An sinh xã hội (2024), gov.cn | Lấy toàn văn, đối chiếu từng chữ | Điều 5: bốn loại vi phạm của người đăng ký. Điều 15: xử lý website giả, quảng cáo sai, bẫy hợp đồng, xét duyệt giả, giấy chứng nhận giả của trung gian. Điều 17: cam kết không đúng sự thật thì không được đăng ký trong 3 năm, ghi nhận 3 năm, xác minh được thì hủy ngay. Điều 27: trường hợp nghiêm trọng được chuyển cơ quan xử lý |
+| 23-22 | “Thông báo tiếp tục thực hiện tốt công tác xét chức danh” của cơ quan nhân lực và an sinh xã hội (2022), gov.cn | Lấy toàn văn, đối chiếu từng chữ | Kết quả của hội đồng xét chưa được đăng ký lưu hồ sơ không được đưa vào hệ thống tra cứu xác minh thông tin xét chức danh toàn quốc |
 
-## 没写的
+## Những nội dung không viết
 
-- 「职业资格与职称对应关系」的具体对照表：政策文件库按标题查不到，只引了 2016 年意见里的原则性规定。
-- 积分落户、人才补贴看职称：各地政策不同，没有找到全国性原文，第 23 条备注里没写。
-- 各系列是否统考：只核了会计一个系列，其他系列让读者查该系列的「深化××职称制度改革的指导意见」。
+- Bảng cụ thể “đối chiếu tư cách nghề nghiệp và chức danh”: không tìm được theo tiêu đề trong kho văn bản chính sách; chỉ dẫn nguyên tắc trong ý kiến năm 2016.
+- Chức danh dùng để tính điểm nhập hộ khẩu và trợ cấp nhân tài: chính sách mỗi nơi khác nhau, không tìm được nguyên văn toàn quốc, không ghi vào Ghi chú mục 23.
+- Từng hệ có thi thống nhất hay không: chỉ kiểm chứng hệ kế toán; các hệ khác để người đọc tra “Ý kiến hướng dẫn đi sâu cải cách chế độ chức danh ××” của hệ tương ứng.
 
-## 收益量级怎么定的
+## Cách xác định mức lợi ích
 
-- 第 20、21 条：口径定为时间，效果是一次性少跑弯路，按阈值套「小」。
-- 第 22 条：口径定为自由，后果是撤销职称、3 年失信记录、3 年内不能申报，性质接近行政处理，按「避免行政处罚」套「中」。
-- 第 23 条：口径定为金钱，但文件里没有「评上涨多少」的数字，凭判断定「小」，证据等级 B。
+- Mục 20, 21: loại lợi ích là thời gian, tác dụng là bớt đi đường vòng một lần; theo ngưỡng xếp “nhỏ”.
+- Mục 22: loại lợi ích là tự do, hậu quả gồm hủy chức danh, ghi mất tín nhiệm 3 năm, không được đăng ký trong 3 năm; tính chất gần với xử lý hành chính, theo ngưỡng “tránh xử phạt hành chính” xếp “trung bình”.
+- Mục 23: loại lợi ích là tiền bạc nhưng văn bản không có số “được xét thì tăng bao nhiêu”; đánh giá xếp “nhỏ”, mức độ bằng chứng B.

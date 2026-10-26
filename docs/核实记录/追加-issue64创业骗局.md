@@ -1,57 +1,57 @@
-# 追加：第 12 节第 24 条，加盟之外的创业骗局（issue #64）
+# Bổ sung: mục 24 chương 12, lừa đảo khởi nghiệp ngoài nhượng quyền (issue #64)
 
-2026-10-03。issue #64 想要「识别各种创业骗局案例」。第 12 节原有第 5 条（加盟查商务部备案）和第 14 条（冒充税务的收费代办）。这次评估了加盟之外的三种形状，只收有官方原始来源的。
+2026-10-03. Issue #64 muốn “nhận diện các vụ lừa đảo khởi nghiệp khác nhau”. Chương 12 đã có mục 5 (nhượng quyền: kiểm tra đăng ký tại Bộ Thương mại) và mục 14 (dịch vụ làm hộ thu phí giả danh cơ quan thuế). Lần này đánh giá ba dạng ngoài nhượng quyền, chỉ đưa vào những gì có nguồn gốc chính thức.
 
-## 评估结论
+## Kết luận đánh giá
 
-- 「代运营 / 开网店培训 / 无货源」三种合并成一条（第 24 条）：手法相同，都是先收小钱、再用套餐升级、垫付货款、解冻金层层加钱，后台数据造假。分开写会重复。
-- 「项目招商、包回收」起初单写成第 25 条，同一天删掉了：它面向农户，离提 issue 的读者和本书多数读者都远，是找官方案例时顺带找到的，不是读者要的。查到的原文留在下面「评估过但没收」一节，以后要写可以直接用。
-- 都没有并进第 5 条：第 5 条的抓手是《商业特许经营管理条例》的备案和披露义务，这两类骗局不以特许经营为名，备案那套用不上。第 5 条备注加了互相指路。
-- 「直播带货培训」没有单独找到官方案例或风险提示，没写。广东高院判词的典型意义里只有一句「网店经营、直播带货是网络时代的创业新形态」，不够写成一条。
+- Gộp ba dạng “vận hành thuê / đào tạo mở cửa hàng trực tuyến / không có nguồn hàng” thành một mục (mục 24): thủ đoạn giống nhau, đều thu ít tiền trước, rồi tăng tiền từng lớp qua nâng cấp gói, ứng tiền hàng, phí mở khóa; dữ liệu quản trị bị làm giả. Tách riêng sẽ trùng lặp.
+- “Mời đầu tư dự án, bao thu mua lại” ban đầu được viết riêng thành mục 25, sau đó xóa trong cùng ngày: hướng tới nông hộ, xa với người mở issue và đa số độc giả sách; chỉ tình cờ tìm được khi tìm vụ án chính thức, không phải điều độc giả yêu cầu. Nguyên văn đã tìm được giữ ở phần “Đã đánh giá nhưng không đưa vào” bên dưới, có thể dùng trực tiếp nếu viết sau này.
+- Không nhập cả hai vào mục 5: điểm cốt lõi của mục 5 là nghĩa vụ đăng ký và công bố theo “Điều lệ quản lý nhượng quyền thương mại”; hai dạng lừa đảo này không mang danh nhượng quyền, nên cách kiểm tra đăng ký ấy không áp dụng được. Ghi chú mục 5 đã thêm dẫn đường qua lại.
+- Không tìm được vụ án chính thức hay cảnh báo rủi ro riêng về “đào tạo livestream bán hàng”, nên không viết. Phần ý nghĩa điển hình trong bản án Tòa án cấp cao Quảng Đông chỉ có một câu “kinh doanh cửa hàng trực tuyến, livestream bán hàng là hình thức khởi nghiệp mới thời internet”, chưa đủ viết thành một mục.
 
-## 第 24 条
+## Mục 24
 
-### 1. 广东高院典型案例（蒋某、徐某等 55 人）
-- URL：<https://www.gdcourts.gov.cn/gsxx/quanweifabu/anlihuicui/content/post_1388464.html>（广东法院网，发布时间 2023-09-21）
-- 原文：「明知根本不具备电商代运营的能力和技术条件，仍以给淘宝网店提供代运营服务为名，利用诈骗话术诱骗7711名被害人购买、升级“服务套餐”，共计骗取人民币5299.4万余元」；「以诈骗罪判处蒋某有期徒刑十四年，并处罚金人民币100万元；判处徐某有期徒刑十三年六个月」；「骗术设计严丝合缝，多名被害人一再受骗」。
-- 搜索引擎首先给的是新快报 2019 年报道，没引，改用法院官网。
+### 1. Vụ án điển hình của Tòa án cấp cao Quảng Đông (55 người gồm Tưởng mỗ, Từ mỗ…)
+- URL: <https://www.gdcourts.gov.cn/gsxx/quanweifabu/anlihuicui/content/post_1388464.html> (mạng Tòa án Quảng Đông, công bố 2023-09-21).
+- Nguyên văn, bản dịch: “Biết rõ hoàn toàn không có năng lực và điều kiện kỹ thuật vận hành thương mại điện tử thuê, vẫn lấy danh nghĩa cung cấp dịch vụ vận hành thuê cho cửa hàng Taobao, dùng lời lẽ lừa đảo dụ 7711 bị hại mua, nâng cấp ‘gói dịch vụ’, tổng cộng chiếm đoạt hơn 5299.4 vạn nhân dân tệ”; “tuyên Tưởng mỗ mười bốn năm tù về tội lừa đảo, kèm phạt tiền 100 vạn nhân dân tệ; tuyên Từ mỗ mười ba năm sáu tháng tù”; “kịch bản lừa đảo được thiết kế kín kẽ, nhiều bị hại bị lừa nhiều lần”.
+- Công cụ tìm kiếm trước tiên đưa bài Tân Khoái Báo năm 2019; không dẫn bài đó, chuyển sang trang chính thức của tòa.
 
-### 2. 江苏省公安厅防范提示
-- URL：<https://gat.jiangsu.gov.cn/art/2025/2/13/art_89956_11491354.html>（供稿：南京市局）
-- 原文：「谎称其无须囤货……陆续投入资金90余万元，后台显示盈利也很可观，但张女士尚未来得及提现，3天后就发现网址无法登录」；四步为「营销引流」「运营指导」「垫资采购」「提现失败」；「诈骗分子通过后台操作为店铺制造大量订单，营造出生意兴隆的假象」；「就会遇到“账户异常”“系统维护”“操作失误”等理由导致的账户冻结、提现失败。若想解决问题，就要不断缴纳解冻金、手续费等」；警方提醒「务必警惕所有宣称“低投入，高回报”“保证盈利”的商业项目」。
+### 2. Cảnh báo phòng ngừa của Sở Công an tỉnh Giang Tô
+- URL: <https://gat.jiangsu.gov.cn/art/2025/2/13/art_89956_11491354.html> (bài do Công an thành phố Nam Kinh cung cấp).
+- Nguyên văn, bản dịch: “Nói dối rằng không cần trữ hàng… lần lượt bỏ vào hơn 90 vạn nhân dân tệ, hệ thống quản trị cũng hiển thị lợi nhuận rất khả quan, nhưng bà Trương chưa kịp rút tiền thì 3 ngày sau phát hiện không thể đăng nhập địa chỉ web”; bốn bước là “tiếp thị thu hút khách”, “hướng dẫn vận hành”, “ứng vốn mua hàng”, “rút tiền thất bại”; “kẻ lừa đảo thao tác ở hệ thống quản trị để tạo lượng lớn đơn hàng cho cửa hàng, tạo ảo giác kinh doanh phát đạt”; “sau đó sẽ gặp các lý do ‘tài khoản bất thường’, ‘bảo trì hệ thống’, ‘thao tác sai’ dẫn tới tài khoản bị đóng băng, rút tiền thất bại. Muốn giải quyết phải liên tục đóng tiền mở khóa, phí thủ tục…”; công an nhắc “nhất thiết cảnh giác với mọi dự án kinh doanh tuyên bố ‘vốn ít, lợi nhuận cao’, ‘bảo đảm có lãi’”.
 
-### 3. 最高法典型案例（代运营商刷单被扣保证金）
-- URL：<https://www.court.gov.cn/zixun/xiangqing/507691.html>（发布时间 2026-08-03）
-- 原文：「市场监管部门认定其通过组织虚假交易帮助其他经营者进行虚假商业宣传，责令停止违法行为并处罚款10万元」；缴纳「保证金5万元」；「虚假交易、刷单炒信本为法律明令禁止的行为」；「人民法院于2025年9月5日判决驳回某代运营商的全部诉讼请求」。
+### 3. Vụ án điển hình của Tòa án Nhân dân Tối cao (đơn vị vận hành thuê bị khấu trừ tiền bảo đảm vì tạo đơn giả)
+- URL: <https://www.court.gov.cn/zixun/xiangqing/507691.html> (công bố 2026-08-03).
+- Nguyên văn, bản dịch: “Cơ quan quản lý thị trường xác định đơn vị tổ chức giao dịch giả để giúp bên kinh doanh khác quảng cáo thương mại sai sự thật, yêu cầu chấm dứt vi phạm và phạt 10 vạn nhân dân tệ”; đã nộp “tiền bảo đảm 5 vạn nhân dân tệ”; “giao dịch giả, tạo đơn giả để thao túng uy tín vốn là hành vi pháp luật nghiêm cấm”; “ngày 5 tháng 9 năm 2025, tòa án nhân dân tuyên bác toàn bộ yêu cầu khởi kiện của đơn vị vận hành thuê”.
 
-### 4. 市场监管总局网络不正当竞争典型案例
-- URL：<https://www.samr.gov.cn/xw/zj/art/2025/art_0d043840ec9445a689496bcf30c94820.html>（发布时间 2025-06-27）
-- 原文：「可以提供商品信息数据“一键搬家”“一键代发”等服务」；「处53万元罚款」；「不得实施“搬家盗店”“无货源经营”等损害竞争秩序、损害消费者权益的违法行为」。
-- 证监会北京局网站有一份转载，没引，用总局原页。
+### 4. Vụ án điển hình về cạnh tranh không lành mạnh trên mạng của Tổng cục Quản lý thị trường
+- URL: <https://www.samr.gov.cn/xw/zj/art/2025/art_0d043840ec9445a689496bcf30c94820.html> (công bố 2025-06-27).
+- Nguyên văn, bản dịch: “Có thể cung cấp các dịch vụ như ‘chuyển nhà một chạm’ đối với dữ liệu thông tin sản phẩm, ‘gửi hàng hộ một chạm’”; “phạt 53 vạn nhân dân tệ”; “không được thực hiện các hành vi trái pháp luật như ‘sao chép chiếm dụng cửa hàng’, ‘kinh doanh không có nguồn hàng’ làm tổn hại trật tự cạnh tranh và quyền lợi người tiêu dùng”.
+- Trang Cục Bắc Kinh của Ủy ban Chứng khoán có bản đăng lại; không dẫn, dùng trang gốc của Tổng cục.
 
-### 5. 民法典
-- URL：<https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
-- 第一百四十八条：「一方以欺诈手段，使对方在违背真实意思的情况下实施的民事法律行为，受欺诈方有权请求人民法院或者仲裁机构予以撤销。」
-- 第一百五十二条第一款第一项：「当事人自知道或者应当知道撤销事由之日起一年内……没有行使撤销权」，撤销权消灭；第二款「自民事法律行为发生之日起五年内没有行使撤销权的，撤销权消灭」。
-- 第一百五十七条：「民事法律行为无效、被撤销或者确定不发生效力后，行为人因该行为取得的财产，应当予以返还」。
+### 5. Bộ luật Dân sự
+- URL: <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
+- Điều 148, bản dịch: “Nếu một bên dùng thủ đoạn lừa dối khiến bên kia thực hiện hành vi pháp lý dân sự trái với ý chí thực sự, bên bị lừa có quyền yêu cầu tòa án nhân dân hoặc tổ chức trọng tài hủy bỏ.”
+- Điểm 1 khoản 1 Điều 152, bản dịch: “Đương sự không thực hiện quyền hủy bỏ trong vòng một năm kể từ ngày biết hoặc phải biết lý do hủy bỏ…”, quyền hủy bỏ chấm dứt; khoản 2: “Không thực hiện quyền hủy bỏ trong vòng năm năm kể từ ngày hành vi pháp lý dân sự xảy ra thì quyền hủy bỏ chấm dứt”.
+- Điều 157, bản dịch: “Sau khi hành vi pháp lý dân sự vô hiệu, bị hủy bỏ hoặc được xác định không phát sinh hiệu lực, tài sản người thực hiện có được từ hành vi ấy phải được hoàn trả”.
 
-### 没写的
-- 「无货源开店」的媒体调查（新华网、中新网等）和各地信用网站的转载：二手，没引。
-- 各家培训合同把费用拆成「技术服务费」不退的说法：只见于媒体报道，没写。
-- 代运营刷单会让店铺本身被平台处罚：最高法那起案子罚的是代运营商，不是商户，没写「你的店也会被罚」。
+### Những nội dung không viết
+- Điều tra báo chí về “mở cửa hàng không có nguồn hàng” (Tân Hoa Net, Trung Tân Net…) và bản đăng lại trên trang tín dụng địa phương: nguồn thứ cấp, không dẫn.
+- Nhận định các hợp đồng đào tạo tách phí thành “phí dịch vụ kỹ thuật” không hoàn lại: chỉ thấy trong báo chí, không viết.
+- Đơn vị vận hành thuê tạo đơn giả sẽ khiến chính cửa hàng bị nền tảng phạt: vụ của Tòa án Nhân dân Tối cao phạt đơn vị vận hành thuê, không phải người bán; không viết “cửa hàng của bạn cũng sẽ bị phạt”.
 
-## 评估过但没收：买种苗禽苗菌包「包回收」
+## Đã đánh giá nhưng không đưa vào: mua cây giống, con giống gia cầm, phôi nấm với lời hứa “bao thu mua lại”
 
-### 三部门通知
-- URL：<https://fgs.moa.gov.cn/zfjd/202407/t20240705_6458418.htm>（农业农村部法规司，日期 2024-07-05，落款 2024 年 7 月 1 日）
-- 原文：
-  - 浏阳案：「无种畜禽生产经营许可证，以“每斤22元回收成品鸡”为卖点」；「农户饲养后雏鸡死亡率在90%以上」；「通过更换名称和办公地点、谎称破产注销、关机失联等方式逃避受害农户追偿」；「向江西、四川等8省的75个农户销售“问题鸡苗”，销售金额298万元」；「张某某被判处有期徒刑六年六个月」；「在合同中将农户责任规定得清晰明确、自身责任则比较模糊」。
-  - 柳州案：「通过租用道具、布置场景等方式……成立空壳“养殖基地”」；「零门槛、低投高收、包技术包服务包销路」；「引导农户改变禽苗饲养温度和环境、饲喂不适宜的饲料，导致雏禽死亡率畸高、农户无法履约，借此逃避回购义务」；「共与200余个农户签订订单合同，涉案金额2700余万元」；「陷阱的几率远大于“馅饼”」；签约前「向公司所在地农业农村、市场监管等部门咨询了解该公司是否具备种畜禽生产经营许可证、工商登记状态是否正常、是否受过行政处罚」。
-  - 郑州案：「“农科院重点扶持项目”」；「以每单元1.68万元至1.98万元不等的价格向农户销售菌包」；「以农户种出的成品菌质量不达标为由拒不履行回购义务，随后失联逃避」；「共与300余个农户签订订单合同，涉案金额2000余万元」；「国家强农惠农政策及项目都是由各级政府及有关部门组织实施」。
-  - 赣州案（劣质肥料，460 元/公斤卖肥、5—6 元/公斤回购脐橙）和仁怀案（高粱成品粮冒充种子，40 元/公斤卖种、2.6 元/公斤回购）：条目只写「同样承诺收获后回购」；仁怀案「帮助受害农户挽回损失80万元」。
-  - 「回购产品质量标准和判定依据的约定是否清晰」。
-- 未逐条核对：通知引用的畜牧法第二十四条原文。条目只转述通知自己的话（「应当取得种畜禽生产经营许可证」），没有单独引畜牧法。
+### Thông báo của ba cơ quan
+- URL: <https://fgs.moa.gov.cn/zfjd/202407/t20240705_6458418.htm> (Vụ Pháp quy Bộ Nông nghiệp và Nông thôn, ngày 2024-07-05, ký ngày 1 tháng 7 năm 2024).
+- Nguyên văn, bản dịch:
+  - Vụ Lưu Dương: “Không có giấy phép sản xuất, kinh doanh giống vật nuôi, gia cầm, lấy ‘thu mua gà thương phẩm 22 nhân dân tệ mỗi cân’ làm điểm bán hàng”; “sau khi nông hộ nuôi, tỷ lệ gà con chết trên 90%”; “trốn tránh việc nông hộ bị hại đòi bồi hoàn bằng cách đổi tên, địa điểm văn phòng, nói dối đã phá sản và xóa đăng ký, tắt máy mất liên lạc…”; “bán ‘gà giống có vấn đề’ cho 75 nông hộ ở 8 tỉnh như Giang Tây, Tứ Xuyên, doanh số 298 vạn nhân dân tệ”; “Trương mỗ mỗ bị phạt sáu năm sáu tháng tù”; “trong hợp đồng ghi trách nhiệm nông hộ rõ ràng cụ thể, còn trách nhiệm của mình khá mơ hồ”.
+  - Vụ Liễu Châu: “Thuê đạo cụ, dựng cảnh… lập ‘cơ sở chăn nuôi’ vỏ bọc”; “không có rào cản gia nhập, vốn ít lời nhiều, bao kỹ thuật, dịch vụ, đầu ra”; “hướng dẫn nông hộ thay đổi nhiệt độ và môi trường nuôi gia cầm giống, cho ăn thức ăn không phù hợp, khiến tỷ lệ gia cầm non chết cao bất thường, nông hộ không thể thực hiện hợp đồng, lấy đó trốn nghĩa vụ thu mua lại”; “ký hợp đồng đặt hàng với hơn 200 nông hộ, số tiền liên quan hơn 2700 vạn nhân dân tệ”; “xác suất gặp bẫy lớn hơn nhiều so với nhận ‘món hời’”; trước khi ký, “hỏi các cơ quan nông nghiệp nông thôn, quản lý thị trường… tại nơi công ty đặt trụ sở xem công ty có giấy phép sản xuất kinh doanh giống vật nuôi, gia cầm không, tình trạng đăng ký kinh doanh có bình thường không, từng bị xử phạt hành chính chưa”.
+  - Vụ Trịnh Châu: “‘Dự án được Viện Khoa học Nông nghiệp hỗ trợ trọng điểm’”; “bán phôi nấm cho nông hộ với giá từ 1.68 vạn đến 1.98 vạn nhân dân tệ mỗi đơn vị”; “lấy lý do nấm thành phẩm nông hộ trồng không đạt chất lượng để từ chối nghĩa vụ thu mua lại, sau đó mất liên lạc để trốn tránh”; “ký hợp đồng đặt hàng với hơn 300 nông hộ, số tiền liên quan hơn 2000 vạn nhân dân tệ”; “các chính sách, dự án của nhà nước tăng cường và hỗ trợ nông nghiệp đều do chính quyền các cấp và cơ quan liên quan tổ chức thực hiện”.
+  - Vụ Cám Châu (phân bón kém chất lượng, bán phân 460 nhân dân tệ/kg, mua lại cam rốn 5—6 nhân dân tệ/kg) và vụ Nhân Hoài (giả hạt cao lương thương phẩm thành giống, bán giống 40 nhân dân tệ/kg, thu mua lại 2.6 nhân dân tệ/kg): mục chỉ viết “cũng hứa thu mua lại sau thu hoạch”; vụ Nhân Hoài “giúp nông hộ bị hại thu hồi thiệt hại 80 vạn nhân dân tệ”.
+  - “Thỏa thuận về tiêu chuẩn chất lượng và căn cứ đánh giá sản phẩm thu mua lại có rõ ràng không.”
+- Chưa đối chiếu từng điều: nguyên văn Điều 24 Luật Chăn nuôi mà thông báo dẫn. Mục chỉ thuật lại chính lời thông báo (“phải có giấy phép sản xuất kinh doanh giống vật nuôi, gia cầm”), không dẫn riêng Luật Chăn nuôi.
 
-## 收益量级与证据等级
-- 第 24 条定 B：来源是官方典型案例和防范提示，能证明骗局的形状和后果，但没有「照做能少被骗多少」的数字。
-- 收益定「大」、口径「金钱」：单个被害人的损失按案例在万元级（广东案 7711 人被骗 5299.4 万余元，江苏案张女士 90 余万元），按金钱阈值落在「大」。
+## Mức lợi ích và cấp bằng chứng
+- Mục 24 xếp B: nguồn là các vụ điển hình và cảnh báo phòng ngừa chính thức, chứng minh được hình thức, hậu quả của lừa đảo, nhưng không có số liệu “làm theo thì giảm bị lừa bao nhiêu”.
+- Lợi ích “lớn”, thước đo “tiền bạc”: thiệt hại từng bị hại trong vụ án ở mức hàng vạn nhân dân tệ (vụ Quảng Đông 7711 người bị lừa hơn 5299.4 vạn; bà Trương trong vụ Giang Tô hơn 90 vạn), thuộc mức “lớn” theo ngưỡng tiền bạc.

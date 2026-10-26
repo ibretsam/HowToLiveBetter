@@ -1,17 +1,17 @@
-# issue #61 推理问题核实（2026-10-01）
+# Kiểm chứng vấn đề suy luận trong issue #61 (2026-10-01)
 
-读者提了 9 处，逐条看原文后的处理如下。
+Độc giả nêu 9 chỗ; sau khi đọc lần lượt nguyên văn, cách xử lý như sau.
 
-| issue 编号 | 条目 | 结论 | 改法 | 核对的原文 |
+| Số trong issue | Mục sách | Kết luận | Cách sửa | Nguyên văn đã đối chiếu |
 |---|---|---|---|---|
-| 1 | 第 1 节第 4 条（燃气软管） | 成立 | 证据等级 A 改 C，备注写明条例只说明义务、没有事故率数字 | 城镇燃气管理条例第二十七条（gov.cn 公报） |
-| 2 | 第 1 节第 8 条（查空腹血糖） | 成立 | 收益栏补 USPSTF 对亚裔的 BMI ≥23 和中国 WS/T 428-2013 的 24.0 超重线，说人话同步 | USPSTF 2021 推荐页「at a lower BMI (≥23) if the patient is Asian American」；卫健委《居民体重管理核心知识（2024 年版）释义》PDF 第 4 行 |
-| 3 | 第 19 节第 5 条（代通知金） | 成立 | 说人话和备注限缩到第四十条三种情形，列出第三十六、三十九、四十一、八十七条各自的结果；收益栏补实施条例第二十条「上一个月的工资标准」 | 劳动合同法（gov.cn 公报 2007）、劳动合同法实施条例第二十条（gov.cn 公报 2008） |
-| 4 | 第 19 节第 11 条（issue 写的是第 12 条，条号已顺延） | 成立 | 备注删「硬期限、过了就没得申请」，改为非本人原因耽误的时间不计入，加行政复议和诉讼 | 法释〔2014〕9 号第七条（court.gov.cn/fabu/xiangqing/6775.html）；工伤保险条例第五十五条。issue 提到的人社部发〔2016〕29 号第八条没取到原文，没引 |
-| 5 | 第 23 节第 2 条（教育年限） | 成立 | 收益=大 改小（每年 1.9%，读者面对的多读三四年加起来不到一成）；备注补反向因果 | Lancet Public Health 2024 摘要（Europe PMC），摘要里没有累积降幅，所以没写 |
-| 6 | 第 6 节第 10 条（保健品） | 部分成立 | 收益栏改为先写前 6 条随机试验没看出好处，再写标签规定只说明能宣称什么；没把前 6 条的数字抄过来（全书规矩只写一次） | — |
-| 7 | 第 7 节第 7 条（低保） | 成立 | 收益栏补差额发放和算例，说人话同步；分类施保上浮没查到原文，没写 | 社会救助暂行办法第十二条（gov.cn 公报 2019） |
-| 8 | 第 31 节第 4 条（学费补偿） | 成立，且还有一处 issue 没提的错 | 原文「两年就是最多四万或者五万」两处都错：每年是实际学费和上限取小，年数按修业年限不按服役年数。说人话改写，收益栏补算法和年限条文 | 学生资助资金管理办法（财科教〔2019〕19 号）入伍资助年限一段与第七条 |
-| 9 | 第 24 节第 2 条（报销比例） | 成立（表述有歧义） | 「多掏约一成」改成 1 万元从 80% 到 70% 的算例，写清多掏的是总费用的一成、比原来自付多一半 | 原文件只有「逐级拉开 10 个百分点」，算例是按这个数推的示意 |
+| 1 | Chương 1, mục 4 (ống mềm dẫn khí đốt) | Đúng | Đổi bằng chứng A thành C; ghi chú nêu rõ điều lệ chỉ quy định nghĩa vụ, không có số liệu tỷ lệ tai nạn | Điều 27, Điều lệ quản lý khí đốt đô thị (công báo gov.cn) |
+| 2 | Chương 1, mục 8 (xét nghiệm đường huyết lúc đói) | Đúng | Phần lợi ích bổ sung ngưỡng BMI ≥23 của USPSTF dành cho người châu Á và ngưỡng thừa cân 24.0 trong WS/T 428-2013 của Trung Quốc; cập nhật Nói dễ hiểu tương ứng | Trang khuyến nghị USPSTF 2021: “at a lower BMI (≥23) if the patient is Asian American”; dòng 4 trong PDF Giải thích kiến thức cốt lõi về quản lý cân nặng của người dân (bản 2024) của Ủy ban Y tế |
+| 3 | Chương 19, mục 5 (tiền thay cho báo trước) | Đúng | Giới hạn Nói dễ hiểu và ghi chú vào ba trường hợp tại Điều 40; liệt kê kết quả riêng của các Điều 36, 39, 41, 87; phần lợi ích thêm quy định “mức lương của tháng trước” tại Điều 20 của điều lệ thi hành | Luật Hợp đồng lao động (công báo gov.cn 2007), Điều 20 Điều lệ thi hành Luật Hợp đồng lao động (công báo gov.cn 2008) |
+| 4 | Chương 19, mục 11 (issue ghi mục 12, số mục đã được dịch chuyển) | Đúng | Bỏ câu “thời hạn cứng, quá hạn là hết quyền nộp đơn” trong ghi chú; đổi thành thời gian chậm trễ không do bản thân gây ra không tính vào thời hạn; thêm xem xét lại hành chính và khởi kiện | Điều 7, Pháp thích〔2014〕9 (court.gov.cn/fabu/xiangqing/6775.html); Điều 55 Điều lệ bảo hiểm tai nạn lao động. Không lấy được nguyên văn Điều 8, Nhân xã bộ phát〔2016〕29 được issue nêu nên không dẫn |
+| 5 | Chương 23, mục 2 (số năm đi học) | Đúng | Đổi lợi ích từ lớn thành nhỏ (mỗi năm 1.9%; học thêm ba, bốn năm như lựa chọn của độc giả thì cộng lại chưa tới một phần mười); ghi chú bổ sung khả năng nhân quả ngược | Tóm tắt Lancet Public Health 2024 (Europe PMC); tóm tắt không có mức giảm tích lũy nên không viết |
+| 6 | Chương 6, mục 10 (thực phẩm bổ sung) | Đúng một phần | Phần lợi ích viết trước rằng các thử nghiệm ngẫu nhiên ở 6 mục đầu không thấy lợi ích, rồi mới nói quy định ghi nhãn chỉ cho biết được phép tuyên bố điều gì; không chép số liệu của 6 mục đầu sang đây (quy tắc toàn sách là chỉ viết một lần) | — |
+| 7 | Chương 7, mục 7 (trợ cấp sinh hoạt tối thiểu) | Đúng | Phần lợi ích thêm cách chi trả phần chênh lệch và ví dụ tính; cập nhật Nói dễ hiểu tương ứng; chưa tìm được nguyên văn về tăng mức trợ cấp theo nhóm nên không viết | Điều 12 Biện pháp tạm thời về trợ giúp xã hội (công báo gov.cn 2019) |
+| 8 | Chương 31, mục 4 (bù học phí) | Đúng; còn một lỗi issue chưa nêu | Câu cũ “hai năm là tối đa bốn vạn hoặc năm vạn” sai ở hai điểm: mỗi năm lấy số nhỏ hơn giữa học phí thực tế và mức trần; số năm tính theo thời gian đào tạo chứ không theo thời gian phục vụ quân đội. Viết lại Nói dễ hiểu, thêm công thức và điều khoản thời hạn vào phần lợi ích | Đoạn về thời hạn hỗ trợ nhập ngũ và Điều 7 của Biện pháp quản lý kinh phí hỗ trợ học sinh, sinh viên (Tài khoa giáo〔2019〕19) |
+| 9 | Chương 24, mục 2 (tỷ lệ thanh toán bảo hiểm) | Đúng (diễn đạt mơ hồ) | Đổi “trả thêm khoảng một phần mười” thành ví dụ chi phí 1 vạn nhân dân tệ, tỷ lệ từ 80% xuống 70%; nói rõ khoản tăng bằng một phần mười tổng chi phí, bằng thêm một nửa khoản tự trả ban đầu | Văn bản gốc chỉ ghi “tạo chênh lệch 10 điểm phần trăm giữa các cấp”; ví dụ được suy ra để minh họa con số này |
 
-issue 开头的三类总体统计（196 条缺分母、142 条法规充当收益、80 条自承未核实）没有逐条复核。README 已写明「法律和政策类条目的 A 级，指的是引到了法条或官方文件原文」，金钱和自由口径的条目里法条本身就是收益，这一类不改；死亡率口径却只有法条的（如燃气那条），按第 1 条的办法降级。
+Chưa đối chiếu từng mục trong ba thống kê tổng quát ở đầu issue (196 mục thiếu mẫu số, 142 mục dùng quy định pháp luật thay cho lợi ích, 80 mục tự nhận chưa kiểm chứng). README đã nêu rõ “bằng chứng A của mục pháp luật và chính sách nghĩa là đã dẫn nguyên văn điều luật hoặc văn bản chính thức”. Với mục xét lợi ích tiền bạc và tự do, điều luật tự nó chính là lợi ích nên không sửa nhóm này. Với mục xét tỷ lệ tử vong mà chỉ có điều luật (như mục khí đốt), hạ mức bằng chứng theo cách xử lý ở hàng 1.

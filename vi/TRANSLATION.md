@@ -1,5 +1,13 @@
 # Thông tin về bản dịch tiếng Việt
 
+## Mở rộng sang toàn bộ Markdown trong fork
+
+Ngày **26/10/2026**, phạm vi được mở rộng từ nội dung sách sang các tệp Markdown còn lại: hướng dẫn cho người đóng góp, skill AI, danh sách dự án phái sinh, bảng đối chiếu tham chiếu và hồ sơ kiểm chứng. [Tình trạng từng tệp](MARKDOWN-STATUS.md) được ghi riêng; số 767 mục bên dưới chỉ đo nội dung sách, không đại diện cho tiến độ của các hồ sơ kỹ thuật.
+
+`README.md`, các chương trong `book/` và chín bài đọc trong `docs/` là nội dung tiếng Việt tại đường dẫn chính của fork. Chương và bài đọc được xuất từ bản dịch đã rà soát bằng `python3 tools/export-vi-markdown.py`; dùng `--check` để xác nhận không có đoạn bị sửa hoặc thiếu khi xuất. Nguyên bản tiếng Trung được đọc từ lịch sử Git tại `source_commit` trong `vi/site-config.json`, không phụ thuộc ngôn ngữ của tệp trong thư mục làm việc. Tên tệp, mã kỹ thuật, tên tài liệu và trích dẫn nguyên văn dùng để đối chiếu được giữ nguyên.
+
+Các bản lưu trong `vi/book/`, `vi/docs/`, `vi/README.md` và checkpoint cũ giữ nguyên để kiểm tra hồi quy. Công cụ và kiểm tra dành riêng cho văn bản tiếng Trung của upstream chạy trên kho gốc; workflow tiếng Việt kiểm tra nguồn ghim, hồ sơ dịch/duyệt và nội dung Markdown đã xuất.
+
 **Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 21/10/2026](TRANSLATION-PLAN.md).
 
 **Đợt 13 ngày 21/10/2026:** đồng bộ 17 commit upstream sau mốc của đợt 12. Dịch hai mục mới, cập nhật 65 mục cũ, năm lời dẫn, ba bài dài và hướng dẫn đọc; có 76 hồ sơ rà soát song ngữ độc lập mới. Kế thừa 735 phần có nguồn khớp hoàn toàn, giữ nguyên bản nháp và hồ sơ duyệt cũ. Toàn bộ **767/767 mục, 34/34 lời dẫn, 9/9 bài dài và hướng dẫn đọc** có bản dịch đã rà soát theo nguồn đích. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-e2605d3).
@@ -24,7 +32,9 @@ Nguồn, mức độ bằng chứng và chi phí trên nhãn của trang lấy t
 
 Hướng dẫn đọc là bản dịch hướng dẫn của dự án gốc: các liên kết tải PDF/EPUB/Anki/HTML, công cụ AI và cách tự triển khai mô tả bản tiếng Trung. Trang tiếng Việt có thông báo riêng để phân biệt; không coi việc dịch các hướng dẫn đó là đã tạo thêm bản tải tiếng Việt. Một số diễn giải thống kê, pháp luật và ngưỡng tuổi viết tắt của nguyên bản được ghi trong hồ sơ rà soát, không được coi là đã kiểm chứng chuyên môn.
 
-Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch](README.md) · [Xem bản gốc](../README.md).
+## Thông tin lịch sử của bản lưu 01/10/2026
+
+Đây là bản dịch tiếng Việt chưa chính thức của **《高性价比人生指南》 — Hướng dẫn sống tốt hơn với chi phí hợp lý**, do [eternity4719](https://github.com/eternity4719) biên soạn và duy trì. [Đọc bản dịch lưu trữ](README.md) · [Xem bản gốc tương ứng](https://github.com/eternity4719/HowToLiveBetter/blob/6f6d969abe19fd4aa8b30979d634f2a187be0a55/README.md).
 
 Bản dịch dựa trên nội dung ngày **01/10/2026**, tại phiên bản [`6f6d969abe19fd4aa8b30979d634f2a187be0a55`](https://github.com/eternity4719/HowToLiveBetter/tree/6f6d969abe19fd4aa8b30979d634f2a187be0a55). Phạm vi gồm phần hướng dẫn đọc và thuật ngữ trong README, toàn bộ 34 chương với 649 mục, cùng tám bài viết dài dành cho người đọc. Mã nguồn, hướng dẫn dành cho người đóng góp, kỹ năng AI và nhật ký kiểm chứng vẫn dùng bản gốc.
 

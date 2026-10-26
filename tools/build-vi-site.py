@@ -105,8 +105,9 @@ def build():
     chapter_paths = sorted(set(re.findall(r"\]\((book/[^)#]+\.md)\)", readme)))
     assert chapter_paths, "No source chapters discovered"
     for source in chapter_paths:
-        current_text = (ROOT / source).read_text()
-        assert current_text == git_text(config["source_commit"], source), f"Source revision mismatch: {source}"
+        # The fork's working Markdown is Vietnamese. Parse immutable upstream
+        # text from the pinned revision; review hashes still bind every draft.
+        current_text = git_text(config["source_commit"], source)
         current = parse(current_text)
         sec = int(Path(source).name[:2])
         record = records.get(source)
@@ -164,8 +165,7 @@ def build():
     doc_paths = list(dict.fromkeys(re.findall(r"\]\((docs/[^)#/]+\.md)\)", readme)))
     for source in doc_paths:
         slug, title = DOCS.get(Path(source).stem, (Path(source).stem, Path(source).stem))
-        original = (ROOT / source).read_text()
-        assert original == git_text(config["source_commit"], source)
+        original = git_text(config["source_commit"], source)
         record = records.get(source)
         target = record.get("target", record.get("translation")) if record else None
         translation = (ROOT / target).read_text() if target and (ROOT / target).exists() else None
@@ -232,6 +232,9 @@ def build():
     (OUT / "README.md").write_text(readme)
     for file in ("vi/README.md", "vi/TRANSLATION.md", "vi/TRANSLATION-PLAN.md"):
         shutil.copy2(ROOT / file, OUT / file)
+    for file in ("vi/MARKDOWN-STATUS.md", "vi/markdown-localization.json"):
+        if (ROOT / file).exists():
+            shutil.copy2(ROOT / file, OUT / file)
     report = {"source_commit": config["source_commit"], "translation_base_commit": base,
               "checkpoint": str(vi_updates.CP.relative_to(ROOT)),
               "inherited_reviews_for_identical_source": sum(
