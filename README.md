@@ -1,7 +1,7 @@
 > **Bản tiếng Việt chưa chính thức**, do [ibretsam](https://github.com/ibretsam/HowToLiveBetter) duy trì, chuyển ngữ từ tác phẩm của [eternity4719](https://github.com/eternity4719/HowToLiveBetter).
 > [Đọc bản tiếng Việt](https://ibretsam.github.io/HowToLiveBetter/) · [Thông tin bản dịch](vi/TRANSLATION.md) · [Đối chiếu README tiếng Trung](https://github.com/eternity4719/HowToLiveBetter/blob/e2605d3e2242bd6216c9255192b8a8957a08c55a/README.md).
 > Bản nháp do AI dịch, đã được rà soát theo nguồn ngày **21/10/2026**. Nội dung pháp luật, trợ cấp và số điện thoại theo bối cảnh Trung Quốc đại lục; tiền tính bằng nhân dân tệ trừ khi ghi rõ đơn vị khác.
-> Các chương và bài đọc chính trong `book/`, `docs/` có bản Markdown tiếng Việt. [Xem tiến độ dịch toàn bộ tài liệu và hồ sơ kiểm chứng](vi/MARKDOWN-STATUS.md); tệp chưa hoàn tất được liệt kê riêng.
+> Đã hoàn tất **337/337 tệp Markdown** trong danh sách kiểm kê, gồm các chương, bài đọc, tài liệu hướng dẫn và **239 hồ sơ kiểm chứng**. [Xem báo cáo hoàn thành và phạm vi bản dịch](vi/MARKDOWN-STATUS.md). Tên tệp, mã kỹ thuật và trích dẫn dùng để đối chiếu có thể giữ ngôn ngữ gốc.
 
 <div align="center">
 

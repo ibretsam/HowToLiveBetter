@@ -99,6 +99,9 @@ assert applied_updates == set(updates)
 assert meta["reviewed_supplementary"] == sum(not ident.startswith("e-") for ident in applied_updates)
 html = (builder.OUT / "index.html").read_text()
 assert 'lang="vi"' in html and "__SITE_URL__" not in html
+assert "__SOURCE_README_URL__" not in html
+assert guide["sourceUrl"] in html
+assert (builder.OUT / "README.md").read_bytes() == (ROOT / "README.md").read_bytes()
 assert "Chưa hoàn tất bản dịch" in html and "Bản dịch chưa cập nhật" in html
 assert (builder.OUT / "vendor/marked.js").exists()
 assert (builder.OUT / ".nojekyll").exists()

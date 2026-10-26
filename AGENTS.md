@@ -9,4 +9,4 @@ Kho này chứa nội dung của **Hướng dẫn sống tốt hơn với chi ph
 
 Nguồn tiếng Trung được ghim bằng `source_commit` trong `vi/site-config.json` và đọc từ lịch sử Git. Các tệp `book/` và chín bài đọc chính trong `docs/` là bản xuất tiếng Việt từ dữ liệu đã rà soát. Dùng `python3 tools/export-vi-markdown.py` để xuất lại, hoặc thêm `--check` để kiểm tra. Không ghi đè bản lưu trong `vi/book/`, `vi/docs/`, `vi/README.md` hay sửa dấu kiểm của checkpoint nhằm vượt qua xác thực.
 
-Các công cụ phân tích tiếng Trung của upstream cần chạy trên bản nguồn tiếng Trung tại commit đã ghim. Kiểm tra bản fork bằng `tools/check-vi.py`, `tools/check-vi-updates.py`, `tools/check-vi-site.py` và `tools/export-vi-markdown.py --check`.
+Các công cụ phân tích tiếng Trung của upstream cần chạy trên bản nguồn tiếng Trung tại commit đã ghim. Kiểm tra bản fork bằng `tools/check-vi.py`, `tools/check-vi-updates.py`, `tools/check-vi-site.py`, `tools/export-vi-markdown.py --check` và `tools/check-vi-markdown.py`.

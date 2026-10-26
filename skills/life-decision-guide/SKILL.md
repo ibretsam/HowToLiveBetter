@@ -79,13 +79,13 @@ Chú thích HTML là nhãn chi phí cho máy đọc, giữ nguyên mã của ngu
 
 Dùng thuật toán của sách, không phân loại theo cảm giác:
 
-1. Thuật toán phân mức lấy từ `index.html` của bản nguồn, không viết lại theo trí nhớ. Đọc trực tiếp hai dòng:
+1. Thuật toán phân mức lấy từ `index.html` của bản nguồn, không viết lại theo trí nhớ. Đọc trực tiếp trọng số và toàn bộ biểu thức phân mức:
 
    ```bash
-   rg -n 'COST_W = |e\.ratio = ' index.html
+   rg -n -A1 'COST_W = |e\.ratio = ' index.html
    ```
 
-   Dòng trước là trọng số mỗi mức trong ba loại chi phí; điểm chi phí bằng tiền + thời gian + nỗ lực. Dòng sau ghép mức lợi ích và điểm chi phí thành “rất cao / cao / thông thường”. Trang tiếng Việt không có bộ lọc này; chỉ dùng thuật toán khi thực sự đã đọc mã nguồn gốc.
+   `COST_W` là trọng số mỗi mức trong ba loại chi phí; điểm chi phí bằng tiền + thời gian + nỗ lực. Biểu thức `e.ratio` gồm cả dòng tiếp theo, ghép mức lợi ích và điểm chi phí thành “rất cao / cao / thông thường”. Trang tiếng Việt không có bộ lọc này; chỉ dùng thuật toán khi thực sự đã đọc mã nguồn gốc.
 2. Nếu chỉ tải từng tệp nội dung bằng curl, không có `index.html`, đừng nêu mức lợi ích/chi phí. Thay vào đó liệt kê đúng mức lợi ích và ba nhãn chi phí để người dùng tự cân nhắc.
 3. Trước hết sắp theo mức lợi ích/chi phí; cùng mức thì theo bằng chứng A > B > C, rồi theo độ phù hợp với hoàn cảnh người dùng.
 4. **Không xếp hạng chéo giữa các loại lợi ích**. Những mục đổi lấy tiền và những mục đổi lấy tuổi thọ được liệt kê riêng, mỗi nhóm có thứ tự riêng.

@@ -216,20 +216,23 @@ def build():
     shutil.copy2(marked, OUT / "vendor/marked.js")
     shutil.copy2(ROOT / "tools/epub/node_modules/marked/LICENSE", OUT / "vendor/marked-LICENSE")
     site_url = f"https://{config['repository'].split('/')[0]}.github.io/{config['repository'].split('/')[1]}/"
-    (OUT / "index.html").write_text(html.replace("__SITE_URL__", site_url))
+    html = html.replace("__SITE_URL__", site_url).replace(
+        "__SOURCE_README_URL__", source_url(config, "README.md"))
+    (OUT / "index.html").write_text(html)
     (OUT / ".nojekyll").write_text("")
-    (OUT / "404.html").write_text(html.replace("__SITE_URL__", site_url))
+    (OUT / "404.html").write_text(html)
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {site_url}sitemap.xml\n")
     (OUT / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>{site_url}</loc></url></urlset>\n')
     shutil.copy2(ROOT / "LICENSE", OUT / "LICENSE")
     # Source files, including reader articles and verification notes, remain
     # available as downloads; the UI reads full content from data.json.
-    for directory in ("book", "docs", "vi/book", "vi/docs"):
+    for directory in ("book", "docs", "skills", "ads", "vi/book", "vi/docs"):
         shutil.copytree(ROOT / directory, OUT / directory, dirs_exist_ok=True)
-    # Keep the reader's original-source download Chinese even though the fork's
-    # GitHub landing README is Vietnamese.
-    (OUT / "README.md").write_text(readme)
+    # Chapter downloads link back to the fork's Vietnamese table of contents.
+    # The reader links to the pinned upstream README for the Chinese original.
+    for file in ("README.md", "AGENTS.md", "CLAUDE.md", "衍生项目.md", "og.png", "LICENSE-CODE"):
+        shutil.copy2(ROOT / file, OUT / file)
     for file in ("vi/README.md", "vi/TRANSLATION.md", "vi/TRANSLATION-PLAN.md"):
         shutil.copy2(ROOT / file, OUT / file)
     for file in ("vi/MARKDOWN-STATUS.md", "vi/markdown-localization.json"):

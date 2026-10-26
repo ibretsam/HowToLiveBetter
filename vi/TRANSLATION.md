@@ -2,13 +2,13 @@
 
 ## Mở rộng sang toàn bộ Markdown trong fork
 
-Ngày **26/10/2026**, phạm vi được mở rộng từ nội dung sách sang các tệp Markdown còn lại: hướng dẫn cho người đóng góp, skill AI, danh sách dự án phái sinh, bảng đối chiếu tham chiếu và hồ sơ kiểm chứng. [Tình trạng từng tệp](MARKDOWN-STATUS.md) được ghi riêng; số 767 mục bên dưới chỉ đo nội dung sách, không đại diện cho tiến độ của các hồ sơ kỹ thuật.
+Ngày **26/10/2026**, đã hoàn tất **337/337 tệp Markdown** trong danh sách kiểm kê của fork: nội dung sách, hướng dẫn cho người đóng góp, skill AI, danh sách dự án phái sinh, bảng đối chiếu tham chiếu và **239/239 hồ sơ kiểm chứng**. Không còn tệp chờ dịch trong phạm vi này. [Tình trạng từng tệp](MARKDOWN-STATUS.md) được ghi riêng; số 767 mục bên dưới chỉ đo nội dung sách. Tài liệu mới được AI dịch và tự rà soát, chưa được biên dịch viên chuyên nghiệp duyệt.
 
 `README.md`, các chương trong `book/` và chín bài đọc trong `docs/` là nội dung tiếng Việt tại đường dẫn chính của fork. Chương và bài đọc được xuất từ bản dịch đã rà soát bằng `python3 tools/export-vi-markdown.py`; dùng `--check` để xác nhận không có đoạn bị sửa hoặc thiếu khi xuất. Nguyên bản tiếng Trung được đọc từ lịch sử Git tại `source_commit` trong `vi/site-config.json`, không phụ thuộc ngôn ngữ của tệp trong thư mục làm việc. Tên tệp, mã kỹ thuật, tên tài liệu và trích dẫn nguyên văn dùng để đối chiếu được giữ nguyên.
 
 Các bản lưu trong `vi/book/`, `vi/docs/`, `vi/README.md` và checkpoint cũ giữ nguyên để kiểm tra hồi quy. Công cụ và kiểm tra dành riêng cho văn bản tiếng Trung của upstream chạy trên kho gốc; workflow tiếng Việt kiểm tra nguồn ghim, hồ sơ dịch/duyệt và nội dung Markdown đã xuất.
 
-**Tiến độ và lịch dự kiến:** [Kế hoạch hoàn thành bản dịch — cập nhật 21/10/2026](TRANSLATION-PLAN.md).
+**Tiến độ và lịch sử các đợt dịch:** [Kế hoạch hoàn thành bản dịch — cập nhật 26/10/2026](TRANSLATION-PLAN.md).
 
 **Đợt 13 ngày 21/10/2026:** đồng bộ 17 commit upstream sau mốc của đợt 12. Dịch hai mục mới, cập nhật 65 mục cũ, năm lời dẫn, ba bài dài và hướng dẫn đọc; có 76 hồ sơ rà soát song ngữ độc lập mới. Kế thừa 735 phần có nguồn khớp hoàn toàn, giữ nguyên bản nháp và hồ sơ duyệt cũ. Toàn bộ **767/767 mục, 34/34 lời dẫn, 9/9 bài dài và hướng dẫn đọc** có bản dịch đã rà soát theo nguồn đích. [Checkpoint và quy trình tiếp tục](https://github.com/ibretsam/HowToLiveBetter/tree/main/translation-checkpoint/vi-e2605d3).
 

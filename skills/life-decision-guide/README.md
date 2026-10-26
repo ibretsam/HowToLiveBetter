@@ -44,4 +44,4 @@ Nguồn tiếng Trung mô tả dung lượng nội dung khoảng 1.3 MB và thao
 
 ## Khi chỉnh sửa skill
 
-Không chép vào SKILL.md danh sách hay số liệu sẽ thay đổi theo nội dung sách. Danh sách chương tra bảng “Những câu hỏi cuốn sách muốn trả lời” trong README; tên tệp chương hiện có xem trong `book/`. Thuật toán phân mức lợi ích/chi phí của bản gốc nằm ở hai dòng `COST_W` và `e.ratio` trong `index.html` của nguồn tiếng Trung. Khi thêm/bớt chương hoặc đổi thuật toán, không cần duy trì một bản sao trong thư mục này.
+Không chép vào SKILL.md danh sách hay số liệu sẽ thay đổi theo nội dung sách. Danh sách chương tra bảng “Những câu hỏi cuốn sách muốn trả lời” trong README; tên tệp chương hiện có xem trong `book/`. Thuật toán phân mức lợi ích/chi phí của bản gốc nằm ở hai phần định nghĩa `COST_W` và `e.ratio` trong `index.html` của nguồn tiếng Trung. Khi thêm/bớt chương hoặc đổi thuật toán, không cần duy trì một bản sao trong thư mục này.

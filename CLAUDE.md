@@ -1,8 +1,8 @@
 # Hướng dẫn sống tốt hơn với chi phí hợp lý · Quy tắc dự án
 
-> Bản tiếng Việt của quy tắc dự án gốc. Các quy tắc và ví dụ kỹ thuật bên dưới mô tả công cụ xử lý nội dung tiếng Trung của upstream; bản dựng tiếng Việt trong fork này đọc nguồn đã ghim trong Git để đối chiếu. Tên tệp, mã lệnh, nhãn dữ liệu và trích dẫn cần kiểm chứng được giữ nguyên.
+> Bản tiếng Việt của quy tắc dự án gốc. Các quy tắc và ví dụ kỹ thuật bên dưới mô tả công cụ xử lý nội dung tiếng Trung của upstream. Riêng các quy tắc yêu cầu dùng tiếng Trung và không tiếp nhận bản dịch mô tả chính sách của upstream, không áp dụng cho công việc dịch trong fork ibretsam: theo yêu cầu của chủ fork, nội dung tại đây được duy trì, rà soát và xuất bản bằng tiếng Việt. Bản dựng tiếng Việt đọc nguồn đã ghim trong Git để đối chiếu. Tên tệp, mã lệnh, nhãn dữ liệu và trích dẫn cần kiểm chứng được giữ nguyên.
 
-Các quy tắc dưới đây áp dụng cho mọi công việc trong kho mã này và phải được tuân thủ.
+Các quy tắc dưới đây áp dụng cho mọi công việc trong kho mã này và phải được tuân thủ, với ngoại lệ về bản dịch tiếng Việt đã nêu ở trên.
 
 ## Định hướng dự án
 - Đây là cuốn hướng dẫn cuộc sống tính toán theo “lợi ích so với chi phí”. Tham khảo phong cách định lượng của geekan/HowToLiveLonger, nhưng phạm vi rộng hơn: không chỉ tối ưu tuổi thọ mà cả bốn nguồn lực — tuổi thọ, thời gian và sức lực, tiền bạc, tự do thân thể; không chỉ bàn sống sót mà còn tiền, pháp luật, công việc, gia đình và nuôi con.
@@ -31,7 +31,7 @@ Các quy tắc dưới đây áp dụng cho mọi công việc trong kho mã nà
 - Các vụ việc Trung Quốc trong bài báo học thuật, văn bản tòa án nước ngoài và báo cáo cơ quan Liên Hợp Quốc vốn là tài liệu gốc, có thể dẫn trực tiếp. Báo cáo của tổ chức nhân quyền, hiệp hội ngành nghề và cơ quan có lập trường rõ rệt được xử lý như tin báo chí dưới đây.
 - **Có thể nhận tin báo chí gốc, nhưng chỉ khi đủ cả năm điều kiện** (người dùng quyết định ngày 2026-10-05 vì “một số chuyện nhạy cảm cơ quan chính thức không đăng”; chỉ nhận nguồn chính thức sẽ khiến sách không thể hiện được các rủi ro ấy):
   1. Chỉ nhận bài gốc: điều tra nguyên bản hoặc tường thuật tại hiện trường có tên phóng viên, từ cơ quan báo chí có tư cách tác nghiệp hoặc báo chí chính thống ở nước ngoài. Vẫn cấm bài đăng lại, tổng hợp và truyền thông cá nhân.
-  2. Chỉ dùng để chứng minh “đã xảy ra loại chuyện này”: không lấy số liệu từ bài báo, không dùng làm căn cứ xác định độ lớn lợi ích, không nâng mức bằng chứng vì nó. Giải thích pháp luật, nguyên văn chính sách, số vụ án và nội dung có nguồn chính thức vẫn chỉ nhận nguyên văn chính thức, không nhận báo chí thuật lại.
+  2. Chỉ dùng để chứng minh “đã xảy ra loại chuyện này”: không lấy số liệu từ bài báo, không dùng làm căn cứ xác định độ lớn lợi ích, không nâng mức bằng chứng vì nó. Giải thích pháp luật, nguyên văn chính sách, số hiệu vụ án và nội dung có nguồn chính thức vẫn chỉ nhận nguyên văn chính thức, không nhận báo chí thuật lại.
   3. Trường nguồn ghi liên kết gốc, ngay sau đó là liên kết lưu trữ web.archive.org; tạo bản lưu đúng ngày viết mục.
   4. Ghi chú nêu tính chất nguồn, ví dụ “vụ này chỉ có báo chí đưa tin, chưa có bản án hoặc thông báo chính thức”.
   5. Không viết họ tên đầy đủ của cá nhân chưa bị phán quyết; có thể viết tên cơ quan liên quan.
